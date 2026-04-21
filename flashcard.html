@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ORL Daily — Flash Card</title>
+  <link rel="stylesheet" href="./css/style.css" />
+  <style>
+    body { background: #f4f6f8; display: flex; flex-direction: column; align-items: center; justify-content: flex-start; min-height: 100vh; padding: 2rem 1rem; }
+    .fc-standalone-controls { display: flex; gap: 0.6rem; margin-bottom: 1rem; }
+    .fc-standalone-box { max-width: 560px; width: 100%; background: #fff; border-radius: 16px; box-shadow: 0 8px 32px rgba(0,0,0,0.15); overflow: hidden; }
+    @media print {
+      body { padding: 0; background: #fff; }
+      .fc-standalone-controls { display: none; }
+      .fc-standalone-box { box-shadow: none; border-radius: 0; }
+    }
+  </style>
+</head>
+<body class="lang-ar">
+
+  <div class="fc-standalone-controls">
+    <button class="btn btn-read" onclick="window.print()">🖨️ طباعة</button>
+    <a class="btn btn-flash" href="./index.html">← العودة</a>
+  </div>
+
+  <div class="fc-standalone-box" id="fc-standalone-box">
+    <div class="state-card">
+      <div class="spinner"></div>
+      <p>جارٍ التحميل…</p>
+    </div>
+  </div>
+
+  <script>
+    // Read ?pmid=XXXXX&date=YYYY-MM-DD from URL
+    (async function() {
+      const params = new URLSearchParams(location.search);
+      const pmid   = params.get('pmid');
+      const date   = params.get('date');
+
+      if (!pmid || !date) {
+        document.getElementById('fc-standalone-box').innerHTML =
+          '<div class="state-card"><p>لم يُحدد PMID أو تاريخ.</p></div>';
+        return;
+      }
+
+      try {
+        const res  = await fetch(`./data/${date}.json?v=${Date.now()}`);
+        const data = await res.json();
+        const article = (data.articles || []).find(a => a.pmid === pmid);
+
+        if (!article) {
+          document.getElementById('fc-standalone-box').innerHTML =
+            '<div class="state-card"><p>المقالة غير موجودة في هذا التاريخ.</p></div>';
+          return;
+        }
+
+        // Minimal flash card render (mirrors app.js logic without full app)
+        renderCard(article, date);
+      } catch (err) {
+        document.getElementById('fc-standalone-box').innerHTML =
+          '<div class="state-card"><p style="color:#c0392b;">⚠️ تعذّر التحميل.</p></div>';
+      }
+    })();
+
+    function renderCard(a, dateStr) {
+      const lang  = localStorage.getItem('orl-lang') || 'ar';
+      const title = lang === 'ar' ? (a.title_ar || a.title_en) : (a.title_en || a.title_ar);
+      const summ  = lang === 'ar' ? (a.summary_ar || a.summary_en) : (a.summary_en || a.summary_ar);
+      const prac  = lang === 'ar' ? (a.practice_change_ar || '') : (a.practice_change_en || '');
+      const fut   = lang === 'ar' ? (a.future_impact_ar || '') : (a.future_impact_en || '');
+      const vs    = lang === 'ar' ? (a.vs_previous_ar || '') : (a.vs_previous_en || '');
+      const stars = '⭐'.repeat(Math.min(5, a.stars || 0));
+      const jcBadge = a.journal_club ? '<span class="badge jc" style="font-size:0.7rem;">🎯 JC</span>' : '';
+      const mcq0  = a.mcq && a.mcq[0];
+
+      const mcqHtml = mcq0 ? `
+        <div class="fc-section">
+          <div class="fc-section-label">MCQ</div>
+          <div class="fc-mcq-q">${esc(mcq0.q_ar || '')}</div>
+          <div class="fc-mcq-opts">${(mcq0.options_ar||[]).map(o=>`<div>${esc(o)}</div>`).join('')}</div>
+        </div>` : '';
+
+      const d = new Date(dateStr + 'T00:00:00');
+      const formatted = d.toLocaleDateString(lang === 'ar' ? 'ar-SA' : 'en-GB', {year:'numeric',month:'short',day:'numeric'});
+
+      document.getElementById('fc-standalone-box').innerHTML = `
+        <div class="flash-card-print">
+          <div class="fc-top-bar">
+            <span>ORL Daily &bull; ${esc(formatted)} &bull; ${esc(a.subspecialty||'')}</span>
+            <div class="fc-top-badges"><span style="color:#f1c40f;">${stars}</span> ${jcBadge}</div>
+          </div>
+          <div class="fc-body">
+            <div class="fc-section">
+              <div class="fc-title">${esc(title)}</div>
+              <div class="fc-journal">${esc(a.journal||'')}</div>
+            </div>
+            <div class="fc-section">
+              <div class="fc-section-label">${lang==='ar'?'الملخص':'Summary'}</div>
+              <div style="font-size:0.86rem;line-height:1.6;">${esc(trunc(summ,300))}</div>
+            </div>
+            <div class="fc-section">
+              <div style="font-size:0.82rem;margin-bottom:0.2rem;"><strong>🔄</strong> ${esc(trunc(prac,180))}</div>
+              <div style="font-size:0.82rem;margin-bottom:0.2rem;"><strong>⏳</strong> ${esc(trunc(fut,140))}</div>
+              <div style="font-size:0.82rem;"><strong>📏</strong> ${esc(trunc(vs,140))}</div>
+            </div>
+            ${mcqHtml}
+            <div class="fc-footer">
+              <div><div style="font-weight:700;font-size:0.8rem;">ORL Daily</div><div>© 2026 Mohammad Al-Bar</div></div>
+              <div class="fc-qr-placeholder">QR<br>Code</div>
+            </div>
+          </div>
+        </div>`;
+    }
+
+    function esc(s) {
+      return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    }
+    function trunc(s,n) { return s&&s.length>n ? s.slice(0,n)+'…' : s||''; }
+  </script>
+</body>
+</html>

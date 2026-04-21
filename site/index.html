@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="ORL Daily — أحدث أدبيات ENT يومياً بالعربية والإنجليزية. Daily ENT literature review powered by PubMed & Claude AI.">
+  <meta name="theme-color" content="#1a56db">
+  <title>ORL Daily — أدبيات ENT اليومية</title>
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="ORL Daily — أحدث أدبيات ENT">
+  <meta property="og:description" content="مراجعة يومية للأدبيات العلمية في تخصص ORL بالعربية والإنجليزية">
+  <meta property="og:type" content="website">
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- ══════════════════════════════════════════
+       HEADER
+  ══════════════════════════════════════════ -->
+  <header class="header" role="banner">
+    <a class="header__logo" href="#" aria-label="ORL Daily Home">
+      <div class="header__logo-icon" aria-hidden="true">OR</div>
+      <div>
+        <span class="header__logo-text">ORL Daily</span>
+        <span class="header__logo-sub ar">أدبيات ENT اليومية</span>
+        <span class="header__logo-sub en">Daily ENT Literature</span>
+      </div>
+    </a>
+
+    <div class="header__spacer"></div>
+
+    <span class="header__date" id="header-date" aria-live="polite">
+      <span class="ar">جارٍ التحميل…</span>
+      <span class="en">Loading…</span>
+    </span>
+
+    <button class="btn-lang" id="btn-lang" aria-label="Switch language">EN</button>
+  </header>
+
+  <!-- ══════════════════════════════════════════
+       FILTER BAR
+  ══════════════════════════════════════════ -->
+  <nav class="filter-bar" role="navigation" aria-label="Filter by subspecialty">
+    <button class="filter-btn active" data-filter="all">
+      <span class="ar">الكل</span><span class="en">All</span>
+    </button>
+    <button class="filter-btn" data-filter="rhinology" data-sub="rhinology">
+      <span class="ar">Rhinology</span><span class="en">Rhinology</span>
+    </button>
+    <button class="filter-btn" data-filter="laryngology" data-sub="laryngology">
+      <span class="ar">Laryngology</span><span class="en">Laryngology</span>
+    </button>
+    <button class="filter-btn" data-filter="otology" data-sub="otology">
+      <span class="ar">Otology</span><span class="en">Otology</span>
+    </button>
+    <button class="filter-btn" data-filter="head_neck" data-sub="head_neck">
+      <span class="ar">Head &amp; Neck</span><span class="en">Head &amp; Neck</span>
+    </button>
+    <button class="filter-btn" data-filter="pediatric" data-sub="pediatric">
+      <span class="ar">Pediatric</span><span class="en">Pediatric</span>
+    </button>
+    <button class="filter-btn" data-filter="sleep" data-sub="sleep">
+      <span class="ar">Sleep</span><span class="en">Sleep</span>
+    </button>
+    <button class="filter-btn" data-filter="general" data-sub="general">
+      <span class="ar">General</span><span class="en">General</span>
+    </button>
+  </nav>
+
+  <!-- ══════════════════════════════════════════
+       MAIN CONTENT
+  ══════════════════════════════════════════ -->
+  <main role="main">
+
+    <!-- Toolbar: search + date nav -->
+    <div class="toolbar">
+      <div class="search-wrap">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+        </svg>
+        <input
+          type="search"
+          id="search-input"
+          class="search-input"
+          placeholder="ابحث في المقالات… / Search articles…"
+          aria-label="Search articles"
+          autocomplete="off"
+        >
+      </div>
+
+      <div class="date-nav" role="group" aria-label="Navigate dates">
+        <button id="btn-prev" aria-label="Previous day" title="السابق / Previous">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+            <polyline points="15 18 9 12 15 6"/>
+          </svg>
+        </button>
+        <span class="date-nav__label" id="date-display" aria-live="polite">
+          <span class="ar">اليوم</span>
+          <span class="en">Today</span>
+        </span>
+        <button id="btn-next" aria-label="Next day" title="التالي / Next">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+            <polyline points="9 18 15 12 9 6"/>
+          </svg>
+        </button>
+      </div>
+    </div>
+
+    <!-- Articles section -->
+    <section class="articles-section" aria-label="Articles">
+      <p class="articles-count" id="articles-count" aria-live="polite"></p>
+      <div class="articles-grid" id="articles-grid" role="list">
+        <!-- Cards rendered by app.js -->
+        <div class="state-box">
+          <div class="spinner"></div>
+          <p class="ar">جارٍ التحميل…</p>
+          <p class="en">Loading…</p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ══════════════════════════════════════════
+       MODAL OVERLAY
+  ══════════════════════════════════════════ -->
+  <div
+    class="modal-overlay"
+    id="modal-overlay"
+    role="dialog"
+    aria-modal="true"
+    aria-label="Article details"
+  >
+    <div class="modal" id="modal-content">
+      <!-- Filled by app.js renderFullArticle() -->
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════════════
+       FLASH CARD OVERLAY
+  ══════════════════════════════════════════ -->
+  <div
+    class="fc-overlay"
+    id="fc-overlay"
+    role="dialog"
+    aria-modal="true"
+    aria-label="Flash card"
+  >
+    <div class="fc-card">
+      <div class="fc-card__header">
+        <h2 class="fc-card__title">
+          <span class="ar">📋 بطاقة المراجعة السريعة</span>
+          <span class="en">📋 Quick Review Card</span>
+        </h2>
+        <div class="fc-card__actions">
+          <button class="btn-outline" id="fc-print">
+            <span class="ar">🖨 طباعة</span>
+            <span class="en">🖨 Print</span>
+          </button>
+          <button class="btn-outline" id="fc-close">
+            <span class="ar">إغلاق</span>
+            <span class="en">Close</span>
+          </button>
+        </div>
+      </div>
+      <div class="fc-content" id="fc-card-content">
+        <!-- Filled by app.js showFlashCard() -->
+      </div>
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════════════
+       FOOTER
+  ══════════════════════════════════════════ -->
+  <footer class="footer" role="contentinfo">
+    <p>
+      <span class="ar">
+        <strong>ORL Daily</strong> — مبادرة من د. محمد البار لنشر أدبيات ENT يومياً بالعربية
+      </span>
+      <span class="en">
+        <strong>ORL Daily</strong> — An initiative by Dr. Mohammad Al-Bar for daily Arabic ENT literature
+      </span>
+    </p>
+    <p style="margin-top:.4rem">
+      <a href="https://github.com/malbarrr/orl-daily" target="_blank" rel="noopener">GitHub</a>
+      &nbsp;·&nbsp;
+      MIT License
+      &nbsp;·&nbsp;
+      © 2026 Mohammad Al-Bar
+    </p>
+    <p style="margin-top:.3rem;font-size:.72rem;opacity:.75">
+      <span class="ar">البيانات من PubMed · التحليل بواسطة Claude AI · لأغراض تعليمية فقط</span>
+      <span class="en">Data from PubMed · Analysis by Claude AI · For educational purposes only</span>
+    </p>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

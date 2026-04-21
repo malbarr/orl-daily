@@ -1,0 +1,134 @@
+{
+  "date": "2026-04-21",
+  "generated_at": "2026-04-21T05:00:00Z",
+  "articles": [
+    {
+      "pmid": "42011838",
+      "title_ar": "تحليل تلوي حول أضرار الكورتيكوستيرويدات الجهازية في أمراض مجرى الهواء العلوي الالتهابية والربو: فريق عمل EAACI",
+      "title_en": "Meta-Analysis on the Harm of Systemic Glucocorticosteroids in Inflammatory Upper Airway Disease and Asthma: An EAACI Task Force",
+      "journal": "Allergy",
+      "pub_date": "2026-04-20",
+      "doi": "10.1111/all.16547",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42011838/",
+      "pdf_url": null,
+      "summary_ar": "أجرى فريق عمل الأكاديمية الأوروبية للحساسية والمناعة السريرية (EAACI) تحليلاً تلوياً شاملاً يضم عشرات الدراسات لتقييم الأضرار طويلة المدى للكورتيكوستيرويدات الجهازية في مرضى التهاب مجرى الهواء العلوي والربو. وجد التحليل أن الجرعات التراكمية التي تتراوح بين 500 ملغ و1 غرام من مكافئ البريدنيزولون ترفع بشكل معنوي خطر معظم الآثار الجانبية السلبية. كما وجد الباحثون أن الخطر يزداد تصاعدياً مع زيادة الجرعة التراكمية حتى عند استخدام دورات قصيرة متكررة. وشملت الآثار الجانبية الموثقة: هشاشة العظام، داء السكري، المياه البيضاء، ارتفاع ضغط الدم، وزيادة الوزن. الدراسة تضع حداً واضحاً للجرعة التراكمية يجب على الأطباء مراعاته عند الإدارة المزمنة.",
+      "summary_en": "The EAACI Task Force conducted a comprehensive meta-analysis assessing long-term harm of systemic glucocorticosteroids in patients with inflammatory upper airway disease and asthma. Cumulative dosages between 500 mg and 1 g prednisolone-equivalent significantly increase the risk of most adverse effects. The risk increases incrementally with cumulative dose even with repeated short courses. Documented adverse effects include osteoporosis, diabetes mellitus, cataracts, hypertension, and weight gain. The study establishes a clear cumulative dose threshold that clinicians should respect when prescribing chronically.",
+      "practice_change_ar": "يجب على أطباء ORL تتبع الجرعة التراكمية من الكورتيكوستيرويدات الجهازية لكل مريض وتجنب تجاوز 500 ملغ من مكافئ البريدنيزولون سنوياً قدر الإمكان. عند الحاجة لدورات متكررة، يُفضل التحويل المبكر إلى العلاج البيولوجي أو الجراحة في حالات الكيس الأنفي والتهاب الجيوب المزمن.",
+      "practice_change_en": "ORL physicians should track cumulative systemic corticosteroid doses per patient and aim to avoid exceeding 500 mg prednisolone-equivalent annually. When repeated courses are needed, early transition to biologic therapy or surgery should be considered for nasal polyps and chronic sinusitis.",
+      "future_impact_ar": "من المتوقع أن تُسرّع هذه النتائج اعتماد العلاجات البيولوجية كخيار أول في أمراض مجرى الهواء العلوي المزمنة المعتمدة على الستيرويدات. قد تؤدي إلى إعادة صياغة المبادئ التوجيهية الدولية لتحديد حد جرعة تراكمية رسمي.",
+      "future_impact_en": "These findings are expected to accelerate adoption of biologics as first-line therapy in steroid-dependent chronic upper airway diseases. International guidelines may be revised to formally define cumulative dose thresholds.",
+      "why_important_ar": "يستخدم أطباء ORL الكورتيكوستيرويدات الجهازية بشكل متكرر في الكيس الأنفي والتهاب الجيوب المزمن والتهاب الحنجرة. هذه الدراسة تُحدد بدقة عتبة الخطر التراكمي وتوفر دليلاً على أن 'الدورات القصيرة' المتكررة ليست آمنة تراكمياً.",
+      "why_important_en": "ORL surgeons frequently prescribe systemic corticosteroids for nasal polyps, chronic sinusitis, and laryngitis. This study precisely defines the cumulative risk threshold and provides evidence that repeated 'short courses' are not cumulatively safe.",
+      "vs_previous_ar": "كان الاعتقاد السابق أن الدورات القصيرة من الستيرويدات آمنة نسبياً حتى لو تكررت. هذا التحليل يُثبت أن التراكم هو المشكلة الحقيقية بغض النظر عن مدة كل دورة، مما يقلب المفهوم السائد.",
+      "vs_previous_en": "Previous belief held that short steroid courses were relatively safe even if repeated. This meta-analysis proves that accumulation is the real problem regardless of each course's duration, overturning the prevailing concept.",
+      "stars": 5,
+      "stars_reason_ar": "تحليل تلوي من فريق EAACI بمنهجية قوية وتأثير مباشر على الممارسة اليومية لطبيب ORL",
+      "journal_club": true,
+      "jc_reason_ar": "يغير قرارات الوصف اليومية ويُلزم بمراجعة بروتوكولات القسم في معالجة الكيس الأنفي",
+      "drug_watch": true,
+      "drug_watch_detail_ar": "الكورتيكوستيرويدات الجهازية: الجرعة التراكمية بين 500 ملغ و1 غرام بريدنيزولون ترفع معنوياً مخاطر هشاشة العظام والسكري والمياه البيضاء — راجع سجلات مرضاك",
+      "research_gap_ar": "تحتاج الدراسات المستقبلية لتحديد هل هناك جرعة آمنة مطلقاً أقل من 500 ملغ/سنة، وهل تختلف المخاطر بين الحالات المختلفة",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "مرحباً دكتور، اليوم من مجلة Allergy، دراسة مهمة جداً ستغير طريقة وصفنا للكورتيزون الجهازي.\n\nفريق عمل EAACI — وهي الأكاديمية الأوروبية للحساسية — نشر تحليلاً تلوياً شاملاً حول أضرار الكورتيكوستيرويدات الجهازية في مرضى مجرى الهواء العلوي والربو.\n\nالنتيجة الأهم: عندما تتراكم الجرعة بين 500 ملغ و1 غرام من مكافئ البريدنيزولون — تبدأ المخاطر الجسيمة في الارتفاع بشكل معنوي. وأقصد بذلك هشاشة العظام، والسكري، والمياه البيضاء، وارتفاع ضغط الدم.\n\nالمفاجأة؟ حتى الدورات القصيرة المتكررة — تلك التي كنا نعتبرها آمنة — تتراكم وتصنع نفس الأضرار. يعني لو كتبت للمريض خمس دورات كورتيزون قصيرة خلال السنة، الجرعة التراكمية قد تتجاوز الحد الآمن.\n\nما الذي يجب أن نغيره في عيادتنا؟ أولاً: ابدأ بتتبع الجرعة التراكمية لكل مريض. ثانياً: عندما تتجاوز 500 ملغ سنوياً، فكر جدياً في تحويله للعلاج البيولوجي أو الجراحة — خصوصاً في مرضى الكيس الأنفي.\n\nهذه الدراسة تضع في يدك رقماً واضحاً تتحدث به مع المريض. بدلاً من 'الكورتيزون ليس جيداً للمدى الطويل' تقول له 'لقد أخذت 600 ملغ هذا العام، هذا يرفع خطر هشاشة العظام، دعنا نغير الخطة'.\n\nبالتوفيق دكتور، وأراك في الحلقة القادمة.",
+      "mcq": [
+        {
+          "q_ar": "وفقاً لهذا التحليل التلوي، ما هي الجرعة التراكمية من مكافئ البريدنيزولون التي تبدأ عندها المخاطر الجسيمة في الارتفاع بشكل معنوي؟",
+          "options_ar": [
+            "أ) أقل من 250 ملغ",
+            "ب) 500 ملغ - 1 غرام",
+            "ج) أكثر من 2 غرام",
+            "د) المخاطر ثابتة بغض النظر عن الجرعة"
+          ],
+          "answer": 1,
+          "explanation_ar": "وجد التحليل التلوي أن الجرعات التراكمية بين 500 ملغ و1 غرام من مكافئ البريدنيزولون ترفع بشكل معنوي خطر معظم الآثار الجانبية."
+        },
+        {
+          "q_ar": "ما التوصية العملية الأهم لطبيب ORL بناءً على هذه الدراسة عند مريض يحتاج دورات كورتيزون متكررة؟",
+          "options_ar": [
+            "أ) تجنب الكورتيزون الجهازي تماماً",
+            "ب) تتبع الجرعة التراكمية والتحويل للعلاج البيولوجي عند تجاوز 500 ملغ/سنة",
+            "ج) تقليل مدة كل دورة إلى يومين فقط",
+            "د) استبدال البريدنيزولون بالديكساميثازون دائماً"
+          ],
+          "answer": 1,
+          "explanation_ar": "التوصية العملية هي تتبع الجرعة التراكمية لكل مريض والتفكير في التحويل للعلاج البيولوجي أو الجراحة عند الاقتراب من 500 ملغ سنوياً."
+        },
+        {
+          "q_ar": "ما المفهوم الذي تقلبه هذه الدراسة مقارنةً بالاعتقاد السابق؟",
+          "options_ar": [
+            "أ) أن الكورتيزون غير فعال في الكيس الأنفي",
+            "ب) أن الكورتيزون الموضعي أفضل من الجهازي",
+            "ج) أن الدورات القصيرة المتكررة آمنة لأنها قصيرة",
+            "د) أن العلاج البيولوجي خالٍ من المضاعفات"
+          ],
+          "answer": 2,
+          "explanation_ar": "كان الاعتقاد السائد أن الدورات القصيرة آمنة حتى لو تكررت. تُثبت الدراسة أن التراكم هو المشكلة بغض النظر عن مدة كل دورة."
+        }
+      ]
+    },
+    {
+      "pmid": "41735061",
+      "title_ar": "العبء المُهمَل لانقطاع النفس الانسدادي أثناء النوم: خسائر الإنتاجية في مكان العمل في الولايات المتحدة والمملكة المتحدة",
+      "title_en": "Neglected burden of obstructive sleep apnoea: workplace productivity loss in the USA and UK",
+      "journal": "Thorax",
+      "pub_date": "2026-04-19",
+      "doi": "10.1136/thorax-2025-223451",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41735061/",
+      "pdf_url": null,
+      "summary_ar": "درست هذه الدراسة معدلات انتشار انقطاع النفس الانسدادي أثناء النوم (OSA) وتأثيره الاقتصادي على الإنتاجية في مكان العمل في الولايات المتحدة والمملكة المتحدة. بلغ معدل الانتشار 22.8% في الولايات المتحدة و19.5% في المملكة المتحدة بين السكان العاملين. قُدِّرت الخسائر الاقتصادية السنوية في الإنتاجية بـ 180.2 مليار دولار في الولايات المتحدة وحدها، تشمل أيام الغياب، والحضور بدون إنتاجية فعلية (Presenteeism)، وحوادث العمل. الأهم من ذلك أن تكلفة علاج OSA بالـ CPAP أقل بكثير من الخسائر الاقتصادية الناتجة عن عدم العلاج، مما يجعل التدخل مبرراً اقتصادياً حتى بمعزل عن الفوائد الصحية.",
+      "summary_en": "This study examined the prevalence of obstructive sleep apnea (OSA) and its economic impact on workplace productivity in the USA and UK. Prevalence reached 22.8% in the USA and 19.5% in the UK among the working population. Annual productivity losses were estimated at $180.2 billion in the USA alone, encompassing absenteeism, presenteeism, and workplace accidents. CPAP treatment costs are far lower than productivity losses from untreated OSA, making intervention economically justified independent of health benefits.",
+      "practice_change_ar": "يجب على أطباء ORL المتخصصين في اضطرابات النوم تضمين الحجج الاقتصادية عند إقناع مرضى العمل بالالتزام بعلاج CPAP. الأرقام تقول: علاج مريض واحد يوفر للاقتصاد أكثر بكثير من تكلفة الجهاز.",
+      "practice_change_en": "Sleep-focused ORL specialists should incorporate economic arguments when motivating working patients to adhere to CPAP therapy. Numbers show treating one patient saves the economy far more than device cost.",
+      "future_impact_ar": "قد تُسهم هذه البيانات في دفع شركات التأمين وأصحاب العمل لتغطية وتمويل فحص OSA وعلاجه كاستثمار اقتصادي لا كتكلفة صحية.",
+      "future_impact_en": "These data may push insurance companies and employers to cover OSA screening and treatment as an economic investment rather than a health expenditure.",
+      "why_important_ar": "يُدير أطباء ORL حالات OSA يومياً. توفر هذه الدراسة حججاً اقتصادية قوية لإقناع المرضى المترددين وأصحاب العمل والشركات بأهمية التشخيص والعلاج.",
+      "why_important_en": "ORL physicians manage OSA cases daily. This study provides strong economic arguments to persuade hesitant patients, employers, and insurers of treatment importance.",
+      "vs_previous_ar": "الدراسات السابقة ركزت على التكاليف الصحية المباشرة لـ OSA. هذه الدراسة تُضيف بُعداً اقتصادياً جديداً من منظور الإنتاجية في مكان العمل بأرقام أعلى بكثير مما كان متوقعاً.",
+      "vs_previous_en": "Previous studies focused on direct healthcare costs of OSA. This study adds a new economic dimension from workplace productivity perspective with figures far higher than previously estimated.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة مهمة اقتصادياً لكن منهجيتها في حساب الإنتاجية تعتمد على تقديرات غير مباشرة وقد تتأثر بعوامل محيطية",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "drug_watch": false,
+      "drug_watch_detail_ar": null,
+      "research_gap_ar": "تحتاج دراسات مستقبلية لقياس التحسن الفعلي في الإنتاجية بعد بدء علاج OSA بالـ CPAP في بيئات العمل الحقيقية",
+      "subspecialty": "sleep",
+      "audio_script_ar": "مرحباً دكتور، اليوم من مجلة Thorax، دراسة ستغير طريقة حديثك مع مرضى انقطاع النفس أثناء النوم في عيادتك.\n\nالسؤال الذي تجيب عليه الدراسة: كم يكلف OSA غير المُعالج الاقتصادَ فعلاً؟\n\nالأرقام مذهلة: في الولايات المتحدة وحدها، يبلغ معدل انتشار OSA 22.8% في سكان العمل — وفي المملكة المتحدة 19.5%. والخسائر السنوية في الإنتاجية؟ 180 مليار دولار! هذا يشمل أيام الغياب، الحضور بدون إنتاج فعلي، وحوادث العمل.\n\nالنقطة الأهم لعيادتنا: تكلفة CPAP — الجهاز، التدريب، المتابعة — أقل بكثير من الخسائر الاقتصادية لمريض واحد غير مُعالج على مدى سنة.\n\nيعني عندما يقول لك المريض 'الـ CPAP غالي وما أقدر أتحمله' أو 'شركتي ما تغطيه'، الآن عندك حجة اقتصادية: علاجك يرفع إنتاجيتك ويقلل حوادث العمل وغياباتك — هذا استثمار وليس تكلفة.\n\nقد تفتح هذه الأرقام باب ضغط على شركات التأمين وأصحاب العمل لتغطية فحص النوم والعلاج.\n\nالتحفظ؟ المنهجية تعتمد على تقديرات غير مباشرة للإنتاجية، لكن الاتجاه العام واضح ومقنع.\n\nبالتوفيق دكتور.",
+      "mcq": [
+        {
+          "q_ar": "ما معدل انتشار انقطاع النفس الانسدادي (OSA) في سكان العمل بالولايات المتحدة وفقاً لهذه الدراسة؟",
+          "options_ar": [
+            "أ) 10.2%",
+            "ب) 15.7%",
+            "ج) 22.8%",
+            "د) 35.1%"
+          ],
+          "answer": 2,
+          "explanation_ar": "وجدت الدراسة معدل انتشار 22.8% في الولايات المتحدة مقارنة بـ 19.5% في المملكة المتحدة بين سكان العمل."
+        },
+        {
+          "q_ar": "ما حجم الخسائر السنوية في الإنتاجية الناتجة عن OSA غير المُعالج في الولايات المتحدة؟",
+          "options_ar": [
+            "أ) 18 مليار دولار",
+            "ب) 54 مليار دولار",
+            "ج) 120 مليار دولار",
+            "د) 180.2 مليار دولار"
+          ],
+          "answer": 3,
+          "explanation_ar": "قدّرت الدراسة الخسائر الاقتصادية السنوية في الإنتاجية بـ 180.2 مليار دولار في الولايات المتحدة، تشمل الغياب والحضور المنتج ناقصاً وحوادث العمل."
+        },
+        {
+          "q_ar": "ما الاستنتاج الاقتصادي الرئيسي الذي توصلت إليه الدراسة بخصوص علاج OSA بالـ CPAP؟",
+          "options_ar": [
+            "أ) تكلفة CPAP تساوي تقريباً الخسائر الاقتصادية",
+            "ب) تكلفة CPAP أعلى من فوائده الاقتصادية",
+            "ج) تكلفة CPAP أقل بكثير من خسائر الإنتاجية لمريض غير مُعالج",
+            "د) الفائدة الاقتصادية تنطبق فقط على الحالات الشديدة"
+          ],
+          "answer": 2,
+          "explanation_ar": "خلصت الدراسة إلى أن تكلفة علاج OSA بالـ CPAP أقل بكثير من الخسائر الاقتصادية الناتجة عن عدم العلاج، مما يجعل التدخل مبرراً اقتصادياً."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="ORL Daily — مراجعة يومية لأدبيات الأنف والأذن والحنجرة. مدعوم بـ PubMed + Claude AI." />
+  <meta name="author" content="Mohammad Al-Bar" />
+  <meta property="og:title" content="ORL Daily — مراجعة أدبيات ORL اليومية" />
+  <meta property="og:description" content="أبرز مستجدات أدبيات الأنف والأذن والحنجرة — بالعربية والإنجليزية." />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://malbarrr.github.io/orl-daily/og-image.png" />
+  <title>ORL Daily — مراجعة أدبيات ORL اليومية</title>
+  <link rel="stylesheet" href="./css/style.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👂</text></svg>" />
+</head>
+<body class="lang-ar">
+
+  <!-- ══════════════════════════════════════════════════════════
+       HEADER
+  ══════════════════════════════════════════════════════════ -->
+  <header class="site-header" role="banner">
+    <div class="header-inner">
+
+      <!-- Logo -->
+      <a class="site-logo" href="./" aria-label="ORL Daily — الصفحة الرئيسية">
+        ORL <span>Daily</span>
+      </a>
+
+      <div class="header-spacer"></div>
+
+      <!-- Current date display -->
+      <div class="current-date-display" id="current-date-display" aria-live="polite"></div>
+
+      <!-- Search -->
+      <div class="header-search" role="search">
+        <input
+          type="search"
+          id="search-input"
+          placeholder="بحث…"
+          aria-label="بحث في المقالات"
+          autocomplete="off"
+        />
+        <span class="search-icon" aria-hidden="true">🔍</span>
+      </div>
+
+      <!-- Language toggle -->
+      <button class="btn-lang" id="btn-lang" aria-label="تغيير اللغة إلى الإنجليزية">EN</button>
+
+      <!-- Date picker -->
+      <div class="date-picker-wrap" aria-label="اختر تاريخ العدد">
+        <span aria-hidden="true">📅</span>
+        <select id="date-picker" aria-label="اختر تاريخ المقالات">
+          <option value="">—</option>
+        </select>
+      </div>
+
+    </div>
+  </header>
+
+  <!-- ══════════════════════════════════════════════════════════
+       FILTER TABS
+  ══════════════════════════════════════════════════════════ -->
+  <nav class="filter-bar" role="navigation" aria-label="تصفية المقالات" id="filter-bar">
+    <div class="filter-inner">
+      <button class="filter-tab active" data-filter="all">
+        <span class="show-ar">الكل</span>
+        <span class="show-en">All</span>
+      </button>
+      <button class="filter-tab" data-filter="rhinology">
+        <span class="show-ar">الأنف والجيوب</span>
+        <span class="show-en">Rhinology</span>
+      </button>
+      <button class="filter-tab" data-filter="laryngology">
+        <span class="show-ar">الحنجرة</span>
+        <span class="show-en">Laryngology</span>
+      </button>
+      <button class="filter-tab" data-filter="otology">
+        <span class="show-ar">الأذن</span>
+        <span class="show-en">Otology</span>
+      </button>
+      <button class="filter-tab" data-filter="head_neck">
+        <span class="show-ar">الرأس والرقبة</span>
+        <span class="show-en">Head &amp; Neck</span>
+      </button>
+      <button class="filter-tab" data-filter="pediatric">
+        <span class="show-ar">الأطفال</span>
+        <span class="show-en">Pediatric</span>
+      </button>
+      <button class="filter-tab" data-filter="sleep">
+        <span class="show-ar">اضطرابات النوم</span>
+        <span class="show-en">Sleep</span>
+      </button>
+      <button class="filter-tab" data-filter="dw">💊 Drug Watch</button>
+      <button class="filter-tab" data-filter="jc">🎯 Journal Club</button>
+    </div>
+  </nav>
+
+  <!-- ══════════════════════════════════════════════════════════
+       MAIN CONTENT
+  ══════════════════════════════════════════════════════════ -->
+  <main class="main-content" role="main">
+    <div
+      class="articles-grid"
+      id="articles-grid"
+      role="list"
+      aria-live="polite"
+      aria-label="قائمة المقالات"
+    >
+      <!-- Loading state on mount; replaced by JS -->
+      <div class="state-card" aria-busy="true">
+        <div class="spinner" role="status"></div>
+        <p>
+          <span class="show-ar">جارٍ التحميل…</span>
+          <span class="show-en">Loading…</span>
+        </p>
+      </div>
+    </div>
+  </main>
+
+  <!-- ══════════════════════════════════════════════════════════
+       FOOTER
+  ══════════════════════════════════════════════════════════ -->
+  <footer class="site-footer" role="contentinfo">
+    <div class="footer-inner">
+      <span>© 2026 Mohammad Al-Bar</span>
+      <span class="footer-sep">·</span>
+      <span>MIT License</span>
+      <span class="footer-sep">·</span>
+      <a
+        href="https://pubmed.ncbi.nlm.nih.gov/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >PubMed</a>
+      <span class="footer-sep">·</span>
+      <a
+        href="https://github.com/malbarrr/orl-daily"
+        target="_blank"
+        rel="noopener noreferrer"
+      >GitHub</a>
+    </div>
+  </footer>
+
+  <!-- ══════════════════════════════════════════════════════════
+       ARTICLE MODAL
+  ══════════════════════════════════════════════════════════ -->
+  <div
+    class="modal-overlay"
+    id="article-modal"
+    role="dialog"
+    aria-modal="true"
+    aria-label="تفاصيل المقالة"
+    tabindex="-1"
+  >
+    <div class="modal-box" id="article-modal-box" tabindex="-1">
+      <!-- Content injected by JS -->
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════════════════════════════
+       FLASH CARD MODAL
+  ══════════════════════════════════════════════════════════ -->
+  <div
+    class="flash-card-modal"
+    id="flash-card-modal"
+    role="dialog"
+    aria-modal="true"
+    aria-label="Flash Card"
+    tabindex="-1"
+  >
+    <div class="flash-card-box" id="flash-card-box" tabindex="-1">
+      <!-- Content injected by JS -->
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════════════════════════════
+       SCRIPTS — CDNs loaded first (deferred), then app
+  ══════════════════════════════════════════════════════════ -->
+  <!-- html2canvas for screenshot feature (optional; app works without it) -->
+  <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"
+    integrity="sha512-BNaRQnYJYiPSqHHDb58B0yaPfCu+Wgds8Gp/gU33kqBtgNS4tSPHuGibyoeqMV/TJlSKda6FXzoEyYGjTe+vXA=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+    defer
+  ></script>
+
+  <!-- QRCode.js for QR code generation -->
+  <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"
+    integrity="sha512-CNgIRecGo7nphbeZ04Sc13ka07paqdeTu0WR1IM4kNcpmBAUSHSQX0FslNhTDadL4zsqDZLyXnSfgWs8x9gDrg=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+    defer
+  ></script>
+
+  <!-- Main app -->
+  <script src="./js/app.js" defer></script>
+
+  <!-- Keyboard accessibility: close modals with Escape -->
+  <script>
+    document.addEventListener('keydown', function (e) {
+      if (e.key !== 'Escape') return;
+      if (document.getElementById('flash-card-modal').classList.contains('open')) {
+        // call app.js function if loaded
+        if (typeof closeFlashCard === 'function') closeFlashCard();
+      } else if (document.getElementById('article-modal').classList.contains('open')) {
+        if (typeof closeModal === 'function') closeModal('article-modal');
+      }
+    });
+  </script>
+
+</body>
+</html>
