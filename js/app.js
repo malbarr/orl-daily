@@ -306,6 +306,8 @@ function buildCard(article) {
   const watchIcon = { drug: '💊', device: '🔬', technology: '💡', instrument: '🔧' }[article.watch_type] || '👁';
   const dwBadge = watchActive
     ? `<span class="badge dw" aria-label="Watch">${watchIcon} Watch</span>` : '';
+  const confBadge = article.confidence
+    ? `<span class="badge confidence" title="${escAttr(article.confidence === '🟢' ? 'Practice-changing' : article.confidence === '🔴' ? 'Weak evidence' : 'Worth knowing')}">${escHtml(article.confidence)}</span>` : '';
 
   card.innerHTML = `
     <div class="card-subspecialty-bar ${escAttr(subspec)}" aria-hidden="true"></div>
@@ -313,6 +315,7 @@ function buildCard(article) {
       <div class="card-badges">
         <span class="badge subspecialty ${escAttr(subspec)}">${escHtml(getSubspecLabel(subspec))}</span>
         <span class="badge stars" aria-label="${stars} stars">${renderStars(stars)}</span>
+        ${confBadge}
         ${jcBadge}
         ${dwBadge}
       </div>
@@ -460,6 +463,8 @@ function buildArticleModal(article) {
         <div class="modal-header-title">${escHtml(title)}</div>
         <div class="modal-header-meta">
           <span class="badge subspecialty ${escAttr(subspec)}" style="font-size:0.7rem;">${escHtml(subsLabel)}</span>
+          ${article.confidence ? `<span class="badge confidence" style="font-size:0.7rem;" title="${escAttr(article.confidence === '🟢' ? 'Practice-changing' : article.confidence === '🔴' ? 'Weak evidence' : 'Worth knowing')}">${escHtml(article.confidence)}</span>` : ''}
+          ${article.study_design ? `<span style="font-size:0.72rem;opacity:0.75;margin-left:0.4rem;">📐 ${escHtml(article.study_design)}</span>` : ''}
           &ensp;${escHtml(article.journal || '')}${date ? ' · ' + escHtml(date) : ''}
         </div>
       </div>

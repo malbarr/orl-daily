@@ -402,6 +402,7 @@ body.lang-en {
 /* Journal Club & Drug Watch badges */
 .badge.jc { background: #e9f7ef; color: var(--color-jc); }
 .badge.dw { background: #fef5e7; color: var(--color-dw); }
+.badge.confidence { background: transparent; padding: 0.1rem 0.25rem; font-size: 1rem; line-height: 1; }
 
 .card-title {
   font-size: 1rem;

@@ -254,9 +254,45 @@ Title: {title}
 Journal: {journal}
 Abstract: {abstract}
 
+QUALITY SCORING RULES — apply these to determine stars, confidence, and reject:
+
+Study Design (base score):
+- RCT or Meta-analysis/Systematic Review: strong base (+2)
+- Prospective cohort/controlled study: good base (+1)
+- Retrospective series n>100: acceptable
+- Case series <20 patients: weak (-1)
+- Case report: REJECT unless extremely rare condition/technique
+- Expert opinion/Editorial: REJECT unless paradigm-shifting
+
+Journal Tier:
+- JAMA, NEJM, Lancet, Nature Medicine, JAMA Otolaryngol, Laryngoscope, Otolaryngol Head Neck Surg, Head & Neck: +1
+- Unknown or predatory journal: -1 or REJECT
+
+Clinical Impact (primary factor for stars):
+- Practice-changing (changes how you operate/manage today) → confidence 🟢, high stars
+- Adds useful knowledge (good to know, does not change practice yet) → confidence 🟡
+- Confirms already known (no new clinical information) → confidence 🔴, consider reject
+
+Novelty:
+- New technique, new tool, new drug application, unexpected finding: +1
+- Confirms prior knowledge without adding value: -1
+
+IMMEDIATE REJECTION (set reject=true, stars=1):
+- ENT is mentioned only incidentally; primary topic is another specialty
+- Abstract only with no results or conclusions
+- Animal or in vitro study (non-human)
+- n < 10 patients
+- Published before 2020 UNLESS landmark/classic study
+- No clinical relevance to practicing ENT surgeons
+
+PRIORITY SUBSPECIALTY EXCEPTIONS (rhinology, skull_base, laryngology) — do NOT reject:
+- Case series ≥10 patients featuring a genuinely new technique
+- Retrospective study with n > 100
+
 JSON fields required:
 - title_ar: Arabic translation of title
 - title_en: original English title
+- study_design: brief descriptor e.g. "RCT n=120", "Prospective cohort", "Retrospective case series n=45", "Meta-analysis 12 studies", "Case report", "Expert opinion"
 - summary_ar: 5-7 sentence Arabic summary. IMPORTANT: keep ALL medical/anatomical/procedural terms in English (e.g. "cochlear implant", "FESS", "tympanoplasty", "CPAP", "endoscope") — only translate connecting words and explanations to Arabic
 - summary_en: 5-7 line English summary
 - practice_change_ar: one sentence - what changes in clinical practice today
@@ -267,8 +303,11 @@ JSON fields required:
 - why_important_en: same in English
 - vs_previous_ar: one sentence - how it differs from previous guidelines/knowledge
 - vs_previous_en: same in English
-- stars: integer 1-5
-- stars_reason_ar: brief reason for star rating
+- stars: integer 1-5 (apply scoring rules above)
+- stars_reason_ar: brief Arabic reason including study design and why this score
+- confidence: one of "\U0001f7e2" (practice-changing) or "\U0001f7e1" (worth knowing) or "\U0001f534" (weak evidence)
+- reject: boolean — true if meets any IMMEDIATE REJECTION CRITERIA
+- reject_reason: brief English reason if reject is true, else null
 - journal_club: boolean
 - jc_reason_ar: reason if journal_club is true, else null
 - watch: boolean (true if article features a noteworthy drug, device, instrument, or technology worth tracking — including drugs from other specialties tried in ENT, new surgical instruments, AI tools, imaging advances, or emerging tech)
@@ -542,6 +581,7 @@ def main() -> None:
             "doi":                  raw.get("doi", ""),
             "pubmed_url":           f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
             "pdf_url":              pdf_url,
+            "study_design":         analysis.get("study_design", ""),
             "summary_ar":           analysis.get("summary_ar", ""),
             "summary_en":           analysis.get("summary_en", ""),
             "practice_change_ar":   analysis.get("practice_change_ar", ""),
@@ -554,6 +594,9 @@ def main() -> None:
             "vs_previous_en":       analysis.get("vs_previous_en", ""),
             "stars":                int(analysis.get("stars", 3)),
             "stars_reason_ar":      analysis.get("stars_reason_ar", ""),
+            "confidence":     analysis.get("confidence", "\U0001f7e1"),
+            "reject":         bool(analysis.get("reject", False)),
+            "reject_reason":  analysis.get("reject_reason", None),
             "journal_club":   bool(analysis.get("journal_club", False)),
             "jc_reason_ar":   analysis.get("jc_reason_ar", None),
             "watch":          bool(analysis.get("watch", False)),
@@ -577,6 +620,9 @@ def main() -> None:
     before = len(analyzed)
     filtered = []
     for a in analyzed:
+        if a.get("reject"):
+            print(f"  [filter] REJECTED {a.get('pmid')} — {a.get('reject_reason', '?')}")
+            continue
         sub   = a.get("subspecialty", "general")
         stars = int(a.get("stars", 0))
         min_s = MIN_STARS_PRIORITY if sub in PRIORITY_SUBSPECIALTIES else MIN_STARS_GENERAL
