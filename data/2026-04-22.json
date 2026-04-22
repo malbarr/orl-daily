@@ -1,0 +1,718 @@
+{
+  "date": "2026-04-22",
+  "generated_at": "2026-04-22T07:05:39Z",
+  "articles": [
+    {
+      "pmid": "41878814",
+      "title_ar": "شبكة نتائج فونتان: النتائج بعد عامين و1121 مشاركًا.",
+      "title_en": "The Fontan Outcomes Network: Findings After 2 Years and 1121 Participants.",
+      "journal": "Circulation",
+      "pub_date": "2026-Apr-21",
+      "doi": "10.1161/CIRCULATIONAHA.125.078152",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41878814/",
+      "pdf_url": null,
+      "summary_ar": "تحسنت معدلات البقاء على قيد الحياة بعد علاج فونتان لمرضى القلب ذوي البطين الواحد بشكل كبير، لكن المسار الطويل الأمد لا يزال غير محدد بوضوح. تم إنشاء شبكة نتائج فونتان لجمع بيانات المشاركين من مراكز قلبية متعددة. أظهرت النتائج الأولية أن 59% من المشاركين تعرضوا لمشاكل صحية مرتبطة بعملية فونتان، كما أن نسبة كبيرة من المرضى عانوا من اضطرابات نفسية. هذه النتائج تبين أهمية المتابعة طويلة الأمد للمرضى.",
+      "summary_en": "Survival rates after Fontan palliation for single ventricle heart disease have significantly improved, yet the long-term trajectory remains unclear. The Fontan Outcomes Network was established to gather data from multiple heart centers. Initial findings show that 59% of participants experienced Fontan-related health issues, with a substantial number suffering from mental health disorders. These results highlight the importance of long-term follow-up for patients.",
+      "practice_change_ar": "ضرورة التركيز على المتابعة النفسية والتواصل مع الخبراء في الاضطرابات النفسية لمرضى فونتان.",
+      "practice_change_en": "Emphasizing the need for psychological follow-up and collaboration with mental health specialists for Fontan patients.",
+      "future_impact_ar": "يمكن أن تعزز هذه الشبكة من الأبحاث وتحسين الجودة لرعاية مرضى فونتان.",
+      "future_impact_en": "This network could enhance research and quality improvement for the care of Fontan patients.",
+      "why_important_ar": "تظهر هذه الدراسة أهمية إدارة مضاعفات فونتان والعوامل النفسية لدى المرضى.",
+      "why_important_en": "This study highlights the importance of managing Fontan complications and psychological factors in patients.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة بإعطائها بيانات أكبر وأكثر تنوعًا عن نتائج مرضى فونتان.",
+      "vs_previous_en": "This study differs from previous knowledge by providing larger and more diverse data on the outcomes of Fontan patients.",
+      "stars": 4,
+      "stars_reason_ar": "تقدم الدراسة بيانات شاملة مهمة لتحسين الرعاية الصحية لمرضى فونتان.",
+      "journal_club": true,
+      "jc_reason_ar": "توفر هذه الدراسة بيانات جديدة وأساسية يمكن أن تؤثر على الممارسات السريرية.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة استخدام الأدوية النفسية وعلاج المشاكل المرتبطة بعملية فونتان.",
+      "watch_type": "drug",
+      "research_gap_ar": "تحتاج الدراسات المستقبلية إلى استكشاف العلاقات بين العوامل النفسية والمضاعفات الطبية لمرضى فونتان.",
+      "subspecialty": "pediatric",
+      "audio_script_ar": "تتناول هذه الدراسة شبكة نتائج فونتان التي تضم بيانات من 1121 مريضًا تم علاجهم بواسطة عملية فونتان. أظهرت النتائج أن 59% من المشاركين واجهوا مشكلات صحية مرتبطة بالعملية وتزايدت مع تقدم العمر. كما أظهرت البيانات أن جزءًا كبيرًا من المشاركين عانى من اضطرابات نفسية، الأمر الذي يؤكد على الحاجة لمتابعة نفسية أفضل ورعاية متكاملة. تعتبر هذه الدراسة من أهم الدراسات التي تلقي الضوء على المسار الطويل الأمد لمرضى فونتان وتفتح أفق الأبحاث المستقبلية.",
+      "mcq": [
+        {
+          "q_ar": "ما هي نسبة المشاركين الذين واجهوا مشكلات صحية مرتبطة بعملية فونتان؟",
+          "options_ar": [
+            "أ) 41.3%",
+            "ب) 59%",
+            "ج) 34.1%",
+            "د) 66.8%"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت الدراسة أن 59% من المشاركين عانوا من مضاعفات مرتبطة بعملية فونتان."
+        },
+        {
+          "q_ar": "ما هو المكون الأكثر شيوعًا بين التشخيصات القلبية الأولية؟",
+          "options_ar": [
+            "أ) انفصام الشخصية",
+            "ب) تضيق الأبهر",
+            "ج) متلازمة القلب الأيسر المتخلف",
+            "د) ضعف القلب الأيمن"
+          ],
+          "answer": 2,
+          "explanation_ar": "أوضحت النتائج أن نسبة 38.5% من المشاركين لديهم تشخيص متلازمة القلب الأيسر المتخلف."
+        },
+        {
+          "q_ar": "ما هي النسبة المئوية للمرضى الذي تم تشخيصهم باضطراب القلق؟",
+          "options_ar": [
+            "أ) 23.6%",
+            "ب) 34.1%",
+            "ج) 41.3%",
+            "د) 57.5%"
+          ],
+          "answer": 1,
+          "explanation_ar": "تشير الدراسة إلى أن 34.1% من المرضى تم تشخيصهم باضطراب القلق."
+        }
+      ]
+    },
+    {
+      "pmid": "42011693",
+      "title_ar": "انتشار ومحددات انقطاع النفس النومي الانسدادي بين مرضى الربو الشعبى",
+      "title_en": "Prevalence and predictors of obstructive sleep apnea among patients with bronchial asthma.",
+      "journal": "The Journal of asthma : official journal of the Association for the Care of Asthma",
+      "pub_date": "2026-Apr-21",
+      "doi": "10.1080/02770903.2026.2654590",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42011693/",
+      "pdf_url": null,
+      "summary_ar": "يعتبر انقطاع النفس النومي الانسدادي (OSA) حالة غير مشخصة بشكل كافٍ. تهدف هذه الدراسة إلى تحديد انتشار وشدة ومحددات OSA لدى مرضى الربو الشعبى. تم تشخيص حالة OSA لدى 30 مريضًا من 90 (33.3%). أظهرت النتائج علاقات إيجابية قوية مع مستويات النوم النهاري والشدة المرضية للربو. تم تحديد GERD والربو الشديد كمحددات مستقلة لـ OSA.",
+      "summary_en": "Obstructive sleep apnea (OSA) is an underdiagnosed condition. This study aimed to determine the prevalence, severity, and predictors of OSA among patients with bronchial asthma. OSA was diagnosed in 30 of 90 patients (33.3%). Results showed strong positive correlations with excessive daytime sleepiness and asthma severity. GERD and severe asthma were independently identified as predictors of OSA.",
+      "practice_change_ar": "ينبغي إدراج تقييم النوم الروتيني في إدارة الربو الشاملة.",
+      "practice_change_en": "Routine sleep assessment should be incorporated into comprehensive asthma management.",
+      "future_impact_ar": "قد تؤدي هذه النتائج إلى تحسين نتائج العلاج لدى مرضى الربو مع OSA.",
+      "future_impact_en": "These findings may lead to improved treatment outcomes for patients with asthma and OSA.",
+      "why_important_ar": "تسلط هذه المقالة الضوء على الارتباط المهم بين الربو وانقطاع النفس النومي الانسدادي.",
+      "why_important_en": "This article highlights the important link between asthma and obstructive sleep apnea.",
+      "vs_previous_ar": "تضيف هذه الدراسة بيانات جديدة حول العلاقة بين الربو وOSA في بيئة ريفية غير مفحوصة مسبقًا.",
+      "vs_previous_en": "This study provides new data on the relationship between asthma and OSA in previously uninvestigated rural settings.",
+      "stars": 4,
+      "stars_reason_ar": "تقدم الدراسة نتائج مهمة حول العلاقة بين الربو وOSA.",
+      "journal_club": true,
+      "jc_reason_ar": "تثير الدراسة اهتمامًا بسبب نتائجها التي قد تؤثر على الممارسة السريرية.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة لدراسات طولية أكبر لتأكيد هذه النتائج.",
+      "subspecialty": "sleep",
+      "audio_script_ar": "تتناول هذه الدراسة ارتفاع انتشار انقطاع النفس النومي الانسدادي لدى مرضى الربو الشعبى، حيث تم تشخيص OSA لدى 33.3% من هؤلاء المرضى. تظهر العلاقة القوية بين OSA و ESS، وكذلك بين OSA وشدة الربو. يجب أن تركز الممارسات السريرية على إجراء تقييمات نوم روتينية، خاصةً لدى المرضى الذين لديهم شدة ربو عالية أو يعانون من GERD. تعتبر هذه الدراسة خطوة مهمة في فهم العلاقة بين الربو وOSA، مما يمكن أن يساعد في تحسين النتائج العلاجية.",
+      "mcq": [
+        {
+          "q_ar": "ما هي النسبة المئوية للمرضى الذين تم تشخيصهم بانقطاع النفس النومي الانسدادي في الدراسة؟",
+          "options_ar": [
+            "أ) 25%",
+            "ب) 33.3%",
+            "ج) 50%",
+            "د) 15%"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم تشخيص 33.3% من المرضى بانقطاع النفس النومي الانسدادي."
+        },
+        {
+          "q_ar": "ما هي محددات OSA المستقلة التي تم تحديدها في الدراسة؟",
+          "options_ar": [
+            "أ) السمنة",
+            "ب) الربو الشديد و GERD",
+            "ج) الربو العادي",
+            "د) التدخين"
+          ],
+          "answer": 1,
+          "explanation_ar": "الربو الشديد و GERD تم تحديدهما كمحددات مستقلة ل OSA."
+        },
+        {
+          "q_ar": "كيف ترتبط AHI مع شدة الربو حسب الدراسة؟",
+          "options_ar": [
+            "أ) ارتبطت بشكل سلبي",
+            "ب) لا توجد علاقة",
+            "ج) ارتبطت بشكل إيجابي",
+            "د) ارتبطت بشكل طفيف"
+          ],
+          "answer": 2,
+          "explanation_ar": "تشير الدراسة إلى ارتباط إيجابي قوي بين AHI وشدة الربو."
+        }
+      ]
+    },
+    {
+      "pmid": "42013162",
+      "title_ar": "التجربة والرضا تجاه الرعاية التلطيفية في إعداد رعاية متخصصة في إثيوبيا: دراسة مختلطة للمرضى المصابين بالسرطان ومقدمي الرعاية.",
+      "title_en": "Experience and satisfaction towards palliative care in an Ethiopian tertiary care setting: A mixed methods study of patients with cancer and caregivers.",
+      "journal": "PLOS global public health",
+      "pub_date": "2026",
+      "doi": "10.1371/journal.pgph.0005754",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42013162/",
+      "pdf_url": null,
+      "summary_ar": "تواجه المرضى ومقدمي الرعاية تحديات كبيرة في تلبية احتياجات الرعاية التلطيفية في إثيوبيا. استهدفت هذه الدراسة تقييم رضا المرضى المعالجين من السرطان ومقدمي الرعاية الأسرية تجاه الرعاية التلطيفية في مستشفى تيكور أنبسا المتخصص. أظهرت الدراسة أن المعدل العام لرضا المرضى كان 56.7%. لوحظ رضا أقل من المرضى الذين يقيمون خارج أديس أبابا وأيضاً من المصابين بسرطان الجهاز التناسلي والجهاز الهضمي. حددت الدراسة عقبات نظامية مثل ضعف إدارة الألم والقيود المالية كعوامل رئيسية في عدم الرضا.",
+      "summary_en": "Patients and caregivers face significant challenges in addressing palliative care needs in Ethiopia. This study assessed satisfaction among cancer patients and family caregivers at Tikur Anbessa Specialized Hospital, revealing an overall patient satisfaction rate of 56.7%. Lower satisfaction was noted among patients living outside Addis Ababa and those with reproductive and gastrointestinal cancers. The study identified systemic barriers such as inadequate pain management and financial constraints as major causes of dissatisfaction.",
+      "practice_change_ar": "يجب دمج الرعاية التلطيفية في الرعاية الصحية الأولية وتحسين الوصول إلى أدوية الألم.",
+      "practice_change_en": "Palliative care should be integrated into primary healthcare, and access to pain medications needs to be improved.",
+      "future_impact_ar": "تشير النتائج إلى ضرورة إعادة تقييم نظم الرعاية التلطيفية في إثيوبيا لتحسين التجربة العلاجية.",
+      "future_impact_en": "The findings highlight the urgent need to re-evaluate palliative care systems in Ethiopia to improve the treatment experience.",
+      "why_important_ar": "تسلط هذه المقالة الضوء على حالة عدم الرضا الكبيرة عن الرعاية التلطيفية مما يستدعي اتخاذ إجراءات فورية.",
+      "why_important_en": "This article highlights significant dissatisfaction with palliative care that calls for immediate action.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن الدراسات السابقة من خلال التركيز على العوامل النظامية وتحديات الرعاية التلطيفية في السياق الإثيوبي.",
+      "vs_previous_en": "This study differs from previous research by focusing on systemic factors and palliative care challenges in the Ethiopian context.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة تبين الفجوات في الرعاية التلطيفية وتحلل العوامل المؤثرة على الرضا.",
+      "journal_club": true,
+      "jc_reason_ar": "تقدم الدراسة بمسارات جديدة لفهم الرعاية التلطيفية وتحسينها في سياق إثيوبيا.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": "الخلافات في الوضع الحالي للرعاية التلطيفية وعوامل الرضا المحتملة تحتاج إلى مزيد من البحث.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "في هذه المقالة، نناقش التجربة والرضا تجاه الرعاية التلطيفية في سياق إثيوبي. استهدفت الدراسة تقييم مرضى السرطان ومقدمي الرعاية في مستشفى تيكور أنبسا. أظهرت النتاجات أن معدل رضا المرضى كان 56.7%. تم تحديد عوامل مختلفة، بما في ذلك موقع المرضى ونوع السرطان، كعوامل تؤثر على الرضا. تتحدث الدراسة عن العقبات النظامية مثل إدارة الألم والوصول إلى الأدوية، مما يشير إلى ضرورة تحسين هذه الجوانب مع دمج الرعاية التلطيفية في الرعاية الصحية الأولية.",
+      "mcq": [
+        {
+          "q_ar": "ما هو معدل رضا المرضى عن الرعاية التلطيفية وفقًا للدراسة؟",
+          "options_ar": [
+            "أ) 45%",
+            "ب) 56.7%",
+            "ج) 60%",
+            "د) 70%"
+          ],
+          "answer": 1,
+          "explanation_ar": "معدل رضا المرضى كان 56.7% كما هو موضح في النتائج."
+        },
+        {
+          "q_ar": "ما هي واحدة من العوامل المؤثرة على الرضا حسب الدراسة؟",
+          "options_ar": [
+            "أ) نمط الحياة",
+            "ب) وجود الأدوية",
+            "ج) النوع الاجتماعي",
+            "د) بعد المسافة"
+          ],
+          "answer": 3,
+          "explanation_ar": "وجود المرضى خارج أديس أبابا كان له تأثير سلبي على الرضا."
+        },
+        {
+          "q_ar": "ما هو أحد التحديات الرئيسية التي تم تحديدها في الدراسة؟",
+          "options_ar": [
+            "أ) تحسين المرافق",
+            "ب) إدارة الألم",
+            "ج) التدريب",
+            "د) الدعم النفسي"
+          ],
+          "answer": 1,
+          "explanation_ar": "إدارة الألم كانت من أكبر التحديات كما تم الإشارة إليها."
+        }
+      ]
+    },
+    {
+      "pmid": "42012697",
+      "title_ar": "الدوار والدوخة الحادة: الإمكانات التشخيصية لاختبار الاستقرار الثابت في قسم الطوارئ العصبية.",
+      "title_en": "Acute vertigo and dizziness: the diagnostic potential of static posturography in the neurological emergency department.",
+      "journal": "Journal of neurology",
+      "pub_date": "2026-Apr-21",
+      "doi": "10.1007/s00415-026-13823-z",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42012697/",
+      "pdf_url": null,
+      "summary_ar": "يمثل الدوار والدوخة حالات شائعة في غرفة الطوارئ ناتجة عن مجموعة متنوعة من الأسباب. تهدف هذه الدراسة إلى تقييم قيمة اختبار الاستقرار الثابت في تشخيص حالات الدوار الحادة. تم تطبيق بروتوكول مختصر على 211 مريضًا وأظهر نتائج قوية بما في ذلك زيادة كبيرة في تشخيص الدوار الوظيفي. السPG يمكن أن يسهم في تقليل عدم التشخيص لمدة طويلة.",
+      "summary_en": "Vertigo and dizziness are common presentations in the emergency room stemming from a wide range of causes. This study evaluates the value of a short static posturography protocol in diagnosing acute vertigo cases. The results showed a significant increase in identifying functional dizziness. sPG could help reduce underdiagnosis and chronic symptoms.",
+      "practice_change_ar": "يمكن استخدام sPG كأداة تشخيصية سريعة وفعالة في أقسام الطوارئ لتحديد الدوار الوظيفي بشكل أفضل.",
+      "practice_change_en": "sPG can be utilized as a rapid and effective diagnostic tool in emergency departments to better identify functional dizziness.",
+      "future_impact_ar": "قد يؤثر استخدام sPG على طرق تشخيص الدوار في المستقبل.",
+      "future_impact_en": "The use of sPG may influence future approaches to the diagnosis of dizziness.",
+      "why_important_ar": "تعتبر هذه المقالة مهمة لأنها تقدم أداة فعالة لتحسين التشخيص وتقليل معاناة المرضى من أعراض الدوار.",
+      "why_important_en": "This article is important as it presents an effective tool for improving diagnosis and reducing patient suffering from dizziness symptoms.",
+      "vs_previous_ar": "يختلف هذا البحث عن المعرفة السابقة من خلال تقديم طريقة جديدة لتشخيص الدوار الوظيفي.",
+      "vs_previous_en": "This research differs from previous knowledge by introducing a new method for diagnosing functional dizziness.",
+      "stars": 5,
+      "stars_reason_ar": "دراسة جيدة التصميم تقدم نتائج قوية وقابلة للتطبيق في الممارسة السريرية.",
+      "journal_club": true,
+      "jc_reason_ar": "تقدم الدراسة معلومات جديدة حول التشخيص الفعال لحالات الدوار الحادة.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة أداة sPG لتميزها في تشخيص الدوار الوظيفي.",
+      "watch_type": "device",
+      "research_gap_ar": "هناك حاجة لمزيد من الأبحاث لفهم العلاقة بين الأنماط الوظيفية والشخصيات العضوية بشكل أفضل.",
+      "subspecialty": "otology",
+      "audio_script_ar": "في هذه الدراسة، تم تقييم الامكانيات التشخيصية لاختبار الاستقرار الثابت في قسم الطوارئ العصبية. تم إجراء الدراسة على 211 مريضًا ووجدت نتائج مهمة. أظهرت الأداة الجديدة زيادة في تشخيص الدوار الوظيفي مما يساعد على تقليل الأعراض المزمنة. استخدام sPG يمكن أن يحدث تغييرًا إيجابيًا في كيفية تعامل الأطباء مع الدوار في بيئة الطوارئ. هذا البحث يقدم معلومات مستحدثة وطرق جديدة يجب أخدها بعين الاعتبار.",
+      "mcq": [
+        {
+          "q_ar": "ما هي الأداة التي تم تقييمها لتشخيص الدوار الحاد؟",
+          "options_ar": [
+            "أ) اختبار السPG",
+            "ب) تصوير بالرنين المغناطيسي",
+            "ج) الفحص السمعي",
+            "د) الفحص العصبي"
+          ],
+          "answer": 0,
+          "explanation_ar": "تم تقييم اختبار السPG لتشخيص حالات الدوار الحادة في الدراسة."
+        },
+        {
+          "q_ar": "ما هي النسبة المئوية التي تم تحديدها للأنماط الوظيفية؟",
+          "options_ar": [
+            "أ) 20%",
+            "ب) 29.3%",
+            "ج) 45%",
+            "د) 10%"
+          ],
+          "answer": 1,
+          "explanation_ar": "حددت الدراسة الأنماط الوظيفية في 29.3% من الحالات الغير واضحة."
+        },
+        {
+          "q_ar": "ما هو مستوى الاتفاق بين الخبراء في تقييم الأنماط؟",
+          "options_ar": [
+            "أ) 0.500",
+            "ب) 0.800",
+            "ج) 0.965",
+            "د) 1.000"
+          ],
+          "answer": 2,
+          "explanation_ar": "كان مستوى الاتفاق بين الخبراء مرتفعًا بمعدل كابا 0.965."
+        }
+      ]
+    },
+    {
+      "pmid": "42012562",
+      "title_ar": "التنبؤ بتفاقم انقطاع النفس أثناء النوم والمخاطر القلبية الأيضية دون علاج",
+      "title_en": "Predicting sleep apnea worsening and cardiometabolic risk without treatment",
+      "journal": "Sleep & breathing = Schlaf & Atmung",
+      "pub_date": "2026-Apr-21",
+      "doi": "10.1007/s11325-026-03617-y",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42012562/",
+      "pdf_url": null,
+      "summary_ar": "تسعى الدراسة الحالية إلى تحديد العوامل المتنبئة بتفاقم شدة انقطاع النفس أثناء النوم (OSA) والمشكلات القلبية الأيضية في المرضى غير المعالجين. تشمل النتائج أن شدة النوم والنقص الليلي في الأكسجين قد زادت بشكل ملحوظ بمرور الوقت. تم تحديد أن مؤشر كتلة الجسم (BMI) وسرعة النوم يلعبان دورًا مهمًا في التنبؤ بالتقدم. تختلف العواقب القلبية الأيضية حسب العوامل، مع تأثير السمنة الأكثر وضوحًا على ارتفاع ضغط الدم والسكري.",
+      "summary_en": "This study aims to identify predictors of obstruction sleep apnea (OSA) severity progression and cardiometabolic comorbidities in untreated patients. Results show that apnea severity and nocturnal hypoxemia significantly worsened over time. Body mass index (BMI) and sleep latency were found to be important predictors of progression. Cardiometabolic consequences vary by outcome, with obesity primarily impacting hypertension and diabetes.",
+      "practice_change_ar": "ينبغي على الأطباء التركيز على إدارة السمنة لتحسين نتائج مرضى انقطاع النفس أثناء النوم.",
+      "practice_change_en": "Clinicians should focus on managing obesity to improve outcomes for patients with sleep apnea.",
+      "future_impact_ar": "يمكن أن تؤدي النتائج إلى تحسين استراتيجيات العلاج والوقاية من الأمراض القلبية الأيضية المرتبطة بـ OSA.",
+      "future_impact_en": "Findings may lead to improved treatment and prevention strategies for cardiometabolic diseases associated with OSA.",
+      "why_important_ar": "تسهم هذه الدراسة في فهم تأثير OSA غير المعالج على الصحة العامة والمخاطر القلبية الأيضية.",
+      "why_important_en": "This study contributes to understanding the impact of untreated OSA on overall health and cardiometabolic risk.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن الدراسات السابقة بتسليط الضوء على تأثير السمنة والنوم على تفاقم OSA.",
+      "vs_previous_en": "This study differs from previous research by highlighting the impact of obesity and sleep on OSA progression.",
+      "stars": 5,
+      "stars_reason_ar": "تقدم الدراسة رؤى جديدة حول تأثير OSA غير المعالج وتحدد عوامل مخاطره بشكل مبتكر.",
+      "journal_club": true,
+      "jc_reason_ar": "تقدم الدراسة أدلة مهمة حول المخاطر القلبية الأيضية المرتبطة بـ OSA، ما يجعلها موضوعًا جيدًا للنقاش.",
+      "watch": true,
+      "watch_detail_ar": "راقب التأثير المحتمل للاستراتيجيات الجديدة لإدارة OSA على السمنة والصحة القلبية الأيضية.",
+      "watch_type": "technology",
+      "research_gap_ar": "هناك حاجة لمزيد من الأبحاث حول كيفية تحسين نتائج المرضى المصابين بـ OSA من غير المعالج.",
+      "subspecialty": "sleep",
+      "audio_script_ar": "تتناول هذه الدراسة التنبؤات المتعلقة بتفاقم انقطاع النفس أثناء النوم والمخاطر القلبية الأيضية في المرضى غير المعالجين. تم تحليل بيانات 538 بالغًا خلال فترتين من التقييم ويشير البحث إلى تفاقم ملحوظ في شدة النوم وتدني مستويات الأكسجين. تركز النتائج على أهمية مؤشر كتلة الجسم وسرعة النوم كعوامل تتنبأ بتقدم المرض. النتيجة أن السمنة ترتبط بشكل كبير بارتفاع ضغط الدم والسكري بينما يتعلق المرض القلبي بشدة انقطاع النفس. يجب أن تؤدي هذه النتائج إلى تحسين أساليب العلاج السريرية.",
+      "mcq": [
+        {
+          "q_ar": "ما هو العامل الذي يرتبط بشكل أكبر بتفاقم OSA؟",
+          "options_ar": [
+            "أ) العمر",
+            "ب) مؤشر كتلة الجسم",
+            "ج) شدة الأكسجين",
+            "د) طول فترة المتابعة"
+          ],
+          "answer": 1,
+          "explanation_ar": "تشير النتائج إلى أن مؤشر كتلة الجسم هو الأكثر ارتباطًا بتفاقم OSA."
+        },
+        {
+          "q_ar": "ما هي النتيجة المتعلقة بارتفاع ضغط الدم والسكري؟",
+          "options_ar": [
+            "أ) تعتمد على شدة OSA",
+            "ب) ليست مرتبطة بـ AHI",
+            "ج) مرتبطة بالوزن فقط",
+            "د) لا تعني شيئًا"
+          ],
+          "answer": 1,
+          "explanation_ar": "الإصابة بارتفاع ضغط الدم والسكري مرتبطة بالعوامل مثل العمر وBMI وليس بشدة OSA."
+        },
+        {
+          "q_ar": "ما أهمية هذه الدراسة؟",
+          "options_ar": [
+            "أ) تحسين معرفة OSA",
+            "ب) تقديم استراتيجيات جديدة للعلاج",
+            "ج) دراسة تأثير النوم",
+            "د) كل ما سبق"
+          ],
+          "answer": 3,
+          "explanation_ar": "تتناول هذه الدراسة تأثيرات OSA والمخاطر القلبية الأيضية وتقديم رؤى جديدة للعلاج."
+        }
+      ]
+    },
+    {
+      "pmid": "42014575",
+      "title_ar": "جودة الحياة المتعلقة بالصحة لدى مرضى توقف التنفس أثناء النوم - تحديث مراجعة نظامية يقيّم جودة خصائص القياس لأدوات قياس النتائج التي يقدمها المريض.",
+      "title_en": "Health-related quality of life in patients with obstructive sleep apnea - a systematic review update assessing the quality of measurement properties of patient-reported outcome measures.",
+      "journal": "Sleep & breathing = Schlaf & Atmung",
+      "pub_date": "2026-Apr-21",
+      "doi": "10.1007/s11325-026-03676-1",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42014575/",
+      "pdf_url": null,
+      "summary_ar": "الهدف من هذا التحديث هو تحديد أدوات قياس جودة الحياة المتعلقة بالصحة (HRQOL) الخاصة بتوقف التنفس أثناء النوم (OSA). تم تقييم اثنين من أدوات القياس الجديدة، وهما PRAQ وSTAMP. أظهر PRAQ جودة ممتازة للمقاييس وارتفاع أدلة الصلاحية المحتوى، بينما أظهر STAMP مخاطر أعلى من التحيز وجودة منخفضة. خمسة أدوات قياس موصى بها حاليا لتقييم HRQOL في حالات OSA.",
+      "summary_en": "The purpose of this update was to identify health-related quality of life (HRQOL) patient-reported outcome measures (PROMs) for obstructive sleep apnea (OSA). Two new PROMs were assessed, the PRAQ and STAMP. The PRAQ demonstrated excellent measurement quality and high content validity evidence, while the STAMP exhibited higher bias risk and low measurement quality. A total of five PROMs are currently recommended for assessing HRQOL in OSA patients.",
+      "practice_change_ar": "ستزيد هذه المراجعة من استخدام PRAQ كأداة قياس موصى بها لتقييم جودة الحياة المتعلقة بالصحة لدى مرضى OSA.",
+      "practice_change_en": "This review will enhance the use of the PRAQ as a recommended measurement tool for assessing health-related quality of life in OSA patients.",
+      "future_impact_ar": "عمليات القياس المستندة إلى الأدلة ستتحسن مما سينعكس إيجابا على رعاية مرضى توقف التنفس أثناء النوم.",
+      "future_impact_en": "Evidence-based measurement practices will improve, positively impacting the care of patients with obstructive sleep apnea.",
+      "why_important_ar": "تسهم هذه المقالة في توسيع فهمنا لأدوات قياس HRQOL الخاصة بـ OSA وتقديم خيارات جديدة للممارسين.",
+      "why_important_en": "This article contributes to our understanding of HRQOL measurement tools for OSA and provides new options for practitioners.",
+      "vs_previous_ar": "تقدم هذه المراجعة أدوات جديدة ورؤى أفضل مقارنة بالمراجعة السابقة لعام 2016.",
+      "vs_previous_en": "This review presents new tools and insights compared to the previous 2016 review.",
+      "stars": 4,
+      "stars_reason_ar": "توفر نتائج موثوقة وبيانات جديدة تدعم الممارسات السريرية الحالية.",
+      "journal_club": true,
+      "jc_reason_ar": "تحمل المقالة معلومات قيمة حول تحسين قياس جودة الحياة المرتبطة بالصحة.",
+      "watch": true,
+      "watch_detail_ar": "يُركز على أدوات القياس الجديدة مثل PRAQ والتي قد تؤثر على كيفية تقييم OSA في المستقبل.",
+      "watch_type": "instrument",
+      "research_gap_ar": "هناك حاجة لمزيد من الدراسات لتحسين جودة قياس HRQOL بشكل أوسع.",
+      "subspecialty": "sleep",
+      "audio_script_ar": "في هذه المراجعة، تم تناول جودة الحياة المتعلقة بالصحة لدى مرضى توقف التنفس أثناء النوم. تم التعرف على أدوات قياس جديدة وهي PRAQ وSTAMP. حيث أظهر PRAQ جودة عالية ومحتوى موثوق، بينما أظهر STAMP مخاطر أعلى من التحيز. هذه النتائج ضرورية لتوجيه الممارسين في تقييم المرضى ونوفر خيارات جديدة في هذا المجال.",
+      "mcq": [
+        {
+          "q_ar": "ما هي الأداة التي أظهرت أعلى جودة في قياس HRQOL لدى مرضى OSA؟",
+          "options_ar": [
+            "أ) STAMP",
+            "ب) PRAQ",
+            "ج) GRADE",
+            "د) COSMIN"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت أداة PRAQ جودة ممتازة للقياس وصلاحية محتوى عالية مقارنة بالأدوات الأخرى."
+        },
+        {
+          "q_ar": "ما عدد أدوات القياس الموصى بها حاليًا لتقييم HRQOL في مرضى OSA؟",
+          "options_ar": [
+            "أ) ثلاثة",
+            "ب) أربعة",
+            "ج) خمسة",
+            "د) ستة"
+          ],
+          "answer": 2,
+          "explanation_ar": "تم توصية بخمسة أدوات قياس حاليًا وفقًا للمراجعة الأخيرة."
+        },
+        {
+          "q_ar": "ما الفائدة الرئيسية من استخدام الأدوات الجديدة مثل PRAQ؟",
+          "options_ar": [
+            "أ) تقليل التكاليف",
+            "ب) تحسين الممارسات السريرية",
+            "ج) زيادة عدد المرضى",
+            "د) تقليل الأعراض"
+          ],
+          "answer": 1,
+          "explanation_ar": "أداة PRAQ تقدم تحسينات في كيفية قياس جودة الحياة المتعلقة بالصحة، وبالتالي تحسين الرعاية للمرضى."
+        }
+      ]
+    },
+    {
+      "pmid": "42012472",
+      "title_ar": "أثر تمارين اللسان على بقاء محور العصب اللساني، هيكله، وإخراجه في نموذج حيواني لفقدان خلايا عصبية حركية",
+      "title_en": "Impact of tongue exercise on hypoglossal axis survival, structure, and output in a rodent model of hypoglossal motor neuron degeneration.",
+      "journal": "Journal of neurophysiology",
+      "pub_date": "2026-Apr-21",
+      "doi": "10.1152/jn.00631.2024",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42012472/",
+      "pdf_url": null,
+      "summary_ar": "تتضمن الأمراض العصبية الحركية تدمير خلايا العصبية المسؤولة عن التنفس والبلع. تم حقن مادة سابورين مع توكسين الكوليرا في اللسان لتقليد فقدان خلايا العصب اللساني. تم تقييم تأثير تمارين اللسان على بقاء الخلايا العصبية في نموذج الفئران. أظهرت النتائج أن تمارين اللسان لم تؤثر على بقاء الخلايا العصبية ولكنها زادت من كثافة الخلايا النخاعية. تم التخفيف من العجز في الإخراج الحركي بفضل التمارين.",
+      "summary_en": "Motor neuron diseases involve the destruction of neurons responsible for breathing and swallowing. Intralingual injections of saporin with cholera toxin mimic hypoglossal nerve cell loss. The study evaluated the effects of tongue exercises on motor neuron survival in a rat model. Results showed that tongue exercises did not affect neuron survival but increased microglial density, and the deficits in motor output were mitigated by the exercises.",
+      "practice_change_ar": "يمكن استخدام تمارين اللسان كعلاج داعم في العلاجات الحالية للمرضى الذين يعانون من الأمراض العصبية الحركية و/أو انقطاع التنفس أثناء النوم.",
+      "practice_change_en": "Tongue exercises may be used as an adjunct treatment in current therapies for patients with motor neuron diseases and/or obstructive sleep apnea.",
+      "future_impact_ar": "قد تؤدي هذه النتائج إلى تطوير استراتيجيات علاجية جديدة لتحسين النتائج الوظيفية في المرضى.",
+      "future_impact_en": "These findings may lead to the development of new therapeutic strategies to improve functional outcomes in patients.",
+      "why_important_ar": "تسلط هذه الدراسة الضوء على فرصة استخدام تمارين اللسان لتعزيز التعويض العصبي في الأمراض العصبية الحركية.",
+      "why_important_en": "This study highlights the potential of tongue exercises to enhance neuroplasticity in motor neuron diseases.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن الدراسات السابقة بإظهار تأثير تمارين اللسان على الخلايا النخاعية وإخراج العصب اللساني.",
+      "vs_previous_en": "This study differs from previous research by demonstrating the impact of tongue exercises on glial cells and hypoglossal motor output.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة تقدم رؤى جديدة حول تطبيقات العلاج السلوكي في معالجة الأمراض العصبية.",
+      "journal_club": true,
+      "jc_reason_ar": "تستحق الدراسة النقاش في نادي الأبحاث بسبب نتائجها الهامة حول التمارين وتأثيرها على العصب.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": "توجد حاجة لدراسات أعمق حول التأثيرات الطويلة الأمد لتمارين اللسان.",
+      "subspecialty": "sleep",
+      "audio_script_ar": "تتحدث هذه المقالة عن تأثير تمارين اللسان على الصحة العصبية. تركز على الأمراض العصبية الحركية وانقطاع النفس أثناء النوم وكيف تؤثر هذه التمارين على الخلايا النخاعية والعصب اللساني. الدراسة أجريت على فئران التجارب، وأظهرت أن تمارين اللسان يمكن أن تساهم في تحسين نتائج الإخراج الحركي، رغم عدم تأثيرها على بقاء الخلايا العصبية. تتمتع النتائج بإمكانات تطبيق سريري كبيرة لتعزيز النتائج الوظيفية لدى المرضى.",
+      "mcq": [
+        {
+          "q_ar": "ما التأثير الذي حدث نتيجة تمارين اللسان على خرج العصب اللساني؟",
+          "options_ar": [
+            "أ) زادت من بقاء الخلايا العصبية",
+            "ب) لم يكن لها تأثير",
+            "ج) زادت من العجز في الإخراج",
+            "د) زادت من كثافة الخلايا النخاعية"
+          ],
+          "answer": 1,
+          "explanation_ar": "تمارين اللسان لم تؤثر على بقاء الخلايا العصبية، لكنها خففت من العجز في الإخراج."
+        },
+        {
+          "q_ar": "ما هي المادة المستخدمة لتقليد فقدان خلايا العصب اللساني؟",
+          "options_ar": [
+            "أ) توكسين الكوليرا",
+            "ب) سابورين",
+            "ج) كليهما",
+            "د) لا شيء"
+          ],
+          "answer": 2,
+          "explanation_ar": "استخدمت المادة سابورين بالتزامن مع توكسين الكوليرا لتقليد فقدان الخلايا."
+        },
+        {
+          "q_ar": "أي النتائج تحمل أهمية سريرية محتملة من الدراسة؟",
+          "options_ar": [
+            "أ) تحسين الإخراج الحركي",
+            "ب) تفاقم الحالة المرضية",
+            "ج) نقص النشاط البدني",
+            "د) تراجع البيانات"
+          ],
+          "answer": 0,
+          "explanation_ar": "تحسين الإخراج الحركي هو ما قد تسفر عنه تمارين اللسان في دعم علاج الأمراض العصبية."
+        }
+      ]
+    },
+    {
+      "pmid": "42011131",
+      "title_ar": "المضاعفات قصيرة الأجل نادرة بعد جراحة الكوليستاتوم.",
+      "title_en": "Short-Term Complications Are Rare After Cholesteatoma Surgery.",
+      "journal": "Clinical otolaryngology : official journal of ENT-UK ; official journal of Netherlands Society for Oto-Rhino-Laryngology & Cervico-Facial Surgery",
+      "pub_date": "2026-Apr-21",
+      "doi": "10.1111/coa.70111",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42011131/",
+      "pdf_url": null,
+      "summary_ar": "تهدف هذه الدراسة إلى تقييم حدوث وطبيعة المضاعفات قصيرة الأجل بعد جراحة الكوليستاتوم في مجموعة متنوعة من المرضى. شملت الدراسة 966 مريضًا تم متابعة حالتهم لمدة 6 أسابيع بعد العملية. كشفت النتائج عن مستوى منخفض من المضاعفات الشديدة، حيث حدثت في 1.4% فقط من الحالات. تتنوع المضاعفات المتعارف عليها بين مجموعة من المخاوف الصحية الكبيرة.",
+      "summary_en": "This study aims to evaluate the incidence and nature of short-term complications following cholesteatoma surgery in a heterogeneous cohort. A total of 966 patients were followed for 6 weeks postoperatively. Results revealed a low rate of severe complications at 1.4%. Complications observed included thromboembolic events, serious infections, facial palsy, and CSF leakage.",
+      "practice_change_ar": "تؤكد الدراسة على أمان جراحة الكوليستاتوم، مما يدعم أهمية توعية المرضى قبل العملية.",
+      "practice_change_en": "The study reinforces the safety of cholesteatoma surgery, emphasizing the importance of preoperative counseling for patients.",
+      "future_impact_ar": "توفر نتائج الدراسة أسسًا قوية لمزيد من الأبحاث في مجالات معالجة الكوليستاتوم.",
+      "future_impact_en": "The study's results provide a solid foundation for further research in cholesteatoma management.",
+      "why_important_ar": "تسلط هذه المقالة الضوء على أمان جراحة الكوليستاتوم وتساهم في تحسين ممارسة العلاج.",
+      "why_important_en": "This article highlights the safety of cholesteatoma surgery and contributes to improved treatment practices.",
+      "vs_previous_ar": "تستند المقالة إلى بيانات محدثة، مما يقدم رؤى جديدة مقارنة بالدراسات السابقة.",
+      "vs_previous_en": "The article builds on updated data, providing new insights compared to previous studies.",
+      "stars": 4,
+      "stars_reason_ar": "تقدم بيانات موثوقة حول مضاعفات جراحة الكوليستاتوم، لكن هناك حاجة لمزيد من الدراسات طويلة الأجل.",
+      "journal_club": true,
+      "jc_reason_ar": "المقال يقدم معلومات قيمة حول سلامة جراحة الكوليستاتوم، مما يعزز النقاش السريرية.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج الدراسات المستقبلية إلى استكشاف المضاعفات طويلة الأجل بعد جراحة الكوليستاتوم.",
+      "subspecialty": "otology",
+      "audio_script_ar": "تهدف هذه الدراسة إلى تقييم حدوث وطبيعة المضاعفات قصيرة الأجل بعد جراحة الكوليستاتوم. شملت الدراسة 966 مريضًا وتمت متابعة مرضاهم لمدة 6 أسابيع بعد العملية. كشفت النتائج أن نسبة المضاعفات الشديدة كانت منخفضة حيث بلغت 1.4%. توضح هذه النتائج أن جراحة الكوليستاتوم آمنة بشكل عام وأن المخاطر يمكن أن تُعزى إلى عوامل جراحية وطبية عامة بدلاً من عوامل خاصة بالكوليستاتوم. وتؤكد الدراسة على أهمية التوعية قبل العملية.",
+      "mcq": [
+        {
+          "q_ar": "ما النسبة المئوية للمضاعفات الشديدة بعد جراحة الكوليستاتوم في الدراسة؟",
+          "options_ar": [
+            "أ) 0.5%",
+            "ب) 1.4%",
+            "ج) 2.2%",
+            "د) 3.1%"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت الدراسة أن المضاعفات الشديدة كانت في 1.4% من الحالات."
+        },
+        {
+          "q_ar": "ما هو عدد المرضى الذين عانوا من أحداث تجلط الدم؟",
+          "options_ar": [
+            "أ) 3",
+            "ب) 5",
+            "ج) 10",
+            "د) 14"
+          ],
+          "answer": 1,
+          "explanation_ar": "حدثت أحداث تجلط الدم في 5 مرضى."
+        },
+        {
+          "q_ar": "ما هي المضاعفات التي تم التأكيد عليها في الدراسة؟",
+          "options_ar": [
+            "أ) عدوى خفيفة",
+            "ب) شلل الوجه",
+            "ج) صداع",
+            "د) جميع ما سبق"
+          ],
+          "answer": 1,
+          "explanation_ar": "تضمنت المضاعفات الشديدة شلل الوجه بين مسائل أخرى."
+        }
+      ]
+    },
+    {
+      "pmid": "42013305",
+      "title_ar": "التثبيط المزدوج لـ TRIP13 و Aurora A يسبب ضررًا في الحمض النووي الانقسامي وموت الخلايا المصاحبة للبيروبتوسيس-الاپوبتوسيس في خلايا السرطان التي تعاني من نقص Rb.",
+      "title_en": "Dual Inhibition of TRIP13 and Aurora A Induces Mitotic DNA Damage and Concurrent Pyroptotic-apoptotic Cell Death in Rb-deficient Cancer Cells.",
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "pub_date": "2026-Apr-21",
+      "doi": "10.1158/1078-0432.CCR-25-4712",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42013305/",
+      "pdf_url": null,
+      "summary_ar": "تستكشف هذه الدراسة الآليات الخاصة بدورة الخلية التي تحتفظ الفعالية في استهداف TRIP13 و Aurora A بشكل مزدوج في سرطانات نقص Rb. أظهرت النتائج أن هذا التثبيط المزدوج يسبب موت الخلايا الانقسامية عن طريق إحداث اعتقال انقسامي مطول. كما تم الكشف عن حدوث ضرر في الحمض النووي وموت الخلايا بالتزامن بين الأبوبتوسيس والبيروبتوسيس. بالإضافة إلى ذلك، أثبتت الدراسة فعالية العلاج في النماذج الحيوانية.",
+      "summary_en": "This study investigates the cell cycle-specific mechanisms underlying the efficacy of dual targeting of TRIP13 and Aurora A in Rb-deficient cancers. Results showed that this dual inhibition induces mitotic cell death by causing prolonged mitotic arrest. DNA damage and concurrent apoptotic and pyroptotic cell death were also revealed. Furthermore, the study demonstrated therapeutic efficacy in animal models.",
+      "practice_change_ar": "يمكن أن يؤدي الجمع بين تثبيط TRIP13 و Aurora A إلى خيارات علاجية جديدة لمرضى سرطان نقص Rb.",
+      "practice_change_en": "Combining inhibition of TRIP13 and Aurora A may provide new treatment options for patients with Rb-deficient cancers.",
+      "future_impact_ar": "يمكن أن تُحدث هذه النتائج تحولاً في طرق العلاج المستهدفة لسرطان رأس والعنق وسرطان الرئة.",
+      "future_impact_en": "These findings may revolutionize targeted treatment approaches for head and neck cancers and lung cancer.",
+      "why_important_ar": "تسهم هذه الدراسة في تطوير استراتيجيات علاجية جديدة لسرطانات نقص Rb التي تعاني من نقص في الأهداف القابلة للعلاج.",
+      "why_important_en": "This study contributes to developing new therapeutic strategies for Rb-deficient cancers that lack actionable druggable targets.",
+      "vs_previous_ar": "تختلف هذه الدراسة من حيث أنها تقدم طريقة جديدة للتعامل مع سرطانات تعاني من نقص Rb من خلال استهداف مسارات جديدة.",
+      "vs_previous_en": "This study differs by providing a new approach to address cancers deficient in Rb by targeting novel pathways.",
+      "stars": 5,
+      "stars_reason_ar": "يوفر هذا البحث بيانات جديدة ومبتكرة بشأن العلاجات المستهدفة في الأورام السرطانية.",
+      "journal_club": true,
+      "jc_reason_ar": "يتطلب هذا البحث مناقشة حول الخيارات العلاجية المستهدفة في سرطانات نقص Rb.",
+      "watch": true,
+      "watch_detail_ar": "من المهم متابعة الأدوية التي تستهدف TRIP13 و Aurora A لفعاليتها المحتملة في العلاجات المستقبلية.",
+      "watch_type": "drug",
+      "research_gap_ar": null,
+      "subspecialty": "head_neck",
+      "audio_script_ar": "في هذه الدراسة، تم استكشاف الآليات التي تجعل استهداف TRIP13 و Aurora A فعالًا في سرطانات نقص Rb. تتسبب هذه الاستراتيجية في موت الخلايا عن طريق استحداث اعتقال انقسامي طويل. أيضًا، تم تحديد تأثيرات على مستوى الحمض النووي مع تكشف خيارات جديدة للعلاج. علاوة على ذلك، تم إثبات الفعالية في نماذج حيوانية، مما يوفر أملًا جديدًا لمرضى هذه الأنواع من السرطان.",
+      "mcq": [
+        {
+          "q_ar": "ما هي الآلية الأساسية لنشاط TRIP13 و Aurora A في هذا البحث؟",
+          "options_ar": [
+            "أ) زيادة فترة الانقسام",
+            "ب) منع الانقسام الخلوي",
+            "ج) تعزيز التمايز الخلوي",
+            "د) زيادة نضوج الخلايا"
+          ],
+          "answer": 0,
+          "explanation_ar": "تم العثور على أن استهداف TRIP13 و Aurora A ينطوي على زيادة فترة الانقسام مما يؤدي إلى موت الخلايا."
+        },
+        {
+          "q_ar": "ما هي الفائدة العلاجية المحتملة لمثبطات TRIP13 و Aurora A؟",
+          "options_ar": [
+            "أ) تحسين جودة الحياة",
+            "ب) زيادة الأعراض الجانبية",
+            "ج) تقليل معدلات البقاء",
+            "د) رفع معدل الوفاة"
+          ],
+          "answer": 0,
+          "explanation_ar": "يقدم البحث إمكانية تحسين جودة الحياة من خلال استراتيجيات علاجية جديدة فعالة."
+        },
+        {
+          "q_ar": "أي من العبارات التالية تصف التأثيرات التي لوحظت في النماذج الحيوانية؟",
+          "options_ar": [
+            "أ) لا يوجد تأثير ملحوظ",
+            "ب) فعالية مفرطة",
+            "ج) فعالية محددة مع مكاسب بقاء",
+            "د) تزايد السرطانات مرة أخرى"
+          ],
+          "answer": 2,
+          "explanation_ar": "أظهرت نماذج الحيوانات فعالية واضحة مع مكاسب في معدلات البقاء."
+        }
+      ]
+    },
+    {
+      "pmid": "41284733",
+      "title_ar": "دور انقطاع النفس النومي الانسدادي وعلاج CPAP في نقص هرمون التستوستيرون الوظيفي لدى المرضى الذكور الذين يعانون من السمنة المفرطة الشديدة.",
+      "title_en": "The Role of Obstructive Sleep Apnea and CPAP Therapy in the Functional Hypogonadism of Male Patients With Severe Obesity.",
+      "journal": "The Journal of clinical endocrinology and metabolism",
+      "pub_date": "2026-Apr-22",
+      "doi": "10.1210/clinem/dgaf635",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41284733/",
+      "pdf_url": "https://academic.oup.com/jcem/advance-article-pdf/doi/10.1210/clinem/dgaf635/65492549/dgaf635.pdf",
+      "summary_ar": "تهدف هذه الدراسة إلى التحقيق في دور انقطاع النفس النومي الانسدادي (OSAS) في تقليل مستويات هرمون التستوستيرون لدى الرجال الذين يعانون من السمنة المفرطة الشديدة. تمت دراسة 204 مرضى، حيث أظهر 127 منهم انخفاضًا في هرمون التستوستيرون. وجدت النتائج أن OSAS، خاصة في حالته المعوضة، ترتبط بشكل مستقل بانخفاض مستويات التستوستيرون. بعد 3 أشهر من علاج CPAP، تحسنت مستويات التستوستيرون.",
+      "summary_en": "This study aimed to investigate the role of obstructive sleep apnea syndrome (OSAS) in decreasing testosterone levels in men with severe obesity. Among 204 patients studied, 127 displayed low testosterone levels. The findings indicated that OSAS, particularly in its compensated state, was independently associated with low testosterone. After 3 months of CPAP treatment, testosterone levels improved.",
+      "practice_change_ar": "يجب على الأطباء النظر في علاج CPAP للمرضى الذكور الذين يعانون من السمنة المفرطة ومتلازمة OSAS لتحسين مستويات هرمون التستوستيرون.",
+      "practice_change_en": "Clinicians should consider CPAP treatment for male patients with severe obesity and OSAS to improve testosterone levels.",
+      "future_impact_ar": "يمكن أن تؤدي نتائج هذه الدراسة إلى تحسين نهج معالجة نقص هرمون التستوستيرون في السمنة المفرطة.",
+      "future_impact_en": "The study's results may lead to improved management strategies for testosterone deficiency in severe obesity.",
+      "why_important_ar": "تسلط هذه الدراسة الضوء على العلاقة بين السمنة المفرطة وانقطاع النفس النومي وتأثيرهما على صحة الهرمونات.",
+      "why_important_en": "This study highlights the relationship between severe obesity and sleep apnea and their impact on hormonal health.",
+      "vs_previous_ar": "تقدم هذه الدراسة رؤى جديدة حول تأثير علاج CPAP على مستويات التستوستيرون، وهو جانب لم تتم دراسته بشكل كافٍ سابقًا.",
+      "vs_previous_en": "This study provides new insights into the effect of CPAP treatment on testosterone levels, an aspect that has not been adequately studied before.",
+      "stars": 4,
+      "stars_reason_ar": "تقديم معلومات جديدة هامة حول العلاقة بين السمنة وأنماط النوم وانخفاض مستويات التستوستيرون.",
+      "journal_club": true,
+      "jc_reason_ar": "تقدم الدراسة بيانات مهمة حول إدارة نقص هرمون التستوستيرون في سياق السمنة.",
+      "watch": true,
+      "watch_detail_ar": "يرجى متابعة التطورات في علاج CPAP وتأثيراته على مستويات الهرمونات.",
+      "watch_type": "device",
+      "research_gap_ar": "توجد فجوة في الأبحاث المتعلقة بتأثير CPAP على مستويات هرمون التستوستيرون لدى الرجال الذين يعانون من السمنة.",
+      "subspecialty": "sleep",
+      "audio_script_ar": "في هذه الدراسة، تم التحقيق في دور انقطاع النفس النومي الانسدادي وعلاجه باستخدام CPAP في نقص هرمون التستوستيرون لدى الرجال الذين يعانون من السمنة المفرطة. أظهرت الدراسة أن 127 من 204 رجال يعانون من انخفاض مستويات هذا الهرمون. وعادة ما يرتبط مستوى هرمون التستوستيرون المنخفض بالوزن، ومرض السكري من النوع الثاني، والتهاب البروتين سي، مما يزيد من أهمية هذه النتائج. بعد 3 أشهر من علاج CPAP، لوحظ تحسن كبير في مستويات هرمون التستوستيرون. وبالتالي، يمكن أن تؤدي هذه النتائج إلى تحسين طرق العلاج لهذا النوع من المرضى.",
+      "mcq": [
+        {
+          "q_ar": "ما هو تأثير علاج CPAP على مستويات هرمون التستوستيرون بعد 3 أشهر؟",
+          "options_ar": [
+            "أ) لا يؤثر",
+            "ب) يزيد",
+            "ج) يقلل",
+            "د) لا يوجد تأثير"
+          ],
+          "answer": 1,
+          "explanation_ar": "علاج CPAP أظهر تحسناً ملحوظاً في مستويات هرمون التستوستيرون بعد 3 أشهر."
+        },
+        {
+          "q_ar": "ما هي النسبة المئوية للمرضى الذين أظهروا انخفاض مستوى هرمون التستوستيرون؟",
+          "options_ar": [
+            "أ) 50%",
+            "ب) 60%",
+            "ج) 70%",
+            "د) 62%"
+          ],
+          "answer": 3,
+          "explanation_ar": "أظهر 127 من 204 مرضى انخفاض مستوى هرمون التستوستيرون، أي حوالي 62%."
+        },
+        {
+          "q_ar": "ما هو العقبة الرئيسية المعوفة في الدراسة بالنسبة لمرضى OSAS؟",
+          "options_ar": [
+            "أ) قلة النوم",
+            "ب) نقص هرمون التستوستيرون",
+            "ج) السكري من النوع الثاني",
+            "د) التهاب البروتين سي"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان نقص هرمون التستوستيرون العقبة الرئيسية المعوفة في الدراسة، مرتبطًا بـ OSAS."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026042201",
+      "title_ar": "تقرير حجم سوق أجهزة الأذن والأنف والحنجرة والأجزاء المشتركة (2026-2034)",
+      "title_en": "ENT Devices Market Size and Share Report (2026-2034)",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-04-22",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت Fortune Business Insights تقريرًا عن الحجم المتوقع وحصة سوق أجهزة الأذن والأنف والحنجرة من 2026 إلى 2034. يسلط التقرير الضوء على اتجاهات النمو واللاعبين الرئيسيين في السوق والتقنيات الناشئة في قطاع الأذن والأنف والحنجرة. يقدم تقرير لمحة عن العوامل الدافعة للنمو والتحديات المحتملة التي تواجه الصناعة.",
+      "summary_en": "Fortune Business Insights has published a report on the projected size and share of the ENT devices market from 2026 to 2034. The report highlights growth trends, key players in the market, and emerging technologies in the ENT sector. It provides insights into factors driving growth and potential challenges facing the industry.",
+      "practice_change_ar": "يوفر هذا التقرير لأطباء الأنف والأذن والحنجرة رؤى سوقية قيمة، مما يمكنهم من اتخاذ قرارات مستنيرة بشأن اعتماد تقنيات جديدة.",
+      "practice_change_en": "This report provides ENT surgeons with valuable market insights, enabling them to make informed decisions about adopting new technologies.",
+      "future_impact_ar": "تشير الزيادة المتوقعة في سوق أجهزة الأذن والأنف والحنجرة إلى تحول نحو تقنيات متقدمة يمكن أن تحسن نتائج المرضى.",
+      "future_impact_en": "The projected growth in the ENT devices market indicates a shift towards advanced technologies that may improve patient outcomes.",
+      "why_important_ar": "يمكن أن يساعد فهم اتجاهات السوق الجراحين على مواءمة ممارساتهم مع التطورات المستقبلية في هذا المجال.",
+      "why_important_en": "Understanding market trends can help surgeons align their practices with future developments in the field.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "التقرير يقدم معلومات قيمة حول الاتجاهات المستقبلية في السوق.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "مرحبًا بكم في نشرة ORL-Bar Daily. في خبر اليوم، نشرت Fortune Business Insights تقريرًا جديدًا يتناول حجم سوق أجهزة الأذن والأنف والحنجرة من 2026 إلى 2034. يسلط التقرير الضوء على الاتجاهات الحالية ونمو السوق المتوقع في هذا القطاع. وبهذا، يمكن لأطباء الأذن والأنف والحنجرة استخدام هذه المعلومات للتخطيط لممارساتهم المستقبلية والاستثمار في التكنولوجيا الجديدة لتحقيق أفضل نتائج للمرضى.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026042202",
+      "title_ar": "حجم السوق الأمريكية للأجهزة السمعية والأنف والأذن والحنجرة وحصتها بحلول عام 2030",
+      "title_en": "U.S. ENT Devices Market Size and Share by 2030",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-04-22",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "وفقًا لتقرير صادر عن Grand View Research ، من المتوقع أن يشهد سوق الأجهزة السمعية والأنف والأذن والحنجرة في الولايات المتحدة نموًا كبيرًا بحلول عام 2030. يحدد التقرير الاتجاهات الرئيسية التي تدفع السوق ، بما في ذلك التقدم في التكنولوجيا وزيادة الطلب على الإجراءات الأقل تدخلًا. يُعزى هذا النمو إلى زيادة النفقات الصحية وشيخوخة السكان الذين يحتاجون إلى حلول لأمراض الأنف والأذن والحنجرة. يقدم التقرير رؤى شاملة حول حجم السوق وحصصه وتوقعات لفئات الأجهزة المختلفة.",
+      "summary_en": "According to a report by Grand View Research, the U.S. ENT devices market is expected to experience significant growth by 2030. The report outlines key trends driving the market, including advancements in technology and increasing demand for less invasive procedures. This growth is attributed to rising healthcare expenditures and an aging population requiring ENT solutions. The report provides comprehensive insights into market size, shares, and forecasts for various device segments.",
+      "practice_change_ar": "هذا النمو في سوق أجهزة الأنف والأذن والحنجرة يبرز أهمية بقاء الجراحين الممارسين على اطلاع بأحدث التقنيات والأجهزة.",
+      "practice_change_en": "This growth in the ENT devices market underscores the importance for practicing surgeons to stay updated with the latest technologies and devices.",
+      "future_impact_ar": "تشير النتائج المتوقعة لسوق أجهزة الأنف والأذن والحنجرة إلى زيادة الفرص للابتكار وتحسين نتائج المرضى.",
+      "future_impact_en": "The anticipated growth of the ENT devices market indicates increased opportunities for innovation and improved patient outcomes.",
+      "why_important_ar": "سيحتاج جراحي الأنف والأذن والحنجرة الممارسون إلى تعديل تقنياتهم ومعداتهم في ظل هذه التطورات.",
+      "why_important_en": "Practicing ENT surgeons will need to adapt their techniques and equipment in light of these advancements.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "تأثير كبير على التطورات المستقبلية في التكنولوجيا والنتائج السريرية.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أهلاً وسهلاً بكم. اليوم نتحدث عن تقرير مثير يسلط الضوء على توقعات سوق الأجهزة السمعية والأنف والأذن والحنجرة في الولايات المتحدة بحلول عام 2030. يشير التقرير إلى نمو كبير في السوق بفضل التقدم التكنولوجي وزيادة الطلب على الإجراءات الأقل تدخلًا. مع شيخوخة السكان وزيادة النفقات الصحية، يجب على الجراحين البقاء على اطلاع بأحدث التقنيات لضمان أفضل الرعاية للمرضى. هذا النمو يعكس فرصًا مهمة للابتكار في مجال الأنف والأذن والحنجرة.",
+      "mcq": []
+    }
+  ]
+}
