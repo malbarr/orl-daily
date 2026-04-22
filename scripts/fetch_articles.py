@@ -418,7 +418,7 @@ def send_telegram(date_str: str, articles: list) -> None:
 
     lines += [
         "",
-        f"\U0001f48a Drug Watch: {'\u0646\u0639\u0645' if dw_any else '\u0644\u0627'}",
+        "\U0001f48a Drug Watch: " + ("\u0646\u0639\u0645" if dw_any else "\u0644\u0627"),
         f"\U0001f3af Journal Club: {jc_count} \u0645\u0642\u0627\u0644\u0627\u062a",
         "",
         f"\U0001f517 {SITE_URL}",
