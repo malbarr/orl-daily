@@ -180,22 +180,38 @@ body.lang-en {
 .lang-ar .search-icon { right: auto; left: 0.7rem; }
 
 /* Language toggle button */
-.btn-lang {
-  background: rgba(255,255,255,0.14);
-  border: 1px solid rgba(255,255,255,0.28);
-  border-radius: 20px;
-  color: #fff;
-  cursor: pointer;
-  font-size: 0.82rem;
-  font-weight: 700;
-  padding: 0.3rem 0.85rem;
-  transition: var(--transition);
-  white-space: nowrap;
-  font-family: var(--font-ui);
+.lang-switcher {
+  display: flex;
+  align-items: center;
+  gap: 0.2rem;
   flex-shrink: 0;
+  background: rgba(255,255,255,0.08);
+  border-radius: 20px;
+  padding: 0.18rem 0.3rem;
+  border: 1px solid rgba(255,255,255,0.2);
 }
 
-.btn-lang:hover { background: rgba(255,255,255,0.28); }
+.lang-btn {
+  background: transparent;
+  border: none;
+  border-radius: 16px;
+  color: rgba(255,255,255,0.65);
+  cursor: pointer;
+  font-size: 0.78rem;
+  font-weight: 700;
+  padding: 0.22rem 0.65rem;
+  transition: var(--transition);
+  font-family: var(--font-ui);
+  white-space: nowrap;
+}
+
+.lang-btn:hover { color: #fff; background: rgba(255,255,255,0.15); }
+
+.lang-btn.active {
+  background: rgba(255,255,255,0.25);
+  color: #fff;
+  border: 1px solid rgba(255,255,255,0.4);
+}
 
 /* Date picker */
 .date-picker-wrap {
@@ -1099,14 +1115,8 @@ audio {
 
   .site-logo { font-size: 1.1rem; }
 
-  /* Lang button: always visible, bigger on mobile */
-  .btn-lang {
-    font-size: 0.92rem;
-    padding: 0.4rem 1.1rem;
-    background: rgba(255,255,255,0.22);
-    border: 2px solid rgba(255,255,255,0.5);
-    order: -1;           /* keep near logo */
-  }
+  /* Lang switcher: always visible on mobile */
+  .lang-switcher { order: -1; flex-shrink: 0; }
 
   /* Push search + date picker to second row */
   .header-search { order: 10; flex-basis: 100%; }

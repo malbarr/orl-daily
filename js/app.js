@@ -17,7 +17,7 @@ const SUBSPEC_LABELS = {
     laryngology: 'الحنجرة',
     otology:     'الأذن',
     head_neck:   'الرأس والرقبة',
-    pediatric:   'أمراض الأطفال',
+    pediatric:   'Pediatric ENT',
     sleep:       'اضطرابات النوم',
     business:    'الاقتصاد والصناعة',
     general:     'عام',
@@ -28,7 +28,7 @@ const SUBSPEC_LABELS = {
     laryngology: 'Laryngology',
     otology:     'Otology',
     head_neck:   'Head & Neck',
-    pediatric:   'Pediatric',
+    pediatric:   'Pediatric ENT',
     sleep:       'Sleep Medicine',
     business:    'Business / Industry',
     general:     'General',
@@ -39,7 +39,7 @@ const SUBSPEC_LABELS = {
     laryngology: 'Laringología',
     otology:     'Otología',
     head_neck:   'Cabeza y Cuello',
-    pediatric:   'Pediátrico',
+    pediatric:   'Pediatric ENT',
     sleep:       'Trastornos del Sueño',
     business:    'Negocios / Industria',
     general:     'General',
@@ -150,12 +150,10 @@ function applyLang(lang, save = true) {
   document.documentElement.setAttribute('lang', lang);
   document.documentElement.setAttribute('dir', lang === 'ar' ? 'rtl' : 'ltr');
 
-  const btn = $('#btn-lang');
-  if (btn) {
-    const nextLabel = { en: 'عربي', ar: 'ES', es: 'EN' };
-    btn.textContent = nextLabel[lang] || 'EN';
-    btn.setAttribute('aria-label', 'Switch language');
-  }
+  // Update lang-switcher active state
+  $$('.lang-btn').forEach(b => {
+    b.classList.toggle('active', b.dataset.lang === lang);
+  });
 
   const search = $('#search-input');
   if (search) {
@@ -934,9 +932,10 @@ function setActiveFilterTab(filter) {
 
 // ── Header Bindings ────────────────────────────────────────────────────────────
 function bindHeader() {
-  // Language toggle
-  const btnLang = document.getElementById('btn-lang');
-  if (btnLang) btnLang.addEventListener('click', toggleLang);
+  // Language switcher buttons
+  $$('.lang-btn').forEach(btn => {
+    btn.addEventListener('click', () => applyLang(btn.dataset.lang));
+  });
 
   // Search
   const searchInput = document.getElementById('search-input');

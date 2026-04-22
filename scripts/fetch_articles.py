@@ -226,7 +226,7 @@ Abstract: {abstract}
 JSON fields required:
 - title_ar: Arabic translation of title
 - title_en: original English title
-- summary_ar: 5-7 line Arabic summary (keep medical terms in English)
+- summary_ar: 5-7 sentence Arabic summary. IMPORTANT: keep ALL medical/anatomical/procedural terms in English (e.g. "cochlear implant", "FESS", "tympanoplasty", "CPAP", "endoscope") — only translate connecting words and explanations to Arabic
 - summary_en: 5-7 line English summary
 - practice_change_ar: one sentence - what changes in clinical practice today
 - practice_change_en: same in English
