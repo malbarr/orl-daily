@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 .env
 audio/*.mp3
+.github/
