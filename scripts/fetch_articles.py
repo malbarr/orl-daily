@@ -40,9 +40,13 @@ MAX_BUSINESS_ARTICLES = 3
 
 ENT_QUERY = (
     "(otolaryngology[MeSH] OR rhinology[tiab] OR \"skull base\"[tiab] OR "
+    "\"anterior skull base\"[tiab] OR \"lateral skull base\"[tiab] OR "
     "laryngology[tiab] OR otology[tiab] OR \"nasal polyp\"[tiab] OR sinusitis[tiab] OR "
     "\"cochlear implant\"[tiab] OR \"head and neck\"[tiab] OR \"vocal cord\"[tiab] OR "
-    "\"sleep apnea\"[tiab] OR tonsillectomy[tiab])"
+    "\"sleep apnea\"[tiab] OR tonsillectomy[tiab] OR "
+    "\"endoscopic skull base\"[tiab] OR \"sinus surgery\"[tiab] OR "
+    "\"laryngeal cancer\"[tiab] OR \"thyroid surgery\"[tiab] OR "
+    "\"otitis media\"[tiab] OR \"vestibular\"[tiab])"
 )
 
 DATA_DIR = Path(__file__).parent.parent / "data"
@@ -236,10 +240,11 @@ JSON fields required:
 - stars_reason_ar: brief reason for star rating
 - journal_club: boolean
 - jc_reason_ar: reason if journal_club is true, else null
-- drug_watch: boolean (true if treatment from another specialty being tried in ENT)
-- drug_watch_detail_ar: detail if drug_watch true, else null
+- watch: boolean (true if article features a noteworthy drug, device, instrument, or technology worth tracking — including drugs from other specialties tried in ENT, new surgical instruments, AI tools, imaging advances, or emerging tech)
+- watch_detail_ar: one sentence describing what to watch and why, or null if watch is false
+- watch_type: one of "drug" | "device" | "technology" | "instrument" | null
 - research_gap_ar: one sentence research gap identified, or null
-- subspecialty: one of: rhinology, laryngology, otology, head_neck, pediatric, sleep, general
+- subspecialty: one of: rhinology, skull_base, laryngology, otology, head_neck, pediatric, sleep, general
 - audio_script_ar: 2-3 minute Arabic audio script covering all analysis points
 - mcq: array of exactly 3 objects, each with: q_ar, options_ar (array of 4 strings with \u0623) \u0628) \u062c) \u062f) prefix), answer (0-3 index of correct), explanation_ar
 """
@@ -272,8 +277,9 @@ JSON fields required:
 - stars_reason_ar: brief reason for star rating
 - journal_club: false
 - jc_reason_ar: null
-- drug_watch: false
-- drug_watch_detail_ar: null
+- watch: false
+- watch_detail_ar: null
+- watch_type: null
 - research_gap_ar: null
 - subspecialty: "business"
 - audio_script_ar: 1-2 minute Arabic audio script about the news
@@ -517,11 +523,12 @@ def main() -> None:
             "vs_previous_en":       analysis.get("vs_previous_en", ""),
             "stars":                int(analysis.get("stars", 3)),
             "stars_reason_ar":      analysis.get("stars_reason_ar", ""),
-            "journal_club":         bool(analysis.get("journal_club", False)),
-            "jc_reason_ar":         analysis.get("jc_reason_ar", None),
-            "drug_watch":           bool(analysis.get("drug_watch", False)),
-            "drug_watch_detail_ar": analysis.get("drug_watch_detail_ar", None),
-            "research_gap_ar":      analysis.get("research_gap_ar", None),
+            "journal_club":   bool(analysis.get("journal_club", False)),
+            "jc_reason_ar":   analysis.get("jc_reason_ar", None),
+            "watch":          bool(analysis.get("watch", False)),
+            "watch_detail_ar":analysis.get("watch_detail_ar", None),
+            "watch_type":     analysis.get("watch_type", None),
+            "research_gap_ar":analysis.get("research_gap_ar", None),
             "subspecialty":         analysis.get("subspecialty", "general"),
             "audio_script_ar":      analysis.get("audio_script_ar", ""),
             "mcq":                  analysis.get("mcq", []),
@@ -576,12 +583,13 @@ def main() -> None:
             "vs_previous_en":       "",
             "stars":                int(biz_analysis.get("stars", 3)),
             "stars_reason_ar":      biz_analysis.get("stars_reason_ar", ""),
-            "journal_club":         False,
-            "jc_reason_ar":         None,
-            "drug_watch":           False,
-            "drug_watch_detail_ar": None,
-            "research_gap_ar":      None,
-            "subspecialty":         "business",
+            "journal_club":   False,
+            "jc_reason_ar":   None,
+            "watch":          False,
+            "watch_detail_ar":None,
+            "watch_type":     None,
+            "research_gap_ar":None,
+            "subspecialty":   "business",
             "audio_script_ar":      biz_analysis.get("audio_script_ar", ""),
             "mcq":                  [],
         }

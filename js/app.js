@@ -237,8 +237,8 @@ function getFilteredArticles() {
 
   if (state.filter === 'jc') {
     articles = articles.filter(a => a.journal_club);
-  } else if (state.filter === 'dw') {
-    articles = articles.filter(a => a.drug_watch);
+  } else if (state.filter === 'watch') {
+    articles = articles.filter(a => a.watch || a.drug_watch);
   } else if (state.filter !== 'all') {
     articles = articles.filter(a => a.subspecialty === state.filter);
   }
@@ -304,8 +304,10 @@ function buildCard(article) {
 
   const jcBadge = article.journal_club
     ? `<span class="badge jc" aria-label="Journal Club">🎯 JC</span>` : '';
-  const dwBadge = article.drug_watch
-    ? `<span class="badge dw" aria-label="Drug Watch">💊 Drug Watch</span>` : '';
+  const watchActive = article.watch || article.drug_watch;
+  const watchIcon = { drug: '💊', device: '🔬', technology: '💡', instrument: '🔧' }[article.watch_type] || '👁';
+  const dwBadge = watchActive
+    ? `<span class="badge dw" aria-label="Watch">${watchIcon} Watch</span>` : '';
 
   card.innerHTML = `
     <div class="card-subspecialty-bar ${escAttr(subspec)}" aria-hidden="true"></div>
@@ -430,9 +432,13 @@ function buildArticleModal(article) {
   const jcBadge = article.journal_club
     ? `<span class="badge jc" style="font-size:0.82rem;padding:0.25rem 0.8rem;">🎯 Journal Club${article.jc_reason_ar ? ' — ' + escHtml(article.jc_reason_ar) : ''}</span>` : '';
 
-  const dwBanner = (article.drug_watch && article.drug_watch_detail_ar)
+  const watchDetail = article.watch_detail_ar || article.drug_watch_detail_ar;
+  const watchIsActive = article.watch || article.drug_watch;
+  const wIcon = { drug: '💊', device: '🔬', technology: '💡', instrument: '🔧' }[article.watch_type] || '👁';
+  const wLabel = { drug: 'Drug Watch', device: 'Device Watch', technology: 'Tech Watch', instrument: 'Instrument Watch' }[article.watch_type] || 'Watch';
+  const dwBanner = (watchIsActive && watchDetail)
     ? `<div class="drug-watch-banner" role="alert">
-        💊 <strong>Drug Watch:</strong> ${escHtml(article.drug_watch_detail_ar)}
+        ${wIcon} <strong>${wLabel}:</strong> ${escHtml(watchDetail)}
        </div>` : '';
 
   const researchGap = article.research_gap_ar
