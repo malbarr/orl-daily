@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """
-ORL Daily — fetch_articles.py
-Fetches ENT articles from PubMed, analyzes with Claude AI, saves JSON data files,
+ORL-Bar Daily — fetch_articles.py
+Fetches ENT articles from PubMed, analyzes with OpenAI GPT, saves JSON data files,
 updates the date index, prunes old files, and sends a Telegram notification.
+Also fetches ENT industry/business news from Google News RSS and analyzes as business articles.
 """
 
 import os
@@ -13,10 +14,11 @@ import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
-import anthropic
+from openai import OpenAI
+import html as html_module
 
 # ─── Configuration ─────────────────────────────────────────────────────────────
-ANTHROPIC_API_KEY   = os.environ.get("ANTHROPIC_API_KEY", "")
+OPENAI_API_KEY      = os.environ.get("OPENAI_API_KEY", "")
 TELEGRAM_BOT_TOKEN  = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 TELEGRAM_CHAT_ID    = os.environ.get("TELEGRAM_CHAT_ID", "1276595563")
 EMAIL_FOR_UNPAYWALL = "orl-daily@gmail.com"
@@ -27,6 +29,14 @@ KEEP_DAYS           = 60
 PUBMED_SEARCH_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
 PUBMED_FETCH_URL  = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
 UNPAYWALL_URL     = "https://api.unpaywall.org/v2/{doi}?email=" + EMAIL_FOR_UNPAYWALL
+
+# Business/Industry news RSS from Google News
+BUSINESS_RSS = (
+    "https://news.google.com/rss/search?"
+    "q=ENT+otolaryngology+medical+device+Stryker+Medtronic+Karl+Storz"
+    "&hl=en&gl=US&ceid=US:en"
+)
+MAX_BUSINESS_ARTICLES = 3
 
 ENT_QUERY = (
     "(otolaryngology[MeSH] OR rhinology[tiab] OR \"skull base\"[tiab] OR "
@@ -235,36 +245,107 @@ JSON fields required:
 """
 
 
-def analyze_with_claude(article: dict, client: anthropic.Anthropic) -> dict:
-    """
-    Send article to Claude for analysis. Returns parsed JSON dict.
-    Raises exception on failure (caller should catch and skip).
-    """
+BUSINESS_SYSTEM_PROMPT = (
+    "You are a business editor for ORL-Bar Daily, an ENT industry news digest. "
+    "You analyze ENT industry news (acquisitions, lawsuits, stock moves, FDA decisions) "
+    "and return structured JSON for ENT surgeons. "
+    "Return ONLY valid JSON — no markdown fences, no explanation, no preamble."
+)
+
+BUSINESS_ANALYSIS_PROMPT = """Analyze this ENT industry/business news item and return ONLY a valid JSON object (no markdown fences).
+
+Title: {title}
+Description: {description}
+
+JSON fields required:
+- title_en: cleaned English headline
+- title_ar: Arabic translation of headline
+- summary_en: 3-5 sentences — what happened (acquisition, lawsuit, stock move, FDA decision, etc.)
+- summary_ar: same in Arabic
+- practice_change_en: one sentence — why this matters to practicing ENT surgeons
+- practice_change_ar: same in Arabic
+- why_important_en: one sentence — clinical/practice impact
+- why_important_ar: same in Arabic
+- future_impact_en: one sentence — what this means for ENT going forward
+- future_impact_ar: same in Arabic
+- stars: integer 1-5 (importance to ENT surgeons)
+- stars_reason_ar: brief reason for star rating
+- journal_club: false
+- jc_reason_ar: null
+- drug_watch: false
+- drug_watch_detail_ar: null
+- research_gap_ar: null
+- subspecialty: "business"
+- audio_script_ar: 1-2 minute Arabic audio script about the news
+- mcq: []
+"""
+
+
+# ─── Business / Industry news ────────────────────────────────────────────────────
+
+def fetch_business_news() -> list:
+    """Fetch ENT industry news from Google News RSS. Returns list of {title, description} dicts."""
+    try:
+        r = requests.get(BUSINESS_RSS, timeout=30, headers={"User-Agent": "ORL-Bar-Daily/1.0"})
+        r.raise_for_status()
+        root = ET.fromstring(r.content)
+        items = root.findall(".//item")
+        results = []
+        for item in items[:MAX_BUSINESS_ARTICLES]:
+            title_el = item.find("title")
+            desc_el  = item.find("description")
+            title = html_module.unescape((title_el.text or "").strip()) if title_el is not None else ""
+            desc  = html_module.unescape((desc_el.text  or "").strip()) if desc_el  is not None else ""
+            if title:
+                results.append({"title": title, "description": desc})
+        print(f"[Business RSS] Fetched {len(results)} news items.")
+        return results
+    except Exception as e:
+        print(f"[Business RSS] Error: {e}")
+        return []
+
+
+def _strip_fences(raw: str) -> str:
+    if raw.startswith("```"):
+        lines = raw.split("\n")
+        raw = "\n".join(lines[1:-1] if lines[-1].strip() == "```" else lines[1:])
+    return raw.strip()
+
+
+def analyze_business_with_openai(item: dict, client: OpenAI) -> dict:
+    """Analyze a business news item with OpenAI. Returns parsed JSON dict."""
+    prompt = BUSINESS_ANALYSIS_PROMPT.format(
+        title       = item["title"],
+        description = item.get("description", "(no description)"),
+    )
+    response = client.chat.completions.create(
+        model      = "gpt-4o-mini",
+        max_tokens = 2048,
+        messages   = [
+            {"role": "system", "content": BUSINESS_SYSTEM_PROMPT},
+            {"role": "user",   "content": prompt},
+        ],
+    )
+    raw = _strip_fences(response.choices[0].message.content.strip())
+    return json.loads(raw)
+
+
+def analyze_with_openai(article: dict, client: OpenAI) -> dict:
+    """Send article to OpenAI for analysis. Returns parsed JSON dict."""
     prompt = ANALYSIS_PROMPT.format(
         title    = article["title"],
         journal  = article["journal"],
         abstract = article["abstract"] or "(no abstract available)",
     )
-
-    message = client.messages.create(
-        model      = "claude-sonnet-4-6",
+    response = client.chat.completions.create(
+        model      = "gpt-4o-mini",
         max_tokens = 4096,
-        system     = SYSTEM_PROMPT,
-        messages   = [{"role": "user", "content": prompt}],
+        messages   = [
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user",   "content": prompt},
+        ],
     )
-
-    raw = message.content[0].text.strip()
-
-    # Strip markdown code fences if Claude adds them despite instructions
-    if raw.startswith("```"):
-        lines = raw.split("\n")
-        # Remove first line (```json or ```) and last line (```)
-        if lines[-1].strip() == "```":
-            raw = "\n".join(lines[1:-1])
-        else:
-            raw = "\n".join(lines[1:])
-        raw = raw.strip()
-
+    raw = _strip_fences(response.choices[0].message.content.strip())
     return json.loads(raw)
 
 
@@ -322,7 +403,7 @@ def send_telegram(date_str: str, articles: list) -> None:
     dw_any   = any(a.get("drug_watch") for a in articles)
 
     lines = [
-        f"\U0001f4f0 <b>ORL Daily \u2014 {date_str}</b>",
+        f"\U0001f4f0 <b>ORL-Bar Daily \u2014 {date_str}</b>",
         "\u2501" * 14,
         f"{n} \u0645\u0642\u0627\u0644\u0627\u062a \u062c\u062f\u064a\u062f\u0629",
         "",
@@ -362,13 +443,13 @@ def send_telegram(date_str: str, articles: list) -> None:
 # ─── Main ───────────────────────────────────────────────────────────────────────
 
 def main() -> None:
-    if not ANTHROPIC_API_KEY:
-        print("[Error] ANTHROPIC_API_KEY not set.")
+    if not OPENAI_API_KEY:
+        print("[Error] OPENAI_API_KEY not set.")
         sys.exit(1)
 
-    print(f"=== ORL Daily fetch for {TODAY} ===")
+    print(f"=== ORL-Bar Daily fetch for {TODAY} ===")
 
-    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+    client = OpenAI(api_key=OPENAI_API_KEY)
 
     # 1. Search PubMed
     print("[Step 1] Searching PubMed…")
@@ -404,14 +485,14 @@ def main() -> None:
             print(f"    PDF found: {pdf_url[:80]}")
         time.sleep(0.5)  # polite delay for Unpaywall
 
-        # Claude analysis
+        # OpenAI analysis
         try:
-            analysis = analyze_with_claude(raw, client)
+            analysis = analyze_with_openai(raw, client)
         except json.JSONDecodeError as e:
-            print(f"    [!] Claude returned invalid JSON: {e} — skipping PMID {pmid}")
+            print(f"    [!] OpenAI returned invalid JSON: {e} — skipping PMID {pmid}")
             continue
         except Exception as e:
-            print(f"    [!] Claude error for PMID {pmid}: {e} — skipping")
+            print(f"    [!] OpenAI error for PMID {pmid}: {e} — skipping")
             continue
 
         # Build the final record
@@ -455,6 +536,60 @@ def main() -> None:
         sys.exit(0)
 
     print(f"[Main] Successfully analyzed {len(analyzed)}/{len(raw_articles)} articles.")
+
+    # 3b. Fetch and analyze business/industry news
+    print("[Step 3b] Fetching ENT industry/business news…")
+    business_items = fetch_business_news()
+    biz_counter = 1
+    for item in business_items:
+        title_short = item.get("title", "")[:70]
+        print(f"  [BIZ{biz_counter}] {title_short}…")
+        try:
+            biz_analysis = analyze_business_with_openai(item, client)
+        except json.JSONDecodeError as e:
+            print(f"    [!] OpenAI returned invalid JSON for business item: {e} — skipping")
+            biz_counter += 1
+            continue
+        except Exception as e:
+            print(f"    [!] OpenAI error for business item: {e} — skipping")
+            biz_counter += 1
+            continue
+
+        biz_record = {
+            "pmid":                 f"BIZ{TODAY.replace('-','')}{biz_counter:02d}",
+            "title_ar":             biz_analysis.get("title_ar", item["title"]),
+            "title_en":             biz_analysis.get("title_en", item["title"]),
+            "journal":              "ENT Industry News",
+            "pub_date":             TODAY,
+            "doi":                  "",
+            "pubmed_url":           "",
+            "pdf_url":              None,
+            "summary_ar":           biz_analysis.get("summary_ar", ""),
+            "summary_en":           biz_analysis.get("summary_en", ""),
+            "practice_change_ar":   biz_analysis.get("practice_change_ar", ""),
+            "practice_change_en":   biz_analysis.get("practice_change_en", ""),
+            "future_impact_ar":     biz_analysis.get("future_impact_ar", ""),
+            "future_impact_en":     biz_analysis.get("future_impact_en", ""),
+            "why_important_ar":     biz_analysis.get("why_important_ar", ""),
+            "why_important_en":     biz_analysis.get("why_important_en", ""),
+            "vs_previous_ar":       "",
+            "vs_previous_en":       "",
+            "stars":                int(biz_analysis.get("stars", 3)),
+            "stars_reason_ar":      biz_analysis.get("stars_reason_ar", ""),
+            "journal_club":         False,
+            "jc_reason_ar":         None,
+            "drug_watch":           False,
+            "drug_watch_detail_ar": None,
+            "research_gap_ar":      None,
+            "subspecialty":         "business",
+            "audio_script_ar":      biz_analysis.get("audio_script_ar", ""),
+            "mcq":                  [],
+        }
+        analyzed.append(biz_record)
+        biz_counter += 1
+        time.sleep(1.5)
+
+    print(f"[Main] Total articles (PubMed + Business): {len(analyzed)}")
 
     # 4. Save daily data file
     print(f"[Step 4] Saving data/{TODAY}.json…")
