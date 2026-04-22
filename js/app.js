@@ -195,10 +195,10 @@ function formatDate(dateStr) {
     // Append noon UTC to avoid timezone day shifts
     const d = new Date(dateStr + 'T12:00:00Z');
     if (isNaN(d.getTime())) return dateStr;
-    const localeMap = { ar: 'ar-SA', es: 'es-ES' };
+    const localeMap = { ar: 'ar-SA-u-ca-gregory', es: 'es-ES' };
     const locale = localeMap[state.lang] || 'en-GB';
     return d.toLocaleDateString(locale, {
-      year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC'
+      year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC', calendar: 'gregory'
     });
   } catch {
     return dateStr;
