@@ -23,8 +23,11 @@ TELEGRAM_BOT_TOKEN  = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 TELEGRAM_CHAT_ID    = os.environ.get("TELEGRAM_CHAT_ID", "1276595563")
 EMAIL_FOR_UNPAYWALL = "orl-daily@gmail.com"
 SITE_URL            = "https://malbarrr.github.io/orl-daily"
-MAX_ARTICLES        = 10
+MAX_ARTICLES        = 20   # fetch more, then filter by quality
 KEEP_DAYS           = 60
+PRIORITY_SUBSPECIALTIES = {'rhinology', 'skull_base', 'laryngology'}
+MIN_STARS_PRIORITY  = 3   # rhinology/skull_base/laryngology: keep ≥ 3 stars
+MIN_STARS_GENERAL   = 4   # all others: keep ≥ 4 stars
 
 PUBMED_SEARCH_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
 PUBMED_FETCH_URL  = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
@@ -59,6 +62,19 @@ ENT_QUERY = (
     "\"obstructive sleep apnea\"[tiab] OR \"uvulopalatopharyngoplasty\"[tiab])"
 )
 
+# Priority query: Rhinology + Skull Base + Laryngology — last 2 days, catch everything
+PRIORITY_QUERY = (
+    "(rhinology[tiab] OR \"nasal polyp\"[tiab] OR \"chronic rhinosinusitis\"[tiab] OR "
+    "sinusitis[MeSH] OR \"nasal polyps\"[MeSH] OR septoplasty[tiab] OR "
+    "\"endoscopic sinus surgery\"[tiab] OR FESS[tiab] OR \"turbinate\"[tiab] OR "
+    "\"skull base\"[MeSH] OR \"skull base surgery\"[tiab] OR "
+    "\"endoscopic skull base\"[tiab] OR \"anterior skull base\"[tiab] OR "
+    "\"lateral skull base\"[tiab] OR \"pituitary surgery\"[tiab] OR "
+    "laryngology[tiab] OR \"vocal fold\"[tiab] OR \"vocal cord\"[MeSH] OR "
+    "larynx[MeSH] OR \"laryngeal cancer\"[tiab] OR \"subglottic\"[tiab] OR "
+    "\"supraglottic\"[tiab] OR \"laryngoscopy\"[tiab] OR \"phonosurgery\"[tiab])"
+)
+
 DATA_DIR = Path(__file__).parent.parent / "data"
 DATA_DIR.mkdir(exist_ok=True)
 
@@ -67,27 +83,32 @@ TODAY = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
 # ─── PubMed helpers ─────────────────────────────────────────────────────────────
 
-def search_pubmed() -> list:
-    """Search PubMed for recent ENT articles, return list of PMIDs."""
-    params = {
-        "db":       "pubmed",
-        "term":     ENT_QUERY,
-        "datetype": "pdat",
-        "reldate":  "1",
-        "retmax":   str(MAX_ARTICLES),
-        "sort":     "relevance",
-        "retmode":  "json",
-    }
+def _pubmed_search(query: str, reldate: int, retmax: int) -> list:
     try:
-        r = requests.get(PUBMED_SEARCH_URL, params=params, timeout=30)
+        r = requests.get(PUBMED_SEARCH_URL, params={
+            "db": "pubmed", "term": query, "datetype": "pdat",
+            "reldate": str(reldate), "retmax": str(retmax),
+            "sort": "relevance", "retmode": "json",
+        }, timeout=30)
         r.raise_for_status()
-        data = r.json()
-        pmids = data.get("esearchresult", {}).get("idlist", [])
-        print(f"[PubMed] Found {len(pmids)} PMIDs: {pmids}")
-        return pmids
+        return r.json().get("esearchresult", {}).get("idlist", [])
     except Exception as e:
         print(f"[PubMed] Search error: {e}")
         return []
+
+def search_pubmed() -> list:
+    """Search PubMed: priority subspecialties (2 days) + general ENT (1 day)."""
+    priority_pmids = _pubmed_search(PRIORITY_QUERY, reldate=2, retmax=15)
+    general_pmids  = _pubmed_search(ENT_QUERY,      reldate=1, retmax=MAX_ARTICLES)
+    # Merge, deduplicate, priority first
+    seen = set()
+    pmids = []
+    for p in priority_pmids + general_pmids:
+        if p not in seen:
+            seen.add(p)
+            pmids.append(p)
+    print(f"[PubMed] Priority: {len(priority_pmids)}, General: {len(general_pmids)}, Unique: {len(pmids)}")
+    return pmids
 
 
 def fetch_pubmed_xml(pmids: list) -> str:
@@ -552,7 +573,19 @@ def main() -> None:
         print("[Main] No articles successfully analyzed. Exiting.")
         sys.exit(0)
 
-    print(f"[Main] Successfully analyzed {len(analyzed)}/{len(raw_articles)} articles.")
+    # Quality filter
+    before = len(analyzed)
+    filtered = []
+    for a in analyzed:
+        sub   = a.get("subspecialty", "general")
+        stars = int(a.get("stars", 0))
+        min_s = MIN_STARS_PRIORITY if sub in PRIORITY_SUBSPECIALTIES else MIN_STARS_GENERAL
+        if stars >= min_s:
+            filtered.append(a)
+        else:
+            print(f"  [filter] Dropped {a.get('pmid')} ({sub}, {stars}⭐) — below threshold")
+    analyzed = filtered
+    print(f"[Main] After quality filter: {len(analyzed)}/{before} articles kept.")
 
     # 3b. Fetch and analyze business/industry news
     print("[Step 3b] Fetching ENT industry/business news…")
