@@ -39,14 +39,24 @@ BUSINESS_RSS = (
 MAX_BUSINESS_ARTICLES = 3
 
 ENT_QUERY = (
-    "(otolaryngology[MeSH] OR rhinology[tiab] OR \"skull base\"[tiab] OR "
-    "\"anterior skull base\"[tiab] OR \"lateral skull base\"[tiab] OR "
-    "laryngology[tiab] OR otology[tiab] OR \"nasal polyp\"[tiab] OR sinusitis[tiab] OR "
-    "\"cochlear implant\"[tiab] OR \"head and neck\"[tiab] OR \"vocal cord\"[tiab] OR "
-    "\"sleep apnea\"[tiab] OR tonsillectomy[tiab] OR "
-    "\"endoscopic skull base\"[tiab] OR \"sinus surgery\"[tiab] OR "
-    "\"laryngeal cancer\"[tiab] OR \"thyroid surgery\"[tiab] OR "
-    "\"otitis media\"[tiab] OR \"vestibular\"[tiab])"
+    # Specific ENT MeSH anchors — highly precise
+    "(otolaryngology[MeSH] OR \"otorhinolaryngologic diseases\"[MeSH] OR "
+    "sinusitis[MeSH] OR \"nasal polyps\"[MeSH] OR \"cochlear implants\"[MeSH] OR "
+    "tonsillectomy[MeSH] OR \"vocal cords\"[MeSH] OR larynx[MeSH] OR "
+    "\"otitis media\"[MeSH] OR \"head and neck neoplasms\"[MeSH] OR "
+    "\"sleep apnea, obstructive\"[MeSH] OR rhinoplasty[MeSH] OR "
+    "\"skull base\"[MeSH] OR mastoidectomy[MeSH] OR stapedectomy[MeSH] OR "
+    # Specific ENT procedural/anatomical terms safe to use as [tiab]
+    "tympanoplasty[tiab] OR septoplasty[tiab] OR FESS[tiab] OR "
+    "\"endoscopic sinus surgery\"[tiab] OR \"skull base surgery\"[tiab] OR "
+    "rhinology[tiab] OR otology[tiab] OR laryngology[tiab] OR "
+    "\"cochlear implant\"[tiab] OR \"stapedectomy\"[tiab] OR "
+    "\"vocal fold\"[tiab] OR \"subglottic\"[tiab] OR \"supraglottic\"[tiab] OR "
+    "\"nasal polyp\"[tiab] OR \"chronic rhinosinusitis\"[tiab] OR "
+    "\"laryngeal cancer\"[tiab] OR \"hypopharynx\"[tiab] OR "
+    "\"parotid\"[tiab] OR \"submandibular\"[tiab] OR "
+    "\"vestibular schwannoma\"[tiab] OR \"acoustic neuroma\"[tiab] OR "
+    "\"obstructive sleep apnea\"[tiab] OR \"uvulopalatopharyngoplasty\"[tiab])"
 )
 
 DATA_DIR = Path(__file__).parent.parent / "data"
