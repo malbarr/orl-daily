@@ -7,11 +7,13 @@
 :root {
   /* Subspecialty accent colors */
   --color-rhinology:   #c0392b;
+  --color-skull-base:  #8e44ad;
   --color-laryngology: #d35400;
   --color-otology:     #2980b9;
   --color-head-neck:   #27ae60;
-  --color-pediatric:   #8e44ad;
+  --color-pediatric:   #e67e22;
   --color-sleep:       #7f8c8d;
+  --color-business:    #2c3e50;
   --color-general:     #34495e;
 
   /* UI palette */
@@ -327,11 +329,13 @@ body.lang-en {
 }
 
 .card-subspecialty-bar.rhinology   { background: var(--color-rhinology); }
+.card-subspecialty-bar.skull_base  { background: var(--color-skull-base); }
 .card-subspecialty-bar.laryngology { background: var(--color-laryngology); }
 .card-subspecialty-bar.otology     { background: var(--color-otology); }
 .card-subspecialty-bar.head_neck   { background: var(--color-head-neck); }
 .card-subspecialty-bar.pediatric   { background: var(--color-pediatric); }
 .card-subspecialty-bar.sleep       { background: var(--color-sleep); }
+.card-subspecialty-bar.business    { background: var(--color-business); }
 .card-subspecialty-bar.general     { background: var(--color-general); }
 
 .card-body {
@@ -363,11 +367,13 @@ body.lang-en {
 /* Subspecialty badges */
 .badge.subspecialty { background: #eaf0f6; color: var(--color-text); text-transform: capitalize; }
 .badge.subspecialty.rhinology   { background: #fdecea; color: var(--color-rhinology); }
+.badge.subspecialty.skull_base  { background: #f3e8fc; color: var(--color-skull-base); }
 .badge.subspecialty.laryngology { background: #fef0e6; color: var(--color-laryngology); }
 .badge.subspecialty.otology     { background: #e8f4fb; color: var(--color-otology); }
 .badge.subspecialty.head_neck   { background: #e9f7ef; color: var(--color-head-neck); }
-.badge.subspecialty.pediatric   { background: #f3e8fc; color: var(--color-pediatric); }
+.badge.subspecialty.pediatric   { background: #fdf3e3; color: var(--color-pediatric); }
 .badge.subspecialty.sleep       { background: #f0f1f1; color: var(--color-sleep); }
+.badge.subspecialty.business    { background: #eaecee; color: var(--color-business); }
 .badge.subspecialty.general     { background: #eaecee; color: var(--color-general); }
 
 /* Star rating badge */

@@ -13,37 +13,54 @@
 const SUBSPEC_LABELS = {
   ar: {
     rhinology:   'الأنف والجيوب',
+    skull_base:  'قاعدة الجمجمة',
     laryngology: 'الحنجرة',
     otology:     'الأذن',
     head_neck:   'الرأس والرقبة',
     pediatric:   'أمراض الأطفال',
     sleep:       'اضطرابات النوم',
+    business:    'الاقتصاد والصناعة',
     general:     'عام',
   },
   en: {
     rhinology:   'Rhinology',
+    skull_base:  'Skull Base',
     laryngology: 'Laryngology',
     otology:     'Otology',
     head_neck:   'Head & Neck',
     pediatric:   'Pediatric',
     sleep:       'Sleep Medicine',
+    business:    'Business / Industry',
+    general:     'General',
+  },
+  es: {
+    rhinology:   'Rinología',
+    skull_base:  'Base del Cráneo',
+    laryngology: 'Laringología',
+    otology:     'Otología',
+    head_neck:   'Cabeza y Cuello',
+    pediatric:   'Pediátrico',
+    sleep:       'Trastornos del Sueño',
+    business:    'Negocios / Industria',
     general:     'General',
   },
 };
 
 const SUBSPEC_COLORS = {
   rhinology:   '#c0392b',
+  skull_base:  '#8e44ad',
   laryngology: '#d35400',
   otology:     '#2980b9',
   head_neck:   '#27ae60',
-  pediatric:   '#8e44ad',
+  pediatric:   '#e67e22',
   sleep:       '#7f8c8d',
+  business:    '#2c3e50',
   general:     '#34495e',
 };
 
 // ── App State ──────────────────────────────────────────────────────────────────
 const state = {
-  lang:         localStorage.getItem('orl-lang') || 'ar',
+  lang:         localStorage.getItem('orl-lang') || 'en',
   filter:       'all',
   articles:     [],      // all articles for current date
   allDates:     [],      // list of available dates from index.json
@@ -128,40 +145,36 @@ function applyLang(lang, save = true) {
   state.lang = lang;
   if (save) localStorage.setItem('orl-lang', lang);
 
-  document.body.classList.remove('lang-ar', 'lang-en');
+  document.body.classList.remove('lang-ar', 'lang-en', 'lang-es');
   document.body.classList.add('lang-' + lang);
   document.documentElement.setAttribute('lang', lang);
   document.documentElement.setAttribute('dir', lang === 'ar' ? 'rtl' : 'ltr');
 
   const btn = $('#btn-lang');
   if (btn) {
-    btn.textContent = lang === 'ar' ? 'EN' : 'عربي';
-    btn.setAttribute('aria-label',
-      lang === 'ar' ? 'Switch to English' : 'التبديل إلى العربية'
-    );
+    const nextLabel = { en: 'عربي', ar: 'ES', es: 'EN' };
+    btn.textContent = nextLabel[lang] || 'EN';
+    btn.setAttribute('aria-label', 'Switch language');
   }
 
-  // Update search placeholder
   const search = $('#search-input');
   if (search) {
-    search.setAttribute('placeholder', lang === 'ar' ? 'بحث…' : 'Search…');
+    const ph = { ar: 'بحث…', en: 'Search…', es: 'Buscar…' };
+    search.setAttribute('placeholder', ph[lang] || 'Search…');
   }
 
-  // Re-render header date display
   if (state.currentDate) {
     const dateDisplay = $('#current-date-display');
     if (dateDisplay) dateDisplay.textContent = formatDate(state.currentDate);
   }
 
-  // Re-populate date picker labels
   if (state.allDates.length) populateDatePicker(state.allDates);
-
-  // Re-render articles grid if loaded
   if (state.articles.length) renderArticles();
 }
 
 function toggleLang() {
-  applyLang(state.lang === 'ar' ? 'en' : 'ar');
+  const cycle = { en: 'ar', ar: 'es', es: 'en' };
+  applyLang(cycle[state.lang] || 'en');
 }
 
 // ── Text Helpers ───────────────────────────────────────────────────────────────
@@ -169,6 +182,7 @@ function getText(article, field) {
   const arKey = field + '_ar';
   const enKey = field + '_en';
   if (state.lang === 'ar') return article[arKey] || article[enKey] || '';
+  if (state.lang === 'es') return article[enKey] || article[arKey] || '';
   return article[enKey] || article[arKey] || '';
 }
 
@@ -183,13 +197,10 @@ function formatDate(dateStr) {
     // Append noon UTC to avoid timezone day shifts
     const d = new Date(dateStr + 'T12:00:00Z');
     if (isNaN(d.getTime())) return dateStr;
-    if (state.lang === 'ar') {
-      return d.toLocaleDateString('ar-SA', {
-        year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC'
-      });
-    }
-    return d.toLocaleDateString('en-GB', {
-      year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC'
+    const localeMap = { ar: 'ar-SA', es: 'es-ES' };
+    const locale = localeMap[state.lang] || 'en-GB';
+    return d.toLocaleDateString(locale, {
+      year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC'
     });
   } catch {
     return dateStr;
@@ -197,7 +208,7 @@ function formatDate(dateStr) {
 }
 
 function getSubspecLabel(subspec) {
-  return (SUBSPEC_LABELS[state.lang] || SUBSPEC_LABELS.ar)[subspec] || subspec;
+  return (SUBSPEC_LABELS[state.lang] || SUBSPEC_LABELS.en)[subspec] || subspec;
 }
 
 function truncate(str, max) {

@@ -1,19 +1,19 @@
 <!DOCTYPE html>
-<html lang="ar" dir="rtl">
+<html lang="en" dir="ltr">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="ORL Daily — مراجعة يومية لأدبيات الأنف والأذن والحنجرة. مدعوم بـ PubMed + Claude AI." />
+  <meta name="description" content="ORL-Bar Daily — Daily ENT literature review powered by PubMed & AI. مراجعة يومية لأدبيات الأنف والأذن والحنجرة." />
   <meta name="author" content="Mohammad Al-Bar" />
-  <meta property="og:title" content="ORL Daily — مراجعة أدبيات ORL اليومية" />
-  <meta property="og:description" content="أبرز مستجدات أدبيات الأنف والأذن والحنجرة — بالعربية والإنجليزية." />
+  <meta property="og:title" content="ORL-Bar Daily — Daily ENT Literature Review" />
+  <meta property="og:description" content="Daily ENT literature review — Arabic & English — by Dr. Mohammad Al-Bar." />
   <meta property="og:type" content="website" />
-  <meta property="og:image" content="https://malbarrr.github.io/orl-daily/og-image.png" />
-  <title>ORL Daily — مراجعة أدبيات ORL اليومية</title>
+  <meta property="og:image" content="https://malbarr.github.io/orl-daily/og-image.png" />
+  <title>ORL-Bar Daily — ENT Literature Review</title>
   <link rel="stylesheet" href="./css/style.css" />
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👂</text></svg>" />
 </head>
-<body class="lang-ar">
+<body class="lang-en">
 
   <!-- ══════════════════════════════════════════════════════════
        HEADER
@@ -22,8 +22,8 @@
     <div class="header-inner">
 
       <!-- Logo -->
-      <a class="site-logo" href="./" aria-label="ORL Daily — الصفحة الرئيسية">
-        ORL <span>Daily</span>
+      <a class="site-logo" href="./" aria-label="ORL-Bar Daily — Home">
+        ORL-Bar <span>Daily</span>
       </a>
 
       <div class="header-spacer"></div>
@@ -44,7 +44,7 @@
       </div>
 
       <!-- Language toggle -->
-      <button class="btn-lang" id="btn-lang" aria-label="تغيير اللغة إلى الإنجليزية">EN</button>
+      <button class="btn-lang" id="btn-lang" aria-label="Switch language">عربي</button>
 
       <!-- Date picker -->
       <div class="date-picker-wrap" aria-label="اختر تاريخ العدد">
@@ -70,6 +70,10 @@
         <span class="show-ar">الأنف والجيوب</span>
         <span class="show-en">Rhinology</span>
       </button>
+      <button class="filter-tab" data-filter="skull_base">
+        <span class="show-ar">قاعدة الجمجمة</span>
+        <span class="show-en">Skull Base</span>
+      </button>
       <button class="filter-tab" data-filter="laryngology">
         <span class="show-ar">الحنجرة</span>
         <span class="show-en">Laryngology</span>
@@ -89,6 +93,10 @@
       <button class="filter-tab" data-filter="sleep">
         <span class="show-ar">اضطرابات النوم</span>
         <span class="show-en">Sleep</span>
+      </button>
+      <button class="filter-tab" data-filter="business">
+        <span class="show-ar">💼 الاقتصاد</span>
+        <span class="show-en">💼 Business</span>
       </button>
       <button class="filter-tab" data-filter="dw">💊 Drug Watch</button>
       <button class="filter-tab" data-filter="jc">🎯 Journal Club</button>
@@ -133,7 +141,7 @@
       >PubMed</a>
       <span class="footer-sep">·</span>
       <a
-        href="https://github.com/malbarrr/orl-daily"
+        href="https://github.com/malbarr/orl-daily"
         target="_blank"
         rel="noopener noreferrer"
       >GitHub</a>
