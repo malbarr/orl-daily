@@ -290,10 +290,10 @@ PRIORITY SUBSPECIALTY EXCEPTIONS (rhinology, skull_base, laryngology) — do NOT
 - Retrospective study with n > 100
 
 JSON fields required:
-- title_ar: Arabic translation of title
+- title_ar: KEEP THE ORIGINAL ENGLISH TITLE — do NOT translate the title into Arabic. title_ar must be identical to title_en.
 - title_en: original English title
 - study_design: brief descriptor e.g. "RCT n=120", "Prospective cohort", "Retrospective case series n=45", "Meta-analysis 12 studies", "Case report", "Expert opinion"
-- summary_ar: 5-7 sentence Arabic summary. IMPORTANT: keep ALL medical/anatomical/procedural terms in English (e.g. "cochlear implant", "FESS", "tympanoplasty", "CPAP", "endoscope") — only translate connecting words and explanations to Arabic
+- summary_ar: 5-7 sentence Arabic summary. CRITICAL RULE: ALL medical, anatomical, procedural, statistical, and pharmacological terms MUST remain in English — write them with Latin characters, never transliterate or translate them into Arabic letters. Examples that must stay exactly in English: "meta-analysis", "systematic review", "corticosteroid", "upper airway", "asthma", "rhinitis", "sinusitis", "FESS", "cochlear implant", "tympanoplasty", "CPAP", "endoscope", "RCT", "odds ratio", "hazard ratio", "p-value", "confidence interval", "dupilumab", "biologic", "IgE", "eosinophil", "polyp", "adenoid", "tonsil", "laryngoscopy", "septoplasty", "turbinate", "adenoidectomy", "tonsillectomy", "stapedectomy", "mastoidectomy". Only translate connecting words, prepositions, verbs, and non-medical explanations into Arabic.
 - summary_en: 5-7 line English summary
 - practice_change_ar: one sentence - what changes in clinical practice today
 - practice_change_en: same in English
