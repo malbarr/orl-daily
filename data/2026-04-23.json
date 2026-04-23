@@ -1,0 +1,1617 @@
+{
+  "date": "2026-04-23",
+  "generated_at": "2026-04-23T05:40:19Z",
+  "articles": [
+    {
+      "pmid": "42015604",
+      "title_ar": "Psychometric Validation of the Overall Symptom Severity Score for Chronic Rhinosinusitis.",
+      "title_en": "Psychometric Validation of the Overall Symptom Severity Score for Chronic Rhinosinusitis.",
+      "journal": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+      "pub_date": "2026-Apr-21",
+      "doi": "10.1002/ohn.70246",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42015604/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort",
+      "summary_ar": "الهدف من هذه الدراسة هو إثبات الصلاحية النفسية لمقياس شدة الأعراض العامة (OSS) لدى المرضى الذين يعانون من التهاب الجيوب الأنفية المزمن (CRS). تم تضمين 647 مريضاً بالغاً في الدراسة، وأكملوا تقييم OSS واختبارات أخرى. أظهرت النتائج أن مقياس OSS مرتبط بشكل كبير مع مقياس SNOT-22. كما أثبت OSS موثوقية اختبار إعادة الاختبار بشكل ممتاز. تم اقتراح الحد الأدنى من الفارق السريري الهام لتحسين OSS بقدر ≥1.6.",
+      "summary_en": "The objective of this study was to establish the psychometric validity of the Overall Symptom Severity (OSS) score in patients with chronic rhinosinusitis (CRS). A total of 647 adult patients completed the OSS and other assessments. The results showed that the OSS score was significantly correlated with the SNOT-22 measure. The OSS also demonstrated excellent test-retest reliability. The minimal clinically important difference for improvement in OSS was proposed to be ≥1.6.",
+      "practice_change_ar": "يمكن استخدام مقياس OSS بشكل موثوق لتقييم شدة أعراض CRS.",
+      "practice_change_en": "The OSS score can be reliably used to assess the severity of CRS symptoms.",
+      "future_impact_ar": "يمكن أن يؤدي إلى تحسين استراتيجيات العلاج وضوابط الأعراض في الممارسة السريرية.",
+      "future_impact_en": "It may lead to improved treatment strategies and symptom management in clinical practice.",
+      "why_important_ar": "تساعد نتائج هذه الدراسة في تحسين التقييم السريري للأعراض المرتبطة بـ CRS.",
+      "why_important_en": "The results of this study help enhance the clinical assessment of symptoms associated with CRS.",
+      "vs_previous_ar": "تظهر هذه الدراسة نتائج جديدة حول صلاحية مقياس OSS، مما يعزز المعرفة السابقة.",
+      "vs_previous_en": "This study provides new findings on the validity of the OSS score, enhancing prior knowledge.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة جماعية مستقبلية تثبت صلاحية نفسية لمقياس جديد، مما يعكس قاعدة قوية.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تقدم هذه الدراسة أداة تقييم جديدة موثوقة لأعراض CRS.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "rhinology",
+      "audio_script_ar": "في هذه الدراسة، تم تقييم صلاحية مقياس شدة الأعراض العامة (OSS) لمرضى التهاب الجيوب الأنفية المزمن. شارك في الدراسة 647 مريضاً بالغاً، حيث أكملوا مقياس OSS، واختبارات SNOT-22 وEQ-5D. وجد أن OSS مرتبط بشكل كبير مع SNOT-22، مما يؤكد قوته كأداة دقيقة لتقييم أعراض CRS. بالإضافة إلى ذلك، تم إثبات موثوقية OSS على المدى الطويل. قيمة الفارق السريري الهام للاحتمالية تتجاوز 1.6، مما يسهل تطبيقه في الممارسات السريرية لتحسين إدارة المرض.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف الرئيسي للدراسة؟",
+          "options_ar": [
+            "أ) لإثبات صلاحية مقياس OSS",
+            "ب) لتطوير علاج جديد",
+            "ج) لإجراء دراسة حيوانية",
+            "د) لجمع بيانات ديموغرافية"
+          ],
+          "answer": 0,
+          "explanation_ar": "تهدف الدراسة إلى إثبات صلاحية مقياس شدة الأعراض العامة (OSS) في قياس شدة أعراض CRS."
+        },
+        {
+          "q_ar": "ما هي النتائج المتعلقة بالموثوقية لمقياس OSS؟",
+          "options_ar": [
+            "أ) موثوقية سيئة",
+            "ب) موثوقية متوسطة",
+            "ج) موثوقية ممتازة",
+            "د) لم يتم تقييمها"
+          ],
+          "answer": 2,
+          "explanation_ar": "أظهرت النتائج أن مقياس OSS يمتلك موثوقية اختبار إعادة الاختبار ممتازة."
+        },
+        {
+          "q_ar": "ما هي قيمة الفارق السريري الهام المقترحة لمقياس OSS للتحسين؟",
+          "options_ar": [
+            "أ) ≥1.0",
+            "ب) ≥1.6",
+            "ج) ≥2.0",
+            "د) ≥0.5"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم اقتراح الحد الأدنى من الفارق السريري الهام لتحسين OSS كـ ≥1.6."
+        }
+      ]
+    },
+    {
+      "pmid": "42011838",
+      "title_ar": "Meta-Analysis on the Harm of Systemic Glucocorticosteroids in Inflammatory Upper Airway Disease and Asthma: An EAACI Task Force.",
+      "title_en": "Meta-Analysis on the Harm of Systemic Glucocorticosteroids in Inflammatory Upper Airway Disease and Asthma: An EAACI Task Force.",
+      "journal": "Allergy",
+      "pub_date": "2026-Apr-21",
+      "doi": "10.1111/all.70332",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42011838/",
+      "pdf_url": null,
+      "study_design": "Meta-analysis 12 studies",
+      "summary_ar": "الستيرويدات القشرية النظامية (sGCS) تُستخدم على نطاق واسع في علاج الأمراض الالتهابية المزمنة في الجهاز التنفسي مثل التهاب الأنف، التهاب الجيوب الأنفية والربو. على الرغم من أن الاستخدام النظامي مرتبط بالعديد من الآثار السلبية، إلا أن سلامة كورسات قصيرة متعددة من sGCS أقل معرفة. تم تقييم الآثار الجانبية المرتبطة بـ sGCS في هذه المراجعة والتحليل التلوي، مع التركيز على المخاطر قصيرة وطويلة الأمد. أظهر التحليل أن الجرعات التراكمية بين 500 ملغ و1 غرام من المكافئ من بريدنيزولون تزيد من خطر معظم الآثار الجانبية.",
+      "summary_en": "Systemic glucocorticosteroids (sGCS) are widely used in treating chronic inflammatory airway diseases like rhinitis, rhinosinusitis, and asthma. While systemic use is linked to multiple adverse effects, the safety of multiple short courses of sGCS is less known. This systematic review and meta-analysis evaluated sGCS-related adverse effects, focusing on short- and long-term risks. The analysis confirmed that cumulative dosages between 500 mg and 1 g prednisolone-equivalent significantly increase the risk of most adverse effects.",
+      "practice_change_ar": "يجب أن نكون حذرين في وصف sGCS بسبب آثارها الجانبية المحتملة.",
+      "practice_change_en": "Judicious prescription of sGCS is essential due to their potential side effects.",
+      "future_impact_ar": "يتعين علينا التفكير في اعتماد استراتيجيات بديلة لتقليل الجرعة التراكمية من sGCS.",
+      "future_impact_en": "Future approaches should prioritize steroid-sparing strategies to avoid reaching the cumulative dose cutoff.",
+      "why_important_ar": "تسلط هذه المقالة الضوء على مخاطر استخدام الستيرويدات القشرية على المدى القصير والطويل.",
+      "why_important_en": "This article highlights the risks associated with short- and long-term use of glucocorticosteroids.",
+      "vs_previous_ar": "توفر هذه المقالة تقييمًا دقيقًا للآثار الجانبية المتعلقة بالجرعة التراكمية، وهو ما لم يتناوله الأدبيات السابقة.",
+      "vs_previous_en": "This article provides a detailed evaluation of dose-related adverse effects, which previous literature did not address.",
+      "stars": 5,
+      "stars_reason_ar": "تحليل تلوي قوي بمعلومات جديدة حول الأعراض الجانبية لـ sGCS مع تأثيرات على الممارسة السريرية.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "لها تأثير مباشر على استخدامات الستيرويدات القشرية في إدارة الالتهابات التنفسية.",
+      "watch": true,
+      "watch_detail_ar": "يجب مراقبة الاستخدامات الجديدة للستيرويدات القشرية وتأثيراتها السلبية.",
+      "watch_type": "drug",
+      "research_gap_ar": "تحديد الحدود الآمنة للاستخدام المتكرر لـ sGCS.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "مقالة اليوم تتناول استخدام الستيرويدات القشرية النظامية في معالجة الأمراض الالتهابية في الجهاز التنفسي. تشير الدراسة إلى أن هذه الأدوية مرتبطة بالعديد من الآثار الجانبية القصيرة والطويلة الأمد. تُظهر النتائج أن الجرعات التراكمية بين 500 ملغ و1 غرام مرتبطة بزيادة كبيرة في المخاطر. من المهم أن نكون حذرين في وصف هذه الأدوية وأن نفكر في خيارات بديلة لتقليل التعرض. المقالة تقدم قيمة كبيرة للمتخصصين في الأنف والأذن والحنجرة وتدعو إلى مناقشة في النادي العلمي.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف الرئيسي من دراسة التحليل التلوي؟",
+          "options_ar": [
+            "أ) تقييم فعالية sGCS",
+            "ب) تقييم آثار sGCS السلبية",
+            "ج) دراسة الجرعات القشرية",
+            "د) فهم التهاب الأنف"
+          ],
+          "answer": 1,
+          "explanation_ar": "التحليل يركز على الآثار الجانبية المرتبطة بالستيرويدات القشرية."
+        },
+        {
+          "q_ar": "ما هي الجرعة التراكمية المرتبطة بزيادة المخاطر حسب الدراسة؟",
+          "options_ar": [
+            "أ) 250 ملغ",
+            "ب) 500 ملغ إلى 1 غرام",
+            "ج) 2 غرام",
+            "د) 1.5 غرام"
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسة تؤكد أن الجرعة التراكمية بين 500 ملغ و1 غرام تزيد من المخاطر."
+        },
+        {
+          "q_ar": "ما هو التأثير الذي يجب أن نتجنبه عند استخدام sGCS؟",
+          "options_ar": [
+            "أ) الآثار السلبية",
+            "ب) الفاعلية",
+            "ج) القبول من قبل المريض",
+            "د) التكلفة"
+          ],
+          "answer": 0,
+          "explanation_ar": "الآثار السلبية هي المخاطر المحتملة المرتبطة باستخدام الستيرويدات القشرية."
+        }
+      ]
+    },
+    {
+      "pmid": "42018047",
+      "title_ar": "Phenotype-specific differences in bone morphogenetic protein ligand expression and intracellular signaling pathway activation in chronic rhinosinusitis.",
+      "title_en": "Phenotype-specific differences in bone morphogenetic protein ligand expression and intracellular signaling pathway activation in chronic rhinosinusitis.",
+      "journal": "Molecular biology reports",
+      "pub_date": "2026-Apr-22",
+      "doi": "10.1007/s11033-026-11834-7",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42018047/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort",
+      "summary_ar": "هذه الدراسة تهدف إلى فهم الفروق في تعبير بروتينات النمو العظمي بين أنواع مختلفة من التهاب الجيوب الأنفية المزمن، وهي الجيوب الأنفية المزمنية مع ومن دون زوائد أنفية. تم جمع عينات من الأنسجة من مرضى مصابين بالتهاب الجيوب الأنفية المزمن مع زوائد أنفية ومع دونه. أظهرت النتائج أن الأنسجة غير المصابة تظهر تعبيرًا أعلى لمركبات مثل BMP-2 وBMP-4. بالمقابل، كان هناك تنشيط ملحوظ لمسارات Smad في كلا النوعين من التهاب الجيوب الأنفية المزمن. تشير هذه النتائج إلى أن نشاط مسار BMP/Smad قد يختلف حسب نوع المرض وسياق الأنسجة.",
+      "summary_en": "This study aims to understand the differences in bone morphogenetic protein expression among different phenotypes of chronic rhinosinusitis, specifically with and without nasal polyps. Tissue samples were collected from patients with chronic rhinosinusitis with and without polyps. Results indicated that the non-polyp tissues exhibited higher expression of molecules like BMP-2 and BMP-4. In contrast, notable activation of Smad pathways was observed in both CRS types. These findings suggest that BMP/Smad pathway activity may vary according to disease phenotype and tissue context.",
+      "practice_change_ar": "قد يتعين على الأطباء إعادة تقييم دور بروتينات النمو العظمي في معالجة التهاب الجيوب الأنفية المزمن.",
+      "practice_change_en": "Physicians may need to reassess the role of bone morphogenetic proteins in managing chronic rhinosinusitis.",
+      "future_impact_ar": "توفير رؤى جديدة لتحسين استراتيجيات العلاج والتعامل مع التهاب الجيوب الأنفية المزمن.",
+      "future_impact_en": "Providing new insights for improving treatment strategies in chronic rhinosinusitis management.",
+      "why_important_ar": "هذا البحث يساعد في تفسير النشاط الإشاري وفقًا لنوع مرض السمع وهذا مهم لفهم عمليات التجديد الهوائي.",
+      "why_important_en": "This research aids in interpreting signaling activity according to disease phenotype, which is crucial for understanding airway remodeling processes.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة من خلال التركيز على مسارات بروتينات النمو العظمي في سياقات متعددة.",
+      "vs_previous_en": "This study differs from previous knowledge by focusing on bone morphogenetic protein pathways in multiple contexts.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة تتبع تصميم دراسة مستقبلية وتقدم معلومات جديدة حول تباين عمل بروتينات النمو في الأنسجة.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تقديم رؤى جديدة في معالجة التهاب الجيوب الأنفية المزمن.",
+      "watch": true,
+      "watch_detail_ar": "من المهم متابعة آثار بروتينات النمو في إستراتيجيات علاج التهاب الجيوب الأنفية المزمن.",
+      "watch_type": "drug",
+      "research_gap_ar": "هناك حاجة لمزيد من الفهم حول دور بروتينات النمو العظمي في الأنماط المختلفة لالتهاب الجيوب الأنفية المزمن.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "سنناقش اليوم دراسة جديدة تتناول الفروق المحددة بنوع في تعبير بروتينات النمو بين التهاب الجيوب الأنفية المزمن مع الزوائد الأنفية ودونها. تم جمع عينات من الأنسجة من المرضى وتحليلها، حيث وجدت الدراسة أن الأنسجة غير المصابة تظهر تعبيرًا أعلى لبروتينات النمو. وتظهر النتائج تنشيطًا ملحوظًا لمسارات Smad في كلا النوعين، مما يشير إلى ضرورة إعادة تقييم دور بروتينات النمو في معالجة التهاب الجيوب الأنفية المزمن. هذه النتائج توفر رؤى جديدة قد تغير كيفية إدارتنا لهذا المرض.",
+      "mcq": [
+        {
+          "q_ar": "ما هي الفائدة الرئيسية من هذه الدراسة؟",
+          "options_ar": [
+            "أ) تقديم تقنيات جديدة للمعالجة",
+            "ب) تصحيح معلومات سابقة خاطئة",
+            "ج) فهم اختلافات تعبير بروتينات النمو",
+            "د) توفير إرشادات علاجية جديدة"
+          ],
+          "answer": 2,
+          "explanation_ar": "تقدم الدراسة فهمًا جديدًا لاختلافات تعبير بروتينات النمو بين أنواع مختلفة من التهاب الجيوب الأنفية المزمن."
+        },
+        {
+          "q_ar": "ما هي الطريقة المستخدمة لتحليل الأنسجة في هذه الدراسة؟",
+          "options_ar": [
+            "أ) تحليل جيني",
+            "ب) الفحص المجهري النسيجي",
+            "ج) التصوير بالرنين المغناطيسي",
+            "د) التحليل المناعي الكيميائي"
+          ],
+          "answer": 1,
+          "explanation_ar": "استخدمت الدراسة الفحص المجهري النسيجي لتحليل الأنسجة وتجميع البيانات."
+        },
+        {
+          "q_ar": "لماذا يعتبر النشاط الإشاري لبروتينات النمو مهمًا في هذه الدراسة؟",
+          "options_ar": [
+            "أ) لأنها تحدد نوع المرض",
+            "ب) لأنها تؤثر على الشفاء",
+            "ج) لأنها تعيد تشكيل الأنسجة",
+            "د) لأنها لا تؤثر على العلاج"
+          ],
+          "answer": 2,
+          "explanation_ar": "النشاط الإشاري لبروتينات النمو مهم لأنه يؤثر على عمليات تجديد الأنسجة في التهاب الجيوب الأنفية المزمن."
+        }
+      ]
+    },
+    {
+      "pmid": "42011561",
+      "title_ar": "Treatment-Related Adverse Event Claims in Otorhinolaryngology-Head and Neck Surgery: A Nationwide Finnish Review (2012-2023)",
+      "title_en": "Treatment-Related Adverse Event Claims in Otorhinolaryngology-Head and Neck Surgery: A Nationwide Finnish Review (2012-2023)",
+      "journal": "Clinical otolaryngology : official journal of ENT-UK ; official journal of Netherlands Society for Oto-Rhino-Laryngology & Cervico-Facial Surgery",
+      "pub_date": "2026-Apr-21",
+      "doi": "10.1111/coa.70114",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42011561/",
+      "pdf_url": "https://doi.org/10.1111/coa.70114",
+      "study_design": "Retrospective series n=1153",
+      "summary_ar": "هذه الدراسة تحقق في وتيرة وخصائص إصابات المرضى المتعلقة بجراحة الأنف والأذن والحنجرة في فنلندا من 2012 إلى 2023. تم جمع البيانات من مركز التأمين الصحي، وشملت 1153 مطالبة، تم تعويض 317 منها (27.5%). كانت معظم الإصابات المعوضة ناتجة عن مضاعفات جراحية (66.6%). وتبين أن معظم الحالات حدثت في المستشفيات الجامعية والإقليمية. وتشير نتائج هذه الدراسة إلى أن الإصابات نادرة نسبياً، وغالباً ما تحدث أثناء الجراحات الروتينية.",
+      "summary_en": "This study investigates the frequency and characteristics of patient injuries related to Otorhinolaryngology-head and neck surgery (ORL-HNS) in Finland from 2012 to 2023. Data were obtained from the Patient Insurance Centre, encompassing 1153 claims, with 317 (27.5%) compensated. Most compensated injuries were due to surgical or procedural complications (66.6%). The findings indicate that these injuries are relatively rare and often occur during routine surgeries.",
+      "practice_change_ar": "يمكن أن تؤثر هذه النتائج على كيفية التعامل مع المضاعفات الجراحية.",
+      "practice_change_en": "These findings may influence how surgical complications are managed.",
+      "future_impact_ar": "تسهم النتائج في تحسين معايير الرعاية الجراحية.",
+      "future_impact_en": "The findings contribute to improving surgical care standards.",
+      "why_important_ar": "توضح هذه الدراسة أن الإصابات الجراحية نادرة وغالباً ما تحدث بواسطة المتخصصين.",
+      "why_important_en": "This study clarifies that surgical injuries are rare and often occur by specialists.",
+      "vs_previous_ar": "تؤكد هذه النتائج على أن الأخطاء الجراحية لا تأتي فقط من قلة الخبرة.",
+      "vs_previous_en": "These findings reinforce that surgical errors do not solely arise from inexperience.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة بأعداد كبيرة توضح خصائص إصابات المرضى وتحدي المفاهيم السابقة.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "الدراسة تقدم معلومات قيمة حول المضاعفات الجراحية التي يمكن أن تؤثر على الممارسات السريرية.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج الدراسات المستقبلية إلى فحص الأبعاد النفسية والاجتماعية للمريض بعد الإصابة.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "في هذه الدراسة، تم التحقيق في وتيرة وخصائص الإصابات المرتبطة بجراحة الأنف والأذن والحنجرة في فنلندا بين عامي 2012 و2023. تم تحليل 1153 مطالبة إصابة، مع تعويض 317 منها، ووجد أن أغلب الإصابات كانت نتيجة لمضاعفات جراحية. توضح النتائج أن الإصابات نادرة وتحدث غالباً أثناء الجراحات الروتينية التي يديرها متخصصون. تشير الدراسة إلى أن الأخطاء الجراحية قد لا تكون دائماً نتيجة قلة الخبرة.",
+      "mcq": [
+        {
+          "q_ar": "ما هي النسبة المئوية لإصابات المرضى التي تم تعويضها في الدراسة؟",
+          "options_ar": [
+            "أ) 20.5%",
+            "ب) 27.5%",
+            "ج) 35.2%",
+            "د) 40.1%"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم تعويض 317 من أصل 1153 مطالبة، مما يمثل 27.5%"
+        },
+        {
+          "q_ar": "أي من الإجراءات كان له أقل نسبة من التعويض؟",
+          "options_ar": [
+            "أ) FESS",
+            "ب) Septoplasty",
+            "ج) Tonsillectomy",
+            "د) Adenoidectomy"
+          ],
+          "answer": 0,
+          "explanation_ar": "كانت نسبة التعويض لجراحة FESS هي 0.7 لكل 1000 إجراء."
+        },
+        {
+          "q_ar": "ما هو المكان الذي كانت تحدث فيه معظم الإصابات المعوضة؟",
+          "options_ar": [
+            "أ) المستشفيات الجامعية",
+            "ب) العيادات الخاصة",
+            "ج) المستشفيات الإقليمية",
+            "د) المستشفيات الريفية"
+          ],
+          "answer": 0,
+          "explanation_ar": "حدثت معظم الإصابات في المستشفيات الجامعية بنسبة 40.1%."
+        }
+      ]
+    },
+    {
+      "pmid": "42011969",
+      "title_ar": "Retinoic Acid Amplifies IL-4/IL-13-Induced Eotaxin Expression via CRABP1 in Eosinophilic Chronic Rhinosinusitis.",
+      "title_en": "Retinoic Acid Amplifies IL-4/IL-13-Induced Eotaxin Expression via CRABP1 in Eosinophilic Chronic Rhinosinusitis.",
+      "journal": "Allergy",
+      "pub_date": "2026-Apr-21",
+      "doi": "10.1111/all.70362",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42011969/",
+      "pdf_url": null,
+      "study_design": "Retrospective series n>100",
+      "summary_ar": "هذه الدراسة تبحث في التأثيرات المحفزة لحمض الريتينويك على تعبير Eotaxin الناتج عن IL-4 وIL-13 في حالات التهاب الجيوب الأنفية المزمن الايوزينوفيلي. تم تحديد دور CRABP1 في هذه العملية. النتائج تشير إلى أن حمض الريتينويك يمكن أن يزيد من التعبير عن Eotaxin، مما يظهر إمكانية استهداف هذا المسار لعلاج حالات التهاب الجيوب الأنفية. هذه المعلومات تقدم فهماً جديداً للدور الذي يلعبه حمض الريتينويك في التفاعلات المناعية المتعلقة بالجيوب الأنفية. تقدم النتائج اختلافات في مثل هذه التفاعلات مقارنة بالدراسات السابقة.",
+      "summary_en": "This study investigates the stimulatory effects of retinoic acid on Eotaxin expression induced by IL-4 and IL-13 in eosinophilic chronic rhinosinusitis. The role of CRABP1 in this process was established. The results indicate that retinoic acid can enhance Eotaxin expression, suggesting the potential to target this pathway for treating rhinosinusitis conditions. This information provides a new understanding of retinoic acid's role in immune responses related to the sinuses. The findings show differences in such interactions compared to previous studies.",
+      "practice_change_ar": "يمكن أن يؤدي هذا الاكتشاف إلى استراتيجيات علاجية جديدة تستهدف مسار Eotaxin.",
+      "practice_change_en": "This discovery could lead to new therapeutic strategies targeting the Eotaxin pathway.",
+      "future_impact_ar": "قد تفتح هذه الدراسة آفاقًا جديدة في أبحاث التهاب الجيوب الأنفية والعلاجات المناعية.",
+      "future_impact_en": "This study may open new avenues in rhinosinusitis research and immunotherapies.",
+      "why_important_ar": "تقدم هذه المقالة رؤى جديدة حول العلاجات المحتملة لالتهاب الجيوب الأنفية المزمن.",
+      "why_important_en": "This article provides new insights into potential treatments for chronic rhinosinusitis.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن الدراسات السابقة من حيث التركيز على حمض الريتينويك كعامل محفز.",
+      "vs_previous_en": "This study differs from previous ones by focusing on retinoic acid as a stimulating factor.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة استرجاعية بأكثر من 100 مريض، تضيف معلومات مفيدة عن مسار Eotaxin.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "توفر معرفة جديدة يمكن أن تكون مفيدة للممارسة السريرية.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة تأثير حمض الريتينويك على مسار Eotaxin ونتائجه السريرية.",
+      "watch_type": "drug",
+      "research_gap_ar": "تحتاج الأبحاث إلى استكشاف المزيد عن تأثيرات حمض الريتينويك في التهاب الجيوب الأنفية.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "في هذه الحلقة، نستعرض دراسة حديثة تناقش تأثير حمض الريتينويك على التهاب الجيوب الأنفية المزمن الايوزينوفيلي. الدراسة توضح كيف يعزز حمض الريتينويك التعبير عن Eotaxin عبر CRABP1. تعتبر هذه النتائج مهمة لأنها تقدم دليلًا على إمكانية استهداف مسار Eotaxin لعلاج حالات التهاب الجيوب الأنفية. بالإضافة إلى ذلك، تشير النتائج إلى وجود اختلافات مقارنة بالدراسات السابقة، مما يعكس أهمية البحث المستمر في هذا المجال. هذه المقالة تفتح آفاقًا جديدة في تطوير استراتيجيات علاجية محتملة، لذا ينبغي متابعة الأثر السريري لحمض الريتينويك.",
+      "mcq": [
+        {
+          "q_ar": "ما هو تأثير حمض الريتينويك في التهاب الجيوب الأنفية؟",
+          "options_ar": [
+            "أ) يزيد التعبير عن Eotaxin",
+            "ب) يقلل من الأعراض",
+            "ج) يعزز الإلتهاب",
+            "د) يقلل من خلوص الجيوب الأنفية"
+          ],
+          "answer": 0,
+          "explanation_ar": "تظهر الدراسة أن حمض الريتينويك يزيد من التعبير عن Eotaxin."
+        },
+        {
+          "q_ar": "أي مسار تم استهدافه في هذه الدراسة كعلاج محتمل؟",
+          "options_ar": [
+            "أ) IL-4",
+            "ب) IL-13",
+            "ج) Eotaxin",
+            "د) CRABP1"
+          ],
+          "answer": 2,
+          "explanation_ar": "تم استهداف مسار Eotaxin في هذه الدراسة."
+        },
+        {
+          "q_ar": "كم عدد المرضى الذين تم تضمينهم في الدراسة؟",
+          "options_ar": [
+            "أ) أقل من 10",
+            "ب) 50",
+            "ج) أكثر من 100",
+            "د) 20"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة هي دراسة استرجاعية تتضمن أكثر من 100 مريض."
+        }
+      ]
+    },
+    {
+      "pmid": "42012163",
+      "title_ar": "Standardized Perioperative Protocols Are Associated With Reduced Length of Stay and Readmission in Cushing Disease: Results From the Multicenter RAPID Study.",
+      "title_en": "Standardized Perioperative Protocols Are Associated With Reduced Length of Stay and Readmission in Cushing Disease: Results From the Multicenter RAPID Study.",
+      "journal": "Neurosurgery",
+      "pub_date": "2026-Apr-21",
+      "doi": "10.1227/neu.0000000000003992",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42012163/",
+      "pdf_url": null,
+      "study_design": "Retrospective series n=832",
+      "summary_ar": "هذا البحث يدرس تأثير البروتوكولات الجراحية القياسية في تقليل مدة البقاء في المستشفى وإعادة الإدخال غير المخطط لها عند مرضى Cushing disease. تم جمع البيانات من 13 مركز أكاديمي في الولايات المتحدة، حيث أجرى الباحثون تحليلاً للبيانات السريرية. أظهر البحث أن البروتوكولات المطبقة مرتبطة بتقليل مدة البقاء، حيث كانت المدة أقل في المراكز التي لديها بروتوكولات واضحة. البروتوكولات المرتبطة بإجراءات محددة مثل إدارة الألم غير المخدرة كانت لها تأثيرات إيجابية على معدلات إعادة الدخول.",
+      "summary_en": "This study investigates the impact of standardized perioperative protocols on reducing length of stay and unplanned readmission in patients with Cushing disease. Data were collected from 13 academic centers in the United States where researchers performed a clinical data analysis. The findings showed that implemented protocols were associated with a reduced length of stay, with shorter durations observed in centers with established protocols. Protocols tied to specific procedures such as non-narcotic pain management positively affected readmission rates.",
+      "practice_change_ar": "تطبيق بروتوكولات الجراحة القياسية يساهم في تحسين رعاية مرضى Cushing disease.",
+      "practice_change_en": "Implementation of standardized surgical protocols contributes to improved care for patients with Cushing disease.",
+      "future_impact_ar": "يمكن أن تؤدي النتائج إلى تحسين الممارسات الجراحية في مراكز أخرى.",
+      "future_impact_en": "The results may lead to improved surgical practices in other centers.",
+      "why_important_ar": "تظهر هذه الدراسة أهمية البروتوكولات القياسية في تحسين نتائج المرضى.",
+      "why_important_en": "This study demonstrates the significance of standardized protocols in improving patient outcomes.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن الدراسات السابقة من حيث الحجم والشمولية.",
+      "vs_previous_en": "This study differs from previous ones in terms of its size and comprehensiveness.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة مقبولة مع حجم عينة كبير وإيجابيات مهمة في النتائج.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "الدراسة تقدم رؤية جديدة في تأثير البروتوكولات القياسية في جراحة Cushing disease.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة تأثير البروتوكولات القياسية على نتائج الجراحة وتطبيقاتها في مراكز مختلفة.",
+      "watch_type": "technology",
+      "research_gap_ar": null,
+      "subspecialty": "skull_base",
+      "audio_script_ar": "في هذا البحث، تم تحليل تأثير البروتوكولات الجراحية القياسية على مدة البقاء في المستشفى وإعادة الإدخال غير المخطط لها عند مرضى Cushing disease. تم جمع البيانات من 13 مركز أكاديمي في الولايات المتحدة، وأظهرت النتائج أن وجود بروتوكولات واضحة يساهم في تقليل مدة البقاء. البحث يؤكد أن تنفيذ هذه البروتوكولات يمكن أن يؤدي إلى تحسين رعاية المرضى. لذا، يعتبر هذا العمل مهم للغاية ويتطلب متابعة في المستقبل لتحسين الممارسات الجراحية.",
+      "mcq": [
+        {
+          "q_ar": "ما تأثير البروتوكولات الجراحية القياسية على مدة البقاء في المستشفى لمرضى Cushing disease؟",
+          "options_ar": [
+            "أ) زادت مدة البقاء",
+            "ب) لم تؤثر على مدة البقاء",
+            "ج) قللت مدة البقاء",
+            "د) غير معروف"
+          ],
+          "answer": 2,
+          "explanation_ar": "أظهرت الدراسة أن وجود بروتوكولات واضحة يقلل مدة البقاء في المستشفى."
+        },
+        {
+          "q_ar": "ما هي نسبة المؤسسات التي لديها بروتوكول بعد العملي؟",
+          "options_ar": [
+            "أ) 23.1%",
+            "ب) 69.2%",
+            "ج) 76.9%",
+            "د) 100%"
+          ],
+          "answer": 2,
+          "explanation_ar": "تقرير الدراسة يوضح أن 76.9% من المؤسسات لديها بروتوكول بعد العملي."
+        },
+        {
+          "q_ar": "ما هي العوامل المرتبطة بتقليل إعادة الإدخال؟",
+          "options_ar": [
+            "أ) وجود خطة منفصلة لـ Cushing disease",
+            "ب) إدارة الألم المخدر",
+            "ج) عدم استخدام التعبئة الأنفية",
+            "د) جميع ما سبق"
+          ],
+          "answer": 0,
+          "explanation_ar": "العوامل المعلنة التي تؤثر على تقليل إعادة الإدخال تشمل وجود خطة منفصلة، إدارة الألم غير المخدرة، واتباع الإجراءات الصحية."
+        }
+      ]
+    },
+    {
+      "pmid": "42011792",
+      "title_ar": "Risk of Head and Neck Cancer in Former Smokers by Subsite: A Multicenter Analysis From the INHANCE Consortium.",
+      "title_en": "Risk of Head and Neck Cancer in Former Smokers by Subsite: A Multicenter Analysis From the INHANCE Consortium.",
+      "journal": "International journal of cancer",
+      "pub_date": "2026-Apr-21",
+      "doi": "10.1002/ijc.70497",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42011792/",
+      "pdf_url": "https://doi.org/10.1002/ijc.70497",
+      "study_design": "Case-control study n=2143",
+      "summary_ar": "هذه الدراسة Investigated risk factors المرتبطة ب HNC عن طريق subsite بما في ذلك oral cavity cancer (OCC) و oropharyngeal cancer (OPC) و laryngeal cancer (LC) بين smokers السابقين في International Head and Neck Cancer Epidemiology Consortium (INHANCE). شملت البيانات 2143 حالات مع HNC و 5799 controls. تم تقييم associations باستخدام logistic regression مع 95% confidence intervals (CI). أظهرت النتائج أن risk of developing OCC كان 2.8-fold higher و LC 2.6-fold higher و OPC 2.1-fold higher بين الذين دخنوا أكثر من 50 pack-years مقارنة بأقل من 10 pack-years.",
+      "summary_en": "This study investigated risk factors associated with HNC by subsite including oral cavity cancer (OCC), oropharyngeal cancer (OPC), and laryngeal cancer (LC) among former smokers in the INHANCE Consortium. The analysis included 2143 cases with HNC and 5799 controls. Associations were assessed using logistic regression with 95% confidence intervals (CI). The results showed that the risk of developing OCC was 2.8-fold higher, LC was 2.6-fold higher, and OPC was 2.1-fold higher in individuals who smoked > 50 pack-years compared to < 10 pack-years.",
+      "practice_change_ar": "تؤكد هذه الدراسة أهمية تقليل استهلاك التبغ والكحول في تقليل خطر HNC.",
+      "practice_change_en": "This study emphasizes the importance of reducing tobacco and alcohol consumption to lower HNC risk.",
+      "future_impact_ar": "تشير النتائج إلى الحاجة لمزيد من البرامج التوعوية والمبادرات لإقناع السابقين عن التدخين بوقف استهلاك الكحول.",
+      "future_impact_en": "The findings highlight the need for more educational programs and initiatives to persuade former smokers to reduce alcohol consumption.",
+      "why_important_ar": "تعتبر هذه المقالة مهمة لأنها تقدم insights جديدة حول المخاطر المرتبطة ب HNC بين المدخنين السابقين حسب subsite.",
+      "why_important_en": "This article is important as it provides new insights into the risks associated with HNC among former smokers by subsite.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن الدراسات السابقة من حيث التفاصيل حول تأثير الكحول والتبغ على HNC.",
+      "vs_previous_en": "This study differs from previous studies by detailing the impact of alcohol and tobacco on specific HNC subsites.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة تصميمها case-control مع n كبير من الحالات وتقدم نتائج جديدة مهمة.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تقدم نتائج جديدة حول المخاطر المرتبطة ب HNC مما يجعلها مادة مثيرة للنقاش.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة التأثيرات طويلة الأمد لاستهلاك الكحول بين المدخنين السابقين.",
+      "watch_type": "drug",
+      "research_gap_ar": null,
+      "subspecialty": "head_neck",
+      "audio_script_ar": "في هذه الدراسة، تم Investigation المخاطر المرتبطة ب HNC بين former smokers. شملت العينة 2143 حالة و 5799 controls. تم استخدام logistic regression لتحديد العلاقات. النتائج أظهرت زيادة كبيرة في المخاطر بعوامل متعددة. هذه الدراسة تؤكد على أهمية خفض استهلاك الكحول والتبغ لدى السابقين عن التدخين، مما يعكس أهمية تعزيز الوعي.",
+      "mcq": [
+        {
+          "q_ar": "ما هو نوع الدراسة المستخدمة في هذه المقالة؟",
+          "options_ar": [
+            "أ) RCT",
+            "ب) Prospective cohort",
+            "ج) Case-control",
+            "د) Case series"
+          ],
+          "answer": 2,
+          "explanation_ar": "هذه المقالة تستخدم تصميم case-control لدراسة المخاطر المرتبطة ب HNC."
+        },
+        {
+          "q_ar": "ما هي المخاطر المرتبطة بالاستهلاك العالي للكحول بين المدخنين السابقين؟",
+          "options_ar": [
+            "أ) OCC",
+            "ب) OPC",
+            "ج) LC",
+            "د) جميع ما ذكر"
+          ],
+          "answer": 3,
+          "explanation_ar": "الدراسة تشير إلى أن استهلاك الكحول العالي يؤثر على جميع الأنواع الثلاثة من HNC."
+        },
+        {
+          "q_ar": "ما هي أهم النتائج المتعلقة بعمر الإقلاع عن التدخين؟",
+          "options_ar": [
+            "أ) زيادة المخاطر بعد سن 55",
+            "ب) لا تأثير له",
+            "ج) تقليل المخاطر",
+            "د) معظم المخاطر بعد 45"
+          ],
+          "answer": 0,
+          "explanation_ar": "تشير النتائج إلى أن الإقلاع عن التدخين بعد سن 55 يزيد من مخاطر الإصابة بـ LC و OCC."
+        }
+      ]
+    },
+    {
+      "pmid": "41378767",
+      "title_ar": "An Interpretable Machine-Learning Model for Predicting Occult Central Lymph Node Metastasis in Papillary Thyroid Cancer.",
+      "title_en": "An Interpretable Machine-Learning Model for Predicting Occult Central Lymph Node Metastasis in Papillary Thyroid Cancer.",
+      "journal": "The Journal of clinical endocrinology and metabolism",
+      "pub_date": "2026-Apr-22",
+      "doi": "10.1210/clinem/dgaf636",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41378767/",
+      "pdf_url": null,
+      "study_design": "Retrospective study n=961",
+      "summary_ar": "الهدف من هذه الدراسة هو تطوير نموذج تعلم آلة لفهم العوامل التي تؤثر على انتشار الورم في مرضى سرطان الغدة الدرقية الحليمي. تم تحليل بيانات 961 مريضًا، وتم تحديد عوامل الخطر المستقلة. تم استخدام نماذج تعلم آلة متعددة وتم تقييم أدائها. تم الكشف عن عوامل خطر وراثية مستقلة. أظهر النموذج الدقيق قدرة جيدة على التنبؤ. كما تم ربط حجم الورم والعمر بمعدل انتشار المرض.",
+      "summary_en": "This study aimed to develop an interpretable machine-learning model to understand the factors influencing the risk of occult lymph node metastasis in patients with papillary thyroid carcinoma. Data from 961 patients were analyzed, identifying independent risk factors. Multiple machine-learning models were utilized and evaluated for performance. Independent genetic risk factors were uncovered. The accurate model demonstrated good predictive capability, linking tumor size and age to metastasis rates.",
+      "practice_change_ar": "يمكن أن يؤدي هذا النموذج إلى تحسين استراتيجيات العلاج لمرضى سرطان الغدة الدرقية الحليمي.",
+      "practice_change_en": "This model could enhance treatment strategies for patients with papillary thyroid carcinoma.",
+      "future_impact_ar": "يعد هذا النموذج نقطة انطلاق لتطوير أدوات تنبؤية أفضل في مجال الغدة الدرقية.",
+      "future_impact_en": "This model serves as a stepping stone for developing better predictive tools in thyroid cancer.",
+      "why_important_ar": "تسليط الضوء على عامل خطر وراثي جديد في سرطان الغدة الدرقية الحليمي.",
+      "why_important_en": "It highlights a new genetic risk factor in papillary thyroid carcinoma.",
+      "vs_previous_ar": "يختلف هذا البحث من حيث تحديد عوامل الخطر الجينية المستقلة.",
+      "vs_previous_en": "This research differs by identifying independent genetic risk factors.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استعادية كبيرة مع نتائج جديدة مما يضفي قيمة إضافية.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": true,
+      "watch_detail_ar": "ينبغي متابعة التطورات المستقبلية لنماذج التعلم الآلي في التنبؤ بالأمراض.",
+      "watch_type": "technology",
+      "research_gap_ar": "لا يزال هناك حاجة لدراسة تأثير عوامل الخطر على مجموعة أكبر من المرضى.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "تم تصميم هذه الدراسة لتطوير نموذج تعلم آلة يسهل فهم عوامل الخطر في مرضى سرطان الغدة الدرقية الحليمي. شملت الدراسة 961 مريضًا وتم تحديد عوامل خطر مستقلة وتقييم نماذج متعددة. أظهرت النتائج أن النموذج يمكن أن يحسن من استراتيجيات العلاج، حيث كان هناك تركيز على العوامل الوراثية مثل النشاط الجيني. هذا يعد إنجازًا هامًا نظرًا لأنه يسهم في تطوير أدوات توقعية دقيقة لمساعدة الأطباء في اتخاذ قرارات علاجية أفضل.",
+      "mcq": [
+        {
+          "q_ar": "ما هي العوامل الوراثية التي تم تحديدها كعوامل خطر في الدراسة؟",
+          "options_ar": [
+            "أ) RET fusion",
+            "ب) BRAF mutation",
+            "ج) كلاهما",
+            "د) لا شيء"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة حددت كل من RET fusion وBRAF mutation كعوامل خطر مستقلة."
+        },
+        {
+          "q_ar": "كم كان عدد المرضى الذين شملتهم الدراسة؟",
+          "options_ar": [
+            "أ) 100",
+            "ب) 500",
+            "ج) 961",
+            "د) 1200"
+          ],
+          "answer": 2,
+          "explanation_ar": "عدد المرضى المشاركين في الدراسة هو 961."
+        },
+        {
+          "q_ar": "أي نموذج تعلم آلة أظهر الأداء الأفضل؟",
+          "options_ar": [
+            "أ) SVM",
+            "ب) Random Forest",
+            "ج) K-NN",
+            "د) Logistic Regression"
+          ],
+          "answer": 1,
+          "explanation_ar": "نموذج Random Forest أظهر الأداء الأفضل من حيث AUC."
+        }
+      ]
+    },
+    {
+      "pmid": "42017987",
+      "title_ar": "Oncogenic overexpression of kallikrein-related peptidase 7 is associated with the progression of thyroid cancer.",
+      "title_en": "Oncogenic overexpression of kallikrein-related peptidase 7 is associated with the progression of thyroid cancer.",
+      "journal": "Histochemistry and cell biology",
+      "pub_date": "2026-Apr-22",
+      "doi": "10.1007/s00418-026-02480-y",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42017987/",
+      "pdf_url": null,
+      "study_design": "Retrospective series n>100",
+      "summary_ar": "تشير الأدلة المتزايدة إلى أن عائلة كاليكيرين المرتبطة بالببتيد تعاني من عدم التنظيم في سرطان الغدة الدرقية. في هذه الدراسة، تم فحص تعبير KLK7 في أنواع مختلفة من سرطان الغدة الدرقية باستخدام تقنية المناعية النسيجية. لم يتم الكشف عن نشاط KLK7 المناعي في الغدة الدرقية الطبيعية. تم ملاحظة تعبير ضعيف في سرطانات الغدة الدرقية الشائعة. تشير النتائج إلى أن KLK7 قد يكون له دور مهم في تقدم سرطان الغدة الدرقية.",
+      "summary_en": "Mounting evidence suggests that the kallikrein-related peptidase family is dysregulated in thyroid cancer. This study examined KLK7 expression across various thyroid cancer histologies using immunohistochemistry. No detectable KLK7 was found in normal thyroid tissue, while weak expression was found in common types of thyroid cancers. The findings suggest that KLK7 may play a significant role in the progression of thyroid cancer.",
+      "practice_change_ar": "قد يؤدي تحديد KLK7 كعلامة حيوية جديدة إلى تحسين استراتيجيات العلاج.",
+      "practice_change_en": "Identifying KLK7 as a potential new biomarker may enhance treatment strategies.",
+      "future_impact_ar": "يمكن استخدام KLK7 كهدف علاجي في العلاجات المستقبلية لسرطان الغدة الدرقية.",
+      "future_impact_en": "KLK7 may serve as a therapeutic target in future treatments for thyroid cancer.",
+      "why_important_ar": "تساعد هذه الدراسة في فهم كيفية تقدم سرطان الغدة الدرقية بواسطة KLK7.",
+      "why_important_en": "This study aids in understanding how thyroid cancer progresses via KLK7.",
+      "vs_previous_ar": "يظهر هذا البحث نتائج جديدة تتعلق بتعبير KLK7 في سرطان الغدة الدرقية.",
+      "vs_previous_en": "This research presents new findings related to KLK7 expression in thyroid cancer.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استعادية مع عدد مرضى أكثر من 100، وتقدم معرفة جديدة حول KLK7.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "يوفر معلومات جديدة قد تغير كيفية التعامل مع سرطان الغدة الدرقية.",
+      "watch": true,
+      "watch_detail_ar": "يرجى متابعة KLK7 كهدف للعلاج في السرطانات المستقبلية.",
+      "watch_type": "drug",
+      "research_gap_ar": "ليس هناك الكثير من المعلومات الحالية حول دور KLK7 في الغدة الدرقية.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "في هذه الدراسة، تم فحص تعبير KLK7 في أنواع مختلفة من سرطان الغدة الدرقية. لم نجد نشاطًا كبيرًا في أنسجة الغدة الدرقية الطبيعية، في حين تم ملاحظة تعبير ضعيف في سرطانات الغدة الدرقية الأكثر شيوعًا. هذه النتائج تشير إلى أن KLK7 قد يلعب دورًا مهمًا في تقدم المرض. يمكن أن يعزز التعرف على KLK7 استراتيجيات العلاج ويبدأ البحث عن استخدامه كهدف علاجي.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف الرئيسي لهذه الدراسة؟",
+          "options_ar": [
+            "أ) دراسة تأثير KLK7",
+            "ب) قياس التعبير عن KLK7",
+            "ج) تطوير علاجات جديدة",
+            "د) مراقبة المرضى"
+          ],
+          "answer": 1,
+          "explanation_ar": "تهدف الدراسة إلى قياس التعبير عن KLK7 في سرطانات الغدة الدرقية المختلفة."
+        },
+        {
+          "q_ar": "ما هي النتائج الرئيسية التي توصلت إليها الدراسة؟",
+          "options_ar": [
+            "أ) KLK7 ليس له أي دور",
+            "ب) KLK7 معبر عنه في سرطانات الغدة الدرقية",
+            "ج) KLK7 معبر عنه فقط في الأنسجة الطبيعية",
+            "د) لا يوجد فرق في التعبير"
+          ],
+          "answer": 1,
+          "explanation_ar": "لقد وجدت الدراسة أن KLK7 معبر عنه في سرطانات الغدة الدرقية مع تفاوت في مستويات التعبير."
+        },
+        {
+          "q_ar": "كيف تؤثر نتائج الدراسة على مستقبل علاج سرطان الغدة الدرقية؟",
+          "options_ar": [
+            "أ) لا تأثير",
+            "ب) إضافة معلومات جديدة",
+            "ج) تعزيز استراتيجيات العلاج",
+            "د) تغييرات جذرية"
+          ],
+          "answer": 2,
+          "explanation_ar": "يمكن أن يؤدي تحديد KLK7 كهدف علاجي إلى تحسين استراتيجيات العلاج لمرضى سرطان الغدة الدرقية."
+        }
+      ]
+    },
+    {
+      "pmid": "42017689",
+      "title_ar": "Clinical Characteristics of Moderate-to-Severe Obstructive Sleep Apnea: A Cross-sectional Analysis of 12,715 Adults from the TURKAPNE Cohort.",
+      "title_en": "Clinical Characteristics of Moderate-to-Severe Obstructive Sleep Apnea: A Cross-sectional Analysis of 12,715 Adults from the TURKAPNE Cohort.",
+      "journal": "Thoracic research and practice",
+      "pub_date": "2026-Apr-22",
+      "doi": "10.4274/ThoracResPract.2026.2026-1-4",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42017689/",
+      "pdf_url": null,
+      "study_design": "Cross-sectional study",
+      "summary_ar": "تتناول هذه الدراسة خصائص السريرية لجودة النوم المرتبطة بانقطاع التنفس بسبب انسداد الشعب الهوائية في 12,715 بالغ من خلال قاعدة بيانات النوم التركية. وخضعت هذه المجموعة الكبيرة من المرضى لتقييم شامل بما في ذلك العوامل الديموغرافية ومؤشرات السمنة. أظهرت النتائج أن نسبة 66% من المشاركين يعانون من انقطاع نفس معتدل إلى شديد. بينما كان الشدة الإدراكية أقل ارتباطا بشدة المرض، كانت هناك عوامل موضوعية مثل العمر والجنس والوزن وارتفاع مؤشر كتلة الجسم مرتبطة بشدة انقطاع التنفس. تشير النتائج إلى أهمية استخدام هذه العوامل في الممارسات السريرية للعلاج.",
+      "summary_en": "This study discusses the clinical characteristics associated with obstructive sleep apnea in 12,715 adults through the Turkish Sleep Apnea Database. This large cohort underwent comprehensive evaluation including demographic factors and obesity indicators. Results showed that 66% of participants suffered from moderate-to-severe apnea. While subjective sleepiness was less associated with disease severity, objective factors such as age, sex, and higher body mass index were linked to severity. The findings emphasize the importance of using these factors in clinical practice.",
+      "practice_change_ar": "يمكن للأطباء الاعتماد على العوامل الموضوعية بدلاً من الإحساس الذاتي عند تقييم شدة انقطاع التنفس.",
+      "practice_change_en": "Doctors can rely on objective factors rather than subjective feelings when assessing the severity of apnea.",
+      "future_impact_ar": "ستؤدي النتائج إلى تحسين أساليب التشخيص والعلاج للمصابين بانقطاع التنفس.",
+      "future_impact_en": "The findings will lead to improved diagnostic and treatment approaches for those suffering from apnea.",
+      "why_important_ar": "تساعد هذه الدراسة في تحديد عوامل الخطر الحقيقية لأنماط انقطاع التنفس بدقة أكبر.",
+      "why_important_en": "This study aids in accurately identifying the true risk factors associated with apnea patterns.",
+      "vs_previous_ar": "تقدم هذه الدراسة نموذجًا شاملاً لجودة النوم مقارنة بالدراسات السابقة التي اكتفت بالنظر في العوامل الذاتية.",
+      "vs_previous_en": "This study provides a comprehensive model of sleep quality compared to previous studies that focused solely on subjective factors.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة مقطعية كبيرة تضم عدد كبير من المشاركين تُعطي نتائج موثوقة.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "لأن الدراسة توفر معلومات مهمة عن انقطاع التنفس وطرق تقييمه.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": "تفتقر الدراسات السابقة إلى تحليل شامل لمجموعة واسعة من العوامل الموضوعية.",
+      "subspecialty": "sleep",
+      "audio_script_ar": "مرحبًا، اليوم سنناقش دراسة جديدة تتعلق بانقطاع التنفس بسبب انسداد الشعب الهوائية. تمت دراسة مجموعة كبيرة من 12,715 بالغ في قاعدة بيانات النوم التركية. توصلت الدراسة إلى أن 66% من المشاركين أظهروا أعراض انقطاع التنفس المعتدل إلى الشديد. بينما كانت هناك زيادة في يوميات النوم، لم يكن الشفاء الذاتي ذا قيمة كبيرة في فهم شدة المرض. بدلاً من ذلك، كانت العوامل الموضوعية، مثل العمر والجنس، مرتبطة بشدة المرض. هذه النتائج مهمة لأنها تدعم استخدام العوامل الموضوعية في الممارسات السريرية. مما يعني أن الأطباء قد يحتاجون إلى إعادة التفكير في الطريقة التي يقيّمون بها مرضى انقطاع التنفس.",
+      "mcq": [
+        {
+          "q_ar": "ما هو العدد الإجمالي للمشاركين في الدراسة؟",
+          "options_ar": [
+            "أ) 5,000",
+            "ب) 10,000",
+            "ج) 12,715",
+            "د) 15,000"
+          ],
+          "answer": 2,
+          "explanation_ar": "أظهرت الدراسة التي أكدت خصائص انقطاع التنفس عن عدد 12,715 بالغ."
+        },
+        {
+          "q_ar": "ما هي نسبة المرضى الذين لديهم انقطاع تنفس من معتدل إلى شديد؟",
+          "options_ar": [
+            "أ) 25.8%",
+            "ب) 50.0%",
+            "ج) 66.0%",
+            "د) 34.0%"
+          ],
+          "answer": 2,
+          "explanation_ar": "66.0% من المرضى كما تم الإبلاغ في نتائج الدراسة."
+        },
+        {
+          "q_ar": "أي العوامل لم تكن مرتبطة بشدة المرض؟",
+          "options_ar": [
+            "أ) العمر",
+            "ب) الجنس",
+            "ج) درجة النعاس حسب مقياس إيبورث",
+            "د) مؤشر كتلة الجسم"
+          ],
+          "answer": 2,
+          "explanation_ar": "أظهرت الدراسة أن درجة النعاس لم تكن مرتبطة بشدة المرض."
+        }
+      ]
+    },
+    {
+      "pmid": "42018739",
+      "title_ar": "Estimated Incidence and Prevalence of Asymmetric and Unilateral Sensorineural Hearing Loss in United States Military Service Members.",
+      "title_en": "Estimated Incidence and Prevalence of Asymmetric and Unilateral Sensorineural Hearing Loss in United States Military Service Members.",
+      "journal": "Military medicine",
+      "pub_date": "2026-Apr-22",
+      "doi": "10.1093/milmed/usag179",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42018739/",
+      "pdf_url": null,
+      "study_design": "Retrospective observational study",
+      "summary_ar": "تهدف هذه الدراسة إلى تقدير انتشار وأ incidence من عجز السمع الأسكيمترين والإخفاق الأحادي في بين إفراد الخدمة العسكرية الأمريكية. استخدمت الدراسة بيانات إدارية ثانوية لتقدير longitudinale incidence وprevalence. كانت النسبة السنوية لدخول ASNHL و USNHL تتراوح بين 0.074 إلى 565.8 لكل 100,000 سنة شخصية وسط. تم العثور على فروق ملحوظة بين الجنسيات والفروع العسكرية. تمت الإشارة إلى أهمية دراسة العلاقة بين البيانات السمعية وASNL وUSNHL.",
+      "summary_en": "This study aims to estimate the incidence and prevalence of asymmetric sensorineural hearing loss (ASNHL) and unilateral sensorineural hearing loss (USNHL) among U.S. military service members. It utilized secondary administrative data to estimate longitudinal incidence and prevalence. The annual rates of ASNHL and USNHL incidence ranged from 0.074 to 565.8 per 100,000 person-years. Significant differences were observed by demographics and service branch. The study highlights the need to explore the relationship between audiometric data and ASNHL and USNHL.",
+      "practice_change_ar": "قد يتطلب الأمر تعزيز الفحص السمعي لعسكريين.",
+      "practice_change_en": "There may be a need to enhance audiometric screening for military personnel.",
+      "future_impact_ar": "يمكن أن يؤدي هذا البحث إلى تطوير معايير فحص سمعي محددة للأمراض.",
+      "future_impact_en": "This research may lead to the development of specific audiometric screening criteria for the diseases.",
+      "why_important_ar": "يسلط الضوء على أهميات تشمل الفروق في انتشار وإصابة الخسارة السمعية.",
+      "why_important_en": "It emphasizes the significance of differences in the prevalence and incidence of hearing loss.",
+      "vs_previous_ar": "تختلف هذه الدراسة من حيث التقديرات التاريخية للاعاقات السمعية بين الأفراد العسكريين.",
+      "vs_previous_en": "This study diverges from historical estimates of hearing impairments among military personnel.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة شبه تجريبية جمع بيانات تسجل واسعة النطاق مع خلفية وبائية مناسبة.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "توفر معلومات جديدة هامة عن مشكلة طبية معينة في الأفراد العسكريين.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة معايير فحص السمع وتقنيات جديدة متعلقة بالصوت في الدراسات المستقبلية.",
+      "watch_type": "device",
+      "research_gap_ar": "يفتقر البحث القائم إلى تقييم كامل للعوامل الطبية المؤثرة.",
+      "subspecialty": "otology",
+      "audio_script_ar": "تقدم هذه الدراسة فهماً عميقاً حول انتشار وإصابات السمع بين أفراد الخدمة العسكرية الأمريكية. استخدمت البيانات الثانوية للتوصل إلى تقديرات متزايدة للـ ASNHL و USNHL. تميزت النتائج بالاختلافات بين الجنسين وفروع الخدمة. يعتبر البحث خطوة مهمة نحو تحسين تقييم المخاطر السمعية.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف الرئيسي من هذه الدراسة؟",
+          "options_ar": [
+            "أ) تقدير انتشار الشلل النصفي",
+            "ب) تقدير incidence وأعداد تخفيف السمع",
+            "ج) تقدير الأمراض المعدية",
+            "د) تقدير صحة الأسنان"
+          ],
+          "answer": 1,
+          "explanation_ar": "تهدف الدراسة إلى تقدير انتشار وincidence من عجز السمع الأسكيمترين والإخفاق الأحادي."
+        },
+        {
+          "q_ar": "ما هي المتغيرات التي أظهرتها الدراسة كعوامل مرتبطة؟",
+          "options_ar": [
+            "أ) الجنس",
+            "ب) الفرع العسكري",
+            "ج) العمر",
+            "د) جميع ما ذكر"
+          ],
+          "answer": 3,
+          "explanation_ar": "أظهرت الدراسة اختلافات ملحوظة بين الجنسين وفروع الخدمة والعمر."
+        },
+        {
+          "q_ar": "كيف تختلف النتائج عن الدراسات السابقة؟",
+          "options_ar": [
+            "أ) غير ملحوظ",
+            "ب) تقديرات أعلى للإصابات",
+            "ج) صعوبات جديدة",
+            "د) لا تأثير"
+          ],
+          "answer": 1,
+          "explanation_ar": "تختلف هذه الدراسة من حيث التقديرات التاريخية للاعاقات السمعية بين الأفراد العسكريين."
+        }
+      ]
+    },
+    {
+      "pmid": "41284733",
+      "title_ar": "The Role of Obstructive Sleep Apnea and CPAP Therapy in the Functional Hypogonadism of Male Patients With Severe Obesity.",
+      "title_en": "The Role of Obstructive Sleep Apnea and CPAP Therapy in the Functional Hypogonadism of Male Patients With Severe Obesity.",
+      "journal": "The Journal of clinical endocrinology and metabolism",
+      "pub_date": "2026-Apr-22",
+      "doi": "10.1210/clinem/dgaf635",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41284733/",
+      "pdf_url": "https://academic.oup.com/jcem/advance-article-pdf/doi/10.1210/clinem/dgaf635/65492549/dgaf635.pdf",
+      "study_design": "Cross-sectional study n=204, Longitudinal follow-up",
+      "summary_ar": "هذه الدراسة الذاتية تناولت دور متلازمة توقف التنفس الانسدادي أثناء النوم (OSAS) في انخفاض مستويات التستوستيرون لدى الرجال الذين يعانون من السمنة المفرطة. شملت الدراسة 204 مرضى رجال مصابين بالسمنة المفرطة، حيث تم تعريف 'OSAS غير المتعوض' بمعدل انقطاع النفس/انخفاض الأوكسجين أعلى من 30 حدث في الساعة. أظهرت النتائج أن 127 من المرضى لديهم مستوى منخفض من التستوستيرون. تم تنفيذ علاج CPAP، مما أدى إلى تحسن ملحوظ في مستويات التستوستيرون بعد 3 أشهر من العلاج.",
+      "summary_en": "This cross-sectional study addressed the role of obstructive sleep apnea syndrome (OSAS) in lowering testosterone levels in men with severe obesity. The study included 204 male patients with severe obesity, defining 'decompensated OSAS' as an Apnea/Hypopnea Index greater than 30 events/hour. Results showed that 127 patients had low testosterone levels. CPAP therapy was implemented, leading to significant improvement in testosterone levels after 3 months of treatment.",
+      "practice_change_ar": "قد يتطلب التعامل مع مرضى السمنة المفرطة مع OSAS مراعاة تأثيرs CPAP على مستويات التستوستيرون.",
+      "practice_change_en": "Management of obese patients with OSAS may require consideration of the effects of CPAP on testosterone levels.",
+      "future_impact_ar": "يمكن أن يؤدي هذا البحث إلى توجيه مزيد من الدراسات حول دور CPAP في تعزيز الصحة الهرمونية لدى الرجال البدينين.",
+      "future_impact_en": "This research may lead to further studies on the role of CPAP in improving hormonal health in obese men.",
+      "why_important_ar": "تعتبر هذه الدراسة مهمة لأنها تسلط الضوء على العلاقة بين OSAS والسمنة المفرطة والصحة الهرمونية.",
+      "why_important_en": "This study is important as it highlights the relationship between OSAS, severe obesity, and hormonal health.",
+      "vs_previous_ar": "يختلف هذا البحث عن الدراسات السابقة من خلال تقديم بيانات جديدة حول تأثير CPAP على مستويات التستوستيرون.",
+      "vs_previous_en": "This research differs from previous studies by providing new data on the effect of CPAP on testosterone levels.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة ذات تصميم جيد مع نتائج هامة، مما يوضح تأثير CPAP على مستويات التستوستيرون.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "توفر الدراسة أدلة مهمة حول تأثير CPAP في علاج السمنة المفرطة والتستوستيرون.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة تأثير CPAP على مستويات التستوستيرون لدى الرجال المصابين بالسمنة.",
+      "watch_type": "device",
+      "research_gap_ar": "هناك حاجة لمزيد من الأبحاث حول العلاقة بين OSAS والمشاكل الهرمونية.",
+      "subspecialty": "sleep",
+      "audio_script_ar": "السلام عليكم، في هذه الحلقة، سنناقش دراسة جديدة تناولت دور متلازمة توقف التنفس الانسدادي أثناء النوم لدى الرجال المصابين بالسمنة المفرطة وتأثير العلاج باستخدام CPAP. تشير النتائج إلى أن 127 من أصل 204 مرضى كانوا يعانون من انخفاض مستوى التستوستيرون. تم تعريف حالة OSAS غير المتعوض بمعدل انقطاع النفس أكثر من 30 حدث في الساعة. بعد 3 أشهر من العلاج باستخدام CPAP، تم ملاحظة تحسن ملموس في مستويات التستوستيرون. هذه النتائج تشير إلى أهمية الاعتناء بالمرضى الذين يعانون من السمنة المفرطة وOSAS، مما قد يتطلب تغييرات في الممارسات السريرية فيما يتعلق بالعلاج. بالإضافة إلى ذلك، توفر الدراسة دعوة لمزيد من الأبحاث حول هذا الموضوع الهام.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف من هذه الدراسة؟",
+          "options_ar": [
+            "أ) دراسة العلاقة بين OSAS والتستوستيرون",
+            "ب) تقييم تأثير النظم الغذائية",
+            "ج) تحليل نمط الحياة",
+            "د) مقارنة أساليب العلاج"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة تهدف إلى دراسة العلاقة بين OSAS والتستوستيرون في الرجال المصابين بالسمنة."
+        },
+        {
+          "q_ar": "ما هو العدد الإجمالي للمرضى المشاركين في الدراسة؟",
+          "options_ar": [
+            "أ) 204",
+            "ب) 150",
+            "ج) 300",
+            "د) 100"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة شملت 204 مريضًا يعانون من السمنة المفرطة."
+        },
+        {
+          "q_ar": "ما هي النتيجة الرئيسية التي وجدتها الدراسة بعد 3 أشهر من العلاج باستخدام CPAP؟",
+          "options_ar": [
+            "أ) انخفاض مستوى التستوستيرون",
+            "ب) استقرار مستويات التستوستيرون",
+            "ج) تحسن مستويات التستوستيرون",
+            "د) زيادة الوزن"
+          ],
+          "answer": 2,
+          "explanation_ar": "أظهرت الدراسة تحسن مستويات التستوستيرون بعد علاج CPAP."
+        }
+      ]
+    },
+    {
+      "pmid": "42018962",
+      "title_ar": "The Relationship Between Sleep, Cognition, and Dementia Risk in People With Focal Epilepsy.",
+      "title_en": "The Relationship Between Sleep, Cognition, and Dementia Risk in People With Focal Epilepsy.",
+      "journal": "Neurology",
+      "pub_date": "2026-May-26",
+      "doi": "10.1212/WNL.0000000000214985",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42018962/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort",
+      "summary_ar": "تعتبر اضطرابات النوم وضعف الإدراك من الأمراض المصاحبة المهمة للصَرع البؤري. درس الباحثون العلاقة بين النوم والإدراك ومخاطر الخرف في المرضى الذين يعانون من الصرع البؤري مقارنة بمجموعة من الأصحاء ومرضى السكتة الدماغية. أظهرت النتائج أن النوم الأمثل من 6 إلى 8 ساعات يرتبط بتحسين الأداء الإدراكي لدى جميع المجموعات. كما تم العثور على زيادة بنسبة 5 أضعاف في خطر الإصابة بالخرف لدى الأفراد الذين يعانون من الصرع البؤري والنوم غير الأمثل. توضح هذه الدراسة أن تحسين النوم يمكن أن يكون تدخلاً مؤثراً لتحسين الإدراك وتقليل مخاطر الخرف.",
+      "summary_en": "Sleep disruption and cognitive impairment are important comorbidities of focal epilepsy. The study examined the relationship between sleep, cognition, and dementia risk in patients with focal epilepsy versus healthy controls and stroke patients. Optimal sleep duration (6-8 hours) was associated with better executive function across groups. There was a 5-fold increased risk of developing dementia in individuals with focal epilepsy and nonoptimal sleep. The findings suggest that improving sleep could be a significant intervention to enhance cognition and reduce dementia risk.",
+      "practice_change_ar": "يمكن أن تؤدي تحسينات النوم إلى تحسينات إدراكية وتقليل مخاطر الخرف خاصة لدى مرضى الصرع البؤري.",
+      "practice_change_en": "Improvements in sleep may lead to cognitive enhancements and reduced dementia risk particularly in patients with focal epilepsy.",
+      "future_impact_ar": "تشير النتائج إلى الحاجة لمتابعة تأثير تحسين النوم في التحكم في الإدراك ومخاطر الخرف في الصرع البؤري.",
+      "future_impact_en": "The results highlight the need for future studies on the impact of sleep improvement on cognition and dementia risk in focal epilepsy.",
+      "why_important_ar": "تسلط هذه المقالة الضوء على أهمية دور النوم في صحة الإدراك لدى مرضى الصرع البؤري.",
+      "why_important_en": "This article highlights the significant role of sleep in cognitive health among patients with focal epilepsy.",
+      "vs_previous_ar": "تقدم هذه الدراسة أدلة جديدة حول تأثير النوم على الإدراك ومخاطر الخرف، وهو أمر لم يتم استكشافه بشكل كافٍ سابقًا.",
+      "vs_previous_en": "This study provides new evidence on the impact of sleep on cognition and dementia risk, which has not been sufficiently explored previously.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة مستقبلية تركز على تأثير النوم على الإدراك ومخاطر الخرف في الصرع البؤري، مما جعلها ذات قيمة عالية.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تقدم نتائج جديدة حول العلاقة بين النوم والإدراك، مما يجعلها موضوعًا مهمًا للنقاش.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة تأثير تحسين النوم في تقليل مخاطر الخرف لدى مرضى الصرع البؤري.",
+      "watch_type": "technology",
+      "research_gap_ar": "تحتاج الأبحاث المستقبلية لاستكشاف استراتيجيات تحسين النوم بشكل أكبر.",
+      "subspecialty": "sleep",
+      "audio_script_ar": "في هذا المقال، تم تحليل العلاقة بين النوم والإدراك ومخاطر الخرف لدى مرضى الصرع البؤري. تم جمع البيانات من دراسة Biobank البريطانية التي شملت عددًا كبيرًا من المشاركين. النتائج أظهرت أن النوم الأمثل يرتبط بأداء إدراكي أفضل، خصوصًا لدى مرضى الصرع البؤري مقارنة بالأصحاء ومرضى السكتة الدماغية. بالإضافة لذلك، وجدت الدراسة زيادة كبيرة في مخاطر الإصابة بالخرف لدى أولئك الذين يعانون من نوم غير أمثل. هذه النتائج تدل على أهمية تحسين النوم كوسيلة للحد من المخاطر الإدراكية.",
+      "mcq": [
+        {
+          "q_ar": "ما هي الدراسة الرئيسية التي استندت إليها هذه النتائج؟",
+          "options_ar": [
+            "أ) دراسة عشوائية",
+            "ب) دراسة مستقبلية قائمة على بيانات Biobank",
+            "ج) دراسة استعادية",
+            "د) دراسة حالة"
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسة كانت تحليلًا لمجموعة من البيانات المستخلصة من دراسة Biobank البريطانية."
+        },
+        {
+          "q_ar": "ما هو الأمر الإيجابي المرتبط بالنوم الأمثل لدى مرضى الصرع البؤري؟",
+          "options_ar": [
+            "أ) زيادة خطر الإصابة بالخرف",
+            "ب) تحسين الأداء الإدراكي",
+            "ج) تدهور الصحة النفسية",
+            "د) انخفاض مستوى النشاط البدني"
+          ],
+          "answer": 1,
+          "explanation_ar": "النوم الأمثل (من 6-8 ساعات) كان مرتبطًا بتحسين الأداء الإدراكي لدى مجموعات المشاركين."
+        },
+        {
+          "q_ar": "كيف يختلف خطر الإصابة بالخرف بين مرضى الصرع البؤري والآخرين؟",
+          "options_ar": [
+            "أ) خطر الإصابة بالخرف أعلى بكثير لدى مرضى الصرع البؤري",
+            "ب) خطر الإصابة بالخرف متماثل في جميع المجموعات",
+            "ج) لا خطر الإصابة بالخرف لدى مرضى الصرع البؤري",
+            "د) خطر الإصابة بالخرف أعلى لدى الأصحاء"
+          ],
+          "answer": 0,
+          "explanation_ar": "أظهر البحث أن مرضى الصرع البؤري الذين يعانون من نوم غير أمثل لديهم خطر أكبر بمعدل 5 مرات مقارنة بالأصحاء."
+        }
+      ]
+    },
+    {
+      "pmid": "41275380",
+      "title_ar": "Tumor-infiltrating T Lymphocytes Recognize Thyroid-specific Proteins and Neo-antigens in Follicular Cell-derived Thyroid Cancers.",
+      "title_en": "Tumor-infiltrating T Lymphocytes Recognize Thyroid-specific Proteins and Neo-antigens in Follicular Cell-derived Thyroid Cancers.",
+      "journal": "The Journal of clinical endocrinology and metabolism",
+      "pub_date": "2026-Apr-22",
+      "doi": "10.1210/clinem/dgaf639",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41275380/",
+      "pdf_url": "https://doi.org/10.1210/clinem/dgaf639",
+      "study_design": "Retrospective case series n=13",
+      "summary_ar": "سرطانات الغدة الدرقية تتواجد بشكل متزايد في قائمة السرطانات التي تقاوم العلاج بواسطة inhibitors. تشير الدراسة إلى أن الخلايا التائية التي تخترق الورم تتواجد في جميع سرطانات الغدة الدرقية المدروسة. تم العثور على استجابة مناعية قوية للخلايا التائية تجاه البروتينات الخاصة بالغدة الدرقية في أغلب المرضى. تُظهر الدراسة أيضًا تفاعل الخلايا التائية مع بعض النيوأنتيجينات، مما يفتح المجال لاستكشاف العلاجات المناعية القابلة للإعجاب. تشير النتائج إلى أن هناك حاجة لمزيد من الأبحاث في العلاجات المناعية المستهدفة لمرضى سرطان الغدة الدرقية المستعصي على العلاج.",
+      "summary_en": "Thyroid cancers are increasingly recognized as resistant to immune-checkpoint inhibitors. The study indicates that tumor-infiltrating T-cells are present in all the thyroid cancers examined. Strong T-cell immune responses against thyroid-specific proteins were observed in most patients. The study also shows T-cell reactivity to certain neoantigens, opening the avenue for further exploration of targeted immunotherapies. The findings emphasize the need for more research into T cell-based therapies for patients with treatment-refractory thyroid cancer.",
+      "practice_change_ar": "قد تُحسّن نتائج الدراسة من خيارات العلاج المناعي المتاحة لمرضى سرطان الغدة الدرقية.",
+      "practice_change_en": "The study may enhance the available immunotherapy options for patients with thyroid cancer.",
+      "future_impact_ar": "تفتح الدراسة الآفاق لبحث إضافي في العلاجات المناعية المستهدفة، مما قد يؤدي إلى تحسين العلاجات.",
+      "future_impact_en": "The study opens avenues for further research into targeted immunotherapies, potentially improving treatments.",
+      "why_important_ar": "تتعلق هذه الدراسة بأهمية وجود استجابات مناعية قوية في سرطان الغدة الدرقية، مما قد يؤثر على استراتيجيات العلاج.",
+      "why_important_en": "This study highlights the importance of strong immune responses in thyroid cancer, which could affect treatment strategies.",
+      "vs_previous_ar": "تُظهر هذه الدراسة معلومات جديدة حول استجابات الخلايا التائية، وهو ما لم يتم تأكيده في الأبحاث السابقة.",
+      "vs_previous_en": "This study provides new insights into T-cell responses, which had not been confirmed in previous research.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة تشمل مجموعة من المرضى ونتائج جديدة حول الخلايا التائية، مما يمنحها قيمة عالية.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تتناول الدراسة موضوعًا حديثًا في المناعية الورمية في سرطان الغدة الدرقية، مما يجعلها مناسبة للنقاش.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة الأبحاث المستقبلية المتعلقة بالعلاجات المناعية المستهدفة لسرطان الغدة الدرقية.",
+      "watch_type": "drug",
+      "research_gap_ar": "هناك حاجة لتحديد آليات استجابة الخلايا التائية بشكل أفضل.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "تمت دراسة مكافحة السرطان في الغدة الدرقية وتبين أن الخلايا التائية التي تخترق الورم تلعب دورًا حيويًا في هذه العملية. دراسة جديدة وجدت استجابة قوية من الخلايا التائية تجاه البروتينات الخاصة بالغدة الدرقية، مما يفتح الباب لعلاجات مناعية جديدة. مع ذلك، تبقى هناك فجوات في المعرفة، لا سيما كيف يمكن تحسين مثل هذه العلاجات في المستقبل. يجب على الأطباء أخذ هذه النتائج في الاعتبار عند التفكير في استراتيجيات العلاج لمرضى سرطان الغدة الدرقية.",
+      "mcq": [
+        {
+          "q_ar": "ما هو نوع الدراسة التي تم إجراؤها في هذا البحث؟",
+          "options_ar": [
+            "أ) دراسة رصدية",
+            "ب) تحليل ميتا",
+            "ج) سلسلة حالة",
+            "د) تجارب سريرية"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة عبارة عن سلسلة حالة تضم عددًا من المرضى."
+        },
+        {
+          "q_ar": "ما النتائج الرئيسية لهذه الدراسة؟",
+          "options_ar": [
+            "أ) عدم وجود استجابة مناعية",
+            "ب) استجابة مناعية قوية تجاه البروتينات الخاصة بالغدة الدرقية",
+            "ج) نتائج سلبية تمامًا",
+            "د) بيانات غير موثوقة"
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسة وجدت استجابات مناعية قوية تجاه البروتينات الخاصة بالغدة الدرقية."
+        },
+        {
+          "q_ar": "ما هو التأثير المحتمل للدراسة على علاج سرطان الغدة الدرقية؟",
+          "options_ar": [
+            "أ) عدم تأثير",
+            "ب) تحسين خيارات العلاج",
+            "ج) تقليل الفعالية",
+            "د) زيادة المخاطر"
+          ],
+          "answer": 1,
+          "explanation_ar": "قد تؤدي النتائج إلى تحسين خيارات العلاج المناعي لمرضى سرطان الغدة الدرقية."
+        }
+      ]
+    },
+    {
+      "pmid": "41791805",
+      "title_ar": "DMSN@AuNPs-enhanced QCM immunosensor array for non-invasive and highly sensitive detection of Cyfra21-1 in saliva.",
+      "title_en": "DMSN@AuNPs-enhanced QCM immunosensor array for non-invasive and highly sensitive detection of Cyfra21-1 in saliva.",
+      "journal": "Analytica chimica acta",
+      "pub_date": "2026-Apr-22",
+      "doi": "10.1016/j.aca.2026.345226",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41791805/",
+      "pdf_url": null,
+      "study_design": "Experimental study",
+      "summary_ar": "الدراسة تناولت تطوير جهاز استشعار مناعية يعتمد على ميكروفون كريستالي رديئ لاستشعار Cyfra21-1 في اللعاب، وهو علامة حيوية مرتبطة بسرطان الخلايا الحرشفية للفم. تم استخدام استراتيجيات متعددة لتعزيز الإشارة، حيث أثبتت الطريقة المعتمدة على بروتين SPA أنها أكثر حساسية. تحت الظروف المثلى، أظهر الجهاز استجابة خطية لمستويات Cyfra21-1، مما يفتح آفاقًا جديدة للتشخيص السريري غير الجراحي.",
+      "summary_en": "The study focused on developing a quartz crystal microbalance immunosensor for detecting Cyfra21-1 in saliva, a biomarker associated with oral squamous cell carcinoma. Multiple strategies were employed for signal enhancement, with the SPA-based method demonstrating greater sensitivity. Under optimal conditions, the sensor showed a linear response to Cyfra21-1 levels, paving the way for non-invasive clinical diagnostics.",
+      "practice_change_ar": "يمكن أن يحسن هذا البحث كيفية إجراء الاختبارات السريرية غير الجراحية للكشف عن سرطان الفم.",
+      "practice_change_en": "This research could improve non-invasive clinical testing for oral cancer detection.",
+      "future_impact_ar": "يبرز هذا البحث الاحتمالات المستقبلية لتشخيص السرطان باستخدام تقنيات مبتكرة.",
+      "future_impact_en": "This research highlights future possibilities for cancer diagnosis using innovative technologies.",
+      "why_important_ar": "تعتبر هذه الدراسة مهمة لأنها تقدم أداة جديدة للكشف عن سرطان الخلايا الحرشفية في مرحلة مبكرة.",
+      "why_important_en": "This study is important as it presents a new tool for early detection of squamous cell carcinoma.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة من خلال تقديم تقنية جديدة ومبتكرة لاكتشاف علامات حيوية في اللعاب.",
+      "vs_previous_en": "This study differs from prior knowledge by introducing a new and innovative technique for detecting biomarkers in saliva.",
+      "stars": 4,
+      "stars_reason_ar": "تصميم تجريبي مع تقدم في الخيارات التقنية لاكتشاف Cyfra21-1.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تقدم الدراسة تقنية جديدة قد تغير كيفية القيام بالاختبارات القابلة للنقل.",
+      "watch": true,
+      "watch_detail_ar": "من المهم متابعة هذه التقنية الجديدة لاكتشاف علامات سرطان الفم بشكل غير جراحي.",
+      "watch_type": "technology",
+      "research_gap_ar": "لا توجد تقنيات محدثة للكشف عن Cyfra21-1 باستخدام اللعاب.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "هذه الدراسة تركز على تطوير جهاز استشعار مناعي للكشف عن Cyfra21-1 في اللعاب، وهو مؤشر حيوي مهم في سرطان الفم. تم استخدام استراتيجيات متنوعة لتعزيز الإشارة، وفكر في استخدام تقنية SPA لتحسين الحساسية. لقد أظهرت النتائج استجابة خطية، تشير إلى إمكانية استخدام هذه التقنية لأغراض التشخيص السريرية. بالإضافة إلى ذلك، أهمية هذه الدراسة تكمن في إمكانية تحسين أساليب الكشف غير الجراحية. يمكن أن يكون لها تأثير مستقبلي كبير على تشخيص سرطان الفم.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف من الدراسة؟",
+          "options_ar": [
+            "أ) تحسين طرق التشخيص",
+            "ب) تطوير تقنية جديدة للكشف",
+            "ج) دراسة آثار Cyfra21-1",
+            "د) تحليل سوائل الجسم"
+          ],
+          "answer": 1,
+          "explanation_ar": "تهدف الدراسة إلى تطوير جهاز استشعار للكشف عن Cyfra21-1."
+        },
+        {
+          "q_ar": "ما هي التقنيات المستخدمة في الدراسة؟",
+          "options_ar": [
+            "أ) التحليل الكهربائي",
+            "ب) الطيف الضوئي",
+            "ج) ميكروفون كريستالي رديئ",
+            "د) الفحص الشعاعي"
+          ],
+          "answer": 2,
+          "explanation_ar": "تم استخدام ميكروفون كريستالي رديئ ليكون استشعار Cyfra21-1."
+        },
+        {
+          "q_ar": "ما هو تأثير الدراسة على الممارسة السريرية؟",
+          "options_ar": [
+            "أ) لا شيء",
+            "ب) تحسين الكشف عن السرطان",
+            "ج) تقليل تكاليف العلاج",
+            "د) إضافة تقييمات جديدة"
+          ],
+          "answer": 1,
+          "explanation_ar": "يمكن أن تحسن الدراسة كيفية إجراء الاختبارات السريرية للكشف عن السرطان."
+        }
+      ]
+    },
+    {
+      "pmid": "41192411",
+      "title_ar": "Mid-to Long-term Outcomes After Single Radiofrequency Ablation of Nontoxic and Toxic Thyroid Nodules.",
+      "title_en": "Mid-to Long-term Outcomes After Single Radiofrequency Ablation of Nontoxic and Toxic Thyroid Nodules.",
+      "journal": "The Journal of clinical endocrinology and metabolism",
+      "pub_date": "2026-Apr-22",
+      "doi": "10.1210/clinem/dgaf611",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41192411/",
+      "pdf_url": "https://doi.org/10.1210/clinem/dgaf611",
+      "study_design": "Retrospective series n=896",
+      "summary_ar": "هدفت الدراسة لتقييم معدلات تكرار العقيدات الدرقية الحميدة بعد إجراء عملية الراديو فريكونسي. شملت الدراسة 896 مريضاً، تم تقسيمهم إلى عقيدات غير سامة وعقيدات سامة. أظهرت النتائج انخفاض متوسط حجم العقيدة بعد 1، 3، و5 سنوات بمعدلات 79%، 82%، و86% للعقيدات غير السامة و84%، 88%، و89% للعقيدات السامة. لوحظت حالات انتكاس في 7.1% من المرضى غير السامين و11.5% من المرضى السامين. تم توثيق مضاعفات بنسبة 2.3%.",
+      "summary_en": "The study aimed to evaluate recurrence rates of benign thyroid nodules after radiofrequency ablation (RFA). It included 896 patients, divided into those with nontoxic and toxic nodules. Results showed average nodule volume decreased by 79%, 82%, and 86% for nontoxic nodules, and 84%, 88%, and 89% for toxic nodules after 1, 3, and 5 years, respectively. Recurrence occurred in 7.1% of nontoxic and 11.5% of toxic patients. Documented complications were 2.3%.",
+      "practice_change_ar": "يمكن استخدام العلاج بالحادثات اللاسلكية كخيار فعال لعلاج العقيدات الدرقية.",
+      "practice_change_en": "Radiofrequency ablation can be used as an effective option for treating thyroid nodules.",
+      "future_impact_ar": "قد يؤدي هذا إلى تحسين طرق العلاج للعقيدات الدرقية في المستقبل.",
+      "future_impact_en": "This may lead to improved treatment methods for thyroid nodules in the future.",
+      "why_important_ar": "تقدم هذه الدراسة بيانات هامة حول النتائج طويلة المدى للعلاج.",
+      "why_important_en": "This study provides important data on the long-term outcomes of treatment.",
+      "vs_previous_ar": "تظهر الدراسة نتائج إيجابية مقارنة بالدراسات السابقة التي لم تقدم مثل هذه المعلومات التفصيلية.",
+      "vs_previous_en": "The study shows positive outcomes compared to previous studies that did not provide such detailed information.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة مرتجعة ولكنها كبيرة وموثوقة، تقدم معلومات جديدة عن تأثير RFA.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "يوفر معلومات مفيدة لفهم كيفية تأثير العلاج بالحداق اللاسلكية على العقيدات الدرقية.",
+      "watch": true,
+      "watch_detail_ar": "راقب نتائج علاج العقيدات الدرقية باستخدام RFA وتأثيره على حجم العقيدات.",
+      "watch_type": "device",
+      "research_gap_ar": "يجب دراسة فاعلية و أمان RFA بشكل أكبر في توقيتات مختلفة.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "في هذه الدراسة، تم تقييم النتائج المتوسطة والطويلة الأجل بعد إجراء عملية الراديو فريكونسي لعلاج العقيدات الدرقية. شملت الدراسة 896 مريضًا، مع التركيز على العقيدات غير السامة والعقيدات السامة. أظهرت النتائج انخفاض حجم العقيدات بعد فترة من العلاج. بينما لوحظت حالات انتكاس في عدد قليل من المرضى، كانت المضاعفات في مستوى مقبول. هذه النتائج تشير إلى إمكانية استخدام العلاج بالحادثات اللاسلكية كخيار رئيسي لعلاج العقيدات الدرقية. تقدم هذه الدراسة رؤى جديدة حول خيارات العلاج وتحسين النتائج المستقبلية.",
+      "mcq": [
+        {
+          "q_ar": "ما هي نسبة انخفاض حجم العقيدات بعد سنة واحدة من العلاج؟",
+          "options_ar": [
+            "أ) 79%",
+            "ب) 88%",
+            "ج) 76%",
+            "د) 70%"
+          ],
+          "answer": 0,
+          "explanation_ar": "أظهرت النتائج أن متوسط حجم العقيدات غير السامة انخفض بنسبة 79% بعد سنة."
+        },
+        {
+          "q_ar": "ما هي نسبة حدوث الانتكاس للعقيدات غير السامة بعد العلاج؟",
+          "options_ar": [
+            "أ) 11.5%",
+            "ب) 7.1%",
+            "ج) 15%",
+            "د) 5%"
+          ],
+          "answer": 1,
+          "explanation_ar": "حددت الدراسة أن نسبة الانتكاس للعقيدات غير السامة كانت 7.1%."
+        },
+        {
+          "q_ar": "ما هي نسبة المضاعفات الشديدة الموثقة في الدراسة؟",
+          "options_ar": [
+            "أ) 0.3%",
+            "ب) 1%",
+            "ج) 2.5%",
+            "د) 0.5%"
+          ],
+          "answer": 0,
+          "explanation_ar": "تم توثيق المضاعفات الشديدة في الدراسة بنسبة 0.3%."
+        }
+      ]
+    },
+    {
+      "pmid": "42018273",
+      "title_ar": "Ultrasonographic evaluation of major salivary glands in patients with type 2 diabetes mellitus.",
+      "title_en": "Ultrasonographic evaluation of major salivary glands in patients with type 2 diabetes mellitus.",
+      "journal": "Journal of ultrasound",
+      "pub_date": "2026-Apr-22",
+      "doi": "10.1007/s40477-026-01152-w",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42018273/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort",
+      "summary_ar": "تسبب السكري من النوع الثاني تغييرات في بنية ووظائف الغدد اللعابية الرئيسية. استهدفت هذه الدراسة تقييم قياسات الأبعاد، والإيكوجينية، والبعد الفراغي (FD) في الغدد اللعابية الرئيسية في 36 مريضا بالسكري النوع الثاني و36 شخصا سليما. أظهرت النتائج أن الأبعاد كانت أعلى في مجموعة المرضى مقارنة بمجموعة التحكم. كما كانت نوع الإيكوجينية الأكثر شيوعاً في مجموعة المرضى هي النوع الإيزوإيكوي. وكذلك كانت قيم الـ FD أعلى في مجموعة المرضى، مع ارتباط ذو دلالة إحصائية في الغدة تحت اللسانية.",
+      "summary_en": "Type 2 diabetes causes changes in the structure and functions of the major salivary glands. This study aimed to evaluate the dimensional measurements, echogenicity, and fractal dimension (FD) of the major salivary glands in 36 patients with type 2 DM and 36 healthy individuals. Results showed that the dimensions were significantly higher in the patient group compared to controls. The isoechoic type was more common in the patient group, and FD values were also higher in the patient group, with a significant relationship observed in the sublingual gland.",
+      "practice_change_ar": "هذه الدراسة تشير إلى ضرورة مراقبة التغيرات في الغدد اللعابية للمرضى المصابين بالسكري من النوع الثاني.",
+      "practice_change_en": "This study indicates the need to monitor changes in the salivary glands for patients with type 2 diabetes.",
+      "future_impact_ar": "يمكن أن تؤدي هذه النتائج إلى مزيد من الدراسات لفهم العلاقات بين شدة المرض، مستويات HbA1c، والمدة الزمنية للمرض.",
+      "future_impact_en": "These findings may lead to further studies to understand the relationships between disease severity, HbA1c levels, and disease duration.",
+      "why_important_ar": "توضح هذه الدراسة التغيرات الهيكلية في الغدد اللعابية التي قد تكون هامة في إدارة مرض السكري.",
+      "why_important_en": "This study highlights structural changes in the salivary glands that may be important for the management of diabetes.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة بإظهار تأثيرات نوع 2 من مرض السكري على الغدد اللعابية.",
+      "vs_previous_en": "This study differs from previous knowledge by demonstrating the effects of type 2 diabetes on salivary glands.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة اعتمدت على تصميم دراسة مستقبلية وتمت مقارنتها بمجموعة التحكم مما يدل على جودة عالية.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": "لا توجد دراسات تبدو وكأنها تعالج تأثيرات خطورة المرض مدة السكري على الأعطاب الغدد اللعابية.",
+      "subspecialty": "general",
+      "audio_script_ar": "في هذه المقالة، تناقش دراسة تقييم التغيرات التي يسببها السكري من النوع الثاني في الغدد اللعابية الرئيسية. الدراسة التي تشمل 36 مريضا و36 شخصا سليما، تظهر تغييرات إحصائية في قياسات الأبعاد والإيكوجينية. تم العثور على قيم أعلى للبعد الفراغي في مجموعة مرضى السكري، خاصة في الغدة تحت اللسانية. تعتبر النتائج مهمة لإدارة مرض السكري، مما يشير إلى ضرورة مراقبة الغدد اللعابية. هذه الدراسة تختلف عن المعرفة السابقة بإظهار التأثيرات الملموسة للسكري على الغدد اللعابية.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف الرئيسي من الدراسة؟",
+          "options_ar": [
+            "أ) تقييم تأثير السكري على الغدد اللعابية",
+            "ب) مقارنة السمع لدى المرضى",
+            "ج) دراسة علاج جديد للسكري",
+            "د) تحليل أنماط الأكل"
+          ],
+          "answer": 0,
+          "explanation_ar": "الهدف الرئيسي للدراسة هو تقييم تأثير السكري من النوع الثاني على الغدد اللعابية."
+        },
+        {
+          "q_ar": "ما هي النتائج المتعلقة بإيكوجينية الغدة النكفية في مجموعة المرضى؟",
+          "options_ar": [
+            "أ) أقل شيوعاً",
+            "ب) أكثر شيوعاً",
+            "ج) لم تتغير",
+            "د) غير مدروسة"
+          ],
+          "answer": 1,
+          "explanation_ar": "نتائج الدراسة أظهرت أن النوع الإيزوإيكوي كان أكثر شيوعاً في مجموعة المرضى."
+        },
+        {
+          "q_ar": "كيف كانت أبعاد الغدد اللعابية في مرضى السكري مقارنة بمجموعة التحكم؟",
+          "options_ar": [
+            "أ) أصغر",
+            "ب) غير متغيرة",
+            "ج) أكبر",
+            "د) غير معروفة"
+          ],
+          "answer": 2,
+          "explanation_ar": "الأبعاد كانت أكبر بشكل إحصائي في مجموعة المرضى مقارنة بمجموعة التحكم."
+        }
+      ]
+    },
+    {
+      "pmid": "42020823",
+      "title_ar": "Determinants of long-term quality of life in nasopharyngeal carcinoma survivors: the roles of household income and performance status.",
+      "title_en": "Determinants of long-term quality of life in nasopharyngeal carcinoma survivors: the roles of household income and performance status.",
+      "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+      "pub_date": "2026-Apr-23",
+      "doi": "10.1007/s00520-026-10688-w",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42020823/",
+      "pdf_url": null,
+      "study_design": "Cross-sectional study",
+      "summary_ar": "يواجه الناجون من سرطان البلعوم الأنفي غالبًا انخفاضًا مطولًا في جودة الحياة بعد العلاج الناجح. تبحث هذه الدراسة في العوامل التي تؤثر على جودة الحياة لدى الناجين من NPC، مع التركيز على تطور الوضع بعد العلاج وتأثير العوامل الاجتماعية والسريرية. تم تضمين المرضى الذين تلقوا العلاج في السنوات العشر الماضية وأكملوا مجموعة متنوعة من أدوات تقييم جودة الحياة. تشير النتائج إلى أن الدخل المنزلي له علاقة إيجابية مع جودة الحياة، وأن الحالة البدنية للمرضى تلعب دور الوساطة في هذا التأثير.",
+      "summary_en": "Survivors of nasopharyngeal carcinoma (NPC) often experience a prolonged reduction in quality of life (QoL) post-treatment. This study investigates the determinants of QoL among NPC survivors, focusing on post-treatment evolution and the influence of socioeconomic and clinical factors. Patients treated in the past ten years were enrolled and completed various QoL assessment tools. Results show that higher household income correlates with better QoL, and performance status mediates this effect.",
+      "practice_change_ar": "يوفر هذا البحث معلومات قيمة حول أهمية الأداء في تحسين جودة الحياة للناجين.",
+      "practice_change_en": "This research provides valuable insights into the importance of performance status in improving QoL for survivors.",
+      "future_impact_ar": "يمكن أن تؤدي هذه النتائج إلى دراسات مستقبلية تزيد من اهتمام الأطباء بالعوامل الاجتماعية.",
+      "future_impact_en": "These findings could lead to future studies that increase clinicians' focus on social factors.",
+      "why_important_ar": "يسلط الضوء على العلاقة بين الدخل والحالة البدنية وجودة الحياة، مما يساعد في تحسين رعاية الناجين.",
+      "why_important_en": "Highlights the relationship between income, performance status, and QoL, aiding in the improvement of survivor care.",
+      "vs_previous_ar": "تطور هذا البحث العلاقة المعقدة بين الوضع الاقتصادي والأداء في جودة الحياة.",
+      "vs_previous_en": "This research evolved the complex relationship between economic status and performance in QoL.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة مقطعية كبيرة تدرس جودة الحياة وتأثير الدخل بعد العلاج.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تقدم الدراسة معلومات جديدة حول جودة الحياة للناجين من سرطان البلعوم الأنفي.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة لدراسات مستقبلية للتحقق من التأثيرات المحتملة للدخل وحالة الأداء على جودة الحياة.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "هذه الدراسة تهدف إلى فهم العوامل التي تؤثر على جودة حياة الناجين من سرطان البلعوم الأنفي. أظهرت النتائج أن الحالة الاقتصادية والأداء البدني لهما علاقة وثيقة بجودة الحياة. بالإضافة إلى ذلك، من المهم ملاحظة أن الحالة البدنية قد تلعب دور الوساطة. هذه المعلومات محور دراسات مستقبلية قد تعزز من تقييم جودة الحياة للمرضى وتساعدهم في الحصول على رعاية أفضل.",
+      "mcq": [
+        {
+          "q_ar": "ما هو العامل الذي أثر على جودة الحياة في الناجين من سرطان البلعوم الأنفي وفقًا للدراسة؟",
+          "options_ar": [
+            "أ) الدخل المنزلي",
+            "ب) نوع العلاج",
+            "ج) العمر",
+            "د) الجنس"
+          ],
+          "answer": 0,
+          "explanation_ar": "أظهرت الدراسة أن الدخل المنزلي له علاقة إيجابية بجودة الحياة."
+        },
+        {
+          "q_ar": "أي منهما يعتبر عامل وساطة مهم وفقًا للدراسة؟",
+          "options_ar": [
+            "أ) الحالة البدنية",
+            "ب) الدخل",
+            "ج) مستوى التعليم",
+            "د) الدعم الاجتماعي"
+          ],
+          "answer": 0,
+          "explanation_ar": "أشير في الدراسة إلى أن الحالة البدنية تلعب دور الوساطة بين الدخل وجودة الحياة."
+        },
+        {
+          "q_ar": "ما هي نوعية الدراسة المستخدمة في البحث؟",
+          "options_ar": [
+            "أ) دراسة تجريبية",
+            "ب) دراسة مقطعية",
+            "ج) دراسة متابعة",
+            "د) دراسة وصفية"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم استخدام تصميم الدراسة المقطعية لتحليل جودة الحياة للناجين."
+        }
+      ]
+    },
+    {
+      "pmid": "42017973",
+      "title_ar": "Preoperative computed tomography for assessment of bone invasion in oral squamous cell carcinoma: diagnostic accuracy and anatomical subsite dependency.",
+      "title_en": "Preoperative computed tomography for assessment of bone invasion in oral squamous cell carcinoma: diagnostic accuracy and anatomical subsite dependency.",
+      "journal": "Journal of cancer research and clinical oncology",
+      "pub_date": "2026-Apr-22",
+      "doi": "10.1007/s00432-026-06472-2",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42017973/",
+      "pdf_url": null,
+      "study_design": "Retrospective series n=572",
+      "summary_ar": "تقييم ما قبل العملية لاجتياح العظام أمر بالغ الأهمية في مرضى خلايا الكيراتين الفموية. استخدمت الدراسة الأشعة المقطعية لتقييم هذه الحالة في 572 مريضًا. كانت حساسية الأشعة المقطعية 63.4% والخصوصية 90.8%. كما أظهرت النتائج أن أداء الأشعة متفاوت حسب موقع الورم وشدة التصوير. لوحظ ارتباط بين تصنيف الأشعة المقطعية ومرحلة المرض. ومع ذلك، أُبلغ عن حالات من الورم الذي لم يظهر اشعاعيًا رغم تأكيده نسجيًا.",
+      "summary_en": "Preoperative assessment of bone invasion is crucial in oral squamous cell carcinoma (OSCC). This study used CT imaging to evaluate this in 572 patients. CT sensitivity was 63.4% and specificity was 90.8%. Results showed varying diagnostic performance by tumor localization and imaging severity. There was a correlation between radiological grading and pathological stage. However, occurrences of radiologically occult tumors were noted despite histological confirmation.",
+      "practice_change_ar": "يمكن أن يؤدي التفسير المدرك لموقع الورم إلى تحسين استراتيجيات العلاج.",
+      "practice_change_en": "Localization-aware interpretation may improve treatment strategies.",
+      "future_impact_ar": "يمكن أن يُحسن هذا الفهم المتعلق بالتصوير من نتائج المرضى.",
+      "future_impact_en": "This understanding related to imaging may improve patient outcomes.",
+      "why_important_ar": "تعد هذه المعلومات ذات قيمة للتخطيط الجراحي في مرضى OSCC.",
+      "why_important_en": "This information is valuable for surgical planning in OSCC patients.",
+      "vs_previous_ar": "تقدم الدراسة رؤى جديدة حول كيفية التأثير الحاسم لموقع الورم على أداء التصوير.",
+      "vs_previous_en": "The study provides new insights on how tumor localization critically affects imaging performance.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استعادية شملت 572 مريضاً، مما يعطيها قاعدة قوية.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "يقدم معلومات جديدة حول استخدام الأشعة المقطعية في OSCC.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة التقنيات الجديدة في تصوير الأشعة المقطعية وتحسينها.",
+      "watch_type": "technology",
+      "research_gap_ar": "هناك حاجة لدراسات إضافية لتحديد كيفية تحسين أدلة التصوير.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "في هذه الدراسة، تم تقييم اجتياح العظام في مرضى خلايا الكيراتين الفموية باستخدام الأشعة المقطعية. شملت الدراسة 572 مريضًا مع ملاحظة حساسية تبلغ 63.4% وخصوصية 90.8%. أداء الأشعة المقطعية تفاوت بناءً على موقع الورم وشدة التصوير. كما لوحظت حالات لم يتم الكشف عنها شعاعيًا رغم تأكيدها في الفحص النسجي. تعتبر هذه الدراسة مهمة للتخطيط الجراحي وتحسين إدارة المرضى.",
+      "mcq": [
+        {
+          "q_ar": "ما هو عدد المرضى الذين شملتهم الدراسة؟",
+          "options_ar": [
+            "أ) 134",
+            "ب) 572",
+            "ج) 450",
+            "د) 200"
+          ],
+          "answer": 1,
+          "explanation_ar": "شملت الدراسة 572 مريضًا."
+        },
+        {
+          "q_ar": "ما هي حساسية الأشعة المقطعية وفقًا للدراسة؟",
+          "options_ar": [
+            "أ) 50.6%",
+            "ب) 63.4%",
+            "ج) 70.2%",
+            "د) 90.8%"
+          ],
+          "answer": 1,
+          "explanation_ar": "حساسية الأشعة المقطعية كانت 63.4%."
+        },
+        {
+          "q_ar": "ما هو التأثير المحتمل للطريقة الجديدة على ممارسة الجراحة؟",
+          "options_ar": [
+            "أ) لا شيء",
+            "ب) تحسين النتيجة",
+            "ج) الحد من العدوى",
+            "د) زيادة التكلفة"
+          ],
+          "answer": 1,
+          "explanation_ar": "من المحتمل أن يؤدي فهم موقع الورم لتحسين النتائج."
+        }
+      ]
+    },
+    {
+      "pmid": "41284731",
+      "title_ar": "Parity as a Risk Factor for Differentiated Thyroid Carcinoma: A Population-based Study.",
+      "title_en": "Parity as a Risk Factor for Differentiated Thyroid Carcinoma: A Population-based Study.",
+      "journal": "The Journal of clinical endocrinology and metabolism",
+      "pub_date": "2026-Apr-22",
+      "doi": "10.1210/clinem/dgaf642",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41284731/",
+      "pdf_url": "https://academic.oup.com/jcem/advance-article-pdf/doi/10.1210/clinem/dgaf642/65492546/dgaf642.pdf",
+      "study_design": "Population-based case-control study",
+      "summary_ar": "هذه الدراسة تبحث في علاقة الإنجاب مع خطر مرض السرطان الغدة الدرقية المفروق (DTC). تم تضمين 300 مريضة في هذه الدراسة، حيث تم تقييم المعلومات المتعلقة بعدد الولادات قبل تشخيص DTC. النتائج أظهرت أن الإنجاب العالي كان مرتبطًا بزيادة خطر DTC، خصوصًا في النساء العربيات. تم ملاحظة زيادة كبيرة في الخطر عند 4 ولادات أو أكثر. تشير النتائج إلى ضرورة التعرف على عوامل الخطر المرتبطة بDTC في مجموعات سكانية ذات خصائص محددة.",
+      "summary_en": "This study examines the relationship between parity and the risk of differentiated thyroid carcinoma (DTC). A total of 300 female patients were included, with information assessed regarding the number of deliveries before DTC diagnosis. The results indicated that high parity was associated with increased DTC risk, especially among Arab women. A significant increase in risk was observed at 4 or more deliveries. These findings highlight the need to recognize risk factors associated with DTC in specific population groups.",
+      "practice_change_ar": "يمكن للأطباء الآن اعتبار عدد الولادات كعامل خطر عند تشخيص DTC.",
+      "practice_change_en": "Clinicians can now consider the number of deliveries as a risk factor when diagnosing DTC.",
+      "future_impact_ar": "قد يؤدي هذا البحث إلى مراجعة توصيات الفحص عند النساء ذوات الإنجاب العالي.",
+      "future_impact_en": "This research may lead to a reevaluation of screening recommendations for women with high parity.",
+      "why_important_ar": "هذه المقالة تسلط الضوء على علاقة معروفة بزيادة خطر السرطان وربما توجه السياسات الصحية.",
+      "why_important_en": "This article highlights an established relationship with increased cancer risk and may inform health policies.",
+      "vs_previous_ar": "تضيف هذه الدراسة معلومات جديدة حول العلاقة بين الإنجاب وخطر DTC، حيث كانت البيانات السابقة غير متسقة.",
+      "vs_previous_en": "This study adds new information regarding the relationship between parity and DTC risk, where previous data were inconsistent.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة قائمة على حالة وضبط من مجموعة كبيرة، مما يضيف معرفة مفيدة في هذا المجال.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تقدم هذه الدراسة رؤى جديدة حول عوامل الخطر المرتبطة بDTC، مما يجعلها مهمة للنقاش.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "head_neck",
+      "audio_script_ar": "في هذه الدراسة، تم تقييم العلاقة بين الإنجاب وخطر السرطان الغدة الدرقية المفروق، مع التركيز على مجموعة من 300 مريضة. النتائج أظهرت أن ارتفاع عدد الولادات يرتبط بزيادة خطر الإصابة بـDTC، خصوصاً عند النساء العربيات. الخطر كان ملحوظاً عند 4 ولادات فما فوق. هذا البحث يمكن أن يؤثر على كيفية تعامل الأطباء مع النساء ذوات الإنجاب العالي عند التفكير في مخاطر سرطان الغدة الدرقية. من المهم مواصلة البحث في هذا المجال لفهم جميع عوامل الخطر بشكل أفضل.",
+      "mcq": [
+        {
+          "q_ar": "ماذا كان هدف الدراسة؟",
+          "options_ar": [
+            "أ) تقييم تأثير الإنجاب على DTC",
+            "ب) دراسة عواقب الحمل",
+            "ج) مقارنة أنواع مختلفة من السرطان",
+            "د) فحص تأثير الأدوية على DTC"
+          ],
+          "answer": 0,
+          "explanation_ar": "هدف الدراسة هو تقييم تأثير عدد الولادات على خطر الإصابة بـDTC."
+        },
+        {
+          "q_ar": "ما هو الخطر الذي تم تحديده عند عدد 4 ولادات؟",
+          "options_ar": [
+            "أ) تعليق الدراسة",
+            "ب) زيادة خطر الإصابة بـDTC",
+            "ج) نقص في معلومات الجمهور",
+            "د) فحص دقيق للغدة الدرقية"
+          ],
+          "answer": 1,
+          "explanation_ar": "تمت ملاحظة زيادة خطر الإصابة بـDTC بدءًا من 4 ولادات."
+        },
+        {
+          "q_ar": "أي مجموعة كانت أكثر عرضة للخطر؟",
+          "options_ar": [
+            "أ) النساء اليهوديات",
+            "ب) النساء العربيات",
+            "ج) النساء الأكبر سنًا",
+            "د) النساء المدخنات"
+          ],
+          "answer": 1,
+          "explanation_ar": "النساء العربيات كان لديهن معدلات أعلى من الإنجاب العالي، مما زاد من خطر الإصابة بـDTC."
+        }
+      ]
+    },
+    {
+      "pmid": "42019971",
+      "title_ar": "Single-cell dissection of persistent tumor antigens in non-responders reveals opportunities for TAA-targeted vaccination after neoadjuvant therapy in esophageal squamous cell carcinoma.",
+      "title_en": "Single-cell dissection of persistent tumor antigens in non-responders reveals opportunities for TAA-targeted vaccination after neoadjuvant therapy in esophageal squamous cell carcinoma.",
+      "journal": "Journal for immunotherapy of cancer",
+      "pub_date": "2026-Apr-22",
+      "doi": "10.1136/jitc-2025-014562",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42019971/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort",
+      "summary_ar": "تم جمع عينات الأورام قبل العلاج وبعده من 55 مريضًا يعانون من سرطان الخلايا الحرشفية المريئية المتقدم محليًا. تم تقييم الاستجابة للعلاج بناءً على نظام تسجيل Mandard. أظهرت النتائج أن الذين استجابوا للعلاج الكيميائي والعلاج المناعي أشتركوا في ديناميات زمنية متشابهة، بينما لم تنجح المجموعة غير المستجيبة في تحفيز المناعة المضادة للورم. وهذا يؤكد الحاجة لتطوير لقاحات موجهة ضد مستضدات الورم المذكورة.",
+      "summary_en": "Tumor samples were collected from 55 patients with locally advanced esophageal squamous cell carcinoma before and after treatment. Pathological response was assessed using the Mandard scoring system. Results showed that responders to chemotherapy and chemoimmunotherapy exhibited shared temporal dynamics, while non-responders failed to elicit effective antitumor immunity. This highlights the need for developing targeted vaccines against the identified tumor-associated antigens.",
+      "practice_change_ar": "يمكن أن يؤدي هذا البحث إلى تحسين استراتيجيات العلاج المستندة إلى اللقاحات لمساعدة المرضى غير المستجيبين.",
+      "practice_change_en": "This research could lead to improved vaccine-based treatment strategies to assist non-responder patients.",
+      "future_impact_ar": "تطوير اللقاحات المستهدفة يمكن أن يعزز من معدلات الاستجابة لدى المرضى غير المستجيبين.",
+      "future_impact_en": "Targeted vaccine development could enhance response rates in non-responder patients.",
+      "why_important_ar": "تحدد هذه الدراسة العوامل المناعية الرئيسية المرتبطة بالاستجابة للعلاج، مما يساهم في تطوير استراتيجيات جديدة.",
+      "why_important_en": "This study identifies key immune factors related to treatment response, contributing to new strategy development.",
+      "vs_previous_ar": "هذا البحث يقدم معلومات جديدة حول كيفية تأثير العلاج المناعي على استجابة الجسم للسرطان.",
+      "vs_previous_en": "This research offers new insights into how immunotherapy impacts the body’s response to cancer.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة مجموعة مستقبلية، تقدم معلومات جديدة حول العوامل المناعية ومستضدات الأورام.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تقدم هذه الدراسة رؤى جديدة ومهمة حول إمكانية استخدام اللقاحات المستهدفة في سرطان المريء.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة تطوير اللقاحات المستهدفة لزيادة استجابة المرضى غير المستجيبين.",
+      "watch_type": "drug",
+      "research_gap_ar": "الحاجة إلى تعزيز الفهم حول استجابات المناعة داخل الأورام.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "في هذا التحليل، نتحدث عن دراسة جديدة تم نشرها في مجلة Journal for Immunotherapy of Cancer. الدراسة تبحث في سرطان الخلايا الحرشفية المريئية المتقدم وتقييم فعالية العلاجات المناعية. تم جمع عينات من المرضى قبل وبعد العلاج، وأظهرت النتائج أن المرضى المستجيبين يظهرون أمورًا جديدة في ديناميات الاستجابة، بينما لم يستجب الآخرون. هذا البحث يسعى لتطوير لقاحات موجهة ضد مستضدات الأورام، مما قد يكون له تأثير كبير في كيفية إدارة هذه الحالات في المستقبل.",
+      "mcq": [
+        {
+          "q_ar": "ما الهدف الرئيسي للدراسة؟",
+          "options_ar": [
+            "أ) دراسة تأثير العقاقير",
+            "ب) تحليل استجابة المناعة للعلاج",
+            "ج) تقنيات جراحية جديدة",
+            "د) أعراض سرطانية"
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسة تستهدف تحليل استجابة المناعة للعلاج لدى مرضى سرطان المريء."
+        },
+        {
+          "q_ar": "ما هي الطريقة المستخدمة لجمع البيانات في الدراسة؟",
+          "options_ar": [
+            "أ) تجربة معملية",
+            "ب) دراسة مستقلة",
+            "ج) تحليل بعد العلاج",
+            "د) دراسة مستقبلية"
+          ],
+          "answer": 3,
+          "explanation_ar": "تم استخدام دراسة مستقبلية لجمع البيانات من المرضى قبل وبعد العلاج."
+        },
+        {
+          "q_ar": "ما معنى TAA في سياق هذه الدراسة؟",
+          "options_ar": [
+            "أ) مستضدات الأنسجة",
+            "ب) مستضدات الورم",
+            "ج) علاج الأدوية",
+            "د) تحليل الستاتيك"
+          ],
+          "answer": 1,
+          "explanation_ar": "TAA تشير إلى مستضدات مرتبطة بالورم، وهي ما تسعى الدراسة لتطوير لقاحا مستهدفا ضده."
+        }
+      ]
+    },
+    {
+      "pmid": "42018263",
+      "title_ar": "Elevated uric acid in patients with obstructive sleep apnea increases the risk of stroke: A systematic review and meta-analysis combined with a retrospective cohort study.",
+      "title_en": "Elevated uric acid in patients with obstructive sleep apnea increases the risk of stroke: A systematic review and meta-analysis combined with a retrospective cohort study.",
+      "journal": "Sleep & breathing = Schlaf & Atmung",
+      "pub_date": "2026-Apr-22",
+      "doi": "10.1007/s11325-026-03679-y",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42018263/",
+      "pdf_url": null,
+      "study_design": "Meta-analysis 12 studies + Retrospective cohort",
+      "summary_ar": "تهتم هذه الدراسة بزيادة مستوى حمض اليوريك لدى المرضى الذين يعانون من انقطاع النفس أثناء النوم وعلاقته بخطر السكتة الدماغية. تم دمج مراجعة منهجية مع تحليل تلوي لدراسة العلاقة بين مستوياته وخطر السكتة. تشير النتائج إلى أن ارتفاع مستوى حمض اليوريك قد يمثل عامل خطر إضافي للمرضى الذين يعانون من انقطاع النفس. هذه الدراسة تسهم في فهم العوامل الأيضية المرتبطة بانقطاع النفس وتؤكد على أهمية مراقبة مستويات حمض اليوريك. ومع ذلك، لا تتوفر معلومات مستندة إلى نتائج ملموسة في الملخص.",
+      "summary_en": "This study examines elevated uric acid levels in patients with obstructive sleep apnea and its association with stroke risk. It combines a systematic review with a meta-analysis to evaluate this relationship. The findings suggest that elevated uric acid levels may be an additional risk factor for patients with obstructive sleep apnea. This study contributes to understanding the metabolic factors associated with sleep apnea and highlights the importance of monitoring uric acid levels. However, specific results are lacking in the abstract.",
+      "practice_change_ar": "قد يتم تشجيع الأطباء على مراقبة مستويات حمض اليوريك لدى المرضى المصابين بانقطاع النفس أثناء النوم.",
+      "practice_change_en": "Physicians may be encouraged to monitor uric acid levels in patients with obstructive sleep apnea.",
+      "future_impact_ar": "يمكن أن تؤدي هذه النتائج إلى تحسين إدارة مرضى انقطاع النفس أثناء النوم.",
+      "future_impact_en": "These findings could lead to improved management of patients with obstructive sleep apnea.",
+      "why_important_ar": "تعد المقالة مهمة لأنها تلقي الضوء على عامل خطر إضافي محتمل للسكتة الدماغية لدى مرضى انقطاع النفس.",
+      "why_important_en": "This article is important as it highlights a potential additional risk factor for stroke in patients with sleep apnea.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة من خلال التركيز على العلاقة بين حمض اليوريك والسكتة الدماغية في مرضى انقطاع النفس.",
+      "vs_previous_en": "This study differs from prior knowledge by focusing on the relationship between uric acid and stroke in sleep apnea patients.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة تشمل تحليل تلوي مع تصميم دراسة استعادية يحقق الجودة الكافية.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تلقي الدراسة الضوء على علاقة جديدة بين المستويين الأيضي والسكتة الدماغية.",
+      "watch": true,
+      "watch_detail_ar": "يجب مراقبة العلاقة بين مستويات حمض اليوريك وانقطاع النفس أثناء النوم لأنها قد تؤثر على الاستراتيجيات العلاجية.",
+      "watch_type": "drug",
+      "research_gap_ar": "تحتاج النتائج إلى مزيد من الدراسات السريرية لدعم استنتاجات هذه الدراسة.",
+      "subspecialty": "sleep",
+      "audio_script_ar": "أهلاً وسهلاً بكم في تحليلنا لمقالة جديدة تتناول العلاقة بين مستويات حمض اليوريك وخطر السكتة الدماغية في مرضى انقطاع النفس أثناء النوم. تتضمن الدراسة مراجعة منهجية وتحليل تلوي يجمع بين مختلف الدراسات. النتائج تشير إلى ارتفاع مستويات حمض اليوريك كعامل خطر إضافي، مما يستدعي مراجعة مستوى حمض اليوريك لرعاية المرضى. الأطباء قد يحتاجون لتعديل استراتيجياتهم بناءً على هذه النتائج. نأمل في أن تستمر الأبحاث لتوضيح هذه النتائج.",
+      "mcq": [
+        {
+          "q_ar": "ما هو خطر زيادة مستوى حمض اليوريك في المرضى الذين يعانون من انقطاع النفس أثناء النوم؟",
+          "options_ar": [
+            "أ) يزيد خطر السكتة الدماغية",
+            "ب) يقلل من خطر الوفاة",
+            "ج) لا يؤثر على الصحة",
+            "د) يحسن من جودة النوم"
+          ],
+          "answer": 0,
+          "explanation_ar": "تشير الدراسة إلى أن زيادة مستوى حمض اليوريك قد تزيد من خطر السكتة الدماغية."
+        },
+        {
+          "q_ar": "ما نوع الدراسة التي تم إجراؤها في هذه المقالة؟",
+          "options_ar": [
+            "أ) دراسة عشوائية",
+            "ب) مراجعة منهجية مع تحليل تلوي",
+            "ج) دراسة حالة",
+            "د) رأي خبير"
+          ],
+          "answer": 1,
+          "explanation_ar": "المقالة تتضمن مراجعة منهجية وتحليل تلوي وفقاً للنتائج."
+        },
+        {
+          "q_ar": "ما الذي يمكن أن يتغير في الممارسة السريرية بناءً على هذه الدراسة؟",
+          "options_ar": [
+            "أ) ينبغي تجاهل مستويات حمض اليوريك",
+            "ب) ينبغي مراقبة مستويات حمض اليوريك",
+            "ج) لا توجد تغييرات مقترحة",
+            "د) زيادة العلاج الكيميائي"
+          ],
+          "answer": 1,
+          "explanation_ar": "ينبغي للأطباء مراقبة مستويات حمض اليوريك كجزء من إدارة مرضى انقطاع النفس."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026042301",
+      "title_ar": "حجم سوق التنظير الداخلي للأنف والأذن والحنجرة، حصة، نمو | معدل النمو السنوي المركب 6.4%",
+      "title_en": "ENT Endoscopy Market Size, Share, Growth | CAGR of 6.4%",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-04-23",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "من المتوقع أن يشهد سوق التنظير الداخلي للأنف والأذن والحنجرة نمواً كبيراً، بمعدل نمو سنوي مركب يبلغ 6.4%. يقود هذا النمو الطلب المتزايد على الإجراءات الأقل غزواً والابتكارات في تكنولوجيا التنظير. تسلط الدراسة الضوء على الاتجاهات الرئيسية في السوق والتوقعات للسنوات القادمة. من المتوقع أن تساهم الأسواق الناشئة بشكل ملحوظ في هذا التوسع.",
+      "summary_en": "The ENT endoscopy market is projected to witness significant growth, with a compound annual growth rate (CAGR) of 6.4%. This growth is driven by increasing demand for minimally invasive procedures and advancements in endoscopic technology. The report highlights key market trends and forecasts for the upcoming years. Emerging markets are expected to contribute notably to this expansion.",
+      "practice_change_ar": "تعتبر هذه المعلومات حاسمة لجراحي الأنف والأذن والحنجرة لفهم اتجاهات السوق والاستثمارات في التقنيات الجديدة.",
+      "practice_change_en": "This information is crucial for ENT surgeons to understand the market trends and investments in new technologies.",
+      "future_impact_ar": "يشير النمو الواعد في قطاع التنظير الداخلي للأنف والأذن والحنجرة إلى استمرار الابتكار وتحسين الأدوات لرعاية المرضى في المستقبل.",
+      "future_impact_en": "The promising growth in the ENT endoscopy sector suggests continued innovation and better tools for patient care in the future.",
+      "why_important_ar": "يمكن أن يساعد فهم ديناميات السوق الجراحين في اتخاذ قرارات مستنيرة بشأن شراء المعدات والإجراءات الجديدة.",
+      "why_important_en": "Understanding the market dynamics can help surgeons make informed decisions regarding equipment purchases and new procedures.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "النمو المتوقع في السوق يوفر فرصا اقتصادية وتحسينات تقنية للجراحين.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "في خبر اليوم، تم الإعلان عن توقعات سوق التنظير الداخلي للأنف والأذن والحنجرة، حيث من المتوقع أن ينمو السوق بمعدل نمو سنوي مركب يبلغ 6.4%. تعود أسباب هذا النمو إلى ارتفاع الطلب على الإجراءات الأقل غزواً والابتكارات في التقنيات. هذه المعلومات تُعتبر مهمة لجراحي الأنف والأذن والحنجرة لفهم اتجاهات السوق والتأكد من استثماراتهم في التقنيات الحديثة.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026042302",
+      "title_ar": "حجم سوق أجهزة الأنف والأذن والحنجرة، المشاركة | تقرير الصناعة [2026-2034]",
+      "title_en": "ENT Devices Market Size, Share | Industry Report [2026-2034]",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-04-23",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "التقرير الصناعي الأخير من مؤسسة فورشن للأعمال يوضح نمو السوق المتوقع لأجهزة الأنف والأذن والحنجرة من 2026 إلى 2034. تشمل العوامل التي تدفع هذا النمو التقدم التكنولوجي وزيادة الاضطرابات الأنفية والأذن والحنجرة. يسلط التقرير الضوء على زيادة الاستثمارات في البحث والتطوير، مما قد يؤدي إلى منتجات مبتكرة. يتوقع المحللون زيادة كبيرة في حصة السوق للاعبين الرئيسيين في القطاع، مما يعكس الطلب القوي على أجهزة الأنف والأذن والحنجرة.",
+      "summary_en": "The latest industry report from Fortune Business Insights outlines projected growth in the ENT devices market from 2026 to 2034. Factors driving this growth include advancements in technology and an increase in ENT disorders. The report highlights rising investments in research and development, which may lead to innovative products. Analysts predict a significant rise in market share for key players in the sector, reflecting a robust demand for ENT devices.",
+      "practice_change_ar": "هذا التقرير يسلط الضوء على اتجاهات السوق المهمة التي قد تؤثر على قرارات الشراء لممارسات الأنف والأذن والحنجرة.",
+      "practice_change_en": "This report highlights significant market trends that may influence buying decisions for ENT practices.",
+      "future_impact_ar": "النمو المتوقع في سوق أجهزة الأنف والأذن والحنجرة يشير إلى زيادة في الابتكار وخيارات العلاج المحتملة للمرضى.",
+      "future_impact_en": "The projected growth in the ENT devices market suggests increased innovation and potential treatment options for patients.",
+      "why_important_ar": "فهم الديناميكيات السوقية يساعد الجراحين على التنبؤ بتغيرات توفر الأجهزة والأسعار.",
+      "why_important_en": "Understanding market dynamics helps surgeons anticipate changes in device availability and pricing.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "التقرير يوفر معلومات قيمة تساعد الجراحين في اتخاذ قرارات مستنيرة بشأن الأجهزة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "في خبر اليوم، أصدرت مؤسسة فورشن للأعمال تقريراً عن سوق أجهزة الأنف والأذن والحنجرة من المتوقع أن ينمو بين عامي 2026 و2034. يشير التقرير إلى أن التقدم التكنولوجي وزيادة الاضطرابات في هذه المجالات سيكونان من العوامل الدافعة للنمو. مع تزايد الاستثمارات في البحث والتطوير، قد نشهد إصدارات جديدة من الأجهزة التي ستعود بالنفع على المرضى. يعتبر التقرير مصدر معلومات مهمة للجراحين حيث يساعدهم في التنبؤ بتغيرات السوق.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026042303",
+      "title_ar": "حجم سوق الأجهزة الطبية للأنف والأذن والحنجرة في الولايات المتحدة، تقرير الصناعة، 2030",
+      "title_en": "U.S. ENT Devices Market Size, Share | Industry Report, 2030",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-04-23",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "وفقًا لتقرير جديد من Grand View Research، من المتوقع أن ينمو سوق أجهزة الأنف والأذن والحنجرة في الولايات المتحدة بشكل كبير بحلول عام 2030. تشمل العوامل المساهمة في هذا النمو التقدم التكنولوجي، وزيادة انتشار اضطرابات الأنف والأذن والحنجرة، وارتفاع الوعي بين المرضى حول خيارات العلاج. يسلط تقرير السوق الضوء على الإمكانات المتاحة للمتخصصين الطبيين والشركات المتخصصة في أجهزة الأنف والأذن والحنجرة. ويوفر رؤى حول ديناميكيات السوق والمشهد التنافسي.",
+      "summary_en": "According to a new report by Grand View Research, the U.S. ENT devices market is expected to grow significantly by 2030. Factors contributing to this growth include advancements in technology, increasing prevalence of ENT disorders, and rising awareness among patients regarding treatment options. The market report highlights the potential for medical professionals and companies specializing in ENT devices. It provides insights into market dynamics and competitive landscape.",
+      "practice_change_ar": "تشير هذا التقرير إلى سوق متنامٍ قد يؤدي إلى توفر المزيد من الأجهزة المبتكرة للعلاج في مجال الأنف والأذن والحنجرة.",
+      "practice_change_en": "This report indicates a growing market which may lead to more innovative devices becoming available for treatment in the ENT field.",
+      "future_impact_ar": "تشير اتجاهات النمو هذه إلى مستقبل قوي للابتكارات والاستثمارات في أجهزة الأنف والأذن والحنجرة.",
+      "future_impact_en": "This growth trend suggests a robust future for innovations and investments in ENT devices.",
+      "why_important_ar": "يمكن أن يؤدي سوق أكبر إلى تعزيز التقدم التكنولوجي وتحسين خيارات العلاج للمرضى.",
+      "why_important_en": "A larger market may drive technological advancements and improve treatment options for patients.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "يعد نمو السوق وتوسع الابتكارات مهمين للأطباء المتخصصين.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "في تقرير جديد من Grand View Research، تم الكشف عن أن سوق أجهزة الأنف والأذن والحنجرة في الولايات المتحدة من المتوقع أن ينمو بشكل ملحوظ بحلول عام 2030. يشير التقرير إلى أن هذا النمو مدفوع بالتقدم التكنولوجي وزيادة انتشار اضطرابات الأنف والأذن والحنجرة وأيضًا الوعي المتزايد لدى المرضى حول خيارات العلاج. هذا يدل على فرصة للمتخصصين والشركات في هذا المجال لتقديم أجهزة مبتكرة وتحسين الرعاية الصحية للمرضى.",
+      "mcq": []
+    }
+  ]
+}
