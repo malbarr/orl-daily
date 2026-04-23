@@ -305,18 +305,23 @@ JSON fields required:
 - vs_previous_en: same in English
 - stars: integer 1-5 (apply scoring rules above)
 - stars_reason_ar: brief Arabic reason including study design and why this score
+- stars_reason_en: same in English
 - confidence: one of "\U0001f7e2" (practice-changing) or "\U0001f7e1" (worth knowing) or "\U0001f534" (weak evidence)
 - reject: boolean — true if meets any IMMEDIATE REJECTION CRITERIA
 - reject_reason: brief English reason if reject is true, else null
 - journal_club: boolean
 - jc_reason_ar: reason if journal_club is true, else null
+- jc_reason_en: same in English, or null
 - watch: boolean (true if article features a noteworthy drug, device, instrument, or technology worth tracking — including drugs from other specialties tried in ENT, new surgical instruments, AI tools, imaging advances, or emerging tech)
 - watch_detail_ar: one sentence describing what to watch and why, or null if watch is false
+- watch_detail_en: same in English, or null
 - watch_type: one of "drug" | "device" | "technology" | "instrument" | null
 - research_gap_ar: one sentence research gap identified, or null
+- research_gap_en: same in English, or null
 - subspecialty: one of: rhinology, skull_base, laryngology, otology, head_neck, pediatric, sleep, general
 - audio_script_ar: 2-3 minute Arabic audio script covering all analysis points
-- mcq: array of exactly 3 objects, each with: q_ar, options_ar (array of 4 strings with \u0623) \u0628) \u062c) \u062f) prefix), answer (0-3 index of correct), explanation_ar
+- audio_script_en: 2-3 minute English audio script covering all analysis points
+- mcq: array of exactly 3 objects, each with: q_ar, q_en, options_ar (array of 4 strings with \u0623) \u0628) \u062c) \u062f) prefix), options_en (array of 4 strings with A) B) C) D) prefix), answer (0-3 index of correct), explanation_ar, explanation_en
 """
 
 
@@ -594,17 +599,22 @@ def main() -> None:
             "vs_previous_en":       analysis.get("vs_previous_en", ""),
             "stars":                int(analysis.get("stars", 3)),
             "stars_reason_ar":      analysis.get("stars_reason_ar", ""),
+            "stars_reason_en":      analysis.get("stars_reason_en", ""),
             "confidence":     analysis.get("confidence", "\U0001f7e1"),
             "reject":         bool(analysis.get("reject", False)),
             "reject_reason":  analysis.get("reject_reason", None),
             "journal_club":   bool(analysis.get("journal_club", False)),
             "jc_reason_ar":   analysis.get("jc_reason_ar", None),
+            "jc_reason_en":   analysis.get("jc_reason_en", None),
             "watch":          bool(analysis.get("watch", False)),
             "watch_detail_ar":analysis.get("watch_detail_ar", None),
+            "watch_detail_en":analysis.get("watch_detail_en", None),
             "watch_type":     analysis.get("watch_type", None),
             "research_gap_ar":analysis.get("research_gap_ar", None),
+            "research_gap_en":analysis.get("research_gap_en", None),
             "subspecialty":         analysis.get("subspecialty", "general"),
             "audio_script_ar":      analysis.get("audio_script_ar", ""),
+            "audio_script_en":      analysis.get("audio_script_en", ""),
             "mcq":                  analysis.get("mcq", []),
         }
         analyzed.append(record)

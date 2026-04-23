@@ -449,10 +449,13 @@ function buildArticleModal(article) {
 
   const subsLabel = getSubspecLabel(subspec);
 
+  const jcReason = state.lang === 'ar' ? article.jc_reason_ar : (article.jc_reason_en || article.jc_reason_ar);
   const jcBadge = article.journal_club
-    ? `<span class="badge jc" style="font-size:0.82rem;padding:0.25rem 0.8rem;">🎯 Journal Club${article.jc_reason_ar ? ' — ' + escHtml(article.jc_reason_ar) : ''}</span>` : '';
+    ? `<span class="badge jc" style="font-size:0.82rem;padding:0.25rem 0.8rem;">🎯 Journal Club${jcReason ? ' — ' + escHtml(jcReason) : ''}</span>` : '';
 
-  const watchDetail = article.watch_detail_ar || article.drug_watch_detail_ar;
+  const watchDetail = state.lang === 'ar'
+    ? (article.watch_detail_ar || article.drug_watch_detail_ar)
+    : (article.watch_detail_en || article.watch_detail_ar || article.drug_watch_detail_ar);
   const watchIsActive = article.watch || article.drug_watch;
   const wIcon = { drug: '💊', device: '🔬', technology: '💡', instrument: '🔧' }[article.watch_type] || '👁';
   const wLabel = { drug: 'Drug Watch', device: 'Device Watch', technology: 'Tech Watch', instrument: 'Instrument Watch' }[article.watch_type] || 'Watch';
@@ -461,10 +464,11 @@ function buildArticleModal(article) {
         ${wIcon} <strong>${wLabel}:</strong> ${escHtml(watchDetail)}
        </div>` : '';
 
-  const researchGap = article.research_gap_ar
+  const researchGapText = state.lang === 'ar' ? article.research_gap_ar : (article.research_gap_en || article.research_gap_ar);
+  const researchGap = researchGapText
     ? `<div class="section-block block-research">
         <h4>🔬 ${state.lang === 'ar' ? 'فجوة بحثية' : 'Research Gap'}</h4>
-        <p>${escHtml(article.research_gap_ar)}</p>
+        <p>${escHtml(researchGapText)}</p>
        </div>` : '';
 
   const pdfLink = article.pdf_url
@@ -539,7 +543,7 @@ function buildArticleModal(article) {
       <div class="stars-row">
         <span class="stars-display" aria-label="${stars} stars">${renderStars(stars)}</span>
         ${jcBadge}
-        <span class="stars-reason">${escHtml(article.stars_reason_ar || '')}</span>
+        <span class="stars-reason">${escHtml(state.lang === 'ar' ? (article.stars_reason_ar || '') : (article.stars_reason_en || article.stars_reason_ar || ''))}</span>
       </div>
 
       ${researchGap}
@@ -617,7 +621,7 @@ function bindAudioPlayer(article, container) {
 
 function showAudioScript(article, section) {
   if (!section) return;
-  const script = article.audio_script_ar || '';
+  const script = state.lang === 'ar' ? (article.audio_script_ar || '') : (article.audio_script_en || article.audio_script_ar || '');
   const label  = state.lang === 'ar'
     ? '📜 النص الصوتي (ملف MP3 غير متوفر بعد)'
     : '📜 Audio script (MP3 not available yet)';
@@ -656,7 +660,7 @@ function renderMCQ(article, container) {
     // Question text
     const qText = document.createElement('div');
     qText.className = 'mcq-q-text';
-    qText.textContent = q.q_ar || q.q_en || '';
+    qText.textContent = state.lang === 'ar' ? (q.q_ar || q.q_en || '') : (q.q_en || q.q_ar || '');
     qDiv.appendChild(qText);
 
     // Options
@@ -664,7 +668,8 @@ function renderMCQ(article, container) {
     optsDiv.className = 'mcq-options';
     optsDiv.id = `mcq-opts-${qi}`;
 
-    (q.options_ar || []).forEach((optText, oi) => {
+    const opts = state.lang === 'ar' ? (q.options_ar || q.options_en || []) : (q.options_en || q.options_ar || []);
+    opts.forEach((optText, oi) => {
       const btn = document.createElement('button');
       btn.className = 'mcq-option';
       btn.type = 'button';
@@ -682,7 +687,7 @@ function renderMCQ(article, container) {
     const expDiv = document.createElement('div');
     expDiv.className = 'mcq-explanation';
     expDiv.id = `mcq-exp-${qi}`;
-    expDiv.textContent = q.explanation_ar || '';
+    expDiv.textContent = state.lang === 'ar' ? (q.explanation_ar || q.explanation_en || '') : (q.explanation_en || q.explanation_ar || '');
     qDiv.appendChild(expDiv);
 
     section.appendChild(qDiv);
@@ -778,12 +783,14 @@ function buildFlashCard(article) {
 
   // First MCQ for flash card
   const mcq0 = article.mcq && article.mcq[0];
+  const mcq0q = state.lang === 'ar' ? (mcq0 && (mcq0.q_ar || mcq0.q_en) || '') : (mcq0 && (mcq0.q_en || mcq0.q_ar) || '');
+  const mcq0opts = mcq0 ? (state.lang === 'ar' ? (mcq0.options_ar || mcq0.options_en || []) : (mcq0.options_en || mcq0.options_ar || [])) : [];
   const mcqHtml = mcq0 ? `
     <div class="fc-section">
       <div class="fc-section-label">MCQ</div>
-      <div class="fc-mcq-q">${escHtml(mcq0.q_ar || '')}</div>
+      <div class="fc-mcq-q">${escHtml(mcq0q)}</div>
       <div class="fc-mcq-opts">
-        ${(mcq0.options_ar || []).map(o => `<div>${escHtml(o)}</div>`).join('')}
+        ${mcq0opts.map(o => `<div>${escHtml(o)}</div>`).join('')}
       </div>
     </div>
   ` : '';
