@@ -688,6 +688,20 @@ def main() -> None:
 
     print(f"[Main] Total articles (PubMed + Business): {len(analyzed)}")
 
+    # 4a. Cap Journal Club at 3 articles (keep highest-starred)
+    jc_articles = sorted(
+        [a for a in analyzed if a.get("journal_club")],
+        key=lambda a: int(a.get("stars", 0)), reverse=True
+    )
+    if len(jc_articles) > 3:
+        demoted = jc_articles[3:]
+        demoted_pmids = {a["pmid"] for a in demoted}
+        for a in analyzed:
+            if a["pmid"] in demoted_pmids:
+                a["journal_club"] = False
+                a["jc_reason_ar"] = None
+        print(f"[Main] Journal Club capped at 3 — demoted {len(demoted)} article(s).")
+
     # 4. Save daily data file
     print(f"[Step 4] Saving data/{TODAY}.json…")
     output = {

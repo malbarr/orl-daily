@@ -275,6 +275,25 @@ function renderArticles() {
   const articles = getFilteredArticles();
   grid.innerHTML = '';
 
+  // Update article count bar
+  const bar = $('#article-count-bar');
+  if (bar) {
+    const total = state.articles.length;
+    const jcCount = state.articles.filter(a => a.journal_club).length;
+    if (total > 0) {
+      const totalLabel = state.lang === 'ar'
+        ? `${total} مقالة اليوم`
+        : `${total} articles today`;
+      const jcLabel = jcCount > 0
+        ? (state.lang === 'ar' ? ` · 🎯 ${jcCount} Journal Club` : ` · 🎯 ${jcCount} Journal Club`)
+        : '';
+      bar.textContent = totalLabel + jcLabel;
+      bar.classList.add('visible');
+    } else {
+      bar.classList.remove('visible');
+    }
+  }
+
   if (!articles.length) {
     grid.innerHTML = `<div class="state-card" role="status">
       <p>${state.lang === 'ar' ? 'لا توجد مقالات مطابقة' : 'No matching articles found'}</p>
