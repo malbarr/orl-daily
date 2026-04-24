@@ -22,10 +22,10 @@ OPENAI_API_KEY      = os.environ.get("OPENAI_API_KEY", "")
 TELEGRAM_BOT_TOKEN  = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 TELEGRAM_CHAT_ID    = os.environ.get("TELEGRAM_CHAT_ID", "1276595563")
 EMAIL_FOR_UNPAYWALL = "orl-daily@gmail.com"
-SITE_URL            = "https://malbarrr.github.io/orl-daily"
+SITE_URL            = "https://malbarr.github.io/orl-daily"
 MAX_ARTICLES        = 20   # fetch more, then filter by quality
 KEEP_DAYS           = 60
-PRIORITY_SUBSPECIALTIES = {'rhinology', 'skull_base', 'laryngology'}
+PRIORITY_SUBSPECIALTIES = {'rhinology', 'skull_base', 'laryngology', 'facial_plastics'}
 MIN_STARS_PRIORITY  = 3   # rhinology/skull_base/laryngology: keep ≥ 3 stars
 MIN_STARS_GENERAL   = 4   # all others: keep ≥ 4 stars
 
@@ -56,6 +56,9 @@ ENT_QUERY = (
     "\"cochlear implant\"[tiab] OR \"stapedectomy\"[tiab] OR "
     "\"vocal fold\"[tiab] OR \"subglottic\"[tiab] OR \"supraglottic\"[tiab] OR "
     "\"nasal polyp\"[tiab] OR \"chronic rhinosinusitis\"[tiab] OR "
+    "rhinoplasty[MeSH] OR \"facial plastic\"[tiab] OR rhinoplasty[tiab] OR "
+    "\"septorhinoplasty\"[tiab] OR \"facelift\"[tiab] OR rhytidectomy[tiab] OR "
+    "\"facial reconstruction\"[tiab] OR otoplasty[tiab] OR "
     "\"laryngeal cancer\"[tiab] OR \"hypopharynx\"[tiab] OR "
     "\"parotid\"[tiab] OR \"submandibular\"[tiab] OR "
     "\"vestibular schwannoma\"[tiab] OR \"acoustic neuroma\"[tiab] OR "
@@ -72,7 +75,10 @@ PRIORITY_QUERY = (
     "\"lateral skull base\"[tiab] OR \"pituitary surgery\"[tiab] OR "
     "laryngology[tiab] OR \"vocal fold\"[tiab] OR \"vocal cord\"[MeSH] OR "
     "larynx[MeSH] OR \"laryngeal cancer\"[tiab] OR \"subglottic\"[tiab] OR "
-    "\"supraglottic\"[tiab] OR \"laryngoscopy\"[tiab] OR \"phonosurgery\"[tiab])"
+    "\"supraglottic\"[tiab] OR \"laryngoscopy\"[tiab] OR \"phonosurgery\"[tiab] OR "
+    "rhinoplasty[MeSH] OR rhinoplasty[tiab] OR \"septorhinoplasty\"[tiab] OR "
+    "\"facelift\"[tiab] OR rhytidectomy[tiab] OR \"facial plastic surgery\"[tiab] OR "
+    "otoplasty[tiab] OR \"facial reconstruction\"[tiab])"
 )
 
 DATA_DIR = Path(__file__).parent.parent / "data"
@@ -318,7 +324,7 @@ JSON fields required:
 - watch_type: one of "drug" | "device" | "technology" | "instrument" | null
 - research_gap_ar: one sentence research gap identified, or null
 - research_gap_en: same in English, or null
-- subspecialty: one of: rhinology, skull_base, laryngology, otology, head_neck, pediatric, sleep, general
+- subspecialty: one of: rhinology, skull_base, laryngology, facial_plastics, otology, head_neck, pediatric, sleep, general
 - audio_script_ar: 2-3 minute Arabic audio script covering all analysis points
 - audio_script_en: 2-3 minute English audio script covering all analysis points
 - mcq: array of exactly 3 objects, each with: q_ar, q_en, options_ar (array of 4 strings with \u0623) \u0628) \u062c) \u062f) prefix), options_en (array of 4 strings with A) B) C) D) prefix), answer (0-3 index of correct), explanation_ar, explanation_en
