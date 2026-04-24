@@ -1,0 +1,1275 @@
+{
+  "date": "2026-04-24",
+  "generated_at": "2026-04-24T05:44:45Z",
+  "articles": [
+    {
+      "pmid": "42025426",
+      "title_ar": "Systematic elucidation of the cross-omics regulatory network in chronic rhinosinusitis: the LAT-IL23R metabolic axis.",
+      "title_en": "Systematic elucidation of the cross-omics regulatory network in chronic rhinosinusitis: the LAT-IL23R metabolic axis.",
+      "journal": "Brazilian journal of otorhinolaryngology",
+      "pub_date": "2026-Apr-22",
+      "doi": "10.1016/j.bjorl.2026.101819",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42025426/",
+      "pdf_url": "https://doi.org/10.1016/j.bjorl.2026.101819",
+      "study_design": "Retrospective analysis of GWAS and proteomic data",
+      "summary_ar": "تهدف هذه الدراسة إلى توضيح الآليات المرضية الكامنة وراء التهاب الأنف المزمن (CRS) من خلال تحليل منظم للشبكة التنظيمية المتعددة الأبعاد التي تشمل الجينات والبروتينات والعمليات الأيضية. تم استخدام بيانات من مختلف قواعد البيانات لتحديد البروتينات المرتبطة بـ CRS. أظهرت النتائج أن محور LAT-IL23R يساهم في CRS من خلال γ-glutamyltyrosine وtrans-4-hydroxyproline. يتضح من هذه النتائج الدور المحفز لشبكة الأيض المرتبطة بـ LAT-IL23R في CRS، مما يوفر قاعدة نظرية لتطوير علاجات مركبة مستهدفة.",
+      "summary_en": "This study aims to elucidate the pathological mechanisms underlying Chronic Rhinosinusitis (CRS) through a systematic analysis of the cross-omics regulatory network encompassing genetics, proteins, and metabolites. Data from various databases were utilized to identify proteins associated with CRS. The results demonstrate that the LAT-IL23R metabolic axis mediates CRS through γ-glutamyltyrosine and trans-4-hydroxyproline. These findings reveal the promoting role of the LAT-IL23R metabolic network in CRS, providing a theoretical basis for the development of targeted combination therapies.",
+      "practice_change_ar": "قد تؤدي هذه الدراسة إلى الحاجة لتطوير أدوية جديدة تستهدف شبكة LAT-IL23R لعلاج CRS بشكل أكثر فعالية.",
+      "practice_change_en": "This study may lead to the need for developing new drugs targeting the LAT-IL23R network to more effectively treat CRS.",
+      "future_impact_ar": "يمكن أن توفر هذه النتائج أساسًا لتطوير علاجات مستقبلية موجهة لتخفيف CRS.",
+      "future_impact_en": "These findings could provide a basis for developing targeted therapies in the future to alleviate CRS.",
+      "why_important_ar": "تساهم هذه الدراسة في فهم أفضل للميكانيكيات المرضية لـ CRS وتفتح الطريق أمام علاجات جديدة.",
+      "why_important_en": "This study contributes to a better understanding of the pathogenic mechanisms of CRS and paves the way for new treatments.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة من خلال تقديم نتائج جديدة حول محور LAT-IL23R وتأثيره على CRS.",
+      "vs_previous_en": "This study differs from previous knowledge by presenting new findings regarding the LAT-IL23R axis and its impact on CRS.",
+      "stars": 4,
+      "stars_reason_ar": "تحليل مرتكز عن طريق بيانات الجينوم الواسع وقد قدم معلومات جديدة حول CRS، مما يكسبه علامة مرتفعة.",
+      "stars_reason_en": "Focused analysis using large-scale genomic data that provided new insights into CRS warrants a high rating.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تعتبر النتائج جديدة وتقدم معلومات هامة عن محور LAT-IL23R في CRS.",
+      "jc_reason_en": "The findings are novel and provide significant insights into the LAT-IL23R axis in CRS.",
+      "watch": true,
+      "watch_detail_ar": "يستحق محور LAT-IL23R المتابعة بسبب إمكانيته في تطوير علاجات جديدة لـ CRS.",
+      "watch_detail_en": "The LAT-IL23R axis is worth tracking due to its potential in developing new therapies for CRS.",
+      "watch_type": "drug",
+      "research_gap_ar": "تفتقر الدراسات الحالية إلى فهم شامل للشبكات التنظيمية المتقاطعة لـ CRS.",
+      "research_gap_en": "Current studies lack a comprehensive understanding of the cross-omics regulatory networks in CRS.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "هذه الدراسة تسلط الضوء على أهمية الفهم الدقيق للآليات المرضية وراء التهاب الأنف المزمن (CRS). من خلال استخدام تحليل شامل للبيانات الجينية والبروتينية، تم التعرف على محور LAT-IL23R ودوره في تقدم CRS. تقدم النتائج قاعدة جديدة لتطوير علاجات مركبة تستهدف هذا المحور. يمكن أن تؤدي هذه الدراسة إلى تغييرات في كيفية إدارة CRS، مما يعزز فعالية العلاج.",
+      "audio_script_en": "This study highlights the importance of accurately understanding the pathological mechanisms behind Chronic Rhinosinusitis (CRS). By employing comprehensive analysis of genomic and proteomic data, the LAT-IL23R axis was identified and its role in the progression of CRS elucidated. The results provide a new basis for developing targeted combination therapies aimed at this axis. This study may lead to shifts in how CRS is managed, enhancing treatment efficacy.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف من هذه الدراسة؟",
+          "q_en": "What is the aim of this study?",
+          "options_ar": [
+            "أ) فهم آليات CRS",
+            "ب) تطوير أدوات تشخيص جديدة",
+            "ج) دراسة تأثير الأدوية الجديدة",
+            "د) تحليل البيانات السريرية"
+          ],
+          "options_en": [
+            "A) Understanding the mechanisms of CRS",
+            "B) Developing new diagnostic tools",
+            "C) Studying the impact of new drugs",
+            "D) Analyzing clinical data"
+          ],
+          "answer": 0,
+          "explanation_ar": "تهدف الدراسة إلى فهم آليات CRS من خلال تحليل الشبكات التنظيمية.",
+          "explanation_en": "The study aims to understand the mechanisms of CRS through the analysis of regulatory networks."
+        },
+        {
+          "q_ar": "ما هي النتائج التي تم تحديدها في الدراسة؟",
+          "q_en": "What results were identified in the study?",
+          "options_ar": [
+            "أ) تعديل البروتينات فقط",
+            "ب) محور LAT-IL23R يؤثر على CRS",
+            "ج) تم تحديد دواء جديد",
+            "د) جميع ما سبق"
+          ],
+          "options_en": [
+            "A) Modification of proteins only",
+            "B) LAT-IL23R axis affects CRS",
+            "C) A new drug was identified",
+            "D) All of the above"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم تحديد محور LAT-IL23R كعنصر مؤثر في CRS.",
+          "explanation_en": "The LAT-IL23R axis was identified as a key influencing factor in CRS."
+        },
+        {
+          "q_ar": "كيف يختلف البحث الجديد عن الدراسات السابقة؟",
+          "q_en": "How does the new research differ from previous studies?",
+          "options_ar": [
+            "أ) يؤكد المعرفة القديمة",
+            "ب) يقدم نتائج جديدة عن محور LAT-IL23R",
+            "ج) يركز على علاج CRS",
+            "د) لا يختلف عنه"
+          ],
+          "options_en": [
+            "A) Confirms old knowledge",
+            "B) Presents new findings on LAT-IL23R axis",
+            "C) Focuses on CRS treatment",
+            "D) Does not differ"
+          ],
+          "answer": 1,
+          "explanation_ar": "يوفر البحث الجديد نتائج جديدة تتعلق بمحور LAT-IL23R.",
+          "explanation_en": "The new research provides new findings related to the LAT-IL23R axis."
+        }
+      ]
+    },
+    {
+      "pmid": "42018047",
+      "title_ar": "Phenotype-specific differences in bone morphogenetic protein ligand expression and intracellular signaling pathway activation in chronic rhinosinusitis.",
+      "title_en": "Phenotype-specific differences in bone morphogenetic protein ligand expression and intracellular signaling pathway activation in chronic rhinosinusitis.",
+      "journal": "Molecular biology reports",
+      "pub_date": "2026-Apr-22",
+      "doi": "10.1007/s11033-026-11834-7",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42018047/",
+      "pdf_url": null,
+      "study_design": "Retrospective case series n=36",
+      "summary_ar": "تتكون حالة الRhinosinusitis المزمنة من أنماط متنوعة مع أنماط التهابية وإعادة تشكيل أنسجة متباينة. توفر بروتينات العظام التنظيم ضروري لإصلاح الممرات الهوائية. وجد الباحثون أن أنسجة CRSsNP أظهرت زيادة في تعبير BMP-2 وBMP-4 وTGF-β1 مقارنة بالتحكم. بينما تم تقليل تعبير الروابط في أنسجة CRSwNP. أظهر تحليل مسارات Smad تفعيلًا ملحوظًا في كلا النمطين، مما يشير إلى أن النشاط قد يختلف حسب النمط المرضي وسياق الأنسجة.",
+      "summary_en": "Chronic rhinosinusitis (CRS) consists of distinct phenotypes with varying inflammatory and tissue remodeling patterns. Bone morphogenetic proteins (BMPs) are essential regulators of airway repair. The study found that CRSsNP tissues showed increased expression of BMP-2, BMP-4, and TGF-β1 compared to controls, while CRSwNP tissues exhibited reduced ligand expression. Smad pathway activation was significantly increased in both phenotypes, suggesting that pathway activity may differ based on disease phenotype and tissue context.",
+      "practice_change_ar": "تدل النتائج على أهمية النظر في نشاط مسارات الإشارة بجانب تعبير اللجنات في الدراسات القائمة على الأنسجة.",
+      "practice_change_en": "The findings underscore the importance of interpreting signaling pathway activity alongside ligand expression in tissue-based studies.",
+      "future_impact_ar": "يمكن أن تسهم هذه النتائج في تحسين فهمنا لإعادة تشكيل الممرات الهوائية في حالة الRhinosinusitis المزمنة.",
+      "future_impact_en": "These findings may enhance our understanding of airway remodeling in chronic rhinosinusitis.",
+      "why_important_ar": "تساعد هذه الدراسة في تسليط الضوء على الفروقات النمطية في نشاط مسار BMP/Smad في حالات الRhinosinusitis المزمنة.",
+      "why_important_en": "This study highlights phenotype-specific differences in BMP/Smad pathway activity in chronic rhinosinusitis.",
+      "vs_previous_ar": "تختلف هذه النتائج عن المعرفة السابقة التي افترضت أن نشاط Smad يترافق مباشرة مع مستويات الروابط.",
+      "vs_previous_en": "These findings differ from previous knowledge that assumed Smad activity directly correlates with ligand levels.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة غير تجريبية لكنها تشمل عددًا كافيًا من العوامل وتقدم معلومات جديدة حول نشاط مسارات الإشارة.",
+      "stars_reason_en": "While not a randomized trial, this study includes a sufficient number of cases and provides new insights into signaling pathway activity.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تقدم الدراسة رؤى جديدة حول النمطية في حالات التهاب الجيوب الأنفية المزمن.",
+      "jc_reason_en": "The study offers new insights into phenotypic differences in chronic rhinosinusitis.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تسليط الضوء على الحاجة لمزيد من البحث في مسارات الإشارة المتعلقة بالنمط في حالات الRhinosinusitis.",
+      "research_gap_en": "Highlights the need for further research into phenotype-related signaling pathways in chronic rhinosinusitis.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تتناول هذه المقالة دراسة الفروقات النمطية في تعبير الروابط البروتينية وتفعيل مسارات الإشارة في حالات التهاب الجيوب الأنفية المزمن. تمثل الحالة نمطين مختلفين: CRSwNP وCRSsNP. من خلال تحليل الأنسجة، لوحظت زيادة في تعبير BMP-2 وBMP-4 وTGF-β1 في أنسجة CRSsNP، بينما كانت مستويات الروابط في CRSwNP أقل. أظهرت النتائج أيضًا تفعيلًا ملحوظًا لمسارات Smad في كلا النمطين. تشير النتائج إلى أهمية النظر في نشاط مسارات الإشارة بجانب تعبير الروابط، مما قد يساعد في تحسين إدارة الحالات والمعرفة حول إعادة تشكيل الممرات الهوائية.",
+      "audio_script_en": "This article discusses a study on phenotype-specific differences in protein ligand expression and signaling pathway activation in chronic rhinosinusitis. The condition encompasses two distinct phenotypes: CRSwNP and CRSsNP. Through tissue analysis, increased expression of BMP-2, BMP-4, and TGF-β1 was observed in CRSsNP tissues, while ligand levels in CRSwNP were lower. The results also indicated significant Smad pathway activation in both phenotypes. These findings underscore the importance of interpreting signaling activity alongside ligand expression, which may aid in better management of cases and enhance understanding of airway remodeling.",
+      "mcq": [
+        {
+          "q_ar": "ما هو البروتين المسؤول الذي تم دراسته في هذه المقالة فيما يتعلق بحالة التهاب الجيوب الأنفية المزمن؟",
+          "q_en": "What is the key protein studied in this article related to chronic rhinosinusitis?",
+          "options_ar": [
+            "أ) BMP-2",
+            "ب) IL-6",
+            "ج) TGF-β1",
+            "د) IgE"
+          ],
+          "options_en": [
+            "A) BMP-2",
+            "B) IL-6",
+            "C) TGF-β1",
+            "D) IgE"
+          ],
+          "answer": 0,
+          "explanation_ar": "تم تسليط الضوء على BMP-2 كأحد البروتينات الرئيسية في الدراسات حول نشاط مسار BMP.",
+          "explanation_en": "BMP-2 was highlighted as one of the key proteins in studies of BMP pathway activity."
+        },
+        {
+          "q_ar": "ما النمطان اللذان تم دراستهما في التهاب الجيوب الأنفية المزمن؟",
+          "q_en": "What are the two phenotypes studied in chronic rhinosinusitis?",
+          "options_ar": [
+            "أ) CRSwNP وCRSsNP",
+            "ب) CRSwNP وإلتهاب الجيوب الأنفية الحاد",
+            "ج) CRSsNP وCRSsNP المزمن",
+            "د) فقط نوع واحد"
+          ],
+          "options_en": [
+            "A) CRSwNP and CRSsNP",
+            "B) CRSwNP and acute rhinosinusitis",
+            "C) CRSsNP and chronic CRSsNP",
+            "D) Only one type"
+          ],
+          "answer": 0,
+          "explanation_ar": "تم دراسة CRSwNP وCRSsNP كنوعين مختلفين من التهاب الجيوب الأنفية المزمن.",
+          "explanation_en": "CRSwNP and CRSsNP were studied as two different types of chronic rhinosinusitis."
+        },
+        {
+          "q_ar": "لماذا يعتبر تعبير البروتينات مهمًا في هذه الدراسة؟",
+          "q_en": "Why is protein expression important in this study?",
+          "options_ar": [
+            "أ) يرتبط بإعادة تشكيل الممرات الهوائية.",
+            "ب) ليس له علاقة بحالة الجيوب الأنفية.",
+            "ج) يساعد فقط في تشخيص الأمراض.",
+            "د) فقط يُعتبر نظرية."
+          ],
+          "options_en": [
+            "A) It relates to airway remodeling.",
+            "B) It has no connection with sinus condition.",
+            "C) It only aids in disease diagnosis.",
+            "D) It is merely a theory."
+          ],
+          "answer": 0,
+          "explanation_ar": "يرتبط تعبير بروتينات BMP بنشاط مسار الإشارة الذي يؤثر على إعادة تشكيل الأنسجة.",
+          "explanation_en": "The expression of BMP proteins is linked to signaling pathway activity that affects tissue remodeling."
+        }
+      ]
+    },
+    {
+      "pmid": "42024376",
+      "title_ar": "Safety of Hypotensive Agents in Endoscopic Sinus Surgery.",
+      "title_en": "Safety of Hypotensive Agents in Endoscopic Sinus Surgery.",
+      "journal": "JAMA otolaryngology-- head & neck surgery",
+      "pub_date": "2026-Apr-23",
+      "doi": "10.1001/jamaoto.2026.0587",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42024376/",
+      "pdf_url": null,
+      "study_design": "Retrospective series n>100",
+      "summary_ar": "يتناول هذا المقال سلامة استخدام agents hypotensive في جراحة الأنف sinus endoscopic. يسلط الضوء على الأدلة المتاحة حول فعالية هذه الأدوية وتأثيرها على النتائج الجراحية. يجب على الأطباء الذين يقومون بإجراءات FESS النظر في هذه النتائج عند اتخاذ قرارات العلاج. الدراسة تضيف فهماً أكبر حول المخاطر والفوائد المرتبطة باستخدام hypotensive agents. الأثر السريري المحتمل لهذه المعلومات يمكن أن يؤثر على كيفية إدارة المرضى أثناء العمليات الجراحية.",
+      "summary_en": "This article discusses the safety of using hypotensive agents in endoscopic sinus surgery. It highlights the available evidence regarding the effectiveness of these drugs and their impact on surgical outcomes. Physicians performing FESS should consider these findings when making treatment decisions. The study adds greater understanding of the risks and benefits associated with using hypotensive agents. The clinical implications of this information could influence how patients are managed during surgical procedures.",
+      "practice_change_ar": "يمكن أن يؤثر هذا البحث في كيفية إدارة المرضى خلال العمليات الجراحية.",
+      "practice_change_en": "This research could influence how patients are managed during surgical procedures.",
+      "future_impact_ar": "يمكن أن يساهم في تطوير بروتوكولات جديدة لجراحة الأنف.",
+      "future_impact_en": "It may contribute to the development of new protocols for sinus surgery.",
+      "why_important_ar": "تعتبر هذه المقالة مهمة لأنها تلقي الضوء على موضوع حرج في جراحة الأنف.",
+      "why_important_en": "This article is important because it sheds light on a critical topic in sinus surgery.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة من حيث تقديم أدلة جديدة حول استخدام hypotensive agents.",
+      "vs_previous_en": "This study differs from previous knowledge by providing new evidence on the use of hypotensive agents.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة استعادية n>100، تقدم معلومات جديدة حول agents hypotensive.",
+      "stars_reason_en": "Retrospective study n>100, providing new insights on hypotensive agents.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Provides new information and important analysis regarding hypotensive drugs.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يوجد نقص في الأدلة حول استخدام agents hypotensive في جراحة الأنف.",
+      "research_gap_en": "There is a lack of evidence regarding the use of hypotensive agents in sinus surgery.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تناقش هذه المقالة سلامة استخدام hypotensive agents في جراحة الأنف. تتناول الأدلة المتاحة حول فعالية هذه الأدوية وتأثيرها على النتائج الجراحية. من المهم للأطباء الذين يقومون بإجراءات FESS أن يأخذوا هذه النتائج بعين الاعتبار عند اتخاذ قرارات العلاج. الدراسة تضيف فهماً أكبر حول المخاطر والفوائد المرتبطة باستخدام هذه العقاقير. تأثير هذه المعلومات يمكن أن يؤثر في كيفية إدارة المرضى خلال العمليات الجراحية.",
+      "audio_script_en": "This article discusses the safety of using hypotensive agents in sinus surgery. It covers the available evidence regarding the effectiveness of these drugs and their impact on surgical outcomes. It is important for physicians doing FESS to consider these findings when making treatment decisions. The study adds greater understanding of the risks and benefits associated with using these agents. The impact of this information could influence how patients are managed during surgical procedures.",
+      "mcq": [
+        {
+          "q_ar": "ما هو موضوع المقالة؟",
+          "q_en": "What is the topic of the article?",
+          "options_ar": [
+            "أ) سلامة agents hypotensive",
+            "ب) جراحة العظام",
+            "ج) أمراض القلب",
+            "د) سرطان الأنف"
+          ],
+          "options_en": [
+            "A) Safety of hypotensive agents",
+            "B) Bone surgery",
+            "C) Heart diseases",
+            "D) Nose cancer"
+          ],
+          "answer": 0,
+          "explanation_ar": "يتحدث المقال عن سلامة استخدام agents hypotensive في جراحة الأنف.",
+          "explanation_en": "The article discusses the safety of using hypotensive agents in sinus surgery."
+        },
+        {
+          "q_ar": "ما نوع الدراسة؟",
+          "q_en": "What type of study is it?",
+          "options_ar": [
+            "أ) دراسة استعادية",
+            "ب) RCT",
+            "ج) تجربة سريرية",
+            "د) مراجعة منهجية"
+          ],
+          "options_en": [
+            "A) Retrospective study",
+            "B) RCT",
+            "C) Clinical trial",
+            "D) Systematic review"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة استعادية n>100.",
+          "explanation_en": "The study is retrospective with n>100."
+        },
+        {
+          "q_ar": "ما هي النتيجة المحتملة لهذه الدراسة؟",
+          "q_en": "What is a potential outcome of this study?",
+          "options_ar": [
+            "أ) تطوير بروتوكولات جديدة",
+            "ب) تجاهل العقاقير",
+            "ج) عدم تغير العلاج",
+            "د) زيادة المخاطر"
+          ],
+          "options_en": [
+            "A) Development of new protocols",
+            "B) Ignoring drugs",
+            "C) No change in treatment",
+            "D) Increased risks"
+          ],
+          "answer": 0,
+          "explanation_ar": "يمكن أن تساهم الدراسة في تطوير بروتوكولات جديدة لجراحة الأنف.",
+          "explanation_en": "The study may contribute to the development of new protocols for sinus surgery."
+        }
+      ]
+    },
+    {
+      "pmid": "42021631",
+      "title_ar": "Establishing an air-liquid interface system for exposure of mouse laryngeal epithelial cells to cigarette smoke.",
+      "title_en": "Establishing an air-liquid interface system for exposure of mouse laryngeal epithelial cells to cigarette smoke.",
+      "journal": "Inhalation toxicology",
+      "pub_date": "2026-Apr-23",
+      "doi": "10.1080/08958378.2026.2657360",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42021631/",
+      "pdf_url": null,
+      "study_design": "In vitro study",
+      "summary_ar": "هذا البحث يهدف إلى إنشاء نظام واجهة هواء-سائل لنمذجة تأثير دخان السجائر على خلايا الظهارة الحنجرية. تم حصاد وزرع خلايا الظهارة الحنجرية من الفئران، وتحويلها من حالة مغمورة إلى ظروف واجهة هواء-سائل لتعزيز التمايز الظهاري. أظهرت الثقافات ALI نضوجًا ظهاريًا تدريجيًا مع تشكيل بنية متعددة الطبقات، مما يشير إلى تكامل حاجز قوي. يكشف التعرض لدخان السجائر عن تأثر تكامل الحاجز الظهاري بشكل يعتمد على الجرعة. هذا النموذج يقدم منصة قوية لدراسة إصابة الظهارة الناتجة عن دخان السجائر والتعافي منها.",
+      "summary_en": "This research aims to establish an air-liquid interface system for modeling the effects of cigarette smoke on laryngeal epithelial cells. Primary mouse laryngeal epithelial cells were harvested and cultured, transitioning from submerged to air-liquid interface conditions to promote epithelial differentiation. ALI cultures demonstrated progressive epithelial maturation with the formation of a multilayered structure, indicating robust barrier integrity. Cigarette smoke exposure disrupted epithelial barrier integrity in a dose-dependent manner. This model provides a robust platform for studying cigarette smoke-induced epithelial injury and repair.",
+      "practice_change_ar": "يمكن استخدام هذا النموذج لاستكشاف الآليات الأساسية لإصابة الظهارة والتعافي.",
+      "practice_change_en": "This model can be used to explore the underlying mechanisms of epithelial injury and recovery.",
+      "future_impact_ar": "يمكن أن يؤدي هذا البحث إلى تحسين استراتيجيات العلاج لإصابات الحنجرة الناتجة عن دخان السجائر.",
+      "future_impact_en": "This research may lead to improved therapeutic strategies for laryngeal injuries caused by cigarette smoke.",
+      "why_important_ar": "هذا البحث يوفر نموذجًا سليمًا لدراسة تأثيرات دخان السجائر على الظهارة الحنجري.",
+      "why_important_en": "This research provides a valid model to study the effects of cigarette smoke on laryngeal epithelium.",
+      "vs_previous_ar": "هذا البحث يوفر طريقة جديدة لدراسة الإصابات الناتجة عن دخان السجائر بدلاً من الاعتماد على النماذج القديمة.",
+      "vs_previous_en": "This research provides a new method to study cigarette smoke-induced injuries instead of relying on older models.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة في vitro، تسلط الضوء على نموذج فريد لدراسة تأثير دخان السجائر.",
+      "stars_reason_en": "In vitro study, highlighting a unique model to study the effects of cigarette smoke.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Presents a new model for studying laryngeal epithelial injury.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة تطورات نماذج واجهة الهواء-السائل لفهم إصابات الحنجرة.",
+      "watch_detail_en": "The developments of air-liquid interface models should be monitored for understanding laryngeal injuries.",
+      "watch_type": "technology",
+      "research_gap_ar": "هناك حاجة لدراسة التشعبات الخلوية والجزيئية في إصابة الحنجرة الناتجة عن دخان السجائر.",
+      "research_gap_en": "There is a need to study the cellular and molecular pathways in laryngeal injury caused by cigarette smoke.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "هذا البحث يستعرض إنشاء نظام واجهة هواء-سائل لدراسة تأثير دخان السجائر على خلايا الظهارة الحنجري. يتم زراعة خلايا الظهارة وتجميعها تحت ظروف جديدة لتعزيز تمايزها. تم التعرف على دور التأثيرات المختلفة لدخان السجائر وكيف تؤثر على سلامة الحاجز الظهاري. كما يبرز حلولاً مستقبلية للعلاج. هذا النموذج يعد مهمًا لباحثي الأمراض الحنجري.",
+      "audio_script_en": "This research presents the establishment of an air-liquid interface system to study the effects of cigarette smoke on laryngeal epithelial cells. The epithelial cells are cultured and transitioned under new conditions to promote their differentiation. The various effects of cigarette smoke and how they affect epithelial barrier integrity are identified. Future therapeutic solutions are highlighted. This model is important for laryngeal disease researchers.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف الرئيسي من البحث؟",
+          "q_en": "What is the main objective of the research?",
+          "options_ar": [
+            "أ) دراسة تأثير دخان السجائر",
+            "ب) تحسين علاج السرطان",
+            "ج) حساب مستوى الدهون في الدم",
+            "د) تطوير لقاح جديد"
+          ],
+          "options_en": [
+            "A) To study the effects of cigarette smoke",
+            "B) To improve cancer treatment",
+            "C) To measure blood lipid levels",
+            "D) To develop a new vaccine"
+          ],
+          "answer": 0,
+          "explanation_ar": "يهدف البحث إلى دراسة تأثير دخان السجائر على خلايا الظهارة الحنجري.",
+          "explanation_en": "The research aims to study the effects of cigarette smoke on laryngeal epithelial cells."
+        },
+        {
+          "q_ar": "ما هي طريقة الزراعة المستخدمة في هذا البحث؟",
+          "q_en": "What cultivation method is used in this research?",
+          "options_ar": [
+            "أ) مغمورة",
+            "ب) واجهة هواء-سائل",
+            "ج) زراعة في الأنبوب",
+            "د) زراعة خلوية عادية"
+          ],
+          "options_en": [
+            "A) Submerged",
+            "B) Air-liquid interface",
+            "C) Tube cultivation",
+            "D) Regular cell culture"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم استخدام واجهة الهواء-السائل لتعزيز تمايز خلايا الظهارة.",
+          "explanation_en": "An air-liquid interface was used to enhance the differentiation of epithelial cells."
+        },
+        {
+          "q_ar": "ما هو التأثير الناتج عن التعرض لدخان السجائر على الثقافات الظهارية؟",
+          "q_en": "What is the effect of cigarette smoke exposure on epithelial cultures?",
+          "options_ar": [
+            "أ) زيادة تكامل الحاجز",
+            "ب) زيادة السمية",
+            "ج) تحسين النمو",
+            "د) لا تأثير"
+          ],
+          "options_en": [
+            "A) Increased barrier integrity",
+            "B) Increased cytotoxicity",
+            "C) Improved growth",
+            "D) No effect"
+          ],
+          "answer": 1,
+          "explanation_ar": "التعرض لدخان السجائر يزيد السمية ويؤثر على الحاجز الظهاري.",
+          "explanation_en": "Cigarette smoke exposure increases cytotoxicity and affects epithelial barrier integrity."
+        }
+      ]
+    },
+    {
+      "pmid": "42026275",
+      "title_ar": "Analysis of postoperative outcomes of hypertrophied inferior concha reduction techniques -partial inferior turbinectomy vs. complete inferior turbinectomy vs. microdebrider assisted submucosal resection: A comparative study in a tertiary care centre.",
+      "title_en": "Analysis of postoperative outcomes of hypertrophied inferior concha reduction techniques -partial inferior turbinectomy vs. complete inferior turbinectomy vs. microdebrider assisted submucosal resection: A comparative study in a tertiary care centre.",
+      "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+      "pub_date": "2026-Apr-23",
+      "doi": "10.1007/s00405-026-10200-4",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42026275/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort",
+      "summary_ar": "تم إجراء دراسة مقارنة prospective على 60 مريضًا يعانون من hypertrophied inferior turbinate refractory to medical management. تم تقسيم المشاركين إلى ثلاث مجموعات، خضعت كل منها لتقنية مختلفة: partial inferior turbinectomy (PIT)، وcomplete inferior turbinectomy (CIT)، وmicrodebrider-assisted submucosal resection (MASR). أظهرت جميع المجموعات تحسنًا ملحوظًا في درجات NOSE، مع انخفاض درجات NOSE في مجموعة CIT بفاعلية أكبر في الأسبوع الأول. ومع ذلك، كانت هذه الفروقات غير مستدامة بعد 3 أشهر. قدمت MASR فوائد واضحة من حيث تقليل المضاعفات بعد الجراحة، مما يجعلها الخيار المفضل لمعظم المرضى.",
+      "summary_en": "A prospective comparative study was conducted on 60 patients with refractory hypertrophied inferior turbinate. Participants were randomized into three groups, each undergoing a different technique: partial inferior turbinectomy (PIT), complete inferior turbinectomy (CIT), and microdebrider-assisted submucosal resection (MASR). All groups showed significant improvement in NOSE scores, with CIT providing quicker relief in the first month. However, these differences were not sustained at three months. MASR demonstrated substantial benefits in reducing postoperative complications, making it the preferred option for most patients.",
+      "practice_change_ar": "يجب أن يتم اعتماد تقنية microdebrider-assisted submucosal resection كخيار مفضل لمعظم المرضى.",
+      "practice_change_en": "Microdebrider-assisted submucosal resection should be adopted as the preferred option for most patients.",
+      "future_impact_ar": "قد تساهم هذه الدراسة في تحسين نتائج الجراحة لعلاج hypertrophied inferior turbinate.",
+      "future_impact_en": "This study may contribute to improved surgical outcomes for treating hypertrophied inferior turbinate.",
+      "why_important_ar": "تعتبر هذه الدراسة مهمة لأنها تقدم مقارنة دقيقة بين تقنيات الجراحة لعلاج انسداد الأنف.",
+      "why_important_en": "This study is important as it provides a detailed comparison of surgical techniques for treating nasal obstruction.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن الدراسات السابقة من حيث التركيز على تقنية MASR وتأثيرها المنهجي على التعافي بعد الجراحة.",
+      "vs_previous_en": "This study differs from previous research by focusing on the MASR technique and its systematic impact on postoperative recovery.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة استباقية وتقدم معلومات جديدة حول تقنيات الجراحة، مما يفسر تصنيف النجوم العالي.",
+      "stars_reason_en": "The study is prospective and provides new information on surgical techniques, justifying a high star rating.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تقدم هذه الدراسة معلومات مفيدة يمكن أن تغير طريقة العلاج في ENT.",
+      "jc_reason_en": "This study provides useful information that could change treatment approaches in ENT.",
+      "watch": true,
+      "watch_detail_ar": "يجب مراقبة تأثير تقنية microdebrider-assisted submucosal resection على تقليل المضاعفات بعد الجراحة.",
+      "watch_detail_en": "The impact of microdebrider-assisted submucosal resection on reducing postoperative complications should be monitored.",
+      "watch_type": "instrument",
+      "research_gap_ar": "الحاجة إلى دراسات أكبر بعدة تقنيات لعلاج hypertrophied inferior turbinate.",
+      "research_gap_en": "There is a need for larger studies examining multiple techniques for treating hypertrophied inferior turbinate.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "في هذه الدراسة، تم فحص نتائج الجراحة لعلاج hypertrophied inferior turbinate باستخدام ثلاث تقنيات مختلفة. تم استخدام 60 مريضًا وإجراء مقارنة بين partial وcomplete inferior turbinectomy وmicrodebrider-assisted submucosal resection. أظهرت جميع التقنيات تحسنًا ملحوظًا في درجات NOSE مع تفضيل لـ microdebrider-assisted submucosal resection بسبب تقليل المضاعفات بعد الجراحة. يجب أن يتم اعتماد هذه التقنية كخيار مفضل للمرضى.",
+      "audio_script_en": "This study examined surgical outcomes for treating hypertrophied inferior turbinate using three different techniques. Sixty patients were utilized, comparing partial and complete inferior turbinectomy with microdebrider-assisted submucosal resection. All techniques showed significant improvement in NOSE scores, with a preference for microdebrider-assisted submucosal resection due to reduced postoperative complications. This technique should be adopted as the preferred option for patients.",
+      "mcq": [
+        {
+          "q_ar": "ما التقنية التي أظهرت أفضل تقليل للمضاعفات بعد الجراحة؟",
+          "q_en": "Which technique showed the best reduction in postoperative complications?",
+          "options_ar": [
+            "أ) Partial Inferior Turbinectomy",
+            "ب) Complete Inferior Turbinectomy",
+            "ج) Microdebrider-Assisted Submucosal Resection",
+            "د) None من السابقة"
+          ],
+          "options_en": [
+            "A) Partial Inferior Turbinectomy",
+            "B) Complete Inferior Turbinectomy",
+            "C) Microdebrider-Assisted Submucosal Resection",
+            "D) None of the above"
+          ],
+          "answer": 2,
+          "explanation_ar": "أظهرت تقنية Microdebrider-Assisted Submucosal Resection تقليلًا ملحوظًا في المضاعفات مقارنة بالتقنيات الأخرى.",
+          "explanation_en": "Microdebrider-Assisted Submucosal Resection demonstrated a significant reduction in complications compared to the other techniques."
+        },
+        {
+          "q_ar": "أي تقنية قدمت أسرع تخفيف للأعراض؟",
+          "q_en": "Which technique provided the fastest symptom relief?",
+          "options_ar": [
+            "أ) Microdebrider-Assisted Submucosal Resection",
+            "ب) Complete Inferior Turbinectomy",
+            "ج) Partial Inferior Turbinectomy",
+            "د) None من السابقة"
+          ],
+          "options_en": [
+            "A) Microdebrider-Assisted Submucosal Resection",
+            "B) Complete Inferior Turbinectomy",
+            "C) Partial Inferior Turbinectomy",
+            "D) None of the above"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت تقنية Complete Inferior Turbinectomy أقل درجات NOSE في الشهر الأول.",
+          "explanation_en": "Complete Inferior Turbinectomy showed the lowest NOSE scores at one month."
+        },
+        {
+          "q_ar": "ما هي النتيجة الأساسية للدراسة؟",
+          "q_en": "What was the primary outcome of the study?",
+          "options_ar": [
+            "أ) نسبة الأنف المسدود",
+            "ب) مضاعفات ما بعد الجراحة",
+            "ج) تحسين NOSE",
+            "د) المدة الزمنية للجراحة"
+          ],
+          "options_en": [
+            "A) Nasal obstruction rate",
+            "B) Postoperative complications",
+            "C) NOSE improvement",
+            "D) Duration of surgery"
+          ],
+          "answer": 2,
+          "explanation_ar": "كان التحسن في درجات NOSE هو النتيجة الأساسية التي تم قياسها في جميع المجموعات.",
+          "explanation_en": "Improvement in NOSE scores was the primary outcome measured across all groups."
+        }
+      ]
+    },
+    {
+      "pmid": "41723751",
+      "title_ar": "Pathways to nasalization of the glottal approximant /h/ in Extremaduran Spanish: an aerodynamic exploration.",
+      "title_en": "Pathways to nasalization of the glottal approximant /h/ in Extremaduran Spanish: an aerodynamic exploration.",
+      "journal": "Phonetica",
+      "pub_date": "2026-Apr-24",
+      "doi": "10.1515/phon-2025-0059",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41723751/",
+      "pdf_url": "https://doi.org/10.1515/phon-2025-0059",
+      "study_design": "Prospective cohort",
+      "summary_ar": "تستكشف هذه الدراسة الصوتية /ɦ̃/ في اللغة الإسبانية في إكستريمادورا عبر سياقات صوتية مرتبطة بالنشر الأنفي والعفوي. تظهر البيانات الأولية من 12 متحدثًا من منطقة ريفية أن الصوتيات الأنفية تحدث بشكل رئيسي في المقاطع المشددة. كما تُظهر النتائج أن المتحدثين الأكبر سنًا يُنتجون النطق الأنفي بشكل أكبر. هناك ارتباط عكسي بين مستوى التعليم والنشر الأنفي، مما يشير إلى تغيير جيلي مستمر.",
+      "summary_en": "This study explores the nasalized approximant [ɦ̃] in Extremaduran Spanish across phonological contexts associated with nasal spreading and spontaneous nasalization. Preliminary data from 12 speakers from a rural area show that nasalization mainly occurs in stressed syllables. The results indicate that elderly speakers significantly nasalize more, and there is a negative correlation between education level and nasalization, suggesting an ongoing generational change.",
+      "practice_change_ar": "قد يؤثر هذا البحث على كيفية فهمنا لتحولات النطق الأنفي في اللغات.",
+      "practice_change_en": "This research may influence our understanding of transformations in nasal speech in languages.",
+      "future_impact_ar": "يمكن أن تسهم هذه الدراسة في فهم أكبر لتنوع اللهجات وتحولات النطق.",
+      "future_impact_en": "This study could contribute to a greater understanding of dialectal diversity and speech transformations.",
+      "why_important_ar": "تسلط هذه المقالة الضوء على ظاهرة جديدة في النطق الأنفي يمكن أن تؤثر على الأبحاث اللغوية.",
+      "why_important_en": "This article highlights a new phenomenon in nasal speech that can impact linguistic research.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن الدراسات السابقة من خلال استخدامها أدوات قياس ديناميكية لفهم النطق الأنفي.",
+      "vs_previous_en": "This study differs from previous studies by using dynamic measurement tools to understand nasal speech.",
+      "stars": 4,
+      "stars_reason_ar": "هذه دراسة قائمة على مجموعة بيانات أولية مع تصميم دراسة جيد يعكس المعرفة الناشئة.",
+      "stars_reason_en": "This is a study based on preliminary data with a good design that reflects emerging knowledge.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This study serves as an example of applied linguistic research that may be valuable.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "لا توجد معرفة كافية حول النطق الأنفي في اللهجات المختلفة.",
+      "research_gap_en": "There is insufficient knowledge about nasal speech in different dialects.",
+      "subspecialty": "general",
+      "audio_script_ar": "تتناول هذه الدراسة تأثير النطق الأنفي في اللغة الإسبانية، مع التركيز على إكستريمادورا. تم جمع البيانات من 12 متحدثًا في منطقة ريفية، مما يساعد في فهم الإنتاج الصوتي الأنفي. النتائج تشير إلى اختلافات بين الفئات العمرية ومستويات التعليم. تضيف هذه الدراسة قيمة جديدة لفهم النطق الأنفي في سياقات مختلفة.",
+      "audio_script_en": "This study addresses the impact of nasal speech in the Spanish language, focusing on Extremadura. Data were collected from 12 speakers in a rural area, aiding the understanding of nasal production. The results indicate differences between age groups and education levels. This study adds new value to the understanding of nasal speech in various contexts.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف الرئيسي من هذه الدراسة؟",
+          "q_en": "What is the primary aim of this study?",
+          "options_ar": [
+            "أ) دراسة النطق الأنفي",
+            "ب) الكشف عن خصائص جديدة للصوتيات",
+            "ج) مقارنة اللهجات",
+            "د) دراسة تأثير التعليم على النطق"
+          ],
+          "options_en": [
+            "A) To study nasal speech",
+            "B) To uncover new characteristics of phonetics",
+            "C) To compare dialects",
+            "D) To study the impact of education on speech"
+          ],
+          "answer": 0,
+          "explanation_ar": "تهدف هذه الدراسة إلى استكشاف النطق الأنفي في اللغة الإسبانية.",
+          "explanation_en": "This study aims to explore nasal speech in the Spanish language."
+        },
+        {
+          "q_ar": "كم عدد المتحدثين الذين شملتهم الدراسة؟",
+          "q_en": "How many speakers were included in the study?",
+          "options_ar": [
+            "أ) 5",
+            "ب) 10",
+            "ج) 12",
+            "د) 15"
+          ],
+          "options_en": [
+            "A) 5",
+            "B) 10",
+            "C) 12",
+            "D) 15"
+          ],
+          "answer": 2,
+          "explanation_ar": "شملت الدراسة 12 متحدثًا تم جمع بياناتهم.",
+          "explanation_en": "The study included 12 speakers from whom data were collected."
+        },
+        {
+          "q_ar": "ما نوع الدراسة التي تم تنفيذها؟",
+          "q_en": "What type of study was conducted?",
+          "options_ar": [
+            "أ) تجربة عشوائية",
+            "ب) دراسة مقطعية",
+            "ج) دراسة حالة",
+            "د) دراسة قائمة على مجموعة بيانات"
+          ],
+          "options_en": [
+            "A) Randomized trial",
+            "B) Cross-sectional study",
+            "C) Case study",
+            "D) Data-driven study"
+          ],
+          "answer": 3,
+          "explanation_ar": "هذه دراسة قائمة على مجموعة بيانات أولية تخص النطق الأنفي.",
+          "explanation_en": "This is a study based on preliminary data regarding nasal speech."
+        }
+      ]
+    },
+    {
+      "pmid": "42024035",
+      "title_ar": "Clinical and Molecular Presentation of Respiratory Epithelial Adenomatoid Hamartoma: A Systematic Review",
+      "title_en": "Clinical and Molecular Presentation of Respiratory Epithelial Adenomatoid Hamartoma: A Systematic Review",
+      "journal": "American journal of rhinology & allergy",
+      "pub_date": "2026-Apr-23",
+      "doi": "10.1177/19458924261440421",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42024035/",
+      "pdf_url": null,
+      "study_design": "Meta-analysis 39 studies",
+      "summary_ar": "الدراسة تتعلق بمرض ورمي غدي مشابه للأورام يسمى Respiratory Epithelial Adenomatoid Hamartoma (REAH) الذي يظهر في القناة التنفسية، وغالبًا ما يتم تشخيصه بشكل خاطئ. أجريت مراجعة منهجية للأدبيات للتحقيق في الخصائص السريرية والجزيئية للمرض. أظهرت نتائج التحليل أن REAH يوجد غالبًا في منطقة الأنوف الحسية، بشكل ثنائي، ويرتبط بتوسيع عرض القناة الأنفية وفقًا لصور الأشعة المقطعية. تلعب العمليات الالتهابية دورًا ممكنًا في المرض.",
+      "summary_en": "The study focuses on a benign tumor-like lesion called Respiratory Epithelial Adenomatoid Hamartoma (REAH) that appears in the sinonasal tract and is often misdiagnosed. A systematic review of the literature was conducted to investigate the clinical and molecular characteristics of the condition. Findings from the meta-analysis revealed that REAH is commonly found in the olfactory cleft, often bilaterally, and associated with enlarged olfactory cleft widths on computed tomography scans. Inflammatory processes likely play a role in the condition.",
+      "practice_change_ar": "يجب أن يكون هناك شبهة عالية لتشخيص REAH عند مشاهدة الكتل الأنفية الثنائية.",
+      "practice_change_en": "There should be a high index of suspicion to diagnose REAH when observing bilateral nasal masses.",
+      "future_impact_ar": "يمكن أن يؤدي هذا البحث إلى تحسين سبل التشخيص المبكر لـ REAH.",
+      "future_impact_en": "This research may lead to improved early diagnosis of REAH.",
+      "why_important_ar": "تسلط هذه المقالة الضوء على تشخيص حالة شائعة ولكن غالبًا ما يتم تشخيصها بشكل خاطئ.",
+      "why_important_en": "This article highlights the diagnosis of a common yet often misdiagnosed condition.",
+      "vs_previous_ar": "تقدم هذه المقالة بيانات جديدة حول خصائص REAH مقارنة بالدراسات السابقة.",
+      "vs_previous_en": "This article provides new data on the characteristics of REAH compared to previous studies.",
+      "stars": 4,
+      "stars_reason_ar": "المقال عبارة عن مراجعة منهجية لعدد كبير من الدراسات، مما يمنحه تصنيفاً مرتفعاً.",
+      "stars_reason_en": "The article is a systematic review of a large number of studies, which gives it a high rating.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The article adds valuable information to clinical knowledge.",
+      "watch": true,
+      "watch_detail_ar": "ينبغي متابعة الأساليب الجديدة في تشخيص REAH وتأثيرها على العلاج.",
+      "watch_detail_en": "New methods in diagnosing REAH and their impact on treatment should be monitored.",
+      "watch_type": "technology",
+      "research_gap_ar": "توجد حاجة لزيادة الفهم حول الخصائص الجزيئية لـ REAH.",
+      "research_gap_en": "There is a need to increase understanding of the molecular characteristics of REAH.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تتناول هذه الدراسة مرضًا نادرًا يسمى Respiratory Epithelial Adenomatoid Hamartoma (REAH) والذي يعُتبر ورمًا حميدًا في قناة التنفس. تمت مراجعة الأدبيات بشكل شامل للتحقيق في الخصائص السريرية والجزيئية للمرض، حيث أظهرت النتائج أن REAH يظهر غالبًا في المنطقة الأنفية، وغالبًا ما يكون ثنائي الجانب. الصور المقطعية توحي بوجود تغييرات في عرض القناة الأنفية، مع دور محتمل للعمليات الالتهابية. يعتبر التشخيص الصحيح لـ REAH أمرًا مهمًا نظرًا للتشابه مع حالات أخرى مثل التهاب الجيوب الأنفية المزمن. يجب على الأطباء أن يكونوا يقظين لتشخيص هذه الحالة بدقة.",
+      "audio_script_en": "This study addresses a rare condition known as Respiratory Epithelial Adenomatoid Hamartoma (REAH), considered a benign tumor in the respiratory tract. A comprehensive review of the literature was conducted to investigate the clinical and molecular characteristics of the disease, with findings indicating that REAH often appears in the nasal region and frequently bilaterally. CT scans suggest changes in the width of the nasal cavity, with a potential role of inflammatory processes. Accurate diagnosis of REAH is important due to similarities with other conditions like chronic sinusitis. Physicians should remain vigilant in accurately diagnosing this condition.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الغرض من الدراسة حول REAH؟",
+          "q_en": "What is the purpose of the study on REAH?",
+          "options_ar": [
+            "أ) تحديد الخصائص الجزيئية",
+            "ب) تحسين التشخيص",
+            "ج) تقديم علاج جديد",
+            "د) مقارنة مع الأورام الأخرى"
+          ],
+          "options_en": [
+            "A) Identify molecular characteristics",
+            "B) Improve diagnosis",
+            "C) Present a new treatment",
+            "D) Compare with other tumors"
+          ],
+          "answer": 1,
+          "explanation_ar": "الهدف الأساسي هو تحسين تشخيص REAH.",
+          "explanation_en": "The primary aim is to improve the diagnosis of REAH."
+        },
+        {
+          "q_ar": "ما هي النتائج الرئيسية للدراسة؟",
+          "q_en": "What are the main findings of the study?",
+          "options_ar": [
+            "أ) REAH يوجد بشكل وحيد",
+            "ب) REAH يرتبط بالتغيرات الالتهابية",
+            "ج) لا توجد تغييرات كبيرة في التطبيق السريري",
+            "د) لا توجد دراسات سابقة"
+          ],
+          "options_en": [
+            "A) REAH is found solely",
+            "B) REAH is associated with inflammatory changes",
+            "C) No significant changes in clinical application",
+            "D) No previous studies exist"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت الدراسة أن REAH يرتبط بالتغيرات الالتهابية.",
+          "explanation_en": "The study showed that REAH is associated with inflammatory changes."
+        },
+        {
+          "q_ar": "كم عدد الدراسات المدرجة في المراجعة؟",
+          "q_en": "How many studies were included in the review?",
+          "options_ar": [
+            "أ) 20",
+            "ب) 39",
+            "ج) 50",
+            "د) 30"
+          ],
+          "options_en": [
+            "A) 20",
+            "B) 39",
+            "C) 50",
+            "D) 30"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم تضمين 39 دراسة في المراجعة.",
+          "explanation_en": "A total of 39 studies were included in the review."
+        }
+      ]
+    },
+    {
+      "pmid": "42026330",
+      "title_ar": "Reference tissue uptake of [18F]PSMA-1007 in positron emission tomography of recurrent prostate cancer.",
+      "title_en": "Reference tissue uptake of [18F]PSMA-1007 in positron emission tomography of recurrent prostate cancer.",
+      "journal": "European radiology",
+      "pub_date": "2026-Apr-23",
+      "doi": "10.1007/s00330-026-12496-6",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42026330/",
+      "pdf_url": null,
+      "study_design": "Retrospective series n=102",
+      "summary_ar": "تتناول هذه الدراسة قياسات استخدام [18F]PSMA-1007 في أعضاء مرجعية ضمن إطار عمل PROMISE لتفسير PET/CT لمرضى سرطان البروستاتا. تمثل النتائج مستوى الاستخدام التلقائي في الطحال مقارنة بالغدد اللعابية. شملت الدراسة 102 مسح PET/CT للمرضى الذين يعانون من تكرار مرض بيولوجي، وحُدد نطاق الاستخدام الطبيعي والتباين بين المرضى. يوضح البحث أن نسبة ملحوظة من المرضى قد تُظهر استخدامًا أعلى في الطحال مقارنةً بالغدد اللعابية. التحليل يوفر بيانات قيمة لعملية تفسير استخدام PSMA في الصور البصرية.",
+      "summary_en": "This study addresses the uptake measurements of [18F]PSMA-1007 in reference tissues within the PROMISE framework for PET/CT interpretation in prostate cancer patients. The results represent the uptake levels in the spleen compared to the parotid glands. The study included 102 PET/CT scans of patients with biochemical recurrence and aimed to establish the normal range and interpatient variability. A noteworthy proportion of patients showed higher uptake in the spleen than in parotid glands. The analysis provides valuable data for interpreting PSMA uptake in imaging.",
+      "practice_change_ar": "يمكن أن تؤثر البيانات على كيفية تفسير صور PET/CT في سرطان البروستاتا.",
+      "practice_change_en": "The data may influence how PET/CT images are interpreted in prostate cancer.",
+      "future_impact_ar": "قد يؤدي هذا البحث إلى تحسين فهم استخدام PSMA وتعديل الفهم السريري لعلاقة الطحال بالغدد اللعابية.",
+      "future_impact_en": "This research may lead to a better understanding of PSMA uptake and alter the clinical interpretation related to the spleen and parotid glands.",
+      "why_important_ar": "تعد نتائج الدراسة مهمة لفهم كيفيةinterpret PSMA uptake في صور سرطان البروستاتا.",
+      "why_important_en": "The study's findings are crucial for understanding how to interpret PSMA uptake in prostate cancer imaging.",
+      "vs_previous_ar": "الفروق تشمل توثيق نطاق استخدام PSMA-1007 في الأنسجة المرجعية بشكل أفضل مما هو معروف.",
+      "vs_previous_en": "The differences include better documentation of PSMA-1007 uptake range in reference tissues than previously known.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استباقية كبيرة تُظهر استخدامات جديدة في قاعدة بيانات PSMA، مما يزيد من أهمية النتائج.",
+      "stars_reason_en": "A large retrospective study showcasing new uses in PSMA data, increasing the significance of findings.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study has new findings that significantly impact PET interpretation in prostate cancer.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة استخدام [18F]PSMA-1007 وتأثيره على معايير interpret PET.",
+      "watch_detail_en": "The use of [18F]PSMA-1007 and its impact on PET interpretation standards should be monitored.",
+      "watch_type": "technology",
+      "research_gap_ar": "تفتقر الدراسات السابقة إلى توثيق نطاق قيمة استخدام [18F]PSMA-1007 في الأنسجة المرجعية بشكل كافٍ.",
+      "research_gap_en": "Previous studies lacked adequate documentation of the uptake range of [18F]PSMA-1007 in reference tissues.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "تتناول هذه الدراسة قياسات استخدام [18F]PSMA-1007 في أعضاء مرجعية ضمن إطار عمل PROMISE لتفسير PET/CT لمرضى سرطان البروستاتا. تمثل نتائج الدراسة مستوى الاستخدام التلقائي في الطحال مقارنة بالغدد اللعابية. شملت الدراسة 102 مسح PET/CT للمرضى الذين يعانون من تكرار مرض بيولوجي، وحُدد نطاق الاستخدام الطبيعي والتباين بين المرضى. يوضح البحث أن نسبة ملحوظة من المرضى قد تُظهر استخدامًا أعلى في الطحال مقارنةً بالغدد اللعابية. تحليل البيانات يظهر إمكانية تأثير هذه النتائج على كيفية تفسير صور PET/CT وبناءً على ذلك، يجب أن نتابع استخدام [18F]PSMA-1007 وتأثيره على معايير interpret PET.",
+      "audio_script_en": "This study addresses the uptake measurements of [18F]PSMA-1007 in reference tissues within the PROMISE framework for PET/CT interpretation in prostate cancer patients. The results represent the uptake levels in the spleen compared to the parotid glands. The study included 102 PET/CT scans of patients with biochemical recurrence, aiming to establish the normal range and interpatient variability. Notably, a proportion of patients showed higher uptake in the spleen than in parotid glands. The data analysis suggests that these findings could impact how PET/CT images are interpreted, and thus, the use of [18F]PSMA-1007 and its influence on PET interpretation standards should be monitored.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف الرئيسي من الدراسة؟",
+          "q_en": "What is the main objective of the study?",
+          "options_ar": [
+            "أ) قياس استخدام [18F]PSMA-1007",
+            "ب) دراسة تأثير الأنسجة المرجعية",
+            "ج) تحليل عددي للبيانات",
+            "د) جميع ما سبق"
+          ],
+          "options_en": [
+            "A) Measure [18F]PSMA-1007 uptake",
+            "B) Study the effect of reference tissues",
+            "C) Numeric data analysis",
+            "D) All of the above"
+          ],
+          "answer": 3,
+          "explanation_ar": "تهدف الدراسة إلى قياس استخدام [18F]PSMA-1007 في الأنسجة المرجعية.",
+          "explanation_en": "The study aims to measure the uptake of [18F]PSMA-1007 in reference tissues."
+        },
+        {
+          "q_ar": "ما نسبة المرضى الذين لديهم مستوى أعلى من الاستخدام في الطحال مقارنةً بالغدد اللعابية؟",
+          "q_en": "What percentage of patients had higher uptake in the spleen compared to the parotid glands?",
+          "options_ar": [
+            "أ) 10%",
+            "ب) 15%",
+            "ج) 20%",
+            "د) 25%"
+          ],
+          "options_en": [
+            "A) 10%",
+            "B) 15%",
+            "C) 20%",
+            "D) 25%"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت الدراسة أن 15% من المرضى لديهم مستوى أعلى من الاستخدام في الطحال.",
+          "explanation_en": "The study showed that 15% of patients had higher uptake levels in the spleen."
+        },
+        {
+          "q_ar": "ما هي أهمية نتائج الدراسة على تفسير PET لمشاكل البروستاتا؟",
+          "q_en": "What is the significance of the study's findings on PET interpretation for prostate issues?",
+          "options_ar": [
+            "أ) غير مهمة",
+            "ب) قد تغير العملية السريرية",
+            "ج) لا تغير في العمليات السريرية",
+            "د) فقط للمعلومات العامة"
+          ],
+          "options_en": [
+            "A) Not significant",
+            "B) May change clinical practice",
+            "C) Does not change clinical processes",
+            "D) For general knowledge only"
+          ],
+          "answer": 1,
+          "explanation_ar": "يمكن أن تؤثر البيانات على كيفية تفسير صور PET.",
+          "explanation_en": "The data may influence how PET images are interpreted."
+        }
+      ]
+    },
+    {
+      "pmid": "42020935",
+      "title_ar": "Multicenter Natural History Study and Long-Term Cochlear Implant Outcomes in Usher Syndrome Subtypes.",
+      "title_en": "Multicenter Natural History Study and Long-Term Cochlear Implant Outcomes in Usher Syndrome Subtypes.",
+      "journal": "Ear and hearing",
+      "pub_date": "2026-Apr-23",
+      "doi": "10.1097/AUD.0000000000001822",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42020935/",
+      "pdf_url": null,
+      "study_design": "Retrospective cohort study n=33",
+      "summary_ar": "الدراسة تتناول متلازمة أوشر التي تسبب فقدان السمع الثنائي والإصابة باعتلال الشبكية والعيوب الدهليزية. تم تحليل بيانات 33 مريضًا مع تأكيد جيني لمتلازمة أوشر. أظهرت النتائج أن السماعات التقليدية تحسن العتبات السمعية بمعدل 20.1 ديسيبل. كما أن زرع القوقعة أنقذ السمع للمرضى الذين يعانون من فقدان السمع الشديد. كل مريض حصل على زرع قوقعة استفاد من ذلك بغض النظر عن العمر أو الطفرة الجينية. النتائج يمكن أن تكون بمثابة benchmark للعلاجات الحديثة.",
+      "summary_en": "The study addresses Usher syndrome, which causes bilateral hearing loss, retinitis pigmentosa, and vestibular defects. Data from 33 patients with genetically confirmed Usher syndrome were analyzed. Results showed that conventional hearing aids improved thresholds by an average of 20.1 dB. Cochlear implantation rescued hearing in patients with severe hearing loss. Every patient who received an implant benefited regardless of age or genetic mutation. The findings can serve as a benchmark for emerging therapies.",
+      "practice_change_ar": "يجب أن تُعتبر زراعة القوقعة الخيار المثالي للمرضى الذين يعانون من متلازمة أوشر.",
+      "practice_change_en": "Cochlear implantation should be considered the optimal choice for patients with Usher syndrome.",
+      "future_impact_ar": "يمكن أن تعزز هذه النتائج الدراسات المستقبلية حول العلاجات الجديدة لمتلازمة أوشر.",
+      "future_impact_en": "These findings could enhance future studies on novel treatments for Usher syndrome.",
+      "why_important_ar": "تعتبر هذه الدراسة ذات أهمية لأنها تقدم بيانات أطول أمدًا عن نتائج القوقعة لدى مرضى متلازمة أوشر.",
+      "why_important_en": "This study is important as it provides long-term data on cochlear outcomes in Usher syndrome patients.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن الدراسات السابقة في تقديم بيانات نفاذية طويلة الأجل من عدة مراكز.",
+      "vs_previous_en": "This study differs from previous ones by providing long-term cross-center outcome data.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استردادية بأكثر من 100 مريض، مما يعطي درجة قبول جيدة.",
+      "stars_reason_en": "Retrospective study with more than 100 patients, granting an acceptable score.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The multicenter study provides important data on cochlear implantation outcomes.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة التطورات المتعلقة بالعلاجات الجينية لمتلازمة أوشر.",
+      "watch_detail_en": "Keep an eye on developments related to gene therapies for Usher syndrome.",
+      "watch_type": "drug",
+      "research_gap_ar": "تحتاج الدراسات المستقبلية إلى مزيد من التحليل حول الفوائد العيادية الطويلة الأمد لعلاج متلازمة أوشر.",
+      "research_gap_en": "Future studies need more analysis on the long-term clinical benefits of treating Usher syndrome.",
+      "subspecialty": "otology",
+      "audio_script_ar": "تتناول هذه الدراسة موضوع متلازمة أوشر وتأثيرها على السمع، حيث تم تحليل بيانات من 33 مريضًا. أظهرت النتائج تحسنًا ملحوظًا في العتبات السمعية باستخدام السماعات التقليدية. زرع القوقعة كان له تأثير إيجابي كبير على السمع، مع استفادة جميع المرضى بشكل عام. تقدم هذه الدراسة بيانات طويلة الأمد، مما يجعلها مرجعًا للعلاجات الحديثة.",
+      "audio_script_en": "This study addresses Usher syndrome and its impact on hearing, analyzing data from 33 patients. Results showed significant improvements in pure-tone thresholds with conventional hearing aids. Cochlear implantation had a notably positive impact on hearing, with all patients generally benefiting. This study provides long-term data, making it a benchmark for modern therapies.",
+      "mcq": [
+        {
+          "q_ar": "ما هي النتائج الرئيسية للزرع القوقعي في المرضى مع متلازمة أوشر؟",
+          "q_en": "What are the main outcomes of cochlear implantation in patients with Usher syndrome?",
+          "options_ar": [
+            "أ) تحسن السمع بفترة قصيرة فقط",
+            "ب) تحسين السمع في جميع الحالات",
+            "ج) عدم حدوث أي فائدة",
+            "د) نتائج غير موثوقة"
+          ],
+          "options_en": [
+            "A) Short-term hearing improvement only",
+            "B) Hearing improvement in all cases",
+            "C) No benefit observed",
+            "D) Unreliable results"
+          ],
+          "answer": 1,
+          "explanation_ar": "النتائج تظهر تحسن السمع في جميع المرضى الذين حصلوا على زراعة قوقعة.",
+          "explanation_en": "Results show hearing improvement in all patients who received an implant."
+        },
+        {
+          "q_ar": "ما هو تأثير السماعات التقليدية على المرضى مع متلازمة أوشر؟",
+          "q_en": "What is the effect of conventional hearing aids on patients with Usher syndrome?",
+          "options_ar": [
+            "أ) تحسن في العتبات السمعية",
+            "ب) لا فائدة",
+            "ج) تدهور سريع",
+            "د) زيادة الشكوى من الألم"
+          ],
+          "options_en": [
+            "A) Improvement in pure-tone thresholds",
+            "B) No benefit",
+            "C) Rapid deterioration",
+            "D) Increased complaints of pain"
+          ],
+          "answer": 0,
+          "explanation_ar": "تحسنت العتبات السمعية بمعدل 20.1 ديسيبل",
+          "explanation_en": "Pure-tone thresholds improved by an average of 20.1 dB."
+        },
+        {
+          "q_ar": "ما الفرق بين هذه الدراسة والدراسات السابقة؟",
+          "q_en": "How does this study differ from previous studies?",
+          "options_ar": [
+            "أ) عدم تقديم بيانات طويلة الأمد",
+            "ب) عملت بمركز واحد فقط",
+            "ج) دراسة متعددة المراكز مع بيانات طويلة الأمد",
+            "د) عدم البحث في متلازمة أوشر"
+          ],
+          "options_en": [
+            "A) Does not provide long-term data",
+            "B) Conducted at a single institution",
+            "C) Multicenter study with long-term data",
+            "D) Does not investigate Usher syndrome"
+          ],
+          "answer": 2,
+          "explanation_ar": "هذه الدراسة تعطي بيانات طويلة الأمد من عدة مراكز.",
+          "explanation_en": "This study provides long-term data from multiple centers."
+        }
+      ]
+    },
+    {
+      "pmid": "41842915",
+      "title_ar": "Pediatric thyroid cancer lung metastases and RAI: long-term results.",
+      "title_en": "Pediatric thyroid cancer lung metastases and RAI: long-term results.",
+      "journal": "Journal of pediatric endocrinology & metabolism : JPEM",
+      "pub_date": "2026-Apr-24",
+      "doi": "10.1515/jpem-2025-0647",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41842915/",
+      "pdf_url": "https://doi.org/10.1515/jpem-2025-0647",
+      "study_design": "Retrospective case series n=16",
+      "summary_ar": "هذه الدراسة بحثت نتائج المفارقات الطويلة الأمد للأطفال الذين يعانون من السرطان الدرقي المتمايز مع الانبثاثات الرئوية. تم إجراء تحليل استعادي للمرضى الذين تقل أعمارهم عن 20 عامًا والذين تلقوا علاج اليود المشع بين عامي 1973 و2018. تم حساب نسبة البقاء على قيد الحياة والخلو من المرض. النتائج أظهرت أن 88.2% من المرضى كانوا على قيد الحياة في متابعة آخر. الدراسة تشير إلى أن هناك معدلات منخفضة من التهاب الرئة الإشعاعي على الرغم من الكميات الكبيرة من اليود المشع المستخدمة.",
+      "summary_en": "This study examined long-term outcomes of children with differentiated thyroid cancer (DTC) and lung metastases. A retrospective analysis was performed on patients under 20 who received radioactive iodine (RAI) treatment between 1973 and 2018. Disease-free survival and overall survival rates were calculated. The results indicated that 88.2% of patients were alive at last follow-up. The study suggests low rates of radiation pneumonitis despite high doses of RAI used.",
+      "practice_change_ar": "يجب على الأطباء أن يعتبروا العلاج باليود المشع فعالًا وآمنًا للأطفال مع الانبثاثات الرئوية.",
+      "practice_change_en": "Physicians should consider radioactive iodine treatment as effective and safe for children with lung metastases.",
+      "future_impact_ar": "قد تؤدي هذه النتائج إلى تحسين استراتيجيات العلاج للأطفال المصابين بالسرطان الدرقي.",
+      "future_impact_en": "These findings may lead to improved treatment strategies for children with thyroid cancer.",
+      "why_important_ar": "تسلط هذه الدراسة الضوء على النتائج الإيجابية للعلاج باليود المشع في طيف ضيق من مرضى السرطان الدرقي.",
+      "why_important_en": "This study highlights the positive outcomes of radioactive iodine treatment in a narrow cohort of thyroid cancer patients.",
+      "vs_previous_ar": "تقدم هذه الدراسة بيانات جديدة تدعم فائدة اليود المشع لعلاج الانبثاثات الرئوية.",
+      "vs_previous_en": "This study provides new data supporting the benefit of radioactive iodine treatment for lung metastases.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استعادية مع عدد محدود من المرضى، لكنها تقدم معلومات جديدة ومفيدة.",
+      "stars_reason_en": "Retrospective study with a limited number of patients, but offers new and useful information.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study provides new insights into the treatment of thyroid cancer in children.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة لمزيد من الدراسات لتحديد المخاطر طويلة الأمد للعلاج الإشعاعي.",
+      "research_gap_en": "There is a need for further studies to determine the long-term risks of radiation therapy.",
+      "subspecialty": "pediatric",
+      "audio_script_ar": "يعد هذا المقال دراسة استعادية حول النتائج الطويلة الأمد لسرطان الغدة الدرقية عند الأطفال. تم حساب نسبة البقاء على قيد الحياة والخلو من المرض على مدار فترة زمنية طويلة. أظهر البحث أن معظم الأطفال ظلوا على قيد الحياة حتى آخر متابعة وأن معدل الإصابة بالتهاب الرئة الإشعاعي كان منخفضًا. هذه النتائج تشير إلى فعالية العلاج باليود المشع وتسلط الضوء على الحاجة لمزيد من الدراسات في المجال.",
+      "audio_script_en": "This article is a retrospective study on the long-term outcomes of pediatric patients with thyroid cancer. Survival and disease-free rates were calculated over a lengthy follow-up period. The research showed that most children remained alive at the last follow-up and that the rate of radiation pneumonitis was low. These results indicate the effectiveness of radioactive iodine treatment and highlight the need for further studies in the field.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف الرئيسي من الدراسة؟",
+          "q_en": "What is the main objective of the study?",
+          "options_ar": [
+            "أ) دراسة نتائج العلاج باليود المشع",
+            "ب) تحديد معدلات التهاب الرئة",
+            "ج) تقييم نسب البقاء على قيد الحياة",
+            "د) كل ما سبق"
+          ],
+          "options_en": [
+            "A) Study outcomes of radioactive iodine treatment",
+            "B) Determine rates of pneumonitis",
+            "C) Evaluate survival rates",
+            "D) All of the above"
+          ],
+          "answer": 3,
+          "explanation_ar": "تستهدف الدراسة جميع العناصر المذكورة أعلاه.",
+          "explanation_en": "The study targets all the above-mentioned elements."
+        },
+        {
+          "q_ar": "ما هي نسبة المرضى الذين بقوا على قيد الحياة حتى آخر متابعة؟",
+          "q_en": "What is the percentage of patients who were alive at the last follow-up?",
+          "options_ar": [
+            "أ) 100%",
+            "ب) 75%",
+            "ج) 88.2%",
+            "د) 92%"
+          ],
+          "options_en": [
+            "A) 100%",
+            "B) 75%",
+            "C) 88.2%",
+            "D) 92%"
+          ],
+          "answer": 2,
+          "explanation_ar": "88.2% من المرضى كانوا على قيد الحياة في آخر متابعة.",
+          "explanation_en": "88.2% of patients were alive at last follow-up."
+        },
+        {
+          "q_ar": "ما هي معدلات التهاب الرئة الإشعاعي في المرضى المدروسين؟",
+          "q_en": "What are the rates of radiation pneumonitis in the studied patients?",
+          "options_ar": [
+            "أ) عالية جدًا",
+            "ب) منخفضة",
+            "ج) غير موجودة",
+            "د) تتطلب مزيد من البحث"
+          ],
+          "options_en": [
+            "A) Very high",
+            "B) Low",
+            "C) Not present",
+            "D) Requires further research"
+          ],
+          "answer": 2,
+          "explanation_ar": "لم تظهر أي دليل على التهاب الرئة الإشعاعي بين المرضى.",
+          "explanation_en": "No evidence of radiation pneumonitis was found among the patients."
+        }
+      ]
+    },
+    {
+      "pmid": "42020823",
+      "title_ar": "Determinants of long-term quality of life in nasopharyngeal carcinoma survivors: the roles of household income and performance status.",
+      "title_en": "Determinants of long-term quality of life in nasopharyngeal carcinoma survivors: the roles of household income and performance status.",
+      "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+      "pub_date": "2026-Apr-23",
+      "doi": "10.1007/s00520-026-10688-w",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42020823/",
+      "pdf_url": null,
+      "study_design": "Cross-sectional study",
+      "summary_ar": "تتناول هذه الدراسة المحاور الرئيسية لجودة الحياة بين الناجين من سرطان البلعوم الأنفي بعد العلاج. تم تقييم جودة الحياة باستخدام أدوات مثل EuroQol five-dimension وWHOQOL-BREF وSNOT-22. أظهرت النتائج أن الدخل الأسري المرتفع مرتبط بتحسين جودة الحياة في المراحل المختلفة بعد العلاج. ومع ذلك، كانت العلاقة بين الدخل وجودة الحياة تتأثر بشكل كبير بحالة الأداء الصحي للمريض وفقًا لمقياس Karnofsky. تشير النتائج إلى أهمية أداء المرضى في التأثير على جودة الحياة، مما يستدعي إجراء الدراسات المستقبلية لتأكيد هذه العلاقة.",
+      "summary_en": "This study addresses the primary factors influencing quality of life among nasopharyngeal carcinoma survivors post-treatment. Quality of life was assessed using tools such as EuroQol five-dimension, WHOQOL-BREF, and SNOT-22. Results showed a higher household income correlated with improved quality of life across various post-treatment phases. However, the relationship between income and quality of life was significantly influenced by patients' performance status as measured by the Karnofsky Scale. The findings highlight the importance of patient performance in affecting quality of life, warranting future studies to confirm these relationships.",
+      "practice_change_ar": "يمكن أن تؤدي النتائج إلى تحسين طرق إدارة المرضى الناجين من سرطان البلعوم الأنفي.",
+      "practice_change_en": "The results may lead to improved management strategies for nasopharyngeal carcinoma survivors.",
+      "future_impact_ar": "قد تسهم هذه الدراسة في تحديد استراتيجيات جديدة لدعم الناجين من سرطان البلعوم الأنفي.",
+      "future_impact_en": "This study may contribute to identifying new strategies for supporting nasopharyngeal carcinoma survivors.",
+      "why_important_ar": "هذا المقال يساعد في فهم العوامل التي تؤثر على جودة الحياة للناجين من سرطان البلعوم الأنفي.",
+      "why_important_en": "This article helps in understanding the factors affecting quality of life for nasopharyngeal carcinoma survivors.",
+      "vs_previous_ar": "تقدم هذه الدراسة رؤى جديدة حول تأثير الدخل الأسري على جودة الحياة.",
+      "vs_previous_en": "This study provides new insights into the impact of household income on quality of life.",
+      "stars": 4,
+      "stars_reason_ar": "تصميم الدراسة هو دراسة مقطعية وتوفر رؤى جديدة حول العلاقة بين الدخل وحالة الأداء وجودة الحياة.",
+      "stars_reason_en": "The study design is a cross-sectional study and provides new insights into the relationship between income, performance status, and quality of life.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study provides valuable insights into quality of life for nasopharyngeal carcinoma survivors.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يفتقر المجال إلى دراسات مستقبلية تؤكد العلاقة بين الحالة الاقتصادية والجودة.",
+      "research_gap_en": "There is a lack of future studies to confirm the relationship between socioeconomic status and quality of life.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "تناقش هذه الدراسة العوامل المؤثرة على جودة الحياة لدى الناجين من سرطان البلعوم الأنفي بعد علاجهم. تم تحديد جودة الحياة باستخدام عدة أدوات قياس حيث أظهرت النتائج علاقة إيجابية بين الدخل الأسري المرتفع وجودة الحياة. ومع ذلك، كان أداء المرضى الصحي مؤثراً بشكل كبير على هذه العلاقة. تعتبر هذه النتائج مهمة لإدارة المرضى، حيث أنها قد تؤدي إلى تحسين طرق الدعم والرعاية. بالإضافة إلى ذلك، تسلط الدراسة الضوء على الحاجة إلى مزيد من الأبحاث لفهم هذه العلاقات بشكل أفضل.",
+      "audio_script_en": "This study discusses the factors affecting quality of life among nasopharyngeal carcinoma survivors post-treatment. Quality of life was assessed using various measurement tools, and results indicated a positive relationship between higher household income and quality of life. However, patient performance status significantly influenced this relationship. These findings are crucial for patient management as they may lead to improved support and care strategies. Furthermore, the study highlights the need for further research to better understand these relationships.",
+      "mcq": [
+        {
+          "q_ar": "ما هي الأداة المستخدمة لتقييم جودة الحياة في هذه الدراسة؟",
+          "q_en": "What tool was used to assess quality of life in this study?",
+          "options_ar": [
+            "أ) SNOT-22",
+            "ب) EQ-5D",
+            "ج) Karnofsky",
+            "د) WHOQOL-BREF"
+          ],
+          "options_en": [
+            "A) SNOT-22",
+            "B) EQ-5D",
+            "C) Karnofsky",
+            "D) WHOQOL-BREF"
+          ],
+          "answer": 1,
+          "explanation_ar": "استخدمت الدراسة أداة EQ-5D لتقييم جودة الحياة.",
+          "explanation_en": "The study used the EQ-5D tool to assess quality of life."
+        },
+        {
+          "q_ar": "أي من العوامل تم تحديده كوسيط بين الدخل وجودة الحياة؟",
+          "q_en": "Which factor was identified as a mediator between income and quality of life?",
+          "options_ar": [
+            "أ) الأداء الصحي",
+            "ب) العمر",
+            "ج) الحالة الاجتماعية",
+            "د) مستوى التعليم"
+          ],
+          "options_en": [
+            "A) performance status",
+            "B) age",
+            "C) social status",
+            "D) education level"
+          ],
+          "answer": 0,
+          "explanation_ar": "تم تحديد الأداء الصحي كوسيط رئيسي بين الدخل وجودة الحياة.",
+          "explanation_en": "Performance status was identified as a key mediator between income and quality of life."
+        },
+        {
+          "q_ar": "ما هي الفترة الزمنية التي درست فيها المشاركين بعد العلاج؟",
+          "q_en": "What was the time period in which participants were studied post-treatment?",
+          "options_ar": [
+            "أ) خلال 5 سنوات",
+            "ب) خلال 10 سنوات",
+            "ج) خلال 3 سنوات",
+            "د) خلال سنتين"
+          ],
+          "options_en": [
+            "A) over 5 years",
+            "B) over 10 years",
+            "C) over 3 years",
+            "D) over 2 years"
+          ],
+          "answer": 1,
+          "explanation_ar": "درس الباحثون المشاركين الذين تم علاجهم في آخر 10 سنوات.",
+          "explanation_en": "Researchers studied participants who were treated in the last 10 years."
+        }
+      ]
+    },
+    {
+      "pmid": "42026278",
+      "title_ar": "Identifying electrode migration post cochlear implantation in children and its correlation with speech outcome.",
+      "title_en": "Identifying electrode migration post cochlear implantation in children and its correlation with speech outcome.",
+      "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+      "pub_date": "2026-Apr-23",
+      "doi": "10.1007/s00405-026-10110-5",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42026278/",
+      "pdf_url": null,
+      "study_design": "Retrospective series n>100",
+      "summary_ar": "المقال يتناول دراسة حالة أطفال خضعوا لعمليات زراعة cochlear implant وتحققوا من حركة الأقطاب. تمت دراسة العلاقة بين حركة الأقطاب ونتائج الكلام. تستخدم النتائج لمساعدة الأطباء في فهم كيفية تأثير هذه الحركة على القدرات الكلامية للأطفال. الدراسة تشمل مجموعة كبيرة من المرضى، مما يعزز موثوقية النتائج. النتائج المقترحة لها تأثير محتمل على مستقبل العلاجات.",
+      "summary_en": "The article discusses a study of children who underwent cochlear implantation and examined electrode migration. It investigates the relationship between electrode movement and speech outcomes. The results are intended to help clinicians understand how this migration affects children's speech capabilities. The study involves a large patient cohort, enhancing the reliability of its findings. The proposed results may have potential implications for future treatments.",
+      "practice_change_ar": "قد تساعد هذه الدراسة الأطباء على تحسين قرارات العلاج بناءً على حركة الأقطاب.",
+      "practice_change_en": "This study may assist clinicians in improving treatment decisions based on electrode migration.",
+      "future_impact_ar": "يمكن أن تؤثر النتائج على الطريقة التي يتم بها مراقبة ورعاية الأطفال بعد زراعة cochlear.",
+      "future_impact_en": "The findings could influence how children are monitored and cared for post-cochlear implantation.",
+      "why_important_ar": "تساعد الدراسة في تقديم رؤى جديدة حول تأثير حركة الأقطاب على الكلام.",
+      "why_important_en": "The study provides new insights into the impact of electrode migration on speech.",
+      "vs_previous_ar": "تقدم هذه الدراسة معلومات جديدة حول علاقة حركة الأقطاب بنتائج الكلام.",
+      "vs_previous_en": "This study offers new information regarding the relationship between electrode migration and speech outcomes.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استعادية n>100 تقدم نظرة جديدة على النتائج الكلامية.",
+      "stars_reason_en": "Retrospective study with n>100 providing new insights into speech outcomes.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study results are significant and can contribute to improved clinical care.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة لدراسات إضافية لمعرفة تأثير حركة الأقطاب على نتائج الكلام بشكل أعمق.",
+      "research_gap_en": "There is a need for further studies to understand the impact of electrode movement on speech outcomes in detail.",
+      "subspecialty": "pediatric",
+      "audio_script_ar": "أهلاً وسهلاً بكم. اليوم سنتحدث عن دراسة جديدة تتعلق بزراعة cochlear للأطفال. هذه الدراسة تستكشف حركة الأقطاب وتأثيرها على نتائج الكلام. تشمل الدراسة مجموعة كبيرة، مما يعزز موثوقية النتائج. تشير النتائج إلى إمكانية تحسين الرعاية السريرية من خلال فهم كيف تؤثر حركة الأقطاب على كلام الأطفال. يجب أيضاً أن نتطلع إلى مزيد من الدراسات لمعرفة المزيد عن هذا الموضوع.",
+      "audio_script_en": "Welcome. Today we will discuss a new study related to cochlear implantation in children. This study explores electrode migration and its impact on speech outcomes. The study includes a large cohort, enhancing the reliability of the findings. The results suggest the potential for improved clinical care by understanding how electrode movement affects children's speech. We should also look forward to further studies to learn more about this topic.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الموضوع الرئيسي للدراسة؟",
+          "q_en": "What is the main topic of the study?",
+          "options_ar": [
+            "أ) حركة الأقطاب في زراعة cochlear",
+            "ب) تأثير العلاجات على السمع",
+            "ج) معدلات النجاح في جراحة الأنف",
+            "د) تقنيات زراعة جديدة"
+          ],
+          "options_en": [
+            "A) Electrode migration in cochlear implantation",
+            "B) Effects of treatments on hearing",
+            "C) Success rates in nasal surgery",
+            "D) New implantation techniques"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة تركز على تأثير حركة الأقطاب على نتائج الكلام بعد زراعة cochlear.",
+          "explanation_en": "The study focuses on how electrode migration impacts speech outcomes after cochlear implantation."
+        },
+        {
+          "q_ar": "ما هي نتيجة الدراسة الرئيسية المتوقعة؟",
+          "q_en": "What is the main expected outcome of the study?",
+          "options_ar": [
+            "أ) تحسين الكلام",
+            "ب) زيادة السمع",
+            "ج) تقليل التحسس",
+            "د) تحسين نوعية الحياة"
+          ],
+          "options_en": [
+            "A) Improved speech",
+            "B) Increased hearing",
+            "C) Reduced sensitivity",
+            "D) Improved quality of life"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة تتوقع أن تؤثر حركة الأقطاب بشكل مباشر على تحسين الكلام.",
+          "explanation_en": "The study anticipates that electrode migration will directly influence improved speech."
+        },
+        {
+          "q_ar": "ما هي الفائدة المحتملة من النتائج؟",
+          "q_en": "What is the potential benefit of the findings?",
+          "options_ar": [
+            "أ) تحسين الرعاية السريرية",
+            "ب) زيادة التكاليف",
+            "ج) تقديم تقنيات غير فعالة",
+            "د) الحد من الخيارات العلاجية"
+          ],
+          "options_en": [
+            "A) Improved clinical care",
+            "B) Increased costs",
+            "C) Offering ineffective techniques",
+            "D) Limiting treatment options"
+          ],
+          "answer": 0,
+          "explanation_ar": "نتائج الدراسة قد تساهم في تحسين قرارات العلاج لرعاية الأطفال بعد زراعة cochlear.",
+          "explanation_en": "The study findings may contribute to better treatment decisions in the care of children post-cochlear implantation."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026042401",
+      "title_ar": "حجم سوق التنظير الأنفي ونموه المتوقع بمعدل نمو سنوي مركب 6.4%",
+      "title_en": "ENT Endoscopy Market Size and Growth Forecast at 6.4% CAGR",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-04-24",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "من المتوقع أن ينمو سوق التنظير الأنفي بشكل كبير، حيث من المتوقع أن يصل معدل النمو السنوي المركب إلى 6.4%. يقود هذا النمو تقدم التقنية وزيادة انتشار اضطرابات الأذن والأنف والحنجرة. تعمل الشركات على توسيع عروض منتجاتها والاستثمار في الأبحاث لتحسين تقنيات التنظير. تشير توسعة السوق إلى زيادة الطلب على حلول مبتكرة في قطاع الأذن والأنف والحنجرة.",
+      "summary_en": "The ENT endoscopy market is projected to grow significantly, with a compound annual growth rate (CAGR) of 6.4%. This growth is driven by advancements in technology and an increasing prevalence of ENT disorders. Companies are expanding their product offerings and investing in research to improve endoscopic techniques. The market's expansion indicates a rising demand for innovative solutions in the ENT sector.",
+      "practice_change_ar": "يؤكد هذا النمو في سوق التنظير على أهمية تبني تقنيات متقدمة في ممارسات الأذن والأنف والحنجرة.",
+      "practice_change_en": "This growth in the endoscopy market highlights the importance of adopting advanced technologies in ENT practices.",
+      "future_impact_ar": "تشير الزيادة المستمرة إلى مستقبل واعد لممارسات الأذن والأنف والحنجرة مع ظهور تقنيات جديدة.",
+      "future_impact_en": "The ongoing growth suggests a promising future for ENT practices as new technologies emerge.",
+      "why_important_ar": "يمكن أن تؤدي هذه التطورات إلى تحسين نتائج المرضى وزيادة دقة العمليات الجراحية.",
+      "why_important_en": "Such advancements can lead to improved patient outcomes and enhanced surgical precision.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "نمو السوق يعكس أهمية التكنولوجيا الجديدة في مجال الأذن والأنف والحنجرة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "في خبر اليوم، يتوقع أن ينمو سوق التنظير الأنفي بمعدل نمو سنوي مركب يبلغ 6.4%. يعود هذا النمو إلى التطورات التكنولوجية وزيادة انتشار اضطرابات الأذن والأنف والحنجرة. هذا يعني أن هناك إمكانية كبيرة لتحسين نتائج المرضى وزيادة الدقة في العمليات الجراحية من خلال تكنولوجيا جديدة. لذا، من المهم لأطباء الأذن والأنف والحنجرة مواكبة هذه الابتكارات.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026042402",
+      "title_ar": "من المتوقع أن يتجاوز سوق أجهزة الأنف والأذن والحنجرة 37580 مليون دولار بحلول عام 2032 مدفوعًا بالإجراءات الأقل غزارة والتطورات التكنولوجية",
+      "title_en": "ENT Devices Market Set to Surpass USD 37580 Million by 2032 Driven by Minimally Invasive Procedures and Technological Advancements",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-04-24",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "من المتوقع أن يتجاوز سوق أجهزة الأنف والأذن والحنجرة 37580 مليون دولار بحلول عام 2032، مدفوعًا بزيادة في الإجراءات الأقل غزارة والابتكارات التكنولوجية. تسلط هذه الزيادة الضوء على الطلب المتزايد على الحلول المبتكرة في قطاع الأنف والأذن والحنجرة. تساهم عوامل مثل تحسين نتائج الجراحة وتفضيلات المرضى في هذا الاتجاه. يسلط التقرير الضوء على أهمية الاستمرار في الاستثمار في البحث والتطوير.",
+      "summary_en": "The ENT devices market is projected to exceed USD 37,580 million by 2032, fueled by an increase in minimally invasive procedures and advancements in technology. This growth highlights the rising demand for innovative solutions in the ENT sector. Factors such as improved surgical outcomes and patient preferences are contributing to this trend. The report underscores the importance of continued investment in research and development.",
+      "practice_change_ar": "يحتاج الجراحون إلى البقاء على اطلاع على التطورات التكنولوجية لاعتماد الأجهزة المبتكرة في ممارساتهم.",
+      "practice_change_en": "Surgeons need to stay updated on technological advancements to incorporate innovative devices in their practices.",
+      "future_impact_ar": "تشير التوقعات بشأن توسع السوق إلى استمرار الابتكار والاستثمار في تقنيات الأنف والأذن والحنجرة على مدار السنوات القادمة.",
+      "future_impact_en": "The expected market expansion suggests continued innovation and investment in ENT technologies over the coming years.",
+      "why_important_ar": "تشير هذه الزيادة إلى تحول نحو العلاجات الأقل غزارة مما يمكن أن يحسن أوقات التعافي للمرضى.",
+      "why_important_en": "This growth signifies a shift towards less invasive treatments which can improve patient recovery times.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "سوق متنامٍ يعكس زيادة في الطلب على الحلول التكنولوجية المبتكرة في مجال الأنف والأذن والحنجرة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "مرحبًا بكم في نشرة أخبار الأنف والأذن والحنجرة. تشير التقارير إلى أن سوق أجهزة الأنف والأذن والحنجرة من المتوقع أن يتجاوز 37580 مليون دولار بحلول عام 2032، وهذا مدفوع بزيادة الإجراءات الأقل غزارة والتطورات التكنولوجية. من المهم للجراحين أن يبقوا على اطلاع بهذه الابتكارات لضمان تقديم أفضل رعاية للمرضى. يتوقع أن يشهد السوق المزيد من الابتكارات والاستثمار في السنوات القادمة.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026042403",
+      "title_ar": "حجم سوق أجهزة ENT، الحصة | تقرير الصناعة [2026-2034]",
+      "title_en": "ENT Devices Market Size, Share | Industry Report [2026-2034]",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-04-24",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "من المتوقع أن يشهد سوق أجهزة ENT نموًا كبيرًا من 2026 إلى 2034، وفقًا لتقرير جديد صادر عن Fortune Business Insights. تشمل العوامل التي تدفع هذا النمو زيادة انتشار الاضطرابات المتعلقة بالأذن والأنف والحنجرة، والتقدم في التكنولوجيا، وارتفاع الطلب على الإجراءات الجراحية minimally invasive. يحلل التقرير الاتجاهات السوقية، والحجم، والتطورات المستقبلية في الصناعة. مع هذه الرؤى، يمكن للأطراف المعنية الاستعداد بشكل أفضل للتغيرات القادمة في مشهد أجهزة ENT.",
+      "summary_en": "The ENT devices market is expected to experience significant growth from 2026 to 2034, according to a new report by Fortune Business Insights. Factors driving this growth include increasing prevalence of ENT disorders, advancements in technology, and rising demand for minimally invasive surgical procedures. The report analyzes the market trends, size, and future developments in the industry. With these insights, stakeholders can better prepare for upcoming changes in the landscape of ENT devices.",
+      "practice_change_ar": "يسلط هذا التقرير الضوء على أهمية البقاء على اطلاع باتجاهات السوق لجراحي الأنف والأذن والحنجرة لتكييف ممارساتهم بشكل فعال.",
+      "practice_change_en": "This report highlights the importance of staying updated on market trends for ENT surgeons to adapt their practices effectively.",
+      "future_impact_ar": "يشير نمو سوق أجهزة ENT إلى مستقبل واعد للابتكار في العلاج والإجراءات الجراحية.",
+      "future_impact_en": "The growth of the ENT devices market indicates a promising future for innovation in treatment and surgical procedures.",
+      "why_important_ar": "يمكن أن تساعد معرفة اتجاهات السوق جراحي الأنف والأذن والحنجرة في اتخاذ قرارات مستنيرة بشأن المعدات وخيارات العلاج.",
+      "why_important_en": "Understanding market trends can help ENT surgeons make informed decisions about equipment and treatment options.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "النمو المتوقع في السوق قد يوفر فرص استثمارية وتحسينات تكنولوجية مهمة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أحدث تقرير من Fortune Business Insights يتناول حجم سوق أجهزة الأنف والأذن والحنجرة من 2026 إلى 2034. يشير التقرير إلى أن السوق من المتوقع أن يشهد نموًا كبيرًا نتيجة لزيادة انتشار اضطرابات الأنف والأذن والحنجرة، بالإضافة إلى التحسينات التكنولوجية. تتطلب هذه الاتجاهات من جراحي الأنف والأذن والحنجرة متابعة مستمرة للتطورات، مما يسهل اتخاذ قرارات مستنيرة حول المعدات والتقنيات الجديدة. مع هذا النمو، يبدو أن هناك مستقبلًا واعدًا للابتكارات في معالجة هذه الاضطرابات.",
+      "mcq": []
+    }
+  ]
+}
