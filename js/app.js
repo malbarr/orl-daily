@@ -35,18 +35,6 @@ const SUBSPEC_LABELS = {
     business:        'Business / Industry',
     general:         'General',
   },
-  es: {
-    rhinology:       'Rinología',
-    skull_base:      'Base del Cráneo',
-    laryngology:     'Laringología',
-    facial_plastics: 'Cirugía Facial',
-    otology:         'Otología',
-    head_neck:       'Cabeza y Cuello',
-    pediatric:       'Pediatric ENT',
-    sleep:           'Trastornos del Sueño',
-    business:        'Negocios / Industria',
-    general:         'General',
-  },
 };
 
 const SUBSPEC_COLORS = {
@@ -149,7 +137,7 @@ function applyLang(lang, save = true) {
   state.lang = lang;
   if (save) localStorage.setItem('orl-lang', lang);
 
-  document.body.classList.remove('lang-ar', 'lang-en', 'lang-es');
+  document.body.classList.remove('lang-ar', 'lang-en');
   document.body.classList.add('lang-' + lang);
   document.documentElement.setAttribute('lang', lang);
   document.documentElement.setAttribute('dir', lang === 'ar' ? 'rtl' : 'ltr');
@@ -161,7 +149,7 @@ function applyLang(lang, save = true) {
 
   const search = $('#search-input');
   if (search) {
-    const ph = { ar: 'بحث…', en: 'Search…', es: 'Buscar…' };
+    const ph = { ar: 'بحث…', en: 'Search…' };
     search.setAttribute('placeholder', ph[lang] || 'Search…');
   }
 
@@ -175,7 +163,7 @@ function applyLang(lang, save = true) {
 }
 
 function toggleLang() {
-  const cycle = { en: 'ar', ar: 'es', es: 'en' };
+  const cycle = { en: 'ar', ar: 'en' };
   applyLang(cycle[state.lang] || 'en');
 }
 
@@ -184,7 +172,6 @@ function getText(article, field) {
   const arKey = field + '_ar';
   const enKey = field + '_en';
   if (state.lang === 'ar') return article[arKey] || article[enKey] || '';
-  if (state.lang === 'es') return article[enKey] || article[arKey] || '';
   return article[enKey] || article[arKey] || '';
 }
 
@@ -199,7 +186,7 @@ function formatDate(dateStr) {
     // Append noon UTC to avoid timezone day shifts
     const d = new Date(dateStr + 'T12:00:00Z');
     if (isNaN(d.getTime())) return dateStr;
-    const localeMap = { ar: 'ar-SA-u-ca-gregory', es: 'es-ES' };
+    const localeMap = { ar: 'ar-SA-u-ca-gregory' };
     const locale = localeMap[state.lang] || 'en-GB';
     return d.toLocaleDateString(locale, {
       year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC', calendar: 'gregory'
