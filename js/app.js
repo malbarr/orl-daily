@@ -12,50 +12,54 @@
 // ── Constants ──────────────────────────────────────────────────────────────────
 const SUBSPEC_LABELS = {
   ar: {
-    rhinology:   'الأنف والجيوب',
-    skull_base:  'قاعدة الجمجمة',
-    laryngology: 'الحنجرة',
-    otology:     'الأذن',
-    head_neck:   'الرأس والرقبة',
-    pediatric:   'Pediatric ENT',
-    sleep:       'اضطرابات النوم',
-    business:    'الاقتصاد والصناعة',
-    general:     'عام',
+    rhinology:       'الأنف والجيوب',
+    skull_base:      'قاعدة الجمجمة',
+    laryngology:     'الحنجرة',
+    facial_plastics: 'التجميل الوجهي',
+    otology:         'الأذن',
+    head_neck:       'الرأس والرقبة',
+    pediatric:       'Pediatric ENT',
+    sleep:           'اضطرابات النوم',
+    business:        'الاقتصاد والصناعة',
+    general:         'عام',
   },
   en: {
-    rhinology:   'Rhinology',
-    skull_base:  'Skull Base',
-    laryngology: 'Laryngology',
-    otology:     'Otology',
-    head_neck:   'Head & Neck',
-    pediatric:   'Pediatric ENT',
-    sleep:       'Sleep Medicine',
-    business:    'Business / Industry',
-    general:     'General',
+    rhinology:       'Rhinology',
+    skull_base:      'Skull Base',
+    laryngology:     'Laryngology',
+    facial_plastics: 'Facial Plastics',
+    otology:         'Otology',
+    head_neck:       'Head & Neck',
+    pediatric:       'Pediatric ENT',
+    sleep:           'Sleep Medicine',
+    business:        'Business / Industry',
+    general:         'General',
   },
   es: {
-    rhinology:   'Rinología',
-    skull_base:  'Base del Cráneo',
-    laryngology: 'Laringología',
-    otology:     'Otología',
-    head_neck:   'Cabeza y Cuello',
-    pediatric:   'Pediatric ENT',
-    sleep:       'Trastornos del Sueño',
-    business:    'Negocios / Industria',
-    general:     'General',
+    rhinology:       'Rinología',
+    skull_base:      'Base del Cráneo',
+    laryngology:     'Laringología',
+    facial_plastics: 'Cirugía Facial',
+    otology:         'Otología',
+    head_neck:       'Cabeza y Cuello',
+    pediatric:       'Pediatric ENT',
+    sleep:           'Trastornos del Sueño',
+    business:        'Negocios / Industria',
+    general:         'General',
   },
 };
 
 const SUBSPEC_COLORS = {
-  rhinology:   '#c0392b',
-  skull_base:  '#8e44ad',
-  laryngology: '#d35400',
-  otology:     '#2980b9',
-  head_neck:   '#27ae60',
-  pediatric:   '#e67e22',
-  sleep:       '#7f8c8d',
-  business:    '#2c3e50',
-  general:     '#34495e',
+  rhinology:       '#c0392b',
+  skull_base:      '#8e44ad',
+  laryngology:     '#d35400',
+  facial_plastics: '#16a085',
+  otology:         '#2980b9',
+  head_neck:       '#27ae60',
+  pediatric:       '#e67e22',
+  sleep:           '#7f8c8d',
+  business:        '#2c3e50',
+  general:         '#34495e',
 };
 
 // ── App State ──────────────────────────────────────────────────────────────────
@@ -274,6 +278,9 @@ function renderArticles() {
 
   const articles = getFilteredArticles();
   grid.innerHTML = '';
+
+  // Update per-tab counts
+  updateTabCounts();
 
   // Update article count bar
   const bar = $('#article-count-bar');
@@ -958,6 +965,37 @@ function setActiveFilterTab(filter) {
   document.querySelectorAll('.filter-tab').forEach(tab => {
     tab.classList.toggle('active', tab.dataset.filter === filter);
     tab.setAttribute('aria-selected', tab.dataset.filter === filter ? 'true' : 'false');
+  });
+}
+
+function updateTabCounts() {
+  const articles = state.articles;
+  if (!articles.length) return;
+
+  // Count per subspecialty
+  const counts = {};
+  articles.forEach(a => {
+    const s = a.subspecialty || 'general';
+    counts[s] = (counts[s] || 0) + 1;
+    // journal_club tab
+    if (a.journal_club) counts['jc'] = (counts['jc'] || 0) + 1;
+    // watch tab
+    if (a.watch_type) counts['watch'] = (counts['watch'] || 0) + 1;
+  });
+  counts['all'] = articles.length;
+
+  document.querySelectorAll('.filter-tab').forEach(tab => {
+    const f = tab.dataset.filter;
+    // Remove old badge
+    const old = tab.querySelector('.tab-count');
+    if (old) old.remove();
+    const n = counts[f] || 0;
+    if (n > 0) {
+      const badge = document.createElement('span');
+      badge.className = 'tab-count';
+      badge.textContent = n;
+      tab.appendChild(badge);
+    }
   });
 }
 

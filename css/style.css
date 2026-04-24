@@ -308,6 +308,23 @@ body.lang-en {
 .filter-tab[data-filter="jc"].active  { background: var(--color-jc); }
 .filter-tab[data-filter="dw"].active  { background: var(--color-dw); }
 
+/* Article count badge on filter tabs */
+.tab-count {
+  display: inline-block;
+  background: rgba(0,0,0,0.18);
+  color: inherit;
+  border-radius: 10px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  padding: 0 5px;
+  margin-left: 4px;
+  line-height: 1.5;
+  vertical-align: middle;
+}
+.filter-tab.active .tab-count {
+  background: rgba(255,255,255,0.25);
+}
+
 /* Active subspecialty tab coloring */
 .filter-tab[data-filter="rhinology"].active   { background: var(--color-rhinology); }
 .filter-tab[data-filter="laryngology"].active { background: var(--color-laryngology); }
