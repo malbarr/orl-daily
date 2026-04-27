@@ -1,0 +1,687 @@
+{
+  "date": "2026-04-27",
+  "generated_at": "2026-04-27T05:56:59Z",
+  "articles": [
+    {
+      "pmid": "42036243",
+      "title_ar": "Multidimensional Effectiveness of Eclectic Voice Therapy in Patients with Unilateral Vocal Fold Paralysis Following Thyroidectomy: A Prospective Clinical Study.",
+      "title_en": "Multidimensional Effectiveness of Eclectic Voice Therapy in Patients with Unilateral Vocal Fold Paralysis Following Thyroidectomy: A Prospective Clinical Study.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Apr-25",
+      "doi": "10.1016/j.jvoice.2026.04.001",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42036243/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort",
+      "summary_ar": "تمت دراسة فعالية برنامج علاج الصوت على مدى 8 أسابيع في 45 بالغًا يعانون من شلل الحبال الصوتية الأحادي بعد جراحة الغدة الدرقية. أظهرت النتائج تحسنًا كبيرًا في درجات VHI-10 وCAPE-V، بالإضافة إلى تحسن في قياسات الصوت الهوائي والبلع. البرنامج تضمن تقنيات مثل Lessac-Madsen Resonant Voice Therapy ومناورات دفع وسحب مع تقييمات موحدة قبل وبعد العلاج. التحسن في الجودة بشكل عام كان ملحوظًا في مختلف الأبعاد، مما يدعم ضرورة العلاج الصوتي المبكر في هذه الفئة.",
+      "summary_en": "The study evaluated the effectiveness of an 8-week voice therapy program in 45 adults with unilateral vocal fold paralysis following thyroidectomy. Significant improvements were noted in VHI-10 and CAPE-V scores, as well as acoustic and aerodynamic voice measures and swallowing function. The program incorporated techniques such as Lessac-Madsen Resonant Voice Therapy and push-pull maneuvers, with standardized assessments conducted pre- and post-therapy. Overall quality of life improvements were notable across various dimensions, supporting the need for early voice therapy in this population.",
+      "practice_change_ar": "ينبغي اعتماد العلاج الصوتي المبكر كإجراء أساسي في علاج شلل الحبال الصوتية بعد جراحة الغدة الدرقية.",
+      "practice_change_en": "Early voice therapy should be implemented as a primary intervention for vocal fold paralysis following thyroid surgery.",
+      "future_impact_ar": "قد تؤدي هذه النتائج إلى تحسين إدارة شلل الحبال الصوتية في المرضى بعد جراحة الغدة الدرقية.",
+      "future_impact_en": "These findings may enhance the management of vocal fold paralysis in patients post-thyroid surgery.",
+      "why_important_ar": "تظهر هذه الدراسة فوائد كبيرة للعلاج الصوتي في تحسين جودة الصوت والبلع.",
+      "why_important_en": "This study demonstrates significant benefits of voice therapy in improving voice and swallowing quality.",
+      "vs_previous_ar": "تؤكد هذه الدراسة على أهمية العلاج الصوتي المبكر، مما يختلف عن المعرفة السابقة التي كانت تعطي الأولوية لتقنيات أخرى.",
+      "vs_previous_en": "This study emphasizes the importance of early voice therapy, differing from prior understanding that prioritized other techniques.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة قائمة على التجربة مع عينة جيدة وأدلة قوية على فعالية العلاج.",
+      "stars_reason_en": "Prospective study design with a solid sample size and strong evidence of treatment efficacy.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تقدم مقترحات جديدة للعلاج الصوتي في حالات شلل الحبال الصوتية.",
+      "jc_reason_en": "Proposes new therapeutic approaches for voice therapy in cases of vocal fold paralysis.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة تقنيات العلاج الصوتي الجديدة وأثرها على نوعية الحياة.",
+      "watch_detail_en": "Monitor new voice therapy techniques and their impact on quality of life.",
+      "watch_type": "technology",
+      "research_gap_ar": "هناك حاجة إلى مزيد من الدراسات لتحديد العوامل المحددة التي تؤثر في النتائج بعد العلاج.",
+      "research_gap_en": "Further research is needed to identify specific factors affecting outcomes post-therapy.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تدرس هذه المقالة فعالية برنامج علاج صوتي على مدى 8 أسابيع في 45 بالغاً يعانون من شلل الحبال الصوتية الأحادي بعد جراحة الغدة الدرقية. تم تقييم النتائج من خلال عدة مقاييس موحدة. التحسن في جودة الصوت والبلع كان ملحوظًا بشكل كبير، مما يدل على أهمية بدء العلاج الصوتي مبكرًا. توفر النتائج أساسًا لتغيير كيفية إدارة هذه الحالة.",
+      "audio_script_en": "This article examines the effectiveness of an 8-week voice therapy program in 45 adults with unilateral vocal fold paralysis post-thyroidectomy. Outcomes were assessed using multiple standardized measures. Significant improvements in voice and swallowing quality were observed, highlighting the importance of initiating voice therapy early. The findings provide a basis for changing how this condition is managed.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف من الدراسة؟",
+          "q_en": "What is the aim of the study?",
+          "options_ar": [
+            "أ) تقييم فعالية العلاج الصوتي",
+            "ب) مقارنة أنواع الجراحة",
+            "ج) دراسة العوامل الوراثية",
+            "د) تقييم نوعية الحياة فقط"
+          ],
+          "options_en": [
+            "A) Assessing the effectiveness of voice therapy",
+            "B) Comparing types of surgery",
+            "C) Studying genetic factors",
+            "D) Evaluating quality of life only"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة تهدف إلى تقييم فعالية برنامج علاج الصوت في تحسين الأداء الصوتي والبلع.",
+          "explanation_en": "The study aims to assess the effectiveness of a voice therapy program in improving voice and swallowing performance."
+        },
+        {
+          "q_ar": "ما هو التحسن الرئيسي الذي لوحظ في الدراسة؟",
+          "q_en": "What was the primary improvement noted in the study?",
+          "options_ar": [
+            "أ) تقليل الجراحة المطلوبة",
+            "ب) تحسين درجات الـ VHI-10",
+            "ج) زيادة الوزن",
+            "د) تقليل الألم"
+          ],
+          "options_en": [
+            "A) Reduction in required surgery",
+            "B) Improvement in VHI-10 scores",
+            "C) Weight gain",
+            "D) Reduction in pain"
+          ],
+          "answer": 1,
+          "explanation_ar": "لوحظ تحسن كبير في درجات VHI-10 بعد العلاج الصوتي.",
+          "explanation_en": "Significant improvement in VHI-10 scores was noted following voice therapy."
+        },
+        {
+          "q_ar": "ما هي مدة برنامج العلاج الصوتي؟",
+          "q_en": "What is the duration of the voice therapy program?",
+          "options_ar": [
+            "أ) 4 أسابيع",
+            "ب) 6 أسابيع",
+            "ج) 8 أسابيع",
+            "د) 10 أسابيع"
+          ],
+          "options_en": [
+            "A) 4 weeks",
+            "B) 6 weeks",
+            "C) 8 weeks",
+            "D) 10 weeks"
+          ],
+          "answer": 2,
+          "explanation_ar": "برنامج العلاج الصوتي استمر لمدة 8 أسابيع.",
+          "explanation_en": "The voice therapy program lasted for 8 weeks."
+        }
+      ]
+    },
+    {
+      "pmid": "41831706",
+      "title_ar": "Nasal application of spray-dried powders - the impact of filling processes on deposition in a nasal cast.",
+      "title_en": "Nasal application of spray-dried powders - the impact of filling processes on deposition in a nasal cast.",
+      "journal": "International journal of pharmaceutics",
+      "pub_date": "2026-Apr-25",
+      "doi": "10.1016/j.ijpharm.2026.126772",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41831706/",
+      "pdf_url": "https://doi.org/10.1016/j.ijpharm.2026.126772",
+      "study_design": "Experimental study",
+      "summary_ar": "تستعرض هذه الدراسة آثار تطبيق المساحيق المجففة بالرش على سلوك الإيداع في تجويف الأنف. تم تقييم التركيب الجزيئي للمساحيق ومظهرها الخارجي من حيث الجسيمات الكروية والمجعدة وتغيرات القطبية السطحية. تم اختبار تأثير العمليات المختلفة للتعبئة على الإيداع لمواد hydrophilic. أظهرت النتائج زيادة في إيداع المساحيق hydrophilic في منطقة القرينات، وهو ما يعد إيجابياً لامتصاص الأدوية. ومع ذلك، كانت هناك تغييرات سلبية في الإيداع عندما يتم التطبيق أثناء التنفس العادي.",
+      "summary_en": "This study examines the effects of nasal application of spray-dried powders on deposition behavior in the nasal cavity. The formulations were assessed by particle morphology and surface polarity, focusing on hydrophilic powders. Results indicated that the dosing process increased deposition in the turbinate area, favorable for drug absorption. However, application during normal breathing shifted deposition unfavorably to postnasal areas.",
+      "practice_change_ar": "يمكن أن تؤثر النتائج على كيفية إدارتنا لتطبيق المساحيق في الأنف لتحقيق أفضل امتصاص للعقاقير.",
+      "practice_change_en": "Results may influence how we manage nasal powder applications for optimal drug absorption.",
+      "future_impact_ar": "يمكن أن تؤدي هذه النتائج إلى تحسين طرق توصيل الأدوية عبر الأنف.",
+      "future_impact_en": "These findings could lead to improved drug delivery methods via the nose.",
+      "why_important_ar": "تعتبر هذه الدراسة مهمة لأنها تقدم رؤى جديدة حول تأثير عمليات التعبئة على إيداع الأدوية في الأنف.",
+      "why_important_en": "This study is important as it provides new insights into the impact of filling processes on drug deposition in the nose.",
+      "vs_previous_ar": "تختلف هذه النتائج عن المعرفة السابقة من خلال تقديم بيانات جديدة حول تأثير التعبئة على تغيير سلوك الإيداع.",
+      "vs_previous_en": "These findings differ from previous knowledge by providing new data on how filling processes alter deposition behavior.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة تجريبية توفر معلومات جديدة عن تأثيرات عملية التعبئة على إيداع الأدوية، مما يستحق تقييمًا جيدًا.",
+      "stars_reason_en": "Experimental study provides new insights on the impact of filling processes on drug deposition, justifying a good rating.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تعتبر هذه الدراسة ذات صلة وتسهم في فهم عميق حول توصيل الأدوية الأنفية.",
+      "jc_reason_en": "This study is relevant and contributes to a deeper understanding of nasal drug delivery.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تتطلب عملية التعبئة دراسات إضافية لفهم تأثيراتها على توصيل الأدوية.",
+      "research_gap_en": "Filling processes require further studies to understand their impacts on drug delivery.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تقدم هذه الدراسة معلومات عن تأثير تطبيق المساحيق المجففة بالرش على سلوك الإيداع في تجويف الأنف، حيث تم تقييم تأثيرات عمليات التعبئة المختلفة على المساحيق بما في ذلك الخصائص الجزيئية. النتائج تشير إلى زيادة في إيداع المساحيق hydrophilic في منطقة القرينات خلال فترة التوقف عن النفس، وهو إيجابي لامتصاص الأدوية. كما أظهرت الدراسة أن تطبيق العلاج أثناء التنفس الطبيعي لم يكن له تأثير إيجابي ولكنه أدى إلى نقل الإيداع إلى مناطق خلف الأنف. هذه النتائج قد تؤثر على إدارتنا لتطبيق المساحيق في الأنف لتحقيق أفضل امتصاص للعقاقير.",
+      "audio_script_en": "This study provides insights into the impact of nasal application of spray-dried powders on deposition behavior in the nasal cavity, focusing on the effects of different filling processes on the formulations, including their molecular characteristics. Results indicate an increase in the deposition of hydrophilic powders in the turbinate area during breath hold, which is favorable for drug absorption. The study also found that application during normal breathing had no positive influence but shifted deposition to postnasal areas. These findings may influence how we manage nasal powder applications for optimal drug absorption.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف من الدراسة؟",
+          "q_en": "What was the aim of the study?",
+          "options_ar": [
+            "أ) التحقيق في تأثير عمليات التعبئة على الإيداع",
+            "ب) تقييم فعالية المساحيق المجففة بالرش",
+            "ج) مقارنة فعالية المساحيق والسوائل",
+            "د) دراسة تأثير الضغط على الإيداع"
+          ],
+          "options_en": [
+            "A) Investigate the impact of filling processes on deposition",
+            "B) Evaluate the effectiveness of spray-dried powders",
+            "C) Compare the efficacy of powders and liquids",
+            "D) Study the effect of pressure on deposition"
+          ],
+          "answer": 0,
+          "explanation_ar": "هدفت الدراسة إلى التحقيق في كيفية تأثير عمليات التعبئة على سلوك الإيداع للمساحيق.",
+          "explanation_en": "The study aimed to investigate how filling processes affect the deposition behavior of powders."
+        },
+        {
+          "q_ar": "لماذا يعتبر الإيداع في منطقة القرينات مهمًا؟",
+          "q_en": "Why is deposition in the turbinate area important?",
+          "options_ar": [
+            "أ) لأنه يسهل الإخراج",
+            "ب) لأنه يؤثر على امتصاص الأدوية",
+            "ج) لأنه يغير شكل المساحيق",
+            "د) لأنه يقلل من الالتهاب"
+          ],
+          "options_en": [
+            "A) Because it facilitates expulsion",
+            "B) Because it affects drug absorption",
+            "C) Because it changes powder shape",
+            "D) Because it reduces inflammation"
+          ],
+          "answer": 1,
+          "explanation_ar": "الإيداع في منطقة القرينات معروف بأنه مهم لامتصاص الأدوية بشكل فعال.",
+          "explanation_en": "Deposition in the turbinate area is known to be crucial for effective drug absorption."
+        },
+        {
+          "q_ar": "ما هي النتائج التي تم الوصول إليها بالنسبة لتأثير عملية التعبئة؟",
+          "q_en": "What results were found regarding the effect of the filling process?",
+          "options_ar": [
+            "أ) زيادة الإيداع لمواد hydrophilic",
+            "ب) انخفاض في فعالية المساحيق",
+            "ج) عدم تأثير على الإيداع",
+            "د) تحسين الشكل الخارجي للمساحيق"
+          ],
+          "options_en": [
+            "A) Increased deposition of hydrophilic materials",
+            "B) Decreased effectiveness of powders",
+            "C) No effect on deposition",
+            "D) Improved external morphology of powders"
+          ],
+          "answer": 0,
+          "explanation_ar": "وجدت الدراسة أن عملية التعبئة أدت إلى زيادة في الإيداع لمواد hydrophilic في منطقة القرينات.",
+          "explanation_en": "The study found that the filling process led to increased deposition of hydrophilic materials in the turbinate area."
+        }
+      ]
+    },
+    {
+      "pmid": "42033744",
+      "title_ar": "A multi-centre retrospective review of the bronchoscopic management of upper tracheal stenosis: An Australian perspective.",
+      "title_en": "A multi-centre retrospective review of the bronchoscopic management of upper tracheal stenosis: An Australian perspective.",
+      "journal": "Internal medicine journal",
+      "pub_date": "2026-Apr-25",
+      "doi": "10.1111/imj.70434",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42033744/",
+      "pdf_url": null,
+      "study_design": "Retrospective case series n=31",
+      "summary_ar": "تعتبر تضيق القصبة الهوائية العليا (UTS) حالة نادرة تتضمن أسباب مختلفة واستراتيجيات علاجية متنوعة. في هذه الدراسة التي أجريت على مدى 12 عاماً في ثلاثة مستشفيات تعليمية في نيو ساوث ويلز، أُجريت 120 إجراءً على 31 مريض. أسفرت هذه الإجراءات عن تحسينات ملحوظة في تدفق الهواء ووظائف الرئة مع انخفاض معدل حدوث المضاعفات. تشمل الأساليب العلاجية التي تم استخدامها توسيع البالون، الحقن بالستيرويد، الشقوق الشعاعية، وزرع الدعائم. تم تطوير ورقة معلومات للمرضى بناءً على هذه النتائج.",
+      "summary_en": "Upper tracheal stenosis (UTS) is a rare condition with multiple causes and varying treatment strategies. This study conducted over 12 years across three teaching hospitals in New South Wales involved 120 procedures on 31 patients. These interventions led to significant improvements in airflow and lung function with a low rate of complications. The therapeutic methods used included balloon dilatation, steroid injections, radial incisions, and stent placements. A patient information sheet has been developed based on these findings.",
+      "practice_change_ar": "ستساعد هذه الدراسة الأطباء في تحسين استراتيجيات العلاج لتضيق القصبة الهوائية العليا.",
+      "practice_change_en": "This study will help physicians improve treatment strategies for upper tracheal stenosis.",
+      "future_impact_ar": "يمكن أن يؤدي هذا البحث إلى إرشادات أكثر فعالية لعلاج تضيق القصبة الهوائية العليا في المستقبل.",
+      "future_impact_en": "This research may lead to more effective treatment guidelines for upper tracheal stenosis in the future.",
+      "why_important_ar": "تعد هذه الدراسة الأولى من نوعها في أستراليا في تقديم بيانات محلية حول إدارة تضيق القصبة الهوائية العليا.",
+      "why_important_en": "This study is the first of its kind in Australia to provide local data on the management of upper tracheal stenosis.",
+      "vs_previous_ar": "تقدم هذه الدراسة بيانات جديدة لم تتوفر سابقًا عن إدارة تضيق القصبة الهوائية العليا.",
+      "vs_previous_en": "This study offers new data not previously available on the management of upper tracheal stenosis.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة تحليلة بأكثر من 30 مريضًا تقدم بيانات جديدة ومفيدة.",
+      "stars_reason_en": "Retrospective analysis with more than 30 patients providing new and useful data.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study contributes to discussions on airway stenosis management.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "توجد حاجة لدراسات مستقبلية حول النتائج طويلة المدى لعلاج تضيق القصبة الهوائية العليا.",
+      "research_gap_en": "There is a need for future studies on the long-term outcomes of treating upper tracheal stenosis.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تضيق القصبة الهوائية العليا (UTS) هو حالة نادرة تتطلب استراتيجيات علاجية متنوعة. هذه الدراسة استمرت لمدة 12 عاماً وشملت 31 مريضًا و120 إجراءً، وأسفرت عن تحسينات ملحوظة في وظائف الرئة. تم استخدام تقنيات متعددة مثل توسيع البالون والحقن بالستيرويد وزرع الدعائم. درس الباحثون تأثير هذه الإجراءات على تدفق الهواء وتحسين الأعراض، وبالتالي تم تطوير ورقة معلومات للمرضى حول هذه الحالة. تعد هذه الدراسة ذات أهمية خاصة حيث توفر بيانات محلية، مما يعزز إرشادات العلاج.",
+      "audio_script_en": "Upper tracheal stenosis (UTS) is a rare condition requiring diverse treatment strategies. This study spanned 12 years and involved 31 patients and 120 procedures, resulting in significant improvements in lung function. Multiple techniques such as balloon dilatation, steroid injections, and stent placement were employed. Researchers examined the impact of these interventions on airflow and symptom improvement, leading to the development of a patient information sheet on this condition. This study is particularly significant as it provides local data, enhancing treatment guidelines.",
+      "mcq": [
+        {
+          "q_ar": "ما هو التضيق المدروس في هذه الدراسة؟",
+          "q_en": "What is the stenosis studied in this article?",
+          "options_ar": [
+            "أ) تضيق القصبة الهوائية العليا",
+            "ب) تضيق القصبة الهوائية السفلية",
+            "ج) تضيق الرئة",
+            "د) تضيق الانف"
+          ],
+          "options_en": [
+            "A) Upper tracheal stenosis",
+            "B) Lower tracheal stenosis",
+            "C) Lung stenosis",
+            "D) Nasal stenosis"
+          ],
+          "answer": 0,
+          "explanation_ar": "تتناول الدراسة تضيق القصبة الهوائية العليا.",
+          "explanation_en": "The study addresses upper tracheal stenosis."
+        },
+        {
+          "q_ar": "كم عدد المرضى الذي تم دراستهم في البحث؟",
+          "q_en": "How many patients were studied in the research?",
+          "options_ar": [
+            "أ) 10",
+            "ب) 31",
+            "ج) 45",
+            "د) 50"
+          ],
+          "options_en": [
+            "A) 10",
+            "B) 31",
+            "C) 45",
+            "D) 50"
+          ],
+          "answer": 1,
+          "explanation_ar": "تمت دراسة 31 مريضًا في هذه الدراسة.",
+          "explanation_en": "A total of 31 patients were studied in this research."
+        },
+        {
+          "q_ar": "أي من النتائج تم تحسينها بعد الإجراءات المتكررة؟",
+          "q_en": "Which outcome was improved after the serial procedures?",
+          "options_ar": [
+            "أ) معدل نبضات القلب",
+            "ب) FEFmax",
+            "ج) حرارة الجسم",
+            "د) ضغط الدم"
+          ],
+          "options_en": [
+            "A) Heart rate",
+            "B) FEFmax",
+            "C) Body temperature",
+            "D) Blood pressure"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم تحسين FEFmax بعد الإجراءات المتكررة.",
+          "explanation_en": "The FEFmax was improved after the serial procedures."
+        }
+      ]
+    },
+    {
+      "pmid": "42036512",
+      "title_ar": "Antibiotic use and adherence to Finnish treatment guidelines in pediatric acute otitis media.",
+      "title_en": "Antibiotic use and adherence to Finnish treatment guidelines in pediatric acute otitis media.",
+      "journal": "European journal of pediatrics",
+      "pub_date": "2026-Apr-27",
+      "doi": "10.1007/s00431-026-06964-w",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42036512/",
+      "pdf_url": null,
+      "study_design": "Retrospective cohort n=1633",
+      "summary_ar": "توصي الإرشادات الفنلندية بالعلاج بالمضادات الحيوية لألتهاب الأذن الوسطى الحاد (AOM)، مع استخدام كل من amoxicillin وamoxicillin-clavulanate كخيارات علاج خط أول مقبولة. تهدف هذه الدراسة إلى التحقيق في النسبة المئوية للجرعات المختلفة التي يتم وصفها للأطفال المصابين بـ AOM. تم دراسة 1,240 طفلًا في توركو و393 طفلًا في فاسا. تم وصف amoxicillin لـ 80.9% و80.7% من الأطفال في كل من توركو وفاسا على التوالي، بينما تم وصف amoxicillin-clavulanate لـ 10.1% و8.7% على التوالي. تم اعتماد فترة علاج قصيرة مدتها 5 أيام في الغالب.",
+      "summary_en": "Finnish guidelines recommend antibiotic treatment for acute otitis media (AOM), with both amoxicillin and amoxicillin-clavulanate as acceptable first-line treatments. This study aimed to investigate the proportion of different antibiotics prescribed for children with AOM. A total of 1,240 children in Turku and 393 in Vaasa were studied. Amoxicillin was prescribed to 80.9% and 80.7% of children in Turku and Vaasa, respectively, while amoxicillin-clavulanate was prescribed to 10.1% and 8.7%. Most children received a short 5-day treatment course.",
+      "practice_change_ar": "ينبغي على الأطباء اتباع الإرشادات الفنلندية والامتثال لتوصيات الأدوية.",
+      "practice_change_en": "Physicians should adhere to Finnish guidelines and the recommendations for medications.",
+      "future_impact_ar": "يمكن أن يساعد هذا البحث في تحسين الهياكل الطبية وممارسات الصيدلة.",
+      "future_impact_en": "This research may help improve medical structures and pharmacy practices.",
+      "why_important_ar": "تعتبر هذه المقالة مهمة لأنها تقدم معلومات حديثة حول استخدام المضادات الحيوية لـ AOM.",
+      "why_important_en": "This article is important as it provides updated insights into antibiotic use for AOM.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة من خلال تقديم بيانات جديدة عن أنماط استخدام المضادات الحيوية.",
+      "vs_previous_en": "This study differs from previous knowledge by providing new data on antibiotic prescribing patterns.",
+      "stars": 4,
+      "stars_reason_ar": "تصميم الدراسة هو دراسة تراجع مشتركة مع عينة كبيرة، مما يمنحها درجات مرتفعة.",
+      "stars_reason_en": "The study design is a large retrospective cohort study, which gives it a high score.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This article is relevant for contemporary understanding of antibiotic use in the medical field.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يمثل الفجوة البحثية هنا الحاجة إلى بيانات وطنية جديدة حول خيارات العلاج.",
+      "research_gap_en": "The research gap here indicates the need for new national data on treatment options.",
+      "subspecialty": "pediatric",
+      "audio_script_ar": "في هذه الدراسة، تم التحقيق في استخدام المضادات الحيوية وفقاً للإرشادات الفنلندية لعلاج ألتهاب الأذن الوسطى الحاد للأطفال. تضمنت الدراسة 1,240 طفلاً في توركو و393 في فاسا. أظهرت النتائج أن 80.9% من الأطفال في توركو و80.7% في فاسا تلقوا amoxicillin، بينما كان استخدام amoxicillin-clavulanate أقل شيوعًا. الدراسة تبرز أهمية اتباع الإرشادات للإلتزام بالعلاج. بالتالي، يمكن أن تساعد نتائج هذه الدراسة في تحسين ممارسات العلاج داخل المستشفيات.",
+      "audio_script_en": "This study investigated antibiotic use according to Finnish guidelines for treating acute otitis media in children. It included 1,240 children in Turku and 393 in Vaasa. Results showed that 80.9% of children in Turku and 80.7% in Vaasa received amoxicillin, while the use of amoxicillin-clavulanate was less common. The study highlights the importance of guideline adherence for treatment. Thus, the findings may help improve treatment practices within hospitals.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الأكثر استخدامًا كمضاد حيوي لعلاج التهاب الأذن الوسطى الحاد للأطفال وفقًا للدراسة؟",
+          "q_en": "What was the most commonly prescribed antibiotic for treating acute otitis media in children according to the study?",
+          "options_ar": [
+            "أ) amoxicillin",
+            "ب) amoxicillin-clavulanate",
+            "ج) سيفالوسبورين",
+            "د) أدوية أخرى"
+          ],
+          "options_en": [
+            "A) amoxicillin",
+            "B) amoxicillin-clavulanate",
+            "C) cephalosporins",
+            "D) other medications"
+          ],
+          "answer": 0,
+          "explanation_ar": "تم وصف amoxicillin لـ 80.9% من الأطفال في الدراسة.",
+          "explanation_en": "Amoxicillin was prescribed to 80.9% of children in the study."
+        },
+        {
+          "q_ar": "ما هي مدة العلاج الأكثر شيوعًا للأطفال المصابين بـ AOM حسب الدراسة؟",
+          "q_en": "What was the most common treatment duration for children with AOM according to the study?",
+          "options_ar": [
+            "أ) 3 أيام",
+            "ب) 5 أيام",
+            "ج) 7 أيام",
+            "د) 10 أيام"
+          ],
+          "options_en": [
+            "A) 3 days",
+            "B) 5 days",
+            "C) 7 days",
+            "D) 10 days"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم اعتماد فترة 5 أيام كعلاج شائع في معظم الحالات.",
+          "explanation_en": "A 5-day course was the common treatment length in most cases."
+        },
+        {
+          "q_ar": "ماذا يكشف هذا البحث عن التوافق مع الإرشادات لعلاج AOM في المستشفيات الفنلندية؟",
+          "q_en": "What does this research reveal about adherence to guidelines for treating AOM in Finnish hospitals?",
+          "options_ar": [
+            "أ) التوافق منخفض",
+            "ب) التوافق متوسط",
+            "ج) التوافق مرتفع",
+            "د) لا توجد بيانات"
+          ],
+          "options_en": [
+            "A) low adherence",
+            "B) moderate adherence",
+            "C) high adherence",
+            "D) no data"
+          ],
+          "answer": 2,
+          "explanation_ar": "تشير النتائج إلى أن التوافق مع الإرشادات مرتفع في المستشفيات المدروسة.",
+          "explanation_en": "The results indicate that adherence to the guidelines is high in the studied hospitals."
+        }
+      ]
+    },
+    {
+      "pmid": "42036404",
+      "title_ar": "Vascular Dynamics During Respiratory Arousal From Sleep Assessed by Oximeter-Based Vascular Stiffness Measures.",
+      "title_en": "Vascular Dynamics During Respiratory Arousal From Sleep Assessed by Oximeter-Based Vascular Stiffness Measures.",
+      "journal": "Journal of sleep research",
+      "pub_date": "2026-Apr-26",
+      "doi": "10.1111/jsr.70343",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42036404/",
+      "pdf_url": null,
+      "study_design": "Retrospective series n=87",
+      "summary_ar": "هذه الدراسة تبحث في التغيرات الديناميكية في Pulse Propagation Time (PPT) المشتق من PPG، والذي يعكس التعديلات في صلابة الأوعية الدموية خلال أحداث التنفس في مرضى انقطاع النفس النومي. تم استخدام بيانات تخطيط النوم من 87 مريضًا، وأظهرت النتائج تغييرات ملحوظة في PPT. تم تحديد PPT كمؤشر مستقل لوجود التنبه القشري. النتائج توضح أن PPT يمكن أن يكون علامة جديدة لتقييم الضغط الوعائي في مرضى انقطاع النفس النومي.",
+      "summary_en": "This study investigates dynamic changes in Pulse Propagation Time (PPT) derived from PPG, reflecting modulation in vascular stiffness during respiratory events in patients with obstructive sleep apnea (OSA). Polysomnography data from 87 patients were utilized, revealing significant changes in PPT. PPT was identified as an independent predictor of the presence of cortical arousal. The findings suggest that PPT could serve as a new marker for assessing vascular stress in OSA patients.",
+      "practice_change_ar": "قد تؤدي النتائج إلى استخدام PPT كوسيلة جديدة لتقييم الضغط الوعائي في مرضى انقطاع النفس النومي.",
+      "practice_change_en": "The findings may lead to the use of PPT as a novel tool for assessing vascular stress in patients with obstructive sleep apnea.",
+      "future_impact_ar": "يمكن أن تسهم النتائج في تطوير تدخلات جديدة لتحسين النتائج القلبية لدى مرضى انقطاع النفس النومي.",
+      "future_impact_en": "The results could contribute to the development of new interventions to improve cardiovascular outcomes in patients with obstructive sleep apnea.",
+      "why_important_ar": "تسليط الضوء على مؤشر PPG جديد يمكن أن يساعد في تقييم التوتر الوعائي في مرضى انقطاع النفس النومي.",
+      "why_important_en": "It highlights a novel PPG-based marker that could aid in assessing vascular stress in patients with obstructive sleep apnea.",
+      "vs_previous_ar": "هذه الدراسة تقدم أداة جديدة لتقييم التغيرات الوعائية، وهو ما لم يكن متاحًا سابقًا.",
+      "vs_previous_en": "This study offers a new tool for assessing vascular changes, which was not previously available.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة قائمة على سلسلة استعادية تحتوي على عدد يعادل 87 مريض، مما يشير إلى مستوى مقبول من البيانات.",
+      "stars_reason_en": "A retrospective series study with 87 patients, suggesting an acceptable level of data.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The results have clinical significance in the assessment of patients with obstructive sleep apnea.",
+      "watch": true,
+      "watch_detail_ar": "راقب استخدام PPT كأداة جديدة لتقييم الضغط الوعائي في مرضى انقطاع النفس النومي.",
+      "watch_detail_en": "Monitor the use of PPT as a new tool for assessing vascular stress in patients with obstructive sleep apnea.",
+      "watch_type": "device",
+      "research_gap_ar": "توجد حاجة لمزيد من البحث حول تأثيرات التقنيات الجديدة لتقييم صلابة الأوعية الدموية.",
+      "research_gap_en": "There is a need for further research on the effects of new technologies for assessing vascular stiffness.",
+      "subspecialty": "sleep",
+      "audio_script_ar": "تتناول هذه الدراسة التغيرات الديناميكية في Pulse Propagation Time، وكيف أنها تعكس صلابة الأوعية الدموية خلال أحداث التنفس في مرضى انقطاع النفس النومي. استخدم الباحثون بيانات تخطيط النوم من 87 مريض، وأظهرت النتائج أن PPT يعد مؤشر مستقل لتواجد التنبه القشري. يمكن أن تساعد هذه النتائج في تطوير أدوات جديدة لتقييم الضغط الوعائي، وتقديم تدخلات جديدة لتحسين النتائج القلبية. إن هذه النتائج لها أهمية سريرية كبيرة، مما يجعلها موضوعًا جديرًا بمناقشته في نادي الأبحاث.",
+      "audio_script_en": "This study addresses dynamic changes in Pulse Propagation Time and how it reflects vascular stiffness during respiratory events in patients with obstructive sleep apnea. Researchers used polysomnography data from 87 patients, revealing that PPT is an independent predictor of cortical arousal presence. These findings could assist in developing new tools for assessing vascular stress and provide new interventions to improve cardiovascular outcomes. The clinical significance of these results makes it a worthy topic for discussion in a journal club.",
+      "mcq": [
+        {
+          "q_ar": "ما هو PPT المشتق من PPG؟",
+          "q_en": "What is PPT derived from PPG?",
+          "options_ar": [
+            "أ) مؤشر مرونة الشرايين",
+            "ب) مقياس ضغط الدم",
+            "ج) زمن انتشار النبض",
+            "د) معدل النبض"
+          ],
+          "options_en": [
+            "A) Arterial elasticity index",
+            "B) Blood pressure measure",
+            "C) Pulse propagation time",
+            "D) Heart rate"
+          ],
+          "answer": 2,
+          "explanation_ar": "PPT يشير إلى زمن انتشار النبض، وهو معيار يعكس صلابة الأوعية.",
+          "explanation_en": "PPT refers to pulse propagation time, a metric reflecting vascular stiffness."
+        },
+        {
+          "q_ar": "كيف يؤثر التنبه القشري على PPT؟",
+          "q_en": "How does cortical arousal affect PPT?",
+          "options_ar": [
+            "أ) يزيد PPT",
+            "ب) يقلل PPT",
+            "ج) لا يؤثر على PPT",
+            "د) يزيد ضغط الدم"
+          ],
+          "options_en": [
+            "A) Increases PPT",
+            "B) Decreases PPT",
+            "C) Has no effect on PPT",
+            "D) Increases blood pressure"
+          ],
+          "answer": 1,
+          "explanation_ar": "التنبه القشري يؤدي إلى تقليل PPT، مما يدل على صلابة الأوعية.",
+          "explanation_en": "Cortical arousal leads to decreased PPT, indicating vascular stiffness."
+        },
+        {
+          "q_ar": "ما هي الأهمية السريرية لـ PPT في مرضى انقطاع النفس النومي؟",
+          "q_en": "What is the clinical significance of PPT in patients with obstructive sleep apnea?",
+          "options_ar": [
+            "أ) لا توجد أهمية",
+            "ب) يؤشر إلى وجود مشاكل قلبية",
+            "ج) يقيس فعالية CPAP",
+            "د) يساعد في تحديد شدة النوم العميق"
+          ],
+          "options_en": [
+            "A) No significance",
+            "B) Indicates cardiac problems",
+            "C) Measures CPAP effectiveness",
+            "D) Helps determine deep sleep severity"
+          ],
+          "answer": 1,
+          "explanation_ar": "PPT يمثل علامة جديدة تستخدم لتقييم الضغط الوعائي في مرضى انقطاع النفس، مما قد يساعد في تحديد مشاكل قلبية محتملة.",
+          "explanation_en": "PPT serves as a new marker used to assess vascular stress in patients with obstructive sleep apnea, which may help identify potential cardiac problems."
+        }
+      ]
+    },
+    {
+      "pmid": "42036522",
+      "title_ar": "Intraoperative auditory monitoring in vestibular schwannoma surgery: Diagnostic accuracy and interventional effectiveness - a systematic review",
+      "title_en": "Intraoperative auditory monitoring in vestibular schwannoma surgery: Diagnostic accuracy and interventional effectiveness - a systematic review",
+      "journal": "Neurosurgical review",
+      "pub_date": "2026-Apr-27",
+      "doi": "10.1007/s10143-026-04293-y",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42036522/",
+      "pdf_url": null,
+      "study_design": "Meta-analysis 12 studies",
+      "summary_ar": "تبحث هذه المراجعة المنهجية دقة التشخيص وفعالية التدخلات المتعلقة بالمراقبة السمعية أثناء العمليات الجراحية لاستئصال الوذمة الدهليزية. تشمل الدراسات المدروسة تقييم الأساليب المختلفة للمراقبة السمعية والتأثيرات على النتائج السريرية. تُظهر النتائج أن المراقبة السمعية قد تحسن من نتائج الجراحة وتقليل المضاعفات السمعية. كما تقدم المراجعة مؤشرات حول كيفية استخدام هذه الطرق في المستقبل. هذه المعلومات مهمة للحد من المخاطر المرتبطة بالجراحة وتحسين نتائج المرضى.",
+      "summary_en": "This systematic review examines the diagnostic accuracy and interventional effectiveness of auditory monitoring during vestibular schwannoma surgery. Included studies evaluate various auditory monitoring techniques and their impact on clinical outcomes. Results indicate that auditory monitoring may improve surgical outcomes and reduce auditory complications. The review provides insights on how to utilize these methods in the future. This information is crucial for minimizing the risks associated with surgery and enhancing patient outcomes.",
+      "practice_change_ar": "قد تقود هذه الدراسة لاعتماد المراقبة السمعية أثناء جراحة استئصال الوذمة الدهليزية.",
+      "practice_change_en": "This study may lead to the adoption of auditory monitoring during vestibular schwannoma surgeries.",
+      "future_impact_ar": "قد تؤدي هذه النتائج إلى تحسين تقنيات المراقبة السمعية في المستقبل.",
+      "future_impact_en": "These findings may advance auditory monitoring techniques in the future.",
+      "why_important_ar": "تُعتبر هذه الدراسة مهمة لأنها تعرض أفضل الممارسات للمراقبة السمعية خلال المهمات الجراحية.",
+      "why_important_en": "This study is important as it presents best practices for auditory monitoring during surgical procedures.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة بتقديم دليل أكثر تنظيماً عن فعالية تقنيات المراقبة السمعية.",
+      "vs_previous_en": "This study differs from previous knowledge by providing a more organized evidence on the effectiveness of auditory monitoring techniques.",
+      "stars": 5,
+      "stars_reason_ar": "مراجعة منهجية (تصميم قوي) مع نتائج تسهم في الممارسات السريرية.",
+      "stars_reason_en": "Systematic review (strong design) with results contributing to clinical practices.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تعتبر المعلومات التي تقدمها هذه الدراسة ذات أهمية كبيرة للممارسين.",
+      "jc_reason_en": "The information provided by this study is highly relevant for practitioners.",
+      "watch": true,
+      "watch_detail_ar": "تتطلب الأساليب الجديدة للمراقبة السمعية متابعة للتأكد من فعاليتها في البيئات السريرية.",
+      "watch_detail_en": "New auditory monitoring methods require tracking to ensure their effectiveness in clinical settings.",
+      "watch_type": "device",
+      "research_gap_ar": "هناك حاجة إلى مزيد من البحث لتحديد أفضل تقنيات المراقبة السمعية في الجراحة.",
+      "research_gap_en": "There is a need for further research to identify the best auditory monitoring techniques in surgery.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "تناقش هذه المراجعة المنهجية دقة التشخيص وفعالية التدخلات للمراقبة السمعية أثناء جراحة الوذمة الدهليزية. تشمل الدراسات التي تم تقييمها أساليب متعددة للمراقبة السمعية وأثرها على النتائج السريرية. أظهرت النتائج كيف يمكن أن تحسن المراقبة السمعية النتائج وتقليل المضاعفات السمعية. يوفر هذا المعلومات اللازمة لتحسين الممارسات الحالية في العمليات الجراحية. قد تؤدي هذه النتائج إلى اعتماد أحدث التقنيات في المستقبل.",
+      "audio_script_en": "This systematic review discusses the diagnostic accuracy and interventional effectiveness of auditory monitoring during vestibular schwannoma surgery. The studies evaluated various auditory monitoring approaches and their impact on clinical outcomes. Results show how auditory monitoring can enhance outcomes and reduce auditory complications. This information is vital for improving current practices in surgical procedures. These findings may lead to the adoption of the latest techniques in the future.",
+      "mcq": [
+        {
+          "q_ar": "ما هو هدف الدراسة الرئيسية لهذه المراجعة المنهجية؟",
+          "q_en": "What is the primary aim of this systematic review?",
+          "options_ar": [
+            "أ) تقييم دقة المراقبة السمعية",
+            "ب) مقارنة تقنيات الجراحة",
+            "ج) دراسة تأثير الأدوية",
+            "د) مراجعة النتائج السابقة"
+          ],
+          "options_en": [
+            "A) Assess the accuracy of auditory monitoring",
+            "B) Compare surgical techniques",
+            "C) Study drug effects",
+            "D) Review previous outcomes"
+          ],
+          "answer": 0,
+          "explanation_ar": "الهدف الرئيسي هو تقييم دقة المراقبة السمعية.",
+          "explanation_en": "The main aim is to assess the accuracy of auditory monitoring."
+        },
+        {
+          "q_ar": "ما هي النتائج الرئيسية لهذه المراجعة؟",
+          "q_en": "What are the main outcomes of this review?",
+          "options_ar": [
+            "أ) تقليل المضاعفات",
+            "ب) زيادة المضاعفات",
+            "ج) عدم وجود تأثير",
+            "د) تحسين نتائج الجراحة"
+          ],
+          "options_en": [
+            "A) Reduced complications",
+            "B) Increased complications",
+            "C) No effect",
+            "D) Improved surgical outcomes"
+          ],
+          "answer": 3,
+          "explanation_ar": "تشير النتائج إلى تحسين نتائج الجراحة وتقليل المضاعفات.",
+          "explanation_en": "Results indicate improved surgical outcomes and reduced complications."
+        },
+        {
+          "q_ar": "لماذا تعتبر هذه الدراسة مهمة؟",
+          "q_en": "Why is this study important?",
+          "options_ar": [
+            "أ) تقدم معلومات عتيقة",
+            "ب) تدعم معرفتنا الحالية",
+            "ج) تقترح ممارسات جديدة",
+            "د) لا تحمل أهمية"
+          ],
+          "options_en": [
+            "A) Provides outdated information",
+            "B) Supports current knowledge",
+            "C) Suggests new practices",
+            "D) Is not important"
+          ],
+          "answer": 2,
+          "explanation_ar": "تقدم الدراسة اقتراحات لممارسات جديدة في المراقبة السمعية.",
+          "explanation_en": "The study offers suggestions for new practices in auditory monitoring."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026042701",
+      "title_ar": "حجم سوق التنظير الأنفي والأذن والحنجرة، الحصة، النمو | معدل نمو سنوي مركب 6.4%",
+      "title_en": "ENT Endoscopy Market Size, Share, Growth | CAGR of 6.4%",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-04-27",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "من المتوقع أن ينمو سوق التنظير الأنفي والأذن والحنجرة بمعدل نمو سنوي مركب قدره 6.4%، مما يشير إلى اتجاه إيجابي في الطلب على الإجراءات التنظيرية في ممارسات الأنف والأذن والحنجرة. مدفوعًا بالتقدم في التكنولوجيا، وزيادة الوعي بالاضطرابات الأنفية والأذن والحنجرة، وارتفاع عدد السكان المسنين الذين يحتاجون إلى مزيد من التدخلات التشخيصية. تشير تقارير Market.us إلى أن هذا النمو سيوسع نطاق الأدوات والتقنيات المتاحة لمهنيي الأنف والأذن والحنجرة.",
+      "summary_en": "The ENT endoscopy market is projected to grow at a CAGR of 6.4%, indicating a positive trend in the demand for endoscopic procedures in ENT practices. This growth is driven by advancements in technology, increasing awareness of ENT disorders, and the rising aging population that requires more diagnostic interventions. Market.us reports that this growth will likely expand the range of tools and technologies available to ENT professionals.",
+      "practice_change_ar": "هذا النمو في سوق التنظير الأنفي والأذن والحنجرة يعني أن جراحي الأنف والأذن والحنجرة قد يحصلون على تقنيات جديدة وممارسات محسّنة.",
+      "practice_change_en": "This growth in the ENT endoscopy market signifies that ENT surgeons may have access to new technologies and improved practices.",
+      "future_impact_ar": "تشير السوق المتطورة للتنظير الأنفي والأذن والحنجرة إلى ابتكارات كبيرة ورعاية محسنة للمرضى في المستقبل.",
+      "future_impact_en": "The evolving market for ENT endoscopy suggests significant innovations and enhanced care for patients in the future.",
+      "why_important_ar": "زيادة توفر أدوات التنظير المتقدمة يمكن أن تعزز دقة التشخيص ونتائج المرضى.",
+      "why_important_en": "Increased availability of advanced endoscopic tools can enhance diagnostic accuracy and patient outcomes.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "النمو المتوقع في السوق يمكن أن يوفر موارد جديدة للجراحين.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "مرحباً بكم في نشرتنا، حيث نستعرض أحدث الأخبار في مجال الأنف والأذن والحنجرة. يشير تقرير جديد إلى أن سوق التنظير للأنف والأذن والحنجرة سيشهد نمواً ملموساً بمعدل نمو سنوي مركب يبلغ 6.4%. يعكس هذا النمو الطلب المتزايد على الإجراءات التنظيرية، وذلك بفضل التقدم في التكنولوجيا وزيادة الوعي بالاضطرابات المختلفة التي تتعلق بمجال الأنف والأذن والحنجرة. يتوقع أن يشهد الجراحون المزيد من الأدوات والتكنولوجيا المحسنة، مما يعزز من دقة تشخيصهم ويقدم رعاية أفضل لمرضاهم.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026042702",
+      "title_ar": "سوق الأجهزة الطبية للأنف والأذن والحنجرة يتجاوز 37580 مليون دولار بحلول عام 2032 مدفوعًا بالعمليات minimally invasive والتطورات التكنولوجية",
+      "title_en": "ENT Devices Market Set to Surpass USD 37580 Million by 2032 Driven by Minimally Invasive Procedures and Technological Advancements",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-04-27",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "من المتوقع أن يتجاوز سوق أجهزة الأنف والأذن والحنجرة 37580 مليون دولار بحلول عام 2032. ويعزى هذا النمو إلى تزايد انتشار اضطرابات الأذن والأنف والحنجرة، بالإضافة إلى التقدم في تقنيات الجراحة القليلة التوغل. ويعكس الاتجاه اعتمادًا أوسع للتقنيات المبتكرة المصممة لتحسين نتائج المرضى وتعزيز كفاءة العمليات في ممارسات الأنف والأذن والحنجرة.",
+      "summary_en": "The ENT devices market is projected to exceed USD 37,580 million by 2032. This growth is attributed to the increasing prevalence of ear, nose, and throat disorders, along with advancements in minimally invasive surgical techniques. The trend reflects a wider adoption of innovative technologies designed to improve patient outcomes and enhance operational efficiency in ENT practices.",
+      "practice_change_ar": "يبرز هذا الاتجاه أهمية دمج التقنيات الجديدة في ممارسات الأنف والأذن والحنجرة للبقاء تنافسيين وتحسين رعاية المرضى.",
+      "practice_change_en": "This trend emphasizes the importance of integrating new technologies into ENT practices to stay competitive and improve patient care.",
+      "future_impact_ar": "من المحتمل أن يعزز الاستثمار المتزايد في تقنيات الأنف والأذن والحنجرة الخيارات الجراحية ونتائج المرضى في السنوات القادمة.",
+      "future_impact_en": "Increasing investment in ENT technologies is likely to enhance surgical options and patient outcomes in the coming years.",
+      "why_important_ar": "يشير نمو سوق أجهزة الأنف والأذن والحنجرة إلى تحول كبير نحو تحسين خيارات العلاج ورعاية المرضى في هذا التخصص.",
+      "why_important_en": "The growth of the ENT devices market indicates a significant shift toward better treatment options and patient care in the specialty.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "النمو المتوقع في السوق يؤثر بشكل مباشر على خيارات العلاج المتاحة والجودة في ممارسة الأنف والأذن والحنجرة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "مرحبًا بكم في أخبار صناعة الأنف والأذن والحنجرة. يشير تقرير جديد إلى أن سوق أجهزة الأنف والأذن والحنجرة من المتوقع أن يتجاوز 37580 مليون دولار بحلول عام 2032. يُعزى هذا النمو إلى تزايد انتشار الاضطرابات في هذا المجال واعتماد تقنيات الجراحةالقليلة التوغل. يعد هذا التطور مهمًا للممارسين حيث يجب عليهم دمج هذه التقنيات الجديدة للحفاظ على التنافسية وتحسين رعاية المرضى. إن الاستثمار المستمر في هذه التكنولوجيا قد يعزز خيارات العلاج وينتج عنه نتائج أفضل للمرضى.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026042703",
+      "title_ar": "حجم سوق أجهزة الأنف والأذن والحنجرة الأمريكية، الحصة | تقرير الصناعة، 2030",
+      "title_en": "U.S. ENT Devices Market Size, Share | Industry Report, 2030",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-04-27",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "تم تحليل سوق أجهزة الأنف والأذن والحنجرة الأمريكية في تقرير صناعة جديد من Grand View Research، والذي يتوقع نموًا كبيرًا بحلول عام 2030. تشمل العوامل التي تسهم في هذا النمو زيادة في الاضطرابات الأنفية والأذنية والتطورات التكنولوجية في تطوير الأجهزة. يسلط التقرير الضوء على العديد من القطاعات داخل الصناعة، بما في ذلك الأجهزة التشخيصية والعلاجية. يُشجع أصحاب المصلحة في الصناعة على النظر في تطور مشهد حلول صحة الأنف والأذن والحنجرة.",
+      "summary_en": "The U.S. ENT devices market is analyzed in a new industry report by Grand View Research, projecting significant growth by 2030. Factors contributing to this growth include an increase in ENT disorders and technological advancements in device development. The report highlights various segments within the industry, including diagnostics and therapeutic devices. Stakeholders in the industry are encouraged to consider the evolving landscape of ENT health solutions.",
+      "practice_change_ar": "يقوم هذا التقرير بإبلاغ جراحي الأنف والأذن والحنجرة حول الاتجاهات القادمة والإمكانيات المتزايدة في سوق الأجهزة التي يستخدمونها في الممارسة.",
+      "practice_change_en": "This report informs ENT surgeons of upcoming trends and potential expansion in the market for devices they use in practice.",
+      "future_impact_ar": "يشير النمو المتوقع إلى مستقبل قوي للابتكار في أجهزة الأنف والأذن والحنجرة وتقدم الرعاية الصحية.",
+      "future_impact_en": "The projected growth signifies a robust future for ENT device innovation and healthcare advancements.",
+      "why_important_ar": "يمكن أن يؤدي النمو في سوق أجهزة الأنف والأذن والحنجرة إلى خيارات علاجية أكثر ابتكارًا للمرضى.",
+      "why_important_en": "The growth in the ENT devices market may lead to more innovative treatment options for patients.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "تحليل شامل للسوق وأهميته لجراحي الأنف والأذن والحنجرة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "يسعدني أن أقدم لكم تحليلاً جديدًا حول سوق أجهزة الأنف والأذن والحنجرة في الولايات المتحدة. وفقًا لتقرير صادر عن Grand View Research، من المتوقع أن يشهد السوق نموًا كبيرًا بحلول عام 2030، مدفوعًا بزيادة حالات الاضطرابات الأنفية والأذنية والتقدم التكنولوجي في تطوير الأجهزة. يُبشر هذا النمو بجيل جديد من خيارات العلاج للمرضى، مما سيفيد جراحي الأنف والأذن والحنجرة بشكل كبير.",
+      "mcq": []
+    }
+  ]
+}
