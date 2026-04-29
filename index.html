@@ -14,6 +14,25 @@
   <title>ORL-Bar Daily — ENT Literature Review</title>
   <link rel="stylesheet" href="./css/style.css" />
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👂</text></svg>" />
+  <style>
+    #pwa-install-btn {
+      display: none;
+      align-items: center;
+      gap: 5px;
+      background: #fff;
+      color: #1a3a5c;
+      border: 1.5px solid rgba(255,255,255,0.6);
+      border-radius: 20px;
+      padding: 5px 12px;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      white-space: nowrap;
+      flex-shrink: 0;
+      transition: background 0.2s, color 0.2s;
+    }
+    #pwa-install-btn:hover { background: #1a3a5c; color: #fff; border-color: #fff; }
+  </style>
 </head>
 <body class="lang-en">
 
@@ -58,6 +77,11 @@
           <option value="">—</option>
         </select>
       </div>
+
+      <!-- PWA Install Button -->
+      <button id="pwa-install-btn" aria-label="تثبيت التطبيق على الهاتف">
+        📲 تثبيت
+      </button>
 
     </div>
   </header>
@@ -239,6 +263,26 @@
 if ('serviceWorker' in navigator) {
   navigator.serviceWorker.register('./sw.js');
 }
+
+let _pwaPrompt = null;
+window.addEventListener('beforeinstallprompt', function(e) {
+  e.preventDefault();
+  _pwaPrompt = e;
+  document.getElementById('pwa-install-btn').style.display = 'flex';
+});
+document.getElementById('pwa-install-btn').addEventListener('click', async function() {
+  if (!_pwaPrompt) return;
+  _pwaPrompt.prompt();
+  const result = await _pwaPrompt.userChoice;
+  if (result.outcome === 'accepted') {
+    document.getElementById('pwa-install-btn').style.display = 'none';
+  }
+  _pwaPrompt = null;
+});
+window.addEventListener('appinstalled', function() {
+  document.getElementById('pwa-install-btn').style.display = 'none';
+  _pwaPrompt = null;
+});
 </script>
 </body>
 </html>
