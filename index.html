@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
   <link rel="manifest" href="./manifest.json" />
@@ -284,5 +284,11 @@ window.addEventListener('appinstalled', function() {
   _pwaPrompt = null;
 });
 </script>
+<!-- iOS PWA Install Banner -->
+<div id="ios-install-banner" style="display:none;position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:rgba(26,58,92,0.97);color:#fff;padding:14px 18px;border-radius:16px;font-size:14px;text-align:center;z-index:9999;box-shadow:0 4px 24px rgba(0,0,0,0.35);max-width:92%;align-items:center;gap:10px;direction:rtl;font-family:system-ui,sans-serif;">
+  <span style="font-size:22px;">ðŸ“²</span>
+  <span>Ù„ØªØ«Ø¨ÙŠØª Ø§Ù„ØªØ·Ø¨ÙŠÙ‚:<br>Ø§Ø¶ØºØ· <strong>Share</strong> Ø«Ù… <strong>Add to Home Screen</strong></span>
+  <button onclick="document.getElementById('ios-install-banner').style.display='none'" style="background:rgba(255,255,255,0.2);border:none;color:#fff;font-size:16px;cursor:pointer;padding:4px 8px;border-radius:8px;margin-right:4px;">âœ•</button>
+</div>
 </body>
 </html>
