@@ -1,0 +1,1507 @@
+{
+  "date": "2026-05-03",
+  "generated_at": "2026-05-03T06:09:13Z",
+  "articles": [
+    {
+      "pmid": "41351436",
+      "title_ar": "In-Office Steroid Injections for Idiopathic Subglottic Stenosis: A Systematic Review",
+      "title_en": "In-Office Steroid Injections for Idiopathic Subglottic Stenosis: A Systematic Review",
+      "journal": "The Laryngoscope",
+      "pub_date": "2026-May",
+      "doi": "10.1002/lary.70300",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41351436/",
+      "pdf_url": null,
+      "study_design": "Systematic Review 14 studies",
+      "summary_ar": "الهدف من هذه الدراسة هو تقييم النتائج السريرية المتعلقة بالصوت لعلاج steroid injection (SILSI) في البالغين المصابين بالضيق تحت المزمار idiopathic subglottic stenosis. تم تحديد 383 دراسة منها 14 دراسة تستوفي معايير الإدراج (n = 371). تم استخدام triamcinolone كأكثر وكيل شيوعًا في 10 دراسات. كانت هناك تحسينات ملحوظة في النتائج السريرية الوظيفية والتنفّسية، بما في ذلك فترة الخضوع للجراحة وما يتعلق بتدفق الهواء قصير المدى ومؤشر ضيق التنفس. لم يتم الإبلاغ عن مشاكل كبيرة في الدراسات المشمولة. بناءً على هذه الأدلة، يبدو أن SILSI يمثل علاجًا مساعدًا واعدًا للضيق تحت المزمار.",
+      "summary_en": "This study aims to evaluate clinical and voice-related outcomes of steroid injection (SILSI) in adults with idiopathic subglottic stenosis (iSGS). Out of 383 studies identified, 14 met inclusion criteria (n=371). Triamcinolone was the most commonly used agent in 10 studies. Significant improvements were observed in clinical, respiratory function, and dyspnea index outcomes. No major complications were reported in the included studies. Current evidence suggests SILSI represents a promising adjunctive therapy for iSGS.",
+      "practice_change_ar": "يمكن أن يؤدي استخدام SILSI إلى تحسين النتائج السريرية في إدارة الضيق تحت المزمار.",
+      "practice_change_en": "The use of SILSI may lead to improved clinical outcomes in the management of subglottic stenosis.",
+      "future_impact_ar": "قد تتطلب الدراسات المستقبلية توحيد بروتوكولات العلاج لتحقيق أفضل النتائج.",
+      "future_impact_en": "Future studies may require standardization of treatment protocols to achieve optimal results.",
+      "why_important_ar": "تقدم هذه الدراسة دليلًا مبشرًا للعلاج بالأدوية الستيرويدية لعلاج حالات الضيق تحت المزمار.",
+      "why_important_en": "This study provides promising evidence for steroid treatment in managing subglottic stenosis.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة بتقديم بيانات عن تحسينات متعددة في نتائج المرضى.",
+      "vs_previous_en": "This study differs from prior knowledge by providing data on multiple patient outcome improvements.",
+      "stars": 4,
+      "stars_reason_ar": "مراجعة منهجية لـ 14 دراسة مع نتائج واضحة، مما يجعلها مفيدة.",
+      "stars_reason_en": "Systematic review of 14 studies with clear outcomes, making it valuable.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تقدم الدراسة نظرة جديدة في إدارة الضيق تحت المزمار.",
+      "jc_reason_en": "The study offers new insights into the management of subglottic stenosis.",
+      "watch": true,
+      "watch_detail_ar": "ينبغي مراقبة استخدام SILSI كخيار علاجي جديد للضيق تحت المزمار.",
+      "watch_detail_en": "SILSI should be monitored as a new therapeutic option for subglottic stenosis.",
+      "watch_type": "drug",
+      "research_gap_ar": "تحديد الحاجة إلى بروتوكولات علاج موحدة.",
+      "research_gap_en": "There is a need for standardized treatment protocols.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تناقش هذه الدراسة استخدام حقن الستيرويد في المكتب لعلاج الضيق تحت المزمار. تم تقييم 383 دراسة، ووجد أن 14 منها فقط تستوفي المعايير. استخدام triamcinolone كان شائعًا، مع تحسينات ملحوظة في النتائج السريرية. تم الإبلاغ عن نتائج إيجابية دون مضاعفات كبيرة. هذه الدراسة تمتاز بتقديم أدلة جديدة تدعو للتفكير في استخدامها كعلاج مساعد.",
+      "audio_script_en": "This study discusses the use of in-office steroid injections for treating subglottic stenosis. Out of 383 studies screened, only 14 met inclusion criteria. The use of triamcinolone was common, with significant improvements noted in clinical outcomes. Positive results were reported with no major complications. This study stands out by providing new evidence supporting its use as an adjunctive treatment.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الغرض الرئيسي من الدراسة؟",
+          "q_en": "What is the main purpose of the study?",
+          "options_ar": [
+            "أ) تقييم استخدام الستيرويد في الضيق تحت المزمار",
+            "ب) دراسة تأثير الأدوية على أعراض السعال",
+            "ج) تحليل نتائج الجراحة في مرضى الربو",
+            "د) تقييم فعالية العلاج الطبيعي للضيق تحت المزمار"
+          ],
+          "options_en": [
+            "A) To evaluate steroid use in subglottic stenosis",
+            "B) To study the impact of medication on cough symptoms",
+            "C) To analyze surgical outcomes in asthma patients",
+            "D) To assess the effectiveness of physical therapy for subglottic stenosis"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة تركز على استخدام حقن الستيرويد في إدارة الضيق تحت المزمار.",
+          "explanation_en": "The study focuses on using steroid injections in the management of subglottic stenosis."
+        },
+        {
+          "q_ar": "ما هي المادة الأكثر استخدامًا في الدراسات؟",
+          "q_en": "What is the most commonly used agent in the studies?",
+          "options_ar": [
+            "أ) betamethasone",
+            "ب) triamcinolone",
+            "ج) dexamethasone",
+            "د) hydrocortisone"
+          ],
+          "options_en": [
+            "A) Betamethasone",
+            "B) Triamcinolone",
+            "C) Dexamethasone",
+            "D) Hydrocortisone"
+          ],
+          "answer": 1,
+          "explanation_ar": "triamcinolone كان الوكيل الأكثر شيوعًا في الدراسات.",
+          "explanation_en": "Triamcinolone was the most commonly used agent in the studies."
+        },
+        {
+          "q_ar": "ما هي إحدى النتائج التي أظهرت تحسنًا؟",
+          "q_en": "What is one of the outcomes that showed improvement?",
+          "options_ar": [
+            "أ) ضغط الدم",
+            "ب) تدفق الهواء الأقصى",
+            "ج) معدل التنفس",
+            "د) مستوى الأكسجين في الدم"
+          ],
+          "options_en": [
+            "A) Blood pressure",
+            "B) Peak expiratory flow",
+            "C) Respiratory rate",
+            "D) Blood oxygen level"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت العديد من الدراسات تحسينات في تدفق الهواء الأقصى.",
+          "explanation_en": "Several studies showed improvements in peak expiratory flow."
+        }
+      ]
+    },
+    {
+      "pmid": "42067692",
+      "title_ar": "Preservation rhinoplasty versus conventional structural reduction: a systematic review of aesthetic, functional, and patient-reported outcomes.",
+      "title_en": "Preservation rhinoplasty versus conventional structural reduction: a systematic review of aesthetic, functional, and patient-reported outcomes.",
+      "journal": "Oral and maxillofacial surgery",
+      "pub_date": "2026-May-02",
+      "doi": "10.1007/s10006-026-01565-1",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42067692/",
+      "pdf_url": null,
+      "study_design": "Systematic Review 20 studies",
+      "summary_ar": "تستعرض هذه المراجعة النظامية تقنية جراحة الأنف للحفاظ على السقف الجانبي مع تحقيق الأهداف التجميلية والوظيفية. تم تحليل 20 دراسة مقارنة مع جمع البيانات حول المقاييس الوظيفية والعيوب التجميلية. النتائج أظهرت نتائج جمالية ووظيفية متشابهة بين التقنيتين في فترة تتراوح من 6 إلى 12 شهرًا، وكانت التقارير من المرضى إيجابية. معدلات المضاعفات والتعديلات كانت منخفضة، مما يشير إلى سلامة هذه التقنية.",
+      "summary_en": "This systematic review examines the preservation rhinoplasty technique aimed at maintaining the dorsal roof while achieving aesthetic and functional goals. It analyzed 20 comparative studies, collecting data on functional metrics and aesthetic outcomes. Results showed comparable aesthetic and functional outcomes between the techniques at 6 to 12 months, with positive patient-reported measures. Complication and revision rates were low, indicating the safety of this technique.",
+      "practice_change_ar": "يمكن أن يؤثر هذا المقال على خيارات جراحة الأنف في العيادات.",
+      "practice_change_en": "This article could influence rhinoplasty options in clinics.",
+      "future_impact_ar": "قد تؤدي النتائج إلى المزيد من تطبيق تقنية الحفاظ في الحالات المختارة.",
+      "future_impact_en": "The findings may lead to increased adoption of preservation techniques in selected cases.",
+      "why_important_ar": "يبرز هذا المقال مقارنة مهمة بين التقنيات الجراحية ويمكن أن يسهم في تحسين نتائج المرضى.",
+      "why_important_en": "This article highlights an important comparison between surgical techniques and could improve patient outcomes.",
+      "vs_previous_ar": "يقدم هذا البحث نتائج جديدة تؤكد فعالية تقنية الحفاظ بالمقارنة مع الأساليب التقليدية.",
+      "vs_previous_en": "This research offers new results confirming the effectiveness of preservation techniques compared to traditional methods.",
+      "stars": 4,
+      "stars_reason_ar": "مراجعة نظامية لـ 20 دراسة مما يعطي درجة جيدة ولكن لم تتضمن تجارب عشوائية كبيرة.",
+      "stars_reason_en": "Systematic review of 20 studies giving a good rating but did not include large randomized trials.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Its comprehensive study and comparison between the techniques make it suitable for discussion.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تفتقر الدراسات إلى تقييمات فيزيولوجية موضوعية موحدة.",
+      "research_gap_en": "The studies lack standardized objective physiologic evaluations.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "تناقش هذه المراجعة النظامية مقارنة بين جراحة الأنف التقليدية وجراحة الحفاظ. تم تحليل 20 دراسة وشملت تقييمات للأداء الجمالي والوظيفي. النتائج أظهرت أن نتائج الجراحة الجديدة كانت متشابهة وكذلك رضا المرضى. من الضروري معايير موحدة لتقارير النتائج.",
+      "audio_script_en": "This systematic review discusses the comparison between conventional rhinoplasty and preservation rhinoplasty. It analyzed 20 studies and included assessments of aesthetic and functional outcomes. The results showed that the new surgical outcomes were comparable, as well as patient satisfaction. Standardized reporting of outcomes is essential.",
+      "mcq": [
+        {
+          "q_ar": "ما هي التقنية الرئيسية التي تمت مقارنتها في هذه المراجعة النظامية؟",
+          "q_en": "What is the main technique compared in this systematic review?",
+          "options_ar": [
+            "أ) جراحة الأنف التقليدية",
+            "ب) جراحة تحويل الأنف",
+            "ج) جراحة الحفاظ",
+            "د) جراحة تجميل الوجه"
+          ],
+          "options_en": [
+            "A) Conventional rhinoplasty",
+            "B) Rhinoseptoplasty",
+            "C) Preservation rhinoplasty",
+            "D) Facial cosmetic surgery"
+          ],
+          "answer": 2,
+          "explanation_ar": "تم التركيز على المقارنة بين جراحة الحفظ وجراحة الأنف التقليدية.",
+          "explanation_en": "The focus was on comparing preservation rhinoplasty and conventional rhinoplasty."
+        },
+        {
+          "q_ar": "ما هو الاعتبار المهم لعدد الدراسات المشمولة في المراجعة؟",
+          "q_en": "What is an important consideration for the number of studies included in the review?",
+          "options_ar": [
+            "أ) المصداقية",
+            "ب) المحاسبة",
+            "ج) التوقع",
+            "د) التحليل"
+          ],
+          "options_en": [
+            "A) Credibility",
+            "B) Accountability",
+            "C) Expectation",
+            "D) Analysis"
+          ],
+          "answer": 0,
+          "explanation_ar": "زيادة عدد الدراسات تعزز مصداقية النتائج.",
+          "explanation_en": "An increased number of studies enhances the credibility of the findings."
+        },
+        {
+          "q_ar": "ما الذي تحتاجه الدراسات وفقًا للمراجعة؟",
+          "q_en": "What do the studies need according to the review?",
+          "options_ar": [
+            "أ) تجارب عشوائية",
+            "ب) دراسات حالة",
+            "ج) تقييمات موحدة",
+            "د) تقارير شخصية"
+          ],
+          "options_en": [
+            "A) Randomized trials",
+            "B) Case studies",
+            "C) Standardized evaluations",
+            "D) Personal reports"
+          ],
+          "answer": 2,
+          "explanation_ar": "تقييمات موحدة تعزز الدقة وتقارن النتائج بشكل أفضل.",
+          "explanation_en": "Standardized evaluations enhance accuracy and allow better comparison of results."
+        }
+      ]
+    },
+    {
+      "pmid": "42066363",
+      "title_ar": "Impact of the Neurosurgery Research & Education Foundation skull base course on academic and career outcomes.",
+      "title_en": "Impact of the Neurosurgery Research & Education Foundation skull base course on academic and career outcomes.",
+      "journal": "Journal of neurosurgery",
+      "pub_date": "2026-May-01",
+      "doi": "10.3171/2025.12.JNS251234",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42066363/",
+      "pdf_url": null,
+      "study_design": "Retrospective cohort n=203",
+      "summary_ar": "هذه الدراسة تقيم تأثير دورة قاعدة الجمجمة المقدمة من مؤسسة بحث وتعليم جراحة الأعصاب على نتائج المشاركين الأكاديمية والمهنية. شارك في الدراسة 203 مقيمين في جراحة الأعصاب بين عامي 2010 و2023، حيث تم جمع بيانات حول تقدمهم في الحياة المهنية والإنتاجية الأكاديمية. من بين الخريجين، اختار 54.6% منهم مهنة في جراحة الجمجمة المعقدة. يُظهر البحث أن معظم المشاركين في الدورة يتوجهون إلى الوظائف الأكاديمية ويندرجون في تخصص جراحة قاعدة الجمجمة.",
+      "summary_en": "This study evaluates the impact of the Neurosurgery Research & Education Foundation's skull base course on the academic and career outcomes of participants. A total of 203 neurosurgery residents from 2010 to 2023 were included, with data gathered on their career advancement and academic productivity. Among graduates, 54.6% pursued a career in complex cranial surgery. The findings suggest most attendees of the course go on to academic positions specializing in skull base neurosurgery.",
+      "practice_change_ar": "قد تؤثر الدورة على اختيار المقيمين لمجال جراحة قاعدة الجمجمة.",
+      "practice_change_en": "The course may impact residents' choice to enter the field of skull base surgery.",
+      "future_impact_ar": "يتطلب الأمر المزيد من الدراسات لتقييم التأثير المستمر للدورة على نجاح المشاركين.",
+      "future_impact_en": "Further studies are needed to assess the ongoing impact of the course on participant success.",
+      "why_important_ar": "تظهر الدراسة أهمية التدريب المناسب في تطوير مسيرة شباب جراحي الأعصاب.",
+      "why_important_en": "The study highlights the importance of relevant training in shaping the careers of young neurosurgeons.",
+      "vs_previous_ar": "تؤكد هذه الدراسة الفوائد السابقة للتدريب في تخصص جراحة قاعدة الجمجمة بالمقارنة مع التخصصات الأخرى.",
+      "vs_previous_en": "This study confirms the prior benefits of training in skull base surgery compared to other subspecialties.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة تتميز بتصميمها التراجعي والذي يتضمن عينة كبيرة مما يؤدي إلى نتائج ذات مغزى.",
+      "stars_reason_en": "The study features a retrospective design with a large sample size, leading to meaningful results.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study provides valuable insights into professional education pathways in neurosurgery.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج الدراسات إلى استكشاف تأثيرات الدورة على مدى فترة طويلة بعد التخرج.",
+      "research_gap_en": "Studies need to explore the long-term effects of the course post-graduation.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "تتناول هذه الدراسة تأثير دورة قاعدة الجمجمة المقدمة من مؤسسة بحث وتعليم جراحة الأعصاب على نتائج المشاركين في مجالي التعليم والعمل. منذ عام 2010 وحتى 2023، تم تقييم 203 مقيمين في جراحة الأعصاب. أظهرت النتائج أن 54.6% من الخريجين اتجهوا إلى جراحة الجمجمة المعقدة، مما يعكس النجاح الكبير للدورة في توجيه مساراتهم المهنية. الدراسة تقدم رؤى حول أهمية التدريب المتخصص ومكانته في تطوير مهارات الشباب الجراحي. يجب على البحث المستقبلي تقييم التأثير المستمر للدورة على نجاح المشاركين بعد التخرج.",
+      "audio_script_en": "This study addresses the impact of the Neurosurgery Research & Education Foundation's skull base course on participants' educational and career outcomes. From 2010 to 2023, 203 neurosurgery residents were evaluated. The results showed that 54.6% of graduates pursued complex cranial surgery, reflecting the course's significant success in shaping their career paths. The study offers insights into the importance of specialized training and its role in developing surgical skills for young professionals. Future research should assess the ongoing impact of the course on participant success post-graduation.",
+      "mcq": [
+        {
+          "q_ar": "ما هو تأثير دورة قاعدة الجمجمة على الخريجين وفقًا للدراسة؟",
+          "q_en": "What is the impact of the skull base course on graduates according to the study?",
+          "options_ar": [
+            "أ) تدربوا بشكل أفضل",
+            "ب) زادت معدلات النشر",
+            "ج) اتجهوا إلى وظائف أكاديمية",
+            "د) لم يكن لها تأثير"
+          ],
+          "options_en": [
+            "A) Trained better",
+            "B) Increased publication rates",
+            "C) Pursued academic positions",
+            "D) No impact"
+          ],
+          "answer": 2,
+          "explanation_ar": "أظهرت الدراسة أن معظم الخريجين اتجهوا للعمل الأكاديمي في جراحة قاعدة الجمجمة.",
+          "explanation_en": "The study showed that most graduates pursued academic positions in skull base surgery."
+        },
+        {
+          "q_ar": "ما الفترة الزمنية التي شملتها الدراسة؟",
+          "q_en": "What time frame did the study cover?",
+          "options_ar": [
+            "أ) 2015-2020",
+            "ب) 2010-2023",
+            "ج) 2000-2010",
+            "د) 2020-2023"
+          ],
+          "options_en": [
+            "A) 2015-2020",
+            "B) 2010-2023",
+            "C) 2000-2010",
+            "D) 2020-2023"
+          ],
+          "answer": 1,
+          "explanation_ar": "شملت الدراسة المشاركين من 2010 إلى 2023.",
+          "explanation_en": "The study included participants from 2010 to 2023."
+        },
+        {
+          "q_ar": "ما نسبة الخريجين الذين اتجهوا إلى جراحة الجمجمة المعقدة؟",
+          "q_en": "What percentage of graduates pursued complex cranial surgery?",
+          "options_ar": [
+            "أ) 30.2%",
+            "ب) 54.6%",
+            "ج) 40.0%",
+            "د) 70.5%"
+          ],
+          "options_en": [
+            "A) 30.2%",
+            "B) 54.6%",
+            "C) 40.0%",
+            "D) 70.5%"
+          ],
+          "answer": 1,
+          "explanation_ar": "أشارت الدراسة إلى أن 54.6% من الخريجين اتجهوا إلى هذا التخصص.",
+          "explanation_en": "The study indicated that 54.6% of graduates pursued this specialty."
+        }
+      ]
+    },
+    {
+      "pmid": "42065384",
+      "title_ar": "Septal Redirection Concept: Posterior Anchor-Anterior Rotation (PAAR) Technique for the Correction of Twisted Noses.",
+      "title_en": "Septal Redirection Concept: Posterior Anchor-Anterior Rotation (PAAR) Technique for the Correction of Twisted Noses.",
+      "journal": "The Journal of craniofacial surgery",
+      "pub_date": "2026-May-01",
+      "doi": "10.1097/SCS.0000000000012792",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42065384/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort",
+      "summary_ar": "هذه الدراسة تقدم طريقة PAAR كنهج بيوميكانيكي وتشريحي لتصحيح تشوه الأنف الملتوي. شملت الدراسة 48 مريضًا خضعوا لجراحة تجميل الأنف الأولية لتصحيح تشوه الأنف باستخدام هذا الإجراء. تظهر النتائج أن هذه الطريقة تحقق محاذاة طويلة الأمد من خلال الحفاظ على سلامة الهيكل الداخلي. نتيجة لذلك، تم تحقيق معدل تصحيح مرتفع، مما يجعل هذه الطريقة إضافة مهمة للأدبيات الحالية حول جراحة الأنف. يُعتبر أسلوب PAAR استراتيجية مبتكرة ومؤثرة في معالجة تشوهات الحاجز الأنفي المعقدة.",
+      "summary_en": "This study presents the PAAR method as a biomechanically and anatomically sound approach for correcting twisted nose deformities. The study involved 48 patients undergoing primary rhinoplasty for twisted nose repair utilizing this method. Results show that this technique achieves long-lasting alignment by preserving structural integrity. Consequently, a high correction rate was achieved, making this method a significant addition to current literature on nasal surgery. The PAAR technique is considered an innovative and effective strategy in addressing complex septal abnormalities.",
+      "practice_change_ar": "قد تؤدي طريقة PAAR إلى تحسن في طريقة التعامل مع تشوهات الأنف الملتوي.",
+      "practice_change_en": "The PAAR method may lead to improvements in managing twisted nose deformities.",
+      "future_impact_ar": "يمكن أن تمهد هذه الطريقة الجديدة الطريق لتقنيات جراحية أكثر فعالية.",
+      "future_impact_en": "This new method may pave the way for more effective surgical techniques.",
+      "why_important_ar": "هذا المقال مهم لأنه يعزز الطرق الجراحية المبتكرة في تصحيح تشوهات الأنف.",
+      "why_important_en": "This article is important as it enhances innovative surgical approaches to correct nasal deformities.",
+      "vs_previous_ar": "تختلف هذه الطريقة عن الأساليب التقليدية من خلال التركيز على الزاوية والدعائم الهيكلية.",
+      "vs_previous_en": "This method differs from traditional approaches by focusing on anchoring and structural stability.",
+      "stars": 4,
+      "stars_reason_ar": "تصميم دراسة قائمة ومنهجية جديدة، مما يجعلها تستحق تصنيفا عاليا.",
+      "stars_reason_en": "Prospective study design and a new technique, warranting a high rating.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Relates to a current topic in nasal surgery.",
+      "watch": true,
+      "watch_detail_ar": "يرجى متابعة تأثير طريقة PAAR على تصميم الإجراءات الجراحية والمعايير العلاجية.",
+      "watch_detail_en": "Monitor the impact of the PAAR method on surgical procedure designs and treatment standards.",
+      "watch_type": "technique",
+      "research_gap_ar": "هناك حاجة لمزيد من الدراسات للتحقق من فعالية وديمومة طريقة PAAR.",
+      "research_gap_en": "Further studies are needed to ascertain the effectiveness and durability of the PAAR method.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "في هذا التحليل، نستعرض دراسة حول مفهوم إعادة توجيه الحاجز الأنفي. يتحدث المقال عن طريقة PAAR، وهي أسلوب مبتكر في علاج تشوهات الأنف الملتوي. تم إجراء الدراسة على 48 مريضًا، وأظهرت النتائج أن هذه الطريقة تحقق نتائج طويلة الأمد. أثبتت النتائج أن أسلوب PAAR يعتبر إضافًة مهمة للأدبيات الجراحية. هذه الطريقة قد تغير من كيفية تعامل الأطباء مع هذه الأنواع من التشوهات.",
+      "audio_script_en": "In this analysis, we review a study on the Septal Redirection Concept. The article discusses the PAAR method, an innovative approach to treating twisted nose deformities. The study was conducted on 48 patients, showing that this technique achieves long-lasting results. The findings confirm that the PAAR method is a significant addition to surgical literature. This technique may change how clinicians address such types of deformities.",
+      "mcq": [
+        {
+          "q_ar": "ما هو النهج الرئيسي المستخدم في طريقة PAAR؟",
+          "q_en": "What is the main approach used in the PAAR technique?",
+          "options_ar": [
+            "أ) إعادة توجيه الهيكل",
+            "ب) تثبيت الجدران",
+            "ج) دوران أمامي",
+            "د) إزالة الأنسجة"
+          ],
+          "options_en": [
+            "A) Structural realignment",
+            "B) Wall fixation",
+            "C) Anterior rotation",
+            "D) Tissue removal"
+          ],
+          "answer": 2,
+          "explanation_ar": "تعتمد طريقة PAAR على أعلى استخدام للدوران الأمامي لإصلاح التشوهات.",
+          "explanation_en": "The PAAR method primarily relies on anterior rotation to correct deformities."
+        },
+        {
+          "q_ar": "ما هو العدد الكلي للمرضى المشاركين في الدراسة؟",
+          "q_en": "What is the total number of patients involved in the study?",
+          "options_ar": [
+            "أ) 50",
+            "ب) 48",
+            "ج) 30",
+            "د) 100"
+          ],
+          "options_en": [
+            "A) 50",
+            "B) 48",
+            "C) 30",
+            "D) 100"
+          ],
+          "answer": 1,
+          "explanation_ar": "شارك في الدراسة 48 مريضًا.",
+          "explanation_en": "The study involved 48 patients."
+        },
+        {
+          "q_ar": "ما الذي تعالجه طريقة PAAR بفاعلية؟",
+          "q_en": "What does the PAAR technique effectively address?",
+          "options_ar": [
+            "أ) التهاب الجيوب الأنفية",
+            "ب) تشوهات الحاجز الأنفي",
+            "ج) سرطان الأنف",
+            "د) احتقان الأنف"
+          ],
+          "options_en": [
+            "A) Sinusitis",
+            "B) Septal deformities",
+            "C) Nasal cancer",
+            "D) Nasal congestion"
+          ],
+          "answer": 1,
+          "explanation_ar": "تركز طريقة PAAR على تصحيح تشوهات الحاجز الأنفي.",
+          "explanation_en": "The PAAR method focuses on correcting septal deformities."
+        }
+      ]
+    },
+    {
+      "pmid": "41472361",
+      "title_ar": "Chronic Bacterial and Sicca Laryngitis: A Retrospective Cohort and Systematic Review.",
+      "title_en": "Chronic Bacterial and Sicca Laryngitis: A Retrospective Cohort and Systematic Review.",
+      "journal": "The Annals of otology, rhinology, and laryngology",
+      "pub_date": "2026-May",
+      "doi": "10.1177/00034894251405127",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41472361/",
+      "pdf_url": null,
+      "study_design": "Meta-analysis 14 studies",
+      "summary_ar": "تتناول هذه الدراسة التهاب الحنجرة البكتيري المزمن (CBL) والتهاب الحنجرة الجاف (SL) وصعوبات التمييز بينهما. استندت النتائج إلى مراجعة منهجية وبيانات من دراسة استعادية تضمنت 718 مريضًا. كانت الأعراض الأكثر شيوعًا هي العُسر الصوتي. تم استخدام المضادات الحيوية كاستراتيجية علاجية رئيسية، لكن النتائج كانت متغيرة. الدراسة توضح أهمية إيجاد إرشادات تشخيصية موحدة بسبب التداخل بين الحالتين.",
+      "summary_en": "This study addresses Chronic Bacterial Laryngitis (CBL) and Sicca Laryngitis (SL) and the difficulties in differentiating between them. Results were based on a systematic review and data from a retrospective cohort involving 718 patients. The most common presenting symptom was dysphonia. Antibiotics were the primary treatment strategy, but outcomes varied. The study highlights the need for standardized diagnostic guidelines due to the overlap between the two conditions.",
+      "practice_change_ar": "تسليط الضوء على الحاجة إلى إرشادات تشخيصية موحدة لعلاج التهاب الحنجرة المزمن.",
+      "practice_change_en": "Highlighting the need for standardized diagnostic guidelines for chronic laryngitis management.",
+      "future_impact_ar": "قد تؤدي النتائج إلى تطوير بروتوكولات علاجية أكثر فعالية.",
+      "future_impact_en": "Results may lead to the development of more effective treatment protocols.",
+      "why_important_ar": "تقدم هذه المقالة رؤى جديدة عن التداخل بين التهاب الحنجرة البكتيري والتهاب الحنجرة الجاف.",
+      "why_important_en": "This article provides new insights into the overlap between chronic bacterial laryngitis and sicca laryngitis.",
+      "vs_previous_ar": "تقدم هذه الدراسة مزيدًا من الفهم للتحديات التشخيصية والعلاجية التي لم يتم معالجتها من قبل.",
+      "vs_previous_en": "This study provides further understanding of the diagnostic and therapeutic challenges not previously addressed.",
+      "stars": 4,
+      "stars_reason_ar": "مراجعة منهجية مع 14 دراسة، تقدم معلومات جديدة عن التهاب الحنجرة.",
+      "stars_reason_en": "Systematic review with 14 studies, providing new insights into laryngitis.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study provides insights that could impact clinical practices.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحديد معايير تشخيصية موحدة بين الحالتين.",
+      "research_gap_en": "Establishing standardized diagnostic criteria between the conditions.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تناولنا في هذه المقالة التهاب الحنجرة البكتيري والتهاب الحنجرة الجاف وصعوبات التمييز بينهما. استندت الدراسة على مراجعة منهجية وبيانات من دراسة استعادية شملت أكثر من 700 مريض وأظهرت أن العُسر الصوتي هو العرض الأكثر شيوعًا. يعتبر استخدام المضادات الحيوية الطريقة الرئيسية للعلاج، لكن النتائج تختلف بشكل كبير. المقالة تسلط الضوء على أهمية وجود إرشادات تشخيصية موحدة نظرًا للتداخل بين الحالتين. هذا قد يؤثر على كيفية إدارة هذه الحالات في المستقبل.",
+      "audio_script_en": "In this article, we addressed Chronic Bacterial Laryngitis and Sicca Laryngitis and the difficulties in differentiating between them. The study was based on a systematic review and data from a retrospective cohort involving over 700 patients, showing that dysphonia is the most common presenting symptom. The use of antibiotics is the primary treatment method, but outcomes vary significantly. The article highlights the importance of having standardized diagnostic guidelines due to the overlap between the two conditions. This may influence how these cases are managed in the future.",
+      "mcq": [
+        {
+          "q_ar": "ما هو العرض الأكثر شيوعًا في التهاب الحنجرة البكتيري المزمن؟",
+          "q_en": "What is the most common symptom in chronic bacterial laryngitis?",
+          "options_ar": [
+            "أ) التهاب الجيوب الأنفية",
+            "ب) العُسر الصوتي",
+            "ج) التهاب الأذن",
+            "د) صعوبة البلع"
+          ],
+          "options_en": [
+            "A) Sinusitis",
+            "B) Dysphonia",
+            "C) Ear infection",
+            "D) Dysphagia"
+          ],
+          "answer": 1,
+          "explanation_ar": "وفقًا للدراسة، كان العُسر الصوتي هو الأعرض الأكثر شيوعًا.",
+          "explanation_en": "According to the study, dysphonia was the most common presenting symptom."
+        },
+        {
+          "q_ar": "ما هي نسبة المرضى الذين يحتاجون إلى إعادة العلاج؟",
+          "q_en": "What is the percentage of patients requiring retreatment?",
+          "options_ar": [
+            "أ) 25%",
+            "ب) 48.6%",
+            "ج) 50.2%",
+            "د) 71%"
+          ],
+          "options_en": [
+            "A) 25%",
+            "B) 48.6%",
+            "C) 50.2%",
+            "D) 71%"
+          ],
+          "answer": 2,
+          "explanation_ar": "تشير النتائج إلى أن 50.2% من المرضى بحاجة إلى إعادة العلاج.",
+          "explanation_en": "Results indicate that 50.2% of patients required retreatment."
+        },
+        {
+          "q_ar": "ما العلاقة بين مرض السكري وإعادة العلاج؟",
+          "q_en": "What is the relationship between diabetes and retreatment?",
+          "options_ar": [
+            "أ) لا يوجد علاقة",
+            "ب) زيادة في احتمالية إعادة العلاج",
+            "ج) تقليل احتمالية إعادة العلاج",
+            "د) زيادة في شدة الأعراض"
+          ],
+          "options_en": [
+            "A) No relationship",
+            "B) Increased likelihood of retreatment",
+            "C) Decreased likelihood of retreatment",
+            "D) Increased symptom severity"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتبط مرض السكري بزيادة احتمالية إعادة العلاج.",
+          "explanation_en": "Diabetes was associated with an increased likelihood of retreatment."
+        }
+      ]
+    },
+    {
+      "pmid": "42068123",
+      "title_ar": "Effect of an Enhanced Recovery after Surgery Protocol in Postoperative Pain and Opioid Consumption after Rhinoplasty.",
+      "title_en": "Effect of an Enhanced Recovery after Surgery Protocol in Postoperative Pain and Opioid Consumption after Rhinoplasty.",
+      "journal": "Facial plastic surgery & aesthetic medicine",
+      "pub_date": "2026-May-02",
+      "doi": "10.1177/26893614261443629",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42068123/",
+      "pdf_url": null,
+      "study_design": "Retrospective cohort study",
+      "summary_ar": "دراسة مستقبلية قام بها الباحثون لتقييم تأثير بروتوكول التعافي المحسن بعد الجراحة على الألم والإستهلاك الأفيوني بعد عملية نسج الأنف المفتوح. تم تقسيم المرضى إلى مجموعتين: مجموعة تلقت إدارة ألم تقليدية ومجموعة اتبعت بروتوكول ERAS الموحد. أظهرت النتائج أن معدل الألم كان أقل في المجموعة الثانية، وتناول الأفيون كان متقاربًا بين المجموعتين. هذه الدراسة تساهم في تعزيز استخدام بروتوكول ERAS في عمليات التجميل للأنف.",
+      "summary_en": "This study evaluates the impact of an Enhanced Recovery After Surgery (ERAS) protocol on pain and opioid consumption after open septorhinoplasty. Patients were divided into two cohorts: one receiving traditional pain management and the other following a standardized ERAS pathway. Results indicated that pain scores were lower in the ERAS group, with opioid consumption levels being comparable between groups. This study promotes the adoption of ERAS protocols in cosmetic rhinoplasty.",
+      "practice_change_ar": "يمكن اعتبار استخدام بروتوكولات ERAS في عمليات تجميل الأنف الآن خيارًا أفضل.",
+      "practice_change_en": "The use of ERAS protocols in cosmetic rhinoplasty can now be considered a better option.",
+      "future_impact_ar": "يجب على الأبحاث المستقبلية تقييم تأثير بروتوكولات ERAS في أنواع أخرى من الجراحة التجميلية.",
+      "future_impact_en": "Future research should assess the impact of ERAS protocols in other types of cosmetic surgery.",
+      "why_important_ar": "تظهر هذه الدراسة إمكانية تقليل الألم بعد الجراحة مع الحفاظ على استهلاك الأفيون عند استخدام بروتوكولات ERAS.",
+      "why_important_en": "This study demonstrates the potential to reduce postoperative pain while maintaining opioid consumption using ERAS protocols.",
+      "vs_previous_ar": "تختلف هذه الدراسة من الدراسات السابقة من حيث استخدام نهج ERAS في الجراحة التجميلية للأنف.",
+      "vs_previous_en": "This study differs from previous ones by applying an ERAS approach in cosmetic rhinoplasty.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة متسلسلة بأعداد مرضى مناسبة مع نتائج علمية جديدة في إدارتها للألم.",
+      "stars_reason_en": "Cohort study with an adequate patient number and new scientific results in pain management.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study provides new findings in pain management after cosmetic rhinoplasty.",
+      "watch": true,
+      "watch_detail_ar": "راقب نتائج بروتوكولات ERAS في جراحة الأنف وتأثيرها على الألم، حيث تقدم هذه الدراسة رؤى جديدة.",
+      "watch_detail_en": "Monitor the outcomes of ERAS protocols in rhinoplasty and their impact on pain management, as this study provides new insights.",
+      "watch_type": "protocol",
+      "research_gap_ar": "هناك حاجة لمزيد من الأبحاث لتقييم تأثير بروتوكولات ERAS على جراحات تجميلية أخرى.",
+      "research_gap_en": "There is a need for further research to evaluate the impact of ERAS protocols on other cosmetic surgeries.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "تتناول هذه الدراسة تأثير بروتوكول التعافي المحسن بعد الجراحة على الألم واستهلاك الأفيون بعد عملية نسج الأنف المفتوح. تبرز الدراسة أهمية تطبيق بروتوكولات ERAS لتقليل الألم في فترة ما بعد الجراحة. أظهرت النتائج أن مجموعة ERAS قد حققت معدل ألم أقل مع استهلاك أفيون مشابه. هذه النتائج تدعم تحسين إدارة الألم في جراحة تجميل الأنف وتعزز من استخدام بروتوكولات ERAS.",
+      "audio_script_en": "This study addresses the impact of the Enhanced Recovery After Surgery (ERAS) protocol on pain and opioid consumption after open septorhinoplasty. It highlights the significance of applying ERAS protocols to reduce pain in the postoperative period. The findings indicated that the ERAS group achieved a lower pain score while maintaining comparable opioid consumption. These results support improved pain management in cosmetic rhinoplasty and enhance the utilization of ERAS protocols.",
+      "mcq": [
+        {
+          "q_ar": "ما الهدف الأساسي من الدراسة؟",
+          "q_en": "What is the primary objective of the study?",
+          "options_ar": [
+            "أ) مقارنة إدارة الألم",
+            "ب) تقييم معدلات التعافي",
+            "ج) دراسة الفروق الجندرية",
+            "د) مقارنة استهلاك الأفيون"
+          ],
+          "options_en": [
+            "A) Compare pain management",
+            "B) Assess recovery rates",
+            "C) Study gender differences",
+            "D) Compare opioid consumption"
+          ],
+          "answer": 0,
+          "explanation_ar": "تهدف الدراسة إلى مقارنة أساليب إدارة الألم المختلفة بعد جراحة تجميل الأنف.",
+          "explanation_en": "The study aims to compare different pain management methods following cosmetic rhinoplasty."
+        },
+        {
+          "q_ar": "ما هي النتائج الرئيسية للدراسة؟",
+          "q_en": "What are the main results of the study?",
+          "options_ar": [
+            "أ) معدلات الألم أقل في مجموعة ERAS",
+            "ب) استهلاك الأفيون أعلى في مجموعة ERAS",
+            "ج) لا فرق بين المجموعتين",
+            "د) دراسة لم تتضمن النتائج"
+          ],
+          "options_en": [
+            "A) Pain scores lower in ERAS group",
+            "B) Opioid consumption higher in ERAS group",
+            "C) No difference between groups",
+            "D) Study did not include results"
+          ],
+          "answer": 0,
+          "explanation_ar": "أظهرت النتائج أن معدلات الألم كانت أقل بكثير في مجموعة ERAS مقارنة بالمجموعة التقليدية.",
+          "explanation_en": "Results showed that pain scores were significantly lower in the ERAS group compared to the traditional cohort."
+        },
+        {
+          "q_ar": "ما هو نوع الدراسة المذكورة؟",
+          "q_en": "What type of study is mentioned?",
+          "options_ar": [
+            "أ) دراسة تجريبية",
+            "ب) دراسة مستعرضة",
+            "ج) دراسة متسلسلة",
+            "د) دراسة حالة"
+          ],
+          "options_en": [
+            "A) Experimental study",
+            "B) Cross-sectional study",
+            "C) Cohort study",
+            "D) Case study"
+          ],
+          "answer": 2,
+          "explanation_ar": "تعتبر هذه الدراسة دراسة متسلسلة لأنها تقارن بين مجموعتين من المرضى.",
+          "explanation_en": "This study is a cohort study as it compares two groups of patients."
+        }
+      ]
+    },
+    {
+      "pmid": "42003990",
+      "title_ar": "Local dexamethasone and magnesium sulfate for postoperative pain management in septorhinoplasty: A clinical evaluation.",
+      "title_en": "Local dexamethasone and magnesium sulfate for postoperative pain management in septorhinoplasty: A clinical evaluation.",
+      "journal": "JPRAS open",
+      "pub_date": "2026-May",
+      "doi": "10.1016/j.jpra.2026.03.008",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42003990/",
+      "pdf_url": "https://www.jprasopen.com/article/S2352-5878(26)00104-X/pdf",
+      "study_design": "RCT n=60",
+      "summary_ar": "تشير النتائج إلى أن استخدام مزيج من magnesium sulfate و dexamethasone له تأثير إيجابي في تقليل ألم ما بعد العملية بعد إجراء septorhinoplasty. تمت مقارنة مجموعة العلاج مع مجموعة التحكم التي تلقت محلول ملحي عادي. أظهر البحث تحسناً ملحوظاً في استقرار ضغط الدم ومتوسط معدل ضربات القلب في المجموعة التي تلقت الدواء. لم يتم تسجيل أي آثار جانبية خلال العملية أو فترة الاستشفاء. يعتبر هذا البحث مهماً لتحسين إدارة الألم في العمليات التجميلية الأنفية.",
+      "summary_en": "The results indicate that the use of a combination of magnesium sulfate and dexamethasone has a positive effect on reducing postoperative pain after septorhinoplasty. The treatment group was compared to a control group that received normal saline. The study showed significant improvements in hemodynamic stability, including blood pressure and heart rate, in the group receiving the medication. No adverse effects were recorded during the surgery or recovery period. This research is significant for improving pain management in cosmetic nasal surgeries.",
+      "practice_change_ar": "يمكن أن يؤدي استخدام magnesium sulfate مع dexamethasone إلى تحسين إدارة الألم بعد جراحة septorhinoplasty.",
+      "practice_change_en": "The use of magnesium sulfate with dexamethasone could enhance pain management after septorhinoplasty.",
+      "future_impact_ar": "يمكن أن يقدم هذا البحث معلومات قيمة للبحث في استراتيجيات جديدة لإدارة الألم بعد عمليات الأنف.",
+      "future_impact_en": "This research may provide valuable insights for exploring new pain management strategies following nasal surgeries.",
+      "why_important_ar": "هذا البحث يقدم دليلاً على فعالية استخدام أدوية معينة لتخفيف الألم بعد جراحة septorhinoplasty.",
+      "why_important_en": "This study provides evidence for the effectiveness of specific medications in alleviating pain after septorhinoplasty.",
+      "vs_previous_ar": "هذا البحث يختلف عن المعرفة السابقة من خلال تقديم نتائج إيجابية حول أدوية جديدة في إدارة الألم بعد الجراحة.",
+      "vs_previous_en": "This research differs from previous knowledge by providing positive outcomes regarding new medications in pain management post-surgery.",
+      "stars": 5,
+      "stars_reason_ar": "تصميم البحث RCT مع نتائج جديدة حول الأدوية المستخدمة في إدارة الألم.",
+      "stars_reason_en": "RCT design with new results regarding medications used for pain management.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "يوفر معلومات جديدة حول إدارة الألم في جراحة septorhinoplasty.",
+      "jc_reason_en": "Provides new insights into pain management in septorhinoplasty surgery.",
+      "watch": true,
+      "watch_detail_ar": "ينبغي متابعة استخدام magnesium sulfate مع dexamethasone في إدارة الألم خلال العمليات الجراحية.",
+      "watch_detail_en": "The use of magnesium sulfate with dexamethasone for pain management in surgical procedures should be monitored.",
+      "watch_type": "drug",
+      "research_gap_ar": "هناك حاجة إلى مزيد من الأبحاث حول استخدام الأدوية في إدارة الألم بعد العمليات الجراحية.",
+      "research_gap_en": "There is a need for further research on the use of medications in pain management after surgical procedures.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "يتناول هذا المقال دراسة حول استخدام magnesium sulfate و dexamethasone في الحد من الألم بعد عملية septorhinoplasty. تم إجراء دراسة رعاية عشوائية شملت 60 مريضًا، وتمت مقارنة مجموعة العلاج بمجموعة التحكم. أظهرت النتائج تحسنًا ملحوظًا في استقرار الحالة الصحية للمريض، مع عدم وجود آثار جانبية. يعتبر هذا البحث مهمًا لأنه يقدم أدلة جديدة لتحسين إدارة الألم في هذه الجراحة التجميلية، ويجب متابعة هذا الاستخدام في المستقبل.",
+      "audio_script_en": "This article discusses a study on the use of magnesium sulfate and dexamethasone in reducing pain after septorhinoplasty. A double-blind randomized controlled trial was conducted involving 60 patients, comparing the treatment group with a control group. The results showed significant improvements in the patients' health stability, with no adverse effects observed. This research is important as it provides new evidence to improve pain management in this cosmetic surgery, and this use should be monitored in the future.",
+      "mcq": [
+        {
+          "q_ar": "ما هو التصميم البحثي المستخدم في الدراسة؟",
+          "q_en": "What is the study design used in the research?",
+          "options_ar": [
+            "أ) دراسة حالة",
+            "ب) دراسة استعادية",
+            "ج) تجربة سريرية عشوائية",
+            "د) مراجعة منهجية"
+          ],
+          "options_en": [
+            "A) Case study",
+            "B) Retrospective study",
+            "C) Randomized clinical trial",
+            "D) Systematic review"
+          ],
+          "answer": 2,
+          "explanation_ar": "التصميم هو تجربة سريرية عشوائية، مما يوفر مستوى عالٍ من القوة في النتائج.",
+          "explanation_en": "The design is a randomized clinical trial, providing a high level of strength in results."
+        },
+        {
+          "q_ar": "ما هو الدواء الذي تم استخدامه مع dexamethasone في الدراسة؟",
+          "q_en": "Which medication was used alongside dexamethasone in the study?",
+          "options_ar": [
+            "أ) Ibuprofen",
+            "ب) Magnesium sulfate",
+            "ج) Aspirin",
+            "د) Acetaminophen"
+          ],
+          "options_en": [
+            "A) Ibuprofen",
+            "B) Magnesium sulfate",
+            "C) Aspirin",
+            "D) Acetaminophen"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم استخدام magnesium sulfate كدواء مساعد لتقليل الألم بعد الجراحة.",
+          "explanation_en": "Magnesium sulfate was used as an adjunct medication to reduce pain post-surgery."
+        },
+        {
+          "q_ar": "ما هي المجموعة التي تلقت الحل الملحي في الدراسة؟",
+          "q_en": "Which group received the saline solution in the study?",
+          "options_ar": [
+            "أ) مجموعة العلاج",
+            "ب) مجموعة التحكم",
+            "ج) المجموعة العمرية",
+            "د) مجموعة الدراسة"
+          ],
+          "options_en": [
+            "A) Treatment group",
+            "B) Control group",
+            "C) Age group",
+            "D) Study group"
+          ],
+          "answer": 1,
+          "explanation_ar": "مجموعة التحكم تلقت محلول ملحي كبديل للعلاج.",
+          "explanation_en": "The control group received saline solution as a substitute for treatment."
+        }
+      ]
+    },
+    {
+      "pmid": "42065386",
+      "title_ar": "Simplifying Costal Cartilage Harvesting in Rhinoplasty With the Gigli Saw Technique.",
+      "title_en": "Simplifying Costal Cartilage Harvesting in Rhinoplasty With the Gigli Saw Technique.",
+      "journal": "The Journal of craniofacial surgery",
+      "pub_date": "2026-May-01",
+      "doi": "10.1097/SCS.0000000000012798",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42065386/",
+      "pdf_url": null,
+      "study_design": "Clinical study n=20",
+      "summary_ar": "تتناول هذه الدراسة تقنية Gigli Saw لجمع الغضروف الضلعي أثناء عملية تجميل الأنف. يُعتبر الغضروف الضلعي خيارًا شائعًا بسبب متانته وتوفره. تم الإشارة إلى التحديات المتعلقة بجمع هذا النوع من الغضاريف مثل الألم والعدوى. استخدمت هذه الدراسة تقنية قطعت الغضروف بدقة مع تقليل المخاطر المحتملة مثل pneumothorax. النتائج أظهرت نجاحات ملحوظة مع قلة المضاعفات وتحسين رضا المرضى.",
+      "summary_en": "This study addresses the Gigli Saw technique for harvesting costal cartilage during rhinoplasty. Costal cartilage is a popular choice due to its durability and availability. Challenges associated with harvesting include pain and infection. This study utilized a technique that allows for precise cartilage cutting while reducing potential risks such as pneumothorax. Results showed notable successes with fewer complications and improved patient satisfaction.",
+      "practice_change_ar": "يمكن للأطباء استخدام تقنية Gigli Saw بشكل أكثر أمانًا وفعالية لجمع الغضاريف الضلعية.",
+      "practice_change_en": "Clinicians can adopt the Gigli Saw technique for safer and more effective harvesting of costal cartilage.",
+      "future_impact_ar": "التقنية قد تؤثر على كيفية إجراء عمليات تجميل الأنف في المستقبل.",
+      "future_impact_en": "The technique may influence future practices in rhinoplasty.",
+      "why_important_ar": "تعد هذه المقالة مهمة لفهم طريقة جديدة لجمع الغضروف الضلعي مع تقليل المخاطر.",
+      "why_important_en": "This article is important for understanding a new way to harvest costal cartilage with reduced risks.",
+      "vs_previous_ar": "تختلف هذه التقنية عن الأساليب التقليدية التي تحمل مخاطر أكبر.",
+      "vs_previous_en": "This technique differs from traditional methods that carry higher risks.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة سريرية n=20 مع تقنية جديدة توفر فوائد ملحوظة.",
+      "stars_reason_en": "Clinical study n=20 with a new technique that offers notable benefits.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This article presents a new and useful technique for cartilage harvesting in nasal surgery.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة تقنية Gigli Saw لأنها قد تغير كيفية جمع الغضاريف الضلعية.",
+      "watch_detail_en": "The Gigli Saw technique should be monitored as it may change how costal cartilage is harvested.",
+      "watch_type": "instrument",
+      "research_gap_ar": "هناك حاجة لدراسات أكبر لتقييم فعالية هذه التقنية على نطاق أوسع.",
+      "research_gap_en": "There is a need for larger studies to assess the effectiveness of this technique on a broader scale.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "تتناول المقالة تقنية Gigli Saw لجمع الغضروف الضلعي في عمليات تجميل الأنف. تُعتبر هذه الطريقة مفيدة لتقليل المخاطر مثل pneumothorax. أظهرت الدراسة نتائج جيدة مع عدم وجود مضاعفات كبيرة. ويمكن للمتخصصين استخدام هذه التقنية لجمع الغضاريف بكفاءة وسهولة. من المهم أن تتابعوا هذه التقنية لأنها قد تغير مجال جراحة الأنف.",
+      "audio_script_en": "The article discusses the Gigli Saw technique for harvesting costal cartilage in rhinoplasty. This method is beneficial in reducing risks such as pneumothorax. The study showed good results with minimal complications. Clinicians can utilize this technique for efficient and straightforward cartilage harvesting. It is important to monitor this technique as it may change the field of rhinoplasty.",
+      "mcq": [
+        {
+          "q_ar": "ما هي التقنية المستخدمة لجمع الغضروف الضلعي في الدراسة؟",
+          "q_en": "What technique is used for harvesting costal cartilage in the study?",
+          "options_ar": [
+            "أ) Gigli Saw",
+            "ب) Traditional method",
+            "ج) Ultrasound",
+            "د) Laser"
+          ],
+          "options_en": [
+            "A) Gigli Saw",
+            "B) Traditional method",
+            "C) Ultrasound",
+            "D) Laser"
+          ],
+          "answer": 0,
+          "explanation_ar": "تم استخدام تقنية Gigli Saw لجمع الغضروف الضلعي.",
+          "explanation_en": "The Gigli Saw technique was used for harvesting costal cartilage."
+        },
+        {
+          "q_ar": "ما هي الفائدة الرئيسية لتقنية Gigli Saw؟",
+          "q_en": "What is the main benefit of the Gigli Saw technique?",
+          "options_ar": [
+            "أ) تقليل الألم",
+            "ب) تحقيق دقة أكبر",
+            "ج) زيادة وقت الجراحة",
+            "د) زيادة مخاطر المضاعفات"
+          ],
+          "options_en": [
+            "A) Reduce pain",
+            "B) Achieve greater precision",
+            "C) Increase surgery time",
+            "D) Increase complication risks"
+          ],
+          "answer": 1,
+          "explanation_ar": "تسمح تقنية Gigli Saw بتحقيق دقة أكبر في جمع الغضاريف.",
+          "explanation_en": "The Gigli Saw technique allows for greater precision in cartilage harvesting."
+        },
+        {
+          "q_ar": "ما هو الخطر المخفض باستخدام تقنية Gigli Saw؟",
+          "q_en": "What risk is reduced using the Gigli Saw technique?",
+          "options_ar": [
+            "أ) الإصابة",
+            "ب) pneumothorax",
+            "ج) النزيف",
+            "د) العدوى"
+          ],
+          "options_en": [
+            "A) Infection",
+            "B) Pneumothorax",
+            "C) Bleeding",
+            "D) Contamination"
+          ],
+          "answer": 1,
+          "explanation_ar": "تقلل تقنية Gigli Saw من خطر pneumothorax.",
+          "explanation_en": "The Gigli Saw technique reduces the risk of pneumothorax."
+        }
+      ]
+    },
+    {
+      "pmid": "42051151",
+      "title_ar": "RNA binding protein ZFP36L1 promotes ferroptosis in chronic rhinosinusitis by destabilizing CAMK2A mRNA and impairing mitochondrial quality control.",
+      "title_en": "RNA binding protein ZFP36L1 promotes ferroptosis in chronic rhinosinusitis by destabilizing CAMK2A mRNA and impairing mitochondrial quality control.",
+      "journal": "Clinical and translational medicine",
+      "pub_date": "2026-May",
+      "doi": "10.1002/ctm2.70661",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42051151/",
+      "pdf_url": "https://doi.org/10.1002/ctm2.70661",
+      "study_design": "In vivo study with integrated bioinformatics analysis",
+      "summary_ar": "تُظهر هذه الدراسة أن البروتين المرتبط بـ RNA ZFP36L1 يلعب دورًا رئيسيًا في التسبب بتدهور الصحة في التهاب الجيوب الأنفية المزمن (CRS). يتداخل البروتين ZFP36L1 مع mRNA الخاص بـ CAMK2A، مما يؤدي إلى انهيار مستويات هذا الحمض النووي الريبي. في نماذج CRS الحية، أدت إزالة البروتين ZFP36L1 إلى تحسين جودة الميتوكندريا وتقليل علامات تلف الخلايا. تؤكد النتائج السريرية أن مستويات ZFP36L1 تتناسب عكسيًا مع مستويات CAMK2A، مما يشير إلى إمكانية استخدام هذه الآلية كهدف علاجي في إدارة CRS.",
+      "summary_en": "This study demonstrates that the RNA-binding protein ZFP36L1 plays a crucial role in the pathogenesis of chronic rhinosinusitis (CRS). ZFP36L1 interacts with CAMK2A mRNA, leading to a reduction in the levels of this mRNA. In vivo CRS models showed that ZFP36L1 knockout improved mitochondrial quality and reduced cell death markers. Clinical results confirm that ZFP36L1 levels are inversely correlated with CAMK2A levels, suggesting the potential for utilizing this mechanism as a therapeutic target in CRS management.",
+      "practice_change_ar": "يمكن أن تؤدي هذه النتائج إلى استراتيجيات علاجية جديدة في إدارة التهاب الجيوب الأنفية المزمن.",
+      "practice_change_en": "These findings could lead to new therapeutic strategies in the management of chronic rhinosinusitis.",
+      "future_impact_ar": "توفير نقاط انطلاق بحثية لتطوير علاجات جديدة تستهدف ZFP36L1 و CAMK2A.",
+      "future_impact_en": "Provides a research starting point for developing new therapies targeting ZFP36L1 and CAMK2A.",
+      "why_important_ar": "هذه الدراسة تقدم رؤى ميكانيكية جديدة لفهم تطور التهاب الجيوب الأنفية المزمن.",
+      "why_important_en": "This study provides new mechanistic insights into the progression of chronic rhinosinusitis.",
+      "vs_previous_ar": "هذه الدراسة تحدد آلية جديدة محتملة للمشاركة في التهاب الجيوب الأنفية المزمن تختلف عن المعرفة السابقة.",
+      "vs_previous_en": "This study identifies a potential new mechanism involved in chronic rhinosinusitis, differing from prior knowledge.",
+      "stars": 5,
+      "stars_reason_ar": "دراسة حيوية ذات تصميم قوي وقاموا بتحليل البيانات بطرق متكاملة، مما يعطي نتائج هامة.",
+      "stars_reason_en": "A strong experimental study design with comprehensive data analysis yielding significant results.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تقديم رؤى جديدة قد تساعد في تحسين الإدارة السريرية لالتهاب الجيوب الأنفية المزمن.",
+      "jc_reason_en": "Provides new insights that could aid in the clinical management of chronic rhinosinusitis.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة استخدام البحوث المستقبلية لدور ZFP36L1 كهدف علاجي في التهاب الجيوب الأنفية المزمن.",
+      "watch_detail_en": "Future research should be monitored for the role of ZFP36L1 as a therapeutic target in chronic rhinosinusitis.",
+      "watch_type": "drug",
+      "research_gap_ar": "يجب استكشاف آليات أخرى تتعلق بتفاعل البروتينات المرتبطة بـ RNA مع الميتوكندريا في CRS.",
+      "research_gap_en": "Further exploration of additional mechanisms related to RNA-binding protein interactions with mitochondria in CRS is needed.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تعرض هذه الدراسة دور البروتين المرتبط بـ RNA ZFP36L1 في تطور التهاب الجيوب الأنفية المزمن من خلال التأثير على mRNA الخاص بـ CAMK2A. من خلال تحليل بيانات متكامل، تم تحديد ZFP36L1 كهدف رئيسي. أي زوال لهذا البروتين أدى إلى تحسين جودة الميتوكندريا وتقليل علامات تلف الخلايا. النتائج السريرية تعزز تعيين ZFP36L1 كهدف علاجي محتمل. هذه الدراسة تقدم أدوات جديدة قد تساعد في إدارة CRS بشكل أفضل.",
+      "audio_script_en": "This study presents the role of the RNA-binding protein ZFP36L1 in chronic rhinosinusitis progression through its influence on CAMK2A mRNA. Using integrated data analysis, ZFP36L1 was identified as a key target. Its knockout resulted in improved mitochondrial quality and reduced cell death markers. Clinical results support the designation of ZFP36L1 as a potential therapeutic target. This study provides new tools that could aid in better management of CRS.",
+      "mcq": [
+        {
+          "q_ar": "ما هو دور ZFP36L1 في التهاب الجيوب الأنفية المزمن؟",
+          "q_en": "What is the role of ZFP36L1 in chronic rhinosinusitis?",
+          "options_ar": [
+            "أ) يزيد من انهيار CAMK2A mRNA",
+            "ب) يحسن وظيفة الميتوكندريا",
+            "ج) يقلل من علامات تلف الخلايا",
+            "د) لا يؤثر على CRS"
+          ],
+          "options_en": [
+            "A) Increases degradation of CAMK2A mRNA",
+            "B) Improves mitochondrial function",
+            "C) Reduces cell death markers",
+            "D) Has no effect on CRS"
+          ],
+          "answer": 0,
+          "explanation_ar": "تقترح الدراسة أن ZFP36L1 يزيد من انهيار CAMK2A mRNA مما يؤثر على CRS.",
+          "explanation_en": "The study suggests that ZFP36L1 increases degradation of CAMK2A mRNA, impacting CRS."
+        },
+        {
+          "q_ar": "كيف تم تحليل البيانات في الدراسة؟",
+          "q_en": "How was data analyzed in the study?",
+          "options_ar": [
+            "أ) تحليل مفاجئ",
+            "ب) تحليل البيانات المتكاملة",
+            "ج) فقط النتائج السريرية",
+            "د) تحليل حيوي مبتكر"
+          ],
+          "options_en": [
+            "A) Ad hoc analysis",
+            "B) Integrated data analysis",
+            "C) Only clinical results",
+            "D) Novel bioanalysis"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم استخدام تحليل البيانات المتكاملة لتحديد ZFP36L1 كهدف رئيسي في الدراسة.",
+          "explanation_en": "Integrated data analysis was used to identify ZFP36L1 as a key target in the study."
+        },
+        {
+          "q_ar": "ما الذي يؤثر عليه ZFP36L1 وكيف يقدم هذا البحث معلومات جديدة؟",
+          "q_en": "What does ZFP36L1 affect and how does this research provide new insights?",
+          "options_ar": [
+            "أ) يحسن الأنزيمات",
+            "ب) يؤثر على CAMK2A ويوفر آليات جديدة",
+            "ج) يتعلق بالنمط الظاهري فقط",
+            "د) لا يضيف أي مكاسب معرفية"
+          ],
+          "options_en": [
+            "A) Improves enzymes",
+            "B) Affects CAMK2A and provides new mechanisms",
+            "C) Only related to phenotype",
+            "D) Adds no knowledge gains"
+          ],
+          "answer": 1,
+          "explanation_ar": "يؤثر ZFP36L1 على CAMK2A ويوفر تحليلات جديدة لفهم CRS بشكل أفضل.",
+          "explanation_en": "ZFP36L1 affects CAMK2A and provides new analyses for better understanding of CRS."
+        }
+      ]
+    },
+    {
+      "pmid": "41812979",
+      "title_ar": "Emergency medical technician vs. paramedic-placed supraglottic airways for out-of-hospital cardiac arrests.",
+      "title_en": "Emergency medical technician vs. paramedic-placed supraglottic airways for out-of-hospital cardiac arrests.",
+      "journal": "Resuscitation",
+      "pub_date": "2026-May",
+      "doi": "10.1016/j.resuscitation.2026.110998",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41812979/",
+      "pdf_url": "https://www.resuscitationjournal.com/article/S0300-9572(26)00043-2/pdf",
+      "study_design": "Retrospective series n=189307",
+      "summary_ar": "تمت دراسة استخدام supraglottic airways (SGA) من قبل المسعفين (EMTs) مقارنة بممارسي الطب الطارئ (paramedics) في حالات السكتة القلبية خارج المستشفى. شملت الدراسة بيانات من قاعدة بيانات NEMSIS بين عامي 2019 و2023. النتائج أظهرت زيادة في SGAs التي تم وضعها بواسطة EMTs من 20.6% في عام 2019 إلى 23.3% في عام 2023. كما أظهرت النتائج أن نسبة النجاح في المحاولة الأولى كانت أعلى قليلاً بين paramedics مقارنة بEMTs. تشير النتائج إلى تحسن في استخدام EMTs لSGAs بمرور الوقت.",
+      "summary_en": "The study evaluated the use of supraglottic airways (SGAs) by emergency medical technicians (EMTs) compared to paramedics in out-of-hospital cardiac arrests. It utilized data from the NEMSIS database from 2019 to 2023. Results showed an increase in SGAs placed by EMTs from 20.6% in 2019 to 23.3% in 2023. The first-pass success rate was slightly higher among paramedics compared to EMTs. The findings indicate an improvement in EMTs' use of SGAs over time.",
+      "practice_change_ar": "قد تؤدي الزيادة في استخدم EMTs لSGAs إلى تحسين نتائج حالات السكتة القلبية.",
+      "practice_change_en": "The increase in EMTs' use of SGAs may improve outcomes in cardiac arrest cases.",
+      "future_impact_ar": "يمكن أن يؤثر هذا التحسن على التدريب والإجراءات المستقبلية للمسعفين.",
+      "future_impact_en": "This improvement could impact future training and protocols for EMTs.",
+      "why_important_ar": "تعتبر هذه الدراسة مهمة لأنها تسلط الضوء على دور EMTs في إدارة مجاري الهواء في حالات الطوارئ.",
+      "why_important_en": "This study is important as it highlights the role of EMTs in airway management during emergencies.",
+      "vs_previous_ar": "تختلف هذه النتائج عن المعرفة السابقة التي كانت تركز أكثر على paramedics.",
+      "vs_previous_en": "These findings differ from prior knowledge that focused more on paramedics.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة بأثرٍ مرتفع، قائمة على بيانات تاريخية مع n>100 ونتائج جديدة.",
+      "stars_reason_en": "Strong study with high impact, based on historical data with n>100 and new findings.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This study provides new insights into the role of EMTs in cardiac resuscitation.",
+      "watch": true,
+      "watch_detail_ar": "يوصى بمتابعة استخدام SGAs من قبل EMTs وكيفية تأثير ذلك على النتائج.",
+      "watch_detail_en": "It is recommended to follow the use of SGAs by EMTs and how it affects outcomes.",
+      "watch_type": "device",
+      "research_gap_ar": "هناك حاجة لمزيد من البحث لتحديد فعالية SGAs المخصصة لـ EMTs.",
+      "research_gap_en": "There is a need for further research to ascertain the effectiveness of SGAs as used by EMTs.",
+      "subspecialty": "general",
+      "audio_script_ar": "تناولت هذه الدراسة استخدام supraglottic airways من قبل المسعفين بالمقارنة مع paramedics في حالات السكتة القلبية خارج المستشفى. تم تحليل بيانات من NEMSIS بين عامي 2019 و2023. أظهرت النتائج زيادة في استخدام SGAs من قبل EMTs، مما يوحي بتحسن في الممارسات. على الرغم من أن نسبة النجاح في المحاولة الأولى كانت أعلى قليلاً لدى paramedics. هذه النتائج قد تشير إلى الحاجة لتحسين تدريب EMTs فيما يتعلق بإدارة مجاري الهواء.",
+      "audio_script_en": "This study examined the use of supraglottic airways by EMTs compared to paramedics in out-of-hospital cardiac arrests. It analyzed data from NEMSIS between 2019 and 2023. Results showed an increase in the use of SGAs by EMTs, suggesting improvement in practices. Although the first-pass success rate was slightly higher among paramedics. These findings may indicate a need for improved training for EMTs regarding airway management.",
+      "mcq": [
+        {
+          "q_ar": "ما هي نسبة SGAs التي وضعتها EMTs في عام 2023؟",
+          "q_en": "What was the percentage of SGAs placed by EMTs in 2023?",
+          "options_ar": [
+            "أ) 21.7%",
+            "ب) 23.3%",
+            "ج) 20.6%",
+            "د) 19.0%"
+          ],
+          "options_en": [
+            "A) 21.7%",
+            "B) 23.3%",
+            "C) 20.6%",
+            "D) 19.0%"
+          ],
+          "answer": 1,
+          "explanation_ar": "نسبة SGAs التي وضعتها EMTs في عام 2023 كانت 23.3%.",
+          "explanation_en": "The percentage of SGAs placed by EMTs in 2023 was 23.3%."
+        },
+        {
+          "q_ar": "ما هي الزيادة في عدد وكالات EMS التي تستخدم SGAs من قبل EMTs بين 2019 و2023؟",
+          "q_en": "What was the increase in the number of EMS agencies using EMT-placed SGAs between 2019 and 2023?",
+          "options_ar": [
+            "أ) 200",
+            "ب) 861",
+            "ج) 861",
+            "د) 787"
+          ],
+          "options_en": [
+            "A) 200",
+            "B) 861",
+            "C) 861",
+            "D) 787"
+          ],
+          "answer": 1,
+          "explanation_ar": "الزيادة في عدد وكالات EMS كانت من 664 إلى 1525، مما يمثل زيادة قدرها 861 وكالة.",
+          "explanation_en": "The increase in the number of EMS agencies was from 664 to 1525, representing an increase of 861 agencies."
+        },
+        {
+          "q_ar": "كيف كانت نسبة النجاح في المحاولة الأولى بين EMTs وparamedics؟",
+          "q_en": "How did the first-pass success rate compare between EMTs and paramedics?",
+          "options_ar": [
+            "أ) أعلى لـ EMTs",
+            "ب) أعلى لـ paramedics",
+            "ج) متساوية",
+            "د) ليست قابلة للمقارنة"
+          ],
+          "options_en": [
+            "A) Higher for EMTs",
+            "B) Higher for paramedics",
+            "C) Equal",
+            "D) Not comparable"
+          ],
+          "answer": 1,
+          "explanation_ar": "نسبة النجاح في المحاولة الأولى كانت 93.7% لـ EMTs و94.3% لـ paramedics، مما يشير إلى أن paramedics كانت أعلى.",
+          "explanation_en": "The first-pass success rate was 93.7% for EMTs and 94.3% for paramedics, indicating that paramedics had a higher rate."
+        }
+      ]
+    },
+    {
+      "pmid": "41342366",
+      "title_ar": "Elexacaftor-Tezacaftor-Ivacaftor Reduces Revision Sinus Surgery in People With Cystic Fibrosis.",
+      "title_en": "Elexacaftor-Tezacaftor-Ivacaftor Reduces Revision Sinus Surgery in People With Cystic Fibrosis.",
+      "journal": "The Laryngoscope",
+      "pub_date": "2026-May",
+      "doi": "10.1002/lary.70283",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41342366/",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lary.70283",
+      "study_design": "Retrospective series n=56",
+      "summary_ar": "دراسة تمت مراجعة السجلات الطبية لأشخاص مصابين بالتليف الكيسي الذين عولجوا بواسطة elexacaftor-tezacaftor-ivacaftor (ETI). تم تقييم عدد الجراحة الأنفية بالتنظير (ESS) السابقة واللاحقة لـ ETI. أظهرت النتائج أن الحاجة إلى ESS انخفضت بشكل ملحوظ بعد بدء العلاج. في حين أن 98% من المرضى كانوا بحاجة إلى ESS قبل ETI، فإن النسبة انخفضت إلى 21% بعد العلاج. وهذا يشير إلى أن ETI من الممكن أن يحسن نتائج التهاب الأنف المزمن المرتبط بالتليف الكيسي.",
+      "summary_en": "A retrospective chart review assessed patients with cystic fibrosis who were treated with elexacaftor-tezacaftor-ivacaftor (ETI). The study evaluated the number of endoscopic sinus surgeries (ESS) both before and after ETI initiation. Results showed a significant decrease in the need for ESS post-treatment. While 98% of patients required ESS prior to ETI, this reduced to 21% after treatment. This suggests that ETI may improve outcomes in CF-related chronic rhinosinusitis.",
+      "practice_change_ar": "يمكن أن تؤثر هذه النتائج على كيفية علاج المرضى المصابين بالتليف الكيسي.",
+      "practice_change_en": "These findings may influence how clinicians manage patients with cystic fibrosis.",
+      "future_impact_ar": "يمكن أن تسهم هذه الدراسة في تحسين خيارات العلاج ونتائج المرضى في المستقبل.",
+      "future_impact_en": "This study may contribute to enhancing treatment options and patient outcomes in the future.",
+      "why_important_ar": "تظهر هذه الدراسة تأثير ETI في تقليل الحاجة للجراحة الأنفية، مما قد يحسن جودة الحياة للمرضى.",
+      "why_important_en": "This study demonstrates the impact of ETI in reducing the need for sinus surgery, which may improve patient quality of life.",
+      "vs_previous_ar": "تقدم هذه النتائج معلومات جديدة عن تأثير ETI على التهاب الأنف المزمن المرتبط بالتليف الكيسي.",
+      "vs_previous_en": "These results provide new insights into the impact of ETI on chronic rhinosinusitis associated with cystic fibrosis.",
+      "stars": 4,
+      "stars_reason_ar": "تصميم دراسة استعادية مع عدد مرضى أكبر من 50، النتائج جديدة وملموسة.",
+      "stars_reason_en": "Retrospective study design with more than 50 patients, the results are new and significant.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Provides new information regarding the impact of drug therapy in the field of ENT.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة تأثير elexacaftor-tezacaftor-ivacaftor على علاج التليف الكيسي والتهاب الأنف المزمن.",
+      "watch_detail_en": "The impact of elexacaftor-tezacaftor-ivacaftor on cystic fibrosis and chronic rhinosinusitis should be monitored.",
+      "watch_type": "drug",
+      "research_gap_ar": "هناك حاجة لدراسات مستقبلية لتحديد تأثيرات طويلة الأمد لهذا العلاج.",
+      "research_gap_en": "Future studies are needed to determine the long-term effects of this treatment.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تتناول هذه الدراسة تأثير elexacaftor-tezacaftor-ivacaftor على مرضى التليف الكيسي. تم إجراء مراجعة استعادية لـ 56 مريضًا تم علاجهم ووجد أن هناك انخفاضًا كبيرًا في الحاجة للجراحة الأنفية بالتنظير بعد العلاج. 98% من المرضى كانوا بحاجة لـ ESS قبل العلاج انخفضت إلى 21% بعده. تشير النتائج إلى تحسن في النتائج المتعلقة بالإلتهابات المزمنة. هذه الدراسة تؤثر على كيفية إدارة الأطباء للمرضى المصابين بالتليف الكيسي.",
+      "audio_script_en": "This study examines the impact of elexacaftor-tezacaftor-ivacaftor on patients with cystic fibrosis. A retrospective review of 56 patients was conducted, revealing a significant decrease in the need for endoscopic sinus surgeries post-treatment. 98% of patients required ESS before treatment, dropping to 21% afterward. The findings indicate an improvement in chronic inflammation outcomes. This study has implications for how clinicians manage cystic fibrosis patients.",
+      "mcq": [
+        {
+          "q_ar": "ما هو العلاج الذي تمت دراسته في هذه المقالة؟",
+          "q_en": "What treatment was studied in this article?",
+          "options_ar": [
+            "أ) elexacaftor",
+            "ب) ivacaftor",
+            "ج) tezacaftor",
+            "د) elexacaftor-tezacaftor-ivacaftor"
+          ],
+          "options_en": [
+            "A) elexacaftor",
+            "B) ivacaftor",
+            "C) tezacaftor",
+            "D) elexacaftor-tezacaftor-ivacaftor"
+          ],
+          "answer": 3,
+          "explanation_ar": "تمت دراسة تأثير العلاج المشترك elexacaftor-tezacaftor-ivacaftor.",
+          "explanation_en": "The combined treatment of elexacaftor-tezacaftor-ivacaftor was studied."
+        },
+        {
+          "q_ar": "ما هي نسبة المرضى الذين احتاجوا للجراحة الأنفية بالتنظير بعد العلاج؟",
+          "q_en": "What percentage of patients required endoscopic sinus surgery after treatment?",
+          "options_ar": [
+            "أ) 98%",
+            "ب) 55%",
+            "ج) 21%",
+            "د) 37%"
+          ],
+          "options_en": [
+            "A) 98%",
+            "B) 55%",
+            "C) 21%",
+            "D) 37%"
+          ],
+          "answer": 2,
+          "explanation_ar": "انخفضت نسبة المرضى الذين احتاجوا للجراحة إلى 21% بعد العلاج.",
+          "explanation_en": "The percentage of patients requiring surgery dropped to 21% after treatment."
+        },
+        {
+          "q_ar": "ما هو نوع الدراسة التي تم تنفيذها؟",
+          "q_en": "What type of study was conducted?",
+          "options_ar": [
+            "أ) دراسة مستقبلية",
+            "ب) دراسة استعادية",
+            "ج) دراسة عشوائية",
+            "د) مراجعة منهجية"
+          ],
+          "options_en": [
+            "A) Prospective study",
+            "B) Retrospective study",
+            "C) Randomized study",
+            "D) Systematic review"
+          ],
+          "answer": 1,
+          "explanation_ar": "تمت دراسة استعادية لمراجعة سجلات المرضى.",
+          "explanation_en": "A retrospective study was conducted to review patient records."
+        }
+      ]
+    },
+    {
+      "pmid": "41962231",
+      "title_ar": "Changes in Cormack-Lehane View Between First and Second Emergency Department Intubation Attempts.",
+      "title_en": "Changes in Cormack-Lehane View Between First and Second Emergency Department Intubation Attempts.",
+      "journal": "The Journal of emergency medicine",
+      "pub_date": "2026-May",
+      "doi": "10.1016/j.jemermed.2026.02.031",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41962231/",
+      "pdf_url": null,
+      "study_design": "Retrospective cohort study n=640",
+      "summary_ar": "تهدف هذه الدراسة إلى تقدير اتفاقية مشاهد الحنجرة، كما يقاس بواسطة تصنيف Cormack-Lehane، بين المحاولات الأولى والثانية للتنبيب في قسم الطوارئ. تم تضمين 640 حالة تنبيب حيث تختلف المحاولات عن بعضها سواء من حيث المعيد أو الإجراءات. أظهرت النتائج أن النتيجة كانت نفسها في 50% من المحاولات التي قام بها معيدون مختلفون و72% للمعيدين نفسهم. تُظهر الدراسة أهمية الرؤية الجلوتية في التخطيط لعمليات التنبيب.",
+      "summary_en": "This study aims to estimate the agreement of glottic views, as measured by the Cormack-Lehane classification, between first and second intubation attempts in the emergency department. It included 640 intubation cases with varied intubators for attempts. Results showed that the grade was the same in 50% of attempts with different intubators and 72% with the same intubator. The study highlights the importance of the glottic view in planning for intubation attempts.",
+      "practice_change_ar": "هذه الدراسة توضح أهمية مراجعة مشهد الحنجرة بعد المحاولة الأولى لتنظيم المحاولة التالية.",
+      "practice_change_en": "This study highlights the importance of reviewing the glottic view after the first attempt to organize the next attempt.",
+      "future_impact_ar": "قد تؤدي النتائج إلى مزيد من التحسينات في استراتيجيات التنبيب في حالة الطوارئ.",
+      "future_impact_en": "Findings may lead to further improvements in intubation strategies in emergency cases.",
+      "why_important_ar": "تُعتبر هذه الدراسة مهمة لأنها تسلط الضوء على مدى تغير الرؤية الجلوتية بين المحاولات المختلفة مما يؤثر على تخطيط التنبيب.",
+      "why_important_en": "This article is important as it highlights how the glottic view changes between different attempts, affecting intubation planning.",
+      "vs_previous_ar": "تختلف هذه النتائج بمقدار كبير عن المعرفة السابقة التي لم توثق مثل هذه التغيرات.",
+      "vs_previous_en": "These results significantly differ from previous knowledge that did not document such changes.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة تصنيعية مقبولة، نتائجها تقدم معلومات جديدة ومفيدة.",
+      "stars_reason_en": "Acceptable retrospective study; its results provide new and useful information.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study provides new insights into intubation strategies.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "توجد حاجة إلى مزيد من الدراسات لتحديد العوامل التي تؤثر في تغييرات مشهد الحنجرة.",
+      "research_gap_en": "There is a need for more studies to identify factors influencing changes in the glottic view.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تتناول هذه الدراسة التغيرات في مشهد الحنجرة بين المحاولات الأولى والثانية للتنبيب في قسم الطوارئ. تم تضمين 640 حالة، وقُدرت نسبة توافق مشهد الحنجرة بين المحاولتين. النتائج أظهرت أن نظرية Cormack-Lehane كانت متطابقة في 50% من المحاولات عندما كان المعيد مختلفًا، ونسبة أعلى تصل إلى 72% مع نفس المعيد. توضح الدراسة أن الحاجة إلى مراجعة المشهد بعد المحاولة الأولى قد تؤثر على نجاح التنبيب في حالات الطوارئ.",
+      "audio_script_en": "This study addresses the changes in the glottic view between first and second intubation attempts in the emergency department. It included 640 cases, estimating the agreement of the glottic view between attempts. Results showed that the Cormack-Lehane grade was the same in 50% of attempts with different intubators and a higher rate of 72% with the same intubator. The study indicates that the need to review the view after the first attempt may impact the success of intubation in emergency cases.",
+      "mcq": [
+        {
+          "q_ar": "ما الهدف من الدراسة؟",
+          "q_en": "What is the objective of the study?",
+          "options_ar": [
+            "أ) تقدير نسبة توافق مشاهد الحنجرة",
+            "ب) تحسين تقنيات التنبيب",
+            "ج) دراسة الفرق بين المعيدين",
+            "د) تقييم استخدام مرضى مختلفين"
+          ],
+          "options_en": [
+            "A) Estimate the agreement of glottic views",
+            "B) Improve intubation techniques",
+            "C) Study the difference between intubators",
+            "D) Assess the use of different patients"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة تهدف إلى تقدير توافق مشاهد الحنجرة بين المحاولات.",
+          "explanation_en": "The study aims to estimate the agreement of glottic views between attempts."
+        },
+        {
+          "q_ar": "كم عدد الحالات التي تمت دراستها؟",
+          "q_en": "How many cases were studied?",
+          "options_ar": [
+            "أ) 200",
+            "ب) 440",
+            "ج) 640",
+            "د) 100"
+          ],
+          "options_en": [
+            "A) 200",
+            "B) 440",
+            "C) 640",
+            "D) 100"
+          ],
+          "answer": 2,
+          "explanation_ar": "تمت دراسة 640 حالة في هذه الدراسة.",
+          "explanation_en": "A total of 640 cases were studied in this research."
+        },
+        {
+          "q_ar": "ما هو تصنيف Cormack-Lehane؟",
+          "q_en": "What is the Cormack-Lehane classification?",
+          "options_ar": [
+            "أ) نظام لتقييم الحنجرة",
+            "ب) نوع من التخدير",
+            "ج) طريقة جراحية",
+            "د) أداة طبية"
+          ],
+          "options_en": [
+            "A) A system for assessing the larynx",
+            "B) A type of anesthesia",
+            "C) A surgical technique",
+            "D) A medical device"
+          ],
+          "answer": 0,
+          "explanation_ar": "تصنيف Cormack-Lehane هو نظام يستخدم لتقييم الرؤية الجلوتية.",
+          "explanation_en": "The Cormack-Lehane classification is a system used to assess the glottic view."
+        }
+      ]
+    },
+    {
+      "pmid": "42067635",
+      "title_ar": "The fundal cerebrospinal fluid cap in vestibular schwannoma surgery: a predictor of outcome after the retrosigmoid approach.",
+      "title_en": "The fundal cerebrospinal fluid cap in vestibular schwannoma surgery: a predictor of outcome after the retrosigmoid approach.",
+      "journal": "Neurosurgical review",
+      "pub_date": "2026-May-02",
+      "doi": "10.1007/s10143-026-04305-x",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42067635/",
+      "pdf_url": null,
+      "study_design": "Meta-analysis 17 studies",
+      "summary_ar": "تعتبر fundal cerebrospinal fluid cap اكتشافًا إشعاعيًا يرتبط بكيس من السائل الدماغي الشوكي بجوار الأورام السمعية الداخلية. قد تؤدي هذه الخاصية إلى تحسين نتائج الأعصاب الوجهيّة والحفاظ على السمع بعد استئصال الورم. شملت الدراسة التحليلية مراجعة لـ 17 دراسة تضمنت 2370 مريضًا، وتبين أن fundal cap مرتبط بزيادة معدلات نتائج الأعصاب الوجهيّة الجيدة بعد تقنيات retrosigmoid. كما زادت من فرص الاستئصال الكلي والحفاظ على السمع. تعد fundal cap مؤشرًا مهمًا في تقييم المخاطر قبل التدخل الجراحي.",
+      "summary_en": "The fundal cerebrospinal fluid cap is a radiological finding related to a pocket of cerebrospinal fluid adjacent to vestibular schwannomas. Its presence may enhance facial nerve outcomes and hearing preservation after tumor resection. This systematic review included 17 studies with 2370 patients, revealing that a fundal cap is associated with higher rates of good facial nerve outcomes following retrosigmoid techniques. It also increased the likelihood of gross total resection and hearing preservation. The fundal cap is a vital predictor in preoperative risk assessment.",
+      "practice_change_ar": "ينبغي توثيق fundal cap قبل العملية واستخدامه لتوجيه تقييم المخاطر.",
+      "practice_change_en": "The presence of fundal cap should be documented preoperatively and used to guide risk assessment.",
+      "future_impact_ar": "يمكن أن تؤدي النتائج إلى تحسين التقييمات الجراحية لمرضى الأورام السمعية.",
+      "future_impact_en": "The findings may lead to improved surgical assessments for vestibular schwannoma patients.",
+      "why_important_ar": "تعتبر هذه المقالة مهمة لأنها تحدد عوامل التنبؤ الهامة لنتائج الجراحة.",
+      "why_important_en": "This article is important because it identifies critical predictors for surgical outcomes.",
+      "vs_previous_ar": "يختلف هذا البحث عن المعرفة السابقة من خلال تقديم معلومات جديدة عن fundal cap وأهميته في تقنيات معينة.",
+      "vs_previous_en": "This study differs from prior knowledge by providing new insights into the importance of fundal cap in specific surgical techniques.",
+      "stars": 4,
+      "stars_reason_ar": "تحليل شامل لـ 17 دراسة وتشير النتائج إلى تغييرات محتملة في الممارسات السريرية.",
+      "stars_reason_en": "A comprehensive analysis of 17 studies suggesting potential changes in clinical practices.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Provides new insights into predicting surgical outcomes.",
+      "watch": true,
+      "watch_detail_ar": "مراقبة تأثير fundal cap على نتائج الجراحة للأورام السمعية.",
+      "watch_detail_en": "Monitor the impact of fundal cap on surgical outcomes for vestibular schwannomas.",
+      "watch_type": "technology",
+      "research_gap_ar": "الخلفية التشريحية لتأثير fundal cap في تقنيات مختلفة تحتاج إلى مزيد من البحث.",
+      "research_gap_en": "The anatomical implications of fundal cap in different techniques need further investigation.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "تناول هذا المقال الفوائد المحتملة لتواجد fundal cerebrospinal fluid cap في جراحة الأورام السمعية. أشارت مراجعة شاملة لـ 17 دراسة إلى أهمية fundal cap في تحسين نتائج الأعصاب الوجهيّة والحفاظ على السمع بعد استئصال الورم بتقنية retrosigmoid. يمثل هذا اهتمامًا كبيرًا للمتخصصين حيث يمكن أن يوجه ذلك تقييم المخاطر قبل العمليات. بالرغم من أن الأهمية في تقنيات جراحية أخرى مثل middle fossa لازالت غير مؤكدة، إلا أن النتائج تعزز أطر العمل الحالية لتقييم المراكز الصحية.",
+      "audio_script_en": "This article discusses the potential benefits of the presence of fundal cerebrospinal fluid cap in vestibular schwannoma surgery. A comprehensive review of 17 studies highlighted the importance of fundal cap in improving facial nerve outcomes and hearing preservation after tumor resection using the retrosigmoid approach. This holds significant interest for specialists as it can guide risk assessments prior to surgery. Although the relevance in other surgical techniques like middle fossa remains unclear, the findings reinforce current frameworks for health center evaluations.",
+      "mcq": [
+        {
+          "q_ar": "ما هو دور fundal cap في جراحة الأورام السمعية؟",
+          "q_en": "What is the role of fundal cap in vestibular schwannoma surgery?",
+          "options_ar": [
+            "أ) يحسن نتائج الأعصاب الوجهيّة",
+            "ب) لا يؤثر على النتائج",
+            "ج) يزيد من احتمالية حدوث مضاعفات",
+            "د) لا يمكن تحديد دوره"
+          ],
+          "options_en": [
+            "A) Improves facial nerve outcomes",
+            "B) Has no effect on outcomes",
+            "C) Increases complication likelihood",
+            "D) Its role cannot be determined"
+          ],
+          "answer": 0,
+          "explanation_ar": "تشير الدراسة إلى أن fundal cap مرتبط بتحسين نتائج الأعصاب الوجهيّة.",
+          "explanation_en": "The study indicates that fundal cap is associated with improved facial nerve outcomes."
+        },
+        {
+          "q_ar": "ما هو العدد الإجمالي للدراسات التي تمت مراجعتها في المقال؟",
+          "q_en": "What is the total number of studies reviewed in the article?",
+          "options_ar": [
+            "أ) 10",
+            "ب) 15",
+            "ج) 17",
+            "د) 20"
+          ],
+          "options_en": [
+            "A) 10",
+            "B) 15",
+            "C) 17",
+            "D) 20"
+          ],
+          "answer": 2,
+          "explanation_ar": "تمت مراجعة 17 دراسة في تحليل النظام.",
+          "explanation_en": "A total of 17 studies were reviewed in the systematic analysis."
+        },
+        {
+          "q_ar": "ما هي التقنية الجراحية التي تم التركيز عليها في المقال؟",
+          "q_en": "What surgical technique was the focus of the article?",
+          "options_ar": [
+            "أ) middle fossa",
+            "ب) translabyrinthine",
+            "ج) retrosigmoid",
+            "د) endoscopic"
+          ],
+          "options_en": [
+            "A) middle fossa",
+            "B) translabyrinthine",
+            "C) retrosigmoid",
+            "D) endoscopic"
+          ],
+          "answer": 2,
+          "explanation_ar": "ركزت المقالة بشكل أساسي على تقنية retrosigmoid.",
+          "explanation_en": "The article primarily focused on the retrosigmoid technique."
+        }
+      ]
+    },
+    {
+      "pmid": "42068162",
+      "title_ar": "Intraoperative and Postoperative Advantages of two Absorbable Materials for Supporting Graft in Endoscopic Tympanoplasty: Oxidized Regenerated Cellulose (Surgicel®) Over Gelatin Sponge (Spongostan®)",
+      "title_en": "Intraoperative and Postoperative Advantages of two Absorbable Materials for Supporting Graft in Endoscopic Tympanoplasty: Oxidized Regenerated Cellulose (Surgicel®) Over Gelatin Sponge (Spongostan®)",
+      "journal": "The Annals of otology, rhinology, and laryngology",
+      "pub_date": "2026-May-02",
+      "doi": "10.1177/00034894261437476",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42068162/",
+      "pdf_url": null,
+      "study_design": "Retrospective series n=92",
+      "summary_ar": "تمت مقاربة هذا البحث لتقييم مدى فعالية المواد القابلة للامتصاص في دعم الطعوم أثناء جراحة التيمبانو بلستي. تم تحليل بيانات 92 مريضًا خضعوا لجراحة التيمبانو بلستي من النوع الأول بين عامي 2020 و2024. تم تقسيم المرضى إلى مجموعتين، الأولى استخدمت Surgicel® والأخرى Spongostan®. أظهرت النتائج تحسنًا في جودة السيطرة على النزيف وزمن وضع الطعم لصالح مجموعة Surgicel®. كما كانت فرص حدوث التباين الجانبي للطعم أقل بكثير في مجموعة Surgicel® مقارنة بمجموعة Spongostan®.",
+      "summary_en": "This study aimed to evaluate the effectiveness of absorbable materials in supporting grafts during tympanoplasty. Data from 92 patients who underwent type 1 tympanoplasty between 2020 and 2024 were analyzed. Patients were divided into two groups, one using Surgicel® and the other Spongostan®. Results showed improved hemostasis quality and graft placement duration favoring the Surgicel® group. Additionally, the risk of graft lateralization was significantly lower in the Surgicel® group compared to the Spongostan® group.",
+      "practice_change_ar": "يمكن أن يؤدي استخدام Surgicel® بشكل أكبر في جراحة التيمبانو بلستي لتحسين النتائج الجراحية.",
+      "practice_change_en": "Increased use of Surgicel® in tympanoplasty may lead to better surgical outcomes.",
+      "future_impact_ar": "يمكن أن تفتح هذه الدراسة آفاقًا جديدة لتحسين طرق الجراحة في مجالي الأذن.",
+      "future_impact_en": "This study could pave the way for improved surgical techniques in the field of ear surgery.",
+      "why_important_ar": "تستند الدراسة إلى مقارنة فعالية مواد جديدة في دعم الطعوم، مما يسهم في تحسين رعاية المرضى.",
+      "why_important_en": "The study provides a comparison of new materials for graft support, contributing to improved patient care.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة من خلال تقييم مادة جديدة وتأثيرها على الجراحة.",
+      "vs_previous_en": "This study differs from previous knowledge by evaluating a new material and its impact on surgery.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استرجاعية قوية مع عدد كبير من المرضى، مما يعكس تأثيرًا حقيقيًا.",
+      "stars_reason_en": "Strong retrospective study with a large patient number, reflecting a real impact.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study offers new insights into the use of novel materials in ear surgery.",
+      "watch": true,
+      "watch_detail_ar": "من المهم متابعة فعالية Surgicel® في العمليات الجراحية والتفاعل مع النتائج.",
+      "watch_detail_en": "It's important to track the effectiveness of Surgicel® in surgical procedures and its interaction with outcomes.",
+      "watch_type": "device",
+      "research_gap_ar": "هناك حاجة لمزيد من الدراسات المقارنة في هذا المجال لتطوير تقنيات الجراحة.",
+      "research_gap_en": "There is a need for more comparative studies in this area to develop surgical techniques.",
+      "subspecialty": "otology",
+      "audio_script_ar": "نتحدث اليوم عن دراسة مقارنة جديدة في جراحة الأذن. تمت مراجعة بيانات 92 مريضًا خضعوا لجراحة التيمبانو بلستي. تم تقسيم المرضى إلى مجموعتين، مجموعة استخدمت Surgicel® والأخرى Spongostan®. النتائج أظهرت تحسنًا في جودة السيطرة على النزيف وزمن وضع الطعم ومعدل نجاح الطعم خلال فترة 6 و12 شهرًا. على الرغم من أن مجموعة Spongostan® أظهرت نتائج سمعية أفضل بعد 6 أشهر، إلا أن مجموعة Surgicel® كانت أقل عرضة للتباين الجانبي. هذه النتائج تشير إلى أن Surgicel® قد تكون الخيار الأفضل في عمليات جراحة الأذن.",
+      "audio_script_en": "Today we discuss a new comparative study in ear surgery. Data from 92 patients who underwent tympanoplasty was reviewed. Patients were divided into two groups, one using Surgicel® and the other Spongostan®. Results showed improved hemostasis quality, graft placement duration, and graft success rates at 6 and 12 months. Although the Spongostan® group exhibited better hearing results at 6 months, the Surgicel® group had a significantly lower risk of graft lateralization. These results suggest that Surgicel® may be the preferable option in ear surgery.",
+      "mcq": [
+        {
+          "q_ar": "ما هي المادة التي أظهرت نتائج أفضل في السيطرة على النزيف؟",
+          "q_en": "Which material showed better results in hemostasis?",
+          "options_ar": [
+            "أ) Surgicel®",
+            "ب) Spongostan®",
+            "ج) كلاهما",
+            "د) لا شيء"
+          ],
+          "options_en": [
+            "A) Surgicel®",
+            "B) Spongostan®",
+            "C) Both",
+            "D) None"
+          ],
+          "answer": 0,
+          "explanation_ar": "أظهرت مجموعة Surgicel® تحكمًا أفضل في النزيف مقارنة بمجموعة Spongostan®.",
+          "explanation_en": "The Surgicel® group demonstrated better hemostasis compared to the Spongostan® group."
+        },
+        {
+          "q_ar": "متى كانت نتائج السمع مشابهه بين المجموعتين؟",
+          "q_en": "When were hearing outcomes similar between the two groups?",
+          "options_ar": [
+            "أ) 6 أشهر",
+            "ب) 12 شهرًا",
+            "ج) فورًا بعد الجراحة",
+            "د) دائمًا"
+          ],
+          "options_en": [
+            "A) 6 months",
+            "B) 12 months",
+            "C) Immediately after surgery",
+            "D) Always"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت النتائج أن نتائج السمع كانت مشابهة بين المجموعتين بعد 12 شهرًا.",
+          "explanation_en": "Results showed hearing outcomes were similar between groups at 12 months."
+        },
+        {
+          "q_ar": "ما هي المادة التي كان لديها أقل نسبة من التباين الجانبي للطعم؟",
+          "q_en": "Which material had the lowest rate of graft lateralization?",
+          "options_ar": [
+            "أ) Surgicel®",
+            "ب) Spongostan®",
+            "ج) كلاهما",
+            "د) لا يعرف"
+          ],
+          "options_en": [
+            "A) Surgicel®",
+            "B) Spongostan®",
+            "C) Both",
+            "D) Unknown"
+          ],
+          "answer": 0,
+          "explanation_ar": "كانت نسبة التباين الجانبي للطعم أقل بكثير في مجموعة Surgicel®.",
+          "explanation_en": "The rate of graft lateralization was significantly lower in the Surgicel® group."
+        }
+      ]
+    },
+    {
+      "pmid": "42067669",
+      "title_ar": "Fractional CO2 laser treatment of post-surgical nasal scars: a retrospective analysis on 8 patients.",
+      "title_en": "Fractional CO2 laser treatment of post-surgical nasal scars: a retrospective analysis on 8 patients.",
+      "journal": "Lasers in medical science",
+      "pub_date": "2026-May-02",
+      "doi": "10.1007/s10103-026-04827-2",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42067669/",
+      "pdf_url": null,
+      "study_design": "Retrospective case series n=8",
+      "summary_ar": "في هذه الدراسة، تم تحليل تأثير العلاج بالليزر CO₂ الجزئي على الندوب الجراحية في منطقة الأنف بعد استئصال سرطان الخلايا القاعدية وإعادة بناء الشق. شملت الدراسة ثمانية مرضى (ستة رجال وامرأتين، بمتوسط عمر 71 عامًا). تم تقييم النتائج السريرية باستخدام مقياس تقييم الندبات من وجهة نظر المريض والملاحظين، حيث لوحظ تحسن كبير في جودة الندبات بعد العلاج. جميع المرضى عانوا من احمرار وانتفاخ مؤقت بعد العلاج، والذي اختفى خلال أسبوع.",
+      "summary_en": "This study analyzed the effect of fractional CO₂ laser treatment on post-surgical nasal scars after basal cell carcinoma excision and flap reconstruction. It involved eight patients (six males and two females, mean age 71 years). Clinical outcomes were evaluated using the Patient and Observer Scar Assessment Scale, showing significant improvement in scar quality following treatment. All patients experienced transient erythema and edema post-treatment, which resolved within a week.",
+      "practice_change_ar": "يمكن أن يؤدي استخدام الليزر CO₂ الجزئي إلى تحسين نتائج الندبات الجراحية في الأنف.",
+      "practice_change_en": "The use of fractional CO₂ laser may improve surgical scar outcomes in the nasal region.",
+      "future_impact_ar": "قد يساعد هذا العلاج في تحسين أساليب علاج الندبات الجراحية.",
+      "future_impact_en": "This treatment may enhance surgical scar management techniques.",
+      "why_important_ar": "تظهر هذه الدراسة فعالية وسلامة العلاج بالليزر CO₂ الجزئي في تحسين مظهر الندبات.",
+      "why_important_en": "This study demonstrates the efficacy and safety of fractional CO₂ laser treatment in improving scar appearance.",
+      "vs_previous_ar": "هذا العلاج يقدم خيارات جديدة لتحسين مظهر الندبات مقارنة بالتقنيات التقليدية.",
+      "vs_previous_en": "This treatment offers new options for improving scar appearance compared to traditional methods.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة استباقية صغيرة ولكنها توفر معلومات جديدة حول فعالية العلاج.",
+      "stars_reason_en": "A small retrospective study that provides new information on treatment efficacy.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study offers new insights into the treatment of surgical scars.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة تطورات العلاج بالليزر CO₂ الجزئي وتأثيره على الندبات في المستقبل.",
+      "watch_detail_en": "Watch developments in fractional CO₂ laser treatment and its impact on scarring.",
+      "watch_type": "technology",
+      "research_gap_ar": "هناك حاجة لدراسات أكبر لاختبار فعالية العلاج على نطاق واسع.",
+      "research_gap_en": "Larger studies are needed to test the efficacy of this treatment on a broader scale.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "في هذه الدراسة، تم تقييم تأثير العلاج بالليزر CO₂ الجزئي على الندبات الجراحية في منطقة الأنف بعد استئصال سرطان الخلايا القاعدية. شملت الدراسة ثمانية مرضى، حيث لوحظ تحسن كبير في جودة الندبات بعد العلاج. تم استخدام مقياس تقييم الندبات المقدم من المرضى والمراقبين. النتائج تشير إلى أن العلاج كان فعالًا وآمنًا، وتمت معالجة الآثار الجانبية المؤقتة بسرعة. هذا العلاج قد يقدم خيارات جديدة في إدارة الندبات.",
+      "audio_script_en": "This study evaluated the impact of fractional CO₂ laser treatment on post-surgical nasal scars following basal cell carcinoma excision. It involved eight patients, demonstrating significant improvement in scar quality post-treatment. The Patient and Observer Scar Assessment Scale was used, showing effective and safe outcomes with transient side effects resolving quickly. This treatment could provide new options in scar management.",
+      "mcq": [
+        {
+          "q_ar": "ما هو هدف الدراسة؟",
+          "q_en": "What is the goal of the study?",
+          "options_ar": [
+            "أ) تقييم فعالية العلاج بالليزر CO₂ الجزئي",
+            "ب) مقارنة تقنيات الجراحة",
+            "ج) دراسة آثار جانبية جديدة",
+            "د) تحقيق نتائج تاريخية"
+          ],
+          "options_en": [
+            "A) To assess the efficacy of fractional CO₂ laser treatment",
+            "B) To compare surgical techniques",
+            "C) To study new side effects",
+            "D) To achieve historical outcomes"
+          ],
+          "answer": 0,
+          "explanation_ar": "تهدف الدراسة إلى تقييم فعالية العلاج بالليزر CO₂ الجزئي في تحسين الندبات الجراحية.",
+          "explanation_en": "The study aims to assess the efficacy of fractional CO₂ laser treatment in improving surgical scars."
+        },
+        {
+          "q_ar": "ما هو عدد المرضى في الدراسة؟",
+          "q_en": "What is the number of patients in the study?",
+          "options_ar": [
+            "أ) 5",
+            "ب) 8",
+            "ج) 10",
+            "د) 12"
+          ],
+          "options_en": [
+            "A) 5",
+            "B) 8",
+            "C) 10",
+            "D) 12"
+          ],
+          "answer": 1,
+          "explanation_ar": "شملت الدراسة ثمانية مرضى ككل.",
+          "explanation_en": "The study included a total of eight patients."
+        },
+        {
+          "q_ar": "ما هي النتائج الرئيسية للدراسة؟",
+          "q_en": "What are the main outcomes of the study?",
+          "options_ar": [
+            "أ) تحسن كبير في جودة الندبات",
+            "ب) عدم حدوث أي آثار جانبية",
+            "ج) نتائج غير قابلة للتكرار",
+            "د) دليل على فعالية تكنولوجيا جديدة"
+          ],
+          "options_en": [
+            "A) Significant improvement in scar quality",
+            "B) No side effects occurred",
+            "C) Non-reproducible results",
+            "D) Evidence of a new technology's efficacy"
+          ],
+          "answer": 0,
+          "explanation_ar": "لوحظ تحسن كبير في جودة الندبات بعد العلاج بالليزر.",
+          "explanation_en": "Significant improvement in scar quality was observed after laser treatment."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026050301",
+      "title_ar": "حجم سوق أدوات الأنف والأذن والحنجرة في الولايات المتحدة، تقرير الصناعة 2030",
+      "title_en": "U.S. ENT Devices Market Size, Share | Industry Report, 2030",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-05-03",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "تقرير Grand View Research يوضح نمو سوق أدوات الأنف والأذن والحنجرة في الولايات المتحدة، حيث يُقدَّر حدوث زيادة هائلة في الحجم والحصص بحلول عام 2030. يُعزى هذا النمو إلى زيادة حالات اضطرابات الأنف والأذن والحنجرة والتقدم التكنولوجي. يقدم التقرير رؤى حول ديناميكيات السوق، واللاعبين الرئيسيين، والاتجاهات التي تؤثر على الصناعة. يُبرز التقرير الفرص المتاحة للاستثمار والابتكار داخل قطاع أدوات الأنف والأذن والحنجرة.",
+      "summary_en": "The Grand View Research report details the projected growth of the U.S. ENT devices market, estimating significant increases in size and shares by 2030. This growth is attributed to rising incidences of ENT disorders and advancements in technology. The report provides insights into market dynamics, key players, and trends impacting the industry. It highlights opportunities for investment and innovation within the ENT market segment.",
+      "practice_change_ar": "تشير هذا التقرير إلى سوق متنامٍ قد يؤثر على خيارات التوريد والعلاج لجراحي الأنف والأذن والحنجرة.",
+      "practice_change_en": "This report indicates a growing market that may influence procurement and treatment options for ENT surgeons.",
+      "future_impact_ar": "يمكن أن يؤدي النمو المتوقع إلى تقدم في العلاجات والتقنيات لحالات الأنف والأذن والحنجرة.",
+      "future_impact_en": "The anticipated growth could lead to advancements in treatments and technologies for ENT conditions.",
+      "why_important_ar": "تشير زيادة حجم السوق إلى مزيد من الأدوات والموارد المبتكرة لرعاية المرضى.",
+      "why_important_en": "Increased market size suggests more innovative tools and resources for patient care.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "تقرير مهم يساعد الجراحين على فهم الاتجاهات المستقبلية في السوق.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "مرحبًا بكم في أخبار صناعة الأنف والأذن والحنجرة. أصدر تقرير جديد عن سوق أدوات الأنف والأذن والحنجرة في الولايات المتحدة يتوقع نموًا كبيرًا حتى عام 2030. يُعزى هذا النمو إلى زيادة حالات اضطرابات الأنف والأذن والحنجرة والتقدم التكنولوجي. يشير التقرير إلى فرص للاستثمار والابتكار، مما قد يؤثر على خيارات العلاجات المتاحة لجراحي الأنف والأذن والحنجرة.",
+      "mcq": []
+    }
+  ]
+}
