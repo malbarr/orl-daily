@@ -1,0 +1,1961 @@
+{
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T05:53:13Z",
+  "articles": [
+    {
+      "pmid": "42080668",
+      "title_ar": "Airway Management in Neonates and Young Infants: Changes in Clinical Outcomes With Adoption of Routine Video Laryngoscopy in a Single Center Retrospective Cohort.",
+      "title_en": "Airway Management in Neonates and Young Infants: Changes in Clinical Outcomes With Adoption of Routine Video Laryngoscopy in a Single Center Retrospective Cohort.",
+      "journal": "Paediatric anaesthesia",
+      "pub_date": "2026-May-04",
+      "doi": "10.1002/pan.70213",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42080668/",
+      "pdf_url": null,
+      "study_design": "Retrospective study n=3724",
+      "summary_ar": "درس هذا البحث استخدام تقنية الفيديو laryngoscopy القياسية في إدارة مجرى الهواء لدى حديثي الولادة والرضع. تم تقييم النتائج على مدى السنوات من خلال مراجعة ممارسات التخدير. وجد الباحثون أن النجاح في التهوية في المحاولة الأولى قد ارتفع مع زيادة استخدام تقنية video laryngoscopy. كما تم تقليل معدل intubation الصعب ومعدل hypoxemia. هذه النتائج تشير إلى أهمية دمج video laryngoscopy في ممارسات إدارة مجرى الهواء.",
+      "summary_en": "This study examined the use of standard video laryngoscopy in airway management for neonates and infants. Outcomes were evaluated over time through a review of anesthetic practices. Researchers found that first attempt intubation success increased alongside greater video laryngoscopy use. Difficult intubation and hypoxemia rates were also reduced. These findings highlight the importance of incorporating video laryngoscopy into airway management practices.",
+      "practice_change_ar": "يجب اعتماد استخدام video laryngoscopy بشكل روتيني في ممارسات التخدير للأطفال حديثي الولادة.",
+      "practice_change_en": "Routine use of video laryngoscopy should be adopted in anesthetic practices for neonates.",
+      "future_impact_ar": "يمكن أن تسهم هذه الدراسة في تحسين إدارة مجرى الهواء في الأطفال في المستقبل.",
+      "future_impact_en": "This study may contribute to improved airway management in children in the future.",
+      "why_important_ar": "تسلط هذه المقالة الضوء على فوائد استخدام video laryngoscopy في الأطفال.",
+      "why_important_en": "This article highlights the benefits of using video laryngoscopy in children.",
+      "vs_previous_ar": "هذه الدراسة تقارن بنجاح مع الممارسات السابقة في إدارة مجرى الهواء باستخدام طرق تقليدية.",
+      "vs_previous_en": "This study compares successfully with previous practices in airway management using traditional methods.",
+      "stars": 5,
+      "stars_reason_ar": "دراسة استرجاعية بأكثر من 100 مريض والتي حدثت تغييرات عملية مهمة.",
+      "stars_reason_en": "Retrospective study with over 100 patients that demonstrated clinically important practice changes.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تحتوي على نتائج مهمة تتعلق بإدارة مجرى الهواء للأطفال حديثي الولادة.",
+      "jc_reason_en": "Contains significant findings related to airway management in neonates.",
+      "watch": true,
+      "watch_detail_ar": "راقب استخدام video laryngoscopy وكيف يؤثر على نتائج intubation.",
+      "watch_detail_en": "Watch the use of video laryngoscopy and its impact on intubation outcomes.",
+      "watch_type": "device",
+      "research_gap_ar": "هناك حاجة لمزيد من الدراسات لتقييم تأثير video laryngoscopy في مراكز متعددة.",
+      "research_gap_en": "There is a need for more studies to assess the impact of video laryngoscopy in multiple centers.",
+      "subspecialty": "pediatric",
+      "audio_script_ar": "تتناول هذه المقالة استخدام video laryngoscopy في إدارة مجرى الهواء لدى حديثي الولادة. تشير النتائج إلى أن استخدام هذه التقنية يمكن أن يزيد من نجاح intubation في المحاولة الأولى ويقلل من الحالات الصعبة. تمت مراجعة ممارسات التخدير عبر سنوات، مما يدل على أهمية دمج technology جديدة في رعاية الأطفال. بناءً على ذلك، يُنصح بالتبني الروتيني لتقنية video laryngoscopy في الحكومة. هذه الدراسة تشجع على الابتكار وتعزيز الممارسات الطبية.",
+      "audio_script_en": "This article discusses the use of video laryngoscopy in airway management for neonates. The results indicate that utilizing this technique can enhance first attempt intubation success and reduce difficult cases. Anesthetic practices were reviewed over years, highlighting the importance of integrating new technology into pediatric care. Consequently, routine adoption of video laryngoscopy is recommended in practice. This study encourages innovation and the enhancement of medical practices.",
+      "mcq": [
+        {
+          "q_ar": "ما هي النتيجة الرئيسية التي تم العثور عليها في الدراسة؟",
+          "q_en": "What was the main outcome found in the study?",
+          "options_ar": [
+            "أ) زيادة نسبة النجاح في intubation",
+            "ب) زيادة hypoxemia",
+            "ج) زيادة intubation الصعب",
+            "د) لا تغييرات ملحوظة"
+          ],
+          "options_en": [
+            "A) Increase in intubation success",
+            "B) Increase in hypoxemia",
+            "C) Increase in difficult intubations",
+            "D) No significant changes"
+          ],
+          "answer": 0,
+          "explanation_ar": "تم العثور على زيادة في نسبة النجاح في المحاولة الأولى للتنبيب.",
+          "explanation_en": "An increase in first attempt intubation success was observed."
+        },
+        {
+          "q_ar": "ما هي الفترة الزمنية التي تمت مراجعتها في الدراسة؟",
+          "q_en": "What time period was reviewed in the study?",
+          "options_ar": [
+            "أ) 2010-2012",
+            "ب) 2012-2024",
+            "ج) 2014-2018",
+            "د) 2015-2020"
+          ],
+          "options_en": [
+            "A) 2010-2012",
+            "B) 2012-2024",
+            "C) 2014-2018",
+            "D) 2015-2020"
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسة غطت الفترة من أغسطس 2012 إلى مايو 2024.",
+          "explanation_en": "The study covered the period from August 2012 to May 2024."
+        },
+        {
+          "q_ar": "ما هو المعدل المئوي للنجاح في المحاولة الأولى للتنبيب؟",
+          "q_en": "What is the percentage of first attempt intubation success?",
+          "options_ar": [
+            "أ) 75%",
+            "ب) 80.4%",
+            "ج) 85%",
+            "د) 90%"
+          ],
+          "options_en": [
+            "A) 75%",
+            "B) 80.4%",
+            "C) 85%",
+            "D) 90%"
+          ],
+          "answer": 1,
+          "explanation_ar": "معدل النجاح في المحاولة الأولى هو 80.4%.",
+          "explanation_en": "The success rate for the first attempt is 80.4%."
+        }
+      ]
+    },
+    {
+      "pmid": "42076855",
+      "title_ar": "Identifying and Mitigating Risk Factors for Last Minute Otolaryngology Surgical Cancelations.",
+      "title_en": "Identifying and Mitigating Risk Factors for Last Minute Otolaryngology Surgical Cancelations.",
+      "journal": "The Annals of otology, rhinology, and laryngology",
+      "pub_date": "2026-May-03",
+      "doi": "10.1177/00034894261440647",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42076855/",
+      "pdf_url": null,
+      "study_design": "Retrospective chart review n>100",
+      "summary_ar": "الهدف الأساسي هو تحديد عوامل الخطر المستندة إلى المريض التي تؤثر على عدم الظهور في العمليات الجراحية في الأنف والأذن والحنجرة. تم إجراء مراجعة سجلات استعادية على جميع المرضى الذين لديهم مواعيد جراحية. وُجد أن الحالات الاختيارية كانت أكثر احتمالية بعدم الظهور بالمقارنة مع الحالات غير الاختيارية. كما أن المرضى الذين لم يحضروا مواعيد الفحوصات السابقة للجراحة كانوا أكثر عرضة للإلغاء خلال 48 ساعة من الجراحة. لم يُسجل أي فرق إحصائي بين المجموعات قبل وبعد جائحة COVID-19.",
+      "summary_en": "The primary objective is to identify patient-based risk factors influencing otolaryngologic surgical no-shows. A retrospective chart review was performed on all patients with surgical appointments. Elective cases were significantly more likely to no-show compared to non-elective cases. Additionally, patients who did not attend pre-operative testing appointments were significantly more likely to cancel within 48 hours of surgery. No statistically significant difference was found between pre- and post-COVID-19 groups.",
+      "practice_change_ar": "يجب على الأطباء تعزيز التزام المرضى بمواعيد الفحوصات السابقة للجراحة.",
+      "practice_change_en": "Clinicians should enhance patient adherence to pre-operative testing appointments.",
+      "future_impact_ar": "يمكن أن يؤدي هذا البحث إلى تحسين استراتيجيات تقليل الإلغاءات الجراحية.",
+      "future_impact_en": "This research may lead to improved strategies for reducing surgical cancellations.",
+      "why_important_ar": "تعتبر المعرفة بعوامل الخطر الحيوية ضرورية لتحسين العمليات الجراحية.",
+      "why_important_en": "Understanding critical risk factors is essential for improving surgical outcomes.",
+      "vs_previous_ar": "يوفر هذا البحث رؤى جديدة بشأن تأثير جائحة COVID-19 على مواعيد الجراحة.",
+      "vs_previous_en": "This research provides new insights into the impact of COVID-19 on surgical appointments.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استعادية ممتازة n>100 تقدم معرفة جديدة حول عوامل الخطر للمغادرة المفاجئة.",
+      "stars_reason_en": "A strong retrospective study n>100 providing new insights into risk factors for last minute cancellations.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study offers insights into surgical cancellation risk factors, which are highly relevant.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "research_gap_en": null,
+      "subspecialty": "otology",
+      "audio_script_ar": "تتناول هذه المقالة دراسة تحديد وتخفيف عوامل الخطر لإلغاء العمليات الجراحية المفاجئة في مجال الأنف والأذن والحنجرة. الهدف الرئيسي هو التعرف على العوامل المرتبطة بالمريض التي تؤثر سلبًا على فرص حضورهم للجراحة. استندت الدراسة إلى مراجعة سجلات المرضى عبر فترة زمنية محددة، ووجدت أن الحالات الاختيارية شهدت معدلات عدم حضور أعلى من غيرها. كما أظهرت الدراسة أن عدم القدرة على حضور الفحوصات ما قبل الجراحة يرتبط بزيادة فرص الإلغاء المفاجئ. يعكس هذا العمل أهمية فهم هذه العوامل لتحسين الأداء في جراحة الأنف والأذن والحنجرة.",
+      "audio_script_en": "This article discusses a study identifying and mitigating risk factors for last minute surgical cancellations in the field of otolaryngology. The primary goal is to identify patient-related factors negatively impacting their chances of attending the surgery. The study was based on retrospective chart reviews over a specified timeframe, finding that elective cases had higher no-show rates than non-elective ones. The study also indicated that failure to attend pre-operative testing is linked to increased chances of last-minute cancellations. This work reflects the importance of understanding these factors to improve performance in otolaryngology surgery.",
+      "mcq": [
+        {
+          "q_ar": "ما هو العامل الذي يزيد من احتمالية عدم حضور المريض للعملية الجراحية?",
+          "q_en": "What factor increases the likelihood of patient no-show for surgery?",
+          "options_ar": [
+            "أ) عدم حضور مواعيد الفحوصات السابقة",
+            "ب) الجراحة الطارئة",
+            "ج) معرفة دقيقة بالعمر",
+            "د) تحديد موعد مسبق"
+          ],
+          "options_en": [
+            "A) Failure to attend pre-operative appointments",
+            "B) Emergency surgery",
+            "C) Accurate knowledge of age",
+            "D) Scheduling ahead"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة وجدت أن عدم حضور المريض لمواعيد الفحوصات السابقة يرفع من احتمالية عدم الحضور.",
+          "explanation_en": "The study found that patient non-attendance at pre-operative appointments increases the likelihood of no-show."
+        },
+        {
+          "q_ar": "ما هي فئة الحالات الأكثر عرضة لعدم الحضور?",
+          "q_en": "Which category of cases is more prone to no-show?",
+          "options_ar": [
+            "أ) الحالات الطارئة",
+            "ب) الحالات الاختيارية",
+            "ج) حالات الطفولة",
+            "د) الحالات المزمنة"
+          ],
+          "options_en": [
+            "A) Emergency cases",
+            "B) Elective cases",
+            "C) Pediatric cases",
+            "D) Chronic cases"
+          ],
+          "answer": 1,
+          "explanation_ar": "النتائج أظهرت أن الحالات الاختيارية لديها معدلات عدم ظهور أعلى.",
+          "explanation_en": "The results showed that elective cases have higher no-show rates."
+        },
+        {
+          "q_ar": "هل هناك فرق إحصائي في معدلات الإلغاء بين المجموعات قبل وبعد جائحة COVID-19?",
+          "q_en": "Is there a statistical difference in cancellation rates between pre- and post-COVID-19 groups?",
+          "options_ar": [
+            "أ) نعم",
+            "ب) لا",
+            "ج) لم يتم دراسة ذلك",
+            "د) يعتمد على نوع الجراحة"
+          ],
+          "options_en": [
+            "A) Yes",
+            "B) No",
+            "C) Not studied",
+            "D) Depends on the type of surgery"
+          ],
+          "answer": 1,
+          "explanation_ar": "لم تُظهر الدراسة أي فرق إحصائي بين ثلاث مجموعات إلغاء.",
+          "explanation_en": "The study did not show any statistical difference in cancellation rates between the three groups."
+        }
+      ]
+    },
+    {
+      "pmid": "42082664",
+      "title_ar": "Revision Rhinoplasty in Retrocolumellar Perforation.",
+      "title_en": "Revision Rhinoplasty in Retrocolumellar Perforation.",
+      "journal": "Aesthetic plastic surgery",
+      "pub_date": "2026-May-04",
+      "doi": "10.1007/s00266-026-05849-5",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42082664/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort",
+      "summary_ar": "تعد الثقوب تحت العمودية (RCPs) من المضاعفات النادرة لجراحة تجميل الأنف المعدلة، وغالبًا ما ترتبط بتراجع العمود، وقصر طول الأنف، وفقدان عرض الأنف. تتطلب إصلاحها استخدام تقنيات ترقيعية تضمن تغطية مخاطية ودعم هيكلي. أجريت الدراسة على 28 مريضًا تحت سن 36 عامًا، حيث تم استخدام ترقيعات من اللسان والخد، وأظهرت النتائج أن إغلاق الثقوب تحقق بمعدل 96.4%، مع تحسن كبير في نتائج الاستطلاع الخاص بالصحة الناتجة عن إجراء الجراحة.",
+      "summary_en": "Retrocolumellar perforations (RCPs) are rare complications of revision rhinoplasty, often linked to columellar retraction and shortened nasal length. Repairing them requires vascularized flaps for mucosal coverage and structural support. The study involved 28 patients with a mean age of 35.6 years, using endonasal and gingivobuccal flaps. Results indicated a closure rate of 96.4% and significant improvement in health outcomes as measured by surveys.",
+      "practice_change_ar": "يمكن أن يؤثر هذا البحث على كيفية إدارة وإصلاح الثقوب تحت العمودية في الحالات المعدلة.",
+      "practice_change_en": "This research may influence how RCPs are managed and repaired in revision cases.",
+      "future_impact_ar": "يمكن أن يؤدي الاهتمام بالترقيعات من اللسان والخد إلى تحسين النتائج للمرضى في المستقبل.",
+      "future_impact_en": "Emphasizing gingivobuccal flaps may lead to better patient outcomes in the future.",
+      "why_important_ar": "تسليط الضوء على فعالية تطوير طرق لزيادة نجاح الإصلاح في حالات جراحة تجميل الأنف المعقدة.",
+      "why_important_en": "Highlights the importance of developing methods to enhance repair success in complex revision rhinoplasty cases.",
+      "vs_previous_ar": "تضيف هذه الدراسة معلومات جديدة حول تقنيات الإصلاح مقارنة بالممارسات السابقة.",
+      "vs_previous_en": "This study provides new insights into repair techniques compared to previous practices.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة تصميمها مقطعي وحققت نتائج إيجابية في مجموعة من المرضى، مما يعكس اداءً جيدًا.",
+      "stars_reason_en": "The study is a prospective cohort design that yielded positive results in a group of patients, reflecting good performance.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Provides new practical insights into rhinoplasty repair techniques.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة استخدام ترقيعات اللسان والخد بسبب فعالية النتائج.",
+      "watch_detail_en": "The use of gingivobuccal flaps should be monitored due to effective outcomes.",
+      "watch_type": "technology",
+      "research_gap_ar": "تأسيس الأدلة على فعالية ترقيع اللسان والخد في الحالات المعقدة أمر ضروري.",
+      "research_gap_en": "Establishing evidence on the effectiveness of gingivobuccal flaps in complex cases is essential.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "تتناول الدراسة الثقوب تحت العمودية كمضاعفة نادرة لجراحة تجميل الأنف المعدلة. وتركز على النتائج الإيجابية لتقنيات الإصلاح باستخدام ترقيعات اللسان والخد. أظهرت الدراسة أن معدل الإغلاق بلغ 96.4%، بالإضافة إلى تحسين ملحوظ في جودة الحياة للمرضى. هذه النتائج تشير إلى الحاجة لمزيد من الأبحاث لتأكيد فعالية هذه التقنيات في المستقبل.",
+      "audio_script_en": "The study addresses retrocolumellar perforations as a rare complication of revision rhinoplasty. It focuses on positive outcomes from repair techniques using gingivobuccal and endonasal flaps. The study showed a closure rate of 96.4%, along with significant improvement in patients' quality of life. These results underscore the need for further research to confirm the effectiveness of these techniques in the future.",
+      "mcq": [
+        {
+          "q_ar": "ما هو معدل إغلاق الثقوب المدروسة في الدراسة؟",
+          "q_en": "What was the closure rate of the perforations studied in the research?",
+          "options_ar": [
+            "أ) 85.5%",
+            "ب) 90.2%",
+            "ج) 96.4%",
+            "د) 100%"
+          ],
+          "options_en": [
+            "A) 85.5%",
+            "B) 90.2%",
+            "C) 96.4%",
+            "D) 100%"
+          ],
+          "answer": 2,
+          "explanation_ar": "معدل إغلاق الثقوب كان 96.4%، وهو ما تم الإبلاغ عنه في النتائج.",
+          "explanation_en": "The closure rate of the perforations was reported as 96.4% in the results."
+        },
+        {
+          "q_ar": "ما هي التقنيات المستخدمة في الدراسة لإصلاح الثقوب؟",
+          "q_en": "What techniques were used in the study for perforation repair?",
+          "options_ar": [
+            "أ) ترقيعات دهنية",
+            "ب) ترقيعات عضلية",
+            "ج) ترقيعات اللسان والخد",
+            "د) ترقيعات جلدية"
+          ],
+          "options_en": [
+            "A) Fat grafts",
+            "B) Muscle grafts",
+            "C) Gingivobuccal flaps",
+            "D) Skin grafts"
+          ],
+          "answer": 2,
+          "explanation_ar": "استخدمت الدراسة ترقيعات اللسان والخد كجزء من تقنيات الإصلاح.",
+          "explanation_en": "The study utilized gingivobuccal flaps as part of the repair techniques."
+        },
+        {
+          "q_ar": "ما هو المستوى الرابع من الأدلة المشار إليه في الدراسة؟",
+          "q_en": "What is the level IV evidence referred to in the study?",
+          "options_ar": [
+            "أ) مراجعة منهجية",
+            "ب) دراسة عشوائية محكمة",
+            "ج) سلسلة حالات",
+            "د) دراسة ميدانية"
+          ],
+          "options_en": [
+            "A) Systematic review",
+            "B) RCT",
+            "C) Case series",
+            "D) Field study"
+          ],
+          "answer": 2,
+          "explanation_ar": "تم تصنيف الدراسة على أنها سلسلة حالات، مما ينطوي على مستوى أدلة رابع.",
+          "explanation_en": "The study is classified as a case series, which falls under level IV evidence."
+        }
+      ]
+    },
+    {
+      "pmid": "42077036",
+      "title_ar": "Evaluating the Impact of Intraoperative Magnetic Resonance Imaging on the Resection of Juvenile Nasopharyngeal AngiofibromaEvaluating the impact of intraoperative MRI on the resection of juvenile nasopharyngeal angiofibroma.",
+      "title_en": "Evaluating the Impact of Intraoperative Magnetic Resonance Imaging on the Resection of Juvenile Nasopharyngeal AngiofibromaEvaluating the impact of intraoperative MRI on the resection of juvenile nasopharyngeal angiofibroma.",
+      "journal": "Acta oto-laryngologica",
+      "pub_date": "2026-May-04",
+      "doi": "10.1080/00016489.2026.2658629",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42077036/",
+      "pdf_url": null,
+      "study_design": "Retrospective case series n=9",
+      "summary_ar": "هذه الدراسة استعرضت دور التصوير بالرنين المغناطيسي داخل العملية (IO-MRI) في اتخاذ القرارات خلال استئصال الأورام الوعائية الفموية الناشئة (JNA). تم مراجعة 9 حالات تمت فيها استخدام IO-MRI. أظهرت النتائج عدم وجود ورم متبقي في 7 حالات، مما يدل على فعالية IO-MRI في تحديد حالة الورم. وفي حالة، تم اكتشاف ورم متبقي مما استدعى المزيد من الاستئصال. بصفة عامة، لم تُسجل حالات عودة للورم، مما يشير إلى أهمية استخدام IO-MRI في العمليات المعقدة.",
+      "summary_en": "This study reviewed the role of intraoperative magnetic resonance imaging (IO-MRI) in decision-making during the resection of juvenile nasopharyngeal angiofibroma (JNA). Nine cases utilizing IO-MRI were reviewed. Results showed no residual tumor in seven cases, indicating the effectiveness of IO-MRI in assessing tumor status. In one case, residual disease prompting additional resection was identified. Overall, no recurrences were noted, suggesting the importance of IO-MRI in complex cases.",
+      "practice_change_ar": "يمكن إدراج استخدام جهاز التصوير بالرنين المغناطيسي داخل العملية كجزء من البروتوكول الجراحي لاستئصال JNA.",
+      "practice_change_en": "The use of intraoperative MRI can be incorporated into the surgical protocol for JNA resection.",
+      "future_impact_ar": "يمكن أن يؤدي استخدام IO-MRI لتحسين نتائج الاستئصال وتقليل معدلات تكرار الحالة.",
+      "future_impact_en": "The use of IO-MRI may enhance resection outcomes and reduce recurrence rates.",
+      "why_important_ar": "تعد هذه الدراسة مهمة لأنها توضح كيف يمكن لـ IO-MRI تحسين اتخاذ القرارات أثناء الجراحة.",
+      "why_important_en": "This study is important as it demonstrates how IO-MRI can improve intraoperative decision-making.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة من خلال التركيز على قيمة IO-MRI في تحديد مدى تقدم المرض.",
+      "vs_previous_en": "This study differs from previous knowledge by focusing on the value of IO-MRI in assessing disease progression.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة حالية وليست قوية بما يكفي، مع عدد محدود من المرضى.",
+      "stars_reason_en": "Current study but not strong enough, with a limited number of patients.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study provides new information on the medical imaging applications in surgical procedures.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة تطبيقات التصوير بالرنين المغناطيسي داخل العملية لما لها من تأثير على جراحة الأورام.",
+      "watch_detail_en": "The application of intraoperative MRI should be monitored due to its impact on tumor surgery.",
+      "watch_type": "technology",
+      "research_gap_ar": "هناك حاجة لمزيد من الدراسات لتأكيد نتائج IO-MRI في أنواع أخرى من الأورام.",
+      "research_gap_en": "There is a need for further studies to confirm the results of IO-MRI in other types of tumors.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "في هذه الدراسة، تم تقييم دور التصوير بالرنين المغناطيسي داخل العملية في استئصال الأورام الوعائية الفموية الناشئة. تمت مراجعة تسع حالات تم فيها استخدام هذا النوع من التصوير. النتائج أظهرت عدم وجود ورم متبقي في سبع حالات، وهو ما يشير إلى فعالية IO-MRI. وفي حالة واحدة، تم اكتشاف ورم متبقي مما استدعى إجراء استئصال إضافي. لم تُسجل أي حالات عودة للورم، مما يعكس أهمية استخدام IO-MRI في العمليات المعقدة. يمكن أن يؤدي تضمين IO-MRI في البروتوكول الجراحي إلى تحسين النتائج وتقليل معدلات التكرار. هذه الدراسة مهمة لأنها تقدم معلومات جديدة في مجال استخدامات التصوير الطبي في عمليات الاستئصال.",
+      "audio_script_en": "In this study, the role of intraoperative magnetic resonance imaging in the resection of juvenile nasopharyngeal angiofibroma was evaluated. Nine cases utilizing this type of imaging were reviewed. Results showed no residual tumor in seven cases, indicating the effectiveness of IO-MRI. In one case, residual disease prompting additional resection was identified. No recurrences were reported, reflecting the importance of using IO-MRI in complex surgeries. Incorporating IO-MRI into the surgical protocol may enhance outcomes and reduce recurrence rates. This study is significant as it provides new information on the medical imaging applications in resection procedures.",
+      "mcq": [
+        {
+          "q_ar": "ما هو دور التصوير بالرنين المغناطيسي داخل العملية في جراحة JNA؟",
+          "q_en": "What is the role of intraoperative MRI in JNA surgery?",
+          "options_ar": [
+            "أ) تحديد مكان الورم",
+            "ب) تقييم الحالة بعد الاستئصال",
+            "ج) اتخاذ القرارات أثناء العملية",
+            "د) جميع ما سبق"
+          ],
+          "options_en": [
+            "A) Locating the tumor",
+            "B) Assessing status post-resection",
+            "C) Making decisions during surgery",
+            "D) All of the above"
+          ],
+          "answer": 3,
+          "explanation_ar": "التصوير بالرنين المغناطيسي داخل العملية يساعد في اتخاذ القرارات أثناء الجراحة.",
+          "explanation_en": "Intraoperative MRI aids in decision-making during surgery."
+        },
+        {
+          "q_ar": "ما هي نسبة المرضى الذين لم يُكتشف لديهم ورم متبقي؟",
+          "q_en": "What was the percentage of patients with no residual tumor detected?",
+          "options_ar": [
+            "أ) 77.7%",
+            "ب) 50%",
+            "ج) 100%",
+            "د) 33.3%"
+          ],
+          "options_en": [
+            "A) 77.7%",
+            "B) 50%",
+            "C) 100%",
+            "D) 33.3%"
+          ],
+          "answer": 0,
+          "explanation_ar": "77.7% من المرضى لم يُكتشف لديهم ورم متبقي.",
+          "explanation_en": "77.7% of patients had no residual tumor detected."
+        },
+        {
+          "q_ar": "ما هو العدد الكلي للمرضى الذين تمت دراستهم في الحالة؟",
+          "q_en": "What was the total number of patients studied in the case series?",
+          "options_ar": [
+            "أ) 5",
+            "ب) 9",
+            "ج) 15",
+            "د) 20"
+          ],
+          "options_en": [
+            "A) 5",
+            "B) 9",
+            "C) 15",
+            "D) 20"
+          ],
+          "answer": 1,
+          "explanation_ar": "تمت دراسة 9 مرضى في هذه السلسلة.",
+          "explanation_en": "Nine patients were studied in this series."
+        }
+      ]
+    },
+    {
+      "pmid": "42082672",
+      "title_ar": "Association between sleep disorders and low muscle mass based on body composition metrics.",
+      "title_en": "Association between sleep disorders and low muscle mass based on body composition metrics.",
+      "journal": "Scientific reports",
+      "pub_date": "2026-May-04",
+      "doi": "10.1038/s41598-026-51227-1",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42082672/",
+      "pdf_url": null,
+      "study_design": "Cross-sectional study n=990",
+      "summary_ar": "هذه الدراسة تبحث في العلاقة بين تكوين الجسم واضطرابات النوم من خلال تحليل 990 مريض في مركز النوم بجامعة سامسونغ. تم تصنيف اضطرابات النوم كالأرق الأساسي، والأرق المشترك مع انقطاع النفس، وانقطاع النفس النومي الانسدادي باستخدام معايير ICSD-3. أظهرت نتائج الدراسة أن مرضى الأرق الأساسي لديهم أقل قيم لمؤشر العضلات الهيكلية بشكل ملحوظ، حيث ارتبطت فترة النوم الممتدة بشكل كبير بالساركوبينيا. كذلك، أظهر المشاركون المصابون بالساركوبينيا خصائص دالة على السمنة العضلية. تشير النتائج إلى الحاجة إلى تدخلات موجهة لتحسين جودة النوم والحفاظ على الكتلة العضلية.",
+      "summary_en": "This study investigates the relationship between body composition and sleep disorders by analyzing 990 patients at the Samsung Medical Sleep Center. Sleep disorders were classified as primary insomnia, comorbid insomnia with sleep apnea, and obstructive sleep apnea using ICSD-3 criteria. Results showed that primary insomnia patients had the lowest Skeletal Muscle Index (SMI) values, with prolonged sleep latency significantly associated with sarcopenia. Sarcopenic participants exhibited features consistent with sarcopenic obesity. Findings indicate a need for targeted interventions to improve sleep quality and preserve muscle mass.",
+      "practice_change_ar": "يجب التركيز على تحسين جودة النوم والحفاظ على الكتلة العضلية لدى مرضى الأرق الأساسي.",
+      "practice_change_en": "There should be a focus on improving sleep quality and preserving muscle mass in primary insomnia patients.",
+      "future_impact_ar": "يمكن أن يؤدي هذا البحث إلى استراتيجيات جديدة للتدخل لتحسين صحة المرضى.",
+      "future_impact_en": "This research could lead to new intervention strategies to improve patient health.",
+      "why_important_ar": "تسلط هذه الدراسة الضوء على العلاقة بين اضطرابات النوم والكتلة العضلية، مما يفتح آفاق جديدة لتوجيه العلاج.",
+      "why_important_en": "This study highlights the relationship between sleep disorders and muscle mass, opening new avenues for treatment guidance.",
+      "vs_previous_ar": "تقدم هذه النتائج رؤى جديدة حول كيفية تأثير جودة النوم على الساركوبينيا.",
+      "vs_previous_en": "These findings provide new insights into how sleep quality affects sarcopenia.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة مقطعية كبيرة توفر معلومات جديدة وقابلة للتطبيق في علاج الأمراض المرتبطة بالنوم.",
+      "stars_reason_en": "A large cross-sectional study provides new and applicable insights into the treatment of sleep-related disorders.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study is significant in the field of the relationship between sleep disorders and muscle mass.",
+      "watch": true,
+      "watch_detail_ar": "يجب مراقبة تأثير استراتيجيات العلاج التي تركز على جودة النوم والكتلة العضلية.",
+      "watch_detail_en": "The impact of treatment strategies focusing on sleep quality and muscle mass should be monitored.",
+      "watch_type": "technology",
+      "research_gap_ar": "تبحث الدراسة في العلاقة غير المستكشفة بين خصائص الساركوبينيا واضطرابات النوم.",
+      "research_gap_en": "The study explores the unexamined relationship between sarcopenic features and sleep disorders.",
+      "subspecialty": "sleep",
+      "audio_script_ar": "هذه الدراسة تبحث في علاقة تكوين الجسم واضطرابات النوم من خلال تحليل 990 مريض. تم تصنيف اضطرابات النوم كالأرق الأساسي والأرق المشترك مع انقطاع النفس. أظهرت النتائج أن مرضى الأرق الأساسي كانوا الأقل في قيم مؤشر العضلات الهيكلية، مع ارتباط فترة النوم الممددة بالساركوبينيا. تشير النتائج إلى الحاجة لتدخلات موجهة لتحسين جودة النوم والحفاظ على الكتلة العضلية.",
+      "audio_script_en": "This study investigates the relationship between body composition and sleep disorders through the analysis of 990 patients. Sleep disorders were classified as primary insomnia and comorbid insomnia with sleep apnea. Results indicated that primary insomnia patients had the lowest Skeletal Muscle Index values, with prolonged sleep latency associated with sarcopenia. Findings suggest a need for targeted interventions to improve sleep quality and preserve muscle mass.",
+      "mcq": [
+        {
+          "q_ar": "ما هي الفئة التي أظهرت أدنى قيم لمؤشر العضلات الهيكلية؟",
+          "q_en": "Which group showed the lowest Skeletal Muscle Index values?",
+          "options_ar": [
+            "أ) الأرق الأساسي",
+            "ب) الأرق المشترك مع انقطاع النفس",
+            "ج) انقطاع النفس النومي الانسدادي",
+            "د) جميع ما سبق"
+          ],
+          "options_en": [
+            "A) Primary Insomnia",
+            "B) Comorbid Insomnia with Sleep Apnea",
+            "C) Obstructive Sleep Apnea",
+            "D) All of the above"
+          ],
+          "answer": 0,
+          "explanation_ar": "أظهرت مجموعة الأرق الأساسي أدنى قيم لمؤشر العضلات الهيكلية.",
+          "explanation_en": "The primary insomnia group showed the lowest Skeletal Muscle Index values."
+        },
+        {
+          "q_ar": "ما العلاقة بين فترة النوم الممتدة والساركوبينيا؟",
+          "q_en": "What is the relationship between prolonged sleep latency and sarcopenia?",
+          "options_ar": [
+            "أ) ارتباط إيجابي",
+            "ب) ارتباط سلبي",
+            "ج) لا يوجد ارتباط",
+            "د) ارتباط عشوائي"
+          ],
+          "options_en": [
+            "A) Positive correlation",
+            "B) Negative correlation",
+            "C) No correlation",
+            "D) Random correlation"
+          ],
+          "answer": 0,
+          "explanation_ar": "ارتبطت فترة النوم الممتدة بشكل إيجابي بالساركوبينيا.",
+          "explanation_en": "Prolonged sleep latency was positively associated with sarcopenia."
+        },
+        {
+          "q_ar": "لماذا تعتبر هذه الدراسة مهمة؟",
+          "q_en": "Why is this study important?",
+          "options_ar": [
+            "أ) تقدم معلومات جديدة عن اضطرابات النوم",
+            "ب) تظهر العلاقة بين النوم والكتلة العضلية",
+            "ج) تساعد في تطوير استراتيجيات العلاج",
+            "د) كل ما سبق"
+          ],
+          "options_en": [
+            "A) Provides new insights into sleep disorders",
+            "B) Shows the relationship between sleep and muscle mass",
+            "C) Aids in developing treatment strategies",
+            "D) All of the above"
+          ],
+          "answer": 3,
+          "explanation_ar": "تعتبر هذه الدراسة مهمة لأنها تقدم معلومات جديدة وتظهر العلاقات السريرية.",
+          "explanation_en": "This study is important as it provides new insights and demonstrates clinical relationships."
+        }
+      ]
+    },
+    {
+      "pmid": "42080439",
+      "title_ar": "Longitudinal Cochlear Implant Use in Pediatric Patients With Unilateral Hearing Loss.",
+      "title_en": "Longitudinal Cochlear Implant Use in Pediatric Patients With Unilateral Hearing Loss.",
+      "journal": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+      "pub_date": "2026-May-04",
+      "doi": "10.1002/ohn.70278",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42080439/",
+      "pdf_url": null,
+      "study_design": "Retrospective cohort study",
+      "summary_ar": "هذا المقال يدرس أنماط استخدام الغرسات القوقعية في الأطفال الذين يعانون من فقدان السمع الأحادي. تم جمع معلومات السجل البياني من 53 مريضًا بعد ثلاث أشهر من تنشيط الجهاز. علمتنا النتائج أن 81% كانوا مستخدمين منتظمين، وأن متوسط الاستخدام كان 8.2 ساعة في اليوم. في نهاية 24 شهرًا، 64% من المرضى ما زالوا مستخدمين منتظمين. لم تظهر أي علاقة واضحة بين عمر الزراعة ومدتها وفقدان السمع. يعكس الاستخدام المبكر نية المرضى لاستخدام الجهاز طويل الأمد.",
+      "summary_en": "This article studies cochlear implant usage patterns in children with unilateral hearing loss. Datalogging information was collected from 53 patients three months post-activation. Results showed that 81% were regular users, with a mean usage of 8.2 hours per day. At 24 months, 64% of patients were still regular users. No clear relationship was found between age at implantation and duration of deafness. Early usage reflects patient intent for long-term device usage.",
+      "practice_change_ar": "يمكن أن تشجع هذه النتائج الأطباء على متابعة استخدام الغرسات القوقعية لدى الأطفال لفهم الأنماط بشكل أفضل.",
+      "practice_change_en": "These findings may encourage doctors to monitor cochlear implant usage in children to better understand patterns.",
+      "future_impact_ar": "يمكن أن تؤثر هذه الدراسة على كيفية إدارة زراعة القوقعة في المستقبل.",
+      "future_impact_en": "This study may influence future management of cochlear implantation.",
+      "why_important_ar": "هذه المقالة مهمة لأنها توضح الاستخدام المستدام للغرسات القوقعية في الأطفال.",
+      "why_important_en": "This article is important as it highlights sustained cochlear implant usage in children.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة بتقديم بيانات استخدام طويلة الأمد.",
+      "vs_previous_en": "This study differs from previous knowledge by providing long-term usage data.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استعادية جيدة مع نتائج ذات صلة وسياق سريري قوي.",
+      "stars_reason_en": "Good retrospective study with relevant results and strong clinical context.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study provides new insights into cochlear implant usage.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة كيفية تأثير عمر الزراعة وفترة الصمم على استخدام الغرسات.",
+      "watch_detail_en": "Monitoring how age at implantation and duration of deafness affect implant usage is important.",
+      "watch_type": "device",
+      "research_gap_ar": "هناك حاجة لمزيد من الأبحاث حول تأثير العمر ونوع الصمم على استخدام الغرسات.",
+      "research_gap_en": "There is a need for more research on the impact of age and type of hearing loss on implant usage.",
+      "subspecialty": "pediatric",
+      "audio_script_ar": "في هذا المقال، نحن نتحدث عن استخدام الغرسات القوقعية في الأطفال الذين يعانون من فقدان السمع الأحادي. تم إجراء دراسة استعادية شاملة تتبعت 53 مريضًا على مدى 24 شهرًا، حيث لوحظ أن معظم الأطفال أظهروا استخدامًا جيدًا ومستدامًا للغرسات. في بداية الدراسة، كان 81% منهم مستخدمين منتظمين، ومع مرور الوقت استمروا في إظهار الاستخدام الإيجابي. لا توجد علاقة واضحة بين عمر زراعة الجهاز ومدة فقدان السمع، وهو ما قد يساعد الأطباء في اتخاذ قرارات أفضل. هذه الدراسة تفتح أفقًا جديدًا لفهم استخدام الغرسات القوقعية في هذه الفئة العمرية.",
+      "audio_script_en": "In this article, we discuss the use of cochlear implants in children with unilateral hearing loss. A comprehensive retrospective study tracked 53 patients over 24 months, with most children showing good and sustained usage of the implants. At the start, 81% were regular users, and over time they continued to show positive engagement. There is no clear relationship between age at implantation and duration of deafness, which may assist doctors in making better decisions. This study opens new avenues for understanding cochlear implant usage in this age group.",
+      "mcq": [
+        {
+          "q_ar": "ما هي النسبة المئوية للأطفال الذين كانوا مستخدمين منتظمين بعد 3 أشهر من زراعة القوقعة؟",
+          "q_en": "What percentage of children were regular users three months post-cochlear implantation?",
+          "options_ar": [
+            "أ) 70%",
+            "ب) 81%",
+            "ج) 50%",
+            "د) 90%"
+          ],
+          "options_en": [
+            "A) 70%",
+            "B) 81%",
+            "C) 50%",
+            "D) 90%"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهر البحث أن 81% من الأطفال كانوا مستخدمين منتظمين بعد 3 أشهر.",
+          "explanation_en": "The study showed that 81% of children were regular users three months post-implantation."
+        },
+        {
+          "q_ar": "ما هي مدة الدراسة التي تتبعت استخدام الغرسات القوقعية؟",
+          "q_en": "What was the duration of the study tracking cochlear implant usage?",
+          "options_ar": [
+            "أ) 12 شهرًا",
+            "ب) 18 شهرًا",
+            "ج) 24 شهرًا",
+            "د) 36 شهرًا"
+          ],
+          "options_en": [
+            "A) 12 months",
+            "B) 18 months",
+            "C) 24 months",
+            "D) 36 months"
+          ],
+          "answer": 2,
+          "explanation_ar": "تمت دراسة الاستخدام لمدة 24 شهرًا بعد تفعيل الغرسة.",
+          "explanation_en": "The usage was studied for 24 months post-activation of the implant."
+        },
+        {
+          "q_ar": "ما هو متوسط استخدام الجهاز بعد 24 شهرًا؟",
+          "q_en": "What was the mean usage of the device at 24 months?",
+          "options_ar": [
+            "أ) 8.2 ساعة",
+            "ب) 7.0 ساعة",
+            "ج) 6.8 ساعة",
+            "د) 5.5 ساعة"
+          ],
+          "options_en": [
+            "A) 8.2 hours",
+            "B) 7.0 hours",
+            "C) 6.8 hours",
+            "D) 5.5 hours"
+          ],
+          "answer": 2,
+          "explanation_ar": "كان متوسط الاستخدام بعد 24 شهرًا 6.8 ساعة في اليوم.",
+          "explanation_en": "The mean usage at 24 months was 6.8 hours per day."
+        }
+      ]
+    },
+    {
+      "pmid": "41591365",
+      "title_ar": "FOSL1 Orchestrates Epigenetic Reprogramming of Anaplastic Thyroid Cancer and Suppresses NK Cell-Mediated Antitumor Immunity.",
+      "title_en": "FOSL1 Orchestrates Epigenetic Reprogramming of Anaplastic Thyroid Cancer and Suppresses NK Cell-Mediated Antitumor Immunity.",
+      "journal": "Cancer research",
+      "pub_date": "2026-May-04",
+      "doi": "10.1158/0008-5472.CAN-25-2781",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41591365/",
+      "pdf_url": null,
+      "study_design": "Retrospective series n>100",
+      "summary_ar": "سرطان الغدة الدرقية غير القابل للشفاء (ATC) هو أكثر أنواع سرطان الغدة الدرقية عدوانية، حيث يُظهر المريض عمرًا افتراضيًا لا يتجاوز 7 إلى 10 أشهر. أظهرت الدراسة دور super-enhancers (SE) في إعادة تشكيل بيئة الورم (TME) لـ ATC. لم تنجح نتائج التحليل الشامل لتضاريس SE المميزة في ATC. تم تحديد FOSL1 كعامل نسخي مدفوع بواسطة SE يلعب دورًا حيويًا في إعادة تشكيل الكروماثين، مما يعزز التعبير عن ADAM9 وMMP14 ويؤدي إلى هروب المناعة من قتل الخلايا NK. تم تلخيص النتائج مع إشارات إلى إمكانية استهداف FOSL1 كعلاجات للسرطان.",
+      "summary_en": "Anaplastic thyroid cancer (ATC) is the most aggressive type of thyroid cancer with a survival time of only 7 to 10 months. This study explored the role of super-enhancers (SE) in reshaping the tumor microenvironment (TME) in ATC. Comprehensive profiling revealed oncogenic SE activation linked to dedifferentiation and the anaplastic transformation of thyroid cancer. FOSL1 was identified as a crucial SE-driven transcription factor involved in chromatin remodeling that boosts the expression of ADAM9 and MMP14, leading to immune escape from NK cell killing. These findings suggest the potential of targeting FOSL1 in therapeutic strategies.",
+      "practice_change_ar": "يمكن استخدام FOSL1 كهدف علاجي في سرطان الغدة الدرقية غير القابل للشفاء.",
+      "practice_change_en": "FOSL1 may be used as a therapeutic target in anaplastic thyroid cancer.",
+      "future_impact_ar": "تقديم رؤى جديدة حول علاجات السرطان المحتملة للغدة الدرقية.",
+      "future_impact_en": "Providing new insights into potential therapies for thyroid cancer.",
+      "why_important_ar": "يكشف هذا البحث عن دور FOSL1 في سرطان الغدة الدرقية، مما يجعل استهدافه خيارًا واعدًا للعلاج.",
+      "why_important_en": "This research reveals the role of FOSL1 in thyroid cancer, making it a promising therapeutic target.",
+      "vs_previous_ar": "هذا البحث يضيف معلومات جديدة حول دور FOSL1 في سرطان الغدة الدرقية.",
+      "vs_previous_en": "This study adds new information about the role of FOSL1 in thyroid cancer.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استرجاعية مع عينة كبيرة تكشف عن معلومات جديدة حول فوسل1. ",
+      "stars_reason_en": "A retrospective study with a large sample revealing new information regarding FOSL1.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Provides insights on FOSL1 as a new therapeutic target.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة FOSL1 كهدف جديد للعلاج في سرطان الغدة الدرقية.",
+      "watch_detail_en": "FOSL1 should be monitored as a new therapeutic target in thyroid cancer.",
+      "watch_type": "drug",
+      "research_gap_ar": "وجود حاجة لدراسات مستقبلية للتحقق من فعالية استهداف FOSL1.",
+      "research_gap_en": "There is a need for future studies to validate the effectiveness of targeting FOSL1.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "في هذه الدراسة حول سرطان الغدة الدرقية غير القابل للشفاء، تم التحقيق في دور FOSL1. يُظهر البحث كيف تؤثر super-enhancers على بيئة الورم وتدعم تطور السرطان. تم تحديد FOSL1 كعامل نسخي مهم يُعزز التعبير عن جينات معينة. ونتيجة لذلك، يمكن أن يؤدي استهداف FOSL1 إلى تحسين نتائج العلاج. هذه النتائج تشير إلى أهمية استهداف FOSL1 كخيار علاجي جديد، مما يجعل هذا البحث ذا قيمة خاصة لجميع المتخصصين في الرعاية الصحية بالأنف والأذن والحنجرة.",
+      "audio_script_en": "In this study on anaplastic thyroid cancer, the role of FOSL1 was investigated. The research shows how super-enhancers influence the tumor environment and support cancer progression. FOSL1 was identified as an important transcription factor that enhances the expression of certain genes. Consequently, targeting FOSL1 could improve treatment outcomes. These findings highlight the significance of targeting FOSL1 as a new therapeutic option, making this research particularly valuable for all ENT healthcare professionals.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الدور الذي يلعبه FOSL1 في سرطان الغدة الدرقية؟",
+          "q_en": "What role does FOSL1 play in thyroid cancer?",
+          "options_ar": [
+            "أ) يعزز التعبير عن ADAM9",
+            "ب) يثبط التعبير عن SE",
+            "ج) يزيد من معدل البقاء",
+            "د) لا يلعب أي دور"
+          ],
+          "options_en": [
+            "A) Enhances ADAM9 expression",
+            "B) Inhibits SE expression",
+            "C) Increases survival rate",
+            "D) Plays no role"
+          ],
+          "answer": 0,
+          "explanation_ar": "FOSL1 يعزز التعبير عن ADAM9، مما يؤدي إلى الهروب المناعي.",
+          "explanation_en": "FOSL1 enhances the expression of ADAM9, leading to immune escape."
+        },
+        {
+          "q_ar": "ماذا تكشف الدراسات حول تأثير FOSL1 على الخلايا NK؟",
+          "q_en": "What do studies reveal about the effect of FOSL1 on NK cells?",
+          "options_ar": [
+            "أ) يعزز نشاطها",
+            "ب) يثبط نشاطها",
+            "ج) لا يؤثر عليها",
+            "د) يزيد عددها"
+          ],
+          "options_en": [
+            "A) Enhances their activity",
+            "B) Inhibits their activity",
+            "C) Does not affect them",
+            "D) Increases their number"
+          ],
+          "answer": 1,
+          "explanation_ar": "FOSL1 يثبط نشاط الخلايا NK، مما يساعد السرطان على الهروب من الاستجابة المناعية.",
+          "explanation_en": "FOSL1 inhibits NK cell activity, allowing cancer to escape the immune response."
+        },
+        {
+          "q_ar": "ما هي التقنية التي تم التحقيق فيها في المقال؟",
+          "q_en": "What technique was investigated in the article?",
+          "options_ar": [
+            "أ) تكنولوجيا العلاج الجيني",
+            "ب) تحديد super-enhancers",
+            "ج) استخدام البروتينات",
+            "د) تقنيات التصوير"
+          ],
+          "options_en": [
+            "A) Gene therapy technology",
+            "B) Identification of super-enhancers",
+            "C) Use of proteins",
+            "D) Imaging techniques"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم التحقيق في تقنية تحديد super-enhancers كجزء من البحث.",
+          "explanation_en": "The technique of identifying super-enhancers was investigated as part of the research."
+        }
+      ]
+    },
+    {
+      "pmid": "42076804",
+      "title_ar": "Recurrence Rate and Survival in 260 Patients With Oncocytic Thyroid Cancer According to Response to Initial Treatment - A Single-Institution Experience.",
+      "title_en": "Recurrence Rate and Survival in 260 Patients With Oncocytic Thyroid Cancer According to Response to Initial Treatment - A Single-Institution Experience.",
+      "journal": "Medical science monitor : international medical journal of experimental and clinical research",
+      "pub_date": "2026-May-04",
+      "doi": "10.12659/MSM.950937",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42076804/",
+      "pdf_url": "https://medscimonit.com/download/inPress/idArt/950937",
+      "study_design": "Retrospective series n=260",
+      "summary_ar": "هذه الدراسة استعرضت 260 مريضاً بسرطان الغدة الدرقية اونكوسيتك. تم تقييم معدلات تكرار المرض بناءً على الاستجابة للعلاج الأولي. أظهرت الدراسة أن معدل التكرار كان 6.5% لدى المرضى الذين استجابوا بشكل ممتاز، مقارنة بـ 36% لدى الآخرين. تم التعرف على عوامل الخطر المستقلة، بما في ذلك الجنس والعمر ومرحلة المرض. كما أظهرت الدراسة أن نسبة البقاء خالية من المرض بعد 5 سنوات كانت 88%.",
+      "summary_en": "This study reviewed 260 patients with oncocytic thyroid carcinoma. Recurrence rates based on initial treatment response were assessed. The study found a recurrence rate of 6.5% among patients with an excellent response, compared to 36% in others. Independent risk factors were identified, including sex, age, and disease stage. The 5-year disease-free survival rate was 88%.",
+      "practice_change_ar": "يمكن اتخاذ إجراءات جديدة لتقييم وعلاج سرطان الغدة الدرقية اونكوسيتك بناءً على الاستجابة للعلاج الأولي.",
+      "practice_change_en": "New approaches may be adopted for evaluating and treating oncocytic thyroid carcinoma based on initial treatment response.",
+      "future_impact_ar": "سيمكن هذا البحث من تحسين استراتيجيات الرعاية وتتبع نتائج المرضى.",
+      "future_impact_en": "This research may enable improved care strategies and tracking of patient outcomes.",
+      "why_important_ar": "تقدم هذه الدراسة رؤى جديدة حول عوامل الخطر المرتبطة بتكرار ظهور سرطان الغدة الدرقية.",
+      "why_important_en": "This study provides new insights into risk factors associated with recurrence of thyroid carcinoma.",
+      "vs_previous_ar": "يتجاوز البحث المعرفة السابقة بطرق تقييم الاستجابة للعلاج وتأثيرها على النتائج.",
+      "vs_previous_en": "This research surpasses prior knowledge by evaluating the treatment response and its impact on outcomes.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة مقبولة n=260 ووجود معلومات جديدة حول عوامل الخطر.",
+      "stars_reason_en": "Acceptable study n=260 with new information about risk factors.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Provides valuable information on thyroid carcinoma.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج الدراسات المستقبلية إلى تحديد استراتيجيات العلاج الأكثر فعالية للمرضى غير المستجيبين.",
+      "research_gap_en": "Future studies need to identify more effective treatment strategies for non-responders.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "هذه دراسة تتعلق بـ260 مريضاً بسرطان الغدة الدرقية اونكوسيتك، حيث تمت مراجعة معدلات التكرار بناءً على الاستجابة للعلاج الأولي. وجدت الدراسة أن 6.5% من المرضى الذين استجابوا بشكل ممتاز عانوا من تكرار المرض، مقارنة بـ36% في المجموعة الأخرى. تم تحديد أعراض خطر مستقلة تشمل الرجال والمرضى الأكبر سناً. بالنسبة للبقاء خالية من المرض، سجلت الدراسة 88% بعد 5 سنوات.",
+      "audio_script_en": "This study involves 260 patients with oncocytic thyroid carcinoma, reviewing recurrence rates based on initial treatment response. The study found that 6.5% of patients with an excellent response experienced recurrence compared to 36% in the other group. Independent risk factors included male sex and older age. As for disease-free survival, the study recorded 88% after 5 years.",
+      "mcq": [
+        {
+          "q_ar": "ما هو معدل التكرار لدى المرضى الذين استجابوا بشكل ممتاز؟",
+          "q_en": "What is the recurrence rate among patients with an excellent response?",
+          "options_ar": [
+            "أ) 6.5%",
+            "ب) 36%",
+            "ج) 17%",
+            "د) 10%"
+          ],
+          "options_en": [
+            "A) 6.5%",
+            "B) 36%",
+            "C) 17%",
+            "D) 10%"
+          ],
+          "answer": 0,
+          "explanation_ar": "يعكس معدل التكرار 6.5% لدى المرضى المستجيبين.",
+          "explanation_en": "The recurrence rate reflects 6.5% among responders."
+        },
+        {
+          "q_ar": "ما هو عامل الخطر المستقل الذي تم تحديده؟",
+          "q_en": "What is an identified independent risk factor?",
+          "options_ar": [
+            "أ) الجنس",
+            "ب) الوزن",
+            "ج) التاريخ الطبي",
+            "د) التدخين"
+          ],
+          "options_en": [
+            "A) sex",
+            "B) weight",
+            "C) medical history",
+            "D) smoking"
+          ],
+          "answer": 0,
+          "explanation_ar": "تم تحديد الجنس كعامل خطر مستقل.",
+          "explanation_en": "Sex was identified as an independent risk factor."
+        },
+        {
+          "q_ar": "ما هي نسبة البقاء خالية من المرض بعد 10 سنوات؟",
+          "q_en": "What is the disease-free survival rate after 10 years?",
+          "options_ar": [
+            "أ) 74%",
+            "ب) 79%",
+            "ج) 88%",
+            "د) 36%"
+          ],
+          "options_en": [
+            "A) 74%",
+            "B) 79%",
+            "C) 88%",
+            "D) 36%"
+          ],
+          "answer": 1,
+          "explanation_ar": "نسبة البقاء خالية من المرض بعد 10 سنوات هي 79%.",
+          "explanation_en": "The disease-free survival rate after 10 years is 79%."
+        }
+      ]
+    },
+    {
+      "pmid": "42081061",
+      "title_ar": "Burden of Sleep Disturbances and Sleep Apnea Risk Among Children with Epilepsy: A Case-Control Study.",
+      "title_en": "Burden of Sleep Disturbances and Sleep Apnea Risk Among Children with Epilepsy: A Case-Control Study.",
+      "journal": "Journal of epidemiology and global health",
+      "pub_date": "2026-May-04",
+      "doi": "10.1007/s44197-026-00569-0",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42081061/",
+      "pdf_url": null,
+      "study_design": "Case-control study",
+      "summary_ar": "تهدف هذه الدراسة إلى مقارنة انتشار الاضطرابات النوم وخطر انقطاع النفس الانسدادي أثناء النوم بين الأطفال الذين يعانون من النوبات والضوابط الصحية في المملكة العربية السعودية. تم إجراء الدراسة في مستشفى جامعة الملك عبد العزيز في جدة، وشملت 83 طفلًا يعانون من النوبات و167 ضابط صحي. كانت اضطرابات النوم أكثر شيوعًا بكثير في مجموعة النوبات (86.7%) مقارنةً بمجموعة الضوابط (21.6%). كما كانت نسبة الفحص الإيجابي لانقطاع النفس الانسدادي أعلى بين الأطفال الذين يعانون من النوبات (34.9% مقابل 15.6%). تشير النتائج إلى ضرورة دمج أدوات الفحص القياسية في الممارسة السريرية لتحديد وإدارة هذه الأمراض المشتركة.",
+      "summary_en": "This study aimed to compare the prevalence of sleep disturbances and obstructive sleep apnea (OSA) risk between children with seizures and healthy controls in Saudi Arabia. Conducted at King Abdulaziz University Hospital, Jeddah, it included 83 children with seizures and 167 healthy controls. Sleep disturbances were significantly more prevalent in the seizure group (86.7%) compared to controls (21.6%). The rate of positive OSA screening was higher among children with seizures (34.9% vs. 15.6%). The findings highlight the need for standard screening tools in clinical practice for timely identification and management of these comorbidities.",
+      "practice_change_ar": "يجب دمج أدوات الفحص القياسية لتشخيص اضطرابات النوم لدى الأطفال الذين يعانون من النوبات.",
+      "practice_change_en": "Standardized screening tools should be integrated to diagnose sleep disturbances in children with seizures.",
+      "future_impact_ar": "يمكن أن يؤدي هذا البحث إلى تحسين رعاية الأطفال الذين يعانون من النوبات.",
+      "future_impact_en": "This research can improve the care of children with seizures.",
+      "why_important_ar": "تعد الاضطرابات النوم شائعة بين الأطفال الذين يعانون من النوبات، مما يؤثر على نوعية حياتهم.",
+      "why_important_en": "Sleep disturbances are common among children with seizures, impacting their quality of life.",
+      "vs_previous_ar": "تُظهر الدراسة انتشارًا أكبر لاختلالات النوم مقارنة بالمعرفة السابقة.",
+      "vs_previous_en": "The study shows a higher prevalence of sleep disturbances compared to previous knowledge.",
+      "stars": 5,
+      "stars_reason_ar": "الدراسة تصميمها هو دراسة حالة-ضابط وتظهر نتائج جديدة مهمة تتعلق باضطرابات النوم.",
+      "stars_reason_en": "The study's design is a case-control, revealing significant new findings related to sleep disturbances.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تقدم الدراسة معلومات جديدة حول علاقة اضطرابات النوم بالنوبات.",
+      "jc_reason_en": "The study provides new insights into the relationship between sleep disturbances and seizures.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة لمزيد من الأبحاث حول كيفية تأثير العلاجات على اضطرابات النوم.",
+      "research_gap_en": "There is a need for further research on how treatments affect sleep disturbances.",
+      "subspecialty": "pediatric",
+      "audio_script_ar": "تناقش هذه الدراسة انتشار اضطرابات النوم وخطر انقطاع النفس الانسدادي بين الأطفال الذين يعانون من النوبات. أجريت المقارنة بين 83 طفلًا مصابًا بالنوبات و167 طفلًا صحيًا. أظهرت النتائج أن 86.7% من مجموعة النوبات يعانون من اضطرابات النوم، مما يؤكد الحاجة لتطبيق أدوات الفحص القياسية في الممارسة السريرية.",
+      "audio_script_en": "This study discusses the prevalence of sleep disturbances and sleep apnea risk among children with seizures. The comparison was made between 83 seizure-affected children and 167 healthy children. The results showed that 86.7% of the seizure group experienced sleep disturbances, highlighting the need for the integration of standardized screening tools in clinical practice.",
+      "mcq": [
+        {
+          "q_ar": "ما هي نسبة الأطفال المصابين بالنوبات الذين أظهروا اضطرابات نوم؟",
+          "q_en": "What percentage of children with seizures showed sleep disturbances?",
+          "options_ar": [
+            "أ) 21.6%",
+            "ب) 34.9%",
+            "ج) 86.7%",
+            "د) 15.6%"
+          ],
+          "options_en": [
+            "A) 21.6%",
+            "B) 34.9%",
+            "C) 86.7%",
+            "D) 15.6%"
+          ],
+          "answer": 2,
+          "explanation_ar": "86.7% من الأطفال المصابين بالنوبات أظهروا اضطرابات نوم.",
+          "explanation_en": "86.7% of children with seizures showed sleep disturbances."
+        },
+        {
+          "q_ar": "أين أُجريت هذه الدراسة؟",
+          "q_en": "Where was this study conducted?",
+          "options_ar": [
+            "أ) الرياض",
+            "ب) جدة",
+            "ج) مكة",
+            "د) الخبر"
+          ],
+          "options_en": [
+            "A) Riyadh",
+            "B) Jeddah",
+            "C) Mecca",
+            "D) Khobar"
+          ],
+          "answer": 1,
+          "explanation_ar": "أُجريت الدراسة في مستشفى جامعة الملك عبد العزيز في جدة.",
+          "explanation_en": "The study was conducted at King Abdulaziz University Hospital in Jeddah."
+        },
+        {
+          "q_ar": "ما هو العوامل المرتبطة باضطرابات النوم بين الأطفال المصابين بالنوبات؟",
+          "q_en": "What factors are associated with sleep disturbances among children with seizures?",
+          "options_ar": [
+            "أ) دخول المستشفى",
+            "ب) طول النوم",
+            "ج) حدوث النوبات",
+            "د) جميع ما سبق"
+          ],
+          "options_en": [
+            "A) Hospital admission",
+            "B) Sleep duration",
+            "C) Seizure occurrence",
+            "D) All of the above"
+          ],
+          "answer": 3,
+          "explanation_ar": "العوامل المرتبطة تشمل دخول المستشفى وطول النوم وحدوث النوبات.",
+          "explanation_en": "The associated factors include hospital admission, sleep duration, and seizure occurrence."
+        }
+      ]
+    },
+    {
+      "pmid": "41661680",
+      "title_ar": "Androgen Receptor Signaling Induces CD8+ T-cell Dysfunction That Is Reversed by Androgen Deprivation Therapy in Male Head and Neck Squamous Cell Carcinoma.",
+      "title_en": "Androgen Receptor Signaling Induces CD8+ T-cell Dysfunction That Is Reversed by Androgen Deprivation Therapy in Male Head and Neck Squamous Cell Carcinoma.",
+      "journal": "Cancer research",
+      "pub_date": "2026-May-04",
+      "doi": "10.1158/0008-5472.CAN-25-2384",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41661680/",
+      "pdf_url": null,
+      "study_design": "Animal study",
+      "summary_ar": "في هذا البحث، تم إثبات أن الاختلافات الجنسية في HNSCC تعتمد على الأندروجين، وتم التعرف على إشارة مستقبل الأندروجين كمنظم رئيسي للبيئة الميكروية للورم من خلال تعديل تمايز ووظيفة CD8+ T-cell. قامت الوظيفة الاستباقية 4 بالدور كعامل تحويل مباشر، مما أدى إلى عجز CD8+ T-cell. كانت العلاج بالحرمان من الأندروجين (ADT) استراتيجية علاجية فعالة، مما أدى إلى قمع نمو الورم وزيادة وظيفة CD8+ T-cell داخل الورم. علاوة على ذلك، أدى الدمج بين ADT وأدوية مثبطات نقطة التفتيش المناعي إلى تحسين الفعالية المضادة للورم. تسلط هذه النتائج الضوء على ADT كنهج علاجي واعد لتعزيز النشاط المضاد للورم في مرضى HNSCC.",
+      "summary_en": "This study demonstrated that sex differences in HNSCC are androgen-dependent and identified androgen receptor signaling as a key regulator of the tumor immune microenvironment by modulating CD8+ T-cell differentiation and function. Early growth response 4 acted as a direct downstream transcriptional effector that induced CD8+ T-cell dysfunction. Clinically, androgen deprivation therapy (ADT) was effective, suppressing tumor growth while improving intratumoral CD8+ T-cell function. Combining ADT with immune checkpoint inhibitors enhanced antitumor efficacy, illustrating ADT as a promising approach to boost antitumor activity in HNSCC.",
+      "practice_change_ar": "يمكن استخدام العلاج بالحرمان من الأندروجين لتحسين فعالية العلاج المناعي في مرضى HNSCC.",
+      "practice_change_en": "Androgen deprivation therapy can be utilized to enhance the effectiveness of immunotherapy in HNSCC patients.",
+      "future_impact_ar": "يمكن أن يؤدي هذا البحث إلى تطوير علاجات مناعية تستهدف بشكل خاص CD8+ T-cells في HNSCC.",
+      "future_impact_en": "This research may lead to the development of immunotherapies specifically targeting CD8+ T-cells in HNSCC.",
+      "why_important_ar": "تظهر هذه الدراسة الآلية البيولوجية الكامنة وراء الاختلافات في HNSCC بين الجنسين.",
+      "why_important_en": "This study reveals the underlying biological mechanisms for the sex disparities in HNSCC.",
+      "vs_previous_ar": "يختلف هذا البحث عن الدراسات السابقة في تحديد دور مستقبل الأندروجين كمنظم لبيئة الورم المناعية.",
+      "vs_previous_en": "This research differs from previous studies by identifying androgen receptor signaling as a regulator of the tumor immune microenvironment.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة تستند إلى تجربة حيوانية وتقدم معرفة جديدة حول تأثير ADT في HNSCC.",
+      "stars_reason_en": "The study is based on animal research and provides new knowledge on the effect of ADT in HNSCC.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Discussion on the findings related to androgen deprivation therapy and its impact on CD8+ T-cells is warranted.",
+      "watch": true,
+      "watch_detail_ar": "راقب تطور العلاجات المناعية المستندة إلى ADT في HNSCC.",
+      "watch_detail_en": "Watch for the development of immunotherapies based on ADT in HNSCC.",
+      "watch_type": "drug",
+      "research_gap_ar": "لا توجد دراسات كافية حول تأثير مستقبل الأندروجين على وظيفة CD8+ T-cell.",
+      "research_gap_en": "There are insufficient studies on the impact of androgen receptor signaling on CD8+ T-cell function.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "تناقش هذه الدراسة الاختلافات الجنسينية في HNSCC وتمدنا بفهم جديد عن دور الإشارات بواسطة مستقبل الأندروجين. تعطي نتائجنا أهمية للعلاج بالحرمان من الأندروجين كاستراتيجية علاجية فعالة، مما يفتح الباب لتطوير استراتيجيات مناعية مبنية على ذلك. يمكن استخدام النتائج كدليل لتطبيق ADT في تحسين فعالية العلاج المناعي، وبالتالي ينبغي على الجراحين في مجال ENT متابعة هذه التطورات.",
+      "audio_script_en": "This study discusses the sex differences in HNSCC and provides new insights into the role of androgen receptor signaling. Our results highlight the importance of androgen deprivation therapy as an effective therapeutic strategy, paving the way for developing immunotherapeutic strategies. The findings can serve as guidance for applying ADT to enhance immunotherapy effectiveness, hence, ENT surgeons should monitor these developments.",
+      "mcq": [
+        {
+          "q_ar": "ما هي العلاقة بين مستقبل الأندروجين وCD8+ T-cell في HNSCC؟",
+          "q_en": "What is the relationship between androgen receptor signaling and CD8+ T-cells in HNSCC?",
+          "options_ar": [
+            "أ) مستقبل الأندروجين يثبط وظيفة CD8+ T-cell",
+            "ب) مستقبل الأندروجين يعزز وظيفة CD8+ T-cell",
+            "ج) مستقبل الأندروجين لا يؤثر على CD8+ T-cell",
+            "د) مستقبل الأندروجين يزيد من عدد CD8+ T-cell"
+          ],
+          "options_en": [
+            "A) Androgen receptor inhibits CD8+ T-cell function",
+            "B) Androgen receptor enhances CD8+ T-cell function",
+            "C) Androgen receptor has no effect on CD8+ T-cells",
+            "D) Androgen receptor increases the number of CD8+ T-cells"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة توضح أن مستقبل الأندروجين يثبط وظيفة CD8+ T-cell مما يؤدي إلى ضعف الاستجابة المناعية.",
+          "explanation_en": "The study indicates that androgen receptor signaling inhibits CD8+ T-cell function, leading to immune response impairment."
+        },
+        {
+          "q_ar": "كيف يؤثر العلاج بالحرمان من الأندروجين (ADT) على أورام HNSCC؟",
+          "q_en": "How does androgen deprivation therapy (ADT) affect HNSCC tumors?",
+          "options_ar": [
+            "أ) يثبط نمو الورم",
+            "ب) يزيد من نمو الورم",
+            "ج) لا يؤثر على الورم",
+            "د) يحسن الاستجابة المناعية فقط"
+          ],
+          "options_en": [
+            "A) Suppresses tumor growth",
+            "B) Increases tumor growth",
+            "C) Has no effect on the tumor",
+            "D) Only improves immune response"
+          ],
+          "answer": 0,
+          "explanation_ar": "ADT أظهر فعالية في تقليل نمو الورم في نماذج الفئران.",
+          "explanation_en": "ADT showed efficacy in reducing tumor growth in mouse models."
+        },
+        {
+          "q_ar": "ما هو الدور المحتمل للدمج بين ADT ومثبطات نقطة التفتيش المناعي؟",
+          "q_en": "What is the potential role of combining ADT with immune checkpoint inhibitors?",
+          "options_ar": [
+            "أ) تحسين الفعالية المضادة للورم",
+            "ب) تقليل الفعالية المناعية",
+            "ج) زيادة الآثار الجانبية",
+            "د) ليس له تأثير"
+          ],
+          "options_en": [
+            "A) Improving antitumor efficacy",
+            "B) Reducing immune efficacy",
+            "C) Increasing side effects",
+            "D) Having no effect"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدمج بين ADT ومثبطات نقطة التفتيش المناعي أدى إلى تحسين الفعالية المضادة للورم.",
+          "explanation_en": "The combination of ADT with immune checkpoint inhibitors led to improved antitumor efficacy."
+        }
+      ]
+    },
+    {
+      "pmid": "41591363",
+      "title_ar": "Loss of JAK1 Function Causes G2-M Cell-Cycle Defects Vulnerable to KIF18A Inhibition.",
+      "title_en": "Loss of JAK1 Function Causes G2-M Cell-Cycle Defects Vulnerable to KIF18A Inhibition.",
+      "journal": "Cancer research",
+      "pub_date": "2026-May-04",
+      "doi": "10.1158/0008-5472.CAN-25-1423",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41591363/",
+      "pdf_url": null,
+      "study_design": "Retrospective series n>100",
+      "summary_ar": "هذه الدراسة تحقق في كيف يؤثر فقدان JAK1 على حساسية خلايا السرطان للإشعاع في سرطان الخلايا الحرشفية في الرأس والعنق. أظهرت النتائج أن فقدان JAK1 يعزز البقاء الخلوي بتأخير التقدم نحو الكارثة الانقسامية الناتجة عن الإشعاع. أيضًا، يُمكن أن يُعزز استهداف KIF18A مع sovilnesib فعالية الإشعاع عن طريق تقليل الحماية الناتجة عن توقف دورة الخلية من المرحلة G2 إلى M. يسلط البحث الضوء على دور JAK1 كوسيلة لدراسة مقاومة إشعاع السرطان. النتائج تشير إلى إمكانيات علاجية جديدة لتعزيز حساسية الأورام للإشعاع.",
+      "summary_en": "This study investigates how JAK1 loss impacts cancer cell sensitivity to radiation in head and neck squamous cell carcinoma. The findings show that JAK1 loss enhances cell survival by delaying progression to radiation-induced mitotic catastrophe. Additionally, targeting KIF18A with sovilnesib can enhance radiation efficacy by countering the protective G2-M cell-cycle arrest. This research highlights the role of JAK1 as a means to study radioresistance in cancer. The results indicate new therapeutic possibilities for enhancing tumor sensitivity to radiation.",
+      "practice_change_ar": "يمكن اعتبار استهداف KIF18A استراتيجياً لتحسين فعالية الإشعاع.",
+      "practice_change_en": "Targeting KIF18A can be considered a strategy to enhance radiation efficacy.",
+      "future_impact_ar": "قد يفتح هذا البحث آفاقاً جديدة لعلاجات الإشعاع في السرطانات التي تظهر مقاومة.",
+      "future_impact_en": "This research may open new avenues for radiation therapies in cancers that exhibit resistance.",
+      "why_important_ar": "هذه المقالة تبرز دور JAK1 في مقاومة الإشعاع وتقدم استراتيجيات علاجية جديدة.",
+      "why_important_en": "This article highlights the role of JAK1 in radioresistance and presents new therapeutic strategies.",
+      "vs_previous_ar": "هذه الدراسة تعطي رؤى جديدة حول استخدام KIF18A في تعزيز حساسية الأورام للاشعاع.",
+      "vs_previous_en": "This study provides new insights on using KIF18A to enhance tumor sensitivity to radiation.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة مرتجعة n>100 مع نتائج جديدة حول JAK1 وKIF18A في استجابة الأورام للإشعاع.",
+      "stars_reason_en": "Retrospective study of n>100 with new findings on JAK1 and KIF18A in tumor response to radiation.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The article provides important results on new strategies for cancer treatment.",
+      "watch": true,
+      "watch_detail_ar": "راقب استخدام sovilnesib كعلاج مساعد في تعزيز فعالية الإشعاع ضد الأورام.",
+      "watch_detail_en": "Watch the use of sovilnesib as an adjunct treatment to enhance radiation efficacy against tumors.",
+      "watch_type": "drug",
+      "research_gap_ar": "لا توجد معلومات كافية حول تأثير KIF18A على استجابة الأورام لعلاج الإشعاع.",
+      "research_gap_en": "There is insufficient information on the impact of KIF18A on tumor responses to radiation treatment.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "في هذه الدراسة، تم التحقيق في فقدان JAK1 وكيف يؤثر على حساسية خلايا السرطان لإشعاع العلاج. أظهرت النتائج أن فقدان JAK1 يعزز البقاء الخلوي من خلال تأخير التقدم نحو الكارثة الانقسامية الناتجة عن الإشعاع. علاوة على ذلك، استهداف KIF18A باستخدام دواء جديد يمكن أن يعزز فعالية الإشعاع من خلال تقليل الحماية الناتجة عن توقف دورة الخلية. هذا البحث يسلط الضوء على دور JAK1 في مقاومة إشعاع السرطان ويقدم استراتيجيات علاجية جديدة. هذه النتائج تشير إلى أهمية البحث في العوامل التي تؤثر على استجابة الأورام للعلاج الإشعاعي.",
+      "audio_script_en": "In this study, the impact of JAK1 loss on cancer cell sensitivity to radiation therapy was investigated. The results showed that loss of JAK1 enhances cell survival by delaying progression to radiation-induced mitotic catastrophe. Furthermore, targeting KIF18A with a new drug can enhance radiation efficacy by countering the protective cell cycle arrest. This research highlights the role of JAK1 in cancer radioresistance and presents new therapeutic strategies. These findings underscore the importance of investigating factors affecting tumor response to radiotherapy.",
+      "mcq": [
+        {
+          "q_ar": "ما تأثير فقدان JAK1 على حساسية خلايا السرطان للإشعاع؟",
+          "q_en": "What effect does JAK1 loss have on cancer cell sensitivity to radiation?",
+          "options_ar": [
+            "أ) يزيد الحساسية",
+            "ب) يقلل الحساسية",
+            "ج) لا يؤثر",
+            "د) يعزز البقاء"
+          ],
+          "options_en": [
+            "A) Increases sensitivity",
+            "B) Decreases sensitivity",
+            "C) No effect",
+            "D) Enhances survival"
+          ],
+          "answer": 3,
+          "explanation_ar": "فقدان JAK1 يعزز البقاء الخلوي عند التعرض للإشعاع.",
+          "explanation_en": "Loss of JAK1 enhances cell survival upon radiation exposure."
+        },
+        {
+          "q_ar": "ما الدور الذي يلعبه KIF18A في استجابة الأورام للعلاج الإشعاعي؟",
+          "q_en": "What role does KIF18A play in tumor response to radiation therapy?",
+          "options_ar": [
+            "أ) يقلل من فعالية العلاج",
+            "ب) يعزز الحساسية",
+            "ج) لا يؤثر",
+            "د) يزيد من الإشعاع"
+          ],
+          "options_en": [
+            "A) Reduces treatment efficacy",
+            "B) Increases sensitivity",
+            "C) No effect",
+            "D) Increases radiation"
+          ],
+          "answer": 1,
+          "explanation_ar": "استهداف KIF18A يعزز حساسية الأورام للعلاج الإشعاعي.",
+          "explanation_en": "Targeting KIF18A enhances tumor sensitivity to radiation treatment."
+        },
+        {
+          "q_ar": "ما التقنية المستخدمة في هذه الدراسة لدراسة تأثير JAK1 وKIF18A؟",
+          "q_en": "What technique was used in this study to investigate the effects of JAK1 and KIF18A?",
+          "options_ar": [
+            "أ) CRISPR-Cas9",
+            "ب) تحليل الجينات",
+            "ج) الفحص المناعي",
+            "د) التصوير الخلوي"
+          ],
+          "options_en": [
+            "A) CRISPR-Cas9",
+            "B) Gene analysis",
+            "C) Immunoassay",
+            "D) Cellular imaging"
+          ],
+          "answer": 0,
+          "explanation_ar": "استخدمت الدراسة تقنية CRISPR-Cas9 لإجراء الفحص الجيني.",
+          "explanation_en": "The study used the CRISPR-Cas9 technique for genetic screening."
+        }
+      ]
+    },
+    {
+      "pmid": "41260669",
+      "title_ar": "Comparative Evaluation of Deep Learning Models for 3D Segmentation and Volumetry of Vestibular Schwannomas Using Large Heterogeneous Data Sets with External Validation.",
+      "title_en": "Comparative Evaluation of Deep Learning Models for 3D Segmentation and Volumetry of Vestibular Schwannomas Using Large Heterogeneous Data Sets with External Validation.",
+      "journal": "AJNR. American journal of neuroradiology",
+      "pub_date": "2026-May-04",
+      "doi": "10.3174/ajnr.A9112",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41260669/",
+      "pdf_url": "https://doi.org/10.3174/ajnr.a9112",
+      "study_design": "Retrospective series n=383",
+      "summary_ar": "تقييم النموذج العميق لتجزئة الـ Vestibular Schwannomas من خلال استخدام بيانات متنوعة. تم استخدام 5 نماذج لتجزئة الـ VS والتكامل الحجمي من صور T1-contrast-enhanced، حيث تم تدريب هذه النماذج على 2692 مسح. النتائج أظهرت أن U-Mamba سجلت أعلى درجات Dice على مجموعة الاختبار الخارجية، في حين أن أداء النماذج الأخرى كان قابلاً للمقارنة. أدت أحجام الأورام المختلفة إلى تفاوت في درجات الأداء، مما يدل على تأثير الحجم والاختلاف في البيانات على النتائج.",
+      "summary_en": "Evaluation of deep learning models for the segmentation and volumetry of Vestibular Schwannomas using heterogeneous data sets. Five models were used for VS segmentation from T1-contrast-enhanced images, trained on 2692 scans. Results showed that U-Mamba achieved the highest Dice scores on the external test set, while other models had comparable performance. Different tumor volumes led to variability in performance scores, indicating the impact of size and data heterogeneity on results.",
+      "practice_change_ar": "يمكن للنماذج المتقدمة تحسين دقة تخطيط الأورام في الممارسات السريرية.",
+      "practice_change_en": "Advanced models may enhance the accuracy of tumor mapping in clinical practice.",
+      "future_impact_ar": "تؤكد هذه الدراسة على أهمية استخدام الذكاء الاصطناعي في تحسين ممارسات علاج الأورام.",
+      "future_impact_en": "This study underlines the importance of utilizing AI to enhance tumor treatment practices.",
+      "why_important_ar": "توضح الدراسة كيفية استفادة الممارسات السريرية من النماذج المتقدمة لتجزئة الأورام.",
+      "why_important_en": "The study illustrates how clinical practices could benefit from advanced models for tumor segmentation.",
+      "vs_previous_ar": "يوفر هذا البحث تقنيات جديدة وأداء أفضل مقارنة بالتقنيات السابقة.",
+      "vs_previous_en": "This research offers new techniques and better performance compared to previous methods.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استرجاعية بحجم عينة كبير تقدم أدوات جديدة لتجزئة الأورام.",
+      "stars_reason_en": "A retrospective study with a large sample size presenting new tools for tumor segmentation.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study provides valuable insights into the use of AI for improving tumor segmentation.",
+      "watch": true,
+      "watch_detail_ar": "يستحق التنمية المتقدمة لموديلات الذكاء الاصطناعي في تجزئة الأورام.",
+      "watch_detail_en": "The advanced development of AI models in tumor segmentation is worth tracking.",
+      "watch_type": "technology",
+      "research_gap_ar": null,
+      "research_gap_en": null,
+      "subspecialty": "skull_base",
+      "audio_script_ar": "تتحدث هذه الدراسة عن تقييم الأنموذج العميق لتجزئة الـ Vestibular Schwannomas باستخدام بيانات متنوعة. استخدمت الدراسة خمسة نماذج لتجزئة الـ VS من صور T1-contrast-enhanced، حيث تم تدريب هذه النماذج على 2692 مسح. النتائج أظهرت أن U-Mamba سجلت أعلى درجات Dice على مجموعة الاختبار الخارجية، بينما كان أداء النماذج الأخرى قابلاً للمقارنة. هذا يشير إلى أن النماذج المتقدمة تُعتبر مناسبة للاستخدام السريري، خاصة لزيادة دقة تخطيط الأورام.",
+      "audio_script_en": "This study discusses the evaluation of deep learning models for the segmentation of Vestibular Schwannomas using heterogeneous data sets. Five models were employed for VS segmentation from T1-contrast-enhanced images, trained on 2692 scans. Results indicated that U-Mamba achieved the highest Dice scores on the external test set, with other models showing comparable performance. This suggests that advanced models are suitable for clinical use, particularly for enhancing the accuracy of tumor mapping.",
+      "mcq": [
+        {
+          "q_ar": "ما هو النموذج الذي حقق أعلى أداء في الدراسة؟",
+          "q_en": "Which model achieved the highest performance in the study?",
+          "options_ar": [
+            "أ) U-Mamba",
+            "ب) nnUNet",
+            "ج) UNETR",
+            "د) MedSAM"
+          ],
+          "options_en": [
+            "A) U-Mamba",
+            "B) nnUNet",
+            "C) UNETR",
+            "D) MedSAM"
+          ],
+          "answer": 0,
+          "explanation_ar": "حققت U-Mamba أعلى درجات Dice وفقاً للنتائج.",
+          "explanation_en": "U-Mamba achieved the highest Dice scores according to the results."
+        },
+        {
+          "q_ar": "ما هو العدد الكلي للصور المستخدمة في التدريب؟",
+          "q_en": "What is the total number of images used for training?",
+          "options_ar": [
+            "أ) 2692",
+            "ب) 277",
+            "ج) 383",
+            "د) 241"
+          ],
+          "options_en": [
+            "A) 2692",
+            "B) 277",
+            "C) 383",
+            "D) 241"
+          ],
+          "answer": 0,
+          "explanation_ar": "تم استخدام 2692 مسحاً في التدريب.",
+          "explanation_en": "A total of 2692 scans were used for training."
+        },
+        {
+          "q_ar": "ما هو المتوسط العام لدرجة الـ Dice في مجموعة الاختبار الخارجية؟",
+          "q_en": "What is the overall median Dice score in the external test set?",
+          "options_ar": [
+            "أ) 0.848",
+            "ب) 0.899",
+            "ج) 0.927",
+            "د) 0.925"
+          ],
+          "options_en": [
+            "A) 0.848",
+            "B) 0.899",
+            "C) 0.927",
+            "D) 0.925"
+          ],
+          "answer": 1,
+          "explanation_ar": "تراوحت درجات Dice بين 0.899 و0.927.",
+          "explanation_en": "The Dice scores varied between 0.899 and 0.927."
+        }
+      ]
+    },
+    {
+      "pmid": "42077068",
+      "title_ar": "CXCL11 secreted by cancer-associated fibroblasts promotes nasopharyngeal carcinoma progression via CXCR3/PD-L1 axis.",
+      "title_en": "CXCL11 secreted by cancer-associated fibroblasts promotes nasopharyngeal carcinoma progression via CXCR3/PD-L1 axis.",
+      "journal": "Cell adhesion & migration",
+      "pub_date": "2026-Dec",
+      "doi": "10.1080/19336918.2026.2665498",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42077068/",
+      "pdf_url": null,
+      "study_design": "Retrospective series n>100",
+      "summary_ar": "تم التعرف على C-X-C motif chemokine ligand 11 (CXCL11) أنه تم رفعه في أنسجة الأورام لمرضى سرطان البلعوم الأنفي (NPC) مقارنة بالأنسجة والخطوط الخلوية العادية. CXCL11 المستمد من CAFs يعزز القدرات التزايدية والغزوانية والتحركية لخلايا NPC. يعزز CXCL11 / CXCR3 التعبير عن PD-L1 من خلال تفعيل النسخ الذي يتوسطه p65. في تجارب الحية، تم التحقق من الدور الترويجى للأورام الخاص بـ CXCL11. تشير نتائج الدراسة إلى آلية جديدة حيث يعزز CXCL11 السرطاني عن طريق تفعيل محور CXCR3/PD-L1.",
+      "summary_en": "C-X-C motif chemokine ligand 11 (CXCL11) was found to be upregulated in tumor tissues of NPC patients. CAFs-derived CXCL11 enhances NPC cells' proliferative, invasive, and migratory capacities. The CXCL11/CXCR3 axis facilitates PD-L1 expression through p65-mediated transcription activation. In vivo experiments validated the tumor-promoting role of CAFs-secreted CXCL11. The study reveals a novel mechanism of CXCL11 promoting NPC progression via CXCR3/PD-L1 signaling.",
+      "practice_change_ar": "قد تؤثر النتائج على كيفية تعاملنا مع سرطان البلعوم الأنفي من خلال استهداف محور CXCL11/CXCR3.",
+      "practice_change_en": "The findings may influence our approach to nasopharyngeal carcinoma by targeting the CXCL11/CXCR3 axis.",
+      "future_impact_ar": "يمكن أن تؤدي هذه الدراسة إلى استراتيجيات جديدة في العلاج المناعي لسرطان البلعوم الأنفي.",
+      "future_impact_en": "This study may lead to new immunotherapy strategies for treating nasopharyngeal carcinoma.",
+      "why_important_ar": "تساعد هذه الدراسة في فهم دور CAFs في تطور سرطان البلعوم الأنفي.",
+      "why_important_en": "This study aids in understanding the role of CAFs in nasopharyngeal carcinoma progression.",
+      "vs_previous_ar": "تقدم هذه الدراسة آلية جديدة لم تكن مفهومة سابقًا فيما يتعلق بدور CXCL11 في سرطان البلعوم الأنفي.",
+      "vs_previous_en": "This study provides a new mechanism that was not previously understood regarding the role of CXCL11 in nasopharyngeal carcinoma.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استعادية على أكثر من 100 مريض تقدم نتائج جديدة حول دور CXCL11 في سرطان البلعوم.",
+      "stars_reason_en": "Retrospective study on over 100 patients providing new insights into the role of CXCL11 in nasopharyngeal carcinoma.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": null,
+      "watch": true,
+      "watch_detail_ar": "يجب مراقبة تطوير العلاجات المستهدفة التي تستهدف محور CXCL11/CXCR3.",
+      "watch_detail_en": "Targeted therapies aimed at the CXCL11/CXCR3 axis should be monitored.",
+      "watch_type": "drug",
+      "research_gap_ar": "هناك حاجة إلى مزيد من الدراسات لاستكشاف التطبيقات السريرية لعلاج سرطان البلعوم الأنفي بناءً على نتائج هذه الدراسة.",
+      "research_gap_en": "Further studies are needed to explore clinical applications for treating nasopharyngeal carcinoma based on these findings.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "في هذه الدراسة، تم تحديد دور CXCL11 المفرز من fibroblasts المرتبطة بالسرطان في تقدم سرطان البلعوم الأنفي. لوحظ أن CXCL11 كان مرتفعًا في أنسجة الأورام مقارنة بالتجاويف العادية. يعزز CXCL11 القدرات التزايدية للسرطان من خلال تفعيل محور CXCR3/PD-L1. نتائج هذه الدراسة تحدد استراتيجية جديدة محتملة للعلاج المناعي. هذه الدراسة توفر رؤى جديدة قد تؤثر على كيفية تعاملنا مع سرطان البلعوم الأنفي.",
+      "audio_script_en": "This study identifies the role of CXCL11 secreted by cancer-associated fibroblasts in the progression of nasopharyngeal carcinoma. CXCL11 was found to be elevated in tumor tissues compared to normal counterparts. It enhances the cancer's proliferative capabilities by activating the CXCR3/PD-L1 axis. The results of this study define a potential new strategy for immunotherapy. This study provides new insights that could influence how we manage nasopharyngeal carcinoma.",
+      "mcq": [
+        {
+          "q_ar": "ما هو تأثير CXCL11 على خلايا سرطان البلعوم الأنفي؟",
+          "q_en": "What is the effect of CXCL11 on nasopharyngeal carcinoma cells?",
+          "options_ar": [
+            "أ) يعزز الغزو والتحركية.",
+            "ب) يقلل النمو.",
+            "ج) ليس له تأثير.",
+            "د) يحد من الانشقاق."
+          ],
+          "options_en": [
+            "A) Enhances invasion and migration.",
+            "B) Reduces growth.",
+            "C) Has no effect.",
+            "D) Restricts apoptosis."
+          ],
+          "answer": 0,
+          "explanation_ar": "CXCL11 يزيد من القدرة على النمو والغزو والتحركية لخلايا سرطان البلعوم الأنفي.",
+          "explanation_en": "CXCL11 increases the proliferative, invasive, and migratory capacities of nasopharyngeal carcinoma cells."
+        },
+        {
+          "q_ar": "أي محور ينشط CXCL11 في هذه الدراسة؟",
+          "q_en": "Which axis does CXCL11 activate in this study?",
+          "options_ar": [
+            "أ) PD-L1/CXCR3.",
+            "ب) CXCR4/PD-1.",
+            "ج) IL-6/STAT3.",
+            "د) TGFβ/SMAD."
+          ],
+          "options_en": [
+            "A) PD-L1/CXCR3.",
+            "B) CXCR4/PD-1.",
+            "C) IL-6/STAT3.",
+            "D) TGFβ/SMAD."
+          ],
+          "answer": 0,
+          "explanation_ar": "محور CXCL11/CXCR3 ينشط ويعزز التعبير عن PD-L1.",
+          "explanation_en": "The CXCL11/CXCR3 axis is activated and enhances PD-L1 expression."
+        },
+        {
+          "q_ar": "ما هي نوع الدراسة التي تنتمي إليها هذه المقالة؟",
+          "q_en": "What type of study does this article belong to?",
+          "options_ar": [
+            "أ) دراسة عشوائية محكومة.",
+            "ب) دراسة استعادية.",
+            "ج) دراسة حالة.",
+            "د) دراسة مستقبلية."
+          ],
+          "options_en": [
+            "A) Randomized controlled trial.",
+            "B) Retrospective study.",
+            "C) Case study.",
+            "D) Prospective study."
+          ],
+          "answer": 1,
+          "explanation_ar": "هذه دراسة استعادية تستند إلى بيانات أكثر من 100 مريض.",
+          "explanation_en": "This is a retrospective study based on data from over 100 patients."
+        }
+      ]
+    },
+    {
+      "pmid": "42082314",
+      "title_ar": "Diagnostic Performance of the Stenvers and Pöschl Planes on CT in the Evaluation of Superior Semicircular Canal Dehiscence.",
+      "title_en": "Diagnostic Performance of the Stenvers and Pöschl Planes on CT in the Evaluation of Superior Semicircular Canal Dehiscence.",
+      "journal": "AJNR. American journal of neuroradiology",
+      "pub_date": "2026-May-04",
+      "doi": "10.3174/ajnr.A9131",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42082314/",
+      "pdf_url": null,
+      "study_design": "Retrospective series n=61",
+      "summary_ar": "تُعتبر الأشعة المقطعية في تقييم dehiscence في القناة الهلالية العلوية (SSCD) مهمة للتشخيص والتخطيط الجراحي. يتناول هذا البحث مقارنة موثوقية المراجعة بين مشهدي Stenvers وPöschl ضد المعيار الجراحي. شملت الدراسة المرضى الذين خضعوا لتصوير مقطعي لجماجمهم وعمليات جراحية للاشتباه في SSCD. تبيّن أن توافق القراء جزئيًا كان ممتازًا بخصوص وجود العيب، بينما كان قياس حجم العيب مخرجات موثوقة. أظهر مشهد Stenvers دقة تشخيصية أفضل من مشهد Pöschl.",
+      "summary_en": "CT evaluation of superior semicircular canal dehiscence (SSCD) is crucial for diagnosis and surgical planning. This study compares interreader reliability and diagnostic accuracy of the Stenvers and Pöschl views against the surgical criterion standard. The study included patients who underwent preoperative temporal bone CT and surgery for suspected SSCD. Interreader agreement regarding defect presence was excellent, while defect size correlation showed reliable outputs. Stenvers view demonstrated superior diagnostic accuracy compared to Pöschl view.",
+      "practice_change_ar": "يمكن أن يؤدي استخدام مشهد Stenvers إلى تحسين دقة التشخيص في SSCD.",
+      "practice_change_en": "Utilizing the Stenvers view may enhance diagnostic accuracy in SSCD.",
+      "future_impact_ar": "قد تساعد النتائج في تحسين طرق التشخيص والعمليات الجراحية في حالات SSCD.",
+      "future_impact_en": "The findings may aid in improving diagnostic approaches and surgical strategies in SSCD cases.",
+      "why_important_ar": "تشير الدراسة إلى أهمية مشهدي Stenvers وPöschl في تقييم SSCD بموثوقية عالية.",
+      "why_important_en": "The study highlights the importance of the Stenvers and Pöschl views in evaluating SSCD with high reliability.",
+      "vs_previous_ar": "تفوق مشهد Stenvers في الدقة التشخيصية مقارنة بمشهد Pöschl.",
+      "vs_previous_en": "The Stenvers view outperformed the Pöschl view in diagnostic accuracy.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة سير استعادي مع n=61 توضح دقة التشخيص العالية.",
+      "stars_reason_en": "Retrospective study with n=61 illustrates high diagnostic accuracy.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Offers a novel comparison between the Stenvers and Pöschl views.",
+      "watch": true,
+      "watch_detail_ar": "ترقب استخدام مشهد Stenvers لتحسين تقييم SSCD.",
+      "watch_detail_en": "Monitor the use of the Stenvers view for improved SSCD assessment.",
+      "watch_type": "technology",
+      "research_gap_ar": "تحتاج الأبحاث المستقبلية لاستكشاف تطبيقات تقنية أخرى في تقييم SSCD.",
+      "research_gap_en": "Future research should explore other technological applications in SSCD assessment.",
+      "subspecialty": "otology",
+      "audio_script_ar": "تعتبر الأشعة المقطعية عنصرًا أساسيًا في تقييم dehiscence في القناة الهلالية العلوية. هدف الدراسة هو المقارنة بين موثوقية المراجعة بين مشهدي Stenvers وPöschl. تم تضمين 61 أذن في التحليل. أظهرت النتائج توافقًا ممتازًا بين القراء بخصوص وجود العيب ولكن تباين في قياس الحجم. اتضح أن مشهد Stenvers يتفوق في الدقة التشخيصية مقارنة بمشهد Pöschl. تشير النتائج إلى أهمية استخدام مشهد Stenvers في تحسين تقييم SSCD.",
+      "audio_script_en": "CT is a fundamental element in assessing superior semicircular canal dehiscence. The aim of the study is to compare interreader reliability between Stenvers and Pöschl views. A total of 61 ears were included in the analysis. Results showed excellent interreader agreement regarding defect presence but variability in size measurement. The Stenvers view demonstrated superior diagnostic accuracy compared to the Pöschl view. The findings highlight the importance of using the Stenvers view to improve SSCD assessment.",
+      "mcq": [
+        {
+          "q_ar": "ما هو النوع الأكثر دقة في تشخيص SSCD وفقًا للدراسة؟",
+          "q_en": "Which view demonstrated higher diagnostic accuracy for SSCD according to the study?",
+          "options_ar": [
+            "أ) Stenvers",
+            "ب) Pöschl",
+            "ج) كليهما",
+            "د) لا شيء"
+          ],
+          "options_en": [
+            "A) Stenvers",
+            "B) Pöschl",
+            "C) Both",
+            "D) None"
+          ],
+          "answer": 0,
+          "explanation_ar": "أظهرت الدراسة أن مشهد Stenvers فاق Pöschl في الدقة التشخيصية.",
+          "explanation_en": "The study found that the Stenvers view outperformed the Pöschl view in diagnostic accuracy."
+        },
+        {
+          "q_ar": "ما هو عدد الأذان التي تم تحليلها في الدراسة؟",
+          "q_en": "What was the number of ears analyzed in the study?",
+          "options_ar": [
+            "أ) 40",
+            "ب) 50",
+            "ج) 61",
+            "د) 70"
+          ],
+          "options_en": [
+            "A) 40",
+            "B) 50",
+            "C) 61",
+            "D) 70"
+          ],
+          "answer": 2,
+          "explanation_ar": "تم تحليل 61 أذن في الدراسة.",
+          "explanation_en": "A total of 61 ears were analyzed in the study."
+        },
+        {
+          "q_ar": "ما هو معامل الكفاءة المتعلق بوجود العيب؟",
+          "q_en": "What was the kappa coefficient related to defect presence?",
+          "options_ar": [
+            "أ) 0.5",
+            "ب) 0.7",
+            "ج) 0.78",
+            "د) 0.9"
+          ],
+          "options_en": [
+            "A) 0.5",
+            "B) 0.7",
+            "C) 0.78",
+            "D) 0.9"
+          ],
+          "answer": 2,
+          "explanation_ar": "الإجابة الصحيحة هي 0.78، كما هو موضح في الدراسة.",
+          "explanation_en": "The correct answer is 0.78, as indicated in the study."
+        }
+      ]
+    },
+    {
+      "pmid": "41203426",
+      "title_ar": "Correlation between 4D-CT Enhancement Patterns and Parathyroid Adenoma Cellularity: A Retrospective Study.",
+      "title_en": "Correlation between 4D-CT Enhancement Patterns and Parathyroid Adenoma Cellularity: A Retrospective Study.",
+      "journal": "AJNR. American journal of neuroradiology",
+      "pub_date": "2026-May-04",
+      "doi": "10.3174/ajnr.A9090",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41203426/",
+      "pdf_url": "https://doi.org/10.3174/ajnr.a9090",
+      "study_design": "Retrospective cohort study n=121",
+      "summary_ar": "تم إجراء دراسة جماعية استعادية على 134 مريضاً خضعوا لتقنية 4D-CT لتحديد مواقع غدد جارات الدرق قبل الجراحة. كانت دراسة الارتباط بين أنماط تعزيز 4D-CT وخصائص النسج مهمة لفهم الخواص النسيجية للأورام. تم تضمين 121 ورماً درقياً في التحليل النهائي. أظهرت النتائج أن التعزيز من النوع A كان مرتبطاً بشكل مستقل بزيادة الكثافة الخلوية. تعتبر هذه النتائج ذات أهمية لمساعدة الجراحين في التخطيط للعمليات الجراحية.",
+      "summary_en": "A retrospective cohort study was conducted on 134 patients who underwent 4D-CT for preoperative localization of parathyroid glands. The study aimed to evaluate the correlation between enhancement patterns of 4D-CT and histological features of tumors. A total of 121 parathyroid lesions were included in the final analysis. The results indicated that type A enhancement was independently associated with increased cellularity. These findings are significant for assisting surgeons in operative planning.",
+      "practice_change_ar": "التعزيز من النوع A يعتبر علامة بديلة للخصائص النسيجية.",
+      "practice_change_en": "Type A enhancement is considered a surrogate marker for histological features.",
+      "future_impact_ar": "قد تعزز هذه النتائج طرق التخطيط الجراحي.",
+      "future_impact_en": "These findings may enhance surgical planning methods.",
+      "why_important_ar": "تساعد النتائج الجراحين في اتخاذ قرارات أكثر دقة.",
+      "why_important_en": "The results assist surgeons in making more accurate decisions.",
+      "vs_previous_ar": "تشير هذه الدراسة إلى وجود ارتباط بين الأنماط النسيجية وأنماط التعزيز، وهو ما لم يكن واضحًا في الماضي.",
+      "vs_previous_en": "This study suggests a relationship between histological patterns and enhancement patterns, which was unclear in the past.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استعادية مع n>100، تقدم معرفة جديدة عن العلاقة بين التعزيز الخلوي والأنماط النسيجية.",
+      "stars_reason_en": "Retrospective study with n>100, providing new knowledge about the relationship between cellular enhancement and histological patterns.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study's findings provide valuable information for surgeons.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة استخدام تقنية 4D-CT لأنماط التعزيز في الدراسات المستقبلية.",
+      "watch_detail_en": "The use of 4D-CT enhancement patterns in future studies should be monitored.",
+      "watch_type": "technology",
+      "research_gap_ar": "لا توجد دراسات سابقة توضح العلاقة بين الأنماط التاريخية وعنصر التعزيز.",
+      "research_gap_en": "There are no prior studies that clarify the relationship between histological patterns and enhancement features.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "أهلاً بكم في مراجعة الأدبيات المتعلقة بالأنف والأذن والحنجرة. تتناول هذه الدراسة العلاقة بين أنماط تعزيز 4D-CT وكثافة خلايا غدد جارات الدرق. تم استبعاد الأورام التي لم يُصرح بها من تحليلات المجري، مما أدى إلى تضمين 121 ورماً. وجدت النتائج أن التعزيز من النوع A مرتبط بشكل مستقل بزيادة الكثافة الخلوية، بينما لم تكن الأنماط الأخرى لها علاقة. هذه المعلومات قد تعزز التخطيط الجراحي.",
+      "audio_script_en": "Welcome to the ENT literature review. This study addresses the relationship between 4D-CT enhancement patterns and the cellularity of parathyroid glands. Lesions not visualized were excluded from analysis, resulting in 121 tumors included. The results found that type A enhancement was independently associated with increased cellularity, whereas other patterns showed no correlation. This information may enhance surgical planning.",
+      "mcq": [
+        {
+          "q_ar": "ما نوع الدراسة التي تم إجراؤها في هذا المقال؟",
+          "q_en": "What type of study was conducted in this article?",
+          "options_ar": [
+            "أ) دراسة عشوائية",
+            "ب) دراسة استعادية",
+            "ج) دراسة مستقبلية",
+            "د) دراسة حالة"
+          ],
+          "options_en": [
+            "A) Randomized study",
+            "B) Retrospective study",
+            "C) Prospective study",
+            "D) Case study"
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسة هي دراسة استعادية تتضمن مجموعة كبيرة من المرضى.",
+          "explanation_en": "The study is a retrospective study involving a large patient cohort."
+        },
+        {
+          "q_ar": "ما هي العلاقة بين التعزيز من النوع A والكثافة الخلوية؟",
+          "q_en": "What is the relationship between type A enhancement and cellularity?",
+          "options_ar": [
+            "أ) ليس لها علاقة",
+            "ب) مرتبطة بشكل إيجابي",
+            "ج) مرتبطة بشكل سلبي",
+            "د) غير معروفة"
+          ],
+          "options_en": [
+            "A) No correlation",
+            "B) Positively correlated",
+            "C) Negatively correlated",
+            "D) Unknown"
+          ],
+          "answer": 1,
+          "explanation_ar": "التعزيز من النوع A كان مرتبطاً بشكل مستقل بزيادة الكثافة الخلوية.",
+          "explanation_en": "Type A enhancement was independently associated with increased cellularity."
+        },
+        {
+          "q_ar": "ما الذي تشير إليه النتائج بالنسبة للتخطيط الجراحي؟",
+          "q_en": "What do the findings suggest for surgical planning?",
+          "options_ar": [
+            "أ) لا فائدة منها",
+            "ب) تعزز عملية اتخاذ القرار",
+            "ج) تزيد من التعقيدات",
+            "د) غير مؤكدة"
+          ],
+          "options_en": [
+            "A) Not useful",
+            "B) Enhances decision-making",
+            "C) Increases complications",
+            "D) Uncertain"
+          ],
+          "answer": 1,
+          "explanation_ar": "تساعد النتائج الجراحين في اتخاذ قرارات أكثر دقة.",
+          "explanation_en": "The findings assist surgeons in making more accurate decisions."
+        }
+      ]
+    },
+    {
+      "pmid": "40794640",
+      "title_ar": "Cardiovascular benefit of continuous positive airway pressure according to high-risk obstructive sleep apnoea: a multi-trial analysis.",
+      "title_en": "Cardiovascular benefit of continuous positive airway pressure according to high-risk obstructive sleep apnoea: a multi-trial analysis.",
+      "journal": "European heart journal",
+      "pub_date": "2026-May-05",
+      "doi": "10.1093/eurheartj/ehaf447",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40794640/",
+      "pdf_url": "https://academic.oup.com/eurheartj/advance-article-pdf/doi/10.1093/eurheartj/ehaf447/63815061/ehaf447.pdf",
+      "study_design": "RCT multi-trial analysis",
+      "summary_ar": "تستند هذه الدراسة إلى تحليل لاحق لبيانات ثلاث تجارب عشوائية محكومة تتعلق بعلاج ضغط مجرى الهواء الإيجابي المستمر (CPAP) في مرضى انقطاع النفس النومي، مع التركيز على المرضى ذوي المخاطر العالية. أظهرت النتائج أن فوائد CPAP في تحسين النتائج القلبية كانت أكبر لدى المرضى ذوي انقطاع النفس النومي المرتفع المخاطر. في المقابل، لوحظت أضرار في المرضى ذوي الانقطاع المنخفض المخاطر. النتائج تشير إلى أهمية تحديد المرضى الذين من المحتمل أن يستفيدوا من CPAP.",
+      "summary_en": "This study is based on a post hoc analysis of data from three randomized controlled trials regarding continuous positive airway pressure (CPAP) treatment in patients with obstructive sleep apnoea, focusing on high-risk patients. The results demonstrated that the cardiovascular benefits of CPAP were greater in patients with high-risk obstructive sleep apnoea. Conversely, harm was observed in low-risk patients. The findings indicate the importance of identifying patients likely to benefit from CPAP.",
+      "practice_change_ar": "يمكن استخدام النتائج لتحديد المرضى الذين من المرجح أن يستفيدوا من CPAP.",
+      "practice_change_en": "The results can be used to identify patients likely to benefit from CPAP.",
+      "future_impact_ar": "يمكن أن تسهم النتائج في تحسين الاستراتيجيات العلاجية لمرضى انقطاع النفس النومي.",
+      "future_impact_en": "The results may contribute to improving treatment strategies for patients with obstructive sleep apnoea.",
+      "why_important_ar": "تؤكد هذه الدراسة على أهمية CPAP في تحسين النتائج القلبية لدى المرضى ذوي المخاطر العالية.",
+      "why_important_en": "This study emphasizes the importance of CPAP in improving cardiovascular outcomes in high-risk patients.",
+      "vs_previous_ar": "تختلف هذه النتائج عن الدراسات السابقة التي لم تجد تأثيراً ضاراً في مرضى انقطاع النفس النومي المنخفض المخاطر.",
+      "vs_previous_en": "These findings differ from previous studies that found no detrimental effects in low-risk obstructive sleep apnoea patients.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة RCT متعددة التجارب تقدم معلومات قيمة تحسن الممارسات السريرية.",
+      "stars_reason_en": "Multi-trial RCT study provides valuable information that improves clinical practices.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This study provides new insights into the impact of CPAP on high-risk patients.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة استخدام CPAP في المرضى ذوي المخاطر العالية لمراقبة تأثيره على النتائج القلبية.",
+      "watch_detail_en": "Watch the use of CPAP in high-risk patients for its impact on cardiovascular outcomes.",
+      "watch_type": "device",
+      "research_gap_ar": "يحتاج البحث إلى مزيد من الدراسات لتحديد كيفية تحسين لوائح CPAP.",
+      "research_gap_en": "Further research is needed to determine how to optimize CPAP guidelines.",
+      "subspecialty": "sleep",
+      "audio_script_ar": "تتناول هذه الدراسة تأثير CPAP على نتائج القلب في مرضى انقطاع النفس النومي. يُظهر التحليل اللاحق فوائد أكبر لـ CPAP في المرضى ذوي المخاطر العالية، بينما توجد أضرار في المرضى ذوي المخاطر المنخفضة. هذا يؤكد أهمية تحديد المرضى الذين يمكن أن يستفيدوا من CPAP. يجب متابعة التطبيقات المستقبلية لتحسين استراتيجيات العلاج.",
+      "audio_script_en": "This study addresses the impact of CPAP on cardiovascular outcomes in patients with obstructive sleep apnoea. The post hoc analysis shows greater benefits of CPAP in high-risk patients, while harm exists in low-risk patients. This highlights the importance of identifying patients who may benefit from CPAP. Future applications should be monitored to improve treatment strategies.",
+      "mcq": [
+        {
+          "q_ar": "ما هي الفائدة الرئيسية من CPAP حسب الدراسة؟",
+          "q_en": "What is the main benefit of CPAP according to the study?",
+          "options_ar": [
+            "أ) تحسين النتائج القلبية لدى ذوي المخاطر العالية",
+            "ب) عدم وجود تأثيرات سلبية",
+            "ج) زيادة مخاطر القلب",
+            "د) تأثير CPAP غير معروف"
+          ],
+          "options_en": [
+            "A) Improving cardiovascular outcomes in high-risk patients",
+            "B) No negative effects",
+            "C) Increased cardiac risks",
+            "D) Unclear effects of CPAP"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة تظهر أن CPAP يحسن النتائج القلبية لدى المرضى ذوي المخاطر العالية.",
+          "explanation_en": "The study shows that CPAP improves cardiovascular outcomes in high-risk patients."
+        },
+        {
+          "q_ar": "ما الذي يميز المرضى ذوي المخاطر العالية؟",
+          "q_en": "What characterizes high-risk patients?",
+          "options_ar": [
+            "أ) انقطاع النفس المنخفض المخاطر",
+            "ب) استجابة معدل ضربات القلب المرتفعة",
+            "ج) عدم وجود انقطاع النفس",
+            "د) انخفاض ضغط الدم"
+          ],
+          "options_en": [
+            "A) Low-risk obstructive sleep apnoea",
+            "B) High heart rate response",
+            "C) No sleep apnoea",
+            "D) Low blood pressure"
+          ],
+          "answer": 1,
+          "explanation_ar": "المرضى ذوي المخاطر العالية يتميزون باستجابة معدل ضربات القلب المرتفعة.",
+          "explanation_en": "High-risk patients are characterized by a high heart rate response."
+        },
+        {
+          "q_ar": "ما هو تأثير CPAP على المرضى ذوي المخاطر المنخفضة؟",
+          "q_en": "What is the effect of CPAP on low-risk patients?",
+          "options_ar": [
+            "أ) تحسين النتائج",
+            "ب) ضرر محتمل",
+            "ج) لا تأثير",
+            "د) تقليل النتائج القلبية"
+          ],
+          "options_en": [
+            "A) Improvement of outcomes",
+            "B) Potential harm",
+            "C) No effect",
+            "D) Decreased cardiovascular outcomes"
+          ],
+          "answer": 1,
+          "explanation_ar": "تمت الإشارة إلى أن CPAP قد يؤدي إلى أضرار في المرضى ذوي المخاطر المنخفضة.",
+          "explanation_en": "It was noted that CPAP may cause harm in low-risk patients."
+        }
+      ]
+    },
+    {
+      "pmid": "42080999",
+      "title_ar": "Total versus partial fundoplication in children with gastroesophageal reflux disease: a systematic review and comparative meta-analysis of 2633 patients highlighting the trade-off between reflux control and postoperative dysphagia.",
+      "title_en": "Total versus partial fundoplication in children with gastroesophageal reflux disease: a systematic review and comparative meta-analysis of 2633 patients highlighting the trade-off between reflux control and postoperative dysphagia.",
+      "journal": "Pediatric surgery international",
+      "pub_date": "2026-May-04",
+      "doi": "10.1007/s00383-026-06449-9",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42080999/",
+      "pdf_url": null,
+      "study_design": "Meta-analysis 18 studies",
+      "summary_ar": "تهدف هذه المراجعة إلى مقارنة فعالية وسلامة العمليات الجراحية لعلاج مرض الارتجاع المعدي المريئي في الأطفال. تم تحليل 18 دراسة تشمل 2633 طفلًا جمعت من عدة قواعد بيانات. أظهرت النتائج أن عملية fundoplication الكاملة مرتبطة بزيادة خطر حدوث صعوبة في البلع بعد الجراحة بالمقارنة مع العملية الجزئية. ومع ذلك، لم يتم ملاحظة فروق كبيرة في تكرار الارتجاع، لكن نتائج العمليات الكاملة كانت أقل نسبيًا. تشير النتائج إلى أن الجراحة الجزئية قد تكون أكثر فائدة لبعض المرضى. ",
+      "summary_en": "This review aims to compare the effectiveness and safety of surgical interventions for gastroesophageal reflux disease in children. Eighteen studies involving 2,633 children were analyzed from multiple databases. Results showed that total fundoplication was associated with an increased risk of postoperative dysphagia compared to partial fundoplication. However, no significant differences were observed in reflux recurrence, although event rates were numerically lower for total fundoplication. Findings suggest that partial surgery may offer functional advantages for select patients.",
+      "practice_change_ar": "يمكن اعتبار fundoplication الجزئية خيارًا أفضل للعديد من المرضى.",
+      "practice_change_en": "Partial fundoplication may be considered a better option for many patients.",
+      "future_impact_ar": "تشجع النتائج البدائل الجراحية التي تحسن من جودة الحياة بعد العملية.",
+      "future_impact_en": "The results encourage surgical alternatives that enhance postoperative quality of life.",
+      "why_important_ar": "يوفر البحث معلومات قيمة حول خيارات العلاج الجراحية لمرض الارتجاع المعدي المريئي في الأطفال.",
+      "why_important_en": "The research provides valuable insights into surgical treatment options for pediatric gastroesophageal reflux disease.",
+      "vs_previous_ar": "يوجد تركيز أكثر على المخاطر المرتبطة بالاختيار بين النوعين من العمليات الجراحية.",
+      "vs_previous_en": "There is a greater focus on the risks associated with the choice between the two types of surgical procedures.",
+      "stars": 4,
+      "stars_reason_ar": "تحليل شامل للدراسات القابلة للمقارنة، مما يجعلها دراسة مهمة في هذا المجال.",
+      "stars_reason_en": "Comprehensive analysis of comparable studies, making it an important work in this area.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Provides a comprehensive view on the effects of different interventions on reflux disease.",
+      "watch": true,
+      "watch_detail_ar": "يجب التركيز على فعالية fundoplication الجزئية في تحسين جودة الحياة بعد العملية.",
+      "watch_detail_en": "Attention should be focused on the effectiveness of partial fundoplication in improving postoperative quality of life.",
+      "watch_type": "surgical",
+      "research_gap_ar": "هناك حاجة لمزيد من الدراسات التي تقارن بين النتائج طويلة الأمد لكلتا العمليتين.",
+      "research_gap_en": "There is a need for more studies comparing the long-term outcomes of both surgeries.",
+      "subspecialty": "pediatric",
+      "audio_script_ar": "تناقش هذه المقالة فعالية fundoplication الكاملة والجزئية في الأطفال الذين يعانون من مرض الارتجاع المعدي المريئي. تم تحليل 18 دراسة شملت 2633 طفلًا ووجد أن fundoplication الكاملة تؤدي إلى زيادة خطر صعوبة البلع لكن لا توجد فروق كبيرة في التكرار بين نوعي الجراحة. لهذا، يمكن اعتبار fundoplication الجزئية خيارًا أفضل للعديد من المرضى. تشير نتائج هذه الدراسة إلى أهمية الخيارات الجراحية التي تعزز جودة الحياة عند الأطفال المصابين بهذه الحالة.",
+      "audio_script_en": "This article discusses the effectiveness of total and partial fundoplication in children with gastroesophageal reflux disease. Eighteen studies involving 2,633 children were analyzed, and it was found that total fundoplication leads to an increased risk of dysphagia; however, there are no significant differences in recurrence rates between the surgical types. Therefore, partial fundoplication may be considered a better option for many patients. The findings highlight the importance of surgical options that enhance quality of life in children with this condition.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الخطر المرتبط بالfundoplication الكاملة مقارنة بالجزئية؟",
+          "q_en": "What is the risk associated with total fundoplication compared to partial?",
+          "options_ar": [
+            "أ) زيادة خطر صعوبة البلع",
+            "ب) تكرار الارتجاع أعلى",
+            "ج) أكثر أمانًا",
+            "د) لا يوجد فرق"
+          ],
+          "options_en": [
+            "A) Increased risk of dysphagia",
+            "B) Higher reflux recurrence",
+            "C) Safer",
+            "D) No difference"
+          ],
+          "answer": 0,
+          "explanation_ar": "النتائج تظهر أن fundoplication الكاملة مرتبطة بزيادة خطر حدوث صعوبة في البلع.",
+          "explanation_en": "Results show that total fundoplication is associated with an increased risk of dysphagia."
+        },
+        {
+          "q_ar": "ما هو عدد الأطفال الذين تم تحليلهم في هذه المراجعة؟",
+          "q_en": "What is the number of children analyzed in this review?",
+          "options_ar": [
+            "أ) 1200",
+            "ب) 2633",
+            "ج) 1500",
+            "د) 1800"
+          ],
+          "options_en": [
+            "A) 1200",
+            "B) 2633",
+            "C) 1500",
+            "D) 1800"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم تحليل 18 دراسة تضم ما مجموعه 2633 طفلًا.",
+          "explanation_en": "Eighteen studies involving a total of 2,633 children were analyzed."
+        },
+        {
+          "q_ar": "ما هو الهدف الرئيسي للدراسة؟",
+          "q_en": "What is the main objective of the study?",
+          "options_ar": [
+            "أ) مقارنة تكاليف العمليات",
+            "ب) مقارنة فعالية fundoplication الكاملة والجزئية",
+            "ج) تحليل نتائج العمليات على البالغين",
+            "د) إجراء دراسة مسحية عن GERD"
+          ],
+          "options_en": [
+            "A) Compare surgery costs",
+            "B) Compare effectiveness of total and partial fundoplication",
+            "C) Analyze outcomes of surgeries in adults",
+            "D) Conduct a survey on GERD"
+          ],
+          "answer": 1,
+          "explanation_ar": "الهدف هو مقارنة فعالية fundoplication الكاملة والجزئية في الأطفال.",
+          "explanation_en": "The objective is to compare the effectiveness of total and partial fundoplication in children."
+        }
+      ]
+    },
+    {
+      "pmid": "42082814",
+      "title_ar": "Transcriptomic landscape of oral potentially malignant disorders: a meta-analysis approach.",
+      "title_en": "Transcriptomic landscape of oral potentially malignant disorders: a meta-analysis approach.",
+      "journal": "Human cell",
+      "pub_date": "2026-May-04",
+      "doi": "10.1007/s13577-026-01373-5",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42082814/",
+      "pdf_url": null,
+      "study_design": "Meta-analysis 5 datasets",
+      "summary_ar": "هذا البحث يركز على تحديد الأنماط النسخية عبر مراحل ما قبل السرطان في تجويف الفم. من خلال تحليل خمسة مجموعات بيانات، تم دراسة التغيرات في مستويات الخطر المختلفة. استخدمت الدراسة تحليل الشبكات الجينية والتعبير الجيني التفاضلي للكشف عن التغيرات المرتبطة بالساركوبة المناعية. توصلت النتائج إلى أن التغيرات في التعبير الجيني تتعلق بمسارات محددة لها آثار على التطور السرطاني. كما أكد البحث على دور البيئة المناعية والتفاعل بين أنسجة ECM خلال تطور الأورام. النتائج توفر رؤى مهمة للتشخيص والعلاج.",
+      "summary_en": "This research focuses on cataloging the transcriptomic patterns across pre-cancerous stages in the oral cavity. By analyzing five datasets, changes in different risk levels were studied. The study utilized weighted gene co-expression network analysis and differential gene expression to reveal immune-related changes associated with malignancy. Findings highlight that gene expression alterations relate to specific pathways impacting cancer development. It also underscores the role of the immune environment and ECM-tissue interactions during tumor progression. The results provide actionable insights for diagnosis and treatment.",
+      "practice_change_ar": "يمكن أن يؤدي هذا البحث إلى تحسين استراتيجيات التشخيص والعلاج لأمراض الفم المحتملة السرطانية.",
+      "practice_change_en": "This research could enhance diagnostic and therapeutic strategies for oral potentially malignant disorders.",
+      "future_impact_ar": "قد تسهم هذه النتائج في تطوير تدخلات علاجية جديدة.",
+      "future_impact_en": "These findings may contribute to the development of new therapeutic interventions.",
+      "why_important_ar": "هذه الدراسة مهمة لأنها توفر رؤى جديدة حول تطور الأورام في تجويف الفم.",
+      "why_important_en": "This study is important as it provides new insights into tumor evolution in the oral cavity.",
+      "vs_previous_ar": "تختلف هذه النتائج عن المعرفة السابقة من خلال تقديم تفاصيل جديدة حول الأنماط النسخية المرتبطة بأورام تجويف الفم.",
+      "vs_previous_en": "These findings differ from previous knowledge by providing new details on transcriptomic patterns associated with oral tumors.",
+      "stars": 5,
+      "stars_reason_ar": "دراسة شاملة استندت إلى تحليل بيانات متعددة، مما يدل على جودة عالية ونتائج جديدة.",
+      "stars_reason_en": "A comprehensive study based on multi-dataset analysis, indicating high quality and new results.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "الدراسة تقدم معلومات جديدة الهامة ومفيدة للممارسين في مجال ORL.",
+      "jc_reason_en": "The study provides important new information valuable for practitioners in the ORL field.",
+      "watch": true,
+      "watch_detail_ar": "يجب مراقبة التغيرات في الأنماط النسخية لإمكانية استخدامها في تشخيص وعلاج الأورام.",
+      "watch_detail_en": "Monitoring transcriptomic changes is important for potential use in the diagnosis and treatment of tumors.",
+      "watch_type": "technology",
+      "research_gap_ar": "توجد حاجة أكبر لفهم أفضل للتغيرات المناعية والنمطية خلال تقدم المرض.",
+      "research_gap_en": "There is a greater need for a better understanding of immune and transcriptomic changes during disease progression.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "تستعرض الدراسة الأنماط النسخية لأمراض الفم المحتملة السرطانية. تم استخدام تحليل الشبكات الجينية لفهم التغيرات المرتبطة بالخطر. تتضمن النتائج دور البيئة المناعية في تطور الأورام، مما يشير إلى فرصة للتدخل العلاجي المبكر. النتائج توفر رؤى جديدة ومفيدة للممارسين في هذا المجال.",
+      "audio_script_en": "The study reviews the transcriptomic patterns of oral potentially malignant disorders. Gene network analysis was employed to understand risk-associated changes. Findings include the role of the immune environment in tumor development, indicating potential for early therapeutic intervention. The results provide new and valuable insights for practitioners in this field.",
+      "mcq": [
+        {
+          "q_ar": "ما هو هدف الدراسة؟",
+          "q_en": "What is the aim of the study?",
+          "options_ar": [
+            "أ) دراسة التعبيرات الجينية",
+            "ب) تحليل التغيرات المناعية",
+            "ج) استكشاف الأنماط النسخية في الأورام",
+            "د) تطوير أدوية جديدة"
+          ],
+          "options_en": [
+            "A) Study gene expression",
+            "B) Analyze immune changes",
+            "C) Explore transcriptomic patterns in tumors",
+            "D) Develop new drugs"
+          ],
+          "answer": 2,
+          "explanation_ar": "هدف الدراسة هو استكشاف الأنماط النسخية في أورام تجويف الفم.",
+          "explanation_en": "The aim of the study is to explore transcriptomic patterns in oral tumors."
+        },
+        {
+          "q_ar": "ما هي الأساليب المستخدمة في الدراسة؟",
+          "q_en": "What methods were used in the study?",
+          "options_ar": [
+            "أ) تحليل البيانات التفاضلية",
+            "ب) RCT",
+            "ج) مراجعة الأدبيات",
+            "د) مقابلات"
+          ],
+          "options_en": [
+            "A) Differential data analysis",
+            "B) RCT",
+            "C) Literature review",
+            "D) Interviews"
+          ],
+          "answer": 0,
+          "explanation_ar": "تم استخدام تحليل البيانات التفاضلية كأداة رئيسية في الدراسة.",
+          "explanation_en": "Differential data analysis was utilized as a key tool in the study."
+        },
+        {
+          "q_ar": "ما أهمية النتائج؟",
+          "q_en": "What is the significance of the findings?",
+          "options_ar": [
+            "أ) تغيير في التشخيص والعلاج",
+            "ب) تأكيد المعلومات السابقة",
+            "ج) معلومات ترفيهية",
+            "د) نتائج غير مرتبطة"
+          ],
+          "options_en": [
+            "A) Change in diagnosis and treatment",
+            "B) Confirm previous information",
+            "C) Entertaining information",
+            "D) Unrelated results"
+          ],
+          "answer": 0,
+          "explanation_ar": "النتائج مهمة لأنها يمكن أن تغير كيفية التعامل مع الأورام في تجويف الفم.",
+          "explanation_en": "The findings are significant as they can change how tumors in the oral cavity are managed."
+        }
+      ]
+    },
+    {
+      "pmid": "42077182",
+      "title_ar": "Hypoxemia and hypercapnia synergistically mediates peripheral vasoconstriction whereas hypercapnia mediates cerebral vasodilation in resting humans.",
+      "title_en": "Hypoxemia and hypercapnia synergistically mediates peripheral vasoconstriction whereas hypercapnia mediates cerebral vasodilation in resting humans.",
+      "journal": "American journal of physiology. Regulatory, integrative and comparative physiology",
+      "pub_date": "2026-May-04",
+      "doi": "10.1152/ajpregu.00085.2026",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42077182/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort",
+      "summary_ar": "تحدث hypoxemia و hypercapnia المتزامنين بشكل متكرر في حالات مثل obstructive sleep apnea، مما قد يؤدي إلى خلل في الأوعية الدموية المحيطية والدماغية. شملت الدراسة أحد عشر بالغاً شاباً أصحاء (4 إناث) أكملوا ثلاث تجارب استنشاق غاز في حالة الراحة تحت ظروف مختلفة لنقص الأكسجة وارتفاع ثاني أكسيد الكربون. تم تقييم تدفق الدم في الشريان الفخذي وسرعة تدفق الدم في الشريان الدماغي الأوسط باستخدام تقنيات التصوير فوق الصوتي. أظهرت النتائج تفاعلاً بين hypoxemia وhypercapnia يزيد من vasoconstriction النظامية.",
+      "summary_en": "Simultaneous hypoxemia and hypercapnia frequently occur in conditions like obstructive sleep apnea, potentially leading to peripheral and cerebral vascular dysfunction. The study involved eleven healthy young adults (4 females) who completed three resting gas-inhalation trials under differing arterial O2 and CO2 conditions. Results showed an interaction between hypoxemia and hypercapnia that augmented systemic vasoconstriction.",
+      "practice_change_ar": "يمكن أن تؤثر النتائج على كيفية إدارة المرضى الذين يعانون من حالات تسبب hypoxemia وhypercapnia.",
+      "practice_change_en": "The findings may influence how clinicians manage patients experiencing hypoxemia and hypercapnia.",
+      "future_impact_ar": "يمكن أن تفتح هذه الدراسة آفاقاً جديدة لفهم التغيرات الوعائية المتعلقة بحالات مثل obstructive sleep apnea.",
+      "future_impact_en": "This study could open new avenues for understanding vascular changes related to conditions such as obstructive sleep apnea.",
+      "why_important_ar": "تقدم هذه المقالة فهماً أعمق لكيفية تفاعل hypoxemia وhypercapnia في تنظيم الاستجابة الوعائية.",
+      "why_important_en": "This article provides deeper insights into how hypoxemia and hypercapnia interact in regulating vascular responses.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن الدراسات السابقة من خلال التركيز على التفاعل بين hypoxemia وhypercapnia.",
+      "vs_previous_en": "This study differs from previous research by focusing on the interaction between hypoxemia and hypercapnia.",
+      "stars": 4,
+      "stars_reason_ar": "تصميم الدراسة Prospective cohort مع نتائج جديدة حول التفاعل بين hypoxemia وhypercapnia.",
+      "stars_reason_en": "Prospective cohort study design with new findings on the interaction between hypoxemia and hypercapnia.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It addresses the interaction of hypoxemia and hypercapnia and their vascular implications.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يحتاج الباحثون لمزيد من الدراسات لفهم الآليات الدقيقة للتفاعل بين hypoxemia وhypercapnia.",
+      "research_gap_en": "Researchers need further studies to understand the precise mechanisms of interaction between hypoxemia and hypercapnia.",
+      "subspecialty": "sleep",
+      "audio_script_ar": "في هذه المقالة، تم تناول التأثيرات المشتركة لـ hypoxemia وhypercapnia على الأوعية الدموية. تمت الدراسة على أحد عشر بالغاً شاباً وتم استخدام تقنيتين مختلفتين لقياس تدفق الدم. أظهرت النتائج أن hypoxemia وhypercapnia يتفاعلان لزيادة vasoconstriction. النتائج يمكن أن تؤثر على كيفية إدارة المرضى الذين يعانون من حالات مثل obstructive sleep apnea.",
+      "audio_script_en": "This article discussed the combined effects of hypoxemia and hypercapnia on vascular functions. The study involved eleven healthy young adults and utilized two different techniques to measure blood flow. Results indicated that hypoxemia and hypercapnia interact to increase vasoconstriction. The findings may impact how clinicians manage patients with conditions like obstructive sleep apnea.",
+      "mcq": [
+        {
+          "q_ar": "ما هي النتائج الرئيسية للاختبار بين hypoxemia وhypercapnia؟",
+          "q_en": "What are the main findings regarding the interaction between hypoxemia and hypercapnia?",
+          "options_ar": [
+            "أ) زيادة vasoconstriction",
+            "ب) خفض تدفق الدم",
+            "ج) زيادة تدفق الدم الدماغي",
+            "د) لا تأثير"
+          ],
+          "options_en": [
+            "A) Increased vasoconstriction",
+            "B) Decreased blood flow",
+            "C) Increased cerebral blood flow",
+            "D) No effect"
+          ],
+          "answer": 0,
+          "explanation_ar": "الناتج الرئيسي هو زيادة vasoconstriction الناتجة عن تفاعل hypoxemia وhypercapnia.",
+          "explanation_en": "The main outcome is increased vasoconstriction resulting from the interaction of hypoxemia and hypercapnia."
+        },
+        {
+          "q_ar": "كم عدد المشاركين في الدراسة؟",
+          "q_en": "How many participants were involved in the study?",
+          "options_ar": [
+            "أ) 10",
+            "ب) 11",
+            "ج) 12",
+            "د) 15"
+          ],
+          "options_en": [
+            "A) 10",
+            "B) 11",
+            "C) 12",
+            "D) 15"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان العدد الإجمالي للمشاركين هو 11 بالغاً.",
+          "explanation_en": "The total number of participants was 11 adults."
+        },
+        {
+          "q_ar": "ما الهدف من هذه الدراسة؟",
+          "q_en": "What was the aim of this study?",
+          "options_ar": [
+            "أ) دراسة تأثير hypoxemia فقط",
+            "ب) دراسة تأثير hypercapnia فقط",
+            "ج) دراسة تأثير hypoxemia وhypercapnia المتزامنين",
+            "د) مقارنة التأثيرات بين الأدوية"
+          ],
+          "options_en": [
+            "A) To study the effect of hypoxemia only",
+            "B) To study the effect of hypercapnia only",
+            "C) To study the simultaneous effect of hypoxemia and hypercapnia",
+            "D) To compare effects between medications"
+          ],
+          "answer": 2,
+          "explanation_ar": "كان الهدف هو دراسة تأثير hypoxemia وhypercapnia المتزامنين على الأوعية الدموية.",
+          "explanation_en": "The aim was to study the simultaneous effects of hypoxemia and hypercapnia on vascular functions."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026050501",
+      "title_ar": "حجم سوق التنظير الأنفي، الحصة، النمو | معدل النمو السنوي المركب 6.4%",
+      "title_en": "ENT Endoscopy Market Size, Share, Growth | CAGR of 6.4%",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-05-05",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "من المتوقع أن يشهد سوق التنظير الأنفي معدل نمو سنوي مركب قدره 6.4%. ويعزى هذا النمو إلى التقدم في التكنولوجيا وزيادة انتشار اضطرابات الأنف والأذن والحنجرة. يقوم اللاعبون الرئيسيون في الصناعة بالابتكار لتعزيز فعالية الإجراءات التنظيرية. ومن المتوقع أن يدفع الطلب على تقنيات جراحية دقيقة وقليلة التوغل توسيع السوق.",
+      "summary_en": "The ENT endoscopy market is projected to experience a compound annual growth rate (CAGR) of 6.4%. This growth is attributed to advancements in technology and an increasing prevalence of ENT disorders. Key players in the industry are innovating to enhance the effectiveness of endoscopic procedures. The demand for precise and minimally invasive surgical techniques is expected to drive market expansion.",
+      "practice_change_ar": "يشكل هذا النمو فرصاً لجراحي الأنف والأذن والحنجرة لتبني تقنيات تنظيرية أكثر تطوراً في ممارساتهم.",
+      "practice_change_en": "This growth presents opportunities for ENT surgeons to adopt more advanced endoscopic techniques in their practices.",
+      "future_impact_ar": "مع نمو السوق، من المحتمل أن تشهد ممارسات الأنف والأذن والحنجرة زيادة في دمج التقنيات المبتكرة في رعاية المرضى.",
+      "future_impact_en": "As the market grows, ENT practices will likely see increased integration of innovative technologies in patient care.",
+      "why_important_ar": "إن التقدم في التنظير الأنفي يؤثر بشكل مباشر على نتائج الجراحة وأوقات تعافي المرضى.",
+      "why_important_en": "The advancement in ENT endoscopy directly impacts surgical outcomes and patient recovery times.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "تقدم التنظير الأنفي فرصة لتحسين الإجراءات الجراحية وتقديم نتائج أفضل للمرضى.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "سوق التنظير الأنفي يشهد نمواً ملحوظاً حيث تشير التوقعات إلى معدل نمو سنوي مركب يبلغ 6.4%. يُعزى هذا النمو إلى التقدم التكنولوجي والزيادة في انتشار اضطرابات الأنف والأذن والحنجرة. من المتوقع أن تساهم هذه التطورات في تحسين فعالية الإجراءات الجراحية وتخفيف أوقات تعافي المرضى. فرص جديدة لجراحي الأنف والأذن والحنجرة ستظهر مع تكامل التقنيات الحديثة في ممارساتهم اليومية.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026050502",
+      "title_ar": "من المتوقع أن يتجاوز سوق أجهزة الأذن والأنف والحنجرة 37580 مليون دولار بحلول عام 2032 مدفوعًا بالإجراءات الأقل توغلًا والتقدم التكنولوجي",
+      "title_en": "ENT Devices Market Set to Surpass USD 37580 Million by 2032 Driven by Minimally Invasive Procedures and Technological Advancements",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-05-05",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "من المتوقع أن يتجاوز سوق أجهزة الأنف والأذن والحنجرة 37580 مليون دولار بحلول عام 2032، مدفوعًا بزيادة الإجراءات الأقل توغلًا والتقدم التكنولوجي. تعكس هذه الزيادة تحولًا كبيرًا نحو خيارات جراحية أقل توغلًا، مما يعزز من تعافي المرضى ورضاهم. تقوم العديد من الشركات بابتكار خطوط إنتاجها لتلبية هذا الطلب، مما يضمن مواكبتها للاتجاهات المتغيرة في السوق.",
+      "summary_en": "The ENT devices market is projected to exceed USD 37,580 million by 2032, driven by the rise of minimally invasive procedures and advancements in technology. This growth reflects a significant shift toward less invasive surgical options, enhancing patient recovery and satisfaction. Various companies are innovating their product lines to cater to this demand, ensuring they keep up with the evolving market trends.",
+      "practice_change_ar": "يزيد هذا النمو في السوق من الحاجة إلى أن يتبنى جراحو الأذن والأنف والحنجرة التقنيات والأدوات ذات التوغل الأدنى.",
+      "practice_change_en": "This growth in the market emphasizes the need for ENT surgeons to adopt and stay updated with minimally invasive techniques and technologies.",
+      "future_impact_ar": "مع استمرار التقدم التكنولوجي، من المحتمل أن يشهد مجال الأذن والأنف والحنجرة ظهور خيارات علاجية أكثر ابتكارًا وفعالية.",
+      "future_impact_en": "As technological advancements continue, the ENT field is likely to see more innovative and effective treatment options emerge.",
+      "why_important_ar": "يمكن أن تؤدي التحولات نحو الإجراءات الأقل توغلًا إلى تحسين نتائج المرضى وأوقات تعافي أسرع.",
+      "why_important_en": "The shift towards minimally invasive procedures can lead to improved patient outcomes and faster recovery times.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "النمو الكبير في سوق الأجهزة يعطي دلالة على أهمية تقنيات العلاج الجديدة لجراحي الأذن والأنف والحنجرة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "مرحبًا بكم في نشرتنا الإخبارية، حيث نتناول اليوم موضوعًا مثيرًا للاهتمام حول سوق أجهزة الأذن والأنف والحنجرة. من المتوقع أن يتجاوز السوق 37580 مليون دولار بحلول عام 2032، مدفوعًا بالإجراءات الأقل توغلًا والتقدم التكنولوجي. هذا النمو يعكس تحولًا ملحوظًا نحو خيارات جراحية أكثر لطفًا، مما قد يسهم في تحسين نتائج المرضى وزيادة رضاهم. ليتناسب مع هذه الاتجاهات، يتعين على جراحي الأذن والأنف والحنجرة تعزيز مهاراتهم ووسائلهم العملية.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026050503",
+      "title_ar": "حجم سوق أجهزة الأنف والأذن والحنجرة في الولايات المتحدة ، التقرير السنوي 2030",
+      "title_en": "U.S. ENT Devices Market Size, Share | Industry Report, 2030",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-05-05",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت شركة Grand View Research تقريرًا يحلل سوق أجهزة الأنف والأذن والحنجرة في الولايات المتحدة، متوقعًا اتجاهات نمو كبيرة حتى عام 2030. يسلط التقرير الضوء على المحركات الرئيسية، وحصة السوق حسب القطاع، والتقنيات الناشئة التي تؤثر على القطاع. كما يؤكد على الطلب المتزايد على علاجات وأجهزة الأنف والأذن والحنجرة المتقدمة، فضلاً عن المنافسة بين الشركات المصنعة.",
+      "summary_en": "Grand View Research has published a report analyzing the U.S. ENT devices market, projecting significant growth trends through 2030. The report highlights key drivers, market share by segment, and emerging technologies influencing the sector. It emphasizes the increasing demand for advanced ENT treatments and devices, as well as the competitive landscape among manufacturers.",
+      "practice_change_ar": "يشير هذا التقرير إلى سوق متزايد لأجهزة الأنف والأذن والحنجرة، مما قد يقدم تقنيات جديدة وخيارات علاجية للممارسين.",
+      "practice_change_en": "This report indicates a growing market for ENT devices, which may introduce new technologies and treatment options for practitioners.",
+      "future_impact_ar": "مع توسع السوق، من المرجح أن يكون لدى جراحي الأنف والأذن والحنجرة وصول إلى أجهزة مبتكرة يمكن أن تحسن نتائج المرضى.",
+      "future_impact_en": "As the market expands, ENT surgeons will likely have access to innovative devices that can improve patient outcomes.",
+      "why_important_ar": "يعكس النمو المتوقع في سوق أجهزة الأنف والأذن والحنجرة توافر المزيد من خيارات العلاج والتقنيات لرعاية المرضى.",
+      "why_important_en": "The growth projected in the ENT devices market points to more treatment options and technologies becoming available for patient care.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "يشير التقرير إلى فرص جديدة وتحسينات محتملة في الرعاية.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "مرحبًا، إليكم أحدث الأخبار حول سوق أجهزة الأنف والأذن والحنجرة في الولايات المتحدة. نشرت شركة Grand View Research تقريرًا جديدًا يشير إلى نمو كبير متوقع في السوق حتى عام 2030. يسلط التقرير الضوء على المحركات الأساسية وظهور تقنيات جديدة ستدفع نحو تحسين خيارات العلاج المتاحة. هذا النمو يمثل فرصة مهمة لجراحي الأنف والأذن والحنجرة للحصول على تقنيات متقدمة يمكن أن تحسن من نتائج مرضاهم. يمكن أن يفتح هذا المجال أمام تكنولوجيا جديدة، والتي قد تؤدي إلى تحسين الخدمات الصحية بشكل عام.",
+      "mcq": []
+    }
+  ]
+}
