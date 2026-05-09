@@ -1,0 +1,2028 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T06:01:28Z",
+  "articles": [
+    {
+      "pmid": "42095341",
+      "title_ar": "Prediction of post-extubation stridor using ultrasound measurement of subglottic airway diameter.",
+      "title_en": "Prediction of post-extubation stridor using ultrasound measurement of subglottic airway diameter.",
+      "journal": "The ultrasound journal",
+      "pub_date": "2026-May-07",
+      "doi": "10.5826/tuj.2026.18517",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42095341/",
+      "pdf_url": "https://doi.org/10.5826/tuj.2026.18517",
+      "study_design": "Prospective cohort",
+      "summary_ar": "تمت دراسة العلاقة بين قطر مجرى الهواء تحت المزمار وخطر حدوث stridor بعد extubation لدى الأطفال في وحدة العناية المركزة. أجريت الدراسة على أطفال أعمارهم من شهر إلى 15 عاماً. أظهرت النتائج أن نسبة تحت المزمار (SR) وحرية المساحة تحت الغضروف الحلقي (IPFS) كانت مرتبطة بحدوث PES. كانت نتائج الدراسة تشير إلى وجود احتمال زائد مرتفع مع SR <1.30 وIPFS <2.08 مم. أظهرت الدراسة أن IPFS كانت الأكثر دقة بين جميع المعايير، والتي قد تكون مؤشرات مفيدة لتقليل مخاطر PES.",
+      "summary_en": "The study evaluated the relationship between subglottic airway diameter and the risk of post-extubation stridor (PES) in children in the PICU. Conducted on children aged 1 month to 15 years, results indicated that the subglottic ratio (SR) and intracricoid peritubular free space (IPFS) were associated with PES occurrence. The study highlighted a high odds ratio for SR <1.30 and IPFS <2.08 mm. IPFS showed the highest diagnostic accuracy among all parameters, suggesting useful indicators for reducing PES risk.",
+      "practice_change_ar": "يمكن استخدام قياسات IPFS لتحسين توقعات حدوث PES بعد extubation.",
+      "practice_change_en": "IPFS measurements can be used to improve predictions of PES occurrence post-extubation.",
+      "future_impact_ar": "قد تؤدي نتائج هذه الدراسة إلى تحسين بروتوكولات الرعاية في وحدات العناية المركزة للأطفال.",
+      "future_impact_en": "The findings may lead to improved care protocols in pediatric intensive care units.",
+      "why_important_ar": "تعتبر هذه الدراسة مهمة لتوفير أدوات تشخيصية أفضل لتقليل معدل حدوث PES في الأطفال.",
+      "why_important_en": "This study is important for providing better diagnostic tools to reduce the incidence of PES in children.",
+      "vs_previous_ar": "تقدم هذه الدراسة فوائد مضافة من خلال استخدام ultrasound لقياس IPFS مقارنةً بالتقنيات السابقة.",
+      "vs_previous_en": "This study provides added benefits by using ultrasound to measure IPFS compared to previous techniques.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة قوية بكونها دراسة مستقبلية وتوفر بيانات مهمة لتحسين رعاية المرضى.",
+      "stars_reason_en": "The study is strong as a prospective study and provides important data to improve patient care.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تقدم الدراسة نتائج جديدة حول استخدام ultrasound لتوقع PES.",
+      "jc_reason_en": "The study presents new results on the use of ultrasound for predicting PES.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة استخدام القياسات فوق الصوتية في تقييم اضطرابات مجرى الهواء.",
+      "watch_detail_en": "The ultrasound measurements in assessing airway disturbances should be monitored.",
+      "watch_type": "technology",
+      "research_gap_ar": "توجد حاجة لمزيد من الدراسات حول فعالية استخدام ultrasound في توقع PES.",
+      "research_gap_en": "There is a need for further studies on the effectiveness of ultrasound in predicting PES.",
+      "subspecialty": "pediatric",
+      "audio_script_ar": "هذه الدراسة تفحص العلاقات بين قطر المجرى الهوائي تحت المزمار وخصوصاً بعد extubation. الدراسة تضمنت أطفال من عمر شهر إلى 15 عام، وتبين من النتائج أن هناك علاقة مع SR وIPFS مع حدوث PES. الدراسات تشير إلى أن IPFS كانت الأكثر دقة وتمثل أداة تشخيصية جديدة قد تحسن من توقع احتمال PES وتغير البروتوكولات في وحدات العناية المركزة للأطفال.",
+      "audio_script_en": "This study examines the relationships between subglottic airway diameter, particularly after extubation. The study included children aged 1 month to 15 years, and results showed an association with SR and IPFS in PES occurrence. The findings indicate that IPFS was the most accurate and represents a new diagnostic tool that could improve predicting PES likelihood and change protocols in pediatric intensive care units.",
+      "mcq": [
+        {
+          "q_ar": "ما هو التأثير الذي أظهرته الدراسة على IPFS وPES؟",
+          "q_en": "What impact did the study show regarding IPFS and PES?",
+          "options_ar": [
+            "أ) لا يوجد تأثير",
+            "ب) كان هناك تأثير إيجابي",
+            "ج) يزيد من معدل الحدوث",
+            "د) لا ينصح باستخدامه"
+          ],
+          "options_en": [
+            "A) No impact",
+            "B) There was a positive impact",
+            "C) Increases incidence",
+            "D) Not recommended for use"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت الدراسة أن IPFS كان أداة دقيقية للتنبؤ بحدوث PES.",
+          "explanation_en": "The study showed that IPFS was an accurate tool for predicting PES occurrence."
+        },
+        {
+          "q_ar": "ما هو نطاق أعمار المرضى الذين شملهم البحث؟",
+          "q_en": "What was the age range of the patients included in the study?",
+          "options_ar": [
+            "أ) 1 month to 15 years",
+            "ب) 1 to 18 years",
+            "ج) 1 month to 12 years",
+            "د) 6 months to 15 years"
+          ],
+          "options_en": [
+            "A) 1 month to 15 years",
+            "B) 1 to 18 years",
+            "C) 1 month to 12 years",
+            "D) 6 months to 15 years"
+          ],
+          "answer": 0,
+          "explanation_ar": "تمت الدراسة على أطفال تتراوح أعمارهم من شهر إلى 15 عامًا.",
+          "explanation_en": "The study was conducted on children aged from 1 month to 15 years."
+        },
+        {
+          "q_ar": "ما هي النسبة التي تشير إلى PES في الدراسة؟",
+          "q_en": "What percentage indicates PES in the study?",
+          "options_ar": [
+            "أ) 25%",
+            "ب) 18.75%",
+            "ج) 30%",
+            "د) 15%"
+          ],
+          "options_en": [
+            "A) 25%",
+            "B) 18.75%",
+            "C) 30%",
+            "D) 15%"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت الدراسة أن معدل PES كان 18.75% في المرضى المختارين.",
+          "explanation_en": "The study showed that the PES rate was 18.75% in the selected patients."
+        }
+      ]
+    },
+    {
+      "pmid": "42103846",
+      "title_ar": "Resilient frequency stabilization of renewable-penetrated microgrids via deep learning and machine learning.",
+      "title_en": "Resilient frequency stabilization of renewable-penetrated microgrids via deep learning and machine learning.",
+      "journal": "Scientific reports",
+      "pub_date": "2026-May-08",
+      "doi": "10.1038/s41598-026-51207-5",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42103846/",
+      "pdf_url": "https://doi.org/10.1038/s41598-026-51207-5",
+      "study_design": "Analytical study using models for forecasting",
+      "summary_ar": "تتناول هذه الورقة البحثية توقع سرعة الرياح في أربعة مواقع جغرافية مختلفة باستخدام Support Vector Regression (SVR) والشبكات العصبية العميقة (DNN). تشير التحليلات إلى أن نموذج SVR يتفوق على نموذج DNN في تقليل الأخطاء التنبؤية. كما تم اقتراح جهاز تحكم PID مُحسّن باستخدام خوارزمية تخطيط جزيء البطع (PSO) وخوارزمية الذئب الرمادي (GWO) للتخفيف من انحرافات التردد. أظهرت النتائج أن السيطرة المُحسّنة تؤدي إلى تحسينات كبيرة في الأداء الديناميكي. تم التحقق من الاقتراح من خلال التحليل في الوقت الحقيقي.",
+      "summary_en": "This paper investigates wind speed prediction at four geographically distinct sites using Support Vector Regression (SVR) and Deep Neural Networks (DNN). The analyses indicate that the SVR model outperforms the DNN model in reducing prediction errors. A PID controller optimized using Particle Swarm Optimization (PSO) and Grey Wolf Optimization (GWO) is proposed to mitigate frequency deviations. The results showed significant improvements in dynamic performance with the optimized controller. The approach was validated through time-domain and frequency-domain analyses as well as real-time implementation.",
+      "practice_change_ar": "ستساعد النتائج في تحسين استقرار الميكروغرين المتجددة.",
+      "practice_change_en": "The findings will aid in improving the stability of renewable microgrids.",
+      "future_impact_ar": "يمكن أن تساهم النتائج في تطوير تقنيات التنبؤ بشكل أفضل في مجال الطاقة المتجددة.",
+      "future_impact_en": "The findings could contribute to developing better forecasting techniques in renewable energy.",
+      "why_important_ar": "تعتبر هذه النتائج ضرورية لتحسين استقرار الشبكات الكهربائية بما أن تكامل الطاقة المتجددة يتزايد.",
+      "why_important_en": "These findings are crucial for improving the stability of power grids as renewable energy integration increases.",
+      "vs_previous_ar": "تختلف هذه الدراسة في استخدام مقاربات التعلم العميق ونماذج التنبؤ لتحسين أداء الشبكات.",
+      "vs_previous_en": "This study differs by incorporating deep learning approaches and predictive models to enhance network performance.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة تحليلية تستخدم نماذج مبتكرة لتعزيز استقرار الشبكات.",
+      "stars_reason_en": "Analytical study using innovative models to enhance network stability.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This study offers new insights into improving stability in renewable power networks.",
+      "watch": true,
+      "watch_detail_ar": "ينبغي متابعة تأثير تقنيات الذكاء الاصطناعي في تحسين استقرار الشبكات الكهربائية.",
+      "watch_detail_en": "The impact of AI techniques on enhancing stability in power networks should be monitored.",
+      "watch_type": "technology",
+      "research_gap_ar": "هناك حاجة لمزيد من الأبحاث لتطبيق هذه التقنيات على أنواع أخرى من الشبكات الكهربائية.",
+      "research_gap_en": "There is a need for further research to apply these techniques to other types of power networks.",
+      "subspecialty": "general",
+      "audio_script_ar": "تناقش هذه الورقة البحثية توقع سرعة الرياح وتحسين استقرار الشبكات الكهربائية المتجددة. استخدمت الدراسة نماذج SVR وDNN لتقديم توقعات دقيقة. كما تم تحسين جهاز التحكم PID باستخدام PSO وGWO لتقليل انحرافات التردد. النتائج تبين ان نموذج SVR يتفوق على DNN في تقليل الأخطاء. جميع هذه النتائج تعتبر مهمة في سياق زيادة استخدام الطاقة المتجددة.",
+      "audio_script_en": "This paper discusses wind speed forecasting and improving stability in renewable power networks. The study used SVR and DNN models to provide accurate predictions. Additionally, a PID controller was optimized using PSO and GWO to reduce frequency deviations. The results indicate that the SVR model outperforms the DNN in reducing errors. All these findings are essential in the context of the increasing use of renewable energy.",
+      "mcq": [
+        {
+          "q_ar": "ما هو النموذج الأفضل في توقع سرعة الرياح وفقًا للدراسة؟",
+          "q_en": "Which model is found to be better for wind speed prediction according to the study?",
+          "options_ar": [
+            "أ) SVR",
+            "ب) DNN",
+            "ج) كلهم متساوون",
+            "د) لا يوجد نموذج"
+          ],
+          "options_en": [
+            "A) SVR",
+            "B) DNN",
+            "C) Both are equal",
+            "D) No model"
+          ],
+          "answer": 0,
+          "explanation_ar": "النتائج تشير إلى أن نموذج SVR يتفوق على نموذج DNN.",
+          "explanation_en": "The results indicate that the SVR model outperforms the DNN model."
+        },
+        {
+          "q_ar": "ما هي الخوارزمية المُحسّنة لجهاز التحكم PID؟",
+          "q_en": "What is the optimized algorithm for the PID controller?",
+          "options_ar": [
+            "أ) PSO",
+            "ب) GWO",
+            "ج) PSO-GWO",
+            "د) لا شيء مما سبق"
+          ],
+          "options_en": [
+            "A) PSO",
+            "B) GWO",
+            "C) PSO-GWO",
+            "D) None of the above"
+          ],
+          "answer": 2,
+          "explanation_ar": "تم تحسين جهاز التحكم PID باستخدام خوارزمية PSO-GWO.",
+          "explanation_en": "The PID controller was optimized using the PSO-GWO algorithm."
+        },
+        {
+          "q_ar": "ما هو التأثير الرئيسي للتحكم المُحسّن على الشبكات؟",
+          "q_en": "What is the main impact of the optimized control on networks?",
+          "options_ar": [
+            "أ) تحسين الأداء الديناميكي",
+            "ب) زيادة التكاليف",
+            "ج) تقليل التعقيد",
+            "د) لا شيء مما سبق"
+          ],
+          "options_en": [
+            "A) Improve dynamic performance",
+            "B) Increase costs",
+            "C) Reduce complexity",
+            "D) None of the above"
+          ],
+          "answer": 0,
+          "explanation_ar": "أظهرت النتائج تحسنًا كبيرًا في الأداء الديناميكي.",
+          "explanation_en": "The results showed significant improvements in dynamic performance."
+        }
+      ]
+    },
+    {
+      "pmid": "41910439",
+      "title_ar": "Aerodynamic Demand Responses to the Fluid Interval Test for Voice: A Laryngeal Diadochokinetic Vocal Loading Task.",
+      "title_en": "Aerodynamic Demand Responses to the Fluid Interval Test for Voice: A Laryngeal Diadochokinetic Vocal Loading Task.",
+      "journal": "Journal of speech, language, and hearing research : JSLHR",
+      "pub_date": "2026-May-07",
+      "doi": "10.1044/2025_JSLHR-25-00639",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41910439/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort",
+      "summary_ar": "تعتبر مهام تحميل الصوت مفيدة لدراسة استجابة الطلبات الصوتية، التي تشمل التكيفات البيوميكانيكية والهوائية والصوتية. تم دراسة استجابة الطلب الهوائية لاختبار الفترات السائلة للصوت (FIT-V) باستخدام 30 مشاركاً أنتجوا LDDK بصوت مرتفع لمدة 30 دقيقة. تم فرض ضغط خلفي سائل من 0 أو 5 سم H2O لتعديل الطلب التنفسي. أظهرت النتائج تغييرات كبيرة في تدفق الهواء وحجم الزفير خلال المهام، مما يبين أن مستخدمي الصوت ينظمون مخرجاتهم الهوائية. ستفحص الأبحاث المستقبلية كيفية تأثير استجابة الطلبات الصوتية المختلفة على التعب المتصور وأداء التعب ومخاطر الأمراض الحنجرية.",
+      "summary_en": "Vocal loading tasks are useful for studying vocal demand responses, which include biomechanical, aerodynamic, and acoustic adaptations. The aerodynamic demand responses to the Fluid Interval Test for Voice (FIT-V) were studied with 30 participants who produced loud LDDK for 30 minutes. Fluid back pressure of 0 or 5 cm H2O was imposed to modulate respiratory demand. Results showed significant changes in airflow and expiratory volume during tasks, indicating that voice users actively modulate their aerodynamic outputs. Future research will examine how different vocal demand responses influence perceived fatigue, performance fatigability, and laryngeal pathology risk.",
+      "practice_change_ar": "يمكن أن تؤثر نتائج هذه الدراسة على كيفية تقييم وتحميل الصوت في العيادات.",
+      "practice_change_en": "The findings may influence how voice loading is assessed and managed in clinics.",
+      "future_impact_ar": "يمكن أن تؤدي هذه الدراسة إلى فهم أفضل لاستجابة الصوت والتعب لدى مستخدمي الصوت.",
+      "future_impact_en": "This study could lead to a better understanding of voice response and fatigue in voice users.",
+      "why_important_ar": "هذه الدراسة تعزز المعرفة حول كيفية تنظيم مستخدمي الصوت لمخرجاتهم الهوائية.",
+      "why_important_en": "This study enhances knowledge about how voice users modulate their aerodynamic outputs.",
+      "vs_previous_ar": "تختلف هذه الدراسة من حيث تقديم معلومات جديدة حول استجابة الطلب الهوائية خلال تحميل الصوت.",
+      "vs_previous_en": "This study differs by providing new information on aerodynamic demand responses during voice loading tasks.",
+      "stars": 4,
+      "stars_reason_ar": "تصميم الدراسة يعكس دراسة متقدمة بمشاركة 30 مريضاً، مما يعكس مستوى جيد من الأدلة.",
+      "stars_reason_en": "The study design reflects a good level of evidence with 30 participants in a prospective manner.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The presentation of this research can enhance clinical knowledge about voice loading.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة التطبيقات السريرية لاختبار الأسعار الهوائية في تقييم أداء الصوت.",
+      "watch_detail_en": "Clinical applications of aerodynamic tests in voice performance assessment should be monitored.",
+      "watch_type": "technology",
+      "research_gap_ar": "هناك حاجة لمزيد من الأبحاث لفهم تأثير استجابات الطلب الصوتية على التعب لأداء الصوت.",
+      "research_gap_en": "There is a need for further research to understand the impact of vocal demand responses on voice performance fatigue.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "في هذه الدراسة، تم تقديم استجابات الطلب الهوائية لاختبار الفترات السائلة للصوت من خلال دراسة مستقبلية شملت 30 مشاركاً. على مدار 30 دقيقة، تم تطوير LDDK بصوت مرتفع وتطبيق ضغط خلفي سائل لتعديل الطلب التنفسي. النتائج ظهرت تغييرات كبيرة في تدفق الهواء وحجم الزفير، مما يدل على التكيفات البطولية التي يقوم بها مستخدمو الصوت. الأبحاث المستقبلية ستفحص تأثيرات هذه الاستجابات على التعب وأداء الصوت.",
+      "audio_script_en": "This study presents aerodynamic demand responses to the Fluid Interval Test for Voice through a prospective study involving 30 participants. Over 30 minutes, loud LDDK was performed with fluid back pressure applied to modulate respiratory demand. The results showed significant changes in airflow and expiratory volume, demonstrating the adaptations voice users undergo. Future research will examine the effects of these responses on fatigue and voice performance.",
+      "mcq": [
+        {
+          "q_ar": "ما هو هدف الدراسة الرئيسية؟",
+          "q_en": "What is the main goal of the study?",
+          "options_ar": [
+            "أ) دراسة استجابات الطلب الصوتي",
+            "ب) تحسين حجم الزفير",
+            "ج) تقليل التعب الصوتي",
+            "د) زيادة ضغط الهواء"
+          ],
+          "options_en": [
+            "A) Study vocal demand responses",
+            "B) Improve expiratory volume",
+            "C) Reduce vocal fatigue",
+            "D) Increase air pressure"
+          ],
+          "answer": 0,
+          "explanation_ar": "تهدف الدراسة إلى تحليل استجابات الطلب الهوائية لمهام تحميل الصوت.",
+          "explanation_en": "The study aims to analyze aerodynamic demand responses for voice loading tasks."
+        },
+        {
+          "q_ar": "ما الذي تم استخدامه لتعديل الطلب التنفسي أثناء الدراسة؟",
+          "q_en": "What was used to modulate respiratory demand during the study?",
+          "options_ar": [
+            "أ) غرفة ضغط",
+            "ب) ضغط خلفي سائل",
+            "ج) تحفيز صوتي",
+            "د) تمارين صوتية"
+          ],
+          "options_en": [
+            "A) Pressure chamber",
+            "B) Fluid back pressure",
+            "C) Auditory stimulation",
+            "D) Vocal exercises"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم استخدام ضغط خلفي سائل لرفع الطلب التنفسي خلال الدراسة.",
+          "explanation_en": "Fluid back pressure was used to modulate respiratory demand during the study."
+        },
+        {
+          "q_ar": "ما هو نوع الدراسة؟",
+          "q_en": "What type of study is this?",
+          "options_ar": [
+            "أ) دراسة تجريبية",
+            "ب) دراسة مراجعة",
+            "ج) دراسة حالة",
+            "د) دراسة مستقبلية"
+          ],
+          "options_en": [
+            "A) Experimental study",
+            "B) Review study",
+            "C) Case study",
+            "D) Prospective study"
+          ],
+          "answer": 3,
+          "explanation_ar": "الدراسة تنتمي إلى النوع المستقبلي، حيث تم إجراءها على مجموعة من المشاركين.",
+          "explanation_en": "The study is classified as prospective, conducted on a group of participants."
+        }
+      ]
+    },
+    {
+      "pmid": "42096485",
+      "title_ar": "Clinical evaluation of the i-gel Plus supraglottic airway in Japanese patients: A prospective observational study.",
+      "title_en": "Clinical evaluation of the i-gel Plus supraglottic airway in Japanese patients: A prospective observational study.",
+      "journal": "PloS one",
+      "pub_date": "2026",
+      "doi": "10.1371/journal.pone.0349108",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42096485/",
+      "pdf_url": "https://doi.org/10.1371/journal.pone.0349108",
+      "study_design": "Prospective cohort",
+      "summary_ar": "تم تصميم هذا البحث لتقييم أداء i-gel® Plus، وهو جهاز هوائي فوق الحنجرة، في السكان اليابانيين. أُجريت هذه الدراسة من مارس إلى يونيو 2024، وشملت 64 مريضًا بالغًا مع استبعاد أولئك الذين لديهم خطر مرتفع من الشفط. كان متوسط الضغط التسربي من الحلق 23.7 ± 6.9 سم ماء، بمعدل نجاح في المحاولة الأولى بلغ 92%. أظهرت النتائج فرقًا بين الجنسين في ضغط التسرب ووضوح الحبال الصوتية. بالرغم من ارتفاع معدل النجاح، إلا أن الضغط كان أقل من المتوقع.",
+      "summary_en": "This study aimed to evaluate the performance of the i-gel® Plus supraglottic airway in Japanese patients. Conducted from March to June 2024, it involved 64 adult patients, excluding those at high risk for aspiration. The mean oropharyngeal leak pressure was 23.7 ± 6.9 cmH2O, with a first-attempt success rate of 92%. Results showed gender differences in leak pressure and visibility of vocal cords. Despite the high success rate, the pressure was lower than expected.",
+      "practice_change_ar": "لا توجد تغييرات فورية تطرأ على الممارسة السريرية.",
+      "practice_change_en": "There are no immediate changes to clinical practice.",
+      "future_impact_ar": "يمكن أن تؤدي النتائج إلى مزيد من البحث حول جداول الهوائية المتنوعة.",
+      "future_impact_en": "The findings may lead to further research on diverse airway devices.",
+      "why_important_ar": "هذا البحث مهم لأنه يقيّم جهاز جديد في مجموعة سكانية مختلفة.",
+      "why_important_en": "This study is important as it evaluates a new device in a different population group.",
+      "vs_previous_ar": "يختلف عن المعرفة السابقة من حيث الأداء الأدنى لجهاز i-gel® Plus في اليابانيين.",
+      "vs_previous_en": "It differs from prior knowledge by demonstrating the lower performance of the i-gel® Plus in Japanese patients.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة مدتها طويلة مع تصميم مستقبلي ولديها نتائج جديدة تحسن فهمنا للأجهزة الهوائية.",
+      "stars_reason_en": "Prospective study design with new results improves our understanding of airway devices.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Evaluation of a new airway device's performance in an previously unspecified population.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة أداء i-gel® Plus في مجموعات سكانية أخرى، بما في ذلك الأنواع المختلفة.",
+      "watch_detail_en": "The performance of the i-gel® Plus in other population groups should be tracked.",
+      "watch_type": "device",
+      "research_gap_ar": "هناك حاجة لبحوث مستقبلية حول أداء i-gel® Plus في مجموعات سكانية متنوعة.",
+      "research_gap_en": "There's a need for future research on the performance of i-gel® Plus in diverse population groups.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تتناول الدراسة تقييم أداء جهاز i-gel® Plus الهوائي فوق الحنجرة في مرضى يابانيين. وُجد أن الضغط التسربي من الحلق كان 23.7 ± 6.9 سم ماء. كما أظهر معدل نجاح في المحاولة الأولى بنسبة 92%. هناك فرق بين الجنسين، حيث كان الرجال لديهم ضغط أقل ووضوح أقل للحبال الصوتية. الدراسة مهمة لتحسين فهمنا للأجهزة الهوائية المختلفة وفتح آفاق جديدة للبحوث.",
+      "audio_script_en": "The study evaluates the performance of the i-gel® Plus supraglottic airway in Japanese patients. The mean oropharyngeal leak pressure was found to be 23.7 ± 6.9 cmH2O with a first-attempt success rate of 92%. There were gender differences, with males showing lower leak pressure and fewer visible vocal cords. The study is important for enhancing our understanding of various airway devices and opens new avenues for research.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الضغط التسربي من الحلق لجهاز i-gel® Plus في هذه الدراسة؟",
+          "q_en": "What was the oropharyngeal leak pressure of the i-gel® Plus in this study?",
+          "options_ar": [
+            "أ) 32 سم ماء",
+            "ب) 23.7 سم ماء",
+            "ج) 29 سم ماء",
+            "د) 25 سم ماء"
+          ],
+          "options_en": [
+            "A) 32 cmH2O",
+            "B) 23.7 cmH2O",
+            "C) 29 cmH2O",
+            "D) 25 cmH2O"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان الضغط التسربي 23.7 ± 6.9 سم ماء، وهو أقل من التوقعات.",
+          "explanation_en": "The leak pressure was 23.7 ± 6.9 cmH2O, which was lower than expected."
+        },
+        {
+          "q_ar": "ما هو معدل النجاح في المحاولة الأولى لجهاز i-gel® Plus؟",
+          "q_en": "What was the first-attempt success rate for the i-gel® Plus?",
+          "options_ar": [
+            "أ) 85%",
+            "ب) 92%",
+            "ج) 78%",
+            "د) 95%"
+          ],
+          "options_en": [
+            "A) 85%",
+            "B) 92%",
+            "C) 78%",
+            "D) 95%"
+          ],
+          "answer": 1,
+          "explanation_ar": "بلغ معدل النجاح في المحاولة الأولى 92%.",
+          "explanation_en": "The first-attempt success rate was 92%."
+        },
+        {
+          "q_ar": "ما هو تصميم الدراسة؟",
+          "q_en": "What is the study design?",
+          "options_ar": [
+            "أ) دراسة مستقبلية",
+            "ب) دراسة استرجاعية",
+            "ج) تجربة عشوائية",
+            "د) تقرير حالة"
+          ],
+          "options_en": [
+            "A) Prospective study",
+            "B) Retrospective study",
+            "C) Randomized trial",
+            "D) Case report"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة مصممة كمجموعة مستقبلية لتقييم الأداء.",
+          "explanation_en": "The study was designed as a prospective cohort to assess performance."
+        }
+      ]
+    },
+    {
+      "pmid": "42096698",
+      "title_ar": "Paediatric periorbital and orbital infections: a decade of experience at Christchurch Hospital.",
+      "title_en": "Paediatric periorbital and orbital infections: a decade of experience at Christchurch Hospital.",
+      "journal": "The New Zealand medical journal",
+      "pub_date": "2026-May-08",
+      "doi": "10.26635/6965.7068",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42096698/",
+      "pdf_url": null,
+      "study_design": "Retrospective case series n=495",
+      "summary_ar": "تهدف هذه الدراسة إلى وصف الوبائيات والخصائص السريرية والميكروبيولوجيا وإدارة المرضى الأطفال الذين تقل أعمارهم عن 18 عامًا والذين تم إدخالهم إلى مستشفى كرايستشرش بسبب العدوى المحيطية أو المدارية. أجرى الباحثون مراجعة استعادية لحالات 495 مريضًا تم تحديدهم من سجلات العمليات الجراحية. كانت العدوى المحيطية الأكثر شيوعًا، حيث تمثل 93% من الحالات. كانت التهابات الجيوب الأنفية هي العوامل الرئيسية المسببة. ساعد وجود علامات مدارية في تحديد الحاجة إلى التصوير العاجل.",
+      "summary_en": "This study aims to describe the epidemiology, clinical features, microbiology, and management of paediatric patients under 18 admitted to Christchurch Hospital with periorbital or orbital infections. A retrospective review identified 495 cases from surgical records. Periorbital infections were the most common, accounting for 93% of cases. Sinusitis was the leading predisposing factor. The presence of orbital signs helped prompt urgent imaging.",
+      "practice_change_ar": "يجب أن يشجع ظهور علامات المدار على إجراء التصوير العاجل.",
+      "practice_change_en": "The presence of orbital signs should prompt urgent imaging.",
+      "future_impact_ar": "تؤكد الدراسة على أهمية التصوير المبكر بصورة أكبر في تقييم حالات العدوى المدارية.",
+      "future_impact_en": "The study highlights the importance of early imaging in assessing orbital infection cases.",
+      "why_important_ar": "تسلط الدراسة الضوء على التفاوت في تأثير العدوى المدارية على الأطفال الماوريين والهادئين.",
+      "why_important_en": "The study highlights the disproportionate impact of orbital infections on Māori and Pacific children.",
+      "vs_previous_ar": "تضيف الدراسة معلومات جديدة حول تأثير العدوى المدارية المرتبطة بالتهاب الجيوب الأنفية.",
+      "vs_previous_en": "The study adds new insights into orbital infections associated with sinusitis.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استعادية مع حجم عينة كبير (n=495) تقدم معلومات جديدة حول عدوى الأطفال.",
+      "stars_reason_en": "Retrospective study with a large sample size (n=495) providing new information on pediatric infections.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study provides important insights into pediatric infections and their impact on specific populations.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "الحاجة لدراسة تأثير العوامل الاجتماعية والثقافية على حدوث العدوى المدارية.",
+      "research_gap_en": "Need to study the impact of social and cultural factors on the occurrence of orbital infections.",
+      "subspecialty": "pediatric",
+      "audio_script_ar": "تناقش هذه الدراسة وبائيات وخصائص وإدارة العدوى المحيطية والمدارية لدى الأطفال في مستشفى كرايستشرش على مدى 10 سنوات. تم إجراء مراجعة استعادية ل495 حالة، حيث كانت العدوى المحيطية هي الأكثر شيوعًا. تمثل التهاب الجيوب الأنفية عامل الخطر الرئيسي. تشير النتائج إلى ضرورة التحليل العاجل عند وجود علامات مدارية.",
+      "audio_script_en": "This study discusses the epidemiology, clinical features, and management of periorbital and orbital infections in children at Christchurch Hospital over a decade. A retrospective review of 495 cases revealed periorbital infections were most common, with sinusitis as the main risk factor. The findings emphasize the need for urgent assessment when orbital signs are present.",
+      "mcq": [
+        {
+          "q_ar": "ما هو العامل الرئيسي المسبب للعدوى المدارية حسب الدراسة؟",
+          "q_en": "What is the main predisposing factor for orbital infections according to the study?",
+          "options_ar": [
+            "أ) التهابات الجيوب الأنفية",
+            "ب) التصوير العاجل",
+            "ج) العدوى البكتيرية",
+            "د) الإجهاد النفسي"
+          ],
+          "options_en": [
+            "A) Sinusitis",
+            "B) Urgent imaging",
+            "C) Bacterial infection",
+            "D) Psychological stress"
+          ],
+          "answer": 0,
+          "explanation_ar": "تشير الدراسة إلى أن التهاب الجيوب الأنفية كان العامل الأكثر شيوعًا المرتبط بالعدوى المدارية.",
+          "explanation_en": "The study indicates that sinusitis was the most common factor associated with orbital infections."
+        },
+        {
+          "q_ar": "كم من الأيام كانت مدة الإقامة في المستشفى عند المرضى الذين لديهم التهاب مداري؟",
+          "q_en": "What was the hospital stay duration for patients with orbital cellulitis?",
+          "options_ar": [
+            "أ) 1 يوم",
+            "ب) 4.5 أيام",
+            "ج) 10 أيام",
+            "د) 2 أيام"
+          ],
+          "options_en": [
+            "A) 1 day",
+            "B) 4.5 days",
+            "C) 10 days",
+            "D) 2 days"
+          ],
+          "answer": 1,
+          "explanation_ar": "أشار البحث إلى أن مدة الإقامة كانت 4.5 أيام لمرضى التهاب الجيوب المدارية.",
+          "explanation_en": "The research mentioned that the stay duration was 4.5 days for patients with orbital cellulitis."
+        },
+        {
+          "q_ar": "ما هي النسبة المئوية للأطفال الذين تأثروا بالعدوى المدارية من سكان ماوري وباسيفيك؟",
+          "q_en": "What percentage of Māori and Pacific children were affected by orbital infections?",
+          "options_ar": [
+            "أ) 20% و10%",
+            "ب) 50% و30%",
+            "ج) 25% و15%",
+            "د) 5% و10%"
+          ],
+          "options_en": [
+            "A) 20% and 10%",
+            "B) 50% and 30%",
+            "C) 25% and 15%",
+            "D) 5% and 10%"
+          ],
+          "answer": 0,
+          "explanation_ar": "أوضحت الدراسة أن 20% من الأطفال الماوريين و10% من الأخرى، تأثروا بالعدوى المدارية.",
+          "explanation_en": "The study stated that 20% of Māori children and 10% of Pacific children were affected by orbital infections."
+        }
+      ]
+    },
+    {
+      "pmid": "41989262",
+      "title_ar": "Glottal Area Waveform Measurements for Healthy Female and Male Speakers in Typical, High-Frequency, and Soft Phonation.",
+      "title_en": "Glottal Area Waveform Measurements for Healthy Female and Male Speakers in Typical, High-Frequency, and Soft Phonation.",
+      "journal": "Journal of speech, language, and hearing research : JSLHR",
+      "pub_date": "2026-May-07",
+      "doi": "10.1044/2026_JSLHR-25-00611",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41989262/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort n=66",
+      "summary_ar": "تهدف هذه الدراسة إلى دراسة الخصائص الحركية للأحبال الصوتية المرتبطة بالصوت العادي، الصوت عالي التردد، والصوت منخفض الكثافة في البالغين الأصحاء صوتيًا. تم قياس Glottal Area Waveform (GAW) باستخدام الفيديو عالي السرعة لـ 66 بالغًا (41 امرأة و25 رجلًا) أثناء إنتاج صوت /i:/ المستدام عبر المهام الثلاث. شملت التحليلات الإحصائية مقاييس متعددة لـ GAW. أظهرت النتائج أن الصوت عالي التردد ومنخفض الكثافة يتطلب تعديلات حنجرية مميزة تعتمد على الجنس. تلقي الدراسة الضوء على الحاجة لتخصيص العلاج الصوتي بناءً على استراتيجيات فسيولوجية واختلافات قائمة على الجنس.",
+      "summary_en": "This study aimed to examine the vocal fold kinematic characteristics associated with typical-frequency, high-frequency, and soft-intensity phonation in vocally healthy adults. Glottal Area Waveform (GAW) was measured using high-speed videoendoscopy in 66 adults (41 women and 25 men) during sustained /i:/ production across three tasks. Statistical analyses included various measures of GAW. Results showed that high-frequency and soft-intensity phonations involve distinct laryngeal adjustments and sex-dependent changes. The study underscores the need to tailor voice therapy according to physiological strategies and sex-based differences.",
+      "practice_change_ar": "تعتبر هذه الدراسة مفيدة لتخصيص العلاج الصوتي حسب التغيرات الفسيولوجية والمظاهر الجنسانية.",
+      "practice_change_en": "This study is useful for tailoring voice therapy according to physiological changes and sex-based characteristics.",
+      "future_impact_ar": "ستساعد هذه النتائج في تحسين استراتيجيات إعادة التأهيل الصوتي في المستقبل.",
+      "future_impact_en": "These findings will aid in improving voice rehabilitation strategies in the future.",
+      "why_important_ar": "تسلط هذه المقالة الضوء على أهمية التغييرات الفسيولوجية في معالجة الصوت.",
+      "why_important_en": "This article highlights the importance of physiological changes in voice management.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة من خلال تقديم رؤى جديدة حول تأثير الجنس على قياسات GAW.",
+      "vs_previous_en": "This study differs from prior knowledge by providing new insights into the effects of sex on GAW measurements.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة مستقبلية تضم عددًا كافيًا من المشاركين، تقدم معلومات جديدة حول اختلافات الصوت وفقًا للجنس.",
+      "stars_reason_en": "Prospective study with a sufficient number of participants, providing new insights into vocal differences based on sex.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This study provides new information related to voice disorder management.",
+      "watch": true,
+      "watch_detail_ar": "ضرورة مراقبة التغيرات في طرق العلاج الصوتي المعتمدة على الجنس.",
+      "watch_detail_en": "The need to track changes in voice therapy approaches based on sex differences.",
+      "watch_type": "technology",
+      "research_gap_ar": "تحديد كيفية تأثير الجنس على قياسات GAW لا يزال غير مستكشف بشكل كافٍ.",
+      "research_gap_en": "The impact of sex on GAW measurements has not been sufficiently explored.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تتناول هذه الدراسة الخصائص الحركية للأحبال الصوتية في أصوات مختلفة لدى البالغين الأصحاء. دراسة شملت 66 بالغًا، 41 امرأة و25 رجلًا، تم قياس GAW باستخدام الفيديو عالي السرعة أثناء إنتاج صوت مستدام. تمت دراسة تأثير الجنس على اختلافات الصوت. تؤكد النتائج الحاجة لتخصيص العلاج الصوتي. وبذلك، يمكن أن تؤدي هذه النتائج إلى تحسين استراتيجيات إعادة تأهيل الصوت.",
+      "audio_script_en": "This study examines the kinematic characteristics of vocal folds in different phonations among vocally healthy adults. Involving 66 adults, 41 women and 25 men, GAW was measured using high-speed videoendoscopy during sustained phonation. It examined the impact of sex on voice differences. The results highlight the need to tailor voice therapy. Thus, these findings could lead to improved voice rehabilitation strategies.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الغرض من الدراسة؟",
+          "q_en": "What was the purpose of the study?",
+          "options_ar": [
+            "أ) دراسة تأثير الجنس على الصوت",
+            "ب) قياس جودة الصوت",
+            "ج) تحليل أحبال الصوت في الأطفال",
+            "د) تقييم كفاءة العلاجات الصوتية"
+          ],
+          "options_en": [
+            "A) To study the effect of sex on voice",
+            "B) To measure voice quality",
+            "C) To analyze vocal folds in children",
+            "D) To assess the effectiveness of voice therapies"
+          ],
+          "answer": 0,
+          "explanation_ar": "تهدف الدراسة إلى دراسة الخصائص الحركية للأحبال الصوتية المرتبطة بالجنس.",
+          "explanation_en": "The study aimed to examine the kinematic characteristics of vocal folds related to sex."
+        },
+        {
+          "q_ar": "كم عدد المشاركين في الدراسة؟",
+          "q_en": "How many participants were involved in the study?",
+          "options_ar": [
+            "أ) 20",
+            "ب) 41",
+            "ج) 66",
+            "د) 100"
+          ],
+          "options_en": [
+            "A) 20",
+            "B) 41",
+            "C) 66",
+            "D) 100"
+          ],
+          "answer": 2,
+          "explanation_ar": "تضمنت الدراسة 66 بالغًا.",
+          "explanation_en": "The study involved 66 adults."
+        },
+        {
+          "q_ar": "ما هي التقنية المستخدمة لقياس GAW؟",
+          "q_en": "What technique was used to measure GAW?",
+          "options_ar": [
+            "أ) التصوير بالرنين المغناطيسي",
+            "ب) الفحص الصوتي التقليدي",
+            "ج) الفيديو عالي السرعة",
+            "د) التحليل الطيفي"
+          ],
+          "options_en": [
+            "A) MRI",
+            "B) Traditional voice examination",
+            "C) High-speed video",
+            "D) Spectral analysis"
+          ],
+          "answer": 2,
+          "explanation_ar": "تم قياس GAW باستخدام فيديو عالي السرعة.",
+          "explanation_en": "GAW was measured using high-speed video."
+        }
+      ]
+    },
+    {
+      "pmid": "41984052",
+      "title_ar": "Physiological Correlates of the Spectral Aggregate of the High-Passed Fundamental Frequency in Adductor Laryngeal Dystonia.",
+      "title_en": "Physiological Correlates of the Spectral Aggregate of the High-Passed Fundamental Frequency in Adductor Laryngeal Dystonia.",
+      "journal": "Journal of speech, language, and hearing research : JSLHR",
+      "pub_date": "2026-May-07",
+      "doi": "10.1044/2026_JSLHR-25-00836",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41984052/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort",
+      "summary_ar": "تم قياس spectral aggregate of the high-passed fundamental frequency (SAHfo) كوسيلة آلية مرتبطة بالانقطاع الصوتي في الكلام لدى الأفراد الذين يعانون من adductor laryngeal dystonia (AdLD). الدراسة شملت اثنين وثلاثين متحدثاً يعانون من AdLD، حيث قاموا بقراءة جمل مليئة بالأصوات الم voiced وال voiceless أثناء إجرائهم التنظير الليفي الأنفي. أظهرت النتائج أن SAHfo كان مرتبطاً بشكل كبير بأحداث الانسداد ودرجات الضغط الفوق الحنجري. الدراسة تؤكد أن SAHfo يمكن استخدامه كوسيلة لتقديم الدعم الفسيولوجي لإدراك انقطاعات الصوت المحددة بـ AdLD.",
+      "summary_en": "The spectral aggregate of the high-passed fundamental frequency (SAHfo) is an automated acoustic measure associated with the acoustic discontinuities present in the speech of individuals with adductor laryngeal dystonia (AdLD). The study included thirty-two speakers with AdLD who read voiced and voiceless phoneme-loaded sentences while undergoing transnasal laryngoscopy. The results indicated that SAHfo was significantly related to obstruction events and degrees of supraglottic compression. This study supports the physiological relevance of using SAHfo in understanding acoustic disruptions specific to AdLD.",
+      "practice_change_ar": "يمكن أن تساعد نتائج الدراسة الأطباء في تفسير الانقطاعات الصوتية لدى مرضى AdLD.",
+      "practice_change_en": "The study's findings may assist clinicians in interpreting acoustic disruptions in patients with AdLD.",
+      "future_impact_ar": "قد تساهم النتائج في تطوير أدوات تقييم جديدة لمرضى AdLD.",
+      "future_impact_en": "The findings may contribute to the development of new assessment tools for patients with AdLD.",
+      "why_important_ar": "تسلط الدراسة الضوء على العلاقة بين SAHfo والوضعيات الحُنجريّة لدى مرضى AdLD.",
+      "why_important_en": "The study highlights the relationship between SAHfo and laryngeal postures in patients with AdLD.",
+      "vs_previous_ar": "تضيف هذه النتائج فهماً جديداً حول الاستخدام السريري لـ SAHfo في تقييم AdLD.",
+      "vs_previous_en": "These findings provide new insights into the clinical application of SAHfo in evaluating AdLD.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة مصممة بشكل جيد كدراسة جماعية مستقبلية ونتائجها تشير إلى ضرورة تطبيق SAHfo في تحسين فهمنا لمرضى AdLD.",
+      "stars_reason_en": "The study is well-designed as a prospective cohort study and its results indicate the need for applying SAHfo to improve our understanding of patients with AdLD.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The significance of the findings for respiratory researchers and clinicians.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "توجد حاجة إلى مزيد من البحث لفهم العلاقة بين SAHfo وأنماط الأداء الصوتي في AdLD.",
+      "research_gap_en": "There is a need for further research to understand the relationship between SAHfo and vocal performance patterns in AdLD.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "في هذه الدراسة، تم قياس spectral aggregate of the high-passed fundamental frequency، أو SAHfo، كوسيلة آلية ترتبط بالانقطاعات الصوتية في الكلام لدى الأفراد الذين يعانون من adductor laryngeal dystonia. شارك في الدراسة 32 متحدثًا، حيث تم تقييم أدائهم عن طريق التنظير الليفي الأنفي بينما يقرؤون جمل مليئة بالأصوات الم voiced و voiceless. أظهرت النتائج أن SAHfo يرتبط بشكل كبير بأحداث الانسداد والضغط الفوق الحنجري. تشير النتائج أيضًا إلى الأهمية السريرية لـ SAHfo في تحسين فهم الأطباء لهذه الحالة. والبحث يقدم دعماً فسيولوجياً لاستخدام SAHfo في تقييم مرضى AdLD.",
+      "audio_script_en": "In this study, the spectral aggregate of the high-passed fundamental frequency, or SAHfo, was measured as an automated acoustic measure associated with the acoustic discontinuities present in the speech of individuals with adductor laryngeal dystonia. Thirty-two speakers participated in the study, with their performance assessed through transnasal laryngoscopy while reading voiced and voiceless phoneme-loaded sentences. The results indicated that SAHfo was significantly related to obstruction events and supraglottic compression. These findings also highlight the clinical relevance of SAHfo in improving clinicians' understanding of this condition. The research provides physiological support for the use of SAHfo in evaluating patients with AdLD.",
+      "mcq": [
+        {
+          "q_ar": "ما هو SAHfo؟",
+          "q_en": "What is SAHfo?",
+          "options_ar": [
+            "أ) قياس صوتي آلي",
+            "ب) نوع من الأدوية",
+            "ج) تقنية جراحية",
+            "د) نوع من العلاجات التنفسية"
+          ],
+          "options_en": [
+            "A) An automated acoustic measure",
+            "B) A type of drug",
+            "C) A surgical technique",
+            "D) A type of respiratory therapy"
+          ],
+          "answer": 0,
+          "explanation_ar": "SAHfo هو قياس صوتي آلي يرتبط بانقطاعات الصوت.",
+          "explanation_en": "SAHfo is an automated acoustic measure related to vocal discontinuities."
+        },
+        {
+          "q_ar": "كيف يؤثر الضغط الفوق الحنجري على SAHfo؟",
+          "q_en": "How does supraglottic compression affect SAHfo?",
+          "options_ar": [
+            "أ) لا يؤثر",
+            "ب) يزيده",
+            "ج) يقلله",
+            "د) يؤثر بشكل غير منتظم"
+          ],
+          "options_en": [
+            "A) It has no effect",
+            "B) It increases it",
+            "C) It decreases it",
+            "D) It affects it irregularly"
+          ],
+          "answer": 2,
+          "explanation_ar": "الضغط الفوق الحنجري يؤثر بشكل ملحوظ على مستوى SAHfo.",
+          "explanation_en": "Supraglottic compression significantly affects the level of SAHfo."
+        },
+        {
+          "q_ar": "ما هو تصميم الدراسة المستخدمة في البحث؟",
+          "q_en": "What is the study design used in the research?",
+          "options_ar": [
+            "أ) دراسة عشوائية محكمة",
+            "ب) دراسة جماعية مستقبلية",
+            "ج) دراسة تاريخية",
+            "د) تقرير حالة"
+          ],
+          "options_en": [
+            "A) Randomized controlled trial",
+            "B) Prospective cohort study",
+            "C) Retrospective study",
+            "D) Case report"
+          ],
+          "answer": 1,
+          "explanation_ar": "تصميم الدراسة هو دراسة جماعية مستقبلية.",
+          "explanation_en": "The study design is a prospective cohort study."
+        }
+      ]
+    },
+    {
+      "pmid": "42097916",
+      "title_ar": "Women with Vocal Fold Nodules: Analysis of Voice Quality and Vocal Self-Perception.",
+      "title_en": "Women with Vocal Fold Nodules: Analysis of Voice Quality and Vocal Self-Perception.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-May-07",
+      "doi": "10.1016/j.jvoice.2026.03.009",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42097916/",
+      "pdf_url": null,
+      "study_design": "Case-control study",
+      "summary_ar": "هدفت هذه الدراسة إلى تقييم أصوات النساء المصابات بعقيدات الأحبال الصوتية مقارنة بمجموعة ضابطة من النساء بدون أمراض حنجرية. شملت الدراسة 19 امرأة مصابة بعقيدات و21 امرأة في المجموعة الضابطة. تم إجراء تقييم صوتي باستخدام مقاييس سمعية وذاتية. أظهرت النتائج اختلافات كبيرة بين المجموعتين في عدة مؤشرات، مع وجود التعزيز في جودة الصوت والتنفس. كما أكدت الدراسة على تأثير سلبي على الوظائف الصوتية للنساء المصابات.",
+      "summary_en": "This study aimed to evaluate the voices of women with vocal fold nodules compared to a control group of women without laryngeal pathologies. The study included 19 women with nodules and 21 women in the control group. Acoustic assessments were performed using auditory and self-perceptual measures. The results showed significant differences between the groups in several indices, with increased breathiness affecting voice quality. The study also confirmed a negative impact on the vocal functionality of women with nodules.",
+      "practice_change_ar": "تسهم هذه الدراسة في تحسين فهم تأثير عقيدات الأحبال الصوتية على جودة الصوت.",
+      "practice_change_en": "This study contributes to understanding the impact of vocal fold nodules on voice quality.",
+      "future_impact_ar": "قد تؤدي النتائج إلى تطوير استراتيجيات علاجية أفضل لتحسين جودة الصوت عند النساء المصابات.",
+      "future_impact_en": "The findings may lead to better treatment strategies for improving voice quality in affected women.",
+      "why_important_ar": "تُعتبر هذه الدراسة مهمة لأنها تسلط الضوء على تأثير عقيدات الأحبال الصوتية على جودة الصوت والتصور الذاتي.",
+      "why_important_en": "This study is significant as it highlights the impact of vocal fold nodules on voice quality and self-perception.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة من خلال تقديم تحليل شامل لجودة الصوت والتصور الذاتي للنساء المصابات.",
+      "vs_previous_en": "This study differs from previous knowledge by providing a comprehensive analysis of voice quality and self-perception in affected women.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة تصميمها حالة-تحكم مع بيانات جيدة، وقدمت معلومات جديدة حول تأثير عقيدات الأحبال الصوتية.",
+      "stars_reason_en": "The study is a case-control design with good data, providing new insights into the impact of vocal fold nodules.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study addresses an important topic regarding women's vocal health.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج الدراسة إلى استكشاف طرق العلاج المختلفة لعلاج النساء المصابات بعقيدات.",
+      "research_gap_en": "The study needs further exploration of different treatment methods for women with nodules.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تناقش هذه الدراسة تحليل جودة الصوت للنساء المصابات بعقيدات الأحبال الصوتية. الهدف هو تقييم الأصوات عن طريق تقييمات صوتية وسماعية. النتائج أظهرت اختلافات كبيرة في المؤشرات بين المجموعتين. تمثل الدراسة أهمية كبيرة لفهم تأثير العقيدات.",
+      "audio_script_en": "This study discusses the analysis of voice quality in women with vocal fold nodules. The objective is to evaluate voices through acoustic and auditory assessments. The results showed significant differences in indices between the groups. The study represents considerable importance for understanding the impact of nodules.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف من هذه الدراسة؟",
+          "q_en": "What is the objective of this study?",
+          "options_ar": [
+            "أ) تحليل جودة الصوت للنساء",
+            "ب) تقييم تأثير عقيدات الأحبال الصوتية",
+            "ج) دراسة نمط الكلام عند الرجال",
+            "د) قياس الكفاءة الصوتية للأطفال"
+          ],
+          "options_en": [
+            "A) Analyze voice quality in women",
+            "B) Evaluate the impact of vocal fold nodules",
+            "C) Study speech patterns in men",
+            "D) Measure voice efficiency in children"
+          ],
+          "answer": 1,
+          "explanation_ar": "الهدف هو تقييم تأثير عقيدات الأحبال الصوتية على جودة الصوت.",
+          "explanation_en": "The objective is to evaluate the impact of vocal fold nodules on voice quality."
+        },
+        {
+          "q_ar": "كم عدد النساء المصابات بعقيدات الأحبال الصوتية في الدراسة؟",
+          "q_en": "How many women with vocal fold nodules were in the study?",
+          "options_ar": [
+            "أ) 19",
+            "ب) 21",
+            "ج) 15",
+            "د) 10"
+          ],
+          "options_en": [
+            "A) 19",
+            "B) 21",
+            "C) 15",
+            "D) 10"
+          ],
+          "answer": 0,
+          "explanation_ar": "شملت الدراسة 19 امرأة مصابة بعقيدات.",
+          "explanation_en": "The study included 19 women with nodules."
+        },
+        {
+          "q_ar": "ما هي النتيجة الرئيسية للدراسة؟",
+          "q_en": "What is the main result of the study?",
+          "options_ar": [
+            "أ) لا توجد اختلافات بين المجموعتين",
+            "ب) ارتفاع جودة الصوت في المجموعة الضابطة",
+            "ج) اختلافات كبيرة في المؤشرات الصوتية",
+            "د) التحسن التام لجودة الصوت"
+          ],
+          "options_en": [
+            "A) No differences between the groups",
+            "B) Higher voice quality in the control group",
+            "C) Significant differences in voice indices",
+            "D) Complete improvement in voice quality"
+          ],
+          "answer": 2,
+          "explanation_ar": "أظهرت النتائج اختلافات كبيرة في المؤشرات بين المجموعتين.",
+          "explanation_en": "The results showed significant differences in indices between the groups."
+        }
+      ]
+    },
+    {
+      "pmid": "42096212",
+      "title_ar": "Systematic Postdissection Vagal Stimulation and Surgical Strategy During Thyroidectomy.",
+      "title_en": "Systematic Postdissection Vagal Stimulation and Surgical Strategy During Thyroidectomy.",
+      "journal": "JAMA otolaryngology-- head & neck surgery",
+      "pub_date": "2026-May-07",
+      "doi": "10.1001/jamaoto.2026.0747",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42096212/",
+      "pdf_url": null,
+      "study_design": "Retrospective series n=240",
+      "summary_ar": "الدراسة الحالية تتناول استعمال الـ Intraoperative neuromonitoring (IONM) لتقليل خطر الإصابة بشلل الحنجرة الثنائي بعد عملية استئصال الغدة الدرقية. بناءً على تسلسل التحفيز الموصى به، تم إجراء تحفيز V2 بعد التحفيز R2. أظهرت النتائج أن sensitivity تحفيز V2 لتحديد شلل الحنجرة كانت 100% مقارنةً بـ R2 الذي كان 57.9%. تم إدراج 240 مريض وتم تقييم النتائج بناءً على حركة الأحبال الصوتية في اليوم الأول بعد الجراحة. تشير النتائج إلى أن التحفيز المنهجي لـ V2 يجب أن يُعتبر معيارًا ذهبيًا لتقليل خطر الشلل.",
+      "summary_en": "This study addresses the use of Intraoperative neuromonitoring (IONM) to reduce the risk of bilateral vocal cord palsy after thyroidectomy. Based on the recommended stimulation sequence, V2 stimulation was performed after R2 stimulation. Results showed that the sensitivity of V2 stimulation for identifying vocal cord palsy was 100% compared to 57.9% for R2. The study included 240 patients and evaluated outcomes based on vocal cord mobility on the first postoperative day. The findings suggest that systematic V2 stimulation should be considered the gold standard to minimize the risk of palsy.",
+      "practice_change_ar": "يجب على الجراحين اعتماد التحفيز المنهجي لـ V2 أثناء جراحة استئصال الغدة الدرقية.",
+      "practice_change_en": "Surgeons should adopt systematic V2 stimulation during thyroidectomy.",
+      "future_impact_ar": "يمكن أن تؤدي هذه الدراسة إلى تغيير بروتوكولات الجراحة المتبعة في استئصال الغدة الدرقية.",
+      "future_impact_en": "This study could lead to changes in surgical protocols for thyroidectomy.",
+      "why_important_ar": "تقدم الدراسة أدلة قوية على تحسين السلامة للأحبال الصوتية أثناء جراحة استئصال الغدة الدرقية.",
+      "why_important_en": "The study provides strong evidence for improved vocal cord safety during thyroid surgery.",
+      "vs_previous_ar": "يختلف هذا البحث عن الدراسات السابقة من حيث تقديم التحفيز المنهجي لـ V2 كخيار أساسي.",
+      "vs_previous_en": "This research differs from previous studies by proposing systematic V2 stimulation as the standard approach.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استعادية على عينة كبيرة من المرضى مع نتائج تتعلق بالتحفيز المنهجي، مما يزيد من أهمية نتائجها.",
+      "stars_reason_en": "Retrospective study on a large patient sample with outcomes related to systematic stimulation, enhancing the importance of its findings.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Introduces a new method that could change surgical practice.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة تطبيق التحفيز V2 للتأكد من فعاليته في تقليل خطر الشلل.",
+      "watch_detail_en": "Monitor the application of V2 stimulation to confirm its effectiveness in reducing the risk of palsy.",
+      "watch_type": "technology",
+      "research_gap_ar": null,
+      "research_gap_en": null,
+      "subspecialty": "head_neck",
+      "audio_script_ar": "يسلط الضوء على دراسة حديثة تناولت أهمية استخدام الـ Intraoperative neuromonitoring لتقليل خطر شلل الحنجرة الثنائي أثناء جراحة استئصال الغدة الدرقية. الدراسة أظهرت أن التحفيز المنهجي لـ V2 يعطي نتائج أفضل مقارنةً بـ R2. وقد تم تضمين 240 مريض وتم تقييم الحركة الصوتية في اليوم الأول بعد العملية. هذه النتائج تقدم تغييراً محتملاً في طرق التعامل مع جراحة الغدة الدرقية.",
+      "audio_script_en": "This highlights a recent study on the importance of using Intraoperative neuromonitoring to reduce the risk of bilateral vocal cord palsy during thyroidectomy. The study showed that systematic V2 stimulation yields better results compared to R2. A total of 240 patients were included, and vocal mobility was assessed on the first postoperative day. These results suggest a potential change in surgical approaches for thyroid surgery.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف الرئيسي للدراسة؟",
+          "q_en": "What is the main goal of the study?",
+          "options_ar": [
+            "أ) مقارنة V2 وR2",
+            "ب) تقييم نتائج الشلل الحنجري",
+            "ج) اعتماد نظام جديد للتحفيز",
+            "د) دراسة تأثير الجراحة"
+          ],
+          "options_en": [
+            "A) Compare V2 and R2",
+            "B) Assess outcomes of vocal cord palsy",
+            "C) Adopt a new stimulation system",
+            "D) Study surgical impact"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة تهدف لمقارنة فعالية التحفيز V2 وR2 في تقليل شلل الحنجرة.",
+          "explanation_en": "The study aims to compare the effectiveness of V2 and R2 stimulation in reducing vocal cord palsy."
+        },
+        {
+          "q_ar": "ما هو التحفيز الذي أظهر أفضل مستوى من الحساسية لتحديد شلل الحنجرة؟",
+          "q_en": "Which stimulation showed the best sensitivity for identifying vocal cord palsy?",
+          "options_ar": [
+            "أ) R2",
+            "ب) V2",
+            "ج) V1",
+            "د) لا شيء من السابق"
+          ],
+          "options_en": [
+            "A) R2",
+            "B) V2",
+            "C) V1",
+            "D) None of the above"
+          ],
+          "answer": 1,
+          "explanation_ar": "التحفيز V2 أظهر sensitivity تصل إلى 100% لتحديد الشلل.",
+          "explanation_en": "V2 stimulation showed a sensitivity of 100% for identifying palsy."
+        },
+        {
+          "q_ar": "ما هي الفائدة المحتملة من الدراسة؟",
+          "q_en": "What is a potential benefit of the study?",
+          "options_ar": [
+            "أ) تحسين الأمان أثناء الجراحة",
+            "ب) زيادة تكلفة العملية",
+            "ج) تغيير موقع الجراحة",
+            "د) تقليل الوقت الجراحي"
+          ],
+          "options_en": [
+            "A) Improve safety during surgery",
+            "B) Increase procedure costs",
+            "C) Change surgical site",
+            "D) Decrease surgical time"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة تشير إلى إمكانية تحسين الأمان أثناء الجراحة باستخدام التحفيز V2.",
+          "explanation_en": "The study suggests the potential to improve safety during surgery using V2 stimulation."
+        }
+      ]
+    },
+    {
+      "pmid": "42103358",
+      "title_ar": "Sensory neuron-derived CCL5 orchestrates an immunosuppressive niche via regulatory T cells to fuel head and neck tumor progression.",
+      "title_en": "Sensory neuron-derived CCL5 orchestrates an immunosuppressive niche via regulatory T cells to fuel head and neck tumor progression.",
+      "journal": "Journal for immunotherapy of cancer",
+      "pub_date": "2026-May-08",
+      "doi": "10.1136/jitc-2025-013958",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42103358/",
+      "pdf_url": null,
+      "study_design": "In vitro and in vivo experiments, clinical specimen validation",
+      "summary_ar": "تستعرض هذه الدراسة العلاقة بين استعمار الأعصاب والتعديل المناعي في سرطان الخلايا الحرشفية الفموية (OSCC). تشير النتائج إلى أن الأعصاب داخل الورم قد تعزز تجنيد خلايا T التنظيمية (Tregs) من خلال كيمياء C-C motif chemokine ligand 5 (CCL5) وتساهم في اكتسابها لسمات مثبطة للمناعة. كما تكشف الدراسة عن إمكانية استهداف CCL5 وRAMP1 كاستراتيجيات علاجية مشتركة لتعزيز فعالية العلاج المناعي ضد الأورام. هذه النتائج تبرز محور العلاقة بين الأعصاب وخلايا T التنظيمية في بيئة الورم المناعية.",
+      "summary_en": "This study investigates the interplay between neural infiltration and immune modulation in oral squamous cell carcinoma (OSCC). It suggests that intratumoral nerves enhance the recruitment of regulatory T cells (Tregs) via C-C motif chemokine ligand 5 (CCL5) chemotaxis and promote an immunosuppressive phenotype in Tregs. The study also reveals the potential of targeting CCL5 and RAMP1 as combinatorial therapeutic strategies to enhance anti-tumor efficacy. These findings highlight the neural-Treg axis in the tumor immune microenvironment.",
+      "practice_change_ar": "يمكن أن يؤدي دمج استهداف CCL5 مع العلاجات المناعية إلى تحسين نتائج المرضى.",
+      "practice_change_en": "Targeting CCL5 in combination with immune therapies may improve patient outcomes.",
+      "future_impact_ar": "يمكن أن تفتح هذه النتائج آفاقًا جديدة للعلاجات المناعية الموجهة في سرطان الرأس والعنق.",
+      "future_impact_en": "These findings could pave the way for targeted immunotherapies in head and neck cancer.",
+      "why_important_ar": "تسلط هذه الدراسة الضوء على محور غير مسبوق بين الأعصاب وخلايا T التنظيمية في بيئة الورم.",
+      "why_important_en": "This study highlights a previously underappreciated neural-Treg axis in the tumor microenvironment.",
+      "vs_previous_ar": "تقدم الدراسة رؤى جديدة حول دور الأعصاب في تعديل الاستجابة المناعية للأورام.",
+      "vs_previous_en": "The study provides new insights into the role of nerves in modulating the immune response to tumors.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة تتضمن تجارب في المختبر وفي الجسم الحي، وتقدم استراتيجيات جديدة للعلاج المناعي.",
+      "stars_reason_en": "The study includes in vitro and in vivo experiments and offers new strategies for immunotherapy.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study provides new insights into the relationship between nerves and immunity in head and neck cancer.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة استخدام مضاد CCL5 كاستراتيجية علاجية جديدة لتحسين العلاج المناعي.",
+      "watch_detail_en": "CCL5 blockade should be monitored as a novel therapeutic strategy to enhance immunotherapy.",
+      "watch_type": "drug",
+      "research_gap_ar": "تحتاج الأبحاث المستقبلية لاستكشاف الآثار طويلة الأمد لاستهداف CCL5 في سرطان الرأس والعنق.",
+      "research_gap_en": "Future research should explore the long-term effects of targeting CCL5 in head and neck cancer.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "تتناول هذه الدراسة العلاقة بين الأعصاب والتعديل المناعي في سرطان الخلايا الحرشفية الفموية. تشير النتائج إلى أن كيمياء CCL5 قد تلعب دورًا مهمًا في تجنيد خلايا T التنظيمية وتعزيز الاستجابة المناعية السلبية. توضح الدراسة استراتيجيات جديدة لاستهداف هذه العلاقة لتعزيز العلاج المناعي. كما تفتح هذه النتائج آفاقًا جديدة للبحث في سرطان الرأس والعنق.",
+      "audio_script_en": "This study explores the relationship between nerves and immune modulation in oral squamous cell carcinoma. The findings suggest that CCL5 chemotaxis may play a crucial role in the recruitment of regulatory T cells and enhancing immunosuppressive responses. The study outlines new strategies to target this relationship to enhance immunotherapy. These results also open new avenues for research in head and neck cancer.",
+      "mcq": [
+        {
+          "q_ar": "ما هو العامل الكيميائي الأساسي المرتبط بتجنيد خلايا T التنظيمية في الدراسة؟",
+          "q_en": "What is the key chemokine associated with the recruitment of regulatory T cells in the study?",
+          "options_ar": [
+            "أ) CCL2",
+            "ب) CCL5",
+            "ج) CCL10",
+            "د) CCL4"
+          ],
+          "options_en": [
+            "A) CCL2",
+            "B) CCL5",
+            "C) CCL10",
+            "D) CCL4"
+          ],
+          "answer": 1,
+          "explanation_ar": "CCL5 هو العامل الكيميائي الرئيسي الذي يعزز تجنيد خلايا T التنظيمية.",
+          "explanation_en": "CCL5 is the main chemokine that enhances the recruitment of regulatory T cells."
+        },
+        {
+          "q_ar": "ماذا تكشف الدراسة عن العلاقة بين الأعصاب وPNI في سرطان الرأس والعنق؟",
+          "q_en": "What does the study reveal about the relationship between nerves and PNI in head and neck cancer?",
+          "options_ar": [
+            "أ) لا علاقة بينهما",
+            "ب) قلل الأعصاب من PNI",
+            "ج) زادت الأعصاب من PNI",
+            "د) الأعصاب ليس لها تأثير على الأورام"
+          ],
+          "options_en": [
+            "A) No relationship",
+            "B) Nerves decreased PNI",
+            "C) Nerves increased PNI",
+            "D) Nerves have no effect on tumors"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة تشير إلى أن الأعصاب داخل الورم قد تزيد من PNI.",
+          "explanation_en": "The study indicates that intratumoral nerves may increase PNI."
+        },
+        {
+          "q_ar": "ما هي الطرق العلاجية المستخدمة في الدراسة لتعزيز فعالية العلاج المناعي؟",
+          "q_en": "What therapeutic approaches were used in the study to enhance the efficacy of immunotherapy?",
+          "options_ar": [
+            "أ) تجنيد خلايا T",
+            "ب) حجب CCL5 وRAMP1",
+            "ج) العلاج الإشعاعي",
+            "د) الجراحة"
+          ],
+          "options_en": [
+            "A) T cell recruitment",
+            "B) CCL5 and RAMP1 blockade",
+            "C) Radiotherapy",
+            "D) Surgery"
+          ],
+          "answer": 1,
+          "explanation_ar": "استخدمت الدراسة حجب CCL5 وRAMP1 كاستراتيجيات لتعزيز العلاج.",
+          "explanation_en": "The study utilized CCL5 and RAMP1 blockade as strategies to enhance therapy."
+        }
+      ]
+    },
+    {
+      "pmid": "42104091",
+      "title_ar": "Sensorineural hearing loss after pediatric cranial radiotherapy: a multicenter analysis of dosimetric and clinical risk factors.",
+      "title_en": "Sensorineural hearing loss after pediatric cranial radiotherapy: a multicenter analysis of dosimetric and clinical risk factors.",
+      "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+      "pub_date": "2026-May-08",
+      "doi": "10.1007/s00520-026-10769-w",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42104091/",
+      "pdf_url": null,
+      "study_design": "Retrospective series n=88",
+      "summary_ar": "تعد هذه الدراسة من أولى الدراسات متعددة المراكز التي تحقق في فقدان السمع الحسي العصبي بعد العلاج الإشعاعي للدماغ في الأطفال. تشمل الدراسة 88 طفلًا تم علاجهم بين عامي 2014 و2024. تم استخدام مقياس Chang لتصنيف فقدان السمع. أظهرت النتائج أن 19.3% من المرضى أصيبوا بفقدان السمع. تم تحديد الجرعة المتوسطة للكوكلار التي تزيد عن 35 Gy كعامل خطر مستقل مرتبط بفقدان السمع. توصي هذه الدراسة بالحد من جرعة الكوكلار خلال التخطيط للعلاج ومراقبة السمع على المدى الطويل.",
+      "summary_en": "This study is one of the first multicenter analyses investigating sensorineural hearing loss following cranial radiotherapy in children. The study included 88 children treated between 2014 and 2024. The Chang scale was used to classify hearing loss. Results showed that 19.3% of patients developed hearing loss. The mean cochlear dose greater than 35 Gy was identified as an independent risk factor associated with hearing loss. This study recommends minimizing cochlear dose during treatment planning and systematic long-term hearing surveillance.",
+      "practice_change_ar": "يتطلب الأمر تقليل جرعة الكوكلار أثناء التخطيط للعلاج ومراقبة السمع بشكل منتظم.",
+      "practice_change_en": "There is a need to minimize cochlear dose during treatment planning and establish regular hearing surveillance.",
+      "future_impact_ar": "يمكن أن تؤثر هذه النتائج على كيفية إدارة الرعاية اللاحقة لمرضى السرطان في الأطفال.",
+      "future_impact_en": "These findings may impact how survivorship care is managed for pediatric cancer patients.",
+      "why_important_ar": "تسهم هذه الدراسة في إثبات أهمية الحد من جرعة الكوكلار لحماية السمع.",
+      "why_important_en": "This study contributes to validating the importance of minimizing cochlear dose to protect hearing.",
+      "vs_previous_ar": "تؤكد هذه الدراسة القيم الموصى بها سابقًا وتحسن من الفهم السريري للجرعات الخطرة.",
+      "vs_previous_en": "This study confirms previously recommended values and enhances clinical understanding of risky doses.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استرجاعية كبيرة تدعم تنبيهات جديدة حول الكوكلار والحماية من فقدان السمع.",
+      "stars_reason_en": "Large retrospective study supporting new alerts about cochlear dosages and hearing loss prevention.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study provides new evidence on improving hearing outcomes after cranial radiotherapy.",
+      "watch": true,
+      "watch_detail_ar": "مراقبة تأثير جرعة الكوكلار على فقدان السمع مهمة وتستدعي التحقيق المستقبلي.",
+      "watch_detail_en": "Monitoring the effect of cochlear dose on hearing loss is crucial and warrants future investigation.",
+      "watch_type": "technology",
+      "research_gap_ar": "تحتاج الدراسات المستقبلية إلى استكشاف غيرها من العوامل المؤثرة على فقدان السمع.",
+      "research_gap_en": "Future studies need to explore other influencing factors on hearing loss.",
+      "subspecialty": "otology",
+      "audio_script_ar": "تتناول هذه الدراسة فقدان السمع الحسي العصبي بعد العلاج الإشعاعي للدماغ لدى الأطفال. تشمل الدراسة 88 طفلًا تم علاجهم في مراكز إشعاعية متعددة. نتائج الدراسة تشير إلى أن 19.3% من الأطفال عانوا من فقدان السمع. الجرعة المتوسطة للكوكلار التي تتجاوز 35 Gy كانت عامل خطر مهم. تستنتج الدراسة ضرورة الحد من الجرعة الكوكلارية ومراقبة السمع على المدى الطويل.",
+      "audio_script_en": "This study addresses sensorineural hearing loss after cranial radiotherapy in children. It includes 88 children treated at multiple radiotherapy centers. The findings indicate that 19.3% of the children experienced hearing loss. A mean cochlear dose exceeding 35 Gy was an important risk factor. The study concludes the need for minimizing cochlear dose and long-term hearing monitoring.",
+      "mcq": [
+        {
+          "q_ar": "ما هي النسبة المئوية للأطفال الذين عانوا من فقدان السمع في هذه الدراسة؟",
+          "q_en": "What percentage of children experienced hearing loss in this study?",
+          "options_ar": [
+            "أ) 10%",
+            "ب) 19.3%",
+            "ج) 43.4%",
+            "د) 51.6%"
+          ],
+          "options_en": [
+            "A) 10%",
+            "B) 19.3%",
+            "C) 43.4%",
+            "D) 51.6%"
+          ],
+          "answer": 1,
+          "explanation_ar": "وجدت الدراسة أن 19.3% من الأطفال عانوا من فقدان السمع.",
+          "explanation_en": "The study found that 19.3% of the children experienced hearing loss."
+        },
+        {
+          "q_ar": "أي من عوامل الخطر كان مرتبطًا بفقدان السمع بشكل مستقل؟",
+          "q_en": "Which of the risk factors was independently associated with hearing loss?",
+          "options_ar": [
+            "أ) عمر المريض",
+            "ب) العلاج الإشعاعي",
+            "ج) جرعة الكوكلار المتوسطة ≥ 35 Gy",
+            "د) العلاج الكيميائي بدون سيزبلاتين"
+          ],
+          "options_en": [
+            "A) Patient's age",
+            "B) Radiotherapy",
+            "C) Mean cochlear dose ≥ 35 Gy",
+            "D) Chemotherapy without cisplatin"
+          ],
+          "answer": 2,
+          "explanation_ar": "جرعة الكوكلار المتوسطة التي تبلغ 35 Gy أو أكثر كانت مرتبطة بشكل مستقل بفقدان السمع.",
+          "explanation_en": "Mean cochlear dose of 35 Gy or more was independently associated with hearing loss."
+        },
+        {
+          "q_ar": "ما هي النتائج الرئيسية التي توصلت إليها الدراسة بخصوص جرعة الكوكلار؟",
+          "q_en": "What were the main findings of the study regarding cochlear dose?",
+          "options_ar": [
+            "أ) لا توجد علاقة بين الجرعة وفقدان السمع",
+            "ب) الجرعة المنخفضة مفيدة دائمًا",
+            "ج) الجرعة المتوسطة ≥ 35 Gy تزيد من احتمالية فقدان السمع",
+            "د) الجرعة العالية لا تؤثر على السمع"
+          ],
+          "options_en": [
+            "A) No relationship between dose and hearing loss",
+            "B) Low dose is always beneficial",
+            "C) Mean dose ≥ 35 Gy increases the likelihood of hearing loss",
+            "D) High dose does not affect hearing"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة أوضحت أن الجرعة المتوسطة ≥ 35 Gy تزيد من احتمالية فقدان السمع.",
+          "explanation_en": "The study showed that mean dose ≥ 35 Gy increases the likelihood of hearing loss."
+        }
+      ]
+    },
+    {
+      "pmid": "42102400",
+      "title_ar": "Long-term outcomes of Gamma Knife surgery for vestibular schwannomas: tumor stability supports reduced surveillance after 10 years.",
+      "title_en": "Long-term outcomes of Gamma Knife surgery for vestibular schwannomas: tumor stability supports reduced surveillance after 10 years.",
+      "journal": "Journal of neurosurgery",
+      "pub_date": "2026-May-08",
+      "doi": "10.3171/2025.12.JNS252098",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42102400/",
+      "pdf_url": null,
+      "study_design": "Retrospective cohort study n=878",
+      "summary_ar": "تقييم فعالية وأمان Gamma Knife Surgery (GKS) لحمائل العصب السمعي (VS) في المدى الطويل. شمل التحليل بيانات 878 مريضا تم علاجهم من VS باستخدام GKS. تم تحديد نسبة العلاج الإضافي في 7.5%، بينما بلغت عند مرضى النوع D 24.7%. نتائج السمع تحسنت في فترات العلاج الحديثة. رغم وجود بعض الأحداث السلبية، كانت معظمها نادرة. تظهر النتائج إمكانية تقليل نسبة التصوير الروتيني بعد 10 سنوات.",
+      "summary_en": "The study evaluates the long-term efficacy and safety of Gamma Knife Surgery (GKS) for vestibular schwannomas (VS). It analyzed data from 878 patients treated with GKS, finding a salvage treatment rate of 7.5%, increasing to 24.7% in type D tumors. Hearing outcomes improved in more recent treatment periods. Although some late adverse events occurred, most were rare. The results suggest that routine imaging surveillance can be reduced after 10 years.",
+      "practice_change_ar": "ينبغي تقليل نسبة التصوير الروتيني بعد 10 سنوات للمرضى المستقرين.",
+      "practice_change_en": "Routine imaging surveillance should be reduced after 10 years for stable patients.",
+      "future_impact_ar": "تشير النتائج إلى الحاجة لمتابعة فردية على أساس خصائص الورم الأولية والسير الإكلينيكي بعد العلاج.",
+      "future_impact_en": "The findings suggest a need for individualized follow-up based on initial tumor characteristics and clinical course post-treatment.",
+      "why_important_ar": "تقدم الدراسة دليلًا على النجاح الدائم في السيطرة على الورم وتحسين الوظائف السمعية.",
+      "why_important_en": "The study provides evidence of durable tumor control and functional improvement in patients.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن الإرشادات السابقة من خلال تقديم بيانات جديدة تدعم تقليل كثافة المتابعة بعد 10 سنوات.",
+      "vs_previous_en": "This study differs from previous guidelines by providing new data supporting reduced follow-up intensity after 10 years.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استرجاعية n>100 تقدم معلومات جديدة تدعم تقليل المتابعة.",
+      "stars_reason_en": "A retrospective study with n>100 providing new insights supporting reduced surveillance.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study provides new data on the treatment of vestibular schwannoma.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يحتاج المستقبل إلى مزيد من الأبحاث حول متطلبات المتابعة الفردية.",
+      "research_gap_en": "Future research is needed on the requirements for individualized follow-up.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "تتناول الدراسة فعالية وأمان Gamma Knife Surgery لعلاج ورم العصب السمعي. شملت تحليل بيانات 878 مريضا، حيث كانت نسبة العلاج الإضافي 7.5%. تم الكشف عن تحسن في الحفاظ على السمع خلال فترات العلاج الحديثة. تشير النتائج إلى إمكانية تقليل عدد التصويرات الروتينية المطلوب إجراؤها بعد 10 سنوات للمرضى الذين يظلون بحالة مستقرة. تحليلها يقدم مؤشرات على الفائدة الدائمة للعلاج ويختلف عن الإرشادات السابقة.",
+      "audio_script_en": "The study addresses the efficacy and safety of Gamma Knife Surgery for treating vestibular schwannomas. It analyzed data from 878 patients, with a salvage treatment rate of 7.5%. Improved hearing preservation was noted in more recent treatment periods. The results suggest that routine imaging may be reduced after 10 years for patients remaining stable. Its analysis provides insights into the lasting benefits of treatment and differs from prior guidelines.",
+      "mcq": [
+        {
+          "q_ar": "ما هي نسبة العلاج الإضافي في الدراسة؟",
+          "q_en": "What is the salvage treatment rate in the study?",
+          "options_ar": [
+            "أ) 3.5%",
+            "ب) 5.5%",
+            "ج) 7.5%",
+            "د) 10.5%"
+          ],
+          "options_en": [
+            "A) 3.5%",
+            "B) 5.5%",
+            "C) 7.5%",
+            "D) 10.5%"
+          ],
+          "answer": 2,
+          "explanation_ar": "نسبة العلاج الإضافي حسبت بـ 7.5% للمرضى المراقبين.",
+          "explanation_en": "The salvage treatment rate was calculated at 7.5% for the monitored patients."
+        },
+        {
+          "q_ar": "ما هو العمر الوسيط للمرضى في الدراسة؟",
+          "q_en": "What is the median age of patients in the study?",
+          "options_ar": [
+            "أ) 50 سنة",
+            "ب) 55 سنة",
+            "ج) 57 سنة",
+            "د) 60 سنة"
+          ],
+          "options_en": [
+            "A) 50 years",
+            "B) 55 years",
+            "C) 57 years",
+            "D) 60 years"
+          ],
+          "answer": 2,
+          "explanation_ar": "العمري الوسيط للمرضى في الدراسة كان 57 سنة.",
+          "explanation_en": "The median age of patients in the study was 57 years."
+        },
+        {
+          "q_ar": "ما هي النتيجة المتعلقة بتحسين السمع؟",
+          "q_en": "What is the hearing preservation outcome?",
+          "options_ar": [
+            "أ) 40%",
+            "ب) 48%",
+            "ج) 63%",
+            "د) 70%"
+          ],
+          "options_en": [
+            "A) 40%",
+            "B) 48%",
+            "C) 63%",
+            "D) 70%"
+          ],
+          "answer": 2,
+          "explanation_ar": "تحسين نسبة الحفاظ على السمع كانت 63% في الفترة الأخيرة.",
+          "explanation_en": "The improvement in hearing preservation rate was 63% in the recent period."
+        }
+      ]
+    },
+    {
+      "pmid": "42101665",
+      "title_ar": "Pulse oximetry in infants with Robin sequence.",
+      "title_en": "Pulse oximetry in infants with Robin sequence.",
+      "journal": "European journal of pediatrics",
+      "pub_date": "2026-May-08",
+      "doi": "10.1007/s00431-026-07026-x",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42101665/",
+      "pdf_url": null,
+      "study_design": "Comparative cohort study",
+      "summary_ar": "تشير الدراسة إلى أن الأطفال المصابين بسلسلة روبن (RS) لديهم خطر مرتفع للإصابة بتوقف التنفس أثناء النوم (OSA). تم تقييم العلاقة بين معلمات قياس نسبة الأكسجين في الدم (SpO2) ومؤشر apnea-hypopnea المزيج المختلط (MOAHI) لدى هؤلاء الأطفال. كما تمت مقارنة النتائج مع الأطفال المصابين بحالات مرافقه (OSA-III). أظهرت النتائج أن معلمات SpO2 كانت مرتبطة بشكل أفضل مع MOAHI في الأطفال الذين يعانون من OSA-III مقارنةً بأولئك الذين يعانون من RS. وقد تم ملاحظة أن الأطفال المصابين بـ OSA-III عانوا من انخفاضات أعمق في نسبة الأكسجين وأعباء نقص الأكسجين أكبر.",
+      "summary_en": "The study indicates that infants with Robin sequence (RS) are at high risk for obstructive sleep apnea (OSA). The relationships between different pulse oximetry (SpO2) parameters and the mixed obstructive apnea-hypopnea index (MOAHI) were assessed in these infants. The findings were compared to infants with associated comorbidities (OSA-III). Results showed that SpO2 parameters correlated better with MOAHI in infants with OSA-III than those with RS. Infants with OSA-III experienced deeper desaturations and greater hypoxemic burdens.",
+      "practice_change_ar": "قد تؤثر النتائج المحتملة لهذه الدراسة على طرق الفحص المستقبلية لتوقف التنفس أثناء النوم عند الأطفال.",
+      "practice_change_en": "The potential findings of this study may impact future screening methods for obstructive sleep apnea in infants.",
+      "future_impact_ar": "قد تساهم النتائج في توجيه المزيد من الدراسات حول قياس SpO2 كطريقة لفحص OSA.",
+      "future_impact_en": "The findings may guide further studies on measuring SpO2 as a screening method for OSA.",
+      "why_important_ar": "تساعد هذه المقالة في فهم العلاقة بين قياس الأكسجين في الدم وتوقف التنفس أثناء النوم في الأطفال.",
+      "why_important_en": "This article helps in understanding the relationship between blood oxygen measurement and sleep apnea in children.",
+      "vs_previous_ar": "تختلف هذه الدراسة من حيث تقييم معلمات SpO2 ودورها في الكشف عن OSA لدى الأطفال المصابين بسلسلة روبن.",
+      "vs_previous_en": "This study differs by evaluating SpO2 parameters and their role in detecting OSA in infants with Robin sequence.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة تصميمها مقارن وتقدم معلومات جديدة حول علاقتين تنفسية، لذا فهي تستحق 4 نجوم.",
+      "stars_reason_en": "The study design is comparative and provides new insights into respiratory relationships, thus deserving 4 stars.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This article contributes to understanding the role of SpO2 measurement in pediatric care.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة استخدام قياس SpO2 كوسيلة لفحص OSA في الأطفال.",
+      "watch_detail_en": "The use of SpO2 measurement as a screening method for OSA in infants should be monitored.",
+      "watch_type": "device",
+      "research_gap_ar": "تحتاج الأبحاث المستقبلية إلى دراسة الاختلافات المحتملة في أنماط OSA بين الأطفال المصابين بـ RS والأخرى.",
+      "research_gap_en": "Future research needs to explore potential differences in OSA patterns between children with RS and others.",
+      "subspecialty": "pediatric",
+      "audio_script_ar": "تتناول هذه الدراسة دور قياس الأكسجين في الدم لدى الأطفال المصابين بسلسلة روبن وعلاقتها بتوقف التنفس أثناء النوم. تم تقييم علاقات متعددة بين معلمات SpO2 ومؤشر apnea-hypopnea المزيج المختلط. كانت النتائج مقارنة بين الأطفال مع RS وأولئك مع OSA-III. النتائج تشير إلى أن هناك ارتباط أفضل لمعلمات SpO2 مع MOAHI في OSA-III. يجب أن تؤثر هذه النتائج على كيفية فحص OSA في المستقبل.",
+      "audio_script_en": "This study discusses the role of blood oxygen measurement in infants with Robin sequence and its relationship to obstructive sleep apnea. Multiple relationships between SpO2 parameters and the mixed apnea-hypopnea index were assessed. Results compared infants with RS to those with OSA-III. The findings indicate a better correlation of SpO2 parameters with MOAHI in OSA-III. These results may influence how OSA is screened in the future.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الخطر المرتفع الذي يعاني منه الأطفال المصابون بسلسلة روبن؟",
+          "q_en": "What high risk do infants with Robin sequence suffer from?",
+          "options_ar": [
+            "أ) توقف التنفس أثناء النوم",
+            "ب) الربو",
+            "ج) التهاب الأذن الوسطى",
+            "د) الحساسية"
+          ],
+          "options_en": [
+            "A) Obstructive sleep apnea",
+            "B) Asthma",
+            "C) Otitis media",
+            "D) Allergy"
+          ],
+          "answer": 0,
+          "explanation_ar": "تظهر الدراسة أن الأطفال المصابين بسلسلة روبن معرضون لخطر مرتفع من توقف التنفس أثناء النوم.",
+          "explanation_en": "The study shows that infants with Robin sequence are at high risk for obstructive sleep apnea."
+        },
+        {
+          "q_ar": "أي معلمة من معلمات SpO2 أظهرت أفضل ارتباط مع MOAHI في الأطفال المصابين بسلسلة روبن؟",
+          "q_en": "Which SpO2 parameter showed the best correlation with MOAHI in infants with Robin sequence?",
+          "options_ar": [
+            "أ) الحد الأقصى لنقص الأكسجين",
+            "ب) مؤشر نقص الأكسجين (ODI 3%)",
+            "ج) معدل التنفس",
+            "د) النبض"
+          ],
+          "options_en": [
+            "A) Maximum hypoxic burden",
+            "B) Oxygen desaturation index (ODI 3%)",
+            "C) Respiratory rate",
+            "D) Pulse"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت الدراسة أن مؤشر نقص الأكسجين (ODI 3%) لديه أفضل ارتباط مع MOAHI لدى الأطفال المصابين بسلسلة روبن.",
+          "explanation_en": "The study showed that the oxygen desaturation index (ODI 3%) had the best correlation with MOAHI in infants with Robin sequence."
+        },
+        {
+          "q_ar": "كيف تختلف نتائج الأطفال المصابين بـ OSA-III عن الأطفال المصابين بسلسلة روبن؟",
+          "q_en": "How do the results of infants with OSA-III differ from those with Robin sequence?",
+          "options_ar": [
+            "أ) لديهم توقف تنفس أقل حدة",
+            "ب) لديهم انخفاضات أعمق في الأكسجين",
+            "ج) لديهم معدل تنفس أعلى",
+            "د) ليس هناك فرق"
+          ],
+          "options_en": [
+            "A) They have less severe apnea",
+            "B) They have deeper desaturations",
+            "C) They have a higher respiratory rate",
+            "D) There is no difference"
+          ],
+          "answer": 1,
+          "explanation_ar": "تظهر النتائج أن الأطفال مع OSA-III يعانون من انخفاضات أعمق وأعباء نقص الأكسجين أكبر.",
+          "explanation_en": "The results show that infants with OSA-III experience deeper desaturations and greater hypoxemic burdens."
+        }
+      ]
+    },
+    {
+      "pmid": "42101325",
+      "title_ar": "Integrating PET and Fluorescence Imaging with a Novel PSMA-ICG Conjugate for Prostate Cancer Management.",
+      "title_en": "Integrating PET and Fluorescence Imaging with a Novel PSMA-ICG Conjugate for Prostate Cancer Management.",
+      "journal": "Molecular pharmaceutics",
+      "pub_date": "2026-May-08",
+      "doi": "10.1021/acs.molpharmaceut.5c01950",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42101325/",
+      "pdf_url": null,
+      "study_design": "First-in-human study",
+      "summary_ar": "تعتبر سرطان البروستاتا عبئًا صحيًا كبيرًا عالميًا، لكن تقنيات التصوير الحالية لا تحتوي على حساسية كافية للتشخيص الدقيق. تم تصميم وتركيب مجس جديد ثنائي التكامل PET/fluorescence [68Ga]Ga-XY-PSMA-ICG. في نماذج زراعة الخلايا الإيجابية لـ PSMA، أظهر المجس التقاطًا سريعًا وتخصيصًا عاليًا واحتفاظًا طويل الأمد في الورم. في الدراسات السريرية، تم اكتشاف المجس بكفاءة في المرضى، مع تراكم شديد في الآفات الأولية. تشير النتائج إلى أن [68Ga]Ga-XY-PSMA-ICG لديها إمكانية كبيرة في تحسين تشخيص سرطان البروستاتا وإدارته.",
+      "summary_en": "[68Ga]Ga-XY-PSMA-ICG is a novel PET/fluorescence dual-modality imaging probe developed to improve prostate cancer diagnosis and management. Preclinical studies demonstrated rapid tumor uptake and prolonged retention in PSMA-positive xenografts. Human clinical studies showed excellent detection of primary lesions with intense tracer accumulation and no adverse events. These findings indicate that [68Ga]Ga-XY-PSMA-ICG could be a game-changer in prostate cancer imaging.",
+      "practice_change_ar": "من المحتمل أن يحسن هذا البحث تشخيص سرطان البروستاتا وإدارته.",
+      "practice_change_en": "This research has the potential to improve prostate cancer diagnosis and management.",
+      "future_impact_ar": "يمكن أن يكون لهذا البحث آثار مستقبلية كبيرة على كيفية إدماج تقنيات التصوير الجديدة في الممارسة السريرية.",
+      "future_impact_en": "This research could have significant future implications on how new imaging technologies are integrated into clinical practice.",
+      "why_important_ar": "تظهر هذه المقالة أهمية تطوير أدوات تصوير جديدة لتعزيز حساسية التشخيص في سرطان البروستاتا.",
+      "why_important_en": "This article highlights the importance of developing new imaging tools to enhance diagnostic sensitivity in prostate cancer.",
+      "vs_previous_ar": "يختلف هذا البحث عن المعرفة السابقة من خلال تقديم مجس جديد يقدم كفاءة أعلى في اكتشاف الآفات.",
+      "vs_previous_en": "This research differs from previous knowledge by presenting a new probe that offers improved efficacy in lesion detection.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة عبارة عن دراسة سريرية بشرية أولى تقدم معلومات جديدة حول تصوير سرطان البروستاتا.",
+      "stars_reason_en": "The study is a first-in-human clinical study that provides new information on prostate cancer imaging.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Published in a reputable journal with significant findings in prostate cancer diagnosis.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة [68Ga]Ga-XY-PSMA-ICG بسبب فعاليته المحتملة في تغيير طريقة تشخيص سرطان البروستاتا.",
+      "watch_detail_en": "[68Ga]Ga-XY-PSMA-ICG should be monitored due to its potential effectiveness in changing prostate cancer diagnosis.",
+      "watch_type": "technology",
+      "research_gap_ar": "هناك حاجة لمزيد من البحث في دور مجسات التصوير الجديدة في تشخيص سرطان البروستاتا.",
+      "research_gap_en": "Further research is needed on the role of new imaging probes in prostate cancer diagnosis.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "تناقش هذه المقالة أهمية تطوير مجسات تصوير جديدة مثل [68Ga]Ga-XY-PSMA-ICG لتحسين تشخيص سرطان البروستاتا. تعاني تقنيات التصوير الحالية من نقص في الحساسية، مما يجعل من الضروري وجود أدوات جديدة أكثر فعالية. أظهرت الدراسات ما قبل السريرية فعالية المجس في التقاط الورم واحتفاظه على مدى فترة طويلة. كما أنه أظهر أداءً ممتازًا في الدراسات السريرية مع عدم وجود آثار جانبية. ولذلك، من المتوقع أن يكون لهذا البحث تأثير كبير على كيفية إجراء تشخيص سرطان البروستاتا وإدارة العلاج.",
+      "audio_script_en": "This article discusses the importance of developing new imaging probes like [68Ga]Ga-XY-PSMA-ICG to enhance prostate cancer diagnosis. Current imaging techniques struggle with sensitivity, highlighting the need for more effective new tools. Preclinical studies demonstrated the probe's efficacy in tumor uptake and prolonged retention. Furthermore, it showed excellent performance in clinical studies with no adverse events. Therefore, this research is expected to have a significant impact on how prostate cancer diagnosis is conducted and managed.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الغرض الرئيسي من الدراسة؟",
+          "q_en": "What is the main purpose of the study?",
+          "options_ar": [
+            "أ) تطوير مجس تصوير جديد",
+            "ب) تعزيز العلاجات للأورام",
+            "ج) دراسة اتجاهات سرطان البروستاتا",
+            "د) تحليل بيانات صحيحة"
+          ],
+          "options_en": [
+            "A) To develop a new imaging probe",
+            "B) To enhance treatments for tumors",
+            "C) To study trends in prostate cancer",
+            "D) To analyze correct data"
+          ],
+          "answer": 0,
+          "explanation_ar": "الغرض الرئيسي من الدراسة هو تطوير مجس تصوير جديد لتحسين تشخيص سرطان البروستاتا.",
+          "explanation_en": "The main purpose of the study is to develop a new imaging probe to improve prostate cancer diagnosis."
+        },
+        {
+          "q_ar": "ما هي الصورة المزدوجة المستخدمة في البحث؟",
+          "q_en": "What dual imaging modality is used in the research?",
+          "options_ar": [
+            "أ) PET/CT",
+            "ب) CT/MRI",
+            "ج) PET/fluorescence",
+            "د) MRI/ultrasound"
+          ],
+          "options_en": [
+            "A) PET/CT",
+            "B) CT/MRI",
+            "C) PET/fluorescence",
+            "D) MRI/ultrasound"
+          ],
+          "answer": 2,
+          "explanation_ar": "استخدمت الدراسة تقنية PET/fluorescence كصورة مزدوجة.",
+          "explanation_en": "The study utilized PET/fluorescence as the dual imaging modality."
+        },
+        {
+          "q_ar": "ما هي الآثار المتوقعة للمجس الجديد؟",
+          "q_en": "What are the expected implications of the new probe?",
+          "options_ar": [
+            "أ) تحسين تشخيص سرطان البروستاتا",
+            "ب) استخدامه في أمراض أخرى",
+            "ج) تقليل التكلفة",
+            "د) زيادة الآثار الجانبية"
+          ],
+          "options_en": [
+            "A) Improving prostate cancer diagnosis",
+            "B) Usage in other diseases",
+            "C) Reducing costs",
+            "D) Increasing side effects"
+          ],
+          "answer": 0,
+          "explanation_ar": "تتوقع الدراسة أن يحسن المجس الجديد من تشخيص سرطان البروستاتا.",
+          "explanation_en": "The study anticipates that the new probe will improve prostate cancer diagnosis."
+        }
+      ]
+    },
+    {
+      "pmid": "42103964",
+      "title_ar": "Microsurgical reconstruction in midface defects based on defect morphology and size - Reconstruction techniques, complications, and outcomes.",
+      "title_en": "Microsurgical reconstruction in midface defects based on defect morphology and size - Reconstruction techniques, complications, and outcomes.",
+      "journal": "Oral and maxillofacial surgery",
+      "pub_date": "2026-May-09",
+      "doi": "10.1007/s10006-026-01566-0",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42103964/",
+      "pdf_url": null,
+      "study_design": "Retrospective study n=98",
+      "summary_ar": "هذه الدراسة تهدف إلى تحليل النتائج السريرية لإعادة بناء microvascular لأضرار الوجه الأوسط الناتجة عن الأورام. شملت الدراسة 98 مريضًا، وقد تم استخدام تقنيات رقعة العظم والأنسجة الرخوة وفقًا لحجم العيب. تم ملاحظة مضاعفات بعد العملية في 57 حالة، ومعظمها كانت مشاكل بسيطة. أظهرت رقع العظم ميلًا أكبر للفشل مقارنة بالأنسجة الرخوة. رغم وجود معدل مضاعفات نسبي عالي، تظل رقع الأنسجة الحرة خياراً موثوقًا للمرضى.",
+      "summary_en": "This study aimed to analyze clinical outcomes of microvascular reconstructions for malignancy-caused midface defects. It included 98 patients, with bony and soft tissue flap techniques used according to defect size. Postoperative complications were observed in 57 cases, predominantly minor issues. Bony flaps showed a higher tendency for failure compared to soft tissue. Despite a relatively high complication rate, free flaps remain a reliable option for patients.",
+      "practice_change_ar": "يجب أن يفكر الأطباء في استخدام رقع الأنسجة الرخوة بشكل أكبر بدلاً من رقع العظم.",
+      "practice_change_en": "Clinicians should consider the greater use of soft tissue flaps instead of bony flaps.",
+      "future_impact_ar": "يمكن أن تؤدي النتائج إلى تحسين خيارات إعادة البناء لدى مرضى الأورام.",
+      "future_impact_en": "The findings could enhance reconstructive options for oncology patients.",
+      "why_important_ar": "تعتبر هذه الدراسة مهمة لأنها تقدم رؤى حول خيارات إعادة البناء في حالات العيوب المتوسطة.",
+      "why_important_en": "This study is important as it provides insights into reconstructive options for midface defects.",
+      "vs_previous_ar": "تقدم هذه الدراسة معلومات جديدة حول العلاقة بين نوع الرقعة ومعدل الفشل.",
+      "vs_previous_en": "This study provides new information on the relationship between flap type and failure rates.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استعادية قوية مع حجم عينة كبير ومعلومات جديدة، مما يجعلها تستحق 4 نجوم.",
+      "stars_reason_en": "A strong retrospective study with a large sample size and new insights, warranting 4 stars.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Provides important results in personalized reconstruction, making it a discussion-worthy topic.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج الدراسات المستقبلية إلى تركيز أكبر على تحسين نتائج الرقعات العظمية.",
+      "research_gap_en": "Future studies need to focus more on improving outcomes of bony flaps.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "شهدت الدراسة تحليل 98 حالة من إعادة البناء لأضرار الوجه الأوسط الناتجة عن الأورام. استُخدمت تقنيات رقعة العظم والأنسجة الرخوة، وكانت معظم المضاعفات بسيطة. أظهرت الرقعات العظمية ميلًا أعلى للفشل. رغم ذلك، أظهرت الدراسة أن رقع الأنسجة الحرة تظل خيارًا موثوقًا.",
+      "audio_script_en": "The study analyzed 98 cases of reconstruction for malignancy-related midface defects. Bony and soft tissue flap techniques were utilized, with most complications being minor. Bony flaps showed a higher tendency for failure. Nevertheless, the study demonstrated that free flaps remain a reliable option.",
+      "mcq": [
+        {
+          "q_ar": "ما هي التقنيات المستخدمة في الدراسة لإعادة البناء؟",
+          "q_en": "What techniques were used in the study for reconstruction?",
+          "options_ar": [
+            "أ) رقعة العظم",
+            "ب) رقعة الأنسجة الرخوة",
+            "ج) كلاهما",
+            "د) لا شيء مما سبق"
+          ],
+          "options_en": [
+            "A) Bony flap",
+            "B) Soft tissue flap",
+            "C) Both",
+            "D) None of the above"
+          ],
+          "answer": 2,
+          "explanation_ar": "استخدمت الدراسة رقع العظم والأنسجة الرخوة حسب حجم العيب.",
+          "explanation_en": "The study utilized both bony and soft tissue flaps according to the defect size."
+        },
+        {
+          "q_ar": "ما هو معدل المضاعفات بعد العملية في الدراسة؟",
+          "q_en": "What was the postoperative complication rate in the study?",
+          "options_ar": [
+            "أ) 25%",
+            "ب) 50%",
+            "ج) 58.2%",
+            "د) 75%"
+          ],
+          "options_en": [
+            "A) 25%",
+            "B) 50%",
+            "C) 58.2%",
+            "D) 75%"
+          ],
+          "answer": 2,
+          "explanation_ar": "تمت ملاحظة مضاعفات بعد العملية في 57 حالة، مما يعكس معدل 58.2%.",
+          "explanation_en": "Postoperative complications were observed in 57 cases, reflecting a rate of 58.2%."
+        },
+        {
+          "q_ar": "ما الفرق بين الرقع العظمية والأنسجة الناعمة؟",
+          "q_en": "What is the difference between bony and soft tissue flaps?",
+          "options_ar": [
+            "أ) معدل الفشل",
+            "ب) وقت الشفاء",
+            "ج) التكلفة",
+            "د) لا شيء مما سبق"
+          ],
+          "options_en": [
+            "A) Failure rate",
+            "B) Healing time",
+            "C) Cost",
+            "D) None of the above"
+          ],
+          "answer": 0,
+          "explanation_ar": "أظهرت الدراسة أن الرقع العظمية كانت أكثر عرضة للفشل من الأنسجة الناعمة.",
+          "explanation_en": "The study showed that bony flaps were more prone to failure compared to soft tissue."
+        }
+      ]
+    },
+    {
+      "pmid": "41479136",
+      "title_ar": "Fusobacterium necrophorum Meningitis 27 Pediatric Cases From a French National Observatory.",
+      "title_en": "Fusobacterium necrophorum Meningitis 27 Pediatric Cases From a French National Observatory.",
+      "journal": "The Pediatric infectious disease journal",
+      "pub_date": "2026-Jun-01",
+      "doi": "10.1097/INF.0000000000005129",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41479136/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort",
+      "summary_ar": "دراسة حالتين من التهاب السحايا بسبب Fusobacterium necrophorum في الأطفال. تم جمع البيانات من 259 وحدة أطفال في فرنسا بين 2001 و2024. جاءت جميع الحالات بعد عدوى ENT، وغالبًا ما كانت التهاب الأذن الوسطى الحاد. تم عزل Fusobacterium necrophorum من السائل النخاعي في 16 حالة. كان لدى 20 طفل التهاب سحايا معقد مع عملية جراحية لعدد من هؤلاء الأطفال. يبرز البحث أهمية تشخيص Fusobacterium necrophorum في الأطفال الذين يعانون من التهاب السحايا المصاحب لالتهاب الأذن الوسطى.",
+      "summary_en": "This study reports 27 pediatric cases of Fusobacterium necrophorum meningitis, collected from 259 pediatric wards in France between 2001 and 2024. All cases followed an ENT infection, mainly acute otitis media. Fusobacterium necrophorum was isolated from cerebrospinal fluid in 16 instances. Of the 20 children with complicated meningitis, some underwent surgical drainage. The research underscores the need to consider Fusobacterium necrophorum in children with meningitis associated with acute otitis media.",
+      "practice_change_ar": "يجب النظر في Fusobacterium necrophorum كسبب محتمل لالتهاب السحايا في الأطفال الذين يعانون من التهاب الأذن الوسطى.",
+      "practice_change_en": "Fusobacterium necrophorum should be considered as a potential cause of meningitis in children with acute otitis media.",
+      "future_impact_ar": "هذا البحث قد يساهم في تحسين نتائج علاج التهاب السحايا في صغار السن.",
+      "future_impact_en": "This research may contribute to improved treatment outcomes for meningitis in young patients.",
+      "why_important_ar": "الاحتفيف بالعدوى السمعي الأنفي والحنجرة قد يؤدي إلى نتائج سريرية فورية.",
+      "why_important_en": "Awareness of ENT-related infections can lead to immediate clinical outcomes.",
+      "vs_previous_ar": "يختلف هذا البحث من حيث دعايته لفحص التهاب السحايا بسبب Fusobacterium necrophorum في الأطفال.",
+      "vs_previous_en": "This study differentiates itself by advocating for testing for meningitis caused by Fusobacterium necrophorum in children.",
+      "stars": 5,
+      "stars_reason_ar": "الدراسة مصممة بشكل جيد وتقدم معلومات جديدة حول التهاب السحايا لدى الأطفال.",
+      "stars_reason_en": "The study is well-designed and provides new information on meningitis in children.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تقدم هذه الدراسة معلومات جديدة قد تؤثر على ممارسات العلاج.",
+      "jc_reason_en": "This study provides new information that may impact treatment practices.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى المزيد من الأبحاث حول Fusobacterium necrophorum كسبب محتمل لالتهاب السحايا.",
+      "research_gap_en": "There is a need for further research on Fusobacterium necrophorum as a potential cause of meningitis.",
+      "subspecialty": "pediatric",
+      "audio_script_ar": "تتناول هذه الدراسة حالات التهاب السحايا الناتج عن Fusobacterium necrophorum في الأطفال. تم جمع البيانات من 259 وحدة للأطفال في فرنسا. والتركيز الرئيسي هو توثيق العلاقة بين التهاب الأذن الوسطى الحاد والتهاب السحايا. نتائج الدراسة تشير إلى أهمية التفكير في Fusobacterium necrophorum كسبب في حالات التهاب السحايا. هذا قد يحسن نتائج العلاج pediatric.",
+      "audio_script_en": "This study addresses cases of meningitis caused by Fusobacterium necrophorum in children. Data was collected from 259 pediatric wards in France, with a primary focus on documenting the relationship between acute otitis media and meningitis. The study's results highlight the importance of considering Fusobacterium necrophorum as a cause in meningitis cases. This may improve treatment outcomes in pediatric patients.",
+      "mcq": [
+        {
+          "q_ar": "ما هو السبب المحتمل لالتهاب السحايا المدروس في هذه الدراسة؟",
+          "q_en": "What is the potential cause of meningitis investigated in this study?",
+          "options_ar": [
+            "أ) Staphylococcus aureus",
+            "ب) Fusobacterium necrophorum",
+            "ج) Streptococcus pneumoniae",
+            "د) Neisseria meningitidis"
+          ],
+          "options_en": [
+            "A) Staphylococcus aureus",
+            "B) Fusobacterium necrophorum",
+            "C) Streptococcus pneumoniae",
+            "D) Neisseria meningitidis"
+          ],
+          "answer": 1,
+          "explanation_ar": "تدور الدراسة حول Fusobacterium necrophorum كسبب للاسهام في التهاب السحايا.",
+          "explanation_en": "The study focuses on Fusobacterium necrophorum as a contributing factor to meningitis."
+        },
+        {
+          "q_ar": "ما هي الفئة العمرية التي تم بحثها في هذه الدراسة؟",
+          "q_en": "What age group was studied in this research?",
+          "options_ar": [
+            "أ) <1 عام",
+            "ب) 1-5 سنوات",
+            "ج) 5-10 سنوات",
+            "د) 10-15 سنة"
+          ],
+          "options_en": [
+            "A) <1 year",
+            "B) 1-5 years",
+            "C) 5-10 years",
+            "D) 10-15 years"
+          ],
+          "answer": 1,
+          "explanation_ar": "الأطفال الذين تم دراستهم في هذا البحث كانوا عادة أكبر من عام واحد.",
+          "explanation_en": "The children studied in this research were generally older than one year."
+        },
+        {
+          "q_ar": "ما هي النتائج الرئيسية للدراسة؟",
+          "q_en": "What are the main findings of the study?",
+          "options_ar": [
+            "أ) جميع الحالات كانت بسيطة",
+            "ب) كان هناك ارتباط بين التهاب الأذن الوسطى والتهاب السحايا",
+            "ج) جميع المرضى تم علاجهم بنجاح",
+            "د) لا توجد حالات موت"
+          ],
+          "options_en": [
+            "A) All cases were simple",
+            "B) There was a link between otitis media and meningitis",
+            "C) All patients were treated successfully",
+            "D) No deaths occurred"
+          ],
+          "answer": 1,
+          "explanation_ar": "تظهر الدراسة وجود ارتباط بين التهاب الأذن الوسطى والتهاب السحايا بسبب Fusobacterium necrophorum.",
+          "explanation_en": "The study shows a link between otitis media and meningitis due to Fusobacterium necrophorum."
+        }
+      ]
+    },
+    {
+      "pmid": "42100850",
+      "title_ar": "Scientific trends in obstructive sleep apnea biological and clinical assessment indicators: a bibliometric analysis.",
+      "title_en": "Scientific trends in obstructive sleep apnea biological and clinical assessment indicators: a bibliometric analysis.",
+      "journal": "Biomarkers in medicine",
+      "pub_date": "2026-May-08",
+      "doi": "10.1080/17520363.2026.2671003",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42100850/",
+      "pdf_url": null,
+      "study_design": "Bibliometric analysis of 1,793 articles",
+      "summary_ar": "تُظهر هذه الدراسة أن اضطراب توقف التنفس أثناء النوم (OSA) يتسم بوجود اضطرابات بيولوجية و سريرية متنوعة. تم تحليل 1793 مقالاً معرفًا من قواعد بيانات Web of Science Core Collection و Scopus من عام 2000 حتى عام 2025. زادت عدد المنشورات بشكل مستمر، مشيرةً إلى اهتمام متزايد بالنهج متعدد الأبعاد في التقييم. تطورت الموضوعات البحثية من المؤشرات الالتهابية والتمثيلية العامة نحو مؤشرات أكثر ميكانيكية و سريرية. يركز البحث الحالي بشكل متزايد على الأطر المتكاملة للتقييم البيولوجي والسريري لفهم أفضل لـ OSA.",
+      "summary_en": "This study indicates that obstructive sleep apnea (OSA) is characterized by diverse biological and clinical disturbances. A total of 1,793 articles were analyzed from Web of Science Core Collection and Scopus from 2000 to 2025. The number of publications increased steadily, reflecting a growing interest in multidimensional assessment approaches. Research themes have evolved from general inflammatory and metabolic markers toward more mechanistic and clinically oriented indicators. Current research increasingly emphasizes integrated biological and clinical assessment frameworks for better characterization of OSA.",
+      "practice_change_ar": "يجب أن يتجه الباحثون إلى الصلاحية وتوحيد الطرق لتحسين تقييم OSA clinically.",
+      "practice_change_en": "Researchers should focus on validation and methodological standardization to improve clinical assessment of OSA.",
+      "future_impact_ar": "سيساهم الجمع بين مجالات التقييم المتعددة في تقدم الدراسات المستقبلية.",
+      "future_impact_en": "Integrating multiple assessment domains will facilitate advancements in future studies.",
+      "why_important_ar": "المقالة مهمة لأنها تبرز التطورات في تقييم OSA مما قد يساهم في تحسين النتائج السريرية.",
+      "why_important_en": "This article is important as it highlights advancements in OSA assessment which may lead to improved clinical outcomes.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة من خلال التأكيد على أهمية الأطر المتكاملة للتقييم.",
+      "vs_previous_en": "This study differs from previous knowledge by emphasizing the importance of integrated assessment frameworks.",
+      "stars": 4,
+      "stars_reason_ar": "تحليل بيبليومتري قوي مما يعكس تطور الأبحاث في OSA.",
+      "stars_reason_en": "Strong bibliometric analysis reflecting the development of research in OSA.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Worthy of discussion in journal club due to new insights and integrated assessment frameworks.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج الدراسات المستقبلية إلى التركيز على التحقق من صحة مؤشرات جديدة.",
+      "research_gap_en": "Future studies need to focus on validating new indicators.",
+      "subspecialty": "sleep",
+      "audio_script_ar": "تناقش هذه الدراسة الاتجاهات العلمية في تقييم اضطراب توقف التنفس أثناء النوم (OSA) من منظور بيولوجي وسريري. أظهرت النتائج أن هناك زيادة مستمرة في عدد الأبحاث المتعلقة بـ OSA من عام 2000 حتى 2025، مما يدل على اهتمام البحث المتزايد بأساليب التقييم المتعددة الأبعاد. تطورت موضوعات البحث من المؤشرات الالتهابية العامة نحو مؤشرات أكثر ميكانيكية. التركيز الحالي هو على الأطر المتكاملة التي تجمع بين البيولوجي والسريري، مما يوفر فهماً أفضل للـ OSA. يجب أن يتوجه الباحثون في المستقبل لتحقيق المزيد من التحقق من الصحة وتوحيد الطرق لتسهيل تطبيقها سريرياً.",
+      "audio_script_en": "This study discusses the scientific trends in the assessment of obstructive sleep apnea (OSA) from biological and clinical perspectives. The findings indicate a steady increase in the number of research publications related to OSA from 2000 to 2025, demonstrating a growing research interest in multidimensional assessment approaches. Research themes have evolved from general inflammatory markers to more mechanistic indicators. The current focus is on integrated frameworks that combine biological and clinical aspects, providing a better understanding of OSA. In the future, researchers should aim for further validation and methodological standardization to facilitate clinical application.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف من الدراسة بخصوص OSA؟",
+          "q_en": "What is the aim of the study regarding OSA?",
+          "options_ar": [
+            "أ) تقييم التطورات العلمية",
+            "ب) البحث عن علاج جديد",
+            "ج) دراسة تأثير OSA على القلب",
+            "د) تقييم مضاعفات OSA"
+          ],
+          "options_en": [
+            "A) To assess scientific developments",
+            "B) To search for a new treatment",
+            "C) To study the impact of OSA on the heart",
+            "D) To assess complications of OSA"
+          ],
+          "answer": 0,
+          "explanation_ar": "تهدف الدراسة إلى تقييم التطورات العلمية المتعلقة بتقييم OSA.",
+          "explanation_en": "The study aims to assess scientific developments related to OSA assessment."
+        },
+        {
+          "q_ar": "ما هي الأطر التي يتم التركيز عليها حاليا في الأبحاث حول OSA؟",
+          "q_en": "What frameworks are currently being focused on in research concerning OSA?",
+          "options_ar": [
+            "أ) الأطر البيولوجية فقط",
+            "ب) الأطر السريرية فقط",
+            "ج) الأطر المتكاملة",
+            "د) الأطر النفسية"
+          ],
+          "options_en": [
+            "A) Biological frameworks only",
+            "B) Clinical frameworks only",
+            "C) Integrated frameworks",
+            "D) Psychological frameworks"
+          ],
+          "answer": 2,
+          "explanation_ar": "تركز الأبحاث الحالية بشكل متزايد على الأطر المتكاملة لتقييم OSA.",
+          "explanation_en": "Current research increasingly focuses on integrated frameworks for OSA assessment."
+        },
+        {
+          "q_ar": "ما هي النتيجة المفيدة من هذه الدراسة؟",
+          "q_en": "What is the useful outcome of this study?",
+          "options_ar": [
+            "أ) نتائج سلبية",
+            "ب) تعزيز المعرفة حول OSA",
+            "ج) تطوير تقنية جديدة",
+            "د) تأكيد المعلومات القديمة"
+          ],
+          "options_en": [
+            "A) Negative results",
+            "B) Enhance knowledge about OSA",
+            "C) Develop a new technique",
+            "D) Confirm old information"
+          ],
+          "answer": 1,
+          "explanation_ar": "تساهم الدراسة في تعزيز المعرفة حول قدرات التقييم لـ OSA.",
+          "explanation_en": "The study contributes to enhancing knowledge about assessment capabilities for OSA."
+        }
+      ]
+    },
+    {
+      "pmid": "42101711",
+      "title_ar": "Efficacy of the twin-block appliance for pediatric obstructive sleep apnea: an updated systematic review and meta-analysis.",
+      "title_en": "Efficacy of the twin-block appliance for pediatric obstructive sleep apnea: an updated systematic review and meta-analysis.",
+      "journal": "Sleep & breathing = Schlaf & Atmung",
+      "pub_date": "2026-May-08",
+      "doi": "10.1007/s11325-026-03670-7",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42101711/",
+      "pdf_url": null,
+      "study_design": "Meta-analysis 8 studies",
+      "summary_ar": "تهدف هذه المراجعة النظامية والتحليل التلوي إلى تقييم فعالية جهاز Twin-Block في علاج انقطاع النفس الانسدادي أثناء النوم لدى الأطفال. تضمنت الدراسة ثمانية أبحاث مع 259 مريضًا. أظهرت النتائج أن العلاج بجهاز Twin-Block يؤدي إلى تقليل كبير في مؤشر أباتي-هيبوني (AHI) بمقدار -6.68. التباين الكبير بين الدراسات تم ملاحظته، ولكن تم توفير أدلة آلية تدعم فعالية الجهاز. هذه الدراسة تعزز الاعتراف بالعلاج كخيار غير جراحي للأطفال الذين يعانون من مشاكل في الجهاز التنفسي.",
+      "summary_en": "This systematic review and meta-analysis aims to assess the efficacy of the Twin-Block appliance in treating obstructive sleep apnea in children. It included eight studies with a total of 259 patients. The results demonstrated that Twin-Block therapy significantly reduced the Apnea-Hypopnea Index (AHI) by -6.68. Significant heterogeneity among studies was noted, but mechanistic evidence supporting the appliance's efficacy was provided. This study reinforces the recognition of this treatment as a non-surgical option for children with respiratory issues.",
+      "practice_change_ar": "يمكن اعتبار جهاز Twin-Block علاجًا فعالًا في ممارسات اليوم.",
+      "practice_change_en": "The Twin-Block appliance can be considered an effective treatment in today's practice.",
+      "future_impact_ar": "ستلزم التجارب السريرية الكبيرة للتحقق من فعالية الجهاز على المدى الطويل.",
+      "future_impact_en": "Large-scale clinical trials will be necessary to verify the long-term efficacy of the appliance.",
+      "why_important_ar": "تقدم هذه الدراسة دليلًا قويًا على فعالية جهاز Twin-Block في تقليل شدة انقطاع النفس الانسدادي.",
+      "why_important_en": "This study provides strong evidence for the effectiveness of the Twin-Block appliance in reducing the severity of obstructive sleep apnea.",
+      "vs_previous_ar": "تعد هذه المراجعة محدّثة وتستند إلى تجارب عشوائية عالية الجودة غير موجودة في التحليل السابق.",
+      "vs_previous_en": "This review is up-to-date and relies on high-quality randomized trials not present in the previous analysis.",
+      "stars": 5,
+      "stars_reason_ar": "تحليل شامل يعتمد على دراسات RCT عالية الجودة، مما يضمن موثوقية النتائج.",
+      "stars_reason_en": "A comprehensive analysis based on high-quality RCT studies, ensuring the reliability of the results.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "يقدم دراسة محدثة وموثوقة حول التقدم في إدارة انقطاع النفس الانسدادي.",
+      "jc_reason_en": "Provides an updated and reliable study on advancements in the management of obstructive sleep apnea.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة فعالية جهاز Twin-Block وكيف يمكن أن يؤثر على خيارات العلاج المستقبلية للأطفال المصابين بانقطاع النفس.",
+      "watch_detail_en": "The efficacy of the Twin-Block appliance should be monitored as it may influence future treatment options for children with apnea.",
+      "watch_type": "device",
+      "research_gap_ar": "توجد حاجة إلى تجارب سريرية كبيرة للتحقق من الفعالية على المدى الطويل.",
+      "research_gap_en": "There is a need for large clinical trials to verify the long-term efficacy.",
+      "subspecialty": "pediatric",
+      "audio_script_ar": "تتناول هذه المقالة فعالية جهاز Twin-Block في علاج انقطاع النفس الانسدادي أثناء النوم لدى الأطفال. الدراسة عبارة عن تحليل تلوي يستند إلى ثمانية أبحاث، مؤكدة على فعالية الجهاز في تقليل أرقام AHI بشكل كبير وبشكل موثوق. تم ملاحظة تباين كبير بين الدراسات، ولكن تم تقديم أدلة آلية تدعم تأثير الجهاز. يجب اعتبار هذه النتائج كإضافة هامة لعلاج هذه الحالة في الأطفال، مما يبرز الحاجة لتجارب سريرية مستقبلية للتحقق من فعالية الجهاز على المدى الطويل.",
+      "audio_script_en": "This article discusses the efficacy of the Twin-Block appliance in treating obstructive sleep apnea in children. The study is a meta-analysis based on eight studies, confirming the appliance's effectiveness in significantly reducing AHI scores reliably. Significant heterogeneity among studies was noted, but mechanistic evidence supporting the device's effects was presented. These results should be considered an important addition to treatment for this condition in children, highlighting the need for future clinical trials to verify the long-term efficacy of the appliance.",
+      "mcq": [
+        {
+          "q_ar": "ما هي النتيجة الرئيسية المستخدمة في الدراسة لتقييم فعالية جهاز Twin-Block؟",
+          "q_en": "What is the primary outcome used in the study to evaluate the efficacy of the Twin-Block appliance?",
+          "options_ar": [
+            "أ) AHI",
+            "ب) OSA",
+            "ج) RCT",
+            "د) CPAP"
+          ],
+          "options_en": [
+            "A) AHI",
+            "B) OSA",
+            "C) RCT",
+            "D) CPAP"
+          ],
+          "answer": 0,
+          "explanation_ar": "تم استخدام مؤشر أباتي-هيبوني (AHI) كالأثر الأساسي لتقييم فعالية العلاج.",
+          "explanation_en": "The Apnea-Hypopnea Index (AHI) was used as the primary outcome to evaluate treatment efficacy."
+        },
+        {
+          "q_ar": "كم عدد الدراسات التي شملها التحليل التلوي؟",
+          "q_en": "How many studies were included in the meta-analysis?",
+          "options_ar": [
+            "أ) 5",
+            "ب) 8",
+            "ج) 10",
+            "د) 12"
+          ],
+          "options_en": [
+            "A) 5",
+            "B) 8",
+            "C) 10",
+            "D) 12"
+          ],
+          "answer": 1,
+          "explanation_ar": "شمل التحليل التلوي ثمانية دراسات مختلفة.",
+          "explanation_en": "The meta-analysis included eight different studies."
+        },
+        {
+          "q_ar": "أي من الخيارات التالية تعتبر نتيجة مهمة من هذا التحليل؟",
+          "q_en": "Which of the following is a significant outcome from this analysis?",
+          "options_ar": [
+            "أ) زيادة AHI",
+            "ب) انخفاض AHI",
+            "ج) ضرورة الجراحة",
+            "د) عدم وجود تأثير"
+          ],
+          "options_en": [
+            "A) Increased AHI",
+            "B) Decreased AHI",
+            "C) Need for surgery",
+            "D) No effect"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت النتائج انخفاضًا كبيرًا في AHI نتيجة لاستخدام جهاز Twin-Block.",
+          "explanation_en": "The results showed a significant decrease in AHI as a result of using the Twin-Block appliance."
+        }
+      ]
+    },
+    {
+      "pmid": "42071074",
+      "title_ar": "Combination of dysfunctional beliefs about sleep and excessive daytime sleepiness as a psychobehavioral characteristic of comorbid insomnia and sleep apnea.",
+      "title_en": "Combination of dysfunctional beliefs about sleep and excessive daytime sleepiness as a psychobehavioral characteristic of comorbid insomnia and sleep apnea.",
+      "journal": "Scientific reports",
+      "pub_date": "2026-May-08",
+      "doi": "10.1038/s41598-026-50792-9",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42071074/",
+      "pdf_url": "https://doi.org/10.1038/s41598-026-50792-9",
+      "study_design": "Retrospective series n=283",
+      "summary_ar": "تمت دراسة تأثير الايمان الوظيفي الخاطئ والمشاكل المرتبطة بالنوم أثناء النهار على المرضى الذين يعانون من صعوبة النوم من النوع المرافق مع إعاقة النوم. تم تحليل بيانات 283 مريضاً لتعزيز المفاهيم النفسية السلوكية المتعلقة بصعوبات النوم. تُظهر النتائج أن ارتفاع كل من الايمان الوظيفي الخاطئ والمشاكل في النوم أثناء النهار يمثلان نمطاً نفسياً سلوكياً مميزاً يرتبط بشدة بصعوبات النوم المزمنة. التقييم المبكر لهذه الخصائص يمكن أن يساعد في تحسين إدارة الحالات السريرية.",
+      "summary_en": "The study examined the impact of dysfunctional beliefs and excessive daytime sleepiness on patients with comorbid insomnia and sleep apnea. Data from 283 patients were analyzed to enhance understanding of the psychobehavioral characteristics related to sleep disturbances. Results indicate that elevated dysfunctional beliefs and daytime sleepiness represent a distinct psychological profile strongly associated with chronic insomnia. Early assessment of these traits may aid in improving management of clinical cases.",
+      "practice_change_ar": "يمكن أن يدعم تقييم الايمان الوظيفي الخاطئ والمشاكل في النوم أثناء النهار لتحديد الحالات المرضية بشكل أسرع.",
+      "practice_change_en": "Assessing dysfunctional beliefs and daytime sleepiness may support earlier identification of these clinical conditions.",
+      "future_impact_ar": "يمكن أن يؤدي هذا الفهم إلى استراتيجيات إدارة أكثر فعالية للمرضى الذين يعانون من صعوبات النوم.",
+      "future_impact_en": "This understanding could lead to more effective management strategies for patients with sleep disturbances.",
+      "why_important_ar": "توفر هذه الدراسة رؤى جديدة حول العلاقات النفسية المرتبطة بصعوبات النوم المرافقة.",
+      "why_important_en": "This study provides new insights into the psychological relationships associated with comorbid sleep difficulties.",
+      "vs_previous_ar": "تختلف هذه الدراسة من حيث شمولها للتفاعلات بين الايمان الوظيفي الخاطئ والمشاكل في النوم أثناء النهار.",
+      "vs_previous_en": "This study differs in its focus on the interactions between dysfunctional beliefs and daytime sleepiness.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة بأثر جيد وتركيز على تحليل بيانات شاملة لعدد كبير من المرضى.",
+      "stars_reason_en": "A good study focusing on a comprehensive analysis of data from a large number of patients.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Provides valuable insights into the characteristics of patients with sleep difficulties.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحديد المشكلات النفسية السلوكية ذات التأثيرات الجانبية الغير مفهومة سابقاً.",
+      "research_gap_en": "Identifying the psychobehavioral issues with previously unexplored downstream effects.",
+      "subspecialty": "sleep",
+      "audio_script_ar": "هذه الدراسة تبحث في الجوانب النفسية المتعلقة بصعوبات النوم وكذلك تأثيرها على المرضى الذين يعانون من مشاكل النوم المرافق. تم تحليل بيانات 283 مريضاً، ووجدت النتائج أن الارتفاع في الايمان الوظيفي الخاطئ والمشاكل المتعلقة بالنوم أثناء النهار يعتبر نموذجاً مميزاً لاكتشاف صعوبات النوم المزمنة. توحي النتائج بأن التقييم المبكر لهذه الصفات النفسية يمكن أن يحسن من كيفية إدارة هذه الحالات السريرية.",
+      "audio_script_en": "This study explores the psychological aspects related to sleep difficulties and their effects on patients with comorbid sleep issues. Data from 283 patients were analyzed, revealing that elevated dysfunctional beliefs and daytime sleepiness represent a distinct profile for identifying chronic sleep difficulties. The findings suggest that early assessment of these psychological traits could enhance the management of these clinical cases.",
+      "mcq": [
+        {
+          "q_ar": "ما هو العدد الإجمالي للمرضى الذين تمت دراستهم؟",
+          "q_en": "What is the total number of patients studied?",
+          "options_ar": [
+            "أ) 166",
+            "ب) 283",
+            "ج) 75",
+            "د) 42"
+          ],
+          "options_en": [
+            "A) 166",
+            "B) 283",
+            "C) 75",
+            "D) 42"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم تحليل بيانات 283 مريضاً في هذه الدراسة.",
+          "explanation_en": "Data from 283 patients were analyzed in this study."
+        },
+        {
+          "q_ar": "ما هي الظاهرة النفسية السلوكية المرتبطة بالصعوبات النوم المرافقة؟",
+          "q_en": "What psychobehavioral phenomenon is associated with comorbid sleep disturbances?",
+          "options_ar": [
+            "أ) الايمان الوظيفي الخاطئ",
+            "ب) النوم أثناء النهار",
+            "ج) انخفاض طاقة الجسم",
+            "د) جميع ما ذكر"
+          ],
+          "options_en": [
+            "A) dysfunctional beliefs",
+            "B) daytime sleepiness",
+            "C) low energy",
+            "D) all of the above"
+          ],
+          "answer": 3,
+          "explanation_ar": "النتائج تشير إلى أن الايمان الوظيفي الخاطئ وزيادة التفكير في النوم أثناء النهار يمثلان ظاهرة مميزة.",
+          "explanation_en": "The findings suggest that dysfunctional beliefs and increased daytime sleepiness represent a distinct phenomenon."
+        },
+        {
+          "q_ar": "كيف يساهم تقييم الايمان الوظيفي الخاطئ في إدارة المرضى؟",
+          "q_en": "How does assessing dysfunctional beliefs contribute to patient management?",
+          "options_ar": [
+            "أ) يعتمد فقط على الأدوية",
+            "ب) يساعد في التعرف المبكر",
+            "ج) لا يساهم في أي شيء",
+            "د) يسبب تفاقم الحالة"
+          ],
+          "options_en": [
+            "A) relies only on medication",
+            "B) aids in early identification",
+            "C) does not contribute",
+            "D) exacerbates the condition"
+          ],
+          "answer": 1,
+          "explanation_ar": "يساعد تقييم الايمان الوظيفي الخاطئ في التعرف المبكر على صعوبات النوم.",
+          "explanation_en": "Assessing dysfunctional beliefs aids in the early identification of sleep difficulties."
+        }
+      ]
+    },
+    {
+      "pmid": "42103700",
+      "title_ar": "Does Xylitol Have Additional Benefit Over Saline for Nasal Irrigation in Chronic Rhinosinusitis?",
+      "title_en": "Does Xylitol Have Additional Benefit Over Saline for Nasal Irrigation in Chronic Rhinosinusitis?",
+      "journal": "The Laryngoscope",
+      "pub_date": "2026-May-08",
+      "doi": "10.1002/lary.70621",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42103700/",
+      "pdf_url": null,
+      "study_design": "RCT n=120",
+      "summary_ar": "تتناول هذه الدراسة فعالية Xylitol كعلاج لعلاج الرينوسينوسيتيس المزمن مقارنةً بمحلول الملح. تم إجراء تجربة عشوائية على 120 مريضًا. أظهرت النتائج أن Xylitol يمكن أن يوفر فوائد إضافية تفوق محلول الملح. ومع ذلك، لا تزال هناك حاجة لمزيد من الدراسات لتأكيد هذه الفوائد. يعتبر هذا البحث مهمًا لتقديم خيارات جديدة لعلاج حالات الرينوسينوسيتيس المزمنة.",
+      "summary_en": "This study examines the efficacy of Xylitol as a treatment for chronic rhinosinusitis compared to saline solution. A randomized controlled trial was conducted with 120 patients. Results indicated that Xylitol may offer additional benefits over saline. However, further studies are needed to confirm these benefits. This research is significant in providing new options for treating chronic rhinosinusitis.",
+      "practice_change_ar": "يمكن استخدام Xylitol كعلاج إضافي في حالات الرينوسينوسيتيس المزمن.",
+      "practice_change_en": "Xylitol may be used as an additional treatment in chronic rhinosinusitis cases.",
+      "future_impact_ar": "يمكن أن يؤدي هذا البحث إلى تحفيز المزيد من الدراسات حول تأثير Xylitol.",
+      "future_impact_en": "This research may lead to further studies on the impact of Xylitol.",
+      "why_important_ar": "هذه المقالة تهم بسبب تقديمها خيارات جديدة في إدارة الرينوسينوسيتيس المزمن.",
+      "why_important_en": "This article is important as it presents new options in managing chronic rhinosinusitis.",
+      "vs_previous_ar": "هذا البحث يختلف عن المعرفة السابقة بتقديم خيار جديد لعلاج الحالة.",
+      "vs_previous_en": "This research differs from previous knowledge by offering a new treatment option.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة تجريبية عشوائية مع نتائج جديدة تؤكد الفائدة المحتملة لـ Xylitol.",
+      "stars_reason_en": "The study is a randomized controlled trial with new findings affirming the potential benefit of Xylitol.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study presents new information that may change treatment methods.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة استخدام Xylitol كخيار علاج جديد.",
+      "watch_detail_en": "Xylitol should be monitored as a new treatment option.",
+      "watch_type": "drug",
+      "research_gap_ar": "توجد حاجة لمزيد من الدراسات لتأكيد فعالية Xylitol.",
+      "research_gap_en": "There is a need for more studies to confirm the efficacy of Xylitol.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تناقش هذه الدراسة فعالية Xylitol مقارنةً بمحلول الملح في علاج الرينوسينوسيتيس المزمن. تم إجراء تجربة عشوائية على 120 مريضًا. النتائج تشير إلى أن Xylitol قد يوفر فوائد إضافية. هذه المقالة مهمة لأنها تقدم خيارات جديدة للبيع السريرية. من المتوقع أن يؤدي هذا البحث إلى المزيد من الدراسات لتأكيد هذه الفوائد. يمكن استخدام Xylitol كعلاج إضافي في هذه الحالات.",
+      "audio_script_en": "This study discusses the efficacy of Xylitol compared to saline in treating chronic rhinosinusitis. A randomized controlled trial was conducted with 120 patients. The results suggest that Xylitol may provide additional benefits. This article is significant as it offers new options for clinical practice. It is expected that this research will lead to further studies to confirm these benefits, and Xylitol may be used as an additional treatment in these cases.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف الرئيسي من الدراسة؟",
+          "q_en": "What is the main objective of the study?",
+          "options_ar": [
+            "أ) تقييم فعالية Xylitol",
+            "ب) مقارنة Xylitol مع محلول الملح",
+            "ج) دراسة تأثير الملح على الرينوسينوسيتيس",
+            "د) تقديم خيارات علاج جديدة"
+          ],
+          "options_en": [
+            "A) Assess the efficacy of Xylitol",
+            "B) Compare Xylitol with saline",
+            "C) Study the effect of saline on rhinosinusitis",
+            "D) Provide new treatment options"
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسة تهدف لمقارنة فعالية Xylitol مع محلول الملح.",
+          "explanation_en": "The study aims to compare the efficacy of Xylitol with saline."
+        },
+        {
+          "q_ar": "ما نوع الدراسة؟",
+          "q_en": "What type of study is it?",
+          "options_ar": [
+            "أ) تجربة عشوائية مضبوطة",
+            "ب) دراسة حالة",
+            "ج) دراسة استعادية",
+            "د) مراجعة منهجية"
+          ],
+          "options_en": [
+            "A) Randomized controlled trial",
+            "B) Case study",
+            "C) Retrospective study",
+            "D) Systematic review"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة هي تجربة عشوائية مضبوطة.",
+          "explanation_en": "The study is a randomized controlled trial."
+        },
+        {
+          "q_ar": "ما النتيجة المحتملة لـ Xylitol في الدراسة؟",
+          "q_en": "What is the potential result of Xylitol in the study?",
+          "options_ar": [
+            "أ) فوائد إضافية على محلول الملح",
+            "ب) هزيمة عدم الفعالية",
+            "ج) آثار جانبية جديدة",
+            "د) مشاكل صحية أكبر"
+          ],
+          "options_en": [
+            "A) Additional benefits over saline",
+            "B) Defeating ineffectiveness",
+            "C) New side effects",
+            "D) Greater health issues"
+          ],
+          "answer": 0,
+          "explanation_ar": "Xylitol يقدم فوائد إضافية مقارنة بمحلول الملح.",
+          "explanation_en": "Xylitol provides additional benefits compared to saline."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026050901",
+      "title_ar": "حجم سوق التنظير الداخلي للأذن والأنف والحنجرة والنمو المتوقع بمعدل نمو سنوي مركب يبلغ 6.4%",
+      "title_en": "ENT Endoscopy Market Size and Growth Projected at a CAGR of 6.4%",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-05-09",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "من المتوقع أن ينمو سوق التنظير الداخلي للأذن والأنف والحنجرة بشكل كبير، مع معدل نمو سنوي مركب يبلغ 6.4%. يقود هذا النمو الطلب المتزايد على الإجراءات الجراحية الحد الأدنى من التدخل والابتكارات في تقنيات التنظير. يبرز التقرير حجم السوق وحصته، مؤكداً على العوامل الرئيسية التي تسهم في هذا التوسع. يُشجع أصحاب المصلحة في قطاع الأذن والأنف والحنجرة على الاستفادة من هذه الرؤى للتخطيط الاستراتيجي.",
+      "summary_en": "The ENT endoscopy market is projected to grow significantly, with a compound annual growth rate (CAGR) of 6.4%. This growth is driven by increasing demand for minimally invasive surgical procedures and advancements in endoscopic technology. The report highlights the market size and share, emphasizing key factors contributing to this expansion. Stakeholders in the ENT sector are encouraged to leverage these insights for strategic planning.",
+      "practice_change_ar": "قد يحتاج أطباء الأذن والأنف والحنجرة الممارسون إلى تعزيز مهاراتهم في التقنيات التنظيرية لمواكبة تطورات السوق.",
+      "practice_change_en": "Practicing ENT surgeons may need to enhance their skills in endoscopic techniques to keep up with market advancements.",
+      "future_impact_ar": "مع توسع السوق، سيصبح من المحتمل أن تصبح حلول التنظير الحديث ضرورية لممارسات الأذن والأنف والحنجرة.",
+      "future_impact_en": "As the market expands, implementing innovative endoscopic solutions will likely become crucial for ENT practices.",
+      "why_important_ar": "تشير هذه الزيادة إلى تحول نحو خيارات علاجية أكثر تقدماً وقلة التدخل الجراحي للمرضى.",
+      "why_important_en": "This growth indicates a shift towards more advanced, less invasive treatment options for patients.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "تتعلق هذه المعلومات بنمو سوق مهم وبالتالي تؤثر على ممارسات الجراحة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أهلا وسهلا بكم في نشرتنا الإخبارية. اليوم نتحدث عن نمو سوق التنظير الداخلي للأذن والأنف والحنجرة، حيث من المتوقع أن ينمو بمعدل نمو سنوي مركب قدره 6.4%. هذا النمو يعكس الطلب المتزايد على الإجراءات الجراحية الأقل تدخلاً، بالإضافة إلى التطورات التكنولوجية في هذا المجال. يُنصح أطباء الأذن والأنف والحنجرة بتعزيز مهاراتهم في هذه التقنيات لمواكبة في هذا السوق المتغير. شكراً لاستماعكم.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026050902",
+      "title_ar": "حجم سوق أجهزة الأنف والأذن والحنجرة في الولايات المتحدة، التقرير الصناعي، 2030",
+      "title_en": "U.S. ENT Devices Market Size, Share | Industry Report, 2030",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-05-09",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت شركة غراند فيو للأبحاث تقريرًا صناعيًا عن سوق أجهزة الأنف والأذن والحنجرة في الولايات المتحدة، متوقعة نموًا وتغيرات في حجم السوق وحصته حتى عام 2030. يسلط التقرير الضوء على الاتجاهات الرئيسية والابتكارات التي قد تؤثر على مشهد أجهزة الأنف والأذن والحنجرة. كما يتناول التقرير التقدم التكنولوجي والتغيرات المحتملة في الطلب من المستهلكين على أجهزة الأنف والأذن والحنجرة.",
+      "summary_en": "Grand View Research has published an industry report on the U.S. ENT devices market, projecting growth and changes in market size and share leading up to 2030. The report outlines key trends and innovations that may impact the ENT device landscape. It highlights advancements in technology and potential shifts in consumer demand for ENT devices.",
+      "practice_change_ar": "يوفر هذا التقرير بيانات مفيدة يمكن أن تساعد جراحي الأنف والأذن والحنجرة على فهم ديناميكيات السوق والاستعداد للتطورات المستقبلية في تكنولوجيا الأجهزة.",
+      "practice_change_en": "This report provides insightful data that can help ENT surgeons understand market dynamics and prepare for future developments in device technology.",
+      "future_impact_ar": "تشير هذا التقرير إلى أن سوق أجهزة الأنف والأذن والحنجرة من المتوقع أن يشهد تحولات كبيرة، مما يؤثر على توفر وأنواع الأجهزة التي يمكن للجراحين تقديمها.",
+      "future_impact_en": "This report indicates that the ENT device market is expected to undergo significant transformations, affecting the availability and types of devices surgeons can offer.",
+      "why_important_ar": "فهم اتجاهات السوق يساعد جراحي الأنف والأذن والحنجرة على البقاء في مقدمة التغييرات في التكنولوجيا واحتياجات المرضى.",
+      "why_important_en": "Understanding market trends helps ENT surgeons stay ahead of changes in technology and patient needs.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "تقرير شامل يسلط الضوء على اتجاهات هامة في سوق أجهزة الأنف والأذن والحنجرة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أصدرت شركة غراند فيو للأبحاث تقريرًا يسلط الضوء على سوق أجهزة الأنف والأذن والحنجرة في الولايات المتحدة حتى عام 2030. يتوقع التقرير نموًا وتغيرات في حجم السوق وحصته، مع التركيز على الابتكارات التكنولوجية والاتجاهات الجديدة في الطلب. هذا التقرير يشكل خطوة مهمة لجراحي الأنف والأذن والحنجرة لفهم المستقبل وكيفية الاستعداد للتغييرات القادمة في هذا المجال.",
+      "mcq": []
+    }
+  ]
+}
