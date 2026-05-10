@@ -1,0 +1,981 @@
+{
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10T06:17:27Z",
+  "articles": [
+    {
+      "pmid": "42103846",
+      "title_ar": "Resilient frequency stabilization of renewable-penetrated microgrids via deep learning and machine learning.",
+      "title_en": "Resilient frequency stabilization of renewable-penetrated microgrids via deep learning and machine learning.",
+      "journal": "Scientific reports",
+      "pub_date": "2026-May-08",
+      "doi": "10.1038/s41598-026-51207-5",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42103846/",
+      "pdf_url": "https://www.nature.com/articles/s41598-026-51207-5_reference.pdf",
+      "study_design": "N/A",
+      "summary_ar": "تتطلب تقنيات توليد الطاقة المتجددة، مثل توليد الطاقة من الرياح، توقعات دقيقة لسرعة الرياح لتحقيق الاستقرار في تردد الشبكات الصغيرة. استخدمت هذه الدراسة Support Vector Regression (SVR) وDeep Neural Networks (DNN) لتوقع سرعة الرياح في أربعة مواقع جغرافية مختلفة. تشير النتائج إلى أن نموذج SVR يتفوق على نموذج DNN في تقليل أخطاء التوقع. تم اقتراح وحدة تحكم PID محسّنة باستخدام خوارزميات Particle Swarm Optimization (PSO) وGrey Wolf Optimization (GWO) لتحقيق استقرار أكبر في تردد الشبكة. تم التحقق من فعالية الاقتراح من خلال عمليات محاكاة تحاكي الأداء الديناميكي في الظروف التشغيلية الحقيقية.",
+      "summary_en": "The variability of wind energy generation necessitates accurate wind speed forecasting for frequency stability in microgrids. This study employed Support Vector Regression (SVR) and Deep Neural Networks (DNN) for wind speed predictions at four distinct locations. Results indicated that the SVR model outperformed the DNN model in minimizing prediction errors. An optimized PID controller using Particle Swarm Optimization (PSO) and Grey Wolf Optimization (GWO) algorithms was proposed to enhance microgrid frequency stability. The effectiveness of the approach was validated through simulations that replicate dynamic performance under real operational conditions.",
+      "practice_change_ar": "قد تؤدي الأساليب المقترحة في هذه الدراسة إلى تحسين استقرار الشبكات الصغيرة المدعومة بالطاقة المتجددة.",
+      "practice_change_en": "The proposed methods in this study could lead to improved stability of renewable-powered microgrids.",
+      "future_impact_ar": "يمكن أن تسهم هذه الطرق في تطوير الحلول الذكية لتحسين أداء الشبكات الصغيرة.",
+      "future_impact_en": "These methods may contribute to the development of smart solutions to enhance microgrid performance.",
+      "why_important_ar": "تعتبر هذه الدراسة مهمة لأنها تقدم أساليب مبتكرة لتحسين التحكم والإدارة في الشبكات الصغيرة المدعومة بالطاقة المتجددة.",
+      "why_important_en": "This study is important as it offers innovative methods for improving control and management in renewable-powered microgrids.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعلومات السابقة بتقديم نموذج SVR يتفوق بشكل ملحوظ على نموذج DNN في خفض أخطاء التوقع.",
+      "vs_previous_en": "This study differs from previous information by presenting an SVR model that significantly outperforms the DNN model in reducing prediction errors.",
+      "stars": 4,
+      "stars_reason_ar": "التصميم مُبتكر، ويُظهر نتائج مثيرة للاهتمام مع تطبيقات واضحة في مجال تحسين الشبكات الصغيرة.",
+      "stars_reason_en": "The design is innovative and demonstrates interesting results with clear applications in improving microgrids.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "يعرض الدراسة تقنيات حديثة للتحكم في الشبكات الصغيرة باستخدام التعلم الآلي.",
+      "jc_reason_en": "The study presents modern techniques for controlling microgrids using machine learning.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة استخدام خوارزميات التعلم الآلي في تحسين استقرار الشبكات الصغيرة.",
+      "watch_detail_en": "Watch the use of machine learning algorithms in enhancing microgrid stability.",
+      "watch_type": "technology",
+      "research_gap_ar": "هناك حاجة إلى المزيد من الأبحاث لتحسين دقة التوقعات في ظروف مختلفة.",
+      "research_gap_en": "There is a need for further research to improve forecasting accuracy under varying conditions.",
+      "subspecialty": "general",
+      "audio_script_ar": "تتناول هذه الدراسة أهمية التنبؤ بدقة لسرعة الرياح في شبكات الطاقة الصغيرة المدعومة بالطاقة المتجددة. استخدمت الدراسة تقنيتين رئيسيتين هما Support Vector Regression وDeep Neural Networks. أظهرت النتائج أن نموذج SVR كان أكثر دقة في التوقعات. تم اقتراح تحسين على وحدة تحكم PID باستخدام تقنيات جديدة لتعزيز الاستقرار. نتائج المحاكاة أكدت فعالية هذه الأساليب، مما يوفر آفاقا مستقبلية مثيرة لتحسين الأداء.",
+      "audio_script_en": "This study addresses the importance of accurate wind speed forecasting in renewable-powered microgrids. The study utilized two key techniques, Support Vector Regression and Deep Neural Networks. Results showed that the SVR model was more accurate in predictions. An improvement on the PID controller was proposed using new techniques to enhance stability. Simulation results confirmed the effectiveness of these methods, providing exciting future prospects for improving performance.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف الرئيسي من الدراسة؟",
+          "q_en": "What is the main objective of the study?",
+          "options_ar": [
+            "أ) تحسين إدارة الشبكات الصغيرة.",
+            "ب) تقييم تأثير الطاقة الشمسية.",
+            "ج) مقارنة بين تقنيات التعلم الآلي.",
+            "د) دراسة تأثير الرياح."
+          ],
+          "options_en": [
+            "A) Improve microgrid management.",
+            "B) Assess the impact of solar energy.",
+            "C) Compare machine learning techniques.",
+            "D) Study the impact of wind."
+          ],
+          "answer": 0,
+          "explanation_ar": "تهدف الدراسة إلى تحسين استقرار الشبكات الصغيرة من خلال التنبؤ بدقة لسرعة الرياح.",
+          "explanation_en": "The study aims to improve microgrid stability through accurate wind speed forecasting."
+        },
+        {
+          "q_ar": "أي نموذج كان أكثر كفاءة في تقليل الأخطاء؟",
+          "q_en": "Which model was more efficient in reducing errors?",
+          "options_ar": [
+            "أ) Deep Neural Networks.",
+            "ب) Support Vector Regression.",
+            "ج) Hybrid PID.",
+            "د) خوارزميات GWO."
+          ],
+          "options_en": [
+            "A) Deep Neural Networks.",
+            "B) Support Vector Regression.",
+            "C) Hybrid PID.",
+            "D) GWO algorithms."
+          ],
+          "answer": 1,
+          "explanation_ar": "تمكنت SVR من تقليل الأخطاء بشكل أكبر من نموذج DNN.",
+          "explanation_en": "SVR was able to reduce errors more than the DNN model."
+        },
+        {
+          "q_ar": "ما هي التقنية المستخدمة لتحسين وحدة التحكم؟",
+          "q_en": "What technique was used to improve the control unit?",
+          "options_ar": [
+            "أ) خوارزمية GWO.",
+            "ب) خوارزمية جديدة.",
+            "ج) PSO وGWO.",
+            "د) DNN."
+          ],
+          "options_en": [
+            "A) GWO algorithm.",
+            "B) A new algorithm.",
+            "C) PSO and GWO.",
+            "D) DNN."
+          ],
+          "answer": 2,
+          "explanation_ar": "تم استخدام خوارزميتي PSO وGWO لتحسين التحكم.",
+          "explanation_en": "PSO and GWO algorithms were used to improve control."
+        }
+      ]
+    },
+    {
+      "pmid": "42093265",
+      "title_ar": "The adult cleft lip and palate patient: beyond primary repair.",
+      "title_en": "The adult cleft lip and palate patient: beyond primary repair.",
+      "journal": "Current opinion in otolaryngology & head and neck surgery",
+      "pub_date": "2026-May-08",
+      "doi": "10.1097/MOO.0000000000001133",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42093265/",
+      "pdf_url": null,
+      "study_design": "Expert opinion",
+      "summary_ar": "تعتبر cleft lip و palate من أكثر العيوب الخلقية شيوعًا في الوجه. على الرغم من التقدم الكبير في تقنيات الجراحة والرعاية المتعددة التخصصات، لا يزال هناك نقص في المعلومات حول تجارب البالغين الذين يعانون من cleft lip و palate. يواجه هؤلاء البالغون تحديات وظيفية مستمرة، بما في ذلك صعوبات في الكلام وفقدان السمع وازدحام المجرى الهوائي الأنفي. كما تشير الدراسات النفسية إلى معدلات أعلى من الاكتئاب والقلق بين هؤلاء المرضى. تشير مؤشرات الرضا من المرضى إلى أن الرضا عن النتائج الجراحية يختلف باختلاف نوع cleft. يشدد المقال على أهمية الدعم النفسي والانخراط المستمر مع رعاية cleft لتحسين نوعية الحياة.",
+      "summary_en": "Cleft lip and palate (CL/P) is the most common congenital craniofacial anomaly. Despite advancements in surgical techniques and multidisciplinary care, the long-term experiences of adults with CL/P are less documented. Adults with CL/P face persistent functional challenges including speech difficulties, hearing loss, and nasal airway obstruction. Psychological studies report higher rates of depression and anxiety among these individuals. Patient-reported outcomes indicate variable satisfaction with surgical results, dependent on cleft phenotype. The need for psychosocial support and continuous cleft care engagement is emphasized to enhance quality of life.",
+      "practice_change_ar": "الاهتمام بالنتائج المبلغ عنها من المرضى والدعم النفسي قد يحسن من نوعية حياة البالغين المصابين بـ cleft lip و palate.",
+      "practice_change_en": "Attention to patient-reported outcomes and psychosocial support may improve the quality of life for adults with cleft lip and palate.",
+      "future_impact_ar": "من الممكن أن تكون هناك تحسينات في رعاية المرضى البالغين الذين يعانون من cleft lip و palate.",
+      "future_impact_en": "There may be improvements in care for adult patients with cleft lip and palate.",
+      "why_important_ar": "هذا المقال يسلط الضوء على التحديات المستمرة التي يواجهها البالغون مع cleft lip و palate.",
+      "why_important_en": "This article highlights the ongoing challenges faced by adults with cleft lip and palate.",
+      "vs_previous_ar": "يميز هذا المقال بين تجارب البالغين مع cleft lip و palate مقارنة بالأبحاث التي تركز على الأطفال.",
+      "vs_previous_en": "This article distinguishes the experiences of adults with cleft lip and palate from previous research focused on pediatric populations.",
+      "stars": 3,
+      "stars_reason_ar": "مقال رأي شامل حول cleft lip و palate واهتمامه بصحة البالغين.",
+      "stars_reason_en": "Comprehensive expert opinion on cleft lip and palate with a focus on adult health.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The article provides new insights into the ongoing care of adults with cleft lip and palate.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك نقص في الأبحاث حول التحديات الوظيفية والنفسية للبالغين مع cleft lip و palate.",
+      "research_gap_en": "There is a lack of research on the functional and psychological challenges of adults with cleft lip and palate.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "سلط الضوء في هذا المقال على cleft lip و palate كأحد العيوب الخلقية الأكثر شيوعًا. رغم التقدم الكبير في التقنيات الجراحية، إلا أن تجارب البالغين الذين يعانون من cleft lip و palate لا تزال غير موثقة بشكل كافٍ. يواجه هؤلاء الأفراد تحديات وظيفية معقدة مثل صعوبات الكلام وصعوبات السمع. كما أن الدراسات النفسية تشير إلى معدلات مرتفعة من الاكتئاب والقلق بسبب نظرة المجتمع. علاوة على ذلك، فإن الرضا عن النتائج يعتمد على نوع cleft، مما يدل على أهمية الدعم النفسي والرعاية المستمرة.",
+      "audio_script_en": "This article highlights cleft lip and palate as one of the most common congenital anomalies. Despite significant advancements in surgical techniques, the experiences of adults with cleft lip and palate remain underdocumented. These individuals face complex functional challenges such as speech difficulties and hearing impairments. Psychological studies indicate elevated rates of depression and anxiety stemming from societal perceptions. Furthermore, satisfaction with outcomes varies by cleft type, emphasizing the importance of psychosocial support and continuous care.",
+      "mcq": [
+        {
+          "q_ar": "ما هي التحديات التي يواجهها البالغون مع cleft lip و palate؟",
+          "q_en": "What challenges do adults with cleft lip and palate face?",
+          "options_ar": [
+            "أ) صعوبات في الكلام",
+            "ب) فقدان السمع",
+            "ج) ازدحام المجرى الهوائي الأنفي",
+            "د) جميع ما ذكر"
+          ],
+          "options_en": [
+            "A) Speech difficulties",
+            "B) Hearing loss",
+            "C) Nasal airway obstruction",
+            "D) All of the above"
+          ],
+          "answer": 3,
+          "explanation_ar": "يواجه البالغون مع cleft lip و palate تحديات متعددة تشمل صعوبات الكلام وفقدان السمع وازدحام المجرى الهوائي.",
+          "explanation_en": "Adults with cleft lip and palate face multiple challenges including speech difficulties, hearing loss, and nasal airway obstruction."
+        },
+        {
+          "q_ar": "ما الذي يزيد من معدلات الاكتئاب والقلق في هؤلاء المرضى؟",
+          "q_en": "What contributes to higher rates of depression and anxiety in these patients?",
+          "options_ar": [
+            "أ) الدعم الأسري",
+            "ب) الوصمة الاجتماعية",
+            "ج) التواصل مع المجتمع",
+            "د) جميع ما ذكر"
+          ],
+          "options_en": [
+            "A) Family support",
+            "B) Social stigma",
+            "C) Engagement with the community",
+            "D) All of the above"
+          ],
+          "answer": 1,
+          "explanation_ar": "تشير الدراسات إلى أن الوصمة الاجتماعية والدعم الأسري يلعبان دورًا في معاناة هؤلاء الأفراد.",
+          "explanation_en": "Studies indicate that social stigma and family support play roles in the struggles these individuals face."
+        },
+        {
+          "q_ar": "كيف يختلف الرضا عن النتائج الجراحية حسب نوع cleft؟",
+          "q_en": "How does satisfaction with surgical outcomes differ by cleft type?",
+          "options_ar": [
+            "أ) النوع الثنائي غالبًا ما يرتبط برضا أقل",
+            "ب) لا فرق في الرضا",
+            "ج) جميع الأنواع تؤدي إلى نفس الرضا",
+            "د) يعتمد الرضا على عمر المريض"
+          ],
+          "options_en": [
+            "A) Bilateral clefts often associated with lower satisfaction",
+            "B) No difference in satisfaction",
+            "C) All types lead to the same satisfaction",
+            "D) Satisfaction depends on patient age"
+          ],
+          "answer": 0,
+          "explanation_ar": "أظهرت المؤشرات أن الرضا عن النتائج غالبًا ما يكون أقل لدى الأشخاص الذين يعانون من clefts الثنائية.",
+          "explanation_en": "Outcomes indicated that satisfaction is often lower among individuals with bilateral clefts."
+        }
+      ]
+    },
+    {
+      "pmid": "42096698",
+      "title_ar": "Paediatric periorbital and orbital infections: a decade of experience at Christchurch Hospital.",
+      "title_en": "Paediatric periorbital and orbital infections: a decade of experience at Christchurch Hospital.",
+      "journal": "The New Zealand medical journal",
+      "pub_date": "2026-May-08",
+      "doi": "10.26635/6965.7068",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42096698/",
+      "pdf_url": null,
+      "study_design": "Retrospective series n=495",
+      "summary_ar": "تستعرض هذه الدراسة الأوبئة والميزات السريرية والميكروبيولوجيا وإدارة المرضى الأطفال الذين تم إدخالهم بسبب التهابات الجفون أو العين في مستشفى كرايستشيرش على مدى عشرة أعوام. أظهرت النتائج أن 93% من الحالات كانت مع التهاب الجفون. كان التهاب الجيوب الأنفية هو العامل المهيء الأكثر شيوعًا. أُفيد بوجود علامات أوربالية مثل البروز والألم وخفض حدة البصر بشكل أكبر في التهاب العين. تطلبت حالات العين إقامة أطول في المستشفى ومعدل أكبر من التدخل الجراحي. كانت Staphylococcus aureus الأكثر شيوعًا بين الكائنات المعزولة. أظهرت الدراسة أيضًا تأثيرًا غير متناسب على الأطفال من أصول مورية وساكنة المحيط الهادئ.",
+      "summary_en": "This study outlines the epidemiology, clinical features, microbiology, and management of pediatric patients admitted due to periorbital or orbital infections at Christchurch Hospital over a 10-year period. The results showed that 93% of cases were with periorbital cellulitis. Sinusitis was the most common predisposing factor. Orbital signs such as proptosis, pain, and decreased visual acuity were more frequently reported in orbital cellulitis. Orbital cases required longer hospital stays and a higher rate of surgical intervention. Staphylococcus aureus was the most frequently isolated organism. The study also highlighted a disproportionate effect on Māori and Pacific children.",
+      "practice_change_ar": "تتطلب علامات الأوربلة التصوير العاجل لاستبعاد الأمراض الأوربالية.",
+      "practice_change_en": "The presence of orbital signs should prompt urgent imaging to exclude orbital disease.",
+      "future_impact_ar": "يمكن أن تسهم النتائج في تحسين استراتيجيات إدارة ومعالجة التهابات الجفون والأعين لدى الأطفال.",
+      "future_impact_en": "The findings may contribute to improving management strategies for periorbital and orbital infections in pediatric patients.",
+      "why_important_ar": "تسلط الدراسة الضوء على أهمية التعرف والتدخل المبكر في التهابات الأوربلة.",
+      "why_important_en": "The study emphasizes the importance of early recognition and intervention in orbital infections.",
+      "vs_previous_ar": "تظهر الدراسة ارتباطًا قويًا بين التهاب الجيوب الأنفية والتهاب الأوربلة، مما يعزز المعرفة السابقة.",
+      "vs_previous_en": "The study shows a strong link between sinusitis and orbital cellulitis, reinforcing prior knowledge.",
+      "stars": 4,
+      "stars_reason_ar": "تصميم دراسي متقبل مع عدد حالات كبير (495) ويوفر معلومات جديدة هامة حول الأمراض.",
+      "stars_reason_en": "Acceptable study design with a large case number (495) providing important new information about the diseases.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تقدم الدراسة معلومات مهمة حول التهابات الأوربلة في الأطفال.",
+      "jc_reason_en": "The study provides important insights into orbital infections in children.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج الدراسات المستقبلية إلى ان تبحث في التدخلات العلاجية الفعالة للأطفال المصابين بالتهابات الأوربلة.",
+      "research_gap_en": "Future studies need to investigate effective therapeutic interventions for children with orbital infections.",
+      "subspecialty": "pediatric",
+      "audio_script_ar": "هذه الدراسة تناولت الأوبئة والميزات السريرية للالتهابات الجفنية لدى الأطفال في مستشفى كرايستشيرش. أجري تحليل لـ495 حالة خلال 10 سنوات. 93% من المرضى كانوا يعانون التهاب الجفون. وأظهر التهاب الجيوب الأنفية ارتباطًا كبيرًا. حالات التهاب الأوربلة كانت تتطلب مكوثًا أطول في المستشفى. تمثل Staphylococcus aureus الكائن المعزول الأكثر شيوعًا. الدراسة تبرز تأثيرًا غير متناسب على الأطفال من أصول مورية وساكنة المحيط الهادئ.",
+      "audio_script_en": "This study examined the epidemiology and clinical features of periorbital infections in children at Christchurch Hospital. A total of 495 cases were analyzed over a 10-year period. 93% of patients had periorbital cellulitis. Sinusitis showed a significant association. Orbital cellulitis cases required longer hospital stays. Staphylococcus aureus was the most commonly isolated organism. The study highlights a disproportionate impact on Māori and Pacific children.",
+      "mcq": [
+        {
+          "q_ar": "ما هي النسبة المئوية من الحالات التي كانت تعاني من التهاب الجفون؟",
+          "q_en": "What percentage of cases had periorbital cellulitis?",
+          "options_ar": [
+            "أ) 93%",
+            "ب) 75%",
+            "ج) 50%",
+            "د) 25%"
+          ],
+          "options_en": [
+            "A) 93%",
+            "B) 75%",
+            "C) 50%",
+            "D) 25%"
+          ],
+          "answer": 0,
+          "explanation_ar": "93% من الحالات تعاني من التهاب الجفون حسب الدراسة.",
+          "explanation_en": "93% of cases had periorbital cellulitis according to the study."
+        },
+        {
+          "q_ar": "ما هي الكائنات الأكثر شيوعًا المعزولة؟",
+          "q_en": "What was the most commonly isolated organism?",
+          "options_ar": [
+            "أ) Streptococcus",
+            "ب) Staphylococcus aureus",
+            "ج) E. coli",
+            "د) Klebsiella"
+          ],
+          "options_en": [
+            "A) Streptococcus",
+            "B) Staphylococcus aureus",
+            "C) E. coli",
+            "D) Klebsiella"
+          ],
+          "answer": 1,
+          "explanation_ar": "Staphylococcus aureus كان الأكثر شيوعًا بين الكائنات المعزولة.",
+          "explanation_en": "Staphylococcus aureus was the most commonly isolated organism."
+        },
+        {
+          "q_ar": "ما هو العامل المهيء الأكثر شيوعًا لالتهاب الأوربلة؟",
+          "q_en": "What was the most common predisposing factor for orbital cellulitis?",
+          "options_ar": [
+            "أ) التهاب الأذن",
+            "ب) التهاب الجيوب الأنفية",
+            "ج) كسر في الجمجمة",
+            "د) التهاب النسيج الخلوي"
+          ],
+          "options_en": [
+            "A) Otitis",
+            "B) Sinusitis",
+            "C) Skull fracture",
+            "D) Cellulitis"
+          ],
+          "answer": 1,
+          "explanation_ar": "التهاب الجيوب الأنفية كان العامل المهيء الأكثر شيوعًا لالتهاب الأوربلة.",
+          "explanation_en": "Sinusitis was the most common predisposing factor for orbital cellulitis."
+        }
+      ]
+    },
+    {
+      "pmid": "42103700",
+      "title_ar": "Does Xylitol Have Additional Benefit Over Saline for Nasal Irrigation in Chronic Rhinosinusitis?",
+      "title_en": "Does Xylitol Have Additional Benefit Over Saline for Nasal Irrigation in Chronic Rhinosinusitis?",
+      "journal": "The Laryngoscope",
+      "pub_date": "2026-May-08",
+      "doi": "10.1002/lary.70621",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42103700/",
+      "pdf_url": null,
+      "study_design": "RCT n=120",
+      "summary_ar": "هذه الدراسة تستكشف فوائد استخدامها لعلاج التهاب الجيوب الأنفية المزمن. تتمثل الفكرة الأساسية في مقارنة العلاج بواسطة Xylitol مع العلاج باستخدام saline. سيتم دراسة فعالية Xylitol في تحسين الأعراض وتخفيف الالتهابات. يعتبر هذا البحث مثيرًا للإهتمام في مجال طب الأنف والأذن والحنجرة ويمكن أن يؤثر على توجهات العلاج المستقبلية. سيمثل العلاج بواسطة Xylitol تقدمًا محتملاً في هذه الحالة الطبية الأكثر شيوعًا.",
+      "summary_en": "This study explores the benefits of using Xylitol for treating chronic rhinosinusitis. The primary focus is to compare the treatment with Xylitol against saline irrigation. The effectiveness of Xylitol in alleviating symptoms and reducing inflammation will be evaluated. This research is intriguing in the field of ENT and could influence future treatment approaches. The introduction of Xylitol could represent a potential advancement in this common medical condition.",
+      "practice_change_ar": "يمكن أن يغير هذا البحث كيفية استخدام العلاجات لالتهاب الجيوب الأنفية المزمن.",
+      "practice_change_en": "This research may change the way treatments for chronic rhinosinusitis are utilized.",
+      "future_impact_ar": "قد تؤدي النتائج إلى اعتماد Xylitol كخيار علاجي قياسي.",
+      "future_impact_en": "The findings could lead to the adoption of Xylitol as a standard treatment option.",
+      "why_important_ar": "هذا المقال مهم لأنه يقدم خيارات جديدة للعلاج قد تحسن من رعاية المرضى.",
+      "why_important_en": "This article is important as it presents new treatment options that could improve patient care.",
+      "vs_previous_ar": "يختلف عن المعرفة السابقة من خلال تقديم Xylitol كعلاج بديل يعد محتملًا.",
+      "vs_previous_en": "It differs from previous knowledge by presenting Xylitol as a potentially viable alternative treatment.",
+      "stars": 3,
+      "stars_reason_ar": "تتضمن الدراسة تصميم RCT مما يزيد من قوتها، لكن النتائج غير متاحة بعد.",
+      "stars_reason_en": "The study includes an RCT design which increases its strength, but results are not available yet.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This study is interesting due to the new factors involved in treatment.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة استخدام Xylitol كعلاج محتمل لالتهاب الجيوب الأنفية المزمن.",
+      "watch_detail_en": "Xylitol should be monitored as a potential treatment for chronic rhinosinusitis.",
+      "watch_type": "drug",
+      "research_gap_ar": "تحتاج إلى مزيد من الدراسات لفهم تأثير Xylitol بشكل كامل.",
+      "research_gap_en": "Further studies are needed to fully understand the effects of Xylitol.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "في هذه الدراسة، يتم استكشاف فوائد استخدام Xylitol لعلاج التهاب الجيوب الأنفية المزمن. يتم مقارنة فعالية Xylitol مع saline، مما يتيح تقييم إمكانية علاجات جديدة. النتائج قد تؤثر على كيفية مساعدة المرضى، مع إمكانية اعتماد Xylitol كعلاج قياسي. أهمية الدراسة تكمن في كونها تقدم أفكار جديدة تعزز من إدارة هذه الحالة الشائعة، مع الحاجة إلى مزيد من البحث لفهم التأثيرات بشكل كامل.",
+      "audio_script_en": "This study explores the benefits of using Xylitol for treating chronic rhinosinusitis. It compares the effectiveness of Xylitol against saline, allowing evaluation of the potential for new treatments. The results could influence how patients are assisted, with the potential adoption of Xylitol as a standard treatment. The importance of the study lies in presenting new ideas to enhance the management of this common condition, while further research is needed to fully understand the effects.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الدواء الذي تم تقييمه في الدراسة لعلاج التهاب الجيوب الأنفية المزمن؟",
+          "q_en": "What is the drug evaluated in the study for treating chronic rhinosinusitis?",
+          "options_ar": [
+            "أ) Xylitol",
+            "ب) Saline",
+            "ج) Corticosteroid",
+            "د) Ibuprofen"
+          ],
+          "options_en": [
+            "A) Xylitol",
+            "B) Saline",
+            "C) Corticosteroid",
+            "D) Ibuprofen"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة تركز على استخدام Xylitol كعلاج.",
+          "explanation_en": "The study focuses on the use of Xylitol as a treatment."
+        },
+        {
+          "q_ar": "ما هو التصميم الذي تستخدمه هذه الدراسة؟",
+          "q_en": "What study design does this research employ?",
+          "options_ar": [
+            "أ) RCT",
+            "ب) Prospective cohort",
+            "ج) Case series",
+            "د) Meta-analysis"
+          ],
+          "options_en": [
+            "A) RCT",
+            "B) Prospective cohort",
+            "C) Case series",
+            "D) Meta-analysis"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة تستخدم تصميم RCT لزيادة موثوقية النتائج.",
+          "explanation_en": "The study employs an RCT design to enhance the reliability of the results."
+        },
+        {
+          "q_ar": "ما هي الأهمية المحتملة لاستخدام Xylitol في العلاج؟",
+          "q_en": "What is the potential significance of using Xylitol in treatment?",
+          "options_ar": [
+            "أ) تحسين الأعراض",
+            "ب) زيادة الالتهابات",
+            "ج) عدم وجود أي تأثير",
+            "د) تفاقم الحالة"
+          ],
+          "options_en": [
+            "A) Improvement of symptoms",
+            "B) Increased inflammation",
+            "C) No effect",
+            "D) Worsening of condition"
+          ],
+          "answer": 0,
+          "explanation_ar": "التحسن في الأعراض هو الهدف الرئيسي من استخدام Xylitol.",
+          "explanation_en": "Improving symptoms is the primary aim of using Xylitol."
+        }
+      ]
+    },
+    {
+      "pmid": "42102398",
+      "title_ar": "Surgical implications of BRAF V600E-positive Rathke's cleft cysts: prediction of early recurrence based on reclassification to papillary craniopharyngioma.",
+      "title_en": "Surgical implications of BRAF V600E-positive Rathke's cleft cysts: prediction of early recurrence based on reclassification to papillary craniopharyngioma.",
+      "journal": "Journal of neurosurgery",
+      "pub_date": "2026-May-08",
+      "doi": "10.3171/2025.12.JNS251886",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42102398/",
+      "pdf_url": null,
+      "study_design": "Retrospective series n=69",
+      "summary_ar": "تعد Rathke's cleft cysts (RCCs) و craniopharyngiomas (CPs) آفات في منطقة السيلار. يظهر وجود squamous metaplasia (SM) في RCCs تداخلًا تاريخيًا مع PCPs. تم إجراء تحليل BRAF V600E و CTNNB1 لتفريق بين RCC و CP. شملت الدراسة 69 حالة من RCCs. تم العثور على تعبير BRAF V600E في 7 حالات، وتمت إعادة تصنيفها كـ PCPs. أظهرت التحليلات وجود فرق كبير في البقاء خاليًا من التقدم بين الحالات الإيجابية BRAF V600E والحالات البرية.",
+      "summary_en": "Rathke's cleft cysts (RCCs) and craniopharyngiomas (CPs) are lesions in the sellar region. The presence of squamous metaplasia (SM) within RCCs creates histological overlap with papillary CPs. BRAF V600E and CTNNB1 mutation analysis was conducted to distinguish between RCC and CP. The study included 69 RCC cases. BRAF V600E expression was found in 7 cases, which were reclassified as PCPs. Kaplan-Meier analysis showed a significant difference in progression-free survival between BRAF V600E-positive and wild-type cases.",
+      "practice_change_ar": "يوصى بإجراء اختبار BRAF V600E لجميع حالات RCC.",
+      "practice_change_en": "BRAF V600E testing is recommended for all RCC cases.",
+      "future_impact_ar": "يمكن أن يؤدي ذلك إلى تحسين المراقبة وعلاج المرضى الذين لديهم نتائج BRAF V600E إيجابية.",
+      "future_impact_en": "This may lead to improved monitoring and treatment of patients with positive BRAF V600E results.",
+      "why_important_ar": "تستعمل التحليل الجيني كأداة تشخيصية تميز بين RCC و CP.",
+      "why_important_en": "Genetic analysis is utilized as a diagnostic tool to differentiate RCC from CP.",
+      "vs_previous_ar": "تقدم هذه الدراسة دليلًا جديدًا لتشخيص حالات RCC التي قد تتحول إلى PCP.",
+      "vs_previous_en": "This study provides new evidence for diagnosing RCC cases that may transform into PCP.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استعادية قوية مع عينة كبيرة وتقديم معلومات جديدة في التشخيص.",
+      "stars_reason_en": "Strong retrospective study with a large sample providing new diagnostic information.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "هذه الدراسة ستؤثر على كيفية إدارة حالات RCC في الممارسة السريرية.",
+      "jc_reason_en": "This study will impact how RCC cases are managed in clinical practice.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة استخدام تحليل BRAF V600E في RCC بسبب أهميته في التشخيص.",
+      "watch_detail_en": "The use of BRAF V600E analysis in RCC should be monitored due to its significance in diagnosis.",
+      "watch_type": "technology",
+      "research_gap_ar": "هناك حاجة لمزيد من الدراسات لفهم العمليات البيولوجية المرتبطة بـ BRAF V600E.",
+      "research_gap_en": "Further studies are needed to understand the biological processes associated with BRAF V600E.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "تتناول هذه الدراسة جوانب مهمة من آثار BRAF V600E في Rathke's cleft cysts، حيث تقدم معلومات قيمة حول كيفية التمييز بين RCC و CP باستخدام التحليل الجيني. تم تحليل 69 حالة، ووجد أن اختبار BRAF V600E قدم معلومات جديدة يمكن أن تؤثر على كيفية إدارتنا للحالات. من خلال هذه المعلومات، يتمكن الأطباء من تحسين مراقبة المرضى وتقديم العلاج المناسب بناءً على النتائج. لذا، توصي الدراسة باختبار BRAF V600E لجميع حالات RCC وهو نقطة تحول مهمة في الممارسة الإكلينيكية.",
+      "audio_script_en": "This study addresses important aspects of the implications of BRAF V600E in Rathke's cleft cysts, providing valuable insights on how to distinguish between RCC and CP using genetic analysis. A total of 69 cases were analyzed, revealing that BRAF V600E testing provided new information that may impact how we manage these cases. With this knowledge, clinicians can enhance monitoring of patients and provide appropriate treatment based on the findings. Thus, the study recommends BRAF V600E testing for all RCC cases, marking a significant change in clinical practice.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف الرئيسي من الدراسة؟",
+          "q_en": "What is the main objective of the study?",
+          "options_ar": [
+            "أ) تحليل BRAF V600E",
+            "ب) دراسة تأثير stem cells",
+            "ج) التفريق بين RCC و CP",
+            "د) دراسة الأعراض السريرية"
+          ],
+          "options_en": [
+            "A) Analyze BRAF V600E",
+            "B) Study the effect of stem cells",
+            "C) Distinguish between RCC and CP",
+            "D) Study clinical symptoms"
+          ],
+          "answer": 2,
+          "explanation_ar": "الهدف من الدراسة هو التفريق بين RCC و CP باستخدام التحليل الجيني.",
+          "explanation_en": "The goal of the study is to distinguish between RCC and CP using genetic analysis."
+        },
+        {
+          "q_ar": "ما هي نتائج الدراسة الرئيسية بشأن BRAF V600E؟",
+          "q_en": "What is the main study finding regarding BRAF V600E?",
+          "options_ar": [
+            "أ) لا يوجد اختلاف في البقاء",
+            "ب) BRAF V600E موجود في 10% من الحالات",
+            "ج) BRAF V600E يؤثر على مدى البقاء",
+            "د) جميع الحالات كانت إيجابية"
+          ],
+          "options_en": [
+            "A) No difference in survival",
+            "B) BRAF V600E is present in 10% of cases",
+            "C) BRAF V600E affects survival rate",
+            "D) All cases were positive"
+          ],
+          "answer": 2,
+          "explanation_ar": "أظهرت الدراسة أن BRAF V600E له تأثير كبير على البقاء خاليًا من التقدم.",
+          "explanation_en": "The study showed that BRAF V600E has a significant effect on progression-free survival."
+        },
+        {
+          "q_ar": "ما الذي توصي به الدراسة لكافة حالات RCC؟",
+          "q_en": "What does the study recommend for all RCC cases?",
+          "options_ar": [
+            "أ) عدم اختبار BRAF V600E",
+            "ب) اختبار BRAF V600E",
+            "ج) فقط مراقبة الحالات",
+            "د) إجراء جراحة فورية"
+          ],
+          "options_en": [
+            "A) Do not test for BRAF V600E",
+            "B) Test for BRAF V600E",
+            "C) Only monitor cases",
+            "D) Perform immediate surgery"
+          ],
+          "answer": 1,
+          "explanation_ar": "توصي الدراسة بإجراء اختبار BRAF V600E لكل حالات RCC.",
+          "explanation_en": "The study recommends testing for BRAF V600E for all RCC cases."
+        }
+      ]
+    },
+    {
+      "pmid": "41819426",
+      "title_ar": "Dual-action nasal spray with mussel protein and xylitol restores epithelial barrier and attenuates type 2 inflammation in allergic rhinitis.",
+      "title_en": "Dual-action nasal spray with mussel protein and xylitol restores epithelial barrier and attenuates type 2 inflammation in allergic rhinitis.",
+      "journal": "Journal of controlled release : official journal of the Controlled Release Society",
+      "pub_date": "2026-May-10",
+      "doi": "10.1016/j.jconrel.2026.114809",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41819426/",
+      "pdf_url": "https://doi.org/10.1016/j.jconrel.2026.114809",
+      "study_design": "Animal model study",
+      "summary_ar": "تم تطوير رذاذ أنفي جديد يُدعى Mefp، يجمع بين البروتين اللاصق من المحار وxylitol، لاستهداف إصلاح الحاجز الظهاري ومسارات الالتهاب في التهاب الأنف التحسسي. أظهر Mefp خصائص لاصقة قوية واحتفاظًا في الأنف يدوم حتى 24 ساعة. في تجارب in vitro، استعاد Mefp بروتينات الوصل الضيق وقام بقمع تنشيط NF-κB وتقليل الإجهاد التأكسدي. في نموذج التهاب الأنف التحسسي لدى الفئران، خفف Mefp الأعراض التحسسية وقلل من تسلل الحمضات. كان Mefp فعالاً بشكل مشابه أو متفوق على mometasone furoate مع الحفاظ على سلامة الظهارة.",
+      "summary_en": "A novel dual-action nasal spray, termed Mefp, was developed by combining mussel adhesive protein and xylitol to target epithelial barrier repair and inflammatory pathways in allergic rhinitis. Mefp demonstrated strong mucoadhesive properties with nasal retention lasting up to 24 hours. In vitro studies restored tight junction proteins and suppressed NF-κB activation. In a murine allergic rhinitis model, Mefp alleviated allergic symptoms and reduced eosinophil infiltration. Mefp was comparable or superior to mometasone furoate in efficacy while maintaining epithelial integrity.",
+      "practice_change_ar": "يمكن للأطباء استخدام Mefp كعلاج فعال وآمن لالتهاب الأنف التحسسي.",
+      "practice_change_en": "Clinicians can use Mefp as an effective and safe treatment for allergic rhinitis.",
+      "future_impact_ar": "قد تؤدي نتائج هذه الدراسة إلى تطوير علاجات جديدة لتحسين إدارة التهاب الأنف التحسسي.",
+      "future_impact_en": "The findings may lead to new therapeutic options to improve the management of allergic rhinitis.",
+      "why_important_ar": "هذا المقال يقدم علاجًا جديدًا وواعدًا يمكن أن يحدث تغييرًا في إدارة التهاب الأنف التحسسي.",
+      "why_important_en": "This article presents a promising new treatment that could change the management of allergic rhinitis.",
+      "vs_previous_ar": "يمثل Mefp تقدمًا في فعالية العلاج مقارنة بالعلاجات التقليدية الحالية.",
+      "vs_previous_en": "Mefp represents an advancement in treatment efficacy compared to current traditional therapies.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة تعتمد على نموذج حيواني وتقدم علاجًا جديدًا لعلاج التهاب الأنف التحسسي.",
+      "stars_reason_en": "The study is based on an animal model and presents a new treatment approach for allergic rhinitis.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The article discusses the development of a new treatment for allergic rhinitis.",
+      "watch": true,
+      "watch_detail_ar": "تابع استخدام Mefp كعلاج مبتكر لالتهاب الأنف التحسسي.",
+      "watch_detail_en": "Watch for the use of Mefp as an innovative treatment for allergic rhinitis.",
+      "watch_type": "drug",
+      "research_gap_ar": "هناك حاجة لدراسات سريرية إضافية لتأكيد فعالية Mefp في البشر.",
+      "research_gap_en": "Further clinical studies are needed to confirm the efficacy of Mefp in humans.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "في هذه الدراسة، تم تطوير رذاذ أنفي جديد يُدعى Mefp يجمع بين البروتين اللاصق من المحار وxylitol. أظهر Mefp خصائص لاصقة قوية واحتفاظًا في الأنف، مما يعزز مما يعزز فعاليته في العلاج. في تجارب in vitro، استعاد Mefp بروتينات الوصل الضيق، مما يقلل من الإجهاد التأكسدي ويقمع الالتهاب. في نموذج التهاب الأنف التحسسي لدى الفئران، خفف Mefp الأعراض ودعم سلامة الظهارة، مما يجعله علاجًا واعدًا. يمكن استخدام Mefp كعلاج آمن وفعال لالتهاب الأنف التحسسي، وقد تغير هذه النتائج كيفية إدارة هذا المرض في المستقبل.",
+      "audio_script_en": "In this study, a novel nasal spray called Mefp was developed by combining mussel adhesive protein and xylitol. Mefp demonstrated strong mucoadhesive properties and nasal retention, enhancing its treatment efficacy. In vitro experiments restored tight junction proteins, reducing oxidative stress and suppressing inflammation. In a murine allergic rhinitis model, Mefp alleviated symptoms and supported epithelial integrity, making it a promising treatment. Mefp can be used as a safe and effective treatment for allergic rhinitis, and these findings may change how this condition is managed in the future.",
+      "mcq": [
+        {
+          "q_ar": "ما هو المكون الرئيسي لرذاذ الأنف الجديد Mefp؟",
+          "q_en": "What is the main component of the new nasal spray Mefp?",
+          "options_ar": [
+            "أ) البروتين اللاصق من المحار",
+            "ب) xylitol",
+            "ج) كلاهما",
+            "د) مادة كيميائية أخرى"
+          ],
+          "options_en": [
+            "A) mussel adhesive protein",
+            "B) xylitol",
+            "C) both",
+            "D) another chemical"
+          ],
+          "answer": 2,
+          "explanation_ar": "Mefp يجمع بين البروتين اللاصق من المحار وxylitol.",
+          "explanation_en": "Mefp combines mussel adhesive protein and xylitol."
+        },
+        {
+          "q_ar": "ما التأثير الذي أظهره Mefp في نموذج التهاب الأنف التحسسي؟",
+          "q_en": "What effect did Mefp show in the allergic rhinitis model?",
+          "options_ar": [
+            "أ) زيادة الأعراض",
+            "ب) تخفيف الأعراض",
+            "ج) لا تأثير",
+            "د) تأثير ضار"
+          ],
+          "options_en": [
+            "A) increased symptoms",
+            "B) alleviated symptoms",
+            "C) no effect",
+            "D) harmful effect"
+          ],
+          "answer": 1,
+          "explanation_ar": "Mefp خفف الأعراض في نموذج التهاب الأنف التحسسي.",
+          "explanation_en": "Mefp alleviated symptoms in the allergic rhinitis model."
+        },
+        {
+          "q_ar": "ما هي فوائد Mefp مقارنة بالعلاجات الأخرى؟",
+          "q_en": "What are the benefits of Mefp compared to other treatments?",
+          "options_ar": [
+            "أ) فعالية أكبر",
+            "ب) أمان أفضل",
+            "ج) كلاهما",
+            "د) لا شيء"
+          ],
+          "options_en": [
+            "A) greater efficacy",
+            "B) better safety",
+            "C) both",
+            "D) none"
+          ],
+          "answer": 2,
+          "explanation_ar": "Mefp أظهر فعالية وأمان أفضل مقارنة بالعلاجات التقليدية.",
+          "explanation_en": "Mefp showed better efficacy and safety compared to traditional therapies."
+        }
+      ]
+    },
+    {
+      "pmid": "41720413",
+      "title_ar": "Therapeutic potential of Cuscutae Semen and Rehmanniae Radix Preparata in age-related central hearing loss associated with Gad1 regulation.",
+      "title_en": "Therapeutic potential of Cuscutae Semen and Rehmanniae Radix Preparata in age-related central hearing loss associated with Gad1 regulation.",
+      "journal": "Journal of ethnopharmacology",
+      "pub_date": "2026-May-10",
+      "doi": "10.1016/j.jep.2026.121400",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41720413/",
+      "pdf_url": null,
+      "study_design": "In vivo experiment in mice and in vitro study",
+      "summary_ar": "تشير هذه الدراسة إلى التأثيرات الحامية لمستخلص Cuscutae Semen وRehmanniae Radix Preparata في فقدان السمع المرتبط بالعمر. تم إجراء تجارب على الفئران التي تقدمت في السن وتم تقييم الوظيفة السمعية عبر استجابة جذع الدماغ السمعي. أوضحت النتائج أن العلاج restores levels of GABA ومؤشرات GABAergic الأخرى، مما أدى إلى تحسين الاستجابة السمعية. يقدم هذا البحث دليلاً على استعمال المواد الأثنية في معالجة اضطرابات السمع المرتبطة بتقدم السن.",
+      "summary_en": "This study highlights the protective effects of Cuscutae Semen and Rehmanniae Radix Preparata extract in age-related hearing loss. Experiments were conducted on aged mice and auditory function was assessed via auditory brainstem response. The results indicated that the treatment restored GABA levels and other GABAergic markers, resulting in improved auditory responses. This research provides evidence for the ethnopharmacological use of these substances in treating age-related auditory disorders.",
+      "practice_change_ar": "يمكن للأطباء الآن التفكير في استخدام Cuscutae Semen وRehmanniae Radix Preparata لعلاج مشاكل السمع المرتبطة بالتقدم في السن.",
+      "practice_change_en": "Clinicians may now consider using Cuscutae Semen and Rehmanniae Radix Preparata for treating age-related hearing issues.",
+      "future_impact_ar": "تفتح نتائج البحث أبواباً جديدة للبحث عن علاجات طبيعية لفقدان السمع المرتبط بالعمر.",
+      "future_impact_en": "The findings may pave the way for new natural treatments for age-related hearing loss.",
+      "why_important_ar": "تسلط هذه المقالة الضوء على أدوية تقليدية قد تكون فعالة في معالجة فقدان السمع المرتبط بالعمر.",
+      "why_important_en": "This article highlights traditional medicines that may be effective in treating age-related hearing loss.",
+      "vs_previous_ar": "تشير هذه الدراسة إلى فعالية جديدة لمكونات طبيعية في التخفيف من فقدان السمع المرتبط بالعمر.",
+      "vs_previous_en": "This study indicates a new efficacy of natural components in alleviating age-related hearing loss.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة مبنية على تجارب حيوية ومزايا جديدة، بالتالي تستحق 4 نجوم.",
+      "stars_reason_en": "The article is based on in vivo experiments and presents new advantages, thus deserving 4 stars.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The research provides new evidence on traditional treatments that could change clinical practices.",
+      "watch": true,
+      "watch_detail_ar": "من المهم متابعة التطورات في استخدام Cuscutae Semen وRehmanniae Radix Preparata كعلاج طبيعي لفقدان السمع.",
+      "watch_detail_en": "It's important to monitor developments in the use of Cuscutae Semen and Rehmanniae Radix Preparata as a natural treatment for hearing loss.",
+      "watch_type": "drug",
+      "research_gap_ar": "هناك حاجة لمزيد من الدراسات لفهم الآليات الكامنة وراء فعالية هذه المواد.",
+      "research_gap_en": "There is a need for more studies to understand the underlying mechanisms of these substances' effectiveness.",
+      "subspecialty": "otology",
+      "audio_script_ar": "تتناول هذه المقالة التأثيرات الحامية لمستخلصات Cuscutae Semen وRehmanniae Radix Preparata في معالجة فقدان السمع المرتبط بتقدم العمر. أشارت نتائج التجارب التي أجريت على الفئران إلى استعادة مستويات الناقلات العصبية، مما أدى إلى تحسين الوظيفة السمعية. تشير النتائج أيضاً إلى الاستخدام التقليدي لهذه المستخلصات في الطب الكلاسيكي، مما يفتح مجال لتطبيقات مستقبلية. ينبغي للأطباء أن يضعوا في اعتبارهم هذه العلاجات الطبيعية عندما يكونون أمام مشاكل السمع عند كبار السن.",
+      "audio_script_en": "This article discusses the protective effects of extracts from Cuscutae Semen and Rehmanniae Radix Preparata in addressing age-related hearing loss. The results from experiments conducted on mice indicated restoration of neurotransmitter levels, leading to improved auditory function. The findings also reflect traditional uses of these extracts in classical medicine, opening possibilities for future applications. Clinicians should consider these natural treatments when faced with hearing issues in the elderly.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف الرئيسي من الدراسة؟",
+          "q_en": "What is the main aim of the study?",
+          "options_ar": [
+            "أ) تقييم التأثيرات الحامية لـ Cuscutae Semen",
+            "ب) دراسة نجاح الجراحة السمعية",
+            "ج) تحسين النقل السمعي",
+            "د) تحديد أنواع جديدة من الأدوية"
+          ],
+          "options_en": [
+            "A) Evaluate the protective effects of Cuscutae Semen",
+            "B) Study the success of surgical interventions",
+            "C) Improve auditory transmission",
+            "D) Identify new types of drugs"
+          ],
+          "answer": 0,
+          "explanation_ar": "هدف الدراسة هو تقييم التأثيرات الحامية لمستخلصات Cuscutae Semen.",
+          "explanation_en": "The aim of the study is to evaluate the protective effects of Cuscutae Semen extracts."
+        },
+        {
+          "q_ar": "ما هي آثار العلاج على الناقلات العصبية؟",
+          "q_en": "What were the effects of the treatment on neurotransmitters?",
+          "options_ar": [
+            "أ) استعادة مستويات GABA",
+            "ب) تقليل مستويات GABA",
+            "ج) زيادة مستوى الغلوتامات",
+            "د) لا تأثير"
+          ],
+          "options_en": [
+            "A) Restoration of GABA levels",
+            "B) Reduction of GABA levels",
+            "C) Increase in glutamate levels",
+            "D) No effect"
+          ],
+          "answer": 0,
+          "explanation_ar": "العلاج أدى إلى استعادة مستويات GABA وبقية المؤشرات.",
+          "explanation_en": "The treatment led to the restoration of GABA levels and other markers."
+        },
+        {
+          "q_ar": "ما هو نوع الدراسة المجراة؟",
+          "q_en": "What type of study was conducted?",
+          "options_ar": [
+            "أ) تجربة سريرية عشوائية",
+            "ب) دراسة حيوانية وخلية",
+            "ج) مراجعة منهجية",
+            "د) حالتين"
+          ],
+          "options_en": [
+            "A) Randomized clinical trial",
+            "B) Animal and cell study",
+            "C) Systematic review",
+            "D) Case report"
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسة تضمنت تجارب حيوانية وتجارب على خلايا سمعية.",
+          "explanation_en": "The study involved animal experiments and auditory cell experiments."
+        }
+      ]
+    },
+    {
+      "pmid": "42103964",
+      "title_ar": "Microsurgical reconstruction in midface defects based on defect morphology and size - Reconstruction techniques, complications, and outcomes.",
+      "title_en": "Microsurgical reconstruction in midface defects based on defect morphology and size - Reconstruction techniques, complications, and outcomes.",
+      "journal": "Oral and maxillofacial surgery",
+      "pub_date": "2026-May-09",
+      "doi": "10.1007/s10006-026-01566-0",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42103964/",
+      "pdf_url": "https://doi.org/10.1007/s10006-026-01566-0",
+      "study_design": "Retrospective series n=98",
+      "summary_ar": "تهدف هذه الدراسة إلى تحليل النتائج السريرية لإعادة البناء الميكروأوعية التي تم إجراؤها لعلاج عيوب منتصف الوجه الناتجة عن الأورام. شملت الدراسة 98 مريضًا خضعوا لإعادة البناء بين أبريل 2017 وأغسطس 2022. تم استخدام تقنيات نقل الأنسجة العظمية واللينة وفقًا لحجم العيب. لوحظت مضاعفات ما بعد الجراحة في 57 حالة. بالرغم من أن معدل المضاعفات كان مرتفعًا، إلا أن معظمها كان مسائل بسيطة، مما يجعل تقنية الدفع الحر خيارًا موثوقًا للمرضى. تم إجراء تأهيل أسنان باستخدام زراعة الأسنان في 18.2 ٪ من المرضى الذين خضعوا لإعادة بناء العظام.",
+      "summary_en": "This study aimed to analyze clinical outcomes of microvascular reconstructions performed for malignancy-caused midface defects. The retrospective analysis included 98 patients who underwent reconstruction between April 2017 and August 2022. Both bony and soft tissue flap techniques were utilized depending on the defect size. Postoperative complications occurred in 57 cases. Although the complication rate was high, most were minor issues, making free flap techniques a reliable option for patients. Dental rehabilitation using implants was performed in 18.2% of patients receiving bony reconstruction.",
+      "practice_change_ar": "يمكن استخدام زراعة الأسنان كبديل موثوق لإعادة بناء العظام في حالات معينة.",
+      "practice_change_en": "Dental implants can be used as a reliable alternative to bony reconstruction in certain cases.",
+      "future_impact_ar": "يمكن أن تؤثر النتائج على طرق إعادة البناء المستقبلية للعلاج.",
+      "future_impact_en": "The findings may influence future reconstructive approaches in treatment.",
+      "why_important_ar": "تظهر الدراسة موثوقية تقنيات النقل الحر في معالجة العيوب المعقدة.",
+      "why_important_en": "The study demonstrates the reliability of free flap techniques in addressing complex defects.",
+      "vs_previous_ar": "توفر الدراسة معلومات جديدة حول معدل المضاعفات مقارنة بالمعرفة السابقة.",
+      "vs_previous_en": "The study provides new information on complication rates compared to prior knowledge.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استرجاعية n=98 مما يمنحها تقييم جيد.",
+      "stars_reason_en": "Retrospective study n=98 gives it a good rating.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Because it provides important new data on microvascular reconstruction.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة تقنيات النقل الحر وتأثيرها على إعادة بناء العيوب.",
+      "watch_detail_en": "Watch for the impact of free flap techniques on defect reconstruction.",
+      "watch_type": "technology",
+      "research_gap_ar": "تحتاج الدراسات المستقبلية إلى التركيز على استراتيجيات تأهيل الأسنان بعد إعادة البناء.",
+      "research_gap_en": "Future studies should focus on dental rehabilitation strategies post-reconstruction.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "تتناول هذه الدراسة تحليل النتائج السريرية لإعادة البناء الميكروأوعية لعلاج عيوب منتصف الوجه. شملت الدراسة 98 مريضًا غيروا بين الأعمار وفقًا لاستخدام تقنيات مختلفة. تم تسجيل مضاعفات ما بعد الجراحة، حيث لوحظت في 57 حالة. وبالرغم من أن معدل المضاعفات كان مرتفعًا، اتضح أن تقنيات النقل الحر تظل خياراً موثوقًا. تم إجراء تأهيل الأسنان في 18.2٪ من المرضى الذين خضعوا لإعادة بناء العظام. توضح النتائج أن إعادة بناء العيوب من خلال هذه التقنيات تعتبر موثوقة.",
+      "audio_script_en": "This study addresses the analysis of clinical outcomes of microvascular reconstruction for midface defects. It included 98 patients across various ages utilizing different techniques. Postoperative complications were noted in 57 cases. Although the complication rate was high, free flap techniques appeared to remain a reliable option. Dental rehabilitation was performed in 18.2% of patients undergoing bony reconstruction. The findings illustrate that defect reconstruction through these techniques is considered reliable.",
+      "mcq": [
+        {
+          "q_ar": "ما هو نوع الدراسة التي تم إجراؤها؟",
+          "q_en": "What type of study was conducted?",
+          "options_ar": [
+            "أ) دراسة عشوائية",
+            "ب) سلسلة حالة استرجاعية",
+            "ج) دراسة مستقبلية",
+            "د) تقرير حالة"
+          ],
+          "options_en": [
+            "A) Randomized study",
+            "B) Retrospective case series",
+            "C) Prospective study",
+            "D) Case report"
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسة استرجاعية تضم 98 مريضًا.",
+          "explanation_en": "The study is retrospective including 98 patients."
+        },
+        {
+          "q_ar": "ما معدل مضاعفات ما بعد الجراحة الذي تم ملاحظته؟",
+          "q_en": "What was the postoperative complication rate observed?",
+          "options_ar": [
+            "أ) 58.2٪",
+            "ب) 25.7٪",
+            "ج) 16.3٪",
+            "د) 4.0٪"
+          ],
+          "options_en": [
+            "A) 58.2%",
+            "B) 25.7%",
+            "C) 16.3%",
+            "D) 4.0%"
+          ],
+          "answer": 0,
+          "explanation_ar": "تمت ملاحظة مضاعفات ما بعد الجراحة في 58.2٪ من الحالات.",
+          "explanation_en": "Postoperative complications were observed in 58.2% of cases."
+        },
+        {
+          "q_ar": "ما هي النسبة المئوية للمرضى الذين خضعوا لتأهيل الأسنان؟",
+          "q_en": "What percentage of patients underwent dental rehabilitation?",
+          "options_ar": [
+            "أ) 18.2٪",
+            "ب) 71.4٪",
+            "ج) 42.2٪",
+            "د) 9.2٪"
+          ],
+          "options_en": [
+            "A) 18.2%",
+            "B) 71.4%",
+            "C) 42.2%",
+            "D) 9.2%"
+          ],
+          "answer": 0,
+          "explanation_ar": "تم إجراء تأهيل الأسنان في 18.2٪ من المرضى الذين خضعوا لإعادة بناء العظام.",
+          "explanation_en": "Dental rehabilitation was performed in 18.2% of patients undergoing bony reconstruction."
+        }
+      ]
+    },
+    {
+      "pmid": "41720415",
+      "title_ar": "Zuoguiyin modulates M2 macrophage polarization to inhibit glycolysis in esophageal squamous cell carcinoma.",
+      "title_en": "Zuoguiyin modulates M2 macrophage polarization to inhibit glycolysis in esophageal squamous cell carcinoma.",
+      "journal": "Journal of ethnopharmacology",
+      "pub_date": "2026-May-10",
+      "doi": "10.1016/j.jep.2026.121404",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41720415/",
+      "pdf_url": "https://doi.org/10.1016/j.jep.2026.121404",
+      "study_design": "In vivo study with mouse model and co-culture system",
+      "summary_ar": "تهدف هذه الدراسة إلى استكشاف ما إذا كان Zuoguiyin (ZGY) يثبط سرطان الخلايا الحرشفية المريئية (ESCC) من خلال تعطيل التفاعلات المواتية للأورام بين ماكروفاجات M2 والخلايا السرطانية. استخدم الباحثون نموذج فأر للكشف عن الآليات الأساسية ونتائج تحليل البروتينات. تظهر النتائج أن ZGY يمنع استقطاب M2 عن طريق حجب فسفرة JAK2 / STAT6، مما يؤدي إلى تقليل نمو الورم. تم التعرف على مكونات نشطة مثل Isoferulic acid وnorharman كمثبطات لجزيء JAK2.",
+      "summary_en": "This study aimed to explore whether Zuoguiyin (ZGY) suppresses esophageal squamous cell carcinoma (ESCC) by disrupting pro-tumorigenic interactions between M2 macrophages and cancer cells. An in vivo mouse model and a co-culture system were utilized to investigate underlying mechanisms. Results indicate that ZGY effectively inhibits M2 polarization by blocking JAK2/STAT6 phosphorylation, leading to decreased tumor growth. Active components such as Isoferulic acid and norharman were identified as inhibitors of the JAK2 molecule.",
+      "practice_change_ar": "يمكن أن يُستخدم Zuoguiyin كعلاج مستقبلي لتعديل البيئة الميكروية للورم في سرطان الخلايا الحرشفية المريئية.",
+      "practice_change_en": "Zuoguiyin may be used as a future treatment to modify the tumor microenvironment in esophageal squamous cell carcinoma.",
+      "future_impact_ar": "تفتح هذه النتائج أبواب البحث لتطوير علاجات جديدة تستهدف ماكروفاجات M2 في السرطان.",
+      "future_impact_en": "These findings pave the way for developing new therapies targeting M2 macrophages in cancer.",
+      "why_important_ar": "تعتبر هذه الدراسة مهمة لأنها توضح كيف تؤثر ماكروفاجات M2 على التمثيل الغذائي للسرطان وتوفر آلية جديدة للعلاج.",
+      "why_important_en": "This study is important as it elucidates how M2 macrophages affect cancer metabolism and provides a novel mechanism for targeted therapy.",
+      "vs_previous_ar": "تختلف هذه النتائج عن المعرفة السابقة من خلال تقديم آلية جديدة لاستهداف ماكروفاجات M2.",
+      "vs_previous_en": "These findings differ from previous knowledge by presenting a novel mechanism to target M2 macrophages.",
+      "stars": 4,
+      "stars_reason_ar": "تصميم الدراسة يعتمد على نموذج حيواني ونظام زراعة الخلايا مع نتائج واضحة تستحق التقدير.",
+      "stars_reason_en": "The study design is based on an animal model and a co-culture system with clear results that warrant praise.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study presents a new concept that could impact treatment strategies in cancer.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة Zuoguiyin كعلاج محتمل لتعديل البيئة الميكروية للأورام.",
+      "watch_detail_en": "Zuoguiyin should be monitored as a potential treatment for modifying the tumor microenvironment.",
+      "watch_type": "drug",
+      "research_gap_ar": "تظهر الحاجة إلى مزيد من الأبحاث حول دور ماكروفاجات M2 في سرطان المريء.",
+      "research_gap_en": "There is a need for further research on the role of M2 macrophages in esophageal cancer.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "تشير هذه الدراسة إلى أن ZGY يستخدم كعلاج لتعطيل تفاعلات ماكروفاجات M2 مع خلايا سرطان المريء. يُظهر البحث أن IL-4 يعزز استقطاب M2 مما يعزز أيض السكريات في الخلايا السرطانية. لكن ZGY يثبط هذا التأثير بتعطيل مسار JAK2/STAT6. يجب علينا متابعة ZGY كعلاج محتمل في سرطان الخلايا الحرشفية المريئية.",
+      "audio_script_en": "This study indicates that ZGY is used to disrupt M2 macrophage interactions with esophageal cancer cells. Research shows that IL-4 promotes M2 polarization, enhancing glycolytic metabolism in cancer cells. However, ZGY inhibits this effect by disrupting the JAK2/STAT6 pathway. We should monitor ZGY as a potential treatment in esophageal squamous cell carcinoma.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف الرئيسي من دراسة ZGY في سرطان الخلايا الحرشفية المريئية؟",
+          "q_en": "What is the main aim of the ZGY study in esophageal squamous cell carcinoma?",
+          "options_ar": [
+            "أ) تعزيز نمو الورم",
+            "ب) تثبيط استقطاب ماكروفاجات M2",
+            "ج) زيادة تكوين M1",
+            "د) تعزيز التمثيل الغذائي"
+          ],
+          "options_en": [
+            "A) Enhance tumor growth",
+            "B) Inhibit M2 macrophage polarization",
+            "C) Increase M1 formation",
+            "D) Enhance metabolism"
+          ],
+          "answer": 1,
+          "explanation_ar": "الهدف الرئيسي كان تثبيط استقطاب ماكروفاجات M2 في سرطان الخلايا الحرشفية المريئية.",
+          "explanation_en": "The main aim was to inhibit M2 macrophage polarization in esophageal squamous cell carcinoma."
+        },
+        {
+          "q_ar": "ما هي الطريقة التي استخدمها الباحثون للتحقق من التأثيرات؟",
+          "q_en": "What method did the researchers use to verify the effects?",
+          "options_ar": [
+            "أ) RCT",
+            "ب) نموذج الفأر",
+            "ج) دراسة حالة",
+            "د) دراسة وصفية"
+          ],
+          "options_en": [
+            "A) RCT",
+            "B) Mouse model",
+            "C) Case study",
+            "D) Descriptive study"
+          ],
+          "answer": 1,
+          "explanation_ar": "استخدم الباحثون نموذج الفأر للتحقق من التأثيرات.",
+          "explanation_en": "The researchers used a mouse model to verify the effects."
+        },
+        {
+          "q_ar": "ما هي المكونات الفعالة المعروفة في ZGY؟",
+          "q_en": "What are the known active components in ZGY?",
+          "options_ar": [
+            "أ) Isoferulic acid",
+            "ب) Aspirin",
+            "ج) Paracetamol",
+            "د) Ibuprofen"
+          ],
+          "options_en": [
+            "A) Isoferulic acid",
+            "B) Aspirin",
+            "C) Paracetamol",
+            "D) Ibuprofen"
+          ],
+          "answer": 0,
+          "explanation_ar": "Isoferulic acid هو مكون نشط معروف في ZGY.",
+          "explanation_en": "Isoferulic acid is a known active component in ZGY."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026051001",
+      "title_ar": "حجم سوق التنظير الأنفي ، الحصة ، النمو | معدل نمو سنوي مركب قدره 6.4%",
+      "title_en": "ENT Endoscopy Market Size, Share, Growth | CAGR of 6.4%",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-05-10",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "سوق التنظير الأنفي يشهد نموًا ملحوظًا، مع توقع معدل نمو سنوي مركب يبلغ 6.4%. يشير هذا الارتفاع إلى زيادة الطلب على الإجراءات التنظيرية والتقدم في التكنولوجيا. يعتمد توسع السوق على عوامل مثل انتشار اضطرابات الأنف والأذن والحنجرة والوعي المتزايد بين المرضى بشأن خيارات العلاج. من المتوقع أن يستفيد أصحاب المصلحة في الصناعة من هذه الاتجاهات لتعزيز تقديم الخدمات والابتكار.",
+      "summary_en": "The ENT endoscopy market is experiencing significant growth, projecting a compound annual growth rate (CAGR) of 6.4%. This increase indicates a rising demand for endoscopic procedures and advancements in technology. The market's expansion is driven by factors such as the prevalence of ENT disorders and the increasing awareness among patients regarding treatment options. Industry stakeholders are expected to capitalize on these trends to enhance service delivery and innovation.",
+      "practice_change_ar": "يزيد هذا النمو في سوق التنظير الأنفي من أهمية متابعة التقنيات والإجراءات الناشئة.",
+      "practice_change_en": "This growth in the ENT endoscopy market highlights the importance of staying updated with emerging technologies and procedures.",
+      "future_impact_ar": "قد يؤدي هذا الاتجاه إلى زيادة الاستثمار في تكنولوجيا الأنف والأذن والحنجرة والتدريب للجراحين، مما يعزز الابتكار في هذا المجال.",
+      "future_impact_en": "This trend may lead to increased investment in ENT technologies and training for surgeons, fostering innovation in the field.",
+      "why_important_ar": "يشير هذا النمو إلى تحول نحو الأساليب الأقل تدخلًا في الطب الأنفي والأذن والحنجرة، مما يعزز من تعافي المرضى ونتائج العلاج.",
+      "why_important_en": "The growth signifies a shift towards minimally invasive approaches in ENT, enhancing patient recovery and outcomes.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "النمو في السوق يدل على فرص جديدة وتحسينات محتملة في العناية بالمرضى.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "شهد سوق التنظير الأنفي نموًا ملحوظًا حيث من المتوقع أن يصل معدل النمو السنوي المركب إلى 6.4%. يعود هذا النمو إلى زيادة الطلب على الإجراءات التنظيرية وارتفاع الوعي في صفوف المرضى. من المهم للممارسين في مجال الأنف والأذن والحنجرة متابعة هذه التطورات لضمان تقديم أفضل رعاية ممكنة للمرضى.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026051002",
+      "title_ar": "سوق الأجهزة السمعية والأنفية الحنجرية يتجاوز 37580 مليون دولار بحلول عام 2032 بدافع من الإجراءات الطبية الأقل توغلاً والتقدم التكنولوجي",
+      "title_en": "ENT Devices Market Set to Surpass USD 37580 Million by 2032 Driven by Minimally Invasive Procedures and Technological Advancements",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-05-10",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "من المتوقع أن يتجاوز سوق الأجهزة السمعية والأنفية الحنجرية 37580 مليون دولار بحلول عام 2032، مدفوعًا بزيادة الإجراءات الطبية الأقل توغلاً والتقدمات التكنولوجية. مع اعتماد المزيد من ممارسات الأنف والأذن والحنجرة لهذه التقنيات الجديدة، من المرجح أن تزداد الطلب على الأجهزة المبتكرة. قد يؤدي هذا التوجه إلى تحسين نتائج المرضى وزيادة الكفاءة في العلاج. المستفيدون في الصناعة مستعدون للاستفادة من اتجاه النمو هذا أثناء تطوره.",
+      "summary_en": "The ENT devices market is projected to exceed USD 37,580 million by 2032, fueled by the rise in minimally invasive procedures and advancements in technology. As more ENT practices adopt these new technologies, the demand for innovative devices will likely increase. This shift may lead to improved patient outcomes and greater efficiency in treatment. Industry stakeholders are poised to capitalize on this growth trend as it unfolds.",
+      "practice_change_ar": "تشير هذه الزيادة في السوق إلى تحول نحو دمج التقنيات المتقدمة في ممارسات الأنف والأذن والحنجرة، مما يؤثر على منهجيات العلاج.",
+      "practice_change_en": "This market growth indicates a shift towards integrating advanced technologies in ENT practices, impacting treatment methodologies.",
+      "future_impact_ar": "من المتوقع أن يعزز النمو المستمر في سوق الأجهزة السمعية والأنفية الحنجرية خيارات الإجراءات ويحسن معايير الرعاية للمرضى.",
+      "future_impact_en": "The continued growth of the ENT devices market is expected to enhance procedural options and improve patient care standards.",
+      "why_important_ar": "فهم هذا الاتجاه في السوق أمر حيوي لجراحي الأنف والأذن والحنجرة لتوقع التغيرات في توفر الأجهزة وخيارات العلاج.",
+      "why_important_en": "Understanding this market trajectory is crucial for ENT surgeons to anticipate changes in device availability and treatment options.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "يعكس النمو المحتمل في السوق فرصة كبيرة لزيادة الاعتماد على التكنولوجيا المتقدمة في ممارسات الأنف والأذن والحنجرة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "يشير تقرير حديث إلى أن سوق الأجهزة السمعية والأنفية الحنجرية سيبلغ حجمه أكثر من 37580 مليون دولار بحلول عام 2032. يُعزى هذا الارتفاع إلى زيادة استخدام الإجراءات الطبية الأقل توغلاً والتقدم التكنولوجي السريع. إن هذا النمو المتزايد سيتمكن أطباء الأنف والأذن والحنجرة من استخدام تقنيات جديدة تعزز من كفاءة العلاجات وتساهم في تحسين نتائج المرضى. يُعد متابعة هذا الاتجاه مهمًا لتمكين الجراحين من مواءمة ممارساتهم مع التطورات الحديثة في السوق.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026051003",
+      "title_ar": "حجم سوق أجهزة الأنف والأذن والحنجرة في الولايات المتحدة، تقرير الصناعة، 2030",
+      "title_en": "U.S. ENT Devices Market Size, Share | Industry Report, 2030",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-05-10",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "وفقًا لأحدث تقرير من Grand View Research، من المتوقع أن ينمو سوق أجهزة الأنف والأذن والحنجرة في الولايات المتحدة بشكل كبير بحلول عام 2030. تشمل العوامل التي تدفع هذا النمو زيادة انتشار اضطرابات الأنف والأذن والحنجرة، والتقدم التكنولوجي، وارتفاع عدد السكان المسنين. كما يبرز التقرير الفرص الاستثمارية الناشئة للقطاع. هذه المعلومات حيوية لأصحاب المصلحة الذين يسعون لفهم ديناميكيات السوق في قطاع الأنف والأذن والحنجرة.",
+      "summary_en": "According to the latest report by Grand View Research, the U.S. ENT devices market is expected to expand significantly by 2030. Factors driving this growth include increasing prevalence of ENT disorders, advancements in technology, and rising geriatric population. The report also highlights emerging investment opportunities for the industry. This information is critical for stakeholders looking to understand the market dynamics in the ENT sector.",
+      "practice_change_ar": "يسلط هذا التقرير الضوء على النمو المحتمل في سوق أجهزة الأنف والأذن والحنجرة، مما يدفع الجراحين للبقاء على اطلاع بأحدث التقنيات والعلاجات.",
+      "practice_change_en": "This report underscores the potential growth in the ENT device market, prompting surgeons to stay informed on new technologies and treatments.",
+      "future_impact_ar": "النمو المتوقع في سوق أجهزة الأنف والأذن والحنجرة قد يؤدي إلى المزيد من الحلول المبتكرة، مما يعود بالنفع على رعاية المرضى.",
+      "future_impact_en": "The anticipated growth in the ENT devices market may lead to more innovative solutions, benefiting patient care.",
+      "why_important_ar": "فهم الاتجاهات السوقية أمر مهم لجراحي الأنف والأذن والحنجرة لتكييف ممارساتهم وتلبية الطلبات الناشئة.",
+      "why_important_en": "Understanding market trends is crucial for ENT surgeons to adapt their practices and meet emerging demands.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "تقرير مهم لفهم الاتجاهات المستقبلية في قطاع أجهزة الأنف والأذن والحنجرة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "تقرير حديث من Grand View Research يتناول نمو سوق أجهزة الأنف والأذن والحنجرة في الولايات المتحدة المتوقع حتى عام 2030. ويؤكد التقرير على العوامل التي تؤدي إلى هذا النمو مثل زيادة الأمراض المرتبطة بالأنف والأذن والحنجرة والتقدم التكنولوجي. يُعتبر هذا التقرير مصدرًا مهمًا للأطباء والجراحين في هذا المجال للاطلاع على التوجهات السائدة والفرص الاستثمارية في السوق.",
+      "mcq": []
+    }
+  ]
+}
