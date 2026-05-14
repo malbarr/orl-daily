@@ -1,0 +1,1569 @@
+{
+  "date": "2026-05-14",
+  "generated_at": "2026-05-14T06:38:17Z",
+  "articles": [
+    {
+      "pmid": "42128758",
+      "title_ar": "Recurrent Laryngeal Nerve Reinnervation",
+      "title_en": "Recurrent Laryngeal Nerve Reinnervation",
+      "journal": "Otolaryngologic clinics of North America",
+      "pub_date": "2026-May-13",
+      "doi": "10.1016/j.otc.2026.03.019",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42128758/",
+      "pdf_url": null,
+      "study_design": "Retrospective case series n>100",
+      "summary_ar": "حتى الآن، لا يوجد علاج جراحي موحد لشلل الحبال الصوتية الأحادي لدى الأطفال. تشمل خيارات العلاج المراقبة مع العلاج الصوتي، حقن الحبل الصوتي، جراحة إطار الحنجرة، وإعادة التوصيل العصبي للحنجرة. لقد أظهرت الأخيرة نجاحًا كبيرًا في علاج عسر الصوت، والشفط، والضيق بسبب شلل الحبال الصوتية الأحادي المستمر. بالإضافة إلى ذلك، توفر هذه الطريقة خيارًا دائمًا وآمنًا لهذه الفئة من المرضى.",
+      "summary_en": "To date, there is no standardized surgical therapy for pediatric unilateral vocal fold paralysis. Treatment options include observation with voice therapy, vocal fold injection, laryngeal framework surgery, and recurrent laryngeal nerve reinnervation. The latter has been shown to be highly successful in treating dysphonia, aspiration, and dyspnea/stridor due to persistent unilateral vocal fold paralysis. It also provides a durable and safe option for this population.",
+      "practice_change_ar": "يمكن للممارسين اعتماد إعادة توصيل العصب كخيار فعال لعلاج شلل الحبال الصوتية الأحادي.",
+      "practice_change_en": "Practitioners may adopt nerve reinnervation as an effective option for treating unilateral vocal fold paralysis.",
+      "future_impact_ar": "يمكن أن تؤدي نتائج هذه الدراسة إلى تحسين علاجات شلل الحبال الصوتية للأطفال.",
+      "future_impact_en": "The findings of this study may lead to improved treatments for vocal fold paralysis in children.",
+      "why_important_ar": "تعتبر هذه المقالة مهمة لأنها تقدم خيارًا جراحيًا فعّالًا ومتاحة لعلاج شلل الحبال الصوتية.",
+      "why_important_en": "This article is important as it offers an effective surgical option available for vocal fold paralysis treatment.",
+      "vs_previous_ar": "يختلف هذا البحث عن المعرفة السابقة من خلال تقديم نتائج إيجابية لإعادة توصيل العصب البرقوقي في هذه الحالة الطبية.",
+      "vs_previous_en": "This research differs from previous knowledge by providing positive outcomes for recurrent nerve reinnervation in this medical condition.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة سلاسل متعددة العينية مع نتائج قوية، مما يعزز المعرفة في مجال جراحة الأذن والحنجرة للأطفال.",
+      "stars_reason_en": "Multi-case series study with strong outcomes enhances knowledge in the field of pediatric ENT surgery.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "يستحق الموضوع المناقشة بسبب تأثيره المحتمل على الممارسات الجراحية.",
+      "jc_reason_en": "The topic deserves discussion due to its potential impact on surgical practices.",
+      "watch": true,
+      "watch_detail_ar": "يرجى متابعة الأساليب الجديدة لإعادة توصيل العصب وتأثيراتها طويلة المدى.",
+      "watch_detail_en": "Watch for new nerve reinnervation techniques and their long-term effects.",
+      "watch_type": "technology",
+      "research_gap_ar": "الحاجة إلى المزيد من الأبحاث لدعم فعالية تقنيات إعادة توصيل العصب في حالات مختلفة.",
+      "research_gap_en": "There is a need for more research to support the effectiveness of nerve reinnervation techniques in different cases.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تناقش المقالة عدم وجود علاج جراحي موحد للشلل الأحادي في الحبال الصوتية لدى الأطفال، وتعرض خيارات العلاج المتاحة. تبرز إعادة توصيل العصب كخيار جراحي فعال يمكن أن يحسن عسر الصوت والشعور بالاختناق. المقالة مهمة لأنها تسلط الضوء على فعالية هذه التقنية ومزاياها المستدامة. يحتمل أن تسهم النتائج في تحسين العلاجات المستقبلية. كما يُنصح بمراجعة الأساليب الجديدة والتأثيرات المحتملة.",
+      "audio_script_en": "The article discusses the lack of standardized surgical treatment for unilateral vocal fold paralysis in children and outlines the available treatment options. It highlights nerve reinnervation as an effective surgical choice that could improve dysphonia and feelings of aspiration. The article is important because it emphasizes the effectiveness of this technique and its sustainable advantages. The results are likely to contribute to future treatment improvements. It is also advised to review new techniques and their potential impact.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الخيار الجراحي المستخدم في علاج شلل الحبال الصوتية الأحادي؟",
+          "q_en": "What is the surgical option used to treat unilateral vocal fold paralysis?",
+          "options_ar": [
+            "أ) حقن الحبل الصوتي",
+            "ب) إعادة توصيل العصب",
+            "ج) مراقبة الحالة",
+            "د) جراحة إطار الحنجرة"
+          ],
+          "options_en": [
+            "A) Vocal fold injection",
+            "B) Nerve reinnervation",
+            "C) Observation",
+            "D) Laryngeal framework surgery"
+          ],
+          "answer": 1,
+          "explanation_ar": "تشير الدراسة إلى أن إعادة توصيل العصب تُعد خيارًا فعالًا لعلاج شلل الحبال الصوتية.",
+          "explanation_en": "The study indicates that nerve reinnervation is an effective option for treating vocal fold paralysis."
+        },
+        {
+          "q_ar": "لماذا تعتبر الدراسة مهمة؟",
+          "q_en": "Why is the study important?",
+          "options_ar": [
+            "أ) لأنها تقدم خيارات جديدة",
+            "ب) لأنها تشمل حالات قليلة",
+            "ج) لأنها تعارض الفهم السابق",
+            "د) لأنها دراسة حيوانية"
+          ],
+          "options_en": [
+            "A) It provides new options",
+            "B) It includes few cases",
+            "C) It contradicts previous understanding",
+            "D) It is an animal study"
+          ],
+          "answer": 0,
+          "explanation_ar": "تقدم الدراسة خيارات جديدة في علاج شلل الحبال الصوتية.",
+          "explanation_en": "The study offers new options in the treatment of vocal fold paralysis."
+        },
+        {
+          "q_ar": "ما هو الفارق الرئيسي في المعرفة المتعلقة بإعادة توصيل العصب؟",
+          "q_en": "What is the main difference in knowledge regarding nerve reinnervation?",
+          "options_ar": [
+            "أ) عدم وجود معلومات حول هذا الأمر",
+            "ب) النتائج الإيجابية المقدمة",
+            "ج) تقنيات قديمة",
+            "د) عدم الحاجة إلى الجراحة"
+          ],
+          "options_en": [
+            "A) No information on this",
+            "B) The positive outcomes presented",
+            "C) Old techniques",
+            "D) No need for surgery"
+          ],
+          "answer": 1,
+          "explanation_ar": "تشير الدراسة إلى النتائج الإيجابية بشأن إعادة توصيل العصب في حالات شلل الحبال الصوتية.",
+          "explanation_en": "The study indicates positive outcomes regarding nerve reinnervation in cases of vocal fold paralysis."
+        }
+      ]
+    },
+    {
+      "pmid": "42128760",
+      "title_ar": "Subglottic Stenosis",
+      "title_en": "Subglottic Stenosis",
+      "journal": "Otolaryngologic clinics of North America",
+      "pub_date": "2026-May-13",
+      "doi": "10.1016/j.otc.2026.03.029",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42128760/",
+      "pdf_url": null,
+      "study_design": "Review",
+      "summary_ar": "تصنيف منطقة subglottic أنها أضيق جزء من مجرى الهواء لدى الأطفال، مما يجعلها عرضة للتضيق سواءً كان خُلُقياً أو مكتسباً. التقييم الشامل والتشخيص الصحيح لمشاكل المجاري الهوائية أمران حاسمان لاختيار التدخل المناسب وتحسين النتائج. تقدم هذه المراجعة تفاصيل حول الآليات المرضية، وأدوات التشخيص، وإجراءات العمل قبل العملية، والتدخلات الجراحية لتضيق subglottic لدى الأطفال.",
+      "summary_en": "The subglottic region is identified as the narrowest part of the pediatric airway, making it susceptible to stenosis either congenitally or acquired. Comprehensive evaluation and correct diagnosis of airway pathologies are critical for choosing the appropriate intervention and optimizing outcomes. This review details the pathogenesis, diagnostic tools, preoperative workup, and surgical interventions for pediatric subglottic stenosis.",
+      "practice_change_ar": "يمكن أن يساعد هذا المقال في تحسين تقييم وعلاج حالات تضيق subglottic لدى الأطفال.",
+      "practice_change_en": "This article may improve the evaluation and treatment of pediatric subglottic stenosis.",
+      "future_impact_ar": "يمكن أن يؤدي الفهم الأفضل للآليات المرضية إلى تطوير استراتيجيات علاجية أفضل.",
+      "future_impact_en": "Better understanding of the pathogenesis may lead to the development of improved therapeutic strategies.",
+      "why_important_ar": "تعتبر هذه المراجعة مصدرًا قيمًا للمعلومات حول معالجة تضيق subglottic في الأطفال.",
+      "why_important_en": "This review serves as a valuable resource for understanding the management of pediatric subglottic stenosis.",
+      "vs_previous_ar": "تقدم هذه المراجعة تفاصيل جديدة بين الآليات المرضية أدوات التشخيص المتاحة.",
+      "vs_previous_en": "This review provides new insights into the pathogenesis and available diagnostic tools.",
+      "stars": 3,
+      "stars_reason_ar": "مراجعة تقدم معلومات جديدة حول تشخيص وتدخلات جراحية، لذا فإن التقييم مقبول.",
+      "stars_reason_en": "This review provides new information on diagnosis and surgical interventions, making the rating acceptable.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Provides a comprehensive review on an important and rare condition.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "ينبغي إجراء المزيد من الدراسات حول فعالية العلاجات الجديدة لتضيق subglottic.",
+      "research_gap_en": "More studies should be conducted on the efficacy of new treatments for subglottic stenosis.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "في هذه المراجعة، تتناول منطقة subglottic التي تعتبر أضيق جزء من مجرى الهواء عند الأطفال. يتعرض المجري الهوائي للتضيق بسبب أسباب خلقية أو مكتسبة. أهمية التقييم الشامل والتشخيص الصحيح تكمن في اختيار التدخل المناسب. تقدم هذه المراجعة تفاصيل حول الآليات المرضية والأدوات المستخدمة في التشخيص، بالإضافة إلى الإجراءات المعتادة قبل العملية والتدخلات الجراحية المتاحة لعلاج تضيق subglottic. تعتبر ما يقدم في هذه المراجعة مصادر قيمة للممارسين لتحسين النتائج.",
+      "audio_script_en": "This review addresses the subglottic region, identified as the narrowest part of the pediatric airway. The airway may be susceptible to stenosis due to congenital or acquired reasons. The importance of comprehensive evaluation and correct diagnosis lies in the choice of appropriate intervention. This review provides details on pathogenesis and diagnostic tools, as well as standard preoperative workup and surgical interventions available for treating subglottic stenosis. The insights provided in this review serve as a valuable resource for practitioners to improve outcomes.",
+      "mcq": [
+        {
+          "q_ar": "ما هي المنطقة الأضيق في مجرى الهواء عند الأطفال؟",
+          "q_en": "What is the narrowest part of the airway in children?",
+          "options_ar": [
+            "أ) الحنجرة",
+            "ب) subglottic",
+            "ج) supraglottic",
+            "د) القصبة الهوائية"
+          ],
+          "options_en": [
+            "A) Larynx",
+            "B) Subglottic",
+            "C) Supraglottic",
+            "D) Trachea"
+          ],
+          "answer": 1,
+          "explanation_ar": "المنطقة subglottic هي أضيق جزء من مجرى الهواء للأطفال.",
+          "explanation_en": "The subglottic region is the narrowest part of the airway in children."
+        },
+        {
+          "q_ar": "ما هو السبب الرئيسي لتضيق subglottic؟",
+          "q_en": "What is the main reason for subglottic stenosis?",
+          "options_ar": [
+            "أ) خَلقي",
+            "ب) مكتسب",
+            "ج) التهاب",
+            "د) جميع ما سبق"
+          ],
+          "options_en": [
+            "A) Congenital",
+            "B) Acquired",
+            "C) Inflammatory",
+            "D) All of the above"
+          ],
+          "answer": 3,
+          "explanation_ar": "يمكن أن يكون تضيق subglottic نتيجة لأسباب خلقية أو مكتسبة أو التهابية.",
+          "explanation_en": "Subglottic stenosis can result from congenital, acquired, or inflammatory causes."
+        },
+        {
+          "q_ar": "ما هو أهم عامل لتحسين العلاجات؟",
+          "q_en": "What is the most important factor in improving treatments?",
+          "options_ar": [
+            "أ) تقييم شامل",
+            "ب) دراسة حالية",
+            "ج)Feedback",
+            "د) تعاون بين الاختصاصات"
+          ],
+          "options_en": [
+            "A) Comprehensive evaluation",
+            "B) Current study",
+            "C) Feedback",
+            "D) Interdisciplinary collaboration"
+          ],
+          "answer": 0,
+          "explanation_ar": "التقييم الشامل هو مفتاح لاختيار العلاج المناسب وتحسين النتائج.",
+          "explanation_en": "Comprehensive evaluation is key to choosing appropriate treatment and optimizing outcomes."
+        }
+      ]
+    },
+    {
+      "pmid": "42117571",
+      "title_ar": "Otoplasty: Principles, Techniques, and Outcomes in Aesthetic and Reconstructive Surgery of the External Ear.",
+      "title_en": "Otoplasty: Principles, Techniques, and Outcomes in Aesthetic and Reconstructive Surgery of the External Ear.",
+      "journal": "The Journal of craniofacial surgery",
+      "pub_date": "2026-May-12",
+      "doi": "10.1097/SCS.0000000000012871",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42117571/",
+      "pdf_url": null,
+      "study_design": "Review Article",
+      "summary_ar": "تُعد التشوهات الأذنية، سواء كانت خلقية أو مكتسبة، واضحة جدًا ويمكن أن تسبب ضغوط نفسية عبر جميع الفئات العمرية. تشمل عملية الأوتوبلاستي تشكيل الأذن تجميليًا واستعادة هيكلها في الحالات الجراحية. تستند النتائج الناجحة إلى تحليل التشوهات بشكل صحيح واختيار التقنية المناسبة. يتضمن تصور السريري التماثل، والإسقاط، والتقوس، ومرونة الغضروف، مما يضمن أن التخطيط الجراحي مسموع من خلال العيوب الهيكلية بدلاً من المظهر السطحي. يمكن أن تُحدد التشوهات الخلقية باستخدام المعايير الأنثروبومترية ونظام وييردا. يشمل النهج غير الجراحي تشكيل الغضروف والرعاية الجراحية تشمل تقنيات متعددة. تُعتمد الاستراتيجيات الجراحية وفقًا للعمق ووجود الوحدات الجلدية، مع دمج الطعوم و ترقيع الأنسجة المحلية. يتم تقليل المضاعفات من خلال الوقاية من الهيماتومة، والسيطرة على العدوى، والحفاظ على التغذية الدموية.",
+      "summary_en": "Auricular deformities, whether congenital or acquired, are clearly visible and can cause psychosocial distress across all age groups. Otoplasty involves both aesthetic and reconstructive aspects of ear surgery, with successful outcomes dependent on accurate deformity analysis and technique selection. Clinical assessment focuses on symmetry, projection, contour, and cartilage pliability, ensuring surgical planning is informed by underlying structural issues rather than just surface appearance. Congenital deformities can be quantified using anthropometric standards and categorized by the Weerda system, while nonsurgical approaches like early neonatal molding utilize cartilage malleability. Surgical techniques vary based on the severity of deformities, incorporating grafts and local flaps for reconstruction and minimizing complications through various preventive measures.",
+      "practice_change_ar": "قد تغير هذه المقالة كيفية تنفيذ عمليات الأوتوبلاستي من خلال توفير معلومات حول أحدث التقنيات والاستراتيجيات الجراحية.",
+      "practice_change_en": "This article may change how otoplasty is performed by providing insights into the latest techniques and surgical strategies.",
+      "future_impact_ar": "يمكن أن تؤثر المعرفة المكتسبة على نتائج عمليات الأوتوبلاستي في المستقبل.",
+      "future_impact_en": "The knowledge gained can impact outhoplasty outcomes in the future.",
+      "why_important_ar": "تُعتبر هذه المقالة مهمة لأنها تلخص مبادئ وتقنيات جديدة في جراحة الأذن.",
+      "why_important_en": "This article is important as it summarizes new principles and techniques in ear surgery.",
+      "vs_previous_ar": "تختلف هذه المقالة عن المعرفة السابقة بأنها تقدم استراتيجيات جديدة وتحليل للتقنيات المستخدمة.",
+      "vs_previous_en": "This article differs from previous knowledge by providing new strategies and analysis of techniques used.",
+      "stars": 4,
+      "stars_reason_ar": "تصميم الدراسة مراجعة تقدم معرفة جديدة حول الجراحة والأوتوبلاستي.",
+      "stars_reason_en": "The study design is a review that provides new insights into surgery and otoplasty.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تقديم معلومات قيمة حول تقنيات جديدة في جراحة الأذن.",
+      "jc_reason_en": "Provides valuable information on new techniques in ear surgery.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "research_gap_en": null,
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "في هذه المقالة، نناقش مبادئ وتقنيات نتائج الأوتوبلاستي. ذكر المؤلفون أن التشوهات الأذنية، سواء كانت خلقية أو مكتسبة، يمكن أن تسبب ضغوط نفسية. يتم تنفيذ الأوتوبلاستي من خلال إعادة تشكيل الأذن واستعادة هيكلها. التركيز الأساسي هو تكوين التقييم السريري على التماثل والإسقاط والتقوس. تقدم المقالة فائدة عظيمة من خلال تقديم معلومات حول أحدث التقنيات والاستراتيجيات الجراحية لتقليل المضاعفات. قد تؤثر النتائج على كيفية تنفيذ عمليات الأوتوبلاستي في المستقبل.",
+      "audio_script_en": "In this article, we discuss the principles, techniques, and outcomes of otoplasty. The authors mention that ear deformities, whether congenital or acquired, can cause psychosocial stress. Otoplasty is performed through reshaping and reconstructing the ear’s structure. The key focus is on clinical assessment of symmetry, projection, and contour. The article provides significant benefit by presenting insights into the latest techniques and surgical strategies to minimize complications. The outcomes may influence how otoplasty is performed in the future.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الغرض الرئيسي من الأوتوبلاستي؟",
+          "q_en": "What is the primary purpose of otoplasty?",
+          "options_ar": [
+            "أ) تشكيل الأذن تجميليًا",
+            "ب) إزالة الأذن",
+            "ج) تكبير الأذن",
+            "د) تصحيح التشوهات الأذنية"
+          ],
+          "options_en": [
+            "A) Cosmetic reshaping of the ear",
+            "B) Removal of the ear",
+            "C) Ear enlargement",
+            "D) Correction of ear deformities"
+          ],
+          "answer": 3,
+          "explanation_ar": "الأوتوبلاستي يهدف إلى تصحيح التشوهات الأذنية.",
+          "explanation_en": "Otoplasty aims to correct ear deformities."
+        },
+        {
+          "q_ar": "ما هي الطريقة غير الجراحية المذكورة لأوتوبلاستي؟",
+          "q_en": "What is the nonsurgical method mentioned for otoplasty?",
+          "options_ar": [
+            "أ) تجميل الأذن",
+            "ب) تشكيل الغضروف",
+            "ج) ترقيع الأنسجة",
+            "د) تجميل الأنسجة"
+          ],
+          "options_en": [
+            "A) Ear cosmetic",
+            "B) Cartilage molding",
+            "C) Tissue grafting",
+            "D) Tissue cosmetic"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم ذكر تشكيل الغضروف كطريقة غير جراحية.",
+          "explanation_en": "Cartilage molding is mentioned as a nonsurgical approach."
+        },
+        {
+          "q_ar": "ما هي المكونات الرئيسية التي ينبغي تقييمها في تحليل الأذن قبل الأوتوبلاستي؟",
+          "q_en": "What are the key components to assess in ear analysis before otoplasty?",
+          "options_ar": [
+            "أ) اللون",
+            "ب) التماثل",
+            "ج) الحجم",
+            "د) الإضاءة"
+          ],
+          "options_en": [
+            "A) Color",
+            "B) Symmetry",
+            "C) Size",
+            "D) Lighting"
+          ],
+          "answer": 1,
+          "explanation_ar": "التماثل هو أحد المكونات الرئيسية في تقييم الأذن.",
+          "explanation_en": "Symmetry is a key component in ear assessment."
+        }
+      ]
+    },
+    {
+      "pmid": "42120790",
+      "title_ar": "Safety profile and surgical outcomes of the endoscopic transorbital approach as a skull base surgical corridor: a systematic review and meta-analysis.",
+      "title_en": "Safety profile and surgical outcomes of the endoscopic transorbital approach as a skull base surgical corridor: a systematic review and meta-analysis.",
+      "journal": "Neurosurgical review",
+      "pub_date": "2026-May-13",
+      "doi": "10.1007/s10143-026-04321-x",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42120790/",
+      "pdf_url": "https://doi.org/10.1007/s10143-026-04321-x",
+      "study_design": "Meta-analysis 11 studies",
+      "summary_ar": "تشير هذه الدراسة إلى أن تقنية ETOA تعتبر وسيلة آمنة وفعالة لإدارة مجموعة واسعة من إصابات قاعدة الجمجمة والعين. تم تحليل 11 دراسة شملت 269 مريضًا، حيث ظهرت معدلات مضاعفات منخفضة جدًا مثل تسرب السائل النخاعي والتهاب الجرح. كما كانت تحسينات وظائف الرؤية ملحوظة في 47% من المرضى. تشير البيانات إلى أن تقنية ETOA تحقق نتائج إيجابية وتستحق المزيد من الأبحاث المستقبلية.",
+      "summary_en": "This study indicates that the ETOA technique is a safe and effective method for managing a wide range of skull base and orbital lesions. A total of 11 studies involving 269 patients were analyzed, revealing very low complication rates such as CSF leak and wound infection. Improvements in visual function were noted in 47% of patients. The data suggest that ETOA achieves positive outcomes and warrants further future research.",
+      "practice_change_ar": "يمكن للطباء اعتبار ETOA كخيار علاج آمن لإصابات قاعدة الجمجمة.",
+      "practice_change_en": "Clinicians may consider ETOA as a safe treatment option for skull base lesions.",
+      "future_impact_ar": "تستدعي هذه الدراسة مزيدًا من الأبحاث المستقبلية لتحديد أفضل استخدامات ETOA.",
+      "future_impact_en": "This study calls for more future research to define the optimal uses of ETOA.",
+      "why_important_ar": "تعد هذه الدراسة مهمة لأنها تقدم تقييمًا شاملاً لمعدلات المضاعفات لأسلوب جراحي جديد.",
+      "why_important_en": "This article is important because it provides a comprehensive evaluation of complication rates for a new surgical approach.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة من خلال تقديم بيانات موثوقة حول المضاعفات والنواتج المتعلقة بـ ETOA.",
+      "vs_previous_en": "This study differs from previous knowledge by providing reliable data on complications and outcomes related to ETOA.",
+      "stars": 5,
+      "stars_reason_ar": "تقييم شامل له مجموعة كبيرة من المرضى في سياق مراجعة منهجية، مما يمنحها درجة عالية.",
+      "stars_reason_en": "Comprehensive evaluation of a large patient cohort in the context of a systematic review grants it a high score.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تقدم هذه الدراسة معلومات قيمة حول طريقة جراحية جديدة في أورام قاعدة الجمجمة.",
+      "jc_reason_en": "This study provides valuable insights into a new surgical technique for skull base tumors.",
+      "watch": true,
+      "watch_detail_ar": "من المهم متابعة تأثير ETOA كخيار جراحي لعلاج إصابات قاعدة الجمجمة.",
+      "watch_detail_en": "It is important to track the impact of ETOA as a surgical option for treating skull base lesions.",
+      "watch_type": "instrument",
+      "research_gap_ar": "هناك حاجة لأبحاث مستقبلية لتحديد المؤشرات المثلى لاستخدام ETOA.",
+      "research_gap_en": "There is a need for future research to define the optimal indications for the use of ETOA.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "تناقش هذه المقالة تقييم فعالية تقنية ETOA كاختيار جراحي لإصابات قاعدة الجمجمة. أظهرت النتائج انخفاض معدلات المضاعفات مثل تسرب السائل النخاعي والتهاب الجرح بنسبة 1% و3% على التوالي. بالإضافة إلى ذلك، تحسن أداء البصر في 47% من المرضى، مما يدل على فعالية هذه التقنية. الدراسة تدعو للمزيد من الأبحاث المستقبلية لتحديد الاستخدامات المثلى لهذه الطريقة الجراحية.",
+      "audio_script_en": "This article discusses the effectiveness of the ETOA technique as a surgical option for skull base lesions. The results showed low complication rates such as CSF leak and wound infection at 1% and 3%, respectively. Additionally, visual function improved in 47% of patients, indicating the effectiveness of this technique. The study calls for more future research to define the optimal uses of this surgical approach.",
+      "mcq": [
+        {
+          "q_ar": "ما هي أكثر إصابة شائعة تم الإبلاغ عنها في الدراسة؟",
+          "q_en": "What is the most commonly reported lesion in the study?",
+          "options_ar": [
+            "أ) ورم سحائي",
+            "ب) ورم شوان",
+            "ج) هيمانجيوم كافيرنو",
+            "د) ورم دبقي"
+          ],
+          "options_en": [
+            "A) Meningioma",
+            "B) Schwannoma",
+            "C) Cavernous Hemangioma",
+            "D) Glioma"
+          ],
+          "answer": 0,
+          "explanation_ar": "تم الإبلاغ عن أن ورم سحائي هو الأكثر شيوعًا بمعدل 60.6%.",
+          "explanation_en": "Meningioma was reported as the most common lesion at 60.6%."
+        },
+        {
+          "q_ar": "ما هي نسبة حدوث فقدان البصر بشكل مؤقت؟",
+          "q_en": "What is the percentage of transient visual dysfunction?",
+          "options_ar": [
+            "أ) 1%",
+            "ب) 4%",
+            "ج) 16%",
+            "د) 0%"
+          ],
+          "options_en": [
+            "A) 1%",
+            "B) 4%",
+            "C) 16%",
+            "D) 0%"
+          ],
+          "answer": 0,
+          "explanation_ar": "فقدان البصر المؤقت حدث في 1% من الحالات.",
+          "explanation_en": "Transient visual dysfunction occurred in 1% of cases."
+        },
+        {
+          "q_ar": "أي من المضاعفات كانت الأكثر شيوعًا بعد ETOA؟",
+          "q_en": "Which complication was the most common following ETOA?",
+          "options_ar": [
+            "أ) التهاب الجرح",
+            "ب) تسرب السائل النخاعي",
+            "ج) شلل الشفاه",
+            "د) لا شيء مما سبق"
+          ],
+          "options_en": [
+            "A) Wound infection",
+            "B) CSF leak",
+            "C) Facial palsy",
+            "D) None of the above"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم الإبلاغ عن التهاب الجرح بنسبة 3%، بينما حدث تسرب السائل النخاعي في 1%.",
+          "explanation_en": "Wound infection was reported at 3%, while CSF leak occurred in 1%."
+        }
+      ]
+    },
+    {
+      "pmid": "42126174",
+      "title_ar": "Effects of Crocin on Wound Healing and Fibrosis in Vocal Cord Injury: An Experimental Study.",
+      "title_en": "Effects of Crocin on Wound Healing and Fibrosis in Vocal Cord Injury: An Experimental Study.",
+      "journal": "The Annals of otology, rhinology, and laryngology",
+      "pub_date": "2026-May-13",
+      "doi": "10.1177/00034894261451418",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42126174/",
+      "pdf_url": null,
+      "study_design": "Animal experimental study n=36",
+      "summary_ar": "هدفت هذه الدراسة التجريبية إلى تقييم تأثير الكروسين على شفاء الجروح والتليف في إصابة الحبال الصوتية. تم تقسيم 36 الجرذان الألبينو ويستر الذكور عشوائياً إلى ثلاث مجموعات. أظهرت النتائج أن الكروسين يعزز التجديد الظهاري ويقلل الالتهاب في المراحل المبكرة. في المراحل المتأخرة، أظهرت مجموعات العلاج زيادة في سماكة اللائحة الخاصة والمرونة. عموماً، أظهر الكروسين تأثيرات إيجابية على شفاء الجروح وتقليل التليف بعد إصابة الحبال الصوتية.",
+      "summary_en": "This experimental study aimed to evaluate the effects of crocin on wound healing and fibrosis in vocal fold injury. Thirty-six male Wistar Albino rats were randomly divided into three groups. Results showed that crocin promotes epithelial regeneration and reduces inflammation in the early phases. In the late phases, treatment groups exhibited increases in lamina propria thickness and elastin. Overall, crocin showed positive effects on wound healing and fibrosis reduction after vocal fold injury.",
+      "practice_change_ar": "يمكن أن يغير ذلك كيفية إدارة إصابات الحبال الصوتية.",
+      "practice_change_en": "This may change how vocal fold injuries are managed.",
+      "future_impact_ar": "هذه النتائج قد تؤدي إلى دراسات سريرية موسعة لتطبيق الكروسين في الأنسجة البشرية.",
+      "future_impact_en": "These results may lead to expanded clinical studies for the application of crocin in human tissue.",
+      "why_important_ar": "تظهر هذه الدراسة إمكانيات جديدة لاستخدام الكروسين في علاج إصابات الحبال الصوتية.",
+      "why_important_en": "This study demonstrates new potential for crocin use in treating vocal fold injuries.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن الأبحاث السابقة من خلال تقديم بيانات جديدة حول تأثير الكروسين.",
+      "vs_previous_en": "This study differs from previous research by providing new data on the effects of crocin.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة تجريبية تظهر تأثيرات جديدة للكروسين على الشفاء، مما يعزز قاعدة الأدلة.",
+      "stars_reason_en": "An experimental study showing new effects of crocin on healing, enhancing the evidence base.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Provides intriguing results regarding the use of crocin.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة استخدام الكروسين كعلاج محتمل لإصابات الحبال الصوتية.",
+      "watch_detail_en": "Crocin should be monitored as a potential treatment for vocal fold injuries.",
+      "watch_type": "drug",
+      "research_gap_ar": "تحتاج الدراسة إلى مزيد من الدراسات السريرية لتأكيد فعالية الكروسين.",
+      "research_gap_en": "The study requires more clinical research to confirm the efficacy of crocin.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تتعلق هذه الدراسة بتأثير الكروسين على شفاء وإصابة الحبال الصوتية. تم تقسيم 36 جرذًا ألبينو عشوائيًا إلى ثلاث مجموعات وتم تقييم النتائج بعد الإصابات. النتائج تشير إلى أن الكروسين يعدل الشفاء ويخفض الالتهاب، مع زيادة سمك اللائحة الخاصة. هذا يفتح أفقًا جديدًا لإمكانية استخدام الكروسين في التطبيقات السريرية لعلاج إصابات الحبال الصوتية. المستقبل قد يحمل المزيد من الدراسات حول هذه الموضوع.",
+      "audio_script_en": "This study focuses on the effect of crocin on healing and vocal fold injury. Thirty-six Wistar Albino rats were randomly divided into three groups and results were evaluated post-injury. Findings suggest crocin modulates healing and reduces inflammation, with increased lamina propria thickness. This opens a new avenue for potential crocin use in clinical applications for vocal fold injury. The future may hold more studies on this subject.",
+      "mcq": [
+        {
+          "q_ar": "ما الهدف الرئيسي من الدراسة؟",
+          "q_en": "What was the main objective of the study?",
+          "options_ar": [
+            "أ) تقييم تأثير الكروسين",
+            "ب) تطبيق تقنية جديدة",
+            "ج) دراسة عقار آخر",
+            "د) تحليل بيانات سابقة"
+          ],
+          "options_en": [
+            "A) Assess the effects of crocin",
+            "B) Implement a new technique",
+            "C) Study another drug",
+            "D) Analyze previous data"
+          ],
+          "answer": 0,
+          "explanation_ar": "تركز الدراسة على تأثير الكروسين على شفاء الحبال الصوتية.",
+          "explanation_en": "The study focuses on the effect of crocin on vocal fold healing."
+        },
+        {
+          "q_ar": "ما هي نتائج الكروسين في المراحل المتأخرة؟",
+          "q_en": "What were the effects of crocin in the late phases?",
+          "options_ar": [
+            "أ) انخفاض الالتهاب",
+            "ب) زيادة مرونة الكولاجين",
+            "ج) زيادة سمك اللائحة",
+            "د) انخفاض الهيالورونيك أسيد"
+          ],
+          "options_en": [
+            "A) Decreased inflammation",
+            "B) Increased collagen elasticity",
+            "C) Increased lamina thickness",
+            "D) Decreased hyaluronic acid"
+          ],
+          "answer": 2,
+          "explanation_ar": "أظهرت النتائج زيادة في سمك اللائحة الخاصة في المجموعات العلاجية.",
+          "explanation_en": "Results showed increased lamina thickness in treatment groups."
+        },
+        {
+          "q_ar": "ما هو التصميم الأساسي للدراسة؟",
+          "q_en": "What was the basic design of the study?",
+          "options_ar": [
+            "أ) تجربة سريرية عشوائية",
+            "ب) دراسة تجريبية على الحيوانات",
+            "ج) تحليل ميتا",
+            "د) مراجعة منهجية"
+          ],
+          "options_en": [
+            "A) Randomized clinical trial",
+            "B) Animal experimental study",
+            "C) Meta-analysis",
+            "D) Systematic review"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت هذه دراسة تجريبية على الحيوانات بمشاركة 36 جرذًا.",
+          "explanation_en": "This was an animal experimental study involving 36 rats."
+        }
+      ]
+    },
+    {
+      "pmid": "42126088",
+      "title_ar": "CPAP treatment persistence following nasal procedures in obstructive sleep apnea: a real-world claims-based analysis of 1.3 million patients.",
+      "title_en": "CPAP treatment persistence following nasal procedures in obstructive sleep apnea: a real-world claims-based analysis of 1.3 million patients.",
+      "journal": "Journal of medical economics",
+      "pub_date": "2026-Dec",
+      "doi": "10.1080/13696998.2026.2671550",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42126088/",
+      "pdf_url": null,
+      "study_design": "Retrospective cohort study n=1,340,450",
+      "summary_ar": "تهدف هذه الدراسة إلى تقييم العلاقة بين الإجراءات الأنفية واستمرار علاج CPAP على المدى الطويل. تم تحليل بيانات إدارية طبية من 1.3 مليون مريض مصاب بانقطاع التنفس أثناء النوم. أظهرت النتائج أن المعدل العام لانقطاع CPAP كان 29%، مع انخفاض الاستمرار عند المرضى الذين لم يخضعوا لأي جراحة أنفية. أظهرت إجراءات جراحة الأنف، وخاصة إعادة تشكيل صمام الأنف بالترددات اللاسلكية، تأثيرًا إيجابيًا على استمرار العلاج.",
+      "summary_en": "This study aimed to evaluate the association between nasal procedures and long-term CPAP treatment persistence. A large medical claims database of 1.3 million patients with obstructive sleep apnea was analyzed. The findings showed an overall CPAP discontinuation rate of 29%, with lower persistence in patients who did not undergo any nasal surgery. Nasal surgical procedures, particularly temperature-controlled radiofrequency (TCRF), positively influenced treatment continuation.",
+      "practice_change_ar": "يمكن أن تؤدي معالجة انسداد الأنف إلى تحسين استمرارية استخدام CPAP.",
+      "practice_change_en": "Treating nasal obstruction may improve CPAP adherence.",
+      "future_impact_ar": "تشير النتائج إلى الحاجة إلى دراسات مستقبلية لتأكيد العلاقة السببية.",
+      "future_impact_en": "The findings suggest a need for future studies to confirm causality.",
+      "why_important_ar": "تسلط هذه الدراسة الضوء على أهمية الإجراءات الأنفية في تعزيز استخدام CPAP.",
+      "why_important_en": "This study highlights the importance of nasal procedures in enhancing CPAP usage.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة من خلال تقديم بيانات كبيرة توضح التأثير الإيجابي للجراحة الأنفية.",
+      "vs_previous_en": "This study differs from previous knowledge by providing large-scale data demonstrating the positive impact of nasal surgery.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة قائمة على قاعدة بيانات كبيرة n>100، تقدم معلومات جديدة حول العلاقة بين الإجراءات الأنفية وCPAP.",
+      "stars_reason_en": "Large claims-based study n>100 providing new insights on nasal procedures and CPAP.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This study provides new insights into the impact of nasal procedures on CPAP usage.",
+      "watch": true,
+      "watch_detail_ar": "مطلوب متابعة تأثير الإجراءات الجراحية على استمرارية العلاج بمساعدات التنفس.",
+      "watch_detail_en": "There is a need to monitor the effect of surgical interventions on CPAP persistence.",
+      "watch_type": "device",
+      "research_gap_ar": "البحث المستقبلي مطلوب لتأكيد أسباب العلاقة بين الجراحة الأنفية واستمرارية CPAP.",
+      "research_gap_en": "Future research is needed to confirm the causative relationship between nasal surgery and CPAP persistence.",
+      "subspecialty": "sleep",
+      "audio_script_ar": "تتناول هذه الدراسة العلاقة بين الإجراءات الأنفية واستمرارية العلاج باستخدام CPAP. تم تحليل بيانات أكثر من 1.3 مليون مريض مصاب بانقطاع التنفس أثناء النوم. أظهرت النتائج أن معدل انقطاع CPAP كان 29% مع تأثيرات إيجابية لإجراءات الأنف. الجراحة الأنفية، وخاصة إعادة تشكيل صمام الأنف، كانت لها أفضل النتائج. الدراسة تعزز أهمية إدارة انسداد الأنف كجزء من العلاج لتحسين الاستمرارية. تشدد النتائج على الحاجة إلى مزيد من الأبحاث في هذا المجال.",
+      "audio_script_en": "This study addresses the relationship between nasal procedures and CPAP treatment persistence. Data from over 1.3 million patients with obstructive sleep apnea were analyzed. The findings showed a CPAP discontinuation rate of 29%, with positive impacts from nasal surgeries. Nasal procedures, particularly temperature-controlled radiofrequency, yielded the best outcomes. The study emphasizes the importance of managing nasal obstruction as part of treatment to improve persistence. The results underline the need for further research in this area.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف الرئيسي من هذه الدراسة؟",
+          "q_en": "What is the main objective of this study?",
+          "options_ar": [
+            "أ) تقييم العلاقة بين الإجراءات الأنفية وCPAP",
+            "ب) دراسة تأثير الأدوية على CPAP",
+            "ج) مقارنة نتائج الجراحة الأنفية وحدها",
+            "د) تحليل البيانات السريرية لمرضى مختلفين"
+          ],
+          "options_en": [
+            "A) To evaluate the association between nasal procedures and CPAP",
+            "B) To study medication effects on CPAP",
+            "C) To compare nasal surgery results alone",
+            "D) To analyze clinical data for different patients"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة تهدف إلى تقييم العلاقة بين الإجراءات الأنفية ودواء CPAP.",
+          "explanation_en": "The study aims to evaluate the relationship between nasal procedures and CPAP treatment."
+        },
+        {
+          "q_ar": "ما هي نتيجة استخدام TCRF في هذه الدراسة؟",
+          "q_en": "What was the outcome of using TCRF in this study?",
+          "options_ar": [
+            "أ) زيادة معدل الانقطاع",
+            "ب) خفض معدل الانقطاع",
+            "ج) عدم وجود تأثير",
+            "د) زيادة الحاجة للجراحة"
+          ],
+          "options_en": [
+            "A) Increased discontinuation rate",
+            "B) Reduced discontinuation rate",
+            "C) No effect",
+            "D) Increased need for surgery"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم الربط بين TCRF وانخفاض معدل الانقطاع بشكل كبير.",
+          "explanation_en": "TCRF was significantly associated with a reduced discontinuation rate."
+        },
+        {
+          "q_ar": "ما الذي تستنتجه الدراسة بشأن الجراحة الأنفية واستخدام CPAP؟",
+          "q_en": "What does the study conclude about nasal surgery and CPAP usage?",
+          "options_ar": [
+            "أ) لا تأثير للجراحة",
+            "ب) ضرورية لتحسين الاستخدام",
+            "ج) متعلقة فقط بحالات معينة",
+            "د) أقل فعالية من العلاجات الأخرى"
+          ],
+          "options_en": [
+            "A) No impact of surgery",
+            "B) Necessary for improvement",
+            "C) Relevant only to specific cases",
+            "D) Less effective than other treatments"
+          ],
+          "answer": 1,
+          "explanation_ar": "تشير النتائج إلى أن الإجراءات الأنفية تعزز استخدام CPAP.",
+          "explanation_en": "The results indicate that nasal procedures enhance CPAP usage."
+        }
+      ]
+    },
+    {
+      "pmid": "42120574",
+      "title_ar": "Clinical-pathological T-stage discrepancy in OPHL: impact on oncologic outcomes.",
+      "title_en": "Clinical-pathological T-stage discrepancy in OPHL: impact on oncologic outcomes.",
+      "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+      "pub_date": "2026-May-13",
+      "doi": "10.1007/s00405-026-10246-4",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42120574/",
+      "pdf_url": null,
+      "study_design": "Retrospective series n=106",
+      "summary_ar": "تم إجراء دراسة م retrospective شاملة على 106 مرضى يعانون من سرطان الخلايا الحرشفية في الحنجرة وتم علاجهم بواسطة تقنية OPHL. تم تحليل الت discrepancies بين التصنيف السريري (cT) والتصنيف المرضي (pT). أظهرت النتائج أن 37.7% من المرضى يعانون من ت discordance في التصنيف، مع 19.8% منهم تم رفع تصنيفهم و17.9% تم تخفيض تصنيفهم. لم تكن هناك عوامل ما قبل الجراحة مرتبطة بشكل كبير مع الت discordance. في الختام، يبدو أن ت discordance في التصنيف لا تؤثر بشكل كبير على النتائج العلاجية.",
+      "summary_en": "A retrospective multicenter study was conducted on 106 patients with laryngeal squamous cell carcinoma (LSCC) treated with open partial horizontal laryngectomy (OPHL). Discrepancies between clinical (cT) and pathological (pT) staging were analyzed. Results showed T-stage discordance in 37.7% of patients, with 19.8% upstaged and 17.9% downstaged. No preoperative factors were significantly associated with discordance. In conclusion, clinical-pathological T-stage discordance does not significantly affect oncologic outcomes.",
+      "practice_change_ar": "لا يتطلب الأمر تغيير الممارسات السريرية نتيجة لهذه النتائج.",
+      "practice_change_en": "No change in clinical practice is required based on these findings.",
+      "future_impact_ar": "يمكن أن يؤثر فهم هذه الت discrepancies على طرق العلاج المستقبلية.",
+      "future_impact_en": "Understanding this discordance could influence future treatment approaches.",
+      "why_important_ar": "تسليط الضوء على أهمية التصنيف الصحيح المرحلة في سرطان الحنجرة.",
+      "why_important_en": "Highlights the importance of accurate staging in laryngeal cancer.",
+      "vs_previous_ar": "يؤكد هذا البحث على أن الت discordance لا تؤثر بشكل كبير على النتائج العلاجية.",
+      "vs_previous_en": "This research confirms that discordance does not significantly affect oncologic outcomes.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة retrospective مع عدد مرضى كبير، مع نتائج تجريبية ولكن نتائجها ليست مؤثرة.",
+      "stars_reason_en": "Retrospective study with a large patient number, presenting empirical results but not significantly impactful.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Provides valuable insights into T-stage classification in laryngeal cancer.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج الدراسات المستقبلية لاستكشاف تأثير الت discordance بشكل أعمق.",
+      "research_gap_en": "Future studies need to explore the impact of discordance more deeply.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تناولت هذه الدراسة discrepancies بين التصنيف السريري والتصنيف المرضي في مرضى سرطان الحنجرة الذين تمت معالجتهم بواسطة OPHL. تم تحليل 106 مرضى، وأظهرت النتائج أن 37.7% منهم يعانون من ت discordance. تم رفع تصنيف 19.8% وتخفيض تصنيف 17.9%. لم تظهر العوامل المسبقة علاقة ذات دلالة. يبدو أن هذه الت discrepancies لا تؤثر على النتائج العلاجية. لذلك، لا يتطلب الأمر تغييرات في الممارسات السريرية.",
+      "audio_script_en": "This study addressed discrepancies between clinical and pathological staging in laryngeal cancer patients treated with OPHL. Analyzing 106 patients, it showed 37.7% had T-stage discordance, with 19.8% upstaged and 17.9% downstaged. No preoperative factors were significantly associated. It appears these discrepancies do not impact oncologic outcomes, resulting in no necessary changes in clinical practice.",
+      "mcq": [
+        {
+          "q_ar": "ما هي نسبة المرضى الذين تم رفع تصنيفهم في هذه الدراسة؟",
+          "q_en": "What percentage of patients were upstaged in this study?",
+          "options_ar": [
+            "أ) 37.7%",
+            "ب) 19.8%",
+            "ج) 17.9%",
+            "د) 50%"
+          ],
+          "options_en": [
+            "A) 37.7%",
+            "B) 19.8%",
+            "C) 17.9%",
+            "D) 50%"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم رفع تصنيف 19.8% من المرضى.",
+          "explanation_en": "19.8% of patients were upstaged."
+        },
+        {
+          "q_ar": "هل كانت هناك عوامل مسبقة مرتبطة ب discordance؟",
+          "q_en": "Were there any preoperative factors associated with discordance?",
+          "options_ar": [
+            "أ) نعم",
+            "ب) لا",
+            "ج) لم يتم التحقيق",
+            "د) ليس من المعروف"
+          ],
+          "options_en": [
+            "A) Yes",
+            "B) No",
+            "C) Not investigated",
+            "D) Not known"
+          ],
+          "answer": 1,
+          "explanation_ar": "لم يكن هناك عوامل مسبقة مرتبطة بشكل كبير.",
+          "explanation_en": "No preoperative factors were significantly associated."
+        },
+        {
+          "q_ar": "ما هي نتيجة الدراسة بالنسبة ل outcomes العلاجية؟",
+          "q_en": "What is the study's result regarding oncologic outcomes?",
+          "options_ar": [
+            "أ) تؤثر بشكل كبير",
+            "ب) لا تؤثر",
+            "ج) تؤثر بشكل طفيف",
+            "د) غير معروفة"
+          ],
+          "options_en": [
+            "A) Significantly affects",
+            "B) Does not affect",
+            "C) Slightly affects",
+            "D) Unknown"
+          ],
+          "answer": 1,
+          "explanation_ar": "تشير الدراسة إلى أن ت discordance لا تؤثر بشكل كبير على outcomes العلاجية.",
+          "explanation_en": "The study indicates that discordance does not significantly affect oncologic outcomes."
+        }
+      ]
+    },
+    {
+      "pmid": "42117496",
+      "title_ar": "Female-Specific Risk of TAS2R Variants in Chronic Rhinosinusitis: A Hospital-Based Cohort Study From the Taiwan Precision Medicine Initiative.",
+      "title_en": "Female-Specific Risk of TAS2R Variants in Chronic Rhinosinusitis: A Hospital-Based Cohort Study From the Taiwan Precision Medicine Initiative.",
+      "journal": "International forum of allergy & rhinology",
+      "pub_date": "2026-May-12",
+      "doi": "10.1002/alr.70183",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42117496/",
+      "pdf_url": "https://doi.org/10.1002/alr.70183",
+      "study_design": "Retrospective case-control study n=8650",
+      "summary_ar": "تستهدف هذه الدراسة دراسة العلاقة بين متغيرات جين TAS2R والتهاب الأنف المزمن (CRS) في مجموعة من السكان الآسيويين. تم تحليل قاعدة بيانات مبادرة الطب الدقيق التايوانية، حيث تم تضمين 826 مريضًا و 8260 حالة تحكم. أظهرت النتائج أن متغير TAS2R38 كان مرتبطًا بزيادة خطر الإصابة بـ CRS في الإناث. النتائج تعزز أهمية مراعاة الجنس البيولوجي في استراتيجيات العلاج المستهدف.",
+      "summary_en": "This study investigates the association between TAS2R gene variants and chronic rhinosinusitis (CRS) in an Asian population. Analyzed using the Taiwan Precision Medicine Initiative database, it included 826 patients with CRS and 8260 control subjects. Results indicate that TAS2R38 variant is significantly associated with increased CRS risk in females. The findings highlight the importance of considering biological sex in targeted therapeutic strategies.",
+      "practice_change_ar": "يجب أن تؤخذ العوامل الجينية بعين الاعتبار عند تطوير استراتيجيات العلاج لـ CRS.",
+      "practice_change_en": "Genetic factors should be considered when developing treatment strategies for CRS.",
+      "future_impact_ar": "يدعم هذا البحث تخصيص العلاجات وفقًا للجنس والخصائص الجينية.",
+      "future_impact_en": "This research supports tailoring treatments based on sex and genetic characteristics.",
+      "why_important_ar": "تساهم هذه الدراسة في فهم العوامل الجينية التي تؤثر على CRS، مما يساعد في تحسين خيارات العلاج.",
+      "why_important_en": "This study contributes to understanding the genetic factors influencing CRS, aiding in improved treatment options.",
+      "vs_previous_ar": "يختلف هذا البحث عن الدراسات السابقة من خلال التركيز على تأثير المتغيرات الجينية على CRS في مجتمع الإناث.",
+      "vs_previous_en": "This research differs from previous studies by focusing on the impact of genetic variants on CRS specifically in the female population.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة حالة تحكم استعادية مع تأثيرات واضحة مرتبطة بالعوامل الجينية في النساء.",
+      "stars_reason_en": "A retrospective case-control study with clear effects linked to genetic factors in females.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Provides new insights into the role of genetic variants in CRS.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة تطورات علاج CRS المستندة إلى العوامل الجينية.",
+      "watch_detail_en": "Watch for developments in CRS treatment based on genetic factors.",
+      "watch_type": "drug",
+      "research_gap_ar": "يتطلب الأمر المزيد من الدراسة لفهم كيف يمكن أن تؤثر المتغيرات الجينية على خيارات العلاج في CRS.",
+      "research_gap_en": "Further research is needed to understand how genetic variants may affect treatment options in CRS.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تتناول هذه الدراسة العلاقة بين متغيرات جين TAS2R والتهاب الأنف المزمن في مجتمع الآسيويين. كانت النتائج تشير إلى أن متغير TAS2R38 مرتبط بخطر الإصابة بـ CRS بشكل كبير في الإناث، مما يكشف عن أهمية مراعاة الجنس في استراتيجيات العلاج المستهدف. يعكس البحث أهمية العوامل الجينية في تطور المرض وكيف يمكن استخدام ذلك لتخصيص العلاجات.",
+      "audio_script_en": "This study addresses the relationship between TAS2R gene variants and chronic rhinosinusitis in an Asian population. The results indicated that the TAS2R38 variant is significantly associated with increased risk of CRS in females, revealing the importance of considering sex in targeted treatment strategies. The research reflects the significance of genetic factors in disease development and how this can be used to personalize treatments.",
+      "mcq": [
+        {
+          "q_ar": "ما هو المتغير الجيني المرتبط بزيادة خطر الإصابة بالتهاب الأنف المزمن في الإناث؟",
+          "q_en": "Which genetic variant is associated with increased risk of chronic rhinosinusitis in females?",
+          "options_ar": [
+            "أ) TAS2R38",
+            "ب) TAS2R42",
+            "ج) TAS2R1",
+            "د) لا شيء مما سبق"
+          ],
+          "options_en": [
+            "A) TAS2R38",
+            "B) TAS2R42",
+            "C) TAS2R1",
+            "D) None of the above"
+          ],
+          "answer": 0,
+          "explanation_ar": "تم تحديد TAS2R38 كعنصر خطر مستقل لتطوير CRS في الإناث.",
+          "explanation_en": "TAS2R38 was identified as an independent risk factor for developing CRS in females."
+        },
+        {
+          "q_ar": "ما هو الهدف من هذه الدراسة؟",
+          "q_en": "What is the aim of this study?",
+          "options_ar": [
+            "أ) لدراسة العوامل الوراثية في CRS",
+            "ب) لتحديد تأثيرات الجنس على CRS",
+            "ج) للتحقق من معايير علاج CRS",
+            "د) كل ما سبق"
+          ],
+          "options_en": [
+            "A) To study genetic factors in CRS",
+            "B) To determine sex effects on CRS",
+            "C) To verify CRS treatment standards",
+            "D) All of the above"
+          ],
+          "answer": 3,
+          "explanation_ar": "تهدف الدراسة إلى استكشاف العلاقة بين المتغيرات الجينية والجنس وتأثيرها على CRS.",
+          "explanation_en": "The study aims to explore the relationship between genetic variants and sex, and their effects on CRS."
+        },
+        {
+          "q_ar": "ما هو التأثير الذي يظهره TAS2R1 وفقًا للدراسة؟",
+          "q_en": "What effect does TAS2R1 demonstrate according to the study?",
+          "options_ar": [
+            "أ) تأثير حارس",
+            "ب) تأثير وقائي",
+            "ج) تأثير ضار",
+            "د) تأثير غير مؤكد"
+          ],
+          "options_en": [
+            "A) Risk effect",
+            "B) Protective effect",
+            "C) Harmful effect",
+            "D) Uncertain effect"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهر TAS2R1 تأثيرًا وقائيًا لـ CRS.",
+          "explanation_en": "TAS2R1 demonstrated a protective effect for CRS."
+        }
+      ]
+    },
+    {
+      "pmid": "42117898",
+      "title_ar": "Prognostic Significance of Lymph Node Parameters in Laryngeal Cancer After Laryngectomy.",
+      "title_en": "Prognostic Significance of Lymph Node Parameters in Laryngeal Cancer After Laryngectomy.",
+      "journal": "The Laryngoscope",
+      "pub_date": "2026-May-12",
+      "doi": "10.1002/lary.70614",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42117898/",
+      "pdf_url": null,
+      "study_design": "Retrospective series n=48",
+      "summary_ar": "تهدف هذه الدراسة إلى تقييم الدلالة التنبؤية لمتغيرات الغدد اللمفاوية لدى المرضى الذين يعانون من سرطان الحنجرة. تمت دراسة 48 مريضًا خضعوا لجراحة إزالة الحنجرة مع استئصال رقبة ثنائية. أظهرت نتائج الدراسة أن عدد الغدد اللمفاوية النقيضة كان مرتبطًا بشكل كبير بالبقاء العام. تم تحديد قيمة قطع مثالية لنسبة الغدد اللمفاوية. هذه المتغيرات تلعب دورًا مهمًا في التنبؤ بمصير المرضى.",
+      "summary_en": "This study aims to evaluate the prognostic significance of lymph node parameters in patients with laryngeal cancer. It included 48 patients who underwent laryngectomy with bilateral neck dissection. The results indicated that the count of metastatic lymph nodes was significantly associated with overall survival. An optimal cutoff for lymph node ratio was identified. These parameters are critical in predicting patient outcomes.",
+      "practice_change_ar": "يجب على الأطباء أن يأخذوا في الاعتبار متغيرات الغدد اللمفاوية لتحسين نتائج المرضى.",
+      "practice_change_en": "Clinicians should consider lymph node parameters to improve patient outcomes.",
+      "future_impact_ar": "هذه الدراسة قد تغير كيفية تقييم المرضى وخططهم العلاجية المستقبلية.",
+      "future_impact_en": "This study may change how patients are evaluated and their future treatment plans.",
+      "why_important_ar": "تسليط الضوء على دور متغيرات الغدد اللمفاوية في التنبؤ بالنجاة مهم للغاية.",
+      "why_important_en": "Highlighting the role of lymph node parameters in survival prediction is crucial.",
+      "vs_previous_ar": "يختلف هذا البحث بتقديم معلومات جديدة حول أهمية عدد الغدد اللمفاوية في نتائج المرضى.",
+      "vs_previous_en": "This research presents new information regarding the importance of lymph node count in patient outcomes.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استعادية مع 48 مريضًا وإضافة قيمة جديدة للمعرفة السريرية.",
+      "stars_reason_en": "Retrospective study with 48 patients and adds new value to clinical knowledge.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Study provides new insights into survival predictions in laryngeal cancer.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج الأبحاث المستقبلية لمزيد من الدراسات الكبرى لتأكيد نتائج هذه الدراسة.",
+      "research_gap_en": "Future research needs larger studies to confirm the findings of this study.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "هذه الدراسة تهدف إلى تقييم الدلالة التنبؤية لمتغيرات الغدد اللمفاوية لدى مرضى سرطان الحنجرة. شملت 48 مريضًا خضعوا لجراحة إزالة الحنجرة واستئصال رقبة ثنائية. أظهرت النتائج أن عدد الغدد اللمفاوية النقيضة كان مرتبطًا بشكل كبير بالبقاء العام. تم تحديد قيمة قطع مثالية لنسبة الغدد اللمفاوية. تعتبر هذه المتغيرات مهمة لتحسين نتائج المرضى.",
+      "audio_script_en": "This study aims to evaluate the prognostic significance of lymph node parameters in laryngeal cancer patients. It included 48 patients who underwent laryngectomy with bilateral neck dissection. The results showed that the count of metastatic lymph nodes was significantly associated with overall survival. An optimal cutoff for lymph node ratio was identified. These parameters are important for improving patient outcomes.",
+      "mcq": [
+        {
+          "q_ar": "ما هو العدد الكلي للمرضى في الدراسة؟",
+          "q_en": "What is the total number of patients in the study?",
+          "options_ar": [
+            "أ) 30",
+            "ب) 48",
+            "ج) 100",
+            "د) 70"
+          ],
+          "options_en": [
+            "A) 30",
+            "B) 48",
+            "C) 100",
+            "D) 70"
+          ],
+          "answer": 1,
+          "explanation_ar": "شملت الدراسة 48 مريضًا.",
+          "explanation_en": "The study included 48 patients."
+        },
+        {
+          "q_ar": "ما هو المتغير الأكثر ارتباطًا بالبقاء العام؟",
+          "q_en": "Which variable is most associated with overall survival?",
+          "options_ar": [
+            "أ) عمر المريض",
+            "ب) عدد الغدد اللمفاوية النقيضة",
+            "ج) مرحلة TNM",
+            "د) نوع العلاج"
+          ],
+          "options_en": [
+            "A) Patient age",
+            "B) Number of metastatic lymph nodes",
+            "C) TNM stage",
+            "D) Type of treatment"
+          ],
+          "answer": 1,
+          "explanation_ar": "عدد الغدد اللمفاوية النقيضة هو المتغير الأكثر ارتباطًا بالبقاء العام.",
+          "explanation_en": "The number of metastatic lymph nodes is the variable most associated with overall survival."
+        },
+        {
+          "q_ar": "ما هي قيمة القطع المثلى لنسبة الغدد اللمفاوية؟",
+          "q_en": "What is the optimal cutoff value for lymph node ratio?",
+          "options_ar": [
+            "أ) 0.045",
+            "ب) 0.50",
+            "ج) 0.10",
+            "د) 0.20"
+          ],
+          "options_en": [
+            "A) 0.045",
+            "B) 0.50",
+            "C) 0.10",
+            "D) 0.20"
+          ],
+          "answer": 0,
+          "explanation_ar": "تم تحديد قيمة القطع المثلى لنسبة الغدد اللمفاوية عند 0.045.",
+          "explanation_en": "The optimal cutoff value for lymph node ratio was identified at 0.045."
+        }
+      ]
+    },
+    {
+      "pmid": "42126155",
+      "title_ar": "Implications of Glucagon-Like Peptide-1 Receptor Agonists in Otolaryngology - Head and Neck Surgery: A Review.",
+      "title_en": "Implications of Glucagon-Like Peptide-1 Receptor Agonists in Otolaryngology - Head and Neck Surgery: A Review.",
+      "journal": "The Annals of otology, rhinology, and laryngology",
+      "pub_date": "2026-May-13",
+      "doi": "10.1177/00034894261450724",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42126155/",
+      "pdf_url": null,
+      "study_design": "Review Article",
+      "summary_ar": "تتناول هذه المقالة تأثيرات agonists لمستقبلات الجلوكاجون مثل الببتيد 1 (GLP-1RAs) في مجال جراحة الأنف والأذن والحنجرة. مع تزايد عدد المرضى الذين يتناولون هذه الأدوية، يتمثل التأثير الإيجابي في علاج توقف التنفس أثناء النوم. ومع ذلك، قد تؤدي هذه الأدوية إلى مشكلات مثل التأخير في إفراغ المعدة، والذي قد يسهم في حدوث ارتجاع أو سعال مزمن. تشير الأدلة الحديثة إلى وجود آثار سريرية على التهاب الجيوب الأنفية والاضطرابات الشمية. بالإضافة إلى ذلك، تم التحقيق في الفوائد المحتملة لها فيما يتعلق بفقدان السمع الناتج عن السموم العصبية.",
+      "summary_en": "This article discusses the implications of glucagon-like peptide-1 receptor agonists (GLP-1RAs) in the field of otolaryngology - head and neck surgery. As the number of patients taking these medications increases, they have shown positive effects in treating obstructive sleep apnea. However, these drugs may also cause issues such as delayed gastric emptying, contributing to reflux and chronic cough. Recent evidence indicates clinical implications for chronic sinusitis and olfactory disorders. Furthermore, potential benefits regarding neurotoxicity-associated hearing loss have been investigated.",
+      "practice_change_ar": "يجب على الأطباء أن يكونوا على دراية بالتوجيهات المتعلقة بسلامة التخدير لتفادي المخاطر المحتملة.",
+      "practice_change_en": "Physicians should be aware of anesthetic guidelines to mitigate potential risks.",
+      "future_impact_ar": "يمكن أن تصبح GLP-1RAs ذات أهمية متزايدة في علاج اضطرابات النوم.",
+      "future_impact_en": "GLP-1RAs may become increasingly relevant in the treatment of sleep disorders.",
+      "why_important_ar": "تتناول المقالة تأثيرات هامة للأدوية الجديدة على الصحة الأنفية والحنجرية.",
+      "why_important_en": "The article addresses significant effects of new medications on head and neck health.",
+      "vs_previous_ar": "تقدم المقالة رؤى جديدة حول الآثار السريرية لمستقبلات GLP-1RAS في علم الأنف والأذن والحنجرة.",
+      "vs_previous_en": "The article provides new insights into the clinical effects of GLP-1RAs in otolaryngology.",
+      "stars": 4,
+      "stars_reason_ar": "مقالة مراجعة نوعية تقدم معلومات جديدة حول GLP-1RAs وتأثيراتها السريرية.",
+      "stars_reason_en": "A quality review article that provides new information on GLP-1RAs and their clinical implications.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The article provides a comprehensive review of GLP-1RAs implications in the ENT field.",
+      "watch": true,
+      "watch_detail_ar": "من المهم متابعة الأبحاث حول GLP-1RAs وتأثيراتها على اضطرابات النوم.",
+      "watch_detail_en": "It is important to track research on GLP-1RAs and their effects on sleep disorders.",
+      "watch_type": "drug",
+      "research_gap_ar": "تحتاج الدراسات المستقبلية إلى تحديد العلاقة السببية المحتملة بين GLP-1RAs وسرطان الغدة الدرقية.",
+      "research_gap_en": "Future studies need to establish potential causal relationships between GLP-1RAs and thyroid cancer.",
+      "subspecialty": "sleep",
+      "audio_script_ar": "تتناول هذه المقالة تأثيرات agonists لمستقبلات الجلوكاجون مثل الببتيد 1 في مجال جراحة الأنف والأذن والحنجرة. تزايد عدد المرضى الذين يتناولون هذه الأدوية بسبب فوائدها في علاج داء السكري وإدارة الوزن. ومع ذلك، ينبغي على الأطباء أن يكونوا واعين للآثار الجانبية المحتملة، مثل التأخير في إفراغ المعدة. تتيح هذه المقالة فهمًا أعمق للآثار السريرية لهذه الأدوية وأهمية توجيه الأنشطة العلاجية طبقًا لذلك.",
+      "audio_script_en": "This article discusses the implications of glucagon-like peptide-1 receptor agonists in the field of otolaryngology. The increasing number of patients using these medications due to their benefits in treating diabetes and weight management is highlighted. However, physicians should be aware of potential side effects, such as delayed gastric emptying. This article provides a deeper understanding of the clinical implications of these drugs and the importance of guiding therapeutic activities accordingly.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الدور الرئيسي لـ GLP-1RAs في جراحة الأنف والأذن والحنجرة؟",
+          "q_en": "What is the primary role of GLP-1RAs in otolaryngology?",
+          "options_ar": [
+            "أ) علاج مضاعفات السكري",
+            "ب) تحسين النوم",
+            "ج) تعزيز الشهية",
+            "د) زيادة إنتاج الغدة الدرقية"
+          ],
+          "options_en": [
+            "A) Treatment of diabetes complications",
+            "B) Improvement of sleep",
+            "C) Appetite enhancement",
+            "D) Increase in thyroid hormone production"
+          ],
+          "answer": 1,
+          "explanation_ar": "تساعد الأدوية في تحسين الحالات المرتبطة بتوقف التنفس أثناء النوم.",
+          "explanation_en": "The medications help improve conditions associated with obstructive sleep apnea."
+        },
+        {
+          "q_ar": "ما هي الأعراض المحتملة لـ GLP-1RAs في العمليات الجراحية؟",
+          "q_en": "What are potential symptoms of GLP-1RAs in surgical settings?",
+          "options_ar": [
+            "أ) ارتجاع",
+            "ب) ضغط دم منخفض",
+            "ج) تسارع في ضربات القلب",
+            "د) فقدان الوزن"
+          ],
+          "options_en": [
+            "A) Reflux",
+            "B) Low blood pressure",
+            "C) Rapid heartbeat",
+            "D) Weight loss"
+          ],
+          "answer": 0,
+          "explanation_ar": "التأخير في إفراغ المعدة قد يسهم في حدوث الارتجاع.",
+          "explanation_en": "Delayed gastric emptying may contribute to reflux."
+        },
+        {
+          "q_ar": "ما هو الاتجاه المستقبلي لدراسة GLP-1RAs في مجال ENT؟",
+          "q_en": "What is the future direction for studying GLP-1RAs in ENT?",
+          "options_ar": [
+            "أ) تقليل الوزن",
+            "ب) تعزيز السمع",
+            "ج) دراسة آثارها على السمع",
+            "د) قياس مستوى السكر في الدم"
+          ],
+          "options_en": [
+            "A) Weight loss reduction",
+            "B) Hearing enhancement",
+            "C) Studying their effects on hearing",
+            "D) Measuring blood sugar levels"
+          ],
+          "answer": 2,
+          "explanation_ar": "تحتاج الأبحاث المستقبلية إلى تحديد فوائدها المحتملة لفقدان السمع.",
+          "explanation_en": "Future research needs to identify their potential benefits for hearing loss."
+        }
+      ]
+    },
+    {
+      "pmid": "42121085",
+      "title_ar": "Shift work and sleep quality, cardiovascular risk, and occupational safety among healthcare workers in Saudi Arabia: a national cross-sectional study.",
+      "title_en": "Shift work and sleep quality, cardiovascular risk, and occupational safety among healthcare workers in Saudi Arabia: a national cross-sectional study.",
+      "journal": "BMC public health",
+      "pub_date": "2026-May-13",
+      "doi": "10.1186/s12889-026-27696-4",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42121085/",
+      "pdf_url": "https://doi.org/10.1186/s12889-026-27696-4",
+      "study_design": "Analytical cross-sectional study",
+      "summary_ar": "هذه الدراسة التحليلية تدرس تأثير العمل بنظام المناوبات على جودة النوم وعوامل خطر القلب الوعائي في المملكة العربية السعودية. أظهرت النتائج أن 73.8% من المشاركين هم من عمال المناوبات، لكن لم يكن هناك ارتباط مستقل بين العمل بنظام المناوبات وأعباء عوامل خطر القلب الوعائي. ومع ذلك، كان عمال المناوبات يعانون من نوعية نوم أسوأ وزيادة في النوم الزائد. توضح الدراسة أيضًا العلاقة بين مدة العمل الليلي وتأثيرها على جودة النوم والإدراك المعرفي. تشير النتائج إلى الحاجة إلى استراتيجيات إدارة التعب.",
+      "summary_en": "This analytical study investigates the impact of shift work on sleep quality and cardiovascular risk factors among healthcare workers in Saudi Arabia. Results showed that 73.8% of participants were shift workers, but no independent association was found between shift work and composite cardiovascular risk factor burden. However, shift workers experienced poorer sleep quality and increased sleepiness. The study also highlights a relationship between cumulative night shift exposure and sleep quality, alongside cognitive impairment. The findings emphasize the need for fatigue management strategies.",
+      "practice_change_ar": "تتطلب إدارة التعب والإجهاد لصحة العمال الصحية.",
+      "practice_change_en": "Requires managing fatigue and stress for healthcare workers’ health.",
+      "future_impact_ar": "يمكن أن يؤدي إلى تحسين سياسات الصحة المهنية للعمال الصحيين.",
+      "future_impact_en": "May lead to improved occupational health policies for healthcare workers.",
+      "why_important_ar": "هذه المقالة تسلط الضوء على قضايا أمن وسلامة العمال الصحيين.",
+      "why_important_en": "This article highlights issues of safety and well-being among healthcare workers.",
+      "vs_previous_ar": "تقدم هذه الدراسة بالإضافة إلى التحديات الصحية المرتبطة بأنظمة العمل.",
+      "vs_previous_en": "This study adds to the understanding of health challenges associated with work systems.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة تحليلية تعرض نتائج جديدة حول تأثير العمل بنظام المناوبات على الصحة.",
+      "stars_reason_en": "Analytical study presenting new findings on the impact of shift work on health.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Highlights new issues in shift work and its health implications.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "توجد حاجة لدراسات مستقبلية طويلة المدى حول تأثيرات العمل بنظام المناوبات.",
+      "research_gap_en": "There is a need for future longitudinal studies on the effects of shift work.",
+      "subspecialty": "sleep",
+      "audio_script_ar": "تتناول هذه الدراسة التحليلية تأثير العمل بنظام المناوبات على جودة النوم وعوامل خطر القلب الوعائي لدى عمال الصحة في المملكة العربية السعودية. البيانات تظهر أن 73.8% من العمال كانوا يعملون بنظام المناوبات، ولكن لم يكن هناك ارتباط ملحوظ بين العمل بنظام المناوبات وأعباء عوامل الخطر القلبية الوعائية. ومع ذلك، عانى العمال من نوعية نوم أسوأ وزيادة في النوم الزائد. الدراسة توضح أيضًا أهمية طول مدة العمل الليلي وتأثيره على الإدراك المعرفي وجودة النوم. بالتالي، تشير النتائج إلى الحاجة إلى استراتيجيات جديدة لإدارة التعب والكم المعرفي.",
+      "audio_script_en": "This analytical study addresses the impact of shift work on sleep quality and cardiovascular risk factors among healthcare workers in Saudi Arabia. Data shows that 73.8% of workers were in shift work, but no notable association was found between shift work and cardiovascular risk burden. However, workers reported poorer sleep quality and increased sleepiness. The study also highlights the importance of the length of night shift exposure on cognitive impairment and sleep quality. Thus, the findings indicate a need for new strategies to manage fatigue and cognitive load.",
+      "mcq": [
+        {
+          "q_ar": "ما هي النسبة المئوية للعمال الذين يعملون بنظام المناوبات في الدراسة؟",
+          "q_en": "What percentage of workers were shift workers in the study?",
+          "options_ar": [
+            "أ) 57.9%",
+            "ب) 73.8%",
+            "ج) 61.5%",
+            "د) 28.3%"
+          ],
+          "options_en": [
+            "A) 57.9%",
+            "B) 73.8%",
+            "C) 61.5%",
+            "D) 28.3%"
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسة أظهرت أن 73.8% من المشاركين كانوا من عمال المناوبات.",
+          "explanation_en": "The study showed that 73.8% of participants were shift workers."
+        },
+        {
+          "q_ar": "هل كان العمل بنظام المناوبات مرتبطًا بزيادة خطر القلب الوعائي؟",
+          "q_en": "Was shift work associated with increased cardiovascular risk?",
+          "options_ar": [
+            "أ) نعم",
+            "ب) لا",
+            "ج) غير متأكد",
+            "د) لا توجد معلومات"
+          ],
+          "options_en": [
+            "A) Yes",
+            "B) No",
+            "C) Unsure",
+            "D) No Information"
+          ],
+          "answer": 1,
+          "explanation_ar": "لم يتم العثور على ارتباط مستقل بين العمل بنظام المناوبات وخطر القلب الوعائي.",
+          "explanation_en": "No independent association was found between shift work and cardiovascular risk."
+        },
+        {
+          "q_ar": "ما هي إحدى النتائج السلبية المبلغ عنها من قبل عمال المناوبات؟",
+          "q_en": "What is one negative outcome reported by shift workers?",
+          "options_ar": [
+            "أ) زيادة نوعية النوم",
+            "ب) زيادة اليقظة",
+            "ج) ضعف نوعية النوم",
+            "د) انخفاض نسبة الإجهاد"
+          ],
+          "options_en": [
+            "A) Improved sleep quality",
+            "B) Increased alertness",
+            "C) Poorer sleep quality",
+            "D) Decreased stress levels"
+          ],
+          "answer": 2,
+          "explanation_ar": "أبلغ عمال المناوبات عن ضعف في نوعية النوم.",
+          "explanation_en": "Shift workers reported poorer sleep quality."
+        }
+      ]
+    },
+    {
+      "pmid": "42129468",
+      "title_ar": "The relationship between sleep bruxism and sleep-related respiratory events under oral appliance therapy in patients with obstructive sleep apnea.",
+      "title_en": "The relationship between sleep bruxism and sleep-related respiratory events under oral appliance therapy in patients with obstructive sleep apnea.",
+      "journal": "Scientific reports",
+      "pub_date": "2026-May-14",
+      "doi": "10.1038/s41598-026-53008-2",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42129468/",
+      "pdf_url": null,
+      "study_design": "Exploratory within-subject study",
+      "summary_ar": "تهدف هذه الدراسة الاستكشافية إلى التحقيق في كيفية تأثير علاج الجهاز عن طريق الفم على نشاط صرير الأسنان وخصائص الاستيقاظ من خلال فحص التغيرات في صرير الأسنان، والأحداث التنفسية، ومؤشرات الاستيقاظ قبل وبعد العلاج. شارك في الدراسة 23 مريضًا تم تشخيصهم بانقطاع النفس النومي باستخدام تخطيط النوم. أظهرت التقييمات قبل وبعد العلاج انخفاضًا ملحوظًا في مؤشر توقف التنفس أثناء النوم. بالإضافة إلى ذلك، لوحظ انخفاض كبير في إجمالي حلقات صرير الأسنان وزيادة في مؤشر الاستيقاظ التلقائي. تشير النتائج إلى أن التغيرات في صرير الأسنان قد تعكس آليات متعددة وليست مجرد تحسينات في التنفس.",
+      "summary_en": "This exploratory study aimed to investigate how oral appliance therapy influences sleep bruxism activity and arousal characteristics by examining changes in bruxism, respiratory events, and arousal indices before and after treatment. Twenty-three patients diagnosed with sleep apnea via polysomnography participated. Evaluations showed a significant reduction in the apnea-hypopnea index and total bruxism episodes, along with an increase in the spontaneous arousal index. The findings suggest that changes in bruxism may reflect multifactorial mechanisms rather than solely respiratory improvements.",
+      "practice_change_ar": "يمكن أن يؤثر العلاج عن طريق الفم على نشاط صرير الأسنان من خلال تحسين مؤشرات التنفس.",
+      "practice_change_en": "Oral appliance therapy may influence bruxism activity through improvements in respiratory indices.",
+      "future_impact_ar": "ستفتح هذه النتائج آفاقًا جديدة لفهم العلاقة بين صرير الأسنان وانقطاع النفس النومي.",
+      "future_impact_en": "These findings will open new avenues for understanding the relationship between bruxism and sleep apnea.",
+      "why_important_ar": "تكتسب هذه المقالة اهتمامًا متزايدًا لفهم كيفية تأثير النظم العلاجية على صرير الأسنان في سياق انقطاع النفس النومي.",
+      "why_important_en": "This article gains increasing interest in understanding how therapeutic systems affect bruxism in the context of sleep apnea.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة من خلال التركيز على العلاقة بين صرير الأسنان والأحداث التنفسية تحت علاج الجهاز.",
+      "vs_previous_en": "This study differs from previous knowledge by focusing on the relationship between bruxism and respiratory events under appliance therapy.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة تصميم خاضع للمراقبة مع عدد مرضى مقبول مما يستحق 4 نجوم.",
+      "stars_reason_en": "The study is a within-subject design with an acceptable patient count, deserving 4 stars.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study offers new insights into the impact of appliance therapy on bruxism.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة تأثيرات العلاج عن طريق الفم على صرير الأسنان وتفاعلاته مع الأحداث التنفسية.",
+      "watch_detail_en": "The effects of oral appliance therapy on bruxism and its interactions with respiratory events should be monitored.",
+      "watch_type": "device",
+      "research_gap_ar": "ثمة حاجة إلى مزيد من الدراسات لفهم الآليات خلف تأثير علاج الأجهزة على صرير الأسنان.",
+      "research_gap_en": "There is a need for further studies to understand the mechanisms behind the impact of appliance therapy on bruxism.",
+      "subspecialty": "sleep",
+      "audio_script_ar": "تتناول هذه الدراسة العلاقة بين صرير الأسنان والأحداث التنفسية تحت تأثير علاج الأجهزة الفموية في مرضى انقطاع النفس النومي. تم تحقيق ذلك من خلال مراجعة تغييرات نشاط صرير الأسنان ومؤشرات الاستيقاظ في 23 مريضًا. أظهر التحليل أن العلاج أدى إلى تقليل كبير في العمليات التنفسية وصرير الأسنان، مما يشير إلى أن التغيرات في صرير الأسنان قد تعتمد على آليات متعددة. هذه النتائج تدعو إلى مزيد من البحث لفهم كيفية تأثير هذه العلاجات على صرير الأسنان.",
+      "audio_script_en": "This study addresses the relationship between sleep bruxism and respiratory events under oral appliance therapy in patients with sleep apnea. This was achieved by reviewing changes in bruxism activity and arousal indices in 23 patients. The analysis showed that treatment led to significant reductions in respiratory events and bruxism, suggesting that changes in bruxism may depend on multifactorial mechanisms. These results call for further research to understand how these treatments impact bruxism.",
+      "mcq": [
+        {
+          "q_ar": "ما هو التأثير الرئيسي لعلاج الجهاز عن طريق الفم في المرضى الذين يعانون من انقطاع النفس النومي وفقًا للدراسة؟",
+          "q_en": "What is the main effect of oral appliance therapy in patients with sleep apnea according to the study?",
+          "options_ar": [
+            "أ) زيادة في صرير الأسنان",
+            "ب) انخفاض في الأحداث التنفسية",
+            "ج) زيادة في مؤشر الاستيقاظ التلقائي",
+            "د) لا تأثير"
+          ],
+          "options_en": [
+            "A) Increase in bruxism",
+            "B) Decrease in respiratory events",
+            "C) Increase in spontaneous arousal index",
+            "D) No effect"
+          ],
+          "answer": 1,
+          "explanation_ar": "أشارت الدراسة إلى أن العلاج أدى إلى انخفاض كبير في الأحداث التنفسية.",
+          "explanation_en": "The study indicated that treatment resulted in a significant decrease in respiratory events."
+        },
+        {
+          "q_ar": "ما عدد المرضى الذين شاركوا في الدراسة؟",
+          "q_en": "How many patients participated in the study?",
+          "options_ar": [
+            "أ) 10",
+            "ب) 20",
+            "ج) 23",
+            "د) 30"
+          ],
+          "options_en": [
+            "A) 10",
+            "B) 20",
+            "C) 23",
+            "D) 30"
+          ],
+          "answer": 2,
+          "explanation_ar": "شارك في الدراسة 23 مريضًا تم تشخيصهم بانقطاع النفس النومي.",
+          "explanation_en": "A total of 23 patients diagnosed with sleep apnea participated in the study."
+        },
+        {
+          "q_ar": "ما هو عنصرك الرئيسي عند دراسة تأثير علاج الجهاز على صرير الأسنان؟",
+          "q_en": "What is the main element in studying the effect of appliance therapy on bruxism?",
+          "options_ar": [
+            "أ) تحليل النوم",
+            "ب) الفحص البدني",
+            "ج) استبيانات المرضى",
+            "د) الأشعة السينية"
+          ],
+          "options_en": [
+            "A) Sleep analysis",
+            "B) Physical examination",
+            "C) Patient questionnaires",
+            "D) X-rays"
+          ],
+          "answer": 0,
+          "explanation_ar": "تضمنت الدراسة تحليلًا لتخطيط النوم لقياس صرير الأسنان والأحداث التنفسية.",
+          "explanation_en": "The study included sleep analysis to measure bruxism and respiratory events."
+        }
+      ]
+    },
+    {
+      "pmid": "42129433",
+      "title_ar": "Electromyography of the stapedius muscle via a retrofacial approach and electrically evoked stapedius reflex during cochlear implant surgery: a prospective bicentric study.",
+      "title_en": "Electromyography of the stapedius muscle via a retrofacial approach and electrically evoked stapedius reflex during cochlear implant surgery: a prospective bicentric study.",
+      "journal": "Scientific reports",
+      "pub_date": "2026-May-13",
+      "doi": "10.1038/s41598-026-53093-3",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42129433/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort",
+      "summary_ar": "يقدم هذا البحث دراسة استبقاية حول قياس العتبة المنعكسة المخروطية الكهربائية (eSRT) باستخدام تخطيط العضلات الكهربائية (EMG) لعضلة السمع (SM) خلال جراحة زراعة القوقعة. تم استخدام طريقة ريتروفاسيال في 11 مريضًا وطريقة أمامية في 3 مرضى لقياس العتبة. أظهرت النتائج أن تحديد العضلة باستخدام EMG كان ممكنًا في 8 مرضى باستخدام التحفيز الكهربائي، مما يدل على توافق مع الطرق التقليدية. تشير النتائج إلى أن استخدام EMG في قياس eSRT قد يكون طريقة قابلة للتطبيق داخل الجراحة.",
+      "summary_en": "This study presents a prospective evaluation of measuring the electrically evoked stapedius reflex threshold (eSRT) using electromyography (EMG) of the stapedius muscle (SM) during cochlear implant surgery. The retrofacial approach was utilized in 11 patients, while an anterior approach was used in 3 patients for measurement. The findings indicate that SM-EMG identification was feasible in 8 patients with electrial stimulation, demonstrating compatibility with standard methods. Results suggest that SM-EMG-based eSRT measurement could be a viable intraoperative approach.",
+      "practice_change_ar": "يمكن أن يؤدي استخدام EMG لقياس العتبة المنعكسة إلى تحسين تكيف زراعة القوقعة.",
+      "practice_change_en": "Using EMG to measure reflex thresholds can enhance cochlear implant fitting.",
+      "future_impact_ar": "هناك حاجة لمزيد من البحث لتحديد العلاقة بين قياسات eSRT واستخدامات الأجهزة الذكية المستقبلية.",
+      "future_impact_en": "Further research is needed to determine the relationship between eSRT measurements and future smart device applications.",
+      "why_important_ar": "هذا البحث يقدم طريقة جديدة لقياس العتبة المنعكسة أثناء جراحة زراعة القوقعة.",
+      "why_important_en": "This study provides a new method for measuring reflex thresholds during cochlear implant surgery.",
+      "vs_previous_ar": "تختلف هذه النتائج عن المعرفة السابقة من خلال تقديم استخدام EMG كأداة قياس جديدة.",
+      "vs_previous_en": "These findings differ from previous knowledge by introducing EMG as a new measurement tool.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة استبقاية ونشر في مجلة ذات سمعة، مما يمنحها قاعدة جيدة مع معلومات جديدة.",
+      "stars_reason_en": "The study is prospective and published in a reputable journal, granting it a good baseline with new information.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The topic addresses new techniques in cochlear implant surgery.",
+      "watch": true,
+      "watch_detail_ar": "يجب مراقبة تطورات استخدام EMG في زراعة القوقعة لما لها من أهمية كبيرة.",
+      "watch_detail_en": "The development of EMG use in cochlear implants should be monitored for its significant implications.",
+      "watch_type": "device",
+      "research_gap_ar": "توجد حاجة لمزيد من الأبحاث لاستكشاف العلاقة بين القياسات وراحة المرضى.",
+      "research_gap_en": "There is a need for more research to explore the relationship between measurements and patient comfort.",
+      "subspecialty": "otology",
+      "audio_script_ar": "هذه الدراسة تقيم استخدام تخطيط العضلات الكهربائية لقياس العتبة المنعكسة أثناء جراحة زراعة القوقعة. تم استخدام طرق ريتروفاسيال وأمامية للحصول على البيانات. النتائج تشير إلى أن استخدام EMG يمكن أن يكون طريقة قابلة للتطبيق بشكل جيد لتقييم العتبة المنعكسة. هذه الطريقة تقدم معلومات جديدة قد تحسن تكيف زراعة القوقعة. تحتاج نتائج هذه الدراسة إلى مزيد من البحث لفهم العلاقة بين القياسات وراحة المرضى.",
+      "audio_script_en": "This study assesses the use of electromyography to measure reflex thresholds during cochlear implant surgery. Retrofacial and anterior approaches were utilized to gather data. Results indicate that using EMG may be a viable method for evaluating the reflex threshold. This approach offers new insights that could enhance cochlear implant fitting. The findings from this study require further research to understand the relationship between measurements and patient comfort.",
+      "mcq": [
+        {
+          "q_ar": "ما هي الطريقة الرئيسية المستخدمة في هذه الدراسة لقياس العتبة المنعكسة؟",
+          "q_en": "What is the main method used in this study to measure reflex thresholds?",
+          "options_ar": [
+            "أ) تخطيط العضلات الكهربائية",
+            "ب) القسطرة",
+            "ج) الأشعة السينية",
+            "د) الفحص البصري"
+          ],
+          "options_en": [
+            "A) Electromyography",
+            "B) Catheterization",
+            "C) X-ray",
+            "D) Visual examination"
+          ],
+          "answer": 0,
+          "explanation_ar": "تم استخدام تخطيط العضلات الكهربائية لقياس العتبة المنعكسة.",
+          "explanation_en": "Electromyography was used to measure reflex thresholds."
+        },
+        {
+          "q_ar": "كم عدد المرضى الذين تم استخدامهم في دراسة هذه الطريقة؟",
+          "q_en": "How many patients were used in studying this method?",
+          "options_ar": [
+            "أ) 5",
+            "ب) 11",
+            "ج) 14",
+            "د) 20"
+          ],
+          "options_en": [
+            "A) 5",
+            "B) 11",
+            "C) 14",
+            "D) 20"
+          ],
+          "answer": 2,
+          "explanation_ar": "تم استخدام 14 مريضًا في دراسة هذه الطريقة.",
+          "explanation_en": "Fourteen patients were used in the study of this method."
+        },
+        {
+          "q_ar": "ما النتيجة الرئيسية التي توصلت إليها الدراسة؟",
+          "q_en": "What was the main finding of the study?",
+          "options_ar": [
+            "أ) عدم وجود مخاطر",
+            "ب) انخفاض في القبول",
+            "ج) فعالية EMG",
+            "د) ضرورة إجراء المزيد من الأبحاث"
+          ],
+          "options_en": [
+            "A) No risks",
+            "B) Decrease in acceptance",
+            "C) Effectiveness of EMG",
+            "D) Need for more research"
+          ],
+          "answer": 2,
+          "explanation_ar": "أظهرت الدراسة فعالية استخدام EMG في قياس العتبة.",
+          "explanation_en": "The study demonstrated the effectiveness of using EMG in measuring thresholds."
+        }
+      ]
+    },
+    {
+      "pmid": "42128847",
+      "title_ar": "A Novel MR Cine Sialography Technique for Evaluating Salivary Gland Function: Correlation with Unstimulated and Stimulated Saliva Volumes.",
+      "title_en": "A Novel MR Cine Sialography Technique for Evaluating Salivary Gland Function: Correlation with Unstimulated and Stimulated Saliva Volumes.",
+      "journal": "Magnetic resonance in medical sciences : MRMS : an official journal of Japan Society of Magnetic Resonance in Medicine",
+      "pub_date": "2026-May-14",
+      "doi": "10.2463/mrms.mp.2026-0004",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42128847/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort",
+      "summary_ar": "هذه الدراسة تقيّم وظيفة الغدد اللعابية باستخدام تقنية MR Cine Sialography استنادًا إلى تقنية Time-SLIP. تم تصور تدفق اللعاب الثنائي من الغدد تحت الفك والغدد اللعابية الكبيرة. تم دراسة العلاقة بين تدفق اللعاب وحجم اللعاب الكلي غير المحفز والمحسوس. تم جمع البيانات من 11 متطوعًا صحيًا، ووجدت النتائج أن تدفق اللعاب من الغدد تحت الفك واللعبية الكبيرة له علاقات قوية مع حجم اللعاب غير المحفز والمحفز.",
+      "summary_en": "This study evaluates salivary gland function using the MR Cine Sialography technique based on the Time-SLIP method. Bilateral saliva flow from the submandibular and parotid glands was visualized. The correlation between saliva flow and whole saliva volume, both unstimulated and stimulated, was examined. Data were collected from 11 healthy volunteers, with results showing strong correlations of saliva flow from the submandibular and parotid glands with unstimulated and stimulated saliva volumes.",
+      "practice_change_ar": "قد تؤدي هذه التقنية إلى تجديد سبل تقييم وظيفة الغدد اللعابية بشكل غير Invaziv.",
+      "practice_change_en": "This technique could renew ways to evaluate salivary gland function non-invasively.",
+      "future_impact_ar": "يمكن أن تفتح هذه النتائج آفاقًا جديدة لتقييم الأمراض المختلفة المتعلقة بالغدد اللعابية.",
+      "future_impact_en": "These findings could open new avenues for assessing various diseases related to salivary glands.",
+      "why_important_ar": "تعد هذه الدراسة مهمة لأنها تقدم تقنية جديدة لتقييم وظيفة الغدد اللعابية.",
+      "why_important_en": "This study is important as it introduces a new technique for assessing salivary gland function.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن الأبحاث السابقة بتطبيق تقنية تصوير جديدة غير جراحية.",
+      "vs_previous_en": "This study differs from previous research by applying a new non-invasive imaging technique.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة تصميمها Prospective cohort وتقدم تقنية جديدة مما يجعلها قوية.",
+      "stars_reason_en": "The study is a Prospective cohort design and offers a new technique, making it strong.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The new technique may be useful for ENT clinicians.",
+      "watch": true,
+      "watch_detail_ar": "ينبغي متابعة تقنية MR Cine Sialography لأنها تعد بتغيير طريقة تقييم وظيفة الغدد اللعابية.",
+      "watch_detail_en": "The MR Cine Sialography technique should be monitored as it promises to change how salivary gland function is assessed.",
+      "watch_type": "technology",
+      "research_gap_ar": "هناك حاجة إلى مزيد من الأبحاث للتحقق من فعالية هذه التقنية في أنماط مختلفة من الأمراض.",
+      "research_gap_en": "There is a need for further research to validate the effectiveness of this technique in different disease patterns.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "في هذه الدراسة، تم تقييم وظيفة الغدد اللعابية باستخدام تقنية MR Cine Sialography التي تعتمد على تقنية Time-SLIP. شملت الدراسة 11 متطوعًا صحيًا وتم قياس تدفق اللعاب من الغدد تحت الفك والغدد اللعابية الكبيرة. النتائج أظهرت وجود علاقات قوية بين تدفق اللعاب وحجم اللعاب غير المحفز والمحسوس. تعتبر هذه التقنية واعدة لأنها تتيح تقييمًا غير جراحي لوظيفة الغدد اللعابية. يجب أن تكون هذه النتائج موضع اهتمام لأنها تسلط الضوء على إمكانية استخدام التصوير بالرنين المغناطيسي في تقييم الحالات السريرية المختلفة المتعلقة بهذه الغدد.",
+      "audio_script_en": "In this study, salivary gland function was evaluated using the MR Cine Sialography technique based on the Time-SLIP method. The study included 11 healthy volunteers, measuring saliva flow from the submandibular and parotid glands. The results showed strong correlations between saliva flow and both unstimulated and stimulated saliva volumes. This technique is promising as it enables non-invasive assessment of salivary gland function. These findings should be of interest as they highlight the potential use of MRI in evaluating various clinical conditions related to these glands.",
+      "mcq": [
+        {
+          "q_ar": "ما هي التقنية المستخدمة في الدراسة لتقييم وظيفة الغدد اللعابية؟",
+          "q_en": "What technique was used in the study to assess salivary gland function?",
+          "options_ar": [
+            "أ) MR Cine Sialography",
+            "ب) CT Imaging",
+            "ج) Ultrasound",
+            "د) X-Ray"
+          ],
+          "options_en": [
+            "A) MR Cine Sialography",
+            "B) CT Imaging",
+            "C) Ultrasound",
+            "D) X-Ray"
+          ],
+          "answer": 0,
+          "explanation_ar": "استخدمت الدراسة تقنية MR Cine Sialography لتقييم وظيفة الغدد اللعابية.",
+          "explanation_en": "The study used the MR Cine Sialography technique to assess salivary gland function."
+        },
+        {
+          "q_ar": "كم عدد المتطوعين الصحيين الذين شاركوا في الدراسة؟",
+          "q_en": "How many healthy volunteers participated in the study?",
+          "options_ar": [
+            "أ) 5",
+            "ب) 11",
+            "ج) 20",
+            "د) 15"
+          ],
+          "options_en": [
+            "A) 5",
+            "B) 11",
+            "C) 20",
+            "D) 15"
+          ],
+          "answer": 1,
+          "explanation_ar": "شارك في الدراسة 11 متطوعًا صحيًا.",
+          "explanation_en": "The study included 11 healthy volunteers."
+        },
+        {
+          "q_ar": "ما هي العلاقة الملحوظة بين تدفق اللعاب وحجم اللعاب في الدراسة؟",
+          "q_en": "What was the significant relationship noted between saliva flow and saliva volume in the study?",
+          "options_ar": [
+            "أ) لا توجد علاقة",
+            "ب) علاقة إيجابية",
+            "ج) علاقة سلبية",
+            "د) علاقة غير محددة"
+          ],
+          "options_en": [
+            "A) No relationship",
+            "B) Positive relationship",
+            "C) Negative relationship",
+            "D) Undefined relationship"
+          ],
+          "answer": 1,
+          "explanation_ar": "وجدت الدراسة علاقة إيجابية بين تدفق اللعاب وحجم اللعاب الكلي.",
+          "explanation_en": "The study found a positive relationship between saliva flow and whole saliva volume."
+        }
+      ]
+    },
+    {
+      "pmid": "42126739",
+      "title_ar": "Mechanistic insights into ferroptosis in thyroid cancer and its therapeutic implications.",
+      "title_en": "Mechanistic insights into ferroptosis in thyroid cancer and its therapeutic implications.",
+      "journal": "Apoptosis : an international journal on programmed cell death",
+      "pub_date": "2026-May-13",
+      "doi": "10.1007/s10495-026-02322-1",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42126739/",
+      "pdf_url": null,
+      "study_design": "Review article",
+      "summary_ar": "يتناول هذا المقال المراجعة الشاملة لعملية ferroptosis في سرطان الغدة الدرقية. يركز على الأساس الميكانيكي لعملية ferroptosis، والتي تشمل استقلاب الحديد، تنظيم الأحماض الأمينية، وأكسدة الدهون. يناقش المقال أيضًا العلاقة بين ferroptosis وبيئة الورم المناعية. يسلط الضوء على إمكانية استخدام ferroptosis كعلاج لمواجهة مقاومة الإشعاع وتحسين نتائج بقاء المرضى. تقدم النتائج رؤى جديدة حول تأثير ferroptosis على تطور سرطان الغدة الدرقية.",
+      "summary_en": "This article provides a comprehensive review of the process of ferroptosis in thyroid cancer. It focuses on the mechanistic basis of ferroptosis, including iron metabolism, amino acid regulation, and lipid peroxidation. The article also discusses the interplay between ferroptosis and the tumor immune microenvironment. It highlights the potential use of ferroptosis as a therapeutic target to overcome radioiodine resistance and improve patient survival outcomes. The findings offer new insights into the role of ferroptosis in thyroid cancer progression.",
+      "practice_change_ar": "قد يؤدي استهداف ferroptosis إلى تحسين نتائج علاج سرطان الغدة الدرقية.",
+      "practice_change_en": "Targeting ferroptosis may improve treatment outcomes in thyroid cancer.",
+      "future_impact_ar": "يعزز استكشاف ferroptosis كمسار علاجي إمكانيات جديدة لعلاج سرطان الغدة الدرقية.",
+      "future_impact_en": "Exploring ferroptosis as a therapeutic pathway enhances new possibilities for treating thyroid cancer.",
+      "why_important_ar": "هذا المقال مهم لأنه يقدم رؤى جديدة حول مقاومة العلاج في سرطان الغدة الدرقية.",
+      "why_important_en": "This article is important as it provides novel insights into treatment resistance in thyroid cancer.",
+      "vs_previous_ar": "يختلف هذا البحث عن المعرفة السابقة بإبراز دور ferroptosis كآلية مهمة في تطور سرطان الغدة الدرقية.",
+      "vs_previous_en": "This research differs from previous knowledge by highlighting the role of ferroptosis as a significant mechanism in thyroid cancer progression.",
+      "stars": 4,
+      "stars_reason_ar": "مقال مراجعة شامل يتناول موضوعًا حديثًا في علم الأورام ويسلط الضوء على الآثار العلاجية.",
+      "stars_reason_en": "Comprehensive review article addressing a contemporary topic in cancer biology with therapeutic implications.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The article presents new ideas about thyroid cancer treatment and relates to emerging developments in ferroptosis.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة استخدام مركبات طبيعية وصناعية تستهدف ferroptosis لعلاج سرطان الغدة الدرقية.",
+      "watch_detail_en": "Monitoring the use of natural and synthetic compounds targeting ferroptosis for thyroid cancer treatment is recommended.",
+      "watch_type": "drug",
+      "research_gap_ar": "يجب إجراء مزيد من الأبحاث السريرية لفهم دور ferroptosis بشكل أفضل في سرطان الغدة الدرقية.",
+      "research_gap_en": "Further clinical research is needed to better understand the role of ferroptosis in thyroid cancer.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "في هذا التحليل، نستعرض مقالاً عن ferroptosis في سرطان الغدة الدرقية. يتناول المقال أهمية ferroptosis كآلية موت خلوي مرتبطة بالسرطان. يبرز المقال استقلاب الحديد وتنظيم الأحماض الأمينية وأكسدة الدهون كعوامل مؤثرة في تطور السرطان. كما يناقش كيف يمكن استخدام ferroptosis للتغلب على مقاومة العلاج. تتيح هذه الدراسة فهمًا جديدًا لكيفية معالجة سرطان الغدة الدرقية بشكل أكثر فعالية. بالنظر إلى نقاط القوة، يمكننا أن نصنف هذا المقال بأربع نجوم. معلوماته حديثة ومفيدة.",
+      "audio_script_en": "In this analysis, we review an article about ferroptosis in thyroid cancer. The article highlights the importance of ferroptosis as a regulated cell death pathway associated with cancer. It emphasizes iron metabolism, amino acid regulation, and lipid peroxidation as influential factors in cancer progression. It also discusses how ferroptosis can be targeted to overcome treatment resistance. This study offers a new understanding of effectively addressing thyroid cancer. Considering its strengths, we can rate this article four stars. Its information is contemporary and useful.",
+      "mcq": [
+        {
+          "q_ar": "ما هو العنصر الأساسي المرتبط بعملية ferroptosis؟",
+          "q_en": "What is the key element associated with ferroptosis?",
+          "options_ar": [
+            "أ) الكالسيوم",
+            "ب) الحديد",
+            "ج) الصوديوم",
+            "د) البوتاسيوم"
+          ],
+          "options_en": [
+            "A) Calcium",
+            "B) Iron",
+            "C) Sodium",
+            "D) Potassium"
+          ],
+          "answer": 1,
+          "explanation_ar": "الحديد هو العنصر الأساسي في عملية ferroptosis، مما يجعل الحديد عنصرًا حيويًا في تنظيم هذه العملية.",
+          "explanation_en": "Iron is a key element in the process of ferroptosis, making it vital in regulating this pathway."
+        },
+        {
+          "q_ar": "أي من الآتي يمكن أن يساعد في تعزيز ferroptosis في سرطان الغدة الدرقية؟",
+          "q_en": "Which of the following can help promote ferroptosis in thyroid cancer?",
+          "options_ar": [
+            "أ) أدوية مضادة للفطريات",
+            "ب) مركبات طبيعية وصناعية",
+            "ج) أدوية خافضة للضغط",
+            "د) أدوية مضادة للاكتئاب"
+          ],
+          "options_en": [
+            "A) Antifungal medications",
+            "B) Natural and synthetic compounds",
+            "C) Antihypertensive drugs",
+            "D) Antidepressant medications"
+          ],
+          "answer": 1,
+          "explanation_ar": "استخدام مركبات طبيعية وصناعية يمكن أن يحفز ferroptosis، مما قد يؤدي إلى تحسين نتائج العلاج.",
+          "explanation_en": "The use of natural and synthetic compounds can stimulate ferroptosis, potentially leading to improved treatment outcomes."
+        },
+        {
+          "q_ar": "ما هي إحدى الفوائد المحتملة لاستهداف ferroptosis في سرطان الغدة الدرقية؟",
+          "q_en": "What is one potential benefit of targeting ferroptosis in thyroid cancer?",
+          "options_ar": [
+            "أ) زيادة حجم الورم",
+            "ب) مقاومة الإشعاع",
+            "ج) تحسين نتائج البقاء",
+            "د) زيادة الآثار الجانبية"
+          ],
+          "options_en": [
+            "A) Increased tumor size",
+            "B) Radiation resistance",
+            "C) Improved survival outcomes",
+            "D) Increased side effects"
+          ],
+          "answer": 2,
+          "explanation_ar": "استهداف ferroptosis قد يساعد في تحسين نتائج البقاء، خاصة في الأنواع العدوانية من سرطان الغدة الدرقية.",
+          "explanation_en": "Targeting ferroptosis may help improve survival outcomes, particularly in aggressive types of thyroid cancer."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026051401",
+      "title_ar": "النمو المتوقع لسوق التنظير الأنفي عند معدل نمو سنوي مركب يبلغ 6.4%",
+      "title_en": "ENT Endoscopy Market Growth Projected at CAGR of 6.4%",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-05-14",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "من المتوقع أن ينمو سوق التنظير الأنفي بشكل كبير بمعدل نمو سنوي مركب يبلغ 6.4%. يقود هذا النمو التقدم في التكنولوجيا وزيادة الطلب على الإجراءات الأقل توغلاً. تسلط التقرير الضوء على تطبيقات التنظير المتزايدة في التشخيص والعلاج في مجال الأنف والأذن والحنجرة. يُنصح أصحاب المصلحة في الصناعة بالبقاء على اطلاع على اتجاهات السوق والابتكارات التكنولوجية.",
+      "summary_en": "The ENT endoscopy market is projected to grow significantly with a compound annual growth rate (CAGR) of 6.4%. This growth is driven by advancements in technology and increasing demand for minimally invasive procedures. The report highlights the expanding application of endoscopy in diagnostics and treatment within the ENT field. Stakeholders in the industry are advised to stay updated on market trends and technological innovations.",
+      "practice_change_ar": "يشير هذا النمو إلى قبول أوسع ودمج إجراءات التنظير في ممارسات الأنف والأذن والحنجرة.",
+      "practice_change_en": "This growth indicates a broader acceptance and integration of endoscopic procedures in ENT practices.",
+      "future_impact_ar": "يمثل نمو السوق فرصًا لمتخصصي الأنف والأذن والحنجرة لتعزيز مهاراتهم واعتماد تقنيات جديدة.",
+      "future_impact_en": "The market growth presents opportunities for ENT professionals to enhance their skills and adopt new technologies.",
+      "why_important_ar": "يمكن أن تؤدي تقنيات التنظير المحسّنة إلى تحسين نتائج المرضى وزيادة الكفاءة في جراحات الأنف والأذن والحنجرة.",
+      "why_important_en": "Improved endoscopic techniques can lead to better patient outcomes and increased efficiency in ENT surgeries.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "يحمل هذا الخبر أهمية كبيرة لممارسي الأنف والأذن والحنجرة، حيث يعكس التحولات في التقنيات المستخدمة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "في خبر اليوم، يشير تقرير جديد إلى نمو متوقع في سوق التنظير الأنفي بمعدل نمو سنوي مركب يبلغ 6.4%. هذا النمو يعكس التقدم التكنولوجي والطلب المتزايد على الإجراءات الأقل توغلاً. يُظهر التقرير كيف أن التنظير الأنفي يلعب دورًا متزايد الأهمية في التشخيص والعلاج. مع رأي الخبراء، نتوقع زيادة في تطبيقات التنظير في مجالات متعددة في الأنف والأذن والحنجرة.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026051402",
+      "title_ar": "من المتوقع أن تتجاوز سوق أجهزة الأنف والأذن والحنجرة 37580 مليون دولار بحلول عام 2032 مدفوعة بالإجراءات minimally invasive والتقدم التكنولوجي",
+      "title_en": "ENT Devices Market Set to Surpass USD 37580 Million by 2032 Driven by Minimally Invasive Procedures and Technological Advancements",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-05-14",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "من المتوقع أن تتجاوز سوق أجهزة الأنف والأذن والحنجرة 37580 مليون دولار بحلول عام 2032، مدفوعة بالتقدم التكنولوجي وزيادة تفضيل الإجراءات الأقل تدخلاً. تعكس هذه الزيادة اتجاهًا أوسع نحو خيارات جراحية أقل تدخلاً، مما يعزز أوقات الشفاء ونتائج المرضى. من المتوقع أن تقود الابتكارات في التصميم والوظائف النمو في السوق وتحسن الفعالية الجراحية.",
+      "summary_en": "The ENT devices market is projected to exceed USD 37,580 million by 2032, fueled by advancements in technology and a growing preference for minimally invasive procedures. This growth reflects a broader trend towards less invasive surgical options, enhancing recovery times and patient outcomes. Innovations in design and functionality are expected to further drive market growth and improve surgical efficacy.",
+      "practice_change_ar": "تسلط هذه المعلومات الضوء على أهمية تبني تقنيات جديدة والإجراءات الأقل تدخلاً في ممارسات الأنف والأذن والحنجرة.",
+      "practice_change_en": "This insight highlights the importance of embracing new technologies and minimally invasive techniques in ENT practices.",
+      "future_impact_ar": "تشير هذه الاتجاهات إلى مستقبل مشرق لمجال الأنف والأذن والحنجرة، مع إمكانية حدوث المزيد من الابتكارات وتحسين نتائج المرضى.",
+      "future_impact_en": "This trend signals a promising future for the ENT field, with potential for further innovation and improved patient outcomes.",
+      "why_important_ar": "قد تؤدي التحولات نحو الإجراءات الأقل تدخلاً إلى تحسين كبير في رعاية المرضى ورضاهم.",
+      "why_important_en": "The shift towards minimally invasive procedures may significantly enhance patient care and satisfaction.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "الابتكارات في الأجهزة والعلاجات الجديدة مهمة لممارسي الأنف والأذن والحنجرة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "مرحبًا بكم في نشرة أخبارنا عن صناعة الأنف والأذن والحنجرة. تشير التقارير إلى أن سوق أجهزة الأنف والأذن والحنجرة من المتوقع أن تتجاوز قيمته 37580 مليون دولار بحلول عام 2032. يتم تحفيز هذا النمو بفعل التقدم التكنولوجي وزيادة الاعتماد على الإجراءات الأقل تدخلاً. تعتبر هذه الاتجاهات مهمة للمتخصصين في المجال، لأنها تعزز من الخيارات المتاحة للمرضى وتدعم تحسين النتائج الصحية. نتطلع إلى مزيد من الابتكارات في هذا القطاع وتمكين الأطباء من تقديم رعاية علاجية أفضل.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026051403",
+      "title_ar": "حجم سوق الأجهزة ENT في الولايات المتحدة | تقرير الصناعة 2030",
+      "title_en": "U.S. ENT Devices Market Size, Share | Industry Report 2030",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-05-14",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "وفقًا لتقرير صادر عن Grand View Research، من المتوقع أن يشهد سوق الأجهزة ENT في الولايات المتحدة نموًا ملحوظًا بحلول عام 2030. يسلط التقرير الضوء على عوامل مختلفة تساهم في هذا النمو، بما في ذلك التقدم في التكنولوجيا وزيادة الطلب على الإجراءات الأقل تدخلاً. بالإضافة إلى ذلك، يشير إلى الارتفاع في انتشار اضطرابات الأنف والأذن والحنجرة كقوة دافعة وراء توسع السوق.",
+      "summary_en": "According to a report by Grand View Research, the U.S. ENT devices market is projected to experience significant growth by 2030. The report highlights various factors contributing to this growth, including advancements in technology and increasing demand for minimally invasive procedures. Additionally, it points to the rising prevalence of ENT disorders as a driving force behind market expansion.",
+      "practice_change_ar": "يعكس هذا النمو في السوق تركيزًا متزايدًا على الابتكارات في تقنيات ENT، مما قد يعود بالنفع على جراحي الأنف والأذن والحنجرة الممارسين.",
+      "practice_change_en": "This market growth indicates an increasing focus on innovative ENT technologies, which may benefit practicing ENT surgeons.",
+      "future_impact_ar": "من المحتمل أن يؤدي هذا الاتجاه إلى تعزيز قدرات العلاج وتحسين نتائج المرضى في مجال الأنف والأذن والحنجرة.",
+      "future_impact_en": "This trend will likely lead to enhanced treatment capabilities and improved patient outcomes in the ENT field.",
+      "why_important_ar": "تشير السوق المتوسعة إلى أنه قد تكون هناك المزيد من الموارد والخيارات للعلاج متاحة للمرضى.",
+      "why_important_en": "The expanding market suggests more resources and options for treatment could be available for patients.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "تعتبر هذه المعلومات مهمة للممارسين الذين يسعون إلى الاستفادة من التقدمات التكنولوجية.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "في تقرير حديث صادر عن Grand View Research، تم تقديم تقديرات مثيرة للنظر حول نمو سوق الأجهزة ENT في الولايات المتحدة حتى عام 2030. يركز التقرير على العوامل التي تساهم في هذا النمو، مثل التطورات التكنولوجية وارتفاع الطلب على الإجراءات الأقل تدخلاً. كما تشير الدراسة أيضًا إلى زيادة انتشار اضطرابات الأنف والأذن والحنجرة كعامل يؤثر في توسيع السوق. هذه التوجهات تبشر بمزيد من الخيارات العلاجية المتاحة للجراحين الممارسين والمرضى على حد سواء.",
+      "mcq": []
+    }
+  ]
+}
