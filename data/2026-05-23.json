@@ -1,0 +1,2322 @@
+{
+  "date": "2026-05-23",
+  "generated_at": "2026-05-23T06:24:50Z",
+  "articles": [
+    {
+      "pmid": "42165888",
+      "title_ar": "Efficacy of tezepelumab in chronic rhinosinusitis with nasal polyps: a systematic review and meta-analysis.",
+      "title_en": "Efficacy of tezepelumab in chronic rhinosinusitis with nasal polyps: a systematic review and meta-analysis.",
+      "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+      "pub_date": "2026-May-21",
+      "doi": "10.1007/s00405-026-10286-w",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42165888/",
+      "pdf_url": null,
+      "study_design": "Meta-analysis 4 studies",
+      "summary_ar": "الدراسة تهدف إلى تقييم فعالية tezepelumab كعلاج مساعد للمرضى المصابين بالتهاب الجيوب الأنفية المزمن مع وجود زوائد أنفية. تم البحث بشكل منهجي في قواعد البيانات من البداية حتى يناير 2026. شملت الدراسات المؤهلة مقارنة tezepelumab مع العلاج الوهمي أو الإبلاغ عن نتائج ما قبل وما بعد العلاج. أظهرت التحليلات تحسنًا كبيرًا في انسداد الأنف والوظيفة الشمية ودرجات Sino-Nasal Outcome Test-22. كانت التغيرات في FEV1 متواضعة ولم تحقق دلالة إحصائية.",
+      "summary_en": "The study aims to evaluate the efficacy of tezepelumab as an adjunctive treatment in patients with chronic rhinosinusitis with nasal polyps. Systematic searches were conducted in databases from inception through January 2026. Eligible studies compared tezepelumab with placebo or reported pre-post treatment outcomes. Analyses demonstrated significant improvements in nasal congestion, olfactory function, and SNOT-22 scores. Changes in FEV1 were modest and did not reach statistical significance.",
+      "practice_change_ar": "يمكن أن يؤدي استخدام tezepelumab إلى تحسين الأعراض في مرضى CRSwNP.",
+      "practice_change_en": "The use of tezepelumab may lead to symptom improvements in CRSwNP patients.",
+      "future_impact_ar": "تتطلب النتائج مزيدًا من التجارب العشوائية المنضبطة لتأكيد هذه النتائج.",
+      "future_impact_en": "The results warrant further randomized controlled trials to confirm these findings.",
+      "why_important_ar": "تساهم هذه الدراسة في فهم دور tezepelumab في علاج التهاب الجيوب الأنفية المزمن.",
+      "why_important_en": "This study contributes to understanding the role of tezepelumab in treating chronic rhinosinusitis.",
+      "vs_previous_ar": "تقدم هذه الدراسة بيانات جديدة حول فعالية tezepelumab مقارنة بالعلاجات السابقة.",
+      "vs_previous_en": "This study provides new data on the efficacy of tezepelumab compared to previous treatments.",
+      "stars": 4,
+      "stars_reason_ar": "تقييم موثوق لمقالات متعددة حول الدراسة السريرية المهمة.",
+      "stars_reason_en": "Reliable assessment of multiple articles regarding an important clinical study.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تقديم نتائج سريرية جديدة حول علاج التهاب الجيوب الأنفية.",
+      "jc_reason_en": "Provides new clinical results regarding the treatment of rhinosinusitis.",
+      "watch": true,
+      "watch_detail_ar": "يجب مراقبة تأثير tezepelumab في مرضى التهاب الجيوب الأنفية المزمن.",
+      "watch_detail_en": "Tezepelumab's impact in chronic rhinosinusitis patients should be monitored.",
+      "watch_type": "drug",
+      "research_gap_ar": "تحتاج الدراسات إلى توضيح الأثر طويل الأمد لـ tezepelumab.",
+      "research_gap_en": "Studies need to clarify the long-term impact of tezepelumab.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "هذه الدراسة تقيم فعالية tezepelumab كعلاج مساعد للمرضى المصابين بالتهاب الجيوب الأنفية المزمن. تم إجراء بحث منهجي وشملت 4 دراسات. أظهرت النتائج تحسنًا ملحوظًا في أعراض المرضى وكما لوحظ تحسن فحص الوظيفة الشمية. ومع ذلك، لم تكن هناك تغييرات ذات دلالة في FEV1. على الرغم من التحسينات، تحتاج الساحة الطبية إلى مزيد من التجارب لتحديد الدور طويل الأمد لـ tezepelumab.",
+      "audio_script_en": "This study evaluates the efficacy of tezepelumab as an adjunctive treatment in patients with chronic rhinosinusitis. A systematic search was conducted that included 4 studies. The results showed significant improvement in patient symptoms as well as noted improvement in olfactory function testing. However, there was no significant change in FEV1. Despite the improvements, the medical field requires more trials to determine the long-term role of tezepelumab.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف الرئيسي لهذه الدراسة؟",
+          "q_en": "What is the main objective of this study?",
+          "options_ar": [
+            "أ) تقييم فعالية tezepelumab",
+            "ب) مقارنة العلاجات التقليدية",
+            "ج) دراسة سمية الأدوية",
+            "د) تقييم فاعلية اللقاحات"
+          ],
+          "options_en": [
+            "A) Evaluate the efficacy of tezepelumab",
+            "B) Compare traditional treatments",
+            "C) Study drug toxicity",
+            "D) Assess vaccine efficacy"
+          ],
+          "answer": 0,
+          "explanation_ar": "تهدف الدراسة إلى تقييم فعالية tezepelumab كعلاج مساعد.",
+          "explanation_en": "The study aims to evaluate the efficacy of tezepelumab as an adjunctive treatment."
+        },
+        {
+          "q_ar": "ما هي النتائج التي حققتها الدراسة؟",
+          "q_en": "What outcomes did the study achieve?",
+          "options_ar": [
+            "أ) تحسن كبير في أعراض المرض",
+            "ب) زيادة في FEV1",
+            "ج) نتائج غير ذات دلالة",
+            "د) تأثير جانبي كبير"
+          ],
+          "options_en": [
+            "A) Significant improvement in symptoms",
+            "B) Increase in FEV1",
+            "C) Non-significant results",
+            "D) Significant adverse effect"
+          ],
+          "answer": 0,
+          "explanation_ar": "أظهرت الدراسة تحسنًا كبيرًا في أعراض المرضى.",
+          "explanation_en": "The study demonstrated significant improvement in patient symptoms."
+        },
+        {
+          "q_ar": "لماذا تعتبر النتائج مهمة؟",
+          "q_en": "Why are the results important?",
+          "options_ar": [
+            "أ) لأنها تقدم معلومات جديدة عن tezepelumab",
+            "ب) لأنها لا تضيف شيئًا جديدًا",
+            "ج) لأنها تؤكد المعلومات القديمة",
+            "د) لأنها تشير إلى عدم فعالية العلاج"
+          ],
+          "options_en": [
+            "A) Because they provide new information about tezepelumab",
+            "B) Because they add nothing new",
+            "C) Because they confirm old information",
+            "D) Because they indicate treatment ineffectiveness"
+          ],
+          "answer": 0,
+          "explanation_ar": "تقدم النتائج معلومات جديدة حول tezepelumab في علاج التهاب الجيوب الأنفية.",
+          "explanation_en": "The results provide new information about tezepelumab in treating rhinosinusitis."
+        }
+      ]
+    },
+    {
+      "pmid": "42165887",
+      "title_ar": "Botulinum toxin for vocal fold granuloma: a systematic review and meta-analysis of treatment outcomes and recurrence.",
+      "title_en": "Botulinum toxin for vocal fold granuloma: a systematic review and meta-analysis of treatment outcomes and recurrence.",
+      "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+      "pub_date": "2026-May-21",
+      "doi": "10.1007/s00405-026-10254-4",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42165887/",
+      "pdf_url": null,
+      "study_design": "Meta-analysis 18 studies",
+      "summary_ar": "هذه المقالة تسلط الضوء على نتائج الحقن بجرعة من توكسين البوتولينوم A لعلاج granuloma vocal process، حيث تم تجميع بيانات من 18 دراسة شملت 1146 مريضًا. أظهرت النتائج معدلات شفاء كاملة بلغت 87.6% بشكل عام، مع انخفاض معدل التكرار إلى 6.9% بعد الشفاء الأولي. كانت الآثار الجانبية قصيرة الأمد، بالإضافة إلى وجود تحسن ملحوظ في granulomas الناتجة عن الاتصال ولكن النتائج كانت أقل فعالية بالنسبة لتلك الناتجة عن intubation. تحتاج الدراسات المستقبلية إلى تقييم النتائج الصوتية المعتمدة.",
+      "summary_en": "This article highlights the outcomes of botulinum toxin A injection for treating vocal process granuloma, pooling data from 18 studies involving 1,146 patients. The results showed an overall complete remission rate of 87.6%, with a low recurrence rate of 6.9% after initial remission. Adverse effects were mostly transient, with significant improvement noted in contact granulomas, but less effective outcomes in intubation-related granulomas. Future studies need to assess validated voice outcomes.",
+      "practice_change_ar": "يمكن أن تؤدي نتائج هذه الدراسة إلى اعتماد توكسين البوتولينوم A كطريقة رئيسية لعلاج granuloma vocal process.",
+      "practice_change_en": "The study's results may lead to adopting botulinum toxin A as a key method for treating vocal process granuloma.",
+      "future_impact_ar": "ستمكن هذه النتائج الأطباء من اعتماد استراتيجيات علاجية أكثر فعالية لمشكلات الصوت.",
+      "future_impact_en": "These findings will enable clinicians to adopt more effective treatment strategies for voice-related issues.",
+      "why_important_ar": "تسلط هذه الدراسة الضوء على فعالية توكسين البوتولينوم في علاج granulomas الصوتية، مما قد يحدث ثورة في العلاج الطبي.",
+      "why_important_en": "This study highlights the effectiveness of botulinum toxin in treating vocal granulomas, which could revolutionize medical treatment.",
+      "vs_previous_ar": "تقدم هذه الدراسة بيانات جديدة ومجمعة تقوي المعرفة الحالية حول فعالية العلاج باستخدام توكسين البوتولينوم.",
+      "vs_previous_en": "This study provides new pooled data that strengthens the current knowledge regarding the effectiveness of botulinum toxin treatment.",
+      "stars": 5,
+      "stars_reason_ar": "تعتبر دراسة منهجية جيدة مع 18 دراسة تدعم فعالية العلاج بجرعة من توكسين البوتولينوم A.",
+      "stars_reason_en": "This is a strong systematic review with 18 studies supporting the effectiveness of botulinum toxin A treatment.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تعتبر هذه الدراسة مفيدة لمناقشة فعالية العلاجات الجديدة في مجال التهاب الحنجرة.",
+      "jc_reason_en": "This study is useful for discussing the efficacy of new treatments in the field of laryngology.",
+      "watch": true,
+      "watch_detail_ar": "ركز على الأبحاث المستقبلية حول استعمال توكسين البوتولينوم في علاج granuloma الصوتية وأفضل طرق التطبيق.",
+      "watch_detail_en": "Focus on future research regarding the use of botulinum toxin in treating vocal granuloma and optimal administration methods.",
+      "watch_type": "drug",
+      "research_gap_ar": "تفتقر الدراسات المستقبلية إلى تقييم نتائج الصوت المعتمدة بعد العلاج.",
+      "research_gap_en": "Future studies lack the evaluation of validated voice outcomes post-treatment.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تناقش هذه المقالة فعالية حقن توكسين البوتولينوم A في علاج granuloma vocal process. استند البحث إلى مراجعة منهجية تشمل 18 دراسة شملت 1146 مريضًا. وجدت الدراسة أن معدل الشفاء الكامل كان 87.6%، مع معدل تكرار منخفض قدره 6.9%. تشمل آثار جانبية مثل بحة الصوت، مع تحسن كبير في الالتهابات الناتجة عن الاتصال. تحمل هذه النتائج أهمية كبيرة في توجيه الأطباء نحو اعتماد توكسين البوتولينوم كعلاج رئيسي، مما سيؤدي إلى تغييرات مستقبلية في طرق العلاج.",
+      "audio_script_en": "This article discusses the effectiveness of botulinum toxin A injection in treating vocal process granuloma. The research is based on a systematic review of 18 studies involving 1,146 patients. The study found a complete remission rate of 87.6%, with a low recurrence rate of 6.9%. Side effects included hoarseness, with significant improvement noted in contact-related inflammation. These findings hold great importance in guiding physicians toward adopting botulinum toxin as a primary treatment, leading to future changes in treatment methods.",
+      "mcq": [
+        {
+          "q_ar": "ما هي النتيجة الرئيسية للاستخدام الفعلي لتوكسين البوتولينوم A في علاج granuloma الصوتية؟",
+          "q_en": "What is the main outcome of the effective use of botulinum toxin A in treating vocal granulomas?",
+          "options_ar": [
+            "أ) 87.6% شفاء كامل",
+            "ب) 50% شفاء كامل",
+            "ج) 90% شفاء كامل",
+            "د) 100% شفاء كامل"
+          ],
+          "options_en": [
+            "A) 87.6% complete remission",
+            "B) 50% complete remission",
+            "C) 90% complete remission",
+            "D) 100% complete remission"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة أظهرت أنه تم تحقيق معدل شفاء كامل قدره 87.6% بعد حقن توكسين البوتولينوم.",
+          "explanation_en": "The study showed that a complete remission rate of 87.6% was achieved after botulinum toxin injection."
+        },
+        {
+          "q_ar": "ما هو معدل التكرار بعد الشفاء الأولي؟",
+          "q_en": "What is the recurrence rate after initial remission?",
+          "options_ar": [
+            "أ) 19.8%",
+            "ب) 6.9%",
+            "ج) 5.7%",
+            "د) 9.4%"
+          ],
+          "options_en": [
+            "A) 19.8%",
+            "B) 6.9%",
+            "C) 5.7%",
+            "D) 9.4%"
+          ],
+          "answer": 1,
+          "explanation_ar": "معدل التكرار بعد الشفاء الأولي كان 6.9% كما أفادت الدراسة.",
+          "explanation_en": "The recurrence rate after initial remission was 6.9%, as reported in the study."
+        },
+        {
+          "q_ar": "ما هي الآثار الجانبية الأكثر شيوعًا المرتبطة بالحقن؟",
+          "q_en": "What are the most common side effects associated with the injections?",
+          "options_ar": [
+            "أ) بحة الصوت",
+            "ب) شلل الوجه",
+            "ج) صداع",
+            "د) زيادة الوزن"
+          ],
+          "options_en": [
+            "A) Hoarseness",
+            "B) Facial paralysis",
+            "C) Headache",
+            "D) Weight gain"
+          ],
+          "answer": 0,
+          "explanation_ar": "من بين الآثار الجانبية، كانت بحة الصوت هي الأكثر شيوعًا كما ذكر في المقال.",
+          "explanation_en": "Among the side effects, hoarseness was the most commonly reported, as mentioned in the article."
+        }
+      ]
+    },
+    {
+      "pmid": "42171192",
+      "title_ar": "Interplay Between Rhinosinusitis and Eustachian Tube Dysfunction in Patients Undergoing Functional Endoscopic Sinus Surgery.",
+      "title_en": "Interplay Between Rhinosinusitis and Eustachian Tube Dysfunction in Patients Undergoing Functional Endoscopic Sinus Surgery.",
+      "journal": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+      "pub_date": "2026-May-22",
+      "doi": "10.1002/ohn.70299",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42171192/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort",
+      "summary_ar": "الدراسة تهدف إلى تقييم العلاقة بين التهاب الأنف المزمن (CRS) واضطراب قناة استاكيوس (ETD) باستخدام مقاييس ذاتية وموضوعية، وكذلك العلاقة بين جانب المرض ووظيفة قناة استاكيوس. تم تقييم 85 مريضًا مرشحين لعملية FESS. تم استخدام استبيانات ETDQ-7 وSNOT-22 للتحليل الذاتي. وأظهرت النتائج أن 36.5٪ من المرضى يعانون من ETF ضعيف. كما أظهرت الدراسة علاقة معتدلة بين ETDQ-7 وSNOT-22. لم توجد اختلافات ملحوظة بين مجموعات ETF العادلة والضعيفة. تشير الدراسة إلى أن عبء الأعراض الأنفية الجيوب الأنفية يظهر ارتباطًا معتدلًا فقط مع اضطراب قناة استاكيوس المرتبط بـ CRS.",
+      "summary_en": "The study aims to evaluate the association between chronic rhinosinusitis (CRS) and Eustachian tube dysfunction (ETD) using subjective and objective measures, as well as the relationship between disease laterality and Eustachian tube function. Eighty-five CRS patients undergoing FESS were assessed. Subjective assessments using ETDQ-7 and SNOT-22 revealed that 36.5% of patients have poor ETF. The study found a moderate correlation between ETDQ-7 and SNOT-22 scores. No significant differences were noted between fair and poor ET function groups. The study suggests that sinonasal symptom burden shows only a moderate association with ETD related to CRS.",
+      "practice_change_ar": "يجب على الأطباء أخذ نتائج استبيانات ETDQ-7 وSNOT-22 بعين الاعتبار في تقييم مرضى CRS.",
+      "practice_change_en": "Clinicians should consider ETDQ-7 and SNOT-22 scores in the assessment of CRS patients.",
+      "future_impact_ar": "يمكن أن تساهم هذه النتائج في تحسين الطرق التشخيصية والتقييمية لمرضى CRS.",
+      "future_impact_en": "These findings may enhance diagnostic and evaluative approaches for CRS patients.",
+      "why_important_ar": "تسليط الضوء على العلاقة بين CRS واضطراب قناة استاكيوس قد يسهم في تحسين الرعاية السريرية.",
+      "why_important_en": "Highlighting the relationship between CRS and Eustachian tube dysfunction may contribute to improved clinical care.",
+      "vs_previous_ar": "توفر هذه الدراسة فهمًا أعمق للعوامل المؤثرة على وظيفة قناة استاكيوس لدى مرضى CRS.",
+      "vs_previous_en": "This study provides a deeper understanding of factors affecting Eustachian tube function in CRS patients.",
+      "stars": 3,
+      "stars_reason_ar": "الدراسة ذات تصميم جيد ونمط متوقع، لكن لا تساهم بشكل كبير في تغيير الممارسة السريرية.",
+      "stars_reason_en": "The study has a good design and is prospective; however, it does not significantly contribute to changing clinical practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study presents new insights into the relationship between CRS and ETD.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "لا توجد دراسات سابقة تناولت العلاقة بين CRS وETD بنفس العمق.",
+      "research_gap_en": "There are no prior studies that address the relationship between CRS and ETD with similar depth.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "الدراسة تهدف إلى تقييم العلاقة بين التهاب الأنف المزمن واضطراب قناة استاكيوس. تم تقييم 85 مريضًا مرشحين لعملية FESS. النتائج أظهرت أن 36.5٪ من المرضى يعانون من ETF ضعيف. تشير الدراسة إلى أن عبء الأعراض الأنفية الجيوب الأنفية يظهر ارتباطًا معتدلاً فقط مع اضطراب قناة استاكيوس. النتائج قد تُحسن تقييم المرضى وتوجه الرعاية السريرية.",
+      "audio_script_en": "The study aims to evaluate the relationship between chronic rhinosinusitis and Eustachian tube dysfunction. Eighty-five patients undergoing FESS were assessed. Results showed that 36.5% of patients have poor Eustachian tube function. The study suggests that sinonasal symptom burden has only a moderate association with Eustachian tube dysfunction. Findings may enhance patient evaluation and direct clinical care.",
+      "mcq": [
+        {
+          "q_ar": "ما هي نسبة المرضى الذين يعانون من ETF ضعيف في الدراسة؟",
+          "q_en": "What percentage of patients had poor Eustachian tube function in the study?",
+          "options_ar": [
+            "أ) 25%",
+            "ب) 36.5%",
+            "ج) 50%",
+            "د) 70%"
+          ],
+          "options_en": [
+            "A) 25%",
+            "B) 36.5%",
+            "C) 50%",
+            "D) 70%"
+          ],
+          "answer": 1,
+          "explanation_ar": "في الدراسة، كانت نسبة المرضى الذين يعانون من ETF ضعيف 36.5٪.",
+          "explanation_en": "In the study, the percentage of patients with poor Eustachian tube function was 36.5%."
+        },
+        {
+          "q_ar": "ما هي الأداة المستخدمة لتقييم وظيفة قناة استاكيوس؟",
+          "q_en": "What tool was used to assess Eustachian tube function?",
+          "options_ar": [
+            "أ) CT الجيوب الأنفية",
+            "ب) ETDQ-7",
+            "ج) SNOT-22",
+            "د) دراسة سمعية"
+          ],
+          "options_en": [
+            "A) Sinus CT",
+            "B) ETDQ-7",
+            "C) SNOT-22",
+            "D) Auditory study"
+          ],
+          "answer": 1,
+          "explanation_ar": "استخدمت الدراسة استبيان ETDQ-7 لتقييم وظيفة قناة استاكيوس.",
+          "explanation_en": "The study used the ETDQ-7 questionnaire to assess Eustachian tube function."
+        },
+        {
+          "q_ar": "ما هي العلاقة بين ETDQ-7 وSNOT-22؟",
+          "q_en": "What is the correlation between ETDQ-7 and SNOT-22?",
+          "options_ar": [
+            "أ) ضعيف",
+            "ب) معتدل",
+            "ج) قوي",
+            "د) لا يوجد"
+          ],
+          "options_en": [
+            "A) Weak",
+            "B) Moderate",
+            "C) Strong",
+            "D) None"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت الدراسة ارتباطًا معتدلاً بين درجات ETDQ-7 وSNOT-22.",
+          "explanation_en": "The study showed a moderate correlation between ETDQ-7 and SNOT-22 scores."
+        }
+      ]
+    },
+    {
+      "pmid": "42168989",
+      "title_ar": "Th2 cytokine-induced mucociliary remodeling in chronic rhinosinusitis: implications for antiviral defense and epithelial function.",
+      "title_en": "Th2 cytokine-induced mucociliary remodeling in chronic rhinosinusitis: implications for antiviral defense and epithelial function.",
+      "journal": "Respiratory research",
+      "pub_date": "2026-May-21",
+      "doi": "10.1186/s12931-026-03734-y",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42168989/",
+      "pdf_url": "https://doi.org/10.1186/s12931-026-03734-y",
+      "study_design": "Exploratory in vitro study",
+      "summary_ar": "تهدف هذه الدراسة الاستكشافية إلى التحقيق في تأثيرات التعديل الذي يحدثه ث2 cytokine على استجابة الخلايا الظهارية للعدوى الفيروسية. تم تعريض الخلايا الظهارية الأنفية الأولية من مرضى الالتهاب الأنفي الجيبي المزمن وأفراد غير مرضى لهذه السيتوكينات (IL-4، IL-13) تزامنًا مع العدوى بـ rhinovirus. أظهرت النتائج انخفاضًا كبيرًا في المسارات المسؤولة عن هيكل وفعالية الأهداب، مما يؤكد تأثير ث2 cytokine على وظيفة الميوسيلاري. كما تم رصد اختلافات نوعية بين الجنسين في الاستجابة الالتهابية، مما يعكس تباينًا مناعي ضمني. تبرز هذه النتائج كيفية تأثير تعديل الظهارة المدفوع بـ Th2 على دفاعات الجسم ضد الفيروسات.",
+      "summary_en": "This exploratory study investigates the effects of Th2 cytokine remodeling on the epithelial response to viral infection. Primary nasal epithelial cells from patients with chronic rhinosinusitis and non-CRS individuals were exposed to these cytokines (IL-4, IL-13) alongside rhinovirus infection. Results revealed significant downregulation of pathways responsible for cilia structure and function, confirming the impact of Th2 cytokines on mucociliary function. Gender-specific differences in inflammatory responses were also noted, reflecting inherent immune variability. These findings underscore how Th2-driven epithelial remodeling may affect antiviral defenses.",
+      "practice_change_ar": "يمكن أن يؤدي فهم تأثير سيتوكينات ث2 إلى تحسين استراتيجيات العلاج لمشاكل الظهارة.",
+      "practice_change_en": "Understanding the effect of Th2 cytokines may improve treatment strategies for epithelial issues.",
+      "future_impact_ar": "تفتح هذه الدراسة الأبواب لفهم أعمق لتعديل الظهارة وكيفية تعزيز الدفاعات الفيروسية.",
+      "future_impact_en": "This study paves the way for a deeper understanding of epithelial remodeling and enhancing viral defenses.",
+      "why_important_ar": "هذه المقالة مهمة لأنها تسلط الضوء على العلاقة بين التعديل الظهاري والكفاءة المناعية.",
+      "why_important_en": "This article is important as it highlights the relationship between epithelial remodeling and immune efficiency.",
+      "vs_previous_ar": "تقدم هذه الدراسة رؤى جديدة حول كيفية تأثير سيتوكينات ث2 على العدوى الفيروسية مقارنة بالفهم التقليدي.",
+      "vs_previous_en": "This study provides new insights into how Th2 cytokines affect viral infection compared to traditional understanding.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استكشافية في المختبر تظهر أهمية سيتوكينات ث2 في تعديل وظيفة الظهارة.",
+      "stars_reason_en": "Exploratory laboratory study showing the significance of Th2 cytokines in altering epithelial function.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تحتوي على نتائج جديدة حول سيتوكينات ث2 في التهاب الأنف الجيبي المزمن.",
+      "jc_reason_en": "Contains new findings on Th2 cytokines in chronic rhinosinusitis.",
+      "watch": true,
+      "watch_detail_ar": "يجب مراقبة كيف يمكن استخدام سيتوكينات ث2 كاستراتيجية تهدف إلى تحسين معالجة الالتهابات الفيروسية.",
+      "watch_detail_en": "Monitoring how Th2 cytokines can be used as a strategy to improve viral infection management.",
+      "watch_type": "drug",
+      "research_gap_ar": "لا تزال الآثار الطويلة الأمد للتحوير الظهاري الناتج عن سيتوكينات ث2 غير مفهومة تمامًا.",
+      "research_gap_en": "The long-term effects of Th2 cytokine-induced epithelial remodeling remain not fully understood.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تتناول هذه الدراسة الاستكشافية تأثير سيتوكينات ث2 على استجابة الخلايا الظهارية في التهاب الأنف الجيبي المزمن. تم تعريض الخلايا الظهارية لعوامل مثل IL-4 وIL-13، وتمت مراقبة تأثيراتها على استجابة الإصابة بالفيروسات. النتائج أظهرت انخفاضًا في وظيفة الأهداب، مما يؤكد على تأثير هذه السيتوكينات. كما مُثلت الفروق بين الجنسين بشكل واضح في النتائج، مما يدل على أهمية التباين المناعي. هذا المقال يشدد على كيف يمكن أن تؤثر سيتوكينات ث2 على العلاج المستقبلي.",
+      "audio_script_en": "This exploratory study addresses the impact of Th2 cytokines on the epithelial response in chronic rhinosinusitis. Primary nasal epithelial cells were exposed to factors such as IL-4 and IL-13, and their effects on viral infection response were monitored. Results showed a decrease in ciliary function, underscoring the impact of these cytokines. Gender differences were also distinctly represented in the outcomes, highlighting the importance of immune variability. This article emphasizes how Th2 cytokines may influence future treatment.",
+      "mcq": [
+        {
+          "q_ar": "ما هو هدف الدراسة المتعلقة بسيتوكينات ث2؟",
+          "q_en": "What is the goal of the study regarding Th2 cytokines?",
+          "options_ar": [
+            "أ) التحليل الجيني للخلايا",
+            "ب) تأثير سيتوكينات ث2 على وظيفة الظهارة",
+            "ج) تطوير أدوية جديدة",
+            "د) دراسة جغرافية للالتهابات"
+          ],
+          "options_en": [
+            "A) Genetic analysis of cells",
+            "B) The effect of Th2 cytokines on epithelial function",
+            "C) Development of new drugs",
+            "D) Geographic study of infections"
+          ],
+          "answer": 1,
+          "explanation_ar": "تركز الدراسة على كيفية تأثير سيتوكينات ث2 على وظيفة خلايا الظهارة.",
+          "explanation_en": "The study focuses on how Th2 cytokines affect epithelial cell function."
+        },
+        {
+          "q_ar": "ما هي النتائج الرئيسية التي وجدت في الدراسة؟",
+          "q_en": "What were the main findings of the study?",
+          "options_ar": [
+            "أ) زيادة في الالتهاب",
+            "ب) انخفاض في وظيفة الأهداب",
+            "ج) تحسن في المناعة الفيروسية",
+            "د) لا شيء مما سبق"
+          ],
+          "options_en": [
+            "A) Increase in inflammation",
+            "B) Decrease in ciliary function",
+            "C) Improvement in viral immunity",
+            "D) None of the above"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت النتائج أن سيتوكينات ث2 تؤدي إلى انخفاض في وظيفة الأهداب.",
+          "explanation_en": "Results showed that Th2 cytokines led to a decrease in ciliary function."
+        },
+        {
+          "q_ar": "كيف تختلف هذه الدراسة عن الدراسات السابقة؟",
+          "q_en": "How does this study differ from previous studies?",
+          "options_ar": [
+            "أ) لا اختلافات ملحوظة",
+            "ب) تقديم نتائج جديدة حول سيتوكينات ث2",
+            "ج) استخدام طرق تقليدية فقط",
+            "د) دراسة فقط حالة واحدة"
+          ],
+          "options_en": [
+            "A) No notable differences",
+            "B) Provides new findings on Th2 cytokines",
+            "C) Uses only traditional methods",
+            "D) Studies only one case"
+          ],
+          "answer": 1,
+          "explanation_ar": "تقدم هذه الدراسة نتائج جديدة حول تأثير سيتوكينات ث2 على الالتهابات الفيروسية.",
+          "explanation_en": "This study provides new findings on the impact of Th2 cytokines on viral infections."
+        }
+      ]
+    },
+    {
+      "pmid": "42165966",
+      "title_ar": "Development and preliminary validation of a multidisciplinary 3D‑printed skull base model for endoscopic endonasal surgical training.",
+      "title_en": "Development and preliminary validation of a multidisciplinary 3D‑printed skull base model for endoscopic endonasal surgical training.",
+      "journal": "3D printing in medicine",
+      "pub_date": "2026-May-21",
+      "doi": "10.1186/s41205-026-00318-w",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42165966/",
+      "pdf_url": "https://doi.org/10.1186/s41205-026-00318-w",
+      "study_design": "Prospective cohort",
+      "summary_ar": "تهدف هذه المقالة إلى تقديم تطوير وتطبيق نموذج قاعدة جمجمة ثلاثي الأبعاد مطبوع لتدريب جراحي الأعصاب وأطباء الأنف والأذن والحنجرة في إجراء النهج الأنفي بالمنظار. تم إنشاء النموذج باستخدام تصوير الرنين المغناطيسي وCT. أبلغ المشاركون عن أن النماذج المطبوعة تقدم محاكاة واقعية للغاية للتراكيب التشريحية. وفقًا للإحصائيات، كانت هناك علاقة إيجابية قوية بين تقييم جودة النموذج وتصور الإسهام السريري. تشير النتائج إلى أن النماذج تلعب دورًا حيويًا في تدريب جراحي الأعصاب وأطباء الأنف والأذن والحنجرة على إجراءات معقدة، مع تحسين الأمان وفعالية التدريب.",
+      "summary_en": "This article aims to present the development and application of a 3D-printed skull base model for training neurosurgeons and ENT doctors in performing the endoscopic endonasal approach (EEA). The model was generated using MRI and CT imaging. Participants reported that the printed models provided a highly realistic simulation of the anatomical structures involved. Statistical analysis showed a strong positive correlation between the model's quality assessment and perceived clinical contribution. The results suggest that these models play a vital role in training neurosurgeons and ENT surgeons on complex procedures, improving safety and effectiveness in training.",
+      "practice_change_ar": "يمكن أن تؤدي هذه النماذج إلى تحسين التدريب السريري في جراحة الأنف والأذن والحنجرة.",
+      "practice_change_en": "These models can lead to improved clinical training in ENT surgery.",
+      "future_impact_ar": "يمكن أن تسهم هذه النماذج في تحسين نتائج المرضى في المستقبل.",
+      "future_impact_en": "These models could contribute to improving patient outcomes in the future.",
+      "why_important_ar": "المقالة مهمة لأنها تقدم أداة مبتكرة لتدريب الجراحين على إجراءات معقدة.",
+      "why_important_en": "The article is important because it offers an innovative tool for training surgeons on complex procedures.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة من خلال تقديم أداة تدريب جديدة تدعم التعلم العملي.",
+      "vs_previous_en": "This study differs from previous knowledge by offering a new training tool that supports hands-on learning.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة قائمة على تصميم تجريبي جيد لتقييم نموذج جديد لتدريب الجراحين.",
+      "stars_reason_en": "The study is based on a good experimental design to assess a new model for training surgeons.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This article is worth discussing as it presents a new model for training surgeons.",
+      "watch": true,
+      "watch_detail_ar": "يتعين متابعة تطورات نماذج قاعدة الجمجمة ثلاثية الأبعاد وكيفية تحسين التدريب الجراحي.",
+      "watch_detail_en": "The developments in 3D-printed skull base models and how they improve surgical training should be monitored.",
+      "watch_type": "technology",
+      "research_gap_ar": "يجب استكشاف تطبيق هذا النموذج في سياقات تدريبية أخرى.",
+      "research_gap_en": "The application of this model in other training contexts needs to be explored.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "تهدف هذه المقالة إلى تقديم تطوير وتطبيق نموذج قاعدة جمجمة ثلاثي الأبعاد مطبوع لتدريب جراحي الأعصاب وأطباء الأنف والأذن والحنجرة. تم إنشاء النموذج باستخدام التصوير بالرنين المغناطيسي وCT لتوفير بيانات تشريحية مفصلة. أبلغ المشاركون أن النماذج توفر محاكاة واقعية للغاية. تشير النتائج إلى وجود علاقة إيجابية قوية بين جودة النموذج والتطبيق السريري. تعتبر هذه النماذج أداة مبتكرة لتحسين التدريب على الجراحة، مما يقلل من المخاطر خلال العمليات. لذلك، هذا البحث يستحق النقاش والمتابعة في المستقبل.",
+      "audio_script_en": "This article aims to present the development and application of a 3D-printed skull base model for training neurosurgeons and ENT doctors. The model was created using MRI and CT imaging to provide detailed anatomical data. Participants reported that the models provided a highly realistic simulation. The results indicate a strong positive correlation between model quality and clinical applicability. These models are an innovative tool for improving surgical training, potentially reducing risks during procedures. Therefore, this research is worth discussing and tracking in the future.",
+      "mcq": [
+        {
+          "q_ar": "ما الهدف الرئيسي من الدراسة؟",
+          "q_en": "What is the main objective of the study?",
+          "options_ar": [
+            "أ) تطوير نموذج قاعدة جمجمة",
+            "ب) تقنيات جديدة للجراحة",
+            "ج) اختبار فعالية الأدوية",
+            "د) تقييم أبحاث سابقة"
+          ],
+          "options_en": [
+            "A) Develop a skull base model",
+            "B) New surgical techniques",
+            "C) Test drug efficacy",
+            "D) Evaluate previous research"
+          ],
+          "answer": 0,
+          "explanation_ar": "تهدف الدراسة إلى تطوير نموذج قاعدة جمجمة ثلاثي الأبعاد.",
+          "explanation_en": "The study aims to develop a 3D-printed skull base model."
+        },
+        {
+          "q_ar": "ما هي التصويرات المستخدمة لإنشاء النموذج؟",
+          "q_en": "What imaging techniques were used to create the model?",
+          "options_ar": [
+            "أ) تصوير بالأشعة السينية",
+            "ب) تصوير بالرنين المغناطيسي وCT",
+            "ج) تصوير بالموجات فوق الصوتية",
+            "د) فقط الرنين المغناطيسي"
+          ],
+          "options_en": [
+            "A) X-ray imaging",
+            "B) MRI and CT imaging",
+            "C) Ultrasound imaging",
+            "D) MRI only"
+          ],
+          "answer": 1,
+          "explanation_ar": "استخدمت الدراسة تصوير الرنين المغناطيسي وCT لإنشاء النموذج.",
+          "explanation_en": "The study used MRI and CT imaging to create the model."
+        },
+        {
+          "q_ar": "ما مدى فائدة النموذج وفقًا للمشاركين؟",
+          "q_en": "How useful was the model according to the participants?",
+          "options_ar": [
+            "أ) غير مفيد",
+            "ب) مفيد بشكل معتدل",
+            "ج) مفيد للغاية",
+            "د) غير مؤكد"
+          ],
+          "options_en": [
+            "A) Not useful",
+            "B) Moderately useful",
+            "C) Highly useful",
+            "D) Uncertain"
+          ],
+          "answer": 2,
+          "explanation_ar": "أفاد المشاركون أن النموذج كان مفيدًا للغاية في المحاكاة السريرية.",
+          "explanation_en": "Participants reported that the model was highly useful in clinical simulation."
+        }
+      ]
+    },
+    {
+      "pmid": "42152594",
+      "title_ar": "Eosinophilic vasculitis of aortic valve in EGPA: a life-threatening onset of disease.",
+      "title_en": "Eosinophilic vasculitis of aortic valve in EGPA: a life-threatening onset of disease.",
+      "journal": "The Journal of asthma : official journal of the Association for the Care of Asthma",
+      "pub_date": "2026-May-21",
+      "doi": "10.1080/02770903.2026.2666088",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42152594/",
+      "pdf_url": "https://doi.org/10.1080/02770903.2026.2666088",
+      "study_design": "Case report",
+      "summary_ar": "تتعلق هذه الحالة بمريض يبلغ من العمر 51 عامًا يعاني من الربو الشديد والتهاب الجيوب الأنفية المزمن مع الزوائد الأنفية، وقد قدم إلى قسم الطوارئ بسبب ضيق التنفس المتزايد. تطور لديه سكتة قلبية بعد شهرين من الحمى الخفيفة والخلل العام. أظهرت الفحوصات أن هناك التهاب الأوعية الدموية مع تسرب حاد في الصمام الأبهري. تم تشخيصه بمرض eosinophilic granulomatosis with polyangiitis (EGPA) وتمت معالجته باستخدام mepolizumab. قد تلقي هذه الحالة الضوء على أهمية الجرعة المناسبة من mepolizumab لتحسين نتائج المرض.",
+      "summary_en": "This case involves a 51-year-old man with severe asthma and chronic rhinosinusitis with nasal polyps who presented to the Emergency Department with worsening dyspnea. He developed cardiac arrest after two months of low-grade fever and malaise. Pathological examination revealed vasculitis with acute aortic regurgitation. The patient was diagnosed with eosinophilic granulomatosis with polyangiitis (EGPA) and treated with mepolizumab. This case emphasizes the importance of appropriate mepolizumab dosing to improve clinical outcomes.",
+      "practice_change_ar": "تظهر هذه الحالة أهمية الجرعات المناسبة من mepolizumab لعلاج مرض EGPA.",
+      "practice_change_en": "This case demonstrates the importance of appropriate mepolizumab dosing in treating EGPA.",
+      "future_impact_ar": "قد تشير النتائج إلى وجود آليات مرضية بديلة بخلاف IL-5 في بعض المرضى.",
+      "future_impact_en": "The findings may suggest alternative pathogenic mechanisms beyond IL-5 in some patients.",
+      "why_important_ar": "تقدم هذه الحالة الأولى من نوعها توثيق التهاب الأوعية الدموية على الصمام الأبهري.",
+      "why_important_en": "This case is the first reported instance of vasculitis on the aortic valve.",
+      "vs_previous_ar": "تختلف هذه الحالة عن المعرفة السابقة بخصوص التهاب الأوعية الدموية في EGPA.",
+      "vs_previous_en": "This case differs from previous knowledge about vasculitis in EGPA.",
+      "stars": 4,
+      "stars_reason_ar": "حالة فردية نادرة وتقدم معلومات جديدة حول علاج مرض EGPA.",
+      "stars_reason_en": "A rare individual case presenting new information on EGPA treatment.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This new case provides important information regarding cardiac involvement in EGPA.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة استخدام mepolizumab في علاج EGPA مع التركيز على الجرعة.",
+      "watch_detail_en": "Mepolizumab use in EGPA treatment should be monitored with an emphasis on dosing.",
+      "watch_type": "drug",
+      "research_gap_ar": "هناك حاجة لدراسات إضافية لاستكشاف آليات المرض البديلة في EGPA.",
+      "research_gap_en": "Further studies are needed to explore alternative disease mechanisms in EGPA.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "في هذه الحالة، نتناول حالة مريض يبلغ من العمر 51 عامًا يعاني من الربو الشديد والتهاب الجيوب الأنفية. أثبتت الفحوصات وجود التهاب الأوعية الدموية وتطلبت تدخلاً جراحيًا. العلاج بـ mepolizumab كان فعالاً وكان له نتائج إيجابية. هذه الحالة تبرز أهمية الجرعة المناسبة من mepolizumab في علاج مرض EGPA.",
+      "audio_script_en": "In this case, we discuss a 51-year-old man with severe asthma and sinusitis. Tests showed vasculitis and required surgical intervention. Mepolizumab treatment was effective and resulted in positive outcomes. This case highlights the importance of appropriate mepolizumab dosing in treating EGPA.",
+      "mcq": [
+        {
+          "q_ar": "ما هو مرض EGPA؟",
+          "q_en": "What is EGPA?",
+          "options_ar": [
+            "أ) التهاب الأوعية الدموية",
+            "ب) نوع من الربو",
+            "ج) مرض دموي نادر",
+            "د) مرض تنفسي مزمن"
+          ],
+          "options_en": [
+            "A) Vascular inflammation",
+            "B) A type of asthma",
+            "C) A rare blood disorder",
+            "D) A chronic respiratory disease"
+          ],
+          "answer": 0,
+          "explanation_ar": "EGPA هو مرض التهاب الأوعية الدموية.",
+          "explanation_en": "EGPA is a type of vasculitis."
+        },
+        {
+          "q_ar": "ما العامل المعروف الذي يعالج EGPA؟",
+          "q_en": "What is the known treatment for EGPA?",
+          "options_ar": [
+            "أ) corticosteroids",
+            "ب) mepolizumab",
+            "ج) antihistamines",
+            "د) antibiotics"
+          ],
+          "options_en": [
+            "A) Corticosteroids",
+            "B) Mepolizumab",
+            "C) Antihistamines",
+            "D) Antibiotics"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم استخدام mepolizumab كعلاج لمرض EGPA.",
+          "explanation_en": "Mepolizumab has been used as a treatment for EGPA."
+        },
+        {
+          "q_ar": "ما هو الصمام الذي تأثر في الحالة المعروضة؟",
+          "q_en": "Which valve was affected in the presented case?",
+          "options_ar": [
+            "أ) الصمام التاجي",
+            "ب) الصمام الأبهري",
+            "ج) الصمام الرئوي",
+            "د) الصمام الثلاثي الشرفات"
+          ],
+          "options_en": [
+            "A) Mitral valve",
+            "B) Aortic valve",
+            "C) Pulmonary valve",
+            "D) Tricuspid valve"
+          ],
+          "answer": 1,
+          "explanation_ar": "التأثير كان على الصمام الأبهري.",
+          "explanation_en": "The aortic valve was affected."
+        }
+      ]
+    },
+    {
+      "pmid": "42165914",
+      "title_ar": "A benchmark of methods for surgical instrument segmentation in endoscopic pituitary surgery.",
+      "title_en": "A benchmark of methods for surgical instrument segmentation in endoscopic pituitary surgery.",
+      "journal": "International journal of computer assisted radiology and surgery",
+      "pub_date": "2026-May-21",
+      "doi": "10.1007/s11548-026-03668-2",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42165914/",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11548-026-03668-2.pdf",
+      "study_design": "Retrospective series n>100",
+      "summary_ar": "هذه الدراسة تفحص مجموعة بيانات أدوات جراحية مُعَلَّمة داخلياً لجراحة الغدة النخامية عبر الأنف بواسطة المنظار وتُقارن أداء عدد من نماذج التقسيم المعروفة، مع كل من العمارة المعتمدة على المحولات وعمارة التفاف. أظهرت النتائج أن أعلى أداء تم تحقيقه بواسطة نموذج EoMT، ب DSC قدره 0.7420 مع الحفاظ على أداء أكثر توازناً عبر الفئات الأقل. كما تظهر النتائج التحديات الناتجة عن استخدام لقطات جراحية حقيقية، مع محتويات إطارية عالية التغير وعدم توازن فئات كبير. هذه النتائج تعكس الأداء المنخفض عبر الفئات ذات الترددات المنخفضة التي تشبه كثيراً في المظهر للفئات الأكثر شيوعاً.",
+      "summary_en": "This study examines an in-house labelled surgical instrument dataset for endoscopic transsphenoidal pituitary surgery and compares the performance of a number of established segmentation models, with both transformer-based and convolutional architectures. The results show that the highest performance was achieved by the EoMT model, with a DSC of 0.7420 while maintaining a more balanced performance across minority classes. Additionally, the results highlight challenges caused by the use of real surgical footage, with highly variable frame contents, and significant class imbalances. This is reflected in reduced performance across classes with low frequencies that are similar in appearance to more popular classes.",
+      "practice_change_ar": "تسهم نتائج هذا البحث في تحسين التقنيات المستخدمة في تق segment الأدوات الجراحية خلال جراحة الغدة النخامية.",
+      "practice_change_en": "The findings from this research contribute to improving the techniques used in segmenting surgical instruments during pituitary surgery.",
+      "future_impact_ar": "يمكن أن تؤدي هذه النتائج إلى تطوير نماذج أكثر فعالية للحفاظ على سلامة المرضى أثناء الجراحة.",
+      "future_impact_en": "These findings could lead to the development of more effective models for maintaining patient safety during surgery.",
+      "why_important_ar": "تبرز هذه المقالة حاجة ملحة لتطوير بيانات أكبر وتضمين جراحات تمثل تحديات جديدة.",
+      "why_important_en": "This article highlights an urgent need for larger datasets and the inclusion of surgeries that present new challenges.",
+      "vs_previous_ar": "تقدم هذه الدراسة نهجًا منهجيًا لتحسين تصنيف الأدوات الجراحية مقارنةً بالدراسات السابقة.",
+      "vs_previous_en": "This study offers a systematic approach to improving surgical instrument classification compared to previous studies.",
+      "stars": 4,
+      "stars_reason_ar": "تصميم الدراسة ريتروسبيكتيف ومجموعة البيانات تفوق 100، مما يوفر قيمة علمية مع نتائج جديدة.",
+      "stars_reason_en": "The study design is retrospective with a dataset exceeding 100, providing scientific value with new results.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It addresses new aspects of AI applications in surgical procedures.",
+      "watch": true,
+      "watch_detail_ar": "ينبغي متابعة التقنيات الجديدة في أدوات تقسيم الجراحة الناتجة عن هذا البحث.",
+      "watch_detail_en": "The new techniques in surgical instrument segmentation resulting from this research should be tracked.",
+      "watch_type": "technology",
+      "research_gap_ar": "الحاجة إلى بيانات أكبر تضم جراحات قليلة التمثيل حاليا.",
+      "research_gap_en": "The need for larger datasets that include currently under-represented surgeries.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "هذه الدراسة تفحص مجموعة بيانات أدوات جراحية مُعَلَّمة داخلياً لجراحة الغدة النخامية عبر الأنف بواسطة المنظار. تم تقييم أداء عدد من نماذج التقسيم المعروفة، حيث أظهرت النتائج أن نموذج EoMT حقق أعلى أداء. كما تسلط الدراسة الضوء على التحديات الناتجة عن استخدام لقطات جراحية حقيقية. نتائج البحث تدعم تحسين التقنيات المستخدمة وتبرز أهمية تطوير بيانات أكبر. لذا، يُعتبر هذا البحث ذا قيمة علمية عالية.",
+      "audio_script_en": "This study examines an in-house labelled surgical instrument dataset for endoscopic transsphenoidal pituitary surgery. Several established segmentation models were evaluated, with results showing that the EoMT model achieved the highest performance. Furthermore, the study highlights challenges posed by the use of real surgical footage. The research findings support improvements in the techniques used and underscore the importance of developing larger datasets. Therefore, this research holds significant scientific value.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف الرئيسي للدراسة؟",
+          "q_en": "What is the main objective of the study?",
+          "options_ar": [
+            "أ) تطوير أدوات تقسيم جديدة",
+            "ب) تقييم بيانات أدوات جراحية",
+            "ج) تحسين أداء نماذج تقسيم",
+            "د) جمع بيانات جديدة"
+          ],
+          "options_en": [
+            "A) Develop new segmentation tools",
+            "B) Evaluate surgical instrument data",
+            "C) Improve segmentation model performance",
+            "D) Collect new data"
+          ],
+          "answer": 2,
+          "explanation_ar": "تهدف الدراسة إلى تحسين أداء نماذج تقسيم الأدوات الجراحية.",
+          "explanation_en": "The study aims to improve the performance of surgical instrument segmentation models."
+        },
+        {
+          "q_ar": "ما هو النموذج الذي حقق أعلى أداء في الدراسة؟",
+          "q_en": "Which model achieved the highest performance in the study?",
+          "options_ar": [
+            "أ) نموذج EoMT",
+            "ب) نموذج تقليدي",
+            "ج) نموذج باستخدام الشبكات العصبية",
+            "د) نموذج البراعم"
+          ],
+          "options_en": [
+            "A) EoMT model",
+            "B) Traditional model",
+            "C) A model using neural networks",
+            "D) Budding model"
+          ],
+          "answer": 0,
+          "explanation_ar": "حقق نموذج EoMT أعلى أداء بمعدل DSC قدره 0.7420.",
+          "explanation_en": "The EoMT model achieved the highest performance with a DSC of 0.7420."
+        },
+        {
+          "q_ar": "ما العوامل التي تؤثر على أداء نماذج التقسيم؟",
+          "q_en": "What factors affect the performance of segmentation models?",
+          "options_ar": [
+            "أ) محتوى الإطار المتغير",
+            "ب) نوع الجراحة",
+            "ج) حجم قاعدة البيانات",
+            "د) جميع ما ذكر"
+          ],
+          "options_en": [
+            "A) Variable frame content",
+            "B) Type of surgery",
+            "C) Size of the database",
+            "D) All of the above"
+          ],
+          "answer": 3,
+          "explanation_ar": "تتأثر نماذج التقسيم بعوامل عديدة بما في ذلك محتوى الإطار المتغير وحجم قاعدة البيانات.",
+          "explanation_en": "Segmentation models are affected by several factors including variable frame content and the size of the database."
+        }
+      ]
+    },
+    {
+      "pmid": "42167037",
+      "title_ar": "Treatment and prognosis of subglottic cancers: a 10-year, multicenter, retrospective study in northern Japan.",
+      "title_en": "Treatment and prognosis of subglottic cancers: a 10-year, multicenter, retrospective study in northern Japan.",
+      "journal": "Oral oncology",
+      "pub_date": "2026-May-21",
+      "doi": "10.1016/j.oraloncology.2026.108021",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42167037/",
+      "pdf_url": "https://doi.org/10.1016/j.oraloncology.2026.108021",
+      "study_design": "Retrospective series n=66",
+      "summary_ar": "سرطان تحت المزمار هو خبيثة نادرة حيث تتوفر بيانات محدودة عن الوبائية والتشخيص والعودة والحفاظ على الحنجرة. أظهرت الدراسة أن سرطان تحت المزمار لديهم حالات متقدمة أكثر وارتفاع معدلات استئصال الحنجرة الكلية والعودة مقارنة بسرطان المزمار وسرطان فوق المزمار. كما أظهرت الدراسة أيضًا أن العلاج الكيميائي أو الإشعاعي كان فعالاً للحالات T1-2 بينما كان هناك معدل عائد مرتفع للحالات T3-4. قدم استئصال الحنجرة الكلية تحكمًا محليًا جيدًا لكن متبوعًا كثيرًا بالعودة العقدية والنقل البعيد.",
+      "summary_en": "Subglottic cancer is a rare malignancy with limited data on its epidemiology, prognosis, recurrence, and laryngeal preservation. The study revealed that subglottic cancer presented with more advanced cases and higher rates of total laryngectomy and recurrence compared to glottic and supraglottic cancers. It also showed that (chemo)radiotherapy was effective for T1-2 cases, while T3-4 had a high local recurrence rate. Total laryngectomy provided good local control but was frequently followed by nodal recurrence and distant metastasis.",
+      "practice_change_ar": "هذا البحث قد يؤثر على كيفية إدارة حالات سرطان تحت المزمار.",
+      "practice_change_en": "This research may impact how subglottic cancer cases are managed.",
+      "future_impact_ar": "يقدم البحث رؤى تحتاج لمزيد من الدراسة والتطوير.",
+      "future_impact_en": "The research provides insights that require further study and development.",
+      "why_important_ar": "تعتبر هذه الدراسة مهمة لأنها تقدم بيانات قيمة عن سرطان تحت المزمار.",
+      "why_important_en": "This study is important as it provides valuable data on subglottic cancer.",
+      "vs_previous_ar": "تقدم هذه الدراسة معلومات جديدة تتعلق بتشخيص وعلاج سرطان تحت المزمار.",
+      "vs_previous_en": "This study provides new information regarding the diagnosis and treatment of subglottic cancer.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استعادية مع عدد مرضى كاف جداً (n=66).",
+      "stars_reason_en": "Retrospective study with a sufficient patient number (n=66).",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study provides important data but requires further exploration.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة فعالية العلاج الكيميائي والإشعاعي لحالات سرطان تحت المزمار.",
+      "watch_detail_en": "The effectiveness of (chemo)radiotherapy for subglottic cancer cases should be monitored.",
+      "watch_type": "drug",
+      "research_gap_ar": "تحتاج إلى مزيد من الدراسات حول العلاج والعوامل المؤثرة في النتائج.",
+      "research_gap_en": "Further studies are needed on treatment and factors influencing outcomes.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تتناول هذه الدراسة سرطان تحت المزمار وهو خبيثة نادرة. تم التعرف على 66 مريضًا من أصل 1763 مريضًا. النتائج أظهرت أن حالات سرطان تحت المزمار كانت أكثر تقدمًا مع معدلات أعلى لاستئصال الحنجرة الكلية والعودة. العلاج الكيميائي أو الإشعاعي كان فعالاً في الحالات T1-2، بينما حالات T3-4 كانت تعاني من معدل مرتفع من العودة المحلية.",
+      "audio_script_en": "This study focuses on subglottic cancer, a rare malignancy. A total of 66 patients were identified among 1763. The results showed that subglottic cancer cases were more advanced with higher rates of total laryngectomy and recurrence. Chemotherapy or radiotherapy was effective in T1-2 cases, while T3-4 cases had a high local recurrence rate.",
+      "mcq": [
+        {
+          "q_ar": "ما هو التصميم الأساسي للدراسة؟",
+          "q_en": "What is the primary study design?",
+          "options_ar": [
+            "أ) دراسة استعادية",
+            "ب) تجربة سريرية",
+            "ج) دراسة استباقية",
+            "د) حالة تقرير"
+          ],
+          "options_en": [
+            "A) Retrospective study",
+            "B) Clinical trial",
+            "C) Prospective study",
+            "D) Case report"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة هي دراسة استعادية مع 66 مريضًا.",
+          "explanation_en": "The study is a retrospective study with 66 patients."
+        },
+        {
+          "q_ar": "ما هي نتيجة العلاج الكيميائي أو الإشعاعي للحالات T1-2؟",
+          "q_en": "What is the outcome of (chemo)radiotherapy for T1-2 cases?",
+          "options_ar": [
+            "أ) غير فعالة",
+            "ب) فعالة",
+            "ج) تتطلب استئصال الحنجرة",
+            "د) لا معلومات محددة"
+          ],
+          "options_en": [
+            "A) Ineffective",
+            "B) Effective",
+            "C) Requires laryngectomy",
+            "D) No specific information"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت الدراسة أن العلاج الكيميائي أو الإشعاعي كان فعالاً لحالات T1-2.",
+          "explanation_en": "The study showed that (chemo)radiotherapy was effective for T1-2 cases."
+        },
+        {
+          "q_ar": "كيف يختلف سرطان تحت المزمار عن الأنواع الأخرى؟",
+          "q_en": "How does subglottic cancer differ from other types?",
+          "options_ar": [
+            "أ) أقل عدوانية",
+            "ب) حالة متقدمة أكثر",
+            "ج) معدلات أقل من العودة",
+            "د) لا يختلف"
+          ],
+          "options_en": [
+            "A) Less aggressive",
+            "B) More advanced cases",
+            "C) Lower recurrence rates",
+            "D) No difference"
+          ],
+          "answer": 1,
+          "explanation_ar": "قدم سرطان تحت المزمار حالات أكثر تقدمًا مقارنة بالآخر.",
+          "explanation_en": "Subglottic cancer presented with more advanced cases compared to others."
+        }
+      ]
+    },
+    {
+      "pmid": "42165784",
+      "title_ar": "Economic analysis of surgery and biological therapy for chronic rhinosinusitis with nasal polyps.",
+      "title_en": "Economic analysis of surgery and biological therapy for chronic rhinosinusitis with nasal polyps.",
+      "journal": "Rhinology",
+      "pub_date": "2026-May-21",
+      "doi": "10.4193/Rhin25.529",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42165784/",
+      "pdf_url": null,
+      "study_design": "Retrospective series n=89",
+      "summary_ar": "تسعى هذه الدراسة إلى تقييم التكلفة والفعالية لعلاج التهاب الأنف الدائم مع الاورام اللحمية. وصف البحث تحليلاً اقتصاديًا للعلاجين: عملية الجراحة التنظيرية للجيوب الأنفية (ESS) والعلاج البيولوجي، من منظور النظام الصحي الإسباني. أظهر البحث تحسنًا مشابهًا في نتائج SNOT-22 بين المرضى الذين تلقوا ESS والعلاج البيولوجي. ومع ذلك، كانت تكاليف الجراحة أقل بكثير من تكاليف العلاج البيولوجي، مما يجعل العلاج البيولوجي أقل كفاءة على المدى القصير. على مدى 10 سنوات، قدم العلاج البيولوجي نتائج أفضل من حيث QALY لكن بتكلفة أعلى.",
+      "summary_en": "This study aims to evaluate the cost and effectiveness of treating chronic rhinosinusitis with nasal polyps. The research describes an economic analysis of two treatments: endoscopic sinus surgery (ESS) and biologic therapy, from the perspective of the Spanish health system. It showed a similar improvement in SNOT-22 outcomes between patients receiving ESS and biologic therapy. However, the costs for surgery were significantly lower than those for biologics, making biologics less efficient in the short term. Over 10 years, biologics yielded better QALY outcomes but at a higher cost.",
+      "practice_change_ar": "يمكن للأطباء تقييم خيار الجراحة التنظيرية أكثر قبل التعبير عن وصف العلاج البيولوجي.",
+      "practice_change_en": "Doctors may consider endoscopic surgery more before opting for biologic therapy.",
+      "future_impact_ar": "قد تؤدي النتائج إلى توجيه استخدام العلاجات البيولوجية في علاج التهاب الأنف مع الاورام اللحمية.",
+      "future_impact_en": "The findings may direct the use of biologic treatments in managing rhinosinusitis with nasal polyps.",
+      "why_important_ar": "توضح هذه الدراسة أهمية خفض التكاليف وفهم الفعالية بين خياري العلاج.",
+      "why_important_en": "This study highlights the importance of cost reduction and understanding efficacy between treatment options.",
+      "vs_previous_ar": "تقدم الدراسة رؤى جديدة حول مقارنة التكاليف والفعالية بين الجراحة والعلاج البيولوجي.",
+      "vs_previous_en": "The study provides new insights into comparing costs and effectiveness between surgery and biologic therapy.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة م retrospective بأكثر من 100 مريض، تقدم معلومات مفيدة عن التكلفة والفعالية.",
+      "stars_reason_en": "Retrospective study with over 100 patients, providing useful information on cost and efficacy.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study provides an important economic analysis for surgery in rhinosinusitis.",
+      "watch": true,
+      "watch_detail_ar": "ينبغي مراقبة العلاجات البيولوجية بسبب تأثيراتها الطويلة المدى وتكلفتها.",
+      "watch_detail_en": "Biologics should be monitored due to their long-term effects and costs.",
+      "watch_type": "drug",
+      "research_gap_ar": null,
+      "research_gap_en": null,
+      "subspecialty": "rhinology",
+      "audio_script_ar": "في هذه الدراسة، تم تحليل فاعلية وتكلفة الجراحة التنظيرية لعلاج التهاب الجيوب الأنفية المزمن مع الأورام اللحمية. شملت الدراسة 89 مريضًا، ووجدت أن التحسن يشبه بين من تلقوا العلاج الجراحي والعلاج البيولوجي. لكن، كان التكلفة أقل بكثير بالنسبة للجراحة، مما يشير إلى أن الجراحة كانت أكثر كفاءة. في المدى البعيد، أظهرت البيولوجيات نتائج أفضل بالنسبة لجودة الحياة ولكن بتكاليف أعلى. هذه الدراسة تساهم في النقاش حول الخيارات العلاجية المتاحة وتقدم قاعدة قوية لتوجيه الاختيار السريري.",
+      "audio_script_en": "In this study, the effectiveness and cost of endoscopic surgery for chronic rhinosinusitis with nasal polyps were analyzed. The study included 89 patients and found similar improvements between those receiving surgical treatment and biologic therapy. However, the costs were significantly lower for surgery, indicating that surgery was more efficient. In the long term, biologics showed better outcomes regarding quality of life but at a higher cost. This study contributes to the discussion around available treatment options and provides a strong basis to guide clinical choice.",
+      "mcq": [
+        {
+          "q_ar": "ما هي العلاج الذي أظهر تكلفة أقل في الدراسة؟",
+          "q_en": "Which treatment showed lower costs in the study?",
+          "options_ar": [
+            "أ) العلاج البيولوجي",
+            "ب) الجراحة التنظيرية",
+            "ج) العلاجات البديلة",
+            "د) العلاج بالأدوية التقليدية"
+          ],
+          "options_en": [
+            "A) Biologic therapy",
+            "B) Endoscopic surgery",
+            "C) Alternative treatments",
+            "D) Traditional drug therapy"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت الدراسة أن الجراحة التنظيرية كانت أقل تكلفة من العلاج البيولوجي.",
+          "explanation_en": "The study showed that endoscopic surgery was less expensive than biologic therapy."
+        },
+        {
+          "q_ar": "ما هو مؤشر التكلفة-المنفعة بعد عامين للعلاج البيولوجي؟",
+          "q_en": "What is the cost-utility ratio after two years for biologic therapy?",
+          "options_ar": [
+            "أ) 1.2 مليون يورو/QALY",
+            "ب) 100,000 يورو/QALY",
+            "ج) 500,000 يورو/QALY",
+            "د) 10,000 يورو/QALY"
+          ],
+          "options_en": [
+            "A) €1.2 million/QALY",
+            "B) €100,000/QALY",
+            "C) €500,000/QALY",
+            "D) €10,000/QALY"
+          ],
+          "answer": 0,
+          "explanation_ar": "كان مؤشر التكلفة-المنفعة للعلاج البيولوجي 1.2 مليون يورو/QALY بعد عامين.",
+          "explanation_en": "The cost-utility ratio for biologic therapy was €1.2 million/QALY after two years."
+        },
+        {
+          "q_ar": "ما هي نسبة التحسن في SNOT-22 لعلاج ESS بعد عامين؟",
+          "q_en": "What was the improvement in SNOT-22 for ESS treatment after two years?",
+          "options_ar": [
+            "أ) 31.8",
+            "ب) 31.0",
+            "ج) 28.5",
+            "د) 25.0"
+          ],
+          "options_en": [
+            "A) 31.8",
+            "B) 31.0",
+            "C) 28.5",
+            "D) 25.0"
+          ],
+          "answer": 0,
+          "explanation_ar": "تحسن مقياس SNOT-22 بمقدار 31.8 بعد سنتين من علاج ESS.",
+          "explanation_en": "The SNOT-22 score improved by 31.8 after two years of ESS treatment."
+        }
+      ]
+    },
+    {
+      "pmid": "42168301",
+      "title_ar": "Comparison of ventilation with second-generation supraglottic airway devices in a prospective randomized cadaver study.",
+      "title_en": "Comparison of ventilation with second-generation supraglottic airway devices in a prospective randomized cadaver study.",
+      "journal": "Scientific reports",
+      "pub_date": "2026-May-21",
+      "doi": "10.1038/s41598-026-53005-5",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42168301/",
+      "pdf_url": "https://doi.org/10.1038/s41598-026-53005-5",
+      "study_design": "Prospective controlled study",
+      "summary_ar": "تتناول هذه الدراسة مقارنة أداء التهوية مع أجهزة airway supraglottic من الجيل الثاني، بما في ذلك LT®evo. تم استخدام ستة جثث بشرية للتهوية عبر أنبوب endotracheal وأربعة أجهزة SAD تحت تهوية ميكانيكية موحدة. أظهرت النتائج أن حجم tidal للإلهام باستخدام LT®evo كان مشابهاً لتلك الخاصة بـ ET وLTS-D وأفضل من i-gel® Plus. كانت الضغوط العالية والمقاومة للإلهام أعلى في ET مقارنة مع LT®evo. كما تم النجاح في إدخال أنبوب endotracheal باستخدام fiberoptics بجميع المحاولات.",
+      "summary_en": "This study examines the ventilation performance comparison with second-generation supraglottic airway devices, including LT®evo. It utilized six human cadavers for ventilation via an endotracheal tube and four SADs under standardized mechanical ventilation. Results showed that inspiratory tidal volumes with LT®evo were comparable to ET and LTS-D but superior to i-gel® Plus. Peak pressures and inspiratory resistance were higher in ET compared to LT®evo. Endotracheal intubation using fiberoptics was successfully accomplished in all attempts.",
+      "practice_change_ar": "قد تؤثر نتائج LT®evo على اختيار الأجهزة المستخدمة في إدارة مجرى الهواء.",
+      "practice_change_en": "The results of LT®evo may influence the choice of devices used in airway management.",
+      "future_impact_ar": "يمكن أن تؤدي هذه النتائج إلى تحسين خيارات إدارة مجرى الهواء في حالات الطوارئ.",
+      "future_impact_en": "These findings could lead to better airway management options in emergency situations.",
+      "why_important_ar": "تسهم هذه الدراسة في تعزيز الفهم حول أداء أجهزة airway supraglottic المختلفة.",
+      "why_important_en": "This study contributes to the understanding of the performance of different supraglottic airway devices.",
+      "vs_previous_ar": "تقدم هذه الدراسة معلومات جديدة حول أداء LT®evo مقارنة بالأجهزة التقليدية.",
+      "vs_previous_en": "This study provides new information regarding the performance of LT®evo compared to traditional devices.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة مصممة بشكل جيد (دراسة مراقبة مستقبلية) وتضمنت مقارنات هامة لأداء الأجهزة.",
+      "stars_reason_en": "The study is well-designed (prospective controlled study) and includes significant comparisons of device performance.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It provides important new findings in airway management.",
+      "watch": true,
+      "watch_detail_ar": "ينبغي متابعة أداء LT®evo وقدرته على تحسين نتائج التهوية.",
+      "watch_detail_en": "The performance of LT®evo and its potential to improve ventilation outcomes should be monitored.",
+      "watch_type": "device",
+      "research_gap_ar": "هناك حاجة إلى مزيد من الأبحاث لتأكيد أداء LT®evo في ظروف سريرية حقيقية.",
+      "research_gap_en": "Further research is needed to confirm the performance of LT®evo in real clinical settings.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "في هذه الدراسة، تمت مقارنة أداء التهوية للأجهزة airway supraglottic من الجيل الثاني، بما في ذلك LT®evo. تم استخدام ستة جثث بشرية وتمت دراسة أداء الجهاز تحت تهوية ميكانيكية موحدة. وقد أظهرت النتائج أن LT®evo يقدم حجم tidal ملائم مثل الأجهزة الأخرى ولكنه متفوق على i-gel® Plus. كما تم تحقيق نجاح كامل في إدخال أنبوب endotracheal باستخدام fiberoptics في جميع المحاولات. هذه النتائج قد تغير ممارسات إدارة مجرى الهواء.",
+      "audio_script_en": "This study compared the ventilation performance of second-generation supraglottic airway devices, including LT®evo. Six human cadavers were used to study device performance under standardized mechanical ventilation. Results showed LT®evo provided adequate tidal volume similar to other devices but was superior to i-gel® Plus. Successful endotracheal intubation using fiberoptics was achieved in all attempts. These results may influence airway management practices.",
+      "mcq": [
+        {
+          "q_ar": "ما هي الفائدة الرئيسية لـ LT®evo مقارنةً مع الأجهزة الأخرى؟",
+          "q_en": "What is the main benefit of LT®evo compared to other devices?",
+          "options_ar": [
+            "أ) يساعد في تحسين أداء التهوية",
+            "ب) لديه تكلفة أقل",
+            "ج) أسهل للاستخدام",
+            "د) يعد الأكثر شيوعًا"
+          ],
+          "options_en": [
+            "A) Helps improve ventilation performance",
+            "B) Has lower cost",
+            "C) Easier to use",
+            "D) Is the most commonly used"
+          ],
+          "answer": 0,
+          "explanation_ar": "أظهرت النتائج أن LT®evo يقدم حجماً مناسبًا من التهوية مقارنة بالأجهزة الأخرى.",
+          "explanation_en": "Results showed that LT®evo provides adequate tidal volume compared to other devices."
+        },
+        {
+          "q_ar": "ما نوع الدراسة التي أجريت؟",
+          "q_en": "What type of study was conducted?",
+          "options_ar": [
+            "أ) دراسة عشوائية مزدوجة التعمية",
+            "ب) دراسة مراقبة مستقبلية",
+            "ج) دراسة مستعرضة",
+            "د) دراسة حالة"
+          ],
+          "options_en": [
+            "A) Double-blind randomized study",
+            "B) Prospective controlled study",
+            "C) Cross-sectional study",
+            "D) Case study"
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسة كانت دراسة مراقبة مستقبلية تضمنت مقارنة أداء الأجهزة.",
+          "explanation_en": "The study was a prospective controlled study that compared device performance."
+        },
+        {
+          "q_ar": "ماذا تعني النتائج بالنسبة لإدارة مجرى الهواء؟",
+          "q_en": "What do the results imply for airway management?",
+          "options_ar": [
+            "أ) تحسين خيارات إدارة مجرى الهواء",
+            "ب) تراجع عن الأساليب القديمة",
+            "ج) تقليل الحاجة للأدوية",
+            "د) رفع مستوى التعقيد"
+          ],
+          "options_en": [
+            "A) Improved airway management options",
+            "B) Reversion to older methods",
+            "C) Reduced need for medications",
+            "D) Increased complexity"
+          ],
+          "answer": 0,
+          "explanation_ar": "النتائج تشير إلى تحسين خيارات إدارة مجرى الهواء بناءً على الأداء الجيد لأجهزة LT®evo.",
+          "explanation_en": "The results suggest improved airway management options based on the good performance of LT®evo devices."
+        }
+      ]
+    },
+    {
+      "pmid": "42168030",
+      "title_ar": "Exploring Closed Quotient and Glottal Contact Instant Across Pitch, Dynamics, and Sex in Singers.",
+      "title_en": "Exploring Closed Quotient and Glottal Contact Instant Across Pitch, Dynamics, and Sex in Singers.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-May-21",
+      "doi": "10.1016/j.jvoice.2026.04.049",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42168030/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort",
+      "summary_ar": "تُظهر هذه الدراسة تأثير الجنس، والمستوى الصوتي، ومستوى الديناميكية على Closed Quotient (CQ) و Glottal Contact Instant (GCI) في المغنين المدربين. تم اختبار 16 مغنيًا مدربًا، وتم تسجيل بيانات electroglottography (EGG) خلال فترات مختلفة. أظهرت النتائج أن الرجال لديهم CQ أعلى بشكل ملحوظ من النساء. كذلك، كانت هناك زيادة كبيرة في CQ مع زيادة مستوى الديناميكية. بينما لم يظهر الجنس تأثيرًا رئيسيًا على GCI، أظهر المستوى الديناميكي تأثيرًا واضحًا مع زيادة GCI من المستوى الصوتي الهادئ إلى المريح. تقدم هذه النتائج بيانات EGG المدفوعة بالجنس والتي يمكن أن تؤثر على تقييم الصوت السريري وتوجيه التعليم الصوتي.",
+      "summary_en": "This study examines the impact of sex, pitch, and dynamic level on Closed Quotient (CQ) and Glottal Contact Instant (GCI) in trained singers. Sixteen trained singers were tested while EGG data were recorded at various intervals. Results indicate that males exhibited significantly higher CQ than females. There was also a significant increase in CQ with rising dynamic levels. While sex did not impact GCI, dynamic level significantly influenced it, with GCI increasing from soft to comfortable dynamics. These findings provide sex-based EGG data with clinical implications for voice assessment and vocal education.",
+      "practice_change_ar": "يمكن استخدام البيانات المدفوعة بالجنس لتحسين تقييم الصوت السريري.",
+      "practice_change_en": "Sex-based data can be utilized to enhance clinical voice assessment.",
+      "future_impact_ar": "قد تؤثر هذه النتائج على كيفية تعليم وتدريب المغنين بشكل مستقبلي.",
+      "future_impact_en": "These findings may influence future teaching and training practices for singers.",
+      "why_important_ar": "تقدم هذه المقالة معلومات ضرورية حول كيفية تأثير الجنس والديناميكية على سلوك الاتصال الصوتي.",
+      "why_important_en": "This article provides critical insights into how sex and dynamics influence vocal contact behavior.",
+      "vs_previous_ar": "تضيف هذه الدراسة معلومات جديدة عن التأثيرات التفاعلية للجنس ومستوى الديناميكية.",
+      "vs_previous_en": "This study adds new information about the interactive effects of sex and dynamic level.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة غير رصدية (Prospective cohort) تحتوي على بيانات جديدة تؤثر على الممارسة السريرية.",
+      "stars_reason_en": "Non-randomized study (Prospective cohort) with new data that influences clinical practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This study presents new insights in vocal dynamics that may influence education and clinical application.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحديد تأثير الجنس ومستوى الصوت على الديناميكية الصوتية يحتاج إلى دراسات إضافية.",
+      "research_gap_en": "The influence of sex and pitch level on vocal dynamics needs further study.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تتناول هذه الدراسة تأثيرات الجنس، والمستوى الصوتي، ومستويات الديناميكية على Closed Quotient و Glottal Contact Instant في المغنين المدربين. من خلال اختبار 16 مغنيًا، وجدت الدراسة أن الرجال كانوا أكثر ملاءمة فيما يتعلق بـ CQ مقارنةً بالنساء. بالإضافة إلى ذلك، لاحظت الدراسة زيادة ملحوظة في CQ مع ارتفاع المستويات الديناميكية. لم يحقق الجنس تأثيرًا كبيرًا على GCI، ولكن لاحظت الدراسة تأثيرًا كبيرًا على مستوى الديناميكية. تعد هذه النتائج ذات أهمية خاصة لأنها توفر بيانات EGG المدفوعة بالجنس التي يمكن أن تكون مفيدة في تقييم الصوت السريري.",
+      "audio_script_en": "This study explores the effects of sex, pitch level, and dynamic levels on Closed Quotient and Glottal Contact Instant in trained singers. By testing 16 singers, the study found that males exhibited higher CQ compared to females. Furthermore, a significant increase in CQ was noted with rising dynamic levels. While sex did not have a substantial effect on GCI, a significant impact was observed with dynamic level. These results are particularly important as they provide sex-based EGG data that can be useful in clinical voice assessment.",
+      "mcq": [
+        {
+          "q_ar": "ما هو التأثير الرئيسي الذي لوحظ في Closed Quotient (CQ) بين الجنسين؟",
+          "q_en": "What was the primary effect observed in Closed Quotient (CQ) between sexes?",
+          "options_ar": [
+            "أ) لا تأثير",
+            "ب) النساء أكثر",
+            "ج) الرجال أكثر",
+            "د) متساوي"
+          ],
+          "options_en": [
+            "A) No effect",
+            "B) Females higher",
+            "C) Males higher",
+            "D) Equal"
+          ],
+          "answer": 2,
+          "explanation_ar": "أظهرت النتائج أن CQ كان أعلى بشكل ملحوظ لدى الرجال.",
+          "explanation_en": "Results indicated that CQ was significantly higher in males."
+        },
+        {
+          "q_ar": "ما هي الديناميكية التي كانت لها زيادة كبيرة في GCI؟",
+          "q_en": "Which dynamic level showed a significant increase in GCI?",
+          "options_ar": [
+            "أ) هادئ",
+            "ب) مريح",
+            "ج) عالٍ",
+            "د) لا يوجد فرق"
+          ],
+          "options_en": [
+            "A) Soft",
+            "B) Comfortable",
+            "C) Loud",
+            "D) No difference"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت الدراسة زيادة كبيرة في GCI من المستوى الصوتي الهادئ إلى المستوى المريح.",
+          "explanation_en": "The study showed a significant increase in GCI from soft to comfortable dynamics."
+        },
+        {
+          "q_ar": "ما هي النتيجة الرئيسية التي تم استنتاجها حول الجنس في الدراسة؟",
+          "q_en": "What was the main conclusion drawn about sex in the study?",
+          "options_ar": [
+            "أ) لم يكن له تأثير",
+            "ب) الرجال أكثر في كل الجوانب",
+            "ج) النساء أكثر في الديناميكية العالية",
+            "د) أُثر بشكل مختلف"
+          ],
+          "options_en": [
+            "A) No effect",
+            "B) Males higher in all aspects",
+            "C) Females higher in high dynamics",
+            "D) Affected differently"
+          ],
+          "answer": 3,
+          "explanation_ar": "أظهرت الدراسة أن الجنس يؤثر بشكل مختلف على CQ.",
+          "explanation_en": "The study showed that sex affects CQ differently."
+        }
+      ]
+    },
+    {
+      "pmid": "42171450",
+      "title_ar": "Intraoperative Patient Photographs as Aesthetic Guidance in Rhinoplasty: Assessing Surgeons' Reliance on Memory.",
+      "title_en": "Intraoperative Patient Photographs as Aesthetic Guidance in Rhinoplasty: Assessing Surgeons' Reliance on Memory.",
+      "journal": "The Journal of craniofacial surgery",
+      "pub_date": "2026-May-22",
+      "doi": "10.1097/SCS.0000000000012926",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42171450/",
+      "pdf_url": null,
+      "study_design": "Cross-sectional study with 6 surgeons",
+      "summary_ar": "تظهر هذه الدراسة أهمية استخدام الصور intraoperative خلال عملية rhinoplasty. شارك في الدراسة 6 جراحين وأن يتم تقييم قدرتهم على تذكر سمات مثل tip projection والزوايا. أظهرت النتائج أن الجراحين تعرفوا على الصور الأصلية في 25.59% فقط، مما يشير إلى ضعف الاعتماد على الذاكرة. وكانت هناك علاقة واضحة بين عمر الجراحين ودرجات CFMT وخبرتهم. الدراسة تدعم استخدام المراجع البصرية أثناء عملية rhinoplasty لزيادة دقة العمليات.",
+      "summary_en": "This study highlights the importance of using intraoperative photographs during rhinoplasty. Six surgeons participated, and their ability to recall features such as tip projection and angles was assessed. Results showed surgeons identified original images in only 25.59% of cases, indicating poor reliance on memory. A clear relationship was found between the surgeons' age, CFMT scores, and experience. The study supports the use of visual references during rhinoplasty to improve surgical accuracy.",
+      "practice_change_ar": "يجب على الجراحين استخدام الصور كمرجع أثناء عمليات rhinoplasty.",
+      "practice_change_en": "Surgeons should utilize photographs as references during rhinoplasty procedures.",
+      "future_impact_ar": "قد يؤدي استخدام الصور أقوى في العمليات المستقبلية إلى تحسين نتائج الجراحة.",
+      "future_impact_en": "The enhanced use of photographs in surgeries could lead to improved surgical outcomes in the future.",
+      "why_important_ar": "تسلط هذه المقالة الضوء على حدود الاعتماد على الذاكرة في عمليات rhinoplasty.",
+      "why_important_en": "This article highlights the limitations of relying on memory during rhinoplasty procedures.",
+      "vs_previous_ar": "يختلف هذا البحث عن الأبحاث السابقة من حيث التأكيد على أهمية استخدام المراجع البصرية.",
+      "vs_previous_en": "This research differs from previous studies by emphasizing the importance of using visual references.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة مقطعية مع 6 جراحين تظهر أهمية المراجع البصرية، تحتل مكانة جيدة.",
+      "stars_reason_en": "Cross-sectional study with 6 surgeons shows the importance of visual references, warrants a good score.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The article provides new insights on the use of photographs in rhinoplasty procedures.",
+      "watch": true,
+      "watch_detail_ar": "يجب مراقبة تأثير استخدام الصور في تحسين دقة العمليات الجراحية.",
+      "watch_detail_en": "The impact of using photographs on increasing the accuracy of surgical procedures should be monitored.",
+      "watch_type": "technology",
+      "research_gap_ar": "هناك حاجة لمزيد من الأبحاث حول فعالية استخدام المراجع البصرية في أنواع أخرى من الجراحة.",
+      "research_gap_en": "There is a need for further research on the effectiveness of using visual references in other types of surgeries.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "تتحدث هذه الدراسة عن أهمية استخدام الصور في العمليات الجراحية التجميلية مثل rhinoplasty. وأظهرت النتائج أن الجراحين اعتمدوا على الذاكرة بنسبة منخفضة عندما طلب منهم تحديد الصور الأصلية. تشير هذه النتائج إلى ضرورة توفر مراجع بصرية مما قد يؤثر إيجابيا على النتائج الجراحية. كما أن هناك علاقة واضحة بين الخبرة والعمر ودقة الذاكرة لدى الجراحين. لذلك ينبغي على الجراحين استخدام الصور كأداة دليلة.",
+      "audio_script_en": "This study discusses the importance of using photographs in cosmetic surgical procedures like rhinoplasty. Results showed that surgeons relied on memory at a low rate when asked to identify original images. These findings suggest the need for visual references which may positively impact surgical outcomes. Additionally, there is a clear relationship between experience, age, and memory accuracy among surgeons. Thus, surgeons should incorporate photographs as guiding tools.",
+      "mcq": [
+        {
+          "q_ar": "ماهو الهدف الرئيسي من الدراسة؟",
+          "q_en": "What is the main goal of the study?",
+          "options_ar": [
+            "أ) تقييم استخدام الذاكرة فقط",
+            "ب) تحسين النتائج الجراحية",
+            "ج) دراسة تأثير الصور",
+            "د) جميع ما سبق"
+          ],
+          "options_en": [
+            "A) To assess the use of memory alone",
+            "B) To improve surgical outcomes",
+            "C) To study the effect of photographs",
+            "D) All of the above"
+          ],
+          "answer": 3,
+          "explanation_ar": "الهدف الرئيسي هو تقييم فعالية الذاكرة مقابل استخدام الصور.",
+          "explanation_en": "The main goal is to evaluate the effectiveness of memory versus the use of photographs."
+        },
+        {
+          "q_ar": "كم كانت نسبة تعرف الجراحين على الصور الأصلية؟",
+          "q_en": "What percentage of surgeons identified the original images?",
+          "options_ar": [
+            "أ) 50%",
+            "ب) 25.59%",
+            "ج) 10%",
+            "د) 75%"
+          ],
+          "options_en": [
+            "A) 50%",
+            "B) 25.59%",
+            "C) 10%",
+            "D) 75%"
+          ],
+          "answer": 1,
+          "explanation_ar": "تعرف الجراحين على الصور الأصلية في 25.59% فقط.",
+          "explanation_en": "Surgeons identified the original images in only 25.59%."
+        },
+        {
+          "q_ar": "ماهي العلاقة التي تم العثور عليها في الدراسة؟",
+          "q_en": "What relationship was found in the study?",
+          "options_ar": [
+            "أ) بين النتائج العمرية وCFMT",
+            "ب) بين الخبرة وعمر الجراحين",
+            "ج) بين الذاكرة وإجراء الجراحة",
+            "د) جميع ما سبق"
+          ],
+          "options_en": [
+            "A) Between age and CFMT scores",
+            "B) Between experience and surgeon age",
+            "C) Between memory and surgical procedure",
+            "D) All of the above"
+          ],
+          "answer": 3,
+          "explanation_ar": "تم العثور على علاقات بين جميع المعايير المذكورة.",
+          "explanation_en": "Relationships were found between all mentioned criteria."
+        }
+      ]
+    },
+    {
+      "pmid": "42171500",
+      "title_ar": "Osia Implantation in Patients With Prior Craniotomy for Skull Base Tumors.",
+      "title_en": "Osia Implantation in Patients With Prior Craniotomy for Skull Base Tumors.",
+      "journal": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+      "pub_date": "2026-May-22",
+      "doi": "10.1002/ohn.70283",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42171500/",
+      "pdf_url": null,
+      "study_design": "Retrospective cohort study",
+      "summary_ar": "تُعتبر دراسة لاحقة لاستئصال الأورام السمعية من خلال الجمجمة، حيث تم تضمين جميع المرضى الذين خضعوا لعملية زرع Osia 2 مع تاريخ جراحي لاستئصال الأورام. أظهرت النتائج أن متوسط عمر المرضى كان 62.1 سنة، وكانت 52.9% من الجراحة عبر النهج الجانبي، بينما احتاج أربعة مرضى إلى استئصال أجهزة السمع القائمة. تم وضع معظم الزرعات في مواقع غير تقليدية لتجنب مواقع الجراحة السابقة، مع نسبة مضاعفات بلغت 5.8%. تحسن السمع بمعدل 34.7 ± 5.6 ديسيبل.",
+      "summary_en": "This is a retrospective study involving patients who underwent Osia 2 implantation after craniotomy for acoustic neuroma resection. Results showed a median age of 62.1 years, with 52.9% of surgeries performed via a translabyrinthine approach, and four patients requiring explantation of existing bone-anchored hearing aids. Most implants were placed in atypical locations to avoid prior surgical sites, with an all-cause complication rate of 5.8%. Hearing improvement was measured at a mean of 34.7 ± 5.6 dB.",
+      "practice_change_ar": "يمكن أن تؤدي هذه النتائج إلى تعديل كيفية إجراء زراعة أجهزة Osia في المرضى الذين خضعوا لجراحة سابقة.",
+      "practice_change_en": "These results may lead to changes in how Osia devices are implanted in patients with prior surgery.",
+      "future_impact_ar": "يمكن أن تساهم هذه الدراسة في تحسين العمليات الجراحية اللاحقة للأورام السمعية.",
+      "future_impact_en": "This study may contribute to enhanced surgical approaches for acoustic tumors.",
+      "why_important_ar": "هذا المقال مهم لأنه يؤكد فعالية وسلامة زراعة Osia في سياقات جراحية معقدة.",
+      "why_important_en": "This article is important as it confirms the safety and effectiveness of Osia implantation in complex surgical contexts.",
+      "vs_previous_ar": "يُعد هذا البحث جديداً حول زراعة Osia في مرضى لديهم تاريخ جراحي معقد.",
+      "vs_previous_en": "This research is novel regarding Osia implantation in patients with a complex surgical history.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استرجاعية تضم 17 مريضًا مع تصميم قوي، تظهر نتائج جديدة في سياقات جراحية معقدة.",
+      "stars_reason_en": "Retrospective study involving 17 patients with a strong design, showing new outcomes in complex surgical contexts.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study provides new insights into hearing device implantation in complex cases.",
+      "watch": true,
+      "watch_detail_ar": "تستحق زراعة Osia المتابعة بسبب نتائج الأمان والفعالية في السياقات الجراحية الصعبة.",
+      "watch_detail_en": "Osia implantation warrants monitoring due to safety and efficacy results in challenging surgical contexts.",
+      "watch_type": "device",
+      "research_gap_ar": null,
+      "research_gap_en": null,
+      "subspecialty": "skull_base",
+      "audio_script_ar": "تتناول هذه الدراسة زراعة جهاز Osia في المرضى الذين خضعوا لجراحة استئصال الأورام السمعية. متوسط عمر المرضى كان 62.1 سنة، مع 52.9% من العمليات تمت عبر النهج الجانبي. استلزمت الدراسة استئصال الأجهزة الموجودة في أربعة مرضى. تم وضع الزرعات في أماكن غير تقليدية، مع ارتفاع معدل المضاعفات إلى 5.8%. تؤكد النتائج سلامة زراعة Osia في السياقات الجراحية المعقدة.",
+      "audio_script_en": "This study addresses Osia implantation in patients who have undergone acoustic neuroma resection. The median age of patients was 62.1 years, with 52.9% of surgeries performed via a lateral approach. The study required the explantation of existing devices in four patients. Implants were placed in atypical locations, with a complication rate of 5.8%. Results affirm the safety of Osia implantation in complex surgical contexts.",
+      "mcq": [
+        {
+          "q_ar": "ما هو متوسط عمر المرضى في هذه الدراسة؟",
+          "q_en": "What was the median age of patients in this study?",
+          "options_ar": [
+            "أ) 50 سنة",
+            "ب) 62.1 سنة",
+            "ج) 70 سنة",
+            "د) 65 سنة"
+          ],
+          "options_en": [
+            "A) 50 years",
+            "B) 62.1 years",
+            "C) 70 years",
+            "D) 65 years"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان متوسط عمر المرضى 62.1 سنة.",
+          "explanation_en": "The median age of patients was 62.1 years."
+        },
+        {
+          "q_ar": "ما هي نسبة المضاعفات الكلية في الدراسة؟",
+          "q_en": "What was the all-cause complication rate in the study?",
+          "options_ar": [
+            "أ) 2.5%",
+            "ب) 5.8%",
+            "ج) 10%",
+            "د) 12%"
+          ],
+          "options_en": [
+            "A) 2.5%",
+            "B) 5.8%",
+            "C) 10%",
+            "D) 12%"
+          ],
+          "answer": 1,
+          "explanation_ar": "نسبة المضاعفات الكلية بلغت 5.8%.",
+          "explanation_en": "The all-cause complication rate was 5.8%."
+        },
+        {
+          "q_ar": "ما هو التحسن في السمع بعد زراعة Osia؟",
+          "q_en": "What was the gain in hearing after Osia implantation?",
+          "options_ar": [
+            "أ) 20 ديسيبل",
+            "ب) 30 ديسيبل",
+            "ج) 34.7 ديسيبل",
+            "د) 40 ديسيبل"
+          ],
+          "options_en": [
+            "A) 20 dB",
+            "B) 30 dB",
+            "C) 34.7 dB",
+            "D) 40 dB"
+          ],
+          "answer": 2,
+          "explanation_ar": "تحسن السمع بلغ 34.7 ± 5.6 ديسيبل.",
+          "explanation_en": "Hearing improvement was 34.7 ± 5.6 dB."
+        }
+      ]
+    },
+    {
+      "pmid": "42171012",
+      "title_ar": "The Reliability of Intraoperative Frozen Section for Glottic Lesions Suspected of Early Malignancy.",
+      "title_en": "The Reliability of Intraoperative Frozen Section for Glottic Lesions Suspected of Early Malignancy.",
+      "journal": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+      "pub_date": "2026-May-22",
+      "doi": "10.1002/ohn.70300",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42171012/",
+      "pdf_url": null,
+      "study_design": "Retrospective chart review n=91",
+      "summary_ar": "تم استعراض المخططات السريرية للمرضى الذين خضعوا لأخذ عينات من الآفات المزمنة المشتبه فيها بسبب السرطان باستخدام تقنية الفحص المجمد أثناء العملية. تم استخدام النتائج المستخلصة لتحديد دقة ودلالة الفحص في توجيه العلاج. تظهر النتائج أن الفحص المجمد كان له دقة بنسبة 94.5% في تحديد السرطان الغازي، مع عدم وجود نتائج إيجابية خاطئة. ومع دراسة الإمكانيات الخبيثة، بلغت الدقة 94.5% أيضًا. تشير النتائج إلى أن الفحص المجمد يمثل أداة موثوقة في المساعدة على اتخاذ القرارات الجراحية.",
+      "summary_en": "A retrospective chart review was conducted for patients who underwent intraoperative frozen section sampling of glottic lesions suspected of malignancy. The results were used to determine the accuracy and relevance of the FS in guiding treatment. The findings demonstrate that FS had a 94.5% accuracy in detecting invasive carcinoma, with no false positives. When assessing malignant potential, the accuracy was also 94.5%. These results indicate that FS is a reliable tool in guiding surgical decision-making.",
+      "practice_change_ar": "يمكن للأطباء استخدام الفحص المجمد أثناء العمليات الجراحية لأخذ قرارات أكثر دقة حول إدارة الآفات اللحمية.",
+      "practice_change_en": "Surgeons can utilize frozen section during procedures for more accurate decision-making regarding lesion management.",
+      "future_impact_ar": "قد يساهم الفحص المجمد في تقليل المعدلات العالية من العلاج غير المناسب.",
+      "future_impact_en": "Frozen section may help reduce the rates of inappropriate treatment.",
+      "why_important_ar": "تساعد هذه الدراسة في تحسين دقة التشخيصية الجراحية للآفات اللحمية المشتبه فيها.",
+      "why_important_en": "This study aids in improving the surgical diagnostic accuracy of suspected malignant lesions.",
+      "vs_previous_ar": "تضيف الدراسة قيمة جديدة في استخدام الفحص المجمد بدلاً من الاعتماد على الخزعة قبل العملية.",
+      "vs_previous_en": "The study adds new value to the use of frozen section over relying solely on preoperative biopsy.",
+      "stars": 4,
+      "stars_reason_ar": "تصميم دراسة استرجاعية مع عدد مرضى أكبر من 100 مما يشير إلى قوة الأدلة.",
+      "stars_reason_en": "Retrospective study design with over 100 patients indicates strong evidence.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study provides new evidence on the use of frozen section in surgery.",
+      "watch": true,
+      "watch_detail_ar": "تتبع فائدة الفحص المجمد في جراحة الآفات اللحمية.",
+      "watch_detail_en": "Track the benefits of frozen section in glottic lesion surgery.",
+      "watch_type": "technology",
+      "research_gap_ar": "هناك حاجة إلى مزيد من الدراسات المعاصرة لتأكيد النتائج.",
+      "research_gap_en": "Further contemporary studies are needed to confirm the findings.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تناقش هذه الدراسة موثوقية الفحص المجمد خلال عمليات إزالة الآفات المزمنة المشتبه فيها للسرطان. أظهرت النتائج الدقة البالغة بنسبة 94.5%، مما يشير إلى فعالية هذه التقنية في توجيه العلاج. مع عدم وجود نتائج إيجابية خاطئة، يوفر هذا الفحص دقة عالية في تحديد العلاجات المناسبة. يمكن أن تؤدي هذه النتائج إلى تحسين عمليات اتخاذ القرار من قبل الجراحين وتقليل معدلات العلاج غير المناسب. لا تزال هناك حاجة لدراسات أخرى لتأكيد هذه النتائج والتحقق من فعالية الفحص المجمد في البيئات السريرية المختلفة.",
+      "audio_script_en": "This study discusses the reliability of frozen section during surgeries for glottic lesions suspected of malignancy. The results showed a high accuracy of 94.5%, indicating the effectiveness of this technique in guiding treatment. With no false positives, this section provides high precision in determining appropriate therapies. Such results could lead to improved decision-making processes by surgeons and decrease rates of inappropriate treatment. There remains a need for further studies to confirm these findings and assess the efficacy of frozen section in various clinical settings.",
+      "mcq": [
+        {
+          "q_ar": "ما كانت دقة الفحص المجمد في تحديد السرطان الغازي؟",
+          "q_en": "What was the accuracy of the frozen section in detecting invasive carcinoma?",
+          "options_ar": [
+            "أ) 80.5%",
+            "ب) 90.5%",
+            "ج) 94.5%",
+            "د) 98.5%"
+          ],
+          "options_en": [
+            "A) 80.5%",
+            "B) 90.5%",
+            "C) 94.5%",
+            "D) 98.5%"
+          ],
+          "answer": 2,
+          "explanation_ar": "أظهرت الدراسة أن دقة الفحص المجمد كانت 94.5%.",
+          "explanation_en": "The study showed that the accuracy of frozen section was 94.5%."
+        },
+        {
+          "q_ar": "ما العدد الكلي للمرضى المشاركين في الدراسة؟",
+          "q_en": "What was the total number of patients involved in the study?",
+          "options_ar": [
+            "أ) 50",
+            "ب) 70",
+            "ج) 91",
+            "د) 100"
+          ],
+          "options_en": [
+            "A) 50",
+            "B) 70",
+            "C) 91",
+            "D) 100"
+          ],
+          "answer": 1,
+          "explanation_ar": "شملت الدراسة 70 مريضًا في 81 عملية جراحية.",
+          "explanation_en": "The study included 70 patients in 81 surgeries."
+        },
+        {
+          "q_ar": "ما هو الغرض من الفحص المجمد أثناء العملية؟",
+          "q_en": "What is the purpose of frozen section during surgery?",
+          "options_ar": [
+            "أ) قياس الضغط",
+            "ب) تحديد الآفات",
+            "ج) الكشف عن السرطان",
+            "د) تخدير المريض"
+          ],
+          "options_en": [
+            "A) Measure pressure",
+            "B) Identify lesions",
+            "C) Detect cancer",
+            "D) Anesthetize the patient"
+          ],
+          "answer": 2,
+          "explanation_ar": "الغرض من الفحص المجمد هو الكشف عن احتمال وجود سرطان في الآفات المشتبه بها.",
+          "explanation_en": "The purpose of frozen section is to detect the potential for cancer in suspected lesions."
+        }
+      ]
+    },
+    {
+      "pmid": "42171744",
+      "title_ar": "Pediatric temporal bone and inner ear imaging: an overview of preoperative and postoperative consideration for cochlear implantation.",
+      "title_en": "Pediatric temporal bone and inner ear imaging: an overview of preoperative and postoperative consideration for cochlear implantation.",
+      "journal": "Pediatric radiology",
+      "pub_date": "2026-May-22",
+      "doi": "10.1007/s00247-026-06646-7",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42171744/",
+      "pdf_url": null,
+      "study_design": "Retrospective review",
+      "summary_ar": "توفر هذه المقالة لمحة شاملة عن التشريح الثلاثي الأبعاد المعقد لعظم الزمن والأذن الداخلية، مما يعد هامًا للتشخيص الدقيق والتخطيط الجراحي لزراعة الكوكلير في الأطفال. يتم تعزيز الفهم من خلال نهج تصوير منهجي يمكن من تحديد المتغيرات التشريحية والتحديات الجراحية المحتملة. المقالة تناقش التغيرات التشريحية والعيوب الخلقية وتأثيرها على أهلية الزرع وسير العملية. يتم تقديم أمثلة من الخبرة المؤسسية لتوضيح النتائج التصويرية الهامة وتأثيراتها السريرية. كما تُراجع المتغيرات الوعائية والعصبية الوجهية ذات الصلة بالجراحة. أخيرًا، يتم مناقشة تقييم التصوير بعد العملية لمعرفة وضع الزرعة وسلامة الأقطاب الكهربائية والمضاعفات المحتملة.",
+      "summary_en": "This article provides a comprehensive overview of the complex three-dimensional anatomy of the temporal bone and inner ear, which is crucial for accurate diagnosis and surgical planning for cochlear implantation in children. Understanding through a systematic imaging approach enables identifying anatomical variants and predicting potential surgical challenges. The review discusses anatomical variations and congenital malformations that affect implant eligibility and surgical approach. Examples from institutional experience illustrate significant imaging findings and clinical implications. Additionally, vascular and facial nerve variants with surgical relevance are reviewed. Lastly, postoperative imaging assessment regarding implant positioning, electrode integrity, and potential complications is discussed.",
+      "practice_change_ar": "ستساعد نتائج هذه المقالة على تحسين دقة التخطيط الجراحي لزراعة الكوكلير.",
+      "practice_change_en": "The findings of this article will enhance the precision of surgical planning for cochlear implantation.",
+      "future_impact_ar": "يمكن أن تؤدي الفهم الأعمق للتغيرات التشريحية إلى تحسين نتائج زراعة الكوكلير.",
+      "future_impact_en": "In-depth understanding of anatomical variations may lead to improved outcomes in cochlear implantation.",
+      "why_important_ar": "تعد هذه المقالة ضرورية لأنها تعزز الفهم التشريحي الحاسم لتخطيط زراعة الكوكلير في الأطفال.",
+      "why_important_en": "This article is important as it enhances the critical anatomical understanding necessary for cochlear implantation planning in children.",
+      "vs_previous_ar": "تختلف هذه المقالة عن المعرفة السابقة من خلال تقديم استعراض شامل ومتعمق للتغيرات التشريحية وأهميتها في زراعة الكوكلير.",
+      "vs_previous_en": "This article differs from prior knowledge by providing a comprehensive and in-depth review of anatomical variations and their relevance in cochlear implantation.",
+      "stars": 4,
+      "stars_reason_ar": "مراجعة شاملة تحسن الفهم التشريحي مع وجود أدلة قوية - تصميم دراسي تقويمي.",
+      "stars_reason_en": "A comprehensive review that enhances anatomical understanding with strong evidence - retrospective review design.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The article provides valuable information on surgical planning for cochlear implantation.",
+      "watch": true,
+      "watch_detail_ar": "راقب التطورات في تقنيات التصوير لأغراض زراعة الكوكلير.",
+      "watch_detail_en": "Watch for advancements in imaging techniques for cochlear implantation purposes.",
+      "watch_type": "technology",
+      "research_gap_ar": "هناك حاجة للمزيد من الدراسات حول تأثير المتغيرات التشريحية في نتائج زراعة الكوكلير.",
+      "research_gap_en": "There is a need for more studies on the impact of anatomical variations on cochlear implantation outcomes.",
+      "subspecialty": "pediatric",
+      "audio_script_ar": "تتحدث هذه المقالة عن أهميتها في تخطيط زراعة الكوكلير للأطفال من خلال تقديم فهم شامل للتشريح. توضح المقالة كيف يمكن لتقنيات التصوير أن تحدد المتغيرات التشريحية والتحديات الجراحية. تسلط الضوء على العيوب الخلقية وتأثيرها على أهلية الزرع. كما تناقش أهمية تصوير ما بعد العملية لتقييم نتائج الزراعة. تعتبر المعلومات المقدمة في هذه المقالة حاسمة لتحسين النتائج السريرية.",
+      "audio_script_en": "This article discusses its importance in surgical planning for cochlear implantation in children by providing a comprehensive understanding of anatomy. It illustrates how imaging techniques can identify anatomical variants and surgical challenges. It highlights congenital malformations and their impact on implant eligibility. Additionally, it discusses the importance of postoperative imaging to assess the results of implantation. The information presented in this article is critical for improving clinical outcomes.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الدور الرئيسي لتقنيات التصوير في زراعة الكوكلير حسب المقالة؟",
+          "q_en": "What is the main role of imaging techniques in cochlear implantation according to the article?",
+          "options_ar": [
+            "أ) تحديد المتغيرات التشريحية",
+            "ب) تحسين نتائج العملية",
+            "ج) تقليل التكاليف",
+            "د) زيادة مدة العملية"
+          ],
+          "options_en": [
+            "A) Identify anatomical variants",
+            "B) Improve surgical outcomes",
+            "C) Reduce costs",
+            "D) Increase operation duration"
+          ],
+          "answer": 0,
+          "explanation_ar": "ذكرت المقالة أن تقنيات التصوير تساعد في تحديد المتغيرات التشريحية التي تؤثر على الزراعة.",
+          "explanation_en": "The article mentioned that imaging techniques help identify anatomical variants that affect implantation."
+        },
+        {
+          "q_ar": "ما هو نوع الدراسة التي تم استخدامها في هذه المقالة؟",
+          "q_en": "What type of study was utilized in this article?",
+          "options_ar": [
+            "أ) دراسة مستقبلية",
+            "ب) مراجعة استعادية",
+            "ج) دراسة عشوائية",
+            "د) دراسة حالة"
+          ],
+          "options_en": [
+            "A) Prospective study",
+            "B) Retrospective review",
+            "C) Randomized study",
+            "D) Case study"
+          ],
+          "answer": 1,
+          "explanation_ar": "تمت الإشارة إلى أن المقالة هي مراجعة استعادية.",
+          "explanation_en": "It was indicated that the article is a retrospective review."
+        },
+        {
+          "q_ar": "ما هي الفائدة الرئيسية لفهم المتغيرات التشريحية في زراعة الكوكلير؟",
+          "q_en": "What is the main benefit of understanding anatomical variations in cochlear implantation?",
+          "options_ar": [
+            "أ) تقليل معدلات الفشل",
+            "ب) تحسين الاعتماد",
+            "ج) تعزيز التخطيط الجراحي",
+            "د) زيادة وقت الشفاء"
+          ],
+          "options_en": [
+            "A) Reduce failure rates",
+            "B) Improve reliance",
+            "C) Enhance surgical planning",
+            "D) Increase healing time"
+          ],
+          "answer": 2,
+          "explanation_ar": "تعزز فهم المتغيرات التشريحية التخطيط الجراحي، مما قد يؤدي إلى نتائج أفضل.",
+          "explanation_en": "Understanding anatomical variations enhances surgical planning, potentially leading to better outcomes."
+        }
+      ]
+    },
+    {
+      "pmid": "42171662",
+      "title_ar": "Daridorexant in severe obstructive sleep apnea: Effects on sleep-disordered breathing and sleep.",
+      "title_en": "Daridorexant in severe obstructive sleep apnea: Effects on sleep-disordered breathing and sleep.",
+      "journal": "Sleep",
+      "pub_date": "2026-May-22",
+      "doi": "10.1093/sleep/zsag145",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42171662/",
+      "pdf_url": null,
+      "study_design": "RCT n=16",
+      "summary_ar": "هدفت هذه الدراسة إلى تقييم تأثير daridorexant على وظيفة التنفس أثناء الليل والنوم لدى البالغين الذين يعانون من انقطاع النفس الانسدادي النومي الشديد بدون أرق. أجريت الدراسة في مركز نوم وحيث تم إعطاء daridorexant 50 ملغ أو دواء وهمي يوميًا لمدة 5 أيام. لم يتم الكشف عن تأثيرات ذات دلالة عن daridorexant على AHI أو SpO2. ومع ذلك، زاد daridorexant متوسط TST بمقدار 32.5 دقيقة. جميع الآثار الجانبية كانت خفيفة. تعتبر هذه النتائج مهمة لفهم تأثير daridorexant على النوم لدى المرضى الذين يعانون من OSA الشديد.",
+      "summary_en": "This study aimed to evaluate the effect of daridorexant on nighttime respiratory function and sleep in adults with severe obstructive sleep apnea (OSA) without insomnia. Conducted in a sleep center, daridorexant 50 mg or placebo was administered daily for 5 days. No clinically meaningful effects of daridorexant on AHI or SpO2 were detected. However, daridorexant increased mean TST by 32.5 minutes. All reported adverse events were mild. These findings are significant in understanding the impact of daridorexant on sleep in patients with severe OSA.",
+      "practice_change_ar": "هذا البحث يشير إلى أن العلاج باستخدام daridorexant لا يعيق وظيفة التنفس.",
+      "practice_change_en": "This research indicates that treatment with daridorexant does not impair respiratory function.",
+      "future_impact_ar": "يمكن أن يقدم daridorexant خيارًا أفضل لعلاج النوم لدى مرضى OSA في المستقبل.",
+      "future_impact_en": "Daridorexant could provide a better treatment option for sleep in OSA patients in the future.",
+      "why_important_ar": "هذه الدراسة تضيف معلومات جديدة حول تأثير daridorexant على الطلاب مع انقطاع النفس الانسدادي النومي.",
+      "why_important_en": "This study adds new information about the effect of daridorexant on patients with obstructive sleep apnea.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن الأبحاث السابقة من خلال التركيز على تأثير daridorexant على النوم دون أغراض علاجية أخرى.",
+      "vs_previous_en": "This study differs from previous research by focusing on the effect of daridorexant on sleep without other therapeutic purposes.",
+      "stars": 4,
+      "stars_reason_ar": "التصميم التجريبي RCT يوفر نتائج موثوقة، مما يؤدي إلى تقييم عالي.",
+      "stars_reason_en": "The RCT design provides reliable results, leading to a high rating.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Provides new findings on daridorexant and its impact on OSA patients.",
+      "watch": true,
+      "watch_detail_ar": "يجب مراقبة daridorexant لأنه يقدم خيارًا جديدًا في إدارة OSA.",
+      "watch_detail_en": "Daridorexant should be monitored as it offers a new option in managing OSA.",
+      "watch_type": "drug",
+      "research_gap_ar": "تظهر الحاجة إلى مزيد من البحث حول تأثيرات daridorexant على subtypes مختلفة من OSA.",
+      "research_gap_en": "There is a need for further research on the effects of daridorexant on different subtypes of OSA.",
+      "subspecialty": "sleep",
+      "audio_script_ar": "تتناول هذه الدراسة تأثير daridorexant على وظيفة التنفس والنوم لدى مرضى OSA الشديد. تم القيام بالدراسة كجزء من RCT مع 16 مريضًا. لم تظهر النتائج على AHI أو SpO2 تأثيرات ذات دلالة. ومع ذلك، أظهار daridorexant زيادات في TST بمتوسط 32.5 دقيقة. النتائج مهمة لأنها تبين كيف يمكن أن يؤثر daridorexant على النوم في مرضى OSA، مما قد يغير طريقة إدارتهم.",
+      "audio_script_en": "This study discusses the effect of daridorexant on respiratory function and sleep in patients with severe OSA. It was conducted as an RCT with 16 patients. Results showed no significant effects on AHI or SpO2. However, daridorexant demonstrated an increase in TST by an average of 32.5 minutes. These findings are important as they illustrate how daridorexant may impact sleep in OSA patients, which could change their management.",
+      "mcq": [
+        {
+          "q_ar": "ما هو تأثير daridorexant على AHI وفقًا للدراسة؟",
+          "q_en": "What is the effect of daridorexant on AHI according to the study?",
+          "options_ar": [
+            "أ) زاد AHI",
+            "ب) قلل AHI",
+            "ج) لم يؤثر على AHI",
+            "د) لم يتم تقييم AHI"
+          ],
+          "options_en": [
+            "A) Increased AHI",
+            "B) Decreased AHI",
+            "C) No effect on AHI",
+            "D) AHI not evaluated"
+          ],
+          "answer": 2,
+          "explanation_ar": "لم يظهر daridorexant أي تأثير سريري معنوي على AHI.",
+          "explanation_en": "Daridorexant showed no clinically meaningful effect on AHI."
+        },
+        {
+          "q_ar": "ما هو متوسط الزيادة في TST مع daridorexant؟",
+          "q_en": "What is the average increase in TST with daridorexant?",
+          "options_ar": [
+            "أ) 5 دقائق",
+            "ب) 15 دقيقة",
+            "ج) 32.5 دقيقة",
+            "د) 40 دقيقة"
+          ],
+          "options_en": [
+            "A) 5 minutes",
+            "B) 15 minutes",
+            "C) 32.5 minutes",
+            "D) 40 minutes"
+          ],
+          "answer": 2,
+          "explanation_ar": "أظهرت الدراسة زيادة بمقدار 32.5 دقيقة في TST مع daridorexant.",
+          "explanation_en": "The study showed an increase of 32.5 minutes in TST with daridorexant."
+        },
+        {
+          "q_ar": "ما هي الآثار الجانبية المبلغ عنها لـ daridorexant؟",
+          "q_en": "What were the reported adverse events for daridorexant?",
+          "options_ar": [
+            "أ) شديدة",
+            "ب) خفيفة",
+            "ج) بنقص القدرة",
+            "د) لم تحدث أي آثار جانبية"
+          ],
+          "options_en": [
+            "A) Severe",
+            "B) Mild",
+            "C) Impairing ability",
+            "D) No adverse events occurred"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت جميع الآثار الجانبية المبلغ عنها خفيفة ولم تتعلق بوظيفة التنفس.",
+          "explanation_en": "All reported adverse events were mild and unrelated to respiratory function."
+        }
+      ]
+    },
+    {
+      "pmid": "42171210",
+      "title_ar": "Cochlear Implant Complications and Outcomes: National Trends of the MAUDE Database From 2016 to 2024.",
+      "title_en": "Cochlear Implant Complications and Outcomes: National Trends of the MAUDE Database From 2016 to 2024.",
+      "journal": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+      "pub_date": "2026-May-22",
+      "doi": "10.1002/ohn.70297",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42171210/",
+      "pdf_url": null,
+      "study_design": "Cross-sectional",
+      "summary_ar": "تستعرض هذه الدراسة الاتجاهات الوطنية لمضاعفات زراعة القوقعة من قاعدة بيانات MAUDE بين عامي 2016 و2024. تم استخراج الأحداث السلبية المتعلقة بزراع القوقعة وتصنيفها. أظهرت النتائج زيادة في الإحصائيات العامة بين عامي 2016 و2020، لكن بعد ذلك استقرت بعض المضاعفات بينما استمرت مشاكل معينة في الزيادة. هذه التقارير تسلط الضوء على التطورات في سلامة الزراعة والحاجة للحصول على مراقبة فعالة ما بعد السوق.",
+      "summary_en": "This study reviews national trends in cochlear implant complications from the MAUDE database between 2016 and 2024. Adverse events related to cochlear implants were extracted and categorized. Results showed a rise in overall statistics from 2016 to 2020, but following that, some complications stabilized while specific issues continued to increase. These reports highlight evolving safety profiles of implants and the need for effective post-market surveillance.",
+      "practice_change_ar": "تتطلب النتائج إعادة تقييم إجراءات زراعة القوقعة والبروتوكولات المتعلقة بها.",
+      "practice_change_en": "Results necessitate a reevaluation of cochlear implant procedures and related protocols.",
+      "future_impact_ar": "ستساعد هذه النتائج في تحسين تصميم الأجهزة وزيادة السلامة للمرضى.",
+      "future_impact_en": "These findings will aid in improving device design and enhancing patient safety.",
+      "why_important_ar": "تساهم هذه الدراسة في فهم أفضل للمضاعفات المتعلقة بزراعة القوقعة.",
+      "why_important_en": "This study contributes to a better understanding of complications associated with cochlear implants.",
+      "vs_previous_ar": "تقدم هذه الدراسة تحليلاً زمنياً شاملاً لمضاعفات زراعة القوقعة عكس الدراسات السابقة التي كانت محدودة.",
+      "vs_previous_en": "This study provides a comprehensive temporal analysis of cochlear implant complications unlike previous limited studies.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة مقطعية بمعلومات جديدة حول مضاعفات زراعة القوقعة، مما يمنحها تصنيفًا مرتفعًا.",
+      "stars_reason_en": "A cross-sectional study providing new information on cochlear implant complications, deserving a high rating.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This study presents important data regarding cochlear implant complications.",
+      "watch": true,
+      "watch_detail_ar": "ينبغي متابعة التطورات في زراعة القوقعة وتحسيناتها من حيث الأمان.",
+      "watch_detail_en": "Watch for developments in cochlear implants and their safety improvements.",
+      "watch_type": "device",
+      "research_gap_ar": "تحتاج المعلومات حول الأنماط الزمنية لمضاعفات زراعة القوقعة إلى مزيد من الاستكشاف لتوجيه التحسينات.",
+      "research_gap_en": "Information regarding temporal patterns of cochlear implant complications requires further exploration to guide improvements.",
+      "subspecialty": "otology",
+      "audio_script_ar": "تناقش هذه الدراسة الاتجاهات الوطنية لمضاعفات زراعة القوقعة من قاعدة بيانات MAUDE. من 2016 إلى 2024، تم الإعلان عن عدد كبير من المضاعفات. بين 2016 و2020، كان هناك زيادة في الإحصائيات العامة، ولكن من 2020 إلى 2024، استقرت بعض المضاعفات بينما استمرت أخرى في الزيادة، مما يبرز الحاجة لمراقبة فعالة.",
+      "audio_script_en": "This study discusses national trends in cochlear implant complications from the MAUDE database. From 2016 to 2024, a significant number of complications were reported. Between 2016 and 2020, overall statistics increased, but from 2020 to 2024, some complications plateaued while others continued to rise, highlighting the need for effective surveillance.",
+      "mcq": [
+        {
+          "q_ar": "ما هو تصميم الدراسة لهذه المقالة؟",
+          "q_en": "What is the study design of this article?",
+          "options_ar": [
+            "أ) تجريبية",
+            "ب) مقطعية",
+            "ج) سلسلة حالات",
+            "د) دراسة حالة"
+          ],
+          "options_en": [
+            "A) Experimental",
+            "B) Cross-sectional",
+            "C) Case series",
+            "D) Case study"
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسة مصممة كمقطعية، حيث تم تحليل البيانات لفهم الاتجاهات.",
+          "explanation_en": "The study is designed as cross-sectional, analyzing data to understand trends."
+        },
+        {
+          "q_ar": "ما هي الفترة الزمنية التي تغطيها الدراسة؟",
+          "q_en": "What time period does the study cover?",
+          "options_ar": [
+            "أ) 2010-2015",
+            "ب) 2016-2024",
+            "ج) 2020-2024",
+            "د) 2015-2020"
+          ],
+          "options_en": [
+            "A) 2010-2015",
+            "B) 2016-2024",
+            "C) 2020-2024",
+            "D) 2015-2020"
+          ],
+          "answer": 1,
+          "explanation_ar": "تغطي الدراسة الفترة من 2016 إلى 2024.",
+          "explanation_en": "The study covers the period from 2016 to 2024."
+        },
+        {
+          "q_ar": "ما الذي أظهرته النتائج بخصوص المضاعفات بعد 2020؟",
+          "q_en": "What did the results show regarding complications after 2020?",
+          "options_ar": [
+            "أ) زيادة مستمرة",
+            "ب) استقرار أو انخفاض",
+            "ج) عدم تغييرات",
+            "د) جميع ما سبق"
+          ],
+          "options_en": [
+            "A) Continuous increase",
+            "B) Stabilization or decline",
+            "C) No changes",
+            "D) All of the above"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت النتائج أن المضاعفات استقرت أو انخفضت بعد 2020، رغم أن بعض المشاكل استمرت في الزيادة.",
+          "explanation_en": "The results showed that complications plateaued or declined after 2020, although some issues continued to rise."
+        }
+      ]
+    },
+    {
+      "pmid": "42171240",
+      "title_ar": "Socioeconomic Disadvantage and Care Proximity Influence Stage at Presentation in Head and Neck Cancer.",
+      "title_en": "Socioeconomic Disadvantage and Care Proximity Influence Stage at Presentation in Head and Neck Cancer.",
+      "journal": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+      "pub_date": "2026-May-22",
+      "doi": "10.1002/ohn.70261",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42171240/",
+      "pdf_url": null,
+      "study_design": "Retrospective series n=1170",
+      "summary_ar": "هذا البحث يهدف إلى تقييم كيف تؤثر الظروف الشخصية للمريض على الوصول إلى الرعاية، بما في ذلك مؤشر الحرمان في المنطقة، المسافة إلى مركز الرعاية، والحالة الريفية/الحضرية، على مرحلة العرض لسرطان الرأس والعنق. تمت دراسة المرضى الذين تم تشخيصهم بسرطان الرأس والعنق من عام 2018 حتى 2023. النتائج تشير إلى أن القرب من مركز الرعاية، حالة التأمين، حالة التدخين، ونتيجة p16 كانت مرتبطة بالتشخيص المتأخر. كما أظهرت النتائج أن السمات المرتبطة بالحرمان الاجتماعي كانت مرتبطة أيضاً بالتشخيص المتأخر. هذه النتائج تدعو إلى تحسين الوصول إلى الرعاية لتلك الفئات السكانية. ",
+      "summary_en": "This study evaluates how patient circumstances affecting access to care, including area deprivation index, distance to care center, and rural/urban status, influence stage at presentation for head and neck cancer. Patients with a diagnosis of head and neck cancer from 2018 to 2023 were analyzed. Results indicate that proximity to care center, insurance status, smoking history, and p16 status were associated with late-stage diagnosis. Additionally, characteristics linked to socioeconomic disadvantage were also related to later stage presentations. These findings highlight the need for improved access to care for disadvantaged populations.",
+      "practice_change_ar": "توجه الرعاية الطبية لتحسين الوصول للمرضى المحرومين اجتماعياً.",
+      "practice_change_en": "Shift in medical care to improve access for socioeconomically disadvantaged patients.",
+      "future_impact_ar": "تطلب الدراسة تحسين استراتيجيات الوصول لرعاية مرضى سرطان الرأس والعنق.",
+      "future_impact_en": "This study calls for the enhancement of access strategies for head and neck cancer patients.",
+      "why_important_ar": "هذه المقالة مهمة لأنها تسلط الضوء على العوامل الاجتماعية والاقتصادية التي تؤثر على اكتشاف سرطان الرأس والعنق.",
+      "why_important_en": "This article is important as it highlights the socioeconomic factors influencing the presentation of head and neck cancer.",
+      "vs_previous_ar": "تقدم هذه الدراسة فهمًا عميقًا لعوامل الحرمان الاجتماعي بالمقارنة مع الدراسات السابقة.",
+      "vs_previous_en": "This study offers a deeper understanding of socioeconomic deprivation factors compared to previous studies.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استعادية كبيرة n>100 مع تصميم بحثي واضح.",
+      "stars_reason_en": "Large retrospective study n>100 with a clear research design.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study provides important insights into socioeconomic factors in head and neck cancer.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحديد الحاجة لتحسين الوصول للرعاية الصحية للمجتمعات المحرومة.",
+      "research_gap_en": "Identifying the need to improve healthcare access for underserved communities.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "يتناول هذا البحث تأثير الظروف الاجتماعية والاقتصادية على حدوث سرطان الرأس والعنق، حيث تم تحليل بيانات 1170 مريضًا. النتائج تشير إلى أن القرب من مركز الرعاية وحالة التأمين كانت مرتبطة بالتشخيص المتأخر. تدعو الدراسة إلى تحسين الوصول للرعاية لتحسين النتائج للمرضى المحرومين. هذه النتائج تضيف فهماً أعمق للعوامل التي تؤثر على مرحلة العرض مما يسلط الضوء على الحاجة لتحسين استراتيجيات الوصول للرعاية الصحية.",
+      "audio_script_en": "This study addresses the influence of socioeconomic circumstances on the occurrence of head and neck cancer, analyzing data from 1170 patients. Results indicate that proximity to care center and insurance status were associated with late-stage diagnosis. The study calls for improving access to care to enhance outcomes for underserved patients. These findings add a deeper understanding of factors influencing stage at presentation, highlighting the need for improved healthcare access strategies.",
+      "mcq": [
+        {
+          "q_ar": "ما هي العوامل المرتبطة بالتشخيص المتأخر لسرطان الرأس والعنق؟",
+          "q_en": "What factors are associated with late-stage diagnosis of head and neck cancer?",
+          "options_ar": [
+            "أ) المسافة إلى مركز الرعاية",
+            "ب) الحالة الاجتماعية والاقتصادية",
+            "ج) تقييم p16",
+            "د) جميع ما ذكر"
+          ],
+          "options_en": [
+            "A) Distance to care center",
+            "B) Socioeconomic status",
+            "C) p16 status",
+            "D) All of the above"
+          ],
+          "answer": 3,
+          "explanation_ar": "تشير النتائج إلى أن جميع هذه العوامل مرتبطة بالتشخيص المتأخر.",
+          "explanation_en": "Results indicate that all these factors are associated with late-stage diagnosis."
+        },
+        {
+          "q_ar": "ما هي نسبة المرضى الذين قدموا بأعراض مبكرة؟",
+          "q_en": "What percentage of patients presented with early-stage disease?",
+          "options_ar": [
+            "أ) 100%",
+            "ب) 57.7%",
+            "ج) 42.3%",
+            "د) 75%"
+          ],
+          "options_en": [
+            "A) 100%",
+            "B) 57.7%",
+            "C) 42.3%",
+            "D) 75%"
+          ],
+          "answer": 1,
+          "explanation_ar": "عُرض 57.7% من المرضى بأعراض مبكرة.",
+          "explanation_en": "57.7% of patients presented with early-stage symptoms."
+        },
+        {
+          "q_ar": "ما هي أهمية الدراسة؟",
+          "q_en": "What is the significance of the study?",
+          "options_ar": [
+            "أ) تحسين استراتيجيات الوصول للرعاية",
+            "ب) زيادة الوعي بسرطان الرأس والعنق",
+            "ج) تحليل البيانات فقط",
+            "د) لم يكن لها أهمية"
+          ],
+          "options_en": [
+            "A) Improve access strategies",
+            "B) Increase awareness of head and neck cancer",
+            "C) Analyze data only",
+            "D) It has no significance"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة تدعو إلى تحسين استراتيجيات الوصول لرعاية المرضى المحرومين.",
+          "explanation_en": "The study calls for improving access strategies for underserved patients."
+        }
+      ]
+    },
+    {
+      "pmid": "41759559",
+      "title_ar": "The co-action mechanism of agreement prescription \"homotherapy for heteropathy\" against esophageal, head and neck cancer, and lung cancer: network pharmacology, bioinformatics analysis, and experimental validation.",
+      "title_en": "The co-action mechanism of agreement prescription \"homotherapy for heteropathy\" against esophageal, head and neck cancer, and lung cancer: network pharmacology, bioinformatics analysis, and experimental validation.",
+      "journal": "Journal of ethnopharmacology",
+      "pub_date": "2026-May-23",
+      "doi": "10.1016/j.jep.2026.121430",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41759559/",
+      "pdf_url": null,
+      "study_design": "network pharmacology and experimental validation",
+      "summary_ar": "تهدف هذه الدراسة إلى استكشاف الأهداف المشتركة والآليات الجزيئية للوصفة المقررة في علاج سرطان المريء ورأس وعنق والرئة باستخدام الشبكات الصيدلانية. تم تحديد ثمانية أهداف مشتركة، معظمها مرتبط بمسار PI3K-AKT. أظهرت التجارب في المختبر وفي الجسم الحي أن الوصفة تقلل من نمو الورم وتعزز موت خلايا السرطان. تحليل التعبير الجيني أظهر زيادة في التعبير عن الجينات المرتبطة بعلم الأورام. تعد هذه النتائج مهمة لتطوير استراتيجيات علاجية جديدة.",
+      "summary_en": "This study aims to explore common targets and molecular mechanisms of the agreement prescription in treating esophageal cancer, head and neck cancer, and lung cancer using network pharmacology. Eight shared targets were identified, mainly related to the PI3K-AKT pathway. In vitro and in vivo experiments demonstrated that the prescription reduced tumor growth and promoted cancer cell apoptosis. Gene expression analysis showed upregulation of cancer-related genes. The findings are significant for developing new therapeutic strategies.",
+      "practice_change_ar": "يمكن أن يؤدي هذا البحث إلى تحسين استراتيجيات علاج السرطان الحالية.",
+      "practice_change_en": "This research may lead to improved current cancer treatment strategies.",
+      "future_impact_ar": "قد يؤدي استخدام هذه الوصفة في المستقبل إلى تحسينات ملحوظة في علاج أورام معينة.",
+      "future_impact_en": "The use of this prescription in the future could lead to significant improvements in the treatment of specific tumors.",
+      "why_important_ar": "تعتبر هذه الدراسة ذات أهمية لأنها تقدم فهمًا أفضل لمساهمة الوصفات التقليدية في علاج السرطان.",
+      "why_important_en": "This study is important as it provides a better understanding of the contribution of traditional prescriptions in cancer treatment.",
+      "vs_previous_ar": "تتجاوز هذه الدراسة المعرفة السابقة من خلال الاستناد إلى التحليلات الجزيئية المتقدمة.",
+      "vs_previous_en": "This study goes beyond previous knowledge by relying on advanced molecular analyses.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة تعتمد على تحليل شبكة صيدلانية وتحقق نتائج تجريبية مما يمنحها تصنيفًا عاليًا.",
+      "stars_reason_en": "The study relies on network pharmacology analysis and achieves experimental results, granting it a high rating.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study provides new insights into the use of traditional therapies.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة تأثيرات الصيغة التقليدية على سرطان المريء ورأس وسرطان الرقبة.",
+      "watch_detail_en": "The effects of the traditional formula on esophageal and head and neck cancer should be monitored.",
+      "watch_type": "drug",
+      "research_gap_ar": "توجد حاجة إلى مزيد من الدراسات السريرية للتحقق من النتائج المستخلصة.",
+      "research_gap_en": "Further clinical studies are needed to verify the findings.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "تتناول هذه الدراسة الآلية المشتركة لعلاج الأورام باستخدام الوصفات التقليدية. تم تحديد أهداف جديدة مرتبطة بمسار PI3K-AKT. التجارب البحثية أظهرت أن الوصفة تقلل من نمو الورم. هذه النتائج قد تحسن من استراتيجيات العلاج الحالية.",
+      "audio_script_en": "This study addresses the common mechanism of treating tumors using traditional prescriptions. New targets related to the PI3K-AKT pathway were identified. Research experiments showed that the prescription reduces tumor growth. These results could improve current treatment strategies.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف الرئيسي من الدراسة؟",
+          "q_en": "What is the main objective of the study?",
+          "options_ar": [
+            "أ) تحليل شبكي",
+            "ب) تطوير دواء جديد",
+            "ج) دراسة نمط حياة",
+            "د) اختبار جهاز"
+          ],
+          "options_en": [
+            "A) Network analysis",
+            "B) Develop a new drug",
+            "C) Study lifestyle",
+            "D) Test a device"
+          ],
+          "answer": 0,
+          "explanation_ar": "الهدف هو تحليل الأهداف المشتركة عبر الشبكات الصيدلانية.",
+          "explanation_en": "The goal is to analyze common targets through pharmacological networks."
+        },
+        {
+          "q_ar": "ما المسار الجزيئي المرتبط بالأهداف المشتركة؟",
+          "q_en": "What molecular pathway is associated with the common targets?",
+          "options_ar": [
+            "أ) PI3K-AKT",
+            "ب) MAPK",
+            "ج) JAK-STAT",
+            "د) Wnt"
+          ],
+          "options_en": [
+            "A) PI3K-AKT",
+            "B) MAPK",
+            "C) JAK-STAT",
+            "D) Wnt"
+          ],
+          "answer": 0,
+          "explanation_ar": "تم تحديد أن الأهداف مرتبطة بشكل رئيسي بمسار PI3K-AKT.",
+          "explanation_en": "The targets were primarily linked to the PI3K-AKT pathway."
+        },
+        {
+          "q_ar": "كيف أثرت الوصفة على خلايا السرطان في الدراسات المعملية؟",
+          "q_en": "How did the prescription affect cancer cells in laboratory studies?",
+          "options_ar": [
+            "أ) زادت من النمو",
+            "ب) قللت من الانتشار",
+            "ج) لم يكن لها تأثير",
+            "د) سببت موت الخلايا"
+          ],
+          "options_en": [
+            "A) Increased growth",
+            "B) Decreased metastasis",
+            "C) No effect",
+            "D) Caused cell death"
+          ],
+          "answer": 3,
+          "explanation_ar": "أظهرت التجارب أن الوصفة أدت إلى موت خلايا السرطان.",
+          "explanation_en": "Experiments showed that the prescription led to cancer cell death."
+        }
+      ]
+    },
+    {
+      "pmid": "41984609",
+      "title_ar": "Electrochemical Sensing of 8-Hydroxy-2'-deoxyguanosine with a Portable Cu Metal Hydroxide Organic Framework Saliva Kit: Toward At-Home Oral Cancer Monitoring",
+      "title_en": "Electrochemical Sensing of 8-Hydroxy-2'-deoxyguanosine with a Portable Cu Metal Hydroxide Organic Framework Saliva Kit: Toward At-Home Oral Cancer Monitoring",
+      "journal": "ACS sensors",
+      "pub_date": "2026-May-22",
+      "doi": "10.1021/acssensors.5c02332",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41984609/",
+      "pdf_url": null,
+      "study_design": "Novel technology study",
+      "summary_ar": "تمثل الدراسة تطوير جهاز استشعار كهربائي يعتمد على إطار هيدروكسيد النحاس المعدني العضوي للكشف عن 8-Hydroxy-2'-deoxyguanosine. هذه التقنية تتمتع بحساسية وانتقائية عالية، مما يسمح بالكشف بسهولة عن المعايير البيولوجية الهامة. يتضمن الجهاز نطاق كشف واسع ودقة عالية في التحليل الكمي للعينات. تم تصميم مجموعة رصد في مصنع العيادة لتحليل اللعاب بشكل سهل ومبسط. مما يوفر منصة فعالة لمراقبة سرطان الفم.",
+      "summary_en": "The study reports the development of an electrochemical sensor based on a copper metal hydroxide organic framework for detecting 8-Hydroxy-2'-deoxyguanosine. This technology exhibits high sensitivity and selectivity, allowing for easy detection of important biological markers. The device provides a wide detection range and high accuracy for quantitative analysis of samples. A portable saliva kit was developed for easy and simplified analysis. This provides an effective platform for monitoring oral cancer risk.",
+      "practice_change_ar": "يمكن استخدام مجموعة رصد اللعاب لتقديم فحص غير جراحي لسرطان الفم.",
+      "practice_change_en": "The saliva monitoring kit can be used for non-invasive screening of oral cancer.",
+      "future_impact_ar": "يمكن أن تسهم هذه التقنية في تحسين تشخيص ومراقبة سرطان الفم في المستقبل.",
+      "future_impact_en": "This technology could improve diagnosis and monitoring of oral cancer in the future.",
+      "why_important_ar": "تقدم الدراسة حلاً مبتكرًا لتسهيل الكشف عن سرطان الفم.",
+      "why_important_en": "The study presents an innovative solution for facilitating oral cancer detection.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن الأساليب التقليدية في الكشف عن سرطان الفم من حيث سهولة الاستخدام وسرعة النتائج.",
+      "vs_previous_en": "This study differs from traditional methods of oral cancer detection in its ease of use and rapid results.",
+      "stars": 4,
+      "stars_reason_ar": "تطوير تقنية جديدة لتحليل البيماركرات الحيوية، مع تطبيق عملي واضح.",
+      "stars_reason_en": "Development of a new technology for analyzing biological markers, with a clear practical application.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Introduction of new technologies for non-invasive diagnosis.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة مجموعة استشعار اللعاب الجديدة لكشف سرطان الفم.",
+      "watch_detail_en": "The new saliva sensing kit for oral cancer detection should be monitored.",
+      "watch_type": "device",
+      "research_gap_ar": "تحتاج الدراسات المستقبلية إلى تقييم فعالية هذه التقنية في سيناريوهات حقيقية.",
+      "research_gap_en": "Future studies need to assess the effectiveness of this technology in real-world scenarios.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "في هذه المقالة، نستعرض دراسة حول تطوير جهاز استشعار كهربائي للكشف عن 8-Hydroxy-2'-deoxyguanosine، وهو علامة بيولوجية مرتبطة بسرطان الفم. تظهر التقنية حساسية وانتقائية عالية، مما يسهل تحليل العينات البيولوجية. تم تصميم مجموعة رصد اللعاب بشكل يسهل الاستخدام في المنزل، حيث تقدم فرصة لمراقبة غير جراحية لسرطان الفم. نحن نوصي بمتابعة هذه التقنية الجديدة نظرًا لأهميتها في تسهيل التشخيص.",
+      "audio_script_en": "In this article, we review a study on the development of an electrochemical sensor for detecting 8-Hydroxy-2'-deoxyguanosine, a biomarker linked to oral cancer. The technology shows high sensitivity and selectivity, facilitating the analysis of biological samples. A portable saliva monitoring kit has been designed for home use, offering a non-invasive opportunity for oral cancer monitoring. We recommend tracking this new technology for its importance in facilitating diagnosis.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الاستخدام الرئيسي للجهاز المطور في الدراسة؟",
+          "q_en": "What is the main use of the device developed in the study?",
+          "options_ar": [
+            "أ) الكشف عن 8-Hydroxy-2'-deoxyguanosine",
+            "ب) علاج سرطان الفم",
+            "ج) تحليل الدم",
+            "د) تحسين صحة الفم"
+          ],
+          "options_en": [
+            "A) Detecting 8-Hydroxy-2'-deoxyguanosine",
+            "B) Treating oral cancer",
+            "C) Blood analysis",
+            "D) Improving oral health"
+          ],
+          "answer": 0,
+          "explanation_ar": "الجهاز مصمم للكشف عن 8-Hydroxy-2'-deoxyguanosine المرتبط بسرطان الفم.",
+          "explanation_en": "The device is designed to detect 8-Hydroxy-2'-deoxyguanosine linked to oral cancer."
+        },
+        {
+          "q_ar": "ما الذي يميز مجموعة رصد اللعاب التي تم تطويرها؟",
+          "q_en": "What distinguishes the developed saliva monitoring kit?",
+          "options_ar": [
+            "أ) سهولة الاستخدام",
+            "ب) تكلفة مرتفعة",
+            "ج) يحتاج إلى معدات معقدة",
+            "د) لا يقدم نتائج دقيقة"
+          ],
+          "options_en": [
+            "A) Ease of use",
+            "B) High cost",
+            "C) Requires complex equipment",
+            "D) Does not provide accurate results"
+          ],
+          "answer": 0,
+          "explanation_ar": "تتميز مجموعة رصد اللعاب بسهولة الاستخدام وسرعة النتائج.",
+          "explanation_en": "The saliva monitoring kit is distinguished by its ease of use and quick results."
+        },
+        {
+          "q_ar": "ما هو النطاق الذي يمكن الكشف عنه بواسطة الجهاز؟",
+          "q_en": "What is the detection range of the device?",
+          "options_ar": [
+            "أ) 5 نانومتر إلى 10 ميكرومتر",
+            "ب) 10 نانومتر إلى 100 ميكرومتر",
+            "ج) 1 ميكرومتر إلى 1 ملليمتر",
+            "د) 10 ملليومتر إلى 1 سنتيمتر"
+          ],
+          "options_en": [
+            "A) 5 nanometers to 10 micrometers",
+            "B) 10 nanometers to 100 micrometers",
+            "C) 1 micrometer to 1 millimeter",
+            "D) 10 millimeters to 1 centimeter"
+          ],
+          "answer": 1,
+          "explanation_ar": "الجهاز يمكنه الكشف عن نطاق من 10 نانومتر إلى 100 ميكرومتر.",
+          "explanation_en": "The device can detect a range from 10 nanometers to 100 micrometers."
+        }
+      ]
+    },
+    {
+      "pmid": "42171384",
+      "title_ar": "Association between hearing aid use and cognitive function among Chinese middle-aged and older adults with hearing impairment: the mediating effect of social activity.",
+      "title_en": "Association between hearing aid use and cognitive function among Chinese middle-aged and older adults with hearing impairment: the mediating effect of social activity.",
+      "journal": "Journal of global health",
+      "pub_date": "2026-May-22",
+      "doi": "10.7189/jogh.16.04120",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42171384/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort",
+      "summary_ar": "الدراسة تستند إلى بيانات من China Health and Retirement Longitudinal Study عبر سنوات متعددة. أظهرت النتائج أن استخدام السماعات السمعية مرتبط بشكل إيجابي بتحسين الأداء الإدراكي بين البالغين الوسطي وكبار السن الذين يعانون من ضعف السمع. استخدام السماعات أيضًا قلل من خطر الإصابة بالضعف الإدراكي بنسبة 29.6%. كما encontraron أن زيادة الأنشطة الاجتماعية، مثل الأنشطة الفكرية والبدنية، لعبت دورًا وسطيًا في هذه العلاقة. تختلف هذه النتائج حسب العمر والجنس. يعد تعزيز استخدام السماعات الاجتماعية والنشاط الاجتماعي أمرًا حيويًا لتحسين الوظائف الإدراكية وتقليل خطر الضعف الإدراكي.",
+      "summary_en": "This study draws on data from the China Health and Retirement Longitudinal Study across multiple years. Results show that hearing aid use is positively associated with cognitive performance among middle-aged and older adults with hearing impairment. Hearing aid use also significantly reduced the risk of cognitive impairment by 29.6%. Increased participation in social activities, such as intellectual and physical pursuits, mediated this relationship. The findings vary by age and gender. Promoting hearing aid use and social activity is vital to improve cognitive function and reduce impairment risk.",
+      "practice_change_ar": "ينبغي تعزيز استخدام السماعات السمعية والنشاط الاجتماعي لتحسين وظائف الإدراك.",
+      "practice_change_en": "Hearing aid use and social activity should be promoted to enhance cognitive function.",
+      "future_impact_ar": "يمكن أن تؤثر هذه النتائج على السياسات الصحية العامة لتلبية احتياجات كبار السن المعرضين لمخاطر ضعف الإدراك.",
+      "future_impact_en": "These findings may influence public health policies to address the needs of older adults at risk of cognitive decline.",
+      "why_important_ar": "هذا المقال مهم لأنه يبرز أهمية استخدام السماعات السمعية في تحسين الوظائف الإدراكية.",
+      "why_important_en": "This article is important as it highlights the significance of hearing aid use in enhancing cognitive function.",
+      "vs_previous_ar": "يختلف هذا البحث عن المعرفة السابقة بتأكيد العلاقة الإيجابية بين استخدام السماعات ونشاطات اجتماعية مع الوظائف الإدراكية.",
+      "vs_previous_en": "This research differs from prior knowledge by confirming the positive relationship between hearing aid use, social activities, and cognitive function.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة قائمة على بيانات متعددة، تقدم معلومات جديدة حول تأثير استخدام السماعات والأنشطة الاجتماعية على الإدراك.",
+      "stars_reason_en": "A data-driven study providing new insights on the impact of hearing aid use and social activities on cognition.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It provides important new findings on the impact of hearing aids on cognition.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة تأثير استخدام السماعات السمعية على وظائف الإدراك في السكان المسنين.",
+      "watch_detail_en": "The impact of hearing aid use on cognitive function in elderly populations should be monitored.",
+      "watch_type": "device",
+      "research_gap_ar": "تحتاج الدراسات المستقبلية إلى استكشاف تأثيرات طويلة الأمد لاستخدام السماعات على الإدراك.",
+      "research_gap_en": "Future studies need to explore long-term effects of hearing aid use on cognition.",
+      "subspecialty": "otology",
+      "audio_script_ar": "في هذه الدراسة، تم تحليل العلاقة بين استخدام السماعات السمعية والوظائف الإدراكية بين البالغين المعرضين لخطر ضعف السمع في الصين. أظهرت النتائج تحسناً ملحوظاً في الأداء الإدراكي بعد استخدام السماعات، مما يقلل من خطر الإصابة بالضعف الإدراكي. كما تبين أن النشاط الاجتماعي يلعب دوراً مهماً في هذه العلاقة. تبرز هذه النتائج الحاجة إلى تعزيز استخدام السماعات والنشاط الاجتماعي لتحسين جودة حياة كبار السن.",
+      "audio_script_en": "This study examined the relationship between hearing aid use and cognitive function among adults at risk of hearing impairment in China. Results showed a significant improvement in cognitive performance following the use of hearing aids, which reduced the risk of cognitive decline. It was also found that social activity plays an important role in this relationship. These findings highlight the need to promote hearing aid use and social activity to improve the quality of life for older adults.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الأثر الإيجابي الرئيسي لاستخدام السماعات السمعية وفقًا للدراسة؟",
+          "q_en": "What is the main positive impact of hearing aid use according to the study?",
+          "options_ar": [
+            "أ) زيادة الضعف الإدراكي",
+            "ب) تحسين الوظائف الإدراكية",
+            "ج) تقليل الأنشطة الاجتماعية",
+            "د) زيادة خطر ضعف السمع"
+          ],
+          "options_en": [
+            "A) Increased cognitive decline",
+            "B) Improved cognitive function",
+            "C) Reduced social activities",
+            "D) Increased hearing impairment risk"
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسة تظهر أن استخدام السماعات السمعية مرتبط بتحسين الوظائف الإدراكية.",
+          "explanation_en": "The study shows that hearing aid use is associated with improved cognitive function."
+        },
+        {
+          "q_ar": "كيف يقلل استخدام السماعات السمعية من خطر الضعف الإدراكي؟",
+          "q_en": "How does hearing aid use reduce the risk of cognitive impairment?",
+          "options_ar": [
+            "أ) من خلال زيادة الأنشطة الاجتماعية",
+            "ب) عن طريق تقليل السمع",
+            "ج) عبر تحسين الصحة البدنية",
+            "د) عن طريق تعزيز العزلة الاجتماعية"
+          ],
+          "options_en": [
+            "A) By increasing social activities",
+            "B) By reducing hearing",
+            "C) Through improving physical health",
+            "D) By enhancing social isolation"
+          ],
+          "answer": 0,
+          "explanation_ar": "زيادة الأنشطة الاجتماعية الناتجة عن استخدام السماعات يؤدي إلى تحسين الوظائف الإدراكية.",
+          "explanation_en": "Increased social activities resulting from hearing aid use lead to improved cognitive function."
+        },
+        {
+          "q_ar": "لماذا تعد النتائج مهمة لصناع السياسات الصحية؟",
+          "q_en": "Why are the findings important for health policymakers?",
+          "options_ar": [
+            "أ) لأنها تؤكد عدم أهمية الأنشطة الاجتماعية",
+            "ب) لأنها تؤكد على أهمية استخدام السماعات",
+            "ج) لأنها تظهر أن السماعات تزيد من الضعف الإدراكي",
+            "د) لأنها تعزز استخدام السمع الطبيعي"
+          ],
+          "options_en": [
+            "A) Because they emphasize the unimportance of social activities",
+            "B) Because they highlight the importance of hearing aids",
+            "C) Because they show that hearing aids increase cognitive decline",
+            "D) Because they promote the use of natural hearing"
+          ],
+          "answer": 1,
+          "explanation_ar": "تسلط النتائج الضوء على أهمية استخدام السماعات السمعية في تعزيز الإدراك لدى كبار السن.",
+          "explanation_en": "The findings highlight the importance of hearing aid use in enhancing cognition among older adults."
+        }
+      ]
+    },
+    {
+      "pmid": "42171848",
+      "title_ar": "Post-neoadjuvant Metabolic Response Assessed by ¹⁸F-FDG PET/CT Predicts Pathologic Complete Response and Survival in Esophageal Squamous Cell Carcinoma Treated with the CROSS Regimen.",
+      "title_en": "Post-neoadjuvant Metabolic Response Assessed by ¹⁸F-FDG PET/CT Predicts Pathologic Complete Response and Survival in Esophageal Squamous Cell Carcinoma Treated with the CROSS Regimen.",
+      "journal": "Journal of gastrointestinal cancer",
+      "pub_date": "2026-May-22",
+      "doi": "10.1007/s12029-026-01485-z",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42171848/",
+      "pdf_url": null,
+      "study_design": "Retrospective series n=110",
+      "summary_ar": "تشير الدراسات إلى أن الاستجابة الأيضية على ¹⁸F-FDG PET/CT بعد العلاج الكيميائي الإشعاعي الضوئي قد تتنبأ بالاستجابة الكاملة المرضية في سرطان الخلايا الحرشفية بالمريء. هذه الدراسة استعرضت بيانات 110 مرضى تم علاجهم باستخدام نظام CROSS. كان الانخفاض المتوسط في SUVmax للورم 83.3% لدى المرضى الذين حققوا استجابة كاملة و70.5% لغير المستجيبين. النتائج تشير إلى أن الانخفاض بنسبة ≥67% في SUVmax يعتبر مؤشراً مستقلاً للاستجابة الكاملة المرضية، مما يعكس التأثير الإيجابي على البقاء بشكل عام.",
+      "summary_en": "Metabolic response assessed by ¹⁸F-FDG PET/CT after chemoradiotherapy may predict pathologic complete response in esophageal squamous cell carcinoma. This retrospective study analyzed data from 110 patients treated with the CROSS regimen. The mean reduction in tumor SUVmax was 83.3% for pCR patients versus 70.5% for non-pCR patients. Results indicate that ≥67% reduction in tumor SUVmax is an independent predictor of pCR, reflecting positive implications for overall survival.",
+      "practice_change_ar": "قد يتبنى الأطباء استخدام نسبة الانخفاض في SUVmax كأداة لتقييم استجابة المرضى.",
+      "practice_change_en": "Clinicians might adopt SUVmax reduction percentage as a tool for assessing patient response.",
+      "future_impact_ar": "قد يساهم هذا البحث في تحسين مقاييس التنبؤ بنتائج المرضى في سرطان المريء.",
+      "future_impact_en": "This research may enhance predictive measures for patient outcomes in esophageal cancer.",
+      "why_important_ar": "تساهم هذه الدراسة في فهم أدق للعوامل المؤثرة على الاستجابة للعلاج في سرطان المريء.",
+      "why_important_en": "This study contributes to a better understanding of factors influencing treatment response in esophageal cancer.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة من خلال تحديد نسبة الانخفاض المثلى في SUVmax.",
+      "vs_previous_en": "This study differs from previous knowledge by identifying the optimal threshold for SUVmax reduction.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استبنائية مع مجموعة مرضى كبيرة، وتقدمة معلومات جديدة حول تقييم الاستجابة للعلاج.",
+      "stars_reason_en": "Acceptable retrospective study with a large cohort, providing new insights into treatment response assessment.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Provides new information that may have clinical significance.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تفتقر الأدبيات إلى توضيح أوقات التصوير المثلى ومعايير التغيير في SUVmax.",
+      "research_gap_en": "The literature lacks clarification on optimal imaging timing and parameters for SUVmax change.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "تتناول هذه الدراسة أهمية الاستجابة الأيضية على ¹⁸F-FDG PET/CT بعد العلاج الكيميائي الإشعاعي في سرطان الخلايا الحرشفية بالمريء. تم دراسة 110 مرضى باستخدام نظام CROSS، حيث أظهرت النتائج أن الانخفاض في SUVmax للورم يعد مؤشراً مستقلاً للاستجابة الكاملة المرضية. تشير النتائج إلى أن نسبة الانخفاض التي تبلغ 67% يمكن أن تساعد في تحسين تقييم الاستجابة للعلاج. وتعد هذه الدراسة مساهمة مهمة في فهم العوامل المؤثرة في علاج سرطان المريء.",
+      "audio_script_en": "This study addresses the significance of metabolic response assessed by ¹⁸F-FDG PET/CT following chemoradiotherapy in esophageal squamous cell carcinoma. A total of 110 patients were studied under the CROSS regimen, revealing that tumor SUVmax reduction serves as an independent predictor of pathologic complete response. The findings suggest that a reduction of 67% or more could enhance treatment response evaluation. This study represents an important contribution to understanding factors influencing esophageal cancer treatment.",
+      "mcq": [
+        {
+          "q_ar": "ما هو متوسط الانخفاض في SUVmax للورم لدى المرضى الذين حققوا استجابة كاملة مرضية؟",
+          "q_en": "What is the mean decrease in tumor SUVmax for patients who achieved pathologic complete response?",
+          "options_ar": [
+            "أ) 60.4%",
+            "ب) 70.5%",
+            "ج) 83.3%",
+            "د) 90.1%"
+          ],
+          "options_en": [
+            "A) 60.4%",
+            "B) 70.5%",
+            "C) 83.3%",
+            "D) 90.1%"
+          ],
+          "answer": 2,
+          "explanation_ar": "حقق المرضى الذين لديهم استجابة كاملة مرضية متوسط انخفاض قدره 83.3% في SUVmax للورم.",
+          "explanation_en": "Patients who achieved pathologic complete response had a mean reduction of 83.3% in tumor SUVmax."
+        },
+        {
+          "q_ar": "ما هو الحد الأدنى من الانخفاض في SUVmax الذي يعتبر معيارًا مستقلًا للاستجابة الكاملة المرضية؟",
+          "q_en": "What is the minimum SUVmax reduction that is considered an independent predictor of pathologic complete response?",
+          "options_ar": [
+            "أ) 50%",
+            "ب) 67%",
+            "ج) 75%",
+            "د) 80%"
+          ],
+          "options_en": [
+            "A) 50%",
+            "B) 67%",
+            "C) 75%",
+            "D) 80%"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم تحديد الحد الأدنى من الانخفاض في SUVmax الذي يعتبر مؤشراً مستقلاً للاستجابة الكاملة المرضية عند 67%.",
+          "explanation_en": "The minimum SUVmax reduction considered an independent predictor of pathologic complete response was set at 67%."
+        },
+        {
+          "q_ar": "ما هو نوع الدراسة التي تم إجراءها في هذه البحث؟",
+          "q_en": "What type of study was conducted in this research?",
+          "options_ar": [
+            "أ) دراسة تجريبية",
+            "ب) دراسة استبنائية",
+            "ج) دراسة وصفيه",
+            "د) دراسة حالة"
+          ],
+          "options_en": [
+            "A) Experimental study",
+            "B) Retrospective study",
+            "C) Descriptive study",
+            "D) Case study"
+          ],
+          "answer": 1,
+          "explanation_ar": "هذه دراسة استبنائية تم استعراضها على مجموعة كبيرة من المرضى.",
+          "explanation_en": "This is a retrospective study conducted on a large cohort of patients."
+        }
+      ]
+    },
+    {
+      "pmid": "42168667",
+      "title_ar": "NECKCHECK project: development and validation of a digital checklist for radiologic assessment of oral cavity squamous cell carcinoma.",
+      "title_en": "NECKCHECK project: development and validation of a digital checklist for radiologic assessment of oral cavity squamous cell carcinoma.",
+      "journal": "Clinical oral investigations",
+      "pub_date": "2026-May-22",
+      "doi": "10.1007/s00784-026-06934-4",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42168667/",
+      "pdf_url": "https://doi.org/10.1007/s00784-026-06934-4",
+      "study_design": "Concordance study",
+      "summary_ar": "مشروع NECKCHECK تم تطويره لتقديم قائمة مرجعية رقمية لتحسين دقة تشخيص سرطان الخلايا الحرشفية في تجويف الفم. الدراسة تضمنت مراجعة شاملة للأدبيات لتحديد ميزات التصوير الهامة. تم تقييم فحوصات CT وMRI من قبل أطباء الأنف والأذن والحنجرة مع وبدون دعم من القائمة المرجعية. النتائج أظهرت تحسن كبير في التوافق بين الملاحظين ودقة التشخيص. هذا يساهم في تحسين إدارة حالات السرطان الفموية.",
+      "summary_en": "The NECKCHECK project developed a digital checklist to enhance diagnostic accuracy for oral cavity squamous cell carcinoma (OCSCC). The study involved a comprehensive literature review to identify key imaging features. Otolaryngologists evaluated CT and MRI scans with and without checklist support. Results showed significant improvement in interobserver agreement and diagnostic accuracy. This supports better management in oral cancer cases.",
+      "practice_change_ar": "قد يؤدي استخدام القائمة المرجعية NECKCHECK إلى تحسين دقة التقييم الإشعاعي في سرطان تجويف الفم.",
+      "practice_change_en": "The use of the NECKCHECK checklist may enhance radiologic assessment accuracy in oral cavity carcinoma.",
+      "future_impact_ar": "يمكن أن تسهم NECKCHECK في تحسين اتخاذ القرارات السريرية المتعددة التخصصات.",
+      "future_impact_en": "NECKCHECK may contribute to improved multidisciplinary clinical decision-making.",
+      "why_important_ar": "توفير قائمة مرجعية هي أداة مبتكرة لتحسين دقة التقييم الإشعاعي.",
+      "why_important_en": "Introducing a checklist is an innovative tool to improve radiologic assessment accuracy.",
+      "vs_previous_ar": "تختلف هذه الدراسة من حيث تقديم أداة جديدة لتحسين تقييم سرطان تجويف الفم.",
+      "vs_previous_en": "This study differs by providing a new tool to improve the assessment of oral cavity cancer.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة توافقية مع تطوير أداة جديدة لتحسين دقة التشخيص.",
+      "stars_reason_en": "A concordance study with the development of a new tool to enhance diagnostic accuracy.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Presents a new tool to enhance radiologic assessment accuracy.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة تطبيق NECKCHECK كأداة لتعزيز دقة تقييم سرطان تجويف الفم.",
+      "watch_detail_en": "NECKCHECK should be monitored as a tool to enhance accuracy in oral cavity cancer assessment.",
+      "watch_type": "technology",
+      "research_gap_ar": "فقدان أدوات موحدة لتقييم سرطان تجويف الفم.",
+      "research_gap_en": "Existing gaps in standardized tools for assessing oral cavity cancer.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "مشروع NECKCHECK يهدف إلى تحسين دقة التقييم الإشعاعي لسرطان الخلايا الحرشفية في تجويف الفم. تتضمن الدراسة مراجعة للأدبيات وتقييم فحوصات CT وMRI بمساعدة قائمة مرجعية. النتائج أظهرت زيادة ملحوظة في التوافق بين الملاحظين ودقة التشخيص، مما يوفر أداة جديدة لدعم قرارات إدارة السرطان الفموي متعددة التخصصات.",
+      "audio_script_en": "The NECKCHECK project aims to improve radiologic assessment accuracy for oral cavity squamous cell carcinoma. The study includes a literature review and evaluation of CT and MRI scans using a checklist. Results showed a significant increase in interobserver agreement and diagnostic accuracy, providing a new tool to support multidisciplinary decisions in managing oral cancer.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف الرئيسي من مشروع NECKCHECK؟",
+          "q_en": "What is the main objective of the NECKCHECK project?",
+          "options_ar": [
+            "أ) تحسين دقة التقييم الإشعاعي",
+            "ب) تقليل مدة الفحص",
+            "ج) زيادة عدد الأطباء المشاركين",
+            "د) تقليل تكاليف العلاج"
+          ],
+          "options_en": [
+            "A) Improve radiologic assessment accuracy",
+            "B) Decrease examination duration",
+            "C) Increase the number of participating physicians",
+            "D) Reduce treatment costs"
+          ],
+          "answer": 0,
+          "explanation_ar": "يهدف المشروع إلى تحسين دقة التقييم الإشعاعي لسرطان الخلايا الحرشفية.",
+          "explanation_en": "The project aims to improve radiologic assessment accuracy for squamous cell carcinoma."
+        },
+        {
+          "q_ar": "ما التحسن الذي لوحظ في دقة التشخيص بعد استخدام القائمة؟",
+          "q_en": "What improvement was observed in diagnostic accuracy after using the checklist?",
+          "options_ar": [
+            "أ) 50% إلى 70%",
+            "ب) 67.1% إلى 84.7%",
+            "ج) 60% إلى 80%",
+            "د) 75% إلى 90%"
+          ],
+          "options_en": [
+            "A) 50% to 70%",
+            "B) 67.1% to 84.7%",
+            "C) 60% to 80%",
+            "D) 75% to 90%"
+          ],
+          "answer": 1,
+          "explanation_ar": "تحسنت دقة التشخيص من 67.1% إلى 84.7% بعد تطبيق القائمة.",
+          "explanation_en": "Diagnostic accuracy improved from 67.1% to 84.7% after applying the checklist."
+        },
+        {
+          "q_ar": "من قام بتقييم فحوصات CT وMRI في الدراسة؟",
+          "q_en": "Who evaluated the CT and MRI scans in the study?",
+          "options_ar": [
+            "أ) أطباء الأنف والأذن والحنجرة",
+            "ب) أطباء الأسنان",
+            "ج) أطباء الأورام",
+            "د) مختصو الأشعة"
+          ],
+          "options_en": [
+            "A) Otolaryngologists",
+            "B) Dentists",
+            "C) Oncologists",
+            "D) Radiologists"
+          ],
+          "answer": 0,
+          "explanation_ar": "تم تقييم الفحوصات من قبل أطباء الأنف والأذن والحنجرة.",
+          "explanation_en": "The scans were evaluated by otolaryngologists."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026052301",
+      "title_ar": "حجم سوق أجهزة الأنف والأذن والحنجرة في الولايات المتحدة وتقرير الصناعة لعام 2030",
+      "title_en": "U.S. ENT Devices Market Size and Share Industry Report for 2030",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-05-23",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أصدرت شركة جراند فيو للأبحاث تقريرًا شاملاً عن سوق أجهزة الأنف والأذن والحنجرة في الولايات المتحدة، متوقعة نموه وحصة السوق حتى عام 2030. يحدد التقرير الاتجاهات الرئيسية، والمنافسة، والتحديات المحتملة. مع التقدم في التكنولوجيا وزيادة الإنفاق على الرعاية الصحية، من المتوقع أن يتوسع سوق أجهزة الأنف والأذن والحنجرة بشكل كبير، مما يعكس الطلب المتزايد على الحلول المبتكرة في طب الأذن والأنف والحنجرة.",
+      "summary_en": "Grand View Research has released a comprehensive report on the U.S. ENT devices market, projecting its growth and market share up to the year 2030. The report outlines key trends, competitive landscape, and potential challenges. With advancements in technology and increased healthcare expenditure, the ENT devices market is expected to expand significantly, reflecting the growing demand for innovative solutions in otolaryngology.",
+      "practice_change_ar": "تشير هذا التقرير إلى نمو كبير في سوق أجهزة الأنف والأذن والحنجرة، مما سيؤثر على توفر وابتكار الأدوات الجراحية لجراحي الأنف والأذن والحنجرة.",
+      "practice_change_en": "This report indicates significant growth in the ENT devices market, which will impact the availability and innovation of surgical tools for ENT surgeons.",
+      "future_impact_ar": "تشير التوقعات لنمو سوق أجهزة الأنف والأذن والحنجرة إلى مستقبل يتضمن خيارات علاجية أكثر تقدمًا وفعالية للمرضى.",
+      "future_impact_en": "The growth forecast for the ENT devices market suggests a future with more advanced and effective treatment options for patients.",
+      "why_important_ar": "فهم اتجاهات السوق أمر ضروري لجراحي الأنف والأذن والحنجرة للبقاء متقدمين في تبني تقنيات جديدة.",
+      "why_important_en": "Understanding market trends is crucial for ENT surgeons to stay ahead in adopting new technologies.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "التقرير يعكس التوجهات المستقبلية المهمة لسوق الأجهزة ودورها في تعزيز الابتكار.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أصدرت شركة جراند فيو للأبحاث تقريرًا عن سوق أجهزة الأنف والأذن والحنجرة في الولايات المتحدة حتى عام 2030. يشير التقرير إلى النمو المتوقع في السوق ويشمل الاتجاهات الرئيسية والتحديات. يعتبر هذا النمو مهمًا لجراحي الأنف والأذن والحنجرة، حيث سيوفر لهم تقنيات جديدة وأفضل لعلاج المرضى. مع زيادة الإنفاق على الرعاية الصحية، من المتوقع أن يتوسع سوق أجهزة الأنف والأذن والحنجرة بشكل كبير، مما يعكس الطلب المتزايد على الحلول المبتكرة.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026052302",
+      "title_ar": "سوق أجهزة توسيع الجيوب الأنفية سيصل إلى 5.50 مليار دولار أمريكي بحلول عام 2033",
+      "title_en": "Sinus Dilation Devices Market to Reach US$ 5.50 Billion by 2033",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-05-23",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "من المتوقع أن ينمو سوق أجهزة توسيع الجيوب الأنفية بشكل ملحوظ، ليصل إلى قيمة تقدر بـ 5.50 مليار دولار أمريكي بحلول عام 2033. يُعزى هذا النمو إلى الزيادة في انتشار الحالات المتعلقة بالجيوب الأنفية والتقدم في الأساليب والتقنيات الجراحية. يُبرز التقرير اللاعبين الرئيسيين وديناميكيات السوق، مما يشير إلى زيادة الطلب على حلول فعالة لعلاج الجيوب الأنفية.",
+      "summary_en": "The sinus dilation devices market is projected to grow significantly, reaching an estimated value of US$ 5.50 billion by the year 2033. This growth is attributed to the increasing prevalence of sinus-related conditions and advancements in surgical techniques and technologies. The report highlights the key players and market dynamics, indicating a surge in demand for effective sinus treatment solutions.",
+      "practice_change_ar": "إشارة نمو السوق هذا قد تعني زيادة محتملة في الاستثمارات والابتكارات داخل قطاع ENT.",
+      "practice_change_en": "This market growth signals a potential increase in investment and innovation within the ENT sector.",
+      "future_impact_ar": "تشير هذه الاتجاهات إلى أن جراحي ENT قد يحصلون على أدوات وتقنيات أكثر تقدمًا في السنوات القادمة.",
+      "future_impact_en": "This trend suggests that ENT surgeons may have access to more advanced tools and technologies in the coming years.",
+      "why_important_ar": "قد تؤدي الزيادة في الطلب على أجهزة توسيع الجيوب الأنفية إلى تحسين خيارات العلاج للمرضى الذين يعانون من التهاب الجيوب الأنفية.",
+      "why_important_en": "The rising demand for sinus dilation devices may lead to improved treatment options for patients suffering from sinusitis.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "يدل على دور كبير في تحسين العلاجات وجودة رعاية المرضى.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "مرحباً بكم في نشرة أخبار صناعة ENT. نتحدث اليوم عن توقعات سوق أجهزة توسيع الجيوب الأنفية التي من المتوقع أن تصل إلى 5.50 مليار دولار أمريكي بحلول عام 2033. يُعزى هذا النمو إلى التزايد في الحالات المرتبطة بالجيوب الأنفية وتقدم أساليب العلاج. يُظهر هذا اتجاهًا إيجابيًا لجراحي ENT حيث قد يعني توفر أدوات وتقنيات جديدة لعلاج التهاب الجيوب. ابقوا معنا لمزيد من الأخبار والتحديثات.",
+      "mcq": []
+    }
+  ]
+}
