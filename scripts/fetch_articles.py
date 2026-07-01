@@ -406,7 +406,7 @@ def analyze_business_with_openai(item: dict, client: OpenAI) -> dict:
         description = item.get("description", "(no description)"),
     )
     response = client.chat.completions.create(
-        model      = "gpt-4o-mini",
+        model      = "gpt-4.1-nano",
         max_tokens = 2048,
         messages   = [
             {"role": "system", "content": BUSINESS_SYSTEM_PROMPT},
@@ -425,7 +425,7 @@ def analyze_with_openai(article: dict, client: OpenAI) -> dict:
         abstract = article["abstract"] or "(no abstract available)",
     )
     response = client.chat.completions.create(
-        model      = "gpt-4o-mini",
+        model      = "gpt-4.1-nano",
         max_tokens = 4096,
         messages   = [
             {"role": "system", "content": SYSTEM_PROMPT},
