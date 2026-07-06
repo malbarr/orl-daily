@@ -1,0 +1,1275 @@
+{
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T07:16:06Z",
+  "articles": [
+    {
+      "pmid": "42400442",
+      "title_ar": "Vocal Fold Opening Position Impacts Bowing Measures in Age-Related Vocal Atrophy.",
+      "title_en": "Vocal Fold Opening Position Impacts Bowing Measures in Age-Related Vocal Atrophy.",
+      "journal": "The Laryngoscope",
+      "pub_date": "2026-Jul-04",
+      "doi": "10.1002/lary.70684",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42400442/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort",
+      "summary_ar": "تُركز الدراسة على تأثير وضع فتح Vocal folds على قياسات Bowing في مرض ARVA. أثبتت النتائج أن Bowing Index (BI) يكون أعلى خلال حالة الانفتاح (abduction) مقارنة بالإغلاق (adduction). وارتبط BI بدرجة الشدة السريرية للمريض، حيث كان أعلى في الحالات الأكثر اعتدالاً إلى شديدة. كما أظهرت النتائج أن BI يتغير وفقاً لزاوية الانفتاح، مع زيادة ملحوظة عند 40-60% من الحد الأقصى. تستنتج الدراسة أن وضعية فتح Vocal folds تؤثر بشكل كبير على قياسات Bowing وتقييم الحالة، مع أهمية توحيد المعايير مستقبلاً.",
+      "summary_en": "This study examines how Vocal fold opening position affects Bowing Index (BI) in patients with Age-related Vocal Atrophy (ARVA). It found that BI is higher during abducted (open) states compared to adducted (closed) states, influenced by the degree of opening and severity of the condition. The results highlight the importance of accounting for vocal fold position when assessing vocal fold bowing. The findings suggest that standardization of BI measurement considering vocal fold position is necessary for consistent assessment. This research advances understanding of the dynamic factors affecting vocal fold bowing in ARVA patients.",
+      "practice_change_ar": "على الأطباء أخذ وضعية فتح Vocal folds بعين الاعتبار عند تقييم Bowing باستخدام BI لضمان دقة التقييم.",
+      "practice_change_en": "Clinicians should consider the vocal fold opening position when assessing Bowing Index to ensure accurate evaluation.",
+      "future_impact_ar": "ستساعد النتائج على تطوير معايير موحدة لتقييم Bowing، مما يُحسن التشخيص والمتابعة في ARVA.",
+      "future_impact_en": "The findings will aid in developing standardized assessment protocols, improving diagnosis and management of ARVA.",
+      "why_important_ar": "توضح الدراسة كيف يؤثر وضع فتح Vocal folds على قياسات Bowing، مما يُعزز دقة تقييم المرضى ويوفر أدوات أفضل لإدارة ARVA.",
+      "why_important_en": "The study clarifies the impact of vocal fold opening position on Bowing measurements, improving assessment accuracy in ARVA management.",
+      "vs_previous_ar": "لم تكن الدراسات السابقة تأخذ في الحسبان تأثير وضعية فتح Vocal folds على قياس Bowing Index، هذه الدراسة تضيف بعداً جديداً للتقييم.",
+      "vs_previous_en": "Previous research did not consider the influence of vocal fold position on Bowing Index, this study adds a new variable to assessment methods.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة Prospective cohort ذات نتائج واضحة ومهمة، مع نتائج إحصائية قوية، وتُعزز الإنجاز بمنهجية علمية جيدة.",
+      "stars_reason_en": "Prospective cohort study with clear, impactful results and strong statistical significance, using sound methodology.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "لا تزال الحاجة لفهم تأثير وضع Vocal folds على تقييم Bowing في المرضى بأمراض أخرى مثل Vocal fold paralysis.",
+      "research_gap_en": "Further research is needed to understand how vocal fold position affects Bowing assessment in other vocal pathologies like paralysis.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "هذه الدراسة تتناول كيف يؤثر وضع فتح Vocal folds على قياسات Bowing في مرضى Age-related Vocal Atrophy. أظهرت النتائج أن BI يكون أعلى خلال حالة الانفتاح مقارنة بالإغلاق، وتأثير وضعية الانفتاح على التقييم مهم لضمان دقة التشخيص. تشير الدراسة إلى ضرورة توحيد معايير القياس مستقبلاً مع اعتبار وضعية Vocal folds. هذا يساهم في تحسين تقييم الحالة ومتابعة العلاج بشكل أدق. أهمية الدراسة تكمن في تقديم فهم جديد للعوامل التي تؤثر على تقييم Bowing، مما ينعكس على ممارستنا السريرية.",
+      "audio_script_en": "This study examines how the position of Vocal fold opening impacts Bowing measurements in patients with Age-related Vocal Atrophy. It found that Bowing Index (BI) is higher during abducted (open) states compared to adducted (closed) states. The results underscore the importance of considering vocal fold position during assessment to ensure accuracy. The study suggests standardizing BI measurement protocols to include vocal fold position factors. This will enhance diagnostic precision and treatment monitoring. Overall, the research offers new insights into the dynamic factors influencing vocal fold bowing in ARVA patients.",
+      "mcq": [
+        {
+          "q_ar": "ما هو العامل الرئيسي الذي يؤثر على قياس Bowing Index في دراسة ARVA؟",
+          "q_en": "What is the main factor influencing Bowing Index measurement in the ARVA study?",
+          "options_ar": [
+            "أ) درجة الشدة السريرية للمريض",
+            "ب) وضعية فتح Vocal folds",
+            "ج) عمر المريض",
+            "د) نوع الجهاز المستخدم"
+          ],
+          "options_en": [
+            "A) Patient severity",
+            "B) Vocal fold opening position",
+            "C) Patient age",
+            "D) Equipment type"
+          ],
+          "answer": 1,
+          "explanation_ar": "النتائج أظهرت أن وضعية فتح Vocal folds تؤثر بشكل كبير على قيمة BI، خاصة خلال حالات الانفتاح مقابل الإغلاق.",
+          "explanation_en": "Results showed that the position of Vocal fold opening significantly influences BI, especially during abducted versus adducted states."
+        },
+        {
+          "q_ar": "كيف يمكن أن تساهم هذه الدراسة في تحسين تقييم مرض ARVA؟",
+          "q_en": "How can this study contribute to improving ARVA assessment?",
+          "options_ar": [
+            "أ) تطوير علاج دوائي جديد",
+            "ب) توحيد معايير قياس BI مع مراعاة وضعية Vocal folds",
+            "ج) اكتشاف تقنية جراحة حديثة",
+            "د) تقليل الحاجة للفحوصات التصويرية"
+          ],
+          "options_en": [
+            "A) Develop new drug treatment",
+            "B) Standardize BI measurement considering vocal fold position",
+            "C) Discover new surgical technique",
+            "D) Reduce need for imaging studies"
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسة توضح ضرورة توحيد المعايير لمراعاة وضعية Vocal folds أثناء قياس BI لتحسين دقة التقييم والمتابعة.",
+          "explanation_en": "The study highlights the need to standardize BI measurement by including vocal fold position, enhancing evaluation accuracy."
+        },
+        {
+          "q_ar": "ما هو التصنيف العلمي للدراسة وفقًا لنظام تقييم الأدلة؟",
+          "q_en": "What is the scientific classification of the study according to evidence level?",
+          "options_ar": [
+            "أ) دراسة عشوائية محكمة (RCT)",
+            "ب) دراسة مستقبلية (Prospective cohort)",
+            "ج) تحليل تلوي لنظام معين",
+            "د) تقرير حالة واحد"
+          ],
+          "options_en": [
+            "A) Randomized controlled trial (RCT)",
+            "B) Prospective cohort",
+            "C) Meta-analysis",
+            "D) Single case report"
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسة تتبع تصميم Prospective cohort، مما يدل على مستوى جيد من الأدلة.",
+          "explanation_en": "The study is a prospective cohort, indicating a good level of evidence."
+        }
+      ]
+    },
+    {
+      "pmid": "42400282",
+      "title_ar": "Endoscopic Transcaruncular Approach for Early Anterior Ethmoidal Artery Cauterization in Large Olfactory Groove Meningioma Surgery: Intraoperative Video.",
+      "title_en": "Endoscopic Transcaruncular Approach for Early Anterior Ethmoidal Artery Cauterization in Large Olfactory Groove Meningioma Surgery: Intraoperative Video.",
+      "journal": "The Journal of craniofacial surgery",
+      "pub_date": "2026-Jul-06",
+      "doi": "10.1097/SCS.0000000000013093",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42400282/",
+      "pdf_url": "https://doi.org/10.1097/scs.0000000000013093",
+      "study_design": "Case series with n=1",
+      "summary_ar": "هذه الدراسة تقدم تقنية جديدة للقيام بعملية استئصال ورم meningioma كبير في olfactory groove باستخدام الـ endoscope عبر access transcaruncular، حيث تم تنفيذ cauterization المبكر لشرايين AEA/PEA قبل الجراحة الأساسية، مما أدى إلى تقليل النزيف أثناء العملية. التقنية تعتمد على استخدام approach minimally invasive، وتُعد واحدة من الطرق المستحدثة لتحسين نتائج المرضى. أظهرت نتائج التصوير والفحوصات بعد العلاج أن العلاج آمن وفعال ولم يظهر أي تكرار في المتابعة لمدة سنتين. الدراسة تؤكد أن هذه الطريقة يمكن أن تكون إضافة مهمة لعلاج الأورام الكبيرة في المنطقة، وتُسهل إجراء الجراحة بشكل أكثر أمانا وفعالية.",
+      "summary_en": "This study presents a new technique for resecting large olfactory groove meningioma using an endoscopic transcaruncular approach, enabling early cauterization of bilateral ethmoidal arteries before craniotomy. This staged hybrid strategy significantly reduced intraoperative hemorrhage and facilitated near-total tumor resection. The approach is minimally invasive and safe, with no recurrence observed at 2-year follow-up. The findings suggest that this method could enhance surgical management of large skull-base tumors. The article introduces an innovative application of endoscopy in skull-base surgery that may influence future practices.",
+      "practice_change_ar": "يمكن أن تغيّر هذه التقنية الجديدة طريقة إدارة جراحة الأورام الكبيرة في المنطقة القاعدة الجمجمية باستخدام approach أقل تدخلاً وأكثر أمانًا.",
+      "practice_change_en": "This new technique has the potential to change the management of large skull-base tumors with a less invasive and safer approach.",
+      "future_impact_ar": "قد يؤدي استخدام التقنية إلى تحسين نتائج المرضى وتقليل المضاعفات، مع توسيع تطبيقاتها في جراحات المنطقة القاعدة الجمجمية.",
+      "future_impact_en": "The technique could improve patient outcomes and reduce complications, expanding its applications in skull-base surgery.",
+      "why_important_ar": "هذه الدراسة مهمة لأنها تقدم تقنية مبتكرة لتحسين سلامة وفعالية جراحة الأورام الكبيرة في المنطقة القاعدة، مما يضيف أدوات جديدة للجراحين.",
+      "why_important_en": "This study is significant as it introduces an innovative technique to improve safety and efficacy in large skull-base tumor surgeries, adding new tools for surgeons.",
+      "vs_previous_ar": "تختلف عن الأساليب التقليدية لأنها تستخدم approach minimally invasive وتسمح بالكشف المبكر والسيطرة على الأوعية الدموية الرئيسية قبل الجراحة الكبرى.",
+      "vs_previous_en": "It differs from conventional methods by employing a minimally invasive approach that allows early identification and control of key blood vessels before major surgery.",
+      "stars": 4,
+      "stars_reason_ar": "تصميم دراسة case series مع تنفيذ تقنية جديدة، مما يمنح تقييمًا عمليًا جيدًا مع بعض القيود من طبيعة الدراسة المحدودة، أدى إلى تقييم 4 نجوم.",
+      "stars_reason_en": "A case series study implementing a new technique provides a good practical assessment, resulting in 4 stars due to limitations inherent to small sample size.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": null,
+      "watch": true,
+      "watch_detail_ar": "متابعة تطور تقنية endoscopic في جراحة المنطقة القاعدة عبر أدوات وتقنيات جديدة، لأنها قد تؤدي إلى تحسين نتائج العمليات على المدى الطويل.",
+      "watch_detail_en": "Monitoring developments in endoscopic techniques for skull-base surgery, as they may improve long-term surgical outcomes.",
+      "watch_type": "device",
+      "research_gap_ar": "حاجة لتقييم أدق للنتائج على مدى أطول وتوسيع الدراسة على عدد أكبر من الحالات للمصادقة على النتائج.",
+      "research_gap_en": "Need for longer-term outcome assessments and larger studies to validate the results.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "تقدم هذه الدراسة تقنية مبتكرة تستخدم الـ endoscope عبر approach transcaruncular لعلاج large olfactory groove meningioma، حيث تم تنفيذ cauterization المبكر لشرايين AEA/PEA قبل الجراحة الأساسية. هذا الاستراتيجية المراحلية ساعدت في تقليل النزيف خلال العملية وأدت إلى استئصال أسرع وأكثر أمانا. التقنية تعتمد على استخدام أدوات حديثة وتقنيات minimally invasive، وتعد إضافة مهمة في مجال جراحة الأورام في المنطقة القاعدة. نتائج الدراسة أظهرت أن هذا الأسلوب آمن وفعال، مع عدم تكرار الورم خلال المتابعة لمدة سنتين، مما يعزز مكانة هذه الطريقة في الممارسات الجراحية المستقبلية.",
+      "audio_script_en": "This study introduces an innovative approach using an endoscope via transcaruncular access for large olfactory groove meningioma. Early cauterization of the anterior ethmoidal arteries before craniotomy helped reduce intraoperative bleeding and facilitated near-total tumor removal. This staged hybrid technique relies on advanced tools and minimally invasive principles, representing a significant advancement in skull-base surgery. The study results show that this method is safe and effective, with no recurrence at 2-year follow-up, potentially transforming future surgical practices.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف الرئيسي من التقنية المستخدمة في الدراسة لعلاج olfactory groove meningioma الكبير؟",
+          "q_en": "What is the primary goal of the technique used in the study for treating large olfactory groove meningioma?",
+          "options_ar": [
+            "أ) تقليل الوقت الجراحي",
+            "ب) تقليل النزيف أثناء العملية",
+            "ج) تحسين تصور المنطقة القاعدة",
+            "د) تقليل تكلفة العلاج"
+          ],
+          "options_en": [
+            "A) Reduce surgical time",
+            "B) Minimize intraoperative bleeding",
+            "C) Improve visualization of the skull-base area",
+            "D) Reduce treatment cost"
+          ],
+          "answer": 1,
+          "explanation_ar": "الهدف الرئيسي هو تقليل النزيف أثناء العملية من خلال cauterization المبكر للأوعية الدموية الرئيسية قبل الجراحة، مما يسهل العملية ويساعد في الحفاظ على الأنسجة الحيوية.",
+          "explanation_en": "The main goal is to reduce intraoperative bleeding through early cauterization of major blood vessels before surgery, facilitating the procedure and preserving vital tissues."
+        },
+        {
+          "q_ar": "ما هو الميزة الرئيسية لهذه التقنية الجديدة مقارنة بالتقنيات التقليدية؟",
+          "q_en": "What is the main advantage of this new technique compared to traditional methods?",
+          "options_ar": [
+            "أ) أقل تدخلية وأمان أكبر",
+            "ب) تكلفة أقل",
+            "ج) يمكن إجراؤها بدون تخدير",
+            "د) نتائج أسرع خارج المختبر"
+          ],
+          "options_en": [
+            "A) Less invasive and safer",
+            "B) Lower cost",
+            "C) Can be performed without anesthesia",
+            "D) Faster results outside the lab"
+          ],
+          "answer": 0,
+          "explanation_ar": "التقنية تعتبر أقل تدخلاً وأمانة أكبر لأنها تستخدم approach endoscopic وتسمح بالتسيطر المبكر على الأوعية الدموية الكبيرة، مما يقلل من المضاعفات ويزيد الأمان.",
+          "explanation_en": "The approach is less invasive and safer because it employs endoscopic access allowing early control of major blood vessels, reducing complications and increasing safety."
+        },
+        {
+          "q_ar": "ما الذي يُقترح أن يكون ذات أهمية مستقبلية لهذه التقنية؟",
+          "q_en": "What is the suggested future significance of this technique?",
+          "options_ar": [
+            "أ) توسيع تطبيقاتها الجراحية في أورام المنطقة القاعدة",
+            "ب) استبعادها من الممارسات الحالية",
+            "ج) استخدامها فقط للأورام الصغيرة",
+            "د) تطوير دواء جديد"
+          ],
+          "options_en": [
+            "A) Expand its surgical applications in skull-base tumors",
+            "B) Exclude it from current practices",
+            "C) Use only for small tumors",
+            "D) Develop a new drug"
+          ],
+          "answer": 0,
+          "explanation_ar": "النتائج الإيجابية تشير إلى أن التقنية يمكن توسيع استخدامها لعلاج أورام أكثر حجماً وتحدياً في المنطقة القاعدة، مما يحسن نتائج المرضى مستقبلًا.",
+          "explanation_en": "Positive outcomes suggest that this technique can be expanded to treat larger and more challenging skull-base tumors, improving future patient results."
+        }
+      ]
+    },
+    {
+      "pmid": "42399178",
+      "title_ar": "Correlation Between Age, Gender, and Self-Perceived Voice Handicap in Lebanese Patients With Hoarseness.",
+      "title_en": "Correlation Between Age, Gender, and Self-Perceived Voice Handicap in Lebanese Patients With Hoarseness.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Jul-04",
+      "doi": "10.1016/j.jvoice.2026.04.052",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42399178/",
+      "pdf_url": null,
+      "study_design": "Retrospective case series n=177",
+      "summary_ar": "تمت دراسة العلاقة بين العمر والجنس ودرجة الإعاقة الصوتية الذاتية باستخدام Voice Handicap Index-10 (VHI-10) في مجموعة مرضى لبنانيين يعانون من hoarseness. شملت الدراسة سجلات 177 مريضًا من مركز متخصص، مع متابعة نتائج الفحوصات والتشخيصات المختلفة. أظهرت النتائج عدم وجود علاقة ذات دلالة إحصائية بين العمر والجنس ودرجات الإعاقة الصوتية، وفقًا لتحليل ال linear regression. الدراسة تؤكد أن العوامل الديموغرافية لا تؤثر بشكل كبير على perceived impact من hoarseness في هذه المجموعة. تعتبر نتائج الدراسة مهمة لتعزيز فهم عوامل التأثير على جودة حياة المرضى المصابين باضطرابات الصوت. لا تغير النتائج الحالية من ممارسات العلاج الروتينية وتوفر تأكيدات على أن عوامل مثل العمر والجنس ليست مراجع رئيسية.",
+      "summary_en": "This study investigated the correlation between age, gender, and self-perceived voice handicap measured by VHI-10 among Lebanese patients with hoarseness. The retrospective analysis included 177 patients from a tertiary referral center, with no significant differences found in VHI-10 scores based on age or gender. Linear regression showed weak, non-significant associations. The findings suggest demographic factors do not significantly impact perceived voice handicap in this cohort. The study adds evidence that age and gender are not primary determinants of voice-related quality of life in these patients. These results help clarify factors influencing patients' perception of voice disorder impact but do not alter current management strategies.",
+      "practice_change_ar": "لا يوجد تغيير في الممارسات السريرية الحالية بناءً على النتائج، حيث تؤكد أن العمر والجنس لا يؤثران بشكل كبير على perceived impact من hoarseness.",
+      "practice_change_en": "There is no change in current clinical practice as the study confirms age and gender do not significantly influence perceived voice handicap.",
+      "future_impact_ar": "قد تساعد النتائج في توجيه الدراسات المستقبلية لفهم العوامل الأخرى التي تؤثر على جودة حياة المرضى المصابين باضطرابات الصوت.",
+      "future_impact_en": "The findings may guide future research to explore other factors affecting voice-related quality of life in patients with hoarseness.",
+      "why_important_ar": "توضح الدراسة أن العوامل الديموغرافية مثل العمر والجنس ليست مهمة بشكل كبير في تقييم تأثير اضطراب الصوت على جودة حياة المرضى، مما يعزز فهمنا للعوامل المؤثرة على perceived impact.",
+      "why_important_en": "The study highlights that demographic factors like age and gender are not major determinants of perceived voice handicap, aiding clinicians in focusing on more relevant factors.",
+      "vs_previous_ar": "تختلف عن الدراسات السابقة التي قد أشارت إلى وجود علاقة بين العمر والجنس مع اضطرابات الصوت، حيث أوضحت هذه الدراسة عدم وجود علاقة ذات دلالة إحصائية.",
+      "vs_previous_en": "Contrary to prior research suggesting links between age, gender, and voice disorder impact, this study found no significant associations, highlighting variability across populations.",
+      "stars": 3,
+      "stars_reason_ar": "تصميم الدراسة كملخص للبيانات السابقة مع تحليل regressions وتأكيد عدم وجود علاقة، يعطي تقييم متوسط، مع أخطاء محتملة بسبب طبيعة الدراسة الرجعية وعدد العينة المحدود.",
+      "stars_reason_en": "As a retrospective analysis confirming no significant correlations, the study provides moderate evidence with some limitations due to sample size and design.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "بحاجة إلى دراسات مستقبلية لتحديد العوامل الأخرى التي تؤثر على perceived impact من اضطرابات الصوت.",
+      "research_gap_en": "Future research is needed to identify other factors influencing the perceived impact of voice disorders.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تقدم هذه الدراسة تحليلًا للعلاقة بين العمر والجنس وتأثير اضطراب الصوت على جودة حياة المرضى، حيث لم تظهر نتائج الدراسة وجود علاقة ذات دلالة إحصائية بين هذه العوامل. الدراسة اعتمدت على تقييم VHI-10 لقياس perceived impact من hoarseness، مع تحليل regressions لدروس العلاقة. تفيد النتائج بأن العوامل الديموغرافية ليست مؤثرة بشكل كبير، مما يقلل من الحاجة لتخصيص العلاجات بناءً على هذه المعايير فقط. رغم ذلك، فإن الحاجة لمزيد من الدراسات لفهم العوامل الأخرى التي تؤثر على جودة حياة المرضى قائمة.",
+      "audio_script_en": "This study examined the relationship between age, gender, and perceived impact of hoarseness on quality of life using VHI-10 in a Lebanese cohort. Results showed no significant differences based on age or gender, with weak, non-significant associations in regression analysis. The findings suggest demographic factors do not considerably influence perceived voice handicap in this group. This reinforces that treatment approaches should consider other factors beyond age and gender. Future research should explore additional variables that affect the impact of voice disorders on patients' lives for better targeted interventions.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الاستنتاج الرئيسي للدراسة فيما يتعلق بعلاقة العمر والجنس مع perceived impact من hoarseness؟",
+          "q_en": "What is the main conclusion of the study regarding the relationship between age, gender, and perceived impact of hoarseness?",
+          "options_ar": [
+            "أ) هناك علاقة قوية بين العمر والجنس وتأثيره على الصوت",
+            "ب) لا توجد علاقة ذات دلالة إحصائية بين العمر والجنس وتأثيرها على الصوت",
+            "ج) العمر مهم ولكن الجنس ليس مهمًا",
+            "د) الجنس يؤثر بشكل كبير على perceived impact"
+          ],
+          "options_en": [
+            "A) There is a strong relationship between age, gender, and voice impact",
+            "B) There is no statistically significant relationship between age, gender, and voice impact",
+            "C) Age is important but gender is not",
+            "D) Gender significantly affects perceived impact"
+          ],
+          "answer": 1,
+          "explanation_ar": "النتائج أظهرت عدم وجود علاقة ذات دلالة إحصائية بين المتغيرين، استنادًا إلى تحليل regressions، مما يدعم الإجابة الصحيحة.",
+          "explanation_en": "Results showed no significant relationship between age, gender, and voice impact based on regression analysis, supporting the correct answer."
+        },
+        {
+          "q_ar": "هل الدراسة تدعم تغييرات في الممارسات السريرية الحالية؟",
+          "q_en": "Does the study support changes in current clinical practices?",
+          "options_ar": [
+            "أ) نعم، لتخصيص العلاج بناءً على العمر والجنس",
+            "ب) لا، النتائج تؤكد أن العمر والجنس لا يؤثران بشكل كبير على perceived impact",
+            "ج) نعم، لتغيير استراتيجيات العلاج النفسية",
+            "د) لا، لأنه لا توجد نتائج واضحة"
+          ],
+          "options_en": [
+            "A) Yes, to tailor treatment based on age and gender",
+            "B) No, results confirm age and gender do not significantly influence perceived impact",
+            "C) Yes, to change psychological treatment strategies",
+            "D) No, as there were no clear results"
+          ],
+          "answer": 1,
+          "explanation_ar": "النتائج تثبت أن العمر والجنس ليسا عوامل مهمة في تحديد perceived impact، لذا لا حاجة لتغيير الممارسات الحالية.",
+          "explanation_en": "Findings confirm that age and gender are not key factors, thus no need to change current practices."
+        },
+        {
+          "q_ar": "ما هو المجال الفرعي الموصى به لهذه الدراسة؟",
+          "q_en": "What is the recommended subspecialty for this study?",
+          "options_ar": [
+            "أ) rhinology",
+            "ب) otology",
+            "ج) laryngology",
+            "د) sleep medicine"
+          ],
+          "options_en": [
+            "A) rhinology",
+            "B) otology",
+            "C) laryngology",
+            "D) sleep medicine"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة تتعلق بالاضطرابات في حبال الصوت وتأثيرها على جودة الحياة، مما يجعل تخصص laryngology هو الأنسب.",
+          "explanation_en": "The study focuses on voice disorders and their impact, fitting the laryngology subspecialty."
+        }
+      ]
+    },
+    {
+      "pmid": "42401512",
+      "title_ar": "Physiological Validation of Glottal Airflow Estimation Using Neck-Surface Accelerometry: A Comparison With Electroglottographic Measures.",
+      "title_en": "Physiological Validation of Glottal Airflow Estimation Using Neck-Surface Accelerometry: A Comparison With Electroglottographic Measures.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Jul-04",
+      "doi": "10.1016/j.jvoice.2026.05.009",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42401512/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort",
+      "summary_ar": "هذه الدراسة تقييم مدى فعالية ACC في قياس ديناميات collision في vocal fold من خلال مقارنة مقاييسه مع EGG عبر أنواع مختلفة من phonation في مجموعة سليمة من البالغين. أظهرت النتائج أن ACC يمتلك علاقة قوية مع مقاييس contact quotient و open quotient المستنتجة من EGG، كما أظهر قدرته على تمثيل الحركات الميكانيكية لcollision بشكل أدق من الإشارات الصوتية التقليدية. هذا يعزز مكانة ACC كأداة أساسية في تطبيقات تقييم الصوت المحمولة، مع إمكانيات لمراقبة الحمل الميكانيكي في العناية اليومية بالصوت.",
+      "summary_en": "This study evaluates the effectiveness of neck-surface accelerometry (ACC) in measuring glottal collision dynamics by comparing its metrics with Electroglottography (EGG) across various phonation types in healthy adults. Results showed strong correlations between ACC-derived contact quotient and H1-H2 measures with EGG contact measures, indicating that ACC can faithfully reflect mechanical energy of vocal fold collision. It demonstrated higher predictive power and closer representation of collision dynamics than traditional acoustic signals. The findings support ACC as a foundational tool for wearable voice assessment systems and monitoring mechanical load during daily voice use.",
+      "practice_change_ar": "استخدام ACC كأداة موثوقة لمراقبة ديناميات collision في تقييمات الصوت المحمولة داخل العيادة وخارجها.",
+      "practice_change_en": "Implementing ACC as a reliable tool for monitoring collision dynamics in portable voice assessments in clinic and ambulatory settings.",
+      "future_impact_ar": "قد يؤدي ذلك إلى تطوير أنظمة تقييم صوتية أكثر دقة وملاءمة لمراقبة الحمل الميكانيكي على مستوى اليومي.",
+      "future_impact_en": "This could lead to the development of more accurate and practical voice assessment systems for daily mechanical load monitoring.",
+      "why_important_ar": "تُظهر الدراسة أن ACC يوفر قياسًا أكثر دقة لcollision الحنجري، مما يعزز قدرته في تقييم الحالة الوظيفية للـ vocal folds بشكل غير جراحي ومستمر.",
+      "why_important_en": "The study demonstrates that ACC provides a more accurate measurement of glottal collision, enhancing its potential for non-invasive, continuous evaluation of vocal fold function.",
+      "vs_previous_ar": "يختلف عن الطرق التقليدية التي تعتمد على الإشارات الصوتية فقط، ويقدم مراقبة مباشرة لمكونات الميكانيكية لcollision باستخدام ACC.",
+      "vs_previous_en": "It differs from traditional acoustic methods by offering direct monitoring of biomechanical collision components with ACC.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة Prospective cohort ذات تصميم موثوق من مجلة عالية التصنيف، أظهرت نتائج قوية حول قدرة ACC على قياس collision، مع علاقة عالية مع معايير EGG، مما يجعلها إضافة قيمة للممارسات السريرية.",
+      "stars_reason_en": "A prospective cohort study from a high-tier journal demonstrated strong results concerning ACC's capacity to measure collision, showing high correlation with EGG measures, making it a valuable addition to clinical practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مجلة مرموقة ذات تصنيف عالٍ تقدم نتائج تدعم استخدام تقنية جديدة لمراقبة ديناميات collision عبر ACC.",
+      "jc_reason_en": "A high-impact journal providing evidence supporting the use of new technology for monitoring collision dynamics via ACC.",
+      "watch": true,
+      "watch_detail_ar": "متابعة تطورات استخدام ACC في تقييمات الصوت المحمولة وتطوير أنظمة تقييم غير جراحية أكثر دقة.",
+      "watch_detail_en": "Monitoring advancements in the application of ACC for portable voice assessment and the development of more accurate, non-invasive evaluation systems.",
+      "watch_type": "device",
+      "research_gap_ar": "حاجة لمزيد من الدراسات لتأكيد فاعلية ACC عبر مجموعات مرضية متنوعة وبيئات مختلفة.",
+      "research_gap_en": "Need for further research to confirm the effectiveness of ACC across diverse patient populations and settings.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "هذه الدراسة تقيم مصداقية ACC، وهو نوع من accelerometer يوضع على العنق، في قياس collision في vocal folds، بالمقارنة مع EGG الذي يقيس contact بين الأوتار الصوتية. أجرى الباحثون قياسات من تسعة أشخاص أصحاء أثناء نطق مئات الأصوات المختلفة، ووجدوا أن مقاييس ACC كانت مرتبطة بشكل قوي مع مقاييس EGG، خاصة في قياسات contact quotient و open quotient. هذا يوضح أن ACC يمكن أن يكون أداة مهمة لتقييم وظائف الحنجرة بشكل غير جراحي ومتواصل، مما يساعد على تحسين إدارة الأمراض الصوتية ومراقبة الحمل الميكانيكي على مستوى اليومي.",
+      "audio_script_en": "This study evaluates the validity of neck-surface accelerometry, or ACC, in measuring collision forces in the vocal folds by comparing it with electroglottography, EGG. The study involved nine healthy adults performing various phonations while collecting synchronized ACC, MIC, and EGG signals. Results showed that ACC-derived measures correlated strongly with EGG contact measures, especially contact quotient and open quotient, indicating ACC's ability to faithfully reflect collision dynamics. This supports ACC as a promising non-invasive tool for continuous voice monitoring and assessment, potentially improving diagnosis and management of voice disorders.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف الرئيسي من الدراسة حول ACC و EGG؟",
+          "q_en": "What is the main objective of the study comparing ACC and EGG?",
+          "options_ar": [
+            "أ) تقييم فعالية ACC في قياس collision في vocal folds",
+            "ب) اختبار طريقة جديدة للعلاج الصوتي",
+            "ج) دراسة تأثير الــ breathy phonation على vocal folds",
+            "د) تحليل دور MIC في تقييم الحبال الصوتية"
+          ],
+          "options_en": [
+            "A) To evaluate the effectiveness of ACC in measuring collision in vocal folds",
+            "B) To test a new voice therapy method",
+            "C) To study the effect of breathy phonation on vocal folds",
+            "D) To analyze the role of MIC in vocal fold assessment"
+          ],
+          "answer": 0,
+          "explanation_ar": "الهدف هو تقييم مدى قدرة ACC على تمثيل collision في الحبال الصوتية عبر مقارنته مع EGG، كما يتضح من نص الدراسة.",
+          "explanation_en": "The primary aim is to assess how well ACC reflects collision in vocal folds by comparing it with EGG, as detailed in the abstract."
+        },
+        {
+          "q_ar": "ما هو أحد الاستنتاجات الرئيسية للدراسة؟",
+          "q_en": "What is one of the main conclusions of the study?",
+          "options_ar": [
+            "أ) ACC يعتمد بشكل كبير على الإشارات الصوتية التقليدية",
+            "ب) ACC يثبت أنه يعكس بشكل موثوق ديناميات collision في vocal folds",
+            "ج) MIC يوفر قياسات أكثر دقة من ACC",
+            "د) لا يوجد علاقة بين ACC و EGG"
+          ],
+          "options_en": [
+            "A) ACC heavily relies on traditional acoustic signals",
+            "B) ACC proves to reliably reflect collision dynamics in vocal folds",
+            "C) MIC provides more accurate measurements than ACC",
+            "D) No correlation exists between ACC and EGG"
+          ],
+          "answer": 1,
+          "explanation_ar": "النتائج أظهرت أن ACC يعكس بشكل موثوق ديناميات collision، ويُظهر علاقات قوية مع مقاييس EGG.",
+          "explanation_en": "Results indicated that ACC reliably reflects collision dynamics and shows strong correlations with EGG measures."
+        },
+        {
+          "q_ar": "ما هو التصنيف المحتمل للخطوة السريرية المبنية على الدراسة؟",
+          "q_en": "What is the potential clinical implementation based on this study?",
+          "options_ar": [
+            "أ) إدخال ACC كأداة قياس قياسية في تقييمات الصوت",
+            "ب) استخدام EGG بشكل حصري في قياس collision",
+            "ج) استبدال MIC بـ ACC في جميع الحالات",
+            "د) توقف البحث في مجال تقييم الصوت"
+          ],
+          "options_en": [
+            "A) Integrate ACC as a standard measurement tool in voice assessment",
+            "B) Use EGG exclusively for collision measurement",
+            "C) Replace MIC with ACC in all cases",
+            "D) Cease research in voice evaluation"
+          ],
+          "answer": 0,
+          "explanation_ar": "بناءً على النتائج، يُحتمل أن يدمج ACC في أدوات التقييم الصوتي الروتينية لتحسين تشخيص حالات vocal fold.",
+          "explanation_en": "Given its reliability, ACC could be integrated into routine voice assessment tools to enhance diagnostics."
+        }
+      ]
+    },
+    {
+      "pmid": "42401695",
+      "title_ar": "Prediction of difficult airways in elderly patients using bedside ultrasound: a prospective single-blind observational study.",
+      "title_en": "Prediction of difficult airways in elderly patients using bedside ultrasound: a prospective single-blind observational study.",
+      "journal": "Scientific reports",
+      "pub_date": "2026-Jul-04",
+      "doi": "10.1038/s41598-026-60872-5",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42401695/",
+      "pdf_url": "https://doi.org/10.1038/s41598-026-60872-5",
+      "study_design": "Prospective cohort",
+      "summary_ar": "درãıã البحث في قدرة ultrasound في التنبؤ بوجود difficult airway لدى كبار السن المقرر لهم عملية جراحية تحت general anaesthesia with endotracheal intubation. تم جمع البيانات قبل anesthesia، بما يشمل تقييمات airway التقليدية وpredictors باستخدام ultrasound مثل mandibular condylar translation distance (MCTD)، tongue thickness (TT)، وhyomental distance ratio (HMDR). أظهرت النتائج أن MCTD كان الأقوى في التنبؤ بصعوبة laryngoscopy و intubation، مع AUC تصل إلى 0.89 و 0.91 على التوالي. النموذج المجمّع الذي يدمج ultrasound والمعايير السريرية أظهر قدرة ممتازة في التنبؤ بصعوبة airway، مع AUC من 0.944 بعد التصحيح. الدراسة تشير إلى أن قياسات ultrasound يمكن أن تكون أداة مهمة لتقييم Risk Difficulty airway عند كبار السن، مما يسهل الاستعداد وتحسين نتائج الإجراءات التنفسية في هذه الفئة.",
+      "summary_en": "This study prospectively evaluated ultrasound predictors for difficult airway management in elderly patients undergoing elective surgery with general anesthesia. The main ultrasound measurement, mandibular condylar translation distance (MCTD), demonstrated high predictive accuracy for difficult laryngoscopy and intubation. A combined model including ultrasound and clinical parameters showed excellent discrimination with an AUC of 0.944. MCTD was identified as the strongest individual predictor, emphasizing its potential utility in preoperative airway assessment. The findings support incorporating ultrasound into routine evaluation to enhance airway management practices in the elderly.",
+      "practice_change_ar": "يمكن للأطباء الاعتماد على قياسات ultrasound، خاصة mandibular condylar translation distance، لتقييم خطر difficulties airway قبل الجراحة عند كبار السن.",
+      "practice_change_en": "Clinicians should incorporate ultrasound measurements, particularly mandibular condylar translation distance, into preoperative airway evaluation for elderly patients.",
+      "future_impact_ar": "قد يؤدي استخدام ultrasound إلى تحسين دقة توقع difficulties airway وتقليل مضاعفات التنبيب عند كبار السن.",
+      "future_impact_en": "The integration of ultrasound into airway assessment may enhance prediction accuracy and reduce airway management complications in the elderly.",
+      "why_important_ar": "هذه الدراسة مهمة لأنها تقدم أدلة قوية على أن ultrasound يمكن أن يكون أداة قيمة لتقييم airway الصعب، مما يحسن من عمليات التخدير والنتائج السريرية عند كبار السن.",
+      "why_important_en": "This study provides valuable evidence that ultrasound can serve as an effective tool for predicting difficult airway, improving anesthesia management in elderly patients.",
+      "vs_previous_ar": "تختلف عن الأبحاث السابقة لأنها تدمج بين predictors ultrasound والمعايير السريرية في نموذج موحد يوفر تقييمًا فرديًا للمخاطر.",
+      "vs_previous_en": "Unlike prior studies, it combines ultrasound predictors with clinical parameters into a unified model for individualized risk assessment.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة prospective cohort عالية الجودة، مع تقييم شامل لمتغيرات ultrasound وشفافية النتائج. نتائجها ذات أهمية سريرية عالية، مما يمنحها 4 نجوم.",
+      "stars_reason_en": "A high-quality prospective cohort study with comprehensive ultrasound variable analysis and clinical relevance justifies a 4-star rating.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": null,
+      "watch": true,
+      "watch_detail_ar": "مراقبة التطورات في تقنية bedside ultrasound وتوسع استخدامها في تقييم airway عند كبار السن.",
+      "watch_detail_en": "Monitor advancements in bedside ultrasound technology and its expanding application in airway assessment for the elderly.",
+      "watch_type": "device",
+      "research_gap_ar": "مطلوب دراسات إضافية لتقييم تطبيقات تقنية ultrasound في مواقف سريرية متنوعة وذات نطاق أوسع.",
+      "research_gap_en": "Further studies are needed to evaluate the application of ultrasound in diverse and broader clinical settings.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "هذا المقال يسلط الضوء على أهمية استخدام ultrasound عند تقييم Difficulty airway لدى كبار السن. الدراسة كانت prospective، وركزت على قياسات مثل mandibular condylar translation distance، والتي أظهرت قدرة عالية على التنبؤ بصعوبة laryngoscopy و intubation. تم تطوير نموذج يجمع بين البيانات السريرية و ultrasound، وأظهر نتائج ممتازة في التوقع الدقيق. هذا يعنى أن أطباء التخدير يمكنهم استخدام ultrasound كجزء من التقييم الروتيني، مما يساهم في تقليل المضاعفات وتحسين نتائج المرضى. نتائج الدراسة تقدم خطوة مهمة نحو إدخال أدوات تقييم غير غازية ودقيقة في الممارسة السريرية اليومية.",
+      "audio_script_en": "This article highlights the importance of using ultrasound in evaluating airway difficulty in elderly patients. The prospective study focused on measurements like mandibular condylar translation distance, which demonstrated high predictive ability for difficult laryngoscopy and intubation. A combined model integrating clinical data with ultrasound showed excellent results in risk prediction. This suggests that anesthesiologists can incorporate ultrasound into routine airway assessment, potentially reducing complications and improving patient outcomes. The findings represent a significant step toward integrating non-invasive, accurate tools into daily clinical practice.",
+      "mcq": [
+        {
+          "q_ar": "ما هوالمقياس ultrasound الذي أظهر أعلى قدرة تنبئية ل difficulty airway عند المرضى كبار السن في الدراسة؟",
+          "q_en": "Which ultrasound measure demonstrated the highest predictive ability for difficult airway in elderly patients in the study?",
+          "options_ar": [
+            "أ) Tongue Thickness (TT)",
+            "ب) Hyomental Distance Ratio (HMDR)",
+            "ج) Mandibular Condylar Translation Distance (MCTD)",
+            "د) Tongue Volume (TV)"
+          ],
+          "options_en": [
+            "A) Tongue Thickness (TT)",
+            "B) Hyomental Distance Ratio (HMDR)",
+            "C) Mandibular Condylar Translation Distance (MCTD)",
+            "D) Tongue Volume (TV)"
+          ],
+          "answer": 2,
+          "explanation_ar": "MCTD أظهر أعلى AUC، مما يدل على قدرته التنبئية الأكبر مقارنة بالمقاييس الأخرى.",
+          "explanation_en": "MCTD showed the highest AUC, indicating its superior predictive ability among the measures."
+        },
+        {
+          "q_ar": "ما هو الفائدة الأساسية من النموذج المجمّع في الدراسة؟",
+          "q_en": "What is the main benefit of the combined model in the study?",
+          "options_ar": [
+            "أ) تقليل وقت التقييم",
+            "ب) تحسين التنبؤ بـ difficult airway",
+            "ج) تقليل الحاجة للتصوير الشعاعي",
+            "د) تقليل التكاليف"
+          ],
+          "options_en": [
+            "A) Reduce assessment time",
+            "B) Improve prediction of difficult airway",
+            "C) Reduce need for radiography",
+            "D) Lower costs"
+          ],
+          "answer": 1,
+          "explanation_ar": "النموذج المجمّع يدمج البيانات السريرية و ultrasound لتحسين دقة التنبؤ، وهو الهدف الرئيسي من الدراسة.",
+          "explanation_en": "The combined model integrates clinical and ultrasound data to enhance prediction accuracy, which is the main goal of the study."
+        },
+        {
+          "q_ar": "ما هو التصور المعتقد لما بعد تطبيق الدراسة في الممارسة السريرية؟",
+          "q_en": "What is the anticipated clinical implication of applying this study's findings?",
+          "options_ar": [
+            "أ) زيادة استخدام الطرق غازية",
+            "ب) تحسين تقييم مخاطر airway قبل الجراحة",
+            "ج) تقليل الحاجة إلى التدريب السريري",
+            "د) تقليل عدد عمليات التهوية"
+          ],
+          "options_en": [
+            "A) Increased use of invasive methods",
+            "B) Improved preoperative airway risk assessment",
+            "C) Reduce need for clinical training",
+            "D) Decrease ventilation procedures"
+          ],
+          "answer": 1,
+          "explanation_en": "تطبيق قياسات ultrasound يمكن أن يُحسن تقييم خطر airway قبل العمليات، مما يحسن إدارة المخاطر.",
+          "explanation_ar": "Using ultrasound measurements can improve preoperative airway risk assessment, enhancing risk management."
+        }
+      ]
+    },
+    {
+      "pmid": "42402500",
+      "title_ar": "Laryngotracheal blunt and penetrating traumas: proposal of a novel scoring system and management algorithm.",
+      "title_en": "Laryngotracheal blunt and penetrating traumas: proposal of a novel scoring system and management algorithm.",
+      "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+      "pub_date": "2026-Jul-05",
+      "doi": "10.1007/s00405-026-10386-7",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42402500/",
+      "pdf_url": null,
+      "study_design": "Retrospective case series n=149",
+      "summary_ar": "هذه الدراسة تستعرض تقييم إصابات LTT (lauryngotracheal traumas) الناتجة عن ضربات مباشرة و penetrating injuries، باستخدام نظام تقييم جديد يعتمد على 6 ميزات سريرية وتقييم الحاجة للجراحة بناءً على نقطة حد. تحليل بيانات من 149 مريضًا يوضح توافق النظام المقترح مع تصنيفات سابقة، ويهدف إلى تحسين اتخاذ القرارات السريرية في الحالات الطارئة. الدراسة تعتمد على مراجعة سابقة للمستشفى، مع نتائج تدعم إمكانية استخدام النظام كنموذج مبدئي للتقييم. مع تحديد أن الحد الأدنى للعلاج الجراحي يبدأ عند نقاط ≥4، توفر الدراسة أداة مرجعية محسنة للتقييم الأولي. الحاجة لمزيد من الدراسات متعددة المراكز تؤكد أهمية النتائج ودعم تطبيق النظام المقترح لاحقًا.",
+      "summary_en": "This study introduces a new scoring system for assessing laryngotracheal traumas (LTT), including blunt and penetrating injuries, based on six clinical features. A retrospective analysis of 149 patients demonstrates the system's concordance with existing classifications like Schaefer-Fuhrman. The proposed score helps identify patients needing prompt surgical management with a cutoff of ≥4 points. The approach aims to improve initial assessment and decision-making in emergency settings. Findings suggest the scoring system offers a systematic framework, but further multicenter validation is necessary before widespread adoption.",
+      "practice_change_ar": "يصبح من الممكن استخدام النظام الجديد لتقييم إصابات LTT بسرعة ودقة لتحديد الحاجة للجراحة بشكل أسرع في مواقف الطوارئ.",
+      "practice_change_en": "Clinicians can now utilize the new scoring system for rapid and accurate assessment of LTT injuries to determine surgical need more efficiently in emergency settings.",
+      "future_impact_ar": "قد يسهم هذا النظام في تحسين نتائج المرضى من خلال تحديد المرضى المحتاجين للجراحة بسرعة أكبر، مع دعم الدراسات المستقبلية لتأكيد فاعليته على نطاق أوسع.",
+      "future_impact_en": "This system may improve patient outcomes by enabling faster surgical decision-making, with future multicenter studies confirming its broader clinical utility.",
+      "why_important_ar": "هذه المقالة مهمة لأنها تقدم أداة تقييم موحدة ومحوسبة لمساعدة الأطباء في تحديد الحاجة للجراحة بشكل أكثر دقة وسرعة، مما يحسن إدارة الإصابات الطارئة للحنجرة والمريء.",
+      "why_important_en": "This article is important as it offers a standardized, quantitative assessment tool for guiding clinicians in the urgent management of laryngotracheal injuries, potentially improving patient outcomes.",
+      "vs_previous_ar": "يختلف النظام المقترح عن تصنيفات سابقة مثل تصنيف Schaefer-Fuhrman لأنه يوفر تقييم عددي ومحدد يعتمد على ميزات سريرية محددة بدلاً من التصنيف اللفظي، ويوفر نقطة corte واضحة لبدء التدخل الجراحي.",
+      "vs_previous_en": "The proposed system differs from previous classifications like Schaefer-Fuhrman by providing a quantitative score based on specific clinical features instead of a descriptive classification, with a clear cutoff for surgical intervention.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استرجاعية من حجم معتدل مع تصميم نظام تقييم جديد له تطبيقات سريرية عملية، يوفر أدوات قياس موضوعية، ويقترب من تغيير الممارسة السريرية، لذلك حصلت على 4 نجوم.",
+      "stars_reason_en": "A retrospective study with a novel, clinically applicable scoring system that offers objective assessment tools and approaches practice change, earned 4 stars.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": null,
+      "watch": true,
+      "watch_detail_ar": "متابعة التطورات في نظم التقييم الآلية والأدوات المساعدة في تشخيص إصابات الحنجرة المهددة للحياة.",
+      "watch_detail_en": "Monitor advancements in automated assessment systems and decision support tools for life-threatening laryngotracheal injuries.",
+      "watch_type": "technology",
+      "research_gap_ar": "لا تزال الحاجة إلى دراسات مستقبلية متعددة المراكز للتحقق من صحة النظام المقترح وتطبيقه في بيئات طبية متنوعة.",
+      "research_gap_en": "Further multicenter validation studies are needed to confirm the effectiveness and generalizability of the proposed scoring system.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "هذه الدراسة تقدم نظام تقييم جديد لإصابات الحنجرة والمريء، يعتمد على ست ميزات سريرية لتحديد الحاجة للجراحة بسرعة ودقة. تحليل البيانات من 149 مريضًا أظهر توافقاً جيداً مع التصنيفات السابقة، مع تحديد نقطة حد ≥4 للعلاج الجراحي. النظام يقترح طريقة موضوعية لتقييم الحالة بسرعة في بيئة الطوارئ، وتحسين قرارات التدخل الجراحي. مع أن النتائج واعدة، إلا أن المزيد من الدراسات متعددة المراكز ضرورية لتأكيد فاعليته. استخدام هذا النظام يمكن أن يساهم في تحسين نتائج المرضى وتقليل المضاعفات المرتبطة بتأخير العلاج.",
+      "audio_script_en": "This study introduces a new scoring system for assessing laryngotracheal injuries, combining six clinical features to determine the need for surgical intervention. Analyzing 149 patients retrospectively, the system shows good concordance with traditional classifications like Schaefer-Fuhrman but offers a quantitative, objective approach. A cutoff score of 4 points helps identify patients requiring prompt surgery, facilitating faster decision-making in emergency settings. While promising, further multicenter validation is needed before widespread clinical adoption. Overall, this system could revolutionize the initial assessment and management of LTT injuries, improving patient outcomes.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف الرئيسي من النظام الجديد المقترح لتقييم إصابات LTT؟",
+          "q_en": "What is the primary purpose of the new scoring system for evaluating LTT injuries?",
+          "options_ar": [
+            "أ) تحسين التشخيص المخبري للتمزقات الحنجرية.",
+            "ب) تحديد الحاجة للجراحة بسرعة وبدقة.",
+            "ج) تقييم تأثير العلاج الطبي على الشفاء.",
+            "د) مقارنة بين تصنيفين مختلفين لإصابات الحنجرة."
+          ],
+          "options_en": [
+            "A) To improve laboratory diagnosis of laryngeal tears.",
+            "B) To quickly and accurately identify surgical need.",
+            "C) To assess the impact of medical treatment on recovery.",
+            "D) To compare two different classifications of laryngeal injuries."
+          ],
+          "answer": 1,
+          "explanation_ar": "الهدف الأساسي هو مساعدت الأطباء في تحديد الحاجة للجراحة بسرعـة ودقـة استنادًا إلى نظام تقييم موحد. الهدف ليس تحسين التشخيص المخبري أو تقييم العلاج الطبي، بل تحسين القرارات الجراحية في حالات الإصابات الحادة.",
+          "explanation_en": "The primary goal is to assist clinicians in quickly and accurately determining the need for surgery using a standardized assessment system. It is not intended to improve laboratory diagnosis or evaluate medical treatments but to enhance surgical decision-making in acute injuries."
+        },
+        {
+          "q_ar": "أي من الميزات التالية يُعطى نقطة إضافية في النظام المقترح؟",
+          "q_en": "Which of the following features is given an additional point in the proposed scoring system?",
+          "options_ar": [
+            "أ) Edema",
+            "ب) Fractures",
+            "ج) Penetrating trauma",
+            "د) Vocal fold mobility"
+          ],
+          "options_en": [
+            "A) Edema",
+            "B) Fractures",
+            "C) Penetrating trauma",
+            "D) Vocal fold mobility"
+          ],
+          "answer": 2,
+          "explanation_ar": "يُعطى نقطة إضافية لوجود penetrating trauma، لتسليط الضوء على خطورة الإصابات الناتجة عن الاختراق.",
+          "explanation_en": "Penetrating trauma is given an additional point to highlight the severity of such injuries."
+        },
+        {
+          "q_ar": "ما هو الحد الأدنى من النقاط الذي يشير إلى حاجة المريض للجراحة وفقاً للنظام المقترح؟",
+          "q_en": "What is the cutoff score indicating the need for surgical intervention according to the proposed system?",
+          "options_ar": [
+            "أ) ≥2",
+            "ب) ≥4",
+            "ج) ≥6",
+            "د) ≥8"
+          ],
+          "options_en": [
+            "A) ≥2",
+            "B) ≥4",
+            "C) ≥6",
+            "D) ≥8"
+          ],
+          "answer": 1,
+          "explanation_ar": "النقطة الحد الأدنى الموصى بها لاتخاذ قرار جراحي هو 4 أو أكثر لزيادة الدقة في التقييم الأولي.",
+          "explanation_en": "A score of 4 or more is the recommended cutoff to guide surgical decision-making, improving assessment accuracy."
+        }
+      ]
+    },
+    {
+      "pmid": "42401798",
+      "title_ar": "Age-related differences in the performance of the self-pressurising air-Q intubating laryngeal airway: a prospective comparative study.",
+      "title_en": "Age-related differences in the performance of the self-pressurising air-Q intubating laryngeal airway: a prospective comparative study.",
+      "journal": "BMC anesthesiology",
+      "pub_date": "2026-Jul-04",
+      "doi": "10.1186/s12871-026-04033-1",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42401798/",
+      "pdf_url": "https://doi.org/10.1186/s12871-026-04033-1",
+      "study_design": "Prospective controlled study",
+      "summary_ar": "تقييم الأداء السريري لـ air-Q SP، وهو جهاز airway supraglottic، عبر مجموعات عمرية مختلفة تتراوح بين 18 و85 سنة. أظهرت النتائج أن مجموعة الشباب كانت تتميز بـ OLP أعلى وسرعة وسهولة في الإدخال وأداء أفضل من مجموعات الوسط والشيخوخة، مع وجود علاقة سلبية بين العمر وقيم OLP. تم تحليل العوامل المرتبطة بـ OLP، مع ملاحظة أن BMI كان مرتبطًا بها. على الرغم من الفروقات في الأداء بين المجموعات، كان air-Q SP فعالًا لضمان التهوية الصحيحة في جميع المجموعات، مع بعض الاضطرابات المؤقتة بعد العملية.",
+      "summary_en": "This study evaluates the performance of the self-pressurized air-Q intubating Laryngeal Airway across different age groups. Results show younger patients had higher OLP, faster insertion, and better fiberoptic views, while older groups exhibited lower seal pressures. BMI was associated with OLP, and a negative correlation was found between age and OLP values. Despite differences, air-Q SP provided adequate ventilation in all groups, but transient early postoperative dysphagia and dysphonia were noted. The device remains a viable option across ages with some age-related performance variations.",
+      "practice_change_ar": "استخدام جهاز air-Q SP يمكن أن يكون فعالاً لضمان التهوية في المرضى من جميع الأعمار، مع ملاحظة الفروق في الأداء بين الفئات العمرية.",
+      "practice_change_en": "The use of the air-Q SP device can be effective for ensuring ventilation across all age groups, with noted performance differences among age brackets.",
+      "future_impact_ar": "قد يؤدي فهم الفروق ذات الصلة بالعمر في أداء جهاز air-Q SP إلى تحسين اختيار وتخصيص الجهاز للمريض حسب عمره، وتحسين نتائج الأمان والتسهيلات التقنية.",
+      "future_impact_en": "Understanding age-related differences in air-Q SP performance may enhance device selection and customization, improving safety and technical outcomes.",
+      "why_important_ar": "تُظهر الدراسة كيف يمكن أن يتأثر أداء airway device مثل air-Q SP بالعمر، مما يساعد على تحسين إدارة airway في المرضى كبار السن والشباب على حد سواء.",
+      "why_important_en": "The study highlights how age can influence airway device performance, aiding in optimizing airway management across age groups.",
+      "vs_previous_ar": "تختلف عن الدراسات السابقة التي كانت تركز على أداء device في فئة عمرية واحدة، وتقدم رؤى أوسع حول التغييرات مع التقدم في العمر.",
+      "vs_previous_en": "Unlike previous studies focusing on single age groups, this research provides broader insights into performance variations across different ages.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة Prospective controlled من نوع جيد، وذات تأثير سريري مهم، مع نتائج واضحة وانعكاسات عملية مهمة، لكن لم تكن رStudies عشوائية أو تضم عدد كبير جدًا من المرضى.",
+      "stars_reason_en": "Good prospective controlled study with significant clinical implications and clear results, although not an RCT and with moderate sample size.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": null,
+      "watch": true,
+      "watch_detail_ar": "متابعة تطور الأجهزة التي تُستخدم لضمان التهوية، خصوصًا التقنية التي تعتمد على التقييم المسبق لخصائص الجهاز حسب العمر، لتحسين النتائج وسلامة المرضى.",
+      "watch_detail_en": "Monitoring advances in airway devices, especially pre-assessment technologies tailored for different age groups to improve safety and outcomes.",
+      "watch_type": "device",
+      "research_gap_ar": "نقص البيانات حول أداء airway devices في كبار السن، وتأثير التغيرات العمرية على نتائج التهوية والسلامة.",
+      "research_gap_en": "Lack of data on how aging affects airway device performance and associated ventilation safety outcomes.",
+      "subspecialty": "anesthesiology",
+      "audio_script_ar": "هذه الدراسة تستعرض أداء air-Q SP، وهو جهاز لتهيئة airway، عبر مجموعات عمرية مختلفة. أظهرت النتائج أن الشباب لديهم قدرة أعلى على تحقيق sealing جيد، وسرعة أسهل في الإدخال، مع أداء غ fiberoptic أفضل. ارتبط العمر و BMI بنتائج OLP، مع ملاحظة أن الأداء ينقص مع التقدم في العمر، مع استمرار فعالية الجهاز لضمان التهوية. تذكر أن هذه النتائج مهمة لاحتياجات airway management، خاصة في المرضى كبار السن، حيث يمكن أن تؤثر التغيرات العمرية على الأداء والحفاظ على السلامة.",
+      "audio_script_en": "This study evaluates the performance of the air-Q SP device across different age groups. Findings indicate that young patients achieved higher seal pressures, easier and faster insertion, and better fiberoptic views. Age and BMI were associated with OLP, with performance decreasing with increasing age. Despite these differences, the device remained effective for ventilation in all groups. These results are important for airway management, especially in elderly patients, where age-related changes impact device performance and safety considerations.",
+      "mcq": [
+        {
+          "q_ar": "ما هو العامل الذي تم العثور على ارتباطه بشكل كبير مع قيم OLP في الدراسة؟",
+          "q_en": "Which factor was found to be significantly associated with OLP values in the study?",
+          "options_ar": [
+            "أ) العمر",
+            "ب) BMI",
+            "ج) نوع الجراحة",
+            "د) مدة التخدير"
+          ],
+          "options_en": [
+            "A) Age",
+            "B) BMI",
+            "C) Type of surgery",
+            "D) Duration of anesthesia"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم تحديد BMI كعامل مرتبط سلبًا مع OLP، حيث أن زيادة BMI كانت مرتبطة بقيم OLP أقل، مع وجود ارتباط سلبي مع العمر.",
+          "explanation_en": "BMI was identified as negatively associated with OLP, with higher BMI correlating with lower seal pressures, along with a negative correlation with age."
+        },
+        {
+          "q_ar": "ما هو أحد النتائج المهمة المتعلقة بالمجموعة الشابة مقارنة بالمجموعات الأكبر سناً؟",
+          "q_en": "What is a key finding related to the young group compared to older groups?",
+          "options_ar": [
+            "أ) توجد قيمة OLP أقل",
+            "ب) الإدخال كان أبطأ",
+            "ج) كانت سرعة الإدخال وسهولته أعلى",
+            "د) كانت النتائج أسوأ في التهوية"
+          ],
+          "options_en": [
+            "A) Lower OLP",
+            "B) Slower insertion",
+            "C) Faster and easier insertion",
+            "D) Worse ventilation results"
+          ],
+          "answer": 2,
+          "explanation_ar": "المجموعة الشابة أظهرت قدرة أعلى على الإدخال بسرعة وسهولة، بالإضافة إلى تحسينات في View fiberoptic وانخفاض القيود بعد التهوية.",
+          "explanation_en": "The young group demonstrated faster and easier insertion, with better fiberoptic views and fewer postoperative complications."
+        },
+        {
+          "q_ar": "هل تعتبر نتائج الدراسة ذات تأثير على ممارسات airway management الحالية؟",
+          "q_en": "Do the study findings have an impact on current airway management practices?",
+          "options_ar": [
+            "أ) نعم، تعزز استخدام air-Q SP في جميع الأعمار",
+            "ب) لا، النتائج غير ذات صلة",
+            "ج) نعم، لكنها محدودة فقط لكبار السن",
+            "د) لا، الجهاز غير فعال"
+          ],
+          "options_en": [
+            "A) Yes, they support using air-Q SP across all ages",
+            "B) No, the results are not relevant",
+            "C) Yes, but only for elderly patients",
+            "D) No, the device was ineffective"
+          ],
+          "answer": 0,
+          "explanation_ar": "النتائج تدعم فعالية جهاز air-Q SP في ضمان التهوية في جميع الفئات العمرية، مع ملاحظة الاختلافات في الأداء.",
+          "explanation_en": "Findings support the effective use of air-Q SP for ventilation across all age groups, with noted performance variations."
+        }
+      ]
+    },
+    {
+      "pmid": "42047356",
+      "title_ar": "Saliva vs Plasma in Liquid Biopsy Sampling for Head and Neck Cancer: A Comparative Study.",
+      "title_en": "Saliva vs Plasma in Liquid Biopsy Sampling for Head and Neck Cancer: A Comparative Study.",
+      "journal": "Clinical chemistry",
+      "pub_date": "2026-Jul-06",
+      "doi": "10.1093/clinchem/hvag035",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42047356/",
+      "pdf_url": "https://pubmed.ncbi.nlm.nih.gov/42047356/",
+      "study_design": "Prospective cohort",
+      "summary_ar": "ركزت الدراسة على مقارنة فعالية saliva و plasma في تقييم liquid biopsy لمرضى السرطان Head and neck squamous cell carcinoma (HNSCC). تم جمع عينات من saliva و plasma لتحليل ctDNA و sEV-DNA و sEV-RNA من المرضى الأحياء والأصحاء. أظهرت النتائج أن saliva sEV-DNA يحتوي على أعلى tumor fraction (TF)، مما يدل على تفوقه في التقاط DNA الورمي. تحليل CNV و methylation أكد وجود اختلافات وتشابهات بين العينات، مع انتشار أنماط methylation غير الطبيعية بشكل أكبر في sEV-DNA. كما أظهرت profiling of small RNA تغطية أوسع من حيث التغيرات الجينية المحتملة، مما يعزز إمكانية استخدامها كمؤشرات حيوية للأمراض. وبناءً عليه، يعتبر saliva المستخلص من sEV-DNA و sEV-RNA أدوات غير جراحية واعدة لتشخيص ومراقبة HNSCC، مع إمكانيات لتخصيص استراتيجيات العلاج مستقبلاً.",
+      "summary_en": "This study compared saliva and plasma in liquid biopsy for HNSCC, finding saliva sEV-DNA exhibits higher tumor fraction, indicating superior tumor DNA capture. CNV and methylation analyses revealed notable differences, with methylation patterns more frequently abnormal in sEV-DNA. Small RNA profiling showed broader gene coverage, supporting saliva-derived sEVs as promising noninvasive biomarkers. These findings suggest saliva-based liquid biopsies could enhance molecular characterization and monitoring of HNSCC, aiding personalized treatment approaches.",
+      "practice_change_ar": "يمكن استخدام saliva-derived sEV-DNA و sEV-RNA كوسائل غير جراحية لتشخيص ومتابعة مرضى HNSCC بشكل أكثر فعالية.",
+      "practice_change_en": "Saliva-derived sEV-DNA and sEV-RNA can be used as noninvasive methods for diagnosis and monitoring of HNSCC patients more effectively.",
+      "future_impact_ar": "قد يؤدي ذلك إلى تطوير استراتيجيات مراقبة وعلاج شخصية أكثر دقة لمرضى HNSCC باستخدام حويصلات الخلايا الجذعية المستخلصة من saliva.",
+      "future_impact_en": "This could lead to more precise personalized monitoring and treatment strategies for HNSCC patients using saliva-derived extracellular vesicles.",
+      "why_important_ar": "هذه الدراسة مهمة لأنها تسلط الضوء على إمكانية استخدام saliva كمصدر غير جراحي للمعلومات الجينية لتشخيص ومراقبة HNSCC بفعالية أعلى.",
+      "why_important_en": "This study is important because it highlights the potential of saliva as a noninvasive source for genetic information to diagnose and monitor HNSCC effectively.",
+      "vs_previous_ar": "تختلف عن الأبحاث السابقة لأنها تقدم تحليلًا مقارنًا بين saliva و plasma، مع التركيز على sEV-DNA و sEV-RNA كمؤشرات حيوية أكثر فعالية.",
+      "vs_previous_en": "Unlike previous studies, it provides a comparative analysis between saliva and plasma focusing on sEV-DNA and sEV-RNA as more effective biomarkers.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة من تصنيف prospective cohort مع تصميم بحثي قوي، وبيانات حديثة توضح تفوق saliva sEV-DNA كمؤشر حيوي محتمل لمرضى HNSCC، مما يمنحها تقييم 4 نجوم.",
+      "stars_reason_en": "A prospective cohort study with robust design and recent data demonstrating saliva sEV-DNA's superiority as a biomarker for HNSCC warrants a 4-star rating.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": null,
+      "watch": true,
+      "watch_detail_ar": "مراقبة التطورات في استخدام extracellular vesicles من saliva كمؤشرات حيوية غير جراحية في ممارسات التشخيص والعلاج.",
+      "watch_detail_en": "Monitor advances in the use of saliva-derived extracellular vesicles as noninvasive biomarkers in clinical practice.",
+      "watch_type": "technology",
+      "research_gap_ar": "يحتاج البحث إلى استكشاف دقيق لآلية انتقال مواضيع sEVs وتأثيرها على مراقبة مرضى HNSCC على المدى الطويل.",
+      "research_gap_en": "Further investigation is required into the mechanisms of sEVs transfer and their long-term impact on disease monitoring in HNSCC.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "تُسلط هذه الدراسة الضوء على مقارنة بين saliva و plasma في تقييم liquid biopsy لمرضى Head and neck squamous cell carcinoma. وجد الباحثون أن saliva sEV-DNA يظهر معدل TF أعلى، مما يدل على قدرته على التقاط DNA الورمي بشكل أكثر فعالية. كما أظهرت تحليلات CNV و methylation اختلافات مهمة بين العينات، مع تركيز أكبر على أنماط methylation غير الطبيعية في sEV-DNA. بالإضافة إلى ذلك، كشفت profiling of small RNA عن تغطية أوسع للمورثات، مما يعزز دور saliva كمصدر غير جراحي للمعلومات الجينية. هذه النتائج تفتح آفاقًا جديدة لفحص ومراقبة المرض بشكل أكثر دقة، مع إمكانيات فردية أكبر للعلاج. يتطلب الأمر مزيدًا من الدراسات لتأكيد إمكانية تطبيقها سريريًا على نطاق واسع.",
+      "audio_script_en": "This study compares saliva and plasma in liquid biopsy for HNSCC patients. Findings show that saliva sEV-DNA has a higher tumor fraction, indicating it captures tumor DNA more effectively. CNV and methylation analyses reveal significant differences, with more frequent abnormal methylation in sEV-DNA. Small RNA profiling demonstrates broader gene coverage, supporting saliva-derived extracellular vesicles as promising noninvasive biomarkers. These results open new possibilities for more precise disease diagnosis and monitoring with personalized treatment options. Further studies are needed to validate clinical application and long-term utility.",
+      "mcq": [
+        {
+          "q_ar": "ما هو المكون الذي أظهر تفوقًا في معدل tumor fraction في الدراسة؟",
+          "q_en": "Which component showed superior tumor fraction in the study?",
+          "options_ar": [
+            "أ) Plasma ctDNA",
+            "ب) Plasma sEV-DNA",
+            "ج) Saliva sEV-DNA",
+            "د) Saliva ctRNA"
+          ],
+          "options_en": [
+            "A) Plasma ctDNA",
+            "B) Plasma sEV-DNA",
+            "C) Saliva sEV-DNA",
+            "D) Saliva ctRNA"
+          ],
+          "answer": 2,
+          "explanation_ar": "أظهرت النتائج أن saliva sEV-DNA لديها معدل TF أعلى، مما يدل على تفوقها في التقاط DNA الورمي مقارنة بعينات plasma.",
+          "explanation_en": "The results showed that saliva sEV-DNA has a higher tumor fraction, indicating its superiority in capturing tumor DNA compared to plasma samples."
+        },
+        {
+          "q_ar": "ما هو التحليل الذي كشف عن انتشار أنماط methylation غير الطبيعية بشكل أكبر؟",
+          "q_en": "Which analysis revealed a higher prevalence of abnormal methylation patterns?",
+          "options_ar": [
+            "أ) CNV analysis",
+            "ب) Methylation analysis",
+            "ج) Small RNA profiling",
+            "د) TF measurement"
+          ],
+          "options_en": [
+            "A) CNV analysis",
+            "B) Methylation analysis",
+            "C) Small RNA profiling",
+            "D) TF measurement"
+          ],
+          "answer": 1,
+          "explanation_ar": "تحليل methylation أظهر انتشارًا أكثر لهذه الأنماط غير الطبيعية في sEV-DNA مقارنة بـ ctDNA.",
+          "explanation_en": "Methylation analysis revealed a higher prevalence of abnormal methylation patterns in sEV-DNA compared to ctDNA."
+        },
+        {
+          "q_ar": "ما هو المحتوى الذي أُظهر تغطية أوسع من حيث التغيرات الجينية المحتملة؟",
+          "q_en": "Which content demonstrated broader coverage of potential genetic changes?",
+          "options_ar": [
+            "أ) ctDNA",
+            "ب) sEV-RNA",
+            "ج) methylation patterns",
+            "د) CNVs"
+          ],
+          "options_en": [
+            "A) ctDNA",
+            "B) sEV-RNA",
+            "C) methylation patterns",
+            "D) CNVs"
+          ],
+          "answer": 1,
+          "explanation_ar": "تحليل sEV-RNA أظهر تغطية أوسع للمورثات، مما يعزز قدرته على اكتشاف التغيرات الجينية المحتملة.",
+          "explanation_en": "Profiling of sEV-RNA showed broader coverage of genes, supporting its potential as a biomarker."
+        }
+      ]
+    },
+    {
+      "pmid": "42402499",
+      "title_ar": "Macrophage activation syndrome triggered by Candida parapsilosis-related cochlear implant infection.",
+      "title_en": "Macrophage activation syndrome triggered by Candida parapsilosis-related cochlear implant infection.",
+      "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+      "pub_date": "2026-Jul-05",
+      "doi": "10.1007/s00405-026-10374-x",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42402499/",
+      "pdf_url": null,
+      "study_design": "Case report",
+      "summary_ar": "هذه الدراسة تُقدم حالة نادرة لطفلة تبلغ من العمر 13 عامًا تطورت لديها MAS نتيجة لعدوى ب Candida parapsilosis مرتبطة بـ cochlear implant. على الرغم من العلاج واسع النطاق، تدهورت الحالة مع وجود pancytopenia و hyperferritinemia والفشل الكبدي الحاد، مما أدى إلى تشخيص MAS وفق معايير HLH-2004. العلاج تضمنت plasmapheresis، corticosteroids عالية الجرعة، واستئصال الـ CI، مما أدى إلى تحسن سريري. بعد ذلك، أُجري إعادة زرع لـ cochlear implant بعد شهرين، مع استجابة جيدة للعلاج المناعي والداعم. تُبرز الحالة أهمية التعرف المبكر على MAS وإدارة فريق متعدد التخصصات لتحسين نتائج المرضى، إذ أن عدوى الـ CI والآثار النظامية نادرة ولكنها خطيرة.",
+      "summary_en": "This case report describes a 13-year-old girl who developed MAS secondary to Candida parapsilosis-related sepsis associated with cochlear implant infection. Despite broad-spectrum antimicrobial therapy, her condition worsened with signs of hyperinflammation and organ failure, fulfilling HLH-2004 criteria for MAS. Treatment included plasmapheresis, high-dose corticosteroids, and removal of the implant, leading to clinical recovery. She later underwent cochlear reimplantation with good outcome. This report emphasizes the importance of early recognition and multidisciplinary management of rare systemic complications related to cochlear implant infections.",
+      "practice_change_ar": "يجب على أطباء الأذن والأنف والحنجرة أن يكونوا يقظين لاحتمالية تطور MAS في حالات عدوى الـ cochlear implant النادرة، لضمان التشخيص المبكر والعلاج السريع.",
+      "practice_change_en": "ENT clinicians should be alert to the potential development of MAS in rare cochlear implant infections to ensure early diagnosis and prompt treatment.",
+      "future_impact_ar": "قد يؤدي هذا التقرير إلى تعزيز الوعي بالعدوى الفطرية المرتبطة بـ CI وأهميتها في تطور متلازمة macrophage activation syndrome، مما يحسن إدارة الحالات المستقبلية.",
+      "future_impact_en": "This report may increase awareness of fungal infections associated with CIs and their potential to trigger MAS, improving future management strategies.",
+      "why_important_ar": "هذه الحالة تبرز خطورة احتمالية تطور MAS نتيجة لعدوى فطرية مرتبطة بـ CI، مع تسليط الضوء على ضرورة التشخيص المبكر والعلاج متعدد التخصصات للحفاظ على حياة المرضى.",
+      "why_important_en": "This case highlights the severity of fungal-related CI infections as a trigger for MAS, emphasizing early diagnosis and multidisciplinary management for patient survival.",
+      "vs_previous_ar": "يختلف هذا التقرير عن الدراسات السابقة بتركيزه على عدوى Candida parapsilosis كعامل مسبب ل MAS في سياق عدوى الـ cochlear implant، وهي حالة غير مبلّغ عنها سابقًا في الأطفال.",
+      "vs_previous_en": "This report differs from previous literature by identifying Candida parapsilosis as a trigger for MAS in cochlear implant infections, a previously unreported condition in pediatric patients.",
+      "stars": 4,
+      "stars_reason_ar": "تصميم دراسة حالة مع وجود حالة نادرة وذات أهمية سريرية عالية، وتعرض علاجًا شاملًا ونتائج جيدة، مما يمنحها تصنيف 4 نجوم.",
+      "stars_reason_en": "A case report of a rare and clinically significant condition with detailed management and good outcome justifies a 4-star rating.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": null,
+      "watch": true,
+      "watch_detail_ar": "متابعة تطورات استخدام الفطريات Candida في سياق عدوى CI وتأثيرها على development MAS، نظرًا لندرتها وأهميتها السريرية.",
+      "watch_detail_en": "Monitoring the role of Candida species in cochlear implant infections and their potential to trigger MAS, due to the rarity and clinical significance.",
+      "watch_type": "drug",
+      "research_gap_ar": "هناك حاجة للمزيد من الدراسات لتحديد مدى انتشار واستجابة لعلاج العدوى الفطرية المرتبطة بالـ CI وما إذا كانت مرتبطة بكل من MAS و HLH.",
+      "research_gap_en": "Further research is required to determine the prevalence of fungal infections in CI cases and their association with MAS and HLH outcomes.",
+      "subspecialty": "otology",
+      "audio_script_ar": "هذه الدراسة تقدم حالة نادرة لطفلة تبلغ من العمر 13 عامًا تطورت لديها MAS نتيجة لعدوى Candida parapsilosis المرتبطة بـ cochlear implant. الحالة أظهرت تدهورًا في الحالة السريرية رغم العلاج، مع معايير HLH-2004، وتم علاجها باستخدام plasmapheresis و corticosteroids واستئصال الـ CI، مما أدى إلى تحسن ملحوظ. بعد شهرين، أُعيد تركيب الـ cochlear implant بنجاح. تعد هذه الحالة تذكيرًا بأهمية التشخيص المبكر وإدارة فريق متعدد التخصصات، خاصة أن هذه العدوى والنتائج النظامية نادرة ولكنها خطيرة على صحة المريض.",
+      "audio_script_en": "This article reports a rare case of a 13-year-old girl who developed Macrophage Activation Syndrome secondary to a Candida parapsilosis infection related to a cochlear implant. Despite broad-spectrum antimicrobial therapy, her condition worsened, fulfilling HLH-2004 criteria. Her treatment involved plasmapheresis, high-dose corticosteroids, and removal of the implant, leading to recovery. She later underwent reimplantation successfully. This highlights the importance of early diagnosis and multidisciplinary management in rare but severe systemic complications of cochlear implant infections.",
+      "mcq": [
+        {
+          "q_ar": "ما هو العامل الممرض الذي تم تحديده كسبب لعدوى الـ cochlear implant في هذه الحالة؟",
+          "q_en": "What was the infectious agent identified as the cause of cochlear implant infection in this case?",
+          "options_ar": [
+            "أ) Streptococcus pneumoniae",
+            "ب) Candida parapsilosis",
+            "ج) Pseudomonas aeruginosa",
+            "د) Staphylococcus aureus"
+          ],
+          "options_en": [
+            "A) Streptococcus pneumoniae",
+            "B) Candida parapsilosis",
+            "C) Pseudomonas aeruginosa",
+            "D) Staphylococcus aureus"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم تحديد Candida parapsilosis كمسبب لعدوى الـ CI في هذه الحالة، وهي فطر معروف بقدراته على تكوين biofilm والتسبب في عدوى مرتبطة بالزرعات والأجهزة المزرعة.",
+          "explanation_en": "Candida parapsilosis was identified as the causative pathogen in this case, a fungus known for biofilm formation and associated with device-related infections."
+        },
+        {
+          "q_ar": "ما هو العلاج الذي أدى إلى تحسن الحالة السريرية للمريض؟",
+          "q_en": "Which treatment contributed to the patient's clinical improvement?",
+          "options_ar": [
+            "أ) العلاج بالمضادات الحيوية فقط",
+            "ب) الجراحة فقط",
+            "ج) plasmapheresis و corticosteroids واستئصال الـ CI",
+            "د) الانتظار والمراقبة فقط"
+          ],
+          "options_en": [
+            "A) Antibiotics alone",
+            "B) Surgery alone",
+            "C) Plasmapheresis, corticosteroids, and implant removal",
+            "D) Observation only"
+          ],
+          "answer": 2,
+          "explanation_ar": "العلاج الذي تضمن plasmapheresis، corticosteroids عالية الجرعة، واستئصال الـ cochlear implant أدى إلى تحسن الحالة السريرية وشفاء المريض.",
+          "explanation_en": "The intervention including plasmapheresis, high-dose corticosteroids, and explantation of the cochlear implant led to clinical recovery."
+        },
+        {
+          "q_ar": "ماذا يعكس هذا التقرير من أهمية التشخيص المبكر؟",
+          "q_en": "What does this report emphasize about early diagnosis?",
+          "options_ar": [
+            "أ) لا أهمية له",
+            "ب) ضروري لمنع تطور MAS والوفيات",
+            "ج) مهم فقط في البالغين",
+            "د) غير مؤثر على النتائج"
+          ],
+          "options_en": [
+            "A) No importance",
+            "B) Essential to prevent MAS development and death",
+            "C) Only important in adults",
+            "D) Does not affect outcomes"
+          ],
+          "answer": 1,
+          "explanation_ar": "يؤكد التقرير على أن التشخيص المبكر ضروري لمنع تطور MAS والمضاعفات الوخيمة المرتبطة بعدوى الـ CI.",
+          "explanation_en": "The report emphasizes that early diagnosis is crucial to prevent the development of MAS and severe complications associated with CI infections."
+        }
+      ]
+    },
+    {
+      "pmid": "42401993",
+      "title_ar": "Age of onset by temporal and spatial changes and prognostic value for esophageal cancer.",
+      "title_en": "Age of onset by temporal and spatial changes and prognostic value for esophageal cancer.",
+      "journal": "Chinese medical journal",
+      "pub_date": "2026-Jul-05",
+      "doi": "10.1097/CM9.0000000000003856",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42401993/",
+      "pdf_url": "https://doi.org/10.1097/cm9.0000000000003856",
+      "study_design": "Retrospective cohort epidemiological study",
+      "summary_ar": "تناقش الدراسة توزيع عمر بداية مرض سرطان المريء وتأثيره على التشخيص والبقاء على قيد الحياة في الصين. استخدمت الدراسة بيانات كبيرة من 294,523 مريضًا وتحليلت علاقة العمر مع عوامل سريرية وخياطة النجاح في العلاج. أظهرت نتائج أن نسبة المرضى الذين تم تشخيصهم تحت سن 60 انخفضت مع الزمن، وارتبط العمر الأكبر بتشخيص متأخر وبنتائج أسوأ للبقاء على قيد الحياة. أظهرت الدراسة أن العمر المتقدم هو عامل مستقل في توقعات Prognosis السيئة، وأن الجراحة تظل خيارًا مناسبًا للأكبر سنًا بعد تقييم المخاطر. تُبرز الدراسة أهمية تقييم المخاطر perioperative بشكل دقيق لتوازن بين الفوائد والمخاطر خاصة في كبار السن.",
+      "summary_en": "This study analyzed the age of onset and its prognostic significance in esophageal cancer within a large Chinese cohort. It identified a decline in the proportion of cases under 60 years over time and associated older age with worse survival outcomes. The findings support that advanced age is an independent predictor of poor prognosis, but surgery remains beneficial for suitable elderly patients after thorough perioperative risk assessment. The study emphasizes the need for precise risk stratification to optimize treatment decisions in elderly esophageal cancer patients.",
+      "practice_change_ar": "يجب أن يركز الأطباء على تقييم المخاطر perioperative بشكل دقيق عند اتخاذ قرار الجراحة للمرضى كبار السن مع سرطان المريء.",
+      "practice_change_en": "Clinicians should perform precise perioperative risk assessment when considering surgery for elderly esophageal cancer patients.",
+      "future_impact_ar": "ستساهم النتائج في تحسين استراتيجيات إدارة سرطان المريء لدى كبار السن عبر تقديم قرارات علاجية مبنية على تقدير دقيق للمخاطر والفوائد.",
+      "future_impact_en": "The findings will improve management strategies for elderly esophageal cancer patients by enabling risk-based treatment decisions.",
+      "why_important_ar": "يهم هذا المقال الأطباء لاتخاذ قرارات علاجية أكثر دقة وتحسين نتائج المرضى المصابين بسرطان المريء في فئة كبار السن.",
+      "why_important_en": "This article is important for clinicians to make more accurate treatment decisions and improve outcomes in elderly esophageal cancer patients.",
+      "vs_previous_ar": "يختلف عن الأبحاث السابقة حيث يسلط الضوء على العلاقة بين العمر، التشخيص، والنتائج باستخدام تحليلات متقدمة مثل النماذج الانحدارية وPropensity score matching.",
+      "vs_previous_en": "Unlike prior research, it emphasizes the relationship between age, diagnosis, and outcomes using advanced analyses like regression models and propensity score matching.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة retrospective كبيرة ذات تصميم جيد، تعد من مصادر المعرفة المفيدة، وتقدم نتائج جديدة حول تأثير العمر على prognosis وسلوك المرض، لذلك حصلت على 4 نجوم.",
+      "stars_reason_en": "Large retrospective cohort with solid design, providing useful knowledge and new insights into age-related prognosis and disease behavior, earning 4 stars.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": null,
+      "watch": true,
+      "watch_detail_ar": "مراقبة تطور استراتيجيات تقييم المخاطر perioperative والجراحات الخاصة بكبار السن مع تكنولوجيا جديدة لتحسين قرارات العلاج.",
+      "watch_detail_en": "Monitor advancements in perioperative risk assessment and surgical techniques for the elderly, utilizing new technologies to optimize treatment decisions.",
+      "watch_type": "device",
+      "research_gap_ar": "نقص الدراسات التي تدمج تقييم المخاطر الدقيقة والتدخلات العلاجية لتحسين نتائج كبار السن المصابين بسرطان المريء.",
+      "research_gap_en": "Lack of studies integrating precise risk assessment and therapeutic interventions to improve outcomes in elderly esophageal cancer patients.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "تقييم عمر المرضى المصابين بسرطان المريء له أهمية كبيرة، حيث أن الدراسة الكبيرة في الصين أظهرت أن نسبة المسنين الذين يتم تشخيصهم تتزايد مع مرور الوقت، لكن نسبة المرضى تحت سن ستين تتضاءل. وقد وجد الباحثون أن العمر المتقدم هو عامل مستقل في توقعات prognosis السيئة، على الرغم من أن الجراحة تُعد خيارًا فعالًا إذا ما تم تقييم المخاطر perioperative بشكل دقيق. تؤكد الدراسة على ضرورة إضافة أدوات تقييم المخاطر لتحسين نتائج العلاج خاصة لدى كبار السن، مع عدم استبعاد العلاج الجراحي تمامًا عن هذه الفئة. ومن المتوقع أن تساهم هذه النتائج في تطوير استراتيجيات علاج أكثر تخصيصًا وفقًا لعمر المريض ومخاطره الشخصية.",
+      "audio_script_en": "Age assessment in esophageal cancer patients is crucial, with a large Chinese cohort showing an increasing trend of diagnosis in elderly patients over time, while younger patients under 60 decline. The study identified advanced age as an independent predictor of poor prognosis, yet surgery remains a viable option if perioperative risks are carefully evaluated. This emphasizes the importance of integrating precise risk stratification tools to optimize treatment outcomes, especially in the elderly. These findings are expected to influence future management strategies, enabling more personalized approaches based on age and individual risk profiles.",
+      "mcq": [
+        {
+          "q_ar": "ما هو العامل المستقل الذي يرتبط بنتائج أسوأ في مرضى سرطان المريء وفقًا للدراسة؟",
+          "q_en": "What is the independent factor associated with poorer outcomes in esophageal cancer patients according to the study?",
+          "options_ar": [
+            "أ) استعمال العلاج الإشعاعي",
+            "ب) العمر المتقدم",
+            "ج) حجم الورم",
+            "د) وجود مرض مصاحب آخر"
+          ],
+          "options_en": [
+            "A) Use of radiochemotherapy",
+            "B) Advanced age",
+            "C) Tumor size",
+            "D) Presence of comorbidities"
+          ],
+          "answer": 1,
+          "explanation_ar": "العمر المتقدم هو العامل المستقل الذي يعزز احتمالية نتائج أسوأ في الدراسة، بينما العوامل الأخرى تتعلق بخصائص المرض وليس بشكل مستقل.",
+          "explanation_en": "Advanced age is the independent factor associated with poorer outcomes, while other factors are related but not independently predictive."
+        },
+        {
+          "q_ar": "ما هو الحد العمري الذي يلاحظ فيه ارتفاع معدل الوفيات perioperative بشكل كبير؟",
+          "q_en": "At what age is there a steep increase in perioperative mortality observed?",
+          "options_ar": [
+            "أ) 55 سنة",
+            "ب) 60 سنة",
+            "ج) 65 سنة",
+            "د) 70 سنة"
+          ],
+          "options_en": [
+            "A) 55 years",
+            "B) 60 years",
+            "C) 65 years",
+            "D) 70 years"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت النتائج أن معدل الوفيات perioperative يرتفع بشكل حاد بعد عمر 60 سنة، مما يعكس الحاجة لتقييم دقيق للمخاطر عند كبار السن.",
+          "explanation_en": "Perioperative mortality increases sharply beyond age 60, highlighting the importance of careful risk assessment in elderly patients."
+        },
+        {
+          "q_ar": "ما هو الاقتراح الرئيسي لتحسين قرارات علاج سرطان المريء لدى كبار السن؟",
+          "q_en": "What is the main suggestion for improving treatment decisions in elderly esophageal cancer patients?",
+          "options_ar": [
+            "أ) الحد من استخدام الجراحة",
+            "ب) تطوير نظام تقييم المخاطر perioperative",
+            "ج) الاعتماد فقط على العلاج الكيميائي",
+            "د) عدم علاج كبار السن"
+          ],
+          "options_en": [
+            "A) Limit surgical interventions",
+            "B) Develop a risk assessment system",
+            "C) Rely solely on chemoradiotherapy",
+            "D) Do not treat the elderly"
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسة تشير إلى أهمية تطوير نظام تقييم المخاطر perioperative الدقيق لاتخاذ قرارات علاجية مناسبة.",
+          "explanation_en": "The study highlights the importance of developing accurate perioperative risk assessment systems to guide treatment decisions."
+        }
+      ]
+    },
+    {
+      "pmid": "42402270",
+      "title_ar": "Total Care Strategies in Atrial Fibrillation Practice: Lifestyle Intervention and Risk Factor Management.",
+      "title_en": "Total Care Strategies in Atrial Fibrillation Practice: Lifestyle Intervention and Risk Factor Management.",
+      "journal": "Journal of cardiology",
+      "pub_date": "2026-Jul-05",
+      "doi": "10.1016/j.jjcc.2026.06.018",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42402270/",
+      "pdf_url": null,
+      "study_design": "Expert opinion",
+      "summary_ar": "تتناول هذه المراجعة دور التدخلات الحياتية وإدارة عوامل الخطر في علاج مرض AF. تؤكد على أهمية تقليل استهلاك الكحول واتباع نمط حياة نشط ومتوازن. يُشدد على أن السيطرة الصارمة على ارتفاع ضغط الدم وإدارة السمنة والسكري يساهم بشكل كبير في تحسين نتائج المرضى. كما تذكر أن علاج اضطراب النوم مثل obstructive sleep apnea باستخدام CPAP يعزز من فعالية العلاجات التقليدية. توفر المقالة رؤية شاملة لنهج متعدد التخصصات لتحقيق علاج مستدام وفعال لمرض AF، مع التركيز على التعديلات في نمط الحياة والعلاجات الجديدة.",
+      "summary_en": "This review emphasizes lifestyle interventions and risk factor management in AF treatment. It highlights alcohol reduction, balanced activity, and controlling comorbidities such as hypertension, obesity, and sleep apnea as crucial for improving outcomes. The role of pharmacotherapy for diabetes and the importance of a multidisciplinary approach are also discussed. Overall, the article advocates for comprehensive strategies beyond medical procedures for effective AF management.",
+      "practice_change_ar": "يحث الأطباء على تبني استراتيجيات شاملة تتضمن تغييرات نمط الحياة وإدارة عوامل الخطر لعلاج AF بشكل أفضل.",
+      "practice_change_en": "Clinicians should adopt comprehensive strategies including lifestyle modifications and risk factor management for better AF treatment.",
+      "future_impact_ar": "يمكن أن تؤدي هذه التوصيات إلى تحسين النتائج السريرية وتقليل الحاجة إلى الإجراءات الجراحية أو التدخلات المستمرة في مرضى AF.",
+      "future_impact_en": "These recommendations may lead to improved clinical outcomes and reduced need for surgical interventions or procedures in AF patients.",
+      "why_important_ar": "تساعد هذه المقالة في تحديث فهم الأطباء حول أهمية العوامل الحياتية وإدارة الأمراض المصاحبة في علاج AF بشكل شامل وفعال.",
+      "why_important_en": "This article helps update clinicians on the importance of lifestyle factors and comorbidity management for comprehensive and effective AF treatment.",
+      "vs_previous_ar": "تختلف عن الإرشادات السابقة بتركيزها على التدخلات غير الدوائية وإدارة عوامل الخطر بشكل شامل بدلاً من التركيز فقط على التحكم في نبضات القلب أو الوقاية من السكتة الدماغية.",
+      "vs_previous_en": "It differs from previous guidelines by emphasizing non-pharmacological interventions and comprehensive risk management rather than solely rhythm control or stroke prevention.",
+      "stars": 4,
+      "stars_reason_ar": "تقييم استنادًا إلى خبرة رأي خبير وتصنيف دليل غير عشوائي مع توجيه لتغطية جوانب مهمة في علاج AF بدون بيانات تجريبية مباشرة، مع تركيز على التدخلات الحديثة والممارسات الشاملة.",
+      "stars_reason_en": "Assessment based on expert opinion and non-randomized evidence, covering important aspects of AF management with emphasis on modern and holistic practices.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": null,
+      "watch": true,
+      "watch_detail_ar": "مراقبة تحديثات الأدوية الجديدة وإعادة تقييم فعاليتها في إدارة AF، خاصة تلك المتعلقة بمعالجة السكري وبيئة النوم.",
+      "watch_detail_en": "Monitor updates on new drugs and re-evaluate their efficacy in AF management, especially those related to diabetes and sleep environment.",
+      "watch_type": "drug",
+      "research_gap_ar": "نقص البيانات السريرية العشوائية حول تأثير استراتيجيات نمط الحياة على مدى المدى في علاج AF.",
+      "research_gap_en": "Lack of randomized clinical data on the long-term effects of lifestyle strategies in AF management.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "يقدم هذا التحليل مراجعة شاملة لاستراتيجيات العناية الكاملة في علاج مرض AF، مع التركيز على التدخلات الحياتية وإدارة عوامل الخطر. نبدأ بأهمية تقليل استهلاك الكحول وممارسة النشاط البدني المعتدل. كما نؤكد على السيطرة الصارمة على ارتفاع ضغط الدم، وإدارة السمنة والسكري باستخدام أحدث الأدوية. لا ننسى أهمية علاج اضطراب النوم مثل obstructive sleep apnea باستخدام CPAP لتحسين نتائج العلاج. يعزز النهج متعدد التخصصات فعالية العلاج ويقلل الحاجة للتدخلات الجراحية، مما يعكس أهمية التحديث المستمر للممارسات وفقًا للأدلة الحديثة.",
+      "audio_script_en": "This analysis reviews comprehensive care strategies for AF, focusing on lifestyle interventions and risk factor management. It highlights alcohol reduction, moderate physical activity, and strict control of hypertension, obesity, and diabetes using recent medications. Treating sleep apnea with CPAP is also emphasized to improve treatment outcomes. A multidisciplinary approach enhances efficacy and reduces the need for surgical interventions. This underscores the importance of continually updating clinical practices based on current evidence.",
+      "mcq": [
+        {
+          "q_ar": "ما هو أحد التدخلات غير الدوائية التي يُقترح تحسين نتائج علاج AF؟",
+          "q_en": "Which non-pharmacological intervention is suggested to improve AF treatment outcomes?",
+          "options_ar": [
+            "أ) تقليل استهلاك الكحول",
+            "ب) استخدام corticosteroids",
+            "ج) العلاج بالإشعاع",
+            "د) جميع ما سبق"
+          ],
+          "options_en": [
+            "A) Alcohol reduction",
+            "B) Use of corticosteroids",
+            "C) Radiation therapy",
+            "D) All of the above"
+          ],
+          "answer": 0,
+          "explanation_ar": "تقليل استهلاك الكحول يُعتبر من التدخلات غير الدوائية المهمة التي تعزز نتائج علاج AF، وفقًا للمراجعة.",
+          "explanation_en": "Alcohol reduction is a key non-pharmacological intervention that improves AF treatment outcomes, as outlined in the review."
+        },
+        {
+          "q_ar": "ما هو العلاج الموصى به لعلاج obstructive sleep apnea في مرضى AF؟",
+          "q_en": "What is the recommended treatment for obstructive sleep apnea in AF patients?",
+          "options_ar": [
+            "أ) الجراحة",
+            "ب) استخدام جهاز CPAP",
+            "ج) العلاج بالأدوية",
+            "د) التمارين الرياضية"
+          ],
+          "options_en": [
+            "A) Surgery",
+            "B) Use of CPAP device",
+            "C) Pharmacological therapy",
+            "D) Exercise"
+          ],
+          "answer": 1,
+          "explanation_ar": "استخدام جهاز CPAP هو العلاج الموصى لعلاج obstructive sleep apnea، والذي يحسن نتائج علاجات AF.",
+          "explanation_en": "Use of a CPAP device is recommended for treating obstructive sleep apnea, improving AF treatment outcomes."
+        },
+        {
+          "q_ar": "أي من العوامل التالية يُعتبر الأكثر تأثيرًا على تطوير fibrosis الأذيني في مرض AF؟",
+          "q_en": "Which of the following factors has the most impact on developing atrial fibrosis in AF?",
+          "options_ar": [
+            "أ) ارتفاع ضغط الدم",
+            "ب) السمنة",
+            "ج) مرض السكري",
+            "د) استهلاك الكحول"
+          ],
+          "options_en": [
+            "A) Hypertension",
+            "B) Obesity",
+            "C) Diabetes",
+            "D) Alcohol consumption"
+          ],
+          "answer": 1,
+          "explanation_ar": "السمنة تؤدي إلى تراكم epicardial adipose tissue، مما يسهم في fibrosis الأذيني.",
+          "explanation_en": "Obesity leads to epicardial adipose tissue accumulation, contributing to atrial fibrosis."
+        }
+      ]
+    },
+    {
+      "pmid": "42402048",
+      "title_ar": "Tinnitus, hyperacusis and somatic complaints in a diverse Norwegian clinical population: implications for assessment and rehabilitation.",
+      "title_en": "Tinnitus, hyperacusis and somatic complaints in a diverse Norwegian clinical population: implications for assessment and rehabilitation.",
+      "journal": "Annals of medicine",
+      "pub_date": "2026-Dec",
+      "doi": "10.1080/07853890.2026.2696613",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42402048/",
+      "pdf_url": null,
+      "study_design": "Cross-sectional study with digital questionnaire",
+      "summary_ar": "هذه الدراسة الوصفية تقيّم العلاقة بين Tinnitus، Hyperacusis، والشكوى الجسدية مثل الصداع والدوار، في مجموعة من المرضى النرويجيين من خلال استبيانات موثوقة. أظهرت النتائج أن الشكاوى الجسدية ترتبط بزيادة مستوى Tinnitus وHyperacusis، وأن النساء والأشخاص من مراكز إعادة التأهيل يعانون من هذه الأعراض بشكل أكبر. توضح الدراسة أهمية تقييم شامل ومتعدد التخصصات لمرضى Tinnitus ذوي الشكاوى الجسدية المصاحبة، لضمان خطة علاجية متكاملة. الدراسة تقدم إضافة مهمة للمعرفة الحالية عن ارتباطات الحالة النفسية والجسدية في مرضى Tinnitus. تهيئ النتائج الأساس لنهج علاجية أكثر تخصصًا وفعالية. تحتوي الدراسة على بيانات مهمة لطب الأذن والحنجرة والعلاج النفسي والتأهيل الشامل.",
+      "summary_en": "This study examines the relationship between Tinnitus, Hyperacusis, and somatic complaints such as headaches and dizziness in a Norwegian patient population using validated questionnaires. The results show that somatic complaints are associated with higher levels of Tinnitus, Hyperacusis, depression, and anxiety, especially among women and those from rehabilitation centers. The findings highlight the need for a comprehensive, multidisciplinary assessment approach for patients with Tinnitus and somatic symptoms. The study adds valuable knowledge about the links between psychological and somatic factors in Tinnitus management. It supports the development of tailored treatment strategies to improve patient outcomes.",
+      "practice_change_ar": "يجب على الأطباء تقييم الشكاوى الجسدية والنفسية بشكل شامل عند علاج مرضى Tinnitus لضمان إدارة فعالة ومتكاملة للحالة.",
+      "practice_change_en": "Clinicians should conduct comprehensive assessment of somatic and psychological complaints in tinnitus patients for integrated management.",
+      "future_impact_ar": "قد يؤدي هذا البحث إلى تطوير استراتيجيات علاجية أكثر تكاملاً وتخصيصًا لمرضى Tinnitus مع الشكاوى الجسدية والنفسية المصاحبة.",
+      "future_impact_en": "This research may lead to more integrated and personalized treatment strategies for tinnitus patients with comorbid somatic and psychological symptoms.",
+      "why_important_ar": "توفر الدراسة فهمًا أعمق للعلاقة بين Tinnitus والشكاوى الجسدية والنفسية، مما يعزز ممارسات التقييم والعلاج الشاملة.  طبيعة الدراسة تسمح بتطبيق نتائجها على مراكز إعادة التأهيل والعيادات المختصة، وتحسين جودة رعاية المرضى.",
+      "why_important_en": "The study provides deeper insight into the relationship between tinnitus, somatic, and psychological complaints, enhancing comprehensive assessment and management practices. Its practical relevance extends to rehabilitation centers and specialized clinics, improving patient care quality.",
+      "vs_previous_ar": "تختلف عن الدراسات السابقة بتركيزها على مجموعة من الشكاوى الجسدية والنفسية، وتوضح العلاقة المباشرة بين هذه الأعراض ودرجة Tinnitus، مع بيانات من مركزية نوعية وشاملة.",
+      "vs_previous_en": "Unlike prior studies, this research emphasizes the direct relationship between somatic and psychological complaints and tinnitus severity, providing comprehensive regional data.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة مقطعية ذات تصميم قوي (استبيان موثوق) مع نتائج مهمة في مجال التقييم متعدد التخصصات لـ Tinnitus و الشكاوى المصاحبة، مما يمنحها تقييم 4 نجوم.",
+      "stars_reason_en": "A cross-sectional study utilizing validated questionnaires with significant clinical implications for multidisciplinary tinnitus assessment justifies a 4-star rating.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "الافتقار إلى فهم شامل للعلاقة بين الشكاوى الجسدية والنفسية وتطور Tinnitus عبر مجموعات سكانية متنوعة.",
+      "research_gap_en": "Lack of comprehensive understanding of the relationship between somatic and psychological complaints and tinnitus progression across diverse populations.",
+      "subspecialty": "ear_nose_throat",
+      "audio_script_ar": "يسر فريق ORL Daily أن يقدم لكم ملخصًا لهذا البحث المهم حول دخول علاقة بين Tinnitus، Hyperacusis، والشكوى الجسدية في مرضى نرويجيين. استُخدمت استبيانات موثوقة لقياس شدة Tinnitus، Hyperacusis، والوظائف النفسية والجسدية. أظهرت النتائج أن العديد من المرضى يعانون من شكاوى جسدية ونفسية مرتبطة بزيادة أعراض Tinnitus، خاصة بين النساء وفي مراكز إعادة التأهيل. تؤكد الدراسة على أهمية التقييم الشامل والمتعدد التخصصات لإدارة مرضى Tinnitus بشكل فعال. هذا النهج يمكن أن يحسن نتائج العلاج ويعزز الرعاية الطبية المتخصصة. يُنصح الأطباء بأخذ هذه الشكاوى بعين الاعتبار عند وضع خطط علاجية شاملة ومتكاملة.",
+      "audio_script_en": "This is a summary of a significant study exploring the link between Tinnitus, Hyperacusis, and somatic complaints in a Norwegian patient sample. The study used validated questionnaires to assess tinnitus severity, hyperacusis, and associated mental health and somatic symptoms. The findings reveal that somatic complaints like headaches and dizziness are closely linked to higher tinnitus and hyperacusis levels, particularly among women and patients from rehabilitation centers. The research underscores the importance of a comprehensive, multidisciplinary evaluation approach for effective management. Incorporating these findings into clinical practice can improve patient outcomes and tailor interventions appropriately. Clinicians are encouraged to assess both somatic and psychological symptoms for holistic tinnitus treatment.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الأهم عند تقييم مرضى Tinnitus وفقًا للدراسة؟",
+          "q_en": "According to the study, what is the most important aspect when evaluating tinnitus patients?",
+          "options_ar": [
+            "أ) التركيز على الأعراض السمعية فقط",
+            "ب) التقييم الشامل للشكاوى الجسدية والنفسية",
+            "ج) الاعتماد فقط على تقييمات النفسي",
+            "د) استخدام تقنيات تصوير متقدمة"
+          ],
+          "options_en": [
+            "A) Focus only on auditory symptoms",
+            "B) Comprehensive assessment of somatic and psychological complaints",
+            "C) Rely solely on psychological evaluations",
+            "D) Use advanced imaging techniques"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت الدراسة أن التقييم الشامل للشكاوى الجسدية والنفسية ضروري لفهم الحالة بشكل كامل وفعالية خطة العلاج.",
+          "explanation_en": "The study demonstrated that comprehensive assessment of somatic and psychological complaints is essential for a complete understanding and effective management plan."
+        },
+        {
+          "q_ar": "ما هو الهدف الرئيسي من الدراسة؟",
+          "q_en": "What is the main objective of the study?",
+          "options_ar": [
+            "أ) اختبار تقنية جديدة لعلاج Tinnitus",
+            "ب) تقييم العلاقة بين الشكاوى الجسدية والنفسية و Tinnitus",
+            "ج) استكشاف تأثير الأدوية على Tinnitus",
+            "د) دراسة معدل انتشار Tinnitus في النرويج"
+          ],
+          "options_en": [
+            "A) Test a new treatment technique for tinnitus",
+            "B) Assess the relationship between somatic and psychological complaints and tinnitus",
+            "C) Explore the effect of medications on tinnitus",
+            "D) Study the prevalence of tinnitus in Norway"
+          ],
+          "answer": 1,
+          "explanation_ar": "هدف الدراسة هو تقييم العلاقة بين الشكاوى الجسدية والنفسية في مرضى Tinnitus وتحليل تأثيرها على الحالة الصحية بشكل عام.",
+          "explanation_en": "The study's goal was to evaluate the relationship between somatic and psychological complaints among tinnitus patients and analyze their impact on overall health."
+        },
+        {
+          "q_ar": "وفقًا للنتائج، من هم الأكثر عرضة للشكاوى الجسدية والنفسية المصاحبة؟",
+          "q_en": "According to the results, which group is more prone to co-occurring somatic and psychological complaints?",
+          "options_ar": [
+            "أ) الرجال من مركز إعادة التأهيل",
+            "ب) النساء من مركز إعادة التأهيل",
+            "ج) الرجال من عيادة السمع",
+            "د) الأطفال المصابين بـ Tinnitus"
+          ],
+          "options_en": [
+            "A) Men from hearing clinics",
+            "B) Women from rehabilitation centers",
+            "C) Men from audiology clinics",
+            "D) Children with tinnitus"
+          ],
+          "answer": 1,
+          "explanation_ar": "النتائج أظهرت أن النساء ومن المجموعات التي تم الاستقصاء من مراكز إعادة التأهيل عانين بشكل أكبر من الشكاوى الجسدية والنفسية.",
+          "explanation_en": "Results indicated that women and patients from rehabilitation centers experienced higher rates of somatic and psychological complaints."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026070601",
+      "title_ar": "ميدترونيك وكارل ستونرز يتعاونان على حلول جراحية متكاملة للأذن والأنف والحنجرة",
+      "title_en": "Medtronic and Karl Storz Collaborate on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-07-06",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أعلنت ميدترونيك وكارل ستونرز عن تعاون لتطوير حلول جراحية متكاملة لعمليات الأذن والأنف والحنجرة. يجمع هذا الشراكة بين خبرة ميدترونيك في الأجهزة الطبية وتكنولوجيا endoscopic الخاصة بكارل ستونرز لتحسين نتائج العمليات الجراحية. يهدف المبادرة إلى تبسيط عمليات ENT وتحسين رعاية المرضى. يمثل هذا التطور خطوة نحو أدوات جراحية أكثر تقدمًا وتكاملاً في ممارسات ENT.",
+      "summary_en": "Medtronic and Karl Storz have announced a collaboration to develop integrated surgical solutions for ENT procedures. This partnership combines Medtronic's medical device expertise with Karl Storz's endoscopic technology to improve surgical outcomes. The initiative aims to streamline ENT surgeries and enhance patient care. This development signals a move towards more advanced, integrated surgical tools in ENT practice.",
+      "practice_change_ar": "يجب على جراحي الأنف والأذن والحنجرة توقع أدوات جراحية أكثر تكاملًا وتقدمًا نتيجة لهذا التعاون، مما قد يحسن كفاءة الجراحة ونتائج المرضى.",
+      "practice_change_en": "ENT surgeons should anticipate more integrated and advanced surgical tools resulting from this collaboration, potentially improving surgical efficiency and patient outcomes.",
+      "future_impact_ar": "من المرجح أن تسرّع مثل هذه الشراكات الابتكار في تكنولوجيا جراحة الأنف والأذن والحنجرة وتؤثر على الممارسات القياسية المستقبلية.",
+      "future_impact_en": "Such partnerships are likely to accelerate innovation in ENT surgical technology and influence future standard practices.",
+      "why_important_ar": "قد يؤدي هذا التعاون إلى تحسينات كبيرة في دقة العمليات وسلامة المرضى في إجراءات الأذن والأنف والحنجرة.",
+      "why_important_en": "This collaboration may lead to significant improvements in surgical precision and patient safety in ENT procedures.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "يمتلك هذا التعاون إمكانات كبيرة لتحسين تقنيات جراحات ENT وتأثيره على الممارسة السريرية.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "تعلن شركة ميدترونيك وشركة كارل ستونرز عن شراكتهما لتطوير حلول جراحية متكاملة في مجال الأنف والأذن والحنجرة. يهدف هذا التعاون إلى تعزيز الكفاءة والجودة في عمليات ENT، مما يعود بالفائدة على المرضى والأطباء. من المتوقع أن يسهم هذا التعاون في دفع التقدم التقني وتحسين نتائج العمليات الجراحية مستقبلًا.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026070602",
+      "title_ar": "حجم و حصة سوق أجهزة الأنف والأذن والحنجرة | تقرير الصناعة [2026-2034]",
+      "title_en": "ENT Devices Market Size, Share | Industry Report [2026-2034]",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-07-06",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أصدرت شركة Fortune Business Insights تقريرًا صناعيًا شاملًا يتوقع النمو والاتجاهات في سوق أجهزة الأنف والأذن والحنجرة حتى عام 2034. يوضح التقرير حجم السوق وحصته والتقنيات الناشئة التي تؤثر على رعاية ENT. يمكن أن تؤثر هذه المعلومات على شراء أجهزة ENT والتخطيط الاستراتيجي. يبرز توسع السوق استمرار الابتكار والاستثمار في أدوات علاج ENT.",
+      "summary_en": "Fortune Business Insights has released a comprehensive industry report forecasting the growth and trends in the ENT devices market through 2034. The report details market size, share, and emerging technologies impacting ENT healthcare. This information can influence ENT device procurement and strategic planning. The expanding market underscores ongoing innovation and investment in ENT treatment tools.",
+      "practice_change_ar": "يجب على جراحي الأذن والأنف والحنجرة البقاء على اطلاع على الأجهزة الناشئة واتجاهات السوق لدمج العلاجات المبتكرة في الممارسة.",
+      "practice_change_en": "ENT surgeons should stay informed about emerging devices and market trends to incorporate innovative treatments into practice.",
+      "future_impact_ar": "يشير توسع السوق إلى استمرار الابتكار، مما قد يؤدي إلى أدوات جراحية جديدة وتحسين نتائج المرضى.",
+      "future_impact_en": "The expanding market indicates ongoing innovation, potentially leading to new surgical tools and improved patient outcomes.",
+      "why_important_ar": "يساعد فهم تطورات السوق جراحي الأنف والأذن والحنجرة على تحسين رعاية المرضى وتوقع التطورات التكنولوجية المستقبلية.",
+      "why_important_en": "Understanding market developments helps ENT surgeons improve patient care and anticipate future technological advancements.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 3,
+      "stars_reason_ar": "معلومات عامة عن السوق تهم جراحي ENT ولكنها لا تتعلق مباشرة بترقيات تقنية أو تغييرات سريرية.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "مرحباً، في خبر اليوم، أصدرت شركة Fortune Business Insights تقريرًا يتوقع نمو سوق أجهزة الأنف والأذن والحنجرة حتى عام 2034، مع استمرار الابتكار في هذا المجال. هذا يعني أن جراحي الأذن والأنف والحنجرة يجب أن يظلوا على اطلاع بأحدث الأجهزة والتقنيات لضمان تقديم أفضل رعاية للمرضى. مع توسع السوق، من المتوقع أن تظهر أدوات جراحية وتقنيات جديدة، مما يعزز تحسين نتائج المرضى وتطوير الممارسات السريرية.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026070603",
+      "title_ar": "فريق ميدترونيك يحصل على شهادة CE لمنصة روبوت Stealth AXiS في جراحة الأنف والأذن والحنجرة",
+      "title_en": "Medtronic earns CE mark for Stealth AXiS robot platform in ENT surgery",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-07-06",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "حصلت شركة ميدترونيك على شهادة CE لمنصة الروبوت Stealth AXiS، مما يعزز تطبيقها في جراحات الأنف والأذن والحنجرة. تتيح هذه الشهادة تسويق الجهاز واستخدامه في أنحاء أوروبا. تدمج منصة Stealth AXiS تقنية روبوتية متقدمة لمساعدة جراحي الأنف والأذن والحنجرة في الإجراءات طفيفة التوغل. يمثل هذا التطور خطوة إلى الأمام في خيارات الجراحة الروبوتية المتاحة للممارسين.",
+      "summary_en": "Medtronic has received the CE mark for its Stealth AXiS robotic platform, expanding its application in ENT surgeries. This certification allows the device to be marketed and used across Europe. The Stealth AXiS platform integrates advanced robotic technology to assist ENT surgeons in minimally invasive procedures. This development signifies a step forward in robotic ENT surgical options available to practitioners.",
+      "practice_change_ar": "يمكن لجراحي الأنف والأذن والحنجرة الآن استخدام منصة Stealth AXiS في أوروبا لتعزيز العمليات طفيفة التوغل.",
+      "practice_change_en": "ENT surgeons can now utilize the Stealth AXiS platform in Europe to enhance minimally invasive procedures.",
+      "future_impact_ar": "قد يسرع هذا التطور من اعتماد جراحات الأنف والأذن والحنجرة الروبوتية في أسواق جديدة ويشجع على المزيد من الابتكار.",
+      "future_impact_en": "This development may accelerate adoption of robotic ENT surgeries across new markets and foster further innovation.",
+      "why_important_ar": "ي موسع اعتماد شهادة CE الخيارات الجراحية الروبوتية في مجال الأنف والأذن والحنجرة، مما قد يحسن نتائج المرضى ودقة الجراحة.",
+      "why_important_en": "This CE mark approval broadens robotic surgical options in ENT, potentially improving patient outcomes and surgical precision.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "يعتبر تطور هام يعزز خيارات الجراحة الروبوتية في طب الأنف والأذن والحنجرة لكنه لا يزال قيد التوسع في الاستخدام.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "مرحباً، في خبر مهم لأطباء الأنف والأذن والحنجرة، حصلت شركة ميدترونيك على شهادة CE لمنصة الروبوت Stealth AXiS، مما يسمح باستخدامها في جراحات الأذن والأنف والحنجرة في أوروبا. هذه التطورة تفتح آفاقاً جديدة في جراحة الروبوت وتوفر أدوات محسنة للمدى الدقيق والجراحة طفيفة التوغل، مما يعزز نتائج المرضى ويزيد من خيارات الأطباء. من المتوقع أن يسرع ذلك اعتماد تقنيات الجراحة الروبوتية ويحفز على الابتكار في هذا المجال.",
+      "mcq": []
+    }
+  ]
+}
