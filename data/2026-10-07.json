@@ -1,0 +1,687 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T12:41:43Z",
+  "articles": [
+    {
+      "pmid": "42830325",
+      "title_ar": "Clinical and MRI morphometric characterization of symptomatic cerebellar tonsillar ectopia.",
+      "title_en": "Clinical and MRI morphometric characterization of symptomatic cerebellar tonsillar ectopia.",
+      "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+      "pub_date": "2026-Oct-05",
+      "doi": "10.1007/s10072-026-09453-y",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42830325/",
+      "pdf_url": null,
+      "study_design": "Retrospective comparative cohort: 83 adults with symptomatic 2–4 mm tonsillar ectopia, 16 patients with syndromic Chiari type 1 malformation, and 19 controls",
+      "summary_ar": "قارنت هذه الدراسة الاستعادية MRI لدى 83 بالغًا لديهم symptomatic cerebellar tonsillar ectopia بقياس 2–4 mm دون syringomyelia، و16 مريضًا لديهم syndromic Chiari type 1 malformation، و19 control. قُسّم مرضى ectopia إلى syndromic وincomplete syndromic وnon-syndromic groups، مع تقييم posterior cranial fossa وforamen magnum وcisterna magna. أظهرت مجموعتا tonsillar ectopia وChiari type 1 malformation أبعادًا أصغر لـ posterior cranial fossa مقارنةً بـ controls، وكان obliterated cisterna magna شائعًا، خصوصًا في Chiari group. أبلغت جميع الحالات المصنفة سريريًا على أنها syndromic عن exertion-induced occipital headache. ارتبطت أعراض Chiari-associated في مجموعة ectopia بانخفاض PCF width وFM inferior outlet area، كما أظهرت مجموعة syndromic ectopia حجمًا أصغر لـ posterior cranial fossa ومساحة أقل حول foramen magnum. تشير النتائج إلى أن بعض المرضى ذوي ectopia الأقل من 5 mm قد تظهر لديهم أعراض مرتبطة بتضيّق cisterna magna وhypoplasia حول foramen magnum، لكنها لا تثبت أن هذه القياسات تحدد العلاج أو تتنبأ بالنتائج.",
+      "summary_en": "This retrospective study compared MRI findings in 83 adults with symptomatic 2–4 mm cerebellar tonsillar ectopia without syringomyelia, 16 patients with syndromic Chiari type 1 malformation, and 19 controls. The ectopia cohort was classified as syndromic, incomplete syndromic, or non-syndromic, and imaging measures included the posterior cranial fossa, foramen magnum, and cisterna magna. Both the ectopia and Chiari groups had smaller posterior cranial fossae than controls, and cisterna magna obliteration was common, particularly in the Chiari group. All clinically syndromic cases reported exertion-induced occipital headache. In the ectopia cohort, Chiari-associated symptoms correlated with reduced posterior cranial fossa width and foramen magnum inferior outlet area; syndromic ectopia also showed reduced posterior fossa volume and space around the foramen magnum. These findings suggest that some patients with less than 5 mm of ectopia may have symptoms associated with a constricted cisterna magna and hypoplasia around the foramen magnum, but do not establish treatment thresholds or predict treatment outcomes.",
+      "practice_change_ar": "لا تبرر النتائج تغيير التدبير اليوم، لكنها تدعم عدم الاعتماد على قياس نزول tonsils وحده عند تقييم أعراض Chiari-like لدى مرضى tonsillar ectopia.",
+      "practice_change_en": "The findings do not justify an immediate change in management, but support not relying on tonsillar descent alone when assessing Chiari-like symptoms in patients with tonsillar ectopia.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية استباقية في تحديد ما إذا كانت قياسات posterior cranial fossa وforamen magnum تحسن اختيار المرضى للتقييم أو العلاج.",
+      "future_impact_en": "Future prospective studies may determine whether posterior cranial fossa and foramen magnum measurements improve patient selection for further evaluation or treatment.",
+      "why_important_ar": "تلفت الدراسة الانتباه إلى أن أعراض Chiari-like قد تحدث مع tonsillar ectopia أقل من الحد التقليدي، وقد ترتبط بتضيّق تشريحي إضافي.",
+      "why_important_en": "The study highlights that Chiari-like symptoms can occur with tonsillar ectopia below the conventional threshold and may be associated with additional anatomical narrowing.",
+      "vs_previous_ar": "تتجاوز الدراسة استخدام حد 5 mm وحده عبر فحص قياسات MRI إضافية لدى مرضى symptomatic ectopia دون syringomyelia.",
+      "vs_previous_en": "The study goes beyond the 5 mm threshold alone by examining additional MRI measurements in symptomatic ectopia without syringomyelia.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة مقارنة استعادية متوسطة الحجم (83 حالة ectopia) تقدم معرفة مفيدة عن الارتباطات السريرية والتشريحية، لكنها لا تثبت السببية أو تغيّر التدبير؛ كما أن المجلة ليست ضمن قائمة المجلات الأعلى تصنيفًا المحددة.",
+      "stars_reason_en": "A moderate-sized retrospective comparative study (83 ectopia cases) offers useful clinical and anatomical associations, but does not establish causality or change management; the journal is not among the specified top-tier journals.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسبة للنقاش بسبب تحديها للاعتماد على حد 5 mm وحده، مع ضرورة نقد تصميمها الاستعادي وعدم إثباتها فائدة قياسات MRI في توجيه العلاج.",
+      "jc_reason_en": "Suitable for discussion because it challenges reliance on the 5 mm threshold alone, while inviting critical appraisal of its retrospective design and the lack of evidence that MRI measurements guide treatment.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات استباقية متعددة المراكز لتحديد موثوقية قياسات MRI الإضافية وقدرتها على توقع الأعراض والاستجابة للعلاج لدى مرضى tonsillar ectopia.",
+      "research_gap_en": "Prospective multicenter studies are needed to determine the reliability of additional MRI measurements and their ability to predict symptoms and treatment response in patients with tonsillar ectopia.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نراجع اليوم دراسة عن symptomatic cerebellar tonsillar ectopia، وهي حالة قد تسبب أعراضًا شبيهة بـ Chiari type 1 malformation رغم أن نزول tonsils أقل من الحد التقليدي البالغ 5 mm. شملت الدراسة الاستعادية 83 بالغًا لديهم ectopia بمقدار 2 إلى 4 mm دون syringomyelia، إضافةً إلى 16 مريضًا لديهم syndromic Chiari type 1 malformation و19 control.\n\nقيّم الباحثون MRI للـ posterior cranial fossa، وforamen magnum، وcisterna magna، وقسّموا حالات ectopia إلى syndromic وincomplete syndromic وnon-syndromic groups. كانت posterior cranial fossa أصغر في مجموعتي ectopia وChiari مقارنةً بـ controls. وظهر obliterated cisterna magna لدى 53% من مجموعة syndromic ectopia، مقابل 81% من مجموعة Chiari. كما أبلغت جميع الحالات المصنفة سريريًا على أنها syndromic عن exertion-induced occipital headache.\n\nفي مجموعة ectopia، ارتبطت أعراض Chiari-associated بانخفاض posterior cranial fossa width وFM inferior outlet area. وأظهرت المجموعة syndromic مساحة أقل حول foramen magnum وحجمًا أصغر للـ posterior cranial fossa مقارنةً ببعض مجموعات ectopia الأخرى.\n\nما أهمية ذلك؟ تشير النتائج إلى أن قياس نزول tonsils وحده قد لا يصف كامل التشريح لدى بعض المرضى العرضيين. مع ذلك، هذه دراسة استعادية ولا تثبت أن القياسات الإضافية تسبب الأعراض، أو أنها تحدد من سيستفيد من العلاج. لذلك لا تغيّر الدراسة الممارسة مباشرة، لكنها تدعم قراءة MRI ضمن السياق السريري والتشريحي، بدل الاعتماد على حد 5 mm وحده.\n\nتستحق الدراسة النقاش في journal club بسبب سؤالها السريري المهم، لكن يلزم إجراء دراسات استباقية لتقييم موثوقية القياسات وقدرتها على توقع الأعراض أو الاستجابة للعلاج. الخلاصة: قد توجد سمات تضيق في posterior cranial fossa وforamen magnum لدى بعض المرضى ذوي ectopia الأقل من 5 mm، لكن الدليل الحالي ارتباطي وليس أساسًا لتغيير التدبير.",
+      "audio_script_en": "Today’s review examines symptomatic cerebellar tonsillar ectopia: a condition in which patients may have symptoms resembling Chiari type 1 malformation even though tonsillar descent is below the conventional 5 mm threshold. This retrospective study included 83 adults with 2–4 mm ectopia and no syringomyelia, 16 patients with syndromic Chiari type 1 malformation, and 19 controls.\n\nThe investigators assessed MRI measurements of the posterior cranial fossa, foramen magnum, and cisterna magna. The ectopia cases were grouped as syndromic, incomplete syndromic, or non-syndromic. Both the ectopia and Chiari groups had smaller posterior cranial fossae than controls. An obliterated cisterna magna was reported in 53% of the syndromic ectopia group and 81% of the Chiari group. Every clinically syndromic case reported exertion-induced occipital headache.\n\nWithin the ectopia cohort, Chiari-associated symptoms correlated with reduced posterior cranial fossa width and foramen magnum inferior outlet area. The syndromic ectopia group also had reduced posterior fossa volume and less space around the foramen magnum compared with other ectopia groups.\n\nWhy does this matter? The findings suggest that tonsillar descent alone may not capture the full anatomical picture in some symptomatic patients. However, this is a retrospective study: it cannot establish that the measured features cause symptoms, or that these measurements identify who will benefit from treatment. It does not directly change clinical practice, but supports interpreting MRI alongside the clinical presentation and other anatomical features rather than relying only on the 5 mm cutoff.\n\nThis article is suitable for journal club because it addresses a relevant diagnostic question, while also prompting discussion of the limits of retrospective associations. Prospective studies are needed to test measurement reliability and whether these features predict symptoms or treatment response. The take-home message is that some patients with less than 5 mm of ectopia may have additional posterior fossa or foramen magnum narrowing, but current evidence is associative and does not establish a new management pathway.",
+      "mcq": [
+        {
+          "q_ar": "ما تصميم الدراسة ومجموعات المقارنة؟",
+          "q_en": "What was the study design and comparison groups?",
+          "options_ar": [
+            "أ) RCT شملت 83 مريضًا",
+            "ب) دراسة مقارنة استعادية شملت 83 حالة ectopia و16 حالة Chiari و19 control",
+            "ج) دراسة مستقبلية شملت مرضى syringomyelia فقط",
+            "د) systematic review لنتائج الجراحة"
+          ],
+          "options_en": [
+            "A) An RCT involving 83 patients",
+            "B) A retrospective comparison of 83 ectopia cases, 16 Chiari cases, and 19 controls",
+            "C) A prospective study limited to patients with syringomyelia",
+            "D) A systematic review of surgical outcomes"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت هذه دراسة مقارنة استعادية ضمت ثلاث مجموعات: 83 بالغًا لديهم symptomatic ectopia دون syringomyelia، و16 مريضًا لديهم syndromic Chiari type 1 malformation، و19 control.",
+          "explanation_en": "This was a retrospective comparative study with three groups: 83 adults with symptomatic ectopia without syringomyelia, 16 patients with syndromic Chiari type 1 malformation, and 19 controls."
+        },
+        {
+          "q_ar": "أي عرض أبلغت عنه جميع الحالات المصنفة سريريًا على أنها syndromic؟",
+          "q_en": "Which symptom was reported by all cases classified as clinically syndromic?",
+          "options_ar": [
+            "أ) exertion-induced occipital headache",
+            "ب) فقدان سمع مفاجئ",
+            "ج) vertigo مع تغير الوضعية",
+            "د) facial paralysis"
+          ],
+          "options_en": [
+            "A) Exertion-induced occipital headache",
+            "B) Sudden hearing loss",
+            "C) Positional vertigo",
+            "D) Facial paralysis"
+          ],
+          "answer": 0,
+          "explanation_ar": "ذكر الملخص أن جميع الحالات السريرية المصنفة syndromic أبلغت عن exertion-induced occipital headache.",
+          "explanation_en": "The abstract reports that all clinically syndromic cases experienced exertion-induced occipital headache."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأكثر اتزانًا من نتائج الدراسة؟",
+          "q_en": "Which is the most appropriately cautious interpretation of the findings?",
+          "options_ar": [
+            "أ) يجب إجراء الجراحة لكل مريض لديه ectopia أقل من 5 mm",
+            "ب) قياس tonsillar descent وحده قد لا يصف كامل السمات التشريحية لدى بعض المرضى العرضيين",
+            "ج) تثبت الدراسة أن ضيق cisterna magna يسبب جميع الأعراض",
+            "د) لا توجد علاقة بين MRI والأعراض"
+          ],
+          "options_en": [
+            "A) Every patient with less than 5 mm of ectopia should undergo surgery",
+            "B) Tonsillar descent alone may not capture all anatomical features in some symptomatic patients",
+            "C) The study proves that cisterna magna narrowing causes all symptoms",
+            "D) There is no relationship between MRI findings and symptoms"
+          ],
+          "answer": 1,
+          "explanation_ar": "وجدت الدراسة ارتباطات بين الأعراض وبعض قياسات MRI، لكنها استعادية ولا تثبت السببية أو تحدد علاجًا جراحيًا.",
+          "explanation_en": "The study found associations between symptoms and some MRI measurements, but its retrospective design does not establish causation or define a surgical treatment indication."
+        }
+      ]
+    },
+    {
+      "pmid": "42838698",
+      "title_ar": "Comparison of the Effects of High-Flow Nasal Cannula Oxygen and Jet Ventilation Techniques.",
+      "title_en": "Comparison of the Effects of High-Flow Nasal Cannula Oxygen and Jet Ventilation Techniques.",
+      "journal": "The Laryngoscope",
+      "pub_date": "2026-Oct-06",
+      "doi": "10.1002/lary.70970",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42838698/",
+      "pdf_url": null,
+      "study_design": "Prospective randomized controlled trial (RCT), n=36",
+      "summary_ar": "قارنت هذه الدراسة العشوائية المستقبلية بين HFJV وHFNC لدى 36 مريضًا خضعوا لجراحات endolaryngeal تحت TIVA مع neuromuscular blockade. كانت PaCO2 متقاربة بين المجموعتين عند baseline وبعد 10 دقائق، لكنها ارتفعت في مجموعة HFNC عند 20 دقيقة مقارنةً بمجموعة HFJV (55.5 مقابل 44.5 mmHg؛ p=0.002). عند نهاية الجراحة، بلغ median PaCO2 في مجموعة HFNC مقدار 66.5 mmHg مقابل 44.5 mmHg مع HFJV (p<0.001). ارتبط ذلك بانخفاض pH وارتفاع lactate في مجموعة HFNC عند نهاية الإجراء. كانت PaO2 أعلى مع HFJV عند 30 دقيقة وعند نهاية الجراحة. تشير النتائج إلى أن HFNC قد يوفر مجالًا جراحيًا دون أنبوب في الإجراءات القصيرة، لكنه يرتبط بفرط CO2 وحماض تنفسي متزايدين مع طول الإجراء. يقترح الباحثون حدًا إرشاديًا قدره 20 دقيقة، لكن صغر العينة يحد من تعميمه.",
+      "summary_en": "This prospective randomized trial compared HFJV with HFNC in 36 patients undergoing endolaryngeal surgery with TIVA and neuromuscular blockade. PaCO2 was similar at baseline and 10 minutes, but was higher with HFNC at 20 minutes (55.5 vs. 44.5 mmHg; p=0.002). At surgical conclusion, median PaCO2 was 66.5 mmHg with HFNC versus 44.5 mmHg with HFJV (p<0.001). The HFNC group also had lower pH and higher lactate at the end of surgery. PaO2 was higher with HFJV at 30 minutes and at conclusion. The findings suggest HFNC can provide a tubeless field for shorter procedures but may lead to progressive hypercapnia and respiratory acidosis over time. The authors propose a 20-minute threshold, although the small sample limits how confidently this can be applied.",
+      "practice_change_ar": "لا يبرر هذا RCT تغييرًا عامًا في الممارسة، لكنه يدعم تفضيل HFJV على HFNC عند توقع إطالة جراحة endolaryngeal، مع مراقبة التهوية والغازات.",
+      "practice_change_en": "This RCT does not justify a universal practice change, but supports considering HFJV over HFNC when endolaryngeal surgery is expected to be prolonged, with close monitoring of ventilation and blood gases.",
+      "future_impact_ar": "قد تساعد دراسات أكبر في تحديد مدة آمنة لاستخدام HFNC والتحقق من عتبة 20 دقيقة بحسب نوع الإجراء وخصائص المريض.",
+      "future_impact_en": "Larger studies could establish a safe duration for HFNC and validate the proposed 20-minute threshold across procedures and patient groups.",
+      "why_important_ar": "توضح الدراسة أن توفير مجال جراحي خالٍ من الأنبوب باستخدام HFNC قد يأتي على حساب تراكم CO2 والاضطراب الحمضي القاعدي أثناء الإجراءات الأطول.",
+      "why_important_en": "The study highlights that the tubeless surgical field provided by HFNC may come at the cost of CO2 accumulation and acid-base disturbance during longer procedures.",
+      "vs_previous_ar": "تضيف الدراسة مقارنة عشوائية مباشرة لقياسات PaCO2 وpH وlactate عبر الزمن، وتقترح عتبة 20 دقيقة، بدل الاكتفاء بالتركيز على سهولة الوصول الجراحي.",
+      "vs_previous_en": "This trial adds a direct randomized comparison of serial PaCO2, pH, and lactate measurements and proposes a 20-minute threshold, extending beyond a focus on surgical access alone.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة RCT في مجلة The Laryngoscope، لكن حجمها صغير (36 مريضًا) والنتيجة السريرية المهمة، وهي عتبة 20 دقيقة، تحتاج إلى تحقق أكبر؛ لذلك تقدم معرفة مفيدة دون أن تغيّر الممارسة وحدها.",
+      "stars_reason_en": "This is an RCT in The Laryngoscope, but the sample is small (36 patients) and the proposed 20-minute clinical threshold requires validation; it is useful evidence but not practice-changing on its own.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق المناقشة بسبب المقارنة العشوائية المباشرة بين طريقتين شائعتين لإدارة shared airway، وبسبب أهمية تفسير عتبة 20 دقيقة في ضوء صغر العينة.",
+      "jc_reason_en": "It merits discussion for its direct randomized comparison of two shared-airway ventilation approaches and for evaluating the proposed 20-minute threshold in light of the small sample.",
+      "watch": true,
+      "watch_detail_ar": "راقب استخدام HFNC في جراحات endolaryngeal؛ إذ تشير هذه النتائج إلى ضرورة موازنة المجال الخالي من الأنبوب مع خطر فرط CO2 عند إطالة الإجراء.",
+      "watch_detail_en": "Track HFNC use in endolaryngeal surgery because these findings highlight the need to balance a tubeless field against the risk of hypercapnia during prolonged procedures.",
+      "watch_type": "device",
+      "research_gap_ar": "يلزم إجراء RCT أكبر ومتعدد المراكز لتحديد أثر مدة الإجراء وخصائص المرضى، والتحقق من حد 20 دقيقة والنتائج السريرية ذات الصلة.",
+      "research_gap_en": "A larger multicenter RCT is needed to assess the effects of procedure duration and patient characteristics, validate the 20-minute threshold, and measure clinically relevant outcomes.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة في The Laryngoscope قارنت بين HFNC وHFJV في جراحات endolaryngeal، وهي إجراءات تتطلب موازنة الوصول الجراحي مع التهوية. شملت الدراسة العشوائية المستقبلية 36 مريضًا من فئتي ASA I وII، وتلقى المشاركون TIVA وneuromuscular blockade وفق بروتوكول موحد.\n\nكان PaCO2 متقاربًا في البداية وبعد عشر دقائق. لكن عند الدقيقة العشرين ارتفع في مجموعة HFNC إلى 55.5 mmHg، مقارنةً بـ44.5 mmHg مع HFJV. وعند نهاية الجراحة بلغ median PaCO2 مقدار 66.5 mmHg مع HFNC مقابل 44.5 mmHg مع HFJV. كما سُجل في مجموعة HFNC انخفاض أكبر في pH وارتفاع في lactate، بينما كانت PaO2 أعلى مع HFJV عند 30 دقيقة وعند نهاية الإجراء.\n\nالرسالة العملية ليست أن HFNC غير مناسب دائمًا؛ فهو يوفر مجالًا جراحيًا دون أنبوب وقد يكون ملائمًا للإجراءات القصيرة. لكن النتائج تحذر من فرط CO2 والحماض التنفسي مع استمرار استخدامه. اقترح الباحثون حدًا قدره 20 دقيقة، إلا أن هذا لا ينبغي اعتباره قاعدة ثابتة اعتمادًا على دراسة صغيرة واحدة. عند توقع إجراء أطول، تدعم النتائج النظر في HFJV، مع اختيار التهوية ومراقبتها بما يتناسب مع المريض والإجراء.\n\nنقيّم الدراسة بثلاث نجوم وثقة متوسطة: تصميمها العشوائي ومجلة النشر نقطتا قوة، لكن العينة صغيرة والعتبة المقترحة تحتاج إلى تحقق. وهي مناسبة للنقاش في journal club، خصوصًا حول مراقبة PaCO2، واختيار تقنية التهوية، وما إذا كانت النتائج قابلة للتعميم على إجراءات ومرضى مختلفين. الخطوة البحثية التالية هي RCT أكبر ومتعدد المراكز يختبر عتبة 20 دقيقة ويربط تغيرات الغاز بالنتائج السريرية.",
+      "audio_script_en": "Today we review a study in The Laryngoscope comparing HFNC with HFJV for endolaryngeal surgery, where ventilation must be balanced against surgical access. This prospective randomized trial enrolled 36 ASA I–II patients. Both groups received standardized TIVA and neuromuscular blockade.\n\nPaCO2 was similar at baseline and after 10 minutes. At 20 minutes, however, it was 55.5 mmHg with HFNC versus 44.5 mmHg with HFJV. By the end of surgery, median PaCO2 reached 66.5 mmHg in the HFNC group, compared with 44.5 mmHg in the HFJV group. The HFNC group also had lower pH and higher lactate at the end of the procedure. PaO2 was higher with HFJV at 30 minutes and at surgical conclusion.\n\nThe practical message is not that HFNC is unsuitable in every case. It can provide a tubeless field and may be useful for short procedures. However, these results raise concern about progressive hypercapnia and respiratory acidosis with longer use. The authors propose a 20-minute threshold, but a small single trial is not enough to establish this as a firm rule. When a longer procedure is anticipated, the findings support considering HFJV, while tailoring ventilation and monitoring to the patient and procedure.\n\nWe rate the study three stars with moderate confidence. Its randomized design and publication in a relevant specialty journal are strengths, but the sample is small and the proposed threshold needs validation. It is a good journal-club paper, particularly for discussing PaCO2 monitoring, ventilation-technique selection, and generalizability to other procedures and patients. The next step is a larger multicenter RCT that tests the 20-minute threshold and evaluates clinical outcomes alongside blood-gas changes.",
+      "mcq": [
+        {
+          "q_ar": "ما الفرق في PaCO2 عند نهاية الجراحة بين مجموعتي HFNC وHFJV؟",
+          "q_en": "What was the difference in PaCO2 between the HFNC and HFJV groups at surgical conclusion?",
+          "options_ar": [
+            "أ) كان 44.5 mmHg مع HFNC و66.5 mmHg مع HFJV",
+            "ب) كان 66.5 mmHg مع HFNC و44.5 mmHg مع HFJV",
+            "ج) كان متساويًا في المجموعتين عند 55.5 mmHg",
+            "د) لم يُقَس PaCO2 عند نهاية الجراحة"
+          ],
+          "options_en": [
+            "A) 44.5 mmHg with HFNC and 66.5 mmHg with HFJV",
+            "B) 66.5 mmHg with HFNC and 44.5 mmHg with HFJV",
+            "C) Equal in both groups at 55.5 mmHg",
+            "D) PaCO2 was not measured at surgical conclusion"
+          ],
+          "answer": 1,
+          "explanation_ar": "بلغ median PaCO2 عند نهاية الجراحة 66.5 mmHg مع HFNC مقابل 44.5 mmHg مع HFJV.",
+          "explanation_en": "Median PaCO2 at surgical conclusion was 66.5 mmHg with HFNC versus 44.5 mmHg with HFJV."
+        },
+        {
+          "q_ar": "ما النتيجة التي ظهرت في مجموعة HFNC عند نهاية الجراحة إلى جانب ارتفاع PaCO2؟",
+          "q_en": "Which finding accompanied the higher PaCO2 in the HFNC group at surgical conclusion?",
+          "options_ar": [
+            "أ) ارتفاع pH وانخفاض lactate",
+            "ب) انخفاض pH وارتفاع lactate",
+            "ج) ارتفاع PaO2 وانخفاض lactate",
+            "د) عدم وجود اختلاف في pH أو lactate"
+          ],
+          "options_en": [
+            "A) Higher pH and lower lactate",
+            "B) Lower pH and higher lactate",
+            "C) Higher PaO2 and lower lactate",
+            "D) No difference in pH or lactate"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتبط ارتفاع PaCO2 مع HFNC بانخفاض pH إلى 7.21 وارتفاع lactate إلى 3.4 mmol/L عند نهاية الإجراء.",
+          "explanation_en": "Higher PaCO2 with HFNC was accompanied by a pH of 7.21 and lactate of 3.4 mmol/L at the end of the procedure."
+        },
+        {
+          "q_ar": "كيف ينبغي تفسير اقتراح حد 20 دقيقة لاستخدام HFNC؟",
+          "q_en": "How should the proposed 20-minute threshold for HFNC use be interpreted?",
+          "options_ar": [
+            "أ) قاعدة ثابتة مثبتة لجميع المرضى والإجراءات",
+            "ب) اقتراح يستند إلى دراسة صغيرة ويحتاج إلى تحقق إضافي",
+            "ج) دليل على أن HFNC أفضل من HFJV بعد 20 دقيقة",
+            "د) توصية بإيقاف قياس PaCO2 بعد 10 دقائق"
+          ],
+          "options_en": [
+            "A) A firm rule established for all patients and procedures",
+            "B) A proposal from a small trial that needs further validation",
+            "C) Evidence that HFNC is superior to HFJV after 20 minutes",
+            "D) A recommendation to stop measuring PaCO2 after 10 minutes"
+          ],
+          "answer": 1,
+          "explanation_ar": "اقترح الباحثون حد 20 دقيقة بناءً على نتائج RCT صغير؛ لذلك يحتاج الاقتراح إلى دراسات أكبر قبل اعتماده كقاعدة عامة.",
+          "explanation_en": "The authors proposed the 20-minute threshold from a small RCT, so larger studies are needed before adopting it as a general rule."
+        }
+      ]
+    },
+    {
+      "pmid": "42836382",
+      "title_ar": "Safety Profile of Standardized Tranexamic Acid (TXA) Dosing in Rhytidectomy: A Retrospective Comparative Cohort Study.",
+      "title_en": "Safety Profile of Standardized Tranexamic Acid (TXA) Dosing in Rhytidectomy: A Retrospective Comparative Cohort Study.",
+      "journal": "Aesthetic surgery journal",
+      "pub_date": "2026-Oct-06",
+      "doi": "10.1093/asj/sjag219",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42836382/",
+      "pdf_url": null,
+      "study_design": "Retrospective comparative cohort, single surgeon, n=1,036",
+      "summary_ar": "قيّمت هذه الدراسة الاستعادية المقارنة سلامة استخدام tranexamic acid (TXA) ممزوجًا مع local anesthetic أثناء combined facial and cervical rhytidectomy. شملت الدراسة 1,036 مريضًا، منهم 556 في مجموعة TXA و480 في مجموعة non-TXA، خلال الفترة 2012–2025. استُخدمت تراكيز محددة تبلغ 9.1 mg/mL للـincisional infiltration و0.8 mg/mL في tumescent solution، بمتوسط جرعة إجمالية قدره 582.6 mg لكل حالة. لم يرتبط TXA بزيادة في minor أو major ischemic events أو systemic complications. حدث distal flap vascular compromise الذي استلزم topical nitroglycerin بمعدلات متقاربة بين المجموعتين، ولم تُسجل حالات permanent nerve paralysis. تدعم النتائج سلامة هذا البروتوكول المحدد، لكنها تظل محدودة بتصميم الدراسة الاستعادي وكونها من مركز واحد وجراح واحد.",
+      "summary_en": "This retrospective comparative cohort evaluated the safety of tranexamic acid (TXA) mixed with local anesthetic for combined facial and cervical rhytidectomy. It included 1,036 patients: 556 in the TXA cohort and 480 in the non-TXA cohort, treated from 2012 to 2025. The standardized protocol used 9.1 mg/mL for incisional infiltration and 0.8 mg/mL in tumescent solution, with a mean total dose of 582.6 mg per case. TXA was not associated with increased minor or major ischemic events or systemic complications. Distal flap vascular compromise requiring topical nitroglycerin occurred at similar rates in both groups, and no permanent nerve paralysis was observed. The findings support the safety of this defined protocol, but are limited by the retrospective, single-surgeon design.",
+      "practice_change_ar": "لا تبرر هذه النتائج تغيير الممارسة وحدها، لكنها تقدم طمأنة بشأن سلامة استخدام TXA وفق الجرعات المحددة لدى مرضى rhytidectomy.",
+      "practice_change_en": "These findings alone do not warrant a change in practice, but provide reassurance about TXA safety when the specified dosing protocol is used for rhytidectomy.",
+      "future_impact_ar": "قد تساعد النتائج في تصميم دراسات مستقبلية متعددة المراكز تقارن فعالية وجرعات TXA مع متابعة موحدة للمضاعفات.",
+      "future_impact_en": "The findings may inform future multicenter studies comparing TXA efficacy and dosing with standardized complication surveillance.",
+      "why_important_ar": "تقدم الدراسة بيانات سلامة من عينة كبيرة حول TXA الموضعي بجرعات موحدة في facelift surgery، حيث ظلت المخاوف المتعلقة بسلامة flap قائمة.",
+      "why_important_en": "This large cohort provides safety data for standardized topical TXA dosing in facelift surgery, where concerns about flap safety persist.",
+      "vs_previous_ar": "على خلاف الأدبيات السابقة المتباينة في الجرعات وطرق الإعطاء، درست هذه الورقة بروتوكولًا موحدًا وجرعة إجمالية موثقة.",
+      "vs_previous_en": "Unlike prior literature with variable doses and routes, this study evaluated a standardized protocol with a documented mean total dose.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة cohort استعادية مقارنة كبيرة (n=1,036) تقدم معرفة مفيدة عن سلامة TXA بجرعات موحدة، لكن تصميمها من جراح واحد وعدم وجود دليل على تغيير الممارسة يحدان من قوة الاستنتاج.",
+      "stars_reason_en": "This large retrospective comparative cohort (n=1,036) adds useful safety information on standardized TXA dosing, but its single-surgeon design and lack of practice-changing evidence limit the strength of its conclusions.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق الدراسة النقاش بسبب حجم العينة الكبير وتوحيد جرعات TXA، مع أهمية تقييم احتمال confounding والتحيز الناتج عن التصميم الاستعادي.",
+      "jc_reason_en": "The large cohort and standardized TXA dosing merit discussion, alongside potential confounding and bias inherent to the retrospective design.",
+      "watch": true,
+      "watch_detail_ar": "يستحق TXA المتابعة كدواء مساعد في rhytidectomy، إذ توفر هذه الدراسة بيانات سلامة لبروتوكول infiltration محدد دون إثبات فعالية مقارنة.",
+      "watch_detail_en": "TXA is worth tracking as an adjunct in rhytidectomy; this study provides safety data for a defined infiltration protocol but does not establish comparative efficacy.",
+      "watch_type": "drug",
+      "research_gap_ar": "تحتاج الأدلة إلى دراسة prospective متعددة المراكز تقارن efficacy وsafety لبروتوكولات TXA المختلفة مع تعريف موحد للأحداث الإقفارية والمضاعفات الجهازية.",
+      "research_gap_en": "Prospective multicenter studies should compare the efficacy and safety of different TXA protocols using standardized definitions of ischemic events and systemic complications.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نستعرض اليوم دراسة عن سلامة tranexamic acid، أو TXA، عند إضافته إلى local anesthetic في عمليات combined facial and cervical rhytidectomy. خلفية الدراسة هي أن TXA ارتبط في تقارير سابقة بانخفاض النزف وبعض النتائج المبكرة بعد facelift surgery، لكن تفسير الأدلة صعب بسبب اختلاف الجرعات وطرق الإعطاء والتقنيات الجراحية. لذلك هدفت هذه الدراسة إلى فحص المضاعفات باستخدام بروتوكول محدد.\n\nهذه دراسة retrospective comparative cohort من جراح واحد، وشملت 1,036 مريضًا أُجريت لهم العملية تحت intravenous sedation بين عامي 2012 و2025. تلقى 556 مريضًا TXA، بينما لم يتلقه 480. كان تركيز TXA المستخدم 9.1 mg/mL للـincisional infiltration و0.8 mg/mL في tumescent solution، وكان متوسط الجرعة الإجمالية 582.6 mg لكل حالة.\n\nلم تجد الدراسة زيادة في minor أو major ischemic events أو systemic complications مرتبطة بـTXA. كما حدث distal flap vascular compromise الذي استلزم topical nitroglycerin بمعدلات متقاربة بين المجموعتين، ولم تسجل أي حالة permanent nerve paralysis. هذه نتائج مطمئنة بشأن السلامة ضمن هذا البروتوكول، لكنها لا تثبت أن TXA يحسن النتائج أو أنه آمن بالقدر نفسه مع جرعات وتقنيات مختلفة.\n\nنقطة القوة الأساسية هي حجم العينة الكبير ووجود مجموعة مقارنة، إضافة إلى وصف الجرعات بصورة واضحة. أما القيود فتشمل التصميم الاستعادي، والاعتماد على خبرة جراح واحد، واحتمال وجود confounding، وعدم كفاية الملخص لتقييم معدلات كل مضاعفة أو الفروق الدقيقة في efficacy. لذلك لا تستدعي الدراسة تغيير الممارسة بمفردها، لكنها تضيف معرفة مفيدة للجراحين الذين يستخدمون TXA أو يفكرون فيه في rhytidectomy. والخطوة التالية هي دراسات prospective متعددة المراكز تقارن الجرعات والفعالية والسلامة باستخدام تعريفات موحدة للمضاعفات.",
+      "audio_script_en": "Today we review a study of tranexamic acid, or TXA, mixed with local anesthetic for combined facial and cervical rhytidectomy. Previous reports have associated TXA with reduced blood loss and improvements in some early postoperative outcomes after facelift surgery. However, interpretation has been difficult because dose, route of administration, and operative technique vary. This study aimed to assess complications using a defined protocol.\n\nThe authors conducted a retrospective comparative cohort study from one surgeon’s practice. The study included 1,036 patients who underwent surgery under intravenous sedation between 2012 and 2025. A total of 556 patients received TXA and 480 did not. TXA concentrations were 9.1 mg/mL for incisional infiltration and 0.8 mg/mL in the tumescent solution; the mean total dose was 582.6 mg per case.\n\nTXA was not associated with an increase in minor or major ischemic events or systemic complications. Distal flap vascular compromise requiring topical nitroglycerin occurred at similar rates in the two cohorts, and there were no cases of permanent nerve paralysis. These findings are reassuring about safety with this protocol, but they do not establish that TXA improves outcomes or that the same safety profile applies to other doses and techniques.\n\nKey strengths include the large sample, a comparison group, and clear reporting of the dosing protocol. Limitations include the retrospective, single-surgeon design, possible confounding, and limited information in the abstract on individual complication rates and comparative efficacy. The study does not, by itself, justify a change in practice. It does provide useful safety information for surgeons who use or are considering TXA in rhytidectomy. Prospective multicenter studies comparing dose, efficacy, and safety with standardized complication definitions are still needed.",
+      "mcq": [
+        {
+          "q_ar": "ما تصميم الدراسة وحجم العينة؟",
+          "q_en": "What were the study design and sample size?",
+          "options_ar": [
+            "أ) RCT شملت 120 مريضًا",
+            "ب) دراسة cohort استعادية مقارنة شملت 1,036 مريضًا",
+            "ج) دراسة prospective شملت 45 مريضًا",
+            "د) سلسلة حالات شملت 9 مرضى"
+          ],
+          "options_en": [
+            "A) An RCT of 120 patients",
+            "B) A retrospective comparative cohort of 1,036 patients",
+            "C) A prospective study of 45 patients",
+            "D) A case series of 9 patients"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت الدراسة cohort استعادية مقارنة من جراح واحد وشملت 1,036 مريضًا: 556 في مجموعة TXA و480 في مجموعة non-TXA.",
+          "explanation_en": "This was a single-surgeon retrospective comparative cohort of 1,036 patients: 556 in the TXA group and 480 in the non-TXA group."
+        },
+        {
+          "q_ar": "ما متوسط الجرعة الإجمالية من TXA لكل حالة؟",
+          "q_en": "What was the mean total TXA dose per case?",
+          "options_ar": [
+            "أ) 58.3 mg",
+            "ب) 250 mg",
+            "ج) 582.6 mg",
+            "د) 1,000 mg"
+          ],
+          "options_en": [
+            "A) 58.3 mg",
+            "B) 250 mg",
+            "C) 582.6 mg",
+            "D) 1,000 mg"
+          ],
+          "answer": 2,
+          "explanation_ar": "كان متوسط الجرعة الإجمالية 582.6 mg لكل حالة، مع تراكيز محددة للـincisional infiltration وtumescent solution.",
+          "explanation_en": "The mean total dose was 582.6 mg per case, using defined concentrations for incisional infiltration and tumescent solution."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن أثر هذه الدراسة على الممارسة؟",
+          "q_en": "What is the most appropriate conclusion about this study’s impact on practice?",
+          "options_ar": [
+            "أ) تثبت أن TXA يمنع جميع مضاعفات flap",
+            "ب) توجب إعطاء TXA لكل مريض يخضع لـrhytidectomy",
+            "ج) تقدم طمأنة عن السلامة مع البروتوكول المحدد، لكنها لا تكفي وحدها لتغيير الممارسة",
+            "د) تثبت وجود زيادة في systemic complications"
+          ],
+          "options_en": [
+            "A) It proves TXA prevents all flap complications",
+            "B) It mandates TXA for every patient undergoing rhytidectomy",
+            "C) It provides reassurance about safety with the defined protocol, but is not sufficient alone to change practice",
+            "D) It proves an increase in systemic complications"
+          ],
+          "answer": 2,
+          "explanation_ar": "لم تجد الدراسة زيادة في ischemic events أو systemic complications، لكن تصميمها الاستعادي ومن مركز واحد لا يثبت الفعالية ولا يبرر تغيير الممارسة وحده.",
+          "explanation_en": "The study found no increase in ischemic events or systemic complications, but its retrospective single-surgeon design neither establishes efficacy nor independently warrants a practice change."
+        }
+      ]
+    },
+    {
+      "pmid": "42838783",
+      "title_ar": "Immune Checkpoint Inhibitors and Laryngological Outcomes in Patients with Non-Head and Neck Cancer.",
+      "title_en": "Immune Checkpoint Inhibitors and Laryngological Outcomes in Patients with Non-Head and Neck Cancer.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Oct-06",
+      "doi": "10.1016/j.jvoice.2026.09.031",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42838783/",
+      "pdf_url": null,
+      "study_design": "Retrospective matched cohort study using TriNetX; 123,628 patients per cohort",
+      "summary_ar": "استخدمت هذه الدراسة قاعدة بيانات TriNetX لمقارنة نتائج laryngological لدى بالغين مصابين بأورام غير head and neck عولجوا بـ ICI أو بعلاجات antineoplastic جهازية أخرى. بعد matching على عوامل سريرية وديموغرافية، شملت كل مجموعة 123,628 مريضًا، مع استبعاد عوامل سابقة مهمة في head and neck. ارتبط التعرض لـ ICI بارتفاع hazard of voice disturbance وvocal fold paralysis وxerostomia وdysphagia وoral mucositis في المتابعة عند 6 أشهر وسنة و5 سنوات. كما ارتفع laryngospasm عند 5 سنوات، بينما لم تختلف معدلات acute أو chronic laryngitis أو laryngeal edema أو chronic pharyngitis بوضوح. هذه نتائج رصدية قائمة على تشخيصات السجلات، ولذلك تُظهر association ولا تثبت السببية أو مقدار الخطر المطلق. تدعم النتائج سؤال المرضى عن الأعراض الصوتية والفموية والبلعية وتقييم الشكاوى الجديدة أثناء علاج ICI.",
+      "summary_en": "This TriNetX retrospective matched cohort study compared laryngological outcomes in adults with non-head and neck cancers receiving ICIs or other systemic antineoplastic therapies. After matching, each cohort included 123,628 patients, with relevant prior head and neck conditions excluded. ICI exposure was associated with higher hazards of voice disturbance, vocal fold paralysis, xerostomia, dysphagia, and oral mucositis at 6 months, 1 year, and 5 years. Laryngospasm was also elevated at 5 years, while acute or chronic laryngitis, laryngeal edema, and chronic pharyngitis did not differ significantly. Because this is observational database research relying on coded diagnoses, it establishes associations rather than causation or absolute risk. The findings support counseling patients and promptly assessing new voice, oral, or swallowing symptoms during ICI treatment.",
+      "practice_change_ar": "اسأل مرضى ICI عن تغير الصوت وجفاف الفم وصعوبات البلع، وقيّم الأعراض الجديدة مبكرًا دون افتراض أن ICI هو سببها.",
+      "practice_change_en": "Ask patients receiving ICIs about voice changes, dry mouth, and swallowing difficulty, and assess new symptoms promptly without assuming ICI causation.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية ذات قياسات سريرية موحدة في تحديد الخطر المطلق وآليات هذه الأعراض ومن الأكثر عرضة لها.",
+      "future_impact_en": "Future studies with standardized clinical assessments may clarify absolute risks, mechanisms, and which patients are most susceptible.",
+      "why_important_ar": "تقدم الدراسة الكبيرة إشارة سريرية إلى ارتباط ICI بمجموعة من المشكلات الصوتية والبلعية والفموية لدى مرضى لا يعانون من سرطان head and neck.",
+      "why_important_en": "This large study signals an association between ICI use and several voice, swallowing, and oral problems in patients without head and neck cancer.",
+      "vs_previous_ar": "توسع الدراسة المعرفة السابقة بالآثار المناعية الجانبية عبر فحص نتائج laryngological ومقارنتها بعلاجات جهازية أخرى وعلى فترات متابعة متعددة.",
+      "vs_previous_en": "The study extends knowledge of immune-related adverse events by assessing laryngological outcomes against other systemic therapies across multiple follow-up intervals.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة cohort استعادية كبيرة ومطابقة، تقدم معرفة مفيدة حول نتائج laryngological، لكن تصميمها الرصدي واعتمادها على بيانات السجلات لا يثبتان السببية ولا يغيران الممارسة جذريًا.",
+      "stars_reason_en": "A large matched retrospective cohort provides useful information on laryngological outcomes, but its observational design and reliance on coded records cannot establish causality or drive a major practice change.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for discussing interpretation of associations in a large database, the limits of matching and diagnostic coding, and how these signals might inform counseling and monitoring of patients receiving ICIs.",
+      "watch": true,
+      "watch_detail_ar": "راقب الاستخدام السريري المتزايد لـ ICI، إذ تشير هذه الدراسة إلى احتمال ارتباطه بأعراض صوتية وفموية وبلعية تستدعي الانتباه.",
+      "watch_detail_en": "Track the expanding use of ICIs because this study suggests possible associations with voice, oral, and swallowing symptoms that merit clinical attention.",
+      "watch_type": "drug",
+      "research_gap_ar": "يلزم إجراء دراسات مستقبلية للتحقق سريريًا من التشخيصات وتحديد الخطر المطلق والعوامل المربكة وآليات الأعراض المرتبطة بـ ICI.",
+      "research_gap_en": "Prospective studies are needed to clinically validate diagnoses and determine absolute risks, residual confounding, and mechanisms of symptoms associated with ICIs.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تتناول هذه الدراسة العلاقة بين immune checkpoint inhibitors، أو ICI، والنتائج laryngological لدى مرضى السرطان الذين لا يعانون من malignancy في head and neck. استخدم الباحثون بيانات TriNetX لإجراء مقارنة استعادية بين مرضى تلقوا ICI وآخرين تلقوا علاجات antineoplastic جهازية غير ICI. استُبعد المرضى الذين لديهم تاريخ من سرطان head and neck أو laryngectomy أو pharyngectomy أو radiotherapy في head and neck، ثم جرى matching للمجموعتين على خصائص متعددة. بلغ عدد المرضى 123,628 في كل مجموعة.\n\nكانت النتائج الأساسية ارتفاع hazard of voice disturbance وvocal fold paralysis وxerostomia وdysphagia وoral mucositis لدى مجموعة ICI، عند نقاط المتابعة 6 أشهر وسنة و5 سنوات. كما ظهر ارتفاع في laryngospasm عند 5 سنوات. في المقابل، لم تُظهر acute أو chronic laryngitis أو laryngeal edema أو chronic pharyngitis اختلافًا ذا دلالة واضحة. هذه النتائج تشير إلى association، ولا تثبت أن ICI هو السبب المباشر؛ كما أن abstract لا يقدم هنا تقديرات للخطر المطلق، وتعتمد دراسة قاعدة البيانات على التشخيصات المسجلة.\n\nالأهمية السريرية هي أن اختصاصيي ENT وفِرق الأورام يمكنهم تضمين أسئلة عن تغير الصوت وجفاف الفم وصعوبات البلع في المتابعة، وتقييم الأعراض الجديدة بدل تجاهلها أو نسبتها تلقائيًا إلى العلاج. هذه الدراسة لا تبرر تغيير علاج الأورام أو اعتبار الأعراض أثرًا مؤكدًا لـ ICI، لكنها تقدم إشارة تستحق الانتباه وcounseling مناسبًا. وتبقى الحاجة قائمة إلى دراسات مستقبلية ذات تقييم سريري موحد لتحديد الخطر المطلق، والتحقق من التشخيصات، وتوضيح الآليات والعوامل التي تزيد القابلية لهذه الأعراض.",
+      "audio_script_en": "This study examines the association between immune checkpoint inhibitors, or ICIs, and laryngological outcomes in patients with cancer outside the head and neck. Using TriNetX data, the authors conducted a retrospective comparison of patients receiving ICIs with patients receiving other systemic antineoplastic therapies. Patients with prior head and neck cancer, laryngectomy, pharyngectomy, or head and neck radiotherapy were excluded, and the cohorts were matched on multiple characteristics. Each matched cohort included 123,628 patients.\n\nThe ICI cohort had higher hazards of voice disturbance, vocal fold paralysis, xerostomia, dysphagia, and oral mucositis at 6 months, 1 year, and 5 years. Laryngospasm was also elevated at 5 years. Acute or chronic laryngitis, laryngeal edema, and chronic pharyngitis did not differ significantly. These are associations, not proof that ICI directly caused the symptoms. The abstract does not provide absolute risk estimates, and the database design depends on recorded diagnoses.\n\nClinically, ENT and oncology teams may consider asking about voice changes, dry mouth, and swallowing difficulty during follow-up, and evaluating new complaints rather than overlooking them. The results do not justify changing cancer treatment or treating every symptom as a confirmed ICI adverse effect. They do provide a useful signal for counseling and clinical awareness. Prospective studies with standardized clinical assessment are needed to validate diagnoses, quantify absolute risks, and clarify mechanisms and risk factors.",
+      "mcq": [
+        {
+          "q_ar": "ما تصميم الدراسة وحجم كل مجموعة بعد matching؟",
+          "q_en": "What was the study design and size of each cohort after matching?",
+          "options_ar": [
+            "أ) تجربة عشوائية؛ 123 مريضًا",
+            "ب) دراسة cohort استعادية؛ 123,628 مريضًا",
+            "ج) سلسلة حالات مستقبلية؛ 20,000 مريض",
+            "د) مراجعة منهجية؛ 1,000 دراسة"
+          ],
+          "options_en": [
+            "A) Randomized trial; 123 patients",
+            "B) Retrospective cohort study; 123,628 patients",
+            "C) Prospective case series; 20,000 patients",
+            "D) Systematic review; 1,000 studies"
+          ],
+          "answer": 1,
+          "explanation_ar": "استخدم الباحثون TriNetX لإجراء دراسة cohort استعادية مطابقة، وكان في كل مجموعة 123,628 مريضًا بعد matching.",
+          "explanation_en": "The researchers used TriNetX for a matched retrospective cohort study, with 123,628 patients in each cohort after matching."
+        },
+        {
+          "q_ar": "أي نتيجة لم يظهر فيها اختلاف ذو دلالة واضحة بين مجموعتي ICI وnon-ICI؟",
+          "q_en": "Which outcome did not show a significant difference between the ICI and non-ICI cohorts?",
+          "options_ar": [
+            "أ) Xerostomia",
+            "ب) Dysphagia",
+            "ج) Vocal fold paralysis",
+            "د) Laryngeal edema"
+          ],
+          "options_en": [
+            "A) Xerostomia",
+            "B) Dysphagia",
+            "C) Vocal fold paralysis",
+            "D) Laryngeal edema"
+          ],
+          "answer": 3,
+          "explanation_ar": "لم تختلف laryngeal edema دالًا عند فترات المتابعة، بينما ارتفعت النتائج الثلاث الأخرى في مجموعة ICI.",
+          "explanation_en": "Laryngeal edema did not differ significantly at the follow-up intervals, whereas the other three outcomes were elevated in the ICI cohort."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب عند تفسير ارتفاع hazard للأعراض في مجموعة ICI؟",
+          "q_en": "What is the most appropriate interpretation of the elevated symptom hazards in the ICI cohort?",
+          "options_ar": [
+            "أ) تثبت الدراسة أن ICI سبب مباشر لكل عرض",
+            "ب) تثبت النتائج زيادة الخطر المطلق لدى كل مريض",
+            "ج) تدل النتائج على association لكنها لا تثبت السببية",
+            "د) لا يمكن استخدام النتائج في counseling"
+          ],
+          "options_en": [
+            "A) The study proves ICI directly caused every symptom",
+            "B) The findings prove increased absolute risk for every patient",
+            "C) The findings show an association but do not establish causality",
+            "D) The findings cannot inform counseling"
+          ],
+          "answer": 2,
+          "explanation_ar": "التصميم الرصدي المعتمد على بيانات السجلات يحدد association، لكنه لا يثبت السببية أو الخطر المطلق.",
+          "explanation_en": "The observational design using recorded database diagnoses identifies associations but does not establish causality or absolute risk."
+        }
+      ]
+    },
+    {
+      "pmid": "42832386",
+      "title_ar": "Subjective and Quantitative Assessment of Vocal Tremor in Patients With Adductor Laryngeal Dystonia.",
+      "title_en": "Subjective and Quantitative Assessment of Vocal Tremor in Patients With Adductor Laryngeal Dystonia.",
+      "journal": "Journal of speech, language, and hearing research : JSLHR",
+      "pub_date": "2026-Oct-05",
+      "doi": "10.1044/2026_JSLHR-25-00990",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42832386/",
+      "pdf_url": null,
+      "study_design": "Retrospective comparative study; 55 patients with ADLD and 10 controls",
+      "summary_ar": "حللت هذه الدراسة retrospective recordings لـstroboscopic laryngoscopy لدى 55 مريضًا بـADLD و10 controls، مع تقييم سريري أُجري بواسطة laryngologists واستخدام video feature tracking لقياس tremor. كُشف VT لدى 34 من 55 مريضًا (61.82%)، وكان جميع المصابين به من النساء؛ ولم يُرصد لدى controls أو الرجال المصابين بـADLD. كانت الأنماط الأكثر شيوعًا horizontal (52.94%) وmixed (41.18%)، وصُنّف tremor إلى iDT وrDT بحسب انتظامه. لم تختلف المقاييس الأفقية بوضوح بين المجموعات، بينما ظهرت فروق في بعض مقاييس anteroposterior، وكانت سعة oscillation لبعض البنى أصغر في iDT مقارنةً بـrDT. توفر طريقة video tracking قياسات موضوعية للسعة والدورة والسرعة في epiglottis وvestibular folds وarytenoids. تشير النتائج إلى إمكانية دعم توصيف VT وتصنيف ADLD، لكنها لا تثبت أن هذه القياسات تحسن التشخيص أو نتائج العلاج.",
+      "summary_en": "This retrospective study analyzed stroboscopic laryngoscopy recordings from 55 patients with ADLD and 10 normal-voiced controls. Blinded laryngologists assessed vocal tremor (VT), while video feature tracking measured tremor amplitude, period, and velocity across laryngeal structures. VT was identified in 34/55 patients (61.82%), all female; it was not detected in controls or male patients. Horizontal and mixed tremor were the most common patterns. Horizontal measurements did not differ significantly between groups, whereas selected anteroposterior measures differed, and some oscillation amplitudes were smaller in intermittent than regular dystonia tremor. The method provides objective kinematic measurements that may support characterization and subtyping, but the study does not demonstrate improved diagnosis or treatment outcomes.",
+      "practice_change_ar": "لا يبرر هذا البحث تغيير الممارسة اليوم، لكنه يدعم اعتبار VT وتوثيقه عند تقييم ADLD لدى النساء.",
+      "practice_change_en": "This study does not justify changing practice today, but supports recognizing and documenting VT when evaluating women with ADLD.",
+      "future_impact_ar": "قد تساعد validation مستقبلية لـvideo tracking في تطوير قياس موضوعي لتصنيف ADLD ومتابعة الاستجابة للعلاج.",
+      "future_impact_en": "Future validation of video tracking could support objective ADLD subtyping and monitoring of treatment response.",
+      "why_important_ar": "توضح الدراسة أن VT شائع ضمن هذه العينة من النساء المصابات بـADLD، وتقدم طريقة كمية لدراسة حركته.",
+      "why_important_en": "The study identifies frequent VT in this female ADLD cohort and offers a quantitative approach to characterize its movement.",
+      "vs_previous_ar": "بدل الاعتماد على التقييم البصري وحده، تضيف الدراسة قياسات video tracking لحركة laryngeal structures، دون إثبات تفوقها السريري بعد.",
+      "vs_previous_en": "Rather than relying solely on visual assessment, the study adds video-tracking measurements of laryngeal movement, although their clinical advantage remains unproven.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة retrospective مقارنة بعينة متوسطة، تقدم أداة قياس مبتكرة ومعرفة مفيدة في laryngology، لكن غياب التحقق الخارجي ونتائج تأثيرها على التدبير يحدان من قوة الدليل.",
+      "stars_reason_en": "A moderate-sized retrospective comparative study that offers a novel measurement approach and useful laryngology data, but lacks external validation and evidence of management impact.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Worth discussing for its comparison of visual assessment with objective kinematic measurements, the observed sex distribution, and the limitations of the small control group.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا video feature tracking لأنه قد يتيح قياسًا موضوعيًا لحركة laryngeal structures، مع الحاجة إلى validation قبل الاستخدام السريري الروتيني.",
+      "watch_detail_en": "Track video feature tracking as a potential objective method for measuring laryngeal movement, pending validation before routine clinical use.",
+      "watch_type": "technology",
+      "research_gap_ar": "تحتاج الأداة إلى prospective multicenter validation مع تقييم reproducibility وربط القياسات بقرارات العلاج والنتائج الصوتية.",
+      "research_gap_en": "The method needs prospective multicenter validation, reproducibility testing, and evaluation of whether measurements affect treatment decisions or voice outcomes.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نراجع اليوم دراسة بعنوان Subjective and Quantitative Assessment of Vocal Tremor in Patients With Adductor Laryngeal Dystonia، وهي دراسة تهم اختصاصيي laryngology. استخدم الباحثون تصميمًا retrospective شمل 55 مريضًا مشخصًا بـADLD و10 controls ذوي أصوات طبيعية. قيّم laryngologists مقاطع stroboscopic laryngoscopy دون معرفة تصنيف المريض، ثم استخدم الفريق video feature tracking لقياس سعة tremor ودورته وسرعته في epiglottis وvestibular folds وarytenoids.\n\nكانت النتيجة الأساسية أن VT ظهر لدى 34 من 55 مريضًا، أي نحو 62 بالمئة، وجميع الحالات المرصودة كانت لدى النساء. لم يُكتشف VT في controls أو في الرجال الستة المصابين بـADLD، لكن هذه الأعداد صغيرة ولا تسمح باستنتاج أن VT يقتصر على النساء. كان tremor الأفقي أو المختلط هو الأكثر شيوعًا. لم تظهر فروق مهمة في المقاييس الأفقية بين المجموعات، بينما اختلفت بعض القياسات في اتجاه anteroposterior، وكانت سعة oscillation لبعض البنى أقل في intermittent dystonia tremor مقارنةً بـregular dystonia tremor.\n\nما الجديد؟ تقدم الدراسة طريقة كمية لتوصيف حركة laryngeal structures بدل الاعتماد على الانطباع البصري وحده. وقد تكون هذه الطريقة مفيدة مستقبلًا للتصنيف الموضوعي ومتابعة العلاج. لكن لا توجد هنا أدلة على أن القياسات حسّنت التشخيص أو غيّرت التدبير، كما أن التصميم retrospective وحجم مجموعة controls يحدان من التعميم. لذلك لا تستدعي النتائج تغيير الممارسة اليوم. الرسالة العملية هي الانتباه إلى VT عند تقييم ADLD وتوثيقه، مع اعتبار video tracking تقنية واعدة تحتاج إلى prospective validation وقياس reproducibility وربطها بنتائج صوتية وقرارات علاجية قبل اعتمادها روتينيًا.",
+      "audio_script_en": "Today’s paper is “Subjective and Quantitative Assessment of Vocal Tremor in Patients With Adductor Laryngeal Dystonia,” a study relevant to laryngology. This retrospective analysis included 55 patients diagnosed with ADLD and 10 normal-voiced controls. Blinded laryngologists assessed stroboscopic laryngoscopy recordings, and video feature tracking was used to measure tremor amplitude, period, and velocity in the epiglottis, vestibular folds, and arytenoids.\n\nThe main finding was that VT was detected in 34 of 55 patients, or about 62 percent. All detected cases were female. No VT was identified in the controls or in the six male patients with ADLD, although these small numbers do not establish that VT is limited to women. Horizontal and mixed tremor patterns were most common. Horizontal measurements did not differ significantly between groups, while some anteroposterior measurements did; selected oscillation amplitudes were smaller in intermittent dystonia tremor than in regular dystonia tremor.\n\nThe contribution is a quantitative approach to describing laryngeal movement, supplementing visual assessment. In the future, this method could support objective subtyping and treatment monitoring. However, the study does not show that the measurements improve diagnosis, change management, or improve voice outcomes. Its retrospective design and small control group also limit generalizability. Therefore, the findings do not warrant a change in practice today. Clinicians can remain attentive to VT during ADLD assessment and document it, while viewing video tracking as a promising technology that requires prospective validation, reproducibility testing, and linkage to clinical outcomes before routine adoption.",
+      "mcq": [
+        {
+          "q_ar": "ما نسبة مرضى ADLD الذين كُشف لديهم VT في هذه الدراسة؟",
+          "q_en": "What proportion of patients with ADLD had VT detected in this study?",
+          "options_ar": [
+            "أ) 18.2%",
+            "ب) 41.2%",
+            "ج) 61.82%",
+            "د) 100%"
+          ],
+          "options_en": [
+            "A) 18.2%",
+            "B) 41.2%",
+            "C) 61.82%",
+            "D) 100%"
+          ],
+          "answer": 2,
+          "explanation_ar": "كُشف VT لدى 34 من أصل 55 مريضًا بـADLD، أي 61.82%.",
+          "explanation_en": "VT was detected in 34 of the 55 patients with ADLD, corresponding to 61.82%."
+        },
+        {
+          "q_ar": "ما التقنية المستخدمة لقياس kinematics الخاصة بـtremor؟",
+          "q_en": "Which technique was used to quantify tremor kinematics?",
+          "options_ar": [
+            "أ) Electromyography",
+            "ب) Video feature tracking على recordings لـstroboscopic laryngoscopy",
+            "ج) CT angiography",
+            "د) Acoustic reflex testing"
+          ],
+          "options_en": [
+            "A) Electromyography",
+            "B) Video feature tracking of stroboscopic laryngoscopy recordings",
+            "C) CT angiography",
+            "D) Acoustic reflex testing"
+          ],
+          "answer": 1,
+          "explanation_ar": "استخدم الباحثون video feature tracking لقياس amplitude وperiod وvelocity في عدة laryngeal structures.",
+          "explanation_en": "The researchers used video feature tracking to measure amplitude, period, and velocity in several laryngeal structures."
+        },
+        {
+          "q_ar": "أي استنتاج سريري هو الأنسب بناءً على هذه النتائج؟",
+          "q_en": "Which clinical conclusion is most appropriate based on these findings?",
+          "options_ar": [
+            "أ) يجب استبدال التقييم السريري فورًا بـvideo tracking",
+            "ب) يثبت البحث أن VT يحدث حصرًا لدى النساء المصابات بـADLD",
+            "ج) قد تدعم التقنية توصيفًا موضوعيًا مستقبلًا، لكنها تحتاج إلى validation قبل الاستخدام الروتيني",
+            "د) ثبت أن video tracking يحسن نتائج العلاج"
+          ],
+          "options_en": [
+            "A) Clinical assessment should immediately be replaced by video tracking",
+            "B) The study proves VT occurs exclusively in women with ADLD",
+            "C) The technique may support future objective characterization but needs validation before routine use",
+            "D) Video tracking has been shown to improve treatment outcomes"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة توفر طريقة قياس واعدة، لكنها retrospective ولا تثبت تحسن التشخيص أو العلاج، لذا يلزم validation إضافي.",
+          "explanation_en": "The study presents a promising measurement approach, but its retrospective design does not demonstrate better diagnosis or treatment; further validation is needed."
+        }
+      ]
+    },
+    {
+      "pmid": "42833862",
+      "title_ar": "Changing Patterns of Chronic Rhinosinusitis in A Large Tertiary Referral Centre.",
+      "title_en": "Changing Patterns of Chronic Rhinosinusitis in A Large Tertiary Referral Centre.",
+      "journal": "Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology",
+      "pub_date": "2026-Oct-05",
+      "doi": "10.1111/cea.70446",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42833862/",
+      "pdf_url": null,
+      "study_design": "Retrospective observational study; sample size and study period not stated in the supplied abstract",
+      "summary_ar": "تصف الدراسة تغير أنماط chronic rhinosinusitis (CRS) في مركز إحالة تخصصي كبير، مع زيادة العبء رغم تحسن air quality. وتشير النتائج إلى ازدياد السمات allergic وtype 2 inflammatory لدى المرضى. ارتبط asthma بقوة مع CRSwNP. كما ارتبط SO2 بصورة مستقلة بوجود eosinophilic inflammation. لا تتضمن المعلومات المقدمة حجم العينة أو فترة الدراسة أو مقاييس حجم الارتباط، لذلك يصعب تقدير قوة النتائج وتعميمها.",
+      "summary_en": "This study describes changing patterns of chronic rhinosinusitis (CRS) at a large tertiary referral centre. CRS burden increased despite improving air quality. The reported patient profile showed greater allergic and type 2 inflammatory characteristics. Asthma was strongly associated with CRSwNP. SO2 was independently associated with eosinophilic inflammation. The supplied abstract does not provide the sample size, study period, or effect estimates, limiting assessment of the findings’ precision and generalizability.",
+      "practice_change_ar": "لا تدعم النتائج تغييرًا فوريًا في التدبير، لكنها تعزز أهمية تقييم asthma والسمات type 2 لدى مرضى CRSwNP.",
+      "practice_change_en": "These findings do not support an immediate change in management, but reinforce assessing asthma and type 2 features in patients with CRSwNP.",
+      "future_impact_ar": "قد تساعد متابعة هذه الاتجاهات وربطها بالتعرضات البيئية في تحسين فهم عوامل CRS الالتهابية مستقبلًا.",
+      "future_impact_en": "Tracking these trends alongside environmental exposures may improve future understanding of inflammatory drivers of CRS.",
+      "why_important_ar": "تلفت الدراسة الانتباه إلى زيادة عبء CRS وتغير خصائصه الالتهابية رغم تحسن air quality.",
+      "why_important_en": "The study highlights increasing CRS burden and changing inflammatory characteristics despite improving air quality.",
+      "vs_previous_ar": "تضيف الدراسة ملاحظة عن تغير الأنماط بمرور الوقت، مع ارتباط مستقل بين SO2 وeosinophilic inflammation، بدل الاكتفاء بوصف السمات المعروفة لـCRS.",
+      "vs_previous_en": "The study adds a longitudinal-pattern observation and an independent association between SO2 and eosinophilic inflammation, rather than only describing established CRS features.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة رصدية استعادية في مركز إحالة كبير، وتقدم معرفة مفيدة عن تغير الأنماط والارتباطات، لكنها لا تغير الممارسة مباشرة، كما أن تفاصيل العينة والنتائج الكمية غير متاحة في الملخص المقدم.",
+      "stars_reason_en": "This is a retrospective observational study at a large referral centre that offers useful information on changing patterns and associations, but is not immediately practice-changing; sample details and quantitative results are absent from the supplied abstract.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for discussion of changing CRS epidemiology, the asthma–CRSwNP relationship, and environmental exposure, while emphasizing the need to review the full methods and results.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات طولية متعددة المراكز مع أحجام عينات ومقاييس ارتباط واضحة لتحديد ما إذا كانت تغيرات التعرض البيئي تفسر اتجاهات CRS والالتهاب اليوزيني.",
+      "research_gap_en": "Multicentre longitudinal studies with clearly reported sample sizes and effect estimates are needed to determine whether changing environmental exposures explain CRS and eosinophilic inflammation trends.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "يتناول هذا المقال تغير أنماط chronic rhinosinusitis، أو CRS، في مركز إحالة تخصصي كبير. ووفقًا للملخص المتاح، ازداد عبء المرض رغم تحسن air quality، مع ظهور سمات allergic وtype 2 inflammatory بدرجة أكبر. كما يذكر الملخص ارتباطًا قويًا بين asthma وCRSwNP، وارتباطًا مستقلًا بين SO2 وeosinophilic inflammation.\n\nتُعد هذه النتائج مهمة لأطباء rhinology لأنها تذكّر بأن أنماط CRS قد تتغير بمرور الوقت، وأن تقييم asthma والسمات type 2 يظل ذا صلة خصوصًا لدى مرضى CRSwNP. لكن الدراسة لا تقدم، في الملخص المتاح، دليلًا يبرر تغييرًا فوريًا في العلاج أو اختيار تدخل بعينه.\n\nمن حيث قوة الدليل، توصف الدراسة بأنها رصدية استعادية في مركز إحالة كبير، لكن حجم العينة وفترة الدراسة ومقاييس الارتباط غير مذكورة في المعلومات المقدمة. لذلك لا يمكن الحكم بدقة على قوة الارتباطات أو مدى تعميم النتائج خارج هذا المركز. كما أن الارتباط بين SO2 والالتهاب لا يثبت أن التعرض له هو سبب الالتهاب.\n\nالتقييم الإجمالي ثلاث نجوم، مع ثقة متوسطة: المقال يضيف معرفة مفيدة عن تغير الأنماط والارتباطات، لكنه لا يغير الممارسة اليوم. وهو مناسب للنقاش في journal club، مع الرجوع إلى النص الكامل لمراجعة طرق جمع البيانات والنتائج الكمية. وتتمثل الفجوة البحثية في الحاجة إلى دراسات طولية متعددة المراكز تختبر دور التعرضات البيئية في اتجاهات CRS والالتهاب اليوزيني.",
+      "audio_script_en": "This article examines changing patterns of chronic rhinosinusitis, or CRS, at a large tertiary referral centre. The supplied abstract reports that CRS burden increased despite improving air quality, alongside greater allergic and type 2 inflammatory characteristics. It also reports a strong association between asthma and CRSwNP, and an independent association between SO2 and eosinophilic inflammation.\n\nThese observations are relevant to rhinology because they suggest that CRS patterns may shift over time and reinforce the relevance of assessing asthma and type 2 features, particularly in patients with CRSwNP. However, the abstract does not establish a new treatment approach or justify an immediate change in clinical management.\n\nThe evidence is observational and appears retrospective, based on a large referral-centre series. The supplied information does not state the sample size, study period, or effect estimates, so the precision and generalizability of the associations cannot be fully assessed. Also, an association between SO2 and inflammation does not establish that exposure caused the inflammation.\n\nOverall, this merits three stars and medium confidence: it provides useful information about changing patterns and associations, but is not practice-changing today. It is appropriate for journal club discussion, particularly if the full paper is available to assess how the data were collected and the quantitative results. A key research gap is the need for multicentre longitudinal studies to test whether environmental exposures contribute to CRS and eosinophilic inflammation trends.",
+      "mcq": [
+        {
+          "q_ar": "ما التغير العام في عبء CRS الذي أورده الملخص؟",
+          "q_en": "What overall change in CRS burden did the abstract report?",
+          "options_ar": [
+            "أ) انخفض رغم تدهور air quality",
+            "ب) ازداد رغم تحسن air quality",
+            "ج) بقي ثابتًا مع تغير asthma",
+            "د) لم يُذكر أي تغير"
+          ],
+          "options_en": [
+            "A) It decreased despite worsening air quality",
+            "B) It increased despite improving air quality",
+            "C) It remained stable as asthma changed",
+            "D) No change was reported"
+          ],
+          "answer": 1,
+          "explanation_ar": "ذكر الملخص أن عبء CRS ازداد رغم تحسن air quality.",
+          "explanation_en": "The abstract states that CRS burden increased despite improving air quality."
+        },
+        {
+          "q_ar": "أي حالة ارتبطت بقوة مع CRSwNP بحسب الملخص؟",
+          "q_en": "Which condition was strongly associated with CRSwNP in the abstract?",
+          "options_ar": [
+            "أ) asthma",
+            "ب) SO2 exposure",
+            "ج) تحسن air quality",
+            "د) rhinitis دون asthma"
+          ],
+          "options_en": [
+            "A) Asthma",
+            "B) SO2 exposure",
+            "C) Improving air quality",
+            "D) Rhinitis without asthma"
+          ],
+          "answer": 0,
+          "explanation_ar": "أورد الملخص ارتباطًا قويًا بين asthma وCRSwNP.",
+          "explanation_en": "The abstract reports a strong association between asthma and CRSwNP."
+        },
+        {
+          "q_ar": "ما العامل الذي ارتبط بصورة مستقلة بـeosinophilic inflammation؟",
+          "q_en": "Which factor was independently associated with eosinophilic inflammation?",
+          "options_ar": [
+            "أ) asthma",
+            "ب) SO2",
+            "ج) تحسن air quality",
+            "د) حجم مركز الإحالة"
+          ],
+          "options_en": [
+            "A) Asthma",
+            "B) SO2",
+            "C) Improving air quality",
+            "D) Referral-centre size"
+          ],
+          "answer": 1,
+          "explanation_ar": "ذكر الملخص أن SO2 ارتبط بصورة مستقلة بـeosinophilic inflammation.",
+          "explanation_en": "The abstract states that SO2 was independently associated with eosinophilic inflammation."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026100701",
+      "title_ar": "ميدترونيك وكارل ستورز تتعاونان لتطوير حلول جراحية متكاملة للأنف والأذن والحنجرة",
+      "title_en": "Medtronic and Karl Storz Collaborate on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-07",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أعلنت شركتا ميدترونيك وكارل ستورز عن تعاون يركز على تقديم حلول جراحية متكاملة في مجال الأنف والأذن والحنجرة، وفقاً لموقع ماس ديفايس. ولا يوضح العنوان المنتجات أو التقنيات التي يشملها التعاون، أو موعد توفرها، أو شروطه التجارية. ولا تتضمن المعلومات المتاحة أي قرارات تنظيمية أو نتائج سريرية أو تغييرات على المنتجات الحالية.",
+      "summary_en": "Medtronic and Karl Storz have announced a collaboration focused on integrated surgical solutions for ear, nose, and throat care, according to MassDevice. The headline does not specify which products or technologies are included, when they will be available, or the commercial terms of the collaboration. No regulatory decisions, clinical outcomes, or changes to existing products are reported in the information provided.",
+      "practice_change_ar": "لا يُتوقع أن يغيّر الإعلان وحده الممارسة السريرية فوراً؛ إذ لا تزال هناك حاجة إلى تفاصيل عن الحلول وموعد توفرها.",
+      "practice_change_en": "ENT surgeons should not expect an immediate change in practice based on the announcement alone; details about the solutions and their availability are still needed.",
+      "future_impact_ar": "قد يفضي التعاون إلى حلول أكثر تكاملاً لغرف عمليات الأنف والأذن والحنجرة، لكن أثره العملي سيتوقف على المنتجات المطوّرة وأدائها السريري.",
+      "future_impact_en": "The collaboration may lead to more integrated ENT operating-room solutions, with its practical impact depending on the products developed and their clinical performance.",
+      "why_important_ar": "قد يسهم الجمع بين منتجات الشركتين مستقبلاً في تبسيط سير العمل الجراحي، لكن لا يمكن تقييم الفائدة السريرية دون تفاصيل عن المنتجات وأدلة داعمة.",
+      "why_important_en": "Combining the companies’ offerings could eventually streamline surgical workflows, but the clinical value cannot be assessed without product details and evidence.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "تعاون تجاري قد يهم الجراحين مستقبلاً، لكن تفاصيل المنتجات والأثر السريري غير متاحة حالياً.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "إليكم موجزاً عن خبر في قطاع الأنف والأذن والحنجرة: أعلنت ميدترونيك وكارل ستورز تعاونهما لتقديم حلول جراحية متكاملة. وقد يهدف هذا النوع من التعاون إلى ربط التقنيات أو الأدوات المستخدمة في غرفة العمليات ضمن منظومة أكثر تكاملاً. لكن المعلومات المتاحة لا تحدد المنتجات المشمولة، ولا توضح موعد طرحها أو الأسواق التي ستتوفر فيها. كما لا تتضمن الإعلانَ تفاصيلَ عن شروط التعاون أو بيانات سريرية تثبت تحسناً في النتائج. لذلك، لا يوجد حالياً ما يشير إلى تغيير فوري في الممارسة اليومية لجراحي الأنف والأذن والحنجرة. الأهمية المحتملة تكمن في إمكانية تحسين سير العمل الجراحي مستقبلاً، إذا أثبتت الحلول الجديدة فائدتها وسهولة دمجها في الرعاية المعتادة. سنحتاج إلى معرفة مزيد من التفاصيل عن المنتجات، وتوفرها، وأدائها السريري قبل تقدير أثر التعاون على الجراحين والمرضى.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026100702",
+      "title_ar": "توقعات بنمو سوق مناظير الأنف والأذن والحنجرة بمعدل سنوي مركب قدره 6.4%",
+      "title_en": "ENT Endoscopy Market Forecast to Grow at a 6.4% CAGR",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-07",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت Market.us نظرة عامة على السوق تتوقع نمو سوق مناظير الأنف والأذن والحنجرة بمعدل سنوي مركب قدره 6.4%. ولا يحدد العنوان الفترة الزمنية للتوقعات أو حجم السوق أو نطاقها الجغرافي أو العوامل التي تقف وراء النمو المتوقع. كما لا يتضمن تفاصيل عن شركات أو منتجات أو صفقات أو قرارات تنظيمية بعينها. ويُعد هذا المحتوى توقعاً للسوق، وليس تقريراً عن حدث سريري أو تجاري محدد.",
+      "summary_en": "Market.us published a market overview forecasting a 6.4% compound annual growth rate for the ENT endoscopy market. The headline does not specify the forecast period, market size, geographic scope, or factors behind the projected growth. It also provides no details about particular companies, products, transactions, or regulatory decisions. The item is a market forecast rather than a report of a specific clinical or business event.",
+      "practice_change_ar": "لا يقدم هذا التوقع بحد ذاته أدلة أو إرشادات تشغيلية تبرر تغيير معدات التنظير أو الممارسة السريرية.",
+      "practice_change_en": "The forecast alone does not provide evidence or operational guidance that would warrant changing endoscopy equipment or clinical practice.",
+      "future_impact_ar": "إذا تحقق هذا التوقع، فقد يشهد السوق مزيداً من الاستثمارات وتطوير المنتجات، لكن المعلومات المتاحة لا تكفي للتنبؤ بتغييرات محددة.",
+      "future_impact_en": "If the forecast is realized, the market could see further investment and product development, although the available information is insufficient to predict specific changes.",
+      "why_important_ar": "قد يشير النمو المتوقع إلى استمرار الاهتمام التجاري بمناظير الأنف والأذن والحنجرة، لكن العنوان لا يقدم بيانات لتقييم أثر ذلك في توفر الأجهزة أو تكلفتها أو رعاية المرضى.",
+      "why_important_en": "Potential market growth may signal continued commercial interest in ENT endoscopy, but the headline offers no data to assess effects on access, costs, or patient care.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "أهمية محدودة للممارسة؛ فالخبر توقع سوقي عام بلا تفاصيل قابلة للتطبيق سريرياً.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "نشرت شركة Market.us توقعاً يفيد بأن سوق مناظير الأنف والأذن والحنجرة قد ينمو بمعدل سنوي مركب يبلغ 6.4%. لكن العنوان المتاح لا يوضح الفترة الزمنية التي يغطيها التوقع، ولا حجم السوق أو النطاق الجغرافي، كما لا يشرح العوامل التي قد تقود هذا النمو. كذلك لا يشير إلى صفقة أو منتج جديد أو قرار تنظيمي محدد. بالنسبة إلى أطباء الأنف والأذن والحنجرة، لا يقدم هذا التوقع وحده سبباً لتغيير الأجهزة أو أساليب الممارسة، ولا يثبت تحسناً في النتائج السريرية أو سهولة الوصول إلى التقنية. وقد يكون النمو المتوقع مؤشراً عاماً على استمرار الاهتمام التجاري بالتنظير، إلا أن تقييم أثره العملي يتطلب بيانات أكثر تفصيلاً عن الأسعار والتوافر والابتكار. لذلك يُنظر إلى الخبر بوصفه إشارة سوقية أولية، لا دليلاً سريرياً أو توجيهاً لاتخاذ قرار في الممارسة.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026100703",
+      "title_ar": "شركات رائدة في طب الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية",
+      "title_en": "Leading ENT Companies Driving Medical Technology Innovation",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-07",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت SNS Insider عرضًا يسلط الضوء على شركات تسهم في تطوير التكنولوجيا الطبية لرعاية الأنف والأذن والحنجرة. ولا يحدد الخبر المتاح أسماء الشركات أو التقنيات أو التطورات المحددة التي تناولها التقرير. كما لا يذكر أي استحواذ أو دعوى قضائية أو تحرك في الأسهم أو قرار تنظيمي.",
+      "summary_en": "SNS Insider published an overview highlighting companies involved in advancing medical technology for ear, nose, and throat care. The provided news item does not identify the companies, technologies, or specific developments discussed. It also reports no acquisition, lawsuit, stock movement, or regulatory decision.",
+      "practice_change_ar": "لا يمكن استنتاج أي تغيير فوري في الممارسة السريرية، إذ لا يتضمن الخبر تفاصيل عن منتجات محددة أو أدلة داعمة.",
+      "practice_change_en": "No immediate change to clinical practice can be inferred because the item provides no details about specific products or evidence.",
+      "future_impact_ar": "ينبغي لجراحي الأنف والأذن والحنجرة البحث عن تقنيات محددة وعن تحقق سريري في التقرير الكامل قبل استخلاص استنتاجات بشأن الرعاية المستقبلية.",
+      "future_impact_en": "ENT surgeons should look for specific technologies and clinical validation in the full report before drawing conclusions about future care.",
+      "why_important_ar": "قد يؤثر الابتكار في التكنولوجيا الطبية على تشخيص أمراض الأنف والأذن والحنجرة وعلاجها مستقبلًا، لكن العنوان وحده لا يقدم دليلًا على أثر سريري.",
+      "why_important_en": "Medical technology innovation may influence future ENT diagnostics and treatment, but this headline alone offers no evidence of a clinical impact.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "أهمية محدودة للأطباء لأن الخبر لا يذكر شركات أو تقنيات أو نتائج سريرية محددة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "يتناول عنوان منشور من SNS Insider شركات رائدة تقود الابتكار في التكنولوجيا الطبية بمجال الأنف والأذن والحنجرة. لكن المعلومات المتاحة هنا تقتصر على العنوان، ولا تسمي الشركات أو المنتجات أو الابتكارات المقصودة، كما لا تعرض بيانات سريرية أو قرارات تنظيمية أو تطورات تجارية محددة. لذلك لا يمكن اعتبار الخبر دليلًا على تغيير وشيك في الممارسة، ولا استخلاص توصيات بشأن التشخيص أو العلاج. بالنسبة إلى أطباء الأنف والأذن والحنجرة، تظل الخطوة الأهم هي الرجوع إلى التقرير الكامل والتحقق من التقنيات المذكورة، ومدى اعتمادها، ووجود دراسات تثبت فائدتها للمرضى. وحتى تتوافر هذه التفاصيل، تُعد المادة إشارة عامة إلى نشاط الابتكار في القطاع أكثر من كونها خبرًا ذا أثر سريري مباشر.",
+      "mcq": []
+    }
+  ]
+}
