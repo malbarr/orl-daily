@@ -28,6 +28,11 @@ KEEP_DAYS           = 60
 PRIORITY_SUBSPECIALTIES = {'rhinology', 'skull_base', 'laryngology', 'facial_plastics'}
 MIN_STARS_PRIORITY  = 3   # rhinology/skull_base/laryngology: keep ≥ 3 stars
 MIN_STARS_GENERAL   = 4   # all others: keep ≥ 4 stars
+OPENAI_MODEL        = os.environ.get("OPENAI_MODEL", "gpt-6-luna")
+# Luna is a reasoning model: keep effort low or thinking tokens inflate the bill.
+REASONING_EFFORT    = os.environ.get("OPENAI_REASONING_EFFORT", "low")
+# Collected model failures, so a broken run can never report success.
+OPENAI_ERRORS: list = []
 
 PUBMED_SEARCH_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
 PUBMED_FETCH_URL  = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
@@ -406,8 +411,9 @@ def analyze_business_with_openai(item: dict, client: OpenAI) -> dict:
         description = item.get("description", "(no description)"),
     )
     response = client.chat.completions.create(
-        model      = "gpt-4.1-nano",
-        max_tokens = 2048,
+        model                 = OPENAI_MODEL,
+        max_completion_tokens = 2048,
+        reasoning_effort      = REASONING_EFFORT,
         messages   = [
             {"role": "system", "content": BUSINESS_SYSTEM_PROMPT},
             {"role": "user",   "content": prompt},
@@ -425,8 +431,9 @@ def analyze_with_openai(article: dict, client: OpenAI) -> dict:
         abstract = article["abstract"] or "(no abstract available)",
     )
     response = client.chat.completions.create(
-        model      = "gpt-4.1-nano",
-        max_tokens = 4096,
+        model                 = OPENAI_MODEL,
+        max_completion_tokens = 4096,
+        reasoning_effort      = REASONING_EFFORT,
         messages   = [
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user",   "content": prompt},
@@ -477,6 +484,31 @@ def prune_old_files(dates: list) -> list:
 
 
 # ─── Telegram notification ──────────────────────────────────────────────────────
+
+def send_telegram_alert(text: str) -> None:
+    """Scream on Telegram when the pipeline breaks. A silent failure is a bug."""
+    print(f"[ALERT] {text}")
+    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
+        print("[ALERT] Telegram not configured \u2014 alert not delivered.")
+        return
+    try:
+        r = requests.post(
+            f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage",
+            json={
+                "chat_id":    TELEGRAM_CHAT_ID,
+                "text":       "\U0001f6a8 <b>ORL Daily \u2014 \u0641\u0634\u0644</b>\n" + text,
+                "parse_mode": "HTML",
+            },
+            timeout=15,
+        )
+        print(f"[ALERT] Telegram status {r.status_code}")
+    except Exception as e:
+        print(f"[ALERT] Could not deliver Telegram alert: {e}")
+
+
+def _esc(x) -> str:
+    return html_module.escape(str(x))[:400]
+
 
 def send_telegram(date_str: str, articles: list) -> None:
     """Send summary notification via Telegram Bot API."""
@@ -538,24 +570,41 @@ def main() -> None:
 
     client = OpenAI(api_key=OPENAI_API_KEY)
 
+    # Step 0 — preflight: prove the model answers before any PubMed work.
+    print(f"[Step 0] Preflight on model {OPENAI_MODEL}…")
+    try:
+        client.chat.completions.create(
+            model                 = OPENAI_MODEL,
+            max_completion_tokens = 16,
+            reasoning_effort      = REASONING_EFFORT,
+            messages              = [{"role": "user", "content": "ping"}],
+        )
+        print("[Step 0] Preflight OK.")
+    except Exception as e:
+        send_telegram_alert(
+            f"Preflight failed on model <code>{OPENAI_MODEL}</code>:\n"
+            f"<code>{_esc(e)}</code>\n\nNo data was written today."
+        )
+        sys.exit(1)
+
     # 1. Search PubMed
     print("[Step 1] Searching PubMed…")
     pmids = search_pubmed()
     if not pmids:
-        print("[Main] No articles found today. Exiting.")
-        sys.exit(0)
+        send_telegram_alert("PubMed returned zero PMIDs — the query or the API is broken.")
+        sys.exit(1)
 
     # 2. Fetch article metadata
     print(f"[Step 2] Fetching {len(pmids)} articles from PubMed…")
     xml_text = fetch_pubmed_xml(pmids)
     if not xml_text:
-        print("[Main] Failed to fetch article XML. Exiting.")
+        send_telegram_alert("PubMed XML fetch failed — no data written today.")
         sys.exit(1)
 
     raw_articles = parse_pubmed_xml(xml_text)
     if not raw_articles:
-        print("[Main] No articles parsed from XML. Exiting.")
-        sys.exit(0)
+        send_telegram_alert("PubMed XML parsed to zero articles — parser or feed changed.")
+        sys.exit(1)
 
     # 3. Analyze each article with Claude
     print(f"[Step 3] Analyzing {len(raw_articles)} articles with Claude…")
@@ -573,13 +622,23 @@ def main() -> None:
         time.sleep(0.5)  # polite delay for Unpaywall
 
         # OpenAI analysis
+        analysis = None
         try:
             analysis = analyze_with_openai(raw, client)
         except json.JSONDecodeError as e:
             print(f"    [!] OpenAI returned invalid JSON: {e} — skipping PMID {pmid}")
-            continue
+            OPENAI_ERRORS.append(f"PMID {pmid}: invalid JSON — {e}")
         except Exception as e:
             print(f"    [!] OpenAI error for PMID {pmid}: {e} — skipping")
+            OPENAI_ERRORS.append(f"PMID {pmid}: {e}")
+
+        if len(OPENAI_ERRORS) >= 5 and not analyzed:
+            send_telegram_alert(
+                "The model failed on the first 5 articles — run aborted.\n"
+                f"<code>{_esc(OPENAI_ERRORS[0])}</code>"
+            )
+            sys.exit(1)
+        if analysis is None:
             continue
 
         # Build the final record
@@ -629,8 +688,14 @@ def main() -> None:
         time.sleep(1.5)
 
     if not analyzed:
-        print("[Main] No articles successfully analyzed. Exiting.")
-        sys.exit(0)
+        first = _esc(OPENAI_ERRORS[0]) if OPENAI_ERRORS else "no model error recorded"
+        send_telegram_alert(
+            f"Zero articles survived analysis ({len(raw_articles)} fetched, "
+            f"{len(OPENAI_ERRORS)} model errors).\n<code>{first}</code>\n\n"
+            "No data file was written — this is the silent failure that ran "
+            "unnoticed from 8 July to 6 September 2026."
+        )
+        sys.exit(1)
 
     # Quality filter
     before = len(analyzed)
@@ -660,10 +725,12 @@ def main() -> None:
             biz_analysis = analyze_business_with_openai(item, client)
         except json.JSONDecodeError as e:
             print(f"    [!] OpenAI returned invalid JSON for business item: {e} — skipping")
+            OPENAI_ERRORS.append(f"business item: invalid JSON — {e}")
             biz_counter += 1
             continue
         except Exception as e:
             print(f"    [!] OpenAI error for business item: {e} — skipping")
+            OPENAI_ERRORS.append(f"business item: {e}")
             biz_counter += 1
             continue
 
@@ -740,7 +807,15 @@ def main() -> None:
     print("[Step 6] Sending Telegram notification…")
     send_telegram(TODAY, analyzed)
 
+    if OPENAI_ERRORS and len(OPENAI_ERRORS) > len(analyzed):
+        send_telegram_alert(
+            f"Partial run: {len(analyzed)} article(s) saved but {len(OPENAI_ERRORS)} "
+            f"model error(s).\n<code>{_esc(OPENAI_ERRORS[0])}</code>"
+        )
+
     print(f"\n=== Done: {len(analyzed)} articles for {TODAY} ===")
+    print(f"=== Model: {OPENAI_MODEL} (effort={REASONING_EFFORT}), "
+          f"model errors: {len(OPENAI_ERRORS)} ===")
 
 
 if __name__ == "__main__":
