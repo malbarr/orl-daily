@@ -1,0 +1,687 @@
+{
+  "date": "2026-05-18",
+  "generated_at": "2026-05-18T07:00:58Z",
+  "articles": [
+    {
+      "pmid": "42142122",
+      "title_ar": "Pedicled lateral nasal wall flap for endoscopic skull base reconstruction: how I do it.",
+      "title_en": "Pedicled lateral nasal wall flap for endoscopic skull base reconstruction: how I do it.",
+      "journal": "Acta neurochirurgica",
+      "pub_date": "2026-May-16",
+      "doi": "10.1007/s00701-026-06906-3",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42142122/",
+      "pdf_url": "https://doi.org/10.1007/s00701-026-06906-3",
+      "study_design": "Case series n=30",
+      "summary_ar": "تعتبر الفلابة الجانبية للأنف (LNWF) بديلًا قويًا عند عدم توفر الفلابة الأنفية الحديقية (HBF) بسبب تأثر الغشاء المخاطي الناتج عن الأورام أو الإصابات. يوضح هذا المقال تقنيات جمع الفلابة الجانبية الأنفية استنادًا إلى الشريان الأنفي الجانبي الخلفي (PLNA). تمتلك LNWF إمدادات دموية مستقرة وسطح تغطية متقارن، مما يجعلها خيارًا موثوقًا في عمليات إعادة إعمار قاع الجمجمة بعد الجراحة المنظارية. يُظهر هذا العمل كيفية تنفيذ هذه التقنية وتجربتها بنجاح.",
+      "summary_en": "The lateral nasal wall flap (LNWF) is a strong alternative when the Hadad-Bassagasteguy flap (HBF) is not available due to mucosal involvement or vascular injury. This article illustrates the harvesting techniques of the LNWF based on the posterior lateral nasal artery (PLNA). The LNWF has a consistent blood supply and comparable coverage surface, making it a reliable option for skull base reconstruction following endoscopic surgery. The paper demonstrates how this technique has been successfully implemented.",
+      "practice_change_ar": "يمكن استخدام LNWF كبديل موثوق لجراحة إعادة إعمار قاع الجمجمة في حالات معينة.",
+      "practice_change_en": "LNWF can be used as a reliable alternative for skull base reconstruction in specific cases.",
+      "future_impact_ar": "يمكن أن يؤدي اعتماد LNWF إلى تحسين نتائج إعادة الإعمار وتقليل المضاعفات.",
+      "future_impact_en": "The adoption of LNWF may improve reconstruction outcomes and reduce complications.",
+      "why_important_ar": "تبرز LNWF كخيار موثوق في حالات عدم توفر HBF، مما يسهم في تحسين الرعاية للمرضى.",
+      "why_important_en": "The LNWF stands out as a reliable option when HBF is unavailable, contributing to improved patient care.",
+      "vs_previous_ar": "تقدم LNWF تقنية جديدة يتجاوز استخدامها الخيارات التقليدية السابقة.",
+      "vs_previous_en": "LNWF offers a new technique that surpasses previous traditional options.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة سلسلة حالات (n=30) تقدم تقنية جديدة ومفيدة.",
+      "stars_reason_en": "Case series (n=30) provides a new and useful technique.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تقنية جديدة في إعادة إعمار قاع الجمجمة.",
+      "jc_reason_en": "New technique in skull base reconstruction.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة استخدام LNWF كبديل في عمليات إعادة إعمار قاع الجمجمة.",
+      "watch_detail_en": "Monitor the use of LNWF as an alternative in skull base reconstruction surgeries.",
+      "watch_type": "instrument",
+      "research_gap_ar": "توجد حاجة لمزيد من الأبحاث حول فعالية LNWF مقارنة بالخيارات الأخرى.",
+      "research_gap_en": "There is a need for more research on the efficacy of LNWF compared to other options.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "في هذا المقال، نتناول الفلابة الجانبية للأنف التي تم تقديمها كبديل موثوق لجراحة إعادة إعمار قاع الجمجمة. الهدف من هذا البحث هو توضيح التقنيات اللازمة لجمع LNWF، والذي يتم اعتماده في حالات عدم توفر الفلابة الأنفية الحديقية. تتمتع LNWF بإمدادات دموية ثابتة وسطح تغطية موثوق. هذه التقنية الجديدة لها أهمية سريرية كبيرة وتفتح مجالات جديدة في إعادة إعمار قاع الجمجمة.",
+      "audio_script_en": "This article discusses the lateral nasal wall flap, presented as a reliable alternative for skull base reconstruction. The aim of this research is to illustrate the necessary techniques for harvesting LNWF, which is adopted in cases where the Hadad-Bassagasteguy flap is not available. The LNWF has a consistent blood supply and reliable coverage surface. This new technique has significant clinical importance and opens new avenues in skull base reconstruction.",
+      "mcq": [
+        {
+          "q_ar": "ما هو البديل الموثوق عند عدم توفر الفلابة الأنفية الحديقية؟",
+          "q_en": "What is the reliable alternative when the Hadad-Bassagasteguy flap is not available?",
+          "options_ar": [
+            "أ) الفلابة الجانبية للأنف",
+            "ب) الفلابة الأنفية",
+            "ج) الفلابة الحلقية",
+            "د) الفلابة السفلية"
+          ],
+          "options_en": [
+            "A) Lateral nasal wall flap",
+            "B) Nasoseptal flap",
+            "C) Circular flap",
+            "D) Inferior flap"
+          ],
+          "answer": 0,
+          "explanation_ar": "الفلابة الجانبية للأنف تعتبر البديل الموثوق في غياب الفلابة الأنفية الحديقية.",
+          "explanation_en": "The lateral nasal wall flap is considered the reliable alternative in the absence of the Hadad-Bassagasteguy flap."
+        },
+        {
+          "q_ar": "ما هو الشريان المسؤول عن تروية LNWF؟",
+          "q_en": "Which artery is responsible for the blood supply to LNWF?",
+          "options_ar": [
+            "أ) الشريان الأنفي الجانبي",
+            "ب) الشريان النزغوي",
+            "ج) الشريان الفكي السفلي",
+            "د) الشريان الأنفي الخلفي"
+          ],
+          "options_en": [
+            "A) Lateral nasal artery",
+            "B) Sphenopalatine artery",
+            "C) Maxillary artery",
+            "D) Posterior nasal artery"
+          ],
+          "answer": 0,
+          "explanation_ar": "الشريان الأنفي الجانبي يوفر التروية الدموية لـ LNWF.",
+          "explanation_en": "The lateral nasal artery supplies the blood to the LNWF."
+        },
+        {
+          "q_ar": "ما هي نوعية الدراسة لهذا المقال؟",
+          "q_en": "What is the study type of this article?",
+          "options_ar": [
+            "أ) دراسة عشوائية مزدوجة",
+            "ب) سلسلة حالات",
+            "ج) تحليل مقارن",
+            "د) دراسة استقصائية"
+          ],
+          "options_en": [
+            "A) Randomized controlled trial",
+            "B) Case series",
+            "C) Comparative analysis",
+            "D) Survey study"
+          ],
+          "answer": 1,
+          "explanation_ar": "هذا المقال يعرض سلسلة حالات تهدف إلى تقديم تقنية جديدة.",
+          "explanation_en": "This article presents a case series aimed at providing a new technique."
+        }
+      ]
+    },
+    {
+      "pmid": "42144291",
+      "title_ar": "Predictors of the Efficacy of Focused Ultrasound for Moderate-to-Severe Persistent Allergic Rhinitis: A Retrospective Cohort Study.",
+      "title_en": "Predictors of the Efficacy of Focused Ultrasound for Moderate-to-Severe Persistent Allergic Rhinitis: A Retrospective Cohort Study.",
+      "journal": "Ultrasound in medicine & biology",
+      "pub_date": "2026-May-17",
+      "doi": "10.1016/j.ultrasmedbio.2026.03.023",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42144291/",
+      "pdf_url": null,
+      "study_design": "Retrospective cohort n=330",
+      "summary_ar": "هذه الدراسة تهدف إلى استكشاف مؤشرات فعالية العلاج بالموجات فوق الصوتية المركزة في علاج التهاب الأنف التحسسي المعتدل إلى الشديد. تم جمع بيانات المرضى الذين خضعوا لهذا العلاج لتحليل العوامل المؤثرة في النتائج. من بين المؤشرات التي تم تحديدها كانت مدة المرض وعدد كريات الدم البيضاء الحبيبية. استخدام نماذج تعلم الآلة مثل الانحدار اللوجستي وXGBoost ساهم في تحسين دقة التنبؤ. النتائج تظهر ضرورة الاستمرار في تحسين النماذج لضمان تطبيقها في السريرية.",
+      "summary_en": "This study aims to explore predictors of efficacy for focused ultrasound treatment in moderate-to-severe allergic rhinitis. Patient data receiving this treatment were collected for analyzing factors affecting outcomes. Identified predictors included disease duration and peripheral blood eosinophil count. The use of machine learning models such as logistic regression and XGBoost improved prediction accuracy. Results highlight the need for further model refinement to ensure clinical application.",
+      "practice_change_ar": "يمكن للنماذج المبنية على تعلم الآلة تحسين تحديد المرضى الذين يعانون من التهاب الأنف التحسسي المقاوم.",
+      "practice_change_en": "Machine learning-based models can improve the identification of patients with refractory allergic rhinitis.",
+      "future_impact_ar": "هناك حاجة لمزيد من الدراسات للتحقق من صحة النموذج الحالي وتطبيقه في العيادات.",
+      "future_impact_en": "Further studies are needed to validate the current model and its application in clinical settings.",
+      "why_important_ar": "هذه المقالة تقدم نموذج تنبؤي جديد يمكن أن يساعد في اتخاذ قرارات طبية مبكرة.",
+      "why_important_en": "This article presents a novel predictive model that can aid in early medical decision-making.",
+      "vs_previous_ar": "هذه الدراسة تقدم نموذجًا جديدًا يعتمد على تعلم الآلة بدلاً من الطرق التقليدية.",
+      "vs_previous_en": "This study introduces a new machine learning-based model compared to traditional methods.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة بأثر ممارساتي، وتصميمها كدراسة استعادية مع عدد كبير من المرضى.",
+      "stars_reason_en": "Practice-impacting study design as a retrospective cohort with a large patient number.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "يوفر هذا البحث معطيات جديدة في علاج التهاب الأنف التحسسي.",
+      "jc_reason_en": "This research provides new insights into the treatment of allergic rhinitis.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة تطبيق نموذج تعلم الآلة الجديد وتأثيره في تقييم نتائج العلاج.",
+      "watch_detail_en": "The new machine learning model's application and its impact on treatment outcomes should be monitored.",
+      "watch_type": "technology",
+      "research_gap_ar": "توجد حاجة لتطبيق خارجي للتحقق من صحة النموذج.",
+      "research_gap_en": "There is a need for external validation to confirm the model's applicability.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تناقش هذه الدراسة تأثير العلاج بالموجات فوق الصوتية المركزة في التهاب الأنف التحسسي. تم تحليل بيانات 330 مريضًا لتحديد العوامل المؤثرة في النتائج، بما في ذلك عدد كريات الدم البيضاء الحبيبية. طورت الدراسة نماذج تعتمد على تعلم الآلة، مما يزيد من دقة التنبؤ بالنتائج. تشير النتائج إلى أن هذه النماذج يمكن أن تساعد الأطباء في تحديد المرضى الذين قد يحتاجون لعلاج إضافي.",
+      "audio_script_en": "This study discusses the impact of focused ultrasound on allergic rhinitis. Data from 330 patients were analyzed to identify factors influencing outcomes, including peripheral blood eosinophil count. The study developed machine learning-based models, enhancing the accuracy of outcome predictions. Results suggest these models can aid clinicians in identifying patients who may need additional therapy.",
+      "mcq": [
+        {
+          "q_ar": "ما هي التقنية المستخدمة في النموذج التنبؤي الحالي؟",
+          "q_en": "What technique is used in the current predictive model?",
+          "options_ar": [
+            "أ) الانحدار اللوجستي",
+            "ب) تحليل البيانات التقليدي",
+            "ج) تقنية الموجات فوق الصوتية",
+            "د) الدواء"
+          ],
+          "options_en": [
+            "A) Logistic regression",
+            "B) Traditional data analysis",
+            "C) Ultrasound technology",
+            "D) Medication"
+          ],
+          "answer": 0,
+          "explanation_ar": "النموذج يعتمد على تقنيات تعلم الآلة مثل الانحدار اللوجستي.",
+          "explanation_en": "The model relies on machine learning techniques such as logistic regression."
+        },
+        {
+          "q_ar": "ما هو عدد المرضى الذين شملتهم الدراسة؟",
+          "q_en": "What is the number of patients included in the study?",
+          "options_ar": [
+            "أ) 100",
+            "ب) 200",
+            "ج) 330",
+            "د) 450"
+          ],
+          "options_en": [
+            "A) 100",
+            "B) 200",
+            "C) 330",
+            "D) 450"
+          ],
+          "answer": 2,
+          "explanation_ar": "شملت الدراسة 330 مريضًا تم تحليل بياناتهم.",
+          "explanation_en": "The study included 330 patients whose data were analyzed."
+        },
+        {
+          "q_ar": "ما هي نتيجة المصادقة النموذجية في مجموعة التدريب؟",
+          "q_en": "What was the AUROC result of the model in the training set?",
+          "options_ar": [
+            "أ) 0.732",
+            "ب) 0.811",
+            "ج) 0.788",
+            "د) 0.900"
+          ],
+          "options_en": [
+            "A) 0.732",
+            "B) 0.811",
+            "C) 0.788",
+            "D) 0.900"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت نتيجة AUROC لـ XGBoost في مجموعة التدريب 0.811.",
+          "explanation_en": "The AUROC result for XGBoost in the training set was 0.811."
+        }
+      ]
+    },
+    {
+      "pmid": "42142274",
+      "title_ar": "Impact of IL-4/IL-13 Blockade with Dupilumab on the Microbiome in Type 2 Inflammatory Diseases: A Systematic Review.",
+      "title_en": "Impact of IL-4/IL-13 Blockade with Dupilumab on the Microbiome in Type 2 Inflammatory Diseases: A Systematic Review.",
+      "journal": "Current allergy and asthma reports",
+      "pub_date": "2026-May-16",
+      "doi": "10.1007/s11882-026-01281-6",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42142274/",
+      "pdf_url": "https://doi.org/10.1007/s11882-026-01281-6",
+      "study_design": "Systematic review 15 studies",
+      "summary_ar": "يتناول هذا المقال مراجعة منهجية للأدلة الحالية المتعلقة بتغيرات النباتات الميكروبية المرتبطة بعلاج dupilumab في الأمراض الالتهابية من النوع الثاني. شملت المراجعة خمسة عشر دراسة، تتكون من تجارب عشوائية ودراسات رصديّة. تم العثور على تأثيرات محددة على النباتات الميكروبية في الجلد والسبيل التنفسي، بينما كانت الأدلة في الأمعاء محدودة. dupilumab أظهر تقليلاً في Staphylococcus aureus وزيادة في تنوع النباتات الميكروبية. مرجعية الدراسات تشير إلى تأثيرات تعتمد على موقع الجسم والمرض.",
+      "summary_en": "This article systematically reviews current evidence on microbiota changes associated with dupilumab treatment in type 2 inflammatory diseases. The review included fifteen studies, comprising randomized trials and observational studies. Specific effects on the microbiome were found in skin and sinonasal compartments, while gut evidence was limited. Dupilumab was associated with reduced Staphylococcus aureus and increased microbial diversity. The studies suggest compartment-specific and disease-dependent effects.",
+      "practice_change_ar": "يجب على الأطباء التفكير في تأثيرات dupilumab على الميكروبيوم عند إدارة المرضى.",
+      "practice_change_en": "Clinicians should consider the effects of dupilumab on the microbiome when managing patients.",
+      "future_impact_ar": "تحسين الفهم حول العلامات الدقيقة المتعلقة بالاستجابة للعلاج.",
+      "future_impact_en": "Improved understanding of microbiota signatures related to treatment response.",
+      "why_important_ar": "هذا البحث يوفر أدلة جديدة حول كيفية تأثير dupilumab على الميكروبيوم.",
+      "why_important_en": "This research provides new evidence on how dupilumab impacts the microbiome.",
+      "vs_previous_ar": "تقدم هذه الدراسة رؤى جديدة مقارنة بالفهم السابق حول تأثيرات العلاج على الميكروبيوم.",
+      "vs_previous_en": "This study offers new insights compared to the previous understanding of treatment effects on the microbiome.",
+      "stars": 4,
+      "stars_reason_ar": "مراجعة منهجية تضم 15 دراسة، توفر أدلة جديدة حول تأثيرات dupilumab.",
+      "stars_reason_en": "A systematic review comprising 15 studies, providing new evidence on the effects of dupilumab.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "الدراسة تقدم معلومات قيمة تتعلق بتأثيرات dupilumab.",
+      "jc_reason_en": "The study provides valuable information regarding the effects of dupilumab.",
+      "watch": true,
+      "watch_detail_ar": "مراقبة تأثيرات dupilumab على الميكروبيوم كقيمة معرفية جديدة في العلاج.",
+      "watch_detail_en": "Monitoring the effects of dupilumab on the microbiome as a new knowledge point in treatment.",
+      "watch_type": "drug",
+      "research_gap_ar": "تحتاج إلى مزيد من الدراسات لاستكشاف التغيرات في الميكروبيوم المعوي.",
+      "research_gap_en": "Further studies are needed to explore gut microbiome changes.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "يتناول المقال مراجعة منهجية للأدلة المتعلقة بتأثيرات dupilumab على الميكروبيوم في الأمراض الالتهابية من النوع الثاني. شملت هذه المراجعة 15 دراسة تتضمن تجارب عشوائية ودراسات رصدية، مما يدل على تأثيرات مختلفة على المناطق الجسدية مثل الجلد وسبيل التنفس، بينما كانت البيانات عن الميكروبيوم المعوي محدودة. يتعين على الأطباء الأخذ في الاعتبار هذه التأثيرات عند علاج المرضى. نتطلع إلى تحسين الفهم حول كيف يمكن أن تكون العلامات الميكروبية مرتبطة باستجابة العلاج.",
+      "audio_script_en": "The article discusses a systematic review of the evidence regarding the effects of dupilumab on the microbiome in type 2 inflammatory diseases. This review included 15 studies, comprising randomized trials and observational studies, indicating different effects on body sites such as skin and the respiratory tract, while gut microbiome data were limited. Clinicians should consider these effects when treating patients. We look forward to improved understanding of how microbial signatures may correlate with treatment response.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الدواء الذي يتم مناقشته في المقال؟",
+          "q_en": "What drug is discussed in the article?",
+          "options_ar": [
+            "أ) ibuprofen",
+            "ب) dupilumab",
+            "ج) aspirin",
+            "د) cetirizine"
+          ],
+          "options_en": [
+            "A) ibuprofen",
+            "B) dupilumab",
+            "C) aspirin",
+            "D) cetirizine"
+          ],
+          "answer": 1,
+          "explanation_ar": "يتعلق المقال بتأثيرات dupilumab على الميكروبيوم.",
+          "explanation_en": "The article discusses the effects of dupilumab on the microbiome."
+        },
+        {
+          "q_ar": "ما هو هدف المراجعة المنهجية؟",
+          "q_en": "What is the aim of the systematic review?",
+          "options_ar": [
+            "أ) تقييم تأثيرات العلاج",
+            "ب) دراسة النباتات الميكروبية",
+            "ج) تحليل التجارب السريرية",
+            "د) جميع ما سبق"
+          ],
+          "options_en": [
+            "A) Assess treatment effects",
+            "B) Study microbial flora",
+            "C) Analyze clinical trials",
+            "D) All of the above"
+          ],
+          "answer": 3,
+          "explanation_ar": "تهدف المراجعة المنهجية إلى تقييم تأثيرات dupilumab على الميكروبيوم.",
+          "explanation_en": "The systematic review aims to assess the effects of dupilumab on the microbiome."
+        },
+        {
+          "q_ar": "ما هو النوع الرئيسي من الدراسات المستخدمة في المراجعة؟",
+          "q_en": "What is the main type of studies used in the review?",
+          "options_ar": [
+            "أ) دراسات حالات",
+            "ب) تجارب عشوائية",
+            "ج) دراسات رصدية",
+            "د) كل ما سبق"
+          ],
+          "options_en": [
+            "A) Case studies",
+            "B) Randomized trials",
+            "C) Observational studies",
+            "D) All of the above"
+          ],
+          "answer": 2,
+          "explanation_ar": "تتضمن المراجعة 15 دراسة، معظمها دراسات رصدية.",
+          "explanation_en": "The review includes 15 studies, mostly observational studies."
+        }
+      ]
+    },
+    {
+      "pmid": "42141980",
+      "title_ar": "Is Switching Biologics in CRSwNP Promising? Real-World Evidence for Clinical Outcome Measures in Comparison.",
+      "title_en": "Is Switching Biologics in CRSwNP Promising? Real-World Evidence for Clinical Outcome Measures in Comparison.",
+      "journal": "Ear, nose, & throat journal",
+      "pub_date": "2026-May-16",
+      "doi": "10.1177/01455613261438970",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42141980/",
+      "pdf_url": "https://doi.org/10.1177/01455613261438970",
+      "study_design": "Retrospective series n=48",
+      "summary_ar": "تهدف هذه الدراسة إلى تقييم تأثير تغيير الأدوية البيولوجية على نتائج علاج التهاب الأنف والجيوب الأنفية المزمن مع وجود بوليبات الأنف. تم تحليل بيانات 48 مريضاً تلقت العلاج البيولوجي بين عامي 2020 و2024. أظهرت النتائج انخفاضاً ملحوظاً في درجات SNOT-22 ونقاط البوليب الأنفي في جميع المرضى، بغض النظر عن تغيير العلاج البيولوجي. لم تظهر فروق ذات دلالة إحصائية في النتائج السريرية بين المرضى الذين غيروا الأدوية البيولوجية ومن استمروا في العلاج الأصلي. معظم المرضى الذين غيروا العلاج انتقلوا من أدوية مضادة للإيمونغلوبولين E أو مضادة لـ IL-5 إلى أدوية مضادة لـ IL-4/-IL-13.",
+      "summary_en": "This study aims to evaluate the impact of switching biologics on treatment outcomes in chronic rhinosinusitis with nasal polyps (CRSwNP). Data from 48 patients receiving biologic therapy between 2020 and 2024 were analyzed. Results showed a significant reduction in SNOT-22 scores and nasal polyp scores in all patients, regardless of whether a switch occurred. No statistically significant differences in clinical outcomes were found between patients who switched biologics and those who remained on their initial therapy. Most patients who switched transitioned from anti-immunoglobulin E or anti-IL-5 treatment to anti-IL-4/-IL-13 therapy.",
+      "practice_change_ar": "قد تشجع هذه الدراسة على تقييم خيارات تغيير العلاج البيولوجي في مرضى CRSwNP.",
+      "practice_change_en": "This study may encourage the consideration of switching biologic therapy in CRSwNP patients.",
+      "future_impact_ar": "يمكن لهذه النتائج أن تساعد في توجيه قرارات علاج مرضى CRSwNP في المستقبل.",
+      "future_impact_en": "These findings can help guide treatment decisions for CRSwNP patients in the future.",
+      "why_important_ar": "تسهم هذه الدراسة في فهم أفضل لعلاج التهاب الأنف والجيوب الأنفية المزمن مع وجود بوليبات الأنف.",
+      "why_important_en": "This study contributes to better understanding the treatment of chronic rhinosinusitis with nasal polyps.",
+      "vs_previous_ar": "تقدم هذه الدراسة أدلة جديدة حول تغيير الأدوية البيولوجية في ممارسات العلاج.",
+      "vs_previous_en": "This study provides new evidence on switching biologics in treatment practices.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة هي دراسة استعادية مع 48 مريض، وتقدم معلومات جديدة حول الأدوية البيولوجية.",
+      "stars_reason_en": "The study is a retrospective series with 48 patients and provides new insights into biologic therapies.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This study provides important insights into the switching of biologic therapies.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج الدراسات المستقبلية إلى استكشاف آثار تغيير الأدوية البيولوجية في مجموعات سكانية مختلفة.",
+      "research_gap_en": "Future studies need to explore the effects of switching biologics in different demographic populations.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "هذا التحليل يسلط الضوء على دراسة تهدف إلى تقييم تأثير تغيير الأدوية البيولوجية في مرضى التهاب الأنف والجيوب الأنفية المزمن مع وجود بوليبات الأنف. قامت الدراسة بتحليل بيانات 48 مريضًا تلقت العلاج البيولوجي بين عامي 2020 و2024. النتائج أظهرت انخفاضاً ملحوظًا في درجات SNOT-22 ونقاط البوليب الأنفي بغض النظر عن تغيير العلاج. لم تظهر فروق دالة إحصائياً بين المرضى الذين غيروا الأدوية ومن استمر في العلاج الأصلي. هذه النتائج قد تشجع على التفكير في تغيير العلاجات البيولوجية في المستقبل.",
+      "audio_script_en": "This analysis highlights a study aimed at evaluating the impact of switching biologics in patients with chronic rhinosinusitis with nasal polyps. The study analyzed data from 48 patients receiving biologic therapy between 2020 and 2024. Results showed a significant reduction in SNOT-22 scores and nasal polyp scores regardless of whether a switch occurred. No statistically significant differences were found between patients who switched biologics and those who continued their initial therapy. These findings may encourage consideration of switching biologic therapies in the future.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف الرئيسي للدراسة؟",
+          "q_en": "What is the primary objective of the study?",
+          "options_ar": [
+            "أ) تقييم فاعلية تغيير الأدوية البيولوجية",
+            "ب) دراسة تأثير أدوية جديدة",
+            "ج) مقارنة بين العلاجات التقليدية",
+            "د) تقييم تأثير المضادات الحيوية"
+          ],
+          "options_en": [
+            "A) Evaluate the effectiveness of switching biologics",
+            "B) Study the effects of new drugs",
+            "C) Compare traditional treatments",
+            "D) Assess the impact of antibiotics"
+          ],
+          "answer": 0,
+          "explanation_ar": "الهدف كان تقييم ما إذا كان تغيير العلاجات البيولوجية له تأثير على نتائج علاج مرضى CRSwNP.",
+          "explanation_en": "The objective was to evaluate whether switching biologics impacts treatment outcomes in CRSwNP patients."
+        },
+        {
+          "q_ar": "ما هي نسبة المرضى الذين قاموا بتغيير الأدوية؟",
+          "q_en": "What was the percentage of patients who switched medications?",
+          "options_ar": [
+            "أ) 10%",
+            "ب) 20.4%",
+            "ج) 30%",
+            "د) 15%"
+          ],
+          "options_en": [
+            "A) 10%",
+            "B) 20.4%",
+            "C) 30%",
+            "D) 15%"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت الدراسة أن 20.4% من المرضى قاموا بتغيير الأدوية البيولوجية أثناء العلاج.",
+          "explanation_en": "The study found that 20.4% of patients switched biologic medications during treatment."
+        },
+        {
+          "q_ar": "ما هي النتيجة التي تم قياسها في الدراسة؟",
+          "q_en": "What outcome was measured in the study?",
+          "options_ar": [
+            "أ) درجات SNOT-22",
+            "ب) ضغط الجيوب الأنفية",
+            "ج) مستويات الإيمونغلوبولين E",
+            "د) مستوى الطاقة"
+          ],
+          "options_en": [
+            "A) SNOT-22 scores",
+            "B) Sinus pressure",
+            "C) Immunoglobulin E levels",
+            "D) Energy levels"
+          ],
+          "answer": 0,
+          "explanation_ar": "تم قياس درجات SNOT-22 ونقاط البوليب الأنفي كجزء من التحليل.",
+          "explanation_en": "SNOT-22 scores and nasal polyp scores were measured as part of the analysis."
+        }
+      ]
+    },
+    {
+      "pmid": "42141910",
+      "title_ar": "Comparison of Patient Perception of Degree of Subglottic Stenosis and Exam Findings.",
+      "title_en": "Comparison of Patient Perception of Degree of Subglottic Stenosis and Exam Findings.",
+      "journal": "Ear, nose, & throat journal",
+      "pub_date": "2026-May-16",
+      "doi": "10.1177/01455613261453403",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42141910/",
+      "pdf_url": "https://doi.org/10.1177/01455613261453403",
+      "study_design": "Prospective cohort",
+      "summary_ar": "الهدف من هذه الدراسة هو مقارنة إدراك المرضى لدرجات تضيق تحت المزمار مع نتائج الفحوصات التنظيرية، استبيان ضيق التنفس، ونتائج تدفق الهواء. تم إجراء دراسة شملت 50 مريضًا وملأ المرضى استبيان ضيق التنفس ومقياس من 10 نقاط يعكس درجة تضيقهم المدركة. تم تحديد الدقة على أنها +/-1 على مقياس من 10 نقاط. النتائج أظهرت ارتباطًا معتدلًا بشكل عام، لكن ارتباطًا عاليًا للمرضى ذوي مؤشر كتلة الجسم الطبيعي. هذه النتائج تدل على الاتصال بين درجات ضيق التنفس والدقة. ",
+      "summary_en": "This study aims to compare patients' perception of the degree of subglottic stenosis with endoscopic exam findings, Clinical Dyspnea Questionnaire scores, and peak flow results. A study involving 50 patients was conducted where participants filled out a dyspnea questionnaire and a 10-point scale reflecting their perceived degree of stenosis. Accuracy was defined as +/-1 on a 10-point scale. Results showed a moderate overall correlation, but a high correlation for patients with normal Body Mass Index. This indicates a relationship between dyspnea scores and accuracy.",
+      "practice_change_ar": "يمكن أن يؤثر إدراك المرضى لدرجات التضيق تحت المزمار على كيفية إدارة حالاتهم اليومية.",
+      "practice_change_en": "Patients' perception of subglottic stenosis may influence how their cases are managed.",
+      "future_impact_ar": "تسلط هذه الدراسة الضوء على أهمية قياس إدراك المرضى في تقييم الحالات المستقبلية.",
+      "future_impact_en": "This study highlights the importance of incorporating patient perception in future case evaluations.",
+      "why_important_ar": "هذه المقالة مهمة لأنها تبرز الفروق بين إدراك المرضى والنتائج الموضوعية.",
+      "why_important_en": "This article is important as it highlights the discrepancies between patient perception and objective findings.",
+      "vs_previous_ar": "تضيف هذه الدراسة قيمة جديدة لفهم كيفية إدراك المرضى لدرجات التضيق مقارنة بالدراسات السابقة.",
+      "vs_previous_en": "This study adds new value to understanding how patients perceive stenosis degrees compared to previous research.",
+      "stars": 4,
+      "stars_reason_ar": "تصميم الدراسة عبارة عن مجموعة مستقبلية ويمتلك معلومات جديدة حول إدراك المرضى، مما يجعلها دراسة مهمة.",
+      "stars_reason_en": "The study design is a prospective cohort and provides new insights into patient perception, making it significant.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Highlights the importance of patient perception in evaluating subglottic stenosis cases.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحديد كيف يؤثر إدراك المرضى على نتائج الفحوصات موضوع بحاجة إلى مزيد من البحث.",
+      "research_gap_en": "Identifying how patient perception influences exam results is a needed area of further research.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تناقش هذه الدراسة مقارنة إدراك المرضى لدرجات تضيق تحت المزمار مع نتائج الفحوصات التنظيرية. استخدم الباحثون مجموعة مستقبلية تشمل 50 مريضًا. النتائج تشير إلى أن إدراك المرضى يمكن أن يؤثر على كيفية إدارة حالاتهم. تسلط المقالة الضوء على أهمية قياس إدراك المرضى لتحسين النتائج المستقبلية. هذه الدراسة تحمل معلومات جديدة تضيف قيمة لفهم تضيق تحت المزمار.",
+      "audio_script_en": "This study discusses the comparison of patient perception of subglottic stenosis degrees with endoscopic findings. Researchers used a prospective cohort including 50 patients. Results indicate that patients' perceptions may influence their case management. The article highlights the importance of measuring patient perception to improve future outcomes. This study carries new information that adds value to the understanding of subglottic stenosis.",
+      "mcq": [
+        {
+          "q_ar": "ما هو تصميم الدراسة لهذه المقالة؟",
+          "q_en": "What is the study design of this article?",
+          "options_ar": [
+            "أ) مجموعة مستقبلية",
+            "ب) دراسة استعادية",
+            "ج) تجربة عشوائية محكمة",
+            "د) مراجعة منهجية"
+          ],
+          "options_en": [
+            "A) Prospective cohort",
+            "B) Retrospective study",
+            "C) Randomized controlled trial",
+            "D) Systematic review"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة كانت مصممة كمجموعة مستقبلية تضم مرضى لتقييم إدراكهم للتضيق.",
+          "explanation_en": "The study was designed as a prospective cohort assessing patients' perception of stenosis."
+        },
+        {
+          "q_ar": "ما هو نسبة الارتباط بين إدراك المرضى ونتائج الفحوصات إلى حد كبير؟",
+          "q_en": "What was the overall correlation percentage between patient perception and exam findings?",
+          "options_ar": [
+            "أ) 0.67",
+            "ب) 0.88",
+            "ج) 1.00",
+            "د) 0.00"
+          ],
+          "options_en": [
+            "A) 0.67",
+            "B) 0.88",
+            "C) 1.00",
+            "D) 0.00"
+          ],
+          "answer": 0,
+          "explanation_ar": "قال الباحثون أن معامل الارتباط كان 0.67 مما يدل على ارتباط معتدل.",
+          "explanation_en": "The researchers stated that the correlation coefficient was 0.67 indicating moderate correlation."
+        },
+        {
+          "q_ar": "ما هي الفائدة من هذه الدراسة؟",
+          "q_en": "What is the benefit of this study?",
+          "options_ar": [
+            "أ) يوفر معلومات جديدة حول إدراك المرضى",
+            "ب) يؤكد المعرفة السابقة فقط",
+            "ج) يستخدم تقنيات قديمة",
+            "د) غير ذات صلة"
+          ],
+          "options_en": [
+            "A) Provides new information on patient perception",
+            "B) Confirms previous knowledge only",
+            "C) Uses outdated techniques",
+            "D) Irrelevant"
+          ],
+          "answer": 0,
+          "explanation_ar": "تقدم الدراسة معلومات جديدة حول كيفية إدراك المرضى لدرجات تضيق تحت المزمار.",
+          "explanation_en": "The study provides new information on how patients perceive the degrees of subglottic stenosis."
+        }
+      ]
+    },
+    {
+      "pmid": "42144497",
+      "title_ar": "Management of advanced sporadic endolymphatic sac tumours: a single-centre case series.",
+      "title_en": "Management of advanced sporadic endolymphatic sac tumours: a single-centre case series.",
+      "journal": "Irish journal of medical science",
+      "pub_date": "2026-May-18",
+      "doi": "10.1007/s11845-026-04448-2",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42144497/",
+      "pdf_url": null,
+      "study_design": "Retrospective case series n=2",
+      "summary_ar": "تُعد الأورام الكيسية النخاعية الداخلية (ELSTs) من الأورام النادرة والعدوانية محليًا والتي غالبًا ما تظهر في مراحل متقدمة. تم استعراض حالتين من المرضى الذين تم تشخيصهم بهذا الورم في مركز القاعدة القحفية الوطني. خضع المرضى لعملية جراحية لتقليل الأذى العصبي، حيث تم إجراء استئصال جزئي مع العلاج الإشعاعي. أظهرت النتائج تحسنًا في وظيفة العصب الوجهي في أحد المرضى واستقرار المرض في التصوير بالرنين المغناطيسي.",
+      "summary_en": "Endolymphatic sac tumours (ELSTs) are rare, locally aggressive neoplasms that often present at advanced stages. A review of two cases diagnosed with this tumour at the National Skull Base Centre was performed. Patients underwent surgery to minimize neurological harm, receiving subtotal resection with radiotherapy. Results showed improved facial nerve function in one patient and stability of disease on MRI.",
+      "practice_change_ar": "يمكن أن يؤدي العلاج الجراحي الانتقائي مع العلاج الإشعاعي إلى تحسين النتائج الوظيفية.",
+      "practice_change_en": "Selective surgical treatment with radiotherapy may lead to improved functional outcomes.",
+      "future_impact_ar": "تساعد هذه الدراسة في تحديد استراتيجيات العلاج الأمثل لأورام ELST المتقدمة.",
+      "future_impact_en": "This study aids in identifying optimal treatment strategies for advanced ELSTs.",
+      "why_important_ar": "تسلط هذه المقالة الضوء على إدارة الأورام النادرة، مما يساعد على الحفاظ على الوظائف العصبية.",
+      "why_important_en": "This article highlights the management of rare tumours, aiding in the preservation of neurological functions.",
+      "vs_previous_ar": "يتماشى مع المعرفة السابقة حول العلاج الجراحي لأورام ELST، مع إدخال العلاج الإشعاعي الانتقائي.",
+      "vs_previous_en": "Aligns with prior knowledge on surgical treatment of ELSTs, introducing selective radiotherapy.",
+      "stars": 3,
+      "stars_reason_ar": "تُعتبر دراسة متسلسلة حالة ضعيفة مع عدد قليل من المرضى وقدمت معلومات مفيدة.",
+      "stars_reason_en": "It is a weak case series with a small number of patients but provided useful information.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This study provides important insights into the management of rare tumours.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "لا توجد دراسات سابقة تبحث بشكل خاص في نتائج جراحة الأورام النادرة هذه.",
+      "research_gap_en": "There are no prior studies specifically investigating outcomes of these rare tumour surgeries.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "مقالة اليوم تناقش إدارة الأورام الكيسية النخاعية الداخلية المتقدمة، حيث تم استعراض حالتين نادرتين. أظهرت هذه الدراسة قيمة الاستئصال الجزئي مع العلاج الاشعاعي في الحفاظ على الوظائف العصبية. نجد أن أحد المرضى شهد تحسنًا ملحوظًا في وظيفة العصب الوجهي، بينما حافظ الآخر على استقرار حالته. هذه النتائج تشير إلى أهمية نهج الانتقاء في إدارة هذه الأورام النادرة.",
+      "audio_script_en": "Today's article discusses the management of advanced endolymphatic sac tumours, where two rare cases were reviewed. This study demonstrated the value of subtotal resection with radiotherapy in preserving neurological functions. One patient saw notable improvement in facial nerve function, while the other maintained disease stability. These results underscore the importance of a selective approach in managing these rare tumours.",
+      "mcq": [
+        {
+          "q_ar": "ما هو نوع الورم الذي تناقشه هذه الدراسة؟",
+          "q_en": "What type of tumour is discussed in this study?",
+          "options_ar": [
+            "أ) ورم كيسي نخاعي داخلي",
+            "ب) ورم عصبي",
+            "ج) ورم غدي",
+            "د) ورم غير محدد"
+          ],
+          "options_en": [
+            "A) Endolymphatic sac tumour",
+            "B) Neurofibroma",
+            "C) Adenoma",
+            "D) Undifferentiated tumour"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة تناقش أورام ELST، وهي الأورام الكيسية النخاعية الداخلية.",
+          "explanation_en": "The study discusses ELSTs, which are endolymphatic sac tumours."
+        },
+        {
+          "q_ar": "كيف تم تقييم وظيفة العصب الوجهي في الدراسة؟",
+          "q_en": "How was facial nerve function assessed in the study?",
+          "options_ar": [
+            "أ) اختبار إشعاعي",
+            "ب) نظام تصنيف هاوس-براكمان",
+            "ج) تقييم سريري",
+            "د) دراسة ميدانية"
+          ],
+          "options_en": [
+            "A) Radiological test",
+            "B) House-Brackmann grading system",
+            "C) Clinical assessment",
+            "D) Field study"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم تقييم وظيفة العصب الوجهي باستخدام نظام تصنيف هاوس-براكمان.",
+          "explanation_en": "Facial nerve function was assessed using the House-Brackmann grading system."
+        },
+        {
+          "q_ar": "ما هو أحد نتائج الدراسة بالنسبة للمرضى؟",
+          "q_en": "What is one of the study's findings regarding the patients?",
+          "options_ar": [
+            "أ) التحسن في وظيفة العصب الوجهي",
+            "ب) زيادة حجم الورم",
+            "ج) الحاجة لجراحة إضافية",
+            "د) عدم حدوث استقرار للمرض"
+          ],
+          "options_en": [
+            "A) Improvement in facial nerve function",
+            "B) Increase in tumour size",
+            "C) Need for additional surgery",
+            "D) Lack of disease stability"
+          ],
+          "answer": 0,
+          "explanation_ar": "أحد النتائج هو التحسن الملحوظ في وظيفة العصب الوجهي لأحد المرضى.",
+          "explanation_en": "One finding is the noticeable improvement in facial nerve function for one patient."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026051801",
+      "title_ar": "حجم سوق التنظير الأنفي، الحصة، النمو | معدل نمو سنوي مركب 6.4%",
+      "title_en": "ENT Endoscopy Market Size, Share, Growth | CAGR of 6.4%",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-05-18",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "من المتوقع أن يشهد سوق التنظير الأنفي نموًا كبيرًا، بمعدل نمو سنوي مركب يبلغ 6.4%. يتم دفع هذا النمو بسبب زيادة الطلب على الإجراءات الأقل غزوًا والتقدم في تكنولوجيا التنظير. يسلط تقرير Market.us الضوء على تطبيقات التنظير الأنفي المتزايدة ونتائج تحسين هذه الإجراءات. نتيجة لذلك، تستثمر الشركات في الابتكار لتلبية الاحتياجات المتغيرة لمقدمي الرعاية الصحية.",
+      "summary_en": "The ENT endoscopy market is projected to witness significant growth, with a compound annual growth rate (CAGR) of 6.4%. This growth is driven by increasing demand for minimally invasive procedures and advancements in endoscopic technology. Market.us highlights the expanding applications and improving outcomes associated with ENT endoscopy. As a result, companies are investing in innovation to cater to the evolving needs of healthcare providers.",
+      "practice_change_ar": "هذا مهم للجراحين الأنفيين الممارسين لأنه يشير إلى سوق متنامٍ للخيارات الجراحية الأقل غزوًا.",
+      "practice_change_en": "This matters to practicing ENT surgeons as it indicates a growing market for minimally invasive surgical options.",
+      "future_impact_ar": "في المستقبل، قد يؤدي النمو في سوق التنظير الأنفي إلى زيادة الابتكار وتحسين التدريب للجراحين في التقنيات الجديدة.",
+      "future_impact_en": "Going forward, the growth of the ENT endoscopy market may lead to increased innovation and enhanced training for surgeons in new techniques.",
+      "why_important_ar": "تأثير هذا على الممارسة السريرية كبير، حيث يمكن أن تؤدي التقدمات في التنظير إلى تحسين نتائج المرضى وتقليل أوقات التعافي.",
+      "why_important_en": "The clinical impact is significant, as advances in endoscopy can lead to better patient outcomes and reduced recovery times.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "يعتبر السوق المتنامي للتنظير الأنفي ذو أهمية كبيرة لتحسين الممارسات السريرية.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "في الآونة الأخيرة، تم الإعلان عن نمو سوق التنظير الأنفي والذي من المتوقع أن يصل إلى معدل نمو سنوي مركب يبلغ 6.4%. هذه الزيادة تأتي نتيجة للطلب المتزايد على الإجراءات الأقل غزوًا والابتكارات في تكنولوجيا التنظير. يُشير هذا النمو إلى فرص جديدة للجراحين الأنفيين لتحسين نتائج المرضى وتسريع أوقات التعافي. يبدو المستقبل مشرقًا مع إمكانية المزيد من الابتكارات والتدريب المتقدم في هذا المجال.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026051802",
+      "title_ar": "من المتوقع أن يتجاوز سوق أجهزة الأنف والأذن والحنجرة 37580 مليون دولار أمريكي بحلول عام 2032 مدفوعاً بالإجراءات الحد الأدنى من التدخل والتطورات التكنولوجية",
+      "title_en": "ENT Devices Market Set to Surpass USD 37580 Million by 2032 Driven by Minimally Invasive Procedures and Technological Advancements",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-05-18",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "من المتوقع أن يتجاوز سوق أجهزة الأنف والأذن والحنجرة 37580 مليون دولار أمريكي بحلول عام 2032، مدفوعًا بالطلب المتزايد على الإجراءات الحد الأدنى من التدخل والتطورات التكنولوجية. تشير هذه النمو إلى تحول كبير نحو الأجهزة المبتكرة التي تحسن نتائج المرضى. ستقود الإشادة بالحلول المدفوعة بالتكنولوجيا الصناعات إلى التركيز على البحث والتطوير. تقدم هذه الاتجاهات فرصًا للمصنعين لتوسيع خطوط منتجاتهم لتلبية الطلبات الجديدة في السوق.",
+      "summary_en": "The ENT devices market is projected to exceed USD 37,580 million by 2032, fueled by the growing demand for minimally invasive procedures and advancements in technology. This growth indicates a significant shift towards innovative devices that improve patient outcomes. Encouragement towards technology-driven solutions will lead industries to focus on R&D. This trend presents opportunities for manufacturers to expand their product lines to meet new market demands.",
+      "practice_change_ar": "يزيد هذا النمو في السوق من أهمية اعتماد جراحي الأنف والأذن والحنجرة لأحدث التقنيات في ممارساتهم.",
+      "practice_change_en": "This market growth emphasizes the importance for ENT surgeons to adopt the latest technologies in their practices.",
+      "future_impact_ar": "يمكن أن يؤدي توسع سوق أجهزة الأنف والأذن والحنجرة إلى دفع المزيد من الابتكارات، مما يعزز تقنيات الجراحة ورعاية المرضى.",
+      "future_impact_en": "The expansion of the ENT devices market could drive further innovations, enhancing surgical techniques and patient care.",
+      "why_important_ar": "يمكن أن يؤدي اعتماد أجهزة الأنف والأذن والحنجرة المتطورة إلى تحسين نتائج المرضى وزيادة كفاءة الإجراءات.",
+      "why_important_en": "Adopting advanced ENT devices can lead to better patient outcomes and increased efficiency in procedures.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "النمو الكبير في السوق يعكس التحسينات المحتملة في العلاجات والخدمات.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أهلاً بكم في نشرة أخبار أنف وأذن وحنجرة اليوم. من المتوقع أن يتجاوز سوق أجهزة الأنف والأذن والحنجرة 37580 مليون دولار أمريكي بحلول عام 2032. هذه الزيادة مدفوعة بالطلب المتزايد على الإجراءات الحد الأدنى من التدخل والتطورات التكنولوجية. يعكس النمو في السوق تحولًا كبيرًا نحو الأساليب المبتكرة. هذا أمر مهم لجراحي الأنف والأذن والحنجرة، لأن اعتماد التكنولوجيا الحديثة يمكن أن يؤدي إلى نتائج أفضل للمرضى. لذا، كونوا على استعداد لتبني هذه التطورات في ممارساتكم.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026051803",
+      "title_ar": "حجم سوق أجهزة الأنف والأذن والحنجرة الأمريكي ، الحصة | تقرير الصناعة ، 2030",
+      "title_en": "U.S. ENT Devices Market Size, Share | Industry Report, 2030",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-05-18",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "وفقًا لتقرير من Grand View Research ، من المتوقع أن ينمو سوق أجهزة الأنف والأذن والحنجرة الأمريكي بشكل كبير بحلول عام 2030. ويعزى هذا النمو إلى زيادة حالات اضطرابات الأنف والأذن والحنجرة والتقدم في التكنولوجيا الطبية. يسلط التقرير الضوء على ديناميات السوق مثل الاتجاهات والعوامل الدافعة والتحديات التي قد تؤثر على الاستثمارات المستقبلية. يمكن أن تساعد المعلومات أصحاب المصلحة في الصناعة على توافق استراتيجياتهم مع فرص السوق.",
+      "summary_en": "According to a report by Grand View Research, the U.S. ENT devices market is projected to grow significantly by 2030. This growth is attributed to increasing incidences of ENT disorders and advancements in medical technology. The report highlights market dynamics such as trends, drivers, and challenges that could affect future investments. The insights could help industry stakeholders align their strategies with market opportunities.",
+      "practice_change_ar": "يؤكد هذا التقرير على الفرصة المتزايدة في سوق أجهزة الأنف والأذن والحنجرة ، مما يسلط الضوء على مجالات الاستثمار والابتكار المحتملة.",
+      "practice_change_en": "This report emphasizes the growing opportunity in the ENT device market, highlighting areas for potential investment and innovation.",
+      "future_impact_ar": "تشير هذه الاتجاهات إلى مستقبل قوي لأجهزة الأنف والأذن والحنجرة ، مما يشجع على المزيد من البحث والتطوير في هذا القطاع.",
+      "future_impact_en": "This trend indicates a robust future for ENT devices, encouraging further research and development in the sector.",
+      "why_important_ar": "يمكن أن يؤدي نمو سوق أجهزة الأنف والأذن والحنجرة إلى تحسين خيارات العلاج والتقنيات للمرضى.",
+      "why_important_en": "The growth of the ENT device market can lead to improved treatment options and technologies for patients.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "لأهمية المعلومات المتعلقة بنمو السوق وتأثيرها على الابتكار.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "في تقرير جديد من Grand View Research، من المتوقع أن ينمو سوق أجهزة الأنف والأذن والحنجرة في الولايات المتحدة بشكل كبير بحلول عام 2030. يعود هذا النمو إلى ارتفاع حالات اضطرابات الأنف والأذن والحنجرة والتطورات في التكنولوجيا الطبية. التقرير يوفر رؤى حول الاتجاهات والدوافع التي قد تؤثر على الاستثمارات المستقبلية. هذه المعلومات مهمة للجراحين في هذا المجال حيث تبرز الفرص للنمو والابتكار.",
+      "mcq": []
+    }
+  ]
+}

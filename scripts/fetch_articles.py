@@ -24,7 +24,6 @@ TELEGRAM_CHAT_ID    = os.environ.get("TELEGRAM_CHAT_ID", "1276595563")
 EMAIL_FOR_UNPAYWALL = "orl-daily@gmail.com"
 SITE_URL            = "https://malbarr.github.io/orl-daily"
 MAX_ARTICLES        = 20   # fetch more, then filter by quality
-KEEP_DAYS           = 60
 PRIORITY_SUBSPECIALTIES = {'rhinology', 'skull_base', 'laryngology', 'facial_plastics'}
 MIN_STARS_PRIORITY  = 3   # rhinology/skull_base/laryngology: keep ≥ 3 stars
 MIN_STARS_GENERAL   = 4   # all others: keep ≥ 4 stars
@@ -468,20 +467,6 @@ def save_index(dates: list) -> None:
     print(f"[Index] Saved {len(unique_sorted)} dates.")
 
 
-def prune_old_files(dates: list) -> list:
-    """Remove data files older than KEEP_DAYS days. Returns updated dates list."""
-    cutoff = (datetime.now(timezone.utc) - timedelta(days=KEEP_DAYS)).strftime("%Y-%m-%d")
-    kept = []
-    for d in dates:
-        if d >= cutoff:
-            kept.append(d)
-        else:
-            f = DATA_DIR / f"{d}.json"
-            if f.exists():
-                f.unlink()
-                print(f"[Prune] Deleted {f.name}")
-    return kept
-
 
 # ─── Telegram notification ──────────────────────────────────────────────────────
 
@@ -800,7 +785,7 @@ def main() -> None:
     print("[Step 5] Updating data/index.json…")
     dates = load_index()
     dates.append(TODAY)
-    dates = prune_old_files(dates)
+    # Historical editions are permanent: never prune old data files.
     save_index(dates)
 
     # 6. Send Telegram notification

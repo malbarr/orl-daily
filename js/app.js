@@ -55,7 +55,9 @@ const state = {
   lang:         localStorage.getItem('orl-lang') || 'en',
   filter:       'all',
   articles:     [],      // all articles for current date
-  allDates:     [],      // list of available dates from index.json
+  allDates:     [],      // list of all available dates from index.json
+  recentDates:  [],      // newest editions shown in the main date picker
+  archiveDates: [],      // older editions shown in the permanent archive
   currentDate:  null,
   searchQuery:  '',
 };
@@ -74,7 +76,7 @@ async function init() {
   try {
     const idx = await fetchJSON('./data/index.json');
     state.allDates = (idx.dates || []).sort().reverse();
-    populateDatePicker(state.allDates);
+    populateDatePickers(state.allDates);
 
     if (state.allDates.length > 0) {
       await loadDate(state.allDates[0]);
@@ -104,9 +106,11 @@ async function loadDate(dateStr) {
   state.filter       = 'all';
   state.searchQuery  = '';
 
-  // Update date picker
+  // Update recent-date and archive selectors
   const picker = $('#date-picker');
-  if (picker) picker.value = dateStr;
+  const archivePicker = $('#archive-picker');
+  if (picker) picker.value = state.recentDates.includes(dateStr) ? dateStr : '';
+  if (archivePicker) archivePicker.value = state.archiveDates.includes(dateStr) ? dateStr : '';
 
   // Update date display in header
   const dateDisplay = $('#current-date-display');
@@ -158,7 +162,7 @@ function applyLang(lang, save = true) {
     if (dateDisplay) dateDisplay.textContent = formatDate(state.currentDate);
   }
 
-  if (state.allDates.length) populateDatePicker(state.allDates);
+  if (state.allDates.length) populateDatePickers(state.allDates);
   if (state.articles.length) renderArticles();
 }
 
@@ -923,18 +927,63 @@ function generateQRCode(url, container) {
 }
 
 // ── Date Picker ────────────────────────────────────────────────────────────────
-function populateDatePicker(dates) {
+function populateDatePickers(dates) {
   const picker = document.getElementById('date-picker');
-  if (!picker) return;
-  const currentVal = picker.value || state.currentDate;
-  picker.innerHTML = '';
-  dates.forEach(d => {
-    const opt = document.createElement('option');
-    opt.value = d;
-    opt.textContent = formatDate(d);
-    if (d === currentVal) opt.selected = true;
-    picker.appendChild(opt);
-  });
+  const archivePicker = document.getElementById('archive-picker');
+  const sorted = [...dates].sort().reverse();
+
+  // The newest calendar month stays in the everyday picker.
+  // Every earlier month is kept permanently in Archive.
+  const newestMonth = sorted.length ? sorted[0].slice(0, 7) : '';
+  state.recentDates = sorted.filter(d => d.startsWith(newestMonth));
+  state.archiveDates = sorted.filter(d => !d.startsWith(newestMonth));
+
+  if (picker) {
+    const currentVal = state.currentDate;
+    picker.innerHTML = '';
+    state.recentDates.forEach(d => {
+      const opt = document.createElement('option');
+      opt.value = d;
+      opt.textContent = formatDate(d);
+      if (d === currentVal) opt.selected = true;
+      picker.appendChild(opt);
+    });
+  }
+
+  if (archivePicker) {
+    const currentVal = state.currentDate;
+    archivePicker.innerHTML = '';
+
+    const placeholder = document.createElement('option');
+    placeholder.value = '';
+    placeholder.textContent = state.lang === 'ar' ? 'الأرشيف' : 'Archive';
+    archivePicker.appendChild(placeholder);
+
+    const groups = new Map();
+    state.archiveDates.forEach(d => {
+      const monthKey = d.slice(0, 7);
+      if (!groups.has(monthKey)) groups.set(monthKey, []);
+      groups.get(monthKey).push(d);
+    });
+
+    groups.forEach((monthDates, monthKey) => {
+      const group = document.createElement('optgroup');
+      const monthDate = new Date(monthKey + '-01T12:00:00Z');
+      const locale = state.lang === 'ar' ? 'ar-SA-u-ca-gregory' : 'en-GB';
+      group.label = monthDate.toLocaleDateString(locale, {
+        year: 'numeric', month: 'long', timeZone: 'UTC', calendar: 'gregory'
+      });
+
+      monthDates.forEach(d => {
+        const opt = document.createElement('option');
+        opt.value = d;
+        opt.textContent = formatDate(d);
+        if (d === currentVal) opt.selected = true;
+        group.appendChild(opt);
+      });
+      archivePicker.appendChild(group);
+    });
+  }
 }
 
 // ── Filter Tabs ────────────────────────────────────────────────────────────────
@@ -1009,6 +1058,14 @@ function bindHeader() {
   const picker = document.getElementById('date-picker');
   if (picker) {
     picker.addEventListener('change', e => {
+      if (e.target.value) loadDate(e.target.value);
+    });
+  }
+
+  // Permanent archive picker
+  const archivePicker = document.getElementById('archive-picker');
+  if (archivePicker) {
+    archivePicker.addEventListener('change', e => {
       if (e.target.value) loadDate(e.target.value);
     });
   }

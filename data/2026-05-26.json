@@ -1,0 +1,888 @@
+{
+  "date": "2026-05-26",
+  "generated_at": "2026-05-26T06:53:35Z",
+  "articles": [
+    {
+      "pmid": "42184971",
+      "title_ar": "Phylogenomic analysis of vocal fold length evolution reveals links between vocal and auditory systems in terrestrial mammals.",
+      "title_en": "Phylogenomic analysis of vocal fold length evolution reveals links between vocal and auditory systems in terrestrial mammals.",
+      "journal": "Molecular biology and evolution",
+      "pub_date": "2026-May-26",
+      "doi": "10.1093/molbev/msag126",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42184971/",
+      "pdf_url": null,
+      "study_design": "Phylogenomic analysis across 75 species",
+      "summary_ar": "تتناول هذه الدراسة طول حبال الصوت في الثدييات الأرضية وعلاقته بالأنظمة الصوتية والسمعية. تم استخدام إطار عمل PhyloG2P لتحليل 75 نوع من الثدييات بما في ذلك Primates وCarnivora وArtiodactyla. النتائج أظهرت تنوعًا قويًا في طول الحبال الصوتية النسبية (RVFL) واستجابة تكيفية تدعم فرضية زيادة حجم الصوت. كما تم تحديد 25 جين متعلق بالسمع يعرض تطورًا سريعًا وارتباطًا بالتنوع الصوتي. هذه النتائج توفر رؤى جديدة حول الأنظمة الصوتية والسمعية وتأثيراتها على التواصل الاجتماعي.",
+      "summary_en": "This study addresses vocal fold length in terrestrial mammals and its links to vocal and auditory systems. A PhyloG2P framework was used to analyze 75 species including Primates, Carnivora, and Artiodactyla. The findings revealed strong variability in relative vocal fold length (RVFL) and adaptive responses supporting the acoustic size exaggeration hypothesis. Additionally, 25 hearing-related genes showing rapid evolution and associations with vocal diversity were identified. These results provide new insights into vocal and auditory systems and their impacts on social communication.",
+      "practice_change_ar": "قد تؤدي النتائج إلى فهم أفضل لآليات التطور في التواصل الصوتي.",
+      "practice_change_en": "The findings may lead to a better understanding of the evolutionary mechanisms behind vocal communication.",
+      "future_impact_ar": "يمكن أن تؤثر هذه الدراسة على الأبحاث المستقبلية في الأنظمة الصوتية والسمعية.",
+      "future_impact_en": "This study could influence future research in vocal and auditory systems.",
+      "why_important_ar": "يثبت هذا البحث الروابط بين الأنظمة الصوتية والسمعية، مما يساهم في فهم كيف تطورت هذه الأنظمة.",
+      "why_important_en": "This research establishes links between vocal and auditory systems, contributing to understanding how these systems evolved.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة من خلال تقديم روابط جينية جديدة لم يتم دراستها من قبل.",
+      "vs_previous_en": "This study differs from prior knowledge by providing new genetic links that have not been previously studied.",
+      "stars": 5,
+      "stars_reason_ar": "تحليل شامل يقوم على أسس علمية متينة، مما يضيف معلومات جديدة هامة للممارسة السريرية.",
+      "stars_reason_en": "A comprehensive analysis built on solid scientific foundations, contributing significant new information to clinical practice.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تعتبر النتائج ذات أهمية قصوى لفهم الأنظمة الصوتية والسمعية.",
+      "jc_reason_en": "The findings are highly significant for understanding vocal and auditory systems.",
+      "watch": true,
+      "watch_detail_ar": "راقب كيف يمكن للنتائج أن تؤثر على الأبحاث في الجينات السمعية وتأثيرها على التواصل الصوتي.",
+      "watch_detail_en": "Watch how the findings may influence research in auditory genes and their impact on vocal communication.",
+      "watch_type": "technology",
+      "research_gap_ar": "توجد حاجة لمزيد من الدراسات لفهم علاقة الجينات بالخصائص الصوتية بشكل أعمق.",
+      "research_gap_en": "There is a need for further studies to deepen the understanding of the relationship between genes and vocal traits.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تتناول هذه الدراسة تطور طول حبال الصوت في الثدييات الأرضية، وهي نقطة رئيسية تحدد الصوت والتردد الأساسي. تم تحليل 75 نوع من الثدييات باستخدام إطار عمل PhyloG2P، حيث تم اكتشاف تنوع قوي في طول الحبال الصوتية النسبية (RVFL). توصل الباحثون إلى روابط جينية مهمة بين الأنظمة الصوتية والسمعية، مع تحديد 25 جين مرتبط بالسمع. النتائج تقدم رؤى جديدة حول الآليات التطورية وراء التنوع الصوتي.",
+      "audio_script_en": "This study addresses the evolution of vocal fold length in terrestrial mammals, a key determinant of pitch and fundamental frequency. A total of 75 species were analyzed using the PhyloG2P framework, revealing strong variability in relative vocal fold length (RVFL). Researchers identified significant genetic links between vocal and auditory systems, highlighting 25 hearing-related genes. The findings provide new insights into the evolutionary mechanisms driving vocal diversity.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف الرئيسي من الدراسة؟",
+          "q_en": "What is the main objective of the study?",
+          "options_ar": [
+            "أ) دراسة تطور طول حبال الصوت",
+            "ب) تحليل أنظمة الدم",
+            "ج) تقدير تأثير البيئة",
+            "د) فحص تركيبات الجينات السمعية"
+          ],
+          "options_en": [
+            "A) To study the evolution of vocal fold length",
+            "B) To analyze blood systems",
+            "C) To assess environmental impacts",
+            "D) To examine auditory gene compositions"
+          ],
+          "answer": 0,
+          "explanation_ar": "هدف الدراسة هو دراسة تطور طول حبال الصوت في الثدييات الأرضية.",
+          "explanation_en": "The objective of the study is to investigate the evolution of vocal fold length in terrestrial mammals."
+        },
+        {
+          "q_ar": "ما الجينات التي تم تحديدها في الدراسة؟",
+          "q_en": "Which genes were identified in the study?",
+          "options_ar": [
+            "أ) جينات السمع",
+            "ب) جينات القلب",
+            "ج) جينات العظام",
+            "د) جينات البصر"
+          ],
+          "options_en": [
+            "A) Hearing-related genes",
+            "B) Heart genes",
+            "C) Bone genes",
+            "D) Vision genes"
+          ],
+          "answer": 0,
+          "explanation_ar": "تم تحديد 25 جين مرتبط بالسمع كشهدت تطورًا سريعًا.",
+          "explanation_en": "Twenty-five hearing-related genes showing rapid evolution were identified."
+        },
+        {
+          "q_ar": "ما هي أهمية الدراسة؟",
+          "q_en": "What is the importance of the study?",
+          "options_ar": [
+            "أ) تعريف الأنظمة الصوتية",
+            "ب) تحليل الجينات المعتادة",
+            "ج) دراسة الروابط غير ذات الصلة",
+            "د) فحص الآثار السلبية للتلوث"
+          ],
+          "options_en": [
+            "A) Defining vocal systems",
+            "B) Analyzing common genes",
+            "C) Studying unrelated links",
+            "D) Examining negative effects of pollution"
+          ],
+          "answer": 0,
+          "explanation_ar": "أهمية الدراسة تكمن في تعريف الأنظمة الصوتية والسمعية وكيفية تطورها.",
+          "explanation_en": "The importance of the study lies in defining vocal and auditory systems and how they evolved."
+        }
+      ]
+    },
+    {
+      "pmid": "42183614",
+      "title_ar": "Esthetic Nasal Reconstruction Using Forehead Flap.",
+      "title_en": "Esthetic Nasal Reconstruction Using Forehead Flap.",
+      "journal": "The Journal of craniofacial surgery",
+      "pub_date": "2026-May-25",
+      "doi": "10.1097/SCS.0000000000012893",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42183614/",
+      "pdf_url": null,
+      "study_design": "Case series n=4",
+      "summary_ar": "تعد فلطة الجبهة الوسيطة الخيار الأساسي لعلاج العيوب الكبيرة في الأنف. تتناول هذه الدراسة نهجًا خوارزميًا لإعادة بناء الأنف ثلاثي الأبعاد. تم تقديم أربعة مرضى تم علاجهم باستخدام فلطة الجبهة. جميع المرضى أبدوا رضا تام، مع عدم حدوث أي فقدان للإعادة بناء على مدى متابعة متوسطه قدرها 19.5 شهرًا. تشير النتائج إلى نجاح نهج إعادة البناء في استعادة الشكل والوظيفة.",
+      "summary_en": "The paramedian forehead flap is the primary choice for major nasal defects. This study presents an algorithmic approach to three-dimensional nasal reconstruction. Four patients treated with forehead flap reconstruction were highlighted. All patients showed 100% satisfaction, with no loss of reconstruction over an average follow-up of 19.5 months. Results indicate the success of the reconstruction approach in restoring form and function.",
+      "practice_change_ar": "يمكن أن تؤدي هذه الدراسة إلى تحسين التخطيط الجراحي لتصحيح العيوب الأنفية.",
+      "practice_change_en": "This study may improve surgical planning for correcting nasal defects.",
+      "future_impact_ar": "ستكون هناك فوائد مهمة لتخصيص أساليب زراعة الجلد بناءً على المريض.",
+      "future_impact_en": "There will be significant benefits to customizing grafting techniques based on the patient.",
+      "why_important_ar": "تساعد هذه المقالة في توضيح نهج شامل لإعادة بناء الأنف.",
+      "why_important_en": "This article helps clarify a comprehensive approach to nasal reconstruction.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة من خلال تقديم إطار عمل مفصل لإعادة البناء.",
+      "vs_previous_en": "This study differs from prior knowledge by providing a detailed framework for reconstruction.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة حالة صغيرة مع 4 مرضى، لكنها تساهم في المعرفة حول تقنيات إعادة البناء.",
+      "stars_reason_en": "Small case series with 4 patients, but it contributes to knowledge about reconstruction techniques.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Presents an innovative approach to reconstructing nasal defects.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة تطورات استخدام فلطة الجبهة في إعادة البناء الأنفي.",
+      "watch_detail_en": "Monitor developments in the use of forehead flaps for nasal reconstruction.",
+      "watch_type": "instrument",
+      "research_gap_ar": "تفتقر الأدبيات إلى إطار شامل لتخطيط إعادة البناء الأنفي ثلاثي الأبعاد.",
+      "research_gap_en": "Literature lacks a comprehensive framework for three-dimensional nasal reconstruction planning.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "تتناول هذه الدراسة فلطة الجبهة كحل أساسي لعلاج العيوب الأنفية. يتم عرض نهج خوارزمي لإعادة البناء، مع الإشارة إلى نجاح الجراحة من حيث الرضى واستعادة الوظيفة. يتضمن البحث دراسة حالة لـ 4 مرضى. النتائج تبرز الحاجة إلى اعتماد أساليب مخصصة. تراجعت الحاجة للأبحاث في إطار عمل شامل، مما قد يعزز التخطيط الجراحي.",
+      "audio_script_en": "This study discusses the forehead flap as a primary solution for nasal defects. An algorithmic approach to reconstruction is presented, highlighting surgical success in terms of satisfaction and functional restoration. The research includes case studies of 4 patients. The results underscore the need for customized approaches. There remains a need for research into a comprehensive framework, which could enhance surgical planning.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الخيار الأساسي لعلاج العيوب الكبيرة في الأنف؟",
+          "q_en": "What is the primary choice for major nasal defects?",
+          "options_ar": [
+            "أ) فلطة الجبهة",
+            "ب) زراعة الجلد",
+            "ج) جراحة تجميلية",
+            "د) فلطة الوجه"
+          ],
+          "options_en": [
+            "A) Forehead flap",
+            "B) Skin grafting",
+            "C) Cosmetic surgery",
+            "D) Facial flap"
+          ],
+          "answer": 0,
+          "explanation_ar": "فلطة الجبهة هي الخيار الأساسي لإعادة بناء الأنف.",
+          "explanation_en": "The forehead flap is the primary choice for nasal reconstruction."
+        },
+        {
+          "q_ar": "ما هي نسبة رضا المرضى في هذه الدراسة؟",
+          "q_en": "What was the patient satisfaction rate in this study?",
+          "options_ar": [
+            "أ) 75%",
+            "ب) 90%",
+            "ج) 100%",
+            "د) 80%"
+          ],
+          "options_en": [
+            "A) 75%",
+            "B) 90%",
+            "C) 100%",
+            "D) 80%"
+          ],
+          "answer": 2,
+          "explanation_ar": "كان هناك 100% رضا للمرضى المشاركين.",
+          "explanation_en": "There was 100% satisfaction among the participating patients."
+        },
+        {
+          "q_ar": "ما هو المتوسط الزمني لمتابعة المرضى في هذه الدراسة؟",
+          "q_en": "What was the average follow-up period for patients in this study?",
+          "options_ar": [
+            "أ) 12 شهرًا",
+            "ب) 19.5 شهرًا",
+            "ج) 6 أشهر",
+            "د) 24 شهرًا"
+          ],
+          "options_en": [
+            "A) 12 months",
+            "B) 19.5 months",
+            "C) 6 months",
+            "D) 24 months"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان متوسط مدة المتابعة 19.5 شهرًا.",
+          "explanation_en": "The average follow-up period was 19.5 months."
+        }
+      ]
+    },
+    {
+      "pmid": "42178421",
+      "title_ar": "A preliminary study of facial soft tissue thickness for forensic facial reconstruction in a Nigerian adult female community.",
+      "title_en": "A preliminary study of facial soft tissue thickness for forensic facial reconstruction in a Nigerian adult female community.",
+      "journal": "International journal of legal medicine",
+      "pub_date": "2026-May-25",
+      "doi": "10.1007/s00414-026-03794-1",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42178421/",
+      "pdf_url": "https://doi.org/10.1007/s00414-026-03794-1",
+      "study_design": "Cross-sectional study n=32",
+      "summary_ar": "هذه الدراسة بحثت في سمك الأنسجة الرخوة للوجه في مجتمع من الإناث البالغات النيجيرية. تم قياس سمك الأنسجة الرخوة باستخدام عمليات المسح بالأشعة المقطعية على 32 موضوعًا. أُخذت القياسات من 50 نقطة في الوجه عبر مجموعة متنوعة من النقاط والأعمار. أظهرت النتائج أن الجانب الأيسر من الوجه كان أكثر سمكًا مقارنة بالجانب الأيمن، مع اختلافات أكبر عند منطقة الوجنة. كما تم مقارنة البيانات مع بيانات سكانية من بلدان أخرى. توفر هذه الدراسة مجموعة جديدة من البيانات التي يمكن استخدامها في إعادة بناء الوجه لأغراض الطب الشرعي.",
+      "summary_en": "This study investigated facial soft tissue thickness in a community of Nigerian adult females. Measurements were taken from computed tomography scans of 32 subjects at 50 facial points across a diverse age range. The results indicated that the left side of the face was thicker than the right, with greater differences observed at the zygomatic arch. Data were compared with populations from other countries. This study provides a new dataset applicable for forensic facial reconstruction in Nigerian females.",
+      "practice_change_ar": "ستساهم هذه البيانات الجديدة في تحسين دقة إعادة بناء الوجه للنساء النيجيريات في المستقبل.",
+      "practice_change_en": "This new data will enhance the accuracy of facial reconstruction for Nigerian females in the future.",
+      "future_impact_ar": "يمكن استخدام هذه النتائج في الأبحاث المستقبلية المتعلقة بالسمات الأنثوية في المجتمعات المختلفة.",
+      "future_impact_en": "These findings can be utilized for future research related to female traits across different populations.",
+      "why_important_ar": "تقدم هذه المقالة مجموعة بيانات هامة غير موجودة من قبل للنساء النيجيريات.",
+      "why_important_en": "This article provides a valuable dataset that previously did not exist for Nigerian females.",
+      "vs_previous_ar": "تتمثل الاختلافات في دقة السمك عند مناطق الشفاه والذقن مقارنة بالأنماط السكانية الأخرى.",
+      "vs_previous_en": "The differences are noted in the thickness at the lip and chin regions compared to other populations.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة مقطعية جيدة وقامت بجمع بيانات جديدة؛ توفر فائدة عملية.",
+      "stars_reason_en": "Good cross-sectional study with new data collected; provides practical benefit.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تقدم مجموعة بيانات جديدة تتعلق بإعادة بناء الوجه مما يمكن أن يكون نقطة مثيرة للنقاش.",
+      "jc_reason_en": "Offers a new dataset relevant to facial reconstruction which can be a stimulating discussion point.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "عدم وجود بيانات سابقة حول سمك الأنسجة الرخوة في الإناث النيجيريات.",
+      "research_gap_en": "Lack of previous data on soft tissue thickness in Nigerian females.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "في هذه المقابلة، سنناقش دراسة جديدة عن سمك الأنسجة الرخوة للوجه في مجتمع من الإناث البالغات النيجيريات. درست الدراسة 32 موضوعًا وقيست البيانات من 50 نقطة وجه مختلفة. أظهرت النتائج فروقًا ملحوظة بين جانبي الوجه وكانت هناك اختلافات أكبر عند الوجنة. هذه النتائج تؤكد الحاجة إلى بيانات سكانية محلية لإعادة البناء الوجه بشكل دقيق. إن أهمية هذه الدراسة تكمن في تقديم مجموعة بيانات جديدة غير موجودة سابقًا والتي يمكن أن تحسن دقة إعادة بناء الوجه في الحالات الجنائية. كما سيتمكن الباحثون من مقارنة هذه البيانات مع المجتمعات الأخرى، مما يسهل المزيد من الأبحاث المستقبلية.",
+      "audio_script_en": "In this segment, we discuss new research on facial soft tissue thickness in a community of Nigerian adult females. The study examined 32 subjects and measured data from 50 different facial points. The results showed significant differences between sides of the face, with greater differences observed at the zygomatic arch. These findings highlight the necessity for localized population data for accurate facial reconstruction. The importance of this study lies in providing a new dataset that previously did not exist, which can enhance the precision of facial reconstruction in forensic cases. Furthermore, researchers will be able to compare this data with other populations, facilitating more future research.",
+      "mcq": [
+        {
+          "q_ar": "ما هو عدد المرضى المعنيين في هذه الدراسة؟",
+          "q_en": "What is the number of subjects involved in this study?",
+          "options_ar": [
+            "أ) 10",
+            "ب) 20",
+            "ج) 32",
+            "د) 50"
+          ],
+          "options_en": [
+            "A) 10",
+            "B) 20",
+            "C) 32",
+            "D) 50"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة تضمنت 32 موضوعًا.",
+          "explanation_en": "The study involved 32 subjects."
+        },
+        {
+          "q_ar": "ما هي النقاط التي قاسها الباحثون في سمك الأنسجة الرخوة؟",
+          "q_en": "What points did the researchers measure for soft tissue thickness?",
+          "options_ar": [
+            "أ) 50 نقطة",
+            "ب) 30 نقطة",
+            "ج) 20 نقطة",
+            "د) 10 نقاط"
+          ],
+          "options_en": [
+            "A) 50 points",
+            "B) 30 points",
+            "C) 20 points",
+            "D) 10 points"
+          ],
+          "answer": 0,
+          "explanation_ar": "الباحثون قاسوا 50 نقطة مختلفة.",
+          "explanation_en": "The researchers measured 50 different points."
+        },
+        {
+          "q_ar": "ما الفائدة من هذه البيانات الجديدة؟",
+          "q_en": "What is the benefit of this new data?",
+          "options_ar": [
+            "أ) عدم وجود فائدة",
+            "ب) تحسين إعادة البناء الوجه",
+            "ج) تقليل الوقت",
+            "د) لا شيء"
+          ],
+          "options_en": [
+            "A) No benefit",
+            "B) Enhancing facial reconstruction",
+            "C) Reducing time",
+            "D) None"
+          ],
+          "answer": 1,
+          "explanation_ar": "البيانات ستساعد في تحسين دقة إعادة بناء الوجه.",
+          "explanation_en": "The data will help enhance the accuracy of facial reconstruction."
+        }
+      ]
+    },
+    {
+      "pmid": "42178145",
+      "title_ar": "Correlation of Patient-Reported Symptoms With Rhinogram Features Beyond Simple Airway Resistance.",
+      "title_en": "Correlation of Patient-Reported Symptoms With Rhinogram Features Beyond Simple Airway Resistance.",
+      "journal": "The Annals of otology, rhinology, and laryngology",
+      "pub_date": "2026-May-24",
+      "doi": "10.1177/00034894261454654",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42178145/",
+      "pdf_url": null,
+      "study_design": "Diagnostic cross-sectional study n=601",
+      "summary_ar": "الدراسة استكشفت العلاقة بين ميزات منحنيات rhinomanometry ونتائج المرضى المبلغ عنها. تم جمع بيانات PROMs التي تشمل انسداد الأنف المقياس الترتيبي ومقياس VAS للجانب الأكثر انسداداً. أظهرت الميزات الناتجة عن منحنيات rhinomanometry ارتباطًا أقوى مع نتائج المريض مقارنةً بمقاومة مجرى الهواء. بينما كانت درجات الارتباط المتحققة ضعيفة-متوسطة، فقد كانت أفضل من مقاومة مجرى الهواء البسيطة.",
+      "summary_en": "The study explored the correlation between rhinomanometry curve features and patient-reported outcomes (PROMs). PROMs collected included ordinal nasal obstruction and VAS for the more obstructed side. Curve-derived features showed stronger correlation with patient outcomes than nasal airway resistance. Although the correlation scores were weak to moderate, they outperformed simplistic airway resistance.",
+      "practice_change_ar": "يمكن أن يؤدي هذا البحث إلى تحسين تقييم حالات انسداد الأنف بتقنيات جديدة.",
+      "practice_change_en": "This research may lead to improved assessment of nasal obstruction cases with new techniques.",
+      "future_impact_ar": "قد تسهم هذه الدراسة في تطوير أدوات تنبؤية أفضل لعلاج الاضطرابات الأنفية.",
+      "future_impact_en": "This study could contribute to the development of better predictive tools for managing nasal disorders.",
+      "why_important_ar": "تساعد هذه الدراسة في تقديم معلومات سريرية إضافية يمكن أن تؤثر على إدارة انسداد الأنف.",
+      "why_important_en": "This study provides additional clinical information that could impact nasal obstruction management.",
+      "vs_previous_ar": "هذا البحث يقدم أدوات جديدة لتحليل منحنيات rhinomanometry التي تتجاوز المعرفة السابقة.",
+      "vs_previous_en": "This research provides new tools for analyzing rhinomanometry curves that go beyond previous knowledge.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة استعراضية عابرة n=601 وتضيف معرفة جديدة حول تحليل منحنيات rhinomanometry.",
+      "stars_reason_en": "Cross-sectional diagnostic study n=601 and adds new knowledge regarding rhinomanometry curve analysis.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The research provides useful information on rhinomanometry curve analysis.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة تطور تقنيات الذكاء الاصطناعي المستخدمة في تحليل منحنيات rhinomanometry.",
+      "watch_detail_en": "The development of AI techniques used in analyzing rhinomanometry curves should be tracked.",
+      "watch_type": "technology",
+      "research_gap_ar": "تحتاج العلاقة بين ميزات منحنيات rhinomanometry والمعلومات السريرية إلى مزيد من البحث.",
+      "research_gap_en": "The relationship between rhinomanometry curve features and clinical information needs further research.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تتناول هذه الدراسة العلاقة بين ميزات منحنيات rhinomanometry والنتائج المبلغ عنها من قبل المرضى. تم تنفيذ دراسة تشخيصية عابرة على 601 مريض، حيث تم قياس الانسداد الأنفي باستخدام مقياس VAS. النتائج أظهرت علاقة أقوى بين ميزات المنحنيات ومعلومات المريض مقارنة بمقاومة مجرى الهواء. التساؤل عن إمكانية تحسين الأساليب التقليدية في تقييم الحالات الأنفية هو محور هذه الدراسة.",
+      "audio_script_en": "This study addresses the correlation between rhinomanometry curve features and patient-reported outcomes. A diagnostic cross-sectional study was conducted on 601 patients, measuring nasal obstruction using VAS. Results showed a stronger relationship between curve features and patient information compared to airway resistance. The question of improving traditional methods in assessing nasal cases is central to this study.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف الرئيسي للدراسة؟",
+          "q_en": "What is the main objective of the study?",
+          "options_ar": [
+            "أ) تحليل ميزات منحنيات rhinomanometry",
+            "ب) تطوير أدوية جديدة",
+            "ج) دراسة الجراحة التجميلية",
+            "د) تقييم تأثير الصرف الأنفي"
+          ],
+          "options_en": [
+            "A) Analyzing rhinomanometry curve features",
+            "B) Developing new medications",
+            "C) Studying cosmetic surgery",
+            "D) Evaluating nasal drainage impact"
+          ],
+          "answer": 0,
+          "explanation_ar": "تهدف الدراسة إلى استكشاف العلاقة بين ميزات منحنيات rhinomanometry ونتائج المرضى.",
+          "explanation_en": "The study aims to explore the correlation between rhinomanometry curve features and patient outcomes."
+        },
+        {
+          "q_ar": "ما هي أفضل نسبة ارتباط تم تحقيقها للنتائج؟",
+          "q_en": "What is the highest correlation achieved for the outcomes?",
+          "options_ar": [
+            "أ) 0.133",
+            "ب) 0.222",
+            "ج) 0.305",
+            "د) 0.117"
+          ],
+          "options_en": [
+            "A) 0.133",
+            "B) 0.222",
+            "C) 0.305",
+            "D) 0.117"
+          ],
+          "answer": 2,
+          "explanation_ar": "أفضل نسبة ارتباط للنتائج مع ميزات منحنيات rhinomanometry كانت 0.305.",
+          "explanation_en": "The highest correlation for outcomes with rhinomanometry curve features was 0.305."
+        },
+        {
+          "q_ar": "ما هي الفائدة المحتملة من استخدام تقنيات الذكاء الاصطناعي في هذه الدراسة؟",
+          "q_en": "What is the potential benefit of using AI techniques in this study?",
+          "options_ar": [
+            "أ) تحسين التشخيص",
+            "ب) تقليل تكلفة العلاج",
+            "ج) زيادة عدد المرضى",
+            "د) تأخير العلاج"
+          ],
+          "options_en": [
+            "A) Improving diagnosis",
+            "B) Reducing treatment costs",
+            "C) Increasing the number of patients",
+            "D) Delaying treatment"
+          ],
+          "answer": 0,
+          "explanation_ar": "تقنيات الذكاء الاصطناعي يمكن أن تحسن التشخيص والتقييم في حالات انسداد الأنف.",
+          "explanation_en": "AI techniques could improve diagnosis and assessment in cases of nasal obstruction."
+        }
+      ]
+    },
+    {
+      "pmid": "42185433",
+      "title_ar": "Impact of a structured case report on self-reported responses to simulated emergency scenarios: a randomized survey-based study.",
+      "title_en": "Impact of a structured case report on self-reported responses to simulated emergency scenarios: a randomized survey-based study.",
+      "journal": "Scientific reports",
+      "pub_date": "2026-May-25",
+      "doi": "10.1038/s41598-026-54854-w",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42185433/",
+      "pdf_url": null,
+      "study_design": "RCT n=63",
+      "summary_ar": "تستكشف هذه الدراسة تأثير التقارير الحالة المنظمة على استجابة الأطباء المحاكاة للحالات الطارئة. شملت الدراسة 63 طبيبًا مرخصًا تم تقسيمهم عشوائيًا إلى مجموعتين: مجموعة تلقت تقرير حالة منظمة عن إصابات العنق الحادة، وأخرى لم تتلقَ ذلك. تم تقييم الاستجابات باستخدام مقاييس Likert، حيث أظهرت النتائج اختلافات معنوية في القرارات الإدارية، خاصة في استراتيجيات إدارة المجرى الهوائي. أظهرت التحليلات الاستكشافية أن الأطباء الأقل خبرة كانوا أكثر تفاعلًا مع التقرير. تشير النتائج إلى أهمية تعليم الحالات المنظمة في تدريب الأطباء.",
+      "summary_en": "This study explores the impact of structured case reports on physicians' self-reported responses to simulated emergency scenarios. It involved 63 licensed physicians randomly assigned to an intervention group, which received a structured case report on blunt neck trauma, and a control group. Responses were assessed using Likert scales, revealing statistically significant differences in medical decisions, particularly in airway management strategies. Exploratory analyses indicated that less experienced physicians were more responsive to the case report. The findings underscore the educational value of structured case learning formats in training.",
+      "practice_change_ar": "يمكن أن تؤثر التقارير الرقمية المنظمة على كيفية استجابة الأطباء للحالات الطارئة.",
+      "practice_change_en": "Structured case reports may influence how physicians respond to emergency scenarios.",
+      "future_impact_ar": "تسلط النتائج الضوء على أهمية دمج التعلم القائم على الحالات في تدريب الطب الطارئ.",
+      "future_impact_en": "The findings highlight the importance of integrating case-based learning into emergency medicine training.",
+      "why_important_ar": "هذه المقالة تسلط الضوء على تأثير التعلم القائم على الحالة في تحسين الاستجابة للطوارئ.",
+      "why_important_en": "This article highlights the impact of case-based learning on improving emergency response.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة من خلال التركيز على تأثير التقارير المنظمة على الأطباء الأقل خبرة.",
+      "vs_previous_en": "This study differs from previous knowledge by focusing on the impact of structured reports on less experienced physicians.",
+      "stars": 4,
+      "stars_reason_ar": "تصميم الدراسة هو تجربة عشوائية، وقد أظهرت النتائج إدراك الأطباء للاستجابة الطارئة.",
+      "stars_reason_en": "The study design is a randomized trial, and the results indicate physicians' awareness in emergency responses.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تقدم الدراسة رؤى قيمة حول تحسين التدريب الطبي.",
+      "jc_reason_en": "The study provides valuable insights into enhancing medical training.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج الدراسات المستقبلية إلى التحقق من تأثير تقارير الحالة على النتائج السريرية الحقيقية.",
+      "research_gap_en": "Future studies need to investigate the impact of case reports on real clinical outcomes.",
+      "subspecialty": "general",
+      "audio_script_ar": "تتناول هذه الدراسة تأثير التقارير المنظمة في الاستجابة للحالات الطارئة بين الأطباء. تم تقسيم 63 طبيبًا إلى مجموعتين، مجموعة تلقت تقرير حالة منظمة وأخرى لم تتلقَ. النتائج أظهرت تغيرات في استراتيجيات إدارة المجرى الهوائي. الأطباء الأقل خبرة أظهروا استجابة أكبر، مما يشير إلى أهمية التعليم القائم على الحالات. مما يعني أن استخدام هذه التقارير قد يعزز طرق التدريب.",
+      "audio_script_en": "This study addresses the impact of structured reports on emergency response among physicians. Sixty-three physicians were divided into two groups, one receiving a structured case report and the other not. The results revealed changes in airway management strategies. Less experienced physicians showed greater responsiveness, indicating the importance of case-based education. This suggests that using such reports could enhance training methods.",
+      "mcq": [
+        {
+          "q_ar": "ما هو التصميم الأساسي للدراسة؟",
+          "q_en": "What is the primary study design?",
+          "options_ar": [
+            "أ) تجربة عشوائية",
+            "ب) دراسة متقاطعة",
+            "ج) حالة تحليل",
+            "د) مجموعة مراقبة"
+          ],
+          "options_en": [
+            "A) Randomized trial",
+            "B) Cross-sectional study",
+            "C) Case analysis",
+            "D) Cohort study"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة كانت تجربة عشوائية تشمل 63 طبيبًا.",
+          "explanation_en": "The study was a randomized trial involving 63 physicians."
+        },
+        {
+          "q_ar": "ما هي النتائج الرئيسية للدراسة؟",
+          "q_en": "What are the main findings of the study?",
+          "options_ar": [
+            "أ) لا فرق في الاستجابات",
+            "ب) فرق معنوي في استراتيجيات إدارة المجرى الهوائي",
+            "ج) تحسين التشخيص",
+            "د) تأثير ضئيل"
+          ],
+          "options_en": [
+            "A) No differences in responses",
+            "B) Significant differences in airway management strategies",
+            "C) Improvement in diagnosis",
+            "D) Minimal impact"
+          ],
+          "answer": 1,
+          "explanation_ar": "طرحت الدراسة فرقًا معنويًا في استراتيجيات إدارة المجرى الهوائي بين المجموعتين.",
+          "explanation_en": "The study highlighted significant differences in airway management strategies between the groups."
+        },
+        {
+          "q_ar": "لمن كانت الدراسة أكثر فائدة؟",
+          "q_en": "Who benefited the most from the study?",
+          "options_ar": [
+            "أ) الأطباء ذوو الخبرة العالية",
+            "ب) الأطباء الجدد",
+            "ج) طلاب الطب",
+            "د) جميع الفئات"
+          ],
+          "options_en": [
+            "A) High-experienced physicians",
+            "B) New physicians",
+            "C) Medical students",
+            "D) All categories"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت التحليلات الاستكشافية أن الأطباء الجدد كانوا أكثر استجابة للتقرير.",
+          "explanation_en": "Exploratory analyses showed that new physicians were more responsive to the report."
+        }
+      ]
+    },
+    {
+      "pmid": "42185811",
+      "title_ar": "The evolving clinical profile of laryngeal tuberculosis: a 10-year retrospective study from a tertiary hospital in northern China.",
+      "title_en": "The evolving clinical profile of laryngeal tuberculosis: a 10-year retrospective study from a tertiary hospital in northern China.",
+      "journal": "BMC infectious diseases",
+      "pub_date": "2026-May-26",
+      "doi": "10.1186/s12879-026-13672-1",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42185811/",
+      "pdf_url": null,
+      "study_design": "Retrospective case series n=49",
+      "summary_ar": "تهدف هذه الدراسة إلى توضيح الخصائص السريرية الحديثة واتجاهات مرض السل الحنجري. تم إجراء تحليل بأثر رجعي لبيانات المرضى الذين تم تشخيصهم بمثل هذه الحالة. شملت الدراسة 49 مريضًا، وكان الأكثر شيوعًا من بينهم ذكورًا تتراوح أعمارهم بين 55 و64 عامًا، حيث كانت الصوت المتقطع الأهم من الأعراض. أظهرت الفحوصات أن معظم الحالات كانت مرتبطة بموقع لسان الحنجرة، وأدت العلاجات المضادة للسل إلى تحسن كبير في أغلب المرضى.",
+      "summary_en": "This study aims to elucidate the contemporary clinical characteristics and evolving trends of laryngeal tuberculosis (LTB). A retrospective analysis was conducted on patients diagnosed with this condition. The study included 49 patients, predominantly males aged 55-64 years, with hoarseness being the most common presenting symptom. Most lesions involved multiple laryngeal subsites, and anti-tuberculosis treatment resulted in significant improvement in most patients.",
+      "practice_change_ar": "يجب على أطباء الأنف والأذن والحنجرة التفكير دائمًا في مرض السل الحنجري في التشخيص التفريقي.",
+      "practice_change_en": "Otorhinolaryngologists should consistently consider laryngeal tuberculosis in the differential diagnosis.",
+      "future_impact_ar": "من المهم إعادة تقييم وفهم الاتجاهات المتغيرة في العرض السريري للسل الحنجري.",
+      "future_impact_en": "Re-evaluating and understanding the shifting trends in the clinical presentation of laryngeal tuberculosis is crucial.",
+      "why_important_ar": "يساعد هذا البحث في تحسين استراتيجيات التشخيص والعلاج للسل الحنجري.",
+      "why_important_en": "This research aids in optimizing diagnostic and therapeutic strategies for laryngeal tuberculosis.",
+      "vs_previous_ar": "تقدم هذه الدراسة معلومات جديدة حول الخصائص السريرية الحالية للسل الحنجري.",
+      "vs_previous_en": "This study provides new insights into the contemporary clinical characteristics of laryngeal tuberculosis.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة مراجعة بأثر رجعي تشمل 49 مريضًا، تقدم معلومات جديدة في هذا المجال.",
+      "stars_reason_en": "Retrospective case series with 49 patients, providing new information in this area.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study provides new insights into laryngeal tuberculosis.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "لا توجد دراسات سابقة توضح الاتجاهات السريرية الحالية للسل الحنجري.",
+      "research_gap_en": "There are no prior studies outlining the current clinical trends of laryngeal tuberculosis.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تتناول هذه الدراسة تطور الخصائص السريرية لمرض السل الحنجري من خلال تحليل بأثر رجعي لبيانات 49 مريضاً. والذكر الازدياد في متوسط أعمار المرضى حيث كانت الفئة الأكثر تمثيلاً هي بين 55 و64 عاماً. الأعرض الأكثر شيوعًا كانت الصوت المتقطع. كما تم اكتشاف عدة آفات مختلفة في بعض الحالات، وهو ما يتطلب اهتمامًا خاصًا من قبل الأطباء في تشخيص المرض. يحث الباحثون على إعادة تقييم الاتجاهات المتغيرة في عرض هذا المرض لضمان التشخيص الدقيق والعلاج الفعال.",
+      "audio_script_en": "This study addresses the evolving clinical profile of laryngeal tuberculosis through a retrospective analysis of 49 patient records. The rising average age of patients, mainly between 55 and 64 years, is noted. The most common symptom was hoarseness. Diverse lesion morphologies were discovered in some cases, necessitating particular attention from clinicians in diagnosing the disease. The researchers advocate re-evaluating the shifting trends in the presentation of this condition to ensure accurate diagnosis and effective treatment.",
+      "mcq": [
+        {
+          "q_ar": "ما هو العرض الأكثر شيوعًا لمرض السل الحنجري حسب الدراسة؟",
+          "q_en": "What is the most common presenting symptom of laryngeal tuberculosis according to the study?",
+          "options_ar": [
+            "أ) الصوت المتقطع",
+            "ب) صعوبة التنفس",
+            "ج) بلغم مختلط",
+            "د) ألم الحنجرة"
+          ],
+          "options_en": [
+            "A) Hoarseness",
+            "B) Dyspnea",
+            "C) Mixed sputum",
+            "D) Laryngeal pain"
+          ],
+          "answer": 0,
+          "explanation_ar": "حسب الدراسة، كان العرض الأكثر شيوعًا هو الصوت المتقطع.",
+          "explanation_en": "According to the study, the most common presenting symptom was hoarseness."
+        },
+        {
+          "q_ar": "ما النسبة المئوية للمرضى الذين أظهرت خزعاتهم خصائص نسجية تقليدية؟",
+          "q_en": "What percentage of patients showed classic histopathological features in biopsies?",
+          "options_ar": [
+            "أ) 55.10%",
+            "ب) 73.47%",
+            "ج) 38.88%",
+            "د) 65.31%"
+          ],
+          "options_en": [
+            "A) 55.10%",
+            "B) 73.47%",
+            "C) 38.88%",
+            "D) 65.31%"
+          ],
+          "answer": 3,
+          "explanation_ar": "ذكرت الدراسة أن 65.31% من المرضى أظهرت خزعاتهم خصائص نسجية تقليدية.",
+          "explanation_en": "The study reported that 65.31% of patients showed classic histopathological features in biopsies."
+        },
+        {
+          "q_ar": "ما هي نسبة المرضى الذين لديهم بؤر سلية رئوية متزامنة؟",
+          "q_en": "What percentage of patients had concomitant pulmonary tuberculous foci?",
+          "options_ar": [
+            "أ) 73.47%",
+            "ب) 55.10%",
+            "ج) 38.88%",
+            "د) 65.31%"
+          ],
+          "options_en": [
+            "A) 73.47%",
+            "B) 55.10%",
+            "C) 38.88%",
+            "D) 65.31%"
+          ],
+          "answer": 0,
+          "explanation_ar": "أظهرت الدراسة أن 73.47% من المرضى كان لديهم بؤر سلية رئوية متزامنة.",
+          "explanation_en": "The study showed that 73.47% of patients had concomitant pulmonary tuberculous foci."
+        }
+      ]
+    },
+    {
+      "pmid": "42183630",
+      "title_ar": "Evaluation of the Efficacy of Topical Jojoba Oil in the Management of Nasal Pruritus.",
+      "title_en": "Evaluation of the Efficacy of Topical Jojoba Oil in the Management of Nasal Pruritus.",
+      "journal": "The Journal of craniofacial surgery",
+      "pub_date": "2026-May-25",
+      "doi": "10.1097/SCS.0000000000012914",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42183630/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort",
+      "summary_ar": "الهدف من الدراسة هو تقييم فعالية زيت الجوجوبا لعلاج الحكة الأنفية. شمل البحث 46 رجلًا يعانون من الحكة الأنفية المزمنة. تم استخدام مقياس بصري لتقييم شدة الأعراض قبل وبعد العلاج. أظهرت النتائج تحسنًا ملحوظًا في درجات الحكة بعد العلاج. لم يتم الإبلاغ عن أي آثار جانبية خطيرة، وكانت نسبة رضا المرضى مرتفعة. يبدو أن زيت الجوجوبا علاج آمن وفعال للحكة الأنفية.",
+      "summary_en": "The study aimed to assess the efficacy of jojoba oil for managing nasal pruritus. It included 46 men with chronic nasal pruritus. A visual analog scale was used to evaluate symptom severity before and after treatment. The results showed significant improvement in pruritus scores after treatment. No serious side effects were reported, and patient satisfaction was high. Jojoba oil appears to be a safe and effective remedy for nasal itching.",
+      "practice_change_ar": "يمكن أن يضاف زيت الجوجوبا كعلاج مبتكر للحكة الأنفية في الممارسات السريرية.",
+      "practice_change_en": "Jojoba oil may serve as an innovative treatment for nasal pruritus in clinical practice.",
+      "future_impact_ar": "ستكون هناك حاجة لإجراء تجارب أكبر لتأكيد النتائج.",
+      "future_impact_en": "Larger trials will be needed to confirm these findings.",
+      "why_important_ar": "تساهم هذه الدراسة في ملء الفجوة البحثية حول العلاجات الطبيعية للحكة الأنفية.",
+      "why_important_en": "This study helps fill the research gap regarding natural treatments for nasal itching.",
+      "vs_previous_ar": "تقدم هذه الدراسة أدلة جديدة على فعالية زيت الجوجوبا لعلاج الحكة الأنفية.",
+      "vs_previous_en": "This study provides new evidence on the efficacy of jojoba oil for treating nasal pruritus.",
+      "stars": 4,
+      "stars_reason_ar": "تصميم الدراسة هو دراسة مستقبلية، مما يمنحها تقييمًا جيدًا.",
+      "stars_reason_en": "The study design is a prospective cohort, providing a good rating.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": null,
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة تأثير زيت الجوجوبا كعلاج للحكة الأنفية بسبب نتائجه الواعدة.",
+      "watch_detail_en": "The impact of jojoba oil as a treatment for nasal pruritus should be monitored due to its promising results.",
+      "watch_type": "drug",
+      "research_gap_ar": "توجد حاجة لمزيد من الدراسات لاستكشاف الخيارات العلاجية الطبيعية لمشاكل الأنف.",
+      "research_gap_en": "There is a need for more studies to explore natural treatment options for nasal issues.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تتحدث هذه الدراسة عن فعالية زيت الجوجوبا في علاج الحكة الأنفية. يتضمن البحث 46 رجلًا يعانون من هذه الحالة، ووجد أن زيت الجوجوبا يساعد بشكل كبير في تخفيف الأعراض. تم قياس فعاليته باستخدام مقياس بصري، مما أظهر نتائج قوية. يعرض البحث أن زيت الجوجوبا علاج آمن وفعال، مما قد يغير من الممارسات السريرية الحالية. من المهم متابعة هذا العلاج، خاصة أنه يعتمد على مصدر طبيعي.",
+      "audio_script_en": "This study discusses the efficacy of jojoba oil in treating nasal pruritus. It involved 46 men with this condition and found that jojoba oil significantly helps in symptom relief. Its efficacy was measured using a visual analog scale, showing strong results. The study shows that jojoba oil is a safe and effective remedy, which could change current clinical practices. It's important to monitor this treatment, especially since it relies on a natural source.",
+      "mcq": [
+        {
+          "q_ar": "ما هي العينة المستخدمة في الدراسة؟",
+          "q_en": "What was the sample used in the study?",
+          "options_ar": [
+            "أ) 20 امرأة",
+            "ب) 46 رجل",
+            "ج) 60 مريض",
+            "د) 30 طفل"
+          ],
+          "options_en": [
+            "A) 20 women",
+            "B) 46 men",
+            "C) 60 patients",
+            "D) 30 children"
+          ],
+          "answer": 1,
+          "explanation_ar": "استخدمت الدراسة 46 رجلًا اختيروا لاختبار فعالية زيت الجوجوبا.",
+          "explanation_en": "The study used 46 men selected to test the efficacy of jojoba oil."
+        },
+        {
+          "q_ar": "ما هو مقياس قياس فعالية العلاج المستخدم؟",
+          "q_en": "What was the measure used for assessing treatment efficacy?",
+          "options_ar": [
+            "أ) مقياس بصري",
+            "ب) مقياس رياضي",
+            "ج) استبيان",
+            "د) فحص سريري"
+          ],
+          "options_en": [
+            "A) Visual analog scale",
+            "B) Mathematical scale",
+            "C) Questionnaire",
+            "D) Clinical examination"
+          ],
+          "answer": 0,
+          "explanation_ar": "استخدمت الدراسة مقياسًا بصريًا لقياس شدة الأعراض.",
+          "explanation_en": "The study used a visual analog scale to measure symptom severity."
+        },
+        {
+          "q_ar": "ما هو النتيجة الرئيسية للعلاج باستخدام زيت الجوجوبا؟",
+          "q_en": "What was the main outcome of treatment with jojoba oil?",
+          "options_ar": [
+            "أ) زيادة الأعراض",
+            "ب) تحسن ملحوظ",
+            "ج) آثار جانبية كبيرة",
+            "د) عدم وجود تأثير"
+          ],
+          "options_en": [
+            "A) Increased symptoms",
+            "B) Significant improvement",
+            "C) Major side effects",
+            "D) No effect"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت النتائج تحسنًا ملحوظًا في درجات الحكة الأنفية بعد العلاج.",
+          "explanation_en": "The results showed significant improvement in nasal pruritus scores after treatment."
+        }
+      ]
+    },
+    {
+      "pmid": "42178846",
+      "title_ar": "Leveraging large language models to audit perioperative total laryngectomy care: anesthetic, nutritional, and complication profiles in a real‑world cohort.",
+      "title_en": "Leveraging large language models to audit perioperative total laryngectomy care: anesthetic, nutritional, and complication profiles in a real‑world cohort.",
+      "journal": "Otolaryngologia polska = The Polish otolaryngology",
+      "pub_date": "2026-May-25",
+      "doi": "10.5604/01.3001.0055.7302",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42178846/",
+      "pdf_url": null,
+      "study_design": "Retrospective case series n=43",
+      "summary_ar": "تعتبر عملية إزالة الحنجرة الكلية العلاج القياسي لسرطان الحنجرة المتقدم، وتحتاج إدارتها أثناء العملية إلى تعاون وثيق بين فرق متعددة التخصصات. حللت هذه الدراسة مسار 43 مريضًا خضعوا لهذه العملية مع التركيز على أنماط التغذية والتخدير والمضاعفات. أظهرت النتائج أن 95% من المرضى كانوا يتلقون التغذية المعوية، مع استخدام ممارسات تخدير متعددة الأوجه. كانت نسبة حدوث المضاعفات 22.5%، مع وجود خراجات غير طبيعية كأكثرها شيوعًا. تم الإبلاغ عن وفيات بنسبة 0% أثناء الدخول و2.3% خلال 12 شهرًا. هذه الدراسة تستند إلى استخراج البيانات الهيكلية من السجلات الطبية الإلكترونية باستخدام نماذج اللغة الكبيرة.",
+      "summary_en": "Total laryngectomy (TL) is the standard treatment for advanced laryngeal cancer, requiring close collaboration within a multidisciplinary team. This study analyzed the perioperative course of 43 patients undergoing TL, focusing on anesthetic, nutritional, and complication profiles. Results showed that 95% of patients received enteral nutrition, with multimodal analgesia employed routinely. The complication rate was 22.5%, with pharyngocutaneous fistula being the most common. In-hospital mortality was 0%, with an overall mortality of 2.3% at 12-month follow-up. This study utilized structured data extraction from electronic medical records using large language models.",
+      "practice_change_ar": "يمكن أن تعيد هذه الدراسة النظر في إدارة التغذية والدعم المسبق للجراحة.",
+      "practice_change_en": "This study may reshape the management of nutrition and perioperative support.",
+      "future_impact_ar": "يمكن أن تؤدي النتائج إلى تحسين بروتوكولات رعاية ما بعد الجراحة.",
+      "future_impact_en": "The findings could lead to improved postoperative care protocols.",
+      "why_important_ar": "يسلط الضوء على أهمية التعاون بين التخصصات المختلفة في إدارة مرضى إزالة الحنجرة الكلية.",
+      "why_important_en": "Highlights the importance of multidisciplinary collaboration in managing total laryngectomy patients.",
+      "vs_previous_ar": "يوفر هذا البحث بيانات جديدة عن التغذية والإدارة التخديرية في هذه الشريحة من المرضى.",
+      "vs_previous_en": "Provides new data on nutrition and anesthetic management in this patient cohort.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة تسلسلية استعادية بـ 43 مريض، تضيف معلومات جديدة وقيمة.",
+      "stars_reason_en": "Retrospective case series with 43 patients, adding valuable new information.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Establishes new practices in the care of total laryngectomy patients.",
+      "watch": true,
+      "watch_detail_ar": "يجب مراقبة استخدام نماذج اللغة الكبيرة في استخراج البيانات السريرية.",
+      "watch_detail_en": "Monitor the use of large language models in clinical data extraction.",
+      "watch_type": "technology",
+      "research_gap_ar": "هناك حاجة لدراسات إضافية لتأكيد فائدة تحسين البروتوكولات.",
+      "research_gap_en": "Further studies are needed to confirm the benefits of improving protocols.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تتناول هذه الدراسة إدارة عملية إزالة الحنجرة الكلية وتركز على الأبعاد الرئيسية مثل التغذية والتخدير والمضاعفات. تم إجراء تحليل لاسترجاع البيانات باستخدام نماذج اللغة الكبيرة على بيانات 43 مريضا. أظهرت الدراسة نتائج مهمة مثل علاج التغذية المعوية، واستخدام التخدير المتعدد الأنماط، وظهور مضاعفات. كانت الوفيات خلال دخول المستشفى صفراً، مما يدعم نتائج العملية الجراحية. الأمر الذي يبرز أهمية الفرق متعددة التخصصات في إدارة هذه نوعية المرضى.",
+      "audio_script_en": "This study addresses the management of total laryngectomy and focuses on key aspects such as nutrition, anesthetic, and complications. A data retrieval analysis was performed using large language models on data from 43 patients. The study revealed important outcomes, such as enteral nutrition treatment, the use of multimodal analgesia, and complications occurrence. In-hospital mortality was zero, supporting the surgical outcomes. This underscores the importance of multidisciplinary teams in managing this type of patients.",
+      "mcq": [
+        {
+          "q_ar": "ما هي نسبة المرضى الذين تلقوا تغذية معوية عن طريق الأنبوب الأنفي؟",
+          "q_en": "What percentage of patients received enteral nutrition via nasogastric tube?",
+          "options_ar": [
+            "أ) 95%",
+            "ب) 65%",
+            "ج) 22.5%",
+            "د) 5%"
+          ],
+          "options_en": [
+            "A) 95%",
+            "B) 65%",
+            "C) 22.5%",
+            "D) 5%"
+          ],
+          "answer": 0,
+          "explanation_ar": "95% من المرضى استخدموا التغذية المعوية عن طريق الأنبوب الأنفي.",
+          "explanation_en": "95% of patients used enteral nutrition via nasogastric tube."
+        },
+        {
+          "q_ar": "ما هي معدلات حدوث المضاعفات بعد العملية؟",
+          "q_en": "What is the rate of postoperative complications?",
+          "options_ar": [
+            "أ) 12.5%",
+            "ب) 0%",
+            "ج) 22.5%",
+            "د) 2.3%"
+          ],
+          "options_en": [
+            "A) 12.5%",
+            "B) 0%",
+            "C) 22.5%",
+            "D) 2.3%"
+          ],
+          "answer": 2,
+          "explanation_ar": "22.5% من المرضى عانوا من مضاعفات بعد العملية.",
+          "explanation_en": "22.5% of patients experienced postoperative complications."
+        },
+        {
+          "q_ar": "ما هي % وفيات المرضى خلال 12 شهرًا؟",
+          "q_en": "What is the mortality rate during the 12-month follow-up?",
+          "options_ar": [
+            "أ) 0%",
+            "ب) 2.3%",
+            "ج) 5%",
+            "د) 12.5%"
+          ],
+          "options_en": [
+            "A) 0%",
+            "B) 2.3%",
+            "C) 5%",
+            "D) 12.5%"
+          ],
+          "answer": 1,
+          "explanation_ar": "معدل الوفيات خلال 12 شهرًا كان 2.3%.",
+          "explanation_en": "The mortality rate during the 12-month follow-up was 2.3%."
+        }
+      ]
+    },
+    {
+      "pmid": "42184681",
+      "title_ar": "Association between obstructive sleep apnea severity and glymphatic-related DTI-ALPS alterations in newly diagnosed, Drug-Naïve Alzheimer's disease.",
+      "title_en": "Association between obstructive sleep apnea severity and glymphatic-related DTI-ALPS alterations in newly diagnosed, Drug-Naïve Alzheimer's disease.",
+      "journal": "The journal of prevention of Alzheimer's disease",
+      "pub_date": "2026-May-25",
+      "doi": "10.1016/j.tjpad.2026.100597",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42184681/",
+      "pdf_url": null,
+      "study_design": "Cross-sectional study n=260",
+      "summary_ar": "تشير هذه الدراسة إلى أن هناك ارتباطاً بين شدة توقف التنفس أثناء النوم وخلل الغليمفاتيك لدى مرضى الزهايمر الذين تم تشخيصهم حديثاً ولم يتعاطوا أدوية. تم استخدام polysomnography لتقييم شدة توقف التنفس، وتم قياس وظيفة الغليمفاتيك باستخدام DTI-ALPS. أظهرت النتائج أن شدة توقف التنفس كانت مرتبطة بقيم منخفضة لمؤشر ALPS، وارتبط المؤشر أيضاً بأداء معرفي أفضل. هذا يشير إلى أن توقف التنفس قد يسهم في التنكس العصبي عن طريق زيادة الخلل في الغليمفاتيك.",
+      "summary_en": "This study indicates a correlation between obstructive sleep apnea severity and glymphatic dysfunction in newly diagnosed, drug-naïve Alzheimer's patients. Polysomnography was used to assess OSA severity, while DTI-ALPS measured glymphatic function. Results showed that greater OSA severity was associated with lower ALPS-index values, and the index was positively correlated with better cognitive performance. This suggests that OSA may contribute to neurodegeneration through glymphatic impairment.",
+      "practice_change_ar": "تعتبر نتائج هذه الدراسة ذات أهمية سريرية لتوجيه تقييم مرضى الزهايمر الذين يعانون من توقف التنفس.",
+      "practice_change_en": "The results of this study are clinically relevant for guiding the assessment of Alzheimer's patients with sleep apnea.",
+      "future_impact_ar": "يمكن أن تؤدي النتائج إلى تحسين الفهم للآليات المرتبطة بتطور مرض الزهايمر.",
+      "future_impact_en": "The findings may enhance the understanding of mechanisms linked to Alzheimer's disease progression.",
+      "why_important_ar": "توضح هذه الدراسة أهمية تقييم توقف التنفس أثناء النوم كعامل خطر محتمل في مرض الزهايمر.",
+      "why_important_en": "This study highlights the significance of evaluating sleep apnea as a potential risk factor in Alzheimer's disease.",
+      "vs_previous_ar": "تقدم هذه الدراسة رؤى جديدة حول الارتباط بين شدة توقف التنفس ووظيفة الغليمفاتيك في مرض الزهايمر.",
+      "vs_previous_en": "This study provides new insights into the association between OSA severity and glymphatic function in Alzheimer's disease.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة قائمة على العينة مع تحليل قوي، يظهر نتائج جديدة تتعلق بارتباط الشدة.",
+      "stars_reason_en": "Sample-based study with strong analysis showing new results regarding severity association.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study provides new information regarding the relationship between sleep apnea and biological processes in Alzheimer's.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة العلاقة بين توقف التنفس والوظيفة الإدراكية، وتأثيرها على علاج مرض الزهايمر.",
+      "watch_detail_en": "The relationship between sleep apnea and cognitive function should be tracked and its implications on Alzheimer's treatment.",
+      "watch_type": "technology",
+      "research_gap_ar": "تحتاج الدراسات المستقبلية إلى استكشاف تدخلات علاجية لتحسين وظيفة الغليمفاتيك.",
+      "research_gap_en": "Future studies need to explore therapeutic interventions to improve glymphatic function.",
+      "subspecialty": "sleep",
+      "audio_script_ar": "تناقش هذه الدراسة العلاقة بين شدة توقف التنفس أثناء النوم وخلل الغليمفاتيك لدى مرضى الزهايمر. تم تقييم 260 مريضاً تم تشخيصهم حديثًا، حيث أظهرت النتائج ارتباطاً واضحاً بين شدة توقف التنفس القائم على polysomnography ومؤشر ALPS. أثبتت الدراسة أهمية تقييم توقف التنفس كعامل خطر، حيث يمكن أن تسهم في تطوير استراتيجيات علاجية. تشكل هذه النتائج خطوة هامة نحو تحسين العناية بالمرضى.",
+      "audio_script_en": "This study discusses the relationship between obstructive sleep apnea severity and glymphatic dysfunction in Alzheimer's patients. A total of 260 newly diagnosed patients were assessed, and results showed a clear association between OSA severity based on polysomnography and ALPS-index. The study underscores the importance of assessing sleep apnea as a risk factor, which may contribute to developing therapeutic strategies. These findings represent an important step towards improving patient care.",
+      "mcq": [
+        {
+          "q_ar": "ما هي العلاقة الرئيسية التي تم تحديدها في الدراسة؟",
+          "q_en": "What is the main relationship identified in the study?",
+          "options_ar": [
+            "أ) زيادة شدة توقف التنفس ضعفت وظيفة الغليمفاتيك",
+            "ب) لم تظهر علاقة بين الشدة ووظيفة الغليمفاتيك",
+            "ج) كانت العلاقة إيجابية في الأصحاء",
+            "د) الغليمفاتيك لا يؤثر على الأداء الإدراكي"
+          ],
+          "options_en": [
+            "A) Greater OSA severity weakened glymphatic function",
+            "B) No relationship was seen between severity and glymphatic function",
+            "C) The relationship was positive in healthy controls",
+            "D) Glymphatic function does not affect cognitive performance"
+          ],
+          "answer": 0,
+          "explanation_ar": "أظهرت الدراسة أن زيادة شدة توقف التنفس ترتبط بقيم أقل لمؤشر ALPS.",
+          "explanation_en": "The study showed that greater OSA severity was associated with lower ALPS-index values."
+        },
+        {
+          "q_ar": "ما هي النتائج السريرية المترتبة على الدراسة؟",
+          "q_en": "What are the clinical implications of the study?",
+          "options_ar": [
+            "أ) تقديم استراتيجيات جديدة لعلاج مرضى الزهايمر",
+            "ب) تجاهل توقف التنفس أثناء النوم في المرضى",
+            "ج) تحسين تشخيص الأعراض فقط",
+            "د) تقليل العناية بالمرضى"
+          ],
+          "options_en": [
+            "A) Providing new strategies for treating Alzheimer's patients",
+            "B) Ignoring sleep apnea in patients",
+            "C) Improving diagnosis of symptoms only",
+            "D) Reducing patient care"
+          ],
+          "answer": 0,
+          "explanation_ar": "تشير النتائج إلى أهمية تقييم توقف التنفس كعامل خطر محتمل في مرض الزهايمر.",
+          "explanation_en": "The results indicate the importance of assessing sleep apnea as a potential risk factor in Alzheimer's disease."
+        },
+        {
+          "q_ar": "ما الذي يجب مراقبته وفقًا للدراسة؟",
+          "q_en": "What should be tracked according to the study?",
+          "options_ar": [
+            "أ) العلاقة بين توقف التنفس والوظيفة الإدراكية",
+            "ب) عدد المرضى فقط",
+            "ج) الأدوية المتاحة",
+            "د) العلاجات الحالية غير الفعالة"
+          ],
+          "options_en": [
+            "A) The relationship between sleep apnea and cognitive function",
+            "B) The number of patients only",
+            "C) Available medications",
+            "D) Current ineffective treatments"
+          ],
+          "answer": 0,
+          "explanation_ar": "يجب متابعة العلاقة بين توقف التنفس والوظيفة الإدراكية وتأثيرها على علاج مرض الزهايمر.",
+          "explanation_en": "The relationship between sleep apnea and cognitive function should be tracked and its implications on Alzheimer's treatment."
+        }
+      ]
+    }
+  ]
+}
