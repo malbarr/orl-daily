@@ -1,0 +1,393 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T10:33:41Z",
+  "articles": [
+    {
+      "pmid": "42845094",
+      "title_ar": "Shaving Versus Resection on Recurrent Laryngeal Nerve in Thyroid Cancer Surgeries: A Systematic Review and Meta-Analysis.",
+      "title_en": "Shaving Versus Resection on Recurrent Laryngeal Nerve in Thyroid Cancer Surgeries: A Systematic Review and Meta-Analysis.",
+      "journal": "Head & neck",
+      "pub_date": "2026-Oct-08",
+      "doi": "10.1002/hed.70509",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42845094/",
+      "pdf_url": null,
+      "study_design": "Systematic review and meta-analysis of 13 retrospective cohorts (n=532)",
+      "summary_ar": "قارنت هذه systematic review وmeta-analysis بين shaving للورم عن recurrent laryngeal nerve (RLN) وresection للعصب لدى مرضى thyroid cancer. شملت 13 retrospective cohort بإجمالي 532 مريضًا، وكانت الدراسات المنشورة بين 1995 و2024. لم يظهر اختلاف في overall survival أو الحاجة إلى tracheotomy بين المجموعتين. ارتبط shaving بانخفاض recurrence، وتحسن vocal fold mobility، وزيادة maximum phonation time. لكن المرضى الذين خضعوا لـshaving كانت لديهم disease أقل تقدمًا، ما يجعل selection bias تفسيرًا محتملًا للنتائج. لا تثبت هذه النتائج أن shaving يتفوق سببيًا على resection، وتدعم الحاجة إلى دراسات prospective.",
+      "summary_en": "This systematic review and meta-analysis compared tumor shaving from the recurrent laryngeal nerve (RLN) with nerve resection in thyroid cancer surgery.\nIt included 13 retrospective cohorts with 532 patients, with studies published from 1995 to 2024.\nOverall survival and tracheotomy requirements did not differ between groups.\nShaving was associated with lower recurrence, better vocal fold mobility, and longer maximum phonation time.\nPatients selected for shaving had less advanced disease, so selection bias may explain these associations.\nProspective studies are needed before concluding that shaving is causally superior to resection.",
+      "practice_change_ar": "لا تغيّر هذه النتائج الممارسة الحالية بمفردها؛ ينبغي اختيار shaving أو resection وفق امتداد الورم وإمكان تحقيق السيطرة الأورامية مع مراعاة وظيفة RLN.",
+      "practice_change_en": "These findings alone do not change current practice; choose shaving or resection according to tumor extent and oncologic feasibility while considering RLN function.",
+      "future_impact_ar": "قد تساعد دراسات prospective بمقارنة مجموعات متوازنة في تحديد المرضى الذين يمكنهم الاستفادة من الحفاظ على RLN دون الإضرار بالسيطرة الأورامية.",
+      "future_impact_en": "Prospective studies with balanced groups may clarify which patients can benefit from RLN preservation without compromising oncologic control.",
+      "why_important_ar": "تلخص الدراسة المفاضلة بين السيطرة الأورامية ووظيفة الصوت عند وجود غزو thyroid cancer لـRLN.",
+      "why_important_en": "The review summarizes the trade-off between oncologic control and voice function when thyroid cancer invades the RLN.",
+      "vs_previous_ar": "تجمع الدراسة الأدلة المقارنة المتاحة، لكنها لا تحسم الجدل السابق بسبب اعتمادها على retrospective cohorts واحتمال selection bias.",
+      "vs_previous_en": "The review consolidates available comparative evidence but does not resolve the existing controversy because it relies on retrospective cohorts and is vulnerable to selection bias.",
+      "stars": 4,
+      "stars_reason_ar": "حصلت الدراسة على 4 نجوم لأنها meta-analysis في مجلة Head & Neck وتتناول قرارًا جراحيًا مهمًا، لكن جميع الدراسات المضمنة retrospective مع احتمال selection bias، لذلك لا تكفي لتغيير الممارسة.",
+      "stars_reason_en": "Four stars reflect a clinically relevant meta-analysis in Head & Neck, tempered by the retrospective design of all included cohorts and substantial potential for selection bias.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسبة للنقاش لأنها تقارن خيارين جراحيين مختلفين في النتائج الوظيفية والأورامية، وتتيح تقييم أثر selection bias على الاستنتاجات.",
+      "jc_reason_en": "Suitable for journal club because it compares two surgical strategies with different functional and oncologic outcomes and highlights how selection bias may affect interpretation.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى دراسات prospective تقارن المرضى ذوي درجة غزو وامتداد ورمي متقاربة، مع متابعة موحدة للسيطرة الأورامية ووظيفة الصوت.",
+      "research_gap_en": "Prospective studies should compare patients with similar invasion and tumor extent and use standardized follow-up for oncologic control and voice function.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "نناقش اليوم systematic review وmeta-analysis بعنوان Shaving Versus Resection on Recurrent Laryngeal Nerve in Thyroid Cancer Surgeries. تتناول الدراسة معضلة جراحية مهمة: عندما يغزو thyroid cancer الـrecurrent laryngeal nerve، أو RLN، هل نحاول إزالة الورم عن سطح العصب مع الحفاظ عليه، أي shaving، أم نستأصل العصب المصاب؟\n\nجمع الباحثون 13 retrospective cohort، شملت 532 مريضًا، وقارنت بين shaving وresection. لم تجد المراجعة اختلافًا في overall survival أو الحاجة إلى tracheotomy. في المقابل، ارتبط shaving بانخفاض recurrence، وتحسن vocal fold mobility، وزيادة maximum phonation time؛ وكان الفرق في recurrence ذا p-value يساوي 0.007، وفي vocal fold mobility أقل من 0.0001، وفي maximum phonation time يساوي 0.04.\n\nلكن يجب تفسير هذه النتائج بحذر. المرضى الذين اختير لهم shaving كانت لديهم disease أقل تقدمًا، لذا قد تعكس النتائج اختلاف شدة المرض أو selection bias، وليس تفوق shaving بحد ذاته. كما أن الأدلة كلها من retrospective cohorts، ولا تثبت وجود علاقة سببية. لذلك لا توصي المراجعة بتغيير الممارسة تلقائيًا أو باختيار تقنية واحدة لجميع المرضى.\n\nالأهمية السريرية هي إبراز أن الحفاظ على RLN قد يرتبط بوظيفة صوتية أفضل، من دون ظهور فرق في overall survival ضمن البيانات المتاحة. لكن قرار الجراحة يجب أن يظل فرديًا، مع موازنة امتداد الورم والسيطرة الأورامية واحتمال الحفاظ على وظيفة العصب.\n\nهذه الورقة مناسبة للنقاش في journal club لأنها تجمع نتائج مفيدة حول قرار جراحي متنازع عليه، وفي الوقت نفسه تكشف محدودية الأدلة. الخطوة التالية هي إجراء دراسات prospective بمجموعات متقاربة في مدى الغزو وامتداد المرض، وبمتابعة موحدة لـrecurrence ووظيفة الصوت والبقاء.",
+      "audio_script_en": "Today we are reviewing “Shaving Versus Resection on Recurrent Laryngeal Nerve in Thyroid Cancer Surgeries.” The article addresses an important surgical dilemma: when thyroid cancer invades the recurrent laryngeal nerve, or RLN, should the surgeon shave tumor off the nerve to preserve it, or resect the involved nerve?\n\nThe systematic review and meta-analysis included 13 retrospective cohorts and 532 patients. Overall survival and tracheotomy requirements did not differ between the shaving and resection groups. Shaving was associated with lower recurrence, better vocal fold mobility, and longer maximum phonation time. The reported p-values were 0.007 for recurrence, less than 0.0001 for vocal fold mobility, and 0.04 for maximum phonation time.\n\nThese findings require caution. Patients who underwent shaving had less advanced disease, so the apparent advantages may reflect patient selection or differences in tumor severity rather than a benefit caused by the procedure itself. All included evidence came from retrospective cohorts, which limits causal conclusions. The review therefore does not establish that shaving is superior or support using one approach in every patient.\n\nThe clinical value of the article is that it highlights a possible functional advantage of preserving the RLN, while finding no survival difference in the available data. In practice, surgeons should continue to individualize the decision according to tumor extent, the feasibility of oncologic clearance, and the potential to preserve nerve function.\n\nThis is a useful journal-club paper because it synthesizes evidence on a contested surgical decision and makes the limitations of that evidence clear. Future prospective studies should compare patients with similar disease extent and standardize assessment of recurrence, voice function, and survival.",
+      "mcq": [
+        {
+          "q_ar": "ما نوع الدراسات التي شملتها هذه المراجعة؟",
+          "q_en": "What type of studies were included in this review?",
+          "options_ar": [
+            "أ) تجارب عشوائية محكومة",
+            "ب) 13 retrospective cohort",
+            "ج) دراسات حيوانية",
+            "د) دراسات prospective متعددة المراكز فقط"
+          ],
+          "options_en": [
+            "A) Randomized controlled trials",
+            "B) 13 retrospective cohorts",
+            "C) Animal studies",
+            "D) Prospective multicenter studies only"
+          ],
+          "answer": 1,
+          "explanation_ar": "شملت المراجعة 13 retrospective cohort بإجمالي 532 مريضًا.",
+          "explanation_en": "The review included 13 retrospective cohorts totaling 532 patients."
+        },
+        {
+          "q_ar": "أي نتيجة ارتبطت بـshaving مقارنةً بـresection؟",
+          "q_en": "Which outcome was associated with shaving compared with resection?",
+          "options_ar": [
+            "أ) تحسن vocal fold mobility",
+            "ب) ارتفاع overall survival المثبت",
+            "ج) انخفاض الحاجة إلى tracheotomy",
+            "د) انخفاض maximum phonation time"
+          ],
+          "options_en": [
+            "A) Improved vocal fold mobility",
+            "B) Proven increase in overall survival",
+            "C) Reduced need for tracheotomy",
+            "D) Shorter maximum phonation time"
+          ],
+          "answer": 0,
+          "explanation_ar": "ارتبط shaving بتحسن vocal fold mobility، ولم يظهر اختلاف في overall survival أو الحاجة إلى tracheotomy.",
+          "explanation_en": "Shaving was associated with better vocal fold mobility; overall survival and tracheotomy requirements did not differ."
+        },
+        {
+          "q_ar": "ما التفسير الأهم الذي يحد من الاستنتاج بأن shaving أفضل؟",
+          "q_en": "What is the main limitation on concluding that shaving is superior?",
+          "options_ar": [
+            "أ) عدم وجود أي نتائج وظيفية",
+            "ب) اقتصار الدراسة على حالة واحدة",
+            "ج) احتمال selection bias لأن مرضى shaving كانت لديهم disease أقل تقدمًا",
+            "د) عدم مقارنة shaving بـresection"
+          ],
+          "options_en": [
+            "A) No functional outcomes were reported",
+            "B) The study included only one case",
+            "C) Possible selection bias because shaving patients had less advanced disease",
+            "D) Shaving was not compared with resection"
+          ],
+          "answer": 2,
+          "explanation_ar": "كان لدى مجموعة shaving مرض أقل تقدمًا، وقد يفسر ذلك اختلاف النتائج بدلًا من أثر التقنية نفسها.",
+          "explanation_en": "The shaving group had less advanced disease, which may account for outcome differences rather than the procedure itself."
+        }
+      ]
+    },
+    {
+      "pmid": "42850126",
+      "title_ar": "Patient Selection Trends in Age, Gender, and Voice Severity in Patients with Vocal Fold Paresis.",
+      "title_en": "Patient Selection Trends in Age, Gender, and Voice Severity in Patients with Vocal Fold Paresis.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Oct-08",
+      "doi": "10.1016/j.jvoice.2026.09.018",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42850126/",
+      "pdf_url": null,
+      "study_design": "Retrospective chart review n=150",
+      "summary_ar": "راجعت هذه الدراسة سجلات 150 مريضًا بالغًا شُخّصوا بـ vocal fold paresis، ووصفت ارتباط العمر وgender وشدة الأعراض باختيار العلاج الأولي. شملت الخيارات عدم العلاج وvoice therapy وvocal fold injection (VFI)، وقُيّمت شدة الأعراض باستخدام Voice Handicap Index-10 (VHI-10). مع كل زيادة نقطة واحدة في VHI-10، انخفضت odds تلقي عدم العلاج بنسبة 8% وارتفعت odds تلقي VFI بنسبة 7%. ومع كل زيادة سنة واحدة في العمر، انخفضت odds عدم العلاج بنسبة 3% وارتفعت odds تلقي VFI بنسبة 3%. لم يكن gender مرتبطًا إحصائيًا بالاختيار بين عدم العلاج والعلاج، بينما ارتبط وجود comorbidities أكثر بتلقي العلاج. توضح النتائج ارتباطات في قرارات العلاج الأولية، لكنها لا تثبت أن أحد خيارات العلاج أفضل من الآخر.",
+      "summary_en": "This retrospective chart review included 150 adults diagnosed with vocal fold paresis and examined factors associated with initial treatment selection. Options were no treatment, voice therapy, or vocal fold injection (VFI), and symptom severity was assessed using the Voice Handicap Index-10 (VHI-10). For each one-point increase in VHI-10, the odds of no treatment decreased by 8%, while the odds of VFI increased by 7%. For each additional year of age, the odds of no treatment decreased by 3%, and the odds of VFI increased by 3%. Gender was not significantly associated with choosing treatment versus no treatment; comorbidities were more common among patients who received treatment. These findings describe associations in initial treatment decisions, not comparative treatment effectiveness.",
+      "practice_change_ar": "لا تغيّر هذه النتائج الممارسة الحالية، لكنها تدعم مناقشة خيارات العلاج مع مراعاة VHI-10 والعمر دون اعتبارهما دليلًا على أفضلية علاج معين.",
+      "practice_change_en": "These findings do not change current practice, but support discussing treatment options in light of VHI-10 and age without treating them as evidence that one option is superior.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية متعددة المراكز في تحديد ما إذا كانت هذه الارتباطات تعكس تفضيلات المرضى أو قرارات الأطباء أو اختلاف النتائج العلاجية.",
+      "future_impact_en": "Future multicenter studies could clarify whether these associations reflect patient preferences, clinician decisions, or differences in treatment outcomes.",
+      "why_important_ar": "تقدم الدراسة وصفًا كميًا للعوامل المرتبطة باختيار العلاج الأولي لدى مرضى vocal fold paresis.",
+      "why_important_en": "The study quantitatively describes factors associated with initial treatment selection in patients with vocal fold paresis.",
+      "vs_previous_ar": "تضيف الدراسة بيانات عن ارتباط العمر وشدة الصوت باختيار العلاج، بينما لا تثبت فعالية علاج مقارنة بآخر.",
+      "vs_previous_en": "The study adds data on associations between age, voice severity, and treatment selection, but does not establish comparative treatment efficacy.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة استعادية تضم 150 مريضًا، لذا توفر وصفًا مفيدًا للارتباطات، لكن تصميمها الرصدي وغياب مقارنة النتائج العلاجية يحدان من تأثيرها على الممارسة.",
+      "stars_reason_en": "This retrospective study of 150 patients provides useful descriptive associations, but its observational design and lack of comparative treatment outcomes limit its impact on practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تصلح للنقاش حول كيفية تأثير شدة الأعراض والعمر في قرارات العلاج، مع الانتباه إلى حدود الاستدلال من دراسة استعادية.",
+      "jc_reason_en": "It supports discussion of how symptom severity and age relate to treatment decisions, while highlighting the limits of retrospective evidence.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات مستقبلية تقارن نتائج voice therapy وVFI وعدم العلاج، مع ضبط تفضيلات المرضى وشدة الحالة وcomorbidities.",
+      "research_gap_en": "Prospective studies should compare outcomes of voice therapy, VFI, and no treatment while accounting for patient preferences, severity, and comorbidities.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة عن اختيار العلاج الأولي لدى البالغين المصابين بـ vocal fold paresis. استخدم الباحثون مراجعة استعادية لسجلات 150 مريضًا، وسجلوا العمر وgender ودرجة Voice Handicap Index-10، أو VHI-10، إضافة إلى خيار العلاج: عدم العلاج أو voice therapy أو vocal fold injection، المعروف اختصارًا بـ VFI. كانت العينة متوازنة تقريبًا من حيث gender، إذ ضمت 76 امرأة و74 رجلًا.\n\nأظهرت النتائج أن ارتفاع VHI-10 ارتبط بزيادة احتمال اختيار VFI وانخفاض احتمال عدم تلقي العلاج. فمع كل نقطة إضافية في VHI-10، انخفضت odds عدم العلاج 8% وارتفعت odds VFI بنسبة 7%. كما ارتبط التقدم في العمر بزيادة اختيار VFI؛ إذ انخفضت odds عدم العلاج وارتفعت odds VFI بنسبة 3% لكل سنة إضافية. لم يكن gender ذا دلالة إحصائية عند المقارنة بين عدم العلاج وتلقي العلاج. وكان وجود comorbidities أكثر شيوعًا بين من تلقوا voice therapy أو VFI.\n\nالأهمية السريرية هنا وصف أنماط الاختيار، لا تحديد العلاج الأفضل. فالدراسة استعادية، ولا تقارن تحسن الصوت أو النتائج طويلة الأمد بين الخيارات، كما أن الارتباط لا يثبت أن العمر أو شدة الأعراض سببا اختيار علاج معين. لذلك لا تستدعي النتائج تغيير الممارسة اليوم، لكنها قد تشجع على مناقشة خيارات العلاج بصورة فردية، مع استخدام VHI-10 ضمن التقييم.\n\nتُعد الدراسة مفيدة لنقاش journal club لأنها تطرح أسئلة عن دور تفضيلات المرضى وقرارات الأطباء وcomorbidities في اختيار العلاج. والخطوة البحثية التالية هي دراسة مستقبلية تقارن نتائج voice therapy وVFI وعدم العلاج، مع ضبط شدة الحالة والعمر والعوامل المصاحبة. الخلاصة: العمر وشدة الصوت ارتبطا باختيار العلاج الأولي، لكنهما لا يحددان فعالية العلاج.",
+      "audio_script_en": "Today’s article examines initial treatment selection for adults with vocal fold paresis. The authors conducted a retrospective chart review of 150 patients and assessed age, gender, Voice Handicap Index-10, or VHI-10, and the initial choice among no treatment, voice therapy, and vocal fold injection, or VFI. The sample included 76 females and 74 males.\n\nHigher VHI-10 scores were associated with a greater likelihood of VFI and a lower likelihood of no treatment. For each one-point increase in VHI-10, the odds of no treatment decreased by 8%, while the odds of VFI increased by 7%. Age showed a similar pattern: for each additional year, the odds of no treatment decreased by 3% and the odds of VFI increased by 3%. Gender was not statistically significant when comparing no treatment with treatment. Patients receiving voice therapy or VFI more commonly had at least one comorbidity.\n\nThe main contribution is a description of treatment-selection patterns, not evidence that one treatment is more effective. Because this was a retrospective study and did not compare voice outcomes across treatment groups, the associations cannot establish causation or comparative benefit. The findings therefore do not warrant a change in practice today. They may, however, support individualized discussions that include symptom burden, age, and patient circumstances, with VHI-10 as one part of assessment.\n\nThis is a useful journal-club paper because it raises questions about the roles of patient preference, clinician decision-making, and comorbidity in choosing treatment. Future prospective studies should compare outcomes after voice therapy, VFI, and no treatment while accounting for baseline severity and other factors. The take-home message is that age and voice severity were associated with initial treatment selection, but this study does not show which treatment works best.",
+      "mcq": [
+        {
+          "q_ar": "ما تصميم الدراسة وحجم العينة؟",
+          "q_en": "What was the study design and sample size?",
+          "options_ar": [
+            "أ) RCT شمل 150 مريضًا",
+            "ب) مراجعة استعادية للسجلات شملت 150 مريضًا",
+            "ج) دراسة مستقبلية شملت 76 مريضًا",
+            "د) مراجعة منهجية لـ 150 دراسة"
+          ],
+          "options_en": [
+            "A) An RCT of 150 patients",
+            "B) A retrospective chart review of 150 patients",
+            "C) A prospective study of 76 patients",
+            "D) A systematic review of 150 studies"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت الدراسة مراجعة استعادية لسجلات 150 مريضًا بالغًا لديهم vocal fold paresis.",
+          "explanation_en": "The study was a retrospective chart review of 150 adults with vocal fold paresis."
+        },
+        {
+          "q_ar": "ما الارتباط الذي وُجد مع كل زيادة نقطة واحدة في VHI-10؟",
+          "q_en": "What association was reported for each one-point increase in VHI-10?",
+          "options_ar": [
+            "أ) انخفضت odds VFI بنسبة 8%",
+            "ب) ارتفعت odds عدم العلاج بنسبة 7%",
+            "ج) انخفضت odds عدم العلاج 8% وارتفعت odds VFI بنسبة 7%",
+            "د) لم تتغير odds أي خيار علاجي"
+          ],
+          "options_en": [
+            "A) The odds of VFI decreased by 8%",
+            "B) The odds of no treatment increased by 7%",
+            "C) The odds of no treatment decreased by 8% and the odds of VFI increased by 7%",
+            "D) The odds of all treatment options were unchanged"
+          ],
+          "answer": 2,
+          "explanation_ar": "ارتبط كل ارتفاع نقطة في VHI-10 بانخفاض odds عدم العلاج 8% وارتفاع odds VFI بنسبة 7%.",
+          "explanation_en": "Each one-point increase in VHI-10 was associated with 8% lower odds of no treatment and 7% higher odds of VFI."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن تطبيق النتائج سريريًا؟",
+          "q_en": "What is the most appropriate clinical interpretation of the findings?",
+          "options_ar": [
+            "أ) تثبت أن VFI أفضل من voice therapy",
+            "ب) تثبت أن gender يحدد العلاج",
+            "ج) تصف ارتباطات باختيار العلاج ولا تثبت فعالية علاج بعينه",
+            "د) توجب تقديم VFI لجميع المرضى الأكبر سنًا"
+          ],
+          "options_en": [
+            "A) They prove VFI is superior to voice therapy",
+            "B) They prove gender determines treatment",
+            "C) They describe associations with treatment selection and do not establish the efficacy of a specific treatment",
+            "D) They require VFI for all older patients"
+          ],
+          "answer": 2,
+          "explanation_ar": "التصميم الاستعادي يصف أنماط اختيار العلاج ولا يقارن فعالية الخيارات أو يثبت علاقة سببية.",
+          "explanation_en": "The retrospective design describes treatment-selection patterns; it does not compare treatment efficacy or establish causation."
+        }
+      ]
+    },
+    {
+      "pmid": "42847617",
+      "title_ar": "Evaluation of Elevated Nasal Clip Application in Unilateral Cleft Lip Nasal Deformity Correction.",
+      "title_en": "Evaluation of Elevated Nasal Clip Application in Unilateral Cleft Lip Nasal Deformity Correction.",
+      "journal": "The Cleft palate-craniofacial journal : official publication of the American Cleft Palate-Craniofacial Association",
+      "pub_date": "2026-Oct-08",
+      "doi": "10.1177/10556656261493236",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42847617/",
+      "pdf_url": null,
+      "study_design": "Prospective randomized controlled trial (sample size not reported in abstract), with preliminary retrospective cohorts",
+      "summary_ar": "تناولت الدراسة relapse طويل الأمد في nasal symmetry بعد primary unilateral cleft lip repair، واختبرت elevated nasal clip كوسيلة للمحافظة على التحسن المبكر. شمل الجزء التمهيدي مجموعتين retrospective تابعتا المرضى بعد 5 و10 سنوات، وأظهرت النتائج تزايد relapse، خصوصًا في nasal tip deviation وnostril height asymmetry عند 10 سنوات. أما الجزء الرئيسي فكان prospective randomized controlled trial مع متابعة عند 6 و12 شهرًا، وقارن elevated nasal clip مع traditional retainer لدى مرضى incomplete unilateral cleft lip. قُيّمت nasal symmetry باستخدام صور frontal وbasal وقياسات anthropometric موحدة. حافظت مجموعة elevated nasal clip على columella ratio وnostril height ratio وnostril area ratio بصورة أفضل وبفروق ذات دلالة إحصائية بحسب الملخص. لا يورد الملخص sample size أو مقدار الفروق أو تفاصيل التوزيع والتعمية، ما يحد من تقدير دقة النتائج. تشير النتائج إلى فائدة محتملة للجهاز في دعم symmetry بعد الجراحة، لكنها لا تثبت بعد أثرًا طويل الأمد أو تغييرًا واسعًا في الممارسة.",
+      "summary_en": "This study examined long-term relapse in nasal symmetry after primary unilateral cleft lip repair and tested an elevated nasal clip as a postoperative adjunct. Preliminary retrospective cohorts followed patients at 5 and 10 years and found progressive relapse, particularly in nasal tip deviation and nostril height asymmetry by 10 years. The main component was a prospective randomized controlled trial with follow-up at 6 and 12 months, comparing the elevated nasal clip with a traditional retainer in patients with incomplete unilateral cleft lip. Standardized frontal and basal photographs and anthropometric measurements were used to assess symmetry. The elevated nasal clip group had significantly better preservation of columella ratio, nostril height ratio, and nostril area ratio, according to the abstract. Sample size, effect sizes, and details of allocation or blinding are not provided in the abstract, limiting assessment of precision. The findings suggest potential benefit but do not establish long-term effectiveness or a practice-changing role.",
+      "practice_change_ar": "لا تبرر النتائج تغييرًا روتينيًا للممارسة حاليًا، لكنها تدعم مناقشة elevated nasal clip كخيار مساعد بعد الجراحة مع توضيح محدودية بيانات المتابعة القصيرة.",
+      "practice_change_en": "The findings do not justify routine practice change yet, but support considering the elevated nasal clip as a postoperative adjunct while acknowledging the short follow-up evidence.",
+      "future_impact_ar": "قد يصبح elevated nasal clip خيارًا مفيدًا للمحافظة على nasal symmetry إذا أكدت دراسات أكبر وأطول أثره وسلامته.",
+      "future_impact_en": "The elevated nasal clip could become a useful option for maintaining nasal symmetry if larger studies with longer follow-up confirm its efficacy and safety.",
+      "why_important_ar": "توضح الدراسة أن nasal symmetry قد تتراجع على مدى سنوات، وتقدم اختبارًا عشوائيًا لجهاز يستهدف المحافظة على التحسن المبكر.",
+      "why_important_en": "The study highlights that nasal symmetry may deteriorate over time and provides a randomized evaluation of a device intended to preserve early postoperative improvement.",
+      "vs_previous_ar": "بدل الاكتفاء بوصف relapse طويل الأمد، تقارن الدراسة prospective randomized بين elevated nasal clip وtraditional retainer باستخدام قياسات موحدة.",
+      "vs_previous_en": "Rather than only describing long-term relapse, this study prospectively randomizes patients to compare an elevated nasal clip with a traditional retainer using standardized measurements.",
+      "stars": 3,
+      "stars_reason_ar": "الدراسة تتضمن prospective randomized controlled trial، وهو تصميم قوي نسبيًا، وتقيّم جهازًا جديدًا مع نتائج إيجابية في عدة قياسات؛ لكن غياب sample size ومقادير الأثر والمتابعة الطويلة في الجزء العشوائي يجعل الدليل غير كافٍ لتغيير الممارسة.",
+      "stars_reason_en": "The study includes a prospective randomized controlled trial and evaluates a novel device with favorable findings across several measurements; however, the abstract omits sample size and effect sizes, and the randomized follow-up is short, so the evidence is insufficient to change practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق الدراسة المناقشة لأنها تجمع بين وصف relapse على المدى الطويل واختبار عشوائي لجهاز مساعد، مع أهمية تقييم حجم العينة وقابلية تعميم النتائج.",
+      "jc_reason_en": "This merits discussion because it combines long-term relapse observations with a randomized evaluation of an adjunct device, while raising important questions about sample size and generalizability.",
+      "watch": true,
+      "watch_detail_ar": "يستحق elevated nasal clip المتابعة بوصفه device جديدًا قد يساعد على المحافظة على nasal symmetry بعد إصلاح unilateral cleft lip.",
+      "watch_detail_en": "The elevated nasal clip is worth tracking as a novel device that may help maintain nasal symmetry after unilateral cleft lip repair.",
+      "watch_type": "device",
+      "research_gap_ar": "تلزم دراسات متعددة المراكز بأعداد أكبر، وتفاصيل أوضح عن مقدار التحسن والآثار الجانبية، ومتابعة أطول لتحديد استدامة الفائدة.",
+      "research_gap_en": "Larger multicenter studies should report effect sizes and adverse events and provide longer follow-up to determine whether the benefit is sustained.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نستعرض اليوم دراسة عن elevated nasal clip للمساعدة في المحافظة على nasal symmetry بعد إصلاح unilateral cleft lip. تتكون الدراسة من جزأين. الجزء الأول retrospective، ويصف متابعة مجموعتين من المرضى بعد خمس وعشر سنوات. أظهرت هذه البيانات تزايد relapse مع الوقت، وبرزت nasal tip deviation وnostril height asymmetry عند متابعة العشر سنوات. هذا مهم سريريًا لأنه يوضح أن التحسن المبكر لا يضمن ثبات شكل الأنف على المدى البعيد.\n\nالجزء الرئيسي prospective randomized controlled trial قارن elevated nasal clip مع traditional retainer لدى مرضى incomplete unilateral cleft lip، مع متابعة عند ستة واثني عشر شهرًا. استخدم الباحثون صورًا معيارية من frontal وbasal views وقياسات anthropometric. بحسب الملخص، كان الحفاظ على columella ratio وnostril height ratio وnostril area ratio أفضل في مجموعة elevated nasal clip، وكانت الفروق ذات دلالة إحصائية.\n\nنقطة القوة هي وجود مقارنة عشوائية وجهاز يستهدف مشكلة عملية واضحة. لكن الملخص لا يذكر sample size أو مقادير الفروق أو تفاصيل التوزيع والتعمية، كما أن متابعة التجربة قصيرة مقارنة بزمن relapse الذي ظهر في الجزء retrospective. لذلك لا تكفي النتائج وحدها لتغيير الممارسة الروتينية. يمكن للأطباء اعتبار الجهاز خيارًا مساعدًا بحسب الحالة والتفضيلات، مع شرح أن الدليل ما زال أوليًا.\n\nالخلاصة: هذه دراسة تستحق المتابعة، لكنها لا تثبت بعد أن الفائدة تستمر لسنوات. نحتاج إلى دراسات أكبر، مع بيانات أوضح عن الأثر والآثار الجانبية ومتابعة طويلة الأمد، قبل اعتماد elevated nasal clip على نطاق واسع.",
+      "audio_script_en": "Today’s article evaluates an elevated nasal clip intended to help maintain nasal symmetry after unilateral cleft lip repair. The study has two parts. First, retrospective cohorts assessed patients at five and ten years after surgery. The authors report progressive relapse, with nasal tip deviation and nostril height asymmetry especially apparent at ten years. This provides a reminder that early postoperative symmetry may not persist over the long term.\n\nThe main component was a prospective randomized controlled trial comparing an elevated nasal clip with a traditional retainer in patients with incomplete unilateral cleft lip. Follow-up was at six and twelve months. The investigators used standardized frontal and basal photographs and anthropometric measurements. According to the abstract, the elevated nasal clip group better preserved columella ratio, nostril height ratio, and nostril area ratio, with statistically significant differences.\n\nA key strength is the randomized comparison of a novel device targeting a clinically relevant outcome. Important limitations are that the abstract does not report the sample size, effect sizes, or details of allocation and blinding. Also, the randomized follow-up is short compared with the years-long relapse described in the retrospective component. The findings therefore do not support routine practice change on their own. Clinicians may consider the device as a possible adjunct, while explaining that evidence for durable benefit remains limited.\n\nIn summary, this is a worthwhile study to follow, not definitive evidence that the clip prevents long-term relapse. Larger studies with transparent reporting, adverse-event assessment, and longer follow-up are needed before broad adoption.",
+      "mcq": [
+        {
+          "q_ar": "ما النتيجة التي أبلغت عنها الدراسة retrospective عند المتابعة لمدة 10 سنوات؟",
+          "q_en": "What did the retrospective follow-up report at 10 years?",
+          "options_ar": [
+            "أ) تحسنًا مستمرًا في جميع مقاييس nasal symmetry",
+            "ب) تزايد relapse، خصوصًا في nasal tip deviation وnostril height asymmetry",
+            "ج) عدم وجود تغير في nasal morphology",
+            "د) تراجعًا في columella ratio فقط"
+          ],
+          "options_en": [
+            "A) Continued improvement in all nasal symmetry measures",
+            "B) Progressive relapse, particularly in nasal tip deviation and nostril height asymmetry",
+            "C) No change in nasal morphology",
+            "D) A decline only in columella ratio"
+          ],
+          "answer": 1,
+          "explanation_ar": "ذكر الملخص تزايد relapse في nasal morphology، مع بروز nasal tip deviation وnostril height asymmetry عند 10 سنوات.",
+          "explanation_en": "The abstract reports progressive relapse in nasal morphology, particularly nasal tip deviation and nostril height asymmetry at 10 years."
+        },
+        {
+          "q_ar": "ما المقارنة الأساسية في الجزء prospective من الدراسة؟",
+          "q_en": "What was the principal comparison in the prospective component?",
+          "options_ar": [
+            "أ) elevated nasal clip مقابل traditional retainer",
+            "ب) جراحة مقابل علاج دوائي",
+            "ج) متابعة عند 10 سنوات مقابل متابعة عند 5 سنوات",
+            "د) صور frontal مقابل صور basal فقط"
+          ],
+          "options_en": [
+            "A) Elevated nasal clip versus traditional retainer",
+            "B) Surgery versus medical treatment",
+            "C) Ten-year follow-up versus five-year follow-up",
+            "D) Frontal photographs versus basal photographs only"
+          ],
+          "answer": 0,
+          "explanation_ar": "قارن prospective randomized controlled trial بين elevated nasal clip وtraditional retainer لدى مرضى incomplete unilateral cleft lip.",
+          "explanation_en": "The prospective randomized controlled trial compared an elevated nasal clip with a traditional retainer in patients with incomplete unilateral cleft lip."
+        },
+        {
+          "q_ar": "ما التفسير الأنسب للأثر السريري لهذه النتائج؟",
+          "q_en": "What is the most appropriate interpretation of the clinical impact?",
+          "options_ar": [
+            "أ) تثبت النتائج أن الجهاز يمنع relapse لعقود",
+            "ب) تستدعي اعتماد الجهاز روتينيًا فورًا",
+            "ج) تشير إلى فائدة محتملة، لكن يلزم دليل أكبر وأطول قبل تغيير الممارسة",
+            "د) لا توجد أي فائدة محتملة للجهاز"
+          ],
+          "options_en": [
+            "A) The findings prove the device prevents relapse for decades",
+            "B) The device should immediately become routine",
+            "C) The findings suggest potential benefit, but stronger and longer evidence is needed before practice changes",
+            "D) The device has no possible benefit"
+          ],
+          "answer": 2,
+          "explanation_ar": "النتائج إيجابية في متابعة قصيرة، لكن الملخص لا يقدم sample size أو effect sizes ولا يثبت استدامة الفائدة، لذا الثقة متوسطة ولا يبرر تغييرًا روتينيًا.",
+          "explanation_en": "The short-term findings are favorable, but the abstract omits sample size and effect sizes and does not establish durability, so routine practice change is not yet justified."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026100901",
+      "title_ar": "ميدترونيك وكارل ستورز تتعاونان لتطوير حلول جراحية متكاملة للأنف والأذن والحنجرة",
+      "title_en": "Medtronic and KARL STORZ Collaborate on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-09",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أفادت «ماس ديفايس» بأن ميدترونيك وكارل ستورز تتعاونان لتطوير حلول جراحية متكاملة في مجال الأنف والأذن والحنجرة. ويصف الخبر تعاوناً بين الشركتين، وليس عملية استحواذ. ولا توضح المعلومات المتاحة المنتجات أو التقنيات التي ستُدمج، أو موعد إتاحة الحلول، أو ما إذا كانت قد حصلت على الموافقات التنظيمية.",
+      "summary_en": "Medtronic and KARL STORZ are collaborating on integrated surgical solutions for ear, nose and throat care, according to MassDevice. The item describes a collaboration, not an acquisition. The supplied information does not specify which products or technologies will be integrated, when solutions may become available, or whether the partnership has received regulatory clearance.",
+      "practice_change_ar": "لا يُتوقع حالياً حدوث تغيير فوري في الممارسة؛ إذ ستعتمد الأهمية السريرية على المنتجات وسير العمل اللذين سيسفر عنهما التعاون.",
+      "practice_change_en": "For now, surgeons should not expect an immediate change in practice; the clinical relevance will depend on the products and workflows the collaboration ultimately delivers.",
+      "future_impact_ar": "قد يشير التعاون إلى مزيد من تطوير الحلول المتكاملة لغرف عمليات الأنف والأذن والحنجرة، على أن يتحدد أثره وفق المنتجات والأدلة السريرية ومدى توافرها لاحقاً.",
+      "future_impact_en": "The partnership may signal further development of integrated ENT operating-room solutions, with its impact depending on the products, evidence and availability that follow.",
+      "why_important_ar": "قد يؤثر تكامل التقنيات الجراحية مستقبلاً في سير العمل واستخدام المعدات، لكن الإعلان المتاح لا يثبت وجود فائدة سريرية محددة.",
+      "why_important_en": "Closer integration of surgical technologies could eventually affect equipment workflows, but the available announcement does not establish a specific clinical benefit.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "تعاون تجاري محتمل الصلة بتكامل المعدات، لكن تفاصيل المنتجات والأثر السريري غير متاحة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "في خبر يهم قطاع الأنف والأذن والحنجرة، أعلنت ميدترونيك وكارل ستورز عن تعاون لتطوير حلول جراحية متكاملة. وبحسب المعلومات المنشورة، يتعلق الأمر بشراكة بين الشركتين، وليس بعملية استحواذ. لكن التفاصيل المتاحة محدودة: لم يُذكر ما المنتجات أو التقنيات التي ستُدمج، ولا موعد طرح الحلول، ولا أثرها المتوقع على سير العمليات أو نتائج المرضى. لذلك لا يوجد حالياً ما يشير إلى ضرورة تغيير الممارسة السريرية أو قرارات شراء المعدات. تبرز أهمية الخبر في احتمال أن يقود التكامل بين تقنيات الشركتين إلى أدوات أو مسارات عمل أكثر ترابطاً داخل غرفة العمليات. وسيعتمد تقييم هذا الاحتمال على ما ستعلنه الشركتان لاحقاً، وعلى توافر المنتجات والأدلة التي توضح فائدتها وسلامتها. سنترقب تفاصيل التنفيذ، والجدول الزمني، وأي معلومات تنظيمية أو سريرية جديدة.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026100902",
+      "title_ar": "توقع نمو سوق تنظير الأنف والأذن والحنجرة بمعدل سنوي مركب قدره 6.4%",
+      "title_en": "ENT Endoscopy Market Projected to Grow at 6.4% CAGR",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-09",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أفادت Market.us بأن من المتوقع أن ينمو سوق تنظير الأنف والأذن والحنجرة بمعدل نمو سنوي مركب قدره 6.4%. ولا يحدد العنوان الفترة الزمنية للتوقعات أو تقدير حجم السوق أو العوامل التي تقود هذا النمو. وهذا توقع للسوق، وليس إعلاناً عن صفقة استحواذ أو قرار تنظيمي أو دراسة سريرية محددة.",
+      "summary_en": "Market.us reports that the ENT endoscopy market is projected to grow at a compound annual growth rate of 6.4%. The headline does not specify the forecast period, market-size estimate, or factors driving the projection. This is a market forecast, not an announcement of a specific acquisition, regulatory decision, or clinical study.",
+      "practice_change_ar": "لا يستدعي هذا التوقع تغييراً فورياً في الممارسة السريرية، لكنه قد يشير إلى توسع الاستثمار وتوافر منتجات التنظير.",
+      "practice_change_en": "The forecast does not call for an immediate change in clinical practice, but it may signal expanding investment and product availability in endoscopy.",
+      "future_impact_ar": "إذا تحقق هذا التوقع، فقد تشهد عيادات الأنف والأذن والحنجرة استمرار تطوير المنتجات والمنافسة في مجال التنظير، على أن يعتمد اعتمادها على التكلفة والأدلة واحتياجات سير العمل.",
+      "future_impact_en": "If the projection is realized, ENT practices may see continued product development and competition in endoscopy, with adoption depending on cost, evidence, and workflow needs.",
+      "why_important_ar": "قد يؤدي نمو السوق إلى توسيع خيارات الأجهزة بمرور الوقت، لكن التقرير لا يقدم أدلة على النتائج السريرية أو أداء الأجهزة.",
+      "why_important_en": "Market growth could broaden equipment options over time, although the report provides no evidence about clinical outcomes or device performance.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "توقع سوقي عام دون تفاصيل كافية أو أثر سريري مباشر.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "تشير Market.us إلى أن سوق تنظير الأنف والأذن والحنجرة قد ينمو بمعدل سنوي مركب يبلغ 6.4%. لكن العنوان المتاح لا يذكر الفترة التي يغطيها التوقع، ولا حجم السوق المتوقع، ولا المنهجية أو العوامل التي تقف وراء هذا النمو. لذلك ينبغي التعامل مع الرقم بوصفه تقديراً سوقياً، لا دليلاً على تحسن النتائج السريرية أو على اعتماد تقنية بعينها. بالنسبة إلى اختصاصيي الأنف والأذن والحنجرة، قد يعني نمو السوق مزيداً من تطوير الأجهزة وتنوع الخيارات مستقبلاً. ومع ذلك، لا يترتب على الخبر تغيير فوري في الممارسة؛ إذ ينبغي تقييم أي جهاز جديد وفق تكلفته، وأدلة فعاليته وسلامته، ومدى ملاءمته لسير العمل واحتياجات المرضى.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026100903",
+      "title_ar": "شركات رائدة في طب الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية",
+      "title_en": "Leading ENT Companies Driving Medical Technology Innovation",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-09",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت SNS Insider مقالاً يسلط الضوء على شركات تصفها بأنها رائدة في ابتكار التكنولوجيا الطبية لرعاية الأنف والأذن والحنجرة. ويشير العنوان إلى عرض عام للقطاع، وليس إلى صفقة استحواذ أو دعوى قضائية أو تحرك في الأسهم أو قرار تنظيمي محدد. ولا يذكر الخبر المتاح أسماء الشركات أو التقنيات أو بيانات السوق الداعمة. ويلزم الاطلاع على تفاصيل إضافية لتقييم الادعاءات أو أهميتها التجارية.",
+      "summary_en": "SNS Insider published an article highlighting companies it describes as leaders in medical technology innovation for ear, nose, and throat care. The headline suggests an industry overview rather than a specific acquisition, lawsuit, stock move, or regulatory decision. The provided news item does not identify the companies, technologies, or supporting market data. Further details would be needed to assess the claims or their commercial significance.",
+      "practice_change_ar": "لا يقدم العنوان وحده معلومات عن منتج محدد أو أدلة تستدعي تغيير الممارسة السريرية.",
+      "practice_change_en": "The headline alone provides no specific product or evidence that would warrant a change in clinical practice.",
+      "future_impact_ar": "قد يقدم المقال نظرة عامة على الشركات العاملة في تقنيات الأنف والأذن والحنجرة، لكن لا يمكن تحديد دلالاته المستقبلية من العنوان والوصف المتاحين.",
+      "future_impact_en": "The article may offer a broad view of companies active in ENT technology, but its implications cannot be determined from the available headline and description.",
+      "why_important_ar": "قد يؤثر الابتكار في التكنولوجيا الطبية مستقبلاً على تشخيص أمراض الأنف والأذن والحنجرة وعلاجها، لكن الخبر لا يقدم تفاصيل تسمح بتقييم أثره السريري.",
+      "why_important_en": "Medical technology innovation may eventually affect ENT diagnosis and treatment, but this item offers no details to assess clinical impact.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "الأهمية السريرية محدودة وغير واضحة لغياب تفاصيل عن الشركات أو التقنيات أو الأدلة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "يتناول خبر من SNS Insider شركات رائدة في ابتكار التكنولوجيا الطبية في مجال الأنف والأذن والحنجرة. لكن المعلومات المتاحة تقتصر على العنوان، ولا تحدد أسماء الشركات أو التقنيات التي يناقشها المقال، كما لا تشير إلى صفقة تجارية أو قرار تنظيمي بعينه. لذلك لا يمكن استخلاص أثر مباشر على اختيار الأجهزة أو العلاج أو الممارسة اليومية للجراحين. قد يكون المقال مفيداً بوصفه نظرة عامة على القطاع، لكن تقييم أهميته يتطلب الاطلاع على تفاصيله والتحقق من البيانات التي يستند إليها. في الوقت الحالي، لا توجد في الخبر معلومات كافية لتبرير تغيير سريري أو قرار استثماري.",
+      "mcq": []
+    }
+  ]
+}
