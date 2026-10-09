@@ -1,0 +1,1048 @@
+{
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T06:42:17Z",
+  "articles": [
+    {
+      "pmid": "42175582",
+      "title_ar": "Surgical Treatment of Lateral Skull Base Tumors Extending to the Craniovertebral Junction.",
+      "title_en": "Surgical Treatment of Lateral Skull Base Tumors Extending to the Craniovertebral Junction.",
+      "journal": "Head & neck",
+      "pub_date": "2026-May-22",
+      "doi": "10.1002/hed.70330",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42175582/",
+      "pdf_url": null,
+      "study_design": "Retrospective case series n=12",
+      "summary_ar": "تُدرس هذه الورقة حالة 12 مريضًا يعانون من أورام قاعدة الجمجمة الخارجية الممتدة إلى تقاطع القاع القحفي. تم إجراء العمليات الجراحية من 2018 إلى 2024 باستخدام تقنية التفريغ الجانبي للفكن (IFA). أبلغ 42% من المرضى عن فقدان السمع و25% عن صداع و17% عن وجود كتلة في الرقبة. أظهرت الأشعة أن الأورام كانت تشمل العظم الصدغي والعتبات المخروطية. تم إجراء الاستئصال الكلي في 92% من الحالات، ولم يتم ملاحظة تكرار للحالات خلال فترة متابعة متوسطة بلغت 45 شهرًا.",
+      "summary_en": "This paper examines 12 patients with lateral skull base tumors extending to the craniovertebral junction treated surgically between 2018 and 2024 using the infratemporal fossa approach (IFA). Primary symptoms included hearing loss (42%), headache (25%), and neck mass (17%). Imaging indicated that the original tumors often involved the temporal bone and foramen magnum. Gross-total resection was achieved in 92% of cases, with no recurrences noted during a median follow-up of 45 months.",
+      "practice_change_ar": "تتغير طريقة العلاج الجراحية لأورام قاعدة الجمجمة الجانبية مع تطبيق تقنيات جديدة.",
+      "practice_change_en": "The surgical management of lateral skull base tumors is changed with the application of new techniques.",
+      "future_impact_ar": "قد يؤدي هذا البحث إلى تحسين تقنيات جراحة الأورام المعقدة.",
+      "future_impact_en": "This study may lead to improved techniques for complex tumor surgery.",
+      "why_important_ar": "تعتبر هذه الدراسة مهمة لفهم كيفية معالجة الأورام المعقدة في قاعدة الجمجمة.",
+      "why_important_en": "This study is important for understanding how to manage complex tumors in the skull base.",
+      "vs_previous_ar": "تقدم هذه الدراسة استراتيجيات جديدة لم تُناقش في الأدبيات السابقة.",
+      "vs_previous_en": "This study provides new strategies not previously discussed in the literature.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة بسيطة مع تصميم استرجاعي وحجم عينة صغير.",
+      "stars_reason_en": "Simple study with retrospective design and small sample size.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Presents a new study in the field of complex tumor surgery.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة تطبيق تقنيات جراحة الواجهة الجانبية للفكن في حالات أورام قاعدة الجمجمة.",
+      "watch_detail_en": "Follow the application of infratemporal fossa surgical techniques in skull base tumor cases.",
+      "watch_type": "instrument",
+      "research_gap_ar": "تحديد الحاجة إلى تقنيات جديدة في معالجة أورام قاعدة الجمجمة.",
+      "research_gap_en": "Identifying the need for new techniques in managing skull base tumors.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "هذه الورقة تناقش معالجة 12 مريضًا يعانون من أورام في قاعدة الجمجمة. تم استخدام تقنية التفريغ الجانبي للفكن. الأعراض الرئيسية تضمنت فقدان السمع والصداع. تم تحقيق الاستئصال الكلي في أغلب الحالات. لا توجد حالات متكررة خلال فترة المتابعة. تبرز أهمية هذه الدراسة لتحسين العلاجات المستقبلية.",
+      "audio_script_en": "This paper discusses the management of 12 patients with skull base tumors. The infratemporal fossa approach was utilized. Main symptoms included hearing loss and headaches. Gross total resection was achieved in most cases. No recurrences were noted during follow-up. The significance of this study highlights improvements for future treatments.",
+      "mcq": [
+        {
+          "q_ar": "ما هي الأعراض الرئيسية للأورام في قاعدة الجمجمة كما تم تناولها في المقال؟",
+          "q_en": "What are the main symptoms of skull base tumors discussed in the article?",
+          "options_ar": [
+            "أ) فقدان السمع",
+            "ب) صداع",
+            "ج) كتلة في الرقبة",
+            "د) جميع ما سبق"
+          ],
+          "options_en": [
+            "A) Hearing loss",
+            "B) Headache",
+            "C) Neck mass",
+            "D) All of the above"
+          ],
+          "answer": 3,
+          "explanation_ar": "الأعراض المذكورة تشمل فقدان السمع والصداع والكتلة في الرقبة.",
+          "explanation_en": "The symptoms noted include hearing loss, headache, and neck mass."
+        },
+        {
+          "q_ar": "ما النسبة المئوية للمرضى الذين أجروا الاستئصال الكلي؟",
+          "q_en": "What percentage of patients achieved gross total resection?",
+          "options_ar": [
+            "أ) 67%",
+            "ب) 42%",
+            "ج) 92%",
+            "د) 33%"
+          ],
+          "options_en": [
+            "A) 67%",
+            "B) 42%",
+            "C) 92%",
+            "D) 33%"
+          ],
+          "answer": 2,
+          "explanation_ar": "92% من المرضى حققوا الاستئصال الكلي.",
+          "explanation_en": "92% of patients achieved gross total resection."
+        },
+        {
+          "q_ar": "ما مدى متابعة المرضى بعد العملية على الرغم من المضاعفات؟",
+          "q_en": "How long were patients followed after surgery despite complications?",
+          "options_ar": [
+            "أ) 6 أشهر",
+            "ب) 45 شهرًا",
+            "ج) 78 شهرًا",
+            "د) 30 شهرًا"
+          ],
+          "options_en": [
+            "A) 6 months",
+            "B) 45 months",
+            "C) 78 months",
+            "D) 30 months"
+          ],
+          "answer": 1,
+          "explanation_ar": "مدة المتابعة المتوسطة كانت 45 شهرًا.",
+          "explanation_en": "The median follow-up duration was 45 months."
+        }
+      ]
+    },
+    {
+      "pmid": "42171192",
+      "title_ar": "Interplay Between Rhinosinusitis and Eustachian Tube Dysfunction in Patients Undergoing Functional Endoscopic Sinus Surgery",
+      "title_en": "Interplay Between Rhinosinusitis and Eustachian Tube Dysfunction in Patients Undergoing Functional Endoscopic Sinus Surgery",
+      "journal": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+      "pub_date": "2026-May-22",
+      "doi": "10.1002/ohn.70299",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42171192/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort study",
+      "summary_ar": "تهدف هذه الدراسة إلى تقييم العلاقة بين التهاب الأنف والجيوب الأنفية المزمن (CRS) وعطل أنبوب أوستاش (ETD) باستخدام مقاييس ذاتية وموضوعية. شملت الدراسة 85 مريضًا مرشحين لجراحة FESS. استخدمت التقييمات الذاتية استبيان ETDQ-7 واختبار SNOT-22. أظهرت النتائج أن نسبة 36.5% من المرضى يعانون من ETF سيئ. لا توجد اختلافات كبيرة في MPD أو MLK أو LM أو MCA2 بين مجموعات ETF العادلة والسيئة. تشير النتائج إلى أن الأعراض السريرية المتعلقة بالجيوب الأنفية تظهر ارتباطًا معتدلاً مع تقارير ETD المقدمة من المرضى.",
+      "summary_en": "This study aims to evaluate the association between chronic rhinosinusitis (CRS) and Eustachian tube dysfunction (ETD) using subjective and objective measures. The study included 85 patients who were candidates for FESS. Subjective assessments utilized the ETDQ-7 and SNOT-22 tests. Results showed that 36.5% of patients had poor ETF. No significant differences were found in MPD, MLK, LM, or MCA2 between fair and poor ETF groups. The findings suggest that sinonasal symptoms show a moderate association with patient-reported ETD.",
+      "practice_change_ar": "يمكن استخدام استبيانات PROMs لتحديد المرضى الذين تتأثر أعراض ETD لديهم بشكل جزئي بسبب CRS.",
+      "practice_change_en": "PROM questionnaires can be used to identify patients whose ETD symptoms are partly influenced by CRS.",
+      "future_impact_ar": "يمكن أن تفتح النتائج المجال لمزيد من الأبحاث في العلاقة بين CRS وعطل أنبوب أوستاش.",
+      "future_impact_en": "The results can pave the way for further research into the relationship between CRS and Eustachian tube dysfunction.",
+      "why_important_ar": "تسهم هذه المقالة في فهم أفضل للعلاقة بين CRS وETD وتساعد في تحسين إدارة المرضى.",
+      "why_important_en": "This article contributes to a better understanding of the relationship between CRS and ETD, aiding in improved patient management.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن الدراسات السابقة من خلال استخدامها لمقاييس موضوعية وذاتية في تقييم ETF.",
+      "vs_previous_en": "This study differs from previous ones by using both subjective and objective measures to assess ETF.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة مصممة بشكل جيد، وتقديم معلومات جديدة حول العلاقة بين CRS وETD.",
+      "stars_reason_en": "The study is well-designed and provides new information on the relationship between CRS and ETD.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تقدم الدراسة نظريات مهمة حول العلاقة بين CRS وETD لتحسين إدارة المرضى.",
+      "jc_reason_en": "The study presents important insights on the relationship between CRS and ETD for improving patient management.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج الأبحاث المستقبلية إلى دراسة تأثير العوامل الأخرى على وظيفة أنبوب أوستاش.",
+      "research_gap_en": "Future research needs to investigate the impact of other factors on Eustachian tube function.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تناقش هذه الدراسة العلاقة بين التهاب الأنف والجيوب الأنفية المزمن (CRS) وعطل أنبوب أوستاش (ETD) باستخدام مقاييس ذاتية وموضوعية. شملت الدراسة 85 مريضًا مرشحين لجراحة FESS وتم تقييمهم باستخدام استبيانات ETDQ-7 وSNOT-22. أظهرت النتائج أن 36.5% من المرضى يعانون من ETF سيئ. ولا توجد اختلافات كبيرة في المقاييس الموضوعية بين مجموعات ETF العادلة والسيئة. تشير النتائج إلى أن الأعراض السريرية المتعلقة بالجيوب الأنفية تظهر ارتباطًا معتدلاً مع ETD. يعكس هذا أهمية استخدام استبيانات PROMs في إدارة المرضى.",
+      "audio_script_en": "This study discusses the relationship between chronic rhinosinusitis (CRS) and Eustachian tube dysfunction (ETD) using subjective and objective measures. The study included 85 patients who were candidates for FESS and were evaluated using ETDQ-7 and SNOT-22 questionnaires. Results showed that 36.5% of patients had poor ETF. No significant differences were found in objective measures between fair and poor ETF groups. The findings suggest that sinonasal symptoms show a moderate association with ETD. This highlights the importance of using PROMs in patient management.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الغرض الرئيسي من الدراسة؟",
+          "q_en": "What is the main purpose of the study?",
+          "options_ar": [
+            "أ) تقييم علاقة CRS وETD",
+            "ب) دراسة فعالية FESS",
+            "ج) تحليل نتائج جراحة الأنف",
+            "د) قياس تأثر العلاج بالأدوية"
+          ],
+          "options_en": [
+            "A) To evaluate the association between CRS and ETD",
+            "B) To study the effectiveness of FESS",
+            "C) To analyze surgical outcomes",
+            "D) To measure drug treatment effects"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة تهدف إلى تقييم العلاقة بين CRS وعطل أنبوب أوستاش.",
+          "explanation_en": "The study aims to evaluate the association between CRS and Eustachian tube dysfunction."
+        },
+        {
+          "q_ar": "ما هي نسبة المرضى الذين يعانون من ETF سيئ؟",
+          "q_en": "What percentage of patients have poor ETF?",
+          "options_ar": [
+            "أ) 10%",
+            "ب) 25%",
+            "ج) 36.5%",
+            "د) 50%"
+          ],
+          "options_en": [
+            "A) 10%",
+            "B) 25%",
+            "C) 36.5%",
+            "D) 50%"
+          ],
+          "answer": 2,
+          "explanation_ar": "حسب النتائج، 36.5% من المرضى عانوا من ETF سيئ.",
+          "explanation_en": "According to the results, 36.5% of patients experienced poor ETF."
+        },
+        {
+          "q_ar": "ما الأدوات المستخدمة لتقييم ETD في الدراسة؟",
+          "q_en": "What tools were used to assess ETD in the study?",
+          "options_ar": [
+            "أ) ETDQ-7 وSNOT-22",
+            "ب) MRI فقط",
+            "ج) اختبارات سمعية",
+            "د) قياسات ضغط الأذن"
+          ],
+          "options_en": [
+            "A) ETDQ-7 and SNOT-22",
+            "B) MRI only",
+            "C) Auditory tests",
+            "D) Ear pressure measurements"
+          ],
+          "answer": 0,
+          "explanation_ar": "استخدمت الدراسة أدوات ETDQ-7 وSNOT-22 لتقييم ETD.",
+          "explanation_en": "The study used ETDQ-7 and SNOT-22 tools to assess ETD."
+        }
+      ]
+    },
+    {
+      "pmid": "42172963",
+      "title_ar": "Negligence, malpractice and recklessness committed by otorhinolaryngologists in the state of São Paulo-Brazil.",
+      "title_en": "Negligence, malpractice and recklessness committed by otorhinolaryngologists in the state of São Paulo-Brazil.",
+      "journal": "Brazilian journal of otorhinolaryngology",
+      "pub_date": "2026-May-22",
+      "doi": "10.1016/j.bjorl.2026.101827",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42172963/",
+      "pdf_url": "https://doi.org/10.1016/j.bjorl.2026.101827",
+      "study_design": "Retrospective series n=98",
+      "summary_ar": "تهدف هذه الدراسة إلى مسح إحصائيات الشكاوى المتعلقة بالأخطاء الطبية ضد أطباء الأنف والأذن والحنجرة في مجلس الطب الإقليمي في ولاية ساو باولو بين عامي 2010 و2020. تم جمع وتحليل 98 ملفًا، حيث تم تسجيل 35 شكوى من الإهمال و23 من سوء الممارسة و23 من التهور. كانت التخصصات الأكثر شكاوى هي طب الأذن. وأظهرت النتائج أن متوسط الشكاوى كان 8.9 شكاوى سنويًا، منها 82.6% تم تقديمها كمطالبات فعلية.",
+      "summary_en": "This study aims to survey the statistics of complaints of medical errors against otorhinolaryngologists in the Regional Council of Medicine of the State of São Paulo between 2010 and 2020. A total of 98 files were collected, with 35 complaints for negligence, 23 for malpractice, and 23 for recklessness. The subspecialty with the most complaints was Otology. The average number of complaints was 8.9 per year, with 82.6% filed as actual claims.",
+      "practice_change_ar": "هذه الدراسة تزيد من الوعي حول الأخطاء الطبية في تخصص الأنف والأذن والحنجرة.",
+      "practice_change_en": "This study raises awareness about medical errors in the field of otorhinolaryngology.",
+      "future_impact_ar": "يمكن أن تؤدي النتائج إلى تحسين ممارسات الأطباء وتقليل الأخطاء الطبية.",
+      "future_impact_en": "The findings may lead to improving physician practices and reducing medical errors.",
+      "why_important_ar": "تعد هذه الدراسة مهمة لأنها تكشف عن معدلات الشكاوى ضد أطباء الأنف والأذن والحنجرة.",
+      "why_important_en": "This study is important because it reveals the rates of complaints against otorhinolaryngologists.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة من خلال توفير إحصائيات مفصلة عن الشكاوى المتعلقة بالأخطاء الطبية.",
+      "vs_previous_en": "This study differs from previous knowledge by providing detailed statistics on complaints related to medical errors.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة تصميمها استرجاعي مع عدد ملفات كبير، مما يعزز مصداقيتها.",
+      "stars_reason_en": "The study has a retrospective design with a large number of files, which enhances its credibility.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تعتبر النتائج مفيدة لفهم كيفية إدارة الشكاوى والأخطاء الطبية في تخصص الأنف والأذن والحنجرة.",
+      "jc_reason_en": "The results are useful for understanding how to manage complaints and medical errors in the field of otorhinolaryngology.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تظهر الحاجة إلى تحسين التدريب ورفع مستوى الوعي حول الأخطاء الطبية بين أطباء الأنف والأذن والحنجرة.",
+      "research_gap_en": "It highlights the need for improved training and increased awareness of medical errors among otorhinolaryngologists.",
+      "subspecialty": "otology",
+      "audio_script_ar": "تتناول هذه الدراسة إحصائيات عن الأخطاء الطبية ضد أطباء الأنف والأذن والحنجرة في ولاية ساو باولو بين عامي 2010 و2020. جمع الباحثون 98 ملفا، مع تسجيل 35 شكوى بالإهمال و23 بسوء الممارسة و23 بالتهور. تشير النتائج إلى أن متوسط الشكاوى كان 8.9 سنويًا، مع 82.6% منها تم تقديمها كمطالبات فعلية. الدراسة مهمة لأنها تعطي رؤية حول الأخطاء الطبية في هذا التخصص.",
+      "audio_script_en": "This study discusses statistics on medical errors against otorhinolaryngologists in São Paulo State from 2010 to 2020. The researchers collected 98 files, recording 35 complaints for negligence, 23 for malpractice, and 23 for recklessness. The results indicate that the average complaints were 8.9 annually, with 82.6% filed as actual claims. The study is important as it provides insight into medical errors in this specialty.",
+      "mcq": [
+        {
+          "q_ar": "ما هي أعلى معدل من شكاوى الأخطاء الطبية بين أطباء الأنف والأذن والحنجرة وفقًا للدراسة؟",
+          "q_en": "What is the highest rate of medical error complaints among otorhinolaryngologists according to the study?",
+          "options_ar": [
+            "أ) سوء ممارسة",
+            "ب) إهمال",
+            "ج) تهور",
+            "د) لا شيء مما ذكر"
+          ],
+          "options_en": [
+            "A) Malpractice",
+            "B) Negligence",
+            "C) Recklessness",
+            "D) None of the above"
+          ],
+          "answer": 1,
+          "explanation_ar": "وفقًا للدراسة، فإن 35 شكوى من أصل 98 كانت تتعلق بالإهمال.",
+          "explanation_en": "According to the study, 35 out of 98 complaints were related to negligence."
+        },
+        {
+          "q_ar": "كم عدد الملفات التي تم جمعها في الدراسة؟",
+          "q_en": "How many files were collected in the study?",
+          "options_ar": [
+            "أ) 50",
+            "ب) 75",
+            "ج) 98",
+            "د) 120"
+          ],
+          "options_en": [
+            "A) 50",
+            "B) 75",
+            "C) 98",
+            "D) 120"
+          ],
+          "answer": 2,
+          "explanation_ar": "تم جمع 98 ملفًا في الدراسة.",
+          "explanation_en": "A total of 98 files were collected in the study."
+        },
+        {
+          "q_ar": "ما هي التخصصات الأكثر شكاوى في الدراسة؟",
+          "q_en": "Which subspecialty had the most complaints in the study?",
+          "options_ar": [
+            "أ) طب الأذن",
+            "ب) الأنف",
+            "ج) الحنجرة",
+            "د) جراحة الرأس والعنق"
+          ],
+          "options_en": [
+            "A) Otology",
+            "B) Rhinology",
+            "C) Laryngology",
+            "D) Head and Neck Surgery"
+          ],
+          "answer": 0,
+          "explanation_ar": "كانت التخصصات الأكثر شكاوى هي طب الأذن وفقًا للدراسة.",
+          "explanation_en": "The subspecialty with the most complaints was Otology according to the study."
+        }
+      ]
+    },
+    {
+      "pmid": "42175591",
+      "title_ar": "Efficacy of Local Application of Platelet-Rich Plasma (PRP) on Mucosal Healing and Clinical Outcomes After Functional Endoscopic Sinus Surgery for Chronic Rhinosinusitis with Nasal Polyps: A Retrospective Cohort Study.",
+      "title_en": "Efficacy of Local Application of Platelet-Rich Plasma (PRP) on Mucosal Healing and Clinical Outcomes After Functional Endoscopic Sinus Surgery for Chronic Rhinosinusitis with Nasal Polyps: A Retrospective Cohort Study.",
+      "journal": "American journal of rhinology & allergy",
+      "pub_date": "2026-May-22",
+      "doi": "10.1177/19458924261449364",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42175591/",
+      "pdf_url": null,
+      "study_design": "Retrospective cohort study n=120",
+      "summary_ar": "تسعى هذه الدراسة لتقييم فعالية تطبيق PRP موضعياً على الشفاء المخاطي والنتائج السريرية بعد جراحة FESS لمرضى التهاب الأنف المزمن مع البوليبات. وتضمنت الدراسة 120 مريضاً خضعوا للجراحة، حيث تم توزيعهم إلى مجموعة تلقت PRP وجموعة ضابطة. أظهرت النتائج أن المجموعة التي تلقى PRP كانت لديها فترة شفاء أقصر وتحسن في النتائج السريرية مثل درجات LKES وSNOT-22. كما كانت هناك انخفاضات ملحوظة في معدل تكرار البوليبات بعد عام. تقدم هذه الدراسة دليلاً على فعالية PRP كعلاج ملحق لتحسين التعافي الوظيفي.",
+      "summary_en": "This study aims to evaluate the efficacy of local PRP application on mucosal healing and clinical outcomes after FESS for chronic rhinosinusitis with nasal polyps. The study involved 120 patients undergoing surgery, divided into a PRP group and a control group. Results indicated the PRP group had a shorter healing time and improved clinical outcomes such as Lund-Kennedy Endoscopic Scores (LKES) and SNOT-22 scores. Notably, there were significant reductions in 1-year polyp recurrence rates. This study provides evidence for PRP as an adjunct therapy to enhance functional recovery.",
+      "practice_change_ar": "يمكن دمج PRP بشكل روتيني لتحسين الشفاء بعد جراحة FESS.",
+      "practice_change_en": "PRP can be routinely integrated to improve healing after FESS.",
+      "future_impact_ar": "قد تفتح هذه النتائج مجال البحث في استخدام PRP كعلاج إضافي في مجالات أخرى من ENT.",
+      "future_impact_en": "These findings may open the door for research into using PRP as an adjunct treatment in other ENT areas.",
+      "why_important_ar": "تعتبر الدراسة مهمة لأنها تقدم حلاً محتملاً لتحديات الشفاء بعد جراحة FESS.",
+      "why_important_en": "The study is important as it offers a potential solution to healing challenges following FESS.",
+      "vs_previous_ar": "تقدم الدراسة بيانات جديدة تدعم استخدام PRP، وهو تطبيق لم يتم استكشافه بشكل كافٍ في الأنف والأذن والحنجرة.",
+      "vs_previous_en": "The study provides new data supporting the use of PRP, a previously under-explored application in ENT.",
+      "stars": 5,
+      "stars_reason_ar": "دراسة ذات تصميم متين وعدد كبير من المرضى، مما يدعم صحة النتائج.",
+      "stars_reason_en": "Solid study design with a large patient number supports the validity of the findings.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تقديم طرق جديدة لتحسين الشفاء بعد الجراحة.",
+      "jc_reason_en": "Presents new methods to improve healing after surgery.",
+      "watch": true,
+      "watch_detail_ar": "يجب مراقبة استخدام PRP كعلاج إضافي لتحسين النتائج في الجراحة الأنفية.",
+      "watch_detail_en": "Watch the use of PRP as an adjunct treatment to improve outcomes in nasal surgery.",
+      "watch_type": "drug",
+      "research_gap_ar": "لا يزال هناك حاجة لمزيد من الدراسات حول فعالية PRP في مجالات أخرى من ENT.",
+      "research_gap_en": "There is still a need for more studies on the effectiveness of PRP in other ENT areas.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "في هذه الدراسة، تم تقييم فعالية PRP كعلاج للإعانة على الشفاء بعد Jراحة فESS ...",
+      "audio_script_en": "In this study, the efficacy of PRP as an adjunct treatment for healing after FESS was evaluated ...",
+      "mcq": [
+        {
+          "q_ar": "ما هي الفترة الزمنية لتحسين الشفاء في مجموعة PRP؟",
+          "q_en": "What was the healing time improvement in the PRP group?",
+          "options_ar": [
+            "أ) 3.4 أسابيع",
+            "ب) 5.1 أسابيع",
+            "ج) 4.5 أسابيع",
+            "د) 6.0 أسابيع"
+          ],
+          "options_en": [
+            "A) 3.4 weeks",
+            "B) 5.1 weeks",
+            "C) 4.5 weeks",
+            "D) 6.0 weeks"
+          ],
+          "answer": 0,
+          "explanation_ar": "أظهرت مجموعة PRP شفاءً أسرع خلال 3.4 أسابيع.",
+          "explanation_en": "The PRP group demonstrated faster healing at 3.4 weeks."
+        },
+        {
+          "q_ar": "ما هي نسبة تكرار البوليبات في مجموعة PRP بعد عام؟",
+          "q_en": "What was the polyp recurrence rate in the PRP group after one year?",
+          "options_ar": [
+            "أ) 8.3%",
+            "ب) 23.3%",
+            "ج) 15.0%",
+            "د) 10.0%"
+          ],
+          "options_en": [
+            "A) 8.3%",
+            "B) 23.3%",
+            "C) 15.0%",
+            "D) 10.0%"
+          ],
+          "answer": 0,
+          "explanation_ar": "سجلت مجموعة PRP نسبة 8.3% لتكرار البوليبات.",
+          "explanation_en": "The PRP group recorded an 8.3% polyp recurrence rate."
+        },
+        {
+          "q_ar": "أي مقياس تم استخدامه لتقييم النتائج السريرية؟",
+          "q_en": "Which scale was used to assess clinical outcomes?",
+          "options_ar": [
+            "أ) مقياس LKES",
+            "ب) مقياس SNOT-22",
+            "ج) مقياس VAS",
+            "د) مقياس PROMs"
+          ],
+          "options_en": [
+            "A) LKES scale",
+            "B) SNOT-22 scale",
+            "C) VAS scale",
+            "D) PROMs scale"
+          ],
+          "answer": 0,
+          "explanation_ar": "تم استخدام مقياس LKES لتقييم النتائج السريرية.",
+          "explanation_en": "The LKES scale was used to assess clinical outcomes."
+        }
+      ]
+    },
+    {
+      "pmid": "42171450",
+      "title_ar": "Intraoperative Patient Photographs as Aesthetic Guidance in Rhinoplasty: Assessing Surgeons' Reliance on Memory.",
+      "title_en": "Intraoperative Patient Photographs as Aesthetic Guidance in Rhinoplasty: Assessing Surgeons' Reliance on Memory.",
+      "journal": "The Journal of craniofacial surgery",
+      "pub_date": "2026-May-22",
+      "doi": "10.1097/SCS.0000000000012926",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42171450/",
+      "pdf_url": null,
+      "study_design": "Cross-sectional study n=6 surgeons",
+      "summary_ar": "تستند هذه الدراسة إلى تقييم مدى اعتماد جراحي الأنف على الذاكرة الشخصية خلال عملية تجميل الأنف. تم إجراء اختبار قدرة التعرف على الوجه لستة جراحين ذوي خبرات مختلفة قبل مراجعة صور ما قبل العملية لـ21 مريضًا. بعد فترة زمنية محاكية، قام الجراحون بتحديد الصور الأصلية من مجموعات معدلّة، مع مراعاة تغييرات مختلفة. أظهرت النتائج أن الجراحين تمكنوا من تحديد الصور الأصلية بنسبة 25.59% فقط. تشير النتائج إلى أن الاستناد فقط على الذاكرة يعد محدودًا في دقة الجراحة.",
+      "summary_en": "This study evaluates the reliance of facial plastic surgeons on memory during rhinoplasty. Six surgeons with varying experiences completed a facial recognition ability test prior to reviewing preoperative photographs of 21 patients. After a simulated time interval, they identified original images from modified sets incorporating changes. Results showed that surgeons accurately identified original images only 25.59% of the time. The findings suggest that relying solely on memory is limited in surgical accuracy.",
+      "practice_change_ar": "يمكن أن يدفع هذا البحث جراحي الأنف لاستخدام الصور الفوتوغرافية أثناء العملية.",
+      "practice_change_en": "This research may encourage surgeons to use photographic references during surgery.",
+      "future_impact_ar": "يمكن أن تؤدي النتائج إلى تحسين دقة العمليات الجراحية في المستقبل.",
+      "future_impact_en": "The findings may lead to improved surgical accuracy in the future.",
+      "why_important_ar": "تسلط هذه الورقة الضوء على قيود الاعتماد على الذاكرة فقط في الجراحة.",
+      "why_important_en": "This paper highlights the limitations of relying solely on memory in surgery.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة بتركيزها على أهمية المراجع البصرية.",
+      "vs_previous_en": "This study differs from previous knowledge by emphasizing the importance of visual references.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة مقطعية مع 6 جراحين وأظهرت نتائج جديدة بشأن الاعتماد على الذاكرة.",
+      "stars_reason_en": "Cross-sectional study with 6 surgeons showing new results on reliance on memory.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The paper addresses an important topic regarding the use of visual references in surgery.",
+      "watch": true,
+      "watch_detail_ar": "راقب كيف يمكن أن تؤثر الصور الفوتوغرافية على دقة الجراحة.",
+      "watch_detail_en": "Watch how photographic references may impact surgical accuracy.",
+      "watch_type": "technology",
+      "research_gap_ar": "تحديد الحاجة إلى تقنيات جديدة لتعزيز دقة الجراحة.",
+      "research_gap_en": "Identifying the need for new techniques to enhance surgical accuracy.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "تدرس هذه الورقة اعتماد الجراحين على الذاكرة خلال عملية تجميل الأنف. شملت الدراسة 6 جراحين و21 مريضًا، وأظهرت النتائج أنهم أظهروا دقة منخفضة في التعرف على الصور الأصلية. توضح هذه الورقة أهمية استخدام الصور الفوتوغرافية كمرجع بصري أثناء العمليات، مما قد يغير كيفية لممارسات الجراحة. نتائج الدراسة تعكس التوجه نحو تحسين دقة العمليات الجراحية مستقبلاً.",
+      "audio_script_en": "This paper examines surgeons' reliance on memory during rhinoplasty. It involved 6 surgeons and 21 patients, revealing a low accuracy in identifying original images. The paper underscores the importance of using photographic references as visual aids during surgery, which could change surgical practices. The study's findings reflect a trend towards improving surgical accuracy in the future.",
+      "mcq": [
+        {
+          "q_ar": "ما هي نسبة دقة تعرف الجراحين على الصور الأصلية في الدراسة؟",
+          "q_en": "What was the accuracy rate of surgeons identifying original images in the study?",
+          "options_ar": [
+            "أ) 10.5%",
+            "ب) 25.59%",
+            "ج) 50%",
+            "د) 75%"
+          ],
+          "options_en": [
+            "A) 10.5%",
+            "B) 25.59%",
+            "C) 50%",
+            "D) 75%"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت الدراسة أن الجراحين تمكنوا من تحديد الصور الأصلية بنسبة 25.59%.",
+          "explanation_en": "The study showed that surgeons accurately identified original images at a rate of 25.59%."
+        },
+        {
+          "q_ar": "ما العلاقة بين نتائج اختبار CFMT وعمر الجراحين؟",
+          "q_en": "What is the correlation between CFMT scores and the age of surgeons?",
+          "options_ar": [
+            "أ) سلبية",
+            "ب) لا توجد علاقة",
+            "ج) إيجابية",
+            "د) غير محددة"
+          ],
+          "options_en": [
+            "A) Negative",
+            "B) No correlation",
+            "C) Positive",
+            "D) Undefined"
+          ],
+          "answer": 2,
+          "explanation_ar": "كان هناك ارتباط إيجابي قوي بين درجات CFMT وعمر الجراحين.",
+          "explanation_en": "There was a strong positive correlation between CFMT scores and surgeons' age."
+        },
+        {
+          "q_ar": "ما الهدف الرئيسي من الدراسة؟",
+          "q_en": "What was the primary aim of the study?",
+          "options_ar": [
+            "أ) تقييم فعالية التقنيات الجراحية الجديدة",
+            "ب) مقارنة نتائج جراحة الأنف مع الجراحين السابقين",
+            "ج) تقييم دور الصور أثناء الجراحة",
+            "د) دراسة التكاليف المرتبطة بالجراحة"
+          ],
+          "options_en": [
+            "A) Evaluate the effectiveness of new surgical techniques",
+            "B) Compare rhinoplasty results with previous surgeons",
+            "C) Assess the role of photographs during surgery",
+            "D) Study the costs associated with surgery"
+          ],
+          "answer": 2,
+          "explanation_ar": "كان الهدف من الدراسة هو تقييم ما إذا كان من الملائم الاعتماد على الذاكرة خلال جراحة الأنف.",
+          "explanation_en": "The aim of the study was to assess whether it is appropriate to rely on memory during rhinoplasty."
+        }
+      ]
+    },
+    {
+      "pmid": "42171500",
+      "title_ar": "Osia Implantation in Patients With Prior Craniotomy for Skull Base Tumors.",
+      "title_en": "Osia Implantation in Patients With Prior Craniotomy for Skull Base Tumors.",
+      "journal": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+      "pub_date": "2026-May-22",
+      "doi": "10.1002/ohn.70283",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42171500/",
+      "pdf_url": null,
+      "study_design": "Retrospective cohort study",
+      "summary_ar": "تستعرض هذه الدراسة استراتيجيات ونتائج زراعة جهاز Osia في المرضى الذين خضعوا لجراحة سابقة في قاع الجمجمة. شملت الدراسة 17 مريضًا، مع متوسط عمر 62.1 عام. تم إجراء عمليات craniotomy بنسبة 52.9٪ باستخدام طريقة translabyrinthine و47.1٪ باستخدام طريقة retrosigmoid. توضح النتائج أن زراعة Osia كانت آمنة وفعالة مع نسبة مضاعفات تبلغ 5.8٪. مستوى السمع المحسن كان 34.7 ± 5.6 dB.",
+      "summary_en": "This study reports on strategies and outcomes of Osia implantation in patients with a history of skull base surgery. It included 17 patients, with a median age of 62.1 years. Craniotomies were performed in 52.9% using a translabyrinthine approach and 47.1% with a retrosigmoid approach. Results show that Osia implantation was safe and effective with an all-cause complication rate of 5.8%. The mean auditory gain recorded was 34.7 ± 5.6 dB.",
+      "practice_change_ar": "تقديم خيارات جديدة لزراعة أجهزة السمع في المرضى الذين خضعوا لجراحة قاع الجمجمة.",
+      "practice_change_en": "Provides new options for hearing device implantation in patients with prior skull base surgery.",
+      "future_impact_ar": "قد تؤثر هذه النتائج على الممارسات السريرية في زراعة أجهزة السمع.",
+      "future_impact_en": "These findings may influence clinical practices regarding hearing device implantation.",
+      "why_important_ar": "تسلط الدراسة الضوء على أمان وفعالية زراعة Osia في مجموعة مرضى محددة.",
+      "why_important_en": "The study highlights the safety and effectiveness of Osia implantation in a specific patient population.",
+      "vs_previous_ar": "تقدم الدراسة نتائج جديدة حول زراعة Osia مقارنة بالمرضى الذين خضعوا لجراحة سابقة.",
+      "vs_previous_en": "The study provides new outcomes regarding Osia implantation compared to patients with prior surgery.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استعادية مع عدد مرضى يتجاوز 10، تقدم معلومات جديدة حول زراعة أداة طبية.",
+      "stars_reason_en": "Retrospective study with more than 10 patients, providing new information on device implantation.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Presents an interesting study on new implantation techniques.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة تقنية زراعة جهاز Osia لأهميتها في تحديث خيارات السمع.",
+      "watch_detail_en": "Should monitor Osia device implantation due to its significance in updating hearing options.",
+      "watch_type": "device",
+      "research_gap_ar": "تحتاج الأبحاث إلى استكشاف تقنيات جديدة في زراعة أجهزة السمع للمرضى ذوي التاريخ الجراحي.",
+      "research_gap_en": "Research needs to explore new techniques in hearing device implantation for patients with surgical history.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "تستعرض هذه الدراسة استراتيجيات ونتائج زراعة جهاز Osia في المرضى الذين خضعوا لعمليات جراحية سابقة في قاع الجمجمة. شملت الدراسة 17 مريضًا، مع متوسط عمر 62.1 عام. تمت إجراءات craniotomy بنسبة 52.9٪ باستخدام طريقة translabyrinthine و47.1٪ مع طريقة retrosigmoid. النتائج تشير إلى أن زراعة Osia كانت آمنة وفعالة بمعدل مضاعفات 5.8٪. التحسن السمعي الذي تم تسجيله كان 34.7 ± 5.6 dB. تقدم هذه النتائج خيارات جديدة للزراعة السمعية وقد تؤثر في الممارسات السريرية.",
+      "audio_script_en": "This study reports on strategies and outcomes of Osia implantation in patients with prior skull base surgeries. It included 17 patients, with a median age of 62.1 years. Craniotomies were performed in 52.9% using a translabyrinthine approach and 47.1% with a retrosigmoid approach. Results indicate that Osia implantation was safe and effective with a complication rate of 5.8%. The auditory gain recorded was 34.7 ± 5.6 dB. These findings provide new options for hearing implantation and may influence clinical practices.",
+      "mcq": [
+        {
+          "q_ar": "ما هو متوسط العمر للمرضى في الدراسة؟",
+          "q_en": "What is the median age of patients in the study?",
+          "options_ar": [
+            "أ) 55 عامًا",
+            "ب) 62.1 عامًا",
+            "ج) 70 عامًا",
+            "د) 65 عامًا"
+          ],
+          "options_en": [
+            "A) 55 years",
+            "B) 62.1 years",
+            "C) 70 years",
+            "D) 65 years"
+          ],
+          "answer": 1,
+          "explanation_ar": "متوسط العمر للمرضى في الدراسة كان 62.1 عامًا.",
+          "explanation_en": "The median age of patients in the study was 62.1 years."
+        },
+        {
+          "q_ar": "ما هي نسبة المضاعفات الكلية المسجلة في الدراسة؟",
+          "q_en": "What was the all-cause complication rate recorded in the study?",
+          "options_ar": [
+            "أ) 2.5%",
+            "ب) 5.8%",
+            "ج) 10.5%",
+            "د) 1.5%"
+          ],
+          "options_en": [
+            "A) 2.5%",
+            "B) 5.8%",
+            "C) 10.5%",
+            "D) 1.5%"
+          ],
+          "answer": 1,
+          "explanation_ar": "نسبة المضاعفات الكلية في الدراسة كانت 5.8%.",
+          "explanation_en": "The all-cause complication rate in the study was 5.8%."
+        },
+        {
+          "q_ar": "ما هو التحسن السمعي الذي تم تسجيله بعد الزراعة؟",
+          "q_en": "What was the mean auditory gain recorded after implantation?",
+          "options_ar": [
+            "أ) 30 dB",
+            "ب) 34.7 dB",
+            "ج) 40 dB",
+            "د) 28 dB"
+          ],
+          "options_en": [
+            "A) 30 dB",
+            "B) 34.7 dB",
+            "C) 40 dB",
+            "D) 28 dB"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم تسجيل تحسن سمعي بمعدل 34.7 dB بعد الزراعة.",
+          "explanation_en": "A mean auditory gain of 34.7 dB was recorded after implantation."
+        }
+      ]
+    },
+    {
+      "pmid": "42171012",
+      "title_ar": "The Reliability of Intraoperative Frozen Section for Glottic Lesions Suspected of Early Malignancy.",
+      "title_en": "The Reliability of Intraoperative Frozen Section for Glottic Lesions Suspected of Early Malignancy.",
+      "journal": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+      "pub_date": "2026-May-22",
+      "doi": "10.1002/ohn.70300",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42171012/",
+      "pdf_url": "https://doi.org/10.1002/ohn.70300",
+      "study_design": "Retrospective case series n=91",
+      "summary_ar": "هذه الدراسة تهدف إلى تحديد ما إذا كانت عينة الجليد أثناء العملية يمكن أن توجه إدارة الأورام في الغشاء المخاطي الصوتي المشبوهسرطانيا المبكرا. تم تضمين 91 ورما صوتيا من 70 مريضا في الدراسة. أظهرت النتائج أن تحليل الجليد أظهر دقة 94.5 % في اكتشاف السرطان الغازي. كما بلغ معدل الحساسية 92 % والخصوصية 96 % وPPV 95 % وNPV 94 %. توصلت الدراسة إلى أن استخدام عينة الجليد يعتبر أداة موثوقة في تحديد الأورام الخبيثة المبكرة.",
+      "summary_en": "This study aims to determine if intraoperative frozen section can reliably guide management in glottic lesions suspected of early malignancy. Ninety-one vocal fold lesions from 70 patients were included in the study. Results showed a 94.5% accuracy in detecting invasive carcinoma by frozen section analysis. Sensitivity was 92%, specificity 96%, PPV 95%, and NPV 94%. The study concludes that frozen section is a reliable tool for identifying early malignancy.",
+      "practice_change_ar": "يمكن أن تغير هذه الدراسة كيفية إدارة الأورام الخبيثة المحتملة في الغشاء المخاطي الصوتي.",
+      "practice_change_en": "This study may change how potential malignancies in glottic lesions are managed.",
+      "future_impact_ar": "يمكن أن توفر هذه الأداة موجهًا جديدًا في التقنيات الجراحية المستقبلية.",
+      "future_impact_en": "This tool may provide new guidance in future surgical techniques.",
+      "why_important_ar": "تعتبر هذه الدراسة مهمة لأنها تشير إلى موثوقية عينة الجليد في إدارة الأورام الخبيثة.",
+      "why_important_en": "This study is important as it highlights the reliability of frozen section for managing malignancies.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة من حيث استخدامها عينة الجليد بشكل فعال للإدارة.",
+      "vs_previous_en": "This study differs from previous knowledge by effectively using frozen section for management.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة تصميمها استرجاعي مع عدد كبير من المرضى وهذا يمنحها تصنيفًا قويًا.",
+      "stars_reason_en": "The study is retrospective with a large patient count, granting it a strong rating.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "A study highlighting the use of frozen sections in malignancies, making it a significant topic for discussion.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة تقنية عينة الجليد بسبب دقتها العالية في إدارة الأورام الثابتة.",
+      "watch_detail_en": "The frozen section technique should be monitored due to its high accuracy in managing suspicious lesions.",
+      "watch_type": "technology",
+      "research_gap_ar": "يمكن ضرورة مزيد من الدراسات للتأكيد على فعالية هذه التقنية في سياقات جراحية مختلفة.",
+      "research_gap_en": "Further studies are needed to confirm the effectiveness of this technique in various surgical contexts.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تتناول هذه الدراسة موثوقية عينة الجليد في الأورام الخبيثة في الغشاء المخاطي الصوتي. تشمل الدراسة 91 حالة من 70 مريضا، وتظهر دقة 94.5% في اكتشاف السرطان الغازي مع معدلات حساسية وخصوصية عالية. هذا البحث يمكن أن يتسبب في تغيير الطريقة التي يتم بها إدارة الأورام المشبوهة في المستقبل.",
+      "audio_script_en": "This study discusses the reliability of frozen section in malignant lesions of the vocal mucosa. The study includes 91 cases from 70 patients, showing a 94.5% accuracy in detecting invasive carcinoma with high sensitivity and specificity rates. This research could lead to changes in how suspicious lesions are managed in the future.",
+      "mcq": [
+        {
+          "q_ar": "ما هو هدف الدراسة؟",
+          "q_en": "What is the goal of the study?",
+          "options_ar": [
+            "أ) استخدام الجليد لتحديد الأورام",
+            "ب) دراسة تأثيرات العمليات الجراحية",
+            "ج) تقييم فعالية الأدوية الجديدة",
+            "د) تحديد تشخيصات جديدة"
+          ],
+          "options_en": [
+            "A) Use of frozen section to identify tumors",
+            "B) Study surgical effects",
+            "C) Evaluate new drug effectiveness",
+            "D) Identify new diagnoses"
+          ],
+          "answer": 0,
+          "explanation_ar": "تهدف الدراسة إلى استخدام تقنيات الجليد في إدارة الأورام.",
+          "explanation_en": "The study aims to use frozen section techniques in tumor management."
+        },
+        {
+          "q_ar": "ما هي دقة تحليل الجليد؟",
+          "q_en": "What is the accuracy of frozen section analysis?",
+          "options_ar": [
+            "أ) 90%",
+            "ب) 92%",
+            "ج) 94.5%",
+            "د) 96%"
+          ],
+          "options_en": [
+            "A) 90%",
+            "B) 92%",
+            "C) 94.5%",
+            "D) 96%"
+          ],
+          "answer": 2,
+          "explanation_ar": "أظهرت الدراسة دقة 94.5% في تحليل الجليد.",
+          "explanation_en": "The study showed a 94.5% accuracy in frozen section analysis."
+        },
+        {
+          "q_ar": "ما أهمية هذه الدراسة؟",
+          "q_en": "What is the significance of this study?",
+          "options_ar": [
+            "أ) يقدم معلومات حول فعالية الأدوية",
+            "ب) يسلط الضوء على تقنيات الجراحة الجديدة",
+            "ج) يظهر موثوقية تحليل الجليد",
+            "د) يركز على العلاج الذاتي"
+          ],
+          "options_en": [
+            "A) Provides information on drug efficacy",
+            "B) Highlights new surgical techniques",
+            "C) Shows the reliability of frozen section",
+            "D) Focuses on self-treatment"
+          ],
+          "answer": 2,
+          "explanation_ar": "توضح الدراسة موثوقية تحليل الجليد في تحديد الأورام الخبيثة.",
+          "explanation_en": "The study demonstrates the reliability of frozen section in identifying malignancies."
+        }
+      ]
+    },
+    {
+      "pmid": "42175600",
+      "title_ar": "Clinical Characteristics, Diagnostic Features, and Medical Treatment of Sinonasal Sarcoidosis: A Systematic Review.",
+      "title_en": "Clinical Characteristics, Diagnostic Features, and Medical Treatment of Sinonasal Sarcoidosis: A Systematic Review.",
+      "journal": "American journal of rhinology & allergy",
+      "pub_date": "2026-May-22",
+      "doi": "10.1177/19458924261452837",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42175600/",
+      "pdf_url": null,
+      "study_design": "Systematic review 68 studies",
+      "summary_ar": "يتعلق هذا المقال بمراجعة سريرية لسنوة التهاب الساركويد الأنفي الجيبي (SNS). يتضمن هذا المراجعة 68 دراسة مع 369 مريضًا، مع متوسط عمر 39.6 سنة و66.5% من المرضى إناث. الأعراض الشائعة تشمل انسداد الأنف وسيلان الأنف والقشور. التحقق من التشخيص تم عبر خزعة الغشاء المخاطي للأنف في 75.4% من الحالات. يُعتبر الكورتيكوستيرويد العلاجي الأولي الرئيسي مع تحسن سريري ملحوظ في 77% من المرضى.",
+      "summary_en": "This article discusses a systematic review of sinonasal sarcoidosis (SNS). It includes 68 studies with 369 patients, with a mean age of 39.6 years and 66.5% female patients. Common symptoms include nasal obstruction, rhinorrhea, and crusting. Diagnosis was confirmed histologically via sinonasal mucosal biopsy in 75.4% of cases. Systemic corticosteroids were the primary first-line treatment, with 77% of patients showing clinical improvement.",
+      "practice_change_ar": "يجب على الأطباء أن يكونوا أكثر وعيًا بالأعراض الشائعة لـ SNS لتقليل التأخير في التشخيص.",
+      "practice_change_en": "Clinicians need to be more aware of the common symptoms of SNS to reduce diagnostic delays.",
+      "future_impact_ar": "ستساعد النتائج في تحسين معرفة الأطباء وتحسين إدارة SNS.",
+      "future_impact_en": "The findings will help improve physician awareness and management of SNS.",
+      "why_important_ar": "تعتبر هذه المقالة مهمة لأنها تلقي الضوء على الأعراض والتشخيصات التي قد تُغفل.",
+      "why_important_en": "This article is important as it sheds light on symptoms and diagnoses that may be overlooked.",
+      "vs_previous_ar": "تختلف هذه الدراسة من المعرفة السابقة من حيث تسليط الضوء على تأخيرات التشخيص والمظاهر الإضافية.",
+      "vs_previous_en": "This study differs from prior knowledge by highlighting diagnostic delays and extra-nasal manifestations.",
+      "stars": 4,
+      "stars_reason_ar": "مراجعة منهجية مع العديد من الدراسات، توضح معلومات جديدة حول SNS.",
+      "stars_reason_en": "A systematic review with multiple studies providing new insights into SNS.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Provides new information on sinonasal sarcoidosis.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة لمزيد من الدراسات لفهم الأنماط الخلوية والتشخيص المبكر.",
+      "research_gap_en": "There is a need for further studies to understand cellular patterns and early diagnosis.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "يتحدث هذا المقال عن مراجعة منهجية لتشخيص وعلاج التهاب الساركويد الأنفي الجيبي. تشمل النتائج 68 دراسة مع 369 مريضًا، حيث كانت الأعراض الأكثر شيوعًا هي انسداد الأنف وسيلان الأنف. تم التأكيد على التشخيص غالبًا عبر خزعة الغشاء المخاطي. الكورتيكوستيرويد كان العلاج الأولي الرئيسي، مع تحسن سريري ملحوظ. تشدد الدراسة على أهمية الوعي بالأعراض لتقليل التأخير في التشخيص.",
+      "audio_script_en": "This article discusses a systematic review on the diagnosis and treatment of sinonasal sarcoidosis. The results include 68 studies with 369 patients, where the most common symptoms were nasal obstruction and rhinorrhea. Diagnosis was often confirmed via mucosal biopsy. Systemic corticosteroids were the primary first-line treatment, with significant clinical improvement noted. The study emphasizes the importance of awareness of symptoms to reduce diagnostic delays.",
+      "mcq": [
+        {
+          "q_ar": "ما هي الأعراض الأكثر شيوعًا المرتبطة بـ SNS؟",
+          "q_en": "What are the most common symptoms associated with SNS?",
+          "options_ar": [
+            "أ) انسداد الأنف",
+            "ب) صداع",
+            "ج) ألم أذن",
+            "د) حمى"
+          ],
+          "options_en": [
+            "A) Nasal obstruction",
+            "B) Headache",
+            "C) Ear pain",
+            "D) Fever"
+          ],
+          "answer": 0,
+          "explanation_ar": "خلصت الدراسة إلى أن انسداد الأنف هو أحد الأعراض الأكثر شيوعًا لـ SNS.",
+          "explanation_en": "The study concluded that nasal obstruction is one of the most common symptoms of SNS."
+        },
+        {
+          "q_ar": "ما هي الطريقة الأكثر شيوعًا لتأكيد التشخيص لـ SNS؟",
+          "q_en": "What is the most common method to confirm diagnosis in SNS?",
+          "options_ar": [
+            "أ) خزعة الغشاء المخاطي",
+            "ب) تصوير بالرنين المغناطيسي",
+            "ج) الفحص السريري",
+            "د) تحليل الدم"
+          ],
+          "options_en": [
+            "A) Mucosal biopsy",
+            "B) MRI",
+            "C) Clinical examination",
+            "D) Blood test"
+          ],
+          "answer": 0,
+          "explanation_ar": "تم الحصول على التأكيد التشخيصي عادةً عبر خزعة الغشاء المخاطي الأنفي.",
+          "explanation_en": "Diagnostic confirmation was typically obtained via sinonasal mucosal biopsy."
+        },
+        {
+          "q_ar": "ما هو العلاج الأولي الرئيسي لـ SNS؟",
+          "q_en": "What is the primary first-line treatment for SNS?",
+          "options_ar": [
+            "أ) موجهات المناعة",
+            "ب) الكورتيكوستيرويد",
+            "ج) المضادات الحيوية",
+            "د) جراحة"
+          ],
+          "options_en": [
+            "A) Immunomodulators",
+            "B) Corticosteroid",
+            "C) Antibiotics",
+            "D) Surgery"
+          ],
+          "answer": 1,
+          "explanation_ar": "الكورتيكوستيرويد هو العلاج الأولي الرئيسي، حيث أظهر 77% من المرضى تحسنًا سريريًا.",
+          "explanation_en": "Corticosteroids are the primary first-line treatment, with 77% of patients showing clinical improvement."
+        }
+      ]
+    },
+    {
+      "pmid": "42174307",
+      "title_ar": "Short-term changes in respiratory muscle strength before and after sleep in patients with obstructive sleep apnea.",
+      "title_en": "Short-term changes in respiratory muscle strength before and after sleep in patients with obstructive sleep apnea.",
+      "journal": "Sleep & breathing = Schlaf & Atmung",
+      "pub_date": "2026-May-23",
+      "doi": "10.1007/s11325-026-03708-w",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42174307/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort",
+      "summary_ar": "هذا البحث يدرس تأثير انقطاع النفس الانسدادي أثناء النوم على قوة العضلات التنفسية. شمل البحث ثمانين مريضًا خضعوا لدرسات نوم لفحص حالات انقطاع النفس. تم قياس ضغوط الشهيق والزفير قبل النوم وبعده، ووجد الباحثون تغييرات إيجابية في القوة لدى المرضى مقارنة بمجموعة التحكم. كما أظهرت النتائج أن القيم الدنيا والعليا للتشبع بالأكسجين كانت أقل بشكل ملحوظ في مجموعة انقطاع النفس. علاوة على ذلك، أظهرت التحليلات وجود علاقة قوية بين القوة الجسمانية ومؤشرات أخرى مثل مؤشر كتلة الجسم.",
+      "summary_en": "This study investigates the impact of obstructive sleep apnea on respiratory muscle strength. It involved eighty patients undergoing sleep studies for apnea evaluation. Maximal inspiratory and expiratory pressures were measured before and after sleep, showing positive changes in strength in patients compared to a control group. Additionally, both minimum and maximum oxygen saturation values were significantly lower in the apnea group. The analysis also revealed strong associations between muscle strength and other indicators such as body mass index.",
+      "practice_change_ar": "قد تؤثر هذه النتائج على كيفية تقييمنا لمرضى انقطاع النفس.",
+      "practice_change_en": "These findings may influence how we assess patients with apnea.",
+      "future_impact_ar": "يمكن أن تفتح هذه الدراسة آفاق جديدة لفهم التكيفات العصبية العضلية على المدى القصير.",
+      "future_impact_en": "This study could open new avenues for understanding short-term neuromuscular adaptations.",
+      "why_important_ar": "تشير الدراسة إلى وجود صلة قوية بين القوة العضلية ومؤشرات مختلفة، مما يعزز فهمنا لهذه الحالة.",
+      "why_important_en": "The study indicates a strong link between muscle strength and various indicators, enhancing our understanding of this condition.",
+      "vs_previous_ar": "تقدم هذه الدراسة معلومات جديدة عن التكيفات العضلية خلال الليل.",
+      "vs_previous_en": "This study provides new insights on muscular adaptations during the night.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة مصممة بطريقة جيدة وتقدم بيانات جديدة تتعلق بتكيفات العضلات.",
+      "stars_reason_en": "The study is well-designed and presents new data related to muscle adaptations.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study carries useful insights about muscle adaptations in apnea patients.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "research_gap_en": null,
+      "subspecialty": "sleep",
+      "audio_script_ar": "نناقش في هذه الدراسة تأثير انقطاع النفس الانسدادي أثناء النوم على قوة العضلات التنفسية. شمل البحث ثمانين مريضًا، وتم قياس ضغط الشهيق والزفير قبل النوم وبعده. وجدت النتائج تغييرات إيجابية في قوة العضلات لدى المرضى مقارنة بمجموعة التحكم. كما كانت مستويات التشبع بالأكسجين أقل لدى مرضى انقطاع النفس. مجمل النتائج تشير إلى أهمية فهم كيف تتكيف العضلات في مثل هذه الظروف.",
+      "audio_script_en": "We discuss in this study the impact of obstructive sleep apnea on respiratory muscle strength. The research involved eighty patients, measuring inspiratory and expiratory pressures before and after sleep. The results showed positive changes in muscle strength in patients compared to a control group. Moreover, oxygen saturation levels were lower in apnea patients. Overall, the findings highlight the importance of understanding how muscles adapt under such conditions.",
+      "mcq": [
+        {
+          "q_ar": "ما هو تأثير انقطاع النفس الانسدادي أثناء النوم على قوة العضلات التنفسية حسب الدراسة؟",
+          "q_en": "What is the effect of obstructive sleep apnea on respiratory muscle strength according to the study?",
+          "options_ar": [
+            "أ) يزيد بالقوة",
+            "ب) لا يؤثر",
+            "ج) ينخفض بالقوة",
+            "د) غير معروف"
+          ],
+          "options_en": [
+            "A) Increases strength",
+            "B) No effect",
+            "C) Decreases strength",
+            "D) Unknown"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة أظهرت تغييرات إيجابية في قوة العضلات لدى المرضى.",
+          "explanation_en": "The study showed positive changes in muscle strength in patients."
+        },
+        {
+          "q_ar": "ما هي العوامل المرتبطة بالقوة التنفسية في الدراسة؟",
+          "q_en": "What factors are associated with respiratory strength in the study?",
+          "options_ar": [
+            "أ) مؤشر كتلة الجسم",
+            "ب) العمر",
+            "ج) الجنس",
+            "د) الطول"
+          ],
+          "options_en": [
+            "A) Body mass index",
+            "B) Age",
+            "C) Gender",
+            "D) Height"
+          ],
+          "answer": 0,
+          "explanation_ar": "مؤشر كتلة الجسم كان مرتبطًا بشكل إيجابي بالقوة التنفسية.",
+          "explanation_en": "Body mass index was positively associated with respiratory strength."
+        },
+        {
+          "q_ar": "ما هي الفائدة الرئيسية من الدراسة؟",
+          "q_en": "What is the main benefit of the study?",
+          "options_ar": [
+            "أ) تحسين التشخيص",
+            "ب) فهم التكيفات",
+            "ج) تطوير العلاجات",
+            "د) جميع ما سبق"
+          ],
+          "options_en": [
+            "A) Improving diagnosis",
+            "B) Understanding adaptations",
+            "C) Developing treatments",
+            "D) All of the above"
+          ],
+          "answer": 3,
+          "explanation_ar": "الدراسة تقدم فوائد متعددة تتعلق بالفهم والتشخيص.",
+          "explanation_en": "The study provides multiple benefits related to understanding and diagnosis."
+        }
+      ]
+    },
+    {
+      "pmid": "42151083",
+      "title_ar": "Lifetime risk of developing cancer in Inner Mongolia cancer registration areas",
+      "title_en": "Lifetime risk of developing cancer in Inner Mongolia cancer registration areas",
+      "journal": "Zhonghua zhong liu za zhi [Chinese journal of oncology]",
+      "pub_date": "2026-May-23",
+      "doi": "10.3760/cma.j.cn112152-20250630-00301",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42151083/",
+      "pdf_url": null,
+      "study_design": "Retrospective analysis n=38",
+      "summary_ar": "الهدف من هذه الدراسة هو تقييم عبء السرطان في منغوليا الداخلية لتوفير أدلة لصنع قرارات الوقاية من السرطان ومراقبته. تم حساب المخاطر العمرية للسرطان باستخدام بيانات تسجيل السرطان والإحصاءات السكانية. كان الخطر العمرى لتطوير السرطان في منغوليا الداخلية 25.02%. كانت أعلى خمسة سرطانات مخاطرًا هي سرطان الرئة وسرطان القولون وسرطان الكبد وسرطان المعدة وسرطان المريء. ووجد أن الخطر لدى الذكور أعلى بشكل ملحوظ من الإناث. السكان الحضريون لديهم مخاطر أعلى من السكان الريفيين.",
+      "summary_en": "The objective of this study is to assess the cancer burden in Inner Mongolia to provide evidence for cancer prevention and control decision-making. The lifetime cancer risk was calculated using cancer registration data and demographic statistics. The lifetime cancer risk in Inner Mongolia was found to be 25.02%. The top five cancers with the highest risk were lung cancer, colorectal cancer, liver cancer, gastric cancer, and esophageal cancer. Males were found to have a significantly higher risk than females. Urban residents had higher risks compared to rural residents.",
+      "practice_change_ar": "يجب أن تركز الجهود المستقبلية على تحسين عمليات الفحص الموجهة للسكان.",
+      "practice_change_en": "Future efforts should focus on optimizing population-specific screening.",
+      "future_impact_ar": "يمثل هذا البحث قاعدة علمية للسيطرة الشاملة على السرطان في منغوليا الداخلية.",
+      "future_impact_en": "This research provides a scientific basis for comprehensive cancer control in Inner Mongolia.",
+      "why_important_ar": "تسلط هذه الدراسة الضوء على التأثيرات المختلفة للموقع والنوع الاجتماعي على مخاطر الإصابة بالسرطان.",
+      "why_important_en": "This study highlights the different impacts of location and gender on cancer risk.",
+      "vs_previous_ar": "يقدم هذا البحث بيانات جديدة حول مخاطر السرطان في منغوليا الداخلية بدلاً من المعلومات العامة السابقة.",
+      "vs_previous_en": "This research provides new data on cancer risks in Inner Mongolia, differing from prior general information.",
+      "stars": 4,
+      "stars_reason_ar": "تحليل استعادي لمستوى عالٍ من البيانات، يقدم معلومات مفيدة تزيد من الوعي بخطر السرطان.",
+      "stars_reason_en": "Retrospective analysis with a high level of data, providing useful information that increases awareness of cancer risk.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study provides valuable information on cancer risks in a specific region, making it worth discussion.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى مزيد من البحث في إعدادات صحية مخصصة لمعالجة خيارات الفحص والوقاية.",
+      "research_gap_en": "There is a need for further research in tailored healthcare settings to address screening and prevention options.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "تتناول هذه الدراسة تقييم عبء السرطان في منغوليا الداخلية من خلال بيانات تسجيل السرطان من 38 منطقة. المخاطر العمرية للسرطان تصل إلى 25.02%، مع ارتفاع المخاطر لدى الذكور والسكان الحضريين. الطعام الصحي ونمط الحياة مهمان في تقليل المخاطر. يساعد ذلك على تحسين استراتيجيات الفحص للسرطان.",
+      "audio_script_en": "This study addresses the assessment of cancer burden in Inner Mongolia using cancer registration data from 38 areas. The lifetime cancer risk reaches 25.02%, with higher risks observed in males and urban residents. Healthy diet and lifestyle are important in reducing risks. This aids in improving cancer screening strategies.",
+      "mcq": [
+        {
+          "q_ar": "ما مقدار خطر الإصابة بالسرطان في منغوليا الداخلية؟",
+          "q_en": "What is the lifetime cancer risk in Inner Mongolia?",
+          "options_ar": [
+            "أ) 20.02%",
+            "ب) 25.02%",
+            "ج) 30.02%",
+            "د) 35.02%"
+          ],
+          "options_en": [
+            "A) 20.02%",
+            "B) 25.02%",
+            "C) 30.02%",
+            "D) 35.02%"
+          ],
+          "answer": 1,
+          "explanation_ar": "الخطر العمراني للإصابة بالسرطان في منغوليا الداخلية هو 25.02%.",
+          "explanation_en": "The lifetime cancer risk in Inner Mongolia is 25.02%."
+        },
+        {
+          "q_ar": "أي نوع من السرطان كان لديه أعلى خطر عمري؟",
+          "q_en": "Which type of cancer had the highest lifetime risk?",
+          "options_ar": [
+            "أ) سرطان الرئة",
+            "ب) سرطان القولون",
+            "ج) سرطان الكبد",
+            "د) سرطان المعدة"
+          ],
+          "options_en": [
+            "A) Lung cancer",
+            "B) Colorectal cancer",
+            "C) Liver cancer",
+            "D) Gastric cancer"
+          ],
+          "answer": 0,
+          "explanation_ar": "كان سرطان الرئة هو السرطان الأعلى خطرًا لدى الرجال والنساء.",
+          "explanation_en": "Lung cancer had the highest risk among both males and females."
+        },
+        {
+          "q_ar": "من كان لديه خطر أعلى للإصابة بالسرطان، الذكور أم الإناث؟",
+          "q_en": "Who had a higher cancer risk, males or females?",
+          "options_ar": [
+            "أ) الذكور",
+            "ب) الإناث",
+            "ج) لا يوجد فرق",
+            "د) كلهم لهم نفس الخطر"
+          ],
+          "options_en": [
+            "A) Males",
+            "B) Females",
+            "C) No difference",
+            "D) All have the same risk"
+          ],
+          "answer": 0,
+          "explanation_ar": "تظهر الدراسة أن الذكور لديهم خطر أعلى للإصابة بالسرطان من الإناث.",
+          "explanation_en": "The study shows that males have a higher cancer risk compared to females."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026052401",
+      "title_ar": "حجم سوق أجهزة الأنف والأذن والحنجرة الأمريكية، الحصة | تقرير الصناعة، 2030",
+      "title_en": "U.S. ENT Devices Market Size, Share | Industry Report, 2030",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-05-24",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أصدرت شركة Grand View Research تقريرًا شاملاً عن سوق أجهزة الأنف والأذن والحنجرة الأمريكية، متوقعة نموًا كبيرًا بحلول عام 2030. يسلط التقرير الضوء على الاتجاهات الرئيسية في السوق، بما في ذلك التقدم في التكنولوجيا وزيادة الطلب على إجراءات الأنف والأذن والحنجرة. كما يوضح العوامل التي تدفع توسع السوق مثل الشيخوخة المتزايدة والسجل المرتفع للاضطرابات الأنفية والأذنية والحنجرية.",
+      "summary_en": "Grand View Research has released a comprehensive report on the U.S. ENT devices market, predicting significant growth by 2030. The report outlines key market trends, including advancements in technology and increased demand for ENT procedures. It highlights the factors driving market expansion such as an aging population and rising case of ENT disorders.",
+      "practice_change_ar": "تشير هذا التقرير السوقي إلى فرص محتملة لجراحي الأنف والأذن والحنجرة لتوسيع ممارستهم وتبني تكنولوجيا جديدة.",
+      "practice_change_en": "This market report indicates potential opportunities for ENT surgeons to expand their practices and adopt new technologies.",
+      "future_impact_ar": "من المرجح أن تعزز الاستثمارات المتزايدة والابتكار في أجهزة الأنف والأذن والحنجرة جودة الرعاية المتاحة للمرضى.",
+      "future_impact_en": "Increased investment and innovation in ENT devices are likely to enhance the quality of care available to patients.",
+      "why_important_ar": "فهم ديناميكيات السوق أمر ضروري لجراحي الأنف والأذن والحنجرة للبقاء في دائرة المنافسة وتلبية احتياجات المرضى.",
+      "why_important_en": "Understanding market dynamics is crucial for ENT surgeons to stay competitive and meet patient demands.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "تقرير هام يتعلق بنمو السوق وتأثيره على الممارسات الجراحية.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أصدرت شركة Grand View Research تقريرًا حول سوق أجهزة الأنف والأذن والحنجرة في الولايات المتحدة، حيث تتوقع نموًا كبيرًا بحلول عام 2030. يشير التقرير إلى عوامل عدة مثل تقدم التكنولوجيا وزيادة الطلب على إجراءات الأنف والأذن والحنجرة، مما يتيح فرصًا جديدة لجراحي الأنف والأذن والحنجرة لتوسيع ممارساتهم وبناء قدراتهم.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026052402",
+      "title_ar": "سوق أجهزة توسيع الجيوب الأنفية ستصل إلى 5.50 مليار دولار أمريكي بحلول عام 2033",
+      "title_en": "Sinus Dilation Devices Market to Reach US$ 5.50 Billion by 2033",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-05-24",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "من المتوقع أن ينمو سوق أجهزة توسيع الجيوب الأنفية بشكل كبير، ليصل إلى قيمة تقديرية تبلغ 5.50 مليار دولار أمريكي بحلول عام 2033. ويعود نمو هذا السوق إلى زيادة حالات التهاب الجيوب الأنفية والتقدم في التقنيات الأقل تدخلاً. مع اعتماد مقدمي الرعاية الصحية لطرق جديدة لعلاج حالات الجيوب، من المتوقع أن يرتفع الطلب على هذه الأجهزة. علاوة على ذلك، فإن الابتكارات المستمرة في تقنية الأجهزة تعزز فعاليتها ورضا المرضى.",
+      "summary_en": "The sinus dilation devices market is projected to grow significantly, reaching an estimated value of US$ 5.50 billion by 2033. This growth is attributed to increasing cases of sinusitis and advancements in minimally invasive technologies. As healthcare providers adopt newer methods to treat sinus conditions, the demand for these devices is expected to rise. Furthermore, ongoing innovations in device technology are enhancing their effectiveness and patient satisfaction.",
+      "practice_change_ar": "يشير هذا النمو في السوق إلى زيادة محتملة في خيارات وأساليب العلاج المتاحة لجراحي الأنف والأذن والحنجرة.",
+      "practice_change_en": "This market growth indicates a potential increase in treatment options and techniques available for ENT surgeons.",
+      "future_impact_ar": "من المرجح أن يؤدي الاستثمار المستمر في أجهزة توسيع الجيوب الأنفية المبتكرة إلى تحسين النتائج الجراحية وزيادة اعتماد هذه التقنيات في ممارسات الأنف والأذن والحنجرة.",
+      "future_impact_en": "Continued investment in innovative sinus dilation devices will likely lead to better surgical outcomes and increased adoption of these technologies in ENT practices.",
+      "why_important_ar": "سيؤدي توسع هذا السوق على الأرجح إلى تحسين نتائج المرضى في العلاجات المتعلقة بالجيوب.",
+      "why_important_en": "The expansion of this market will likely improve patient outcomes in sinus-related treatments.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "النمو الكبير المتوقع في السوق يؤثر على خيارات العلاج لجراحي الأنف والأذن والحنجرة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أعلنت دراسة حديثة أن سوق أجهزة توسيع الجيوب الأنفية من المتوقع أن يصل إلى 5.50 مليار دولار أمريكي بحلول عام 2033. يعود هذا النمو إلى زيادة حالات التهاب الجيوب الأنفية والتقدم في التقنيات الأقل تدخلاً. لذلك، يجب على جراحي الأنف والأذن والحنجرة أن يكونوا على دراية بهذه التطورات من أجل تحسين خيارات العلاج المتاحة لهم.",
+      "mcq": []
+    }
+  ]
+}

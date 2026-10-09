@@ -1,0 +1,2255 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T07:05:03Z",
+  "articles": [
+    {
+      "pmid": "42154257",
+      "title_ar": "Shaping the Future of Nasal Surgery: A Systematic Review of Preservation Rhinoplasty",
+      "title_en": "Shaping the Future of Nasal Surgery: A Systematic Review of Preservation Rhinoplasty",
+      "journal": "Aesthetic plastic surgery",
+      "pub_date": "2026-May-19",
+      "doi": "10.1007/s00266-026-05853-9",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42154257/",
+      "pdf_url": "https://doi.org/10.1007/s00266-026-05853-9",
+      "study_design": "Meta-analysis 13 studies",
+      "summary_ar": "تمثل هذه الدراسة مراجعة منهجية لتقنيات جراحة الأنف الحفظية، التي تميزت بتقليل الاستئصال والترميم مع الحفاظ على العناصر التشريحية. شملت الدراسة 13 دراسة مع 855 مريضًا، ركزت على تقنيات الحفظ مثل push-down و let-down وتحسينات وظيفية. أظهرت النتائج مستوى عالٍ من رضا المرضى، مع معدلات مضاعفات منخفضة تتراوح بين 0 و 7.9%. تعتبر النتائج مبكرة مشجعة، مع ضرورة مزيد من البحث لتحديد معايير اختيار المرضى وتحسين طرق تقييم النتائج.",
+      "summary_en": "This study represents a systematic review of preservation rhinoplasty techniques, characterized by reducing resection and reconstruction while maintaining key anatomical elements. It included 13 studies with 855 patients focusing on preservation techniques such as push-down and let-down and functional improvements. Results showed high levels of patient satisfaction with low complication rates ranging from 0 to 7.9%. Early outcomes are encouraging, highlighting the need for further research to refine patient selection criteria and improve outcome assessment methods.",
+      "practice_change_ar": "يمكن أن تعزز هذه الدراسة من اعتماد تقنيات جراحة الأنف الحفظية في الممارسات السريرية.",
+      "practice_change_en": "This study may encourage the adoption of preservation rhinoplasty techniques in clinical practice.",
+      "future_impact_ar": "تقدم الدراسة آفاقًا مستقبلية لتطوير أساليب جديدة في جراحة الأنف وتحسين التخطيط الجراحي.",
+      "future_impact_en": "The study offers future prospects for developing new methods in nasal surgery and enhancing surgical planning.",
+      "why_important_ar": "توضح الدراسة الأهمية المتزايدة لتقنيات جراحة الأنف الحفظية وفاعليتها في تعزيز النتائج الوظيفية والجمالية.",
+      "why_important_en": "The study highlights the increasing importance of preservation rhinoplasty techniques and their effectiveness in enhancing functional and aesthetic outcomes.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة بإبراز الفوائد المحتملة لتقنيات الحفظ مقارنة بالطرق التقليدية.",
+      "vs_previous_en": "This study differs from previous knowledge by highlighting the potential benefits of preservation techniques compared to traditional methods.",
+      "stars": 4,
+      "stars_reason_ar": "مراجعة منهجية لعدد من الدراسات مع تصميم جيد ونتائج مشجعة.",
+      "stars_reason_en": "Systematic review of several studies with good design and encouraging results.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تقدم الدراسة نظرة شاملة لتقنيات جديدة في جراحة الأنف.",
+      "jc_reason_en": "The study provides a comprehensive overview of new techniques in nasal surgery.",
+      "watch": true,
+      "watch_detail_ar": "قابلية تطوير تقنيات جراحة الأنف الحفظية تمثل شيئًا يجب متابعته.",
+      "watch_detail_en": "The potential development of preservation rhinoplasty techniques is something to watch.",
+      "watch_type": "technology",
+      "research_gap_ar": "يحتاج البحث إلى المزيد من الدراسات حول دور التقنيات الهجين في الحالات الأكثر تعقيدًا.",
+      "research_gap_en": "Research needs more studies on the role of hybrid techniques in more complex cases.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "تتناول هذه المقالة مراجعة منهجية لتقنيات جراحة الأنف الحفظية التي تركز على الحفاظ على البنية التشريحية. شملت الدراسة 13 دراسة تضمنت 855 مريضًا وكانت النتائج مشجعة مع مستويات عالية من رضا المرضى ومعدلات مضاعفات منخفضة. التعزيز من هذه التقنيات يمكن أن يؤثر بشكل إيجابي على الممارسات السريرية، لكن هناك حاجة لمزيد من البحث لتحديد المعايير المثلى لاختيار المرضى.",
+      "audio_script_en": "This article discusses a systematic review of preservation rhinoplasty techniques that focus on preserving anatomical structure. The study included 13 studies involving 855 patients, with encouraging results showing high patient satisfaction and low complication rates. The promotion of these techniques could positively influence clinical practice, but more research is needed to identify optimal patient selection criteria.",
+      "mcq": [
+        {
+          "q_ar": "ما هي فائدة تقنيات جراحة الأنف الحفظية حسب الدراسة؟",
+          "q_en": "What is a benefit of preservation rhinoplasty techniques according to the study?",
+          "options_ar": [
+            "أ) رضا المرضى العالي",
+            "ب) ارتفاع معدلات المضاعفات",
+            "ج) زيادة الاستئصال",
+            "د) تقييد مجالات الاستخدام"
+          ],
+          "options_en": [
+            "A) High patient satisfaction",
+            "B) Increased complication rates",
+            "C) Increased resection",
+            "D) Restricted application areas"
+          ],
+          "answer": 0,
+          "explanation_ar": "تشير النتائج إلى أن رضا المرضى كان مرتفعًا جدًا مع استخدام تقنيات الحفظ.",
+          "explanation_en": "Results indicate that patient satisfaction was very high with the use of preservation techniques."
+        },
+        {
+          "q_ar": "ما هو معدل المضاعفات المرتبط بتقنيات جراحة الأنف الحفظية؟",
+          "q_en": "What is the complication rate associated with preservation rhinoplasty techniques?",
+          "options_ar": [
+            "أ) 0-7.9%",
+            "ب) 10-15%",
+            "ج) 20-25%",
+            "د) 5-10%"
+          ],
+          "options_en": [
+            "A) 0-7.9%",
+            "B) 10-15%",
+            "C) 20-25%",
+            "D) 5-10%"
+          ],
+          "answer": 0,
+          "explanation_ar": "أفادت الدراسات أن معدل المضاعفات تراوح بين 0 و7.9%.",
+          "explanation_en": "The studies reported that the complication rate ranged from 0 to 7.9%."
+        },
+        {
+          "q_ar": "ما هي المجالات التي تحتاج إلى مزيد من البحث وفقًا للدراسة؟",
+          "q_en": "What areas need further research according to the study?",
+          "options_ar": [
+            "أ) تقنيات جديدة",
+            "ب) تأثير العمر",
+            "ج) دور التقنيات الهجين",
+            "د) تفسير النتائج"
+          ],
+          "options_en": [
+            "A) New techniques",
+            "B) Age effects",
+            "C) Role of hybrid techniques",
+            "D) Result interpretation"
+          ],
+          "answer": 2,
+          "explanation_ar": "تشير الدراسة إلى الحاجة لمزيد من الدراسات حول دور التقنيات الهجين في الحالات الأكثر تعقيدًا.",
+          "explanation_en": "The study points out the need for more studies on the role of hybrid techniques in more complex cases."
+        }
+      ]
+    },
+    {
+      "pmid": "42154083",
+      "title_ar": "Climate and sino-nasal symptoms.",
+      "title_en": "Climate and sino-nasal symptoms.",
+      "journal": "International journal of biometeorology",
+      "pub_date": "2026-May-19",
+      "doi": "10.1007/s00484-026-03154-z",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42154083/",
+      "pdf_url": "https://doi.org/10.1007/s00484-026-03154-z",
+      "study_design": "Retrospective series n=955",
+      "summary_ar": "درس الباحثون تأثير الظروف الجوية على الأعراض الأنفية الجيوب من خلال استبيانات المرضى في عيادة Rhinology بجامعة فيرجينيا. استخدموا فئة التنسيق المكاني للطقس لتصنيف كل يوم، وقاموا بمقارنة الأعراض عند عدم الراحة. أظهرت النتائج أن الأيام الجافة الباردة كانت مرتبطة بأكثر من ضعف احتمالات شدة الأعراض. بناءً على هذه النتائج، يمكن اعتبار تأثير المناخ عند إدارة الأعراض الأنفية الجيوب.",
+      "summary_en": "The researchers examined the impact of weather conditions on sino-nasal symptoms through patient surveys at the University of Virginia Rhinology Clinic. They utilized the Spatial Synoptic Classification to categorize each day and compared symptom severity on days with poor outcomes. The results indicated that dry polar days were associated with more than double the odds of severe symptoms. Based on these findings, the climate's effect should be considered in managing sino-nasal symptoms.",
+      "practice_change_ar": "يجب على الأطباء مراعاة تأثير المناخ عند تقييم الأعراض الأنفية الجيوب.",
+      "practice_change_en": "Clinicians should consider the impact of climate when assessing sino-nasal symptoms.",
+      "future_impact_ar": "قد يؤدي هذا البحث إلى تحسين استراتيجيات إدارة الأعراض الأنفية الجيوب.",
+      "future_impact_en": "This research may lead to improved strategies for managing sino-nasal symptoms.",
+      "why_important_ar": "المقال يقدم أدلة على العلاقة بين الأعراض الأنفية الجيوب والظروف الجوية.",
+      "why_important_en": "The article provides evidence of the relationship between sino-nasal symptoms and weather conditions.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة من خلال تقديم بيانات كمية لدعم العلاقة بين الطقس والأعراض.",
+      "vs_previous_en": "This study differs from previous knowledge by providing quantitative data to support the relationship between weather and symptoms.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استعادية مع عينة كبيرة تدعم الاعتبارات السريرية.",
+      "stars_reason_en": "Retrospective study with a large sample supporting clinical considerations.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The article provides important insights into the impact of climate on sino-nasal symptoms.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج الأبحاث المستقبلية لتوضيح الآليات البيولوجية وراء هذه العلاقة.",
+      "research_gap_en": "Future research needs to clarify the biological mechanisms behind this relationship.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "المقالة تتحدث عن تأثير المناخ على الأعراض الأنفية الجيوب. درس الباحثون حالة 955 مريضًا من عيادة Rhinology بجامعة فيرجينيا، حيث قاموا باستخدام استبيانات SNOT-22 لتحديد شدة الأعراض الأنفية. النتائج أظهرت أنه في الأيام الجافة القطبية، كانت هناك احتمالات أكبر بثلاث مرات لزيادة شدة الأعراض. هذا يشير إلى أن الأطباء يجب أن يأخذوا في الاعتبار تأثير المناخ عند تقييم هذه الأعراض. وبالتالي، هذا البحث قد يغير كيفية إدارة أعراض الأنف في المستقبل.",
+      "audio_script_en": "The article discusses the impact of climate on sino-nasal symptoms. The researchers examined 955 patients from the University of Virginia Rhinology Clinic, using the SNOT-22 survey to assess symptom severity. The findings showed that on dry polar days, there were three times the odds of increased symptom severity. This suggests that clinicians should consider climate's effect when evaluating such symptoms. Thus, this research may change how sino-nasal symptoms are managed in the future.",
+      "mcq": [
+        {
+          "q_ar": "ما الأداة التي استخدمها الباحثون في دراسة التأثيرات المناخية؟",
+          "q_en": "What tool did the researchers use to study climatic effects?",
+          "options_ar": [
+            "أ) استطلاعات SNOT-22",
+            "ب) اختبارات تنفسية",
+            "ج) استبيانات سرعة مقياس",
+            "د) دراسات حالة"
+          ],
+          "options_en": [
+            "A) SNOT-22 surveys",
+            "B) Pulmonary tests",
+            "C) Speed metrics questionnaires",
+            "D) Case studies"
+          ],
+          "answer": 0,
+          "explanation_ar": "استخدم الباحثون استطلاعات SNOT-22 لتقييم شدة الأعراض الأنفية الجيوب.",
+          "explanation_en": "The researchers used SNOT-22 surveys to assess the severity of sino-nasal symptoms."
+        },
+        {
+          "q_ar": "ما النتائج الرئيسية للدراسة المتعلقة بالأيام الجافة؟",
+          "q_en": "What were the main results of the study regarding dry days?",
+          "options_ar": [
+            "أ) انخفاض الأعراض",
+            "ب) زيادة الأعراض",
+            "ج) لا تأثير",
+            "د) تقليل الاحتقان"
+          ],
+          "options_en": [
+            "A) Decreased symptoms",
+            "B) Increased symptoms",
+            "C) No effect",
+            "D) Reduced congestion"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت الدراسة زيادة في شدة الأعراض في الأيام الجافة القطبية.",
+          "explanation_en": "The study showed an increase in symptom severity on dry polar days."
+        },
+        {
+          "q_ar": "ما هي فترة الدراسة في المقال؟",
+          "q_en": "What was the study period in the article?",
+          "options_ar": [
+            "أ) 2005-2009",
+            "ب) 2010-2020",
+            "ج) 2015-2021",
+            "د) 2018-2023"
+          ],
+          "options_en": [
+            "A) 2005-2009",
+            "B) 2010-2020",
+            "C) 2015-2021",
+            "D) 2018-2023"
+          ],
+          "answer": 1,
+          "explanation_ar": "استمرت الدراسة من يناير 2010 إلى مارس 2020.",
+          "explanation_en": "The study ranged from January 2010 to March 2020."
+        }
+      ]
+    },
+    {
+      "pmid": "42157379",
+      "title_ar": "Race and Ethnicity Affect Symptom and Endoscopy Associations in CT-Confirmed Chronic Rhinosinusitis.",
+      "title_en": "Race and Ethnicity Affect Symptom and Endoscopy Associations in CT-Confirmed Chronic Rhinosinusitis.",
+      "journal": "The Laryngoscope",
+      "pub_date": "2026-May-19",
+      "doi": "10.1002/lary.70631",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42157379/",
+      "pdf_url": null,
+      "study_design": "Retrospective series n=314",
+      "summary_ar": "تستهدف هذه الدراسة التحقيق في الاختلافات الديموغرافية في العلاقة بين أعراض التهاب الأنف المزمن ونتائج التنظير الأنفي لدى المرضى الذين تم تأكيد حالتهم باستخدام CT. تضم الدراسة 314 مريضًا، حيث كان 228 منهم يعانون من التهاب الأنف المزمن المؤكد باستخدام CT. أظهرت النتائج أن الارتباطات بين الأعراض ونتائج التنظير الأنفي لم تكن ذات دلالة إحصائية لدى المرضى الآسيويين وذوي الأصول اللاتينية. توصي الدراسة باستخدام التصوير بالأشعة المقطعية بشكل أسبق في بعض السياقات السريرية.",
+      "summary_en": "This study investigates demographic differences in the relationship between chronic rhinosinusitis symptoms and nasal endoscopy findings among patients confirmed with CT. A total of 314 patients were included, with 228 meeting criteria for CT-confirmed CRS. Results showed that associations between symptoms and endoscopic findings were not statistically significant among Asian and Hispanic patients. The study suggests considering earlier imaging with CT in selected clinical contexts.",
+      "practice_change_ar": "يتوجب التفكير في استخدام التصوير بالأشعة المقطعية في مراحل أبكر من التقييم السريري.",
+      "practice_change_en": "There is a need to consider using CT imaging earlier in the clinical assessment.",
+      "future_impact_ar": "يمكن أن تؤدي هذه النتائج إلى تعديل استراتيجيات تشخيص التهاب الأنف المزمن.",
+      "future_impact_en": "These findings may lead to changes in diagnostic strategies for chronic rhinosinusitis.",
+      "why_important_ar": "تسلط هذه الدراسة الضوء على الفجوات في التقييم السريري للأعراق المختلفة.",
+      "why_important_en": "This study highlights the gaps in clinical assessment across different racial groups.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعارف السابقة من خلال تحديد الفروق العرقية في العلاقات السريرية.",
+      "vs_previous_en": "This study differs from previous knowledge by identifying racial differences in clinical associations.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة مرتجعة n=314 تقدم معلومات جديدة حول الفروق العرقية في التهاب الأنف المزمن.",
+      "stars_reason_en": "Retrospective study n=314 provides new insights into racial differences in chronic rhinosinusitis.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Contains new insights on the impact of race on the relationship between symptoms and diagnosis.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "توجد فجوات في الفهم الحالي للعوامل السريرية المرتبطة بالعرق.",
+      "research_gap_en": "There are gaps in the current understanding of clinical factors associated with race.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تتحدث هذه الدراسة عن تأثير العرق والأصل العرقي على الأعراض ونتائج التنظير الأنفي في التهاب الأنف المزمن المؤكد باستخدام CT. شملت الدراسة 314 مريضًا، تم التأكيد على حالتهم، مما يجعل النتائج مهمة من الناحية السريرية. أظهرت النتائج أن الارتباطات بين الأعراض والبصريات لا تكون ذات دلالة إحصائية للمرضى الآسيويين وذوي الأصول اللاتينية. تقدم الدراسة اقتراحات نحو استخدام التصوير بالأشعة المقطعية بشكل مبكر عند الحاجة. قد تغيّر هذه النتائج من الاستراتيجيات التشخيصية الحالية وتعزز فهم العوامل التي تؤثر على الفئات السكانية المختلفة.",
+      "audio_script_en": "This study discusses the impact of race and ethnicity on symptoms and endoscopic findings in CT-confirmed chronic rhinosinusitis. It included 314 patients with confirmed cases, making the results clinically relevant. The findings showed that associations between symptoms and endoscopic findings were not statistically significant among Asian and Hispanic patients. The study suggests early CT imaging when necessary. These results may change current diagnostic strategies and enhance understanding of factors affecting different populations.",
+      "mcq": [
+        {
+          "q_ar": "ما هو العدد الإجمالي للمرضى المشاركين في الدراسة؟",
+          "q_en": "What is the total number of patients included in the study?",
+          "options_ar": [
+            "أ) 228",
+            "ب) 314",
+            "ج) 150",
+            "د) 100"
+          ],
+          "options_en": [
+            "A) 228",
+            "B) 314",
+            "C) 150",
+            "D) 100"
+          ],
+          "answer": 1,
+          "explanation_ar": "شملت الدراسة 314 مريضًا.",
+          "explanation_en": "The study included 314 patients."
+        },
+        {
+          "q_ar": "ما هو التأثير الذي وجده الباحثون بالنسبة للمرضى الآسيويين وذوي الأصول اللاتينية؟",
+          "q_en": "What effect did researchers find regarding Asian and Hispanic patients?",
+          "options_ar": [
+            "أ) الارتباطات كانت ذات دلالة إحصائية",
+            "ب) لم تكن الارتباطات ذات دلالة إحصائية",
+            "ج) جميع الأعراض كانت موجودة",
+            "د) لم يكن هناك مرضى من هذه الفئات"
+          ],
+          "options_en": [
+            "A) Associations were significant",
+            "B) Associations were not significant",
+            "C) All symptoms were present",
+            "D) There were no patients from these groups"
+          ],
+          "answer": 1,
+          "explanation_ar": "لم تكن الارتباطات بين الأعراض والتشخيصات ذات دلالة إحصائية للمرضى الآسيويين وذوي الأصول اللاتينية.",
+          "explanation_en": "Associations between symptoms and diagnoses were not statistically significant for Asian and Hispanic patients."
+        },
+        {
+          "q_ar": "ما هو نوع التصميم المستخدم في هذه الدراسة؟",
+          "q_en": "What type of design was used in this study?",
+          "options_ar": [
+            "أ) دراسة مركبة",
+            "ب) دراسة مرتجعة",
+            "ج) دراسة تجريبية",
+            "د) دراسة حالة"
+          ],
+          "options_en": [
+            "A) Cohort study",
+            "B) Retrospective study",
+            "C) Experimental study",
+            "D) Case study"
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسة كانت دراسة مرتجعة مع بيانات من السجلات الطبية الإلكترونية.",
+          "explanation_en": "The study was a retrospective study with data from electronic medical records."
+        }
+      ]
+    },
+    {
+      "pmid": "42159293",
+      "title_ar": "Economic evaluation of stapokibart for chronic rhinosinusitis with nasal polyps in China: a cost-effectiveness analysis.",
+      "title_en": "Economic evaluation of stapokibart for chronic rhinosinusitis with nasal polyps in China: a cost-effectiveness analysis.",
+      "journal": "Journal of comparative effectiveness research",
+      "pub_date": "2026-May-20",
+      "doi": "10.57264/cer-2025-0189",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42159293/",
+      "pdf_url": null,
+      "study_design": "Decision tree Markov model",
+      "summary_ar": "تم تقييم الفعالية الاقتصادية لـ stapokibart مقارنة بـ dupilumab في علاج التهاب الأنف والجيوب الأنفية المزمن مع السلائل في الصين. تم تطوير نموذج شجرة القرار Markov لتقييم الفعالية الاقتصادية. تشير النتائج إلى أن stapokibart يوفر مزايا اقتصادية واضحة، حيث يقلل من تكاليف العلاج ويحسن جودة حياة المرضى. تبين أن stapokibart يبقى فعالاً من الناحية الاقتصادية عند العتبة المحددة وهي من 1 إلى 3 أضعاف الناتج المحلي الإجمالي للفرد في الصين.",
+      "summary_en": "The cost-effectiveness of stapokibart compared to dupilumab in treating chronic rhinosinusitis with nasal polyps in China was evaluated. A decision tree Markov model was developed to assess cost-effectiveness. Results indicate that stapokibart offers a clear economic advantage, both lowering treatment costs and improving patients' quality of life. It remains cost-effective at the threshold of one to three times China's per capita GDP.",
+      "practice_change_ar": "يشير هذا البحث إلى أن stapokibart يمكن استخدامه كخيار علاجي بديل فعال من حيث التكلفة لمريض التهاب الأنف والجيوب الأنفية المزمن.",
+      "practice_change_en": "This research indicates that stapokibart can be used as an effective and cost-efficient alternative treatment for patients with chronic rhinosinusitis.",
+      "future_impact_ar": "يمكن أن تساعد النتائج صانعي السياسات ومقدمي الرعاية الصحية في اتخاذ قرارات مستنيرة بشأن خيارات العلاج.",
+      "future_impact_en": "The findings can assist policymakers and healthcare providers in making informed decisions about treatment options.",
+      "why_important_ar": "تسلط هذه الدراسة الضوء على أهمية stapokibart كعلاج فعال من حيث التكلفة لحالة طبية شائعة.",
+      "why_important_en": "This study highlights the significance of stapokibart as a cost-effective treatment for a common medical condition.",
+      "vs_previous_ar": "هذه الدراسة تقدم دليلاً جديداً على فعالية stapokibart مقارنة بـ dupilumab.",
+      "vs_previous_en": "This study provides new evidence for the effectiveness of stapokibart compared to dupilumab.",
+      "stars": 5,
+      "stars_reason_ar": "تصميم الدراسة هو نموذج شجرة قرار Markov، يقدم أدلة قوية على فعالية stapokibart.",
+      "stars_reason_en": "The study design is a decision tree Markov model, providing strong evidence for the effectiveness of stapokibart.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تقدم الدراسة معلومات حول علاج جديد فعال من حيث التكلفة.",
+      "jc_reason_en": "The study provides information on a new cost-effective treatment.",
+      "watch": true,
+      "watch_detail_ar": "من المهم متابعة نتائج استخدام stapokibart في سياقات علاجية أخرى.",
+      "watch_detail_en": "It is important to track the outcomes of using stapokibart in other therapeutic contexts.",
+      "watch_type": "drug",
+      "research_gap_ar": "تفتقر الدراسات السابقة إلى تقييم شامل للتكاليف والفوائد لـ stapokibart.",
+      "research_gap_en": "Previous studies lack a comprehensive assessment of the costs and benefits of stapokibart.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تعتبر هذه الدراسة تقييمًا اقتصاديًا لعقار stapokibart في علاج التهاب الأنف والجيوب الأنفية المزمن مع السلائل في الصين. تم استخدام نموذج شجرة قرار Markov لتقييم الفعالية الاقتصادية، وأظهرت النتائج فعالية stapokibart مقارنة بـ dupilumab من حيث التكلفة. يشير ذلك إلى إمكانية استخدام stapokibart كخيار علاجي بديل. هذه النتائج تسهم في اتخاذ قرارات مستنيرة بشأن خيارات العلاج.",
+      "audio_script_en": "This study evaluates the economic impact of stapokibart in treating chronic rhinosinusitis with nasal polyps in China. A decision tree Markov model was used to assess cost-effectiveness, showing that stapokibart is more cost-effective compared to dupilumab. This suggests that stapokibart can serve as an alternative treatment option. The findings contribute to informed decisions regarding treatment options.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف الرئيسي من الدراسة؟",
+          "q_en": "What is the main objective of the study?",
+          "options_ar": [
+            "أ) تقييم الفعالية الاقتصادية لـ stapokibart",
+            "ب) مقارنة dupilumab بأدوية أخرى",
+            "ج) دراسة تأثير السلائل على صحة الأنف",
+            "د) تحديد أفضل علاج للالتهابات الحادة"
+          ],
+          "options_en": [
+            "A) Evaluate the cost-effectiveness of stapokibart",
+            "B) Compare dupilumab to other medications",
+            "C) Investigate the impact of polyps on nasal health",
+            "D) Identify the best treatment for acute inflammation"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة تهدف إلى تقييم الفعالية الاقتصادية لعقار stapokibart.",
+          "explanation_en": "The study aims to evaluate the cost-effectiveness of the drug stapokibart."
+        },
+        {
+          "q_ar": "ما هو تصميم الدراسة المستخدمة؟",
+          "q_en": "What type of study design was used?",
+          "options_ar": [
+            "أ) تجربة عشوائية محكومة",
+            "ب) نموذج شجرة قرار Markov",
+            "ج) دراسة حالة",
+            "د) تقييم بيانات سابقة"
+          ],
+          "options_en": [
+            "A) Randomized controlled trial",
+            "B) Markov decision tree model",
+            "C) Case study",
+            "D) Retrospective data assessment"
+          ],
+          "answer": 1,
+          "explanation_ar": "استخدمت الدراسة نموذج شجرة قرار Markov لتقييم الفعالية الاقتصادية.",
+          "explanation_en": "The study used a Markov decision tree model to assess cost-effectiveness."
+        },
+        {
+          "q_ar": "كيف يساهم stapokibart في تحسين نوعية الحياة للمرضى؟",
+          "q_en": "How does stapokibart contribute to improving patients' quality of life?",
+          "options_ar": [
+            "أ) عن طريق تقليل الأعراض",
+            "ب) زيادة التكلفة",
+            "ج) تقليل وقت العلاج",
+            "د) زيادة المخاطر"
+          ],
+          "options_en": [
+            "A) By reducing symptoms",
+            "B) Increasing cost",
+            "C) Reducing treatment duration",
+            "D) Increasing risks"
+          ],
+          "answer": 0,
+          "explanation_ar": "يساهم stapokibart في تقليل الأعراض، مما يحسن نوعية حياة المرضى.",
+          "explanation_en": "Stapokibart contributes by reducing symptoms, which in turn enhances patients' quality of life."
+        }
+      ]
+    },
+    {
+      "pmid": "42157540",
+      "title_ar": "Health Locus of Control in Patients with Chronic Rhinosinusitis After Endoscopic Sinus Surgery: A Pilot Study.",
+      "title_en": "Health Locus of Control in Patients with Chronic Rhinosinusitis After Endoscopic Sinus Surgery: A Pilot Study.",
+      "journal": "American journal of rhinology & allergy",
+      "pub_date": "2026-May-19",
+      "doi": "10.1177/19458924261451601",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42157540/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort",
+      "summary_ar": "تستعرض هذه الدراسة العلاقة بين Locus of Control الصحي ونتائج المرضى المصابين بالتهاب الجيوب الأنفية المزمن بعد إجراء جراحة الجيوب الأنفية التنظيرية. تم جمع بيانات من 81 مريضًا وقد أظهرت النتائج أن زيادة درجات التحكم الصحي من نوع Doctors كانت مرتبطة بتحسن كبير في نتائج SNOT-22 بعد الجراحة. يستنتج هذا البحث أن ولاء المريض للمزود الطبي قد يؤثر على نتائج الشفاء. ",
+      "summary_en": "This study examines the relationship between health locus of control and outcomes in patients with chronic rhinosinusitis post-endoscopic sinus surgery. Data from 81 patients were collected, revealing that higher Doctors health locus of control scores were associated with significant improvements in SNOT-22 scores post-operatively. The study concludes that patient allegiance to healthcare providers may influence recovery outcomes.",
+      "practice_change_ar": "يمكن أن تؤثر درجة ولاء المرضى للأطباء على استراتيجيات العلاج المتبعة.",
+      "practice_change_en": "Patient allegiance to doctors may impact treatment strategies.",
+      "future_impact_ar": "يمكن أن يقود هذا البحث إلى استراتيجيات جديدة لتحسين نتائج المرضى.",
+      "future_impact_en": "This research could lead to new strategies for enhancing patient outcomes.",
+      "why_important_ar": "تسلط هذه الدراسة الضوء على أهمية العلاقة بين المرضى والمزودين الطبيين في إدارة التهاب الجيوب الأنفية.",
+      "why_important_en": "This study highlights the importance of the patient-provider relationship in managing chronic rhinosinusitis.",
+      "vs_previous_ar": "يختلف هذا البحث عن الدراسات السابقة التي تشير إلى تحسن النتائج مع زيادة التحكم الذاتي.",
+      "vs_previous_en": "This study differs from previous research suggesting improved outcomes with greater internal locus of control.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة هي دراسة قائمة على الملاحظة وقد أثبتت تأثير Locus of Control الصحي على نتائج المرضى، مما يدعم تصنيف النجوم.",
+      "stars_reason_en": "The study is a prospective cohort and demonstrated the impact of health locus of control on patient outcomes, justifying the star rating.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This study provides new insights into the impact of health locus of control in an important patient population.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "توجد فجوة بحثية تتعلق بتأثير Locus of Control الصحي على نتائج التهاب الجيوب الأنفية.",
+      "research_gap_en": "There is a research gap regarding the impact of health locus of control on sinusitis outcomes.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تتحدث هذه الدراسة عن تأثير Locus of Control الصحي على نتائج المرضى الذين يعانون من التهاب الجيوب الأنفية المزمن بعد جراحة الجيوب الأنفية. تم جمع بيانات من 81 مريضًا، وأظهرت النتائج أن زيادة درجات Doctors Locus of Control المرتبطة بتحسن كبير في نتائج SNOT-22. تشير النتائج إلى أهمية العلاقة بين المرضى والمزودين في الإدارة السريرية لالتهاب الجيوب الأنفية.",
+      "audio_script_en": "This study discusses the impact of health locus of control on outcomes in patients with chronic rhinosinusitis after sinus surgery. Data from 81 patients was collected, revealing that higher Doctors locus of control scores were associated with significant improvements in SNOT-22 outcomes. The findings emphasize the importance of patient-provider relationships in the clinical management of sinusitis.",
+      "mcq": [
+        {
+          "q_ar": "ما هي النتيجة الرئيسية المرتبطة بزيادة درجات Doctors Locus of Control؟",
+          "q_en": "What is the main outcome associated with higher Doctors locus of control scores?",
+          "options_ar": [
+            "أ) تحسين النتائج بعد الجراحة",
+            "ب) زيادة الأعراض",
+            "ج) ضعف الشفاء",
+            "د) عدم وجود تأثير"
+          ],
+          "options_en": [
+            "A) Improved post-operative outcomes",
+            "B) Increased symptoms",
+            "C) Poorer recovery",
+            "D) No impact"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة أظهرت أن زيادة درجات Doctors Locus of Control مرتبطة بتحسين SNOT-22.",
+          "explanation_en": "The study showed that higher Doctors locus of control scores are associated with improved SNOT-22 outcomes."
+        },
+        {
+          "q_ar": "كم عدد المرضى الذين شاركوا في هذه الدراسة؟",
+          "q_en": "How many patients participated in this study?",
+          "options_ar": [
+            "أ) 50",
+            "ب) 81",
+            "ج) 100",
+            "د) 75"
+          ],
+          "options_en": [
+            "A) 50",
+            "B) 81",
+            "C) 100",
+            "D) 75"
+          ],
+          "answer": 1,
+          "explanation_ar": "عدد المرضى الذين شاركوا هو 81.",
+          "explanation_en": "The number of patients who participated was 81."
+        },
+        {
+          "q_ar": "ما هو التصميم الأساسي للدراسة؟",
+          "q_en": "What is the main study design?",
+          "options_ar": [
+            "أ) تجربة عشوائية",
+            "ب) دراسة قائمة على الملاحظة",
+            "ج) تقرير حالة",
+            "د) ميتا تحليل"
+          ],
+          "options_en": [
+            "A) Randomized trial",
+            "B) Observational study",
+            "C) Case report",
+            "D) Meta-analysis"
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسة هي دراسة قائمة على الملاحظة من نوع Prospective cohort.",
+          "explanation_en": "The study is an observational study of the prospective cohort type."
+        }
+      ]
+    },
+    {
+      "pmid": "41999289",
+      "title_ar": "Amoxicillin-Clavulanate vs Amoxicillin for Acute Sinusitis in Adults.",
+      "title_en": "Amoxicillin-Clavulanate vs Amoxicillin for Acute Sinusitis in Adults.",
+      "journal": "JAMA",
+      "pub_date": "2026-May-19",
+      "doi": "10.1001/jama.2025.26902",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41999289/",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13092118/",
+      "study_design": "Retrospective cohort study n=521244",
+      "summary_ar": "دراسة ملاحظة لمقارنة فشل العلاج والأحداث السلبية بين أموكسيسيلين-كلافولانات وأموكسيسيلين. الدراسة تشمل البالغين من 18 إلى 64 سنة وتمت باستخدام قاعدة بيانات الرعاية الصحية. لم يكن هناك فرق في معدل فشل العلاج بين المجموعتين، بل كان أموكسيسيلين-كلافولانات مرتبط بخطر أعلى نادر للآثار الجانبية. تشير النتائج إلى أن أموكسيسيلين قد يكون العلاج المفضل الأول لل sinusitis غير المعقد.",
+      "summary_en": "This observational study compares treatment failure and adverse events between amoxicillin-clavulanate and amoxicillin. The study includes adults aged 18 to 64 years and utilized a healthcare utilization database. No difference in treatment failure rates was noted between groups, while amoxicillin-clavulanate was associated with a higher, albeit rare, risk of adverse events. The findings suggest standard-dose amoxicillin may be the preferred first-line treatment for uncomplicated acute sinusitis.",
+      "practice_change_ar": "يمكن أن يؤثر هذا البحث على اختيارنا للعلاج الأول لل sinusitis الحاد.",
+      "practice_change_en": "This research may influence our choice of first-line treatment for acute sinusitis.",
+      "future_impact_ar": "توضح النتائج الحاجة إلى مزيد من البحث لتحديد العلاجات الأكثر أمانًا وفاعلية.",
+      "future_impact_en": "The results highlight the need for further research to identify the safest and most effective treatments.",
+      "why_important_ar": "هذه الدراسة تقدم رؤى جديدة حول خيارات العلاج ل sinusitis الحاد.",
+      "why_important_en": "This study provides new insights into treatment options for acute sinusitis.",
+      "vs_previous_ar": "تختلف هذه النتائج عن التوصيات السابقة التي قد تفضل أموكسيسيلين-كلافولانات.",
+      "vs_previous_en": "These findings differ from prior recommendations that may favor amoxicillin-clavulanate.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة ملاحظة كبيرة تقدم بيانات جديدة، يسجل 4 نجوم.",
+      "stars_reason_en": "Large observational study providing new data, earns 4 stars.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This study contains valuable information to guide clinical practice.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة استخدام أموكسيسيلين-كلافولانات لعلاقته بحدوث آثار جانبية.",
+      "watch_detail_en": "Amoxicillin-clavulanate should be monitored for its association with adverse events.",
+      "watch_type": "drug",
+      "research_gap_ar": "تحتاج الدراسات المستقبلية إلى تحديد أفضل العلاجات لل sinusitis الحاد.",
+      "research_gap_en": "Future studies need to identify the best treatments for acute sinusitis.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "هذه دراسة حول أموكسيسيلين-كلافولانات وأموكسيسيلين لعلاج sinusitis الحاد. النتائج تظهر عدم وجود فرق كبير في فشل العلاج بين المجموعتين. في حين أن هناك ارتفاع طفيف في المخاطر النادرة للأحداث السلبية مع أموكسيسيلين-كلافولانات. تربط الدراسة أهمية اختيار أموكسيسيلين كعلاج أول في هذه الحالات. هذه النتائج توضح أن موضوع البحث مهم وتحتاج إلى مزيد من الدراسات في المستقبل.",
+      "audio_script_en": "This is a study comparing amoxicillin-clavulanate with amoxicillin for the treatment of acute sinusitis. The results show no significant difference in treatment failure between the two groups. However, there is a slight increase in the rare risks of adverse events associated with amoxicillin-clavulanate. The study highlights the significance of considering amoxicillin as a first-line treatment in these cases. These findings indicate that the topic is important and warrant further studies in the future.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الدواء الذي قد يُفضل كعلاج أولي ل sinusitis غير المعقد؟",
+          "q_en": "What medication may be preferred as first-line treatment for uncomplicated sinusitis?",
+          "options_ar": [
+            "أ) أموكسيسيلين",
+            "ب) أموكسيسيلين-كلافولانات",
+            "ج) سيفالوسبورين",
+            "د) كلينداميسين"
+          ],
+          "options_en": [
+            "A) Amoxicillin",
+            "B) Amoxicillin-Clavulanate",
+            "C) Cephalosporin",
+            "D) Clindamycin"
+          ],
+          "answer": 0,
+          "explanation_ar": "تشير الدراسة إلى أن أموكسيسيلين قد يكون العلاج المفضل ل sinusitis غير المعقد.",
+          "explanation_en": "The study suggests that Amoxicillin may be the preferred treatment for uncomplicated sinusitis."
+        },
+        {
+          "q_ar": "ما هو خطر الأحداث السلبية المرتبط بأموكسيسيلين-كلافولانات مقارنة بأموكسيسيلين؟",
+          "q_en": "What is the risk of adverse events associated with Amoxicillin-Clavulanate compared to Amoxicillin?",
+          "options_ar": [
+            "أ) أقل",
+            "ب) أكبر",
+            "ج) متساوي",
+            "د) غير معروف"
+          ],
+          "options_en": [
+            "A) Lower",
+            "B) Higher",
+            "C) Equal",
+            "D) Unknown"
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسة وجدت أن أموكسيسيلين-كلافولانات مرتبط بخطر أعلى للإحداث السلبية.",
+          "explanation_en": "The study found that Amoxicillin-Clavulanate is associated with a higher risk of adverse events."
+        },
+        {
+          "q_ar": "ما هي الفئة العمرية التي شملتها الدراسة؟",
+          "q_en": "What age group was included in the study?",
+          "options_ar": [
+            "أ) 0-18 سنة",
+            "ب) 18-64 سنة",
+            "ج) 65 سنة وما فوق",
+            "د) جميع الفئات العمرية"
+          ],
+          "options_en": [
+            "A) 0-18 years",
+            "B) 18-64 years",
+            "C) 65 years and older",
+            "D) All age groups"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم تضمين الأشخاص من سن 18 إلى 64 سنة في الدراسة.",
+          "explanation_en": "Individuals aged 18 to 64 years were included in the study."
+        }
+      ]
+    },
+    {
+      "pmid": "42155119",
+      "title_ar": "Multimodal Novel Recurrent Laryngeal Nerve Monitoring Techniques in Anterior Cervical Spine Surgery: Initial Experience and Proof of Concept.",
+      "title_en": "Multimodal Novel Recurrent Laryngeal Nerve Monitoring Techniques in Anterior Cervical Spine Surgery: Initial Experience and Proof of Concept.",
+      "journal": "The Neurodiagnostic journal",
+      "pub_date": "2026-May-19",
+      "doi": "10.1080/21646821.2026.2668193",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42155119/",
+      "pdf_url": null,
+      "study_design": "Case series n=13",
+      "summary_ar": "تُقيّم هذه الدراسة جدوى سلوك منعكس الشد الحنجري وتسجيلات إمكانات الحركة للوتر الصوتي خلال جراحة العمود الفقري العنقي الأمامي. تم استخدام منعكس الشد الحنجري وإمكانات الحركة للمريضين. أُصدرت تنبيهات منعكس الشد الحنجري عندما كانت الانخفاضات في السعة ذات صلة سريرياً. لوحظت تنبيهات في خمس عمليات جراحية. أظهرت دراسة إثبات المفهوم هذه إمكانية استخدام هذه التقنية في جراحة العمود الفقري العنقي الأمامي.",
+      "summary_en": "This study evaluates the feasibility and intraoperative behavior of laryngeal adductor reflex and motor-evoked potentials with vocalis recordings during anterior cervical spine surgery. Laryngeal adductor reflex alerts were issued for clinically correlated amplitude reductions. Alerts were observed in five surgeries. This proof-of-concept study demonstrates the feasibility of these monitoring techniques during anterior cervical spine surgery.",
+      "practice_change_ar": "تقديم وسيلة جديدة لمراقبة وظيفة العصب الحنجري أثناء جراحة العمود الفقري.",
+      "practice_change_en": "Provides a new method for monitoring recurrent laryngeal nerve function during spine surgery.",
+      "future_impact_ar": "قد تؤدي هذه التقنيات إلى تحسين نتائج المرضى في جراحة العمود الفقري العنقي.",
+      "future_impact_en": "These techniques may lead to improved patient outcomes in cervical spine surgery.",
+      "why_important_ar": "هذا المقال يوفر تقنية جديدة لمراقبة العصب الحنجري أثناء العمليات الجراحية.",
+      "why_important_en": "This article provides a new technique for monitoring the recurrent laryngeal nerve during surgical procedures.",
+      "vs_previous_ar": "يوفر المقال معلومات جديدة مقارنة بالممارسات السابقة في جراحة العمود الفقري.",
+      "vs_previous_en": "The article provides new information compared to previous practices in spine surgery.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة سلسلة حالات بفعالية جديدة، لكنها لا تُعتبر تغييرًا فعليًا في الممارسة.",
+      "stars_reason_en": "Case series evaluating a new technique, but it is not considered practice-changing.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This article discusses a new technique for monitoring the recurrent laryngeal nerve.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة تقنيات المراقبة الجديدة من أجل تحسين النتائج الجراحية.",
+      "watch_detail_en": "Follow new monitoring techniques for potential improvement in surgical outcomes.",
+      "watch_type": "technology",
+      "research_gap_ar": "تفتقر الدراسات السابقة إلى تقييم شامل لتقنيات المراقبة الجديدة.",
+      "research_gap_en": "Previous studies lack comprehensive evaluation of new monitoring techniques.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تناقش هذه الدراسة جدوى استخدام منعكس الشد الحنجري وإمكانات الحركة لتقييم وظيفة العصب الحنجري أثناء جراحة العمود الفقري العنقي. تشمل النتائج إمكانية تقديم تقنيات جديدة لها فوائد سريرية. تم استخدام هذه التقنيات في 13 مريضًا مع ملاحظات حول ارتفاع درجات الحساسية في النتائج. ويوفر المقال طريقة جديدة قد تحسن من نتائج العمليات الجراحية القادمة.",
+      "audio_script_en": "This study discusses the feasibility of using laryngeal adductor reflex and motor-evoked potentials to assess recurrent laryngeal nerve function during cervical spine surgery. The results demonstrate the potential for new techniques with clinical benefits. These techniques were employed in 13 patients with observations on heightened sensitivity regarding outcomes. The article offers a new method that may enhance future surgical results.",
+      "mcq": [
+        {
+          "q_ar": "ما هي التقنية الجديدة المستخدمة في الدراسة؟",
+          "q_en": "What is the new technique used in the study?",
+          "options_ar": [
+            "أ) منعكس الشد الحنجري",
+            "ب) جراحة العمود الفقري",
+            "ج) تصوير بالرنين المغناطيسي",
+            "د) تخدير موضعي"
+          ],
+          "options_en": [
+            "A) Laryngeal adductor reflex",
+            "B) Spine surgery",
+            "C) MRI",
+            "D) Local anesthesia"
+          ],
+          "answer": 0,
+          "explanation_ar": "تم استخدام منعكس الشد الحنجري كمراقبة لوظيفة العصب الحنجري.",
+          "explanation_en": "The laryngeal adductor reflex was used to monitor recurrent laryngeal nerve function."
+        },
+        {
+          "q_ar": "كم عدد المرضى الذين تم استخدام التقنية الجديدة عليهم؟",
+          "q_en": "How many patients was the new technique used on?",
+          "options_ar": [
+            "أ) 5",
+            "ب) 10",
+            "ج) 13",
+            "د) 20"
+          ],
+          "options_en": [
+            "A) 5",
+            "B) 10",
+            "C) 13",
+            "D) 20"
+          ],
+          "answer": 2,
+          "explanation_ar": "تم استخدام التقنية الجديدة على 13 مريضًا في الدراسة.",
+          "explanation_en": "The new technique was used on 13 patients in the study."
+        },
+        {
+          "q_ar": "ما الذي يُعتبر أداءً جيدًا في منعكس الشد الحنجري؟",
+          "q_en": "What is considered a good performance in the laryngeal adductor reflex?",
+          "options_ar": [
+            "أ) انخفاض سعة أقل من 20%",
+            "ب) انخفاض سعة 20% أو أكثر",
+            "ج) عدم وجود تغيير",
+            "د) ارتفاع سعة"
+          ],
+          "options_en": [
+            "A) Amplitude decrease less than 20%",
+            "B) Amplitude decrease of 20% or more",
+            "C) No change",
+            "D) Amplitude increase"
+          ],
+          "answer": 2,
+          "explanation_ar": "منعكس الشد الحنجري يُعتبر جيدًا عندما لا يحدث تغيير.",
+          "explanation_en": "The laryngeal adductor reflex is considered good when there is no change."
+        }
+      ]
+    },
+    {
+      "pmid": "42156226",
+      "title_ar": "Protocol for a prospective single-arm feasibility study of suzetrigine for postoperative pain management in outpatient facial plastic surgery.",
+      "title_en": "Protocol for a prospective single-arm feasibility study of suzetrigine for postoperative pain management in outpatient facial plastic surgery.",
+      "journal": "Pain management",
+      "pub_date": "2026-May-19",
+      "doi": "10.1080/17581869.2026.2676101",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42156226/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort",
+      "summary_ar": "تهدف هذه الدراسة إلى تقييم الجدوى لاستخدام Suzetrigine كمسكن غير أفيوني بعد جراحة تجميل الوجه. يتضمن التصميم دراسة مستقبلية ذات ذراع واحدة للبالغين الذين يخضعون لعمليات جراحية تجميلية خارج المستشفى. الأنماط الأساسية للجدوى تشمل معدل التجنيد، الالتزام بالعلاج، والامتثال لتقارير الألم بعد العملية. النتائج السريرية الاستكشافية تشمل استخدام المواد الأفيونية، شدة الألم، التعافي الوظيفي، رضا المرضى، وحالات الآثار الجانبية. النتائج ستساعد في تصميم تجارب مستقبلية لتقليل استخدام المواد الأفيونية في جراحة الوجه.",
+      "summary_en": "This study aims to evaluate the feasibility of using Suzetrigine as a non-opioid analgesic after facial plastic surgery. It incorporates a prospective single-arm design involving adults undergoing outpatient facial surgical procedures. Primary feasibility outcomes include recruitment rate, treatment adherence, and compliance with postoperative pain reporting. Exploratory clinical outcomes involve opioid utilization, pain intensity, functional recovery, patient satisfaction, and adverse event incidence. Findings will aid in designing future trials aimed at opioid-sparing strategies in facial surgery.",
+      "practice_change_ar": "يمكن أن يسهم Suzetrigine في تقليل الاعتماد على المواد الأفيونية بعد عمليات جراحة الوجه.",
+      "practice_change_en": "Suzetrigine may contribute to reducing reliance on opioids after facial surgery.",
+      "future_impact_ar": "يمكن أن تؤدي النتائج إلى استراتيجية جديدة في إدارة الألم بعد العمليات الجراحية.",
+      "future_impact_en": "The findings could lead to a new strategy in pain management post-surgery.",
+      "why_important_ar": "تسليط الضوء على بدائل المواد الأفيونية يمكن أن يغير طريقة إدارة الألم بعد جراحة التجميل.",
+      "why_important_en": "Highlighting opioid alternatives could change pain management in cosmetic surgery.",
+      "vs_previous_ar": "تقدم الدراسة نهجًا جديدًا في تخفيف الألم غير المتاح حاليًا في جراحة التجميل.",
+      "vs_previous_en": "The study presents a new approach to pain relief that is not currently available in plastic surgery.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة مستقبلية جيدة النية تدرس استخدام مسكن جديد، مما يمنحها تقييمًا مرتفعًا.",
+      "stars_reason_en": "A well-intentioned prospective study evaluating a new analgesic, resulting in a high rating.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study presents a novel idea in postoperative pain management.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة Suzetrigine لكونه مسكنًا جديدًا يمكن أن يقلل من استخدام الأفيونيات.",
+      "watch_detail_en": "Suzetrigine should be monitored as a new analgesic that may reduce opioid use.",
+      "watch_type": "drug",
+      "research_gap_ar": "تفتقر الأدبيات الحالية إلى دراسات حول فعالية Suzetrigine في جراحة التجميل.",
+      "research_gap_en": "Current literature lacks studies on the efficacy of Suzetrigine in plastic surgery.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "سنتحدث اليوم عن دراسة جديدة تبحث في استخدام Suzetrigine كبديل عن الأفيونيات في إدارة الألم بعد الجراحة التجميلية. هذه دراسة مستقبلية ذات ذراع واحدة تهدف إلى تقييم الجدوى وتضمين مقاييس جدوى مثل معدل التجنيد والامتثال. ما يميز هذه الدراسة هو أنها تقدم بيانات أولية يمكن أن تؤثر على تصميم التجارب المستقبلية في هذا المجال الهام. النتائج المتوقعة قد تغير طريقة تقديم الرعاية للمرضى الذين يخضعون لجراحة تجميل الوجه.",
+      "audio_script_en": "Today we discuss a new study exploring the use of Suzetrigine as an alternative to opioids in postoperative pain management for cosmetic surgery. This is a prospective single-arm study aiming to assess the feasibility, including feasibility metrics like recruitment rates and compliance. What sets this study apart is its provision of preliminary data which could influence the design of future trials in this important field. The expected findings could change how care is delivered to patients undergoing facial plastic surgery.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف من الدراسة؟",
+          "q_en": "What is the goal of the study?",
+          "options_ar": [
+            "أ) تقييم الجدوى لاستخدام Suzetrigine",
+            "ب) مقارنة الأفيونيات مع مسكنات أخرى",
+            "ج) دراسة آثار المواد الأفيونية",
+            "د) تقييم تجارب المرضى فقط"
+          ],
+          "options_en": [
+            "A) To assess the feasibility of using Suzetrigine",
+            "B) To compare opioids with other analgesics",
+            "C) To study the effects of opioids",
+            "D) To only evaluate patient experiences"
+          ],
+          "answer": 0,
+          "explanation_ar": "تهدف الدراسة إلى تقييم استخدام Suzetrigine كمسكن بديل للأفيونيات.",
+          "explanation_en": "The study aims to evaluate the use of Suzetrigine as an alternative analgesic to opioids."
+        },
+        {
+          "q_ar": "ما هي النتائج الأساسية التي سيتم تقييمها؟",
+          "q_en": "What are the primary outcomes to be assessed?",
+          "options_ar": [
+            "أ) معدل التجنيد والامتثال",
+            "ب) رضا المرضى فقط",
+            "ج) شدة الألم فقط",
+            "د) الآثار الجانبية فقط"
+          ],
+          "options_en": [
+            "A) Recruitment rate and compliance",
+            "B) Patient satisfaction only",
+            "C) Pain intensity only",
+            "D) Adverse events only"
+          ],
+          "answer": 0,
+          "explanation_ar": "تشمل النتائج الأساسية معدل التجنيد والامتثال بالإضافة إلى تقارير الألم بعد العملية.",
+          "explanation_en": "Primary outcomes include the recruitment rate and compliance, as well as pain reports post-operation."
+        },
+        {
+          "q_ar": "لماذا تعتبر الدراسة مهمة؟",
+          "q_en": "Why is the study important?",
+          "options_ar": [
+            "أ) لأنها تقدم بديلًا للأفيونيات",
+            "ب) لأنها تؤكد على استخدام الأفيونيات",
+            "ج) لأنها غير مرتبطة بالجراحة التجميلية",
+            "د) لأنها تدرس دواء قديم"
+          ],
+          "options_en": [
+            "A) Because it offers an opioid alternative",
+            "B) Because it reinforces the use of opioids",
+            "C) Because it is unrelated to plastic surgery",
+            "D) Because it studies an old medication"
+          ],
+          "answer": 0,
+          "explanation_ar": "تقدم الدراسة بديلًا للأفيونيات في إدارة الألم بعد الجراحة التجميلية، مما يجعله مهمًا.",
+          "explanation_en": "The study presents an opioid alternative in pain management post-cosmetic surgery, making it important."
+        }
+      ]
+    },
+    {
+      "pmid": "42159472",
+      "title_ar": "Independent and Opposing Effects of Radiological Disease Burden and Type 2 Inflammation on Nasal Nitric Oxide in Chronic Rhinosinusitis.",
+      "title_en": "Independent and Opposing Effects of Radiological Disease Burden and Type 2 Inflammation on Nasal Nitric Oxide in Chronic Rhinosinusitis.",
+      "journal": "American journal of rhinology & allergy",
+      "pub_date": "2026-May-20",
+      "doi": "10.1177/19458924261451038",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42159472/",
+      "pdf_url": null,
+      "study_design": "Retrospective cohort n=169",
+      "summary_ar": "في التهاب الأنف المزمن (CRS)، تتأثر مستويات أكسيد النيتريك الأنفي (nNO) بعبء المرض الإشعاعي والالتهاب من النوع 2 (T2). الدراسة تهدف إلى قياس تأثير العبء الإشعاعي (Lund-Mackay [LMK] score) على nNO. تم تسجيل 169 مريض مصاب بـ CRS وخضعوا لجراحة الجيوب الأنفية. تبين أن زيادة واحدة في درجة LMK ترتبط بانخفاض بنسبة 8.8% في nNO، بينما ترتبط نوعية T2-High/High بزيادة قدرها 86.9% في nNO. يمثل هذا البحث تكاملاً بين التهاب الأنف وعبء المرض، مما يساعد في تصنيف وعلاج CRS.",
+      "summary_en": "In chronic rhinosinusitis (CRS), nasal nitric oxide (nNO) levels are influenced by radiological disease burden and type 2 (T2) inflammation. The study aims to measure the impact of this radiological burden (Lund-Mackay [LMK] score) on nNO. A total of 169 CRS patients undergoing sinus surgery were enrolled. Each one-point increase in LMK score was associated with an 8.8% decrease in nNO, while the T2-High/High phenotype was associated with an 86.9% increase in nNO. This research represents a composite between nasal inflammation and disease burden, contributing to CRS phenotyping and treatment.",
+      "practice_change_ar": "يمكن استخدام أكسيد النيتريك الأنفي في تصنيف وعلاج CRS.",
+      "practice_change_en": "Nasal nitric oxide can be utilized for CRS phenotyping and treatment.",
+      "future_impact_ar": "قد تؤدي هذه النتائج إلى تحسين إدارة المرضى المصابين بـ CRS.",
+      "future_impact_en": "These findings may lead to improved management of patients with CRS.",
+      "why_important_ar": "تظهر الدراسة تأثيرات مستقلة ومتناقضة للمرض الإشعاعي والالتهاب من النوع 2 على nNO.",
+      "why_important_en": "The study highlights the independent and opposing effects of radiological disease burden and type 2 inflammation on nNO.",
+      "vs_previous_ar": "يختلف هذا البحث عن المعرفة السابقة بتقديم تأثيرات مستقلة لكل من العبء الإشعاعي والالتهاب T2.",
+      "vs_previous_en": "This research differs from previous knowledge by presenting the independent effects of radiological burden and T2 inflammation.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استقرائية مع n=169، تقدم معلومات جديدة عن تأثيرات مستقلة ومتناقضة.",
+      "stars_reason_en": "Retrospective cohort study with n=169 providing new insights on independent and opposing effects.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Provides new insights into the effects of chronic rhinosinusitis.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "لا توجد دراسات سابقة قدمت هذا النوع من التقييم.",
+      "research_gap_en": "No previous studies have provided this type of assessment.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تتناول هذه الدراسة تأثيرات مستقلة ومتناقضة للعبء الإشعاعي والالتهاب من النوع 2 على مستويات أكسيد النيتريك الأنفي في المرضى المصابين بالتهاب الأنف المزمن. تشمل الدراسة 169 مريضًا خضعوا لجراحة الجيوب الأنفية. النتائج تبين أن زيادة واحدة في درجة LMK ترتبط بانخفاضٍ في nNO، بينما ارتفاع نوعية T2-High/High يرتبط بزيادةٍ كبيرة في النNO. تساعد هذه النتائج في فهم أفضل لتصنيف وعلاج CRS.",
+      "audio_script_en": "This study addresses the independent and opposing effects of radiological disease burden and type 2 inflammation on nasal nitric oxide levels in patients with chronic rhinosinusitis. The study includes 169 patients undergoing sinus surgery. The results show that each one-point increase in LMK score is associated with a decrease in nNO, while the high T2 phenotype is significantly associated with an increase in nNO. These findings aid in better understanding the phenotyping and treatment of CRS.",
+      "mcq": [
+        {
+          "q_ar": "ما العلاقة بين درجة LMK ومستويات nNO؟",
+          "q_en": "What is the relationship between LMK score and nNO levels?",
+          "options_ar": [
+            "أ) تزداد nNO مع زيادة LMK",
+            "ب) تنخفض nNO مع زيادة LMK",
+            "ج) لا توجد علاقة",
+            "د) تزداد nNO فقط في حالات معينة"
+          ],
+          "options_en": [
+            "A) nNO increases with increasing LMK",
+            "B) nNO decreases with increasing LMK",
+            "C) No relationship",
+            "D) nNO only increases in certain cases"
+          ],
+          "answer": 1,
+          "explanation_ar": "كل زيادة نقطة في درجة LMK ترتبط بانخفاض بنسبة 8.8% في nNO.",
+          "explanation_en": "Each one-point increase in LMK score is associated with an 8.8% decrease in nNO."
+        },
+        {
+          "q_ar": "كيف يؤثر نوع T2-High/High على مستويات nNO؟",
+          "q_en": "How does the T2-High/High phenotype affect nNO levels?",
+          "options_ar": [
+            "أ) يقلل من nNO",
+            "ب) لا يؤثر على nNO",
+            "ج) يزيد nNO بنسبة 86.9%",
+            "د) لا يوجد دليل"
+          ],
+          "options_en": [
+            "A) Decreases nNO",
+            "B) No effect on nNO",
+            "C) Increases nNO by 86.9%",
+            "D) No evidence"
+          ],
+          "answer": 2,
+          "explanation_ar": "يوجد ارتباط إيجابي كبير بين T2-High/High وزيادة nNO.",
+          "explanation_en": "There is a significant positive association between T2-High/High and nNO increase."
+        },
+        {
+          "q_ar": "ما الأهمية السريرية لهذه الدراسة؟",
+          "q_en": "What is the clinical significance of this study?",
+          "options_ar": [
+            "أ) لا يغير الممارسة السريرية",
+            "ب) يوفر معلومات جديدة عن CRS",
+            "ج) يعزز الالتهابات",
+            "د) لا توجد أهمية"
+          ],
+          "options_en": [
+            "A) Does not change clinical practice",
+            "B) Provides new insights on CRS",
+            "C) Enhances inflammation",
+            "D) No significance"
+          ],
+          "answer": 1,
+          "explanation_ar": "تقدم هذه الدراسة معلومات جديدة عن تأثيرات العبء الإشعاعي والالتهاب على النNO، مما قد يساعد في تحسين العلاج.",
+          "explanation_en": "This study provides new insights on the effects of disease burden and inflammation on nNO, which may help improve treatment."
+        }
+      ]
+    },
+    {
+      "pmid": "42153360",
+      "title_ar": "CTSS as a novel biomarker for tissue remodeling in CRSwNP: insights from multi-omics research.",
+      "title_en": "CTSS as a novel biomarker for tissue remodeling in CRSwNP: insights from multi-omics research.",
+      "journal": "Rhinology",
+      "pub_date": "2026-May-19",
+      "doi": "10.4193/Rhin25.504",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42153360/",
+      "pdf_url": null,
+      "study_design": "Mendelian randomization analysis with validation through RNA sequencing and histology",
+      "summary_ar": "الدراسة تهدف إلى تحديد أهداف وعلامات حيوية جديدة لـ CRSwNP من خلال تحليل الارتباط الجيني. وجد الباحثون أن CTSS مرتبط بشكل سببي مع خطر وجود الزوائد الأنفية. تم تأكيد ارتفاع تعبير CTSS في أنسجة الزوائد الأنفية من خلال تقنيات التصوير المناعي. يُظهر تحليل البيانات أحادية الخلية أن CTSS يعبر بشكل رئيسي في وحيدات الدم/البلاعم، مع زيادة التعبير في CRSwNP. تعتبر CTSS علامة حيوية جديدة لـ CRSwNP وقد تساهم في التجديد النسيجي.",
+      "summary_en": "The study aims to identify novel targets and biomarkers for CRSwNP through genetic association analysis. Researchers found that CTSS is causally linked to the risk of nasal polyps. Increased expression of CTSS in nasal polyp tissues was confirmed using immunohistochemical techniques. Single-cell data showed CTSS mainly expresses in monocytes/macrophages, with higher expression in CRSwNP. CTSS is considered a new biomarker for CRSwNP and may contribute to tissue remodeling.",
+      "practice_change_ar": "يمكن أن تغير النتائج كيفية تشخيص وعلاج CRSwNP.",
+      "practice_change_en": "The findings may change how CRSwNP is diagnosed and treated.",
+      "future_impact_ar": "CTSS قد يؤدي إلى تطوير استراتيجيات علاجية جديدة لـ CRSwNP.",
+      "future_impact_en": "CTSS may lead to the development of new therapeutic strategies for CRSwNP.",
+      "why_important_ar": "هذا المقال مهم لأنه يحدد علامة حيوية جديدة ترتبط بـ CRSwNP مما قد يحسن رعاية المرضى.",
+      "why_important_en": "This article is important as it identifies a novel biomarker associated with CRSwNP that may improve patient care.",
+      "vs_previous_ar": "تختلف هذه النتائج عن المعرفة السابقة من خلال تقديم CTSS كعلامة حيوية جديدة لـ CRSwNP.",
+      "vs_previous_en": "These findings differ from previous knowledge by presenting CTSS as a new biomarker for CRSwNP.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة RCT قوية مع نتائج جديدة عن CTSS كعلامة حيوية.",
+      "stars_reason_en": "Strong study design with novel findings on CTSS as a biomarker.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Introduction of a novel biomarker for CRSwNP.",
+      "watch": true,
+      "watch_detail_ar": "راقب CTSS كعلامة حيوية جديدة في CRSwNP.",
+      "watch_detail_en": "Monitor CTSS as a new biomarker in CRSwNP.",
+      "watch_type": "technology",
+      "research_gap_ar": "يجب دراسة دور CTSS بشكل أكبر في مسار CRSwNP.",
+      "research_gap_en": "Further investigation is needed on the role of CTSS in CRSwNP progression.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تتناول هذه الدراسة دور CTSS كعلامة حيوية جديدة في CRSwNP. قام الباحثون باستخدام تحليل الارتباط الجيني لتحديد أهداف جديدة ووجدوا أن CTSS مرتبط بشكل سببي مع خطر وجود الزوائد الأنفية. تم تأكيد ارتفاع تعبير CTSS في الأنسجة، وأظهر التحليل أحادي الخلية أن CTSS موجود بشكل رئيسي في وحيدات الدم. النتائج تمثل تقدمًا ملحوظًا في الفهم والعلاج المحتمل لـ CRSwNP.",
+      "audio_script_en": "This study addresses the role of CTSS as a novel biomarker in CRSwNP. Researchers used genetic association analysis to identify new targets and found that CTSS is causally linked to the risk of nasal polyps. Increased expression of CTSS in tissues was confirmed, and single-cell analysis showed CTSS primarily exists in monocytes. The findings represent a significant advancement in understanding and potential treatment for CRSwNP.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف الرئيسي للدراسة؟",
+          "q_en": "What is the main objective of the study?",
+          "options_ar": [
+            "أ) تحديد علامات حيوية جديدة لـ CRSwNP",
+            "ب) دراسة تأثيرات العلاج الدوائي",
+            "ج) تحليل العلاقات العائلية للأمراض",
+            "د) تطوير تقنيات جديدة للجراحة"
+          ],
+          "options_en": [
+            "A) Identify new biomarkers for CRSwNP",
+            "B) Study the effects of drug therapy",
+            "C) Analyze familial relationships of diseases",
+            "D) Develop new surgical techniques"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة تهدف إلى تحديد علامات حيوية جديدة لـ CRSwNP.",
+          "explanation_en": "The study aims to identify new biomarkers for CRSwNP."
+        },
+        {
+          "q_ar": "ما هي العلامة الحيوية الجديدة التي تم تحديدها؟",
+          "q_en": "What is the new biomarker identified?",
+          "options_ar": [
+            "أ) CTSS",
+            "ب) IL-4",
+            "ج) TNF-alpha",
+            "د) IgE"
+          ],
+          "options_en": [
+            "A) CTSS",
+            "B) IL-4",
+            "C) TNF-alpha",
+            "D) IgE"
+          ],
+          "answer": 0,
+          "explanation_ar": "CTSS هي العلامة الحيوية الجديدة المحددة في الدراسة.",
+          "explanation_en": "CTSS is the new biomarker identified in the study."
+        },
+        {
+          "q_ar": "ما هو التصميم الأساسي للدراسة؟",
+          "q_en": "What is the base design of the study?",
+          "options_ar": [
+            "أ) دراسة RCT",
+            "ب) تحليل الارتباط الجيني",
+            "ج) دراسة ميتا",
+            "د) دراسة حالة"
+          ],
+          "options_en": [
+            "A) RCT study",
+            "B) Genetic association analysis",
+            "C) Meta-analysis",
+            "D) Case study"
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسة استخدمت تحليل الارتباط الجيني كنموذج أساسي.",
+          "explanation_en": "The study used genetic association analysis as the base design."
+        }
+      ]
+    },
+    {
+      "pmid": "42153774",
+      "title_ar": "Modeling Health Effects of Alternative Treatment Options during Surgical Delay to Inform Prioritization of Surgical Care.",
+      "title_en": "Modeling Health Effects of Alternative Treatment Options during Surgical Delay to Inform Prioritization of Surgical Care.",
+      "journal": "Medical decision making : an international journal of the Society for Medical Decision Making",
+      "pub_date": "2026-May-19",
+      "doi": "10.1177/0272989X261445466",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42153774/",
+      "pdf_url": "https://doi.org/10.1177/0272989x261445466",
+      "study_design": "Decision model analysis",
+      "summary_ar": "تقدر هذه الدراسة تأثيرات الصحة من خلال استبدال العمليات الجراحية بخيارات العلاج البديلة خلال فترات الانتظار في نظام الرعاية الصحية الهولندي. استخدم الباحثون نموذج اتخاذ القرار لتقدير سنوات الحياة المعدلة بالعجز (DALYs) المرتبطة بالعلاج البديل. تم تقييم 23 مجموعة مختلفة من 'مرض-جراحة-علاج بديل'. أظهرت النتائج أن استبدال زراعة جهاز تنظيم القلب بالعلاج الطبي الأمثل نتج عنه أكبر خسارة صحية. يسهل البحث المقارنة بين خيارات العلاج المختلفة لمساعدة أصحاب المصلحة في الرعاية الصحية.",
+      "summary_en": "This study estimates the health effects of temporarily substituting surgeries with alternative treatments during waiting periods in the Dutch healthcare system. Researchers used a decision model to estimate disability-adjusted life-years (DALYs) associated with alternative treatments. A total of 23 'disease-surgery-alternative treatment' combinations were evaluated. Results indicated that substituting immediate pacemaker implantation with optimal medical therapy led to the largest health loss. The study facilitates the comparison between different treatment options to aid healthcare stakeholders.",
+      "practice_change_ar": "قد يساعد هذا البحث في تحديد أولويات الجراحة بناءً على التأثيرات الصحية.",
+      "practice_change_en": "This research may aid in prioritizing surgeries based on health impacts.",
+      "future_impact_ar": "يمكن أن يسهم البحث في تطوير استراتيجيات أكثر فعالية لإدارة جراحة المرضى.",
+      "future_impact_en": "The research could contribute to developing more effective strategies for managing patient surgeries.",
+      "why_important_ar": "تساهم هذه الدراسة في تعزيز النقاشات القائمة على الأدلة حول أولويات الرعاية الجراحية.",
+      "why_important_en": "This study contributes to evidence-based discussions on surgical care prioritization.",
+      "vs_previous_ar": "تقدم الدراسة نموذجاً جديداً لفهم تأثيرات البدائل العلاجية مقارنة بالجراحة.",
+      "vs_previous_en": "The study presents a novel model for understanding the impacts of treatment alternatives compared to surgery.",
+      "stars": 4,
+      "stars_reason_ar": "استناداً إلى تصميم نموذج القرار ونتائجه المهمة في تحديد أولويات العلاج، تم منح 4 نجوم.",
+      "stars_reason_en": "Based on the decision model design and its important findings in prioritizing care, it received 4 stars.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study provides valuable insights on managing treatment alternatives.",
+      "watch": true,
+      "watch_detail_ar": "راقب تقنيات العلاج البديلة التي يمكن أن تغير طريقة تقديم الرعاية الجراحية.",
+      "watch_detail_en": "Watch alternative treatment techniques that could change surgical care delivery.",
+      "watch_type": "technology",
+      "research_gap_ar": "توجد حاجة لمزيد من الأبحاث حول تأثيرات الخيارات العلاجية البديلة في السياقات السريرية.",
+      "research_gap_en": "There is a need for more research on the impacts of alternative treatment options in clinical settings.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "تشير هذه الدراسة إلى تأثيرات استبدال الجراحة بخيارات علاج بديلة، كما تتعلق بالنموذج المستخدم لتقدير سنوات الحياة المعدلة بالعجز. تم تقييم 23 مجموعة من التداخلات العلاجية المختلفة، مما أظهر أن بعض البدائل أدت إلى خسائر صحية أكبر. من المهم تسليط الضوء على كيف يمكن أن تسهم هذه الدراسة في نقاشات أولويات الرعاية الجراحية.",
+      "audio_script_en": "This study highlights the impacts of substituting surgery with alternative treatment options, and the model used to estimate disability-adjusted life years (DALYs). A total of 23 different treatment combinations were evaluated, revealing that some alternatives led to greater health loss. It is important to note how this study may contribute to discussions on surgical care prioritization.",
+      "mcq": [
+        {
+          "q_ar": "ما الغرض من الدراسة؟",
+          "q_en": "What is the purpose of the study?",
+          "options_ar": [
+            "أ) تقييم تأثيرات البدائل العلاجية",
+            "ب) مقارنة تقنيات جراحية جديدة",
+            "ج) دراسة الأدوية الجديدة",
+            "د) بحث حول الأمراض النادرة"
+          ],
+          "options_en": [
+            "A) Assess the impacts of treatment alternatives",
+            "B) Compare new surgical techniques",
+            "C) Study new medications",
+            "D) Research on rare diseases"
+          ],
+          "answer": 0,
+          "explanation_ar": "تهدف الدراسة إلى تقدير تأثيرات المرضى بسبب تأخير العمليات.",
+          "explanation_en": "The study aims to estimate patient impacts due to surgical delays."
+        },
+        {
+          "q_ar": "ما هي النتائج الرئيسية لهذه الدراسة؟",
+          "q_en": "What are the main findings of this study?",
+          "options_ar": [
+            "أ) البدائل العلاجية لها تأثيرات ضئيلة",
+            "ب) استبدال زراعة جهاز تنظيم القلب له تأثير كبير",
+            "ج) كل الخيارات العلاجية متساوية",
+            "د) أثر العلاج التحفظي أفضل من الجراحة"
+          ],
+          "options_en": [
+            "A) Treatment alternatives have minimal effects",
+            "B) Substituting pacemaker implantation has significant impact",
+            "C) All treatment options are equal",
+            "D) Conservative treatment is better than surgery"
+          ],
+          "answer": 1,
+          "explanation_ar": "بينت الدراسة أن استبدال زراعة جهاز تنظيم القلب كان له أكبر تأثير على الصحة.",
+          "explanation_en": "The study showed that substituting pacemaker implantation had the greatest health impact."
+        },
+        {
+          "q_ar": "لماذا تعتبر هذه الدراسة مهمة في الرعاية الصحية؟",
+          "q_en": "Why is this study important in healthcare?",
+          "options_ar": [
+            "أ) تقدم رؤى جديدة لإدارة الرعاية الجراحية",
+            "ب) تؤكد معلومات معروفة",
+            "ج) تنويع خيارات العلاج",
+            "د) لا تساهم في تحسين الرعاية"
+          ],
+          "options_en": [
+            "A) Provides new insights for surgical care management",
+            "B) Confirms known information",
+            "C) Diversifies treatment options",
+            "D) Does not contribute to improving care"
+          ],
+          "answer": 0,
+          "explanation_ar": "تساهم الدراسة في تحسين استراتيجيات إدارة الرعاية الجراحية.",
+          "explanation_en": "The study contributes to improving strategies for managing surgical care."
+        }
+      ]
+    },
+    {
+      "pmid": "42153790",
+      "title_ar": "Association of Depression in Patients With Chronic Rhinosinusitis Comorbid Asthma and Allergic Rhinitis: A Cross-Sectional Study With the All of Us Research Database.",
+      "title_en": "Association of Depression in Patients With Chronic Rhinosinusitis Comorbid Asthma and Allergic Rhinitis: A Cross-Sectional Study With the All of Us Research Database.",
+      "journal": "American journal of rhinology & allergy",
+      "pub_date": "2026-May-19",
+      "doi": "10.1177/19458924261448266",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42153790/",
+      "pdf_url": null,
+      "study_design": "Cross-sectional analysis",
+      "summary_ar": "تستكشف هذه الدراسة العلاقة بين الاكتئاب ومرض التهاب الجيوب الأنفية المزمن (CRS) المصحوب بالربو والتهاب الأنف التحسسي (AR). توضح النتائج أن مرضى CRS كانوا أكثر عرضة للإصابة بالربو (32.8% مقابل 12.2%) وAR (52.1% مقابل 13.1%) والاكتئاب (41.7% مقابل 20.4%). تم استخدام نماذج خطية عامة لحساب نسب الأرجحية المعدلة، حيث أظهرت النتائج أن اكتساب الاكتئاب كان مرتفعًا بين مرضى CRS والربو أو AR. كما يشير انخفاض الحالة الاجتماعية والاقتصادية إلى زيادة خطر الاكتئاب.",
+      "summary_en": "This study explores the relationship between depression and chronic rhinosinusitis (CRS) comorbid with asthma and allergic rhinitis (AR). Results show that CRS patients were more likely to have asthma (32.8% vs 12.2%), AR (52.1% vs 13.1%), and depression (41.7% vs 20.4%). Generalized linear models were used to calculate adjusted odds ratios, revealing higher prevalence of depression among CRS patients with asthma or AR. Additionally, low socioeconomic status was associated with increased depression risk.",
+      "practice_change_ar": "ينبغي أن يتضمن علاج CRS تقييم العوامل النفسية مثل الاكتئاب بشكل أفضل.",
+      "practice_change_en": "Management of CRS should include better assessment of psychological factors such as depression.",
+      "future_impact_ar": "ستهتم الدراسات المستقبلية بتقييم العوامل الاجتماعية والاقتصادية وتأثيرها على إشراف مرضى CRS.",
+      "future_impact_en": "Future studies will examine the impact of socioeconomic factors on the management of CRS patients.",
+      "why_important_ar": "تظهر هذه الدراسة تأثيرًا كبيرًا للأمراض المصاحبة على الصحة النفسية في مرضى CRS.",
+      "why_important_en": "This study demonstrates the significant impact of comorbid conditions on mental health in CRS patients.",
+      "vs_previous_ar": "تقدم هذه الدراسة رؤى جديدة حول كيفية تأثير الربو وAR على الاكتئاب لدى مرضى CRS.",
+      "vs_previous_en": "This study offers new insights into how asthma and AR influence depression in CRS patients.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة مقطعية كبيرة تقدم معلومات جديدة عن العلاقة بين الأمراض المصاحبة والاكتئاب، مما يمنحها تصنيفًا جيدًا.",
+      "stars_reason_en": "Large cross-sectional study provides new information on the relationship between comorbidities and depression, warranting a good rating.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This study provides valuable insights that enhance understanding of comorbidities in CRS patients.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج الدراسات المستقبلية إلى استكشاف تأثير العوامل الاجتماعية والاقتصادية بشكل أعمق.",
+      "research_gap_en": "Future studies need to explore the impact of socioeconomic factors more deeply.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تتناول هذه الدراسة العلاقة بين الاكتئاب ومرض الالتهاب المزمن للجيوب الأنفية. النتائج توضح أن مرضى CRS أكثر عرضة للإصابة بالربو والتهاب الأنف التحسسي، مما يزيد من احتمالات الاكتئاب. كما تم التأكيد على تأثير الحالة الاجتماعية والاقتصادية. هذا يعني أن العلاج يجب أن يشمل تقييم عوامل الاكتئاب بشكل أفضل. تقدم هذه الدراسة معلومات جديدة تضيف إلى الفهم الحالي حول صحة المرضى.",
+      "audio_script_en": "This study addresses the relationship between depression and chronic rhinosinusitis. The results show that CRS patients are more likely to have asthma and allergic rhinitis, increasing the odds of depression. The impact of socioeconomic status was also emphasized. This means that management should include better assessment of depression factors. This study provides new information that adds to the current understanding of patient health.",
+      "mcq": [
+        {
+          "q_ar": "ما هي النسبة المئوية لمرضى CRS الذين يعانون من الاكتئاب؟",
+          "q_en": "What is the percentage of CRS patients who suffer from depression?",
+          "options_ar": [
+            "أ) 32.8%",
+            "ب) 41.7%",
+            "ج) 20.4%",
+            "د) 52.1%"
+          ],
+          "options_en": [
+            "A) 32.8%",
+            "B) 41.7%",
+            "C) 20.4%",
+            "D) 52.1%"
+          ],
+          "answer": 1,
+          "explanation_ar": "41.7% من مرضى CRS يعانون من الاكتئاب، مما يشير إلى وجود ارتباط كبير.",
+          "explanation_en": "41.7% of CRS patients suffer from depression, indicating a significant association."
+        },
+        {
+          "q_ar": "ما هو تأثير الحالة الاجتماعية والاقتصادية (SES) على الاكتئاب بين مرضى CRS؟",
+          "q_en": "What is the impact of socioeconomic status (SES) on depression among CRS patients?",
+          "options_ar": [
+            "أ) لا يؤثر",
+            "ب) يقلل من فرص الاكتئاب",
+            "ج) يزيد من احتمالات الاكتئاب",
+            "د) لا علاقة له"
+          ],
+          "options_en": [
+            "A) No effect",
+            "B) Reduces chances of depression",
+            "C) Increases chances of depression",
+            "D) No relation"
+          ],
+          "answer": 2,
+          "explanation_ar": "أظهرت الدراسة أن انخفاض SES يزيد من احتمالات الاكتئاب، مع نسب أرجحية تتراوح بين 2.70 و2.90.",
+          "explanation_en": "The study showed that low SES increases chances of depression, with odds ratios ranging from 2.70 to 2.90."
+        },
+        {
+          "q_ar": "ما هي العلاقة بين الربو وAR والاكتئاب في مرضى CRS؟",
+          "q_en": "What is the relationship between asthma, AR, and depression in CRS patients?",
+          "options_ar": [
+            "أ) لا علاقة",
+            "ب) علاقة سلبية",
+            "ج) علاقة إيجابية",
+            "د) علاقة غير معروفة"
+          ],
+          "options_en": [
+            "A) No relationship",
+            "B) Negative relationship",
+            "C) Positive relationship",
+            "D) Unknown relationship"
+          ],
+          "answer": 2,
+          "explanation_ar": "هناك علاقة إيجابية بين الربو وAR والاكتئاب، حيث تزيد هذه الحالات من فرص الاكتئاب.",
+          "explanation_en": "There is a positive relationship between asthma, AR, and depression, as these conditions increase the likelihood of depression."
+        }
+      ]
+    },
+    {
+      "pmid": "42135050",
+      "title_ar": "[Prediction of recurrence-free survival of T1 glottic carcinoma based on enhanced CT anterior commissure invasion and tumor volume]",
+      "title_en": "[Prediction of recurrence-free survival of T1 glottic carcinoma based on enhanced CT anterior commissure invasion and tumor volume]",
+      "journal": "Zhonghua yi xue za zhi",
+      "pub_date": "2026-May-19",
+      "doi": "10.3760/cma.j.cn112137-20260120-00239",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42135050/",
+      "pdf_url": null,
+      "study_design": "Retrospective series n=147",
+      "summary_ar": "تسعى هذه الدراسة إلى التحقيق في قيمة التنبؤ بالانتكاسة بناءً على ميزات الشكل الناتجة عن غزو المفصل الأمامي وحجم الورم لدى المرضى المصابين بسرطان الحنجرة من المرحلة T1 بعد جراحة الحفاظ على الحنجرة. تم تحليل بيانات 147 مريضًا، حيث أظهرت النتائج أن غزو المفصل الأمامي مع حجم ورم أكبر من 118.55 مم مكعب يعد عامل خطر للانتكاسة. أظهرت نماذج الميزات الشكلية قوة تنبؤية أعلى مقارنةً بنظام التصنيف AJCC-T1. تشير النتائج إلى أهمية الميزات الشكلية في تقييم بقاء المرضى بعد الجراحة.",
+      "summary_en": "This study investigates the predictive value of morphologic features based on anterior commissure invasion and tumor volume in patients with T1-stage glottic cancer following larynx-preserving surgery. The analysis included data from 147 patients, revealing that anterior commissure invasion combined with a tumor volume greater than 118.55 mm³ is a risk factor for recurrence. Morphological feature models demonstrated higher predictive power compared to the AJCC-T1 staging system. These findings emphasize the importance of morphological features in assessing patient survival post-surgery.",
+      "practice_change_ar": "يمكن استخدام ميزات الشكل لتقييم خطر الانتكاسة بعد جراحة الحنجرة.",
+      "practice_change_en": "Morphological features can be utilized to assess the risk of recurrence after larynx surgery.",
+      "future_impact_ar": "يمكن أن تؤدي هذه النتائج إلى تحسين استراتيجيات العلاج الجراحي للمرضى.",
+      "future_impact_en": "These results may lead to improved surgical treatment strategies for patients.",
+      "why_important_ar": "تُظهر هذه المقالة أن الخصائص الشكلية للورم مرتبطة بالبقاء بدون انتكاسة بعد جراحة الحنجرة.",
+      "why_important_en": "This article demonstrates that tumor morphological characteristics are associated with recurrence-free survival post-laryngeal surgery.",
+      "vs_previous_ar": "تقدم هذه الدراسة معلومات جديدة حول استخدام الميزات الشكلية في تقييم الانتكاسة.",
+      "vs_previous_en": "This study provides new insights into the use of morphological features in assessing recurrence.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استباقية n=147 مع نتائج مهمة حول عوامل الخطر للانتكاسة.",
+      "stars_reason_en": "Retrospective study with n=147 providing significant results on risk factors for recurrence.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Provides important results on tumor characteristics and their impact on patient survival.",
+      "watch": true,
+      "watch_detail_ar": "راقب كيفية استخدام الميزات الشكلية لتوجيه قرارات العلاج الجراحي.",
+      "watch_detail_en": "Watch how morphological features are used to guide surgical treatment decisions.",
+      "watch_type": "technology",
+      "research_gap_ar": "تحديد عواملالمصير في سرطان الحنجرة من المرحلة T1 باستخدام تصوير CT.",
+      "research_gap_en": "Identifying prognostic factors in T1 glottic cancer using CT imaging.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تتناول هذه المقابلة دراسة حديثة تبحث في قيمة التنبؤ بالانتكاسة في سرطان الحنجرة من المرحلة T1. تناول الباحثون الميزات الشكلية المستندة إلى غزو المفصل الأمامي وحجم الورم. تم تحليل بيانات 147 مريضًا، مما أظهر أن غزو المفصل الأمامي مع حجم ورم أكبر من 118.55 مم مكعب يعد عامل خطر للانتكاسة. أظهرت نماذج الميزات الشكلية قوة تنبؤية أعلى مقارنةً بتصنيف AJCC-T1. هذه النتائج تسلط الضوء على أهمية الميزات الشكلية في تقييم بقاء المرضى بعد الجراحة.",
+      "audio_script_en": "This interview discusses a recent study investigating the predictive value of recurrence in T1 glottic cancer. Researchers examined morphological features based on anterior commissure invasion and tumor volume. An analysis of 147 patients showed that anterior commissure invasion combined with a tumor volume greater than 118.55 mm³ is a risk factor for recurrence. Morphological feature models demonstrated higher predictive power compared to the AJCC-T1 classification. These findings highlight the importance of morphological features in assessing patient survival post-surgery.",
+      "mcq": [
+        {
+          "q_ar": "ما هو العامل الذي يعتبر خطرًا للانتكاسة في سرطان الحنجرة من المرحلة T1؟",
+          "q_en": "What factor is considered a risk for recurrence in T1 glottic cancer?",
+          "options_ar": [
+            "أ) غزو المفصل الأمامي وحجم الورم أكبر من 118.55 مم مكعب",
+            "ب) العمر الأكثر من 70 عامًا",
+            "ج) الجنس الأنثوي",
+            "د) البيئة العائلية الإيجابية"
+          ],
+          "options_en": [
+            "A) Anterior commissure invasion and tumor volume greater than 118.55 mm³",
+            "B) Age over 70",
+            "C) Female gender",
+            "D) Positive family history"
+          ],
+          "answer": 0,
+          "explanation_ar": "تشير الدراسة إلى أن غزو المفصل الأمامي مع حجم ورم أكبر من 118.55 مم مكعب يعتبر عامل خطر للانتكاسة.",
+          "explanation_en": "The study indicates that anterior commissure invasion combined with a tumor volume greater than 118.55 mm³ is a risk factor for recurrence."
+        },
+        {
+          "q_ar": "ما هي الخاصية الشكلية التي توفر قوة تنبؤية أعلى من تصنيف AJCC-T1؟",
+          "q_en": "Which morphological feature provides higher predictive power than the AJCC-T1 classification?",
+          "options_ar": [
+            "أ) غزو المفصل الأمامي",
+            "ب) حجم الورم",
+            "ج) الطول",
+            "د) سمك الورم"
+          ],
+          "options_en": [
+            "A) Anterior commissure invasion",
+            "B) Tumor volume",
+            "C) Length",
+            "D) Tumor thickness"
+          ],
+          "answer": 0,
+          "explanation_ar": "النتائج توضح أن غزو المفصل الأمامي مع حجم الورم يتمتع بقوة تنبؤية أكبر.",
+          "explanation_en": "The results show that anterior commissure invasion combined with tumor volume has greater predictive power."
+        },
+        {
+          "q_ar": "ما هي الطريقة المستخدمة لمعرفة قيم القطع الأمثل لكل معلمة؟",
+          "q_en": "What method was used to determine the optimal cut-off values for each parameter?",
+          "options_ar": [
+            "أ) تحليل المنحنى ROC",
+            "ب) التحليل التكلسي",
+            "ج) تحليل الانحدار",
+            "د) تحليل البيانات الخلفية"
+          ],
+          "options_en": [
+            "A) ROC curve analysis",
+            "B) Calibration analysis",
+            "C) Regression analysis",
+            "D) Background data analysis"
+          ],
+          "answer": 0,
+          "explanation_ar": "شمل التحليل القيم المثالية باستخدام تحليل المنحنى ROC.",
+          "explanation_en": "The analysis determined the optimal cut-off values using ROC curve analysis."
+        }
+      ]
+    },
+    {
+      "pmid": "42154486",
+      "title_ar": "Revisiting Hematoma Rates In Male Patients After Facelift Surgery: A Matched Cohort Analysis.",
+      "title_en": "Revisiting Hematoma Rates In Male Patients After Facelift Surgery: A Matched Cohort Analysis.",
+      "journal": "Plastic and reconstructive surgery",
+      "pub_date": "2026-May-19",
+      "doi": "10.1097/PRS.0000000000013209",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42154486/",
+      "pdf_url": null,
+      "study_design": "Retrospective analysis n=541",
+      "summary_ar": "أظهرت الدراسات السابقة زيادة في معدلات hematoma لدى المرضى الذكور بعد جراحة facelift. هدف هذه الدراسة هو تقييم معدلات hematoma بعد الجراحة والنتائج العامة بين المرضى الذكور والإناث. تم إجراء تحليل بأثر رجعي على المرضى الذين خضعوا لجراحة facelift بين 2014 و2024. أظهرت النتائج أن المعدلات كانت مماثلة بين الجنسين، رغم أن الذكور اختبروا أوقات عملية أطول وفقدان دم أكبر. هذا يشير إلى أن الفروقات التاريخية في نتائج المرضى الذكور يمكن تقليلها بشكل ملحوظ مع البروتوكولات الجراحية الحديثة.",
+      "summary_en": "Previous studies reported higher hematoma rates in male facelift patients. This study aimed to evaluate postoperative hematoma rates and overall outcomes between matched male and female patients. A retrospective analysis was performed on patients undergoing facelift surgery from 2014 to 2024. Results indicated similar rates between genders, despite males experiencing longer operative times and higher blood loss. This suggests historical disparities in male patient outcomes can be significantly reduced with modern surgical protocols.",
+      "practice_change_ar": "يمكن تقليل الفروقات التاريخية في نتائج جراحة facelift بين الذكور والإناث من خلال البروتوكولات الجراحية الحديثة.",
+      "practice_change_en": "Historical disparities in facelift outcomes between males and females can be reduced with modern surgical protocols.",
+      "future_impact_ar": "هذه النتائج قد تؤثر على كيفية إدارة العمليات الجراحية للذكور في المستقبل.",
+      "future_impact_en": "These findings may impact how surgical procedures in males are managed in the future.",
+      "why_important_ar": "تعتبر هذه الدراسة مهمة لأنها تبين أن نتائج جراحة facelift لا تختلف بين الذكور والإناث عند استخدام بروتوكولات حديثة.",
+      "why_important_en": "This study is important as it shows that facelift outcomes do not differ between males and females when modern protocols are used.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن الدراسات السابقة التي أظهرت معدلات hematoma أعلى لدى الذكور.",
+      "vs_previous_en": "This study differs from previous studies which reported higher hematoma rates in males.",
+      "stars": 4,
+      "stars_reason_ar": "تحليل بأثر رجعي n=541 ودراسة مهمة في نتائج جراحة facelift.",
+      "stars_reason_en": "Retrospective analysis n=541 and significant study on facelift outcomes.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study provides insights on improving facelift surgery outcomes.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "research_gap_en": null,
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "في هذه الدراسة، تم إعادة تقييم معدلات hematoma لدى المرضى الذكور بعد جراحة facelift. تشير الدراسات السابقة إلى أن الذكور يعانون من معدلات hematoma أعلى بسبب سمات جسدية معينة. قام الباحثون بإجراء تحليل بأثر رجعي على 541 مريضًا. النتائج تشير إلى عدم وجود اختلاف في معدلات hematoma بين الذكور والإناث عند استخدام بروتوكولات جراحية حديثة، على الرغم من أن الذكور كانوا لديهم أوقات عملية أطول. هذا يمكن أن يؤثر على كيفية إدارة الجراحة في المستقبل.",
+      "audio_script_en": "In this study, hematoma rates in male facelift patients were reassessed. Previous studies suggest that males experience higher hematoma rates due to certain physical attributes. Researchers conducted a retrospective analysis on 541 patients. The results indicate no difference in hematoma rates between males and females when modern surgical protocols are utilized, even though males had longer operative times. This may impact how surgery is managed in the future.",
+      "mcq": [
+        {
+          "q_ar": "ما هي النتائج الرئيسية المتعلقة بمعدلات hematoma بين الذكور والإناث في جراحة facelift؟",
+          "q_en": "What are the main findings regarding hematoma rates between males and females in facelift surgery?",
+          "options_ar": [
+            "أ) أعلى لدى الذكور",
+            "ب) أعلى لدى الإناث",
+            "ج) مماثلة بين الجنسين",
+            "د) لا يوجد معلومات"
+          ],
+          "options_en": [
+            "A) Higher in males",
+            "B) Higher in females",
+            "C) Similar between genders",
+            "D) No information"
+          ],
+          "answer": 2,
+          "explanation_ar": "تشير الدراسة إلى أن معدلات hematoma كانت مماثلة بين الجنسين.",
+          "explanation_en": "The study indicates that hematoma rates were similar between genders."
+        },
+        {
+          "q_ar": "ما التأثير المحتمل للبروتوكولات الجراحية الحديثة في نتائج جراحة facelift؟",
+          "q_en": "What is the potential impact of modern surgical protocols on facelift outcomes?",
+          "options_ar": [
+            "أ) زيادة معدلات complications",
+            "ب) تقليل الفروقات بين الجنسين",
+            "ج) زيادة وقت العملية",
+            "د) لا تأثير"
+          ],
+          "options_en": [
+            "A) Increased complication rates",
+            "B) Reduced gender disparities",
+            "C) Increased operative times",
+            "D) No effect"
+          ],
+          "answer": 1,
+          "explanation_ar": "تظهر النتائج أن البروتوكولات الحديثة يمكن أن تقلل من الفروقات بين الجنسين.",
+          "explanation_en": "Results show modern protocols may reduce gender disparities."
+        },
+        {
+          "q_ar": "كم عدد المرضى الذين تم تضمينهم في هذه الدراسة؟",
+          "q_en": "How many patients were included in this study?",
+          "options_ar": [
+            "أ) 34",
+            "ب) 541",
+            "ج) 68",
+            "د) 507"
+          ],
+          "options_en": [
+            "A) 34",
+            "B) 541",
+            "C) 68",
+            "D) 507"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم تضمين 541 مريضًا في هذه الدراسة.",
+          "explanation_en": "A total of 541 patients were included in this study."
+        }
+      ]
+    },
+    {
+      "pmid": "42153758",
+      "title_ar": "Ethnic Preferences in African American Rhinoplasty using Artificial Intelligence Morphing and Cadaveric Structural Cartilage Grafts",
+      "title_en": "Ethnic Preferences in African American Rhinoplasty using Artificial Intelligence Morphing and Cadaveric Structural Cartilage Grafts",
+      "journal": "Plastic and reconstructive surgery",
+      "pub_date": "2026-May-19",
+      "doi": "10.1097/PRS.0000000000013198",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42153758/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort n=392",
+      "summary_ar": "تركز هذه الدراسة على رغبات المرضى الأفارقة الأمريكيين الذين يقومون بإجراء عملية تجميل الأنف، حيث يفضل العديد منهم الحفاظ على خصائصهم العرقية بدلاً من السعي نحو المعايير الأوروبية الغربية. استخدمت الدراسة الذكاء الاصطناعي في عملية التشكيل ثلاثية الأبعاد لتواصل التفضيلات الخاصة بالمرضى. شملت النتائج ارتفاع درجات التحسين الجمالي ومؤشرات نفسية إيجابية مع استخدام الذكاء الاصطناعي تقابلت مع مجموعة لم تستخدم هذه التقنية. تشير النتائج إلى أن استخدام تقنية التشكيل الاصطناعي يؤدي إلى انخفاض الحاجة لتعديلات جراحية وزيادة في مستوى رضا المرضى.",
+      "summary_en": "This study focuses on the preferences of African American patients undergoing rhinoplasty, where many prefer to maintain their ethnic characteristics rather than aiming for Euro-Western ideals. The study employed Artificial Intelligence 3D morphing to communicate patient-specific preferences. Results showed greater aesthetic improvement and positive psychosocial indicators with AI use compared to a no-morphing group. Findings indicate that AI morphing leads to fewer revision surgeries and increased patient satisfaction.",
+      "practice_change_ar": "يمكن للعيادات تبني تقنيات الذكاء الاصطناعي لتحسين تجارب المرضى في عمليات تجميل الأنف.",
+      "practice_change_en": "Clinics may adopt AI techniques to enhance patient experiences in rhinoplasty.",
+      "future_impact_ar": "يمكن أن تؤدي هذه الدراسة إلى تحسين النتائج الجمالية من خلال دمج تقنيات الذكاء الاصطناعي في الجراحة التجميلية.",
+      "future_impact_en": "This study may lead to enhanced aesthetic outcomes by integrating AI techniques into plastic surgery.",
+      "why_important_ar": "تعزز هذه الدراسة أهمية التواصل الفعال مع المرضى حول تفضيلاتهم العرقية في عمليات تجميل الأنف.",
+      "why_important_en": "This study underscores the importance of effective communication with patients regarding their ethnic preferences in rhinoplasty.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن المعرفة السابقة من خلال تقديم استخدام الذكاء الاصطناعي في التخطيط لعمليات تجميل الأنف، مما يؤدي إلى نتائج أفضل.",
+      "vs_previous_en": "This study differs from previous knowledge by introducing AI use in rhinoplasty planning, leading to better outcomes.",
+      "stars": 4,
+      "stars_reason_ar": "الدراسة عبارة عن دراسة مقطعية Prospective cohort مع ن س كبيرة تقارب 392 مريض، مما يدعم نتائجها.",
+      "stars_reason_en": "The study is a Prospective cohort with a large sample size of 392 patients, supporting its findings.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "New findings on the effectiveness of AI in rhinoplasty surgery were presented.",
+      "watch": true,
+      "watch_detail_ar": "راقب استخدام الذكاء الاصطناعي في التخطيط للجراحة وكذلك تأثيره على رضا المرضى.",
+      "watch_detail_en": "Monitor the use of AI in surgical planning and its impact on patient satisfaction.",
+      "watch_type": "technology",
+      "research_gap_ar": "هناك حاجة للمزيد من الدراسات لمعرفة التأثيرات الطويلة الأمد لتقنيات الذكاء الاصطناعي على نتائج الجراحة.",
+      "research_gap_en": "Further studies are needed to understand the long-term effects of AI techniques on surgical outcomes.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "تناقش هذه الدراسة الرغبات العرقية لدى المرضى الأفارقة الأمريكيين الذين يُجري عمليات تجميل الأنف، حيث يُفضل الكثيرون الحفاظ على خصائصهم العرقية. استُخدمت تقنيات الذكاء الاصطناعي في التخطيط لعمليات التجميل مما أدى إلى تحسين في درجات التحسين الجمالي وكذلك مؤشرات الصحة النفسية. الدراسة أظهرت أن استخدام تقنيات الذكاء الاصطناعي يمكن أن يقلل من الحاجة للتعديلات الجراحية ويزيد من رضا المرضى. من المهم أن تتبنى العيادات مثل هذه التقنيات لتحسين تجارب المرضى.",
+      "audio_script_en": "This study discusses the ethnic preferences of African American patients undergoing rhinoplasty, where many prefer to maintain their ethnic characteristics. AI techniques were used in planning surgeries, leading to improvements in aesthetic scores and psychosocial indicators. The study showed that using AI can reduce the need for revisions and increase patient satisfaction. It's important for clinics to adopt such technologies to enhance patient experiences.",
+      "mcq": [
+        {
+          "q_ar": "ما التقنية التي تم استخدامها في دراسة عمليات تجميل الأنف للمرضى الأفارقة الأمريكيين؟",
+          "q_en": "What technique was used in the rhinoplasty study for African American patients?",
+          "options_ar": [
+            "أ) الذكاء الاصطناعي",
+            "ب) الجراحة التجميلية التقليدية",
+            "ج) التقنيات النانوية",
+            "د) التخدير العام"
+          ],
+          "options_en": [
+            "A) Artificial Intelligence",
+            "B) Traditional plastic surgery",
+            "C) Nanotechnology",
+            "D) General anesthesia"
+          ],
+          "answer": 0,
+          "explanation_ar": "استخدمت الدراسة الذكاء الاصطناعي كجزء من تقنية التشكيل لتحسين نتائج جراحة تجميل الأنف.",
+          "explanation_en": "The study used Artificial Intelligence as part of the morphing technique to improve rhinoplasty outcomes."
+        },
+        {
+          "q_ar": "كيف كانت نتائج مجموعة 'AI Morphing' مقارنة بمجموعة 'No Morphing'؟",
+          "q_en": "How did the results of the 'AI Morphing' group compare to the 'No Morphing' group?",
+          "options_ar": [
+            "أ) كانت هناك تحسينات أقل في الجمال",
+            "ب) كانت هنالك حاجة أعلى لتعديلات جراحية",
+            "ج) كانت التحسينات في الدرجات الجمالية أكبر",
+            "د) لم يكن هناك فرق"
+          ],
+          "options_en": [
+            "A) There were fewer aesthetic improvements",
+            "B) There was a higher need for revisions",
+            "C) Aesthetic improvements were greater",
+            "D) There was no difference"
+          ],
+          "answer": 2,
+          "explanation_ar": "أثبتت النتائج أن مجموعة 'AI Morphing' شهدت تحسينات أكبر في الدرجات الجمالية مقارنة بالمجموعة الأخرى.",
+          "explanation_en": "Results demonstrated that the 'AI Morphing' group experienced greater improvements in aesthetic scores compared to the other group."
+        },
+        {
+          "q_ar": "ما كانت نسبة التعديلات الجراحية في مجموعة 'AI Morphing'؟",
+          "q_en": "What was the percentage of revisions in the 'AI Morphing' group?",
+          "options_ar": [
+            "أ) 8%",
+            "ب) 19%",
+            "ج) 2%",
+            "د) 3%"
+          ],
+          "options_en": [
+            "A) 8%",
+            "B) 19%",
+            "C) 2%",
+            "D) 3%"
+          ],
+          "answer": 0,
+          "explanation_ar": "كانت نسبة التعديلات الجراحية في مجموعة 'AI Morphing' أقل منها في المجموعة 'No Morphing'.",
+          "explanation_en": "The revision rate in the 'AI Morphing' group was lower compared to the 'No Morphing' group."
+        }
+      ]
+    },
+    {
+      "pmid": "42159253",
+      "title_ar": "The Tinnitus and Hearing Survey-Hebrew and Arabic Translation and Adaptation.",
+      "title_en": "The Tinnitus and Hearing Survey-Hebrew and Arabic Translation and Adaptation.",
+      "journal": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+      "pub_date": "2026-May-20",
+      "doi": "10.1002/ohn.70289",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42159253/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort",
+      "summary_ar": "تمت ترجمة وتكيف استبيان Tinnitus and Hearing Survey (THS) إلى العبرية والعربية. شملت الدراسة 100 من البالغين الناطقين بالعبرية و75 من الناطقين بالعربية الذين يعانون من مشكلات السمع والرنين. أظهر القسم A (شكاوى الرنين) من THS ارتباطا قويا مع درجات Tinnitus Handicap Inventory (THI) في العبرية والعربية. كما أظهر القسم B (شكاوى السمع) ارتباطًا معتدلاً مع نتائج قياسات السمع. النسخ العبرية والعربية من THS تعتبر أدوات موثوقة لتقييم شكاوى الرنين والسمع.",
+      "summary_en": "The study translated and adapted the Tinnitus and Hearing Survey (THS) into Hebrew and Arabic. It involved 100 Hebrew-speaking and 75 Arabic-speaking adults with hearing loss and tinnitus complaints. Section A (tinnitus complaints) of the THS strongly correlated with Tinnitus Handicap Inventory (THI) scores in Hebrew and Arabic. Section B (hearing complaints) showed a moderate correlation with audiometry results. The Hebrew and Arabic versions of the THS are reliable tools for assessing tinnitus and hearing-related complaints.",
+      "practice_change_ar": "يمكن للأطباء الآن استخدام النسخ العبرية والعربية من THS لتحديد التدخلات المناسبة.",
+      "practice_change_en": "Clinicians can now use the Hebrew and Arabic versions of the THS to determine appropriate interventions.",
+      "future_impact_ar": "تتضمن الآثار المستقبلية تحسين تقييم شكاوى الرنين والسمع بين مجتمعات الناطقين بالعبرية والعربية.",
+      "future_impact_en": "Future implications include improved assessment of tinnitus and hearing complaints among Hebrew and Arabic-speaking communities.",
+      "why_important_ar": "تعتبر هذه النسخ أدوات موثوقة لتقييم الشكاوى السمعية، مما يمكن الأطباء من تحسين الرعاية المقدمة.",
+      "why_important_en": "These versions are reliable tools for assessing hearing complaints, enabling clinicians to improve the care provided.",
+      "vs_previous_ar": "هذا البحث يقدم أداة حديثة لتقييم شكاوى الرنين والسمع في مجتمعات متعددة اللغات.",
+      "vs_previous_en": "This research provides a modern tool for assessing tinnitus and hearing complaints in multilingual communities.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة تفصيلية في تصميم الدراسة وثقة عامة في النتائج.",
+      "stars_reason_en": "A detailed study design and general confidence in the results contribute to a strong score.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Provides a new tool for the assessment of tinnitus and hearing complaints.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تسليط الضوء على نقص الأدوات المترجمة لتقييم شكاوى الرنين في المجتمعات العبرية والعربية.",
+      "research_gap_en": "Highlights the lack of translated tools for assessing tinnitus complaints in Hebrew and Arabic communities.",
+      "subspecialty": "otology",
+      "audio_script_ar": "تمت ترجمة وتكيف استبيان Tinnitus and Hearing Survey إلى العبرية والعربية، وشملت الدراسة 100 من البالغين الناطقين بالعبرية و75 من الناطقين بالعربية. أظهر القسم A من THS ارتباطا قويا مع درجات Tinnitus Handicap Inventory، بينما القسم B أظهر ارتباطاً معتدلاً مع نتائج قياسات السمع. تعتبر النسخ العبرية والعربية من THS أدوات موثوقة لتقييم شكاوى الرنين والسمع.",
+      "audio_script_en": "The Tinnitus and Hearing Survey was translated and adapted into Hebrew and Arabic, involving 100 Hebrew-speaking and 75 Arabic-speaking adults. Section A of the THS strongly correlated with Tinnitus Handicap Inventory scores, while Section B showed a moderate correlation with audiometry results. The Hebrew and Arabic versions of the THS are reliable tools for assessing tinnitus and hearing-related complaints.",
+      "mcq": [
+        {
+          "q_ar": "ما الهدف من دراسة THS?",
+          "q_en": "What is the purpose of the THS study?",
+          "options_ar": [
+            "أ) تقليل شكاوى الرنين",
+            "ب) ترجمة أداة تقييم السمع",
+            "ج) تقديم معلومات عن علاجات جديدة",
+            "د) تقييم قدرات السمع فقط"
+          ],
+          "options_en": [
+            "A) Reduce tinnitus complaints",
+            "B) Translate a hearing assessment tool",
+            "C) Provide information on new treatments",
+            "D) Assess hearing abilities only"
+          ],
+          "answer": 1,
+          "explanation_ar": "دراسة THS تهدف إلى ترجمة وتكيف أداة تقييم شكاوى الرنين.",
+          "explanation_en": "The THS study aims to translate and adapt a tool for assessing tinnitus complaints."
+        },
+        {
+          "q_ar": "ماذا وجد الباحثون في قسم A من THS?",
+          "q_en": "What did the researchers find in Section A of the THS?",
+          "options_ar": [
+            "أ) ارتباط ضعيف مع THI",
+            "ب) ارتباط قوي مع THI",
+            "ج) عدم وجود ارتباط",
+            "د) ارتباط مع قياسات السمع"
+          ],
+          "options_en": [
+            "A) Weak correlation with THI",
+            "B) Strong correlation with THI",
+            "C) No correlation",
+            "D) Correlation with audiometry"
+          ],
+          "answer": 1,
+          "explanation_ar": "قسم A من THS أظهر ارتباطاً قوياً مع درجات Tinnitus Handicap Inventory.",
+          "explanation_en": "Section A of the THS showed a strong correlation with Tinnitus Handicap Inventory scores."
+        },
+        {
+          "q_ar": "كم عدد المشاركين في الدراسة الناطقين بالعبرية?",
+          "q_en": "How many Hebrew-speaking participants were in the study?",
+          "options_ar": [
+            "أ) 50",
+            "ب) 100",
+            "ج) 75",
+            "د) 150"
+          ],
+          "options_en": [
+            "A) 50",
+            "B) 100",
+            "C) 75",
+            "D) 150"
+          ],
+          "answer": 1,
+          "explanation_ar": "شملت الدراسة 100 من البالغين الناطقين بالعبرية.",
+          "explanation_en": "The study included 100 Hebrew-speaking adults."
+        }
+      ]
+    },
+    {
+      "pmid": "42159625",
+      "title_ar": "The triadic relationship between obesity, obstructive sleep apnea and metabolic dysfunction-associated steatotic liver disease in children: a scoping review.",
+      "title_en": "The triadic relationship between obesity, obstructive sleep apnea and metabolic dysfunction-associated steatotic liver disease in children: a scoping review.",
+      "journal": "Sleep & breathing = Schlaf & Atmung",
+      "pub_date": "2026-May-20",
+      "doi": "10.1007/s11325-026-03714-y",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42159625/",
+      "pdf_url": null,
+      "study_design": "Scoping review 15 studies",
+      "summary_ar": "تهدف هذه المراجعة الشاملة إلى تقديم نظرة عامة عن الأبحاث الموجودة التي تستكشف العلاقة الثلاثية المحتملة بين السمنة وOSA وMASLD في الأطفال. تم إجراء بحث أدبي منهجي في PubMed وWeb of Science وفقًا لمبادئ الإرشاد PRISMA-ScR. بعد فحص العنوان والملخص، خضعت الدراسات المؤهلة لتقييم النص الكامل، مما أسفر عن تضمين 15 دراسة في المراجعة النهائية. تشير النتائج إلى أن الإجهاد التأكسدي والالتهابات هما الآليتان الرئيسيتان اللتان تسهمان في تلك العلاقة الثلاثية. يجب على الأبحاث المستقبلية توضيح الآليات الأساسية، بما في ذلك توزيع الدهون.",
+      "summary_en": "This scoping review aims to provide a comprehensive overview of research exploring the potentially triadic relationship between obesity, OSA, and MASLD in children. A systematic literature search was conducted in PubMed and Web of Science following PRISMA-ScR guidelines. Following title and abstract screening, eligible studies underwent full-text assessment, resulting in the inclusion of 15 studies in the final review. Findings suggest that oxidative stress and inflammation are key mechanisms contributing to this triadic relationship. Future research should clarify underlying mechanisms, including fat distribution.",
+      "practice_change_ar": "يجب على الأطباء اعتبار العلاقة بين السمنة وOSA وMASLD عند تشخيص الأطفال.",
+      "practice_change_en": "Clinicians should consider the relationship between obesity, OSA, and MASLD when diagnosing children.",
+      "future_impact_ar": "قد تؤثر نتائج هذه الدراسة على استراتيجيات العلاج المستهدفة لجميع مكونات الثلاثي.",
+      "future_impact_en": "Study findings may influence targeted treatment strategies for all components of the triad.",
+      "why_important_ar": "تعد هذه الدراسة مهمة لأنها تسلط الضوء على العلاقات المعقدة بين السمنة وOSA وMASLD في الأطفال.",
+      "why_important_en": "This article is significant as it highlights the complex relationships between obesity, OSA, and MASLD in children.",
+      "vs_previous_ar": "تضيف هذه الدراسة معلومات جديدة حول العلاقة الثلاثية التي لم يتم استكشافها بشكل كافٍ سابقًا.",
+      "vs_previous_en": "This study adds new insights into a triadic relationship that has not been thoroughly explored previously.",
+      "stars": 4,
+      "stars_reason_ar": "المراجعة شاملة بمشاركة 15 دراسة في تصميم المسح، مما يعزز مصداقيتها.",
+      "stars_reason_en": "The review is comprehensive with the inclusion of 15 studies in a scoping design, enhancing its credibility.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Provides new insights into obesity, OSA, and MASLD in children.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم مزيد من البحث لفهم الآليات الأساسية لهذه العلاقة الثلاثية.",
+      "research_gap_en": "Further research is needed to understand the underlying mechanisms of this triadic relationship.",
+      "subspecialty": "pediatric",
+      "audio_script_ar": "تتناول هذه المراجعة العلاقة بين السمنة وOSA وMASLD في الأطفال. تبرز الأبحاث صعوبة تشخيص ديهذه الحالة المعقدة وأهمية الاعتراف بالترابط بين السمنة ومشاكل النوم وأمراض الكبد لدى الأطفال. ولقد تمت مراجعة 15 دراسة في هذا السياق. يجب على الأطباء أخذ هذه العلاقات بعين الاعتبار عند التشخيص والعلاج.",
+      "audio_script_en": "This review addresses the relationship between obesity, OSA, and MASLD in children. It highlights the challenges in diagnosing this complex condition and the importance of recognizing the interrelatedness of obesity, sleep disorders, and liver disease in children. A total of 15 studies were reviewed in this context. Clinicians should consider these relationships when diagnosing and treating patients.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الهدف من هذه المراجعة؟",
+          "q_en": "What is the aim of this review?",
+          "options_ar": [
+            "أ) دراسة العلاقة الثلاثية بين السمنة وOSA وMASLD.",
+            "ب) تقييم فعالية العلاجات للOSA.",
+            "ج) مناقشة التحديات في العمليات الجراحية الخاصة بأمراض الأذن.",
+            "د) استكشاف التركيزات الفموية للأدوية."
+          ],
+          "options_en": [
+            "A) To study the triadic relationship between obesity, OSA, and MASLD.",
+            "B) To evaluate the effectiveness of treatments for OSA.",
+            "C) To discuss challenges in surgical procedures related to ear diseases.",
+            "D) To explore oral concentrations of medications."
+          ],
+          "answer": 0,
+          "explanation_ar": "تهدف المراجعة إلى دراسة العلاقة بين السمنة وOSA وMASLD.",
+          "explanation_en": "The review aims to study the relationship between obesity, OSA, and MASLD."
+        },
+        {
+          "q_ar": "ما عدد الدراسات المستعرضة في المراجعة؟",
+          "q_en": "How many studies were included in the review?",
+          "options_ar": [
+            "أ) 10",
+            "ب) 15",
+            "ج) 20",
+            "د) 30"
+          ],
+          "options_en": [
+            "A) 10",
+            "B) 15",
+            "C) 20",
+            "D) 30"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم تضمين 15 دراسة في المراجعة النهائية.",
+          "explanation_en": "A total of 15 studies were included in the final review."
+        },
+        {
+          "q_ar": "ما هي العوامل الرئيسة المشار إليها في العلاقة الثلاثية؟",
+          "q_en": "What key factors are indicated in the triadic relationship?",
+          "options_ar": [
+            "أ) الإجهاد التأكسدي والالتهاب",
+            "ب) التحسس الغذائي",
+            "ج) أمراض الرئة المزمنة",
+            "د) الإصابات البكتيرية"
+          ],
+          "options_en": [
+            "A) Oxidative stress and inflammation",
+            "B) Food allergies",
+            "C) Chronic lung diseases",
+            "D) Bacterial infections"
+          ],
+          "answer": 0,
+          "explanation_ar": "تم الإشارة إلى الإجهاد التأكسدي والالتهاب كعوامل رئيسية.",
+          "explanation_en": "Oxidative stress and inflammation were indicated as key factors."
+        }
+      ]
+    },
+    {
+      "pmid": "42159832",
+      "title_ar": "Salvage microsurgery for vestibular schwannoma after failed stereotactic radiosurgery: a multi-institutional retrospective study.",
+      "title_en": "Salvage microsurgery for vestibular schwannoma after failed stereotactic radiosurgery: a multi-institutional retrospective study.",
+      "journal": "Journal of neuro-oncology",
+      "pub_date": "2026-May-20",
+      "doi": "10.1007/s11060-026-05598-0",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42159832/",
+      "pdf_url": null,
+      "study_design": "Retrospective case series n=28",
+      "summary_ar": "تدير الدراسة نتائج الجراحة الدقيقة بعد فشل العلاج الإشعاعي المجسم لعلاج الأورام الشفوية المتكررة. تضمنت الدراسة 28 مريضًا بالغًا خضعوا للجراحة بعد فشل العلاج الإشعاعي. أظهر التحليل أن متوسط الفترة من العلاج الإشعاعي إلى الجراحة كان 48 شهرًا. تم تحقيق الاستئصال الكلي في 46.4 من المرضى. انخفضت نسبة الحفاظ على السمع من 50% قبل العلاج الإشعاعي إلى 16.7% قبل العملية. كما أن وظيفة العصب الوجهي تحسنت في العدد الأكبر من المرضى بعد العملية.",
+      "summary_en": "The study reports on the outcomes of salvage microsurgery after failed stereotactic radiosurgery for recurrent vestibular schwannomas. It included 28 adult patients who underwent surgery following the failure of stereotactic treatment. The analysis showed a median interval of 48 months from SRS to surgery. Gross total resection was achieved in 46.4% of patients. Serviceable hearing declined from 50% pre-SRS to 16.7% preoperatively. Additionally, facial nerve function improved in the majority of patients postoperatively.",
+      "practice_change_ar": "يمكن اعتبار الجراحة الدقيقة خياراً علاجياً لمن يعانون من الأورام الشفوية بعد فشل العلاج الإشعاعي.",
+      "practice_change_en": "Salvage microsurgery can be considered a therapeutic option for patients with vestibular schwannoma after failed radiosurgery.",
+      "future_impact_ar": "تفتح هذه النتائج الطريق لمزيد من الدراسات حول معدلات نجاح الجراحة الدقيقة.",
+      "future_impact_en": "These findings pave the way for further studies on the success rates of microsurgery.",
+      "why_important_ar": "توضح هذه الدراسة إمكانية الجراحة الدقيقة كخيار فعال لعلاج الأورام الشفوية بعد فشل العلاج الإشعاعي.",
+      "why_important_en": "This study highlights the potential of microsurgery as an effective option for treating vestibular schwannomas after radiosurgery failure.",
+      "vs_previous_ar": "تختلف هذه الدراسة بإظهار أن الجراحة الدقيقة يمكن أن تنجح حتى بعد الفشل في العلاج الإشعاعي.",
+      "vs_previous_en": "This study differs by showing that microsurgery can be successful even after failure of radiosurgery.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة تاريخية شاملة عددها أكبر من 10 مرضى تقدم معلومات جديدة حول نجاح الجراحة الدقيقة.",
+      "stars_reason_en": "A comprehensive retrospective series with more than 10 patients providing new information on the success of microsurgery.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study provides new clinical experience with significant outcomes for treating vestibular schwannomas.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج هناك مزيد من الأبحاث حول استراتيجيات الحفاظ على السمع بعد الجراحة الدقيقة للأورام الشفوية.",
+      "research_gap_en": "Further research is needed on hearing preservation strategies following microsurgery for vestibular schwannomas.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "تتناول هذه الدراسة نتائج الجراحة الدقيقة لعلاج الأورام الشفوية بعد فشل العلاج الإشعاعي. شملت الدراسة 28 مريضًا بالغًا، حيث أظهر التحليل أن متوسط الفترة بين العلاج الإشعاعي والجراحة الدقيقة كان 48 شهرًا. تحقق الاستئصال الكلي في 46.4% من الحالات، وظهر انخفاض كبير في نسبة الحفاظ على السمع. تحسنت وظيفة العصب الوجهي في العديد من المرضى بعد الجراحة. تعتبر هذه النتائج مهمة، حيث تؤكد إمكانية الجراحة الدقيقة كخيار فعال لعلاج هذه الحالات.",
+      "audio_script_en": "This study addresses the outcomes of microsurgery for treating vestibular schwannomas after failure of radiosurgery. It included 28 adult patients, with an analysis showing a median interval of 48 months from radiosurgery to microsurgery. Gross total resection was achieved in 46.4% of cases, and there was a significant decline in the rate of hearing preservation. Facial nerve function improved in many patients postoperatively. These findings are important as they confirm the viability of microsurgery as an effective option for these cases.",
+      "mcq": [
+        {
+          "q_ar": "ما هو نوع الدراسة الموصوفة في المقالة؟",
+          "q_en": "What type of study is described in the article?",
+          "options_ar": [
+            "أ) دراسة مرتبطة برعاية صحية",
+            "ب) دراسة حالة تاريخية",
+            "ج) دراسة عشوائية مزدوجة",
+            "د) دراسة سابقة قادمة"
+          ],
+          "options_en": [
+            "A) Health care related study",
+            "B) Historical case study",
+            "C) Randomized double-blind study",
+            "D) Prospective cohort study"
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسة هي دراسة حالة تاريخية تتعلق بمريض عالج سمعية.",
+          "explanation_en": "The study is a historical case series related to surgical outcomes."
+        },
+        {
+          "q_ar": "ما هي نتيجة الجراحة الدقيقة المتوقعة بعد العلاج الإشعاعي؟",
+          "q_en": "What is the expected outcome of microsurgery after radiosurgery?",
+          "options_ar": [
+            "أ) تحسين في السمع",
+            "ب) انخفاض في مشاكل العصب الوجهي",
+            "ج) زيادة في حجم الورم",
+            "د) تحقيق استئصال كلي"
+          ],
+          "options_en": [
+            "A) Improvement in hearing",
+            "B) Decreased facial nerve problems",
+            "C) Increase in tumor size",
+            "D) Achievement of gross total resection"
+          ],
+          "answer": 3,
+          "explanation_ar": "تحقق الاستئصال الكلي في نسبة 46.4% من المرضى.",
+          "explanation_en": "Gross total resection was achieved in 46.4% of patients."
+        },
+        {
+          "q_ar": "كم نسبة فشل الحفاظ على السمع بعد الجراحة؟",
+          "q_en": "What is the rate of hearing preservation failure after surgery?",
+          "options_ar": [
+            "أ) 16.7%",
+            "ب) 50.0%",
+            "ج) 25.0%",
+            "د) 10.7%"
+          ],
+          "options_en": [
+            "A) 16.7%",
+            "B) 50.0%",
+            "C) 25.0%",
+            "D) 10.7%"
+          ],
+          "answer": 0,
+          "explanation_ar": "انخفضت نسبة الحفاظ على السمع من 50% إلى 16.7% قبل العملية.",
+          "explanation_en": "The rate of hearing preservation dropped from 50% to 16.7% preoperatively."
+        }
+      ]
+    },
+    {
+      "pmid": "42160109",
+      "title_ar": "Practical and Reliable Approach to Harvesting Superthin ALT Free Flap for Tongue Reconstruction.",
+      "title_en": "Practical and Reliable Approach to Harvesting Superthin ALT Free Flap for Tongue Reconstruction.",
+      "journal": "Annals of plastic surgery",
+      "pub_date": "2026-Jun-01",
+      "doi": "10.1097/SAP.0000000000004744",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42160109/",
+      "pdf_url": null,
+      "study_design": "Retrospective series n=37",
+      "summary_ar": "تقدم هذه الدراسة تقنية مهنية وموثوقة لجمع Flaps خفيفة الوزن من منطقة ALT لإعادة بناء اللسان. تتيح الحفاظ على كuff عمق Fascia نهجًا أكثر أمانًا وبديهية. تم مراجعة 37 حالة بأثر رجعي وتم تحليل سمك Flap وقطر الكuff للعلاقة مع المضاعفات. متوسط سمك Flap كان 0.69 سم وقطر الكuff 3.09 سم. لم يظهر أي منهما علاقة ذات دلالة إحصائية مع thrombosis أو فشل Flap.",
+      "summary_en": "This study presents a practical and reliable technique for harvesting superthin ALT flaps for tongue reconstruction. Preserving a deep fascia cuff provides a safer and more intuitive approach. Thirty-seven cases were retrospectively reviewed, analyzing flap thickness and cuff diameter for their association with complications. The mean flap thickness was 0.69 cm and cuff diameter was 3.09 cm. Neither showed significant correlation with thrombosis or flap failure.",
+      "practice_change_ar": "يقترح هذا البحث طريقة جديدة يمكن أن تحسن من نتائج إعادة بناء اللسان.",
+      "practice_change_en": "This research proposes a new method that may improve outcomes in tongue reconstruction.",
+      "future_impact_ar": "يمكن أن يؤدي استخدام Flaps خفيفة الوزن إلى تحسين الجوانب الوظيفية والجمالية في إعادة بناء اللسان.",
+      "future_impact_en": "The use of superthin flaps may enhance functional and aesthetic aspects of tongue reconstruction.",
+      "why_important_ar": "تعتبر هذه التقنية مرجعًا مهمًا للجراحين في تحسين نتائج العمليات الجراحية لإعادة بناء اللسان.",
+      "why_important_en": "This technique serves as an important reference for surgeons to improve surgical outcomes in tongue reconstruction.",
+      "vs_previous_ar": "تقدم هذه الدراسة نهجًا معتمدًا وموحدًا لم يُناقش بشكل كافٍ في الأدبيات السابقة.",
+      "vs_previous_en": "This study offers a standardized and reliable approach that has not been sufficiently discussed in previous literature.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة استعادية مع حجم عينة مقبول، تقدم معلومات مفيدة.",
+      "stars_reason_en": "Retrospective study with an acceptable sample size, providing useful information.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study presents a standardized and professional approach to flap harvesting for a known technique.",
+      "watch": true,
+      "watch_detail_ar": "من المهم متابعة تأثير استخدام Flaps خفيفة الوزن على نتائج إعادة بناء اللسان في المستقبل.",
+      "watch_detail_en": "It is important to monitor the impact of using superthin flaps on future tongue reconstruction outcomes.",
+      "watch_type": "instrument",
+      "research_gap_ar": "يوجد نقص في الأبحاث حول تأثير سمك Flap وقطر الكuff في مضاعفات إعادة البناء.",
+      "research_gap_en": "There is a gap in research regarding the impact of flap thickness and cuff diameter on reconstruction complications.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "دراسة بعنوان \"Practical and Reliable Approach to Harvesting Superthin ALT Free Flap for Tongue Reconstruction\" مقدمة في مجلة Annals of plastic surgery. تبحث الدراسة في تقنية جديدة لجمع Flap خفيف الوزن من منطقة ALT لإعادة بناء اللسان. تم مراجعة 37 حالة وتم تحليل سمك Flap وقطر الكuff. بينما لم يكن هناك ارتباط ذو دلالة إحصائية مع thrombosis أو فشل Flap، تشير النتائج إلى إمكانية تحسين النتائج الجمالية والوظيفية. هذه الدراسة تقدم معلومات جديدة ومفيدة للجراحين.",
+      "audio_script_en": "An article titled \"Practical and Reliable Approach to Harvesting Superthin ALT Free Flap for Tongue Reconstruction\" published in Annals of Plastic Surgery explores a new technique for harvesting superthin ALT flaps for tongue reconstruction. Thirty-seven cases were reviewed, analyzing flap thickness and cuff diameter. While there was no significant correlation with thrombosis or flap failure, the results suggest the potential for improved aesthetic and functional outcomes. This study provides new and useful information for surgeons.",
+      "mcq": [
+        {
+          "q_ar": "ما هو سمك Flap في الدراسة؟",
+          "q_en": "What is the flap thickness reported in the study?",
+          "options_ar": [
+            "أ) 1.5 سم",
+            "ب) 0.69 سم",
+            "ج) 2.5 سم",
+            "د) 0.5 سم"
+          ],
+          "options_en": [
+            "A) 1.5 cm",
+            "B) 0.69 cm",
+            "C) 2.5 cm",
+            "D) 0.5 cm"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم الإبلاغ عن أن متوسط سمك Flap هو 0.69 سم في الدراسة.",
+          "explanation_en": "The study reported the mean flap thickness as 0.69 cm."
+        },
+        {
+          "q_ar": "ما هو قطر الكuff؟",
+          "q_en": "What is the cuff diameter reported in the study?",
+          "options_ar": [
+            "أ) 2.5 سم",
+            "ب) 3.09 سم",
+            "ج) 4.0 سم",
+            "د) 1.0 سم"
+          ],
+          "options_en": [
+            "A) 2.5 cm",
+            "B) 3.09 cm",
+            "C) 4.0 cm",
+            "D) 1.0 cm"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم الإبلاغ عن أن متوسط قطر الكuff في الدراسة هو 3.09 سم.",
+          "explanation_en": "The study reported the mean cuff diameter as 3.09 cm."
+        },
+        {
+          "q_ar": "هل أظهرت الدراسة ارتباطًا بين سمك Flap وفشل канки؟",
+          "q_en": "Did the study show a correlation between flap thickness and failure?",
+          "options_ar": [
+            "أ) نعم",
+            "ب) لا",
+            "ج) لم يتم البحث في ذلك",
+            "د) لا يوجد دليل على ذلك"
+          ],
+          "options_en": [
+            "A) Yes",
+            "B) No",
+            "C) Not investigated",
+            "D) No evidence"
+          ],
+          "answer": 1,
+          "explanation_ar": "لم تظهر الدراسة أي ارتباط ذو دلالة إحصائية بين سمك Flap وفشل الكana.",
+          "explanation_en": "The study did not show any statistically significant correlation between flap thickness and failure."
+        }
+      ]
+    },
+    {
+      "pmid": "42159722",
+      "title_ar": "Preservation Push-Up Rhinoplasty with a Dorsal Preservation Graft: A Paradigm Shift in Aesthetic Augmentation Rhinoplasty.",
+      "title_en": "Preservation Push-Up Rhinoplasty with a Dorsal Preservation Graft: A Paradigm Shift in Aesthetic Augmentation Rhinoplasty.",
+      "journal": "Aesthetic plastic surgery",
+      "pub_date": "2026-May-20",
+      "doi": "10.1007/s00266-026-05926-9",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42159722/",
+      "pdf_url": null,
+      "study_design": "Retrospective case series n>100",
+      "summary_ar": "تعتبر عملية augmentation الظهرية جزءاً أساسياً في rhinoplasty aesthetic، لا سيما بين المرضى الذين لديهم dorsum أنفي مسطح أو منخفض أو تشوهات الأنف القصيرة. هذه الورقة تقدم تصميم graft جديد يسمى dorsal preservation graft (DPG) والذي يهدف إلى تجاوز قيود الأساليب التقليدية مثل warping وظهور الجراحة. يتم استخدام DPG تحت الإطار الظهري الطبيعي مما يساعد على تحسين الشكل الجمالي والهيكلي للأنف من خلال رفع dorsum بصورة مستقرة. هذه التقنية تتيح أيضاً تصحيح التشوهات المرتبطة مثل الأنف القصير. توفر هذه الطريقة دعماً هيكلياً مع الحفاظ على المبادئ التقليدية.",
+      "summary_en": "Dorsal augmentation is a key component in aesthetic rhinoplasty, especially for patients with flat or low nasal dorsum or short nose deformity. This paper introduces a new graft design called the dorsal preservation graft (DPG) aimed at overcoming the limitations of traditional techniques such as warping and graft visibility. The DPG is positioned beneath the native dorsal framework, allowing for stable and aesthetic nasal contouring. This technique also facilitates correction of associated deformities like the short nose, combining structural support with preservation principles.",
+      "practice_change_ar": "هذه التقنية تغير كيفية إجراء عمليات rhinoplasty عبر إضافة طريقة آمنة وفعالة.",
+      "practice_change_en": "This technique changes how rhinoplasty procedures are performed by adding a safe and effective method.",
+      "future_impact_ar": "قد تسهم طريقة DPG في تحسين نتائج عمليات rhinoplasty في المستقبل.",
+      "future_impact_en": "The DPG approach may enhance the outcomes of rhinoplasty procedures in the future.",
+      "why_important_ar": "تسلط هذه المقالة الضوء على طريقة جديدة تعزز نتائج aesthetic rhinoplasty.",
+      "why_important_en": "This article highlights a new technique that enhances the outcomes of aesthetic rhinoplasty.",
+      "vs_previous_ar": "تختلف هذه الطريقة عن الأساليب السابقة من خلال الحفاظ على الهيكلية الأصلية للأنف.",
+      "vs_previous_en": "This approach differs from previous methods by preserving the original nasal structure.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة سلسلة حالات بأكثر من 100 مريض تقدم تقنية جديدة، مما يجعلها قيمة.",
+      "stars_reason_en": "Retrospective case series with over 100 patients introduces a new technique, making it valuable.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Features a new technique in aesthetic rhinoplasty.",
+      "watch": true,
+      "watch_detail_ar": "يستحق متابعة تأثير graft الجديد على نتائج عملية rhinoplasty.",
+      "watch_detail_en": "Worthy of tracking the impact of the new graft on rhinoplasty outcomes.",
+      "watch_type": "instrument",
+      "research_gap_ar": "هناك حاجة إلى مزيد من الدراسات لتأكيد فعالية هذه التقنية.",
+      "research_gap_en": "Further studies are needed to confirm the efficacy of this technique.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "هذه المقالة تناقش قرار استخدام graft جديد يسمى dorsal preservation graft في عمليات rhinoplasty aesthetic. يستخدم هذا graft تحت الإطار الطبيعي للأنف بهدف تحسين الشكل الجمالي والهيكلي مع تجنب المضاعفات المرتبطة بالأساليب التقليدية. تعتبر هذه الطريقة موثوقة وتفتح آفاق جديدة لمعالجة التشوهات المرتبطة. تعتبر نتائج هذه الدراسة مهمة لممارسي rhinoplasty في المستقبل.",
+      "audio_script_en": "This article discusses the introduction of a new graft called the dorsal preservation graft in aesthetic rhinoplasty. This graft is placed beneath the natural framework of the nose to enhance aesthetic and structural outcomes while avoiding complications associated with traditional methods. This approach is reliable and opens new avenues for addressing associated deformities. The results of this study are significant for practicing rhinoplasty surgeons in the future.",
+      "mcq": [
+        {
+          "q_ar": "ما هي التقنية الجديدة المقدمة في المقالة؟",
+          "q_en": "What is the new technique introduced in the article?",
+          "options_ar": [
+            "أ) Dorsal preservation graft",
+            "ب) Solid cartilage graft",
+            "ج) Diced cartilage fascia",
+            "د) Push-up technique"
+          ],
+          "options_en": [
+            "A) Dorsal preservation graft",
+            "B) Solid cartilage graft",
+            "C) Diced cartilage fascia",
+            "D) Push-up technique"
+          ],
+          "answer": 0,
+          "explanation_ar": "المقالة تقدم تقنية جديدة اسمها dorsal preservation graft.",
+          "explanation_en": "The article introduces a new technique called the dorsal preservation graft."
+        },
+        {
+          "q_ar": "كيف يختلف DPG عن الأساليب التقليدية؟",
+          "q_en": "How does the DPG differ from traditional methods?",
+          "options_ar": [
+            "أ) يحسن النتائج",
+            "ب) يستخدم تحت الإطار الطبيعي",
+            "ج) يتطلب وقت شفاء أقل",
+            "د) جميع ما ذكر"
+          ],
+          "options_en": [
+            "A) Improves outcomes",
+            "B) Positioned under the natural framework",
+            "C) Requires less healing time",
+            "D) All of the above"
+          ],
+          "answer": 3,
+          "explanation_ar": "DPG يختلف لأنه يستخدم تحت الإطار الطبيعي ويحسن النتائج.",
+          "explanation_en": "DPG differs as it is positioned under the natural framework and improves outcomes."
+        },
+        {
+          "q_ar": "ما هي الفوائد الرئيسية لهذه التقنية؟",
+          "q_en": "What are the main benefits of this technique?",
+          "options_ar": [
+            "أ) تحسين الاستقرار",
+            "ب) الحفاظ على الهيكلية الأنفية",
+            "ج) تصحيح التشوهات المرتبطة",
+            "د) جميع ما ذكر"
+          ],
+          "options_en": [
+            "A) Improved stability",
+            "B) Preservation of nasal structure",
+            "C) Correction of associated deformities",
+            "D) All of the above"
+          ],
+          "answer": 3,
+          "explanation_ar": "الفوائد تشمل تحسين الاستقرار والحفاظ على الهيكلية وتصحيح التشوهات.",
+          "explanation_en": "Benefits include improved stability, preservation of structure, and correction of deformities."
+        }
+      ]
+    },
+    {
+      "pmid": "41885891",
+      "title_ar": "Combined effects of lncRNA MIR17HG polymorphisms and lifestyle-related risk factors on the development and progression of tongue squamous cell carcinoma.",
+      "title_en": "Combined effects of lncRNA MIR17HG polymorphisms and lifestyle-related risk factors on the development and progression of tongue squamous cell carcinoma.",
+      "journal": "Bioscience reports",
+      "pub_date": "2026-May-20",
+      "doi": "10.1042/BSR20260002",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41885891/",
+      "pdf_url": "https://portlandpress.com/bioscirep/article-pdf/doi/10.1042/BSR20260002/986424/bsr-2026-0002.pdf",
+      "study_design": "Retrospective series n=more than 100",
+      "summary_ar": "تُظهر هذه الدراسة العلاقة بين تعدد أشكال SNP لجين MIR17HG وتقدم سرطان الخلايا الحرشفية في اللسان (TSCC) لدى الرجال التايوانيين. أظهرت النتائج أن حاملي أليل G من rs75267932 لديهم خطر مرتفع بشكل ملحوظ لتطور الأورام الكبيرة. كانت هذه العلاقة أكثر وضوحًا لدى المرضى المعرضين لعوامل الخطر المتعلقة بنمط الحياة مثل القات والدخان والكحول. عندما تم تقسيم المرضى حسب التعرض، كان تأثير rs75267932 على تقدم المرض هو الأقوى، مما يكشف عن تفاعلات الجين والبيئة في TSCC.",
+      "summary_en": "This study examines the association between MIR17HG SNPs and the progression of tongue squamous cell carcinoma (TSCC) in Taiwanese men. Results revealed that rs75267932 G allele carriers had a significantly elevated risk of developing large tumors. This association was more prominent in patients exposed to lifestyle-related risk factors, including betel quid, cigarette smoke, and alcohol. When patients were stratified by exposure, the effect of rs75267932 on disease progression was strongest, unveiling gene-environment interactions in TSCC.",
+      "practice_change_ar": "يمكن أن يساعد تحديد تعدد أشكال MIR17HG في تقييم مخاطر TSCC في الرجال الآسيويين.",
+      "practice_change_en": "The identification of MIR17HG polymorphisms may help in risk assessment of TSCC in Asian men.",
+      "future_impact_ar": "يمكن أن يشير هذا البحث إلى فحص أساليب جديدة لمراقبة وتقييم المخاطر في علاج TSCC.",
+      "future_impact_en": "This research may suggest new avenues for monitoring and risk assessment strategies in TSCC treatment.",
+      "why_important_ar": "تسلط هذه الدراسة الضوء على تفاعلات الجين والبيئة كعوامل مهمة في تطوير TSCC.",
+      "why_important_en": "This study highlights gene-environment interactions as significant factors in the development of TSCC.",
+      "vs_previous_ar": "تضيف هذه الدراسة معرفة جديدة حول دور تعدد أشكال MIR17HG في سرطان الخلايا الحرشفية في اللسان.",
+      "vs_previous_en": "This study adds new knowledge about the role of MIR17HG polymorphisms in tongue squamous cell carcinoma.",
+      "stars": 4,
+      "stars_reason_ar": "تصميم الدراسة هو سلسلة استعادية لأكثر من 100 مريض وتوفر معلومات جديدة عن دور تعدد أشكال الجين.",
+      "stars_reason_en": "The study design is a retrospective series with more than 100 patients and provides new information about the role of gene polymorphisms.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This research offers new insights into the role of genes in tongue squamous cell carcinoma.",
+      "watch": true,
+      "watch_detail_ar": "يجب متابعة تأثير تعدد أشكال MIR17HG على تقدم TSCC وكيفية استخدامه في تقييم المخاطر.",
+      "watch_detail_en": "The impact of MIR17HG polymorphisms on TSCC progression and their potential use in risk assessment should be monitored.",
+      "watch_type": "drug",
+      "research_gap_ar": "توجد حاجة لدراسات إضافية لاستكشاف الآليات الجزيئية وراء تأثير MIR17HG على تقدم TSCC.",
+      "research_gap_en": "There is a need for further studies to explore the molecular mechanisms behind the impact of MIR17HG on TSCC progression.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "تتناول الدراسة العلاقة بين تعدد أشكال جين MIR17HG وتقدم سرطان الخلايا الحرشفية في اللسان لدى الرجال التايوانيين. أظهرت النتائج أن حاملي أليل G من rs75267932 معرضون بشكل أكبر لتطور الأورام الكبيرة. كانت هذه العلاقة أكثر وضوحًا مع التعرض لعوامل خطر نمط الحياة مثل القات والدخان والكحول. يمكن أن تساعد نتائج هذه الدراسة في تقييم مخاطر TSCC. كما أن الدراسة تسلط الضوء على تفاعلات الجين والبيئة كعوامل رئيسية في تطور TSCC. من المهم متابعة تأثير هذه التعددات الجينية وكيفية استخدامها في تقييم المخاطر.",
+      "audio_script_en": "The study addresses the association between MIR17HG polymorphisms and the progression of tongue squamous cell carcinoma in Taiwanese men. Results showed that G allele carriers of rs75267932 have a higher risk of developing large tumors. This association was more evident with exposure to lifestyle risk factors such as betel quid, cigarette smoke, and alcohol. The findings may aid in risk assessment for TSCC. Additionally, the study highlights gene-environment interactions as significant factors in TSCC development. It is important to monitor the impact of these genetic variants and how they can be used in risk assessment.",
+      "mcq": [
+        {
+          "q_ar": "ما هو الخطر المرتبط بحاملي أليل G من rs75267932 في دراسة سرطان الخلايا الحرشفية في اللسان؟",
+          "q_en": "What risk is associated with G allele carriers of rs75267932 in the tongue squamous cell carcinoma study?",
+          "options_ar": [
+            "أ) خطر مرتفع لتطور الأورام الكبيرة",
+            "ب) خطر منخفض للمضاعفات",
+            "ج) لا يوجد خطر ملحوظ",
+            "د) خطر مرتفع لتطور الأورام الصغيرة"
+          ],
+          "options_en": [
+            "A) Increased risk of developing large tumors",
+            "B) Decreased risk of complications",
+            "C) No significant risk noted",
+            "D) Increased risk of developing small tumors"
+          ],
+          "answer": 0,
+          "explanation_ar": "الدراسة أظهرت أن حاملي أليل G معرضون بشكل مرتفع لتطور الأورام الكبيرة.",
+          "explanation_en": "The study showed that G allele carriers are at increased risk of developing large tumors."
+        },
+        {
+          "q_ar": "ما هي الفائدة المحتملة التي يمكن أن تقدمها تعدد أشكال MIR17HG في العيادة؟",
+          "q_en": "What potential benefit might MIR17HG polymorphisms provide in clinical settings?",
+          "options_ar": [
+            "أ) تحسين العلاجات الكيميائية",
+            "ب) تقييم مخاطر TSCC",
+            "ج) تقليل الوقت للشفاء",
+            "د) زيادة فعالية الجراحة"
+          ],
+          "options_en": [
+            "A) Improved chemotherapy treatments",
+            "B) TSCC risk assessment",
+            "C) Reduced healing time",
+            "D) Increased surgery effectiveness"
+          ],
+          "answer": 1,
+          "explanation_ar": "التعرف على تعدد أشكال MIR17HG قد يساعد في تقييم مخاطر سرطان الخلايا الحرشفية في اللسان.",
+          "explanation_en": "Identifying MIR17HG polymorphisms may assist in risk assessment for tongue squamous cell carcinoma."
+        },
+        {
+          "q_ar": "ما هو نوع الدراسة المستخدمة في هذا البحث؟",
+          "q_en": "What type of study was used in this research?",
+          "options_ar": [
+            "أ) دراسة تجريبية",
+            "ب) سلسلة استعادية",
+            "ج) مراجعة منهجية",
+            "د) دراسة تجريبية عشوائية"
+          ],
+          "options_en": [
+            "A) Experimental study",
+            "B) Retrospective series",
+            "C) Systematic review",
+            "D) Randomized controlled trial"
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسة هي سلسلة استعادية تشمل عددًا كبيرًا من المرضى.",
+          "explanation_en": "The study is a retrospective series involving a large number of patients."
+        }
+      ]
+    },
+    {
+      "pmid": "42159675",
+      "title_ar": "Efficacy of BiPAP/CPAP versus COT in patients with obstructive sleep apnea or obesity undergoing sedated gastroenteroscopy: a meta-analysis.",
+      "title_en": "Efficacy of BiPAP/CPAP versus COT in patients with obstructive sleep apnea or obesity undergoing sedated gastroenteroscopy: a meta-analysis.",
+      "journal": "Journal of anesthesia",
+      "pub_date": "2026-May-20",
+      "doi": "10.1007/s00540-026-03786-w",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42159675/",
+      "pdf_url": null,
+      "study_design": "Meta-analysis 8 studies",
+      "summary_ar": "تقدم هذه التحليل التلوي مقارنة بين BiPAP/CPAP والعلاج بالأكسجين التقليدي (COT) في المرضى الذين يعانون من انقطاع النفس أثناء النوم أو السمنة. تم تضمين ثمانية دراسات عشوائية محكومة مع 1012 مريضًا. أظهرت النتائج أن BiPAP/CPAP قللت بشكل كبير من نقص الأكسجة والاحتياج لرفع الفك. كما سجل جهاز SuperNO2VA الخاص انخفاضًا كبيرًا في نقص الأكسجة. ومع ذلك، يجب مراعاة أن هذه النتائج تستند إلى نتائج فسيولوجية، حيث لم يُبلغ عن نقاط نهاية سريرية مرتبطة بالمريض. يجب إجراء دراسات مستقبلية لمقارنة BiPAP/CPAP مع العلاج بأنبوب الأنف عالي التدفق.",
+      "summary_en": "This meta-analysis compares BiPAP/CPAP with conventional oxygen therapy (COT) in patients with obstructive sleep apnea or obesity. Eight RCTs involving 1012 patients were included. Results showed that BiPAP/CPAP significantly reduced hypoxemia and the need for jaw lift interventions. The device SuperNO2VA also demonstrated significant reductions in hypoxemia. However, these findings are based on physiological surrogate outcomes, with no reported patient-centered clinical endpoints. Future studies should compare BiPAP/CPAP with high-flow nasal cannula therapy.",
+      "practice_change_ar": "يمكن أن يؤدي استخدام BiPAP/CPAP إلى تحسين إدارة المرضى في إجراءات المناظير المهدئة.",
+      "practice_change_en": "The use of BiPAP/CPAP may improve patient management during sedated endoscopy procedures.",
+      "future_impact_ar": "يمكن أن تؤدي النتائج إلى تحسين البروتوكولات السريرية للمرضى المعرضين للخطر.",
+      "future_impact_en": "The findings could lead to improved clinical protocols for high-risk patients.",
+      "why_important_ar": "هذه المقالة تبرز فعالية BiPAP/CPAP في تقليل المخاطر المرتبطة بعمليات التنظير.",
+      "why_important_en": "This article highlights the efficacy of BiPAP/CPAP in reducing risks associated with endoscopy procedures.",
+      "vs_previous_ar": "يختلف هذا التحليل عن المعرفة السابقة من خلال تقديم دليل على فعالية BiPAP/CPAP مقارنة مع COT.",
+      "vs_previous_en": "This analysis differs from prior knowledge by providing evidence for the effectiveness of BiPAP/CPAP compared to COT.",
+      "stars": 5,
+      "stars_reason_ar": "دراسة تحليل تلوي قوية والتي تقدم بيانات جديدة حول إدارة المرضى خلال إجراءات التنظير.",
+      "stars_reason_en": "Strong meta-analysis that provides new data on patient management during endoscopic procedures.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تقدم الدراسة بيانات جديدة يمكن أن تؤثر على الممارسات السريرية.",
+      "jc_reason_en": "The study provides new data that may impact clinical practices.",
+      "watch": true,
+      "watch_detail_ar": "فحص فعالية BiPAP/CPAP في بيئات سريرية مختلفة.",
+      "watch_detail_en": "Monitoring the efficacy of BiPAP/CPAP in different clinical settings.",
+      "watch_type": "device",
+      "research_gap_ar": "لا توجد دراسات سابقة مقارنة مباشرة بين BiPAP/CPAP وأنابيب الأنف عالية التدفق.",
+      "research_gap_en": "There are no prior studies directly comparing BiPAP/CPAP with high-flow nasal cannula therapy.",
+      "subspecialty": "sleep",
+      "audio_script_ar": "تناقش هذه الدراسة فعالية BiPAP/CPAP مقابل COT في المرضى الذين يعانون من انقطاع النفس أثناء النوم أو السمنة. التحليل التلوي يتضمن ثمانية دراسات عشوائية محكومة تضم 1012 مريضًا. النتائج تشير إلى أن BiPAP/CPAP تعمل على تقليل نقص الأكسجة والاحتياج لرفع الفك بشكل كبير. يتطلب الأمر مزيدًا من الدراسات المستقبلية لاستكشاف نتائج سريرية مركزية للمريض. هذه النتائج قد تحسن من كيفية إدارة المرضى خلال إجراءات التنظير.",
+      "audio_script_en": "This study discusses the efficacy of BiPAP/CPAP versus COT in patients with obstructive sleep apnea or obesity. The meta-analysis includes eight randomized controlled trials with 1012 patients. Results indicate that BiPAP/CPAP significantly reduces hypoxemia and the need for jaw lift interventions. Further studies are required to explore patient-centered clinical outcomes. These findings may improve the management of patients undergoing endoscopic procedures.",
+      "mcq": [
+        {
+          "q_ar": "ما هي الفائدة الرئيسية لاستخدام BiPAP/CPAP في هذه الدراسة؟",
+          "q_en": "What is the primary benefit of using BiPAP/CPAP in this study?",
+          "options_ar": [
+            "أ) تقليل نقص الأكسجة.",
+            "ب) زيادة الحاجة للإنعاش.",
+            "ج) زيادة المخاطر العامة.",
+            "د) لا فائدة."
+          ],
+          "options_en": [
+            "A) Reduction of hypoxemia.",
+            "B) Increased need for resuscitation.",
+            "C) Increased overall risks.",
+            "D) No benefit."
+          ],
+          "answer": 0,
+          "explanation_ar": "هذه الدراسة تثبت أن BiPAP/CPAP يقلل من نقص الأكسجة في المرضى.",
+          "explanation_en": "This study shows that BiPAP/CPAP reduces hypoxemia in patients."
+        },
+        {
+          "q_ar": "كم عدد الدراسات المدرجة في التحليل التلوي؟",
+          "q_en": "How many studies were included in the meta-analysis?",
+          "options_ar": [
+            "أ) 6",
+            "ب) 8",
+            "ج) 10",
+            "د) 12"
+          ],
+          "options_en": [
+            "A) 6",
+            "B) 8",
+            "C) 10",
+            "D) 12"
+          ],
+          "answer": 1,
+          "explanation_ar": "تم تضمين ثمانية دراسات في التحليل التلوي.",
+          "explanation_en": "Eight studies were included in the meta-analysis."
+        },
+        {
+          "q_ar": "ما هي النتائج الفرعية التي دعمت BiPAP/CPAP؟",
+          "q_en": "What subgroup analysis favored BiPAP/CPAP?",
+          "options_ar": [
+            "أ) انخفاض مستويات الأكسجين.",
+            "ب) زيادة الجراحة.",
+            "ج) زيادة شعور المريض.",
+            "د) عدم وجود نتائج فرعية."
+          ],
+          "options_en": [
+            "A) Decreased oxygen levels.",
+            "B) Increased surgery.",
+            "C) Increased patient comfort.",
+            "D) No sub-results."
+          ],
+          "answer": 0,
+          "explanation_ar": "ظهر أن التحليل الفرعي يشير إلى انخفاض مستويات الأكسجين.",
+          "explanation_en": "Subgroup analysis indicated decreased oxygen levels."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026052101",
+      "title_ar": "سوق أجهزة الأنف والأذن والحنجرة من المتوقع أن يتجاوز 37580 مليون دولار بحلول عام 2032 مدفوعًا بالإجراءات الحد الأدنى من التدخلات والتطورات التكنولوجية",
+      "title_en": "ENT Devices Market Set to Surpass USD 37580 Million by 2032 Driven by Minimally Invasive Procedures and Technological Advancements",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-05-21",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "من المتوقع أن يتجاوز سوق أجهزة الأنف والأذن والحنجرة 37580 مليون دولار بحلول عام 2032، مدفوعًا بزيادة في الإجراءات الحد الأدنى من التدخلات والتطورات التكنولوجية. يدل هذا النمو على تحول في أنماط العلاج، حيث يتم إعطاء الأولوية للتقنيات الأقل توغلاً التي تعزز من تعافي المرضى ورضاهم. تعكس السوق المتنامية الابتكارات المستمرة ودمج التكنولوجيات الحديثة في ممارسات الأنف والأذن والحنجرة.",
+      "summary_en": "The ENT devices market is projected to exceed USD 37,580 million by 2032, fueled by an increase in minimally invasive procedures and advancements in technology. This growth indicates a shift in treatment paradigms, prioritizing less invasive techniques that enhance patient recovery and satisfaction. The expanding market reflects ongoing innovations and the integration of cutting-edge technologies in ENT practices.",
+      "practice_change_ar": "يبرز هذا النمو في السوق أهمية اعتماد تقنيات جديدة وإجراءات الحد الأدنى من التدخلات في ممارسات الأنف والأذن والحنجرة.",
+      "practice_change_en": "This market growth emphasizes the importance of adopting new technologies and minimally invasive techniques in ENT practices.",
+      "future_impact_ar": "تشير التطورات في أجهزة الأنف والأذن والحنجرة إلى مستقبل واعد حيث تلعب التكنولوجيا دوراً أكبر في تعزيز فعالية العلاج ورعاية المرضى.",
+      "future_impact_en": "Advancements in ENT devices signal a promising future where technology plays a greater role in enhancing treatment efficacy and patient care.",
+      "why_important_ar": "من المحتمل أن يؤدي التحول نحو الإجراءات الأقل توغلاً إلى تحسين نتائج المرضى وزيادة كفاءة الجراحة.",
+      "why_important_en": "The shift toward minimally invasive procedures is likely to improve patient outcomes and increase surgical efficiency.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "يمثل النمو الكبير في السوق فرصة للتطور والتقدم في طرق العلاج.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "مرحبا بكم في نشرة أخبار الأنف والأذن والحنجرة. اليوم، تم الإعلان عن توقعات مثيرة لسوق أجهزة الأنف والأذن والحنجرة، حيث من المتوقع أن يتجاوز حجمه 37580 مليون دولار بحلول عام 2032. يعود ذلك بشكل رئيسي إلى الزيادة في الإجراءات الحد الأدنى من التدخلات والتطورات التكنولوجية السريعة. من المهم للجرّاحين في هذا المجال أن يتبنوا هذه التقنيات الجديدة لتحسين نتائج المرضى وكفاءة العمليات الجراحية. من الواضح أن الاستثمارات في الابتكارات ستستمر في تشكيل مستقبل العلاجات في مجال الأنف والأذن والحنجرة.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026052102",
+      "title_ar": "حجم سوق أجهزة الأنف والأذن والحنجرة في الولايات المتحدة، 2030",
+      "title_en": "U.S. ENT Devices Market Size, Share | Industry Report, 2030",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-05-21",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "وفقًا لتقرير صناعي جديد من Grand View Research، من المتوقع أن ينمو سوق أجهزة الأنف والأذن والحنجرة في الولايات المتحدة بشكل كبير بحلول عام 2030. يحدد التقرير العوامل الأساسية التي ستدفع هذا التوسع، بما في ذلك التقدم في التكنولوجيا وارتفاع انتشار اضطرابات الأنف والأذن والحنجرة. علاوة على ذلك، يبرز التقرير الطلب المتزايد على الإجراءات الأقل تدخلاً، مما من المتوقع أن يشكل اتجاهات السوق. تشير هذه النمو إلى فرص استثمار وتطوير محتملة في تكنولوجيا ومنتجات الأنف والأذن والحنجرة.",
+      "summary_en": "According to a new industry report by Grand View Research, the U.S. ENT devices market is projected to grow significantly by 2030. The report outlines key drivers for this expansion including advances in technology and increasing prevalence of ENT disorders. Moreover, the report emphasizes the rising demand for minimally invasive procedures, which is expected to shape market trends. This growth indicates potential investment and development opportunities in ENT technology and product innovations.",
+      "practice_change_ar": "يعني هذا النمو في السوق أن جراحي الأنف والأذن والحنجرة قد يحصلون على أدوات وتقنيات أكثر تقدمًا لتحسين نتائج المرضى.",
+      "practice_change_en": "This market growth means ENT surgeons may have access to more advanced tools and technologies to improve patient outcomes.",
+      "future_impact_ar": "تشير التوقعات للنمو في هذا السوق إلى زيادة الابتكار والاستثمار في منتجات الأنف والأذن والحنجرة، مما قد يؤدي إلى خيارات علاجية أفضل في المستقبل.",
+      "future_impact_en": "The anticipated growth in this market suggests increased innovation and investment in ENT products, which could lead to better treatment options in the future.",
+      "why_important_ar": "يساعد فهم اتجاهات السوق جراحي الأنف والأذن والحنجرة على البقاء على اطلاع بالتقنيات الجديدة التي يمكن أن تعزز ممارستهم.",
+      "why_important_en": "Understanding market trends allows ENT surgeons to stay informed about new technologies that can enhance their practice.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "تقرير مهم يسلط الضوء على اتجاهات السوق التي تؤثر على جراحة الأنف والأذن والحنجرة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "مرحبًا بكم في نشرة ORL-Bar Daily. وفقًا لتقرير جديد من Grand View Research، من المتوقع أن ينمو سوق أجهزة الأنف والأذن والحنجرة في الولايات المتحدة بشكل كبير بحلول عام 2030. يعكس هذا النمو التطورات في التكنولوجيا وزيادة انتشار الاضطرابات المتعلقة بأذن الأنف والحنجرة. نتطلع معًا إلى المزيد من الابتكارات التي ستساعد في تحسين خيارات العلاج المتاحة في المستقبل.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026052103",
+      "title_ar": "سوق أجهزة توسيع الجيوب الأنفية سيصل إلى 5.50 مليار دولار بحلول عام 2033",
+      "title_en": "Sinus Dilation Devices Market to Reach US$ 5.50 Billion by 2033",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-05-21",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "من المتوقع أن ينمو سوق أجهزة توسيع الجيوب الأنفية بشكل كبير، ليصل إلى قيمة تصل إلى 5.50 مليار دولار بحلول عام 2033. يُعزى هذا النمو إلى زيادة مشكلات الصحة المتعلقة بالجيوب الأنفية والتقدم في تكنولوجيا الرعاية الصحية. تسلط التقارير الضوء على الطلب المتزايد على الإجراءات قليلة التدخل، التي تدفع توسيع السوق. يقوم المصنعون بالابتكار لتلبية احتياجات ممارسات الأنف والأذن والحنجرة، مما يشير إلى وجود مشهد تنافسي.",
+      "summary_en": "The sinus dilation devices market is projected to grow significantly, reaching an estimated value of US$ 5.50 billion by 2033. This growth is attributed to increasing sinus-related health issues and advancements in healthcare technology. The report underscores the rising demand for minimally invasive procedures, which are driving market expansion. Manufacturers are innovating to meet the needs of ENT practices, indicating a competitive landscape.",
+      "practice_change_ar": "يثير هذا النمو في السوق الفرص لجراحي الأنف والأذن والحنجرة لاعتماد تقنيات جديدة ومنهجيات علاجية في ممارساتهم.",
+      "practice_change_en": "This market growth highlights opportunities for ENT surgeons to adopt new technologies and treatment methodologies in their practices.",
+      "future_impact_ar": "في المستقبل، قد يؤدي النمو في هذا القطاع إلى تحسين نتائج المرضى وتوسيع خيارات العلاج في مجال الأنف والأذن والحنجرة.",
+      "future_impact_en": "Going forward, the growth in this sector may lead to improved patient outcomes and expanded treatment options in the field of ENT.",
+      "why_important_ar": "هذا التطور مهم لأنه يشير إلى زيادة الخيارات لعلاج المرضى الذين يعانون من مشكلات الجيوب الأنفية بفعالية.",
+      "why_important_en": "This development is crucial as it suggests an increase in options for treating patients with sinus issues effectively.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 4,
+      "stars_reason_ar": "النمو المتوقع للسوق يظهر أهمية أجهزة توسيع الجيوب الأنفية في تحسين رعاية المرضى.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "مرحبا بكم في نشرة أخبار الأنف والأذن والحنجرة. أعلن مؤخرًا أن سوق أجهزة توسيع الجيوب الأنفية قد يصل إلى 5.50 مليار دولار بحلول عام 2033. يُعزى هذا الارتفاع إلى الطلب المتزايد على الإجراءات الطبية الأقل تدخلًا والتقدم التكنولوجي في الرعاية الصحية. يتيح ذلك لجراحي الأنف والأذن والحنجرة فرصًا كبيرة لاجتذاب تقنيات جديدة وتحسين رعاية المرضى.",
+      "mcq": []
+    }
+  ]
+}
