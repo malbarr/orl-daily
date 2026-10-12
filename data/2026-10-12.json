@@ -1,0 +1,883 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T10:42:16Z",
+  "articles": [
+    {
+      "pmid": "42859059",
+      "title_ar": "Quality of Life Trajectories After Partial Laryngectomy Versus Total Laryngectomy Stratified by Voice Rehabilitation Success.",
+      "title_en": "Quality of Life Trajectories After Partial Laryngectomy Versus Total Laryngectomy Stratified by Voice Rehabilitation Success.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Oct-10",
+      "doi": "10.1016/j.jvoice.2026.09.026",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42859059/",
+      "pdf_url": null,
+      "study_design": "Longitudinal observational cohort n=92",
+      "summary_ar": "قارنت الدراسة مسارات جودة الحياة خلال خمس سنوات لدى 92 مريضًا خضعوا لـ partial laryngectomy (PL)، أو total laryngectomy (TL) مع نجاح إعادة التأهيل الصوتي (TL-S)، أو TL مع فشلها (TL-F). قِيست النتائج باستخدام EORTC QLQ-C30 وEORTC QLQ-H&N35 في ستة أوقات من فترة ما قبل الجراحة حتى خمس سنوات بعدها. عند السنة الخامسة، اقترب Summary Score لدى مجموعة TL-S من مجموعة PL، لكن global health status/QoL بقي أفضل لدى PL. حققت مجموعة TL-S نتائج أفضل في Speech، واقتربت نتائج البلع لديها من PL في الفترات المتأخرة. بالمقابل، استمر ارتفاع عبء مشكلات البلع والأعراض الأخرى، ومنها Social Contact problems وFinancial Difficulties، لدى TL-F. تشير النتائج إلى ارتباط نجاح إعادة التأهيل الصوتي بمسارات جودة الحياة، لكنها لا تثبت أن النجاح هو سبب التحسن أو أن المجموعات قابلة للمقارنة تمامًا.",
+      "summary_en": "This longitudinal observational cohort compared five-year quality-of-life trajectories in 92 patients after partial laryngectomy (PL), total laryngectomy (TL) with successful voice rehabilitation (TL-S), or TL with failed rehabilitation (TL-F). EORTC QLQ-C30 and EORTC QLQ-H&N35 were assessed at six time points, from preoperative baseline through five years. At year five, the TL-S group had a Summary Score comparable to PL, although global health status/QoL remained higher in PL. Speech scores were more favorable in TL-S, and swallowing outcomes approached those of PL at later time points. The TL-F group experienced persistently greater swallowing burden and broader problems, including social contact and financial difficulties. The findings suggest an association between rehabilitation success and long-term QoL, but do not establish causation.",
+      "practice_change_ar": "لا تدعم هذه الدراسة تغيير اختيار العملية اليوم، لكنها تشجع على تقديم المشورة حول أهمية نجاح إعادة التأهيل الصوتي ومتابعته بعد TL.",
+      "practice_change_en": "This study does not support changing procedure selection today, but it reinforces counseling about and follow-up of voice rehabilitation after TL.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية أكبر ومضبوطة على تحديد المرضى الأكثر استفادة من مسارات إعادة التأهيل الصوتي وتحسين نتائج QoL بعد TL.",
+      "future_impact_en": "Larger controlled studies may identify who benefits most from voice-rehabilitation pathways and improve QoL after TL.",
+      "why_important_ar": "تُظهر النتائج أن مآلات QoL بعد TL قد تختلف باختلاف نجاح إعادة التأهيل، وهو جانب مهم عند مناقشة النتائج طويلة الأمد مع المرضى.",
+      "why_important_en": "The findings show that QoL after TL may vary with rehabilitation success, an important consideration when discussing long-term outcomes with patients.",
+      "vs_previous_ar": "بدل التعامل مع TL كمجموعة واحدة، تفصل الدراسة النتائج بحسب نجاح إعادة التأهيل الصوتي وتقارنها بمسار PL على مدى خمس سنوات.",
+      "vs_previous_en": "Rather than treating TL as a single group, this study stratifies outcomes by voice-rehabilitation success and compares five-year trajectories with PL.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة رصدية طولية تضم 92 مريضًا وتقدم معلومات مفيدة عن QoL بعد جراحات الحنجرة، لكن النتائج ارتباطية ولا تثبت السببية أو تغيّر الممارسة؛ لذا تستحق 3 من 5 نجوم.",
+      "stars_reason_en": "This longitudinal observational study of 92 patients provides useful information about QoL after laryngeal surgery, but its associations do not establish causality or change practice; therefore, it merits 3/5 stars.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for journal club discussion of longitudinal outcomes, potential between-group differences, and how rehabilitation success and QoL are defined and assessed.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسة مستقبلية أكبر تضبط اختلافات المرضى والعلاج، وتحدد معايير نجاح إعادة التأهيل الصوتي، وتختبر أثر تدخلات إعادة تأهيل محددة على QoL.",
+      "research_gap_en": "A larger prospective study should adjust for patient and treatment differences, define rehabilitation success, and test the effect of specific rehabilitation interventions on QoL.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة عن مسارات جودة الحياة بعد جراحات سرطان الحنجرة، قارنت بين partial laryngectomy، واختصارًا PL، وبين total laryngectomy أو TL مع تقسيم المرضى بحسب نجاح إعادة التأهيل الصوتي. شملت الدراسة 92 مريضًا: 52 في مجموعة PL، و21 في TL مع نجاح إعادة التأهيل، و19 في TL مع فشلها.\n\nقاس الباحثون QoL باستخدام EORTC QLQ-C30 وEORTC QLQ-H&N35 في ست نقاط زمنية، من قبل العملية إلى خمس سنوات بعدها. عند السنة الخامسة، كان Summary Score في مجموعة TL-S مقاربًا لمجموعة PL، لكن global health status/QoL ظل أعلى لدى PL. كما كانت نتائج Speech أفضل لدى TL-S، واقتربت نتائج البلع من PL في الفترات المتأخرة. أما مجموعة TL-F، فكان لديها عبء مستمر أكبر لمشكلات البلع، إلى جانب مشكلات أوسع شملت Social Contact problems وFinancial Difficulties.\n\nما أهمية ذلك؟ لا ينبغي تفسير النتائج على أنها تثبت أن نجاح إعادة التأهيل يسبب تحسن QoL، أو أن كل المرضى بعد TL يمكن أن يحققوا نتائج مماثلة. الدراسة رصدية، وعدد المرضى محدود، وقد توجد فروق بين المجموعات تؤثر في النتائج. كما أن الملخص لا يوضح تفاصيل كافية عن خصائص المرضى أو تعريف نجاح إعادة التأهيل.\n\nعمليًا، لا تغيّر الدراسة اختيار PL أو TL اليوم، لكنها تدعم مناقشة إعادة التأهيل الصوتي ومتابعته عند التخطيط لـ TL. وهي تذكّر الفرق السريرية بأن نجاح التواصل الصوتي يرتبط بمجالات مهمة من حياة المريض، وأن صعوبات البلع والتواصل والأعباء المالية قد تتداخل. تستحق الدراسة نقاش Journal Club بسبب المتابعة الطويلة وتقسيم النتائج وفق إعادة التأهيل، لكن مستوى الثقة متوسط ولا يكفي وحده لتغيير الممارسة. الخطوة التالية هي دراسة مستقبلية أكبر تضبط الفروق بين المجموعات وتختبر تدخلات إعادة تأهيل محددة.",
+      "audio_script_en": "Today’s study examines long-term quality-of-life trajectories after laryngeal cancer surgery. It compares partial laryngectomy, or PL, with total laryngectomy, or TL, separating TL patients according to whether voice rehabilitation was successful. The cohort included 92 patients: 52 in the PL group, 21 in the successful-rehabilitation group, and 19 in the failed-rehabilitation group.\n\nThe investigators assessed QoL using the EORTC QLQ-C30 and EORTC QLQ-H&N35 at six time points, from before surgery through five years afterward. At five years, the TL-S group had a Summary Score comparable to PL, but global health status/QoL remained higher in PL. Speech scores were more favorable in TL-S, and swallowing outcomes approached those of PL at later assessments. In contrast, TL-F patients had persistently greater swallowing burden, along with broader difficulties including social contact problems and financial difficulties.\n\nThe key message is that long-term QoL after TL may differ according to voice-rehabilitation success. However, this observational study cannot show that rehabilitation success caused the better outcomes, or that all patients receiving TL can expect results similar to PL. The cohort is modest in size, and the abstract does not provide enough detail about potential differences between groups or how rehabilitation success was defined.\n\nFor current practice, the findings do not justify changing the choice between PL and TL. They do support discussing voice rehabilitation as part of TL planning and following patients’ communication, swallowing, and broader QoL needs over time. This is a useful journal-club paper because of its five-year follow-up and rehabilitation-based comparison, but the evidence is not strong enough to drive a practice change. Future prospective studies should better account for patient differences and test specific rehabilitation strategies.",
+      "mcq": [
+        {
+          "q_ar": "ما عدد المرضى ومجموعاتهم في الدراسة؟",
+          "q_en": "How many patients were included, and how were they grouped?",
+          "options_ar": [
+            "أ) 92: 52 PL، و21 TL-S، و19 TL-F",
+            "ب) 92: 52 TL-S، و21 PL، و19 TL-F",
+            "ج) 52: 21 PL، و19 TL-S، و12 TL-F",
+            "د) 100: 52 PL، و21 TL-S، و27 TL-F"
+          ],
+          "options_en": [
+            "A) 92: 52 PL, 21 TL-S, and 19 TL-F",
+            "B) 92: 52 TL-S, 21 PL, and 19 TL-F",
+            "C) 52: 21 PL, 19 TL-S, and 12 TL-F",
+            "D) 100: 52 PL, 21 TL-S, and 27 TL-F"
+          ],
+          "answer": 0,
+          "explanation_ar": "شملت الدراسة 92 مريضًا: 52 في مجموعة PL، و21 في TL-S، و19 في TL-F.",
+          "explanation_en": "The study included 92 patients: 52 in PL, 21 in TL-S, and 19 in TL-F."
+        },
+        {
+          "q_ar": "ما النتيجة المتعلقة بمجموعة TL-S عند خمس سنوات؟",
+          "q_en": "What was reported for the TL-S group at five years?",
+          "options_ar": [
+            "أ) بقي Summary Score أقل بكثير من المجموعتين الأخريين",
+            "ب) اقترب Summary Score من PL، مع بقاء global health status/QoL أعلى لدى PL",
+            "ج) تفوقت على PL في جميع مجالات QoL",
+            "د) لم تُجمع بيانات QoL عند خمس سنوات"
+          ],
+          "options_en": [
+            "A) Its Summary Score remained much lower than both other groups",
+            "B) Its Summary Score was comparable to PL, while global health status/QoL remained higher in PL",
+            "C) It outperformed PL in every QoL domain",
+            "D) QoL data were not collected at five years"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان Summary Score لدى TL-S مقاربًا لـ PL، لكن global health status/QoL ظل أعلى في مجموعة PL.",
+          "explanation_en": "The TL-S Summary Score was comparable to PL, but global health status/QoL remained higher in the PL group."
+        },
+        {
+          "q_ar": "ما أهم قيد عند تفسير ارتباط نجاح إعادة التأهيل بنتائج QoL الأفضل؟",
+          "q_en": "What is the main limitation when interpreting the association between rehabilitation success and better QoL?",
+          "options_ar": [
+            "أ) الدراسة حيوانية ولا تتضمن مرضى",
+            "ب) الدراسة رصدية، ولذلك لا تثبت السببية",
+            "ج) لم تستخدم مقاييس QoL",
+            "د) اقتصرت على متابعة شهر واحد"
+          ],
+          "options_en": [
+            "A) It was an animal study without patients",
+            "B) It was observational and therefore cannot establish causality",
+            "C) It did not use QoL measures",
+            "D) Follow-up was limited to one month"
+          ],
+          "answer": 1,
+          "explanation_ar": "التصميم الرصدي يوضح الارتباطات، لكنه لا يثبت أن نجاح إعادة التأهيل هو سبب تحسن QoL.",
+          "explanation_en": "An observational design can identify associations but cannot establish that rehabilitation success caused better QoL."
+        }
+      ]
+    },
+    {
+      "pmid": "42858245",
+      "title_ar": "New CRS control tests: development and validation by EUFOREA.",
+      "title_en": "New CRS control tests: development and validation by EUFOREA.",
+      "journal": "Rhinology",
+      "pub_date": "2026-Oct-10",
+      "doi": "10.4193/Rhin26.139",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42858245/",
+      "pdf_url": null,
+      "study_design": "International multicentre cross-sectional survey and psychometric validation, n=1,102",
+      "summary_ar": "طوّر الباحثون اختبارين لقياس السيطرة على CRS: اختبار CCT المكوّن من 6 بنود واختبار CPCT المكوّن من 14 بندًا. شملت الدراسة 1,102 مريضًا في 19 مركزًا ضمن 7 دول، وقارنت النتائج بمقاييس منها SNOT-22 وEPOSCT وPGAT ودرجات VAS. أظهر الاختباران ارتباطًا عاليًا مع SNOT-22 وPGAT، وارتباطًا متوسطًا مع المقاييس الأخرى. كما أظهرا اتساقًا داخليًا جيدًا، وقدرة على التمييز، وصلاحية عبر الثقافات. اقترح الباحثون أن تشير درجات CCT ≤15 إلى مرض غير مسيطر عليه، و16-19 إلى سيطرة جزئية، و≥20 إلى سيطرة جيدة. وبالنسبة إلى CPCT، اقترحوا ≥22 لمرض غير مسيطر عليه، و13-21 لسيطرة جزئية، و≤12 لسيطرة جيدة.",
+      "summary_en": "The authors developed two tools to assess control in chronic rhinosinusitis (CRS): the 6-item CCT and 14-item CPCT.\nAn international survey included 1,102 patients from 19 centres in 7 countries.\nBoth tests correlated highly with SNOT-22 and PGAT and moderately with the other comparator measures.\nThe tests showed good internal consistency, discriminative validity, and cross-cultural validity.\nProposed CCT bands are ≤15 uncontrolled, 16–19 partially controlled, and ≥20 well controlled.\nProposed CPCT bands are ≥22 uncontrolled, 13–21 partially controlled, and ≤12 well controlled.",
+      "practice_change_ar": "يمكن للأطباء استخدام CCT أو CPCT كأدوات إضافية موحّدة لتقييم السيطرة على CRS، مع تفسير الدرجات وفق الحدود المقترحة.",
+      "practice_change_en": "Clinicians can use the CCT or CPCT as additional standardized tools to assess CRS control, applying the proposed score thresholds.",
+      "future_impact_ar": "قد يساعد التحقق المستقبلي من الحدود المقترحة على توحيد قياس السيطرة على CRS في المتابعة والدراسات.",
+      "future_impact_en": "Further validation of the proposed thresholds could standardize CRS control assessment in follow-up and research.",
+      "why_important_ar": "توفر الدراسة أداتين عمليتين لقياس السيطرة على CRS في عينة دولية كبيرة ومتنوعة.",
+      "why_important_en": "The study provides two practical tools for measuring CRS control in a large, geographically diverse patient sample.",
+      "vs_previous_ar": "على خلاف الاعتماد على المقاييس الموجودة وحدها، تقدم الدراسة اختبارين جديدين مخصصين لتقييم السيطرة على CRS مع حدود درجات مقترحة.",
+      "vs_previous_en": "Unlike relying solely on existing measures, this study introduces two CRS-specific control tests with proposed score thresholds.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة تحقق متعددة المراكز شملت 1,102 مريضًا، وتقدم أداتين جديدتين بخصائص قياس جيدة؛ وهي إضافة مفيدة للممارسة لكنها لا تثبت وحدها تحسن النتائج أو تغيير التدبير.",
+      "stars_reason_en": "This multicentre validation study included 1,102 patients and presents two novel tools with good psychometric properties; it is useful for practice but does not by itself demonstrate improved outcomes or a change in management.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق الدراسة النقاش لأنها تقارن أداتين جديدتين بمقاييس شائعة وتعرض حدودًا عملية لتصنيف السيطرة على CRS.",
+      "jc_reason_en": "This merits discussion because it compares two new tools with established measures and proposes practical CRS control categories.",
+      "watch": true,
+      "watch_detail_ar": "تُتابع أدوات CCT وCPCT بوصفها مقاييس سريرية جديدة لمعرفة مدى اعتمادها والتحقق من حدودها في مجموعات مستقلة.",
+      "watch_detail_en": "Track the CCT and CPCT as new clinical assessment instruments, particularly for independent validation and uptake in practice.",
+      "watch_type": "instrument",
+      "research_gap_ar": "يلزم التحقق الخارجي من حدود الدرجات المقترحة ودراسة ما إذا كان استخدام الاختبارين يحسن قرارات التدبير أو نتائج المرضى.",
+      "research_gap_en": "External validation of the proposed cutoffs is needed, along with studies of whether using these tests improves management decisions or patient outcomes.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تتناول هذه الدراسة تطوير والتحقق من اختبارين جديدين لقياس السيطرة على التهاب الجيوب الأنفية المزمن، أو CRS. الاختبار الأول هو CCT ويتكون من ستة بنود، أما الثاني فهو CPCT ويتكون من أربعة عشر بندًا. شمل المسح الدولي 1,102 مريضًا من 19 مركزًا في سبع دول، وقارن الاختبارين بمقاييس تشمل SNOT-22 وEPOSCT وPGAT ودرجات VAS. أظهر كل من CCT وCPCT ارتباطًا عاليًا مع SNOT-22 وPGAT، وارتباطًا متوسطًا مع بقية أدوات المقارنة. كما أظهرت النتائج اتساقًا داخليًا جيدًا، وصلاحية تمييزية، وصلاحية عبر الثقافات. اقترح الباحثون اعتبار درجة CCT التي تبلغ 15 أو أقل دلالة على مرض غير مسيطر عليه، ودرجات 16 إلى 19 دلالة على سيطرة جزئية، و20 أو أكثر دلالة على سيطرة جيدة. أما CPCT، فاقترحوا أن تكون الدرجة 22 أو أكثر للمرض غير المسيطر عليه، و13 إلى 21 للسيطرة الجزئية، و12 أو أقل للسيطرة الجيدة. أهمية الدراسة أنها تقدم أداتين مخصصتين لتقييم السيطرة على CRS، مع بيانات تحقق من عينة دولية كبيرة. يمكن للأطباء استخدامهما كإضافة إلى التقييم السريري والمقاييس القائمة، لكنهما لا يحلان محل الحكم السريري. التقييم العام أربع نجوم وثقة متوسطة: النتائج واعدة ومفيدة، لكنها لا تثبت أن استخدام هذه الاختبارات يحسن نتائج المرضى أو يغير التدبير. والخطوة التالية هي التحقق من حدود الدرجات في مجموعات مستقلة، ودراسة أثر استخدامها على القرارات العلاجية والمتابعة.",
+      "audio_script_en": "This study developed and validated two new tests for measuring control in chronic rhinosinusitis, or CRS. The first, the CCT, has six items; the second, the CPCT, has fourteen. The international survey enrolled 1,102 patients from 19 centres in seven countries and compared the tests with measures including SNOT-22, EPOSCT, PGAT, and VAS scores. Both tests correlated highly with SNOT-22 and PGAT, and moderately with the other comparison measures. They also showed good internal consistency, discriminative validity, and cross-cultural validity. The authors propose that a CCT score of 15 or lower indicates uncontrolled disease, 16 to 19 partially controlled disease, and 20 or higher well-controlled disease. For the CPCT, the proposed categories are 22 or higher for uncontrolled disease, 13 to 21 for partially controlled disease, and 12 or lower for well-controlled disease. The key contribution is two CRS-specific control instruments supported by validation data from a large international sample. Clinicians may use them alongside clinical assessment and existing measures, but they should not replace clinical judgment. Overall, this is a four-star, moderate-confidence study: the tools are promising and useful, but the study does not show that their use improves patient outcomes or changes treatment. Independent validation of the proposed cutoffs and research into their effect on clinical decisions and follow-up are important next steps.",
+      "mcq": [
+        {
+          "q_ar": "كم عدد البنود في اختبارَي السيطرة الجديدين على CRS؟",
+          "q_en": "How many items are included in the two new CRS control tests?",
+          "options_ar": [
+            "أ) 6 في CCT و14 في CPCT",
+            "ب) 14 في CCT و6 في CPCT",
+            "ج) 10 في كل اختبار",
+            "د) 22 في CCT و14 في CPCT"
+          ],
+          "options_en": [
+            "A) 6 in the CCT and 14 in the CPCT",
+            "B) 14 in the CCT and 6 in the CPCT",
+            "C) 10 in each test",
+            "D) 22 in the CCT and 14 in the CPCT"
+          ],
+          "answer": 0,
+          "explanation_ar": "يتكون CCT من 6 بنود، بينما يتكون CPCT من 14 بندًا.",
+          "explanation_en": "The CCT has 6 items, while the CPCT has 14."
+        },
+        {
+          "q_ar": "ما نطاق درجة CCT المقترح للدلالة على سيطرة جيدة على المرض؟",
+          "q_en": "What proposed CCT score indicates well-controlled disease?",
+          "options_ar": [
+            "أ) ≤15",
+            "ب) 16-19",
+            "ج) ≥20",
+            "د) ≥22"
+          ],
+          "options_en": [
+            "A) ≤15",
+            "B) 16–19",
+            "C) ≥20",
+            "D) ≥22"
+          ],
+          "answer": 2,
+          "explanation_ar": "اقترح الباحثون أن تشير درجة CCT البالغة 20 أو أكثر إلى سيطرة جيدة.",
+          "explanation_en": "The authors proposed that a CCT score of 20 or higher indicates well-controlled disease."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن الاستخدام السريري لهذه الاختبارات؟",
+          "q_en": "Which conclusion about the clinical use of these tests is most appropriate?",
+          "options_ar": [
+            "أ) ثبت أنها تحسن نتائج المرضى مقارنة بالعلاج المعتاد",
+            "ب) يمكن استخدامها كأدوات إضافية، مع الحاجة إلى تحقق مستقل ودراسة أثرها على النتائج",
+            "ج) لا ترتبط بأي من المقاييس الموجودة",
+            "د) ينبغي أن تحل محل التقييم السريري"
+          ],
+          "options_en": [
+            "A) They have been shown to improve outcomes compared with usual care",
+            "B) They can be used as additional tools, pending independent validation and outcome studies",
+            "C) They are unrelated to existing measures",
+            "D) They should replace clinical assessment"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت الدراسة خصائص قياس جيدة، لكنها لم تختبر ما إذا كان استخدام الاختبارات يحسن النتائج أو يغير التدبير.",
+          "explanation_en": "The study found good psychometric properties but did not test whether using the tools improves outcomes or changes management."
+        }
+      ]
+    },
+    {
+      "pmid": "42860481",
+      "title_ar": "Force feedback and vocal cord dysfunction after robotic esophagectomy: a comparison of the da Vinci 5 and Xi systems.",
+      "title_en": "Force feedback and vocal cord dysfunction after robotic esophagectomy: a comparison of the da Vinci 5 and Xi systems.",
+      "journal": "Journal of robotic surgery",
+      "pub_date": "2026-Oct-12",
+      "doi": "10.1007/s11701-026-04046-5",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42860481/",
+      "pdf_url": null,
+      "study_design": "Retrospective comparative cohort n=163",
+      "summary_ar": "قارنت هذه الدراسة retrospective نتائج 163 مريضًا خضعوا لـ robotic transthoracic esophagectomy لعلاج esophageal squamous cell carcinoma لدى جرّاح واحد. شملت المقارنة 126 مريضًا عولجوا باستخدام da Vinci Xi دون force feedback (FFB)، و37 مريضًا باستخدام da Vinci 5 مع FFB. قيّم الباحثون vocal cord dysfunction، بما يشمل palsy أو hypomobility، باستخدام postoperative laryngoscopy روتيني. كان vocal cord dysfunction أقل في مجموعة DV5 مقارنةً بـ Xi (13.5% مقابل 33.3%)، وظل الارتباط قائمًا بعد multivariable adjustment وinverse probability of treatment weighting (IPTW). كان vocal cord palsy أقل أيضًا مع DV5، لكن الفرق لم يبقَ significant بعد adjustment. لم تختلف أعداد lymph nodes المستأصلة، بينما كان انخفاض 30-day complications في التحليل الاستكشافي أقل وضوحًا بعد IPTW. تشير النتائج إلى احتمال أن يساعد FFB في تقليل nerve injury، لكنها لا تثبت علاقة سببية بسبب التصميم retrospective واختلاف أحجام المجموعتين.",
+      "summary_en": "This retrospective study compared 163 patients undergoing robotic transthoracic esophagectomy for esophageal squamous cell carcinoma by one surgeon. The Xi group included 126 patients without force feedback (FFB), while 37 patients underwent surgery with the da Vinci 5 (DV5), which integrates FFB. Routine postoperative laryngoscopy assessed vocal cord dysfunction, including palsy or hypomobility. Vocal cord dysfunction occurred less often with DV5 than Xi (13.5% vs. 33.3%), and the association persisted after multivariable adjustment and inverse probability of treatment weighting (IPTW). Vocal cord palsy was also less frequent with DV5, but the difference was not significant after adjustment. Lymph node yields were similar; the apparent reduction in 30-day complications was attenuated after IPTW. The findings suggest a possible protective role for FFB but do not establish causality.",
+      "practice_change_ar": "لا تبرر هذه النتائج تغيير الممارسة اليوم، وينبغي اعتبار DV5 خيارًا واعدًا يحتاج إلى تقييم أقوى قبل اعتماد FFB للوقاية من vocal cord dysfunction.",
+      "practice_change_en": "These findings do not justify changing practice today; DV5 remains a promising option requiring stronger evaluation before FFB is adopted to prevent vocal cord dysfunction.",
+      "future_impact_ar": "قد تدعم النتائج إجراء prospective multicenter studies لتحديد ما إذا كان FFB يقلل فعلًا إصابة nerve أثناء robotic esophagectomy.",
+      "future_impact_en": "The findings may support prospective multicenter studies to determine whether FFB truly reduces nerve injury during robotic esophagectomy.",
+      "why_important_ar": "تكتسب الدراسة أهميتها من ربطها بين تقنية robotic platform جديدة ونتيجة laryngeal مهمة جرى تقييمها بواسطة routine laryngoscopy.",
+      "why_important_en": "The study links a new robotic platform feature to an important laryngeal outcome assessed with routine laryngoscopy.",
+      "vs_previous_ar": "تضيف الدراسة بيانات سريرية أولية عن FFB في robotic esophagectomy، بدل الاكتفاء بالافتراض أن تقليل traction يحمي nerve.",
+      "vs_previous_en": "The study adds preliminary clinical data on FFB in robotic esophagectomy rather than relying solely on the assumption that reduced traction protects the nerve.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة retrospective مقارنة بحجم إجمالي جيد (n=163) وتتناول تقنية حديثة ونتيجة ذات صلة سريرية؛ لكن صغر مجموعة DV5 واحتمال confounding وعدم إثبات السببية تحدّ من قوة الدليل والتأثير الفوري على الممارسة.",
+      "stars_reason_en": "This retrospective comparative study has a reasonable overall sample (n=163) and evaluates a novel technology with a clinically relevant outcome, but the small DV5 group, potential confounding, and lack of causal evidence limit its strength and immediate practice impact.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study merits discussion as an early clinical comparison of FFB, particularly regarding confounding and possible time-related differences between system cohorts.",
+      "watch": true,
+      "watch_detail_ar": "ينبغي متابعة da Vinci 5 وتقنية FFB لمعرفة ما إذا كانت الدراسات اللاحقة تؤكد انخفاض vocal cord dysfunction وnerve injury.",
+      "watch_detail_en": "Track the da Vinci 5 and its FFB technology to see whether subsequent studies confirm reductions in vocal cord dysfunction and nerve injury.",
+      "watch_type": "device",
+      "research_gap_ar": "يلزم إجراء prospective multicenter comparative studies مع ضبط عوامل confounding وتقييم موحد لـ vocal cord dysfunction لتأكيد أثر FFB.",
+      "research_gap_en": "Prospective multicenter comparative studies with control of confounders and standardized vocal cord dysfunction assessment are needed to confirm the effect of FFB.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة قارنت نظامي da Vinci Xi وda Vinci 5 أثناء robotic transthoracic esophagectomy، مع تركيز خاص على vocal cord dysfunction بعد الجراحة. تكمن أهمية هذا السؤال في أن إصابة nerve قد تؤدي إلى vocal cord palsy أو hypomobility، وقد تؤثر في صوت المريض ووظيفته بعد العملية. يتميز da Vinci 5 بوجود force feedback، أو FFB، الذي يتيح للجراح الإحساس بالقوة الواقعة على الأنسجة، وقد يساعد نظريًا على الحد من excessive traction.\n\nكانت الدراسة retrospective وشملت 163 مريضًا عولجوا لدى جرّاح واحد: 126 باستخدام Xi من دون FFB، و37 باستخدام DV5 مع FFB. أُجري postoperative laryngoscopy روتيني لتقييم vocal cord dysfunction. بلغت النسبة 33.3% مع Xi، مقابل 13.5% مع DV5. واستمر الارتباط بعد multivariable adjustment وinverse probability of treatment weighting. أما vocal cord palsy، فكان أقل مع DV5، لكن الفرق لم يكن significant بعد adjustment. لم يختلف lymph node yield بين المجموعتين. كما ظهر انخفاض في 30-day complications في التحليل الأولي، إلا أن هذا الفرق تضاءل بعد IPTW.\n\nالرسالة السريرية هي أن FFB تقنية واعدة، لكن هذه النتائج لا تثبت أن التقنية هي سبب انخفاض vocal cord dysfunction. فالمقارنة retrospective، ومجموعة DV5 أصغر، وقد تتداخل عوامل أخرى مع النتائج. لذلك لا تدعم الدراسة تغيير الممارسة أو اعتماد DV5 خصيصًا لمنع laryngeal injury في الوقت الحالي. وتستحق النشر النقاش في journal club لأنها تقدم بيانات سريرية أولية عن جهاز جديد، وتطرح سؤالًا قابلًا للاختبار في دراسات لاحقة.\n\nالخطوة المقبلة هي إجراء prospective multicenter studies مع ضبط أفضل لعوامل confounding، وقياس موحد لنتائج laryngoscopy ومضاعفات المرضى. حتى تتوفر هذه البيانات، يمكن متابعة da Vinci 5 وFFB بوصفهما تقنية تستحق الرصد، لا تدخلًا مثبت الفائدة.",
+      "audio_script_en": "Today we review a comparison of the da Vinci Xi and da Vinci 5 systems during robotic transthoracic esophagectomy, focusing on postoperative vocal cord dysfunction. This outcome matters because nerve injury can cause vocal cord palsy or hypomobility, with consequences for patients’ voice and function. The da Vinci 5 incorporates force feedback, or FFB, which lets the surgeon sense force on tissue and could theoretically reduce excessive traction.\n\nThis retrospective study included 163 patients treated by one surgeon: 126 with the Xi system without FFB and 37 with the DV5 system with FFB. Routine postoperative laryngoscopy was used to assess vocal cord dysfunction. The outcome occurred in 33.3% of the Xi group and 13.5% of the DV5 group. The association persisted after multivariable adjustment and inverse probability of treatment weighting. Vocal cord palsy was also less frequent with DV5, but the difference was not significant after adjustment. Lymph node yields were similar. An initial analysis also suggested fewer 30-day complications with DV5, but that difference was attenuated after IPTW.\n\nThe clinical takeaway is that FFB is promising, but the study does not prove that FFB caused the lower rate of vocal cord dysfunction. The design was retrospective, the DV5 group was smaller, and other factors may have influenced the results. The findings do not justify changing practice or adopting DV5 specifically to prevent laryngeal injury today. The article is appropriate for journal club because it offers early clinical evidence about a new device feature and raises a testable question.\n\nNext steps should include prospective, multicenter studies with better control of confounders and standardized assessment of laryngoscopy findings and patient complications. Until then, the da Vinci 5 and FFB are technologies worth tracking, rather than interventions with proven benefit.",
+      "mcq": [
+        {
+          "q_ar": "ما النتيجة الأساسية التي ارتبطت باستخدام DV5 مع FFB مقارنةً بـ Xi؟",
+          "q_en": "Which primary outcome was associated with DV5 with FFB compared with Xi?",
+          "options_ar": [
+            "أ) انخفاض vocal cord dysfunction",
+            "ب) زيادة lymph node yield",
+            "ج) انخفاض vocal cord palsy المؤكد بعد adjustment",
+            "د) انخفاض مثبت في جميع 30-day complications بعد IPTW"
+          ],
+          "options_en": [
+            "A) Lower vocal cord dysfunction",
+            "B) Increased lymph node yield",
+            "C) Lower vocal cord palsy confirmed after adjustment",
+            "D) A confirmed reduction in all 30-day complications after IPTW"
+          ],
+          "answer": 0,
+          "explanation_ar": "بلغ vocal cord dysfunction نسبة 13.5% مع DV5 مقابل 33.3% مع Xi، واستمر الارتباط بعد adjustment.",
+          "explanation_en": "Vocal cord dysfunction occurred in 13.5% with DV5 versus 33.3% with Xi, and the association persisted after adjustment."
+        },
+        {
+          "q_ar": "ما أبرز قيد منهجي يحد من استنتاج أن FFB هو سبب انخفاض vocal cord dysfunction؟",
+          "q_en": "What is the main methodological limitation on concluding that FFB caused the lower rate of vocal cord dysfunction?",
+          "options_ar": [
+            "أ) الدراسة prospective ومن دون مجموعة مقارنة",
+            "ب) الدراسة retrospective مع احتمال confounding واختلاف حجم المجموعتين",
+            "ج) لم يُقيّم vocal cord function",
+            "د) شملت الدراسة أقل من 10 مرضى"
+          ],
+          "options_en": [
+            "A) The study was prospective and had no comparison group",
+            "B) The study was retrospective, with potential confounding and unequal group sizes",
+            "C) Vocal cord function was not assessed",
+            "D) The study included fewer than 10 patients"
+          ],
+          "answer": 1,
+          "explanation_ar": "التصميم retrospective ومجموعة DV5 أصغر؛ لذلك قد تؤثر confounding factors في العلاقة المرصودة ولا يمكن إثبات السببية.",
+          "explanation_en": "The retrospective design and smaller DV5 group leave room for confounding, so the observed association does not establish causality."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن تغيير الممارسة السريرية اليوم؟",
+          "q_en": "What is the most appropriate conclusion about changing clinical practice today?",
+          "options_ar": [
+            "أ) اعتماد DV5 إلزامي للوقاية من vocal cord palsy",
+            "ب) النتائج تثبت أن FFB يمنع nerve injury",
+            "ج) التقنية واعدة، لكن الأدلة لا تبرر تغيير الممارسة بعد",
+            "د) ينبغي إيقاف robotic esophagectomy"
+          ],
+          "options_en": [
+            "A) DV5 should be mandatory to prevent vocal cord palsy",
+            "B) The results prove that FFB prevents nerve injury",
+            "C) The technology is promising, but the evidence does not yet justify changing practice",
+            "D) Robotic esophagectomy should be discontinued"
+          ],
+          "answer": 2,
+          "explanation_ar": "هذه دراسة retrospective مبكرة تدعم إجراء دراسات أقوى، لكنها لا تثبت أثرًا سببيًا ولا تبرر تغيير الممارسة حاليًا.",
+          "explanation_en": "This early retrospective study supports further research but does not establish a causal effect or justify a practice change now."
+        }
+      ]
+    },
+    {
+      "pmid": "42860249",
+      "title_ar": "Predictive Value of Preoperative Examinations for Early Prognosis After Functional Endoscopic Sinus Surgery in Chronic Rhinosinusitis With Nasal Polyps.",
+      "title_en": "Predictive Value of Preoperative Examinations for Early Prognosis After Functional Endoscopic Sinus Surgery in Chronic Rhinosinusitis With Nasal Polyps.",
+      "journal": "Clinical otolaryngology : official journal of ENT-UK ; official journal of Netherlands Society for Oto-Rhino-Laryngology & Cervico-Facial Surgery",
+      "pub_date": "2026-Oct-11",
+      "doi": "10.1111/coa.70181",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42860249/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort n=181",
+      "summary_ar": "قيّمت هذه prospective cohort ما إذا كانت الفحوصات الروتينية قبل FESS تتنبأ بالنتائج المبكرة لدى 181 مريضًا لديهم bilateral CRSwNP. شملت التقييمات Lund-Mackay CT scores وLund-Kennedy endoscopy scores وsymptom VAS وSNOT-22 وperipheral blood eosinophil counts. كانت preoperative VAS أقوى ارتباطًا بتحسن الأعراض بعد أسبوعين (r=0.633)، وظلت متنبئًا مستقلًا في multivariate analysis (β=0.58). كما تنبأ preoperative SNOT-22 بصورة مستقلة بنتائج الأسبوعين (β=0.15). عند 3 أشهر، ارتبطت blood eosinophil counts بتحسن endoscopy (r=0.305)، بينما تنبأت preoperative Lund-Kennedy scores بنتائج endoscopy عند 6 أشهر (r=0.508). تشير النتائج إلى فائدة التقييم متعدد الوسائط في تقدير المسار المبكر، لكنها لا تثبت أن تغيير التدبير بناءً على هذه المؤشرات يحسن النتائج.",
+      "summary_en": "This prospective cohort assessed whether routine preoperative examinations predict early outcomes after FESS in 181 patients with bilateral CRSwNP.\nAssessments included Lund-Mackay CT scores, Lund-Kennedy endoscopy scores, symptom VAS, SNOT-22, and peripheral blood eosinophil counts.\nPreoperative VAS had the strongest association with symptom improvement at two weeks (r=0.633) and remained an independent predictor (β=0.58).\nPreoperative SNOT-22 also independently predicted two-week outcomes (β=0.15).\nAt three months, blood eosinophil counts predicted endoscopic improvement (r=0.305); preoperative Lund-Kennedy scores predicted six-month endoscopic outcomes (r=0.508).\nThe findings support multimodal assessment for counseling, but do not show that acting on these predictors improves outcomes.",
+      "practice_change_ar": "لا يبرر هذا البحث تغيير التدبير الجراحي، لكنه يدعم استخدام VAS وSNOT-22 وendoscopy وeosinophil counts لتقديم توقعات أكثر تخصيصًا بعد FESS.",
+      "practice_change_en": "This study does not justify changing surgical management, but supports using VAS, SNOT-22, endoscopy, and eosinophil counts to provide more individualized expectations after FESS.",
+      "future_impact_ar": "قد تساعد دراسة مستقبلية متعددة المراكز مع validation خارجي على تحديد مدى موثوقية هذه المؤشرات في توجيه المتابعة بعد FESS.",
+      "future_impact_en": "A future multicenter study with external validation could establish how reliably these measures guide follow-up after FESS.",
+      "why_important_ar": "توضح الدراسة أن المؤشرات المختلفة قبل الجراحة قد ترتبط بمخرجات سريرية وفي أوقات متابعة مختلفة لدى مرضى CRSwNP.",
+      "why_important_en": "The study suggests that different preoperative measures may relate to distinct clinical outcomes and follow-up time points in CRSwNP.",
+      "vs_previous_ar": "بدل الاعتماد على مقياس منفرد، تربط الدراسة عدة فحوصات روتينية بنتائج مبكرة محددة زمنيًا، دون أن تثبت تفوقها على نماذج تنبؤية سابقة.",
+      "vs_previous_en": "Rather than relying on a single measure, the study relates several routine assessments to time-specific early outcomes, without establishing superiority over existing prediction models.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة prospective cohort جيدة الحجم (n=181) وذات صلة سريرية، لكنها تقيس الارتباط والتنبؤ ولا تثبت فائدة تغيير الممارسة أو تقدم validation خارجيًا؛ لذلك تستحق 3 من 5.",
+      "stars_reason_en": "This reasonably sized prospective cohort (n=181) is clinically relevant, but demonstrates prediction and association rather than benefit from changing practice and lacks external validation; therefore, 3 of 5 stars.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because this adequately sized prospective study compares common pre-FESS measures and reports associations with outcomes at different follow-up times, while inviting scrutiny of prediction versus association.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم التحقق خارجيًا من هذه المؤشرات وتقييم ما إذا كان استخدامها لتخصيص المتابعة أو العلاج يحسن نتائج المرضى.",
+      "research_gap_en": "External validation is needed, along with evaluation of whether using these predictors to tailor follow-up or treatment improves patient outcomes.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نتناول اليوم دراسة عن التنبؤ بالنتائج المبكرة بعد FESS لدى مرضى CRSwNP. شملت الدراسة prospective cohort من 181 مريضًا لديهم bilateral nasal polyps، وتابعتهم بعد الجراحة عند أسبوعين، ثم شهر، وثلاثة أشهر، وستة أشهر. قبل الجراحة، قيّم الباحثون Lund-Mackay CT scores وLund-Kennedy endoscopy scores وsymptom VAS وSNOT-22 وperipheral blood eosinophil counts. كان preoperative VAS أقوى مؤشر مرتبط بتحسن الأعراض بعد أسبوعين، بمعامل ارتباط r يساوي 0.633، وظل متنبئًا مستقلًا في multivariate analysis. كما تنبأ SNOT-22 بنتائج الأسبوعين بصورة مستقلة. وفي التقييمات اللاحقة، ارتبطت blood eosinophil counts بتحسن endoscopy عند ثلاثة أشهر، بينما ارتبط Lund-Kennedy score قبل الجراحة بنتائج endoscopy عند ستة أشهر. الرسالة العملية ليست تغيير اختيار المرضى أو تفاصيل FESS؛ بل يمكن استخدام هذه التقييمات لمناقشة التوقعات بصورة أكثر تخصيصًا، مع توضيح أن التنبؤ ليس ضمانًا للنتيجة. قوة الدراسة تصميمها المستقبلي وحجمها الملائم، لكن النتائج مبنية على الارتباطات ولا تثبت أن التدخل بناءً على هذه المؤشرات يحسن النتائج، كما أن external validation غير مذكور. لذلك نقيّمها بثلاث نجوم من خمس، وبثقة متوسطة، ونراها مناسبة للنقاش في journal club. الفجوة التالية هي التحقق من النتائج في مجموعات مستقلة، ثم اختبار ما إذا كان تخصيص المتابعة أو العلاج وفق هذه المؤشرات يعود بفائدة ملموسة على المرضى.",
+      "audio_script_en": "Today’s paper examines prediction of early outcomes after FESS in patients with CRSwNP. This prospective cohort included 181 patients with bilateral nasal polyps, followed at two weeks and at one, three, and six months after surgery. Preoperative assessments included Lund-Mackay CT scores, Lund-Kennedy endoscopy scores, symptom VAS, SNOT-22, and peripheral blood eosinophil counts. Preoperative VAS was most strongly associated with symptom improvement at two weeks, with a correlation of 0.633, and remained an independent predictor in multivariable analysis. SNOT-22 also independently predicted two-week outcomes. At later assessments, blood eosinophil counts were associated with endoscopic improvement at three months, while the preoperative Lund-Kennedy score was associated with endoscopic outcomes at six months. The practical message is not to change patient selection or the conduct of FESS. Rather, these routine measures may help clinicians give more individualized expectations, while making clear that a prediction is not a guarantee. Strengths include the prospective design and reasonable sample size. However, the findings describe associations and prediction; they do not show that management guided by these measures improves outcomes, and external validation is not reported. We rate the paper three out of five stars, with moderate confidence, and consider it suitable for journal club. The key research gap is validation in independent cohorts, followed by testing whether predictor-guided follow-up or treatment produces meaningful patient benefit.",
+      "mcq": [
+        {
+          "q_ar": "ما المؤشر الذي أظهر أقوى ارتباط بتحسن الأعراض بعد أسبوعين من FESS؟",
+          "q_en": "Which measure showed the strongest association with symptom improvement two weeks after FESS?",
+          "options_ar": [
+            "أ) Lund-Mackay CT score",
+            "ب) Preoperative VAS",
+            "ج) Blood eosinophil count",
+            "د) Lund-Kennedy endoscopy score"
+          ],
+          "options_en": [
+            "A) Lund-Mackay CT score",
+            "B) Preoperative VAS",
+            "C) Blood eosinophil count",
+            "D) Lund-Kennedy endoscopy score"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان preoperative VAS أقوى ارتباطًا بتحسن الأعراض عند أسبوعين (r=0.633)، وظل متنبئًا مستقلًا.",
+          "explanation_en": "Preoperative VAS had the strongest association with two-week symptom improvement (r=0.633) and remained an independent predictor."
+        },
+        {
+          "q_ar": "أي مؤشر تنبأ بتحسن endoscopy عند 3 أشهر؟",
+          "q_en": "Which measure predicted endoscopic improvement at three months?",
+          "options_ar": [
+            "أ) SNOT-22",
+            "ب) Lund-Mackay CT score",
+            "ج) Blood eosinophil counts",
+            "د) Preoperative VAS"
+          ],
+          "options_en": [
+            "A) SNOT-22",
+            "B) Lund-Mackay CT score",
+            "C) Blood eosinophil counts",
+            "D) Preoperative VAS"
+          ],
+          "answer": 2,
+          "explanation_ar": "ارتبطت blood eosinophil counts بتحسن endoscopy عند 3 أشهر (r=0.305).",
+          "explanation_en": "Blood eosinophil counts were associated with endoscopic improvement at three months (r=0.305)."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن تطبيق نتائج الدراسة؟",
+          "q_en": "What is the most appropriate clinical interpretation of the findings?",
+          "options_ar": [
+            "أ) تثبت أن تغيير تفاصيل FESS وفق eosinophil counts يحسن النتائج.",
+            "ب) تثبت أن VAS يغني عن بقية الفحوصات قبل الجراحة.",
+            "ج) قد تدعم التوقعات الفردية، لكنها لا تثبت أن التدبير الموجه بهذه المؤشرات يحسن النتائج.",
+            "د) تدعم إلغاء المتابعة بالمنظار بعد الجراحة."
+          ],
+          "options_en": [
+            "A) They prove that changing FESS based on eosinophil counts improves outcomes.",
+            "B) They prove that VAS can replace all other preoperative assessments.",
+            "C) They may support individualized expectations, but do not prove predictor-guided management improves outcomes.",
+            "D) They support stopping postoperative endoscopic follow-up."
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة prospective cohort للتنبؤ والارتباط؛ لم تختبر ما إذا كان تغيير التدبير استنادًا إلى المؤشرات يحسن النتائج.",
+          "explanation_en": "This prospective cohort evaluated prediction and association; it did not test whether changing management based on the measures improves outcomes."
+        }
+      ]
+    },
+    {
+      "pmid": "42860243",
+      "title_ar": "Early Versus Late Injection Laryngoplasty for Unilateral Vocal Fold Paralysis.",
+      "title_en": "Early Versus Late Injection Laryngoplasty for Unilateral Vocal Fold Paralysis.",
+      "journal": "Clinical otolaryngology : official journal of ENT-UK ; official journal of Netherlands Society for Oto-Rhino-Laryngology & Cervico-Facial Surgery",
+      "pub_date": "2026-Oct-11",
+      "doi": "10.1111/coa.70179",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42860243/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort n=48",
+      "summary_ar": "قيّمت هذه الدراسة prospective cohort تضم 48 مريضًا لديهم unilateral vocal fold paralysis، وقارنت نتائج injection medialization laryngoplasty المبكر، قبل مرور 6 أشهر، بالحقن المتأخر عند 6 أشهر أو أكثر. استُخدم hyaluronic acid، وقُيّمت voice outcomes قبل الإجراء وبعده، بما يشمل MPT وGRBAS وacoustic measures وArabic VHI. أظهرت مجموعة الحقن المبكر MPT أعلى عند المتابعة المبكرة وعند 6 أشهر، كما كانت long-term acoustic measures أفضل. احتاج عدد أقل من المرضى في المجموعة المبكرة إلى Type I thyroplasty، مع p-value=0.001. تشير النتائج إلى ارتباط التدخل المبكر بنتائج صوتية أفضل وباحتمال أقل للحاجة إلى جراحة دائمة، لكنها لا تثبت السببية بسبب التصميم observational. كما أن توقيت تقييم MPT غير متسق بين وصف methods والنتائج في abstract، ما يستدعي الحذر في تفسير التفاصيل الزمنية.",
+      "summary_en": "This prospective cohort included 48 patients with unilateral vocal fold paralysis and compared early injection medialization laryngoplasty (<6 months) with later injection (≥6 months).\nHyaluronic acid was used, and voice outcomes included MPT, GRBAS, acoustic measures, and Arabic VHI.\nThe early-injection group had higher MPT at early follow-up and at 6 months, with better long-term acoustic measures.\nFewer patients in the early group required Type I thyroplasty (p=0.001).\nThe findings associate earlier intervention with better voice outcomes and less need for permanent medialization, but the observational design cannot establish causality.\nThe abstract also reports different early assessment time points in the methods and results, warranting caution when interpreting the timing details.",
+      "practice_change_ar": "تدعم النتائج مناقشة injection laryngoplasty مبكرًا لدى مرضى unilateral vocal fold paralysis، لكنها لا تكفي وحدها لتغيير الممارسة أو فرض توقيت محدد.",
+      "practice_change_en": "The findings support discussing early injection laryngoplasty for unilateral vocal fold paralysis, but are insufficient on their own to mandate a timing change.",
+      "future_impact_ar": "قد تساعد دراسات prospective أكبر ومضبوطة في تحديد ما إذا كان الحقن قبل 6 أشهر يقلل فعلًا الحاجة إلى Type I thyroplasty ويحسن النتائج طويلة الأمد.",
+      "future_impact_en": "Larger controlled prospective studies could determine whether injection before 6 months truly reduces the need for Type I thyroplasty and improves long-term outcomes.",
+      "why_important_ar": "تتناول الدراسة سؤالًا سريريًا مهمًا حول توقيت تدخل مؤقت قد يحسن الصوت ويؤثر في الحاجة اللاحقة إلى جراحة دائمة.",
+      "why_important_en": "The study addresses a clinically relevant question about whether timing of a temporary intervention affects voice outcomes and later need for permanent surgery.",
+      "vs_previous_ar": "تضيف الدراسة مقارنة مباشرة بين الحقن المبكر والمتأخر، بينما لا تبرهن على تفوق سببي بسبب غياب التوزيع العشوائي ومجموعة ضابطة واضحة.",
+      "vs_previous_en": "It adds a direct comparison of early versus late injection, but does not demonstrate a causal advantage because there was no randomization or clearly described control group.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة prospective cohort ذات صلة سريرية وحجمها 48 مريضًا، وتُظهر نتائج مفيدة عن توقيت الحقن؛ لكن التصميم observational، وغياب التوزيع العشوائي، والتفاصيل المحدودة تقلل قوة الاستنتاج، لذا تستحق 3/5.",
+      "stars_reason_en": "This clinically relevant prospective cohort of 48 patients provides useful timing data, but its observational design, lack of randomization, and limited abstract details weaken causal inference; 3/5.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for discussion because it addresses a practical question about injection timing and raises issues of confounding, comparator limitations, and inconsistent assessment timing in the abstract.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسة عشوائية أو prospective مضبوطة ذات متابعة أطول ومعايير موحدة لتحديد أثر توقيت injection laryngoplasty على الصوت والبلع والحاجة إلى الجراحة الدائمة.",
+      "research_gap_en": "A randomized or controlled prospective study with longer follow-up and standardized outcomes is needed to determine how injection timing affects voice, swallowing, and the need for permanent surgery.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نراجع اليوم دراسة بعنوان Early Versus Late Injection Laryngoplasty for Unilateral Vocal Fold Paralysis، نُشرت في Clinical Otolaryngology. السؤال العملي هو: هل يؤدي إجراء injection medialization laryngoplasty مبكرًا، قبل مرور 6 أشهر على بدء unilateral vocal fold paralysis، إلى نتائج أفضل من الانتظار؟\n\nشملت الدراسة prospective cohort عددها 48 مريضًا، قُسموا إلى مجموعة حقن مبكر ومجموعة حقن متأخر. استُخدم hyaluronic acid، وقاس الباحثون voice outcomes قبل الحقن وبعده، ومنها MPT وGRBAS وacoustic measures وArabic VHI. أظهرت النتائج أن مجموعة الحقن المبكر حققت MPT أعلى في المتابعة المبكرة وعند 6 أشهر، وأن long-term acoustic measures كانت أفضل. كذلك احتاج عدد أقل من أفراد المجموعة المبكرة إلى Type I thyroplasty، مع p-value يساوي 0.001.\n\nالأهمية السريرية أن النتائج تدعم التفكير في التدخل المبكر بدل الانتظار تلقائيًا، وقد يشكل الحقن المؤقت وسيلة لتحسين glottic closure والصوت ريثما يتضح مسار التعافي. لكن هذه ليست تجربة عشوائية؛ لذلك قد تؤثر اختلافات المرضى أو أسباب paralysis في النتائج، ولا يمكن الجزم بأن التوقيت وحده سبب الفروق. كما أن abstract يذكر نقطة تقييم مبكرة مختلفة في methods عنها في النتائج، لذا ينبغي التحقق من النص الكامل قبل اعتماد تفاصيل التوقيت.\n\nتقييمنا ثلاث نجوم من خمس، والثقة متوسطة: دراسة prospective ذات سؤال مهم ونتائج مشجعة، لكنها لا تكفي لتغيير الممارسة بصورة إلزامية. تصلح لمناقشة journal club، خصوصًا حول اختيار المرضى، confounding، ومقاييس النتائج. لا تعرض الدراسة تقنية أو أداة جديدة تستدعي المراقبة بحد ذاتها. الخطوة التالية هي دراسة أكبر مضبوطة، مع متابعة أطول وقياس موحد للصوت والبلع والحاجة إلى Type I thyroplasty. الخلاصة: ناقشوا injection laryngoplasty المبكر مع المرضى المناسبين، مع مراعاة السياق السريري وعدم اعتبار الارتباط دليلًا على السببية.",
+      "audio_script_en": "Today we are reviewing “Early Versus Late Injection Laryngoplasty for Unilateral Vocal Fold Paralysis,” published in Clinical Otolaryngology. The practical question is whether injection medialization laryngoplasty before six months from onset produces better outcomes than waiting six months or longer.\n\nThis prospective cohort included 48 patients with unilateral vocal fold paralysis, divided into early- and late-injection groups. Patients received hyaluronic acid. Outcomes included MPT, GRBAS, acoustic measures, and Arabic VHI. The early group had higher MPT at early follow-up and at six months, and better long-term acoustic measures. Fewer patients in that group went on to Type I thyroplasty; the reported p-value was 0.001.\n\nClinically, the findings support considering earlier intervention rather than automatically waiting. Temporary injection may improve glottic closure and voice while the clinical course becomes clearer. However, this was not a randomized trial. Differences in patient characteristics or causes of paralysis may have influenced the results, so the study cannot establish that timing itself caused the observed benefit. There is also a discrepancy in the abstract: the early assessment time point in the methods does not match the time point reported in the results. The full article should be checked before interpreting that detail.\n\nWe rate this three out of five stars, with moderate confidence. It is a prospective study addressing an important clinical question, but it is not strong enough to mandate a practice change. It is a good journal-club paper, particularly for discussing patient selection, confounding, and outcome measures. It does not introduce a new technology or device to track. A larger controlled study with longer follow-up and standardized voice, swallowing, and surgery outcomes is needed. In the meantime, clinicians can discuss early injection with appropriate patients, while treating these findings as an association rather than proof of causation.",
+      "mcq": [
+        {
+          "q_ar": "كيف عرّفت الدراسة مجموعة الحقن المبكر؟",
+          "q_en": "How did the study define the early-injection group?",
+          "options_ar": [
+            "أ) الحقن خلال أقل من 6 أشهر من بدء paralysis",
+            "ب) الحقن بعد 6 أشهر أو أكثر",
+            "ج) الحقن خلال أسبوع واحد فقط",
+            "د) الحقن بعد إجراء Type I thyroplasty"
+          ],
+          "options_en": [
+            "A) Injection less than 6 months after paralysis onset",
+            "B) Injection at 6 months or later",
+            "C) Injection within one week only",
+            "D) Injection after Type I thyroplasty"
+          ],
+          "answer": 0,
+          "explanation_ar": "عرّفت الدراسة الحقن المبكر بأنه injection قبل مرور 6 أشهر من بدء paralysis.",
+          "explanation_en": "The study defined early injection as occurring less than 6 months after paralysis onset."
+        },
+        {
+          "q_ar": "أي نتيجة جراحية لاحقة كانت أقل في مجموعة الحقن المبكر؟",
+          "q_en": "Which subsequent surgical outcome was less frequent in the early-injection group?",
+          "options_ar": [
+            "أ) Type I thyroplasty",
+            "ب) Septoplasty",
+            "ج) Tympanoplasty",
+            "د) Mastoidectomy"
+          ],
+          "options_en": [
+            "A) Type I thyroplasty",
+            "B) Septoplasty",
+            "C) Tympanoplasty",
+            "D) Mastoidectomy"
+          ],
+          "answer": 0,
+          "explanation_ar": "احتاج عدد أقل من المرضى في مجموعة الحقن المبكر إلى Type I thyroplasty، مع p-value=0.001.",
+          "explanation_en": "Fewer patients in the early group required Type I thyroplasty (p=0.001)."
+        },
+        {
+          "q_ar": "ما أهم قيد منهجي عند تفسير تفوق الحقن المبكر؟",
+          "q_en": "What is the main methodological limitation when interpreting the apparent benefit of early injection?",
+          "options_ar": [
+            "أ) الدراسة observational وليست randomized، لذلك لا تثبت السببية",
+            "ب) لم تشمل أي voice outcomes",
+            "ج) أُجريت على حيوانات فقط",
+            "د) كان عدد المرضى أقل من 10"
+          ],
+          "options_en": [
+            "A) It was observational, not randomized, so it cannot establish causality",
+            "B) It included no voice outcomes",
+            "C) It was conducted only in animals",
+            "D) It included fewer than 10 patients"
+          ],
+          "answer": 0,
+          "explanation_ar": "تصميم prospective cohort يسمح برصد الارتباط، لكنه لا يستبعد confounding ولا يثبت أن توقيت الحقن سبب النتائج.",
+          "explanation_en": "A prospective cohort can identify associations but cannot rule out confounding or prove that injection timing caused the outcomes."
+        }
+      ]
+    },
+    {
+      "pmid": "42860297",
+      "title_ar": "Free Mucosal Grafting Is a Simple Adjunct for Rapid Re-Epithelization in Septal Perforation Repair.",
+      "title_en": "Free Mucosal Grafting Is a Simple Adjunct for Rapid Re-Epithelization in Septal Perforation Repair.",
+      "journal": "The Laryngoscope",
+      "pub_date": "2026-Oct-11",
+      "doi": "10.1002/lary.70966",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42860297/",
+      "pdf_url": "https://doi.org/10.1002/lary.70966",
+      "study_design": "Consecutive case series, n=90",
+      "summary_ar": "قيّمت هذه الدراسة استخدام contralateral free mucosal graft فوق collagen matrix interlay أثناء endoscopic nasal septal perforation (NSP) repair. شملت الدراسة 90 مريضًا، وكان median follow-up أربعة أشهر، واستُخدم anterior ethmoidal artery flap في 95.6% من الحالات. تحقق complete free graft integration في 85.6% من جميع الحالات، بينما كان integration جزئيًا في 6.7%. بلغ anatomical closure نسبة 90.0%، وكان complete graft integration موجودًا في 92.6% من حالات الإغلاق الناجح. تحسنت درجات Miglani endoscopic score وSNOT-22 nasal subdomain بعد الجراحة، مع p<0.001 لكليهما. تشير النتائج إلى أن هذا graft قد يساعد على reepithelialization في الجهة المقابلة، لكنها لا تثبت تفوقه على repair دون graft بسبب غياب مجموعة مقارنة.",
+      "summary_en": "This consecutive case series evaluated contralateral free mucosal grafting on a collagen matrix interlay during endoscopic nasal septal perforation (NSP) repair. It included 90 patients, with a median follow-up of four months; an anterior ethmoidal artery flap was used in 95.6% of cases. Complete free graft integration occurred in 85.6% of all cases, with partial integration in 6.7%. Anatomical closure was achieved in 90.0%, and complete graft integration was present in 92.6% of successfully closed cases. Miglani endoscopic scores and SNOT-22 nasal subdomain scores improved significantly after surgery (p<0.001 for both). The findings suggest the graft may support reepithelialization on the contralateral side, but the absence of a comparator group means superiority over repair without a graft is unproven.",
+      "practice_change_ar": "يمكن للجراحين التفكير في إضافة contralateral free mucosal graft إلى NSP repair، لكن هذه الدراسة وحدها لا تبرر اعتباره معيارًا إلزاميًا.",
+      "practice_change_en": "Surgeons may consider adding a contralateral free mucosal graft to NSP repair, but this study alone does not justify making it mandatory standard practice.",
+      "future_impact_ar": "قد تدعم دراسات مقارنة مستقبلية تحديد ما إذا كان graft يحسن الإغلاق أو سرعة reepithelialization مقارنةً بـ repair دون graft.",
+      "future_impact_en": "Future comparative studies could determine whether the graft improves closure or reepithelialization speed compared with repair without a graft.",
+      "why_important_ar": "تقدم الدراسة نتائج سريرية من 90 مريضًا حول adjunct بسيط يستهدف مخاطية septum المقابلة المعرضة للجفاف وضعف الالتئام.",
+      "why_important_en": "The study provides clinical results in 90 patients for a simple adjunct targeting the contralateral septal mucosa, which is vulnerable to desiccation and poor healing.",
+      "vs_previous_ar": "تتناول الدراسة استخدام contralateral free mucosal graft مع vascularized flap، وهو adjunct أقل توثيقًا من استخدام flaps وحدها في NSP repair.",
+      "vs_previous_en": "The study evaluates a contralateral free mucosal graft alongside a vascularized flap, an adjunct less established than flap-only approaches to NSP repair.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة case series متتابعة متوسطة الحجم من مجلة The Laryngoscope، وتضيف دليلًا سريريًا مفيدًا على تقنية بسيطة؛ لكن غياب مجموعة مقارنة وقصر median follow-up يمنعان منحها أعلى تقييم.",
+      "stars_reason_en": "This moderately sized consecutive case series in The Laryngoscope adds useful clinical evidence for a simple technique, but the lack of a comparator and short median follow-up preclude the highest rating.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسبة للنقاش حول طريقة تقييم graft integration، واحتمال تحيز اختيار المرضى، والحاجة إلى مقارنة مباشرة مع NSP repair دون graft.",
+      "jc_reason_en": "Suitable for discussion of how graft integration was assessed, potential selection bias, and the need for direct comparison with NSP repair without a graft.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا استخدام collagen matrix interlay كدعامة للـ free mucosal graft، إذ قد يؤثر في ثبات graft والتئامه، مع الحاجة إلى مقارنة مستقبلية.",
+      "watch_detail_en": "Track the use of a collagen matrix interlay as a support for the free mucosal graft, as it may affect graft stability and healing and warrants prospective comparison.",
+      "watch_type": "device",
+      "research_gap_ar": "يلزم إجراء دراسة مقارنة مستقبلية تقيس graft integration وclosure ووقت reepithelialization ومضاعفات repair مع graft ومن دونه، مع follow-up أطول.",
+      "research_gap_en": "A prospective comparative study is needed to measure graft integration, closure, time to reepithelialization, and repair complications with versus without a graft, with longer follow-up.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم دراسة في The Laryngoscope عن استخدام contralateral free mucosal graft كإضافة إلى endoscopic repair of nasal septal perforation، أو NSP. الفكرة هي تغطية الجهة المقابلة للـ vascularized flap بـ free mucosal graft فوق collagen matrix interlay، للمساعدة على إعادة تكوّن الظهارة في منطقة معرضة للجفاف وضعف الالتئام.\n\nشملت الدراسة 90 مريضًا خضعوا للجراحة بين عامي 2014 و2025، وكان median follow-up أربعة أشهر. استُخدم anterior ethmoidal artery flap في معظم الحالات، بنسبة 95.6%. كان complete integration للـ free graft 85.6% من جميع المرضى، وبلغ anatomical closure 90%. ومن المرضى الذين تحقق لديهم الإغلاق، أظهر 92.6% complete graft integration. كما تحسنت درجات Miglani endoscopic score وSNOT-22 nasal subdomain بعد الجراحة، وكان p-value أقل من 0.001 لكل منهما.\n\nما الذي تعنيه النتائج عمليًا؟ تشير إلى أن contralateral free mucosal graft قابل للالتئام غالبًا، وقد يكون adjunct بسيطًا في repair، خصوصًا لتغطية الجهة المقابلة المعرضة لمشكلات الالتئام. لكن التصميم هو case series دون مجموعة مقارنة؛ لذلك لا يمكن الجزم بأن graft هو سبب تحسن الإغلاق أو أنه أفضل من NSP repair دون graft. كما أن median follow-up قصير نسبيًا، فلا تكفي النتائج لتقدير الاستدامة على المدى الطويل.\n\nالخلاصة: يمكن للجراحين التفكير في هذه التقنية وفقًا للحالة والخبرة، لكنها ليست دليلًا كافيًا لفرض تغيير الممارسة أو جعل graft إلزاميًا. ستكون الخطوة التالية دراسة مقارنة prospective تقيس closure، وسرعة reepithelialization، ومضاعفات repair، مع follow-up أطول. تستحق الدراسة النقاش في journal club لأنها تطرح adjunct عمليًا مع نتائج واعدة، لكنها تترك سؤال الفائدة الإضافية دون إجابة حاسمة.",
+      "audio_script_en": "Today’s article in The Laryngoscope examines contralateral free mucosal grafting as an adjunct to endoscopic repair of nasal septal perforation, or NSP. The approach places a free mucosal graft on a collagen matrix interlay opposite the vascularized flap, aiming to promote reepithelialization in an area vulnerable to desiccation and poor healing.\n\nThe consecutive case series included 90 patients treated between 2014 and 2025, with a median follow-up of four months. An anterior ethmoidal artery flap was used in 95.6% of cases. Complete free graft integration occurred in 85.6% of all patients, and anatomical closure was achieved in 90%. Among patients with successful closure, 92.6% had complete graft integration. Miglani endoscopic scores and SNOT-22 nasal subdomain scores also improved after surgery, with a p-value below 0.001 for both outcomes.\n\nWhat does this mean for practice? The results suggest that contralateral free mucosal grafts commonly integrate and may be a straightforward adjunct, particularly for covering the opposite side where healing may be challenging. However, this is a case series without a comparison group. It cannot establish that the graft caused the high closure rate or that it is superior to NSP repair without grafting. The median follow-up is also relatively short, limiting conclusions about long-term durability.\n\nIn summary, surgeons may consider this technique in selected cases, but the evidence is not sufficient to mandate a change in practice or make grafting obligatory. A prospective comparative study should assess closure, time to reepithelialization, repair complications, and longer-term outcomes. The paper is useful for journal club because it presents a practical adjunct with promising results while leaving its incremental benefit unresolved.",
+      "mcq": [
+        {
+          "q_ar": "كم كان عدد المرضى في سلسلة الحالات التي قيّمت contralateral free mucosal graft أثناء NSP repair؟",
+          "q_en": "How many patients were included in the case series evaluating contralateral free mucosal grafting during NSP repair?",
+          "options_ar": [
+            "أ) 20",
+            "ب) 45",
+            "ج) 90",
+            "د) 150"
+          ],
+          "options_en": [
+            "A) 20",
+            "B) 45",
+            "C) 90",
+            "D) 150"
+          ],
+          "answer": 2,
+          "explanation_ar": "شملت الدراسة 90 مريضًا خضعوا لـ endoscopic NSP repair مع contralateral free mucosal graft.",
+          "explanation_en": "The study included 90 patients undergoing endoscopic NSP repair with a contralateral free mucosal graft."
+        },
+        {
+          "q_ar": "ما نسبة anatomical closure المبلغ عنها؟",
+          "q_en": "What anatomical closure rate was reported?",
+          "options_ar": [
+            "أ) 70.0%",
+            "ب) 85.6%",
+            "ج) 90.0%",
+            "د) 95.6%"
+          ],
+          "options_en": [
+            "A) 70.0%",
+            "B) 85.6%",
+            "C) 90.0%",
+            "D) 95.6%"
+          ],
+          "answer": 2,
+          "explanation_ar": "تحقق anatomical closure في 90.0% من الحالات؛ أما 85.6% فهي نسبة complete graft integration بين جميع الحالات.",
+          "explanation_en": "Anatomical closure was achieved in 90.0% of cases; 85.6% was the rate of complete graft integration among all cases."
+        },
+        {
+          "q_ar": "ما أهم قيد يمنع استنتاج أن graft يحسن نتائج NSP repair مقارنةً بعدم استخدامه؟",
+          "q_en": "What is the main limitation preventing a conclusion that the graft improves NSP repair outcomes compared with no graft?",
+          "options_ar": [
+            "أ) عدم وجود مجموعة مقارنة",
+            "ب) اقتصار الدراسة على الحيوانات",
+            "ج) اقتصارها على أقل من 10 مرضى",
+            "د) عدم قياس أي نتائج سريرية"
+          ],
+          "options_en": [
+            "A) There was no comparison group",
+            "B) The study was limited to animals",
+            "C) It included fewer than 10 patients",
+            "D) No clinical outcomes were measured"
+          ],
+          "answer": 0,
+          "explanation_ar": "هذه case series دون مجموعة مقارنة؛ لذلك لا يمكن تحديد الفائدة الإضافية للـ graft مقارنةً بـ repair دونه.",
+          "explanation_en": "This was a case series without a comparison group, so the incremental benefit of the graft versus repair without grafting cannot be determined."
+        }
+      ]
+    },
+    {
+      "pmid": "42859060",
+      "title_ar": "Laryngology Patient-Reported Outcome Measures and Demographics as Predictors of Dysphonia-Related Procedures.",
+      "title_en": "Laryngology Patient-Reported Outcome Measures and Demographics as Predictors of Dysphonia-Related Procedures.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Oct-10",
+      "doi": "10.1016/j.jvoice.2026.09.044",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42859060/",
+      "pdf_url": "https://www.jvoice.org/article/S0892-1997(26)00516-3/pdf",
+      "study_design": "Prospective cohort database with retrospective chart review, n=577",
+      "summary_ar": "درست هذه الدراسة ما إذا كانت patient-reported outcome measures والخصائص الديموغرافية تتنبأ بإجراء dysphonia-related procedure خلال سنة من الزيارة الأولى إلى laryngology clinic. شملت الدراسة 577 مريضًا، وخضع 174 منهم (30.1%) لإجراء في office أو operating room. كان المرضى الذين خضعوا لإجراء أكبر سنًا، وأكثر احتمالًا أن يكونوا ذكورًا أو أن تكون الشكوى الرئيسية لديهم dysphonia فقط، كما سجلوا درجات أعلى في VHI-10 وGFI. في التحليل متعدد المتغيرات، كانت درجات VHI-10، ووجود chief complaint of only dysphonia، وجنس المريض أفضل مجموعة للتنبؤ، مع AUC قدره 0.74 (95% CI 0.70–0.78). تدعم النتائج استخدام هذه العوامل للمساعدة في screening وtriage الأولي، لكنها لا تثبت أن التنبؤ بها يحسن النتائج أو يحدد الحاجة إلى إجراء بشكل قاطع. وتبقى الحاجة إلى validation خارجي وتقييم الفائدة السريرية قبل اعتمادها كقاعدة لاتخاذ القرار.",
+      "summary_en": "This study assessed whether patient-reported outcome measures and demographics predict a dysphonia-related procedure within one year of a first laryngology visit. The cohort included 577 patients, of whom 174 (30.1%) underwent an office- or operating-room procedure. Patients undergoing procedures were older, more often male, more likely to present with dysphonia as their only chief complaint, and had higher VHI-10 and GFI scores. In multivariable analysis, VHI-10 score, chief complaint of only dysphonia, and sex provided the best prediction, with an AUC of 0.74 (95% CI 0.70–0.78). These factors may support initial screening and triage, but do not establish that prediction improves outcomes or determines procedural need. External validation and assessment of clinical utility are needed before adopting a decision rule.",
+      "practice_change_ar": "يمكن استخدام VHI-10 المرتفع والشكوى المقتصرة على dysphonia وجنس المريض كعوامل مساعدة لترتيب أولوية التقييم، لا كمعايير مستقلة لاتخاذ قرار الإجراء.",
+      "practice_change_en": "High VHI-10, dysphonia as the sole chief complaint, and patient sex may help prioritize assessment, but should not independently determine whether a procedure is performed.",
+      "future_impact_ar": "قد يؤدي التحقق من النموذج في مراكز متعددة وربطه بنتائج المرضى إلى تطوير أداة triage عملية لعيادات laryngology محدودة الموارد.",
+      "future_impact_en": "Multicenter validation and linkage to patient outcomes could establish a practical triage tool for resource-constrained laryngology clinics.",
+      "why_important_ar": "تقدم الدراسة تقديرًا كميًا لكيفية ارتباط PROMs والخصائص السريرية الأساسية باحتمال إجراء dysphonia-related procedure خلال سنة.",
+      "why_important_en": "The study quantifies how PROMs and basic clinical characteristics relate to the likelihood of a dysphonia-related procedure within one year.",
+      "vs_previous_ar": "بدل الاعتماد على الانطباع السريري وحده، تجمع الدراسة VHI-10 والشكوى الرئيسية والجنس للتنبؤ، لكنها لا تقدم حتى الآن قاعدة قرار متحققة خارجيًا.",
+      "vs_previous_en": "Rather than relying solely on clinical impression, the study combines VHI-10, chief complaint, and sex for prediction, but does not yet provide an externally validated decision rule.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة cohort في مركز أكاديمي شملت 577 مريضًا وتقدم معلومة مفيدة عن triage، لكن القدرة التنبؤية متوسطة (AUC 0.74) ولا تثبت أثرًا على الممارسة أو النتائج؛ لذا تستحق المتابعة دون تغيير فوري للرعاية.",
+      "stars_reason_en": "A single-center cohort of 577 patients offers useful triage information, but prediction is moderate (AUC 0.74) and no effect on care or outcomes is demonstrated; it is informative rather than practice-changing.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for discussion of PROM use in triage, including the limits of the AUC, the single-center design, and the need for external validation.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء validation متعدد المراكز وتقييم calibration وclinical utility للنموذج، مع اختبار ما إذا كان استخدامه يحسن الوصول إلى الرعاية أو نتائج المرضى.",
+      "research_gap_en": "Multicenter validation should assess model calibration and clinical utility, including whether its use improves access to care or patient outcomes.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نراجع اليوم دراسة عن توقع الحاجة إلى إجراءات مرتبطة بـ dysphonia لدى المرضى الجدد في laryngology clinic. استخدم الباحثون قاعدة بيانات جُمعت prospectively في مركز أكاديمي بين عامي 2021 و2023، ثم أجروا retrospective chart review. شملت العينة 577 مريضًا، وخضع 174، أي نحو 30%، لإجراء في office أو operating room خلال سنة من الزيارة الأولى.\n\nقارن الباحثون العمر والجنس والشكوى الرئيسية ودرجات VHI-10 وReflux Symptom Index وGFI. ارتبط إجراء لاحق بالعمر الأكبر، وبكون المريض ذكرًا، وبأن تكون الشكوى الرئيسية dysphonia فقط، وبدرجات VHI-10 وGFI الأعلى. في النموذج متعدد المتغيرات، كانت أفضل مجموعة تنبؤية هي VHI-10، ووجود الشكوى المقتصرة على dysphonia، وجنس المريض. بلغ AUC 0.74، مع 95% confidence interval من 0.70 إلى 0.78، وهو أداء متوسط وليس دقة كافية لاتخاذ قرار مستقل.\n\nما الذي يعنيه ذلك عمليًا؟ يمكن لهذه العوامل أن تساعد في ترتيب أولوية التقييم أو دعم triage في العيادات محدودة الموارد، لكنها لا تثبت أن المريض سيحتاج إلى إجراء، ولا ينبغي استخدامها بديلًا عن الفحص السريري وlaryngoscopy أو judgment الطبيب. كذلك، الدراسة من مركز واحد، ولم تعرض تحققًا خارجيًا للنموذج أو دليلًا على أن تطبيقه يحسن النتائج.\n\nتستحق الدراسة النقاش لأنها تحول PROMs وخصائص بسيطة إلى نموذج تنبؤي قابل للاختبار، لكنها لا تغير الممارسة اليوم. الخطوة التالية هي validation متعدد المراكز، وتقييم calibration والفائدة السريرية، ثم اختبار أثر استخدام النموذج على الوصول إلى الرعاية ونتائج المرضى. الخلاصة: VHI-10 المرتفع والشكوى المقتصرة على dysphonia والجنس قد تساعد في triage، لكن القرار الإجرائي يظل سريريًا.",
+      "audio_script_en": "Today we review a study asking whether patient-reported outcome measures and demographics can predict a dysphonia-related procedure in new laryngology patients. The investigators queried a prospectively collected database from one academic clinic and performed a retrospective chart review. Among 577 patients, 174, or about 30%, underwent an office- or operating-room procedure within one year of their first visit.\n\nThe study compared age, sex, chief complaint, and VHI-10, Reflux Symptom Index, and GFI scores. Patients who later underwent a procedure were older, more often male, more likely to have dysphonia as their only chief complaint, and had higher VHI-10 and GFI scores. In the multivariable model, VHI-10, dysphonia as the sole chief complaint, and sex formed the best predictor set. The AUC was 0.74, with a 95% confidence interval of 0.70 to 0.78, indicating moderate rather than definitive predictive performance.\n\nClinically, these factors may help prioritize assessment or support triage in resource-constrained clinics. They do not establish that a patient will need a procedure and should not replace examination, laryngoscopy, or clinician judgment. The study was conducted at a single center and does not report external validation or show that using the model improves outcomes.\n\nThis is a useful journal-club paper because it turns PROMs and readily available patient characteristics into a testable prediction model, but it does not change practice today. Next steps include multicenter validation, assessment of calibration and clinical utility, and testing whether model-guided triage improves access to care or patient outcomes. The take-home message: higher VHI-10, dysphonia as the sole chief complaint, and sex may inform triage, but procedural decisions remain clinical.",
+      "mcq": [
+        {
+          "q_ar": "كم عدد المرضى الذين خضعوا لإجراء dysphonia-related procedure خلال سنة؟",
+          "q_en": "How many patients underwent a dysphonia-related procedure within one year?",
+          "options_ar": [
+            "أ) 57",
+            "ب) 174",
+            "ج) 403",
+            "د) 577"
+          ],
+          "options_en": [
+            "A) 57",
+            "B) 174",
+            "C) 403",
+            "D) 577"
+          ],
+          "answer": 1,
+          "explanation_ar": "خضع 174 من أصل 577 مريضًا لإجراء خلال سنة، أي 30.1%.",
+          "explanation_en": "A total of 174 of 577 patients underwent a procedure within one year, representing 30.1%."
+        },
+        {
+          "q_ar": "ما مجموعة العوامل التي حققت أفضل أداء تنبؤي متعدد المتغيرات؟",
+          "q_en": "Which factors provided the best multivariable prediction?",
+          "options_ar": [
+            "أ) العمر وReflux Symptom Index وGFI",
+            "ب) VHI-10 والشكوى المقتصرة على dysphonia والجنس",
+            "ج) GFI والعمر ومدة الأعراض",
+            "د) الجنس وReflux Symptom Index والتشخيص بعد stroboscopy"
+          ],
+          "options_en": [
+            "A) Age, Reflux Symptom Index, and GFI",
+            "B) VHI-10, dysphonia as the sole chief complaint, and sex",
+            "C) GFI, age, and symptom duration",
+            "D) Sex, Reflux Symptom Index, and post-stroboscopy diagnosis"
+          ],
+          "answer": 1,
+          "explanation_ar": "هذه العوامل الثلاثة حققت أعلى أداء في النموذج، مع AUC قدره 0.74.",
+          "explanation_en": "These three factors maximized model performance, with an AUC of 0.74."
+        },
+        {
+          "q_ar": "ما التفسير الأنسب لقيمة AUC البالغة 0.74؟",
+          "q_en": "What is the most appropriate interpretation of an AUC of 0.74?",
+          "options_ar": [
+            "أ) تنبؤ متوسط قد يساعد في triage لكنه غير حاسم",
+            "ب) دقة كاملة تبرر إجراءً تلقائيًا",
+            "ج) لا توجد أي قدرة تنبؤية",
+            "د) يثبت أن النموذج يحسن نتائج المرضى"
+          ],
+          "options_en": [
+            "A) Moderate prediction that may assist triage but is not definitive",
+            "B) Perfect accuracy that justifies automatic procedures",
+            "C) No predictive ability",
+            "D) Proof that the model improves patient outcomes"
+          ],
+          "answer": 0,
+          "explanation_ar": "تشير AUC 0.74 إلى تمييز متوسط، ولا تثبت وحدها الفائدة السريرية أو تحسن النتائج.",
+          "explanation_en": "An AUC of 0.74 indicates moderate discrimination and does not by itself establish clinical utility or improved outcomes."
+        }
+      ]
+    },
+    {
+      "pmid": "42858259",
+      "title_ar": "Surgery and/or biologics in chronic rhinosinusitis with nasal polyps: EUFOREA/EPOS consensus paper.",
+      "title_en": "Surgery and/or biologics in chronic rhinosinusitis with nasal polyps: EUFOREA/EPOS consensus paper.",
+      "journal": "Rhinology",
+      "pub_date": "2026-Oct-10",
+      "doi": "10.4193/Rhin26.064",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42858259/",
+      "pdf_url": null,
+      "study_design": "International multidisciplinary expert consensus",
+      "summary_ar": "تعيد هذه الورقة التوافقية تقييم دور endoscopic sinus surgery (ESS) وbiologics في علاج chronic rhinosinusitis with nasal polyps (CRSwNP). راجع خبراء EUFOREA/EPOS نتائج pivotal RCTs والدراسات الواقعية والإرشادات الحديثة، ثم صاغوا توصيات عبر جولات متعددة من النقاش والتصويت. يوصي الفريق بأن يخضع مرضى diffuse disease إلى primary complete ESS على الأقل. ولا يوصى ببدء sinus surgery وbiologic therapy في الوقت نفسه، إذ لا تدعم الأدلة الحالية هذا النهج. كما تؤكد الورقة معايير استعمال biologics الواردة في الإرشادات السابقة، وتشدد على عدم قبول الاستخدام طويل الأمد لـsystemic corticosteroids، خصوصًا عند توافر biologics. تقدم التوصيات إطارًا موحدًا لتحديد أهداف العلاج وتوقيته وموقع كل خيار ضمن رعاية مخصصة للمريض.",
+      "summary_en": "This EUFOREA/EPOS consensus paper reassesses the roles of endoscopic sinus surgery (ESS) and biologics in chronic rhinosinusitis with nasal polyps (CRSwNP). The multidisciplinary panel reviewed pivotal RCTs, real-life studies, and recent guidelines, then refined recommendations through discussion and voting. For patients with diffuse disease, the panel recommends at least primary complete ESS. It does not recommend initiating sinus surgery and biologic therapy concurrently, given current evidence. The paper reinforces prior guideline criteria for biologic therapy and rejects long-term systemic corticosteroid use, especially when biologics are available. It offers a unified framework for selecting and timing treatment options as part of personalized care.",
+      "practice_change_ar": "ينبغي ترتيب العلاج بحيث لا يبدأ ESS وbiologic therapy بالتزامن، مع تفضيل primary complete ESS لمرضى diffuse disease وتجنب الاستخدام طويل الأمد لـsystemic corticosteroids.",
+      "practice_change_en": "Avoid initiating ESS and biologic therapy concurrently, consider primary complete ESS for diffuse disease, and avoid long-term systemic corticosteroid use.",
+      "future_impact_ar": "قد يساعد هذا الإطار على توحيد اختيار العلاج وتوقيته، إلى أن تحدد الدراسات المقارنة تسلسل ESS وbiologics الأمثل.",
+      "future_impact_en": "This framework may standardize treatment selection and timing while comparative studies clarify the optimal sequencing of ESS and biologics.",
+      "why_important_ar": "توضح الورقة كيفية دمج خيارين فعالين في CRSwNP وتحد من الاعتماد على systemic corticosteroids طويل الأمد.",
+      "why_important_en": "The paper clarifies how to position two effective CRSwNP treatments and discourages prolonged reliance on systemic corticosteroids.",
+      "vs_previous_ar": "بدل الاكتفاء بالنهج المرحلي التقليدي، تحدد الورقة موضع ESS وbiologics وتوقيتهما، مع توصية صريحة بعدم بدئهما بالتزامن.",
+      "vs_previous_en": "Rather than relying only on the traditional stepwise approach, the paper clarifies the positioning and timing of ESS and biologics and advises against starting them concurrently.",
+      "stars": 4,
+      "stars_reason_ar": "توافق خبراء دولي يستند إلى مراجعة RCTs ودراسات واقعية وإرشادات، ويقدم إطارًا سريريًا مفيدًا لتوقيت ESS وbiologics؛ لكنه ليس تجربة مقارنة مباشرة، لذا لا يثبت أفضل تسلسل علاجي.",
+      "stars_reason_en": "An international expert consensus informed by RCTs, real-life studies, and guidelines provides a useful clinical framework for ESS and biologic timing, but it is not a direct comparative trial and does not establish the optimal sequence.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "موضوع اختيار وتوقيت ESS وbiologics شائع ومهم سريريًا، والتوصيات تقدم أساسًا مناسبًا للنقاش حول تطبيق الأدلة وحدودها.",
+      "jc_reason_en": "The selection and timing of ESS and biologics are common, clinically important decisions, and the recommendations provide a useful basis for discussing evidence and its limitations.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا biologics في CRSwNP، إذ تناقش الورقة كيفية مواءمتها مع ESS وتؤكد تجنب الاستخدام طويل الأمد لـsystemic corticosteroids عند توافرها.",
+      "watch_detail_en": "Track biologics for CRSwNP because the paper addresses how to position them relative to ESS and emphasizes avoiding long-term systemic corticosteroids when they are available.",
+      "watch_type": "drug",
+      "research_gap_ar": "يلزم إجراء دراسات مقارنة مستقبلية تحدد المرضى الذين يستفيدون أكثر من ESS أو biologics وتختبر التسلسل والتوقيت الأمثلين بينهما.",
+      "research_gap_en": "Prospective comparative studies are needed to identify which patients benefit most from ESS or biologics and to test their optimal sequencing and timing.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نتناول اليوم ورقة توافقية من EUFOREA وEPOS حول جراحة الجيوب الأنفية والعلاجات البيولوجية لدى مرضى chronic rhinosinusitis with nasal polyps، أو CRSwNP. تأتي أهمية الموضوع من اتساع الخيارات العلاجية خلال السنوات الأخيرة، ومن عدم وضوح الترتيب الأمثل بين endoscopic sinus surgery، أو ESS، وbiologics.\n\nراجع فريق دولي متعدد التخصصات نتائج pivotal RCTs والدراسات الواقعية والإرشادات الحديثة، وصاغ توصياته عبر جولات من النقاش والتصويت. لذلك فهذه الورقة ليست تجربة سريرية تقارن العلاجين مباشرة، بل إطار توافق يساعد على اتخاذ القرار، وتبقى قوة توصياتها مرتبطة بحدود الأدلة التي راجعتها.\n\nأبرز التوصيات أن المرضى المصابين بـdiffuse disease ينبغي أن يخضعوا على الأقل إلى primary complete ESS. كذلك لا يوصى ببدء sinus surgery وbiologic therapy في الوقت نفسه، لأن الأدلة الحالية لا تسند هذا النهج. وتؤكد الورقة معايير biologics الواردة في الإرشادات السابقة، كما تشدد على أن الاستخدام طويل الأمد لـsystemic corticosteroids لم يعد مقبولًا، خصوصًا عندما تكون biologics متاحة.\n\nعمليًا، توفر هذه التوصيات طريقة أوضح لترتيب الخيارات ومناقشتها مع المريض، لكنها لا تحسم أي استراتيجية هي الأفضل لكل حالة. لهذا السبب تُقيّم الورقة بأربع نجوم، مع ثقة متوسطة: فهي مفيدة وقد تؤثر في تنظيم العلاج، لكنّها توافق خبراء وليست دراسة مقارنة مباشرة. من المناسب مناقشتها في journal club، ولا سيما لمراجعة كيفية تطبيق توصياتها على اختلاف شدة المرض والعلاج السابق.\n\nأما الفجوة البحثية الأساسية فهي الحاجة إلى دراسات مستقبلية تقارن ESS وbiologics وتحدد المرضى الأنسب لكل خيار، كما تختبر توقيت العلاج وتسلسله والنتائج طويلة الأمد. ويستحق تطور biologics في CRSwNP المتابعة، بالتوازي مع تجنب الاعتماد طويل الأمد على systemic corticosteroids.",
+      "audio_script_en": "Today we review the EUFOREA/EPOS consensus paper on surgery and biologics for chronic rhinosinusitis with nasal polyps, or CRSwNP. The treatment landscape has expanded in recent years, but the optimal sequence of endoscopic sinus surgery, or ESS, and biologics remains uncertain.\n\nAn international multidisciplinary panel reviewed pivotal RCTs, real-life studies, and recent guidelines, then developed recommendations through discussion and voting. This is an expert consensus framework, not a direct clinical trial comparing the treatments. Its recommendations are therefore useful for decision-making, but their certainty remains limited by the underlying evidence.\n\nThe panel recommends that patients with diffuse disease undergo at least primary complete ESS. It does not recommend initiating sinus surgery and biologic therapy concurrently, since current evidence does not support that approach. The paper also reinforces the biologic-treatment criteria in earlier guidelines and emphasizes that long-term systemic corticosteroid use is no longer acceptable, particularly when biologics are available.\n\nIn practice, the paper offers clinicians a clearer way to position and sequence treatment options and to discuss them with patients. It does not, however, establish a single best strategy for every patient. We rate it four stars with moderate confidence: it is clinically useful and may affect how care is organized, but it is consensus rather than direct comparative evidence. It is well suited to journal club discussion, especially around applying recommendations to patients with different disease severity and treatment histories.\n\nThe main research gap is the need for prospective comparative studies to identify which patients benefit most from ESS or biologics and to establish optimal timing, sequencing, and long-term outcomes. Biologics for CRSwNP remain an important area to watch, alongside efforts to avoid prolonged systemic corticosteroid use.",
+      "mcq": [
+        {
+          "q_ar": "ما التوصية المتعلقة بـESS لدى مرضى CRSwNP المصابين بـdiffuse disease؟",
+          "q_en": "What does the consensus recommend for patients with CRSwNP and diffuse disease?",
+          "options_ar": [
+            "أ) تأجيل ESS دائمًا إلى ما بعد biologics",
+            "ب) إجراء primary complete ESS على الأقل",
+            "ج) بدء ESS وbiologic therapy في الوقت نفسه",
+            "د) استخدام systemic corticosteroids طويل الأمد قبل أي تدخل"
+          ],
+          "options_en": [
+            "A) Always defer ESS until after biologics",
+            "B) Perform at least primary complete ESS",
+            "C) Start ESS and biologic therapy concurrently",
+            "D) Use long-term systemic corticosteroids before any intervention"
+          ],
+          "answer": 1,
+          "explanation_ar": "توصي الورقة بأن يخضع مرضى diffuse disease إلى primary complete ESS على الأقل.",
+          "explanation_en": "The paper recommends at least primary complete ESS for patients with diffuse disease."
+        },
+        {
+          "q_ar": "ما موقف التوافق من بدء sinus surgery وbiologic therapy بالتزامن؟",
+          "q_en": "What is the consensus position on initiating sinus surgery and biologic therapy concurrently?",
+          "options_ar": [
+            "أ) يُوصى به لجميع المرضى",
+            "ب) يُوصى به فقط بعد فشل systemic corticosteroids",
+            "ج) لا يوصى به وفق الأدلة الحالية",
+            "د) يجب أن يحل محل ESS في كل الحالات"
+          ],
+          "options_en": [
+            "A) It is recommended for all patients",
+            "B) It is recommended only after systemic corticosteroid failure",
+            "C) It is not recommended based on current evidence",
+            "D) It should replace ESS in every case"
+          ],
+          "answer": 2,
+          "explanation_ar": "لا توصي الورقة بالبدء المتزامن، لأن الأدلة الحالية لا تدعم هذا النهج.",
+          "explanation_en": "The paper advises against concurrent initiation because current evidence does not support this approach."
+        },
+        {
+          "q_ar": "ما نوع الدراسة التي تمثلها هذه الورقة؟",
+          "q_en": "What type of study is this paper?",
+          "options_ar": [
+            "أ) RCT تقارن ESS وbiologics مباشرة",
+            "ب) دراسة cohort مستقبلية",
+            "ج) توافق خبراء متعدد التخصصات",
+            "د) سلسلة حالات استعادية"
+          ],
+          "options_en": [
+            "A) An RCT directly comparing ESS and biologics",
+            "B) A prospective cohort study",
+            "C) A multidisciplinary expert consensus",
+            "D) A retrospective case series"
+          ],
+          "answer": 2,
+          "explanation_ar": "راجع فريق الخبراء الأدلة والإرشادات، ثم صاغ توصيات عبر النقاش والتصويت؛ ولم تكن الورقة تجربة مقارنة مباشرة.",
+          "explanation_en": "The expert panel reviewed evidence and guidelines and developed recommendations through discussion and voting; this was not a direct comparative trial."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026101201",
+      "title_ar": "ميدترونيك وكارل ستورز تتعاونان لتطوير حلول جراحية متكاملة في الأنف والأذن والحنجرة",
+      "title_en": "Medtronic and Karl Storz Collaborate on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-12",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أعلنت ميدترونيك وكارل ستورز تعاونهما لتقديم حلول جراحية متكاملة في مجال الأنف والأذن والحنجرة، وفقًا لموقع MassDevice. ويشير الإعلان إلى سعي الشركتين إلى دمج عروضهما لخدمة إجراءات الأنف والأذن والحنجرة. ولا تتضمن المعلومات المتاحة تفاصيل عن المنتجات أو موعد إطلاقها أو الشروط التجارية أو مدى توفر الحلول للأطباء.",
+      "summary_en": "Medtronic and Karl Storz are collaborating on integrated surgical solutions for ear, nose, and throat care, according to MassDevice. The announcement signals an effort to bring the companies’ offerings together for ENT procedures. The available report summary does not specify the products, launch timeline, commercial terms, or whether the solutions are available to clinicians.",
+      "practice_change_ar": "قد تتاح لجراحي الأنف والأذن والحنجرة مستقبلًا أدوات جراحية أكثر تكاملًا، لكن الإعلان لا يثبت وجود تغيير فوري في الممارسة السريرية.",
+      "practice_change_en": "ENT surgeons may eventually have access to more integrated surgical tools, but no immediate change to clinical practice is established by the announcement.",
+      "future_impact_ar": "ستوضح التفاصيل اللاحقة ما إذا كانت هذه الشراكة ستؤدي إلى أنظمة متكاملة متاحة على نطاق واسع أو تغييرات ملموسة في سير العمل الجراحي لتخصص الأنف والأذن والحنجرة.",
+      "future_impact_en": "Further details will show whether this partnership leads to broadly available integrated systems or measurable changes in ENT surgical workflows.",
+      "why_important_ar": "قد يؤثر التعاون في طريقة تجميع تقنيات جراحة الأنف والأذن والحنجرة واستخدامها، لكن لم تُعلن بعد فوائده السريرية أو تفاصيله العملية.",
+      "why_important_en": "The collaboration could affect how ENT surgical technologies are packaged and used, although its clinical benefits and practical details have not yet been reported.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "تعاون تجاري قد يهم الجراحين، لكن تفاصيل المنتجات والأثر السريري غير متاحة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "في خبر يهم قطاع جراحة الأنف والأذن والحنجرة، أعلنت شركتا ميدترونيك وكارل ستورز تعاونهما على حلول جراحية متكاملة. ونشر موقع MassDevice الخبر، لكن المعلومات المتاحة لا تحدد المنتجات التي يشملها التعاون، ولا موعد إطلاقها أو شروطها التجارية. لذلك لا يمكن حتى الآن معرفة ما إذا كانت هذه الحلول ستغيّر سير الإجراءات الجراحية أو تحسّن النتائج السريرية. بالنسبة إلى الجراحين، يظل الخبر تطورًا تجاريًا يستحق المتابعة، لا إعلانًا عن تغيير فوري في الممارسة اليومية. وستكون التفاصيل المقبلة، خصوصًا بشأن التقنيات المشمولة وتوفرها للأطباء، ضرورية لتقييم قيمتها العملية.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026101202",
+      "title_ar": "تقرير يتوقع نمو سوق التنظير في الأنف والأذن والحنجرة بمعدل سنوي مركب 6.4%",
+      "title_en": "ENT Endoscopy Market Report Projects 6.4% CAGR",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-12",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت Market.us تقريرًا عن حجم سوق التنظير في الأنف والأذن والحنجرة وحصته ونموه، وتوقع التقرير معدل نمو سنويًا مركبًا قدره 6.4%. لا يحدد الخبر المدة الزمنية للتوقعات أو قيمة السوق أو الافتراضات التي يستند إليها التقرير. ويتناول الخبر توقعًا للسوق، وليس صفقة استحواذ أو قرارًا تنظيميًا أو دعوى قضائية أو تطورًا سريريًا محددًا.",
+      "summary_en": "Market.us published a report about the size, share, and growth of the ENT endoscopy market, projecting a compound annual growth rate of 6.4%. The provided news item does not specify the forecast period, market valuation, or the report’s underlying assumptions. It describes a market forecast, not a specific acquisition, regulatory decision, lawsuit, or clinical development.",
+      "practice_change_ar": "لا يستدعي هذا التوقع وحده تغيير خيارات الأجهزة أو خطط الشراء أو الممارسة السريرية للجراحين.",
+      "practice_change_en": "The forecast alone does not call for changes to surgeons’ equipment choices, purchasing plans, or clinical practice.",
+      "future_impact_ar": "إذا تحققت التوقعات، فقد يؤدي استمرار نمو السوق إلى توسيع خيارات منتجات التنظير، لكن ينبغي للجراحين متابعة بيانات موثوقة عن التوافر والأسعار والأداء.",
+      "future_impact_en": "If the forecast is borne out, continued market growth could broaden the range of endoscopy products, though surgeons should look for verified data on availability, pricing, and performance.",
+      "why_important_ar": "قد يشير النمو المتوقع إلى تزايد الاهتمام التجاري بتنظير الأنف والأذن والحنجرة، لكن تفاصيل التقرير المتاحة لا تكفي لتقييم أثره على التكاليف أو إتاحة الأجهزة أو النتائج السريرية.",
+      "why_important_en": "The projected growth may signal expanding commercial interest in ENT endoscopy, but the report details provided are insufficient to assess effects on costs, access, or clinical outcomes.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "أهمية محدودة للممارسة السريرية؛ فالخبر توقع سوقي عام ولا يقدم بيانات مفصلة أو تغييرًا مباشرًا في الرعاية.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أشارت Market.us إلى توقع نمو سوق التنظير في الأنف والأذن والحنجرة بمعدل سنوي مركب يبلغ 6.4%. لكن الخبر المتاح لا يذكر الفترة الزمنية للتوقع، ولا حجم السوق المتوقع، ولا تفاصيل المنهجية أو الافتراضات التي بُني عليها الرقم. لذلك ينبغي التعامل مع النسبة بوصفها توقعًا تجاريًا، لا دليلًا على تحسن النتائج السريرية أو تغير احتياجات العيادات. بالنسبة لجراحي الأنف والأذن والحنجرة، لا يترتب على هذا الخبر وحده أي تغيير فوري في اختيار الأجهزة أو الممارسة. وتظل المعلومات الأهم عند تقييم السوق هي مدى توافر المنتجات، وأسعارها، وأداؤها، وما إذا كانت تقدم فائدة سريرية مثبتة.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026101203",
+      "title_ar": "شركات رائدة في مجال الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية",
+      "title_en": "Leading ENT Companies Driving Medical Technology Innovation",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-12",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت SNS Insider عرضًا بعنوان «شركات رائدة في مجال الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية». ولا يحدد الخبر المتاح شركات بعينها أو منتجات أو صفقات أو قرارات تنظيمية أو نتائج مالية. لذلك لا يتضمن خبرًا مؤكدًا عن استحواذ أو دعوى قضائية أو تحرك في الأسهم أو قرار من إدارة الغذاء والدواء الأمريكية. ويلزم الاطلاع على تفاصيل إضافية لتقييم تطورات محددة.",
+      "summary_en": "SNS Insider published an overview titled “Leading ENT Companies Driving Medical Technology Innovation.” The provided news item does not identify specific companies, products, transactions, regulatory decisions, or financial results. It therefore offers no confirmed acquisition, lawsuit, stock move, or FDA decision to report. Further details would be needed to assess particular developments.",
+      "practice_change_ar": "لا يصف الخبر منتجًا أو تطورًا سريريًا محددًا، لذا لا يشير إلى تغيير في الممارسة الحالية لطب الأنف والأذن والحنجرة.",
+      "practice_change_en": "No specific product or clinical development is described, so the item does not indicate a change to current ENT practice.",
+      "future_impact_ar": "سيتوقف أي تأثير مستقبلي على التقنيات والأدلة المحددة الواردة في التقرير الكامل، وهي غير متاحة في الخبر المقدم.",
+      "future_impact_en": "Any future impact will depend on the specific technologies and evidence described in the full report, which are not included in the supplied item.",
+      "why_important_ar": "يشير العنوان إلى اهتمام القطاع بتكنولوجيا الأنف والأذن والحنجرة، لكن المعلومات المتاحة محدودة للغاية ولا تثبت أثرًا سريريًا أو تأثيرًا على الممارسة.",
+      "why_important_en": "The headline signals industry interest in ENT technology, but the available information is too limited to establish a clinical or practice impact.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "الأهمية محدودة لأن الخبر لا يقدم تفاصيل قابلة للتحقق عن شركات أو تطورات تؤثر في الممارسة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "يتناول عنوان خبر من SNS Insider شركات رائدة تقود الابتكار في التكنولوجيا الطبية بمجال الأنف والأذن والحنجرة. لكن المادة المتاحة لا تذكر أسماء الشركات أو التقنيات، ولا تعرض صفقات أو قرارات تنظيمية أو بيانات مالية محددة. لذلك لا يمكن استخلاص تغيير سريري أو توصية عملية لأطباء الأنف والأذن والحنجرة من هذا الخبر وحده. ينبغي الرجوع إلى التقرير الكامل لمعرفة التقنيات المقصودة والأدلة التي تدعمها، إن وُجدت.",
+      "mcq": []
+    }
+  ]
+}
