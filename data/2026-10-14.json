@@ -1,0 +1,1275 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T08:46:45Z",
+  "articles": [
+    {
+      "pmid": "42867660",
+      "title_ar": "Artificial intelligence-based prediction of cerebrospinal fluid leak in skull base surgery: a scoping review.",
+      "title_en": "Artificial intelligence-based prediction of cerebrospinal fluid leak in skull base surgery: a scoping review.",
+      "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+      "pub_date": "2026-Oct-13",
+      "doi": "10.1007/s00405-026-10667-1",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42867660/",
+      "pdf_url": null,
+      "study_design": "Scoping review of 9 primary human studies",
+      "summary_ar": "تهدف هذه scoping review إلى رسم صورة للأبحاث التي تستخدم AI أو ML للتنبؤ بـ CSF leak في جراحات skull base أو لتحديد spontaneous lateral skull-base CSF leak/encephalocele باستخدام imaging biomarker. شملت المراجعة تسع دراسات أصلية منشورة بين 2019 و2025، من بينها ست دراسات تنبأت بـ intraoperative CSF leak ودراستان بـ postoperative leak. استخدمت الدراسات أساليب متنوعة شملت classical machine learning وdeep learning وCNN وBERT-based NLP. تراوحت قيم AUC المبلّغ عنها بين 0.69 و1.00، وتراوحت accuracy بين 70% و98.33% عند الإبلاغ عنها. أبلغت دراسة واحدة عن prospective temporal validation، ولم تُجر أي دراسة independent external validation في مؤسسة أخرى. تخلص المراجعة إلى أن AI واعد، لكن اختلاف المنهجيات وغياب التحقق الخارجي يحدان من تطبيقه السريري حاليًا.",
+      "summary_en": "This scoping review mapped research using AI or ML to predict CSF leak in skull base surgery or identify spontaneous lateral skull-base CSF leak/encephalocele with an imaging biomarker.\nNine primary human studies published from 2019 to 2025 were included; six predicted intraoperative leak and two predicted postoperative leak.\nMethods varied and included classical machine learning, deep learning/CNN approaches, a BERT-based NLP model, and a comparison of classical models with a feedforward neural network.\nReported AUC values ranged from 0.69 to 1.00, while reported accuracy ranged from 70% to 98.33%.\nOne study reported prospective temporal validation, but none reported independent external validation at another institution.\nThe field is promising, but methodological heterogeneity and limited validation currently constrain clinical translation.",
+      "practice_change_ar": "لا تغيّر هذه المراجعة الممارسة اليوم؛ فلا ينبغي استخدام نماذج AI لاتخاذ قرارات سريرية دون تحقق خارجي مناسب.",
+      "practice_change_en": "This review does not change practice today; AI models should not guide clinical decisions without adequate external validation.",
+      "future_impact_ar": "قد تدعم مجموعات البيانات متعددة المراكز والتحقق prospective توظيف نماذج AI مستقبلًا في تقدير خطر CSF leak وتخطيط الجراحة.",
+      "future_impact_en": "Multicenter datasets and prospective validation may support future use of AI models to estimate CSF leak risk and inform surgical planning.",
+      "why_important_ar": "تلخص المقالة الأدلة الناشئة حول أداة قد تساعد في التخطيط الجراحي، وتوضح بجلاء القيود التي تمنع الاعتماد عليها حاليًا.",
+      "why_important_en": "The review summarizes an emerging tool that could aid surgical planning while clearly identifying why current evidence does not support routine reliance on it.",
+      "vs_previous_ar": "بدلًا من تقديم نموذج تنبؤ جديد، تجمع هذه المراجعة نطاق الأدلة المتاحة وتبرز أن التحقق الخارجي المستقل ما زال غائبًا.",
+      "vs_previous_en": "Rather than introducing a new prediction model, this review maps the available evidence and highlights the ongoing absence of independent external validation.",
+      "stars": 3,
+      "stars_reason_ar": "هذه scoping review لأبحاث بشرية أصلية، وتقدم موضوعًا جديدًا ومهمًا في skull base، لكن التغاير المنهجي وغياب التحقق الخارجي يجعلان أثرها على الممارسة محدودًا.",
+      "stars_reason_en": "This scoping review of original human studies addresses a novel and relevant skull base topic, but methodological heterogeneity and absent external validation limit its current clinical impact.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for journal club because it synthesizes AI model performance in an important surgical setting and prompts discussion of validation, bias, and clinical applicability.",
+      "watch": true,
+      "watch_detail_ar": "ينبغي متابعة AI-based prediction وimaging biomarker في skull base، مع التركيز على ظهور دراسات متعددة المراكز ذات external validation.",
+      "watch_detail_en": "Track AI-based prediction and imaging biomarkers in skull base surgery, particularly as multicenter studies with external validation emerge.",
+      "watch_type": "technology",
+      "research_gap_ar": "تحتاج الأبحاث إلى نتائج موحدة ومجموعات بيانات متعددة المراكز مع prospective وindependent external validation.",
+      "research_gap_en": "Research needs standardized outcomes and multicenter datasets with prospective and independent external validation.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نتناول اليوم scoping review بعنوان Artificial intelligence-based prediction of cerebrospinal fluid leak in skull base surgery. تركز المقالة على سؤال مهم في جراحة skull base: هل يمكن استخدام AI وML لتقدير خطر CSF leak أو المساعدة في تقييم حالات spontaneous lateral skull-base CSF leak وencephalocele؟\n\nاتبعت المراجعة إرشادات PRISMA-ScR، وشملت بحثًا في PubMed/MEDLINE وScopus وWeb of Science عن الدراسات الإنجليزية المنشورة بين 2019 و2025. بعد الفحص، ضمت تسع دراسات بشرية أصلية. ست دراسات تناولت توقع intraoperative CSF leak، واثنتان توقع postoperative leak، بينما درست واحدة imaging biomarker مشتقًا من CT للمساعدة في تحديد spontaneous lateral skull-base CSF leak أو encephalocele.\n\nكانت الأساليب متباينة؛ تضمنت classical machine learning وdeep learning وCNN وBERT-based NLP، إلى جانب مقارنة بين نماذج تقليدية وfeedforward neural network. تراوحت قيم AUC المبلّغ عنها بين 0.69 و1.00، وتراوحت accuracy المبلّغ عنها بين 70% و98.33%. لكن الأرقام المرتفعة لا تكفي وحدها لإثبات الفائدة السريرية. دراسة واحدة فقط أبلغت عن prospective temporal validation، ولم تذكر أي دراسة independent external validation في مؤسسة أخرى.\n\nالخلاصة العملية أن هذه التقنيات واعدة، لكنها لا تغيّر الممارسة اليوم ولا ينبغي أن تحل محل التقييم السريري أو أن توجّه القرارات الجراحية بمعزل عن الأدلة الأخرى. قيمة المقالة أنها ترسم خريطة للأبحاث وتكشف فجوة أساسية: اختلاف تعريفات ونتائج الدراسات، مع غياب التحقق الخارجي المستقل. مستقبلًا، نحتاج إلى outcomes موحدة، وبيانات متعددة المراكز، ودراسات prospective validation قبل التفكير في دمج هذه النماذج في التخطيط الجراحي. المقالة مفيدة للنقاش في journal club، كما تستحق تقنيات AI وimaging biomarker المتصلة بها المتابعة.",
+      "audio_script_en": "Today we are reviewing “Artificial intelligence-based prediction of cerebrospinal fluid leak in skull base surgery.” The clinical question is whether AI and ML can help estimate CSF leak risk in skull base surgery, or help identify spontaneous lateral skull-base CSF leak and encephalocele for surgical assessment.\n\nThe authors conducted a scoping review following PRISMA-ScR guidance and searched PubMed/MEDLINE, Scopus, and Web of Science for English-language studies published from 2019 through 2025. Nine primary human studies met eligibility criteria. Six predicted intraoperative CSF leak, two predicted postoperative leak, and one evaluated a CT-derived imaging biomarker for identifying spontaneous lateral skull-base CSF leak or encephalocele.\n\nThe modeling approaches varied. They included classical machine learning, deep learning and CNN approaches, a BERT-based NLP model, and a comparison of classical models with a feedforward neural network. Reported AUC values ranged from 0.69 to 1.00, and reported accuracy ranged from 70% to 98.33%. These performance figures should be interpreted cautiously: only one study reported prospective temporal validation, and none reported independent external validation at another institution.\n\nThe practical message is that AI-based prediction is promising but does not change clinical practice today. The models should not replace clinical judgment or independently guide surgical decisions on the basis of the available evidence. The review is valuable because it maps the emerging literature and identifies key barriers: methodological heterogeneity, inconsistent outcomes, and a lack of external validation. Future work should prioritize standardized outcomes, multicenter datasets, and prospective validation. This is a useful journal club paper for discussing model validity and clinical translation, and AI prediction and imaging biomarkers in skull base surgery are technologies worth watching.",
+      "mcq": [
+        {
+          "q_ar": "كم عدد الدراسات الأصلية التي شملتها scoping review؟",
+          "q_en": "How many primary studies were included in the scoping review?",
+          "options_ar": [
+            "أ) 6",
+            "ب) 9",
+            "ج) 15",
+            "د) 55"
+          ],
+          "options_en": [
+            "A) 6",
+            "B) 9",
+            "C) 15",
+            "D) 55"
+          ],
+          "answer": 1,
+          "explanation_ar": "شملت المراجعة تسع دراسات أصلية بعد إزالة التكرارات وتقييم النصوص الكاملة.",
+          "explanation_en": "Nine primary studies were included after duplicate removal and full-text assessment."
+        },
+        {
+          "q_ar": "ما أبرز قيد يحد من تطبيق نماذج AI سريريًا بحسب المراجعة؟",
+          "q_en": "What is the principal limitation restricting clinical translation of the AI models?",
+          "options_ar": [
+            "أ) عدم استخدام بيانات بشرية",
+            "ب) غياب أي نتائج أداء",
+            "ج) عدم وجود independent external validation",
+            "د) اقتصار الدراسات على postoperative leak"
+          ],
+          "options_en": [
+            "A) No human data were used",
+            "B) No performance results were reported",
+            "C) Independent external validation was absent",
+            "D) Studies were limited to postoperative leak"
+          ],
+          "answer": 2,
+          "explanation_ar": "لم تذكر أي دراسة تحققًا خارجيًا مستقلًا في مؤسسة أخرى، وهو قيد أساسي على تعميم الأداء.",
+          "explanation_en": "No study reported independent external validation at another institution, limiting confidence in generalizability."
+        },
+        {
+          "q_ar": "ما التوصية البحثية الأبرز التي طرحتها المراجعة؟",
+          "q_en": "What key research priority did the review recommend?",
+          "options_ar": [
+            "أ) إيقاف استخدام imaging في skull base",
+            "ب) اعتماد نموذج واحد لجميع المراكز فورًا",
+            "ج) التركيز على standardized outcomes وmulticenter datasets وprospective validation",
+            "د) استبدال التقييم السريري بنماذج NLP"
+          ],
+          "options_en": [
+            "A) Stop using imaging in skull base care",
+            "B) Immediately adopt one model across all centers",
+            "C) Prioritize standardized outcomes, multicenter datasets, and prospective validation",
+            "D) Replace clinical assessment with NLP models"
+          ],
+          "answer": 2,
+          "explanation_ar": "دعت المراجعة إلى نتائج موحدة وبيانات متعددة المراكز والتحقق prospective لدعم الترجمة السريرية.",
+          "explanation_en": "The review called for standardized outcomes, multicenter datasets, and prospective validation to support clinical translation."
+        }
+      ]
+    },
+    {
+      "pmid": "42622553",
+      "title_ar": "Kinematic Features of Laryngeal Motor Control in Parkinson's Disease.",
+      "title_en": "Kinematic Features of Laryngeal Motor Control in Parkinson's Disease.",
+      "journal": "Journal of speech, language, and hearing research : JSLHR",
+      "pub_date": "2026-Oct-13",
+      "doi": "10.1044/2026_JSLHR-26-00035",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42622553/",
+      "pdf_url": null,
+      "study_design": "Retrospective controlled study, n=48 (24 with Parkinson's disease and 24 controls)",
+      "summary_ar": "قيّم الباحثون laryngeal motor control لدى 24 شخصًا مصابًا بـ Parkinson's disease و24 شخصًا من مجموعة controls متطابقين بالعمر والجنس. استخدموا high-speed videoendoscopy أثناء تكرار utterance /ifi/ بمستويات vocal effort مختلفة. قاسوا spatiotemporal index (STI)، الذي يعكس variability في adduction عبر التكرارات، وasymmetry index (AI)، الذي يقارن deceleration وacceleration أثناء adduction. كان STI أعلى بشكل ذي دلالة إحصائية لدى مجموعة Parkinson's disease، بينما لم يظهر AI فرقًا دالًا بين المجموعتين. لم تؤثر مستويات vocal effort ولا تفاعلها مع المجموعة في أي من المقياسين. تشير النتائج إلى أن STI قد يكون مؤشرًا حساسًا لتغيرات laryngeal motor control في Parkinson's disease، لكنها لا تثبت أثرًا على القرارات العلاجية.",
+      "summary_en": "This retrospective controlled study compared laryngeal motor control in 24 people with Parkinson's disease and 24 age- and sex-matched controls. Participants repeated /ifi/ at typical, mild, moderate, and maximum vocal effort while undergoing high-speed videoendoscopy. The researchers measured the spatiotemporal index (STI), reflecting adductory variability across repetitions, and the asymmetry index (AI), comparing deceleration with acceleration during adduction. STI differed significantly by group, with greater variability in the Parkinson's disease group; AI did not show a significant group effect. Vocal effort level and its interaction with group were not significant for either measure. The findings suggest STI is a potentially sensitive measure of laryngeal motor impairment, but do not establish a change in clinical management.",
+      "practice_change_ar": "لا تغيّر هذه النتائج التدبير السريري حاليًا، لكنها تدعم اعتبار STI مقياسًا بحثيًا محتملًا لتقييم laryngeal motor control في Parkinson's disease.",
+      "practice_change_en": "These findings do not change clinical management today, but support considering STI as a potential research measure of laryngeal motor control in Parkinson's disease.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية تربط STI بأعراض الصوت والنتائج الوظيفية في تحديد فائدته التشخيصية أو لمتابعة المرض.",
+      "future_impact_en": "Future studies linking STI with voice symptoms and functional outcomes may establish its diagnostic or monitoring value.",
+      "why_important_ar": "توضح الدراسة أن variability في laryngeal adduction قد تميّز Parkinson's disease حتى عندما لا يختلف AI عن مجموعة controls.",
+      "why_important_en": "The study indicates that variability in laryngeal adduction may distinguish Parkinson's disease even when AI does not differ from controls.",
+      "vs_previous_ar": "تضيف الدراسة قياسًا كميًا لحركة laryngeal إلى الأدلة المعروفة عن زيادة speech motor variability في Parkinson's disease، دون إثبات فائدة سريرية جديدة.",
+      "vs_previous_en": "The study adds a quantitative laryngeal kinematic measure to prior evidence of increased speech motor variability in Parkinson's disease, without demonstrating a new clinical benefit.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة retrospective controlled شملت 48 مشاركًا، وأظهرت فرقًا دالًا في STI، لكنها لم تثبت أثرًا على التدبير السريري أو فائدة وظيفية؛ لذلك تقدم معرفة مفيدة دون تغيير الممارسة.",
+      "stars_reason_en": "This retrospective controlled study included 48 participants and found a significant group difference in STI, but did not demonstrate an effect on clinical management or functional benefit; it provides useful knowledge without changing practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it compares two distinct kinematic measures, finds no vocal-effort effect, and raises questions about inference from a retrospective design.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات prospective أكبر تربط STI بشدة أعراض الصوت والنتائج الوظيفية، وتختبر موثوقيته كأداة تقييم أو متابعة.",
+      "research_gap_en": "Larger prospective studies should link STI with voice-symptom severity and functional outcomes and test its reliability as an assessment or monitoring measure.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة بعنوان «Kinematic Features of Laryngeal Motor Control in Parkinson's Disease»، وهي دراسة تهم اختصاصيي laryngology والمهتمين بتغيرات الصوت في Parkinson's disease.\n\nحلّل الباحثون بيانات 48 شخصًا: 24 مصابًا بـ Parkinson's disease و24 من مجموعة controls متطابقين بالعمر والجنس. كرر المشاركون utterance /ifi/ بمستويات vocal effort تتراوح من المعتاد إلى الأقصى، مع تسجيل حركة laryngeal باستخدام high-speed videoendoscopy.\n\nركزت الدراسة على مقياسين. الأول spatiotemporal index، أو STI، ويقيس مدى variability في adduction بين التكرارات. والثاني asymmetry index، أو AI، ويقارن deceleration وacceleration أثناء حركة adduction. كانت النتيجة الأساسية أن STI اختلف بشكل دال بين المجموعتين، مع variability أكبر لدى المصابين بـ Parkinson's disease. أما AI فلم يظهر فرقًا دالًا. كذلك لم يكن لمستوى vocal effort، ولا لتفاعله مع المجموعة، تأثير دال في أي من المقياسين.\n\nما أهمية ذلك؟ تدعم النتيجة فكرة أن اضطراب الحركة في Parkinson's disease قد يظهر كزيادة في التباين الحركي، بما يتماشى مع ملاحظات في articulators أخرى. وقد يكون STI مقياسًا حساسًا لدراسة laryngeal motor control. لكن الدراسة retrospective، ولا تقدم دليلًا على أن هذا القياس يحسن التشخيص أو يغير العلاج اليوم. كما أن عدم وجود أثر لمستوى الجهد يعني أن زيادة vocal effort لم تعدّل المقياسين في هذا الاختبار.\n\nعمليًا، لا ينبغي تغيير التدبير السريري اعتمادًا على هذه النتائج وحدها. الخطوة التالية هي دراسات prospective أكبر تربط STI بأعراض الصوت والقدرة الوظيفية، وتختبر ثبات القياس وقيمته في متابعة المرض. خلاصة المقال: نتيجة مفيدة لفهم kinematics الحنجرية، وليست بعدُ أداة سريرية مثبتة.",
+      "audio_script_en": "Today we review “Kinematic Features of Laryngeal Motor Control in Parkinson's Disease,” a study relevant to laryngology and the assessment of voice changes in Parkinson's disease.\n\nThe investigators retrospectively analyzed 48 participants: 24 people with idiopathic Parkinson's disease and 24 age- and sex-matched controls. Participants repeated the utterance /ifi/ at typical, mild, moderate, and maximum vocal effort while laryngeal movement was recorded using high-speed videoendoscopy.\n\nThe study focused on two measures. The spatiotemporal index, or STI, captures variability in vocal-fold adduction across repeated utterances. The asymmetry index, or AI, compares deceleration with acceleration during adduction. STI showed a statistically significant group effect, with greater variability in the Parkinson's disease group. AI did not show a significant group difference. Neither vocal effort level nor its interaction with group significantly affected either measure.\n\nThe finding is consistent with the broader observation that Parkinson's disease can increase variability in speech motor control. STI may therefore be a sensitive measure for studying laryngeal motor impairment. However, this retrospective study does not show that STI improves diagnosis, predicts functional outcomes, or changes treatment. The lack of an effect from vocal effort also suggests that asking participants to increase effort did not modify these kinematic measures in this task.\n\nFor clinical practice, there is no immediate management change. The results are useful for understanding laryngeal movement and for guiding further research, rather than for making treatment decisions. Larger prospective studies should test whether STI correlates with voice symptoms and functional communication, and whether it is reliable enough for monitoring disease or response to intervention. The takeaway is a promising quantitative research signal, not yet a validated clinical tool.",
+      "mcq": [
+        {
+          "q_ar": "أي مقياس أظهر فرقًا دالًا إحصائيًا بين مجموعة Parkinson's disease ومجموعة controls؟",
+          "q_en": "Which measure showed a statistically significant difference between the Parkinson's disease and control groups?",
+          "options_ar": [
+            "أ) AI فقط",
+            "ب) STI فقط",
+            "ج) كلا المقياسين",
+            "د) لم يظهر أي مقياس فرقًا"
+          ],
+          "options_en": [
+            "A) AI only",
+            "B) STI only",
+            "C) Both measures",
+            "D) Neither measure"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان هناك تأثير دال للمجموعة على STI، ولم يكن هناك تأثير دال على AI.",
+          "explanation_en": "There was a significant group effect for STI, but not for AI."
+        },
+        {
+          "q_ar": "ما الذي يقيسه STI في هذه الدراسة؟",
+          "q_en": "What does STI measure in this study?",
+          "options_ar": [
+            "أ) شدة الصوت أثناء الكلام",
+            "ب) variability في adduction عبر utterances المتكررة",
+            "ج) نسبة deceleration إلى acceleration",
+            "د) مدة إغلاق vocal folds"
+          ],
+          "options_en": [
+            "A) Vocal loudness during speech",
+            "B) Adductory variability across repeated utterances",
+            "C) The ratio of deceleration to acceleration",
+            "D) Vocal-fold closure duration"
+          ],
+          "answer": 1,
+          "explanation_ar": "عرّف الباحثون STI بأنه مقياس variability في adduction عبر utterances المتكررة.",
+          "explanation_en": "The investigators defined STI as a measure of adductory variability across repeated utterances."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن أثر vocal effort؟",
+          "q_en": "What is the most appropriate conclusion regarding vocal effort?",
+          "options_ar": [
+            "أ) زاد STI لدى جميع المشاركين",
+            "ب) خفّض AI لدى مجموعة Parkinson's disease",
+            "ج) لم يظهر أثر دال على أي من المقياسين",
+            "د) أثر في المجموعة المصابة فقط"
+          ],
+          "options_en": [
+            "A) It increased STI in all participants",
+            "B) It reduced AI in the Parkinson's disease group",
+            "C) It had no significant effect on either measure",
+            "D) It affected only the Parkinson's disease group"
+          ],
+          "answer": 2,
+          "explanation_ar": "لم تكن لمستويات vocal effort أو تفاعلها مع المجموعة آثار دالة على STI أو AI.",
+          "explanation_en": "Vocal effort level and its interaction with group had no significant effects on STI or AI."
+        }
+      ]
+    },
+    {
+      "pmid": "42695932",
+      "title_ar": "Subglottic Pressure and Immersion Depth: Key Determinants of Voice Outcomes in Water Resistance Tube Exercise.",
+      "title_en": "Subglottic Pressure and Immersion Depth: Key Determinants of Voice Outcomes in Water Resistance Tube Exercise.",
+      "journal": "Journal of speech, language, and hearing research : JSLHR",
+      "pub_date": "2026-Oct-13",
+      "doi": "10.1044/2026_JSLHR-26-00186",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42695932/",
+      "pdf_url": null,
+      "study_design": "Controlled experimental study n=40",
+      "summary_ar": "قارنت الدراسة تأثير immersion depth وsubglottic pressure (Psub) أثناء water resistance tube (WRT) exercise لدى 40 مشاركًا، منهم 20 بصوت طبيعي و20 لديهم functional dysphonia. اختبر المشاركون أعماق غمر من 2 إلى 10 cm، وكذلك أهداف Psub من 10 إلى 20 cm H2O مع تثبيت عمق الغمر. قِيست oral pressure (Poral) oscillations وelectroglottographic contact quotient (CQ)، إلى جانب التقييم الذاتي لسهولة phonation. أدت زيادة العمق أو Psub إلى ارتفاع CQ وزيادة عدم استقرار Poral، مع انخفاض سهولة phonation والشعور بالراحة. لم تظهر فروق مهمة في معظم المتغيرات بين المجموعتين. تشير النتائج إلى ضرورة ضبط الحمل أثناء WRT، لكنها لا تثبت بعدُ تحسن النتائج العلاجية طويلة الأمد.",
+      "summary_en": "This controlled experimental study included 40 participants: 20 with normal voice and 20 with functional dysphonia. Participants performed water resistance tube (WRT) exercises at immersion depths of 2–10 cm and at subglottic pressure (Psub) targets of 10, 15, and 20 cm H2O. Outcomes included oral pressure (Poral) oscillations, electroglottographic contact quotient (CQ), and self-rated ease of phonation. Greater immersion depth or Psub increased CQ and Poral instability and reduced perceived ease. Most measured variables did not differ significantly between the two groups. The findings support careful control of exercise load but do not establish long-term therapeutic benefit.",
+      "practice_change_ar": "ينبغي للمعالجين مراقبة immersion depth وPsub أثناء WRT، لأن زيادة الحمل قد تقلل سهولة phonation، لكن الدراسة لا تبرر تغييرًا علاجيًا واسعًا.",
+      "practice_change_en": "Clinicians should monitor immersion depth and Psub during WRT because higher loads may reduce ease of phonation, although this study does not justify a broad change in treatment.",
+      "future_impact_ar": "قد تساعد دراسات علاجية أطول على تحديد مستويات immersion depth وPsub المثلى لكل مريض وتحسين وصف WRT.",
+      "future_impact_en": "Longer-term treatment studies may identify optimal immersion-depth and Psub targets for individual patients and improve WRT prescription.",
+      "why_important_ar": "توضح الدراسة أن تعديلات بسيطة في جرعة WRT تُحدث تغيرات قابلة للقياس في مؤشرات phonation والإحساس بالراحة.",
+      "why_important_en": "The study shows that small changes in WRT dose can produce measurable changes in phonatory measures and perceived ease.",
+      "vs_previous_ar": "تضيف الدراسة قياسات موضوعية تربط immersion depth وPsub بتغيرات Poral وCQ، بدل الاكتفاء بوصف WRT كتمرين واحد ثابت الحمل.",
+      "vs_previous_en": "The study adds objective links between immersion depth and Psub and changes in Poral and CQ, rather than treating WRT as a single fixed-load exercise.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة تجريبية مضبوطة على 40 مشاركًا تقدم معرفة مفيدة حول جرعة WRT، لكن النتائج الفسيولوجية القصيرة الأمد لا تثبت أثرًا علاجيًا أو تغييرًا للممارسة.",
+      "stars_reason_en": "A controlled experiment in 40 participants provides useful information about WRT dosing, but short-term physiological outcomes do not establish therapeutic benefit or a practice-changing effect.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it systematically tests adjustable WRT parameters and raises questions about translating physiological measures into therapeutic outcomes.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء تجارب علاجية عشوائية أطول تقيس تحسن الصوت والأعراض الوظيفية، وتحدد جرعات WRT المناسبة بحسب خصائص المرضى.",
+      "research_gap_en": "Longer randomized treatment trials should assess voice and functional symptom improvement and determine suitable WRT doses for different patient profiles.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نراجع اليوم دراسة تبحث كيف يؤثر كل من عمق غمر الأنبوب وضغط ما تحت المزمار على نتائج تمارين المقاومة بالماء، أو WRT. شملت الدراسة 40 مشاركًا: 20 بصوت طبيعي و20 لديهم functional dysphonia مؤكدة بالفحص بمنظار الحنجرة. في التجربة الأولى، phonation داخل الأنبوب عند أعماق غمر تراوحت بين 2 و10 cm؛ وفي التجربة الثانية، استهدف المشاركون subglottic pressure أو Psub بقيم 10 و15 و20 cm H2O مع تثبيت العمق.\n\nقاس الباحثون oral pressure، أو Poral، بما في ذلك تذبذبه وانتظامه، كما قاسوا electroglottographic contact quotient، أو CQ، وسألوا المشاركين عن سهولة phonation. كانت النتيجة الأساسية أن زيادة عمق الغمر أو Psub رفعت CQ وزادت عدم استقرار Poral، بالتزامن مع انخفاض سهولة phonation والشعور بالراحة. لم توجد فروق مهمة في معظم القياسات بين مجموعة الصوت الطبيعي ومجموعة functional dysphonia.\n\nما الذي يعنيه ذلك للممارسة؟ ينبغي الانتباه إلى أن زيادة الحمل في WRT ليست بالضرورة أكثر فائدة، وقد تجعل phonation أقل سهولة. يمكن للمعالج مراقبة العمق والجهد وضبطهما بحسب استجابة المريض، لكن هذه الدراسة لا تثبت أن مستوى محددًا يحسن النتائج العلاجية. وهي دراسة تجريبية مضبوطة على 40 مشاركًا، مفيدة لفهم فسيولوجيا التمرين، لكنها تقيس استجابات قصيرة الأمد ولا تقدم دليلًا على تحسن سريري مستدام.\n\nتختلف إضافة الدراسة عن المعرفة السابقة في أنها تربط بصورة كمية بين متغيرات WRT، مثل immersion depth وPsub، وبين Poral وCQ والإحساس بالراحة. وتبقى الفجوة البحثية هي اختبار هذه المتغيرات في تجارب علاجية أطول، مع قياس تحسن الصوت والأعراض وتحديد الجرعة المثلى لكل مريض. الخلاصة: اضبطوا حمل WRT وراقبوا راحة phonation، مع اعتبار هذه النتائج دليلًا فسيولوجيًا أوليًا لا قاعدة علاجية نهائية.",
+      "audio_script_en": "Today we review a study of how tube immersion depth and subglottic pressure affect water resistance tube, or WRT, exercises. The study included 40 participants: 20 with normal voice and 20 with functional dysphonia confirmed by laryngoscopy. In the first experiment, participants phonated into a tube immersed at depths from 2 to 10 cm. In the second, they targeted subglottic pressure, or Psub, of 10, 15, and 20 cm H2O while immersion depth stayed constant.\n\nThe investigators measured oral pressure, or Poral, oscillations and regularity, electroglottographic contact quotient, or CQ, and participants’ perceived ease of phonation. Greater immersion depth or Psub increased CQ and Poral instability, while perceived ease of phonation declined. Most measures did not differ significantly between the normal-voice and dysphonia groups.\n\nFor clinical practice, the message is that increasing the exercise load is not necessarily better and may make phonation less comfortable. Clinicians can monitor immersion depth and effort and adjust them to the patient’s response. However, this study does not establish that any particular setting improves treatment outcomes. It is a controlled experiment in 40 participants that informs exercise physiology, but it measures short-term responses rather than sustained clinical benefit.\n\nThe study adds quantitative links between adjustable WRT parameters—immersion depth and Psub—and Poral, CQ, and perceived ease. A key research gap is whether these parameter changes affect voice improvement and functional symptoms over a longer course of treatment, and which dose is best for different patients. The take-home point is to control WRT load and attend to phonatory comfort, while treating these findings as preliminary physiological evidence rather than a definitive treatment protocol.",
+      "mcq": [
+        {
+          "q_ar": "ما المتغيران اللذان غيّرهما الباحثون أثناء WRT؟",
+          "q_en": "Which two parameters did the investigators manipulate during WRT?",
+          "options_ar": [
+            "أ) مدة العلاج ونوع الأنبوب",
+            "ب) immersion depth وsubglottic pressure",
+            "ج) شدة الصوت ومعدل التنفس",
+            "د) وضعية الرأس ودرجة حرارة الماء"
+          ],
+          "options_en": [
+            "A) Treatment duration and tube type",
+            "B) Immersion depth and subglottic pressure",
+            "C) Voice intensity and breathing rate",
+            "D) Head position and water temperature"
+          ],
+          "answer": 1,
+          "explanation_ar": "اختبرت الدراسة خمسة أعماق للغمر وثلاثة أهداف لـsubglottic pressure.",
+          "explanation_en": "The study tested five immersion depths and three subglottic pressure targets."
+        },
+        {
+          "q_ar": "ما النتيجة التي ارتبطت بزيادة immersion depth أو Psub؟",
+          "q_en": "What outcome was associated with greater immersion depth or Psub?",
+          "options_ar": [
+            "أ) انخفاض CQ وتحسن سهولة phonation",
+            "ب) ارتفاع CQ وزيادة عدم استقرار Poral وانخفاض سهولة phonation",
+            "ج) عدم تغير أي قياس",
+            "د) تحسن مماثل في جميع قياسات الصوت"
+          ],
+          "options_en": [
+            "A) Lower CQ and improved ease of phonation",
+            "B) Higher CQ, greater Poral instability, and reduced ease of phonation",
+            "C) No change in any measure",
+            "D) Improvement in all voice measures"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتبط الحمل الأعلى بارتفاع CQ وزيادة عدم استقرار Poral وانخفاض سهولة phonation.",
+          "explanation_en": "Higher loads were associated with increased CQ and Poral instability and reduced perceived ease."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن تطبيق النتائج سريريًا؟",
+          "q_en": "What is the most appropriate clinical interpretation of the findings?",
+          "options_ar": [
+            "أ) تبرر وصف أعلى Psub لجميع المرضى",
+            "ب) تثبت تحسن النتائج طويلة الأمد مع WRT",
+            "ج) تدعم مراقبة حمل WRT، لكنها لا تثبت جرعة علاجية مثلى",
+            "د) تثبت أن WRT غير فعال في functional dysphonia"
+          ],
+          "options_en": [
+            "A) They justify prescribing the highest Psub to all patients",
+            "B) They establish long-term improvement with WRT",
+            "C) They support monitoring WRT load but do not establish an optimal therapeutic dose",
+            "D) They establish that WRT is ineffective for functional dysphonia"
+          ],
+          "answer": 2,
+          "explanation_ar": "تقيس الدراسة تغيرات فسيولوجية قصيرة الأمد ولا تختبر نتائج علاجية طويلة الأمد أو جرعة مثلى.",
+          "explanation_en": "The study measured short-term physiological changes and did not test long-term treatment outcomes or an optimal dose."
+        }
+      ]
+    },
+    {
+      "pmid": "42867663",
+      "title_ar": "Clinical utility of additional non-absorbable nasal packing after septoplasty: a systematic review and meta-analysis.",
+      "title_en": "Clinical utility of additional non-absorbable nasal packing after septoplasty: a systematic review and meta-analysis.",
+      "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+      "pub_date": "2026-Oct-13",
+      "doi": "10.1007/s00405-026-10646-6",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42867663/",
+      "pdf_url": null,
+      "study_design": "Systematic review and meta-analysis; number of included studies not reported in the abstract",
+      "summary_ar": "قيّمت هذه systematic review وmeta-analysis فائدة إضافة non-absorbable nasal packing بعد septoplasty عند استخدام transseptal sutures أو septal splints. في التحليل المعتمد على sutures، لم تقلل إضافة packing بشكل مهم postoperative bleeding أو septal hematoma. لكنها ارتبطت بزيادة كبيرة في headache (OR 40.06، 95% CI 16.05–99.99) وبزيادة synechia formation (OR 2.79، 95% CI 1.00–7.77). وفي التحليل المعتمد على splints، لم تقلل إضافة packing النزف أو إجمالي adhesion مقارنةً بالبدائل؛ كما لم تُظهر فائدة في adhesion مقارنةً باستخدام splint وحده. ارتبطت إضافة packing بارتفاع postoperative pain في اليومين 1 و7 بعد العملية. خلص الباحثون إلى أن packing الإضافي لا يحقق فائدة سريرية ثابتة عند تأمين تثبيت septum، ولا يدعمون استخدامه الروتيني بعد septoplasty.",
+      "summary_en": "This systematic review and meta-analysis assessed additional non-absorbable nasal packing after septoplasty when transseptal sutures or septal splints are used.\nWith sutures, packing did not significantly reduce postoperative bleeding or septal hematoma.\nIt was associated with higher odds of headache (OR 40.06, 95% CI 16.05–99.99) and synechia (OR 2.79, 95% CI 1.00–7.77).\nWith splints, packing did not significantly reduce hemorrhage or overall adhesion compared with the relevant alternatives.\nIt offered no adhesion advantage over splint-only treatment and was associated with greater pain on postoperative days 1 and 7.\nThe authors conclude that routine additional non-absorbable packing is not supported when septal stabilization has already been achieved.",
+      "practice_change_ar": "لا تستخدم non-absorbable nasal packing بشكل روتيني بعد septoplasty إذا كان septum مثبتًا بفعالية باستخدام sutures أو splints.",
+      "practice_change_en": "Do not routinely add non-absorbable nasal packing after septoplasty when the septum is effectively stabilized with sutures or splints.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية ذات بروتوكولات موحدة على تحديد ما إذا كانت فئات مختارة من المرضى تستفيد من packing الإضافي.",
+      "future_impact_en": "Future studies with standardized protocols may clarify whether selected patient groups benefit from additional packing.",
+      "why_important_ar": "توازن الدراسة بين الفائدة المحتملة للسيطرة على النزف وبين الألم والمضاعفات، وتدعم تجنب إجراء إضافي لا تظهر له فائدة ثابتة.",
+      "why_important_en": "The review weighs potential bleeding control against discomfort and complications, supporting avoidance of an added intervention without consistent benefit.",
+      "vs_previous_ar": "بدل الاعتماد على ممارسة packing التقليدية، تقارن الدراسة إضافة packing مباشرةً بخيارات تثبيت septum، ولا تجد فائدة ثابتة عند استخدام sutures أو splints.",
+      "vs_previous_en": "Rather than relying on traditional packing practice, this review compares packing directly with septal stabilization strategies and finds no consistent added benefit with sutures or splints.",
+      "stars": 4,
+      "stars_reason_ar": "هذه systematic review وmeta-analysis، ما يمنحها تصميمًا قويًا، وتتناول قرارًا جراحيًا عمليًا؛ لكن تفاصيل عدد الدراسات وجودتها غير متاحة في الملخص، والنتائج لا تثبت فائدة packing في جميع الفئات.",
+      "stars_reason_en": "This systematic review and meta-analysis has a strong study design and addresses a practical surgical decision; however, study count and quality are not available in the abstract, and the findings do not establish benefit across all patient groups.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسبة للنقاش لأنها تقارن packing بخيارات تثبيت شائعة، وتعرض نتائج مفيدة لاتخاذ القرار مع ضرورة مناقشة تغاير المقارنات وجودة الدراسات.",
+      "jc_reason_en": "Suitable for journal club because it compares packing with common stabilization strategies and informs practice, while inviting discussion of comparator heterogeneity and study quality.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات مستقبلية موحدة لتحديد أثر packing لدى المرضى ذوي عوامل خطر النزف أو ضعف تثبيت septum، مع قياس المضاعفات والراحة بصورة متسقة.",
+      "research_gap_en": "Standardized prospective studies are needed to assess packing in patients at higher bleeding risk or with inadequate septal stabilization, using consistent complication and comfort outcomes.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نتناول اليوم دراسة عن سؤال شائع بعد septoplasty: هل ينبغي إضافة non-absorbable nasal packing عندما يكون septum مثبتًا بالفعل باستخدام transseptal sutures أو septal splints؟ جمعت الدراسة الأدلة عبر systematic review وmeta-analysis، وقسمت التحليل بحسب طريقة التثبيت والمقارنة المستخدمة.\n\nفي مجموعة sutures، لم تُظهر إضافة packing انخفاضًا مهمًا في postoperative bleeding أو septal hematoma. في المقابل، ارتبطت بزيادة headache؛ كان odds ratio 40.06، مع confidence interval من 16.05 إلى 99.99. كما زادت synechia formation، مع odds ratio 2.79 وconfidence interval من 1.00 إلى 7.77. في مجموعة splints، لم يظهر انخفاض مهم في النزف أو إجمالي adhesion. ورغم أن splint مع packing كان أفضل من packing وحده في adhesion، لم تظهر فائدة إضافية مقارنةً بـ splint وحده. كذلك ارتبط packing بألم أعلى في postoperative days 1 و7.\n\nالرسالة العملية هي عدم استخدام non-absorbable packing بشكل روتيني عندما يكون septum مستقرًا بفعالية. هذا لا يعني أن packing ممنوع في كل حالة؛ فقد تبقى هناك حالات سريرية خاصة، لكن الملخص لا يحددها. قوة الاستنتاج محدودة بغياب عدد الدراسات وتفاصيل جودتها في abstract، وباختلاف المقارنات. لذلك فالدراسة مفيدة لمراجعة الممارسة، وليست وحدها قاعدة مطلقة لكل مريض. البحث المستقبلي ينبغي أن يحدد ما إذا كان المرضى ذوو عوامل خطر النزف أو ضعف التثبيت يستفيدون، وأن يقيس الألم والمضاعفات ببروتوكولات موحدة. إجمالًا، لا تثبت الأدلة المعروضة فائدة سريرية ثابتة لإضافة packing، بينما تشير إلى عبء أكبر من الانزعاج.",
+      "audio_script_en": "Today’s review addresses a common question after septoplasty: should non-absorbable nasal packing be added when the septum has already been stabilized with transseptal sutures or septal splints? This systematic review and meta-analysis analyzed the evidence in two groups, according to the stabilization method and comparison treatment.\n\nIn the suture-based analysis, adding packing did not significantly reduce postoperative bleeding or septal hematoma. It was associated with substantially higher odds of headache: an odds ratio of 40.06, with a 95% confidence interval of 16.05 to 99.99. Synechia formation was also higher, with an odds ratio of 2.79 and a confidence interval of 1.00 to 7.77. In the splint-based analysis, packing did not significantly reduce hemorrhage or overall adhesion. Although splint plus packing performed better than packing alone for adhesion, it offered no advantage over splint-only treatment. Packing was also associated with higher pain scores on postoperative days 1 and 7.\n\nThe practical message is not to use additional non-absorbable packing routinely when the septum is already effectively stabilized. This does not establish that packing is never appropriate; particular clinical situations may warrant it, but the abstract does not identify those groups. Interpretation is limited because the abstract does not report the number or quality of included studies, and the comparisons vary. The review is useful for reassessing practice, but its findings should not be treated as an absolute rule for every patient. Future standardized studies should investigate whether people at increased bleeding risk or with inadequate stabilization benefit, and should measure pain and complications consistently. Overall, the evidence presented does not show a consistent clinical benefit from additional packing, while suggesting greater postoperative discomfort.",
+      "mcq": [
+        {
+          "q_ar": "في تحليل septal sutures، ما النتيجة الأساسية لإضافة non-absorbable packing؟",
+          "q_en": "In the septal suture analysis, what was the main finding about adding non-absorbable packing?",
+          "options_ar": [
+            "أ) خفّضت postoperative bleeding وseptal hematoma بوضوح",
+            "ب) لم تقلل النزف أو septal hematoma، وارتبطت بزيادة headache وsynechia",
+            "ج) خفّضت headache دون تغيير النزف",
+            "د) منعت synechia ورفعت الألم فقط"
+          ],
+          "options_en": [
+            "A) It clearly reduced postoperative bleeding and septal hematoma",
+            "B) It did not reduce bleeding or septal hematoma and was associated with more headache and synechia",
+            "C) It reduced headache without changing bleeding",
+            "D) It prevented synechia and increased pain only"
+          ],
+          "answer": 1,
+          "explanation_ar": "لم يظهر انخفاض مهم في postoperative bleeding أو septal hematoma، بينما زادت headache وsynechia formation.",
+          "explanation_en": "There was no significant reduction in postoperative bleeding or septal hematoma, while headache and synechia formation were increased."
+        },
+        {
+          "q_ar": "مقارنةً بـ splint وحده، ما فائدة إضافة packing في تحليل splints؟",
+          "q_en": "Compared with splint alone, what benefit did adding packing provide in the splint analysis?",
+          "options_ar": [
+            "أ) خفضت النزف والadhesion بشكل مهم",
+            "ب) خفضت adhesion، لكنها لم تُظهر فائدة مقارنةً بـ splint وحده",
+            "ج) خفضت الألم في اليومين 1 و7",
+            "د) منعت septal hematoma في جميع المقارنات"
+          ],
+          "options_en": [
+            "A) It significantly reduced bleeding and adhesion",
+            "B) It reduced adhesion versus packing alone, but showed no advantage over splint alone",
+            "C) It reduced pain on days 1 and 7",
+            "D) It prevented septal hematoma in all comparisons"
+          ],
+          "answer": 1,
+          "explanation_ar": "لم تظهر فائدة إضافية في adhesion مقارنةً بـ splint وحده؛ والتحسن المذكور كان مقارنةً بـ packing وحده.",
+          "explanation_en": "There was no added adhesion benefit over splint alone; the reported improvement was versus packing alone."
+        },
+        {
+          "q_ar": "ما التوصية العملية التي تدعمها نتائج الدراسة؟",
+          "q_en": "What practical recommendation is supported by the study findings?",
+          "options_ar": [
+            "أ) استخدام packing دائمًا بعد septoplasty",
+            "ب) استخدام packing فقط مع transseptal sutures",
+            "ج) عدم استخدام packing الإضافي روتينيًا عند تثبيت septum بفعالية",
+            "د) استبدال جميع septal splints بـ packing"
+          ],
+          "options_en": [
+            "A) Always use packing after septoplasty",
+            "B) Use packing only with transseptal sutures",
+            "C) Do not routinely add packing when the septum is effectively stabilized",
+            "D) Replace all septal splints with packing"
+          ],
+          "answer": 2,
+          "explanation_ar": "خلصت الدراسة إلى أن packing الإضافي لا يقدم فائدة سريرية ثابتة عند تحقق تثبيت septum، ويرتبط بزيادة الانزعاج.",
+          "explanation_en": "The review found no consistent clinical benefit when the septum is stabilized and reported greater postoperative discomfort."
+        }
+      ]
+    },
+    {
+      "pmid": "42635569",
+      "title_ar": "Auditory-Somatosensory Influences on Vocal Motor Control in Primary Muscle Tension Dysphonia",
+      "title_en": "Auditory-Somatosensory Influences on Vocal Motor Control in Primary Muscle Tension Dysphonia",
+      "journal": "Journal of speech, language, and hearing research : JSLHR",
+      "pub_date": "2026-Oct-13",
+      "doi": "10.1044/2026_JSLHR-25-00868",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42635569/",
+      "pdf_url": "https://www.medrxiv.org/content/medrxiv/early/2025/10/24/2025.10.23.25338678.full.pdf",
+      "study_design": "Controlled experimental study, n=58 (pMTD n=17; controls n=41)",
+      "summary_ar": "درست هذه التجربة تأثير auditory وsomatosensory feedback في vocal motor control لدى 17 مشاركًا لديهم pMTD و41 مشاركًا سليمًا. أنتج المشاركون vowels مستدامة ضمن مهمة auditory feedback معدّلة تضمنت خفض fundamental frequency بمقدار 100 cents، وأُعيدت المهمة بعد nebulized lidocaine لتقليل الإحساس الحنجري مؤقتًا. أظهر المشاركون الأصحاء استجابات تكيفية واضحة خلال hold وaftereffect بعد إزالة التغيير، خاصة مع بقاء somatosensation سليمًا. بالمقابل، أظهر المشاركون ذوو pMTD، مع somatosensation سليمة، استجابات أكبر في الاتجاه المعاكس ولم يظهروا تكيفًا خلال hold، مع variability أعلى. أدى تقليل somatosensory input باستخدام lidocaine إلى استقرار التكيف خلال hold لدى مجموعة pMTD. تشير النتائج إلى اختلاف sensory weighting واحتمال مساهمة معالجة somatosensory غير الطبيعية في عدم استقرار الصوت، لكنها لا تثبت فائدة علاجية سريرية.",
+      "summary_en": "This controlled experiment examined auditory and somatosensory contributions to vocal motor control in 17 participants with pMTD and 41 healthy controls. Participants produced sustained vowels during altered auditory feedback with a 100-cent downward shift in fundamental frequency; the task was repeated after nebulized lidocaine transiently attenuated laryngeal somatosensation. Controls showed adaptive responses during the hold phase and an aftereffect during washout, particularly with intact somatosensation. With intact somatosensation, participants with pMTD showed larger responses in the opposing direction, no hold-phase adaptation, and greater variability. Lidocaine-related somatosensory attenuation stabilized hold-phase adaptation in the pMTD group. The findings suggest altered sensory weighting in pMTD, but do not establish a clinical treatment benefit.",
+      "practice_change_ar": "لا تغيّر هذه النتائج التدبير السريري الحالي، ولا تبرر استخدام nebulized lidocaine لعلاج pMTD.",
+      "practice_change_en": "These findings do not change current clinical management and do not justify using nebulized lidocaine to treat pMTD.",
+      "future_impact_ar": "قد تساعد أبحاث لاحقة في اختبار ما إذا كان recalibration موجّه للـ sensory feedback يحسن vocal stability والنتائج العلاجية لدى مرضى pMTD.",
+      "future_impact_en": "Further research could test whether targeted sensory-feedback recalibration improves vocal stability and treatment outcomes in pMTD.",
+      "why_important_ar": "تقدم الدراسة دليلًا تجريبيًا على أن تفاعل auditory وsomatosensory feedback قد يختلف لدى المصابين بـ pMTD ويرتبط بعدم استقرار التحكم الصوتي.",
+      "why_important_en": "The study provides experimental evidence that auditory and somatosensory feedback interactions may differ in pMTD and relate to unstable vocal control.",
+      "vs_previous_ar": "تتجاوز الدراسة وصف pMTD كاضطراب توتر عضلي فقط، إذ تختبر مباشرةً sensory weighting عبر تعديل auditory feedback وتقليل somatosensation مؤقتًا.",
+      "vs_previous_en": "Rather than viewing pMTD solely as a muscle-tension disorder, this study directly tests sensory weighting by altering auditory feedback and transiently attenuating somatosensation.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة تجريبية مضبوطة بحجم إجمالي 58 مشاركًا تقدم نتيجة آلية جديدة ومفيدة في laryngology، لكن صغر مجموعة pMTD وغياب نتائج علاجية مباشرة يحدان من أثرها على الممارسة.",
+      "stars_reason_en": "This controlled experimental study of 58 participants offers useful, mechanistically novel laryngology findings, but the small pMTD group and absence of direct treatment outcomes limit its clinical impact.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This is a useful journal-club paper because it experimentally manipulates auditory and somatosensory feedback to examine a sensorimotor explanation for pMTD, while raising discussion of the small subgroup and lack of demonstrated clinical application.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات أكبر تختبر ما إذا كان تعديل sensory feedback يحقق تحسنًا مستدامًا في vocal function والأعراض لدى مرضى pMTD.",
+      "research_gap_en": "Larger studies are needed to determine whether sensory-feedback modulation produces sustained improvements in vocal function and symptoms in pMTD.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تتناول هذه الدراسة كيفية مساهمة auditory وsomatosensory feedback في التحكم الحركي بالصوت لدى المصابين بـ primary muscle tension dysphonia، أو pMTD. شملت الدراسة 58 مشاركًا: 17 لديهم pMTD و41 من الأصحاء. طُلب من المشاركين إصدار vowels مستدامة بينما عُدّل auditory feedback بخفض fundamental frequency بمقدار 100 cents. ثم كرروا المهمة بعد nebulized lidocaine، الذي استُخدم لتقليل الإحساس الحنجري مؤقتًا، وليس كعلاج اختُبر سريريًا.\n\nأظهر المشاركون الأصحاء استجابات تكيفية خلال مرحلة hold، ثم aftereffect بعد زوال التغيير، خصوصًا عندما بقي somatosensation سليمًا. أما المشاركون ذوو pMTD، فعندما كان الإحساس سليمًا، أظهروا استجابات أكبر في الاتجاه المعاكس، ولم يظهر لديهم التكيف نفسه خلال hold، كما كانت استجاباتهم أكثر variability. ومن اللافت أن تقليل somatosensory input باستخدام lidocaine ارتبط باستقرار التكيف خلال hold لدى مجموعة pMTD.\n\nتدعم هذه النتائج احتمال اختلاف sensory weighting لدى المصابين بـ pMTD، وتشير إلى أن معالجة somatosensory قد تكون مرتبطة بعدم استقرار vocal motor control. لكنها تجربة آلية، وليست تجربة علاجية؛ لذلك لا تثبت أن lidocaine أو تقليل الإحساس علاج مفيد، ولا تستدعي تغيير الممارسة السريرية اليوم. كما أن مجموعة pMTD صغيرة، ما يحد من قوة الاستنتاجات. تستحق الدراسة النقاش في journal club لأنها تختبر تفاعل الحواس تجريبيًا، وتقدم إطارًا لفهم الاضطراب يتجاوز التوتر العضلي وحده. الخطوة التالية هي دراسات أكبر تقيس الأعراض والنتائج الصوتية على المدى الطويل، وتختبر ما إذا كان recalibration موجّه للـ sensory feedback يمكن أن يحسن النتائج العلاجية.",
+      "audio_script_en": "This study examines how auditory and somatosensory feedback contribute to vocal motor control in primary muscle tension dysphonia, or pMTD. It included 58 participants: 17 with pMTD and 41 healthy controls. Participants produced sustained vowels while auditory feedback was altered with a 100-cent downward shift in fundamental frequency. They repeated the task after nebulized lidocaine was used to transiently reduce laryngeal sensation; lidocaine was an experimental manipulation, not a treatment tested for clinical benefit.\n\nHealthy controls showed adaptive responses during the hold phase, followed by an aftereffect when the altered feedback ended. This pattern was particularly evident when somatosensation remained intact. In contrast, participants with pMTD and intact somatosensation showed larger responses in the opposing direction, did not show the same hold-phase adaptation, and had greater response variability. Notably, attenuating somatosensory input with lidocaine was associated with more stable hold-phase adaptation in the pMTD group.\n\nThe findings suggest that sensory weighting may differ in pMTD and that somatosensory processing could contribute to unstable vocal motor control. However, this is a mechanistic experiment, not a treatment trial. It does not demonstrate that lidocaine or sensory attenuation is clinically beneficial, and it does not justify changing practice today. The pMTD subgroup was also small, which limits the strength and generalizability of the conclusions. The article is appropriate for journal club because it experimentally tests sensory interactions and offers a framework that extends beyond muscle tension alone. Larger studies should assess longer-term symptoms and vocal outcomes and determine whether targeted sensory-feedback recalibration can improve treatment results.",
+      "mcq": [
+        {
+          "q_ar": "ما التلاعب الذي استُخدم لتعديل auditory feedback في الدراسة؟",
+          "q_en": "What manipulation was used to alter auditory feedback in the study?",
+          "options_ar": [
+            "أ) رفع fundamental frequency بمقدار 100 cents",
+            "ب) خفض fundamental frequency بمقدار 100 cents",
+            "ج) تغيير شدة الصوت بمقدار 10 dB",
+            "د) تأخير الصوت بمقدار 100 milliseconds"
+          ],
+          "options_en": [
+            "A) A 100-cent increase in fundamental frequency",
+            "B) A 100-cent decrease in fundamental frequency",
+            "C) A 10-dB change in sound intensity",
+            "D) A 100-millisecond delay in sound"
+          ],
+          "answer": 1,
+          "explanation_ar": "استخدمت المهمة خفضًا بمقدار 100 cents في fundamental frequency ضمن altered auditory feedback.",
+          "explanation_en": "The paradigm used a 100-cent downward shift in fundamental frequency as altered auditory feedback."
+        },
+        {
+          "q_ar": "ما النتيجة التي ظهرت لدى مجموعة pMTD مع somatosensation سليمة؟",
+          "q_en": "What finding was observed in the pMTD group with intact somatosensation?",
+          "options_ar": [
+            "أ) تكيف أقوى من controls مع variability أقل",
+            "ب) غياب الاستجابة لأي تغيير في auditory feedback",
+            "ج) استجابات أكبر في الاتجاه المعاكس، دون تكيف خلال hold، وvariability أعلى",
+            "د) aftereffect أكبر من controls فقط"
+          ],
+          "options_en": [
+            "A) Stronger adaptation than controls with lower variability",
+            "B) No response to any change in auditory feedback",
+            "C) Larger opposing responses, no hold-phase adaptation, and greater variability",
+            "D) Only a larger aftereffect than controls"
+          ],
+          "answer": 2,
+          "explanation_ar": "مع somatosensation سليمة، أظهرت مجموعة pMTD استجابات معاكسة أكبر، ولم تتكيف خلال hold، وكانت استجاباتها أكثر variability.",
+          "explanation_en": "With intact somatosensation, the pMTD group showed larger opposing responses, lacked hold-phase adaptation, and had greater variability."
+        },
+        {
+          "q_ar": "ما الاستنتاج السريري الأنسب من نتائج الدراسة؟",
+          "q_en": "What is the most appropriate clinical conclusion from this study?",
+          "options_ar": [
+            "أ) ينبغي وصف nebulized lidocaine لعلاج pMTD",
+            "ب) النتائج آلية واعدة لكنها لا تثبت علاجًا أو تغييرًا للممارسة",
+            "ج) ثبت أن pMTD سببه الوحيد اضطراب somatosensory",
+            "د) ينبغي إيقاف العلاجات الصوتية المعتادة"
+          ],
+          "options_en": [
+            "A) Nebulized lidocaine should be prescribed to treat pMTD",
+            "B) The mechanistic findings are promising but do not establish a treatment or practice change",
+            "C) pMTD has been proven to result solely from somatosensory dysfunction",
+            "D) Usual voice therapies should be discontinued"
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسة اختبرت استجابات مختبرية للتغذية الراجعة ولم تقيّم الفعالية العلاجية أو نتائج سريرية طويلة الأمد.",
+          "explanation_en": "The study assessed laboratory feedback responses and did not evaluate treatment efficacy or long-term clinical outcomes."
+        }
+      ]
+    },
+    {
+      "pmid": "42869727",
+      "title_ar": "Blepharoplasty in the Artificial Intelligence Era.",
+      "title_en": "Blepharoplasty in the Artificial Intelligence Era.",
+      "journal": "Oral and maxillofacial surgery clinics of North America",
+      "pub_date": "2026-Oct-13",
+      "doi": "10.1016/j.coms.2026.09.006",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42869727/",
+      "pdf_url": null,
+      "study_design": "Narrative review",
+      "summary_ar": "تتناول هذه المراجعة تطبيقات artificial intelligence في blepharoplasty والإجراءات periorbital، وهي مجالات تجمع بين functional reconstruction وesthetic surgery وتخصصات متعددة. توضح أن الصور والفيديو و3-dimensional imaging توفر بيانات يمكن استخدامها للقياس الموضوعي والفحص والتخطيط وتقييم النتائج وتثقيف المرضى. تبدو تطبيقات image-based computer vision وdeep learning الأقرب إلى الاستخدام السريري حاليًا. أما large language models وgenerative image models فتحتاج إلى إشراف دقيق بسبب مخاطر الاعتماد غير الملائم أو النتائج المضللة. الأدلة الحالية واعدة لكنها غير متجانسة، ولا تثبت أن هذه الأدوات تحسن النتائج السريرية بصورة مؤكدة. تقترح المراجعة مسارًا حذرًا لتطبيق هذه التقنيات وتدعو إلى تقييمها قبل دمجها في الممارسة الروتينية.",
+      "summary_en": "This narrative review examines artificial intelligence applications in blepharoplasty and related periorbital procedures across several clinical specialties.\nPhotographs, videos, and 3-dimensional imaging may support objective measurement, screening, surgical planning, outcome assessment, and patient education.\nImage-based computer vision and deep learning appear closest to clinical implementation.\nLarge language and generative image models require careful oversight.\nThe evidence is promising but heterogeneous and does not establish definite improvements in clinical outcomes.\nThe authors propose a cautious pathway for implementation and evaluation.",
+      "practice_change_ar": "لا تدعم المراجعة تغييرًا فوريًا في الممارسة، لكن يمكن للأطباء استكشاف image-based AI مع التحقق السريري والإشراف المناسبين.",
+      "practice_change_en": "The review does not support an immediate change in practice, but clinicians may explore image-based AI with appropriate clinical validation and oversight.",
+      "future_impact_ar": "قد يحسن التحقق المستقبلي من أدوات AI القياس والتخطيط وتقييم النتائج في blepharoplasty مع توضيح حدودها ومخاطرها.",
+      "future_impact_en": "Future validation of AI tools may improve measurement, planning, and outcome assessment in blepharoplasty while clarifying their limitations and risks.",
+      "why_important_ar": "تلخص المقالة فرص AI ومخاطره في مجال جراحي يعتمد على الصور ويتطلب تقديرًا وظيفيًا وجماليًا دقيقًا.",
+      "why_important_en": "The article summarizes the opportunities and risks of AI in a visually driven surgical field requiring precise functional and aesthetic judgment.",
+      "vs_previous_ar": "بدلًا من تقديم إرشادات علاجية جديدة، تجمع المراجعة تطبيقات AI الناشئة وتقترح اعتمادًا حذرًا مقارنة بالممارسة المعتادة.",
+      "vs_previous_en": "Rather than offering new treatment guidelines, the review brings together emerging AI applications and proposes cautious adoption alongside usual practice.",
+      "stars": 3,
+      "stars_reason_ar": "هذه مراجعة سردية وليست دراسة مقارنة، لذا لا تقدم دليلًا سريريًا قويًا؛ لكنها تعرض موضوعًا ناشئًا ذا فائدة محتملة، مع أدلة غير متجانسة ومن دون تغيير فوري للممارسة.",
+      "stars_reason_en": "This is a narrative review rather than a comparative clinical study, so it provides limited clinical evidence; however, it addresses an emerging and potentially useful topic, with heterogeneous evidence and no immediate practice change.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it reviews practical opportunities and risks of AI in eyelid surgery and considers what is needed before clinical adoption.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا أدوات image-based computer vision وdeep learning لتحليل الصور و3-dimensional imaging، إذ تبدو الأقرب إلى الاستخدام السريري في هذا المجال.",
+      "watch_detail_en": "Track image-based computer vision and deep learning tools for photograph and 3-dimensional image analysis, as they appear closest to clinical use in this field.",
+      "watch_type": "technology",
+      "research_gap_ar": "هناك حاجة إلى دراسات سريرية مستقبلية موحدة تقيس دقة أدوات AI وأثرها في القرارات الجراحية ونتائج المرضى وسلامتهم.",
+      "research_gap_en": "Standardized prospective clinical studies are needed to assess AI accuracy and its effects on surgical decisions, patient outcomes, and safety.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نناقش اليوم مراجعة بعنوان «Blepharoplasty in the Artificial Intelligence Era»، تتناول دور artificial intelligence في blepharoplasty والإجراءات periorbital. لهذه الإجراءات أهمية وظيفية وجمالية، كما تقع عند تقاطع تخصصات عدة، منها ophthalmology وfacial plastic surgery وoral and maxillofacial surgery.\n\nالفكرة الأساسية هي أن الصور والفيديو و3-dimensional imaging قد تتيح قياسًا موضوعيًا، وتساعد في screening والتخطيط الجراحي وتقييم النتائج وتثقيف المرضى. بحسب المراجعة، تبدو تطبيقات image-based computer vision وdeep learning الأقرب حاليًا إلى الاستخدام السريري. في المقابل، ينبغي التعامل بحذر مع large language models وgenerative image models، مع إشراف بشري وتحقق ملائمين.\n\nلكن هذه المقالة مراجعة سردية وليست تجربة سريرية أو systematic review، والأدلة التي تصفها واعدة لكنها غير متجانسة. لذلك لا تثبت أن استخدام AI يحسن النتائج أو يغير القرارات الجراحية بصورة مؤكدة. ولا توصي بتغيير فوري للممارسة؛ بل تقترح مسارًا حذرًا للتطبيق.\n\nالأهمية العملية هي أن AI قد يدعم التقييم والتخطيط، لكنه لا يحل محل الخبرة الجراحية أو الحكم السريري، ويجب ألا تُقبل مخرجاته دون تحقق. لم يرد في الملخص تحديد أداة بعينها أو نتائج سريرية كمية، لذا تبقى دقة الأدوات وتأثيرها في سلامة المرضى ونتائجهم أسئلة مفتوحة.\n\nالخلاصة: هذا موضوع جدير بالمتابعة والنقاش، لا دليل جاهز لتغيير الرعاية اليوم. ينبغي أن تركز الأبحاث القادمة على دراسات مستقبلية موحدة تقيس دقة أدوات AI، وأثرها في القرارات والنتائج، ومخاطر استخدامها. ونراقب خصوصًا أدوات image-based computer vision وdeep learning، لأنها تبدو الأقرب للتطبيق في blepharoplasty.",
+      "audio_script_en": "Today’s review is titled “Blepharoplasty in the Artificial Intelligence Era.” It considers how artificial intelligence could be used in blepharoplasty and related periorbital procedures. These procedures have both functional and aesthetic goals and sit at the intersection of several specialties, including ophthalmology, facial plastic surgery, and oral and maxillofacial surgery.\n\nThe central opportunity is that photographs, videos, and 3-dimensional imaging can provide data for objective measurement, screening, surgical planning, outcome assessment, and patient education. The review considers image-based computer vision and deep learning the applications closest to clinical use. By contrast, large language models and generative image models require careful oversight and appropriate validation.\n\nThe evidence is promising but heterogeneous. This is a narrative review, not a clinical trial or systematic review, and the abstract reports no quantitative clinical outcomes. It therefore does not demonstrate that AI improves results or reliably changes surgical decisions. The authors propose a cautious implementation pathway rather than recommending an immediate change in practice.\n\nFor clinicians, the key point is that AI may support assessment and planning, but it should not replace surgical expertise or clinical judgment. Outputs need verification, and patient safety and outcome effects remain important unanswered questions. The review is useful for understanding emerging applications and risks, but it should not be interpreted as proof of clinical benefit.\n\nIn summary, this is a worthwhile topic for journal club and continued monitoring, not a basis for changing care today. Future standardized prospective studies should evaluate accuracy, effects on decisions and outcomes, and safety. Image-based computer vision and deep learning are the technologies to watch because they appear closest to practical application in blepharoplasty.",
+      "mcq": [
+        {
+          "q_ar": "ما التطبيقات التي تبدو الأقرب إلى الاستخدام السريري وفقًا للمراجعة؟",
+          "q_en": "Which applications appear closest to clinical use according to the review?",
+          "options_ar": [
+            "أ) large language models فقط",
+            "ب) image-based computer vision وdeep learning",
+            "ج) generative image models دون إشراف",
+            "د) أنظمة robotic surgery فقط"
+          ],
+          "options_en": [
+            "A) Large language models only",
+            "B) Image-based computer vision and deep learning",
+            "C) Unsupervised generative image models",
+            "D) Robotic surgery systems only"
+          ],
+          "answer": 1,
+          "explanation_ar": "تذكر المراجعة أن image-based computer vision وdeep learning هما الأقرب إلى الاستخدام السريري، مع بقاء الحاجة إلى التحقق.",
+          "explanation_en": "The review identifies image-based computer vision and deep learning as closest to clinical use, while emphasizing the need for validation."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن تغيير الممارسة السريرية الآن؟",
+          "q_en": "What is the most appropriate conclusion about changing clinical practice now?",
+          "options_ar": [
+            "أ) يجب استبدال التقييم السريري بأدوات AI",
+            "ب) الأدلة تثبت تحسن النتائج مع AI",
+            "ج) لا يوجد ما يدعم تغييرًا فوريًا، ويلزم اعتماد حذر",
+            "د) يجب تجنب جميع تطبيقات AI مستقبلًا"
+          ],
+          "options_en": [
+            "A) Clinical assessment should be replaced by AI tools",
+            "B) Evidence proves that AI improves outcomes",
+            "C) There is no basis for immediate change; cautious adoption is appropriate",
+            "D) All future AI applications should be avoided"
+          ],
+          "answer": 2,
+          "explanation_ar": "الأدلة واعدة لكنها غير متجانسة، ولا تثبت تحسن النتائج؛ لذلك تقترح المراجعة تطبيقًا حذرًا لا تغييرًا فوريًا.",
+          "explanation_en": "Evidence is promising but heterogeneous and does not prove improved outcomes, so the review favors cautious implementation rather than immediate change."
+        },
+        {
+          "q_ar": "ما الفجوة البحثية الأبرز التي ينبغي معالجتها؟",
+          "q_en": "What is the main research gap that should be addressed?",
+          "options_ar": [
+            "أ) دراسات موحدة لتقييم دقة AI وأثره السريري وسلامته",
+            "ب) زيادة استخدام generative image models دون إشراف",
+            "ج) استبدال الصور بالفحص المخبري",
+            "د) إلغاء تقييم نتائج blepharoplasty"
+          ],
+          "options_en": [
+            "A) Standardized studies assessing AI accuracy, clinical effects, and safety",
+            "B) Increasing unsupervised use of generative image models",
+            "C) Replacing imaging with laboratory testing",
+            "D) Eliminating outcome assessment in blepharoplasty"
+          ],
+          "answer": 0,
+          "explanation_ar": "تحتاج التطبيقات إلى دراسات مستقبلية موحدة لتحديد الدقة وتأثيرها في القرارات والنتائج وسلامة المرضى.",
+          "explanation_en": "Standardized prospective studies are needed to establish accuracy and effects on decisions, outcomes, and patient safety."
+        }
+      ]
+    },
+    {
+      "pmid": "42869429",
+      "title_ar": "Evaluation of Costal Cartilage Calcification Using Plain Radiographic Images.",
+      "title_en": "Evaluation of Costal Cartilage Calcification Using Plain Radiographic Images.",
+      "journal": "Aesthetic surgery journal",
+      "pub_date": "2026-Oct-14",
+      "doi": "10.1093/asj/sjag222",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42869429/",
+      "pdf_url": null,
+      "study_design": "Observational imaging study of 183 rhinoplasty patients",
+      "summary_ar": "قيّمت الدراسة وجود وتوزع calcification في costal cartilage لدى 183 مريضًا خضعوا لـ rhinoplasty، باستخدام plain chest radiographs لفحص 1,098 مقطعًا من الأضلاع 6-8. وُجد calcification بدرجة ≥1 في 54.1% من المقاطع، وكان أكثر شيوعًا وأشد لدى الإناث مقارنة بالذكور. غلب النمط marginal لدى الذكور، بينما ظهر النمطان granular وcentral لدى نسبة من الإناث. بلغ انتشار severe calcification ذروته بصورة غير متوقعة لدى الفئة العمرية 40-49 عامًا، وليس لدى الأكبر سنًا. في multivariable logistic regression، ارتبطت الإناث بزيادة odds of severe calcification (OR 3.01؛ 95% CI 1.11-8.12)، كما ارتبطت الفئة 40-49 عامًا بزيادة odds (OR 6.28؛ 95% CI 1.69-23.36). تقترح النتائج استخدام rib series imaging للمساعدة في اختيار graft وتجنب المفاجآت أثناء الجراحة، مع ملاحظة أن الدراسة لا تثبت تحسن النتائج السريرية.",
+      "summary_en": "This observational imaging study assessed costal cartilage calcification in 183 rhinoplasty patients using plain chest radiographs of ribs 6-8.\nCalcification (grade ≥1) was present in 54.1% of the 1,098 evaluated rib segments and was more prevalent and severe in females.\nCalcification was predominantly marginal in males, while granular and central patterns were observed in some females.\nSevere calcification unexpectedly peaked in patients aged 40-49 years.\nFemale sex (OR 3.01; 95% CI 1.11-8.12) and age 40-49 years (OR 6.28; 95% CI 1.69-23.36) independently predicted severe calcification.\nThe authors suggest rib series imaging may support graft selection, although the study does not demonstrate improved surgical outcomes.",
+      "practice_change_ar": "يمكن التفكير في preoperative rib series imaging عند التخطيط لاستخدام costal cartilage graft، لكن هذه الدراسة وحدها لا تبرر فرض تصوير روتيني على جميع المرضى.",
+      "practice_change_en": "Consider preoperative rib series imaging when planning a costal cartilage graft, but this study alone does not justify mandatory routine imaging for every patient.",
+      "future_impact_ar": "قد تدعم دراسات مستقبلية مقارنة plain radiographs بـ CT وربط درجات calcification بسهولة harvest ونتائج graft تطوير بروتوكول تصوير أكثر انتقائية.",
+      "future_impact_en": "Future studies comparing plain radiographs with CT and linking calcification grades to harvest difficulty and graft outcomes may help establish a more selective imaging protocol.",
+      "why_important_ar": "قد يكشف plain radiography عن calcification شائع في costal cartilage، وهي معلومة قد تساعد الجراح على اختيار donor site والاستعداد لصعوبات التعامل مع graft.",
+      "why_important_en": "Plain radiography may identify common costal cartilage calcification, potentially helping surgeons choose a donor site and anticipate graft-handling challenges.",
+      "vs_previous_ar": "بدل الاعتماد على chest CT وحده، تفحص الدراسة plain rib series كخيار أقل كلفة وأقل تعرضًا للإشعاع، وتسلط الضوء على اختلافات calcification بحسب sex والعمر.",
+      "vs_previous_en": "Rather than relying solely on chest CT, the study evaluates plain rib series as a lower-cost, lower-radiation option and highlights sex- and age-related differences in calcification.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة رصدية تصويرية على 183 مريضًا تقدم معلومة جديدة عن calcification وإمكان تقييمه بـ plain radiographs، لكن غياب مقارنة مرجعية وبيانات نتائج جراحية يحدان من تأثيرها على الممارسة.",
+      "stars_reason_en": "This observational imaging study of 183 patients provides useful new information about calcification and assessment with plain radiographs, but the lack of a reference comparison and surgical outcome data limits its practice impact.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it proposes a simpler imaging approach for costal cartilage graft planning and reports an unexpected peak in severe calcification at ages 40-49, while raising important questions about study limitations.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "ينبغي إجراء دراسة prospective تقارن plain radiographs مع CT وتختبر دقة التصوير في توقع سهولة harvest وخصائص graft والنتائج السريرية.",
+      "research_gap_en": "A prospective study should compare plain radiographs with CT and test whether imaging accurately predicts harvest difficulty, graft characteristics, and clinical outcomes.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نراجع اليوم دراسة بعنوان: Evaluation of Costal Cartilage Calcification Using Plain Radiographic Images، وهي دراسة تهم جراحي facial plastics الذين يستخدمون costal cartilage graft في rhinoplasty.\n\nشملت الدراسة 183 مريضًا، وفحص الباحثون bilateral costal cartilage للأضلاع من السادس إلى الثامن باستخدام plain chest radiographs. جرى تقييم 1,098 rib segments وتصنيف calcification بحسب الدرجة والنمط. كان calcification بدرجة واحدة أو أكثر موجودًا في 54.1% من المقاطع. وظهر بشكل أكثر شيوعًا وبدرجة أشد لدى الإناث مقارنة بالذكور. كان النمط marginal هو الغالب لدى الذكور، بينما ظهرت أنماط granular وcentral لدى بعض الإناث.\n\nمن النتائج اللافتة أن severe calcification لم يبلغ ذروته في الأكبر سنًا؛ بل كان أعلى لدى الفئة العمرية 40-49 عامًا، حيث بلغ 25.8%. وفي multivariable logistic regression، ارتبط female sex بزيادة odds of severe calcification، مع OR قدره 3.01 و95% CI من 1.11 إلى 8.12. كما ارتبط العمر 40-49 عامًا بزيادة odds، مع OR قدره 6.28 و95% CI من 1.69 إلى 23.36.\n\nالأهمية السريرية المحتملة هي أن rib series imaging قد تساعد قبل الجراحة في اختيار donor site وتوقع خصائص cartilage، وقد تكون خيارًا أبسط من chest CT من حيث الكلفة والتعرض للإشعاع. لكن يجب تفسير النتائج بحذر: الدراسة رصدية، ولا تقدم مقارنة مباشرة بدقة CT، كما أنها لا تثبت أن التصوير يغير الخطة الجراحية أو يحسن النتائج. لذلك لا تكفي وحدها لفرض تصوير روتيني على كل مرشح.\n\nالخلاصة: هذه إضافة مفيدة للتخطيط لـ costal cartilage graft، وتدعم التفكير في التصوير قبل الجراحة عند الحاجة، بما في ذلك لدى المرضى الأصغر سنًا. والخطوة البحثية المهمة هي مقارنة plain radiographs مع CT وربط نتائج التصوير بصعوبة harvest وخصائص graft والنتائج السريرية.",
+      "audio_script_en": "Today we are reviewing “Evaluation of Costal Cartilage Calcification Using Plain Radiographic Images,” a study relevant to facial plastic surgeons who use costal cartilage grafts in rhinoplasty.\n\nThe investigators studied 183 rhinoplasty patients and assessed bilateral costal cartilages from ribs six through eight on plain chest radiographs. They evaluated 1,098 rib segments, grading calcification and classifying its morphology. Calcification of grade one or greater was present in 54.1% of segments. It was more prevalent and more severe in females than in males. The marginal pattern predominated in males, while granular and central patterns were seen in some females.\n\nOne notable finding was that severe calcification did not peak in the oldest patients. Instead, it peaked in the 40-to-49-year age group, where prevalence was 25.8%. In multivariable logistic regression, female sex was associated with higher odds of severe calcification, with an odds ratio of 3.01 and a 95% confidence interval of 1.11 to 8.12. Age 40 to 49 was also associated with higher odds, with an odds ratio of 6.28 and a 95% confidence interval of 1.69 to 23.36.\n\nThe potential clinical value is that rib series imaging may help with preoperative donor-site selection and anticipation of cartilage characteristics. It may also be a simpler option than chest CT in terms of cost and radiation exposure. However, the findings should be interpreted cautiously. This is an observational study; it does not directly establish diagnostic agreement with CT, nor does it show that imaging changes surgical plans or improves outcomes. The evidence therefore does not, by itself, support mandatory imaging for every candidate.\n\nIn summary, this is useful information for planning costal cartilage grafting and supports considering preoperative imaging when appropriate, including in younger patients. Important next steps are to compare plain radiographs with CT and determine whether imaging findings predict harvest difficulty, graft characteristics, or clinical outcomes.",
+      "mcq": [
+        {
+          "q_ar": "ما نسبة rib segments التي أظهرت costal cartilage calcification بدرجة ≥1؟",
+          "q_en": "What proportion of rib segments showed costal cartilage calcification of grade ≥1?",
+          "options_ar": [
+            "أ) 25.8%",
+            "ب) 46.6%",
+            "ج) 54.1%",
+            "د) 62.9%"
+          ],
+          "options_en": [
+            "A) 25.8%",
+            "B) 46.6%",
+            "C) 54.1%",
+            "D) 62.9%"
+          ],
+          "answer": 2,
+          "explanation_ar": "وُجد calcification بدرجة ≥1 في 54.1% من مجموع 1,098 rib segments.",
+          "explanation_en": "Calcification of grade ≥1 was present in 54.1% of the 1,098 evaluated rib segments."
+        },
+        {
+          "q_ar": "أي فئة عمرية شهدت أعلى نسبة من severe calcification؟",
+          "q_en": "Which age group had the highest prevalence of severe calcification?",
+          "options_ar": [
+            "أ) أقل من 30 عامًا",
+            "ب) 30-39 عامًا",
+            "ج) 40-49 عامًا",
+            "د) 60 عامًا أو أكثر"
+          ],
+          "options_en": [
+            "A) Younger than 30 years",
+            "B) 30-39 years",
+            "C) 40-49 years",
+            "D) 60 years or older"
+          ],
+          "answer": 2,
+          "explanation_ar": "بلغ severe calcification ذروته لدى الفئة 40-49 عامًا، بنسبة 25.8%.",
+          "explanation_en": "Severe calcification peaked in the 40-49-year group, at 25.8%."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأكثر ملاءمة بشأن استخدام plain rib series imaging وفقًا لهذه الدراسة؟",
+          "q_en": "What is the most appropriate conclusion about using plain rib series imaging based on this study?",
+          "options_ar": [
+            "أ) ثبت أنها تحسن نتائج rhinoplasty مقارنة بـ CT.",
+            "ب) يمكن التفكير فيها للمساعدة في التخطيط، لكن الدراسة لا تثبت تحسن النتائج أو تبرر فرضها على الجميع.",
+            "ج) لا تكشف calcification في costal cartilage.",
+            "د) يجب استبدال كل وسائل التصوير بها."
+          ],
+          "options_en": [
+            "A) It has been proven to improve rhinoplasty outcomes compared with CT.",
+            "B) It may be considered to support planning, but the study does not prove improved outcomes or justify mandating it for everyone.",
+            "C) It does not detect costal cartilage calcification.",
+            "D) It should replace all other imaging methods."
+          ],
+          "answer": 1,
+          "explanation_ar": "تقترح الدراسة فائدة محتملة للتخطيط، لكنها لا تقارن الدقة مباشرة بـ CT ولا تقيس أثر التصوير على النتائج الجراحية.",
+          "explanation_en": "The study suggests a potential planning benefit but does not directly compare diagnostic accuracy with CT or assess the effect of imaging on surgical outcomes."
+        }
+      ]
+    },
+    {
+      "pmid": "42864859",
+      "title_ar": "Predictors and Themes of Perioperative Patient-Initiated Communication in Septorhinoplasty.",
+      "title_en": "Predictors and Themes of Perioperative Patient-Initiated Communication in Septorhinoplasty.",
+      "journal": "The Laryngoscope",
+      "pub_date": "2026-Oct-12",
+      "doi": "10.1002/lary.70990",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42864859/",
+      "pdf_url": null,
+      "study_design": "Retrospective chart review n=306",
+      "summary_ar": "راجعت هذه الدراسة بأثر رجعي سجلات 306 مرضى خضعوا لـ septorhinoplasty بين أغسطس 2017 وأغسطس 2022. عُرّفت patient-initiated communication بأنها تواصل سريري ذي صلة بدأه المريض خلال 30 يومًا قبل الجراحة أو بعدها. تواصل 197 مريضًا (64%) مع الفريق السريري بشأن مخاوف perioperative، وكان معظم التواصل بعد الجراحة. شملت أسباب التواصل قبل الجراحة أسئلة عن تفاصيل الإجراء (31%) والأدوية (28%)، بينما شملت الأسباب بعد الجراحة العناية بالجروح (17%) والأسئلة المتعلقة بالأدوية (17%). ارتبطت cosmetic intervention ووجود تاريخ من allergic rhinitis بأحجام أكبر من التواصل، لكنهما لم يكونا predictors مستقلين. تشير النتائج إلى شيوع هذه المخاوف وإلى فرص لتحسين تثقيف المرضى والإرشادات perioperative، لكنها لا تثبت أن تدخلًا محددًا سيقلل التواصل.",
+      "summary_en": "This retrospective chart review included 306 patients who underwent septorhinoplasty between August 2017 and August 2022.\nPatient-initiated communication (PIC) was defined as clinically relevant contact initiated by the patient within 30 days before or after surgery.\nOverall, 197 patients (64%) contacted the clinical team about perioperative concerns, with most communications occurring postoperatively.\nCommon preoperative concerns involved procedural details (31%) and medications (28%); common postoperative concerns involved wound care (17%) and medications (17%).\nCosmetic intervention and a history of allergic rhinitis were associated with higher PIC volumes, but were not independent predictors.\nThe findings identify potential targets for improved perioperative education and care processes, but do not test a specific intervention.",
+      "practice_change_ar": "لا تدعم الدراسة تغييرًا علاجيًا فوريًا، لكنها تشجع على توضيح تعليمات wound care والأدوية وتفاصيل الإجراء للمرضى قبل وبعد septorhinoplasty.",
+      "practice_change_en": "The study does not support an immediate treatment change, but encourages clearer procedural, medication, and wound-care instructions before and after septorhinoplasty.",
+      "future_impact_ar": "قد تساعد دراسات تدخلية مستقبلية في تحديد ما إذا كانت مواد التثقيف أو مسارات التواصل المنظمة تقلل المخاوف وتحسن تجربة المرضى.",
+      "future_impact_en": "Future interventional studies could determine whether structured education or communication pathways reduce concerns and improve patient experience.",
+      "why_important_ar": "تُظهر الدراسة أن التواصل السريري بسبب المخاوف perioperative شائع لدى مرضى septorhinoplasty، وتحدد موضوعات يمكن استهدافها لتحسين الرعاية.",
+      "why_important_en": "The study shows that perioperative concern-related contact is common after septorhinoplasty and identifies topics that may be targeted to improve care.",
+      "vs_previous_ar": "تضيف الدراسة وصفًا كميًا لموضوعات patient-initiated communication في septorhinoplasty بدل الاكتفاء بالتركيز على النتائج الجراحية أو المضاعفات.",
+      "vs_previous_en": "The study adds quantitative detail on patient-initiated communication topics in septorhinoplasty, beyond a focus on surgical outcomes or complications.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة chart review بأثر رجعي تشمل 306 مرضى، منشورة في The Laryngoscope؛ تقدم معلومات مفيدة لتحسين التواصل والتثقيف، لكن تصميمها الرصدي وعدم اختبار تدخل يحدان من أثرها على الممارسة.",
+      "stars_reason_en": "This retrospective chart review includes 306 patients and was published in The Laryngoscope. It offers useful information for improving communication and education, but its observational design and lack of intervention testing limit its practice impact.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for discussion of how patient concerns are measured and whether preoperative education changes could reduce unplanned contact and improve care experience.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسة prospective تختبر أثر مواد تثقيفية موحدة ومسارات تواصل واضحة على عدد الاتصالات ورضا المرضى والنتائج السريرية.",
+      "research_gap_en": "A prospective study should test whether standardized education materials and clear communication pathways affect contact volume, patient satisfaction, and clinical outcomes.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "تتناول هذه الدراسة التواصل الذي يبدأه المرضى حول مخاوفهم perioperative بعد septorhinoplasty. أجرى الباحثون chart review بأثر رجعي شمل 306 مرضى خضعوا للجراحة خلال الفترة من أغسطس 2017 إلى أغسطس 2022. واعتبروا أن التواصل يُحتسب إذا بدأه المريض وكان ذا صلة سريرية، وحدث خلال 30 يومًا قبل العملية أو بعدها.\n\nكانت النتيجة الأساسية أن 197 مريضًا، أي 64% من العينة، تواصلوا مع العيادة بشأن مخاوف perioperative، وكانت غالبية هذه الاتصالات بعد الجراحة. قبل العملية، تركزت الأسئلة الشائعة حول تفاصيل الإجراء، بنسبة 31%، والأدوية، بنسبة 28%. بعد العملية، كانت العناية بالجروح والأسئلة المتعلقة بالأدوية من أكثر الأسباب شيوعًا، بنسبة 17% لكل منهما.\n\nكان لدى المرضى الذين خضعوا لـ cosmetic intervention، وكذلك من لديهم تاريخ من allergic rhinitis، حجم أكبر من patient-initiated communication. لكن هذين العاملين لم يكونا predictors مستقلين، ولذلك ينبغي عدم تفسيرهما كعوامل سببية أو تنبؤية مؤكدة.\n\nما أهمية ذلك للممارسة؟ لا تقدم الدراسة دليلًا لتغيير الجراحة أو وصف الأدوية، ولا تختبر برنامجًا لتحسين التواصل. لكنها توضح أن أسئلة المرضى شائعة، وتحدد موضوعات عملية يمكن تناولها في تعليمات ما قبل الجراحة وبعدها، خصوصًا تفاصيل الإجراء، والأدوية، وwound care. وقد تساعد الإرشادات الواضحة المرضى على معرفة ما هو متوقع ومتى ينبغي التواصل مع الفريق.\n\nتتمثل حدود الدراسة في تصميمها بأثر رجعي واعتمادها على السجلات، كما أنها تصف التواصل ولا تثبت أن تحسين التثقيف سيقلله أو يحسن النتائج. الخطوة البحثية التالية هي دراسة prospective تقارن التثقيف المعتاد بمواد موحدة ومسار تواصل واضح، وتقيس عدد الاتصالات ورضا المرضى والنتائج السريرية. الخلاصة: هذا بحث مفيد لتحسين الجودة في septorhinoplasty، لكنه لا يغير الممارسة مباشرة.",
+      "audio_script_en": "This study examines patient-initiated communication about perioperative concerns among people undergoing septorhinoplasty. The authors conducted a retrospective chart review of 306 patients who had surgery between August 2017 and August 2022. They counted clinically relevant contact initiated by the patient within 30 days before or after surgery.\n\nThe main finding was that 197 patients, or 64% of the cohort, contacted the office about perioperative concerns. Most contacts occurred after surgery. Before surgery, common topics were procedural details, accounting for 31%, and medication questions, accounting for 28%. After surgery, wound care and medication-related questions were each reported in 17% of communications.\n\nPatients undergoing cosmetic intervention and patients with a history of allergic rhinitis had higher volumes of patient-initiated communication. However, neither factor was an independent predictor, so these associations should not be interpreted as confirmed causal or predictive relationships.\n\nWhat does this mean for practice? The study does not provide evidence to change surgical technique or medication prescribing, and it does not test a communication intervention. It does show that patients commonly have questions and identifies practical topics to address in preoperative and postoperative education—particularly procedural expectations, medications, and wound care. Clearer instructions may help patients understand what to expect and when to contact the clinical team.\n\nImportant limitations include the retrospective design and reliance on chart documentation. The study describes communication patterns but cannot show that improved education will reduce contacts or improve outcomes. A prospective study could compare usual education with standardized materials and a clear communication pathway, measuring contact volume, patient satisfaction, and clinical outcomes. In short, this is useful quality-improvement information for septorhinoplasty, but it does not change practice on its own.",
+      "mcq": [
+        {
+          "q_ar": "ما نسبة المرضى الذين تواصلوا مع العيادة بسبب مخاوف perioperative؟",
+          "q_en": "What proportion of patients contacted the office about perioperative concerns?",
+          "options_ar": [
+            "أ) 17%",
+            "ب) 28%",
+            "ج) 64%",
+            "د) 81%"
+          ],
+          "options_en": [
+            "A) 17%",
+            "B) 28%",
+            "C) 64%",
+            "D) 81%"
+          ],
+          "answer": 2,
+          "explanation_ar": "تواصل 197 من أصل 306 مرضى، أي 64%، مع الفريق السريري بشأن مخاوف perioperative.",
+          "explanation_en": "A total of 197 of 306 patients, or 64%, contacted the clinical team about perioperative concerns."
+        },
+        {
+          "q_ar": "أي من التالي كان من أكثر أسباب التواصل بعد الجراحة شيوعًا؟",
+          "q_en": "Which of the following was among the most common reasons for postoperative communication?",
+          "options_ar": [
+            "أ) نتائج التصوير",
+            "ب) wound care",
+            "ج) تغيير موعد العملية",
+            "د) تقييم السمع"
+          ],
+          "options_en": [
+            "A) Imaging results",
+            "B) Wound care",
+            "C) Rescheduling surgery",
+            "D) Hearing assessment"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت wound care من أكثر أسباب التواصل بعد الجراحة شيوعًا، وذكرت في 17% من الحالات.",
+          "explanation_en": "Wound care was one of the most common postoperative communication topics, reported in 17% of cases."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن cosmetic intervention وتاريخ allergic rhinitis؟",
+          "q_en": "What is the most appropriate interpretation of cosmetic intervention and a history of allergic rhinitis?",
+          "options_ar": [
+            "أ) ثبت أنهما سببان مستقلان للتواصل",
+            "ب) ارتبطا بحجم تواصل أكبر، لكنهما لم يكونا predictors مستقلين",
+            "ج) لم يرتبطا بأي اختلاف في التواصل",
+            "د) أديا إلى انخفاض التواصل بعد الجراحة"
+          ],
+          "options_en": [
+            "A) They were established as independent causes of communication",
+            "B) They were associated with higher communication volume but were not independent predictors",
+            "C) They were not associated with any difference in communication",
+            "D) They led to reduced postoperative communication"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتبط كلا العاملين بحجم أكبر من patient-initiated communication، لكن التحليل لم يحددهما كـ predictors مستقلين.",
+          "explanation_en": "Both factors were associated with higher patient-initiated communication volume, but the analysis did not identify them as independent predictors."
+        }
+      ]
+    },
+    {
+      "pmid": "42866524",
+      "title_ar": "Blood Eosinophil Count and Lund-Mackay Ethmoid Score as Predictors of Recurrence After Endoscopic Sinus Surgery in CRSwNP.",
+      "title_en": "Blood Eosinophil Count and Lund-Mackay Ethmoid Score as Predictors of Recurrence After Endoscopic Sinus Surgery in CRSwNP.",
+      "journal": "Laryngoscope investigative otolaryngology",
+      "pub_date": "2026-Oct",
+      "doi": "10.1002/lio2.70594",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42866524/",
+      "pdf_url": "https://doi.org/10.1002/lio2.70594",
+      "study_design": "Retrospective cohort n=157",
+      "summary_ar": "قيّمت هذه الدراسة retrospective cohort تضم 157 بالغًا لديهم CRSwNP خضعوا لـ ESS، لتحديد ما إذا كان BEC وLM ethmoid score يحسّنان التنبؤ بـ recurrence بعد الجراحة. حدثت recurrence لدى 51 مريضًا (32.5%)، وبلغت recurrence-free survival عند 36 شهرًا 72.5%. ارتبطت recurrence المبكرة بالعمر، وasthma، وارتفاع BEC، وارتفاع LM ethmoid score. أدى إدخال BEC وLM ethmoid score إلى تحسين ملاءمة النموذج مقارنةً بنموذج يتضمن العمر وasthma فقط. بلغ optimism-corrected AUC عند 36 شهرًا 0.804، مع corrected C-index قدره 0.756. تشير النتائج إلى قيمة prognostic إضافية لهذين المؤشرين، لكن النموذج يحتاج إلى external validation وrecalibration قبل الاستخدام السريري.",
+      "summary_en": "This retrospective cohort included 157 adults with CRSwNP who underwent ESS and assessed whether BEC and LM ethmoid score improved prediction of recurrence. Recurrence occurred in 51 patients (32.5%), and 36-month recurrence-free survival was 72.5%. Earlier recurrence was associated with older age, asthma, higher BEC, and higher LM ethmoid score. Adding BEC and LM ethmoid score improved model fit beyond age and asthma alone. The optimism-corrected 36-month AUC was 0.804, with a corrected C-index of 0.756. The findings suggest additional prognostic value, but external validation and recalibration are needed before clinical use.",
+      "practice_change_ar": "لا تغيّر هذه النتائج التدبير السريري اليوم، لكنها تدعم أخذ BEC وLM ethmoid score في الاعتبار عند تقدير خطر recurrence بعد ESS.",
+      "practice_change_en": "These findings do not change management today, but support considering BEC and LM ethmoid score when estimating recurrence risk after ESS.",
+      "future_impact_ar": "قد يساعد external validation ثم recalibration على تطوير أداة موثوقة لتخصيص المتابعة والاستشارة بعد ESS.",
+      "future_impact_en": "External validation and subsequent recalibration may enable a reliable tool for tailoring counseling and follow-up after ESS.",
+      "why_important_ar": "توضح الدراسة أن مؤشرين متاحين سريريًا قد يضيفان معلومات prognostic إلى العمر وasthma لدى مرضى CRSwNP بعد الجراحة.",
+      "why_important_en": "The study suggests that two clinically available measures may add prognostic information to age and asthma after surgery for CRSwNP.",
+      "vs_previous_ar": "بدل الاعتماد على العمر وasthma وحدهما، تختبر الدراسة القيمة الإضافية المشتركة لـ BEC وLM ethmoid score، دون أن تثبت جاهزيتهما لاتخاذ قرارات سريرية.",
+      "vs_previous_en": "Rather than relying on age and asthma alone, the study evaluates the combined incremental value of BEC and LM ethmoid score, without establishing them as ready for clinical decision-making.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة retrospective cohort جيدة الحجم (n=157) ذات صلة مباشرة بـ rhinology، وتقدم فائدة prognostic واعدة، لكن غياب external validation وعدم تغيير الممارسة حاليًا يحدان من قوتها.",
+      "stars_reason_en": "This sizeable retrospective cohort (n=157) is directly relevant to rhinology and offers promising prognostic information, but lack of external validation and no immediate practice change limit its impact.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Worth discussing for its assessment of incremental value from clinically available variables, as well as potential overfitting and the limitations of internal validation.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم external validation في مجموعات متنوعة، مع تقييم المعايرة والفائدة السريرية للنموذج قبل استخدامه لتوجيه المتابعة.",
+      "research_gap_en": "External validation in diverse cohorts, with assessment of calibration and clinical utility, is needed before using the model to guide follow-up.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نراجع اليوم دراسة عن التنبؤ بعودة CRSwNP بعد endoscopic sinus surgery. شملت الدراسة retrospective cohort من 157 بالغًا خضعوا للجراحة بين عامي 2022 و2024. كان الهدف معرفة ما إذا كان blood eosinophil count، أو BEC، وLund-Mackay ethmoid score يضيفان معلومات إلى العمر وasthma عند تقدير recurrence.\n\nحدثت recurrence مؤكدة بالمنظار لدى 51 مريضًا، أي 32.5%، وكانت recurrence-free survival عند 36 شهرًا 72.5%. ارتبطت recurrence المبكرة بالعمر الأكبر، ووجود asthma، وارتفاع BEC، وارتفاع LM ethmoid score. تحسنت ملاءمة النموذج عند إضافة المؤشرين، وبلغ optimism-corrected AUC عند 36 شهرًا 0.804. هذه نتائج مشجعة، لكنها لا تعني أن النموذج جاهز لاتخاذ قرارات علاجية أو لتغيير خطة المتابعة الآن.\n\nنقطة القوة هي دراسة مؤشرات متاحة في الممارسة اليومية، مع استخدام bootstrap للتحقق الداخلي. أما القيود المهمة فهي التصميم retrospective، وحجم العينة المحدود نسبيًا، وعدم إجراء external validation. لذلك تبقى إمكانية تعميم النتائج غير مؤكدة، كما أن إثبات القدرة التنبؤية لا يثبت أن تغيير التدبير بناءً على النموذج يحسن النتائج.\n\nالخلاصة العملية: يمكن اعتبار BEC وLM ethmoid score عاملين إضافيين أثناء تقييم خطر recurrence ومناقشة prognosis مع المرضى، لكن لا ينبغي استخدامهما كأداة حاسمة منفردة. تحتاج النتائج إلى تحقق خارجي وإعادة معايرة، ثم دراسة أثرها على قرارات المتابعة والنتائج السريرية. هذه دراسة تستحق النقاش في journal club لأنها تقدم نموذجًا قابلًا للاختبار، لا تغييرًا فوريًا في الممارسة.",
+      "audio_script_en": "Today we review a study evaluating predictors of recurrence after endoscopic sinus surgery for CRSwNP. This retrospective cohort included 157 adults who underwent surgery between January 2022 and November 2024. The investigators asked whether blood eosinophil count, or BEC, and Lund-Mackay ethmoid score add prognostic information beyond age and asthma.\n\nEndoscopically confirmed recurrence occurred in 51 patients, or 32.5%, and 36-month recurrence-free survival was 72.5%. Earlier recurrence was associated with older age, asthma, higher BEC, and higher LM ethmoid score. Adding both measures improved model fit, and the optimism-corrected 36-month AUC was 0.804. These findings are promising, but they do not establish that the model is ready to direct treatment or follow-up.\n\nA strength is the evaluation of measures already available in routine care, with bootstrap internal validation. Important limitations include the retrospective design, modest sample size, and absence of external validation. Generalizability is therefore uncertain. Moreover, demonstrating prognostic performance does not show that decisions guided by the model improve patient outcomes.\n\nThe practical takeaway is that BEC and LM ethmoid score can be considered alongside age and asthma when discussing recurrence risk and prognosis, but should not be used alone as decisive clinical thresholds. The model needs external validation and recalibration, followed by studies assessing whether its use improves follow-up decisions or outcomes. This is a useful journal-club paper because it presents a testable prognostic approach, not an immediate change in practice.",
+      "mcq": [
+        {
+          "q_ar": "ما الهدف الأساسي من إضافة BEC وLM ethmoid score إلى النموذج؟",
+          "q_en": "What was the primary purpose of adding BEC and LM ethmoid score to the model?",
+          "options_ar": [
+            "أ) استبدال التنظير في تشخيص CRSwNP",
+            "ب) تقييم القيمة prognostic الإضافية فوق العمر وasthma",
+            "ج) مقارنة تقنيات ESS",
+            "د) تحديد فعالية biologic"
+          ],
+          "options_en": [
+            "A) Replace endoscopy for diagnosing CRSwNP",
+            "B) Assess incremental prognostic value beyond age and asthma",
+            "C) Compare ESS techniques",
+            "D) Determine biologic efficacy"
+          ],
+          "answer": 1,
+          "explanation_ar": "اختبرت الدراسة ما إذا كان BEC وLM ethmoid score يحسّنان التنبؤ بـ recurrence عند إضافتهما إلى العمر وasthma.",
+          "explanation_en": "The study tested whether BEC and LM ethmoid score improve recurrence prediction when added to age and asthma."
+        },
+        {
+          "q_ar": "كم كانت نسبة recurrence خلال فترة الدراسة؟",
+          "q_en": "What proportion of patients experienced recurrence?",
+          "options_ar": [
+            "أ) 12.5%",
+            "ب) 22.5%",
+            "ج) 32.5%",
+            "د) 52.5%"
+          ],
+          "options_en": [
+            "A) 12.5%",
+            "B) 22.5%",
+            "C) 32.5%",
+            "D) 52.5%"
+          ],
+          "answer": 2,
+          "explanation_ar": "حدثت recurrence لدى 51 من أصل 157 مريضًا، أي 32.5%.",
+          "explanation_en": "Recurrence occurred in 51 of 157 patients, or 32.5%."
+        },
+        {
+          "q_ar": "ما الخطوة المطلوبة قبل استخدام النموذج سريريًا؟",
+          "q_en": "What is needed before clinical use of the model?",
+          "options_ar": [
+            "أ) External validation وrecalibration",
+            "ب) إلغاء قياس BEC",
+            "ج) استبدال ESS بالعلاج الدوائي",
+            "د) اعتماد النموذج دون اختبار إضافي"
+          ],
+          "options_en": [
+            "A) External validation and recalibration",
+            "B) Discontinue BEC measurement",
+            "C) Replace ESS with medical therapy",
+            "D) Adopt the model without further testing"
+          ],
+          "answer": 0,
+          "explanation_ar": "أكدت الدراسة ضرورة external validation وrecalibration قبل الاستخدام السريري.",
+          "explanation_en": "The study states that external validation and recalibration are required before clinical use."
+        }
+      ]
+    },
+    {
+      "pmid": "42864244",
+      "title_ar": "Clinical Utility of Aerodynamic Measures in Vocal Fold Augmentation Outcomes.",
+      "title_en": "Clinical Utility of Aerodynamic Measures in Vocal Fold Augmentation Outcomes.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Oct-13",
+      "doi": "10.1016/j.jvoice.2026.08.029",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42864244/",
+      "pdf_url": null,
+      "study_design": "Retrospective cohort, n=98",
+      "summary_ar": "قيّمت هذه الدراسة بأثر رجعي ما إذا كانت قياسات الأداء الهوائي قبل الجراحة ترتبط بنتائج medialization للـ vocal fold بسبب glottic insufficiency. شملت العينة 98 مريضًا خضعوا لـ injection laryngoplasty أو type 1 thyroplasty بين 2022 و2024، مع قياس mean airflow during voicing (MADV)، وعدد الأنفاس أثناء الكلام، ومدة الكلام، وVHI-10. كان MADV الأساسي أعلى لدى المرضى الذين خضعوا لإجراء augmentation ثانٍ مقارنة بمن خضعوا لإجراء واحد (0.49 مقابل 0.32 L/s؛ P=0.01). كما انخفض عدد الأنفاس لقراءة نص قياسي بعد الإجراء الأول في مجموعة الإجراءين، من 13.1 إلى 9.9 (P=0.02). تحسنت درجات VHI-10 بعد الإجراء الأول، وتحسنت أكثر بعد الإجراء الثاني، لكن بيانات الإجراءات لم تُحلل بحسب نوع الإجراء أو تسلسله. تشير النتائج إلى أن MADV قد يساعد في توقع الحاجة إلى إجراءات متكررة، لكنها لا تثبت أن استخدامه لتوجيه القرار يحسن النتائج.",
+      "summary_en": "This retrospective study assessed whether baseline phonatory aerodynamic measures were associated with outcomes after vocal fold medialization for glottic insufficiency. It included 98 patients treated with injection laryngoplasty or type 1 thyroplasty from 2022 to 2024, with measures including mean airflow during voicing (MADV), speaking breaths, speaking duration, and VHI-10. Baseline MADV was higher among patients who underwent a second augmentation than among those who had one procedure (0.49 versus 0.32 L/s; P=0.01). In the multiple-procedure cohort, breaths needed to read a standard passage decreased from 13.1 to 9.9 after the first procedure (P=0.02). VHI-10 improved after the first procedure and improved further after the second. Procedures were not stratified by type or sequence, and the findings do not establish that using MADV to guide treatment improves outcomes.",
+      "practice_change_ar": "لا تغيّر هذه الدراسة الممارسة فورًا، لكن يمكن أخذ MADV الأساسي في الاعتبار عند مناقشة احتمال الحاجة إلى augmentation إضافي.",
+      "practice_change_en": "This study does not warrant an immediate practice change, but baseline MADV may be considered when discussing the possibility of additional augmentation.",
+      "future_impact_ar": "قد تساعد دراسة مستقبلية متعددة المراكز ومقسمة بحسب نوع الإجراء في التحقق مما إذا كان MADV يتنبأ بالحاجة إلى تدخلات إضافية.",
+      "future_impact_en": "A prospective multicenter study stratified by procedure type could determine whether MADV predicts the need for additional interventions.",
+      "why_important_ar": "تقدم الدراسة مؤشرًا موضوعيًا محتملًا يساعد على ربط ضعف الإغلاق الصوتي بالحاجة إلى تكرار augmentation.",
+      "why_important_en": "The study identifies a potential objective marker linking impaired glottic function with the likelihood of repeat augmentation.",
+      "vs_previous_ar": "تضيف الدراسة ارتباطًا بين ارتفاع MADV قبل الجراحة وتلقي إجراء ثانٍ، لكنها لا تثبت تفوق القياسات الهوائية على التقييم السريري المعتاد.",
+      "vs_previous_en": "The study adds an association between higher preoperative MADV and receiving a second procedure, but does not show that aerodynamic measures outperform usual clinical assessment.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة cohort استعادية متوسطة الحجم في laryngology تقدم معلومة مفيدة عن التنبؤ بالحاجة إلى إجراء إضافي، لكن غياب التقسيم حسب نوع الإجراء والتصميم غير العشوائي يحدان من قوة الاستنتاج.",
+      "stars_reason_en": "This moderately sized retrospective laryngology cohort offers useful information about predicting additional procedures, but lack of procedure-specific analysis and the nonrandomized design limit inference.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it examines a clinically relevant objective measure and raises questions about using association to predict treatment decisions.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسة مستقبلية تقارن فائدة توجيه العلاج باستخدام MADV بالتقييم المعتاد، مع تحليل منفصل بحسب نوع augmentation وتسلسله.",
+      "research_gap_en": "A prospective study should compare MADV-guided management with usual assessment and analyze outcomes separately by augmentation type and sequence.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة عن فائدة القياسات الهوائية في تقييم نتائج augmentation للـ vocal fold لدى مرضى glottic insufficiency. استخدم الباحثون مراجعة استعادية لـ 98 مريضًا عولجوا بـ injection laryngoplasty أو type 1 thyroplasty في مركز واحد بين عامي 2022 و2024. شملت القياسات mean airflow during voicing، أو MADV، وعدد الأنفاس أثناء قراءة نص، ومدة الكلام، إضافة إلى VHI-10.\n\nكانت النتيجة الأبرز أن المرضى الذين احتاجوا إلى إجراء augmentation ثانٍ كانت لديهم قيمة MADV أساسية أعلى من المرضى الذين خضعوا لإجراء واحد: 0.49 مقابل 0.32 لتر في الثانية، مع P يساوي 0.01. وفي مجموعة الإجراءات المتعددة، انخفض عدد الأنفاس اللازمة لقراءة النص بعد الإجراء الأول من 13.1 إلى 9.9، مع P يساوي 0.02. كما تحسنت درجات VHI-10 بعد الإجراء الأول، وتحسنت أكثر بعد الإجراء الثاني.\n\nتدعم النتائج احتمال أن يكون MADV مؤشرًا مساعدًا لتوقع من قد يحتاج إلى تدخل إضافي، كما توضح أن القياسات الهوائية قد تكمل التقييمات التي يقدّمها المريض أو الطبيب. لكن الدراسة استعادية، والإجراءات لم تُحلل بحسب النوع أو الترتيب، لذلك لا يمكن استنتاج أن MADV يحدد عدد الإجراءات المطلوبة بدقة، أو أن استخدامه في اتخاذ القرار يحسن النتائج. كذلك فإن تحسن VHI-10 بعد الإجراء الثاني لا يثبت وحده أن الإجراء الثاني هو سبب التحسن.\n\nالخلاصة السريرية: لا تستدعي الدراسة تغيير الممارسة اليوم، لكنها تدعم أخذ القياسات الهوائية في الاعتبار عند تقييم الوظيفة الصوتية ومناقشة احتمال تكرار augmentation. وتحتاج هذه الفكرة إلى دراسة مستقبلية تقارن نهجًا موجّهًا بـ MADV بالتقييم المعتاد، مع فصل النتائج بحسب نوع الإجراء وتسلسله. تقييمنا للدليل متوسط، ودرجة المقال ثلاث نجوم من خمس، وهو مناسب للنقاش في journal club بسبب صلته المباشرة بقرارات laryngology وحدود الاستدلال من البيانات الاستعادية.",
+      "audio_script_en": "Today we review a study of aerodynamic measures in outcomes after vocal fold augmentation for glottic insufficiency. The authors retrospectively examined 98 patients treated with injection laryngoplasty or type 1 thyroplasty at one center between 2022 and 2024. Measures included mean airflow during voicing, or MADV, breaths needed to read a passage, speaking duration, and VHI-10.\n\nThe main finding was that patients who underwent a second augmentation had higher baseline MADV than those who had one procedure: 0.49 versus 0.32 liters per second, with P=0.01. In the multiple-procedure cohort, the number of breaths required to read a standard passage fell from 13.1 at baseline to 9.9 after the first procedure, with P=0.02. VHI-10 scores also improved after the first procedure and improved further after the second.\n\nThese results suggest that baseline MADV may help identify patients more likely to undergo additional augmentation. They also support using aerodynamic measures as a complement to patient- and clinician-reported assessments of voice function. However, this was a retrospective study, and outcomes were not stratified by procedure type or sequence. The association does not establish that MADV accurately determines how many procedures a patient needs, or that MADV-guided decisions improve outcomes. Likewise, further VHI-10 improvement after a second procedure does not by itself prove that the second procedure caused the improvement.\n\nThe practical takeaway is that this study does not justify an immediate change in management, but clinicians may consider baseline aerodynamic measures when assessing phonatory function and discussing the possibility of repeat augmentation. Prospective research should compare MADV-guided care with usual assessment and report outcomes separately by procedure type and sequence. We rate this as moderate, useful-to-know evidence: three stars out of five, and a suitable journal-club paper because it addresses a relevant laryngology decision while illustrating the limitations of retrospective associations.",
+      "mcq": [
+        {
+          "q_ar": "ما القياس الأساسي الذي كان أعلى لدى المرضى الذين خضعوا لإجراء augmentation ثانٍ؟",
+          "q_en": "Which baseline measure was higher in patients who underwent a second augmentation?",
+          "options_ar": [
+            "أ) VHI-10",
+            "ب) MADV",
+            "ج) مدة الكلام",
+            "د) عدد الأنفاس بعد الإجراء الثاني"
+          ],
+          "options_en": [
+            "A) VHI-10",
+            "B) MADV",
+            "C) Speaking duration",
+            "D) Breaths after the second procedure"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان MADV الأساسي أعلى لدى مجموعة الإجراءين: 0.49 مقابل 0.32 L/s، مع P=0.01.",
+          "explanation_en": "Baseline MADV was higher in the two-procedure group: 0.49 versus 0.32 L/s, with P=0.01."
+        },
+        {
+          "q_ar": "ما القيد المنهجي المهم في تحليل الإجراءات؟",
+          "q_en": "What was an important methodological limitation in the procedure analysis?",
+          "options_ar": [
+            "أ) لم تُجمع بيانات VHI-10",
+            "ب) اقتصرت الدراسة على الحيوانات",
+            "ج) لم تُقسّم البيانات بحسب نوع الإجراء أو تسلسله",
+            "د) كان عدد المرضى أقل من عشرة"
+          ],
+          "options_en": [
+            "A) VHI-10 data were not collected",
+            "B) The study was conducted only in animals",
+            "C) Data were not stratified by procedure type or sequence",
+            "D) The sample included fewer than ten patients"
+          ],
+          "answer": 2,
+          "explanation_ar": "أفاد الملخص بأن المرضى خضعوا لإجراء واحد أو أكثر، لكن البيانات لم تُحلل بحسب نوع الإجراء أو تسلسله.",
+          "explanation_en": "The abstract states that patients underwent one or multiple procedures, but data were not stratified by procedure type or sequence."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأكثر ملاءمة للاستخدام السريري الحالي؟",
+          "q_en": "Which conclusion is most appropriate for current clinical practice?",
+          "options_ar": [
+            "أ) يثبت MADV عدد الإجراءات المطلوبة لكل مريض",
+            "ب) ينبغي استبدال VHI-10 بقياسات MADV",
+            "ج) قد يساعد MADV في توقع الحاجة إلى إجراء إضافي، لكن يلزم تحقق مستقبلي",
+            "د) يجب إجراء augmentation ثانٍ لكل مريض"
+          ],
+          "options_en": [
+            "A) MADV determines the exact number of procedures each patient needs",
+            "B) MADV measurements should replace VHI-10",
+            "C) MADV may help predict additional procedures, but prospective validation is needed",
+            "D) Every patient should undergo a second augmentation"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة الاستعادية وجدت ارتباطًا بين MADV الأعلى وتلقي إجراء ثانٍ، لكنها لا تثبت دقة التنبؤ أو فائدة توجيه العلاج به.",
+          "explanation_en": "The retrospective study found an association between higher MADV and receiving a second procedure, but did not establish predictive accuracy or benefit from MADV-guided treatment."
+        }
+      ]
+    },
+    {
+      "pmid": "42600142",
+      "title_ar": "Pediatric Auditory-Perceptual Evaluation of Voice Part 2: A Protocol",
+      "title_en": "Pediatric Auditory-Perceptual Evaluation of Voice Part 2: A Protocol",
+      "journal": "Journal of speech, language, and hearing research : JSLHR",
+      "pub_date": "2026-Oct-13",
+      "doi": "10.1044/2026_JSLHR-25-00924",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42600142/",
+      "pdf_url": "https://pubs.asha.org/doi/pdf/10.1044/2026_JSLHR-25-00924?download=true",
+      "study_design": "Protocol validation and reliability study; 102 children aged 3–17 years, 10 specialist SLP raters",
+      "summary_ar": "طوّرت هذه الدراسة وقيّمت موثوقية Pediatric Auditory-Perceptual Evaluation of Voice (PAPE-V)، وهو protocol لتقييم الصوت لدى الأطفال. قيّم 10 من speech-language pathologists عينات صوتية من 102 طفلًا تتراوح أعمارهم بين 3 و17 عامًا، مع وجود voice disorders لدى بعضهم. شمل التقييم overall voice quality وbreathiness وroughness وstrain وpitch وloudness، باستخدام Likert scales أو visual analog scales (VASs). كانت interrater وintrarater reliability مرتفعة عمومًا، وكانت أعلى درجات ICC لـ overall voice quality وأدناها لـ pitch. لم تختلف الموثوقية بشكل مهم بحسب نوع scale أو sex، لكنها كانت أعلى لدى الأطفال ذوي voice disorders ولدى الأطفال دون 6 سنوات مقارنة بالأكبر سنًا. رأى clinicians أن Likert scales أسرع، مع إمكانية استخدام أي من نوعي scales ضمن PAPE-V.",
+      "summary_en": "This study developed and evaluated the reliability of the Pediatric Auditory-Perceptual Evaluation of Voice (PAPE-V), a protocol for assessing children’s voices.\nTen pediatric voice SLPs rated samples from 102 children aged 3–17 years, with and without diagnosed voice disorders.\nRatings covered overall voice quality, breathiness, roughness, strain, pitch, and loudness, using either Likert scales or visual analog scales (VASs).\nInterrater and intrarater reliability were high overall; ICCs were highest for overall voice quality and lowest for pitch.\nReliability did not differ significantly by scale type or sex, but was higher for children with voice disorders and for children under 6 than for those aged 7–17.\nClinicians found Likert scales more time efficient, although either scale type can be used with the PAPE-V.",
+      "practice_change_ar": "يمكن للعيادات استخدام PAPE-V كإطار موحّد لتقييم الصوت الإدراكي لدى الأطفال، مع اختيار Likert scales للكفاءة الزمنية أو VASs عند تفضيلها.",
+      "practice_change_en": "Clinics can use the PAPE-V as a structured framework for pediatric auditory-perceptual voice assessment, choosing Likert scales for efficiency or VASs when preferred.",
+      "future_impact_ar": "قد يدعم اعتماد PAPE-V توحيد تقييم الصوت لدى الأطفال، لكن يلزم اختبار فائدته في الممارسة السريرية والبيئات غير المتخصصة.",
+      "future_impact_en": "Adoption of the PAPE-V may help standardize pediatric voice assessment, but its clinical utility in routine and nonspecialist settings requires further study.",
+      "why_important_ar": "تقدم الدراسة protocol موثوقًا مخصصًا للأطفال لمعالجة نقص الأدوات الموحدة في التقييم الإدراكي للصوت.",
+      "why_important_en": "The study offers a reliable child-focused protocol to address the lack of standardized tools for auditory-perceptual voice assessment in children.",
+      "vs_previous_ar": "بخلاف التقييمات غير الموحدة أو الأدوات غير المصممة خصيصًا للأطفال، يحدد PAPE-V سمات الصوت وطريقتين قابلتين للاستخدام في التقدير.",
+      "vs_previous_en": "Unlike unstandardized assessments or tools not designed specifically for children, the PAPE-V specifies voice characteristics and offers two usable rating-scale formats.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة تحقق من الموثوقية على 102 طفلًا وباستخدام مقيمين متخصصين، وتقدم protocol جديدًا مفيدًا سريريًا؛ لكنها لا تثبت حتى الآن تغييرًا مباشرًا في النتائج أو التدبير.",
+      "stars_reason_en": "A reliability-validation study involving 102 children and specialist raters provides a novel, clinically useful protocol, but does not yet demonstrate a direct change in outcomes or management.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق الدراسة النقاش لأنها تقيس موثوقية أداة جديدة وتوضح أثر عمر الطفل وحالة الصوت على اتفاق المقيمين، مع مقارنة عملية بين نوعي scales.",
+      "jc_reason_en": "This merits discussion because it evaluates a new assessment protocol and shows how age and voice-disorder status affect rater agreement, while comparing two practical scale formats.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "ينبغي إجراء دراسات على تطبيق PAPE-V في عيادات متنوعة، وربط درجاته بالتشخيص والنتائج التي تهم المرضى، وتقييم موثوقيته لدى مقيمين أقل تخصصًا.",
+      "research_gap_en": "Further studies should test the PAPE-V across diverse clinical settings, relate scores to diagnoses and patient-relevant outcomes, and assess reliability among less specialized raters.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تتناول هذه الدراسة تطوير Pediatric Auditory-Perceptual Evaluation of Voice، أو PAPE-V، وهو protocol مخصص لتقييم الصوت لدى الأطفال. تنطلق أهميته من أن التقييم الإدراكي للصوت عنصر مهم في تقييم مشكلات الصوت، لكن لم يكن هناك protocol معتمد مصمم خصيصًا للاستخدام عبر مراحل الطفولة.\n\nشارك عشرة من speech-language pathologists المتخصصين في صوت الأطفال، وقيّموا عينات من 102 طفل تتراوح أعمارهم بين 3 و17 عامًا، بعضهم لديه voice disorders وبعضهم أصحاء. شمل التقييم overall voice quality وbreathiness وroughness وstrain وpitch وloudness. استخدم المقيمون إما Likert scales أو visual analog scales، وأعيد تقييم جزء من العينات لقياس intrarater reliability.\n\nكانت interrater وintrarater reliability مرتفعتين عبر الظروف المختلفة. حقق overall voice quality أعلى ICC، بينما كان pitch الأقل. لم يظهر اختلاف مهم في الموثوقية بين نوعي scales أو بحسب sex. لكن اتفاق المقيمين كان أعلى لدى الأطفال ذوي voice disorders مقارنة بالأصحاء، وكذلك لدى الأطفال دون السادسة مقارنة بالأطفال من عمر 7 إلى 17 عامًا. وذكر clinicians أن Likert scales أكثر كفاءة من حيث الوقت، مع إمكانية استخدام كلا الخيارين.\n\nالخلاصة السريرية هي أن PAPE-V يوفر إطارًا منظمًا وموثوقًا لتقييم الصوت الإدراكي لدى الأطفال، ويمكن للعيادات اختيار نوع scale الأنسب لسير العمل. هذه دراسة تحقق مفيدة، وليست دليلًا على أن استخدام البروتوكول يحسن النتائج أو يغير التدبير بحد ذاته؛ لذلك تبقى الثقة متوسطة. تستحق الدراسة النقاش في journal club بسبب تصميم البروتوكول ونتائج العمر والموثوقية. وتتمثل الخطوة التالية في اختبار أدائه في عيادات متنوعة ومع مقيمين أقل تخصصًا، وربط درجاته بالتشخيص والنتائج المهمة للمرضى.",
+      "audio_script_en": "This study presents the Pediatric Auditory-Perceptual Evaluation of Voice, or PAPE-V, a protocol designed to assess children’s voices. Its rationale is that auditory-perceptual assessment is important in pediatric voice care, yet clinicians have lacked a protocol specifically designed for use across childhood.\n\nTen speech-language pathologists specializing in pediatric voice rated samples from 102 children aged 3 to 17 years, including children with and without diagnosed voice disorders. The protocol covers overall voice quality, breathiness, roughness, strain, pitch, and loudness. Raters used either Likert scales or visual analog scales, and some samples were repeated to assess intrarater reliability.\n\nInterrater and intrarater reliability were high across conditions. Overall voice quality had the highest ICCs, while pitch had the lowest. Reliability did not differ significantly between scale types or by sex. However, interrater agreement was higher for children with voice disorders than for healthy voices, and higher for children younger than 6 than for those aged 7 to 17. Clinicians found Likert scales more time efficient, although either scale type was considered suitable for the protocol.\n\nFor practice, the PAPE-V offers a structured and reliable framework for pediatric auditory-perceptual voice assessment, with flexibility to choose the scale that best fits the clinic workflow. This is useful validation evidence, but it does not establish that using the protocol improves outcomes or changes management, so confidence is moderate. It is a good journal-club paper because it introduces a protocol and highlights age-related differences in rating reliability. Future work should assess performance across varied clinical settings and among less specialized raters, and determine how scores relate to diagnoses and patient-relevant outcomes.",
+      "mcq": [
+        {
+          "q_ar": "ما المجال الذي حقق أعلى ICC في تقييم PAPE-V؟",
+          "q_en": "Which domain had the highest ICC in the PAPE-V evaluation?",
+          "options_ar": [
+            "أ) pitch",
+            "ب) overall voice quality",
+            "ج) loudness",
+            "د) strain"
+          ],
+          "options_en": [
+            "A) Pitch",
+            "B) Overall voice quality",
+            "C) Loudness",
+            "D) Strain"
+          ],
+          "answer": 1,
+          "explanation_ar": "سجل overall voice quality أعلى ICC مع كل من Likert scales وVASs.",
+          "explanation_en": "Overall voice quality had the highest ICCs with both Likert scales and VASs."
+        },
+        {
+          "q_ar": "أي استنتاج عن نوع scale تدعمه النتائج؟",
+          "q_en": "Which conclusion about scale type is supported by the findings?",
+          "options_ar": [
+            "أ) كانت VASs أكثر موثوقية بوضوح من Likert scales.",
+            "ب) كانت Likert scales أكثر موثوقية بوضوح من VASs.",
+            "ج) لم يظهر فرق مهم في الموثوقية بين نوعي scale.",
+            "د) لم يكن ممكنًا استخدام VASs مع الأطفال."
+          ],
+          "options_en": [
+            "A) VASs were clearly more reliable than Likert scales.",
+            "B) Likert scales were clearly more reliable than VASs.",
+            "C) There was no significant reliability difference between the scale types.",
+            "D) VASs could not be used with children."
+          ],
+          "answer": 2,
+          "explanation_ar": "لم تُلاحظ فروق ذات دلالة في الموثوقية بين نوعي scale، رغم أن clinicians وصفوا Likert scales بأنها أسرع.",
+          "explanation_en": "Reliability did not differ significantly by scale type, although clinicians found Likert scales more time efficient."
+        },
+        {
+          "q_ar": "في أي مجموعة كان interrater reliability أعلى؟",
+          "q_en": "In which group was interrater reliability higher?",
+          "options_ar": [
+            "أ) الأطفال ذوو voice disorders مقارنة بالأطفال ذوي الأصوات الصحية",
+            "ب) الأطفال ذوو الأصوات الصحية مقارنة بالأطفال ذوي voice disorders",
+            "ج) الأطفال بعمر 7–17 سنة مقارنة بمن هم دون 6 سنوات",
+            "د) الذكور مقارنة بالإناث"
+          ],
+          "options_en": [
+            "A) Children with voice disorders compared with children with healthy voices",
+            "B) Children with healthy voices compared with children with voice disorders",
+            "C) Children aged 7–17 compared with those younger than 6",
+            "D) Boys compared with girls"
+          ],
+          "answer": 0,
+          "explanation_ar": "كان interrater reliability أعلى لدى الأطفال ذوي voice disorders، كما كان أعلى لدى الأطفال دون السادسة مقارنة بالأكبر سنًا.",
+          "explanation_en": "Interrater reliability was higher for children with voice disorders and for children younger than 6 than for older children."
+        }
+      ]
+    },
+    {
+      "pmid": "42421252",
+      "title_ar": "Adenotonsillectomy for children with mild sleep-disordered breathing: who benefits?",
+      "title_en": "Adenotonsillectomy for children with mild sleep-disordered breathing: who benefits?",
+      "journal": "Sleep",
+      "pub_date": "2026-Oct-13",
+      "doi": "10.1093/sleep/zsag169",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42421252/",
+      "pdf_url": null,
+      "study_design": "Secondary analysis of a multicenter RCT (PATS), n=363",
+      "summary_ar": "حللت هذه الدراسة بيانات أطفال بعمر 3.0–12.9 سنة لديهم mild sleep-disordered breathing ضمن تجربة PATS، وقارنت early adenotonsillectomy مع watchful waiting with supportive care خلال 12 شهرًا. عُرّف التحسن المهم سريريًا بأنه تحسن في مجالين على الأقل من behavior وquality of life وsubjective sleepiness وblood pressure. حقق 65% من مجموعة الجراحة هذا التحسن، مقابل 39% في مجموعة المراقبة، وكان الفرق ذا دلالة إحصائية (p < .01). من بين الخصائص المدروسة، ارتبط Mallampati score من الدرجة III أو IV باحتمال أكبر للاستفادة (OR 4.16، 95% CI 1.22–15.6؛ p = .027). لم تُظهر معظم الخصائص السريرية أو بيانات polysomnography الأخرى قدرة موثوقة على تحديد الأطفال الأكثر استفادة. تشير النتائج إلى فائدة محتملة للجراحة، لكنها لا توفر قاعدة دقيقة لاختيار المرضى اعتمادًا على معظم العلامات المتاحة قبل العملية.",
+      "summary_en": "This secondary analysis of the PATS randomized trial included 363 children with mild sleep-disordered breathing, comparing early adenotonsillectomy with watchful waiting and supportive care over 12 months.\nClinically meaningful benefit was defined as improvement in at least two of four domains: behavior, quality of life, subjective sleepiness, and blood pressure.\nThe composite improvement occurred in 65% of children assigned to surgery versus 39% assigned to watchful waiting (p < .01).\nA Mallampati score of III or IV was the only examined baseline feature that predicted greater benefit (OR 4.16; 95% CI 1.22–15.6; p = .027).\nMost demographic, symptom, examination, historical, and polysomnographic features did not identify which children would benefit.\nThe findings support discussing surgery as an option, while underscoring the limits of current patient-selection markers.",
+      "practice_change_ar": "ناقشوا adenotonsillectomy كخيار علاجي للأطفال ذوي mild sleep-disordered breathing، لكن لا تعتمدوا على معظم السمات الأساسية وحدها لاختيار من سيستفيد.",
+      "practice_change_en": "Discuss adenotonsillectomy as an option for children with mild sleep-disordered breathing, but do not rely on most baseline features alone to identify who will benefit.",
+      "future_impact_ar": "قد يساعد التحقق المستقبلي من دور Mallampati score وتطوير أدوات تنبؤ متعددة العوامل على تحسين اختيار المرضى للجراحة.",
+      "future_impact_en": "Future validation of Mallampati score and development of multivariable prediction tools may improve patient selection for surgery.",
+      "why_important_ar": "توضح الدراسة أن التحسن المهم سريريًا كان أكثر شيوعًا بعد الجراحة، مع بقاء القدرة على التنبؤ الفردي بالاستفادة محدودة.",
+      "why_important_en": "The study shows that clinically meaningful improvement was more common after surgery, while individual prediction of benefit remains limited.",
+      "vs_previous_ar": "تضيف الدراسة تحليلًا لتحديد المستفيدين من نتائج تجربة PATS، وتجد أن معظم المؤشرات المعتادة لا تميزهم، مع إشارة محتملة إلى Mallampati score المرتفع.",
+      "vs_previous_en": "This analysis extends the PATS findings by examining treatment-effect predictors and suggests that most routine markers do not distinguish beneficiaries, with a possible signal for a high Mallampati score.",
+      "stars": 4,
+      "stars_reason_ar": "تحليل ثانوي لتجربة RCT متعددة المراكز يوفر دليلًا سريريًا مفيدًا على فائدة الجراحة، لكن محدودية المؤشرات التنبؤية وكونه تحليلًا ثانويًا لا يجعلان النتائج ممارسةً حاسمة التغيير.",
+      "stars_reason_en": "This secondary analysis of a multicenter RCT provides useful clinical evidence of surgical benefit, but limited predictive markers and its secondary-analysis design make it informative rather than practice-changing.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسب للنقاش لأنه يوازن بين فائدة الجراحة لدى الأطفال ذوي الأعراض الخفيفة وصعوبة تحديد المرضى الذين سيستفيدون منها.",
+      "jc_reason_en": "Suitable for journal club because it addresses both the benefit of surgery in children with mild symptoms and the challenge of identifying those most likely to benefit.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات مستقبلية لتأكيد قدرة Mallampati score على التنبؤ بالفائدة، وتطوير نماذج موثوقة لاختيار الأطفال المرشحين للجراحة.",
+      "research_gap_en": "Prospective studies should validate Mallampati score as a predictor and develop reliable models for selecting children for surgery.",
+      "subspecialty": "pediatric",
+      "audio_script_ar": "نتناول اليوم دراسة بعنوان: Adenotonsillectomy for children with mild sleep-disordered breathing: who benefits? وهي تحليل ثانوي لتجربة PATS العشوائية متعددة المراكز، وشملت 363 طفلًا بعمر 3 إلى 12.9 سنة. قارنت التجربة early adenotonsillectomy مع watchful waiting and supportive care، وتابعت النتائج لمدة 12 شهرًا.\n\nعرّف الباحثون الفائدة المهمة سريريًا بأنها تحسن في مجالين على الأقل من أربعة: behavior، وquality of life، وsubjective sleepiness، وblood pressure. تحقق هذا التحسن لدى 65% من الأطفال في مجموعة الجراحة، مقارنةً بـ39% في مجموعة المراقبة، وكان الفرق ذا دلالة إحصائية، مع p-value أقل من .01.\n\nبحث التحليل أيضًا عن سمات أساسية قد تساعد في اختيار المرضى. كانت النتيجة الأبرز أن Mallampati score من الدرجة III أو IV ارتبط بزيادة احتمال الاستفادة؛ بلغ odds ratio 4.16، مع confidence interval من 1.22 إلى 15.6. لكن هذه النتيجة جاءت من تحليل ثانوي، وفاصل الثقة واسع. أما معظم العوامل الأخرى، بما فيها الأعراض والخصائص السريرية وبيانات polysomnography، فلم تتنبأ بصورة موثوقة بمن سيستفيد.\n\nعمليًا، تدعم النتائج مناقشة adenotonsillectomy كخيار علاجي للأطفال ذوي mild sleep-disordered breathing، لكنها لا تبرر استخدام معظم السمات المتاحة قبل الجراحة كأداة حاسمة لاختيار المرضى. مستوى الثقة متوسط: الدليل مستمد من تجربة عشوائية، لكن سؤال التنبؤ بالفائدة يعتمد على تحليل ثانوي، والنتائج لا تثبت أن Mallampati score وحده يصلح لاتخاذ القرار. من المهم أيضًا موازنة الفائدة المحتملة مع تفضيلات الأسرة ومخاطر الجراحة. وتبقى الحاجة قائمة إلى دراسات مستقبلية تؤكد هذا المؤشر وتطور نماذج أفضل لاختيار الأطفال المرشحين.",
+      "audio_script_en": "Today we are reviewing “Adenotonsillectomy for children with mild sleep-disordered breathing: who benefits?” This is a secondary analysis of PATS, a multicenter randomized trial involving 363 children aged 3 to 12.9 years. The trial compared early adenotonsillectomy with watchful waiting and supportive care, with outcomes assessed at 12 months.\n\nThe investigators defined clinically meaningful benefit as improvement in at least two of four domains: behavior, quality of life, subjective sleepiness, and blood pressure. This composite improvement occurred in 65% of children in the surgery group, compared with 39% in the watchful-waiting group. The difference was statistically significant, with a p-value below .01.\n\nThe analysis also looked for baseline features that might help clinicians select children for surgery. The main predictive signal was a Mallampati score of III or IV, which was associated with greater odds of benefit: an odds ratio of 4.16, with a confidence interval from 1.22 to 15.6. However, this was a secondary analysis, and the confidence interval is wide. Most other demographic, symptom, clinical examination, historical, and polysomnographic features did not reliably predict who would benefit.\n\nFor practice, these findings support discussing adenotonsillectomy as an option for children with mild sleep-disordered breathing, but they do not establish most routinely available baseline features as reliable selection tools. Confidence is moderate: the evidence comes from a randomized trial, but the predictor question was addressed in a secondary analysis, and Mallampati score alone is not proven to guide decisions. Potential benefit should still be weighed alongside family preferences and surgical risks. Further prospective work should validate this signal and develop better tools for identifying children most likely to benefit.",
+      "mcq": [
+        {
+          "q_ar": "ما النتيجة المركبة التي استخدمتها الدراسة لتعريف الفائدة المهمة سريريًا؟",
+          "q_en": "What composite outcome defined clinically meaningful benefit in the study?",
+          "options_ar": [
+            "أ) تحسن في مجال واحد على الأقل من أربعة",
+            "ب) تحسن في مجالين على الأقل من أربعة",
+            "ج) انخفاض polysomnography إلى مستوى طبيعي",
+            "د) زوال الشخير وحده"
+          ],
+          "options_en": [
+            "A) Improvement in at least one of four domains",
+            "B) Improvement in at least two of four domains",
+            "C) Normalization of polysomnography",
+            "D) Resolution of snoring alone"
+          ],
+          "answer": 1,
+          "explanation_ar": "عُرّفت الفائدة بأنها تحسن في مجالين على الأقل من behavior وquality of life وsubjective sleepiness وblood pressure.",
+          "explanation_en": "Benefit required improvement in at least two of behavior, quality of life, subjective sleepiness, and blood pressure."
+        },
+        {
+          "q_ar": "أي سمة أساسية أظهرت إشارة تنبؤية بالاستفادة من الجراحة؟",
+          "q_en": "Which baseline feature showed a predictive signal for surgical benefit?",
+          "options_ar": [
+            "أ) Mallampati score III أو IV",
+            "ب) العمر أكبر من 5 سنوات",
+            "ج) الجنس الذكري",
+            "د) ارتفاع شدة الأعراض وحده"
+          ],
+          "options_en": [
+            "A) Mallampati score III or IV",
+            "B) Age greater than 5 years",
+            "C) Male sex",
+            "D) Greater symptom severity alone"
+          ],
+          "answer": 0,
+          "explanation_ar": "كان Mallampati score III أو IV المؤشر الوحيد من السمات المدروسة الذي أظهر قيمة تنبؤية.",
+          "explanation_en": "Mallampati score III or IV was the only examined feature showing predictive value."
+        },
+        {
+          "q_ar": "ما النسبة التي حققت تحسنًا مهمًا سريريًا في مجموعة early adenotonsillectomy؟",
+          "q_en": "What proportion achieved clinically meaningful improvement in the early adenotonsillectomy group?",
+          "options_ar": [
+            "أ) 39%",
+            "ب) 51%",
+            "ج) 65%",
+            "د) 85%"
+          ],
+          "options_en": [
+            "A) 39%",
+            "B) 51%",
+            "C) 65%",
+            "D) 85%"
+          ],
+          "answer": 2,
+          "explanation_ar": "حقق 65% من مجموعة early adenotonsillectomy تحسنًا في مجالين على الأقل، مقابل 39% في مجموعة watchful waiting.",
+          "explanation_en": "A total of 65% in the early adenotonsillectomy group improved in at least two domains, compared with 39% with watchful waiting."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026101401",
+      "title_ar": "ميدترونيك وكارل ستورز تتعاونان لتطوير حلول متكاملة لجراحة الأنف والأذن والحنجرة",
+      "title_en": "Medtronic and KARL STORZ Collaborate on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-14",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أعلنت شركتا ميدترونيك وكارل ستورز عن تعاون يركز على حلول متكاملة لجراحة الأنف والأذن والحنجرة. ولا تتضمن المعلومات المتاحة تفاصيل عن المنتجات أو موعد طرحها أو الشروط التجارية. ويشير التعاون إلى سعي الشركتين إلى الجمع بين منتجاتهما لاستخدامها في جراحات الأنف والأذن والحنجرة.",
+      "summary_en": "Medtronic and KARL STORZ have announced a collaboration focused on integrated solutions for ENT surgery. The announcement, reported by MassDevice, does not specify the products, launch timeline, or commercial terms in the information provided. The collaboration signals an effort to bring the companies’ offerings together for ENT surgical use.",
+      "practice_change_ar": "لا يُتوقع في الوقت الحالي حدوث تغيير فوري في الممارسة؛ إذ سيتوقف أي تأثير على الحلول المحددة وموعد توافرها.",
+      "practice_change_en": "For now, surgeons should not expect an immediate change in practice; any effect will depend on the specific solutions and their availability.",
+      "future_impact_ar": "قد يوسّع التعاون خيارات التقنيات المتكاملة في جراحة الأنف والأذن والحنجرة، رهنًا بتفاصيل المنتجات والأدلة السريرية وتوافرها في السوق.",
+      "future_impact_en": "The partnership may broaden integrated technology options in ENT surgery, pending details on products, evidence, and market availability.",
+      "why_important_ar": "إذا أسفر التعاون عن أدوات متوافقة ومتكاملة، فقد يسهم في تبسيط سير العمل الجراحي، لكن لم تُذكر بعد فوائد سريرية محددة.",
+      "why_important_en": "If the collaboration yields compatible, integrated tools, it could simplify surgical workflows, though no clinical benefits have yet been detailed.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "تعاون تجاري قد يؤثر في خيارات الأدوات مستقبلًا، لكن لا توجد تفاصيل كافية عن المنتجات أو الأثر السريري.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أعلنت ميدترونيك وكارل ستورز عن تعاون يهدف إلى تقديم حلول متكاملة لجراحة الأنف والأذن والحنجرة. وقد نقل موقع ماس ديفايس الخبر، لكن المعلومات المتاحة لا تحدد المنتجات التي يشملها التعاون، أو موعد طرحها، أو شروطه التجارية. لذلك لا يعني الإعلان بحد ذاته حدوث تغيير فوري في الممارسة الجراحية. تكمن أهميته المحتملة في إمكانية الجمع بين تقنيات الشركتين ضمن سير عمل أكثر تكاملًا. وإذا نتجت عن التعاون أدوات متوافقة وسهلة الاستخدام، فقد تتيح للجراحين خيارات إضافية، لكن لا توجد حتى الآن تفاصيل منشورة عن الفوائد السريرية أو الأدلة التي تدعمها. من المهم متابعة الإعلانات المقبلة لمعرفة المنتجات المعنية، وتوافرها، وأي بيانات عن أثرها على كفاءة الإجراءات أو نتائج المرضى.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026101402",
+      "title_ar": "سوق التنظير في طب الأنف والأذن والحنجرة: الحجم والحصة والنمو بمعدل نمو سنوي مركب قدره 6.4%",
+      "title_en": "ENT Endoscopy Market: Size, Share, and Growth at a 6.4% CAGR",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-14",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت Market.us نظرة عامة على السوق تتوقع نمو سوق التنظير في طب الأنف والأذن والحنجرة بمعدل سنوي مركب قدره 6.4%. ولا يحدد العنوان الفترة الزمنية للتوقع أو النطاق الجغرافي أو الافتراضات التي يستند إليها التقدير. ويتعلق الخبر بتوقعات السوق، لا بدراسة سريرية أو قرار تنظيمي أو صفقة بين شركات.",
+      "summary_en": "Market.us published a market overview forecasting 6.4% compound annual growth for the ENT endoscopy market. The headline does not specify the forecast period, geographic scope, or the assumptions behind the estimate. It reports a market projection rather than a clinical study, regulatory decision, or company transaction.",
+      "practice_change_ar": "لا يشير هذا التوقع إلى تغيير فوري في الممارسة السريرية، لكن استمرار نمو السوق قد يؤثر في توافر معدات التنظير مستقبلًا.",
+      "practice_change_en": "The projection does not indicate an immediate change to clinical practice, though sustained market growth could affect future availability of endoscopy equipment.",
+      "future_impact_ar": "إذا تحقق التوقع، فقد تؤدي زيادة المنافسة والاستثمار إلى توسيع خيارات المعدات، لكن تقييم التوقع يتطلب الاطلاع على المنهجية والنطاق الكاملين للتقرير.",
+      "future_impact_en": "If the forecast is realized, broader competition and investment could expand equipment options, although the report's full methodology and scope are needed to assess the outlook.",
+      "why_important_ar": "قد يشير نمو السوق إلى زيادة الاستثمار في التنظير بمجال الأنف والأذن والحنجرة، لكن العنوان وحده لا يقدم أدلة على أداء الأجهزة أو تكلفتها أو نتائج المرضى.",
+      "why_important_en": "Market growth may signal expanding investment in ENT endoscopy, but the headline alone provides no evidence about device performance, costs, or patient outcomes.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "أهمية محدودة للجراحين؛ فهو توقع سوقي عام دون تفاصيل كافية أو أثر سريري مباشر.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أصدرت Market.us تقريرًا موجزًا عن سوق التنظير في طب الأنف والأذن والحنجرة، ويتوقع نموه بمعدل سنوي مركب يبلغ 6.4%. لكن العنوان لا يوضح الفترة التي يغطيها التوقع، ولا المناطق الجغرافية المشمولة، ولا الافتراضات التي بُني عليها. لذلك ينبغي التعامل مع الرقم بوصفه تقديرًا سوقيًا، لا دليلًا على تحسن سريري أو تغيير وشيك في الأجهزة المستخدمة. بالنسبة إلى جراحي الأنف والأذن والحنجرة، قد يعكس استمرار هذا النمو اهتمامًا واستثمارًا أكبر في معدات التنظير، وربما يوسع الخيارات المتاحة مستقبلًا. ومع ذلك، لا يمكن استنتاج أثر على التكلفة أو أداء الأجهزة أو نتائج المرضى من المعلومات المنشورة في العنوان وحده.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026101403",
+      "title_ar": "شركات رائدة في مجال الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية",
+      "title_en": "Leading ENT Companies Driving Medical Technology Innovation",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-14",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "يتناول هذا الخبر نظرة عامة من SNS Insider عن الشركات التي تطوّر التكنولوجيا الطبية في قطاع الأنف والأذن والحنجرة. ولا يحدد الوصف المتاح شركات بعينها أو منتجات أو نتائج مالية أو قرارات تنظيمية. كما لا يذكر استحواذاً أو دعوى قضائية أو تحركاً في الأسهم أو إجراءً من إدارة الغذاء والدواء الأمريكية. ويلزم الاطلاع على تفاصيل إضافية لتقييم الشركات أو التقنيات التي يناقشها المقال.",
+      "summary_en": "The item is a broad industry overview from SNS Insider about companies advancing medical technology in the ENT sector. The provided description does not identify specific companies, products, financial results, or regulatory decisions. It reports no specific acquisition, lawsuit, stock move, or FDA action. Further details would be needed to assess the companies or technologies discussed.",
+      "practice_change_ar": "لا يشير الخبر إلى تغيير فوري في الممارسة السريرية، إذ لا يقدم معلومات محددة عن جهاز أو أدلة أو مستجدات تنظيمية.",
+      "practice_change_en": "No immediate change to clinical practice is indicated because the item provides no specific device, evidence, or regulatory update.",
+      "future_impact_ar": "يشير الخبر إلى استمرار اهتمام القطاع بالابتكار في مجال الأنف والأذن والحنجرة، لكن أي تداعيات ستعتمد على التقنيات المحددة والتحقق السريري منها.",
+      "future_impact_en": "The item underscores continued industry interest in ENT innovation, while any implications will depend on specific technologies and their clinical validation.",
+      "why_important_ar": "قد تؤثر تطورات التكنولوجيا في مجال الأنف والأذن والحنجرة في خيارات التشخيص والعلاج مستقبلاً، لكن هذه النظرة العامة وحدها لا تثبت أثراً سريرياً.",
+      "why_important_en": "ENT technology developments may affect future diagnostic and treatment options, but this overview alone does not establish a clinical impact.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "الأهمية محدودة للأطباء لغياب تفاصيل عن منتجات أو أدلة سريرية أو قرارات تنظيمية محددة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "يتناول تقرير من SNS Insider شركات رائدة تسهم في تطوير التكنولوجيا الطبية في مجال الأنف والأذن والحنجرة. لكن المعلومات المتاحة هنا لا تذكر أسماء الشركات أو المنتجات، ولا توضح إن كان هناك ابتكار محدد أو قرار تنظيمي أو نتائج مالية جديدة. لذلك لا يمكن استنتاج أثر مباشر في خيارات العلاج أو الممارسة اليومية للجراحين. تظل متابعة الابتكارات مهمة، لكن تقييم أي تقنية يتطلب معرفة بياناتها السريرية، وحالتها التنظيمية، ومدى ملاءمتها لاحتياجات المرضى. الخلاصة: الخبر يقدم عنواناً عاماً عن نشاط القطاع، ولا يتضمن تفاصيل كافية لاتخاذ قرارات سريرية أو تجارية.",
+      "mcq": []
+    }
+  ]
+}
