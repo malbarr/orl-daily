@@ -1,0 +1,1478 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T08:21:52Z",
+  "articles": [
+    {
+      "pmid": "42869727",
+      "title_ar": "Blepharoplasty in the Artificial Intelligence Era.",
+      "title_en": "Blepharoplasty in the Artificial Intelligence Era.",
+      "journal": "Oral and maxillofacial surgery clinics of North America",
+      "pub_date": "2026-Oct-13",
+      "doi": "10.1016/j.coms.2026.09.006",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42869727/",
+      "pdf_url": null,
+      "study_design": "Narrative review",
+      "summary_ar": "تستعرض هذه المراجعة دور artificial intelligence في blepharoplasty والإجراءات المحيطة بالعين، وهي مجالات تتقاطع فيها الجراحة الترميمية والوظيفية والجمالية مع تخصصات متعددة. تتيح الصور ومقاطع الفيديو و3-dimensional imaging فرصًا لقياس التغيرات حول العين بصورة موضوعية. تشمل التطبيقات المحتملة screening والتخطيط وتقييم النتائج وتثقيف المرضى. تبدو أدوات computer vision وdeep learning الأقرب إلى الاستخدام السريري حاليًا. أما large language models وgenerative image models فتحتاج إلى إشراف حذر بسبب محدودية الأدلة ومخاطر الاستخدام غير المنضبط. الأدلة الحالية واعدة لكنها متفاوتة، وتقترح المراجعة مسارًا حذرًا لتطبيق هذه التقنيات.",
+      "summary_en": "This review examines the role of artificial intelligence in blepharoplasty and related periorbital procedures, an area spanning several surgical and ophthalmic specialties.\nPhotographs, videos, and 3-dimensional imaging offer opportunities for objective assessment of eyelid and periorbital changes.\nPotential applications include screening, surgical planning, outcome assessment, and patient education.\nImage-based computer vision and deep learning appear closest to clinical use.\nLarge language models and generative image models require careful oversight.\nThe evidence is promising but heterogeneous, and the review proposes a cautious implementation pathway.",
+      "practice_change_ar": "لا تدعم المراجعة تغييرًا فوريًا في الممارسة؛ يمكن استخدام أدوات AI الموثوقة كمساعدات مع التحقق السريري والإشراف البشري.",
+      "practice_change_en": "The review does not support an immediate practice change; validated AI tools may be used as adjuncts with clinical verification and human oversight.",
+      "future_impact_ar": "قد تحسن أدوات AI مستقبلًا القياس والتخطيط وتقييم النتائج في blepharoplasty إذا أثبتت الدراسات صلاحيتها وسلامتها.",
+      "future_impact_en": "AI tools may improve measurement, planning, and outcome assessment in blepharoplasty if future studies establish their validity and safety.",
+      "why_important_ar": "تلخص المقالة استخدامات AI المتنامية في إجراءات حول العين وتوضح ضرورة موازنة فائدتها المحتملة مع حدود الأدلة والإشراف.",
+      "why_important_en": "The article summarizes growing AI applications in periorbital procedures and emphasizes balancing potential benefits with evidence limitations and oversight.",
+      "vs_previous_ar": "بدلًا من تقديم إرشادات علاجية جديدة، تجمع المراجعة تطبيقات AI الناشئة وتقترح نهجًا حذرًا للتطبيق السريري.",
+      "vs_previous_en": "Rather than offering new treatment guidelines, the review brings together emerging AI applications and proposes a cautious approach to clinical implementation.",
+      "stars": 3,
+      "stars_reason_ar": "مراجعة سردية ذات صلة سريرية وتعرض تطبيقات واعدة، لكن الأدلة متفاوتة ولا تثبت تغييرًا للممارسة؛ لذا تستحق الاطلاع دون أن تكون ممارسةً مغيرة.",
+      "stars_reason_en": "This clinically relevant narrative review describes promising applications, but the evidence is heterogeneous and does not establish a practice change; it is useful to know rather than practice-changing.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق النقاش لموازنتها بين فرص AI في تخطيط وتقييم blepharoplasty وبين تفاوت الأدلة والحاجة إلى الحوكمة والإشراف.",
+      "jc_reason_en": "It merits discussion because it weighs AI opportunities in blepharoplasty planning and assessment against heterogeneous evidence and the need for oversight and governance.",
+      "watch": true,
+      "watch_detail_ar": "تابع تطور أدوات computer vision وdeep learning و3-dimensional imaging لتقييم وتخطيط blepharoplasty، مع التحقق من صلاحيتها قبل الاعتماد السريري.",
+      "watch_detail_en": "Track computer vision, deep learning, and 3-dimensional imaging tools for blepharoplasty assessment and planning, while requiring validation before clinical adoption.",
+      "watch_type": "technology",
+      "research_gap_ar": "هناك حاجة إلى دراسات سريرية مستقبلية موحدة تقيس دقة أدوات AI وسلامتها وتأثيرها في النتائج والقرارات السريرية.",
+      "research_gap_en": "Standardized prospective clinical studies are needed to assess AI tool accuracy, safety, and effects on outcomes and clinical decisions.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "تتناول مقالة «Blepharoplasty in the Artificial Intelligence Era» دور artificial intelligence في blepharoplasty والإجراءات المحيطة بالعين. هذه مراجعة سردية، وليست تجربة سريرية أو systematic review بنتائج مجمعة، ولذلك ينبغي التعامل مع استنتاجاتها بوصفها عرضًا للتطبيقات الحالية واتجاهاتها.\n\nالفكرة الأساسية أن صور المرضى ومقاطع الفيديو و3-dimensional imaging قد تتيح قياسًا موضوعيًا للتغيرات حول العين. وتشمل التطبيقات التي تناقشها المراجعة screening، والتخطيط، وتقييم النتائج، وتثقيف المرضى. تبدو أدوات computer vision وdeep learning الأقرب إلى الاستخدام السريري، بينما تحتاج large language models وgenerative image models إلى حذر وإشراف بشري.\n\nلا تشير المراجعة إلى أن الأدلة الحالية كافية لتغيير الممارسة اليوم. يمكن النظر إلى هذه التقنيات باعتبارها أدوات مساعدة، لا بدائل عن التقييم السريري أو قرار الجرّاح. كما أن تفاوت الأدلة يحد من إمكانية تعميم أداء أداة بعينها.\n\nتقييم المقالة ثلاث نجوم وثقة متوسطة: الموضوع مهم وذو صلة مباشرة بجراحة الوجه، لكنه لا يقدم دليلًا مقارنًا قويًا أو توصية مثبتة بتغيير الرعاية. وهي مناسبة لنادي المجلة لمناقشة صلاحية أدوات AI، والخصوصية، والتحيز، والإشراف. ومن المهم متابعة computer vision وdeep learning و3-dimensional imaging، مع طلب دراسات مستقبلية موحدة تقيس الدقة والسلامة وتأثير التقنية على النتائج والقرارات السريرية. الخلاصة: التقنية واعدة، لكن التطبيق ينبغي أن يكون حذرًا ومتحققًا منه.",
+      "audio_script_en": "This review, titled “Blepharoplasty in the Artificial Intelligence Era,” examines how artificial intelligence may support blepharoplasty and related periorbital procedures. It is a narrative review, not a clinical trial or a systematic review with pooled outcomes, so its conclusions should be understood as a synthesis of current applications and directions.\n\nThe central idea is that photographs, videos, and 3-dimensional imaging may enable more objective measurement of eyelid and periorbital changes. Potential applications include screening, planning, outcome assessment, and patient education. Image-based computer vision and deep learning appear closest to clinical use. In contrast, large language models and generative image models require careful oversight.\n\nThe review does not establish that current evidence is sufficient to change practice today. These tools may be considered adjuncts, not replacements for clinical assessment or surgical judgment. Heterogeneous evidence also limits how confidently the performance of any specific tool can be generalized.\n\nThe article receives three stars with moderate confidence: the topic is relevant to facial plastic surgery, but the review does not provide strong comparative evidence or a validated recommendation to change care. It is suitable for journal club discussion, especially around tool validity, privacy, bias, and human oversight. Computer vision, deep learning, and 3-dimensional imaging are technologies to watch, while future standardized studies should measure accuracy, safety, and effects on clinical decisions and patient outcomes. The takeaway is that the technology is promising, but implementation should be cautious and evidence-led.",
+      "mcq": [
+        {
+          "q_ar": "ما نوع المقالة؟",
+          "q_en": "What type of article is this?",
+          "options_ar": [
+            "أ) تجربة عشوائية محكومة",
+            "ب) مراجعة سردية",
+            "ج) دراسة أتراب مستقبلية",
+            "د) سلسلة حالات استعادية"
+          ],
+          "options_en": [
+            "A) Randomized controlled trial",
+            "B) Narrative review",
+            "C) Prospective cohort study",
+            "D) Retrospective case series"
+          ],
+          "answer": 1,
+          "explanation_ar": "المقالة تلخص التطبيقات وتقترح مسارًا للتطبيق، ولا تصف تجربة أو مجموعة مرضى.",
+          "explanation_en": "The article summarizes applications and proposes an implementation pathway; it does not describe a trial or patient cohort."
+        },
+        {
+          "q_ar": "أي التقنيات تبدو الأقرب إلى الاستخدام السريري وفقًا للمراجعة؟",
+          "q_en": "Which technologies appear closest to clinical use according to the review?",
+          "options_ar": [
+            "أ) large language models وgenerative image models",
+            "ب) computer vision وdeep learning المعتمدان على الصور",
+            "ج) الروبوتات الجراحية الذاتية",
+            "د) التحليل الجيني"
+          ],
+          "options_en": [
+            "A) Large language models and generative image models",
+            "B) Image-based computer vision and deep learning",
+            "C) Autonomous surgical robotics",
+            "D) Genetic analysis"
+          ],
+          "answer": 1,
+          "explanation_ar": "تشير المراجعة إلى أن image-based computer vision وdeep learning هما الأقرب إلى التطبيق السريري.",
+          "explanation_en": "The review identifies image-based computer vision and deep learning as closest to clinical application."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن تغيير الممارسة حاليًا؟",
+          "q_en": "What is the most appropriate conclusion about changing practice today?",
+          "options_ar": [
+            "أ) يجب استبدال التقييم السريري بأدوات AI",
+            "ب) الأدلة تفرض تطبيق AI في جميع الحالات",
+            "ج) يمكن استخدام الأدوات الموثوقة كمساعدات مع إشراف وتحقق سريري",
+            "د) لا توجد أي تطبيقات محتملة لـ AI"
+          ],
+          "options_en": [
+            "A) Clinical assessment should be replaced by AI tools",
+            "B) Evidence requires AI use in every case",
+            "C) Validated tools may serve as adjuncts with oversight and clinical verification",
+            "D) AI has no potential applications"
+          ],
+          "answer": 2,
+          "explanation_ar": "الأدلة واعدة لكنها متفاوتة، لذا توصي المراجعة بنهج حذر وإشراف بشري بدل تغيير الممارسة على نطاق واسع.",
+          "explanation_en": "Evidence is promising but heterogeneous, supporting cautious use and human oversight rather than broad practice change."
+        }
+      ]
+    },
+    {
+      "pmid": "42622553",
+      "title_ar": "Kinematic Features of Laryngeal Motor Control in Parkinson's Disease.",
+      "title_en": "Kinematic Features of Laryngeal Motor Control in Parkinson's Disease.",
+      "journal": "Journal of speech, language, and hearing research : JSLHR",
+      "pub_date": "2026-Oct-13",
+      "doi": "10.1044/2026_JSLHR-26-00035",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42622553/",
+      "pdf_url": null,
+      "study_design": "Retrospective controlled study, n=48 (24 with idiopathic Parkinson's disease and 24 matched controls)",
+      "summary_ar": "درست هذه الدراسة retrospective laryngeal kinematics لدى 24 شخصًا مصابًا بـ Parkinson's disease و24 control مطابقين للعمر والجنس. أُجري high-speed videoendoscopy أثناء تكرار utterance /ifi/ بمستويات vocal effort مختلفة. قاس الباحثون spatiotemporal index (STI)، الذي يعكس تباين adduction بين التكرارات، وasymmetry index (AI)، الذي يقيس نسبة deceleration إلى acceleration أثناء adduction. أظهر تحليل mixed-effects وجود فرق بين المجموعتين في STI، مع قيم أكبر لدى مجموعة Parkinson's disease، بينما لم يظهر فرق ذو دلالة إحصائية في AI. لم تؤثر مستويات vocal effort في أي من المقياسين، ولم يظهر تفاعل ذو دلالة بين المجموعة ومستوى الجهد. تدعم النتائج وجود زيادة في تباين laryngeal motor control لدى المصابين بـ Parkinson's disease، لكنها لا تثبت فائدة سريرية مباشرة أو تغييرًا في التدبير.",
+      "summary_en": "This retrospective controlled study compared laryngeal kinematics in 24 people with idiopathic Parkinson's disease and 24 age- and sex-matched controls.\nParticipants repeated /ifi/ at four self-selected vocal effort levels during high-speed videoendoscopy.\nThe investigators measured spatiotemporal index (STI), reflecting variability in adduction across repetitions, and asymmetry index (AI), reflecting the ratio of deceleration to acceleration.\nSTI was significantly larger in the Parkinson's disease group, whereas AI did not differ significantly between groups.\nNeither measure changed significantly with vocal effort, and there was no significant group-by-effort interaction.\nThe findings support increased variability in laryngeal motor control in Parkinson's disease but do not establish a change in clinical management.",
+      "practice_change_ar": "لا تغيّر هذه النتائج الممارسة السريرية اليوم، لكنها تشير إلى أن STI قد يكون مقياسًا مفيدًا لدراسة laryngeal motor control في Parkinson's disease.",
+      "practice_change_en": "These findings do not change clinical practice today, but suggest STI may be a useful measure for studying laryngeal motor control in Parkinson's disease.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية أكبر في تحديد ما إذا كان STI يرتبط بأعراض الصوت أو يتنبأ بالاستجابة للعلاج.",
+      "future_impact_en": "Larger future studies could determine whether STI correlates with voice symptoms or predicts response to treatment.",
+      "why_important_ar": "تضيف الدراسة قياسًا موضوعيًا يُظهر زيادة تباين laryngeal adduction لدى المصابين بـ Parkinson's disease مقارنةً بـ controls.",
+      "why_important_en": "The study adds an objective measure showing greater laryngeal adduction variability in people with Parkinson's disease than in controls.",
+      "vs_previous_ar": "توسّع النتائج الملاحظات السابقة عن زيادة تباين الحركة في speech articulators لتشمل laryngeal kinematics، مع عدم إظهار تعديلها بواسطة vocal effort.",
+      "vs_previous_en": "The findings extend prior observations of increased variability in speech articulators to laryngeal kinematics, while showing no modulation by vocal effort.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة retrospective مضبوطة تضم 48 مشاركًا وتقدم نتيجة مفيدة عن STI، لكن غياب أثر مباشر على التدبير السريري ومحدودية العينة يضعانها في مستوى متوسط.",
+      "stars_reason_en": "This retrospective controlled study includes 48 participants and offers useful evidence about STI, but its limited sample and lack of direct management impact support a moderate rating.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسبة للنقاش حول قياس laryngeal motor control في Parkinson's disease، ودلالة STI مقارنةً بـ AI، وحدود التصميم retrospective.",
+      "jc_reason_en": "Suitable for discussion of laryngeal motor control measures in Parkinson's disease, the differing findings for STI and AI, and the limitations of a retrospective design.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات prospective أكبر تربط STI بمقاييس الصوت والأعراض الوظيفية وبالتغير بعد العلاج.",
+      "research_gap_en": "Larger prospective studies should relate STI to voice measures, functional symptoms, and changes following treatment.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة عن laryngeal motor control لدى الأشخاص المصابين بـ Parkinson's disease. استخدم الباحثون تصميمًا retrospective مضبوطًا، وشملوا 24 شخصًا مصابًا بـ idiopathic Parkinson's disease و24 control مطابقين للعمر والجنس. خلال high-speed videoendoscopy، كرر المشاركون utterance /ifi/ بأربعة مستويات من vocal effort: typical وmild وmoderate وmaximum.\n\nقاس الباحثون مقياسين أثناء vocal fold adduction. الأول هو spatiotemporal index، أو STI، ويصف مقدار التباين بين التكرارات. أما asymmetry index، أو AI، فيقيس نسبة deceleration إلى acceleration أثناء adduction. أظهرت النتائج STI أكبر لدى مجموعة Parkinson's disease مقارنةً بمجموعة control، ما يشير إلى زيادة تباين الحركة الحنجرية. في المقابل، لم يظهر AI فرقًا ذا دلالة إحصائية بين المجموعتين. كذلك لم يؤثر مستوى vocal effort في أي من المقياسين، ولم يظهر تفاعل مهم بين المجموعة ومستوى الجهد.\n\nتكمن أهمية الدراسة في أنها تقدم قياسًا حركيًا موضوعيًا يتماشى مع ملاحظات زيادة التباين في speech articulators لدى مرضى Parkinson's disease. لكنها لا تثبت أن هذا القياس يعكس شدة الأعراض أو يغيّر اختيار العلاج، ولذلك لا توجد ممارسة سريرية جديدة تُعتمد اليوم. وبما أن التصميم retrospective والعينة محدودة، فالثقة متوسطة والنتائج تستحق المعرفة أكثر من كونها ممارسة مغيرة.\n\nيمكن مناقشة الدراسة في journal club، خصوصًا سبب حساسية STI مقارنةً بـ AI، ومدى تمثيل utterance واحد لمهارات الصوت اليومية. الخطوة التالية هي prospective studies أكبر تربط STI بالأعراض الصوتية والوظيفية، وتختبر تغيره مع العلاج. لا تعرض الدراسة دواءً أو جهازًا أو تقنية جديدة تستوجب المتابعة بوصفها ابتكارًا سريريًا.",
+      "audio_script_en": "Today we are reviewing a study of laryngeal motor control in people with Parkinson's disease. This retrospective controlled study included 24 people with idiopathic Parkinson's disease and 24 age- and sex-matched controls. During high-speed videoendoscopy, participants repeated the utterance /ifi/ at four self-selected vocal effort levels: typical, mild, moderate, and maximum.\n\nThe investigators assessed two measures during vocal fold adduction. The spatiotemporal index, or STI, describes variability across repeated utterances. The asymmetry index, or AI, represents the ratio of deceleration to acceleration during adduction. STI was significantly larger in the Parkinson's disease group, consistent with greater variability in laryngeal movement. AI did not differ significantly between groups. Vocal effort level did not significantly affect either measure, and there was no significant interaction between group and effort.\n\nThe study matters because it provides an objective kinematic finding that aligns with reports of increased variability in other speech articulators in Parkinson's disease. However, it does not show that STI tracks symptom severity or changes treatment decisions, so it does not support a new clinical practice today. The retrospective design and modest sample size mean the evidence is useful but not definitive, giving the article moderate clinical value and yellow confidence.\n\nThis paper is appropriate for journal club, particularly to discuss why STI detected a group difference when AI did not, and whether a single utterance captures everyday voice function. Larger prospective studies should relate STI to voice symptoms and functional outcomes, and assess whether it changes with treatment. The article does not introduce a new drug, device, or clinical technology to track.",
+      "mcq": [
+        {
+          "q_ar": "أي مقياس أظهر فرقًا ذا دلالة إحصائية بين مجموعة Parkinson's disease وcontrol؟",
+          "q_en": "Which measure showed a statistically significant difference between the Parkinson's disease and control groups?",
+          "options_ar": [
+            "أ) asymmetry index (AI)",
+            "ب) spatiotemporal index (STI)",
+            "ج) كلا المقياسين",
+            "د) لا أيٌّ من المقياسين"
+          ],
+          "options_en": [
+            "A) Asymmetry index (AI)",
+            "B) Spatiotemporal index (STI)",
+            "C) Both measures",
+            "D) Neither measure"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان STI أكبر بصورة ذات دلالة إحصائية لدى مجموعة Parkinson's disease، بينما لم يختلف AI بصورة ذات دلالة.",
+          "explanation_en": "STI was significantly larger in the Parkinson's disease group, whereas AI did not differ significantly."
+        },
+        {
+          "q_ar": "ما أثر vocal effort على STI وAI في هذه الدراسة؟",
+          "q_en": "What effect did vocal effort have on STI and AI in this study?",
+          "options_ar": [
+            "أ) غيّر STI فقط",
+            "ب) غيّر AI فقط",
+            "ج) غيّر كلا المقياسين",
+            "د) لم يظهر له أثر ذو دلالة في أيٍّ منهما"
+          ],
+          "options_en": [
+            "A) It significantly changed STI only",
+            "B) It significantly changed AI only",
+            "C) It significantly changed both measures",
+            "D) It had no significant effect on either measure"
+          ],
+          "answer": 3,
+          "explanation_ar": "لم يظهر أثر ذو دلالة إحصائية لمستوى vocal effort على STI أو AI، كما لم يظهر تفاعل ذو دلالة مع المجموعة.",
+          "explanation_en": "Vocal effort level had no statistically significant effect on STI or AI, and there was no significant interaction with group."
+        },
+        {
+          "q_ar": "ما الخلاصة الأهم بشأن laryngeal motor control لدى المشاركين المصابين بـ Parkinson's disease؟",
+          "q_en": "What is the main conclusion regarding laryngeal motor control in participants with Parkinson's disease?",
+          "options_ar": [
+            "أ) أظهروا تباينًا أقل في adduction",
+            "ب) أظهروا STI أكبر، بما يتفق مع زيادة تباين الحركة",
+            "ج) أظهروا AI أكبر بصورة مؤكدة",
+            "د) أدى رفع vocal effort إلى تطبيع المقياسين"
+          ],
+          "options_en": [
+            "A) They showed less variability in adduction",
+            "B) They showed larger STI, consistent with increased movement variability",
+            "C) They showed a definitively larger AI",
+            "D) Increasing vocal effort normalized both measures"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتبط Parkinson's disease بزيادة STI، بينما لم يتغير AI معنوياً ولم يعدّل vocal effort القياسات.",
+          "explanation_en": "Parkinson's disease was associated with increased STI; AI did not differ significantly, and vocal effort did not modify the measures."
+        }
+      ]
+    },
+    {
+      "pmid": "42695932",
+      "title_ar": "Subglottic Pressure and Immersion Depth: Key Determinants of Voice Outcomes in Water Resistance Tube Exercise.",
+      "title_en": "Subglottic Pressure and Immersion Depth: Key Determinants of Voice Outcomes in Water Resistance Tube Exercise.",
+      "journal": "Journal of speech, language, and hearing research : JSLHR",
+      "pub_date": "2026-Oct-13",
+      "doi": "10.1044/2026_JSLHR-26-00186",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42695932/",
+      "pdf_url": null,
+      "study_design": "Controlled experimental study, n=40",
+      "summary_ar": "قيّمت الدراسة تأثير عمق غمر أنبوب water resistance tube (WRT) في الماء ومستويات subglottic pressure (Psub) على خصائص oral pressure (Poral)، وelectroglottographic contact quotient (CQ)، وسهولة phonation لدى 40 مشاركًا، منهم 20 بصوت طبيعي و20 لديهم functional dysphonia. في التجربة الأولى، غيّر المشاركون عمق الغمر بين 2 و10 cm، وفي الثانية أدّوا التمرين عند Psub مستهدف قدره 10 و15 و20 cm H2O مع تثبيت عمق الغمر. أدت زيادة عمق الغمر أو Psub إلى ارتفاع CQ وزيادة عدم استقرار Poral، مع انخفاض الإحساس بسهولة phonation. كما أثّرت هذه المتغيرات في خصائص الفقاعات والإحساس الشبيه بالتدليك أثناء التمرين. لم تظهر فروق مهمة في معظم المتغيرات بين مجموعتي الصوت الطبيعي وfunctional dysphonia. تشير النتائج إلى أهمية ضبط الحمل أثناء WRT، لكنها لا تثبت أن استراتيجية محددة تحسن النتائج العلاجية السريرية.",
+      "summary_en": "This controlled experimental study assessed how water resistance tube (WRT) immersion depth and subglottic pressure (Psub) affect oral pressure (Poral), electroglottographic contact quotient (CQ), and perceived ease of phonation in 40 participants: 20 with normal voice and 20 with functional dysphonia. In Experiment 1, participants phonated with immersion depths from 2 to 10 cm; in Experiment 2, they used Psub targets of 10, 15, and 20 cm H2O at a constant immersion depth. Greater immersion or Psub increased CQ and Poral instability while reducing perceived phonatory ease. These variables also influenced bubble characteristics and the massage-like sensation. Most measures did not differ significantly between the two groups. The findings support careful control of exercise load, but do not establish which settings improve clinical treatment outcomes.",
+      "practice_change_ar": "يمكن للأخصائيين مراقبة عمق الغمر وPsub أثناء WRT لأن زيادة الحمل قد تقلل سهولة phonation، لكن الدراسة لا تبرر تغيير البروتوكولات العلاجية وحدها.",
+      "practice_change_en": "Clinicians can monitor immersion depth and Psub during WRT because higher loads may reduce phonatory ease, but this study alone does not warrant changing treatment protocols.",
+      "future_impact_ar": "قد تساعد دراسات سريرية أطول في تحديد إعدادات WRT المثلى وربط قياسات Poral وCQ بتحسن صوتي ذي أهمية للمريض.",
+      "future_impact_en": "Longer-term clinical studies may identify optimal WRT settings and link Poral and CQ measurements to meaningful improvements in voice.",
+      "why_important_ar": "توضح الدراسة أن ضبط عمق الغمر وPsub يغيّر استجابة phonation حتى أثناء تمرين صوتي شائع.",
+      "why_important_en": "The study shows that immersion depth and Psub alter phonatory responses during a commonly used voice exercise.",
+      "vs_previous_ar": "تضيف الدراسة قياسات تجريبية تربط عمق الغمر وPsub بتغيرات Poral وCQ والإحساس الذاتي، بدل افتراض أن إعدادات WRT متكافئة.",
+      "vs_previous_en": "It adds experimental measurements linking immersion depth and Psub to Poral, CQ, and subjective sensation, rather than assuming WRT settings are interchangeable.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة تجريبية مضبوطة على 40 مشاركًا تقدم معرفة مفيدة عن استجابة الصوت للتحميل، لكنها تقيس نتائج فسيولوجية وآنية ولا تثبت فائدة علاجية طويلة الأمد؛ لذا تستحق 3 نجوم.",
+      "stars_reason_en": "This controlled experimental study of 40 participants provides useful information on vocal responses to loading, but measures immediate physiologic outcomes rather than long-term therapeutic benefit; therefore, 3 stars.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "موضوع مناسب للنقاش لأنه يختبر افتراضات عملية حول جرعة WRT، ويتيح مناقشة الفرق بين المؤشرات الفسيولوجية والنتائج العلاجية المهمة للمريض.",
+      "jc_reason_en": "Suitable for discussion because it tests practical assumptions about WRT dosing and prompts consideration of the difference between physiologic measures and patient-important treatment outcomes.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء تجارب علاجية أطول تقارن إعدادات WRT محددة وتقيس تحسن الصوت والأعراض والالتزام، مع تقييم ما إذا كانت الاستجابات تختلف حسب تشخيص voice disorder.",
+      "research_gap_en": "Longer treatment trials should compare specific WRT settings and assess voice improvement, symptoms, and adherence, including whether responses differ by voice disorder diagnosis.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة عن تمرين water resistance tube، أو WRT، وتسأل سؤالًا عمليًا: كيف يؤثر عمق غمر الأنبوب في الماء ومستوى subglottic pressure على الصوت أثناء التمرين؟ شملت الدراسة 40 مشاركًا؛ 20 لديهم صوت طبيعي و20 مشخصون بـ functional dysphonia بعد laryngoscopic examination.\n\nأجرى المشاركون تجربتين. في الأولى، استخدموا خمسة أعماق للغمر، من 2 إلى 10 cm. وفي الثانية، استهدفوا مستويات subglottic pressure قدرها 10 و15 و20 cm H2O مع تثبيت عمق الغمر. قاس الباحثون متغيرات oral pressure، ومنها تذبذب الضغط وخصائصه، كما قاسوا electroglottographic contact quotient، أو CQ، وسألوا المشاركين عن سهولة phonation.\n\nكانت النتيجة الأساسية أن زيادة عمق الغمر أو الضغط رفعت CQ وزادت عدم استقرار oral pressure. وفي الوقت نفسه، شعر المشاركون بانخفاض سهولة phonation، كما تغيرت خصائص الفقاعات والإحساس الشبيه بالتدليك. لم تختلف معظم القياسات بشكل واضح بين مجموعة الصوت الطبيعي ومجموعة functional dysphonia، ما يشير إلى أن أثر الحمل ظهر في المجموعتين.\n\nما أهمية ذلك للممارسة؟ تذكّرنا النتائج بأن تغيير عمق الغمر أو الضغط ليس تعديلًا بسيطًا؛ فهو يغيّر الحمل الفسيولوجي أثناء WRT، وقد يجعل phonation أقل سهولة عند المستويات الأعلى. لذلك من المعقول أن يراقب اختصاصيو الصوت الإحساس والجهد، وأن يضبطوا التمرين بدل اعتبار جميع مستويات الغمر متكافئة.\n\nلكن ينبغي تفسير النتائج بحذر. هذه دراسة تجريبية قصيرة تقيس استجابات أثناء التمرين، ولا تثبت أن إعدادًا بعينه يؤدي إلى تحسن علاجي طويل الأمد أو أنه الأفضل لكل مريض. كما أن التشابه بين المجموعتين في معظم المتغيرات لا يحدد طريقة تخصيص الجرعة بحسب التشخيص. الخلاصة: الدراسة مفيدة لفهم جرعة WRT، لكنها لا تغيّر البروتوكولات العلاجية وحدها. الخطوة التالية هي تجارب علاجية أطول تقارن إعدادات محددة وتقيس نتائج صوتية وأعراضًا مهمة للمريض.",
+      "audio_script_en": "Today’s study examines a practical question about water resistance tube exercise, or WRT: how do immersion depth and subglottic pressure affect voice during the exercise? The study included 40 participants—20 with normal voice and 20 diagnosed with functional dysphonia following laryngoscopic examination.\n\nParticipants completed two experiments. In the first, they phonated with the tube immersed at five depths, from 2 to 10 cm. In the second, they targeted subglottic pressure levels of 10, 15, and 20 cm H2O while keeping immersion depth constant. The researchers measured oral pressure, including its oscillation characteristics, and electroglottographic contact quotient, or CQ. Participants also rated how easy phonation felt.\n\nThe main finding was that greater immersion depth or higher pressure increased CQ and oral pressure instability. Participants also reported reduced ease of phonation, and bubble characteristics and the massage-like sensation changed. Most measures did not differ significantly between the normal-voice and functional-dysphonia groups, suggesting that the effect of load was seen in both.\n\nWhy does this matter clinically? The findings remind us that changing immersion depth or pressure is not a trivial adjustment: it alters the physiologic load during WRT, and higher levels may make phonation feel less easy. It is therefore reasonable for voice clinicians to monitor effort and sensation and adjust the exercise rather than assuming all immersion levels are equivalent.\n\nThe results should be interpreted cautiously. This is a short experimental study of responses during exercise; it does not show that a particular setting produces better long-term treatment outcomes or is best for every patient. The similarity between groups on most measures also does not tell us how to tailor exercise dose by diagnosis. The take-home message is that this study adds useful information about WRT dosing, but does not by itself justify changing treatment protocols. Longer treatment trials should compare specific settings and measure voice outcomes and symptoms that matter to patients.",
+      "mcq": [
+        {
+          "q_ar": "ما العدد الإجمالي للمشاركين ومجموعتا الدراسة؟",
+          "q_en": "What was the total sample and how were participants divided?",
+          "options_ar": [
+            "أ) 20 مشاركًا، جميعهم لديهم functional dysphonia",
+            "ب) 40 مشاركًا: 20 بصوت طبيعي و20 لديهم functional dysphonia",
+            "ج) 40 مشاركًا: 30 بصوت طبيعي و10 لديهم functional dysphonia",
+            "د) 100 مشارك، موزعون بالتساوي"
+          ],
+          "options_en": [
+            "A) 20 participants, all with functional dysphonia",
+            "B) 40 participants: 20 with normal voice and 20 with functional dysphonia",
+            "C) 40 participants: 30 with normal voice and 10 with functional dysphonia",
+            "D) 100 participants, evenly divided"
+          ],
+          "answer": 1,
+          "explanation_ar": "شملت الدراسة 40 مشاركًا، منهم 20 بصوت طبيعي و20 لديهم functional dysphonia.",
+          "explanation_en": "The study included 40 participants: 20 with normal voice and 20 with functional dysphonia."
+        },
+        {
+          "q_ar": "ما أثر زيادة عمق الغمر أو subglottic pressure على النتائج المبلغ عنها؟",
+          "q_en": "What was the reported effect of increasing immersion depth or subglottic pressure?",
+          "options_ar": [
+            "أ) انخفاض CQ وتحسن سهولة phonation",
+            "ب) ارتفاع CQ وزيادة عدم استقرار Poral وانخفاض سهولة phonation",
+            "ج) عدم تغير أي مقياس",
+            "د) اختلاف النتائج حصريًا لدى مجموعة الصوت الطبيعي"
+          ],
+          "options_en": [
+            "A) Lower CQ and improved ease of phonation",
+            "B) Higher CQ, greater Poral instability, and reduced ease of phonation",
+            "C) No change in any measure",
+            "D) Effects only in the normal-voice group"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتبطت الأحمال الأعلى بزيادة CQ وعدم استقرار Poral، وبانخفاض الإحساس بسهولة phonation.",
+          "explanation_en": "Higher loads were associated with increased CQ and Poral instability, alongside reduced perceived ease of phonation."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن أثر هذه الدراسة على الممارسة؟",
+          "q_en": "Which conclusion best describes the study’s implications for practice?",
+          "options_ar": [
+            "أ) تثبت أن أعلى ضغط هو العلاج الأفضل لجميع المرضى",
+            "ب) تبرر إيقاف WRT لدى جميع مرضى functional dysphonia",
+            "ج) تدعم مراقبة الحمل أثناء WRT، لكنها لا تثبت إعدادًا علاجيًا مثاليًا أو فائدة طويلة الأمد",
+            "د) تثبت وجود فرق كبير بين مجموعتي الدراسة في معظم القياسات"
+          ],
+          "options_en": [
+            "A) It proves that the highest pressure is best for all patients",
+            "B) It justifies stopping WRT for all patients with functional dysphonia",
+            "C) It supports monitoring WRT load but does not establish an optimal treatment setting or long-term benefit",
+            "D) It proves large differences between the groups on most measures"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة تقيس تغيرات فسيولوجية وآنية، ولا تثبت تحسنًا علاجيًا طويل الأمد أو إعدادًا مثاليًا محددًا.",
+          "explanation_en": "The study measures immediate physiologic changes and does not establish long-term treatment benefit or a specific optimal setting."
+        }
+      ]
+    },
+    {
+      "pmid": "42322187",
+      "title_ar": "Predictors of Unplanned Admission After Outpatient Rhytidectomy",
+      "title_en": "Predictors of Unplanned Admission After Outpatient Rhytidectomy",
+      "journal": "Aesthetic surgery journal",
+      "pub_date": "2026-Oct-15",
+      "doi": "10.1093/asj/sjag118",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42322187/",
+      "pdf_url": null,
+      "study_design": "Retrospective cohort n=129",
+      "summary_ar": "راجعت هذه الدراسة بأثر رجعي 129 مريضًا خضعوا لـrhytidectomy مخطط لها كإجراء outpatient بين يونيو 2022 ويوليو 2025. خرج 108 مرضى (83.7%) في اليوم نفسه، بينما احتاج 21 مريضًا (16.3%) إلى unplanned admission. ارتبطت الحاجة إلى admission بمدة anesthesia أطول، وعدد أكبر من concurrent procedures، ووجود obesity (BMI ≥30)، وارتفاع American Society of Anesthesiologists Physical Status Classification System، وhypertension. ارتبط استخدام dexmedetomidine وhydromorphone بـadmission، بينما ارتبط remifentanil بـsame-day discharge؛ ولا تثبت هذه الارتباطات أن الأدوية سببت هذه النتائج. الدراسة retrospective ومن مركز واحد، لذا يلزم الحذر عند تعميم النتائج أو تفسير العلاقات السببية. قد تساعد هذه العوامل في التخطيط للتعافي وتقدير الحاجة المحتملة إلى المراقبة أو admission، لكنها لا تمثل قاعدة تنبؤ مُثبتة.",
+      "summary_en": "This retrospective single-center cohort included 129 patients scheduled for outpatient rhytidectomy between June 2022 and July 2025.\nSame-day discharge occurred in 108 patients (83.7%), while 21 (16.3%) required unplanned admission.\nAdmission was associated with longer anesthesia duration, more concurrent procedures, obesity (BMI ≥30), higher ASA Physical Status, and hypertension.\nDexmedetomidine and hydromorphone use were associated with admission; remifentanil was associated with same-day discharge.\nThese associations do not establish that the anesthetic agents caused the outcomes.\nThe findings may inform perioperative planning, but the retrospective single-center design limits causal inference and generalizability.",
+      "practice_change_ar": "يمكن استخدام طول anesthesia المتوقع، وتعدد concurrent procedures، وcomorbidities لمناقشة احتمال عدم الخروج في اليوم نفسه والتخطيط للموارد، دون اعتبارها قاعدة قرار مُثبتة.",
+      "practice_change_en": "Use anticipated anesthesia duration, the number of concurrent procedures, and comorbidities to discuss possible failure of same-day discharge and plan resources, without treating them as a validated decision rule.",
+      "future_impact_ar": "دراسة مستقبلية متعددة المراكز مع نموذج تنبؤ مُتحقق منه قد تحدد بصورة أدق المرضى المناسبين لـoutpatient rhytidectomy.",
+      "future_impact_en": "A prospective multicenter study with a validated prediction model could better identify patients suited to outpatient rhytidectomy.",
+      "why_important_ar": "توضح الدراسة أن نحو واحد من كل ستة مرضى احتاج إلى unplanned admission، وتحدد عوامل مرتبطة بذلك قد تساعد في التخطيط قبل العملية.",
+      "why_important_en": "The study found that about one in six patients required unplanned admission and identifies associated factors that may help with preoperative planning.",
+      "vs_previous_ar": "تضيف الدراسة بيانات من مجموعة rhytidectomy حديثة حول عوامل مرتبطة بـunplanned admission، لكنها لا تقدم إرشادات جديدة أو تثبت علاقة سببية.",
+      "vs_previous_en": "The study adds contemporary rhytidectomy cohort data on factors associated with unplanned admission, but does not establish causality or provide new guidelines.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة retrospective cohort تضم 129 مريضًا، وتتناول نتيجة عملية مهمة للتخطيط، لكنها أحادية المركز وغير مضبوطة ولا تثبت السببية؛ لذا تقدم معرفة مفيدة دون تغيير الممارسة.",
+      "stars_reason_en": "This retrospective cohort of 129 patients addresses an operationally important outcome, but its single-center observational design cannot establish causality; it offers useful information without changing practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for discussion of patient selection for outpatient rhytidectomy, interpretation of anesthetic-agent associations, and the limitations of a small single-center retrospective study.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسة مستقبلية متعددة المراكز تستخدم تعريفًا موحدًا لـunplanned admission وتضبط شدة الحالة واختيار anesthetic agents، ثم تتحقق خارجيًا من نموذج التنبؤ.",
+      "research_gap_en": "A prospective multicenter study should use a standardized definition of unplanned admission, adjust for case complexity and anesthetic selection, and externally validate a prediction model.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نستعرض اليوم دراسة بعنوان «Predictors of Unplanned Admission After Outpatient Rhytidectomy»، نُشرت في Aesthetic Surgery Journal. تركز الدراسة على مشكلة عملية في جراحة تجميل الوجه: بعض المرضى المقرر لهم الخروج في اليوم نفسه بعد rhytidectomy يحتاجون إلى admission غير مخطط له.\n\nهذه دراسة retrospective cohort أُجريت في مركز واحد، وشملت 129 مريضًا خضعوا لـrhytidectomy بين يونيو 2022 ويوليو 2025. خرج 108 مرضى، أي 83.7%، في اليوم نفسه، بينما احتاج 21 مريضًا، أي 16.3%، إلى unplanned admission.\n\nارتبط admission بمدة anesthesia أطول؛ فقد بلغ متوسطها نحو 575 دقيقة لدى من احتاجوا إلى admission مقابل 486 دقيقة لدى من خرجوا في اليوم نفسه. كما ارتبطت النتيجة بعدد أكبر من concurrent procedures، ووجود obesity مع BMI لا يقل عن 30، وارتفاع American Society of Anesthesiologists Physical Status Classification System، وhypertension.\n\nفي ما يتعلق بالأدوية، ارتبط استخدام dexmedetomidine وhydromorphone بـunplanned admission، بينما ارتبط remifentanil بالخروج في اليوم نفسه. المهم هنا أن هذه ارتباطات رصدية؛ فلا يمكن الاستنتاج أن دواء بعينه تسبب في admission أو أن تغيير الدواء سيمنعها. قد يعكس اختيار anesthetic agents اختلافًا في تعقيد الحالة أو عوامل أخرى لم تُقَس.\n\nالخلاصة العملية أن مدة anesthesia المتوقعة، وتعدد الإجراءات، وcomorbidities قد تساعد على مناقشة احتمال عدم الخروج في اليوم نفسه، وعلى التخطيط للموارد والمراقبة. لكن الدراسة لا تقدم قاعدة تنبؤ مُثبتة، وهي محدودة بتصميمها retrospective ومصدرها من مركز واحد. لذلك لا تستدعي تغييرًا فوريًا في البروتوكولات، بل تدعم التخطيط الحذر وتحديد الحاجة إلى دراسات مستقبلية متعددة المراكز. ستكون الخطوة التالية المفيدة تطوير نموذج تنبؤ يأخذ تعقيد العملية، والحالة الصحية، والتخدير في الحسبان، ثم التحقق منه في مراكز مستقلة.",
+      "audio_script_en": "Today we are reviewing “Predictors of Unplanned Admission After Outpatient Rhytidectomy,” published in Aesthetic Surgery Journal. The article addresses a practical issue in facial plastic surgery: some patients scheduled for same-day discharge after rhytidectomy unexpectedly require admission.\n\nThis was a retrospective, single-center cohort of 129 patients who underwent rhytidectomy between June 2022 and July 2025. A total of 108 patients, or 83.7%, went home the same day. The remaining 21 patients, or 16.3%, required unplanned admission.\n\nAdmission was associated with longer anesthesia duration: an average of about 575 minutes among admitted patients compared with 486 minutes among those discharged the same day. A greater number of concurrent procedures was also associated with admission, as were obesity with BMI of at least 30, higher American Society of Anesthesiologists Physical Status Classification System, and hypertension.\n\nRegarding anesthetic agents, dexmedetomidine and hydromorphone were associated with unplanned admission, while remifentanil was associated with same-day discharge. These are observational associations. They do not show that a particular drug caused admission or that changing the anesthetic regimen would prevent it. Drug selection may reflect case complexity or other unmeasured factors.\n\nThe practical takeaway is that anticipated anesthesia duration, the number of procedures, and comorbidities may help clinicians discuss the possibility of an overnight stay and plan monitoring and resources. However, this study does not provide a validated prediction rule. Its retrospective design and single-center setting limit causal interpretation and generalizability. It does not justify an immediate change in protocols, but supports thoughtful perioperative planning and further research. A useful next step would be a multicenter prospective study that develops and validates a model incorporating patient health, procedure complexity, and anesthetic factors.",
+      "mcq": [
+        {
+          "q_ar": "كم كانت نسبة المرضى الذين احتاجوا إلى unplanned admission بعد outpatient rhytidectomy في هذه الدراسة؟",
+          "q_en": "What proportion of patients required unplanned admission after outpatient rhytidectomy in this study?",
+          "options_ar": [
+            "أ) 5.0%",
+            "ب) 16.3%",
+            "ج) 33.3%",
+            "د) 83.7%"
+          ],
+          "options_en": [
+            "A) 5.0%",
+            "B) 16.3%",
+            "C) 33.3%",
+            "D) 83.7%"
+          ],
+          "answer": 1,
+          "explanation_ar": "احتاج 21 من أصل 129 مريضًا إلى unplanned admission، أي 16.3%.",
+          "explanation_en": "Twenty-one of 129 patients required unplanned admission, corresponding to 16.3%."
+        },
+        {
+          "q_ar": "أي anesthetic agent ارتبط بـsame-day discharge في النتائج؟",
+          "q_en": "Which anesthetic agent was associated with same-day discharge?",
+          "options_ar": [
+            "أ) Dexmedetomidine",
+            "ب) Hydromorphone",
+            "ج) Remifentanil",
+            "د) لم يرتبط أي منها بالخروج في اليوم نفسه"
+          ],
+          "options_en": [
+            "A) Dexmedetomidine",
+            "B) Hydromorphone",
+            "C) Remifentanil",
+            "D) None was associated with same-day discharge"
+          ],
+          "answer": 2,
+          "explanation_ar": "ارتبط remifentanil بالخروج في اليوم نفسه، بينما ارتبط dexmedetomidine وhydromorphone بـunplanned admission.",
+          "explanation_en": "Remifentanil was associated with same-day discharge, whereas dexmedetomidine and hydromorphone were associated with unplanned admission."
+        },
+        {
+          "q_ar": "ما أهم قيد عند تفسير الارتباط بين anesthetic agents وadmission؟",
+          "q_en": "What is the main limitation when interpreting the association between anesthetic agents and admission?",
+          "options_ar": [
+            "أ) الدراسة لم تشمل أي مرضى",
+            "ب) التصميم retrospective لا يثبت السببية، وقد تؤثر عوامل مربكة في اختيار الأدوية",
+            "ج) جميع المرضى خضعوا لـrandomization",
+            "د) كانت الدراسة تجربة حيوانية"
+          ],
+          "options_en": [
+            "A) The study included no patients",
+            "B) The retrospective design cannot establish causality, and confounding may affect drug selection",
+            "C) All patients were randomized",
+            "D) The study was an animal experiment"
+          ],
+          "answer": 1,
+          "explanation_ar": "لأن الدراسة رصدية retrospective، لا يمكن اعتبار الارتباط دليلًا على أن الدواء سبب admission؛ وقد يرتبط اختيار الدواء بتعقيد الحالة أو عوامل أخرى.",
+          "explanation_en": "Because the study was retrospective and observational, the association does not show that the drug caused admission; drug selection may be related to case complexity or other factors."
+        }
+      ]
+    },
+    {
+      "pmid": "42635569",
+      "title_ar": "Auditory-Somatosensory Influences on Vocal Motor Control in Primary Muscle Tension Dysphonia.",
+      "title_en": "Auditory-Somatosensory Influences on Vocal Motor Control in Primary Muscle Tension Dysphonia.",
+      "journal": "Journal of speech, language, and hearing research : JSLHR",
+      "pub_date": "2026-Oct-13",
+      "doi": "10.1044/2026_JSLHR-25-00868",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42635569/",
+      "pdf_url": "https://www.medrxiv.org/content/medrxiv/early/2025/10/24/2025.10.23.25338678.full.pdf",
+      "study_design": "Controlled experimental study, 58 participants (pMTD n=17; controls n=41)",
+      "summary_ar": "بحثت الدراسة تأثير auditory وsomatosensory feedback في vocal motor control لدى أشخاص لديهم primary muscle tension dysphonia (pMTD) ومشاركين أصحاء. أكمل 58 مشاركًا مهمة من 200 محاولة لإنتاج vowel مستمر، مع إحداث تغييرات في fundamental frequency عبر altered auditory feedback. أُعيدت المهمة بعد nebulized lidocaine لتخفيف laryngeal somatosensory input مؤقتًا. أظهر المشاركون الأصحاء استجابة تكيفية واضحة خلال hold phase وadaptive aftereffect خلال washout، خصوصًا مع بقاء somatosensation سليمة. في المقابل، أظهر المشاركون المصابون بـpMTD استجابات أكبر بالاتجاه المعاكس، مع ضعف التكيف وزيادة التباين عندما كانت somatosensation سليمة. ارتبط تخفيف somatosensory input بـnebulized lidocaine باستقرار التكيف خلال hold phase لدى مجموعة pMTD. تشير النتائج إلى اختلاف في sensory weighting، لكنها لا تثبت فائدة علاجية سريرية لـlidocaine أو أي تدخل لإعادة معايرة feedback.",
+      "summary_en": "This controlled experimental study examined how auditory and somatosensory feedback affect vocal motor control in primary muscle tension dysphonia (pMTD). Fifty-eight participants completed a 200-trial sustained-vowel task with downward fundamental-frequency shifts in auditory feedback. The task was repeated after nebulized lidocaine temporarily attenuated laryngeal somatosensory input. Healthy controls showed robust adaptation during the hold phase and an adaptive aftereffect during washout, particularly with intact somatosensation. Participants with pMTD showed larger responses in the opposing direction, less adaptation, and greater variability when somatosensation was intact. Nebulized lidocaine was associated with more stable hold-phase adaptation in the pMTD group. The findings suggest altered sensory weighting, but do not establish a clinical treatment benefit.",
+      "practice_change_ar": "لا تغيّر هذه النتائج التدبير السريري الحالي؛ فهي لا تبرر استخدام nebulized lidocaine لعلاج pMTD.",
+      "practice_change_en": "These findings do not change current clinical management and do not justify using nebulized lidocaine to treat pMTD.",
+      "future_impact_ar": "قد تساعد دراسات لاحقة في تحديد ما إذا كان تعديل sensory feedback يمكن أن يصبح هدفًا علاجيًا لتحسين استقرار الصوت.",
+      "future_impact_en": "Future studies may determine whether modifying sensory feedback can become a therapeutic target for improving vocal stability.",
+      "why_important_ar": "تقدم الدراسة دليلًا تجريبيًا على أن معالجة somatosensory feedback قد تختلف لدى المصابين بـpMTD وترتبط باضطراب التكيف الصوتي.",
+      "why_important_en": "The study provides experimental evidence that somatosensory feedback processing may differ in pMTD and relate to disrupted vocal adaptation.",
+      "vs_previous_ar": "تضيف الدراسة اختبارًا تجريبيًا مباشرًا لتفاعل auditory وsomatosensory feedback في pMTD، بدل الاكتفاء بوصف اضطراب الصوت سريريًا.",
+      "vs_previous_en": "The study experimentally tests the interaction of auditory and somatosensory feedback in pMTD rather than relying only on clinical descriptions of voice disorder.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة تجريبية مضبوطة ذات عينة متوسطة، وتكشف آلية حسية حركية محتملة، لكن نتائجها لا تغيّر الممارسة ولا تثبت فعالية علاجية.",
+      "stars_reason_en": "A controlled experimental study with a moderate sample offers insight into a possible sensorimotor mechanism, but does not change practice or establish treatment efficacy.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it tests sensory-feedback interactions in pMTD and reports an unexpected effect of attenuating somatosensory input, while raising questions about sample size and clinical translation.",
+      "watch": true,
+      "watch_detail_ar": "يجدر متابعة nebulized lidocaine بوصفه وسيلة تجريبية لتخفيف laryngeal somatosensory input، لا كعلاج مثبت لـpMTD.",
+      "watch_detail_en": "Track nebulized lidocaine as an experimental means of attenuating laryngeal somatosensory input, not as an established pMTD treatment.",
+      "watch_type": "drug",
+      "research_gap_ar": "يلزم تكرار النتائج بعينات أكبر ودراسة ما إذا كان تعديل sensory feedback يحسن الصوت والأعراض والنتائج الوظيفية سريريًا.",
+      "research_gap_en": "Larger studies should replicate the findings and test whether modifying sensory feedback improves voice, symptoms, and functional clinical outcomes.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة عن تأثير التغذية الراجعة السمعية والحسية الجسدية في التحكم الحركي بالصوت لدى المصابين بـprimary muscle tension dysphonia، أو pMTD. ضمت الدراسة 58 مشاركًا: 17 لديهم pMTD و41 من الأصحاء. أكمل المشاركون مهمة من 200 محاولة لإنتاج vowel مستمر، مع تغيير fundamental frequency في الإشارة السمعية. ثم أعيدت المهمة بعد nebulized lidocaine لتخفيف الإحساس القادم من الحنجرة بصورة مؤقتة.\n\nأظهر المشاركون الأصحاء تكيفًا صوتيًا واضحًا خلال hold phase، تلاه adaptive aftereffect خلال washout، وكان ذلك أوضح عندما بقيت somatosensation سليمة. أما مجموعة pMTD، فعندما كانت الإشارات الحسية الجسدية سليمة، أظهرت استجابات أكبر بالاتجاه المعاكس، ولم يظهر لديها التكيف خلال hold phase، كما كان التباين في الأداء أكبر. ومن النتائج اللافتة أن تخفيف somatosensory input باستخدام nebulized lidocaine ارتبط باستقرار التكيف خلال hold phase لدى مجموعة pMTD.\n\nتدعم هذه النتائج احتمال وجود اختلاف في sensory weighting لدى المصابين بـpMTD، وتطرح خلل معالجة الإحساس الجسدي كآلية محتملة لعدم استقرار الصوت. لكن الدراسة تجربة مختبرية وليست تجربة علاجية؛ لذلك لا تثبت أن lidocaine يعالج pMTD، ولا تغيّر التدبير السريري اليوم. كما أن عدد المشاركين المصابين محدود، وتحتاج النتائج إلى التكرار والتحقق من صلتها بالأعراض والوظيفة الصوتية اليومية.\n\nتستحق الدراسة نقاشًا في journal club لأنها تقدم اختبارًا مباشرًا للتفاعل بين auditory وsomatosensory feedback، وتفتح سؤالًا بحثيًا مهمًا: هل يمكن إعادة معايرة هذه الإشارات لتحسين استقرار الصوت؟ الخلاصة: قيمة الدراسة حاليًا تفسيرية وآلية، أما الاستخدام العلاجي فيحتاج إلى دراسات سريرية أكبر.",
+      "audio_script_en": "Today we review a study of auditory and somatosensory contributions to vocal motor control in primary muscle tension dysphonia, or pMTD. The study included 58 participants: 17 with pMTD and 41 healthy controls. Participants completed a 200-trial sustained-vowel task while auditory feedback was altered to shift fundamental frequency. They then repeated the task after nebulized lidocaine was used to temporarily attenuate laryngeal somatosensory input.\n\nHealthy controls showed robust vocal adaptation during the hold phase, followed by an adaptive aftereffect during washout. This pattern was particularly evident when somatosensation remained intact. In contrast, participants with pMTD showed larger responses in the opposing direction, failed to adapt during the hold phase, and had greater variability when somatosensation was intact. Notably, attenuating somatosensory input with nebulized lidocaine was associated with more stable hold-phase adaptation in the pMTD group.\n\nThe findings suggest altered sensory weighting in pMTD and raise aberrant somatosensory processing as a possible contributor to vocal instability. However, this was a laboratory experiment, not a treatment trial. It does not establish that lidocaine treats pMTD or change clinical management today. The pMTD group was also relatively small, and the findings need replication and testing against everyday voice symptoms and functional outcomes.\n\nThis is a useful journal-club paper because it directly tests the interaction between auditory and somatosensory feedback and generates a clinically relevant research question: could recalibrating sensory feedback improve vocal stability? For now, the study offers mechanistic insight rather than a new treatment recommendation.",
+      "mcq": [
+        {
+          "q_ar": "ما التغيير الذي أُدخل على التغذية الراجعة السمعية في المهمة؟",
+          "q_en": "What alteration was made to auditory feedback during the task?",
+          "options_ar": [
+            "أ) رفع fundamental frequency بمقدار 100 cents",
+            "ب) خفض fundamental frequency بمقدار 100 cents",
+            "ج) تغيير شدة الصوت بمقدار 10 dB",
+            "د) تأخير auditory feedback ثانية واحدة"
+          ],
+          "options_en": [
+            "A) Fundamental frequency was raised by 100 cents",
+            "B) Fundamental frequency was lowered by 100 cents",
+            "C) Sound intensity was changed by 10 dB",
+            "D) Auditory feedback was delayed by one second"
+          ],
+          "answer": 1,
+          "explanation_ar": "استخدم الباحثون altered auditory feedback يتضمن خفض fundamental frequency بمقدار 100 cents.",
+          "explanation_en": "The altered auditory feedback paradigm used a 100-cent downward shift in fundamental frequency."
+        },
+        {
+          "q_ar": "ما النتيجة التي ظهرت لدى مجموعة pMTD عندما كانت somatosensation سليمة؟",
+          "q_en": "What was observed in the pMTD group when somatosensation was intact?",
+          "options_ar": [
+            "أ) تكيف أقوى من controls مع aftereffect أكبر",
+            "ب) استجابات أكبر بالاتجاه المعاكس، مع ضعف التكيف وتباين أعلى",
+            "ج) عدم وجود أي استجابة للتغيير السمعي",
+            "د) تحسن ثابت في كل مراحل المهمة"
+          ],
+          "options_en": [
+            "A) Stronger adaptation than controls with a larger aftereffect",
+            "B) Larger responses in the opposing direction, less adaptation, and greater variability",
+            "C) No response to the auditory alteration",
+            "D) Consistent improvement across every task phase"
+          ],
+          "answer": 1,
+          "explanation_ar": "عند سلامة somatosensation، أظهرت مجموعة pMTD استجابات أكبر بالاتجاه المعاكس ولم تتكيف خلال hold phase، مع تباين أعلى.",
+          "explanation_en": "With intact somatosensation, the pMTD group showed larger opposing responses, no hold-phase adaptation, and greater variability."
+        },
+        {
+          "q_ar": "ما الاستنتاج السريري الأنسب من هذه الدراسة؟",
+          "q_en": "What is the most appropriate clinical conclusion from this study?",
+          "options_ar": [
+            "أ) أصبح nebulized lidocaine علاجًا مثبتًا لـpMTD",
+            "ب) ينبغي إيقاف العلاجات الصوتية المعتادة",
+            "ج) النتائج آلية وتجريبية، ولا تثبت فائدة علاجية أو تغيّر الممارسة الحالية",
+            "د) لا يوجد اختلاف في sensory feedback بين المجموعتين"
+          ],
+          "options_en": [
+            "A) Nebulized lidocaine is now an established treatment for pMTD",
+            "B) Usual voice therapies should be discontinued",
+            "C) The findings are experimental and do not establish treatment benefit or change current practice",
+            "D) There is no sensory-feedback difference between the groups"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة تختبر استجابات حسية حركية في المختبر، ولا تقيس فعالية lidocaine كعلاج سريري؛ لذلك لا تدعم تغيير الممارسة.",
+          "explanation_en": "The study examines laboratory sensorimotor responses and does not test lidocaine as a clinical treatment, so it does not support a practice change."
+        }
+      ]
+    },
+    {
+      "pmid": "42411294",
+      "title_ar": "Subdomal Graft Control of Nasal Tip Aesthetics: A Long-term Digital Photographic Evaluation.",
+      "title_en": "Subdomal Graft Control of Nasal Tip Aesthetics: A Long-term Digital Photographic Evaluation.",
+      "journal": "Aesthetic surgery journal",
+      "pub_date": "2026-Oct-15",
+      "doi": "10.1093/asj/sjag143",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42411294/",
+      "pdf_url": null,
+      "study_design": "Retrospective comparative study n=379",
+      "summary_ar": "قارنت هذه الدراسة الاستعادية 379 امرأة خضعن لـprimary closed preservation rhinoplasty، بين standard tip suturing وحده وsubdomal grafting. جرى قياس تغير interdomal angle من الصور intraoperative إلى صور 12 شهرًا باستخدام ImageJ/Fiji، كما قيّم ثلاثة جراحين تجميل معمى domal symmetry. كان متوسط تغير interdomal angle أقل مع subdomal grafting من standard tip suturing (6.3° مقابل 12.5°؛ P < .05). كذلك كانت درجات domal symmetry أعلى في مجموعة graft (2.7 مقابل 2.3؛ P < .05). حدثت revision surgery لدى 0.6% من مجموعة graft و0.9% من مجموعة suturing. تشير النتائج إلى تحسن استقرار tip symmetry وinterdomal angle، لكن التصميم الاستعادي والاقتصار على صور المتابعة عند 12 شهرًا يحدان من قوة الاستنتاجات.",
+      "summary_en": "This retrospective comparative study included 379 women undergoing primary closed preservation rhinoplasty. It compared standard tip suturing alone with subdomal grafting. Interdomal angle change was measured digitally from intraoperative photographs to 12-month postoperative photographs, while three blinded plastic surgeons rated domal symmetry. Mean angle change was lower with grafting than with suturing alone (6.3° vs 12.5°; P < .05). Domal symmetry scores were also higher in the graft group (2.7 vs 2.3; P < .05). Revision surgery was uncommon in both groups (0.6% vs 0.9%). The findings suggest improved tip stability with grafting, but the retrospective design and 12-month follow-up limit certainty.",
+      "practice_change_ar": "لا تكفي هذه الدراسة وحدها لتغيير الممارسة، لكنها تدعم التفكير في subdomal grafting عند الرغبة بتحسين استقرار nasal tip في حالات مختارة.",
+      "practice_change_en": "This study alone is insufficient to change practice, but it supports considering subdomal grafting in selected cases when improved nasal tip stability is desired.",
+      "future_impact_ar": "قد تؤدي دراسات prospective متعددة المراكز مع متابعة أطول إلى تحديد المرضى الأكثر استفادة من subdomal grafting.",
+      "future_impact_en": "Prospective multicenter studies with longer follow-up may identify which patients benefit most from subdomal grafting.",
+      "why_important_ar": "تقدم الدراسة مقارنة رقمية وصورًا مقيمة بصورة معماة حول تقنية تهدف إلى تقليل تغير شكل nasal tip بعد rhinoplasty.",
+      "why_important_en": "The study provides a quantified, blinded photographic comparison of a technique intended to reduce postoperative nasal tip shape changes.",
+      "vs_previous_ar": "بدل الاكتفاء بوصف subdomal graft كوسيلة دعم، تقارنه الدراسة مباشرةً بـstandard tip suturing باستخدام قياسات رقمية وتقييم symmetry.",
+      "vs_previous_en": "Rather than simply describing subdomal grafting as a support technique, this study directly compares it with standard tip suturing using digital measurements and symmetry ratings.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة مقارنة استعادية كبيرة نسبيًا (n=379) تُظهر نتائج أفضل لمجموعة graft، لكن غياب التوزيع العشوائي ومحدودية المتابعة إلى 12 شهرًا يجعلانها دليلًا مفيدًا لا حاسمًا.",
+      "stars_reason_en": "This relatively large retrospective comparative study (n=379) favors grafting, but the lack of randomization and follow-up limited to 12 months make the evidence useful rather than definitive.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion for its direct comparison of two surgical approaches, photographic measurements and blinded assessment, as well as methodological limitations that affect interpretation.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسة prospective مضبوطة مع توثيق خصائص المرضى والتقنيات المستخدمة ومتابعة تتجاوز 12 شهرًا لتأكيد الأثر طويل الأمد.",
+      "research_gap_en": "A controlled prospective study documenting patient characteristics and surgical techniques, with follow-up beyond 12 months, is needed to confirm long-term effects.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نراجع اليوم دراسة بعنوان Subdomal Graft Control of Nasal Tip Aesthetics: A Long-term Digital Photographic Evaluation، وهي دراسة تهم جراحي facial plastics وrhinoplasty. السؤال السريري هو: هل يساهم subdomal graft في تثبيت شكل nasal tip بصورة أفضل من standard tip suturing وحده؟\n\nشملت الدراسة الاستعادية 379 امرأة خضعن لـprimary closed preservation rhinoplasty بين عامي 2022 و2023. تلقت 223 مريضة standard tip suturing، بينما تلقت 156 مريضة subdomal grafting. قاس الباحثون interdomal angle رقميًا باستخدام ImageJ/Fiji، وقارنوا الصور intraoperative بصور ما بعد العملية عند 12 شهرًا. كما قيّم ثلاثة جراحين تجميل معمى domal symmetry باستخدام مقياس من ثلاث درجات.\n\nكان متوسط تغير interdomal angle أقل بوضوح في مجموعة graft: 6.3 درجات مقابل 12.5 درجة في مجموعة suturing، مع P أقل من .05. وكانت درجات domal symmetry أفضل أيضًا مع graft، بمتوسط 2.7 مقابل 2.3، وكان الفرق ذا دلالة إحصائية. أما revision surgery فكانت نادرة في المجموعتين: 0.6% مع graft و0.9% مع suturing.\n\nما أهمية ذلك؟ تقدم النتائج دليلًا مقارنًا على أن subdomal grafting قد يحسن ثبات tip symmetry ويحد من تغير interdomal angle خلال السنة الأولى. لكنها لا تثبت أن التقنية يجب أن تُستخدم روتينيًا لكل مريضة. فالدراسة استعادية، ولم يُذكر توزيع عشوائي، واقتصرت على النساء اللواتي خضعن لهذا النوع المحدد من rhinoplasty، مع متابعة مدتها 12 شهرًا. لذلك قد تتأثر النتائج باختيار المرضى والتقنية الجراحية، كما لا نعرف مدى استمرار الفروق على المدى الأطول.\n\nالخلاصة العملية: هذه دراسة مفيدة، لكنها لا تغير الممارسة وحدها. يمكن أخذ subdomal grafting في الاعتبار لدى حالات مختارة عندما يكون التحكم باستقرار nasal tip هدفًا مهمًا، مع شرح أن الدليل الحالي محدود. الخطوة التالية هي دراسة prospective مضبوطة، متعددة المراكز إن أمكن، تقيس النتائج الجمالية والوظيفية وتتابع المرضى لأكثر من 12 شهرًا.",
+      "audio_script_en": "Today we review “Subdomal Graft Control of Nasal Tip Aesthetics: A Long-term Digital Photographic Evaluation,” a study relevant to facial plastic surgeons and rhinoplasty practice. The clinical question is whether a subdomal graft improves nasal tip stability compared with standard tip suturing alone.\n\nThis retrospective comparative study included 379 women who underwent primary closed preservation rhinoplasty between 2022 and 2023. A total of 223 patients received standard tip suturing, while 156 received subdomal grafting. Investigators used ImageJ/Fiji to measure the interdomal angle on intraoperative and 12-month postoperative photographs. Three blinded plastic surgeons also rated domal symmetry on a three-point scale.\n\nThe mean interdomal angle change was smaller in the graft group: 6.3 degrees compared with 12.5 degrees in the suturing group, with a p-value below .05. Domal symmetry ratings also favored grafting, averaging 2.7 compared with 2.3, again with a statistically significant difference. Revision surgery was uncommon in both groups: 0.6 percent with grafting and 0.9 percent with suturing.\n\nWhy does this matter? The findings suggest that subdomal grafting may help maintain tip symmetry and limit interdomal angle changes during the first postoperative year. However, they do not establish that grafting should be routine for every patient. This was a retrospective study, random allocation was not reported, and the population was limited to women undergoing a specific form of rhinoplasty. Follow-up was also limited to 12 months. Patient selection and surgical technique may have influenced the results, and longer-term durability remains uncertain.\n\nThe practical takeaway is that this is useful evidence, but not sufficient by itself to change practice. Surgeons may consider subdomal grafting in selected cases where nasal tip stability is a priority, while recognizing the limitations of the evidence. A controlled prospective study with longer follow-up should assess both aesthetic and functional outcomes and clarify which patients are most likely to benefit.",
+      "mcq": [
+        {
+          "q_ar": "ما التصميم الذي استخدمته الدراسة؟",
+          "q_en": "What was the study design?",
+          "options_ar": [
+            "أ) دراسة مقارنة استعادية",
+            "ب) تجربة عشوائية مضبوطة",
+            "ج) مراجعة منهجية",
+            "د) سلسلة حالات مستقبلية"
+          ],
+          "options_en": [
+            "A) Retrospective comparative study",
+            "B) Randomized controlled trial",
+            "C) Systematic review",
+            "D) Prospective case series"
+          ],
+          "answer": 0,
+          "explanation_ar": "قارنت الدراسة استعاديًا نتائج 379 مريضة في مجموعتين جراحيتين.",
+          "explanation_en": "The study retrospectively compared outcomes in 379 patients across two surgical groups."
+        },
+        {
+          "q_ar": "أي نتيجة ارتبطت بـsubdomal grafting مقارنةً بـstandard tip suturing؟",
+          "q_en": "Which outcome favored subdomal grafting over standard tip suturing?",
+          "options_ar": [
+            "أ) زيادة تغير interdomal angle",
+            "ب) انخفاض تغير interdomal angle وتحسن domal symmetry",
+            "ج) ارتفاع معدل revision surgery",
+            "د) عدم وجود فرق في domal symmetry"
+          ],
+          "options_en": [
+            "A) Greater interdomal angle change",
+            "B) Less interdomal angle change and improved domal symmetry",
+            "C) Higher revision surgery rate",
+            "D) No difference in domal symmetry"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان تغير interdomal angle أقل ودرجات domal symmetry أعلى في مجموعة graft.",
+          "explanation_en": "The graft group had less interdomal angle change and higher domal symmetry scores."
+        },
+        {
+          "q_ar": "ما أحد القيود الرئيسية لهذه الدراسة؟",
+          "q_en": "What is a major limitation of this study?",
+          "options_ar": [
+            "أ) شملت أقل من 10 مرضى",
+            "ب) كانت دراسة حيوانية",
+            "ج) تصميمها استعادي والمتابعة اقتصرت على 12 شهرًا",
+            "د) لم تتضمن أي نتائج"
+          ],
+          "options_en": [
+            "A) It included fewer than 10 patients",
+            "B) It was an animal study",
+            "C) It was retrospective with follow-up limited to 12 months",
+            "D) It reported no outcomes"
+          ],
+          "answer": 2,
+          "explanation_ar": "التصميم الاستعادي وعدم وجود متابعة تتجاوز 12 شهرًا يحدان من اليقين بشأن السببية والاستدامة.",
+          "explanation_en": "The retrospective design and lack of follow-up beyond 12 months limit certainty about causality and durability."
+        }
+      ]
+    },
+    {
+      "pmid": "42869429",
+      "title_ar": "Evaluation of Costal Cartilage Calcification Using Plain Radiographic Images.",
+      "title_en": "Evaluation of Costal Cartilage Calcification Using Plain Radiographic Images.",
+      "journal": "Aesthetic surgery journal",
+      "pub_date": "2026-Oct-14",
+      "doi": "10.1093/asj/sjag222",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42869429/",
+      "pdf_url": null,
+      "study_design": "Retrospective radiographic study, 183 rhinoplasty patients",
+      "summary_ar": "قيّم الباحثون صور plain chest radiographs لدى 183 مريضًا خضعوا لـ rhinoplasty، وفحصوا 1,098 مقطعًا من غضاريف الأضلاع السادسة إلى الثامنة. وُجد costal cartilage calcification بدرجة ≥1 في 54.1% من المقاطع، وكان أكثر انتشارًا وأشد لدى الإناث مقارنة بالذكور. كان النمط marginal هو الغالب لدى الذكور، بينما ظهرت أنماط granular وcentral لدى نسبة من الإناث. بلغت نسبة severe calcification ذروتها غير المتوقعة في الفئة العمرية 40–49 سنة، بدلًا من التزايد المستمر مع العمر. في multivariable logistic regression، ارتبطت الإناث بزيادة odds of severe calcification (OR 3.01)، كما ارتبطت الفئة 40–49 سنة بزيادة أكبر (OR 6.28). تقترح النتائج أن rib series radiography قد تساعد في اختيار donor cartilage وتجنب المفاجآت أثناء الجراحة، لكن الدراسة لا تثبت أن التصوير الروتيني يحسن النتائج السريرية.",
+      "summary_en": [
+        "This retrospective radiographic study evaluated 183 rhinoplasty patients and 1,098 segments of the sixth through eighth costal cartilages.",
+        "Calcification of grade 1 or higher was present in 54.1% of segments and was more prevalent and severe in females.",
+        "Marginal calcification predominated in males, while granular and central patterns were also seen in a subset of females.",
+        "Severe calcification peaked at ages 40–49 rather than increasing steadily in older age groups.",
+        "Female sex and age 40–49 were independent predictors of severe calcification, with ORs of 3.01 and 6.28, respectively.",
+        "The authors suggest rib series radiography may aid donor cartilage selection, although improved clinical outcomes from routine imaging were not demonstrated."
+      ],
+      "practice_change_ar": "يمكن التفكير في rib series radiography قبل استخدام costal cartilage في rhinoplasty لتقييم التكلس، لكن هذه النتائج وحدها لا تبرر اعتماد التصوير الروتيني لكل المرضى.",
+      "practice_change_en": "Consider rib series radiography before using costal cartilage in rhinoplasty to assess calcification, but these findings alone do not justify routine imaging in every patient.",
+      "future_impact_ar": "ينبغي أن تختبر دراسات مستقبلية ما إذا كان استخدام rib series radiography يغير اختيار الطعم أو يقلل صعوبات الجراحة ويحسن النتائج.",
+      "future_impact_en": "Future studies should test whether rib series radiography changes graft selection, reduces operative difficulty, and improves outcomes.",
+      "why_important_ar": "قد يكشف التصوير البسيط costal cartilage calcification قبل الجراحة، وهي معلومة يمكن أن تساعد على التخطيط لاختيار الطعم والتعامل معه.",
+      "why_important_en": "Plain radiography may identify costal cartilage calcification before surgery, informing graft selection and operative planning.",
+      "vs_previous_ar": "بخلاف الاعتماد التقليدي على chest CT، تبحث الدراسة استخدام plain radiographs لتقييم costal cartilage calcification، لكنها لا تقارن دقة الطريقتين مباشرة.",
+      "vs_previous_en": "Rather than relying on conventional chest CT, this study examines plain radiographs for assessing costal cartilage calcification, but it does not directly compare diagnostic accuracy.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة رصدية بأثر رجعي شملت 183 مريضًا وتقدم معلومات مفيدة عن أنماط التكلس وعوامل التنبؤ به، لكن المجلة ليست ضمن قائمة المجلات الأعلى تصنيفًا، ولم تُثبت الدراسة أن التصوير الروتيني يغير النتائج أو الممارسة.",
+      "stars_reason_en": "This retrospective study of 183 patients provides useful information on calcification patterns and predictors, but the journal is not among the listed top-tier journals and the study does not show that routine imaging improves outcomes or changes practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study merits discussion because it proposes a simpler alternative to chest CT and reports an unexpected peak in severe calcification at ages 40–49, while leaving diagnostic accuracy and clinical benefit unresolved.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا تقييم rib series radiography كوسيلة تصوير منخفضة العبء لتحديد costal cartilage calcification قبل استخدامه طعمًا في rhinoplasty.",
+      "watch_detail_en": "Track evaluation of rib series radiography as a lower-burden imaging approach for detecting costal cartilage calcification before its use as a rhinoplasty graft.",
+      "watch_type": "technology",
+      "research_gap_ar": "يلزم إجراء دراسة مقارنة مستقبلية بين rib series radiography وchest CT مع قياس أثر النتائج على اختيار الطعم وصعوبات العملية والنتائج السريرية.",
+      "research_gap_en": "A prospective comparative study of rib series radiography and chest CT is needed, measuring effects on graft selection, operative difficulty, and clinical outcomes.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نستعرض اليوم دراسة بعنوان Evaluation of Costal Cartilage Calcification Using Plain Radiographic Images، وهي دراسة رصدية بأثر رجعي شملت 183 مريضًا خضعوا لـ rhinoplasty. فحص مراجعان بالاشتراك صور الصدر لتقييم غضاريف الأضلاع من السادس إلى الثامن، أي 1,098 مقطعًا غضروفيًا. استخدم الباحثون درجة من صفر إلى أربعة، وصنفوا أنماط التكلس إلى marginal وgranular وcentral.\n\nكانت أبرز النتائج أن calcification بدرجة واحدة أو أكثر ظهر في 54.1% من المقاطع. وكان أكثر شيوعًا وأشد لدى الإناث؛ إذ بلغ الانتشار 62.9% لديهن مقابل 46.6% لدى الذكور. اختلف النمط أيضًا بين الجنسين: كان التكلس marginal هو الغالب لدى الذكور، بينما ظهرت أنماط granular وcentral لدى بعض الإناث. ومن النتائج اللافتة أن severe calcification بلغ ذروته في الفئة العمرية 40–49 سنة، بدلًا من أن يزداد ببساطة مع تقدم العمر. وفي multivariable analysis، كان الجنس الأنثوي والفئة العمرية 40–49 سنة عاملين مستقلين مرتبطين بالتكلس الشديد.\n\nالأهمية العملية المحتملة هي أن rib series radiography قد توفر معلومات قبل الجراحة عن صلاحية costal cartilage بوصفه طعمًا بنيويًا، وتساعد في التخطيط أو في تجنب اكتشاف التكلس بصورة غير متوقعة أثناء العملية. كما تثير الدراسة احتمال استخدام تصوير أبسط من chest CT، الذي لا يُطلب عادةً لهذا الغرض بسبب التعرض للإشعاع والتكلفة.\n\nلكن يجب تفسير النتائج بحذر. لم تقارن الدراسة دقة plain radiographs مباشرةً مع chest CT، ولم تختبر ما إذا كان التصوير الروتيني يغير اختيار الطعم أو يقلل المضاعفات أو يحسن النتائج. كذلك، فإن التوصية بالنظر في التصوير الروتيني أوسع مما تثبته دراسة رصدية واحدة. لذلك لا تدعم النتائج تغييرًا إلزاميًا في الممارسة اليوم، لكنها تقدم معلومة جديرة بالمعرفة وتبرر دراسات مستقبلية مقارنة تقيس الدقة والأثر السريري. الخلاصة: قد يكون rib series imaging أداة مساعدة في التخطيط لـ rhinoplasty عند التفكير في استخدام costal cartilage، لكن فائدته السريرية تحتاج إلى تأكيد.",
+      "audio_script_en": "Today we are reviewing “Evaluation of Costal Cartilage Calcification Using Plain Radiographic Images,” a retrospective radiographic study of 183 patients undergoing rhinoplasty. Two reviewers assessed the sixth through eighth costal cartilages on chest radiographs, examining 1,098 cartilage segments. Calcification was graded from zero to four and classified as marginal, granular, or central.\n\nThe main finding was that calcification of grade one or higher was present in 54.1% of segments. It was more prevalent and more severe in females than males: prevalence was 62.9% in females and 46.6% in males. The morphology also differed. Marginal calcification predominated in males, while granular and central patterns occurred in a subset of females. Notably, severe calcification peaked in the 40-to-49-year age group rather than rising steadily with age. In multivariable analysis, female sex and age 40 to 49 were independent predictors of severe calcification.\n\nThe potential clinical value is preoperative information about whether costal cartilage is suitable as a structural graft, which could support donor-site planning and reduce unexpected findings during surgery. The study also raises the possibility of using rib series radiography instead of chest CT, which is not routinely obtained for this purpose because of radiation exposure and cost.\n\nHowever, the findings should be interpreted cautiously. The study did not directly compare the diagnostic accuracy of plain radiographs with chest CT, nor did it establish that routine imaging changes graft selection, reduces operative difficulties, or improves patient outcomes. Its suggestion to consider routine imaging therefore goes beyond what a single retrospective study can establish. This is useful knowledge, but it does not mandate a change in practice today. Further prospective comparative research should assess both imaging accuracy and whether imaging-guided planning has clinical benefit. The takeaway is that rib series imaging may be a useful planning aid when costal cartilage is being considered for rhinoplasty, but its practical value still needs confirmation.",
+      "mcq": [
+        {
+          "q_ar": "ما نسبة مقاطع costal cartilage التي أظهرت calcification بدرجة ≥1؟",
+          "q_en": "What proportion of costal cartilage segments showed calcification of grade 1 or higher?",
+          "options_ar": [
+            "أ) 25.8%",
+            "ب) 46.6%",
+            "ج) 54.1%",
+            "د) 62.9%"
+          ],
+          "options_en": [
+            "A) 25.8%",
+            "B) 46.6%",
+            "C) 54.1%",
+            "D) 62.9%"
+          ],
+          "answer": 2,
+          "explanation_ar": "ظهر calcification بدرجة ≥1 في 54.1% من إجمالي 1,098 مقطعًا غضروفيًا.",
+          "explanation_en": "Calcification of grade 1 or higher was identified in 54.1% of the 1,098 cartilage segments."
+        },
+        {
+          "q_ar": "أي فئة عمرية سجلت أعلى نسبة من severe calcification؟",
+          "q_en": "Which age group had the highest prevalence of severe calcification?",
+          "options_ar": [
+            "أ) أقل من 30 سنة",
+            "ب) 30–39 سنة",
+            "ج) 40–49 سنة",
+            "د) 60 سنة فأكثر"
+          ],
+          "options_en": [
+            "A) Under 30 years",
+            "B) 30–39 years",
+            "C) 40–49 years",
+            "D) 60 years or older"
+          ],
+          "answer": 2,
+          "explanation_ar": "بلغت نسبة severe calcification ذروتها في الفئة العمرية 40–49 سنة، وكانت 25.8%.",
+          "explanation_en": "Severe calcification peaked at 25.8% in the 40–49-year age group."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن استخدام rib series radiography في الممارسة؟",
+          "q_en": "What is the most appropriate conclusion about using rib series radiography in practice?",
+          "options_ar": [
+            "أ) ثبت أنها تحسن نتائج rhinoplasty مقارنةً بـ chest CT.",
+            "ب) قد تساعد في التخطيط، لكن فائدتها السريرية ودقتها المقارنة تحتاجان إلى مزيد من الدراسة.",
+            "ج) تستبعد الحاجة إلى تقييم donor cartilage أثناء الجراحة.",
+            "د) ينبغي استخدامها إلزاميًا لدى جميع مرضى rhinoplasty."
+          ],
+          "options_en": [
+            "A) It has been proven to improve rhinoplasty outcomes compared with chest CT.",
+            "B) It may aid planning, but its clinical benefit and comparative accuracy require further study.",
+            "C) It eliminates the need to assess donor cartilage during surgery.",
+            "D) It should be mandatory for every rhinoplasty patient."
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسة تقترح فائدة محتملة للتخطيط، لكنها لم تقارن الدقة مباشرةً مع chest CT ولم تثبت تحسن النتائج السريرية.",
+          "explanation_en": "The study suggests potential planning value but did not directly compare accuracy with chest CT or demonstrate improved clinical outcomes."
+        }
+      ]
+    },
+    {
+      "pmid": "42600146",
+      "title_ar": "Pediatric Auditory-Perceptual Evaluation of Voice Part I: Voice Stimuli for Children",
+      "title_en": "Pediatric Auditory-Perceptual Evaluation of Voice Part I: Voice Stimuli for Children",
+      "journal": "Journal of speech, language, and hearing research : JSLHR",
+      "pub_date": "2026-Oct-13",
+      "doi": "10.1044/2026_JSLHR-25-00923",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42600146/",
+      "pdf_url": "https://pubs.asha.org/doi/pdf/10.1044/2026_JSLHR-25-00923?download=true",
+      "study_design": "Prospective controlled observational study, n=140",
+      "summary_ar": "طوّرت الدراسة واختبرت stimuli موحدة لتقييم voice لدى الأطفال، بمشاركة 140 طفلًا منهم 50 لديهم benign vocal fold lesions و90 لديهم أصوات نموذجية. أُنتجت الجمل المصممة للأطفال بدقة أعلى بشكل ملحوظ من الجمل المستخدمة في adult Consensus Auditory-Perceptual Evaluation of Voice، وحققت أفضل مجموعة دقة تجاوزت 80% لدى الأطفال من عمر 3 إلى 17 سنة. كان cepstral peak prominence أقل بشكل ملحوظ لدى الأطفال المصابين باضطرابات voice مقارنةً بالأطفال ذوي الأصوات النموذجية. استدرجت prompts للكلام التلقائي نحو 40 syllables من phonation خلال 25–30 ثانية لدى الأطفال بعمر 6 سنوات أو أقل، مع زيادة مدة العينات لدى الأكبر سنًا. فرّقت auditory-perceptual ratings بين الأطفال المصابين وغير المصابين باضطرابات voice، وأظهرت reliability مماثلة لما سبق الإبلاغ عنه لدى البالغين. تشير النتائج إلى أن stimuli المطوّرة مناسبة للتقييم عبر مراحل الطفولة، لكنها لا تثبت وحدها تحسن النتائج العلاجية.",
+      "summary_en": "This prospective controlled study developed and tested standardized voice stimuli for children, including 140 participants: 50 with benign vocal fold lesions and 90 with typical voices.\nChildren produced the pediatric sentences more accurately than adult Consensus Auditory-Perceptual Evaluation of Voice sentences; the best set exceeded 80% accuracy from ages 3 to 17.\nCepstral peak prominence was significantly lower in children with voice disorders than in children with typical voices.\nSpontaneous speech prompts elicited about 40 syllables of phonation over 25–30 seconds in children aged 6 or younger, with longer samples from older children.\nAuditory-perceptual ratings distinguished the two voice groups and showed reliability comparable to previously reported adult ratings.\nThe findings support these pediatric stimuli as useful assessment materials, but do not establish an effect on treatment outcomes.",
+      "practice_change_ar": "يمكن للأخصائيين استخدام الجمل وprompts المطوّرة للأطفال بدلًا من جمل البالغين عند جمع عينات voice للتقييم، مع مراعاة أن الدراسة لم تختبر أثرها على قرارات العلاج.",
+      "practice_change_en": "Clinicians can use the developed pediatric sentences and prompts rather than adult sentences when collecting voice assessment samples, while recognizing that effects on treatment decisions were not tested.",
+      "future_impact_ar": "قد تتيح هذه stimuli توحيد تقييم voice لدى الأطفال، وينبغي أن تختبر دراسات لاحقة فائدتها في التشخيص ومتابعة الاستجابة للعلاج.",
+      "future_impact_en": "These stimuli may help standardize pediatric voice assessment; future studies should test their value for diagnosis and monitoring treatment response.",
+      "why_important_ar": "تقدم الدراسة مواد تقييم ملائمة لعمر الطفل وتقلل احتمال أن تعكس أخطاء إنتاج الجمل قدرات الطفل اللغوية بدلًا من جودة voice.",
+      "why_important_en": "The study provides age-appropriate assessment materials and reduces the risk that sentence-production errors, rather than voice quality, affect evaluation.",
+      "vs_previous_ar": "على خلاف استخدام جمل التقييم المصممة للبالغين، تختبر هذه الدراسة stimuli مخصصة للأطفال وتظهر دقة إنتاج أفضل مع قدرة على التمييز بين مجموعتي الصوت.",
+      "vs_previous_en": "Unlike adult-designed assessment sentences, this study evaluates pediatric-specific stimuli and finds better production accuracy while distinguishing the two voice groups.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة مستقبلية مضبوطة على 140 طفلًا تقدم أداة مفيدة ومدعومة بنتائج قياس موثوقية وتمييز بين المجموعات، لكنها لا تغيّر التدبير العلاجي مباشرةً ولا تقيس نتائج المرضى.",
+      "stars_reason_en": "This prospective controlled study of 140 children provides a useful assessment tool with evidence of reliability and group discrimination, but it does not directly change management or measure patient outcomes.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Useful for discussing age-appropriate stimulus selection, the relationship between objective measures and auditory-perceptual ratings, and the limits of applying these findings in practice.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم التحقق من صلاحية هذه stimuli في عينات سريرية أوسع، ومن أثر استخدامها على التشخيص وقرارات العلاج ومتابعة النتائج بمرور الوقت.",
+      "research_gap_en": "These stimuli require validation in broader clinical samples, including assessment of their effects on diagnosis, treatment decisions, and longitudinal outcome monitoring.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تتناول هذه الدراسة تطوير stimuli موحدة لتقييم voice لدى الأطفال ضمن بروتوكول Pediatric Auditory-Perceptual Evaluation of Voice. شملت الدراسة 140 طفلًا: 50 لديهم benign vocal fold lesions و90 لديهم أصوات نموذجية. سجّل الأطفال جملًا مخصصة للأطفال وجملًا مأخوذة من adult Consensus Auditory-Perceptual Evaluation of Voice، إضافة إلى prompts للكلام التلقائي.\n\nكانت دقة إنتاج الجمل المخصصة للأطفال أعلى بشكل ملحوظ من دقة جمل البالغين. وتجاوزت دقة أفضل مجموعة جمل 80% لدى الأطفال من عمر 3 إلى 17 سنة، ما يدعم ملاءمتها لمراحل عمرية متعددة. كذلك كان cepstral peak prominence أقل لدى الأطفال المصابين باضطرابات voice مقارنةً بالأطفال ذوي الأصوات النموذجية. أما prompts للكلام التلقائي، فقد أنتجت لدى الأطفال بعمر 6 سنوات أو أقل نحو 40 syllables من phonation خلال 25 إلى 30 ثانية، وكانت العينات أطول لدى الأطفال الأكبر سنًا.\n\nفرّقت auditory-perceptual ratings بين الأطفال المصابين وغير المصابين باضطرابات voice، مع reliability مماثلة لما أُبلغ عنه سابقًا لدى البالغين. عمليًا، توفر الدراسة مواد أكثر ملاءمة لجمع عينات voice من الأطفال بدلًا من الاعتماد على جمل البالغين. لكنها دراسة لتطوير واختبار مواد التقييم، وليست تجربة علاجية، لذلك لا تثبت أن استخدامها يغير التشخيص أو التدبير أو نتائج المرضى. التقييم العام ثلاث نجوم وثقة متوسطة: معرفة مفيدة في laryngology، مع حاجة إلى دراسات إضافية لاختبار أثر هذه stimuli على القرارات السريرية ومتابعة الاستجابة للعلاج.",
+      "audio_script_en": "This study developed and tested standardized stimuli for pediatric voice assessment within the Pediatric Auditory-Perceptual Evaluation of Voice protocol. It included 140 children: 50 with benign vocal fold lesions and 90 with typical voices. Children recorded pediatric-specific sentences, sentences from the adult Consensus Auditory-Perceptual Evaluation of Voice protocol, and prompts designed to elicit spontaneous connected speech.\n\nChildren produced the pediatric sentences significantly more accurately than the adult sentences. The best pediatric sentence set exceeded 80% production accuracy across ages 3 through 17, supporting its use across a broad childhood age range. Cepstral peak prominence was also significantly lower in children with voice disorders than in children with typical voices. For children aged 6 or younger, spontaneous speech prompts elicited about 40 syllables of phonation over 25 to 30 seconds; older children provided longer samples.\n\nAuditory-perceptual ratings distinguished children with and without voice disorders and achieved reliability comparable to that previously reported in adults. The practical contribution is a set of more age-appropriate materials for collecting pediatric voice samples, rather than relying on adult-designed sentences. However, this is a stimulus-development and testing study, not a treatment trial, so it does not show that these materials change diagnosis, management, or patient outcomes. Overall, this is a three-star, moderate-confidence contribution to laryngology: useful assessment knowledge, with further research needed to determine its effect on clinical decisions and longitudinal monitoring.",
+      "mcq": [
+        {
+          "q_ar": "كم عدد الأطفال المشاركين في الدراسة؟",
+          "q_en": "How many children participated in the study?",
+          "options_ar": [
+            "أ) 50",
+            "ب) 90",
+            "ج) 140",
+            "د) 180"
+          ],
+          "options_en": [
+            "A) 50",
+            "B) 90",
+            "C) 140",
+            "D) 180"
+          ],
+          "answer": 2,
+          "explanation_ar": "شارك 140 طفلًا: 50 لديهم benign vocal fold lesions و90 لديهم أصوات نموذجية.",
+          "explanation_en": "The study included 140 children: 50 with benign vocal fold lesions and 90 with typical voices."
+        },
+        {
+          "q_ar": "ما النتيجة المتعلقة بدقة إنتاج الجمل؟",
+          "q_en": "What was the finding regarding sentence-production accuracy?",
+          "options_ar": [
+            "أ) أُنتجت جمل البالغين بدقة أعلى من جمل الأطفال.",
+            "ب) أُنتجت الجمل المخصصة للأطفال بدقة أعلى من جمل البالغين.",
+            "ج) لم تختلف دقة الإنتاج بين مجموعتي الجمل.",
+            "د) تجاوزت دقة جمل الأطفال 80% لدى الأطفال دون 3 سنوات فقط."
+          ],
+          "options_en": [
+            "A) Adult sentences were produced more accurately than pediatric sentences.",
+            "B) Pediatric-specific sentences were produced more accurately than adult sentences.",
+            "C) Production accuracy did not differ between sentence sets.",
+            "D) Pediatric sentence accuracy exceeded 80% only in children younger than 3."
+          ],
+          "answer": 1,
+          "explanation_ar": "أنتج الأطفال الجمل المخصصة لهم بدقة أعلى بشكل ملحوظ، وتجاوزت دقة أفضل مجموعة 80% من عمر 3 إلى 17 سنة.",
+          "explanation_en": "Children produced pediatric-specific sentences significantly more accurately, and the best set exceeded 80% accuracy from ages 3 to 17."
+        },
+        {
+          "q_ar": "أي وصف يلخص الاستنتاج السريري الأنسب للدراسة؟",
+          "q_en": "Which statement best summarizes the study's clinical implication?",
+          "options_ar": [
+            "أ) تثبت أن stimuli الجديدة تحسن نتائج العلاج.",
+            "ب) تدعم استخدام stimuli ملائمة للأطفال في تقييم voice، دون إثبات أثرها على العلاج.",
+            "ج) توصي بإلغاء auditory-perceptual ratings.",
+            "د) تثبت أن prompts للكلام التلقائي غير مفيدة للأطفال."
+          ],
+          "options_en": [
+            "A) It proves that the new stimuli improve treatment outcomes.",
+            "B) It supports age-appropriate stimuli for pediatric voice assessment without proving an effect on treatment.",
+            "C) It recommends eliminating auditory-perceptual ratings.",
+            "D) It proves that spontaneous speech prompts are not useful for children."
+          ],
+          "answer": 1,
+          "explanation_ar": "اختبرت الدراسة دقة إنتاج stimuli ومقاييس voice وموثوقية التقييم، لكنها لم تختبر تأثيرها على نتائج العلاج.",
+          "explanation_en": "The study tested stimulus production, voice measures, and rating reliability, but did not evaluate treatment outcomes."
+        }
+      ]
+    },
+    {
+      "pmid": "42867911",
+      "title_ar": "Ramadan Fasting-Associated Improvement in Chronic Rhinosinusitis Symptoms.",
+      "title_en": "Ramadan Fasting-Associated Improvement in Chronic Rhinosinusitis Symptoms.",
+      "journal": "American journal of rhinology & allergy",
+      "pub_date": "2026-Oct-13",
+      "doi": "10.1177/19458924261495213",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42867911/",
+      "pdf_url": null,
+      "study_design": "Prospective controlled study, 42 male patients with CRS and 42 healthy male controls",
+      "summary_ar": "درست هذه الدراسة prospective تأثير Ramadan fasting (RF) في أعراض chronic rhinosinusitis (CRS)، وشملت 42 مريضًا و42 شخصًا سليمًا، وجميعهم من الذكور. خضع المشاركون لتقييم nasal endoscopy وتسجيل Lund-Kennedy scores، كما قيّموا الأعراض باستخدام visual analog scale في أوقات متعددة خلال الدراسة. كانت درجات الأعراض لدى مرضى CRS أعلى من مجموعة الضبط في جميع نقاط التقييم. انخفضت درجات nasal congestion وnasal discharge وpostnasal drip في اليومين 1 و30 مقارنة بخط الأساس، كما انخفضت olfactory disturbance والأعراض الإجمالية في اليوم 30. وبحلول اليوم 210، ارتفعت عدة أعراض مجددًا مقارنة بفترة الصيام، ما يشير إلى أن التحسن كان مؤقتًا. خلص الباحثون إلى أن RF ارتبط بتحسن مؤقت في بعض أعراض CRS، دون إثبات آلية التأثير أو أن الصيام علاج للمرض.",
+      "summary_en": "This prospective controlled study evaluated the effect of Ramadan fasting (RF) on chronic rhinosinusitis (CRS) symptoms in 42 male patients and 42 healthy male controls. Participants underwent nasal endoscopy with Lund-Kennedy scoring and rated symptoms using a visual analog scale at several time points. CRS patients had higher symptom scores than controls throughout the study. Nasal congestion, nasal discharge, and postnasal drip scores decreased during the first and last days of fasting compared with baseline; olfactory disturbance and overall symptoms also improved by day 30. By day 210, several symptoms had increased again relative to the fasting period. The findings suggest a temporary association between RF and improvement in some CRS symptoms, but do not establish fasting as a treatment or identify the mechanism.",
+      "practice_change_ar": "لا ينبغي تغيير تدبير CRS أو التوصية بالصيام كعلاج بناءً على هذه الدراسة وحدها.",
+      "practice_change_en": "CRS management should not be changed, nor fasting recommended as treatment, on the basis of this study alone.",
+      "future_impact_ar": "قد تمهّد النتائج لدراسات أكبر تختبر آليات تأثير الصيام والعوامل المرتبطة بتحسن الأعراض.",
+      "future_impact_en": "These findings may motivate larger studies investigating mechanisms of fasting-related symptom changes and associated factors.",
+      "why_important_ar": "تقدم الدراسة ملاحظة سريرية عن تحسن مؤقت في أعراض CRS خلال Ramadan fasting لدى عينة مضبوطة.",
+      "why_important_en": "The study offers a controlled clinical observation of temporary CRS symptom improvement during Ramadan fasting.",
+      "vs_previous_ar": "تضيف الدراسة ملاحظة عن تغير أعراض CRS خلال الصيام، لكنها لا تقدم دليلًا يغيّر المعرفة العلاجية أو الإرشادات القائمة.",
+      "vs_previous_en": "The study adds an observation about CRS symptom variation during fasting but does not provide evidence that changes established management or guidelines.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة prospective مضبوطة ذات عينة محدودة، وتضيف معرفة مثيرة للاهتمام عن تحسن مؤقت للأعراض، لكن أثرها لا يغيّر الممارسة الحالية.",
+      "stars_reason_en": "A prospective controlled study with a modest sample adds an interesting finding of temporary symptom improvement, but does not change current practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The possible relationship between fasting and CRS symptoms is discussion-worthy, particularly regarding the modest sample, study design, and interpretation of association.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسة أكبر تشمل مجموعات متنوعة وتضبط التغيرات الموسمية والعلاجات والسلوكيات المصاحبة للصيام، مع متابعة أطول وقياسات موضوعية للأعراض.",
+      "research_gap_en": "Larger studies with diverse participants should account for seasonal variation, treatments, and fasting-associated behaviors, and include longer follow-up and objective symptom measures.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "مرحبًا بكم في ORL Daily. نراجع اليوم دراسة بعنوان «Ramadan Fasting-Associated Improvement in Chronic Rhinosinusitis Symptoms». تبحث الدراسة سؤالًا عمليًا ومثيرًا للاهتمام: هل تتغير أعراض chronic rhinosinusitis، أو CRS، خلال Ramadan fasting؟\n\nهذه دراسة prospective مضبوطة شملت 42 مريضًا من الذكور مصابين بـ CRS، إلى جانب 42 رجلًا سليمًا كمجموعة ضابطة. أُجري nasal endoscopy وسُجلت Lund-Kennedy scores، كما قيّم المشاركون أعراضًا مثل nasal congestion وnasal discharge وpostnasal drip واضطراب الشم والألم والضغط الوجهي باستخدام visual analog scale. أُخذت القياسات عند خط الأساس، وفي بداية الصيام ونهايته، ثم في اليوم 210.\n\nكانت درجات الأعراض أعلى لدى مرضى CRS مقارنة بالأصحاء في جميع نقاط التقييم. خلال الصيام، انخفضت درجات nasal congestion وnasal discharge وpostnasal drip مقارنة بخط الأساس، كما تحسن olfactory disturbance والتقييم الإجمالي للأعراض بحلول اليوم 30. لكن هذا التحسن لم يستمر بوضوح؛ ففي اليوم 210 ارتفعت عدة درجات أعراض مقارنة بفترة الصيام. لذلك فالاستنتاج الأدق هو وجود ارتباط بتحسن مؤقت، وليس إثبات أن الصيام يعالج CRS أو أن له تأثيرًا سببيًا محددًا.\n\nنقاط القوة تشمل التصميم prospective ووجود مجموعة ضابطة وتكرار تقييم الأعراض. أما القيود فتشمل العينة الصغيرة، واقتصار المشاركين على الذكور، والاعتماد على تقييمات الأعراض، وعدم إثبات آلية التحسن. كما أن تغيرات السلوك أو التعرضات خلال فترة الصيام قد تفسر جزءًا من النتائج.\n\nمن ناحية الممارسة، لا تدعم هذه النتائج تغيير العلاج المعتاد لـ CRS أو تقديم الصيام كعلاج. لكنها تستحق النقاش في journal club لأنها تفتح سؤالًا عن أثر أنماط الصيام والعوامل المصاحبة لها في أعراض الأنف والجيوب. الخطوة التالية هي دراسة أكبر وأكثر تنوعًا، مع ضبط العلاجات والعوامل الموسمية والسلوكية، وإضافة قياسات موضوعية ومتابعة أطول. الخلاصة: تحسن مؤقت محتمل، ودليل أولي يستدعي مزيدًا من البحث، لا تغييرًا سريريًا اليوم.",
+      "audio_script_en": "Welcome to ORL Daily. Today’s paper, “Ramadan Fasting-Associated Improvement in Chronic Rhinosinusitis Symptoms,” asks whether symptoms of chronic rhinosinusitis, or CRS, change during Ramadan fasting.\n\nThis was a prospective controlled study of 42 male patients with CRS and 42 healthy male controls. Participants underwent nasal endoscopy, with Lund-Kennedy scores recorded, and rated symptoms including nasal congestion, nasal discharge, postnasal drip, olfactory disturbance, facial pain or pressure, and overall symptoms using a visual analog scale. Assessments took place at baseline, at the beginning and end of fasting, and again on day 210.\n\nCRS patients had higher symptom scores than healthy controls at all study time points. During fasting, nasal congestion, nasal discharge, and postnasal drip scores were lower than at baseline. Olfactory disturbance and overall symptoms also improved by day 30. However, several symptoms were higher again at day 210 than during the fasting period. The most appropriate interpretation is a temporary association with symptom improvement—not proof that fasting treats CRS or causes the improvement.\n\nStrengths include the prospective design, a healthy comparison group, and repeated symptom assessments. Important limitations are the modest sample size, inclusion of men only, reliance on symptom ratings, and lack of evidence identifying a mechanism. Changes in behavior or exposures during the fasting period could also contribute to the observed pattern.\n\nFor clinical practice, these findings do not support changing standard CRS treatment or recommending fasting as therapy. The paper is nevertheless suitable for journal club discussion because it raises a potentially interesting question about fasting and sinonasal symptoms. Future research should include larger and more diverse cohorts, account for seasonal and behavioral factors and concurrent treatments, and add objective measures and longer follow-up. The take-home message is a possible temporary symptom benefit that needs confirmation, not a reason to alter practice today.",
+      "mcq": [
+        {
+          "q_ar": "ما تصميم الدراسة؟",
+          "q_en": "What was the study design?",
+          "options_ar": [
+            "أ) RCT",
+            "ب) دراسة prospective مضبوطة",
+            "ج) دراسة retrospective متعددة المراكز",
+            "د) systematic review"
+          ],
+          "options_en": [
+            "A) RCT",
+            "B) Prospective controlled study",
+            "C) Multicenter retrospective study",
+            "D) Systematic review"
+          ],
+          "answer": 1,
+          "explanation_ar": "تابعت الدراسة مرضى CRS ومجموعة ضابطة عبر نقاط زمنية متعددة، ولذلك وُصفت بأنها prospective controlled study.",
+          "explanation_en": "The study followed CRS patients and controls across multiple time points, making it a prospective controlled study."
+        },
+        {
+          "q_ar": "ما النتيجة الأساسية المتعلقة بأعراض CRS خلال Ramadan fasting؟",
+          "q_en": "What was the main finding regarding CRS symptoms during Ramadan fasting?",
+          "options_ar": [
+            "أ) لم تتغير أي أعراض",
+            "ب) تحسنت بعض الأعراض مؤقتًا خلال الصيام",
+            "ج) اختفت الأعراض نهائيًا لدى جميع المرضى",
+            "د) ساءت جميع الأعراض خلال الصيام"
+          ],
+          "options_en": [
+            "A) No symptoms changed",
+            "B) Some symptoms temporarily improved during fasting",
+            "C) Symptoms permanently resolved in all patients",
+            "D) All symptoms worsened during fasting"
+          ],
+          "answer": 1,
+          "explanation_ar": "انخفضت درجات عدة أعراض خلال الصيام، لكن عددًا منها ارتفع مجددًا في المتابعة اللاحقة، ما يشير إلى تحسن مؤقت.",
+          "explanation_en": "Several symptom scores decreased during fasting, but some rose again at later follow-up, suggesting temporary improvement."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب للممارسة السريرية؟",
+          "q_en": "What is the most appropriate clinical-practice conclusion?",
+          "options_ar": [
+            "أ) يجب استبدال علاج CRS بالصيام",
+            "ب) ينبغي التوصية بالصيام لجميع مرضى CRS",
+            "ج) لا تكفي النتائج لتغيير التدبير المعتاد أو اعتبار الصيام علاجًا",
+            "د) تثبت الدراسة أن الصيام يسبب تحسن CRS"
+          ],
+          "options_en": [
+            "A) Fasting should replace CRS treatment",
+            "B) Fasting should be recommended to all CRS patients",
+            "C) The findings are insufficient to change usual management or consider fasting a treatment",
+            "D) The study proves fasting causes CRS improvement"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة محدودة الحجم وتُظهر ارتباطًا بتحسن مؤقت، ولا تثبت السببية أو فعالية الصيام كعلاج.",
+          "explanation_en": "The study is modest in size and shows an association with temporary improvement; it does not establish causality or fasting as an effective treatment."
+        }
+      ]
+    },
+    {
+      "pmid": "42869738",
+      "title_ar": "Obesity, Weight Loss, and Facial Plastic Surgery",
+      "title_en": "Obesity, Weight Loss, and Facial Plastic Surgery",
+      "journal": "Otolaryngologic clinics of North America",
+      "pub_date": "2026-Oct-13",
+      "doi": "10.1016/j.otc.2026.06.004",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42869738/",
+      "pdf_url": null,
+      "study_design": "Narrative review",
+      "summary_ar": "تستعرض المقالة تأثير obesity على الأنسجة والنتائج في facial plastic surgery. ترتبط obesity بحالة proinflammatory، وضعف microvascular circulation، وتغيرات في extracellular matrix، وقد تؤثر هذه التغيرات في wound healing. كما يرتبط ازدياد adipose tissue بتغيرات في بنية الوجه، ولا سيما زيادة سماكة superficial fat. أما التغيرات في أحجام deeper fat pads فنتائج الدراسات بشأنها غير متسقة. وتناقش المقالة التحديات الجديدة التي تواجه facial plastic surgeons مع الانتشار المتزايد لأدوية إنقاص الوزن injectable. لا يقدم الملخص بيانات كمية أو نتائج لدراسة سريرية محددة، لذا لا يمكن استنتاج حجم المخاطر أو توصيات علاجية تفصيلية.",
+      "summary_en": "This review discusses how obesity may affect facial plastic surgery through changes in local tissues. Obesity is associated with a proinflammatory state, impaired microvascular circulation, and extracellular matrix changes that may compromise wound healing. Increased adipose tissue is associated with facial structural changes, particularly greater superficial fat thickness. Findings on the volume of deeper facial fat pads are inconsistent. The review also highlights new challenges for facial plastic surgeons as injectable weight-loss drugs become more popular. The abstract provides no quantitative results or specific clinical recommendations.",
+      "practice_change_ar": "لا يبرر هذا الملخص تغيير الممارسة الحالية، لكنه يدعم أخذ obesity وتاريخ استخدام injectable weight-loss drugs في الاعتبار عند التقييم والاستشارة قبل الجراحة.",
+      "practice_change_en": "This abstract does not justify an immediate practice change, but supports considering obesity and injectable weight-loss drug use during preoperative assessment and counseling.",
+      "future_impact_ar": "قد تؤدي زيادة استخدام injectable weight-loss drugs إلى الحاجة لدراسات تحدد أثر فقدان الوزن وتوقيته على تخطيط facial plastic surgery ونتائجها.",
+      "future_impact_en": "Growing use of injectable weight-loss drugs may prompt studies defining how weight loss and its timing affect facial plastic surgery planning and outcomes.",
+      "why_important_ar": "تجمع المقالة عوامل نسيجية قد تؤثر في wound healing وتلفت الانتباه إلى تغيرات الوجه المرتبطة بزيادة الوزن وفقدانه.",
+      "why_important_en": "The article brings together tissue-level factors that may affect wound healing and highlights facial changes associated with weight gain and loss.",
+      "vs_previous_ar": "يضيف المقال تركيزًا على التحديات الناشئة المرتبطة بأدوية إنقاص الوزن injectable، مع الإشارة إلى أن الأدلة حول deeper fat pads غير متسقة.",
+      "vs_previous_en": "The article emphasizes emerging challenges associated with injectable weight-loss drugs while noting inconsistent evidence on deeper fat pads.",
+      "stars": 3,
+      "stars_reason_ar": "مراجعة سردية مفيدة سريريًا في facial plastics، لكنها لا تعرض نتائج أصلية أو توصيات تفصيلية، لذا تقدم معرفة مهمة دون تغيير الممارسة.",
+      "stars_reason_en": "A clinically relevant narrative review in facial plastics, but it presents no original results or detailed recommendations; it adds useful context without changing practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": null,
+      "watch": true,
+      "watch_detail_ar": "تستحق injectable weight-loss drugs المتابعة لفهم تأثير استخدامها وفقدان الوزن المرتبط بها على تقييم المرضى وتخطيط facial plastic surgery.",
+      "watch_detail_en": "Injectable weight-loss drugs are worth tracking to clarify how their use and associated weight loss affect patient assessment and facial plastic surgery planning.",
+      "watch_type": "drug",
+      "research_gap_ar": "تلزم دراسات سريرية مستقبلية تقيس أثر obesity وفقدان الوزن المرتبط بأدوية injectable على wound healing، وحجم الدهون الوجهية، ونتائج facial plastic surgery.",
+      "research_gap_en": "Prospective clinical studies are needed to measure how obesity and injectable-drug-associated weight loss affect wound healing, facial fat volumes, and facial plastic surgery outcomes.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "تتناول هذه المقالة موضوعًا مهمًا في facial plastic surgery: كيف تؤثر obesity، وكذلك التغيرات المرتبطة بإنقاص الوزن، في الأنسجة والوجه. يوضح الملخص أن obesity ترتبط بحالة proinflammatory، وضعف microvascular circulation، وتغيرات في extracellular matrix. هذه العوامل قد تضعف wound healing، ولذلك تهم الجراح عند تقييم المريض ومناقشة المخاطر قبل العملية.\n\nمن الناحية التشريحية، يرتبط ازدياد adipose tissue بزيادة سماكة superficial fat في الوجه. لكن نتائج الدراسات حول أحجام deeper fat pads غير متسقة، ما يعني أن التغيرات العميقة لا يمكن توقعها بالوضوح نفسه. ويبرز الملخص أيضًا تحديًا متزايدًا: انتشار injectable weight-loss drugs، وما قد يصاحبه من فقدان وزن وتغير في بنية الوجه، وهو أمر قد يؤثر في التخطيط الجراحي والاستشارة.\n\nهذه المقالة مراجعة سردية، والملخص لا يقدم نتائج كمية أو توصيات محددة، لذلك لا ينبغي اعتبارها دليلًا على تغيير بروتوكولات الجراحة اليوم. قيمتها الأساسية أنها تجمع عوامل نسيجية وتشريحية ذات صلة وتلفت الانتباه إلى ظاهرة دوائية ناشئة. للممارسة الحالية، من المعقول أخذ حالة الوزن وتاريخه واستخدام أدوية إنقاص الوزن في الحسبان عند التقييم قبل الجراحة، مع تجنب افتراض أن التغيرات في الدهون العميقة ستكون متوقعة.\n\nالفجوة البحثية واضحة: نحتاج إلى دراسات سريرية تقيس أثر obesity وفقدان الوزن المرتبط بأدوية injectable على wound healing، وأحجام الدهون الوجهية، والنتائج الجراحية. الخلاصة أن المقالة مفيدة للوعي والاستشارة، لكنها لا تقدم وحدها دليلًا يغير الممارسة. وتستحق injectable weight-loss drugs المتابعة مع تزايد استخدامها لدى المرضى.",
+      "audio_script_en": "This article addresses an increasingly relevant issue in facial plastic surgery: how obesity, and changes associated with weight loss, may affect tissues and facial structure. The abstract describes obesity as associated with a proinflammatory state, impaired microvascular circulation, and changes to the extracellular matrix. These factors may impair wound healing, making them relevant to preoperative assessment and patient counseling.\n\nIn terms of facial anatomy, increased adipose tissue is associated with greater superficial fat thickness. However, findings on the volume of deeper facial fat pads are inconsistent, so deeper changes appear less predictable. The abstract also highlights a newer challenge: the growing popularity of injectable weight-loss drugs. Weight loss and associated changes in facial structure may influence surgical planning and expectations.\n\nThis is a narrative review, and the abstract provides no quantitative results or specific recommendations. It therefore does not establish evidence for changing surgical protocols today. Its value is in bringing together potentially relevant tissue and anatomic considerations and drawing attention to an emerging pharmacologic trend. In current practice, it is reasonable to account for a patient’s weight status, weight history, and use of weight-loss drugs during preoperative assessment, while avoiding assumptions that deeper fat changes will be predictable.\n\nThe main research gap is the need for clinical studies measuring how obesity and injectable-drug-associated weight loss affect wound healing, facial fat volumes, and surgical outcomes. In summary, this article is useful for awareness and counseling, but does not by itself provide practice-changing evidence. Injectable weight-loss drugs merit continued attention as their use grows among patients.",
+      "mcq": [
+        {
+          "q_ar": "ما التغيرات النسيجية المرتبطة بـ obesity التي قد تؤثر في wound healing؟",
+          "q_en": "Which tissue changes associated with obesity may affect wound healing?",
+          "options_ar": [
+            "أ) تحسن microvascular circulation وانخفاض الالتهاب",
+            "ب) حالة proinflammatory وضعف microvascular circulation وتغيرات extracellular matrix",
+            "ج) زيادة حجم deeper fat pads بشكل ثابت",
+            "د) انخفاض adipose tissue في الوجه"
+          ],
+          "options_en": [
+            "A) Improved microvascular circulation and reduced inflammation",
+            "B) A proinflammatory state, impaired microvascular circulation, and extracellular matrix changes",
+            "C) Consistent enlargement of deeper fat pads",
+            "D) Reduced facial adipose tissue"
+          ],
+          "answer": 1,
+          "explanation_ar": "يذكر الملخص أن obesity ترتبط بحالة proinflammatory وضعف microvascular circulation وتغيرات extracellular matrix، وقد تسهم هذه التغيرات في impaired wound healing.",
+          "explanation_en": "The abstract links obesity to a proinflammatory state, impaired microvascular circulation, and extracellular matrix changes, which may contribute to impaired wound healing."
+        },
+        {
+          "q_ar": "ما التغير الوجهي المرتبط بزيادة adipose tissue الذي يبرزه الملخص؟",
+          "q_en": "Which facial change associated with increased adipose tissue does the abstract emphasize?",
+          "options_ar": [
+            "أ) زيادة سماكة superficial fat",
+            "ب) انخفاض سماكة superficial fat",
+            "ج) زيادة ثابتة في جميع deeper fat pads",
+            "د) عدم حدوث أي تغير في بنية الوجه"
+          ],
+          "options_en": [
+            "A) Increased superficial fat thickness",
+            "B) Decreased superficial fat thickness",
+            "C) Consistent enlargement of all deeper fat pads",
+            "D) No change in facial structure"
+          ],
+          "answer": 0,
+          "explanation_ar": "يشير الملخص إلى زيادة سماكة superficial fat، بينما يصف النتائج المتعلقة بأحجام deeper fat pads بأنها غير متسقة.",
+          "explanation_en": "The abstract notes increased superficial fat thickness, while findings on deeper fat pad volumes are inconsistent."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن تأثير هذا المقال في الممارسة الحالية؟",
+          "q_en": "What is the most appropriate conclusion about this article’s effect on current practice?",
+          "options_ar": [
+            "أ) يثبت ضرورة تغيير بروتوكولات الجراحة فورًا",
+            "ب) يقدم معرفة مفيدة للتقييم والاستشارة، لكنه لا يحدد تغييرًا علاجيًا",
+            "ج) يثبت أن injectable weight-loss drugs تمنع wound healing",
+            "د) يقدم نتائج سريرية كمية عن outcomes الجراحة"
+          ],
+          "options_en": [
+            "A) It establishes that surgical protocols must change immediately",
+            "B) It offers useful context for assessment and counseling but does not establish a management change",
+            "C) It proves injectable weight-loss drugs prevent wound healing",
+            "D) It reports quantitative clinical outcomes for surgery"
+          ],
+          "answer": 1,
+          "explanation_ar": "المقال مراجعة سردية وملخصه لا يقدم نتائج كمية أو توصيات محددة؛ لذا يفيد في الوعي والتقييم دون إثبات تغيير فوري للممارسة.",
+          "explanation_en": "The article is a narrative review, and its abstract provides no quantitative results or specific recommendations; it informs awareness and assessment but does not establish an immediate practice change."
+        }
+      ]
+    },
+    {
+      "pmid": "42874422",
+      "title_ar": "Chopsticks mononostril endoscopic endonasal approach for adult Craniopharyngioma: A retrospective comparative cohort study.",
+      "title_en": "Chopsticks mononostril endoscopic endonasal approach for adult Craniopharyngioma: A retrospective comparative cohort study.",
+      "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+      "pub_date": "2026-Oct-14",
+      "doi": "10.1016/j.jocn.2026.112336",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42874422/",
+      "pdf_url": null,
+      "study_design": "Retrospective comparative cohort n=107",
+      "summary_ar": "قارنت هذه الدراسة retrospective بين mononostril chopsticks endoscopic endonasal approach وbinostril approach لدى 107 بالغين خضعوا لجراحة Craniopharyngioma، مع متابعة لمدة 3 أشهر. لم يختلف operative time إحصائياً بعد adjustment، بينما ارتبطت فترة mononostril بإقامة أقصر في المستشفى. كانت gross-total resection rates أعلى عددياً مع mononostril، لكن الفرق لم يكن ذا دلالة إحصائية، ولم تظهر فروق واضحة في visual outcomes أو overall complications. سجّلت مجموعة mononostril درجات أقل في EES-Q وSNOT-22 بعد adjustment، لكن مقارنة الفترات الزمنية لا تفصل أثر التقنية عن treatment-era effects. لذلك تدعم النتائج feasibility التقنية، ولا تثبت تفوقها أو تكافؤها مع النهج التقليدي.",
+      "summary_en": "This retrospective comparative cohort evaluated a mononostril chopsticks endoscopic endonasal approach versus the conventional binostril approach in 107 adults undergoing surgery for craniopharyngioma.\nAt 3 months, adjusted EES-Q and SNOT-22 scores were lower in the mononostril-period cohort.\nHospital stay was shorter, while adjusted operative time did not differ significantly.\nGross-total resection was numerically more frequent with the mononostril approach, but the adjusted difference was not statistically significant.\nNo significant differences were found in adjusted visual or overall complication analyses; endocrine outcomes were descriptive.\nBecause the cohorts came from sequential treatment periods, treatment-era effects and residual confounding prevent causal or superiority conclusions.",
+      "practice_change_ar": "لا تغيّر هذه النتائج الممارسة الحالية؛ يمكن اعتبار mononostril chopsticks approach خياراً قابلاً للتطبيق لدى مرضى مختارين، مع الحاجة إلى أدلة مقارنة أقوى.",
+      "practice_change_en": "These findings do not change current practice; the mononostril chopsticks approach may be considered feasible in selected patients, but stronger comparative evidence is needed.",
+      "future_impact_ar": "ينبغي أن تقيّم دراسات prospective متعددة المراكز هذه التقنية باستخدام مجموعات متزامنة وقياسات موحدة للنتائج الوظيفية والجراحية.",
+      "future_impact_en": "Prospective multicenter studies using concurrent comparison groups and standardized functional and surgical outcomes should further evaluate this technique.",
+      "why_important_ar": "تقدم الدراسة بيانات سريرية أولية عن تقنية mononostril جديدة نسبياً في جراحة skull base لدى البالغين المصابين بـCraniopharyngioma.",
+      "why_important_en": "The study provides preliminary clinical data on a relatively new mononostril technique for skull-base surgery in adults with craniopharyngioma.",
+      "vs_previous_ar": "تضيف الدراسة مقارنة سريرية بين mononostril chopsticks approach وbinostril approach، لكنها لا تتجاوز محدودية الأدلة الرصدية أو تثبت تفوق التقنية.",
+      "vs_previous_en": "The study adds a clinical comparison of the mononostril chopsticks and binostril approaches, but does not overcome the limitations of observational evidence or establish superiority.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة retrospective comparative cohort كبيرة نسبياً (n=107) عن تقنية جراحية جديدة ومفيدة للمعرفة، لكن المقارنة بين فترتين متتاليتين واحتمال treatment-era effects، مع عدم إثبات التفوق، يحدّان من قوة الدليل.",
+      "stars_reason_en": "This relatively large retrospective comparative cohort (n=107) evaluates a novel technique and offers useful information, but sequential treatment periods, potential treatment-era effects, and the lack of demonstrated superiority limit the evidence.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it compares a new endoscopic endonasal technique and illustrates how a nonconcurrent, era-based design can affect interpretation of patient outcomes.",
+      "watch": true,
+      "watch_detail_ar": "راقبوا تطور mononostril chopsticks endoscopic endonasal approach، إذ تشير النتائج إلى feasibility وتحسن في patient-reported scores مع بقاء الحاجة إلى تحقق مستقل.",
+      "watch_detail_en": "Track the mononostril chopsticks endoscopic endonasal approach: results suggest feasibility and improved patient-reported scores, but independent validation is still needed.",
+      "watch_type": "instrument",
+      "research_gap_ar": "هناك حاجة إلى دراسة prospective ذات مجموعات متزامنة، وتقييم طويل الأمد للـresection، والوظيفة البصرية والهرمونية، والمضاعفات، وpatient-reported outcomes.",
+      "research_gap_en": "A prospective study with concurrent groups and longer-term assessment of resection, visual and endocrine function, complications, and patient-reported outcomes is needed.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نستعرض اليوم دراسة عن تقنية mononostril chopsticks endoscopic endonasal approach لجراحة Craniopharyngioma لدى البالغين. الدراسة retrospective comparative cohort أُجريت في مركز واحد، وشملت 107 مرضى لديهم متابعة لمدة ثلاثة أشهر. قارنت 51 مريضاً عولجوا بالتقنية mononostril خلال فترة لاحقة، مع 56 مريضاً خضعوا للنهج التقليدي binostril في السنة السابقة.\n\nكانت النتيجة الأساسية درجة EES-Q بعد ثلاثة أشهر. أظهرت النتائج أن درجات EES-Q وSNOT-22 المعدّلة كانت أقل في مجموعة فترة mononostril، مع فروق بلغت نحو 9.39 و8.57 نقاط على التوالي، وكانت الفروق ذات دلالة إحصائية. كذلك كانت مدة الإقامة في المستشفى أقصر بنحو 1.25 يوم. لم يكن الفرق في operative time ذا دلالة إحصائية بعد adjustment. بلغت gross-total resection rates نحو 82 بالمئة في مجموعة mononostril و71 بالمئة في مجموعة binostril، لكن الفرق المعدّل لم يصل إلى الدلالة الإحصائية. ولم تُكتشف فروق ذات دلالة في التحليلات المعدّلة للنتائج البصرية أو المضاعفات الإجمالية. أما نتائج endocrine فعُرضت وصفياً، بسبب عدم توافر مقامات صالحة لتحديد المرضى المعرضين للخطر.\n\nالتفسير السريري الحذر هو أن التقنية بدت قابلة للتطبيق لدى المرضى المشمولين، وأن المرضى في فترة mononostril أبلغوا عن أعراض أقل بعد ثلاثة أشهر. لكن المقارنة ليست عشوائية، كما أن مجموعتي العلاج تنتميان إلى فترتين زمنيتين متتاليتين. لذلك قد تعكس النتائج treatment-era effects أو عوامل أخرى، ولا يمكن نسبة التحسن سببيّاً إلى التقنية أو استنتاج أنها متفوقة أو مكافئة للنهج binostril.\n\nالخلاصة: هذه إضافة مفيدة في مجال skull base، لكنها لا تغيّر الممارسة الحالية. من المناسب متابعة التقنية، مع انتظار دراسات prospective متعددة المراكز تستخدم مجموعات متزامنة، وتتابع النتائج الجراحية والبصرية والهرمونية وpatient-reported outcomes مدة أطول.",
+      "audio_script_en": "Today’s paper evaluates a mononostril chopsticks endoscopic endonasal approach for adult craniopharyngioma. It is a single-center retrospective comparative cohort of 107 patients with three-month follow-up. The mononostril cohort included 51 patients treated during a later period, while 56 patients treated with the conventional binostril approach during the preceding period served as the comparison group.\n\nThe primary outcome was the EES-Q total score at three months. Adjusted EES-Q and SNOT-22 scores were lower in the mononostril-period cohort, by approximately 9.39 and 8.57 points, respectively, with statistically significant differences. Hospital stay was about 1.25 days shorter. Adjusted operative time did not differ significantly. Gross-total resection rates were 82.4 percent with mononostril and 71.4 percent with binostril, but the adjusted comparison was not statistically significant. There were no significant differences in adjusted visual or overall complication analyses. Endocrine outcomes were reported descriptively because valid at-risk denominators were unavailable.\n\nThe main takeaway is that the technique appeared feasible in the included patients, and patients treated during the mononostril period reported fewer symptoms at three months. However, this was not a randomized comparison. The cohorts came from sequential time periods, so treatment-era effects and other confounding factors may explain some or all of the observed differences. The results do not establish that the mononostril approach caused better symptom scores, nor do they demonstrate superiority or equivalence to the binostril approach.\n\nFor practice, this is useful early evidence in skull-base surgery, but it does not justify changing current surgical choice on its own. The technique is worth tracking. Prospective, preferably multicenter studies with concurrent comparison groups and longer follow-up should assess resection, visual and endocrine function, complications, and patient-reported outcomes.",
+      "mcq": [
+        {
+          "q_ar": "ما التصميم الأساسي لهذه الدراسة؟",
+          "q_en": "What was the primary study design?",
+          "options_ar": [
+            "أ) RCT",
+            "ب) Retrospective comparative cohort",
+            "ج) Systematic review",
+            "د) Case report"
+          ],
+          "options_en": [
+            "A) RCT",
+            "B) Retrospective comparative cohort",
+            "C) Systematic review",
+            "D) Case report"
+          ],
+          "answer": 1,
+          "explanation_ar": "حللت الدراسة بأثر رجعي مجموعتين عولجتا في فترتين زمنيتين مختلفتين، ولذلك فهي retrospective comparative cohort.",
+          "explanation_en": "The study retrospectively compared two cohorts treated during different time periods, making it a retrospective comparative cohort."
+        },
+        {
+          "q_ar": "أي نتيجة أظهرت فرقاً ذا دلالة إحصائية لصالح فترة mononostril؟",
+          "q_en": "Which outcome showed a statistically significant difference favoring the mononostril period?",
+          "options_ar": [
+            "أ) Adjusted operative time",
+            "ب) Visual outcomes",
+            "ج) EES-Q وSNOT-22 scores",
+            "د) Endocrine outcomes"
+          ],
+          "options_en": [
+            "A) Adjusted operative time",
+            "B) Visual outcomes",
+            "C) EES-Q and SNOT-22 scores",
+            "D) Endocrine outcomes"
+          ],
+          "answer": 2,
+          "explanation_ar": "كانت درجات EES-Q وSNOT-22 المعدّلة أقل في مجموعة فترة mononostril، وكلا الفرقين كان ذا دلالة إحصائية.",
+          "explanation_en": "Adjusted EES-Q and SNOT-22 scores were lower in the mononostril-period cohort, and both differences were statistically significant."
+        },
+        {
+          "q_ar": "ما القيد الأهم عند تفسير تحسن patient-reported scores؟",
+          "q_en": "What is the most important limitation when interpreting improved patient-reported scores?",
+          "options_ar": [
+            "أ) الدراسة شملت أقل من 10 مرضى",
+            "ب) المقارنة بين فترتين متتاليتين قد تُدخل treatment-era effects",
+            "ج) لم تُجرَ أي متابعة بعد الجراحة",
+            "د) الدراسة كانت على حيوانات"
+          ],
+          "options_en": [
+            "A) The study included fewer than 10 patients",
+            "B) Comparing sequential periods may introduce treatment-era effects",
+            "C) There was no postoperative follow-up",
+            "D) The study was conducted in animals"
+          ],
+          "answer": 1,
+          "explanation_ar": "لأن المجموعتين عولجتا في فترتين زمنيتين متتاليتين، لا يمكن فصل أثر التقنية عن treatment-era effects أو العوامل المربكة الأخرى.",
+          "explanation_en": "Because the cohorts were treated in sequential periods, the effect of the technique cannot be separated from treatment-era effects or other confounders."
+        }
+      ]
+    },
+    {
+      "pmid": "42872381",
+      "title_ar": "Endoscopic Facelift with Isolation of the Fronto-Temporal Facial Nerve Branches: A Clinical Study of 300 Cases.",
+      "title_en": "Endoscopic Facelift with Isolation of the Fronto-Temporal Facial Nerve Branches: A Clinical Study of 300 Cases.",
+      "journal": "Aesthetic surgery journal",
+      "pub_date": "2026-Oct-14",
+      "doi": "10.1093/asj/sjag231",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42872381/",
+      "pdf_url": null,
+      "study_design": "Retrospective case series n=300",
+      "summary_ar": "قيّمت هذه الدراسة retrospective case series شملت 300 مريض خضعوا لـ endoscopic facelift على يد جرّاح واحد بين مايو 2021 وأغسطس 2024. اعتمدت التقنية على تحديد وعزل فروع fronto-temporal للعصب الوجهي بشكل circumferential كامل، ما أتاح تحرير McGregor's patch. حدثت frontalis weakness مؤقتة لدى جميع المرضى، لكنها زالت بالكامل، ولم تُسجّل أي إصابة دائمة بالعصب. بلغ median time to recovery نحو 14 يومًا، وتعافى 62.3% بحلول اليوم 14، مع ارتفاع التعافي التراكمي إلى 94.3% عند 6 أشهر. حضر 282 مريضًا زيارة 12 شهرًا، وقيّم 265 منهم النتيجة بأنها جيدة أو ممتازة؛ وسُجّل hematoma لدى 0.7% واحتاج 1.3% إلى revision بسبب asymmetry. تشير النتائج إلى إمكانية تنفيذ العزل الكامل دون إصابة دائمة في هذه السلسلة، لكن غياب مجموعة مقارنة يمنع إثبات أن الفائدة تبرر حدوث الضعف المؤقت لدى الجميع.",
+      "summary_en": "This retrospective case series evaluated 300 patients who underwent endoscopic facelift by one surgeon between May 2021 and August 2024.\nThe technique involved circumferential isolation of the fronto-temporal facial nerve branches, permitting release of McGregor's patch.\nAll patients experienced transient frontalis weakness, which resolved completely; no permanent nerve injury was reported.\nMedian recovery time was 14 days, with 62.3% recovering by day 14 and cumulative recovery reaching 94.3% by 6 months.\nOf 282 patients attending the 12-month visit, 265 rated their outcome good or excellent; hematoma occurred in 0.7%, and 1.3% required revision for asymmetry.\nThe series supports feasibility but cannot establish whether the universal temporary weakness is a justified trade-off without a comparator.",
+      "practice_change_ar": "لا تدعم هذه الدراسة تغيير الممارسة اليوم، لكنها تقدم نتائج يمكن أخذها في الاعتبار عند مناقشة مخاطر endoscopic facelift مع المرضى.",
+      "practice_change_en": "This study does not justify changing practice today, but its findings may inform counseling about the risks of endoscopic facelift.",
+      "future_impact_ar": "ستتطلب معرفة ما إذا كان العزل الكامل يحسن النتائج مقارنةً بالتقنيات الأخرى دراسة prospective controlled تقارن التعافي والنتائج الجمالية والمضاعفات.",
+      "future_impact_en": "Determining whether complete isolation improves outcomes over alternative techniques will require a prospective controlled study comparing recovery, aesthetic results, and complications.",
+      "why_important_ar": "توضح الدراسة أن transient frontalis weakness قد تكون متوقعة عند تطبيق هذا الأسلوب، رغم عدم تسجيل إصابة دائمة في 300 حالة.",
+      "why_important_en": "The study shows that transient frontalis weakness may be expected with this approach, despite no permanent nerve injury in 300 cases.",
+      "vs_previous_ar": "بدل اعتبار ضعف frontalis علامة على إصابة تقنية، تصفه الدراسة كنتيجة متوقعة للعزل المتعمد، لكنها لا تثبت تفوق هذه التقنية على الممارسة السابقة.",
+      "vs_previous_en": "Rather than treating frontalis weakness as evidence of technical injury, the study describes it as an expected consequence of deliberate isolation, but does not demonstrate superiority over prior practice.",
+      "stars": 3,
+      "stars_reason_ar": "سلسلة retrospective كبيرة من 300 حالة تقدم بيانات سريرية مفيدة عن تقنية جراحية، لكن غياب المقارنة وتسجيل ضعف مؤقت لدى جميع المرضى يحدان من قوة الاستنتاج والتأثير على الممارسة.",
+      "stars_reason_en": "This large retrospective series of 300 cases provides useful clinical data on a surgical technique, but the lack of a comparator and universal transient weakness limit the strength of its conclusions and its impact on practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study merits discussion because it raises an important trade-off between broader surgical release and universal transient frontalis weakness, while highlighting the need for a comparator.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء prospective controlled comparison لتقييم فعالية وسلامة circumferential nerve isolation مقارنةً بتقنيات endoscopic facelift الأخرى، مع قياس التعافي والنتائج الجمالية على المدى الطويل.",
+      "research_gap_en": "A prospective controlled comparison is needed to assess circumferential nerve isolation against other endoscopic facelift techniques, measuring recovery and long-term aesthetic outcomes.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نستعرض اليوم دراسة بعنوان: Endoscopic Facelift with Isolation of the Fronto-Temporal Facial Nerve Branches: A Clinical Study of 300 Cases. وهي retrospective case series شملت 300 مريض أُجريت لهم العملية على يد جرّاح واحد بين مايو 2021 وأغسطس 2024. ركزت الدراسة على تقنية يتم فيها تحديد فروع fronto-temporal للعصب الوجهي وعزلها بشكل circumferential كامل، ما يسمح بتحرير McGregor's patch وتحريك أنسجة منتصف وأسفل الوجه.\n\nالنتيجة الأبرز أن frontalis weakness المؤقتة ظهرت لدى جميع المرضى، أي 100%، لكنها زالت بالكامل، ولم تحدث إصابة دائمة بالعصب في هذه السلسلة. كان median time to recovery أربعة عشر يومًا، وتعافى نحو 62% بحلول اليوم الرابع عشر. وبلغ التعافي التراكمي 75.3% عند شهر، و87% عند ثلاثة أشهر، و94.3% عند ستة أشهر. ينبغي الانتباه إلى أن تواريخ التعافي المسجلة تمثل حدودًا زمنية قصوى، وأن بعض المرضى الذين لم يتعافوا بحلول اليوم الرابع عشر تلقوا botulinum toxin في الجانب المقابل لتحسين التناظر.\n\nمن أصل 300 مريض، حضر 282 زيارة الشهر الثاني عشر، وقيّم 265 منهم النتيجة بأنها جيدة أو ممتازة. حدث hematoma لدى مريضين، واحتاج أربعة مرضى إلى revision بسبب asymmetry. هذه نتائج مطمئنة من ناحية عدم وجود إصابة دائمة، لكنها لا تعني أن التقنية أفضل من البدائل؛ فالدراسة لم تتضمن مجموعة مقارنة، وأُجريت في مركز واحد وعلى يد جرّاح واحد. لذلك لا نستطيع معرفة ما إذا كان التحرير الأوسع يحقق فائدة جمالية إضافية تبرر حدوث ضعف مؤقت لدى الجميع.\n\nالخلاصة العملية: لا تغيّر هذه الدراسة الممارسة بمفردها، لكنها توفر معلومات مهمة يمكن استخدامها في مناقشة المخاطر مع المرضى. وهي مناسبة للنقاش في journal club بسبب المفاضلة بين التقنية الجراحية والتعافي العصبي. الخطوة البحثية التالية هي prospective controlled study تقارن هذه التقنية بغيرها، وتقيّم النتائج الجمالية، ومدة التعافي، والمضاعفات على المدى الطويل. مستوى الثقة متوسط؛ فحجم العينة جيد، لكن التصميم retrospective وغياب المقارنة يحدان من قوة الدليل.",
+      "audio_script_en": "Today we review “Endoscopic Facelift with Isolation of the Fronto-Temporal Facial Nerve Branches: A Clinical Study of 300 Cases.” This retrospective case series included 300 patients operated on by a single surgeon between May 2021 and August 2024. The technique involved identifying and completely isolating the fronto-temporal facial nerve branches circumferentially, allowing release of McGregor's patch and mobilization of the mid and lower face.\n\nThe central finding is that all patients—100%—developed transient frontalis weakness. The weakness resolved completely, and no permanent nerve injury was reported. Median time to recovery was 14 days, with approximately 62% recovering by day 14. Cumulative recovery was 75.3% at one month, 87% at three months, and 94.3% at six months. The recorded recovery dates should be interpreted as upper bounds. In addition, patients who had not recovered by day 14 received contralateral botulinum toxin to improve symmetry.\n\nOf the 300 patients, 282 attended the 12-month visit, and 265 rated their result good or excellent. Hematoma occurred in two patients, and four required revision for asymmetry. These results are reassuring regarding permanent nerve injury, but they do not establish that the technique is better than alternatives. The study had no comparator and was performed by one surgeon, so it cannot determine whether broader release provides enough additional aesthetic benefit to justify temporary weakness in every patient.\n\nThe practical takeaway is that this study alone should not change practice, but it provides information that may help with patient counseling. It is suitable for journal-club discussion because it highlights a trade-off between surgical release and nerve recovery. The next step should be a prospective controlled study comparing this approach with other techniques and measuring aesthetic outcomes, recovery, and longer-term complications. Overall confidence is moderate: the sample is substantial, but the retrospective design and absence of a comparison group limit the evidence.",
+      "mcq": [
+        {
+          "q_ar": "ما النتيجة المتعلقة بـ frontalis weakness في هذه السلسلة؟",
+          "q_en": "What was the finding regarding frontalis weakness in this series?",
+          "options_ar": [
+            "أ) لم تحدث لدى أي مريض",
+            "ب) حدثت مؤقتًا لدى جميع المرضى وزالت بالكامل",
+            "ج) حدثت لدى 10% وكانت دائمة",
+            "د) حدثت لدى نصف المرضى واستلزمت revision"
+          ],
+          "options_en": [
+            "A) It occurred in no patients",
+            "B) It occurred transiently in all patients and resolved completely",
+            "C) It occurred in 10% and was permanent",
+            "D) It occurred in half of patients and required revision"
+          ],
+          "answer": 1,
+          "explanation_ar": "أُبلغ عن transient frontalis weakness لدى جميع المرضى، مع زوالها بالكامل وعدم تسجيل إصابة دائمة بالعصب.",
+          "explanation_en": "Transient frontalis weakness was reported in all patients, resolved completely, and was not associated with reported permanent nerve injury."
+        },
+        {
+          "q_ar": "ما median time to recovery المبلغ عنه؟",
+          "q_en": "What was the reported median time to recovery?",
+          "options_ar": [
+            "أ) 3 أيام",
+            "ب) 14 يومًا",
+            "ج) شهر واحد",
+            "د) 6 أشهر"
+          ],
+          "options_en": [
+            "A) 3 days",
+            "B) 14 days",
+            "C) 1 month",
+            "D) 6 months"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان median time to recovery أربعة عشر يومًا، مع تعافي 62.3% بحلول اليوم 14.",
+          "explanation_en": "Median time to recovery was 14 days, with 62.3% recovered by day 14."
+        },
+        {
+          "q_ar": "ما القيد الأساسي الذي يمنع اعتبار التقنية متفوقة على البدائل؟",
+          "q_en": "What is the main limitation preventing a conclusion that the technique is superior to alternatives?",
+          "options_ar": [
+            "أ) حجم العينة أقل من عشرة مرضى",
+            "ب) الدراسة لم تسجل أي نتائج سريرية",
+            "ج) التصميم retrospective وغياب مجموعة مقارنة",
+            "د) اقتصرت الدراسة على نموذج حيواني"
+          ],
+          "options_en": [
+            "A) The sample included fewer than ten patients",
+            "B) The study reported no clinical outcomes",
+            "C) The retrospective design and absence of a comparator",
+            "D) The study was limited to an animal model"
+          ],
+          "answer": 2,
+          "explanation_ar": "على الرغم من شمول 300 حالة، فإن التصميم retrospective وغياب مجموعة مقارنة لا يسمحان بإثبات تفوق التقنية أو تبرير المفاضلة السريرية.",
+          "explanation_en": "Despite including 300 cases, the retrospective design and lack of a comparator prevent establishing superiority or validating the clinical trade-off."
+        }
+      ]
+    },
+    {
+      "pmid": "42864244",
+      "title_ar": "Clinical Utility of Aerodynamic Measures in Vocal Fold Augmentation Outcomes.",
+      "title_en": "Clinical Utility of Aerodynamic Measures in Vocal Fold Augmentation Outcomes.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Oct-13",
+      "doi": "10.1016/j.jvoice.2026.08.029",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42864244/",
+      "pdf_url": null,
+      "study_design": "Retrospective cohort n=98",
+      "summary_ar": "راجعت هذه الدراسة بأثر رجعي بيانات 98 مريضًا خضعوا لـ injection laryngoplasty أو type 1 thyroplasty بسبب glottic insufficiency، مع مقارنة القياسات قبل الإجراء وبعده. شملت القياسات mean airflow during voicing (MADV)، وعدد الأنفاس أثناء قراءة نص، ومدة الكلام، وVoice Handicap Index-10 (VHI-10). كان MADV الأساسي أعلى لدى المرضى الذين خضعوا لإجراء augmentation ثانٍ مقارنة بمن خضعوا لإجراء واحد (0.49 مقابل 0.32 L/s؛ p-value=0.01). كما انخفض عدد الأنفاس أثناء القراءة لدى مجموعة الإجراء الثاني بعد الإجراء الأول، وتحسنت درجات VHI-10 بعد الإجراء الأول ثم تحسنت أكثر بعد الإجراء الثاني. تشير النتائج إلى أن ارتفاع MADV قبل العلاج قد يساعد في توقع الحاجة إلى إجراءات متعددة، لكن الدراسة لم تفصل النتائج حسب نوع الإجراء أو تسلسله. وبسبب التصميم الاستعادي وعدم وجود stratification حسب الإجراء، تدعم النتائج استخدام القياسات الهوائية للتقييم والتخطيط، ولا تثبت أنها تحدد وحدها عدد الإجراءات المطلوب.",
+      "summary_en": "This retrospective study reviewed 98 patients treated with injection laryngoplasty or type 1 thyroplasty for glottic insufficiency. Measures included mean airflow during voicing (MADV), breaths needed to read a standard passage, speaking duration, and Voice Handicap Index-10 (VHI-10). Baseline MADV was higher in patients who underwent a second augmentation than in those who had one procedure (0.49 vs 0.32 L/s; p=0.01). The second-procedure group also reduced the number of breaths needed to read after its first procedure, while VHI-10 improved after the first procedure and further after the second. The findings suggest baseline MADV may help identify patients more likely to need repeat augmentation. Retrospective design and lack of stratification by procedure type or sequence limit causal interpretation and clinical prediction.",
+      "practice_change_ar": "يمكن إضافة MADV إلى التقييم الموضوعي قبل وبعد vocal fold augmentation، لكن لا ينبغي استخدامه وحده لتحديد عدد الإجراءات أو اختيار نوعها.",
+      "practice_change_en": "MADV can be added to objective assessment before and after vocal fold augmentation, but should not alone determine procedure type or the number of procedures.",
+      "future_impact_ar": "قد تساعد دراسات prospective متعددة المراكز في التحقق من قدرة MADV على التنبؤ بالحاجة إلى إعادة augmentation وتحديد عتبات سريرية مفيدة.",
+      "future_impact_en": "Prospective multicenter studies could validate MADV as a predictor of repeat augmentation and establish clinically useful thresholds.",
+      "why_important_ar": "تقدم الدراسة مؤشرًا هوائيًا كميًا قد يساعد الأطباء على التعرف مبكرًا إلى المرضى الأكثر احتمالًا لاحتياج أكثر من إجراء.",
+      "why_important_en": "The study presents a quantitative aerodynamic measure that may help identify patients more likely to require more than one procedure.",
+      "vs_previous_ar": "تضيف الدراسة ارتباطًا بين ارتفاع MADV قبل العلاج والحاجة إلى augmentation متكرر، لكنها لا تغير الممارسة الحالية لغياب التحقق prospective.",
+      "vs_previous_en": "The study adds an association between higher pretreatment MADV and repeat augmentation, but does not change current practice without prospective validation.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة cohort استعادية متوسطة الحجم (n=98) في laryngology، وتقدم معلومة سريرية مفيدة عن MADV لكنها لا تثبت التنبؤ أو تغير الممارسة؛ لذا تستحق تقييمًا متوسطًا.",
+      "stars_reason_en": "A moderate-sized retrospective laryngology cohort (n=98) offers useful information about MADV but does not establish prediction or change practice, supporting a middle-range score.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for discussion of integrating aerodynamic measures into clinical decisions, particularly the retrospective design and lack of procedure-specific analyses.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء prospective يحدد عتبات MADV ويتحقق من قدرتها التنبؤية مع تحليل منفصل حسب نوع augmentation وتسلسله.",
+      "research_gap_en": "A prospective study should define MADV thresholds and validate predictive performance while analyzing augmentation type and sequence separately.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نتناول اليوم دراسة بعنوان Clinical Utility of Aerodynamic Measures in Vocal Fold Augmentation Outcomes، وهي دراسة استعادية في مجال laryngology شملت 98 مريضًا لديهم glottic insufficiency وخضعوا لـ injection laryngoplasty أو type 1 thyroplasty بين عامي 2022 و2024.\n\nسؤال الدراسة كان: هل يمكن أن تساعد القياسات الهوائية قبل الإجراء في توقع النتائج أو الحاجة إلى إجراءات إضافية؟ قاس الباحثون mean airflow during voicing، المعروف اختصارًا بـ MADV، وعدد الأنفاس اللازمة لقراءة نص، ومدة الكلام، إضافة إلى Voice Handicap Index-10.\n\nكانت أبرز نتيجة أن المرضى الذين احتاجوا إلى إجراء augmentation ثانٍ كانت لديهم قيمة MADV أساسية أعلى من المرضى الذين خضعوا لإجراء واحد: 0.49 مقابل 0.32 لتر في الثانية، مع p-value تساوي 0.01. كما تحسن عدد الأنفاس أثناء القراءة بعد الإجراء الأول لدى مجموعة الإجراء الثاني. وبشكل عام، تحسنت درجات VHI-10 بعد الإجراء الأول، وتحسنت أكثر بعد الإجراء الثاني.\n\nسريريًا، تشير النتائج إلى أن MADV قد يكون مقياسًا موضوعيًا مفيدًا لتحديد المرضى الذين قد يحتاجون إلى أكثر من جلسة علاجية، ولمتابعة التغير الوظيفي بعد التدخل. لكنها لا تبرر استخدام MADV منفردًا لاتخاذ قرار بشأن عدد الإجراءات أو نوعها. فقد كانت الدراسة استعادية، ولم تُحلل النتائج بحسب نوع الإجراء أو ترتيب الإجراءات، كما أن الارتباط لا يثبت أن MADV يتنبأ بالحاجة إلى إجراء إضافي بدقة.\n\nتستحق الدراسة النقاش في journal club لأنها تربط القياسات الهوائية بمسار العلاج، لكنها لا تغير الممارسة وحدها. الخطوة التالية هي دراسة prospective تحدد عتبات MADV وتتحقق من دقتها، مع فصل النتائج حسب injection laryngoplasty وtype 1 thyroplasty. الخلاصة: أضيفوا القياسات الهوائية إلى التقييم الشامل عند ملاءمتها، مع الاستمرار في دمجها مع الأعراض والفحص ونتائج المريض.",
+      "audio_script_en": "Today we review “Clinical Utility of Aerodynamic Measures in Vocal Fold Augmentation Outcomes,” a retrospective laryngology study of 98 patients with glottic insufficiency treated with injection laryngoplasty or type 1 thyroplasty between 2022 and 2024.\n\nThe study asked whether preprocedure aerodynamic measures are associated with outcomes or the need for additional treatment. The measures included mean airflow during voicing, or MADV, breaths required to read a standard passage, speaking duration, and the Voice Handicap Index-10.\n\nThe main finding was that patients who underwent a second augmentation had higher baseline MADV than patients who had only one procedure: 0.49 versus 0.32 liters per second, with a p-value of 0.01. The second-procedure group also needed fewer breaths to read after the first procedure. Across groups, VHI-10 scores improved after the first intervention and improved further after the second.\n\nClinically, these results suggest that MADV may be a useful objective measure for identifying patients who could require more than one treatment session and for tracking functional change after intervention. However, MADV should not be used alone to decide the number or type of procedures. The study was retrospective, did not stratify outcomes by procedure type or sequence, and an observed association does not establish accurate prediction of repeat treatment.\n\nThis paper is appropriate for journal-club discussion because it connects aerodynamic assessment with treatment course, but it is not practice-changing on its own. The next step is prospective research that defines clinically useful MADV thresholds and validates predictive accuracy, while analyzing injection laryngoplasty and type 1 thyroplasty separately. The takeaway is to consider aerodynamic measures as part of a broader assessment, alongside symptoms, examination, and patient-reported outcomes.",
+      "mcq": [
+        {
+          "q_ar": "ما القياس الذي كان أعلى لدى المرضى الذين خضعوا لإجراء augmentation ثانٍ؟",
+          "q_en": "Which measure was higher in patients who underwent a second augmentation?",
+          "options_ar": [
+            "أ) Voice Handicap Index-10 بعد الإجراء",
+            "ب) MADV الأساسي",
+            "ج) مدة الكلام بعد الإجراء الثاني",
+            "د) عدد الأنفاس بعد الإجراء الأول"
+          ],
+          "options_en": [
+            "A) Postprocedure Voice Handicap Index-10",
+            "B) Baseline MADV",
+            "C) Speaking duration after the second procedure",
+            "D) Breaths after the first procedure"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان متوسط MADV الأساسي 0.49 L/s لدى مجموعة الإجراء الثاني مقابل 0.32 L/s لدى مجموعة الإجراء الواحد.",
+          "explanation_en": "Mean baseline MADV was 0.49 L/s in the second-procedure group versus 0.32 L/s in the one-procedure group."
+        },
+        {
+          "q_ar": "ما أهم قيد منهجي يحد من تعميم نتائج الدراسة؟",
+          "q_en": "What key methodological limitation restricts interpretation of the findings?",
+          "options_ar": [
+            "أ) اقتصرت الدراسة على مرضى أطفال",
+            "ب) لم تتضمن أي قياسات بعد الإجراء",
+            "ج) لم تُفصل النتائج حسب نوع الإجراء أو تسلسله",
+            "د) كان عدد المشاركين أقل من 10"
+          ],
+          "options_en": [
+            "A) The study included only pediatric patients",
+            "B) No postprocedure measures were collected",
+            "C) Outcomes were not stratified by procedure type or sequence",
+            "D) The sample included fewer than 10 patients"
+          ],
+          "answer": 2,
+          "explanation_ar": "لم تُحلل البيانات بصورة منفصلة حسب injection laryngoplasty أو type 1 thyroplasty أو تسلسل الإجراءات.",
+          "explanation_en": "The analysis did not separate outcomes by injection laryngoplasty, type 1 thyroplasty, or procedure sequence."
+        },
+        {
+          "q_ar": "ما الاستنتاج السريري الأكثر ملاءمة؟",
+          "q_en": "Which clinical conclusion is most appropriate?",
+          "options_ar": [
+            "أ) يحدد MADV وحده عدد الإجراءات اللازم",
+            "ب) قد يساعد MADV في التعرف إلى من قد يحتاجون إجراءات متعددة، مع ضرورة التحقق prospectively",
+            "ج) لا تتحسن نتائج VHI-10 بعد augmentation",
+            "د) يجب استبدال التقييم السريري بقياس MADV"
+          ],
+          "options_en": [
+            "A) MADV alone determines the required number of procedures",
+            "B) MADV may help identify patients who need multiple procedures, pending prospective validation",
+            "C) VHI-10 does not improve after augmentation",
+            "D) MADV should replace clinical assessment"
+          ],
+          "answer": 1,
+          "explanation_ar": "وجدت الدراسة ارتباطًا بين MADV أعلى والحاجة إلى إجراء ثانٍ، لكن التصميم الاستعادي لا يثبت دقة التنبؤ ولا يبرر استبدال التقييم الشامل.",
+          "explanation_en": "The study found an association between higher MADV and a second procedure, but its retrospective design does not establish predictive accuracy or justify replacing comprehensive assessment."
+        }
+      ]
+    },
+    {
+      "pmid": "42874936",
+      "title_ar": "Baseline Sinonasal Phenotypes in Cystic Fibrosis Before Elexacaftor/Tezacaftor/ Ivacaftor Therapy: A Cross-Sectional Analysis.",
+      "title_en": "Baseline Sinonasal Phenotypes in Cystic Fibrosis Before Elexacaftor/Tezacaftor/ Ivacaftor Therapy: A Cross-Sectional Analysis.",
+      "journal": "Respiratory medicine",
+      "pub_date": "2026-Oct-14",
+      "doi": "10.1016/j.rmed.2026.109185",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42874936/",
+      "pdf_url": null,
+      "study_design": "Cross-sectional study n=45",
+      "summary_ar": "قيّمت هذه الدراسة متعددة المجالات sinonasal disease لدى 45 شخصًا مصابًا بـ cystic fibrosis قبل بدء ETI، باستخدام SNOT-22 وVAS وLund-Kennedy endoscopy وLund-Mackay CT وCCCRC olfactory testing. أظهرت النتائج أعراضًا خفيفة إلى متوسطة، مع متوسط VAS بلغ 4.15 ومتوسط SNOT-22 بلغ 14.4، بينما أظهر CT opacification ملحوظًا بمتوسط LM بلغ 14.17. لم تُرصد فروق ذات دلالة بين F508del homozygous وheterozygous، ولا بين مجموعات CFTR functional class لدى heterozygotes. ارتبط nasal obstruction إيجابيًا بـ SNOT-22 وسلبيًا بـ olfactory scores، لكنه لم يرتبط بدرجة endoscopy أو CT. لم تختلف النتائج حسب exocrine pancreatic status، لكن تحليل هذه المجموعة كان محدودًا وصغيرًا. تشير النتائج إلى وجود عبء sinonasal أساسي قبل ETI، من دون ارتباط واضح بتصنيف genotype أو شدة CFTR الوظيفية.",
+      "summary_en": "This cross-sectional study assessed multidomain sinonasal disease in 45 people with cystic fibrosis before ETI initiation. Measures included SNOT-22, nasal-obstruction VAS, Lund-Kennedy endoscopy, Lund-Mackay CT, and CCCRC olfactory testing. Participants had mild-to-moderate symptom burden and substantial CT opacification. Sinonasal outcomes did not significantly differ between F508del homozygous and heterozygous groups, or between CFTR functional classes among heterozygotes. Nasal obstruction correlated with SNOT-22 and inversely with olfactory scores, but not with endoscopic or radiologic severity. Results also did not differ by exocrine pancreatic status, although that analysis was underpowered. The study provides a multidomain pre-ETI baseline but does not establish treatment effects or causality.",
+      "practice_change_ar": "لا تغيّر هذه النتائج الممارسة الحالية، لكنها تدعم تقييم sinonasal disease وolfaction قبل ETI وعند المتابعة بدل الاعتماد على genotype وحده.",
+      "practice_change_en": "These findings do not change current practice, but support assessing sinonasal disease and olfaction before and during ETI therapy rather than relying on genotype alone.",
+      "future_impact_ar": "يمكن استخدام هذا القياس الأساسي لتصميم دراسات longitudinal تتابع استجابة sinonasal وolfactory outcomes بعد ETI.",
+      "future_impact_en": "This baseline may help inform longitudinal studies of sinonasal and olfactory responses after ETI initiation.",
+      "why_important_ar": "توضح الدراسة أن الأعراض وCT findings وolfaction قد تختلف فيما بينها، وأن genotype لا يفسر وحده العبء sinonasal قبل العلاج.",
+      "why_important_en": "The study highlights that symptoms, CT findings, and olfaction may not align, and that genotype alone does not explain baseline sinonasal burden.",
+      "vs_previous_ar": "بدل افتراض ارتباط شدة sinonasal disease بتصنيف CFTR أو pancreatic status، تقيس الدراسة عدة مجالات قبل ETI وتجد عدم وجود فروق ذات دلالة، مع ضرورة الحذر بسبب حجم العينة.",
+      "vs_previous_en": "Rather than assuming sinonasal severity tracks CFTR class or pancreatic status, this study measures multiple domains before ETI and finds no significant group differences, while warranting caution because of its sample size.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة cross-sectional صغيرة نسبيًا (n=45) في موضوع سريري مهم؛ تقدم baseline متعدد المجالات ومعلومة مفيدة، لكنها لا تثبت علاقة سببية أو تأثير ETI ولا تغيّر الممارسة.",
+      "stars_reason_en": "A relatively small cross-sectional study (n=45) on a clinically relevant topic; it offers a useful multidomain baseline but cannot establish causality or ETI effects and does not change practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Useful for discussing outcome-measure selection in CF, interpretation of null subgroup findings, and how sample size and cross-sectional design constrain conclusions.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات prospective أكبر تقارن قياسات sinonasal وolfactory قبل ETI وبعده، مع تحليل genotype وpancreatic status وضبط العوامل المربكة.",
+      "research_gap_en": "Larger prospective studies should compare sinonasal and olfactory measures before and after ETI, with adequate genotype and pancreatic-status subgroups and control of confounders.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم دراسة عن baseline sinonasal phenotypes لدى أشخاص مصابين بـ cystic fibrosis قبل بدء elexacaftor/tezacaftor/ivacaftor، أو ETI. هذه دراسة cross-sectional شملت 45 مريضًا، واستخدمت مجموعة من المقاييس: SNOT-22 للأعراض، وVAS لانسداد الأنف، وLund-Kennedy endoscopy، وLund-Mackay CT، إضافة إلى CCCRC olfactory testing.\n\nكان متوسط VAS لانسداد الأنف 4.15، ومتوسط SNOT-22 نحو 14.4، بما يشير إلى عبء أعراض خفيف إلى متوسط. في المقابل، أظهر Lund-Mackay CT درجة opacification ملحوظة، بمتوسط 14.17. لم يجد الباحثون فروقًا ذات دلالة بين F508del homozygous وheterozygous، كما لم تظهر فروق واضحة بين CFTR functional classes لدى heterozygotes. كذلك لم تختلف النتائج بحسب exocrine pancreatic status، لكن هذا التحليل شمل 13 مريضًا فقط، ولذلك كانت قدرته الإحصائية محدودة.\n\nارتبطت شدة nasal obstruction بارتفاع SNOT-22، وارتبطت عكسيًا بنتائج olfaction. لكنها لم ترتبط بدرجات endoscopy أو CT. وهذا يذكّرنا بأن الأعراض والنتائج البنيوية والوظيفية لا تتطابق بالضرورة، وأن الاعتماد على مقياس واحد قد لا يصف المرض بالكامل.\n\nسريريًا، لا تغيّر الدراسة طريقة العلاج اليوم، ولا تثبت أن genotype غير مهم؛ فعدم وجود فرق إحصائي في عينة صغيرة لا يثبت التكافؤ. لكنها تقدم baseline مفيدًا قبل ETI، وتدعم تقييم الأعراض وolfaction إلى جانب endoscopy وCT عند الحاجة. أهم خطوة بحثية تالية هي دراسة prospective أكبر تقارن هذه المجالات قبل ETI وبعده، لتحديد من يتحسن، ومقدار التحسن، وما إذا كان مرتبطًا بـ genotype أو عوامل أخرى. الخلاصة: هذه دراسة مفيدة لتأطير المتابعة المستقبلية، وليست دليلًا على تأثير علاجي مباشر.",
+      "audio_script_en": "Today’s article examines baseline sinonasal phenotypes in people with cystic fibrosis before starting elexacaftor/tezacaftor/ivacaftor, or ETI. This was a cross-sectional study of 45 individuals. The investigators assessed symptoms with SNOT-22 and a nasal-obstruction VAS, endoscopic findings with Lund-Kennedy scoring, CT disease with Lund-Mackay staging, and smell identification with CCCRC testing.\n\nThe mean obstruction VAS was 4.15 and mean SNOT-22 was 14.4, suggesting mild-to-moderate symptom burden. CT showed substantial opacification, with a mean Lund-Mackay score of 14.17. The study found no significant differences between F508del homozygous and heterozygous participants, or among CFTR functional classes in the heterozygous group. There were also no significant differences by exocrine pancreatic status, although that subgroup analysis included only 13 patients and was substantially underpowered.\n\nNasal obstruction correlated with SNOT-22 and inversely with olfactory scores, but did not correlate with endoscopic or radiologic severity. This is clinically useful because symptoms, structural findings, and function may represent different aspects of disease; one measure alone may not capture the full sinonasal burden.\n\nThe study does not change treatment today and does not show that genotype is irrelevant. A nonsignificant result in a small sample is not proof that groups are equivalent. Its main contribution is a multidomain pre-ETI reference point and a rationale for measuring symptoms and olfaction alongside endoscopy and imaging when clinically appropriate. The key next step is a larger prospective study with assessments before and after ETI, so clinicians can determine who improves, by how much, and whether response relates to genotype or other patient factors. In short, this is useful baseline evidence for future longitudinal work, not evidence of a direct ETI treatment effect.",
+      "mcq": [
+        {
+          "q_ar": "ما تصميم الدراسة وحجم عينتها؟",
+          "q_en": "What were the study design and sample size?",
+          "options_ar": [
+            "أ) RCT شملت 45 مريضًا",
+            "ب) دراسة cross-sectional شملت 45 شخصًا",
+            "ج) systematic review شملت 45 دراسة",
+            "د) case series شملت 13 مريضًا"
+          ],
+          "options_en": [
+            "A) An RCT of 45 patients",
+            "B) A cross-sectional study of 45 individuals",
+            "C) A systematic review of 45 studies",
+            "D) A case series of 13 patients"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت الدراسة cross-sectional، وشملت 45 شخصًا مصابًا بـ cystic fibrosis قبل ETI.",
+          "explanation_en": "This was a cross-sectional study of 45 people with cystic fibrosis before ETI."
+        },
+        {
+          "q_ar": "أي ارتباط وُجد بين nasal obstruction والمقاييس الأخرى؟",
+          "q_en": "Which associations were observed for nasal obstruction?",
+          "options_ar": [
+            "أ) ارتباط إيجابي بـ SNOT-22 وسلبي بـ olfactory scores",
+            "ب) ارتباط إيجابي بـ CT severity فقط",
+            "ج) لا ارتباط مع أي مقياس",
+            "د) ارتباط سلبي بـ SNOT-22 وإيجابي بـ olfactory scores"
+          ],
+          "options_en": [
+            "A) Positive correlation with SNOT-22 and negative correlation with olfactory scores",
+            "B) Positive correlation only with CT severity",
+            "C) No correlation with any measure",
+            "D) Negative correlation with SNOT-22 and positive correlation with olfactory scores"
+          ],
+          "answer": 0,
+          "explanation_ar": "ارتبط VAS إيجابيًا بـ SNOT-22 وسلبيًا بـ olfaction، ولم يرتبط بدرجات endoscopy أو CT.",
+          "explanation_en": "VAS correlated positively with SNOT-22 and inversely with olfaction, but not with endoscopy or CT scores."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب من عدم وجود فروق ذات دلالة بين مجموعات genotype؟",
+          "q_en": "What is the most appropriate interpretation of the nonsignificant genotype-group differences?",
+          "options_ar": [
+            "أ) إثبات أن genotype لا يؤثر مطلقًا في sinonasal disease",
+            "ب) إثبات أن ETI يحسن جميع المجالات بالتساوي",
+            "ج) لم تُكتشف فروق في هذه العينة، لكن ذلك لا يثبت التكافؤ أو ينفي أثر genotype",
+            "د) إثبات أن CT لا يفيد في تقييم المرض"
+          ],
+          "options_en": [
+            "A) Proof that genotype never affects sinonasal disease",
+            "B) Proof that ETI improves all domains equally",
+            "C) No differences were detected in this sample, but this does not prove equivalence or exclude a genotype effect",
+            "D) Proof that CT is not useful for disease assessment"
+          ],
+          "answer": 2,
+          "explanation_ar": "التصميم cross-sectional وحجم العينة يحدان القدرة على استنتاج التكافؤ أو السببية من النتائج غير الدالة.",
+          "explanation_en": "The cross-sectional design and sample size limit conclusions about equivalence or causality from nonsignificant findings."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026101501",
+      "title_ar": "ميدترونيك وكارل شتورز تتعاونان لتطوير حلول جراحية متكاملة للأنف والأذن والحنجرة",
+      "title_en": "Medtronic and Karl Storz Collaborate on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-15",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أعلنت شركتا ميدترونيك وكارل شتورز عن تعاون يركز على تطوير حلول جراحية متكاملة لرعاية الأنف والأذن والحنجرة، بحسب تقرير «ماس ديفايس». ولا يوضح العنوان المنتجات أو التقنيات التي سيجري دمجها، أو موعد إتاحة أي حلول، أو ما إذا كان الاتفاق يتضمن التزامات تجارية أو تطويرية. ولا تتوفر في التقرير المذكور تفاصيل تنظيمية أو سريرية أو مالية.",
+      "summary_en": "Medtronic and Karl Storz have announced a collaboration focused on integrated surgical solutions for ear, nose and throat care, according to MassDevice. The headline does not specify which products or technologies will be combined, when any offerings may become available, or whether the arrangement includes commercial or development commitments. No regulatory, clinical, or financial details are provided in the available report.",
+      "practice_change_ar": "في الوقت الحالي، لا يُتوقع أن يغيّر التعاون الممارسة مباشرة، لكنه قد يتيح مستقبلاً أدوات أو مسارات عمل جراحية أكثر تكاملاً.",
+      "practice_change_en": "For now, surgeons should not expect an immediate change in practice; the collaboration may eventually offer more integrated surgical tools or workflows.",
+      "future_impact_ar": "ستتوقف أهمية التعاون لمجال الأنف والأذن والحنجرة على الحلول التي ستطورها الشركتان، وما إذا كانت ستُظهر مزايا عملية في سير العمل أو رعاية المرضى.",
+      "future_impact_en": "The significance for ENT will depend on which solutions the companies develop and whether they demonstrate practical workflow or patient-care advantages.",
+      "why_important_ar": "قد يؤثر تعزيز التكامل بين مزودي التقنيات الجراحية في سير العمل داخل غرف العمليات واختيار المعدات، لكن لم تُعلن فوائد سريرية محددة.",
+      "why_important_en": "Closer integration between surgical technology providers could affect operating-room workflows and equipment choices, although no specific clinical benefit has been reported.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "تعاون صناعي قد يهم اختيار المعدات مستقبلاً، لكن تفاصيل المنتجات والأثر السريري غير متاحة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "في خبر يخص قطاع تقنيات الأنف والأذن والحنجرة، أعلنت ميدترونيك وكارل شتورز عن تعاون يهدف إلى تقديم حلول جراحية متكاملة. وحتى الآن، لا تتوفر تفاصيل كافية حول المنتجات أو التقنيات التي سيشملها التعاون، ولا عن موعد طرح أي حلول جديدة. كما لم تُذكر بيانات سريرية أو معلومات عن أثر متوقع على نتائج المرضى أو تكاليف الرعاية. لذلك، لا يعني الإعلان بحد ذاته تغييراً فورياً في الممارسة اليومية للجراحين. لكن إذا أسفر التعاون عن أدوات متوافقة أو مسارات عمل أكثر تكاملاً، فقد يؤثر مستقبلاً في تجهيز غرف العمليات واختيار الأنظمة الجراحية. وتبقى أهمية الخبر مرتبطة بما ستعلنه الشركتان لاحقاً من تفاصيل، وبوجود دليل عملي على فائدة سريرية أو تحسن في كفاءة العمل.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026101502",
+      "title_ar": "توقعات بنمو سوق تنظير الأنف والأذن والحنجرة بمعدل سنوي مركب يبلغ 6.4%",
+      "title_en": "ENT Endoscopy Market Forecast to Grow at a 6.4% CAGR",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-15",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "ذكرت Market.us أن سوق تنظير الأنف والأذن والحنجرة يُتوقع أن ينمو بمعدل نمو سنوي مركب قدره 6.4%. ويتعلق الخبر بتوقعات للسوق، وليس إعلاناً عن استحواذ أو قرار تنظيمي أو دعوى قضائية أو إطلاق منتج محدد. ولا تتضمن المعلومات المتاحة الفترة الزمنية للتوقع أو قيمة السوق أو العوامل التي تقف وراء النمو المتوقع.",
+      "summary_en": "Market.us reports that the ENT endoscopy market is projected to grow at a compound annual growth rate of 6.4%. The item is a market forecast, not an announcement of an acquisition, regulatory decision, lawsuit, or specific product launch. The supplied information does not include the forecast period, market valuation, or factors behind the projected growth.",
+      "practice_change_ar": "لا تحدد التوقعات جهازاً بعينه أو تطوراً سريرياً يستدعي تغيير قرارات الجراحين الحالية بشأن الشراء أو العلاج.",
+      "practice_change_en": "The forecast does not identify a specific device or clinical development that should change surgeons’ current purchasing or treatment decisions.",
+      "future_impact_ar": "إذا تحققت التوقعات، فقد يشهد اختصاص الأنف والأذن والحنجرة سوقاً أوسع لتقنيات التنظير، لكن التوقع وحده لا يحدد التقنيات أو المناطق التي ستقود هذا التغير.",
+      "future_impact_en": "If the projection materializes, ENT practices may see a broader endoscopy market, though the forecast alone does not indicate which technologies or regions will drive that change.",
+      "why_important_ar": "قد يشير النمو المتوقع للسوق إلى زيادة الاستثمار وتوافر تقنيات التنظير، لكن التفاصيل المتاحة محدودة جداً لتقييم الأثر السريري أو التشغيلي.",
+      "why_important_en": "Expected market growth may signal expanding investment and availability in endoscopy, but the report details provided are too limited to assess clinical or operational effects.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "أهمية محدودة؛ إنها توقعات سوقية عامة من دون تفاصيل عن أجهزة محددة أو أثر سريري مباشر.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "تتوقع Market.us نمو سوق تنظير الأنف والأذن والحنجرة بمعدل سنوي مركب يبلغ 6.4%. لكن الخبر يورد توقعاً عاماً فقط؛ فلا يوضح الفترة الزمنية، أو حجم السوق، أو العوامل التي ستدفع هذا النمو. كما أنه لا يتناول منتجاً بعينه أو قراراً تنظيمياً أو دراسة سريرية. بالنسبة إلى أطباء الأنف والأذن والحنجرة، قد يعكس هذا التوقع توسعاً محتملاً في الاستثمار وتوافر تقنيات التنظير، لكنه لا يقدم حالياً أساساً لتغيير قرارات الشراء أو الممارسة السريرية. وتبقى متابعة التفاصيل الكاملة للتقرير ضرورية لمعرفة الأسواق والتقنيات التي قد تقود النمو.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026101503",
+      "title_ar": "شركات رائدة في مجال الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية",
+      "title_en": "Leading ENT Companies Driving Medical Technology Innovation",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-15",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت SNS Insider عرضًا عامًا للقطاع بعنوان «شركات رائدة في مجال الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية». ولا يحدد الخبر المتاح شركات بعينها أو منتجات أو نتائج مالية أو عمليات استحواذ أو قرارات تنظيمية أو تطورات ملموسة أخرى. لذلك لا يقدم تفاصيل قابلة للتحقق عن حدث تجاري محدد أو تغيير في الممارسة السريرية.",
+      "summary_en": "SNS Insider published an industry overview titled “Leading ENT Companies Driving Medical Technology Innovation.” The available news item does not identify specific companies, products, financial results, acquisitions, regulatory decisions, or other concrete developments. It therefore provides no verifiable details about a particular business event or change in clinical practice.",
+      "practice_change_ar": "لا يمكن استنتاج أي تغيير فوري في الممارسة السريرية، إذ لا يذكر الخبر تقنية محددة أو أدلة تدعمها.",
+      "practice_change_en": "No immediate change to clinical practice can be inferred because the item provides no specific technology or evidence.",
+      "future_impact_ar": "سيتوقف أي أثر مستقبلي على التقنيات المحددة ووضعها التنظيمي والأدلة السريرية الواردة في التقرير الكامل.",
+      "future_impact_en": "Any future impact will depend on the specific technologies, regulatory status, and clinical evidence described in the full report.",
+      "why_important_ar": "يشير العنوان إلى الاهتمام المستمر بتقنيات الأنف والأذن والحنجرة، لكن غياب التفاصيل لا يوفر معلومات سريرية أو تجارية قابلة للتطبيق للجراحين.",
+      "why_important_en": "The headline points to ongoing interest in ENT technology, but without details it offers no actionable clinical or business information for surgeons.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "أهمية محدودة؛ الخبر المتاح عنوان عام ولا يتضمن تطورًا محددًا أو معلومات قابلة للتطبيق.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "يتناول عنوان نشرته SNS Insider دور الشركات الرائدة في مجال الأنف والأذن والحنجرة في دفع الابتكار في التكنولوجيا الطبية. لكن المعلومات المتاحة لا تتضمن أسماء الشركات أو التقنيات المعنية، ولا تشير إلى صفقة استحواذ أو قرار من إدارة الغذاء والدواء الأمريكية أو نتائج مالية أو بيانات سريرية محددة. لذلك لا يمكن استخلاص أثر مباشر على اختيار الأجهزة أو أساليب العلاج أو سير العمل في عيادات وجراحات الأنف والأذن والحنجرة. وينبغي التعامل مع الخبر بوصفه إشارة عامة إلى نشاط الابتكار في القطاع، لا إعلانًا عن تطور محدد. لتقييم أهميته عمليًا، يلزم الاطلاع على التقرير الكامل والتحقق من المنتجات المذكورة، ووضعها التنظيمي، والأدلة التي تدعم استخدامها.",
+      "mcq": []
+    }
+  ]
+}
