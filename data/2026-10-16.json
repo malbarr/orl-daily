@@ -1,0 +1,883 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T08:16:02Z",
+  "articles": [
+    {
+      "pmid": "42322187",
+      "title_ar": "Predictors of Unplanned Admission After Outpatient Rhytidectomy",
+      "title_en": "Predictors of Unplanned Admission After Outpatient Rhytidectomy",
+      "journal": "Aesthetic surgery journal",
+      "pub_date": "2026-Oct-15",
+      "doi": "10.1093/asj/sjag118",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42322187/",
+      "pdf_url": null,
+      "study_design": "Retrospective cohort n=129",
+      "summary_ar": "راجعت هذه الدراسة بأثر رجعي 129 مريضًا خضعوا لـrhytidectomy ضمن خطة علاجية للمرضى الخارجيين بين يونيو 2022 ويوليو 2025. خرج 108 مرضى (83.7%) في اليوم نفسه، بينما احتاج 21 مريضًا (16.3%) إلى دخول غير مخطط للمستشفى. ارتبط الدخول بمدة تخدير أطول، وعدد أكبر من الإجراءات المتزامنة، ووجود obesity، وارتفاع American Society of Anesthesiologists Physical Status Classification System، وhypertension. كما ارتبط استخدام dexmedetomidine وhydromorphone بالدخول، في حين ارتبط remifentanil بالخروج في اليوم نفسه. هذه نتائج ارتباطية من دراسة استعادية في مركز واحد، ولا تثبت أن الأدوية أو عوامل الخطورة سببت الدخول. قد تساعد النتائج في تقدير احتمالية الحاجة إلى المراقبة أو الإقامة قبل العملية، لكنها لا تقدم قاعدة تنبؤ تم التحقق من صلاحيتها خارجيًا.",
+      "summary_en": "This retrospective study reviewed 129 patients scheduled for outpatient rhytidectomy between June 2022 and July 2025.\nSame-day discharge occurred in 108 patients (83.7%); 21 (16.3%) required unplanned admission.\nAdmission was associated with longer anesthesia duration, more concurrent procedures, obesity, higher ASA physical status, and hypertension.\nDexmedetomidine and hydromorphone use were associated with admission, while remifentanil was associated with same-day discharge.\nThese single-center observational associations do not establish causation.\nThe findings may help inform perioperative planning, but no externally validated prediction tool was reported.",
+      "practice_change_ar": "يمكن استخدام طول مدة التخدير، وعدد الإجراءات، وcomorbidities لمناقشة احتمال الدخول والتخطيط للموارد، دون اعتبارها قاعدة إلزامية لتغيير خطة الخروج.",
+      "practice_change_en": "Use anesthesia duration, procedure burden, and comorbidities to inform admission-risk discussions and resource planning, but not as a mandatory discharge rule.",
+      "future_impact_ar": "يلزم إجراء دراسات متعددة المراكز وبأعداد أكبر للتحقق من عوامل التنبؤ وبناء أداة موثوقة لتقدير مخاطر الدخول.",
+      "future_impact_en": "Larger multicenter studies are needed to validate these predictors and develop a reliable admission-risk tool.",
+      "why_important_ar": "تسلط الدراسة الضوء على أن الدخول غير المخطط حدث في نحو واحد من كل ستة مرضى مجدولين لـoutpatient rhytidectomy، مع ما يترتب عليه من تخطيط للسلامة والموارد.",
+      "why_important_en": "Unplanned admission affected about one in six patients scheduled for outpatient rhytidectomy, with implications for safety planning and resource allocation.",
+      "vs_previous_ar": "تضيف الدراسة بيانات خاصة بـrhytidectomy من مركز واحد حول عوامل مرتبطة بالدخول، لكنها لا تثبت تفوق دواء تخدير بعينه ولا تغير إرشادات قائمة.",
+      "vs_previous_en": "The study adds single-center rhytidectomy-specific data on admission associations but does not establish a preferred anesthetic or change existing guidance.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة أترابية استعادية بحجم n=129 تقدم معلومات مفيدة للتخطيط، لكن تصميمها الرصدي ومركزها الواحد وعدم التحقق الخارجي يحدّ من قوة الاستنتاجات والتأثير المباشر على الممارسة.",
+      "stars_reason_en": "This retrospective cohort of 129 offers useful planning information, but its observational, single-center design and lack of external validation limit the conclusions and immediate practice impact.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسبة للنقاش حول اختيار المرضى وتخطيط الخروج بعد جراحات الوجه التجميلية، مع تقييم حدود الاستدلال من الارتباطات الاستعادية.",
+      "jc_reason_en": "Useful for discussing patient selection and discharge planning after facial plastic surgery, while critically appraising associations from retrospective data.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هل تتكرر هذه الارتباطات في مجموعات متعددة المراكز، وهل يمكن دمجها في نموذج تنبؤ مُعاير ومتحقق منه خارجيًا؟",
+      "research_gap_en": "Do these associations reproduce across multicenter cohorts, and can they be incorporated into a calibrated, externally validated prediction model?",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نتناول اليوم دراسة بعنوان «Predictors of Unplanned Admission After Outpatient Rhytidectomy»، وهي دراسة استعادية من مركز تخصصي شملت 129 مريضًا خضعوا لـrhytidectomy مع التخطيط للخروج في اليوم نفسه. من بين هؤلاء، خرج 108 مرضى، أي 83.7%، في اليوم نفسه، بينما احتاج 21 مريضًا، أي 16.3%، إلى دخول غير مخطط للمستشفى.\n\nارتبط الدخول بمدة تخدير أطول، بمتوسط يقارب 575 دقيقة مقابل 486 دقيقة لدى من خرجوا في اليوم نفسه. كما ارتبط بزيادة عدد الإجراءات المتزامنة، وبوجود obesity أو hypertension، وبدرجة أعلى على American Society of Anesthesiologists Physical Status Classification System. وعلى مستوى الأدوية، ارتبط استخدام dexmedetomidine وhydromorphone بالدخول، بينما ارتبط remifentanil بالخروج في اليوم نفسه.\n\nالنقطة المهمة هي أن هذه نتائج ارتباطية؛ فالدراسة لا تثبت أن دواءً معينًا يسبب الدخول أو يمنعه. قد تعكس الاختلافات تعقيد الحالات أو قرارات التخدير، ولا ينبغي تفسيرها كدليل لاختيار دواء على آخر. كذلك، لا نعرف من الملخص ما إذا كانت هذه النتائج قابلة للتعميم خارج مركز واحد، ولم يُذكر تحقق خارجي لنموذج تنبؤ.\n\nعمليًا، يمكن أن تساعد مدة العملية، وعدد الإجراءات، والحالة الصحية المصاحبة في مناقشة احتمال الإقامة والتخطيط للموارد، لكنها لا تبرر وحدها تغيير خطة الخروج لكل مريض. قوة الدليل متوسطة إلى محدودة بسبب التصميم الاستعادي والحجم المتواضع، لذا تُعد الدراسة مفيدة للنقاش في journal club وليست ممارسةً مغيرةً للمعايير. الخطوة التالية هي دراسات متعددة المراكز للتحقق من عوامل الخطر وبناء أداة مُعايرة لتقدير احتمالية الدخول.",
+      "audio_script_en": "Today’s paper, “Predictors of Unplanned Admission After Outpatient Rhytidectomy,” is a retrospective single-center cohort of 129 patients scheduled for outpatient rhytidectomy. Same-day discharge occurred in 108 patients, or 83.7%; 21 patients, or 16.3%, required an unplanned admission.\n\nAdmission was associated with longer anesthesia duration: about 575 minutes compared with 486 minutes among those discharged the same day. It was also associated with more concurrent procedures, obesity, hypertension, and higher American Society of Anesthesiologists physical status. Dexmedetomidine and hydromorphone use were associated with admission, whereas remifentanil was associated with same-day discharge.\n\nThese are associations, not proof that a medication causes or prevents admission. The findings may reflect differences in case complexity or anesthetic decision-making, so they should not be taken as evidence to choose one agent over another. The study was conducted at one center, and the abstract does not report external validation of a prediction model.\n\nFor current practice, anesthesia duration, procedure burden, and comorbidities can support conversations about admission risk and resource planning. They should not, by themselves, dictate discharge decisions. The retrospective design and modest sample size limit certainty, making this useful journal-club material rather than practice-changing evidence. Multicenter validation and development of a calibrated risk-prediction tool are logical next steps.",
+      "mcq": [
+        {
+          "q_ar": "كم نسبة المرضى الذين احتاجوا إلى دخول غير مخطط بعد جدولة outpatient rhytidectomy؟",
+          "q_en": "What proportion of patients scheduled for outpatient rhytidectomy required unplanned admission?",
+          "options_ar": [
+            "أ) 5.0%",
+            "ب) 16.3%",
+            "ج) 33.3%",
+            "د) 83.7%"
+          ],
+          "options_en": [
+            "A) 5.0%",
+            "B) 16.3%",
+            "C) 33.3%",
+            "D) 83.7%"
+          ],
+          "answer": 1,
+          "explanation_ar": "احتاج 21 من أصل 129 مريضًا إلى دخول غير مخطط، أي 16.3%.",
+          "explanation_en": "Twenty-one of 129 patients required unplanned admission, corresponding to 16.3%."
+        },
+        {
+          "q_ar": "أي عامل ارتبط بالخروج في اليوم نفسه في هذه الدراسة؟",
+          "q_en": "Which factor was associated with same-day discharge in this study?",
+          "options_ar": [
+            "أ) استخدام remifentanil",
+            "ب) وجود hypertension",
+            "ج) استخدام hydromorphone",
+            "د) ارتفاع ASA physical status"
+          ],
+          "options_en": [
+            "A) Remifentanil use",
+            "B) Hypertension",
+            "C) Hydromorphone use",
+            "D) Higher ASA physical status"
+          ],
+          "answer": 0,
+          "explanation_ar": "ارتبط remifentanil بالخروج في اليوم نفسه، بينما ارتبطت العوامل الأخرى المذكورة بالدخول غير المخطط.",
+          "explanation_en": "Remifentanil was associated with same-day discharge; the other listed factors were associated with unplanned admission."
+        },
+        {
+          "q_ar": "ما التفسير الأنسب لارتباط أدوية التخدير بالدخول في هذه الدراسة؟",
+          "q_en": "What is the most appropriate interpretation of the anesthetic-agent associations?",
+          "options_ar": [
+            "أ) تثبت أن dexmedetomidine يسبب الدخول",
+            "ب) تثبت أن remifentanil يمنع الدخول",
+            "ج) ارتباطات استعادية لا تثبت السببية",
+            "د) تكفي لتغيير اختيار الأدوية لجميع المرضى"
+          ],
+          "options_en": [
+            "A) They prove dexmedetomidine causes admission",
+            "B) They prove remifentanil prevents admission",
+            "C) They are retrospective associations and do not establish causation",
+            "D) They are sufficient to change drug selection for all patients"
+          ],
+          "answer": 2,
+          "explanation_ar": "التصميم الاستعادي الرصدي يحدد الارتباط ولا يثبت السببية، وقد تتداخل عوامل مثل تعقيد الحالة وقرارات التخدير.",
+          "explanation_en": "A retrospective observational design identifies associations, not causation; case complexity and anesthetic decisions may confound the findings."
+        }
+      ]
+    },
+    {
+      "pmid": "42411294",
+      "title_ar": "Subdomal Graft Control of Nasal Tip Aesthetics: A Long-term Digital Photographic Evaluation.",
+      "title_en": "Subdomal Graft Control of Nasal Tip Aesthetics: A Long-term Digital Photographic Evaluation.",
+      "journal": "Aesthetic surgery journal",
+      "pub_date": "2026-Oct-15",
+      "doi": "10.1093/asj/sjag143",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42411294/",
+      "pdf_url": null,
+      "study_design": "Retrospective comparative study, n=379",
+      "summary_ar": "قارنت هذه الدراسة بأثر رجعي بين standard tip suturing وsubdomal grafting لدى 379 مريضة خضعن لـprimary closed preservation rhinoplasty بين يناير 2022 وديسمبر 2023. شملت المجموعة الأولى 223 مريضة، بينما تلقت 156 مريضة subdomal grafting. قيس التغير في interdomal angle باستخدام digital analysis لصور intraoperative و12-month postoperative. بلغ متوسط التغير 12.5° في مجموعة standard suturing و6.3° في مجموعة subdomal grafting، مع فرق ذي دلالة إحصائية (P < .05). كما كان متوسط domal symmetry أعلى في مجموعة graft (2.7 مقابل 2.3؛ P < .05)، بينما كانت revision surgery نادرة في المجموعتين. تشير النتائج إلى تحسن الاستقرار والتماثل مع subdomal grafting، لكن التصميم retrospective والمقارنة غير العشوائية يحدان من قوة الاستنتاج.",
+      "summary_en": "This retrospective comparative study evaluated 379 female patients undergoing primary closed preservation rhinoplasty between January 2022 and December 2023. A total of 223 patients received standard tip suturing, while 156 received subdomal grafting. Digital analysis compared the interdomal angle in intraoperative and 12-month postoperative photographs. Mean angle change was 12.5° with standard suturing and 6.3° with subdomal grafting (P < .05). Blinded surgeon ratings also favored the graft group for domal symmetry (2.7 vs 2.3; P < .05). Revision surgery was uncommon in both groups. The findings suggest improved tip stability and symmetry with grafting, but the retrospective, nonrandomized design limits causal conclusions.",
+      "practice_change_ar": "لا تكفي هذه الدراسة لتغيير الممارسة وحدها، لكنها تدعم التفكير في subdomal grafting عند الرغبة في تعزيز استقرار nasal tip بعد primary closed preservation rhinoplasty.",
+      "practice_change_en": "This study alone does not justify changing practice, but it supports considering subdomal grafting when seeking greater nasal tip stability after primary closed preservation rhinoplasty.",
+      "future_impact_ar": "قد تؤدي دراسات prospective أو randomized مع متابعة أطول إلى تحديد أي المريضات يستفدن أكثر من subdomal grafting.",
+      "future_impact_en": "Prospective or randomized studies with longer follow-up may clarify which patients benefit most from subdomal grafting.",
+      "why_important_ar": "تقدم الدراسة مقارنة رقمية وصوراً مقيمة بصورة معماة حول تقنية تهدف إلى تقليل تغير nasal tip بعد الجراحة.",
+      "why_important_en": "The study provides a photographic, blinded comparison of a technique intended to reduce postoperative nasal tip change.",
+      "vs_previous_ar": "على خلاف الاعتماد على الخبرة التقنية أو suturing وحده، تقارن الدراسة subdomal grafting مباشرةً بمقياس زاوية رقمي وتقييم symmetry عند 12 شهراً.",
+      "vs_previous_en": "Unlike relying on technical experience or suturing alone, this study directly compares subdomal grafting using a digital angle measure and 12-month symmetry ratings.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة مقارنة retrospective كبيرة نسبياً (n=379) وتظهر نتائج إيجابية ذات دلالة إحصائية، لكن غياب العشوائية ومحدودية المتابعة إلى 12 شهراً يجعلانها دليلاً مفيداً لا حاسماً.",
+      "stars_reason_en": "This relatively large retrospective comparative study (n=379) reports statistically significant favorable outcomes, but nonrandomized allocation and 12-month follow-up make the evidence useful rather than definitive.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق المناقشة بسبب أهمية القياس الموضوعي للنتائج، مع تقييم احتمال confounding الناتج عن اختيار التقنية وعدم وجود تخصيص عشوائي.",
+      "jc_reason_en": "It merits discussion because of its objective outcome measurement and the need to assess confounding from technique selection and the absence of randomization.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "ينبغي إجراء دراسة prospective متعددة المراكز تقارن التقنيتين مع ضبط خصائص المريض والجراح، وتقييم نتائج وظيفية وجمالية على مدى أطول.",
+      "research_gap_en": "A prospective multicenter comparison should control for patient and surgeon factors and assess both functional and aesthetic outcomes over longer follow-up.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نستعرض اليوم دراسة بعنوان Subdomal Graft Control of Nasal Tip Aesthetics: A Long-term Digital Photographic Evaluation، وهي دراسة في مجال facial plastics تبحث في استقرار nasal tip بعد rhinoplasty. شملت الدراسة 379 مريضة خضعن لـprimary closed preservation rhinoplasty بين عامي 2022 و2023. تلقت 223 مريضة standard tip suturing، بينما تلقت 156 مريضة subdomal grafting. قارن الباحثون صور intraoperative بصور بعد 12 شهراً، واستخدموا ImageJ/Fiji لقياس تغير interdomal angle. كما قيّم ثلاثة جراحين plastic surgeons، بصورة معماة، domal symmetry باستخدام مقياس من ثلاث درجات.\n\nكان متوسط تغير interdomal angle نحو 12.5 درجة مع standard suturing، مقابل 6.3 درجات مع subdomal grafting، وكان الفرق ذا دلالة إحصائية. كذلك كان متوسط symmetry أعلى في مجموعة graft: 2.7 مقابل 2.3. أما revision surgery فكانت نادرة، مع حالتين في مجموعة suturing وحالة واحدة في مجموعة graft.\n\nالرسالة السريرية هي أن subdomal grafting قد يحسن ثبات زاوية القبة والتماثل، لكنه لا يثبت وحده أن التقنية هي سبب التحسن. الدراسة retrospective وغير عشوائية، وشملت مريضات فقط، كما اقتصرت المتابعة المصورة على 12 شهراً. لذلك نعدها دليلاً متوسطاً يستحق المعرفة والنقاش، وليس سبباً كافياً لتغيير الممارسة لكل مريض. قد تكون التقنية خياراً عند الحاجة إلى دعم إضافي لـnasal tip، مع مراعاة حالة المريضة وخبرة الجراح. الخطوة البحثية التالية هي prospective multicenter study تقارن التقنيتين، وتضبط عوامل اختيار المرضى والجراحين، وتضيف نتائج وظيفية ومتابعة أطول.",
+      "audio_script_en": "Today’s article, “Subdomal Graft Control of Nasal Tip Aesthetics: A Long-term Digital Photographic Evaluation,” examines nasal tip stability after rhinoplasty. This retrospective comparative study included 379 female patients who underwent primary closed preservation rhinoplasty between 2022 and 2023. Of these, 223 received standard tip suturing and 156 received subdomal grafting. The investigators compared intraoperative photographs with images taken 12 months after surgery. They used ImageJ/Fiji to measure interdomal angle change, and three blinded plastic surgeons rated domal symmetry on a three-point scale.\n\nMean interdomal angle change was 12.5 degrees in the suturing group and 6.3 degrees in the graft group, a statistically significant difference. Mean symmetry ratings also favored grafting: 2.7 compared with 2.3. Revision surgery was uncommon, with two cases in the suturing group and one in the graft group.\n\nThe clinical takeaway is that subdomal grafting may improve control of the interdomal angle and nasal tip symmetry. However, this study cannot establish that the graft itself caused the difference. It was retrospective and nonrandomized, included only female patients, and assessed photographic outcomes at 12 months. We therefore view it as useful evidence for discussion, not as a reason to change practice for every patient. Surgeons may consider the technique when additional nasal tip support is desired, while individualizing decisions to the patient and operative context. Future prospective, multicenter studies should account for patient and surgeon selection factors and include functional outcomes and longer follow-up.",
+      "mcq": [
+        {
+          "q_ar": "ما تصميم الدراسة وعدد المشاركات؟",
+          "q_en": "What was the study design and sample size?",
+          "options_ar": [
+            "أ) RCT شملت 120 مريضاً",
+            "ب) دراسة مقارنة retrospective شملت 379 مريضة",
+            "ج) prospective cohort شملت 45 مريضاً",
+            "د) case series شملت 9 مرضى"
+          ],
+          "options_en": [
+            "A) An RCT of 120 patients",
+            "B) A retrospective comparative study of 379 female patients",
+            "C) A prospective cohort of 45 patients",
+            "D) A case series of 9 patients"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت الدراسة مقارنة retrospective وشملت 379 مريضة خضعن لـprimary closed preservation rhinoplasty.",
+          "explanation_en": "The study was a retrospective comparison including 379 female patients undergoing primary closed preservation rhinoplasty."
+        },
+        {
+          "q_ar": "ما متوسط تغير interdomal angle في مجموعة subdomal grafting؟",
+          "q_en": "What was the mean interdomal angle change in the subdomal grafting group?",
+          "options_ar": [
+            "أ) 2.3°",
+            "ب) 6.3°",
+            "ج) 12.5°",
+            "د) 27°"
+          ],
+          "options_en": [
+            "A) 2.3°",
+            "B) 6.3°",
+            "C) 12.5°",
+            "D) 27°"
+          ],
+          "answer": 1,
+          "explanation_ar": "بلغ متوسط التغير 6.3° في مجموعة subdomal grafting، مقارنةً بـ12.5° في مجموعة standard tip suturing.",
+          "explanation_en": "Mean change was 6.3° with subdomal grafting, compared with 12.5° with standard tip suturing."
+        },
+        {
+          "q_ar": "ما القيد المنهجي الأهم عند تفسير النتائج؟",
+          "q_en": "What is the most important methodological limitation when interpreting the results?",
+          "options_ar": [
+            "أ) الدراسة حيوانية",
+            "ب) لم تتضمن أي نتائج",
+            "ج) التصميم retrospective وغير عشوائي",
+            "د) عدد المشاركات أقل من 10"
+          ],
+          "options_en": [
+            "A) It was an animal study",
+            "B) It reported no results",
+            "C) It was retrospective and nonrandomized",
+            "D) It included fewer than 10 participants"
+          ],
+          "answer": 2,
+          "explanation_ar": "التصميم retrospective وعدم التخصيص العشوائي قد يسمحان بوجود confounding ويحدان من الاستدلال السببي.",
+          "explanation_en": "The retrospective design and lack of randomization may introduce confounding and limit causal inference."
+        }
+      ]
+    },
+    {
+      "pmid": "42869429",
+      "title_ar": "Evaluation of Costal Cartilage Calcification Using Plain Radiographic Images.",
+      "title_en": "Evaluation of Costal Cartilage Calcification Using Plain Radiographic Images.",
+      "journal": "Aesthetic surgery journal",
+      "pub_date": "2026-Oct-14",
+      "doi": "10.1093/asj/sjag222",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42869429/",
+      "pdf_url": null,
+      "study_design": "Retrospective observational study of 183 rhinoplasty patients",
+      "summary_ar": "قيّمت الدراسة وجود وشكل calcification في costal cartilage باستخدام plain chest radiographs لدى 183 مريضًا خضعوا لـ rhinoplasty، وشملت 1,098 مقطعًا من الأضلاع السادس إلى الثامن. وُجد calcification بدرجة grade ≥1 في 54.1% من المقاطع، مع انتشار وشدة أعلى لدى الإناث مقارنة بالذكور. كان النمط marginal هو الغالب لدى الذكور، بينما ظهرت أنماط granular وcentral لدى نسبة من الإناث. بلغت نسبة severe calcification، المعرّف بأنه grade ≥3، ذروتها في الفئة العمرية 40-49 سنة، وليس لدى الأكبر سنًا. ارتبط كل من female sex وage 40-49 years بشكل مستقل بزيادة احتمال severe calcification، مع odds ratio بلغ 3.01 و6.28 على التوالي. تشير النتائج إلى أن plain rib series قد تساعد في تقييم donor cartilage قبل الجراحة، لكن الدراسة لا تثبت أنها تتفوق على chest CT أو تحسن النتائج الجراحية.",
+      "summary_en": "This study assessed the presence and morphology of costal cartilage calcification on plain chest radiographs in 183 patients undergoing rhinoplasty, evaluating 1,098 segments from ribs 6-8. Calcification (grade ≥1) was present in 54.1% of segments, with higher prevalence and severity in females. The marginal pattern predominated in males, while granular and central patterns occurred in a proportion of females. Severe calcification (grade ≥3) peaked in the 40-49-year age group rather than among older patients. Female sex and age 40-49 years were independent predictors of severe calcification, with odds ratios of 3.01 and 6.28, respectively. Plain rib series may help assess donor cartilage before surgery, but the study does not establish superiority to chest CT or improved surgical outcomes.",
+      "practice_change_ar": "يمكن التفكير في طلب plain rib series قبل استخدام costal cartilage في rhinoplasty، خصوصًا لتوقع calcification وتوجيه اختيار donor site، مع عدم اعتبارها بديلًا مثبتًا عن chest CT.",
+      "practice_change_en": "Consider preoperative plain rib series when costal cartilage is planned for rhinoplasty to anticipate calcification and guide donor-site selection, while recognizing that it is not a validated replacement for chest CT.",
+      "future_impact_ar": "تحتاج هذه النتائج إلى تحقق prospective ومقارنة مباشرة مع chest CT لتحديد دقة plain radiographs وتأثيرها على اختيار graft والنتائج الجراحية.",
+      "future_impact_en": "Prospective validation and direct comparison with chest CT are needed to determine radiographic accuracy and effects on graft selection and surgical outcomes.",
+      "why_important_ar": "قد يكشف التصوير البسيط calcification شائعًا وغير متوقع في costal cartilage، ما يساعد جراحي rhinoplasty على التخطيط المسبق للتعامل مع graft.",
+      "why_important_en": "Plain imaging may reveal common, unexpected costal cartilage calcification and help rhinoplasty surgeons plan graft harvesting and handling.",
+      "vs_previous_ar": "بدل الاعتماد على chest CT وحده، تدرس هذه الورقة plain rib series كوسيلة محتملة أقل كلفة وإشعاعًا، وتضيف ملاحظة عن اختلاف الأنماط حسب الجنس وارتفاع الشدة في عمر 40-49 سنة.",
+      "vs_previous_en": "Rather than relying solely on chest CT, this study evaluates plain rib series as a potentially lower-cost, lower-radiation option and reports sex-related morphological differences and a severity peak at ages 40-49.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة رصدية استعادية متوسطة الحجم (183 مريضًا) تقدم معلومة مفيدة وجديدة عن calcification وإمكان تقييمه بالتصوير البسيط، لكن لا توجد مقارنة مرجعية أو نتائج جراحية تثبت تغيير الممارسة؛ كما أن المجلة ليست ضمن قائمة المجلات ذات نقاط tier الإضافية.",
+      "stars_reason_en": "This moderate-sized retrospective observational study (183 patients) offers useful, relatively novel information about calcification and its assessment with plain imaging, but lacks a reference-standard comparison or surgical outcomes to establish a practice change; the journal is not among the listed journals receiving a tier bonus.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق المناقشة بسبب اقتراح plain rib series بدل التصوير المقطعي الروتيني، وبسبب النمط غير المتوقع لذروة severe calcification في عمر 40-49 سنة، مع ضرورة نقد محدودية التحقق من دقة التصوير.",
+      "jc_reason_en": "Worth discussing because it proposes plain rib series as an alternative to routine CT and reports an unexpected peak in severe calcification at ages 40-49, while inviting scrutiny of imaging validation limitations.",
+      "watch": true,
+      "watch_detail_ar": "يجدر متابعة دور plain rib series كوسيلة تصوير منخفضة الكلفة لتقييم costal cartilage قبل rhinoplasty، إلى أن تتوفر دراسات مقارنة تؤكد دقتها وفائدتها.",
+      "watch_detail_en": "Track plain rib series as a potentially lower-cost imaging approach for preoperative costal cartilage assessment in rhinoplasty, pending studies validating its accuracy and utility.",
+      "watch_type": "technology",
+      "research_gap_ar": "لا تزال دقة plain radiographs مقارنةً بـ chest CT، ومدى تأثير اكتشاف calcification على اختيار graft والنتائج والمضاعفات، غير معروفة.",
+      "research_gap_en": "The accuracy of plain radiographs versus chest CT and the impact of detecting calcification on graft choice, outcomes, and complications remain unknown.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نستعرض اليوم دراسة عن تقييم calcification في costal cartilage باستخدام plain radiographs لدى مرضى rhinoplasty. أهمية الموضوع أن costal cartilage يُستخدم كـ autologous graft لدعم البنية، لكن calcification قد يصعّب اختيار donor site والتعامل مع الغضروف أثناء الجراحة. يُستخدم chest CT تقليديًا للتقييم، إلا أن كلفته والتعرض للإشعاع قد يحدان من طلبه روتينيًا.\n\nشملت الدراسة 183 مريضًا، وفحص الباحثون الأضلاع السادس إلى الثامن على الجانبين، أي 1,098 مقطعًا. وُجد calcification بدرجة grade 1 أو أكثر في 54.1% من المقاطع. كان الانتشار والشدة أعلى لدى الإناث. لدى الذكور كان النمط marginal هو الغالب، في حين ظهرت الأنماط granular وcentral لدى بعض الإناث. والنتيجة اللافتة أن severe calcification، أي grade 3 أو أعلى، بلغ ذروته في فئة 40-49 سنة، بدلًا من الزيادة المتوقعة مع التقدم في العمر. في التحليل متعدد المتغيرات، ارتبطت female sex وage 40-49 years بزيادة احتمال severe calcification، بقيم odds ratio بلغت 3.01 و6.28 على التوالي.\n\nسريريًا، قد يكون plain rib series خيارًا عمليًا لتقييم الغضروف قبل الجراحة، وربما يساعد في توقع صعوبات الحصاد والتعامل مع graft. لكن هذه دراسة رصدية، ولا يوضح الملخص وجود مقارنة مباشرة مع chest CT أو تأكيد جراحي منهجي لنتائج الأشعة، كما لا يعرض أثر التصوير على النتائج أو المضاعفات. لذلك لا تكفي النتائج لتوصية عامة بأن التصوير البسيط بديل عن CT، ولا تثبت أن التصوير الروتيني يغير النتائج.\n\nالخلاصة: هذه إضافة مفيدة لجراحي facial plastics، خصوصًا عند التخطيط لاستخدام costal cartilage، وتدعم التفكير في plain rib series ضمن التقييم قبل الجراحة. لكنها تستدعي دراسات prospective تقارن التصوير البسيط بـ chest CT وتختبر أثره على اختيار donor site وكفاءة الجراحة. مستوى الثقة متوسط؛ الدراسة مناسبة للنقاش في journal club، لكنها لا تغيّر الممارسة وحدها.",
+      "audio_script_en": "Today we review a study evaluating costal cartilage calcification on plain radiographs in patients undergoing rhinoplasty. Costal cartilage is an important autologous graft for structural support, but calcification may complicate donor-site selection, harvesting, and graft manipulation. Chest CT is conventionally used for evaluation, although cost and radiation exposure may discourage routine use.\n\nThe investigators assessed bilateral sixth through eighth costal cartilages in 183 patients, covering 1,098 rib segments. Calcification of grade 1 or greater was present in 54.1% of segments. Prevalence and severity were higher in females. The marginal pattern predominated in males, whereas granular and central patterns were seen in a proportion of females. One unexpected finding was that severe calcification, defined as grade 3 or higher, peaked in patients aged 40-49 rather than increasing in the oldest age group. In multivariable analysis, female sex and age 40-49 were independent predictors of severe calcification, with odds ratios of 3.01 and 6.28, respectively.\n\nFor clinical practice, plain rib series may offer a practical way to identify calcification before surgery and help anticipate challenges with costal cartilage grafts. However, this is an observational study, and the abstract does not report a direct comparison with chest CT, systematic surgical confirmation of imaging findings, or evidence that imaging changed graft selection or patient outcomes. The findings therefore do not establish plain radiography as a replacement for CT or prove that routine imaging improves results.\n\nThe takeaway is that this study provides useful information for facial plastic surgeons planning to use costal cartilage and supports considering plain rib series as part of preoperative assessment. Further prospective work should compare radiographs with chest CT and determine whether imaging changes donor-site choice, operative handling, complications, or outcomes. Overall, this is worth knowing and suitable for journal club, but it is not yet strong enough to mandate a change in practice.",
+      "mcq": [
+        {
+          "q_ar": "ما نسبة مقاطع costal cartilage التي أظهرت calcification بدرجة grade ≥1؟",
+          "q_en": "What proportion of costal cartilage segments showed calcification of grade ≥1?",
+          "options_ar": [
+            "أ) 25.8%",
+            "ب) 46.6%",
+            "ج) 54.1%",
+            "د) 62.9%"
+          ],
+          "options_en": [
+            "A) 25.8%",
+            "B) 46.6%",
+            "C) 54.1%",
+            "D) 62.9%"
+          ],
+          "answer": 2,
+          "explanation_ar": "وُجد calcification بدرجة grade ≥1 في 54.1% من إجمالي 1,098 مقطعًا.",
+          "explanation_en": "Calcification of grade ≥1 was found in 54.1% of the 1,098 evaluated segments."
+        },
+        {
+          "q_ar": "في أي فئة عمرية بلغت نسبة severe calcification ذروتها؟",
+          "q_en": "In which age group did severe calcification peak?",
+          "options_ar": [
+            "أ) أقل من 30 سنة",
+            "ب) 30-39 سنة",
+            "ج) 40-49 سنة",
+            "د) 60 سنة فأكثر"
+          ],
+          "options_en": [
+            "A) Under 30 years",
+            "B) 30-39 years",
+            "C) 40-49 years",
+            "D) 60 years or older"
+          ],
+          "answer": 2,
+          "explanation_ar": "بلغت severe calcification ذروتها في فئة 40-49 سنة، على نحو غير متوقع مقارنةً بالتوقع البسيط بزيادة الشدة مع العمر.",
+          "explanation_en": "Severe calcification peaked at ages 40-49, an unexpected finding rather than a simple increase with age."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأكثر ملاءمة بشأن استخدام plain rib series قبل rhinoplasty؟",
+          "q_en": "What is the most appropriate conclusion about using plain rib series before rhinoplasty?",
+          "options_ar": [
+            "أ) ثبت أنها تتفوق على chest CT في الدقة",
+            "ب) قد تساعد في تقييم calcification، لكن يلزم التحقق من دقتها وفائدتها",
+            "ج) لا يمكنها إظهار costal cartilage calcification",
+            "د) ينبغي استخدامها بدل chest CT في جميع المرضى"
+          ],
+          "options_en": [
+            "A) It has been proven more accurate than chest CT",
+            "B) It may help assess calcification, but its accuracy and utility need validation",
+            "C) It cannot show costal cartilage calcification",
+            "D) It should replace chest CT in all patients"
+          ],
+          "answer": 1,
+          "explanation_ar": "تشير الدراسة إلى فائدة محتملة للتصوير البسيط، لكنها لا تعرض مقارنة مباشرة مع chest CT أو نتائج تثبت تحسن الرعاية.",
+          "explanation_en": "The study suggests potential utility for plain imaging but provides no direct comparison with chest CT or evidence of improved care."
+        }
+      ]
+    },
+    {
+      "pmid": "42823956",
+      "title_ar": "Niche-specific immune and microbial signatures across the healthy upper respiratory tract mucosa.",
+      "title_en": "Niche-specific immune and microbial signatures across the healthy upper respiratory tract mucosa.",
+      "journal": "iScience",
+      "pub_date": "2026-Oct-16",
+      "doi": "10.1016/j.isci.2026.117574",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42823956/",
+      "pdf_url": "https://doi.org/10.1016/j.isci.2026.117574",
+      "study_design": "Cross-sectional observational study; 44 healthy adults",
+      "summary_ar": "درست هذه الدراسة 44 بالغًا سليمًا، وجمعت عينات من nasopharyngeal، oropharyngeal، mid-turbinate، mucosal lining fluid (MLF)، وsaliva. قاس الباحثون cytokines وantibodies، واستخدموا 16S rRNA sequencing للكشف عن microbial profiles، إضافة إلى PCR للكشف عن pathogens. اختلفت الخصائص المناعية والميكروبية بحسب الموقع؛ إذ أظهرت العينات الأنفية مستويات أعلى من antiviral cytokines وهيمنة Corynebacterium. تميزت العينات الفموية بتنوع ميكروبي أكبر وأنماط مختلفة من cytokines وantibodies. احتوت saliva وMLF على أعلى تركيزات antibodies، وكان معظمها IgA. تقدم النتائج إطارًا غير باضع لدراسة التفاعلات بين host والمicrobes في مواقع URT المختلفة، لكنها لا تثبت علاقات سببية أو أثرًا على نتائج المرضى.",
+      "summary_en": "This cross-sectional study profiled samples from 44 healthy adults across several upper respiratory tract niches. Samples included nasopharyngeal, oropharyngeal, and mid-turbinate swabs, mucosal lining fluid (MLF), and saliva. Researchers measured cytokines and antibodies, performed 16S rRNA sequencing, and used PCR for pathogen detection. Nasal samples had higher antiviral cytokine levels and were dominated by Corynebacterium. Oral samples showed greater microbial diversity and distinct immune profiles, while saliva and MLF had the highest antibody concentrations, predominantly IgA. The work demonstrates a feasible framework for studying site-specific host-microbe relationships, but does not establish causality or clinical benefit.",
+      "practice_change_ar": "لا تغيّر هذه النتائج الممارسة السريرية اليوم، لكنها تدعم استخدام أخذ عينات غير باضع في أبحاث URT المستقبلية.",
+      "practice_change_en": "These findings do not change clinical practice today, but support non-invasive sampling in future URT research.",
+      "future_impact_ar": "قد يساعد هذا النهج في تطوير surveillance للعدوى وتقييم vaccine عبر قياس الاستجابات المناعية والميكروبية بحسب الموقع.",
+      "future_impact_en": "This approach may support infection surveillance and vaccine evaluation by profiling site-specific immune and microbial responses.",
+      "why_important_ar": "توضح الدراسة أن خصائص المناعة والميكروبات تختلف بين مواقع URT، ما يجعل أخذ العينات من موقع واحد غير كافٍ لتمثيل كامل المخاطية.",
+      "why_important_en": "The study shows that immune and microbial features vary across URT sites, so sampling one niche may not represent the entire mucosa.",
+      "vs_previous_ar": "بدل التعامل مع URT كحيز موحد، تقارن الدراسة بصورة متكاملة بين عدة مواقع وعينات مناعية وميكروبية لدى بالغين أصحاء.",
+      "vs_previous_en": "Rather than treating the URT as a single compartment, this study integrates immune and microbial profiling across multiple sites in healthy adults.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة رصدية مقطعية صغيرة نسبيًا شملت 44 شخصًا أصحاء، وتقدم معرفة مفيدة ومبتكرة عن الاختلافات بين المواقع، لكنها لا تغيّر التدبير السريري ولا تقيس نتائج مرضية.",
+      "stars_reason_en": "This relatively small cross-sectional study of 44 healthy adults offers useful, novel information about niche-specific differences, but does not change management or assess disease outcomes.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for journal club because of its integrated multi-sample approach, while allowing discussion of the small healthy cohort and lack of clinical outcome data.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج الدراسات المستقبلية إلى cohorts أكبر تشمل مرضى، مع متابعة زمنية واختبار ما إذا كانت هذه signatures تتنبأ بالعدوى أو الاستجابة للقاحات.",
+      "research_gap_en": "Larger longitudinal cohorts including patients are needed to test whether these signatures predict infection risk or vaccine responses.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم دراسة بعنوان «Niche-specific immune and microbial signatures across the healthy upper respiratory tract mucosa»، نُشرت في iScience. تناول الباحثون سؤالًا مهمًا: هل تتشابه الخصائص المناعية والميكروبية في جميع مواقع upper respiratory tract، أم تختلف بحسب الموقع؟\n\nشملت الدراسة 44 بالغًا سليمًا تتراوح أعمارهم بين 20 و65 عامًا. جُمعت عينات من nasopharyngeal، oropharyngeal، وmid-turbinate swabs، إضافة إلى mucosal lining fluid، أو MLF، وsaliva. استخدم الفريق multiplex assays لقياس cytokines وantibodies، و16S rRNA sequencing لوصف الميكروبات، وPCR للكشف عن pathogens.\n\nكانت النتائج الأساسية أن الملفات المناعية والميكروبية تختلف بين المواقع. أظهرت العينات الأنفية مستويات أعلى من antiviral cytokines، مع هيمنة Corynebacterium. أما العينات الفموية فتميزت بتنوع ميكروبي أكبر وبأنماط مختلفة من cytokines وantibodies. واحتوت saliva وMLF على أعلى تركيزات antibodies، وكان معظمها IgA. كما أظهرت التحليلات المتكاملة ارتباطات بين أنواع microbes والاستجابات المناعية بحسب الموقع.\n\nأهمية الدراسة أنها تبيّن أن URT ليس حيزًا متجانسًا، وأن الاعتماد على عينة واحدة قد لا يصف المخاطية كاملة. كما تثبت إمكانية إجراء profiling متكامل باستخدام عينات غير باضعة، وهو ما قد يفيد مستقبلًا في infection surveillance وتقييم vaccine responses.\n\nلكن هذه دراسة مقطعية في أشخاص أصحاء، وعدد المشاركين محدود. لذلك فهي لا تثبت السببية، ولا توضح إن كانت هذه الاختلافات تتنبأ بالمرض أو تغيّر قرارات العلاج. لا يوجد تغيير مباشر للممارسة السريرية اليوم، وتبقى قيمة النتائج بحثية. الخطوة التالية هي دراسات أكبر وطولية تشمل مرضى، لتحديد مدى ارتباط هذه signatures بخطر العدوى أو الاستجابة للقاحات. الخلاصة: دراسة مفيدة لتوجيه أبحاث rhinology والمناعة المخاطية، لكنها ليست دليلًا على تدخل سريري جديد.",
+      "audio_script_en": "Today we review “Niche-specific immune and microbial signatures across the healthy upper respiratory tract mucosa,” published in iScience. The study asks whether immune and microbial features are uniform throughout the upper respiratory tract, or whether they differ by anatomical niche.\n\nThe investigators enrolled 44 healthy adults aged 20 to 65 years. They collected nasopharyngeal, oropharyngeal, and mid-turbinate swabs, as well as mucosal lining fluid, or MLF, and saliva. They measured cytokines and antibodies using multiplex assays, profiled microbial communities with 16S rRNA sequencing, and used PCR to detect pathogens.\n\nThe main finding was that immune and microbial profiles varied across sites. Nasal samples had higher antiviral cytokine levels and were dominated by Corynebacterium. Oral samples showed greater microbial diversity and distinct cytokine and antibody patterns. Saliva and MLF contained the highest antibody concentrations, predominantly IgA. Integrated analyses also identified site-specific associations between microbes and immune features.\n\nWhy does this matter? The findings suggest that the URT should not be considered one uniform compartment, and that a sample from a single site may not represent the entire mucosa. The study also demonstrates the feasibility of integrated profiling using minimally invasive samples. This framework could eventually support infection surveillance and vaccine evaluation.\n\nThere are important limitations. This was a cross-sectional study in a relatively small group of healthy adults. It cannot establish causality, determine whether the signatures predict infection, or show that they improve clinical decisions. Therefore, it does not change practice today; its contribution is primarily to research and study design. Larger longitudinal studies that include patients are needed to determine whether these niche-specific signatures relate to infection risk or vaccine responses. In summary, this is useful foundational work for rhinology and mucosal immunology, but it does not yet provide a new clinical intervention.",
+      "mcq": [
+        {
+          "q_ar": "كم عدد البالغين المشاركين في الدراسة؟",
+          "q_en": "How many adults participated in the study?",
+          "options_ar": [
+            "أ) 20",
+            "ب) 44",
+            "ج) 65",
+            "د) 120"
+          ],
+          "options_en": [
+            "A) 20",
+            "B) 44",
+            "C) 65",
+            "D) 120"
+          ],
+          "answer": 1,
+          "explanation_ar": "شملت الدراسة 44 بالغًا سليمًا تتراوح أعمارهم بين 20 و65 عامًا.",
+          "explanation_en": "The study included 44 healthy adults aged 20 to 65 years."
+        },
+        {
+          "q_ar": "ما النمط الذي وُصف في العينات الأنفية؟",
+          "q_en": "Which pattern was reported in nasal samples?",
+          "options_ar": [
+            "أ) تنوع ميكروبي أعلى مع غياب cytokines",
+            "ب) مستويات أعلى من antiviral cytokines وهيمنة Corynebacterium",
+            "ج) أعلى تركيز antibodies من نوع IgG",
+            "د) غياب أي اختلاف عن العينات الفموية"
+          ],
+          "options_en": [
+            "A) Greater microbial diversity and absence of cytokines",
+            "B) Higher antiviral cytokine levels and Corynebacterium dominance",
+            "C) Highest concentration of IgG antibodies",
+            "D) No difference from oral samples"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت العينات الأنفية مستويات أعلى من antiviral cytokines وهيمنة Corynebacterium.",
+          "explanation_en": "Nasal samples showed higher antiviral cytokine levels and Corynebacterium dominance."
+        },
+        {
+          "q_ar": "ما الاستنتاج السريري الأنسب لهذه الدراسة؟",
+          "q_en": "What is the most appropriate clinical conclusion from this study?",
+          "options_ar": [
+            "أ) ينبغي تغيير العلاج الروتيني لالتهابات URT",
+            "ب) تثبت النتائج أن Corynebacterium تمنع العدوى",
+            "ج) تقدم إطارًا بحثيًا واعدًا لكنها لا تغيّر الممارسة حاليًا",
+            "د) توصي الدراسة بأخذ عينات من saliva بدل جميع المواقع"
+          ],
+          "options_en": [
+            "A) Routine treatment of URT infections should change",
+            "B) The findings prove Corynebacterium prevents infection",
+            "C) It provides a promising research framework but does not currently change practice",
+            "D) The study recommends sampling saliva instead of all sites"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة رصدية في بالغين أصحاء، وتصف اختلافات بين المواقع دون إثبات السببية أو أثر سريري.",
+          "explanation_en": "This observational study in healthy adults describes site differences but does not establish causality or clinical benefit."
+        }
+      ]
+    },
+    {
+      "pmid": "42874422",
+      "title_ar": "Chopsticks mononostril endoscopic endonasal approach for adult Craniopharyngioma: A retrospective comparative cohort study.",
+      "title_en": "Chopsticks mononostril endoscopic endonasal approach for adult Craniopharyngioma: A retrospective comparative cohort study.",
+      "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+      "pub_date": "2026-Oct-14",
+      "doi": "10.1016/j.jocn.2026.112336",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42874422/",
+      "pdf_url": null,
+      "study_design": "Retrospective comparative cohort study, n=107",
+      "summary_ar": "قيّمت هذه الدراسة retrospective comparative cohort feasibility تقنية mononostril chopsticks endoscopic endonasal approach لدى 51 بالغًا مصابًا بـ craniopharyngioma، مقارنةً بـ 56 مريضًا خضعوا لـ conventional binostril approach في الفترة السابقة. لم يكن الفرق في operative time ذا دلالة إحصائية بعد adjustment، بينما ارتبطت فترة mononostril بإقامة أقصر في المستشفى بمقدار 1.25 يوم. كانت gross-total resection أعلى عدديًا مع mononostril، لكن الفرق لم يصل إلى statistical significance، ولم تظهر فروق واضحة في visual outcomes أو overall complications. بعد adjustment لدرجات ما قبل الجراحة، كانت درجات EES-Q وSNOT-22 عند 3 أشهر أقل في مجموعة mononostril، بفروق بلغت 9.39 و8.57 نقطة على التوالي. لا يمكن فصل هذه الارتباطات عن treatment-era effects، كما أن wide confidence intervals تمنع استنتاج equivalence أو superiority. لذا تدعم النتائج feasibility التقنية، لكنها لا تثبت أنها أفضل من النهج التقليدي.",
+      "summary_en": "This retrospective comparative cohort study assessed the feasibility of a mononostril chopsticks endoscopic endonasal approach in 51 adults with craniopharyngioma, compared with 56 patients treated using a conventional binostril approach in the preceding period.\nAfter adjustment, operative time did not differ significantly, while hospital stay was shorter by 1.25 days during the mononostril period.\nGross-total resection was numerically more frequent with mononostril surgery, but the difference was not statistically significant; adjusted visual and overall-complication analyses also showed no significant differences.\nBaseline-adjusted 3-month EES-Q and SNOT-22 scores were lower during the mononostril period by 9.39 and 8.57 points, respectively.\nThe results support technical feasibility and an association with better patient-reported symptom scores, but the sequential treatment periods leave potential treatment-era confounding.\nWide confidence intervals and the retrospective design do not establish equivalence, superiority, or a causal benefit.",
+      "practice_change_ar": "لا تبرر هذه الدراسة تغيير النهج الجراحي الحالي؛ يمكن اعتبار mononostril chopsticks خيارًا ممكنًا لدى مرضى مختارين مع إقرار عدم ثبوت تفوقه.",
+      "practice_change_en": "This study does not justify changing current surgical practice; the mononostril chopsticks approach may be considered feasible in selected patients, but superiority has not been established.",
+      "future_impact_ar": "ينبغي أن تختبر دراسات مستقبلية متعددة المراكز ذات مقارنة متزامنة وقياسات موحدة ما إذا كانت فروق الأعراض تعكس أثر التقنية أم treatment-era effects.",
+      "future_impact_en": "Future multicenter studies with contemporaneous comparators and standardized outcome measurement should determine whether symptom differences reflect the technique or treatment-era effects.",
+      "why_important_ar": "تقدم الدراسة بيانات مقارنة أولية عن feasibility ونتائج المرضى المبلغ عنها ذاتيًا بعد نهج endoscopic endonasal أحادي المنخر لعلاج craniopharyngioma لدى البالغين.",
+      "why_important_en": "The study provides preliminary comparative data on feasibility and patient-reported outcomes after a mononostril endoscopic endonasal approach for adult craniopharyngioma.",
+      "vs_previous_ar": "على خلاف التقارير التي تصف النهج الأحادي أو الثنائي دون مقارنة مباشرة، تقارن هذه الدراسة تقنية mononostril chopsticks بمجموعة binostril تاريخية، مع بقاء confounding الزمني قيدًا أساسيًا.",
+      "vs_previous_en": "Unlike reports describing mononostril or binostril surgery without direct comparison, this study compares the chopsticks technique with a historical binostril cohort, although temporal confounding remains a major limitation.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة retrospective comparative cohort بحجم 107 مرضى وتطرح تقنية جراحية جديدة نسبيًا في skull_base surgery، لكنها تقارن فترتين متتاليتين ولا تثبت السببية أو التفوق؛ لذلك تقدم معرفة مفيدة دون تغيير الممارسة.",
+      "stars_reason_en": "This retrospective comparative cohort of 107 patients evaluates a relatively novel skull-base technique, but sequential treatment periods prevent causal conclusions or proof of superiority; it adds useful knowledge without changing practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for journal club discussion of confounding from sequential treatment eras, interpretation of patient-reported outcomes, and the limits imposed by wide confidence intervals.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا تطور تقنية mononostril chopsticks endoscopic endonasal approach بوصفها نهجًا جراحيًا بديلًا في skull_base surgery، مع انتظار دراسات مقارنة أقوى قبل تبنيها على نطاق واسع.",
+      "watch_detail_en": "Track the mononostril chopsticks endoscopic endonasal approach as an alternative skull-base surgical technique, while awaiting stronger comparative evidence before broad adoption.",
+      "watch_type": "instrument",
+      "research_gap_ar": "تحتاج التقنية إلى تقييم prospectively في دراسات متعددة المراكز ذات مجموعات مقارنة متزامنة وقياس موحد للنتائج الأنفية والبصرية والغدية والمضاعفات.",
+      "research_gap_en": "The technique needs prospective multicenter evaluation with contemporaneous comparison groups and standardized nasal, visual, endocrine, and complication outcomes.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نستعرض اليوم دراسة عن تقنية mononostril chopsticks endoscopic endonasal approach لعلاج adult craniopharyngioma. الدراسة retrospective comparative cohort أُجريت في West China Hospital، وشملت 107 مرضى لديهم متابعة لمدة ثلاثة أشهر. خضع 51 مريضًا للتقنية أحادية المنخر خلال الفترة الأحدث، وقورِنوا بـ56 مريضًا أُجريت لهم الجراحة التقليدية binostril في الفترة السابقة.\n\nبعد adjustment، لم يظهر فرق دال إحصائيًا في operative time. لكن مدة الإقامة في المستشفى كانت أقصر في مجموعة mononostril بنحو 1.25 يوم. بلغت نسبة gross-total resection نحو 82.4% مقابل 71.4%، إلا أن الفرق لم يكن دالًا إحصائيًا. كذلك لم تُكتشف فروق مهمة في visual outcomes أو overall complications. لم تُحلل endocrine outcomes تحليلاً مقارنًا موثوقًا بسبب غياب denominators مناسبة للمرضى المعرضين للخطر.\n\nكانت النتيجة الأبرز أن درجات EES-Q وSNOT-22 بعد ثلاثة أشهر كانت أقل في مجموعة mononostril بعد adjustment لدرجات ما قبل الجراحة. هذه إشارة إيجابية إلى أعراض أقل يبلغ عنها المرضى، لكنها لا تثبت أن التقنية هي السبب؛ فالمجموعتان عولجتا في فترتين متتاليتين، وقد تؤثر treatment-era effects أو تغيرات الرعاية بمرور الوقت في النتائج. كما أن wide confidence intervals لا تسمح باستنتاج equivalence أو superiority.\n\nالخلاصة السريرية: تبدو التقنية ممكنة لدى المرضى المشمولين، لكنها لا تبرر حاليًا تغيير الممارسة أو تفضيلها على النهج binostril. تستحق الدراسة النقاش في journal club بسبب تصميمها وحدودها المنهجية، كما تستحق التقنية المتابعة. الخطوة التالية هي دراسات prospectively متعددة المراكز، بمقارنات متزامنة وقياس موحد للنتائج الأنفية والبصرية والغدية والمضاعفات.",
+      "audio_script_en": "Today we review a study of the mononostril chopsticks endoscopic endonasal approach for adult craniopharyngioma. This retrospective comparative cohort study from West China Hospital included 107 patients with three-month follow-up. Fifty-one underwent the mononostril technique in the more recent period, and 56 underwent conventional binostril surgery in the preceding period.\n\nAfter adjustment, operative time did not differ significantly. Hospital stay was shorter in the mononostril period by about 1.25 days. Gross-total resection occurred in 82.4% versus 71.4%, but this difference was not statistically significant. The adjusted analyses also detected no significant differences in visual outcomes or overall complications. Endocrine outcomes could not be meaningfully compared because valid at-risk denominators were unavailable.\n\nThe main positive finding was lower three-month EES-Q and SNOT-22 scores in the mononostril group after adjustment for preoperative scores. This suggests fewer patient-reported symptoms, but it does not demonstrate that the surgical technique caused the difference. The cohorts were treated in successive periods, so treatment-era effects and changes in care over time may explain some or all of the association. Wide confidence intervals also prevent conclusions of equivalence or superiority.\n\nThe clinical takeaway is that the approach appears feasible in the included patients, but the study does not justify changing practice or preferring it over the binostril approach. It is a useful journal-club paper because it highlights the challenges of historical comparisons and patient-reported outcomes. The technique is worth tracking, while stronger evidence is needed. Future prospective multicenter studies should use contemporaneous comparison groups and standardized nasal, visual, endocrine, and complication outcomes.",
+      "mcq": [
+        {
+          "q_ar": "ما التصميم المستخدم في هذه الدراسة؟",
+          "q_en": "What study design was used?",
+          "options_ar": [
+            "أ) RCT",
+            "ب) Retrospective comparative cohort",
+            "ج) Meta-analysis",
+            "د) Case report"
+          ],
+          "options_en": [
+            "A) RCT",
+            "B) Retrospective comparative cohort",
+            "C) Meta-analysis",
+            "D) Case report"
+          ],
+          "answer": 1,
+          "explanation_ar": "حللت الدراسة مجموعتين عولجتا في فترتين متتاليتين، لذا فهي retrospective comparative cohort وليست تجربة عشوائية.",
+          "explanation_en": "The study compared two cohorts treated in successive periods, making it a retrospective comparative cohort rather than a randomized trial."
+        },
+        {
+          "q_ar": "أي نتيجة أظهرت فرقًا دالًا إحصائيًا بعد adjustment؟",
+          "q_en": "Which outcome showed a statistically significant difference after adjustment?",
+          "options_ar": [
+            "أ) انخفاض hospital stay في فترة mononostril",
+            "ب) زيادة مؤكدة في gross-total resection",
+            "ج) تحسن دال في visual outcomes",
+            "د) انخفاض دال في overall complications"
+          ],
+          "options_en": [
+            "A) Shorter hospital stay during the mononostril period",
+            "B) A significant increase in gross-total resection",
+            "C) Significant improvement in visual outcomes",
+            "D) A significant reduction in overall complications"
+          ],
+          "answer": 0,
+          "explanation_ar": "كان hospital stay أقصر بمقدار 1.25 يوم في فترة mononostril، مع P=0.003؛ أما الفروق الأخرى المذكورة فلم تكن دالة إحصائيًا.",
+          "explanation_en": "Hospital stay was shorter by 1.25 days during the mononostril period (P=0.003); the other listed differences were not statistically significant."
+        },
+        {
+          "q_ar": "ما القيد الرئيسي عند تفسير انخفاض درجات EES-Q وSNOT-22؟",
+          "q_en": "What is the main limitation when interpreting the lower EES-Q and SNOT-22 scores?",
+          "options_ar": [
+            "أ) لا توجد مجموعة مقارنة",
+            "ب) جميع النتائج جُمعت قبل الجراحة فقط",
+            "ج) قد تختلط نتيجة التقنية بـ treatment-era effects",
+            "د) حجم العينة أقل من 10"
+          ],
+          "options_en": [
+            "A) There was no comparison group",
+            "B) All outcomes were collected only before surgery",
+            "C) The technique effect may be confounded by treatment-era effects",
+            "D) The sample size was fewer than 10"
+          ],
+          "answer": 2,
+          "explanation_ar": "استخدمت الدراسة مجموعتين من فترتين متتاليتين، لذلك لا يمكن فصل أثر التقنية عن treatment-era effects أو إثبات علاقة سببية.",
+          "explanation_en": "The cohorts came from successive treatment periods, so the technique effect cannot be separated from treatment-era effects and causality cannot be established."
+        }
+      ]
+    },
+    {
+      "pmid": "42874936",
+      "title_ar": "Baseline Sinonasal Phenotypes in Cystic Fibrosis Before Elexacaftor/Tezacaftor/ Ivacaftor Therapy: A Cross-Sectional Analysis.",
+      "title_en": "Baseline Sinonasal Phenotypes in Cystic Fibrosis Before Elexacaftor/Tezacaftor/ Ivacaftor Therapy: A Cross-Sectional Analysis.",
+      "journal": "Respiratory medicine",
+      "pub_date": "2026-Oct-14",
+      "doi": "10.1016/j.rmed.2026.109185",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42874936/",
+      "pdf_url": null,
+      "study_design": "Cross-sectional study n=45",
+      "summary_ar": "قيّمت هذه الدراسة متعددة المجالات sinonasal disease لدى 45 شخصًا مصابًا بـ cystic fibrosis قبل بدء ETI therapy. شملت التقييمات SNOT-22 وVAS nasal obstruction وLK endoscopy وLM CT وCCCRC olfactory identification testing. أظهرت النتائج symptom burden خفيفًا إلى متوسط، مع LM CT opacification ملحوظ وتفاوت في olfactory scores. لم تُكتشف فروق ذات دلالة إحصائية بين F508del homozygous وheterozygous، أو بين minimal-function وresidual-function classes، أو حسب exocrine pancreatic status. ارتبط VAS بقوة مع SNOT-22، وبصورة عكسية مع olfaction، لكنه لم يرتبط بمقاييس endoscopic أو radiologic severity. تدعم النتائج وجود baseline sinonasal disease قبل ETI، لكنها لا تثبت أن المرض مستقل عن CFTR function بسبب حجم العينة والتصميم المقطعي.",
+      "summary_en": "This cross-sectional study assessed multidomain sinonasal disease in 45 people with cystic fibrosis before ETI therapy. Assessments included SNOT-22, VAS nasal obstruction, LK endoscopy, LM CT, and CCCRC olfactory identification testing. Symptom burden was mild to moderate, while LM CT showed substantial opacification and olfactory scores varied. No significant differences were detected by genotype, CFTR functional class among heterozygotes, or exocrine pancreatic status. VAS correlated with SNOT-22 and inversely with olfaction, but not with endoscopic or radiologic severity. The findings provide a pre-ETI reference, but the small cross-sectional study cannot establish that sinonasal disease is independent of CFTR function.",
+      "practice_change_ar": "لا تغيّر هذه النتائج التدبير السريري اليوم، لكنها تبرز أهمية تقييم sinonasal symptoms وolfaction إلى جانب imaging وendoscopy لدى مرضى cystic fibrosis.",
+      "practice_change_en": "These findings do not change clinical management today, but highlight the value of assessing sinonasal symptoms and olfaction alongside imaging and endoscopy in cystic fibrosis.",
+      "future_impact_ar": "يمكن استخدام هذه البيانات كمرجع baseline لدراسات longitudinal تقيس استجابة sinonasal disease وolfaction بعد بدء ETI.",
+      "future_impact_en": "These data may serve as a baseline reference for longitudinal studies of sinonasal disease and olfactory responses after ETI initiation.",
+      "why_important_ar": "تقدم الدراسة وصفًا قبل العلاج لـ sinonasal disease عبر symptom, structural, وfunctional domains لدى مرضى cystic fibrosis.",
+      "why_important_en": "The study characterizes pretreatment sinonasal disease across symptom, structural, and functional domains in cystic fibrosis.",
+      "vs_previous_ar": "تضيف الدراسة توصيفًا متعدد المجالات ومقسمًا حسب genotype قبل ETI، بينما لا تقدم دليلًا على اختلاف baseline disease حسب التصنيفات الجينية أو pancreatic status.",
+      "vs_previous_en": "The study adds a multidomain, genotype-stratified pre-ETI profile, while finding no evidence of baseline differences by genetic classification or pancreatic status.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة مقطعية صغيرة نسبيًا شملت 45 مشاركًا في مجلة متخصصة، وتقدم مرجعًا مفيدًا قبل ETI لكنها لا تغيّر الممارسة ولا تثبت غياب أثر genotype.",
+      "stars_reason_en": "This relatively small cross-sectional study of 45 participants provides a useful pre-ETI reference, but does not change practice or establish that genotype has no effect.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it compares symptoms, structure, and function before ETI and illustrates that symptom measures may not align with endoscopic or radiologic severity.",
+      "watch": true,
+      "watch_detail_ar": "يستحق ETI المتابعة في دراسات longitudinal لتحديد أثره على sinonasal disease وolfaction لدى مرضى cystic fibrosis.",
+      "watch_detail_en": "ETI merits tracking in longitudinal studies assessing its effects on sinonasal disease and olfaction in cystic fibrosis.",
+      "watch_type": "drug",
+      "research_gap_ar": "هناك حاجة إلى دراسات longitudinal أكبر تقيس التغير في sinonasal outcomes قبل ETI وبعده، مع تحليل genotype وCFTR functional class.",
+      "research_gap_en": "Larger longitudinal studies should measure sinonasal outcomes before and after ETI, with analyses by genotype and CFTR functional class.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم دراسة عن baseline sinonasal disease لدى مرضى cystic fibrosis قبل بدء elexacaftor/tezacaftor/ivacaftor، أو ETI. الدراسة مقطعية وشملت 45 شخصًا، وخضعت المجموعة لتقييم متعدد المجالات: SNOT-22 وVAS nasal obstruction للأعراض، وLund-Kennedy endoscopy وLund-Mackay CT للبنية، إضافة إلى CCCRC olfactory identification testing للشم.\n\nكان متوسط VAS nasal obstruction نحو 4.15، ومتوسط SNOT-22 نحو 14.4، ما يشير إلى عبء أعراض خفيف إلى متوسط. في المقابل، أظهر LM CT opacification ملحوظًا، وكانت olfactory scores متفاوتة بين المشاركين. لم يجد الباحثون فروقًا ذات دلالة إحصائية بين F508del homozygous وheterozygous، ولا بين minimal-function وresidual-function classes لدى heterozygotes. كذلك لم تظهر فروق حسب exocrine pancreatic status، لكن هذا التحليل اقتصر على 13 مشاركًا وكان ضعيف القدرة الإحصائية.\n\nارتبط VAS nasal obstruction مع SNOT-22، وارتبط عكسيًا مع olfaction، لكنه لم يرتبط بمقاييس endoscopy أو CT. هذه النتيجة تذكّرنا بأن الأعراض والقياسات الموضوعية قد تصف جوانب مختلفة من المرض، وأن الاعتماد على مقياس واحد قد لا يعطي الصورة كاملة.\n\nالأهمية السريرية محدودة: الدراسة لا تغيّر التدبير اليوم، ولا تثبت أن sinonasal disease مستقل عن CFTR function. فالعينة صغيرة والتصميم مقطعي، كما أن عدم إيجاد فرق لا يعني بالضرورة عدم وجود فرق حقيقي. مع ذلك، توفر الدراسة مرجعًا متعدد المجالات قبل ETI يمكن الاستفادة منه عند تصميم follow-up studies. الخطوة البحثية الأهم هي دراسات longitudinal أكبر تقارن sinonasal symptoms وendoscopy وCT وolfaction قبل ETI وبعده، مع تحليل genotype وCFTR functional class. لذلك تُعد الورقة مفيدة للنقاش ولتخطيط الأبحاث، مع ثقة متوسطة في النتائج الوصفية وحذر في تفسير المقارنات السلبية.",
+      "audio_script_en": "Today’s paper describes baseline sinonasal disease in people with cystic fibrosis before starting elexacaftor/tezacaftor/ivacaftor, or ETI. This was a cross-sectional study of 45 participants. The investigators used a multidomain assessment: SNOT-22 and VAS nasal obstruction for symptoms; Lund-Kennedy endoscopy and Lund-Mackay CT for structural disease; and CCCRC olfactory identification testing for smell.\n\nMean VAS nasal obstruction was about 4.15, and mean SNOT-22 was 14.4, consistent with mild-to-moderate symptom burden. LM CT showed substantial opacification, while olfactory scores varied across participants. The investigators found no statistically significant differences between F508del homozygous and heterozygous participants, or between minimal-function and residual-function classes among heterozygotes. They also found no differences by exocrine pancreatic status, although that analysis included only 13 patients and was substantially underpowered.\n\nVAS nasal obstruction correlated with SNOT-22 and inversely with olfaction, but it did not correlate with endoscopic or CT severity. This highlights that symptoms and objective measures may reflect different aspects of disease, so a single measure may not capture the full clinical picture.\n\nThe immediate clinical impact is limited: the study does not change management today and cannot prove that sinonasal disease is independent of CFTR function. The sample is small, the design is cross-sectional, and a nonsignificant comparison does not establish that no true difference exists. Still, it provides a multidomain pre-ETI reference that can inform future follow-up studies. The key next step is larger longitudinal research comparing symptoms, endoscopy, CT, and olfaction before and after ETI, with analyses by genotype and CFTR functional class. Overall, this is useful for discussion and research planning, with moderate confidence in its descriptive findings and caution in interpreting its negative comparisons.",
+      "mcq": [
+        {
+          "q_ar": "ما تصميم الدراسة وكم عدد المشاركين؟",
+          "q_en": "What was the study design and sample size?",
+          "options_ar": [
+            "أ) دراسة مقطعية شملت 45 مشاركًا",
+            "ب) RCT شملت 45 مشاركًا",
+            "ج) دراسة cohort prospective شملت 13 مشاركًا",
+            "د) مراجعة منهجية شملت 45 دراسة"
+          ],
+          "options_en": [
+            "A) Cross-sectional study of 45 participants",
+            "B) RCT of 45 participants",
+            "C) Prospective cohort of 13 participants",
+            "D) Systematic review of 45 studies"
+          ],
+          "answer": 0,
+          "explanation_ar": "كانت الدراسة cross-sectional وشملت 45 شخصًا مصابًا بـ cystic fibrosis قبل ETI.",
+          "explanation_en": "The study was cross-sectional and included 45 people with cystic fibrosis before ETI."
+        },
+        {
+          "q_ar": "أي مقياس ارتبط عكسيًا مع VAS nasal obstruction؟",
+          "q_en": "Which measure was inversely correlated with VAS nasal obstruction?",
+          "options_ar": [
+            "أ) SNOT-22",
+            "ب) Olfaction",
+            "ج) LK endoscopy",
+            "د) LM CT"
+          ],
+          "options_en": [
+            "A) SNOT-22",
+            "B) Olfaction",
+            "C) LK endoscopy",
+            "D) LM CT"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتبط VAS nasal obstruction عكسيًا مع olfaction (ρ = -0.42)، بينما ارتبط طرديًا مع SNOT-22.",
+          "explanation_en": "VAS nasal obstruction was inversely correlated with olfaction (ρ = -0.42) and positively correlated with SNOT-22."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن عدم وجود فروق ذات دلالة حسب genotype؟",
+          "q_en": "What is the most appropriate interpretation of the lack of significant genotype differences?",
+          "options_ar": [
+            "أ) يثبت أن genotype لا يؤثر مطلقًا في sinonasal disease",
+            "ب) يثبت أن ETI لا يحسن sinonasal disease",
+            "ج) لا تظهر الدراسة فروقًا، لكن تصميمها وحجمها لا يثبتان غياب أثر حقيقي",
+            "د) يثبت أن exocrine pancreatic status يتنبأ بالنتائج"
+          ],
+          "options_en": [
+            "A) It proves genotype never affects sinonasal disease",
+            "B) It proves ETI does not improve sinonasal disease",
+            "C) No differences were detected, but the design and sample size cannot prove there is no true effect",
+            "D) It proves exocrine pancreatic status predicts outcomes"
+          ],
+          "answer": 2,
+          "explanation_ar": "النتائج السلبية في دراسة صغيرة مقطعية لا تثبت التكافؤ أو غياب أثر genotype، وتحتاج إلى دراسات أكبر وlongitudinal.",
+          "explanation_en": "Negative findings in a small cross-sectional study do not establish equivalence or exclude a genotype effect; larger longitudinal studies are needed."
+        }
+      ]
+    },
+    {
+      "pmid": "42872381",
+      "title_ar": "Endoscopic Facelift with Isolation of the Fronto-Temporal Facial Nerve Branches: A Clinical Study of 300 Cases.",
+      "title_en": "Endoscopic Facelift with Isolation of the Fronto-Temporal Facial Nerve Branches: A Clinical Study of 300 Cases.",
+      "journal": "Aesthetic surgery journal",
+      "pub_date": "2026-Oct-14",
+      "doi": "10.1093/asj/sjag231",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42872381/",
+      "pdf_url": null,
+      "study_design": "Retrospective case series, n=300",
+      "summary_ar": "قيّمت هذه الدراسة retrospective نتائج endoscopic facelift لدى 300 مريضًا خضعوا لـ complete circumferential isolation of the fronto-temporal branches of CN VII، ما أتاح تحرير McGregor's patch. حدث transient frontalis weakness لدى جميع المرضى، وكان ذلك متوقعًا بعد عزل العصب، ثم زال بالكامل دون أي permanent nerve injury. عاد voluntary frontalis movement لدى 62.3% بحلول اليوم 14، وبلغت cumulative recovery نسبة 75.3% عند شهر و87.0% عند 3 أشهر و94.3% عند 6 أشهر؛ وقد تكون مواعيد التعافي المسجلة تقديرات عليا. تلقى المرضى الذين لم يتعافوا بحلول اليوم 14 contralateral botulinum toxin لتحقيق symmetry، ولم يتغير median time to recovery عند censoring هؤلاء المرضى. حضر 94% من المرضى زيارة 12 شهرًا، وقيّم 94% من الحاضرين النتيجة بأنها good أو excellent. حدث haematoma لدى 0.7%، واحتاج 1.3% إلى revision بسبب asymmetry. تدعم النتائج قابلية تطبيق التقنية لدى جراح واحد، لكن غياب مجموعة مقارنة لا يثبت أن خطر transient weakness مبرر أو أن التقنية أفضل من البدائل.",
+      "summary_en": "This retrospective series evaluated endoscopic facelift in 300 patients undergoing complete circumferential isolation of the fronto-temporal branches of CN VII, enabling release of McGregor's patch.\nAll patients developed transient frontalis weakness, which resolved completely; no permanent nerve injury was reported.\nVoluntary frontalis movement had returned by day 14 in 62.3%, with cumulative recovery of 75.3% at 1 month, 87.0% at 3 months, and 94.3% at 6 months.\nRecovery dates may represent upper bounds, and censoring patients who received contralateral botulinum toxin did not change the median recovery time.\nAt 12 months, 94% attended follow-up and 94% of those attendees rated their outcome good or excellent.\nHaematoma occurred in 0.7%, and 1.3% underwent revision for asymmetry; the uncontrolled design cannot establish comparative benefit or justify the transient weakness trade-off.",
+      "practice_change_ar": "لا تبرر هذه السلسلة تغيير الممارسة اليوم، لكنها تدعم إبلاغ المرضى بأن transient frontalis weakness قد يحدث مؤقتًا مع هذه التقنية.",
+      "practice_change_en": "This case series does not justify changing practice today, but supports counseling patients that transient frontalis weakness may occur with this technique.",
+      "future_impact_ar": "يمكن أن تحدد prospective controlled studies ما إذا كان تحرير McGregor's patch بعد عزل العصب يحسن النتائج مقارنة بالتقنيات البديلة.",
+      "future_impact_en": "Prospective controlled studies could determine whether nerve isolation with McGregor's patch release improves outcomes compared with alternative techniques.",
+      "why_important_ar": "توضح الدراسة أن transient frontalis weakness كان شاملًا بعد عزل فروع العصب، رغم عدم تسجيل إصابة دائمة لدى هذه السلسلة.",
+      "why_important_en": "The study shows that transient frontalis weakness was universal after branch isolation, despite no permanent nerve injury in this series.",
+      "vs_previous_ar": "تختلف هذه الدراسة عن الوصف التقني المعتاد بتقييم عزل fronto-temporal branches بصورة منهجية في سلسلة كبيرة، لكنها لا تقارن النتائج بأساليب أخرى.",
+      "vs_previous_en": "Unlike a purely technical description, this study reports systematic fronto-temporal branch isolation in a large series, but does not compare it with other approaches.",
+      "stars": 3,
+      "stars_reason_ar": "سلسلة retrospective كبيرة من 300 حالة وتقنية جراحية ذات أهمية عملية، لكن غياب مجموعة مقارنة ووجود transient frontalis weakness لدى الجميع يحدان من قوة الاستنتاجات والتغيير العملي.",
+      "stars_reason_en": "A large retrospective series of 300 cases evaluates a clinically relevant surgical technique, but the lack of a comparison group and universal transient frontalis weakness limit the conclusions and practice impact.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Useful for discussing the trade-off between more extensive tissue release and transient weakness, as well as the limitations of inference from an uncontrolled series.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى prospective controlled comparison تقيس النتائج الجمالية والوظيفية ومعدلات المضاعفات مقابل تقنيات endoscopic facelift الأخرى.",
+      "research_gap_en": "A prospective controlled comparison is needed to assess aesthetic and functional outcomes and complications against other endoscopic facelift techniques.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نستعرض اليوم دراسة بعنوان Endoscopic Facelift with Isolation of the Fronto-Temporal Facial Nerve Branches، وهي retrospective case series شملت 300 مريضًا أُجريت لهم العملية لدى جراح واحد بين عامي 2021 و2024. كان الهدف تقييم تقنية يجري فيها تحديد وعزل فروع fronto-temporal للعصب الوجهي CN VII بصورة circumferential، ما يسمح بتحرير McGregor's patch وتحريك أوسع للأنسجة في منتصف الوجه وأسفله.\n\nالنتيجة الأبرز أن transient frontalis weakness حدث لدى جميع المرضى، أي بنسبة 100%، لكنه زال بالكامل، ولم تسجل أي permanent nerve injury. عاد voluntary movement لدى 62.3% بحلول اليوم الرابع عشر، وكان median time to recovery أربعة عشر يومًا. وارتفعت cumulative recovery إلى 75.3% عند شهر، و87% عند ثلاثة أشهر، و94.3% عند ستة أشهر. ينبغي تفسير هذه الأرقام بحذر، لأن تواريخ التعافي المسجلة قد تكون upper bounds. كما أعطي المرضى الذين لم يتعافوا بحلول اليوم الرابع عشر contralateral botulinum toxin للمساعدة على symmetry؛ ولم يتغير median time عند censoring هؤلاء المرضى.\n\nفي المتابعة عند 12 شهرًا، حضر 282 مريضًا، وقيّم 265 من هؤلاء النتيجة بأنها good أو excellent. حدث haematoma لدى مريضين، أي 0.7%، واحتاج أربعة مرضى، أي 1.3%، إلى revision بسبب asymmetry.\n\nنقطة القوة هي حجم السلسلة والتقييم المنهجي لتقنية تتضمن عزل فروع العصب. لكن الدراسة retrospective ومن دون مجموعة مقارنة، كما أن transient weakness كان شاملًا، لذلك لا يمكنها إثبات أن هذه المقايضة مبررة أو أن التقنية أفضل من البدائل. عمليًا، لا تستدعي النتائج تغيير الممارسة اليوم، لكنها قد تساعد في counseling المرضى بشأن احتمال ضعف frontalis المؤقت. والخطوة البحثية الأهم هي prospective controlled comparison تقيس النتائج الجمالية والوظيفية والمضاعفات مقابل تقنيات facelift الأخرى. التقييم الإجمالي ثلاث نجوم، والثقة متوسطة: الدراسة مفيدة للتوعية والمناقشة، وليست دليلًا حاسمًا لتغيير الجراحة.",
+      "audio_script_en": "Today we review “Endoscopic Facelift with Isolation of the Fronto-Temporal Facial Nerve Branches,” a retrospective case series of 300 patients treated by one surgeon between 2021 and 2024. The study evaluated a technique involving complete circumferential identification and isolation of the fronto-temporal branches of CN VII. This allowed release of McGregor's patch and more complete mobilization of the mid- and lower face.\n\nThe principal finding was that transient frontalis weakness occurred in every patient. It resolved completely, and the series reported no permanent nerve injury. Voluntary movement had returned by day 14 in 62.3% of patients, and median recovery time was 14 days. Cumulative recovery was 75.3% at one month, 87% at three months, and 94.3% at six months. These figures warrant caution because recorded recovery dates may be upper bounds. Patients who had not recovered by day 14 received contralateral botulinum toxin to improve symmetry; censoring those patients did not change the median recovery time.\n\nOf the 300 patients, 282 attended the 12-month visit. Among them, 265 rated their outcome good or excellent. Haematoma occurred in two patients, or 0.7%, and four patients, or 1.3%, underwent revision for asymmetry.\n\nThe study’s strengths include its relatively large series and systematic evaluation of nerve isolation. Its main limitation is the absence of a control group. Since transient weakness occurred in all patients, these data cannot establish that the trade-off is justified or that this approach is superior to alternatives. The findings do not warrant a change in practice today, although they may help surgeons counsel patients about temporary frontalis weakness. A prospective controlled comparison measuring aesthetic and functional outcomes and complications is the key next step. Overall, this is a three-star study with moderate confidence: useful for awareness and discussion, but not definitive evidence for changing surgical practice.",
+      "mcq": [
+        {
+          "q_ar": "ما النتيجة التي حدثت لدى جميع المرضى بعد عزل fronto-temporal branches؟",
+          "q_en": "Which outcome occurred in all patients after fronto-temporal branch isolation?",
+          "options_ar": [
+            "أ) Permanent nerve injury",
+            "ب) Transient frontalis weakness",
+            "ج) Haematoma",
+            "د) Revision بسبب asymmetry"
+          ],
+          "options_en": [
+            "A) Permanent nerve injury",
+            "B) Transient frontalis weakness",
+            "C) Haematoma",
+            "D) Revision for asymmetry"
+          ],
+          "answer": 1,
+          "explanation_ar": "حدث transient frontalis weakness لدى 300 مريض، ثم زال بالكامل؛ ولم تسجل الدراسة أي permanent nerve injury.",
+          "explanation_en": "Transient frontalis weakness occurred in all 300 patients and resolved completely; no permanent nerve injury was reported."
+        },
+        {
+          "q_ar": "كم كانت نسبة المرضى الذين عاد لديهم voluntary frontalis movement بحلول اليوم 14؟",
+          "q_en": "What proportion had return of voluntary frontalis movement by day 14?",
+          "options_ar": [
+            "أ) 25.3%",
+            "ب) 62.3%",
+            "ج) 75.3%",
+            "د) 94.3%"
+          ],
+          "options_en": [
+            "A) 25.3%",
+            "B) 62.3%",
+            "C) 75.3%",
+            "D) 94.3%"
+          ],
+          "answer": 1,
+          "explanation_ar": "بلغت نسبة التعافي بحلول اليوم 14 مقدار 62.3%، وكان median time to recovery هو 14 يومًا.",
+          "explanation_en": "Recovery by day 14 was 62.3%, and the median time to recovery was 14 days."
+        },
+        {
+          "q_ar": "ما القيد الأساسي الذي يمنع الدراسة من إثبات تفوق التقنية أو تبرير trade-off؟",
+          "q_en": "What is the main limitation preventing the study from establishing superiority or justifying the trade-off?",
+          "options_ar": [
+            "أ) حجم العينة أقل من 10",
+            "ب) عدم وجود مجموعة مقارنة",
+            "ج) عدم وجود نتائج متابعة",
+            "د) كون الدراسة حيوانية"
+          ],
+          "options_en": [
+            "A) The sample size was fewer than 10",
+            "B) There was no comparison group",
+            "C) There were no follow-up outcomes",
+            "D) It was an animal study"
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسة retrospective وغير مضبوطة، لذا لا يمكنها مقارنة التقنية ببدائلها أو إثبات أن فوائدها تبرر transient weakness.",
+          "explanation_en": "The study was retrospective and uncontrolled, so it cannot compare the technique with alternatives or show that its benefits justify transient weakness."
+        }
+      ]
+    },
+    {
+      "pmid": "42881049",
+      "title_ar": "The Use of Nebulization for Voice Across Different Vocal Demands: A Scoping Review.",
+      "title_en": "The Use of Nebulization for Voice Across Different Vocal Demands: A Scoping Review.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Oct-15",
+      "doi": "10.1016/j.jvoice.2026.09.033",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42881049/",
+      "pdf_url": null,
+      "study_design": "Scoping review of 10 studies",
+      "summary_ar": "هدفت هذه scoping review إلى رسم خريطة الأدلة حول nebulization واستراتيجيات hydration للصوت في سياقات vocal demands المختلفة. شملت المراجعة 10 دراسات، كان معظمها quasi-experimental وأُجري على مشاركين أصحاء. كانت surface hydration التدخل الأكثر شيوعًا، تلتها saline nebulization وsystemic hydration والاستراتيجيات المجمعة. استُخدمت acoustic outcomes في 90% من الدراسات، وauditory perceptual measures في 60%، وaerodynamic measures في 40%. أظهرت saline nebulization نتائج إيجابية أكثر اتساقًا، بينما كانت نتائج systemic hydration أقل اتساقًا وكانت aerodynamic outcomes أكثر تفاوتًا. لكن اختلاف البروتوكولات وأنواع المحاليل والأجهزة، إلى جانب صغر العينات والقيود المنهجية، يمنع تحديد efficacy أو البروتوكول الأمثل.",
+      "summary_en": "This scoping review mapped evidence on nebulization and other hydration strategies for voice across different vocal demands. It included 10 studies, most of which were quasi-experimental and involved healthy participants. Surface hydration was the most common intervention, followed by saline nebulization, systemic hydration, and combined strategies. Acoustic outcomes were reported most often (90%), followed by auditory perceptual measures (60%) and aerodynamic measures (40%). Saline nebulization showed the most consistent positive findings, while systemic hydration was less consistent and aerodynamic outcomes varied. Small samples, methodological limitations, and substantial differences in protocols, solutions, and devices mean that an optimal protocol or efficacy across vocal populations cannot yet be established.",
+      "practice_change_ar": "لا تغيّر هذه المراجعة الممارسة اليوم؛ يمكن اعتبار saline nebulization وsurface hydration خيارين محتملين، لكن الأدلة لا تبرر بروتوكولًا موحدًا أو ادعاء efficacy مؤكدة.",
+      "practice_change_en": "This review does not change practice today; saline nebulization and surface hydration may be considered, but the evidence does not justify a standardized protocol or a claim of established efficacy.",
+      "future_impact_ar": "قد تساعد دراسات controlled ذات بروتوكولات موحدة ووصف دقيق لتوصيل aerosol في تحديد الفئات والبروتوكولات الأكثر استفادة.",
+      "future_impact_en": "Controlled studies with standardized protocols and detailed aerosol-delivery characterization may identify the populations and protocols most likely to benefit.",
+      "why_important_ar": "تلخص المراجعة أدلة متفرقة حول تدخلات شائعة لتحسين الصوت وتوضح حدود ما يمكن استنتاجه سريريًا حاليًا.",
+      "why_important_en": "The review consolidates scattered evidence on commonly used voice interventions and clarifies what can—and cannot—be concluded clinically at present.",
+      "vs_previous_ar": "بدل تقديم توصية علاجية جديدة، تجمع المراجعة استراتيجيات hydration المختلفة وتبرز تباين النتائج والحاجة إلى توحيد البروتوكولات.",
+      "vs_previous_en": "Rather than offering a new treatment recommendation, the review maps different hydration strategies and highlights outcome variability and the need for protocol standardization.",
+      "stars": 3,
+      "stars_reason_ar": "هذه scoping review تشمل 10 دراسات وتقدم معرفة مفيدة عن saline nebulization وsurface hydration، لكن التغاير والقيود المنهجية يمنعان تغيير الممارسة.",
+      "stars_reason_en": "This scoping review of 10 studies offers useful evidence on saline nebulization and surface hydration, but heterogeneity and methodological limitations prevent a practice-changing conclusion.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it brings together several voice interventions and shows how protocol and outcome differences limit interpretation and clinical application.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى controlled studies أكبر تستخدم بروتوكولات nebulization موحدة، وتصف aerosol delivery بدقة، وتقيس acoustic وperceptual وaerodynamic outcomes لدى فئات صوتية متنوعة.",
+      "research_gap_en": "Larger controlled studies are needed using standardized nebulization protocols, detailed aerosol-delivery descriptions, and acoustic, perceptual, and aerodynamic outcomes across diverse voice populations.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نناقش اليوم scoping review بعنوان «The Use of Nebulization for Voice Across Different Vocal Demands». ركزت المراجعة على الأدلة المتعلقة بـ nebulization واستراتيجيات hydration الأخرى للصوت، وسُجل بروتوكولها على Open Science Framework واتّبعت منهجية JBI وإرشادات PRISMA-ScR.\n\nشملت المراجعة عشر دراسات، وكان معظمها quasi-experimental وعلى مشاركين أصحاء. التدخل الأكثر شيوعًا كان surface hydration، تليه saline nebulization وsystemic hydration والاستراتيجيات المجمعة. استخدمت معظم الدراسات acoustic outcomes؛ كما قاست بعض الدراسات auditory perceptual measures وaerodynamic measures.\n\nكانت نتائج saline nebulization الأكثر اتساقًا، خصوصًا في acoustic وperceptual outcomes، وظهرت نتائج إيجابية أيضًا مع surface hydration. بالمقابل، كانت نتائج systemic hydration أقل اتساقًا، وكانت aerodynamic outcomes متباينة. لكن ينبغي عدم المبالغة في تفسير هذه النتائج: فالعينات صغيرة، والطرق محدودة، وهناك اختلاف بين الدراسات في البروتوكولات والمحاليل وخصائص الأجهزة.\n\nما الذي يعنيه ذلك للممارسة؟ لا تقدم المراجعة دليلًا كافيًا لوضع بروتوكول nebulization أمثل، ولا تثبت الفاعلية عبر فئات صوتية مختلفة. لذلك لا يوجد تغيير فوري في الممارسة؛ يمكن اعتبار saline nebulization وsurface hydration تدخلين واعدين، مع توضيح عدم اليقين للمرضى وعدم التعامل مع النتائج كإثبات efficacy.\n\nتكمن أهمية المقال في تنظيم الأدلة المتفرقة وتحديد ما ينقصها. الأولوية البحثية هي إجراء controlled studies أكبر، مع وصف دقيق لتوصيل aerosol، وتوحيد intervention protocols، واستخدام تقييم متعدد الأبعاد للصوت. كما ينبغي أن تشمل الدراسات vocal populations متنوعة بدل الاقتصار على المشاركين الأصحاء. الخلاصة: المقال مفيد للنقاش السريري والبحثي، لكنه لا يغير التدبير اليوم.",
+      "audio_script_en": "Today we are reviewing “The Use of Nebulization for Voice Across Different Vocal Demands,” a scoping review of nebulization and other hydration strategies for voice. The authors followed Joanna Briggs Institute methodology and PRISMA-ScR reporting guidance, and registered their protocol on the Open Science Framework.\n\nTen studies were included. Most were quasi-experimental and involved healthy participants. Surface hydration was the most frequently studied intervention, followed by saline nebulization, systemic hydration, and combined strategies. Acoustic outcomes were reported most often; auditory perceptual and aerodynamic measures were also used.\n\nSaline nebulization had the most consistent positive findings, particularly for acoustic and perceptual outcomes. Surface hydration also showed predominantly positive effects. Findings for systemic hydration were less consistent, and aerodynamic outcomes varied across studies. These signals are encouraging, but the evidence base is limited by small samples, methodological weaknesses, and substantial differences in intervention protocols, solutions, and device characteristics.\n\nFor clinical practice, the key message is restraint. The review does not establish an optimal nebulization protocol or confirm efficacy across different vocal populations. It therefore does not support a practice change today. Saline nebulization and surface hydration may be considered as potentially helpful approaches, but clinicians should communicate the uncertainty and avoid presenting their efficacy as settled.\n\nThe review is important because it organizes a scattered literature and makes the research gaps explicit. Future controlled studies should use standardized intervention protocols, describe aerosol delivery in detail, and assess voice with multidimensional outcomes. They should also include varied vocal populations rather than relying mainly on healthy participants. Overall, this is useful evidence for discussion and research planning, but not a definitive treatment recommendation.",
+      "mcq": [
+        {
+          "q_ar": "كم دراسة شملتها هذه scoping review؟",
+          "q_en": "How many studies were included in this scoping review?",
+          "options_ar": [
+            "أ) 5",
+            "ب) 10",
+            "ج) 20",
+            "د) 40"
+          ],
+          "options_en": [
+            "A) 5",
+            "B) 10",
+            "C) 20",
+            "D) 40"
+          ],
+          "answer": 1,
+          "explanation_ar": "شملت المراجعة 10 دراسات، وكان معظمها quasi-experimental.",
+          "explanation_en": "The review included 10 studies, most of which were quasi-experimental."
+        },
+        {
+          "q_ar": "أي تدخل أظهر أكثر النتائج الإيجابية اتساقًا؟",
+          "q_en": "Which intervention showed the most consistent positive findings?",
+          "options_ar": [
+            "أ) systemic hydration",
+            "ب) saline nebulization",
+            "ج) combined strategies",
+            "د) لا شيء من هذه التدخلات"
+          ],
+          "options_en": [
+            "A) Systemic hydration",
+            "B) Saline nebulization",
+            "C) Combined strategies",
+            "D) None of these interventions"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت saline nebulization النتائج الأكثر اتساقًا، خصوصًا في acoustic وperceptual outcomes.",
+          "explanation_en": "Saline nebulization showed the most consistent findings, particularly for acoustic and perceptual outcomes."
+        },
+        {
+          "q_ar": "ما الاستنتاج السريري الأنسب لهذه المراجعة؟",
+          "q_en": "What is the most appropriate clinical conclusion from this review?",
+          "options_ar": [
+            "أ) ثبت وجود بروتوكول nebulization أمثل لجميع المرضى.",
+            "ب) ينبغي إيقاف جميع استراتيجيات hydration للصوت.",
+            "ج) الأدلة واعدة لكنها غير كافية لتحديد efficacy أو بروتوكول أمثل.",
+            "د) ثبت أن systemic hydration أفضل من بقية التدخلات."
+          ],
+          "options_en": [
+            "A) An optimal nebulization protocol has been established for all patients.",
+            "B) All voice hydration strategies should be discontinued.",
+            "C) The evidence is promising but insufficient to establish efficacy or an optimal protocol.",
+            "D) Systemic hydration has been proven superior to the other interventions."
+          ],
+          "answer": 2,
+          "explanation_ar": "التغاير وصغر العينات والقيود المنهجية تجعل الأدلة غير كافية لتحديد efficacy أو بروتوكول أمثل.",
+          "explanation_en": "Heterogeneity, small samples, and methodological limitations leave insufficient evidence to establish efficacy or an optimal protocol."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026101601",
+      "title_ar": "ميدترونيك وكارل ستورتز تتعاونان لتطوير حلول جراحية متكاملة للأنف والأذن والحنجرة",
+      "title_en": "Medtronic and Karl Storz Partner on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-16",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أعلنت شركتا ميدترونيك وكارل ستورتز عن تعاون يركز على حلول جراحية متكاملة في مجال الأنف والأذن والحنجرة. ويشير الإعلان إلى سعي الشركتين إلى جمع تقنياتهما لدعم إجراءات هذا التخصص. ولا يحدد التقرير المنتجات المعنية أو الشروط التجارية أو موعد الإطلاق أو الأدلة السريرية. كما لا يذكر صدور قرار تنظيمي أو تغير في توافر المنتجات.",
+      "summary_en": "Medtronic and Karl Storz have announced a collaboration focused on integrated surgical solutions for ear, nose and throat care. The announcement signals an effort to bring their respective technologies together for ENT procedures. The supplied report does not specify the products involved, commercial terms, launch timing, or clinical evidence. No regulatory decision or change in product availability is stated.",
+      "practice_change_ar": "لا يُتوقع أن يغيّر هذا الإعلان الممارسة السريرية فوراً، لكن يُستحسن متابعة الإعلانات المقبلة بشأن المنتجات والتوافق بينها وتوافرها.",
+      "practice_change_en": "ENT surgeons should not expect an immediate change in practice, but may want to follow future announcements about products, compatibility, and availability.",
+      "future_impact_ar": "قد يؤدي التعاون إلى حلول أكثر ترابطاً في غرف عمليات الأنف والأذن والحنجرة، ويتوقف أثره على المنتجات التي ستُطوّر وعلى الأدلة التي تثبت جدواها في الممارسة.",
+      "future_impact_en": "The partnership may lead to more connected ENT operating-room solutions, with its significance depending on the products developed and evidence of their value in practice.",
+      "why_important_ar": "إذا أسفر التعاون عن أدوات متكاملة بفاعلية، فقد يساعد على تبسيط سير العمل الجراحي، لكن المعلومات المتاحة لا تثبت بعد وجود فوائد سريرية.",
+      "why_important_en": "If the collaboration produces well-integrated tools, it could simplify surgical workflows, though clinical benefits have not yet been established in the information provided.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "تعاون تجاري قد يهم الجراحين مستقبلاً، لكن تفاصيل المنتجات والأثر السريري غير متاحة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أعلنت ميدترونيك وكارل ستورتز عن تعاون لتقديم حلول جراحية متكاملة في تخصص الأنف والأذن والحنجرة. ويشير الإعلان إلى توجه الشركتين نحو الجمع بين تقنياتهما لدعم الإجراءات الجراحية، لكن التفاصيل المتاحة محدودة. فلم يُذكر بعد ما المنتجات التي سيشملها التعاون، أو موعد طرحها، أو شروط توافرها، كما لم تُعرض بيانات تثبت فائدة سريرية محددة. لذلك، لا يعني الخبر في الوقت الراهن تغيّراً مباشراً في خيارات الجراحين أو ممارساتهم. وتكمن أهميته المحتملة في إمكانية تطوير أدوات وأنظمة أكثر تكاملاً داخل غرفة العمليات، بما قد يحسن سير العمل إذا أثبتت المنتجات الجديدة جدواها. ينبغي متابعة الإعلانات المقبلة لمعرفة ما إذا كان التعاون سيتحول إلى منتجات محددة، وما الأدلة التي ستدعم استخدامها، وما إذا كانت ستتوافق مع التجهيزات القائمة.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026101602",
+      "title_ar": "توقعات بنمو سوق التنظير في طب الأنف والأذن والحنجرة بمعدل سنوي مركب قدره 6.4٪",
+      "title_en": "ENT Endoscopy Market Forecast to Grow at a 6.4% CAGR",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-16",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت Market.us عرضاً للسوق يتوقع نمو سوق التنظير في طب الأنف والأذن والحنجرة بمعدل نمو سنوي مركب قدره 6.4٪. ولا يحدد الخبر المتاح الفترة الزمنية للتوقع أو قيمة السوق أو العوامل التي تستند إليها هذه النسبة. ويتعلق المحتوى بتوقعات السوق، وليس بصفقة بين شركات أو قرار تنظيمي أو دراسة سريرية.",
+      "summary_en": "Market.us published a market overview forecasting a 6.4% compound annual growth rate for the ENT endoscopy market. The supplied item does not specify the forecast period, market valuation, or the factors behind the projection. It reports a market forecast rather than a company transaction, regulatory decision, or clinical study.",
+      "practice_change_ar": "لا تستدعي هذه التوقعات تغييراً فورياً في الممارسة السريرية، لكن قد يرغب الجرّاحون في متابعة تطورات أجهزة التنظير وخيارات شرائها.",
+      "practice_change_en": "The forecast does not warrant an immediate change in clinical practice, but surgeons may wish to follow developments in endoscopy equipment and purchasing options.",
+      "future_impact_ar": "إذا تحققت التوقعات، فقد يؤدي اتساع السوق إلى زيادة توافر الأجهزة وتعزيز المنافسة، لكن الأثر العملي سيعتمد على تطوير المنتجات واعتمادها.",
+      "future_impact_en": "If the forecast is realized, a larger market may expand equipment availability and competition, but the practical impact will depend on product development and adoption.",
+      "why_important_ar": "قد يشير نمو السوق إلى استمرار الاستثمار في تنظير الأنف والأذن والحنجرة، لكن التقرير لا يقدم دليلاً على تأثيرات محددة في النتائج السريرية أو التكاليف.",
+      "why_important_en": "Market growth could signal continued investment in ENT endoscopy, although the report provides no evidence of specific effects on clinical outcomes or costs.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "أهمية محدودة للجراحين؛ الخبر توقع سوقي عام دون تفاصيل عن المنتجات أو الأثر السريري.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "نستعرض اليوم خبراً سوقياً من Market.us يتوقع نمو سوق التنظير في طب الأنف والأذن والحنجرة بمعدل سنوي مركب يبلغ 6.4%. لكن الخبر المتاح لا يذكر الفترة التي يشملها التوقع، ولا الحجم الحالي للسوق، ولا المنهجية أو العوامل التي استند إليها هذا التقدير. لذلك ينبغي التعامل مع النسبة بوصفها مؤشراً عاماً، لا دليلاً على تغير محدد في الممارسة السريرية. بالنسبة إلى جرّاحي الأنف والأذن والحنجرة، قد يعكس نمو السوق اهتماماً مستمراً بأجهزة التنظير، وربما ينعكس مستقبلاً على خيارات المعدات وتوافرها أو المنافسة بين الموردين. مع ذلك، لا يقدم الخبر معلومات عن أجهزة بعينها، أو أسعارها، أو أثرها في النتائج العلاجية. الخلاصة: لا توجد حالياً توصية بتغيير الممارسة؛ ومن المفيد متابعة التطورات التقنية والبيانات الأكثر تفصيلاً قبل اتخاذ قرارات الشراء أو الاستثمار.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026101603",
+      "title_ar": "شركات رائدة في مجال الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية",
+      "title_en": "Leading ENT Companies Driving Medical Technology Innovation",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-16",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت SNS Insider مقالاً يسلط الضوء على شركات تعمل في مجال الابتكار بالتكنولوجيا الطبية لقطاع الأنف والأذن والحنجرة. ولا يحدد الخبر المتاح أسماء الشركات أو المنتجات أو التطورات المحددة التي يتناولها المقال. كما لا يتضمن تفاصيل عن استحواذ أو قرار تنظيمي أو دعوى قضائية أو حدث تجاري محدد آخر.",
+      "summary_en": "SNS Insider published an article highlighting companies involved in medical technology innovation in the ENT sector. The supplied news item does not identify the companies, products, or specific developments discussed. It also provides no details of an acquisition, regulatory decision, lawsuit, or other discrete business event.",
+      "practice_change_ar": "لا تشير المعلومات المحدودة المتاحة إلى ضرورة إجراء تغيير فوري في الممارسة السريرية.",
+      "practice_change_en": "No immediate change to clinical practice is indicated by the limited information provided.",
+      "future_impact_ar": "قد تتضح توجهات القطاع أكثر عند نشر تفاصيل عن تقنيات وشركات وتطورات تنظيمية محددة.",
+      "future_impact_en": "The sector’s direction may become clearer as specific technologies, companies, and regulatory developments are reported.",
+      "why_important_ar": "قد تؤثر التطورات التقنية مستقبلاً في خيارات التشخيص والعلاج في طب الأنف والأذن والحنجرة، لكن الخبر لا يقدم دليلاً محدداً على أثر سريري.",
+      "why_important_en": "Technology advances may eventually affect ENT diagnostic and treatment options, but this item provides no specific evidence of a clinical impact.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "أهمية محدودة للأطباء لغياب تفاصيل عن تطور تجاري أو سريري محدد.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "يتناول خبر من SNS Insider شركات رائدة تقود الابتكار في التكنولوجيا الطبية بقطاع الأنف والأذن والحنجرة. لكن المادة المتاحة لا تذكر أسماء الشركات أو التقنيات أو المنتجات المعنية، ولا توضح وجود صفقة استحواذ أو قرار من إدارة الغذاء والدواء أو تطور تجاري محدد. لذلك لا يمكن استخلاص أثر مباشر على قرارات العلاج أو الممارسة اليومية لجراحي الأنف والأذن والحنجرة من هذا الخبر وحده. قد تحمل الابتكارات التقنية أهمية مستقبلية، لكن تقييمها يتطلب معلومات عن التقنية نفسها، وفعاليتها السريرية، ووضعها التنظيمي. سنحتاج إلى تفاصيل إضافية قبل تحديد ما إذا كان لهذا التوجه أثر عملي على رعاية المرضى.",
+      "mcq": []
+    }
+  ]
+}
