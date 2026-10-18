@@ -1,0 +1,601 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T08:01:56Z",
+  "articles": [
+    {
+      "pmid": "42823956",
+      "title_ar": "Niche-specific immune and microbial signatures across the healthy upper respiratory tract mucosa.",
+      "title_en": "Niche-specific immune and microbial signatures across the healthy upper respiratory tract mucosa.",
+      "journal": "iScience",
+      "pub_date": "2026-Oct-16",
+      "doi": "10.1016/j.isci.2026.117574",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42823956/",
+      "pdf_url": "https://doi.org/10.1016/j.isci.2026.117574",
+      "study_design": "Cross-sectional observational study, n=44 healthy adults",
+      "summary_ar": "درست هذه الدراسة 44 بالغًا سليمًا، وجمعت عينات من عدة مواقع في upper respiratory tract، إضافة إلى saliva وmucosal lining fluid. قاس الباحثون cytokines وantibodies، وحللوا الميكروبات باستخدام 16S rRNA sequencing، كما أجروا PCR للكشف عن pathogens. اختلفت الخصائص المناعية والميكروبية بين المواقع؛ إذ أظهرت العينات الأنفية مستويات أعلى باستمرار من antiviral cytokines وهيمنة Corynebacterium. أظهرت العينات الفموية تنوعًا ميكروبيًا أكبر وأنماطًا مختلفة من cytokines وantibodies. احتوت saliva وmucosal lining fluid على أعلى تركيزات antibodies، وكان IgA هو النوع السائد. كشفت التحليلات المتكاملة عن ارتباطات خاصة بكل موقع بين الميكروبات والاستجابة المناعية، لكن الدراسة لم تختبر نتائج سريرية أو تدخلات علاجية.",
+      "summary_en": "This cross-sectional study profiled 44 healthy adults using samples from several upper respiratory tract sites, as well as saliva and mucosal lining fluid.\nThe investigators measured cytokines and antibodies, used 16S rRNA sequencing to characterize microbes, and performed PCR for pathogen detection.\nImmune and microbial profiles differed by sampling niche.\nNasal samples had higher antiviral cytokine levels and were dominated by Corynebacterium.\nOral samples showed greater microbial diversity and distinct cytokine and antibody patterns.\nSaliva and mucosal lining fluid had the highest antibody concentrations, predominantly IgA; analyses also identified site-specific microbe-immune associations.",
+      "practice_change_ar": "لا تغير هذه النتائج الممارسة السريرية اليوم، لكنها تدعم مراعاة موقع أخذ العينة عند تصميم دراسات URT المناعية والميكروبية.",
+      "practice_change_en": "These findings do not change clinical practice today, but support accounting for sampling site when designing URT immune and microbiome studies.",
+      "future_impact_ar": "قد تساعد هذه المنهجية غير الباضعة في تطوير surveillance للعدوى وتقييم vaccine عبر مواقع مخاطية مختلفة.",
+      "future_impact_en": "This minimally invasive approach may support infection surveillance and vaccine evaluation across distinct mucosal sites.",
+      "why_important_ar": "توضح الدراسة أن العينات المختلفة من URT لا تمثل بيئة مناعية أو ميكروبية موحدة.",
+      "why_important_en": "The study demonstrates that samples from different URT niches do not represent a single uniform immune or microbial environment.",
+      "vs_previous_ar": "تضيف الدراسة توصيفًا متكاملًا خاصًا بكل موقع لدى بالغين أصحاء بدل افتراض أن خصائص URT المناعية والميكروبية متجانسة.",
+      "vs_previous_en": "It adds integrated, site-specific profiling in healthy adults rather than treating URT immune and microbial features as uniform.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة رصدية مقطعية على 44 بالغًا أصحاء تقدم معرفة جديدة عن الاختلافات بين المواقع، لكنها لا تثبت السببية ولا تغير التدبير السريري حاليًا.",
+      "stars_reason_en": "This cross-sectional observational study of 44 healthy adults offers useful new knowledge about niche differences, but establishes neither causality nor an immediate change in clinical management.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسبة لنقاش Journal Club حول أثر موقع أخذ العينة على نتائج أبحاث microbiome والمناعة المخاطية، مع مناقشة محدودية العينة السليمة وعدم وجود نتائج سريرية.",
+      "jc_reason_en": "Suitable for discussing how sampling location affects microbiome and mucosal immunology research, alongside the limitations of a healthy cohort and the absence of clinical outcomes.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات طولية تشمل مرضى ومجموعات أكبر لتحديد ما إذا كانت هذه الارتباطات الخاصة بالموقع تتنبأ بالعدوى أو بالاستجابة للقاحات.",
+      "research_gap_en": "Larger longitudinal studies including patient cohorts are needed to determine whether these site-specific associations predict infection risk or vaccine responses.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم دراسة عن الاختلافات المناعية والميكروبية بين مواقع الأغشية المخاطية في upper respiratory tract لدى أشخاص أصحاء. شملت الدراسة 44 بالغًا تتراوح أعمارهم بين 20 و65 عامًا. جمع الباحثون nasopharyngeal وoropharyngeal وmid-turbinate nasal swabs، إضافة إلى mucosal lining fluid وsaliva. قاسوا cytokines وantibodies، واستخدموا 16S rRNA sequencing لتحليل الميكروبات، مع PCR للكشف عن pathogens.\n\nكانت النتيجة الرئيسية أن هذه المواقع ليست متشابهة. العينات الأنفية أظهرت مستويات أعلى من antiviral cytokines، وكانت Corynebacterium هي المجموعة المهيمنة. في المقابل، احتوت العينات الفموية على تنوع ميكروبي أكبر، مع أنماط مختلفة من cytokines وantibodies. كما سجلت saliva وmucosal lining fluid أعلى تركيزات antibodies، وكان IgA هو النوع الغالب. ووجد التحليل المتكامل ارتباطات بين الميكروبات والمناعة تختلف حسب الموقع.\n\nأهمية العمل أنه يبين أن موقع جمع العينة قد يؤثر في تفسير نتائج أبحاث microbiome والمناعة المخاطية. كما يقدم إطارًا غير باضع يمكن الاستفادة منه مستقبلًا في infection surveillance وتقييم vaccine. لكن ينبغي الانتباه إلى أن المشاركين كانوا أصحاء، والعينة محدودة العدد، والتصميم رصدي مقطعي؛ لذلك لا تثبت النتائج السببية ولا توضح إن كانت هذه الاختلافات مرتبطة بخطر العدوى أو نتائج علاجية.\n\nلا توجد دلالة على تغيير الممارسة السريرية اليوم، ولا يتناول العمل علاجًا أو تقنية سريرية جديدة. مع ذلك، تصلح الدراسة للنقاش في Journal Club، خصوصًا حول اختيار موقع أخذ العينة في الدراسات المستقبلية. الخطوة التالية هي دراسات أكبر وطولية تشمل مرضى، لتحديد قيمة هذه التواقيع في التنبؤ بالعدوى أو الاستجابة للقاحات.",
+      "audio_script_en": "Today’s article examines how immune and microbial features vary across mucosal sites in the healthy upper respiratory tract. The cross-sectional study enrolled 44 healthy adults aged 20 to 65. Samples included nasopharyngeal, oropharyngeal, and mid-turbinate nasal swabs, along with mucosal lining fluid and saliva. The investigators measured cytokines and antibodies, characterized microbes with 16S rRNA sequencing, and used PCR to detect pathogens.\n\nThe central finding is that these sampling niches are not interchangeable. Nasal samples consistently had higher antiviral cytokine levels and were dominated by Corynebacterium. Oral samples had greater microbial diversity and distinct cytokine and antibody patterns. Saliva and mucosal lining fluid contained the highest antibody concentrations, predominantly IgA. Integrated analyses also identified microbe-immune associations that differed by site.\n\nThe study matters because it shows that sampling location can shape the results and interpretation of mucosal immunology and microbiome research. Its minimally invasive approach could provide a framework for future infection surveillance and vaccine evaluation. However, the cohort consisted of healthy adults, the sample size was modest, and the cross-sectional design cannot establish causality. The study also does not show whether these signatures predict infection risk or clinical outcomes.\n\nThere is no immediate change to clinical practice, and the article does not introduce a new clinical treatment or device. It is nevertheless useful for journal club discussion, particularly around sampling strategy and the interpretation of site-specific findings. Future larger longitudinal studies, including patient populations, should test whether these profiles are associated with infection susceptibility or vaccine responses.",
+      "mcq": [
+        {
+          "q_ar": "ما أبرز فرق ميكروبي ومناعي وُجد في العينات الأنفية؟",
+          "q_en": "What was the main immune and microbial finding in nasal samples?",
+          "options_ar": [
+            "أ) أعلى مستويات antiviral cytokines وهيمنة Corynebacterium",
+            "ب) أعلى تنوع ميكروبي وهيمنة IgE",
+            "ج) أقل مستويات antibodies وهيمنة Streptococcus",
+            "د) غياب الارتباط بين الميكروبات والمناعة"
+          ],
+          "options_en": [
+            "A) Higher antiviral cytokine levels and Corynebacterium dominance",
+            "B) Greatest microbial diversity and IgE dominance",
+            "C) Lowest antibody levels and Streptococcus dominance",
+            "D) No associations between microbes and immunity"
+          ],
+          "answer": 0,
+          "explanation_ar": "أظهرت العينات الأنفية مستويات أعلى من antiviral cytokines وكانت Corynebacterium هي المجموعة المهيمنة.",
+          "explanation_en": "Nasal samples had higher antiviral cytokine levels and were dominated by Corynebacterium."
+        },
+        {
+          "q_ar": "أين وُجدت أعلى تركيزات antibodies، وما النوع السائد؟",
+          "q_en": "Where were antibody concentrations highest, and which antibody predominated?",
+          "options_ar": [
+            "أ) في العينات الأنفية، وكان IgE هو السائد",
+            "ب) في saliva وmucosal lining fluid، وكان IgA هو السائد",
+            "ج) في العينات الفموية، وكان IgG هو السائد",
+            "د) في جميع المواقع بالتساوي، وكان IgM هو السائد"
+          ],
+          "options_en": [
+            "A) In nasal samples, predominantly IgE",
+            "B) In saliva and mucosal lining fluid, predominantly IgA",
+            "C) In oral swabs, predominantly IgG",
+            "D) Equally across all sites, predominantly IgM"
+          ],
+          "answer": 1,
+          "explanation_ar": "سجلت saliva وmucosal lining fluid أعلى تركيزات antibodies، وكان IgA هو النوع الغالب.",
+          "explanation_en": "Saliva and mucosal lining fluid had the highest antibody concentrations, predominantly IgA."
+        },
+        {
+          "q_ar": "ما أهم قيد يحد من الاستنتاجات السريرية للدراسة؟",
+          "q_en": "What is a key limitation on the study’s clinical conclusions?",
+          "options_ar": [
+            "أ) اقتصرت على بيانات حيوانية",
+            "ب) كانت تجربة علاجية عشوائية دون مجموعة مقارنة",
+            "ج) شملت بالغين أصحاء وكان تصميمها مقطعيًا رصديًا",
+            "د) لم تتضمن أي عينات من upper respiratory tract"
+          ],
+          "options_en": [
+            "A) It used only animal data",
+            "B) It was a randomized treatment trial without a comparator",
+            "C) It included healthy adults and used a cross-sectional observational design",
+            "D) It included no upper respiratory tract samples"
+          ],
+          "answer": 2,
+          "explanation_ar": "العينة اقتصرت على 44 بالغًا سليمًا، والتصميم المقطعي لا يثبت السببية أو يتنبأ بالنتائج السريرية.",
+          "explanation_en": "The cohort comprised 44 healthy adults, and the cross-sectional design cannot establish causality or predict clinical outcomes."
+        }
+      ]
+    },
+    {
+      "pmid": "42886227",
+      "title_ar": "Hemostatic Net in Facial Aesthetic Surgery: A Systematic Review and Meta-Analysis.",
+      "title_en": "Hemostatic Net in Facial Aesthetic Surgery: A Systematic Review and Meta-Analysis.",
+      "journal": "Aesthetic plastic surgery",
+      "pub_date": "2026-Oct-16",
+      "doi": "10.1007/s00266-026-06335-8",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42886227/",
+      "pdf_url": null,
+      "study_design": "Systematic review and meta-analysis of 13 studies (6 comparative), 3264 patients",
+      "summary_ar": "جمعت هذه systematic review وmeta-analysis نتائج 13 دراسة شملت 3264 مريضًا خضعوا لجراحة تجميل الوجه، منهم 2175 عولجوا باستخدام hemostatic net (HN). في cervicofacial rhytidectomy، ارتبط HN بانخفاض odds of hematoma بنسبة 93% مقارنة بالإغلاق المعتمد على drains (OR 0.07؛ 95% CI 0.02–0.24). لم يظهر اختلاف ذو دلالة في skin necrosis بين المجموعتين. قدرت التحليلات أحادية المجموعة معدلات hematoma وseroma وnecrosis وpersistent hyperpigmentation بـ1.09% و1.66% و0.96% و0.28% على التوالي، لكنها لا تسمح باستنتاجات مقارنة. قد يستمر تغير pigmentation عند مواضع دخول sutures حتى ثلاثة أشهر، ولذلك يُنصح بمناقشته قبل العملية. معظم الأدلة غير عشوائية، والنتائج خارج cervicofacial rhytidectomy وصفية ولا تثبت الفعالية المقارنة.",
+      "summary_en": "This systematic review and meta-analysis included 13 studies and 3264 facial aesthetic surgery patients, 2175 of whom received a hemostatic net (HN). In cervicofacial rhytidectomy, HN was associated with 93% lower odds of hematoma than drain-based closure (OR 0.07; 95% CI 0.02–0.24). No statistically significant difference in skin necrosis was found. Single-arm pooled rates were 1.09% for hematoma, 1.66% for seroma, 0.96% for necrosis, and 0.28% for persistent hyperpigmentation; these estimates are descriptive, not comparative. Pigmentary changes at suture entry sites may take up to three months to resolve and warrant preoperative counseling. Evidence is predominantly non-randomized, and comparative effectiveness outside cervicofacial rhytidectomy remains unestablished.",
+      "practice_change_ar": "يمكن مناقشة HN كخيار لتقليل hematoma في cervicofacial rhytidectomy، مع توضيح أن الأدلة غير العشوائية لا تبرر اعتماده روتينيًا أو تعميمه على إجراءات أخرى.",
+      "practice_change_en": "HN may be discussed as an option to reduce hematoma after cervicofacial rhytidectomy, but predominantly non-randomized evidence does not justify routine adoption or extrapolation to other procedures.",
+      "future_impact_ar": "تحتاج الدراسات المستقبلية إلى comparative trials أكبر وعالية الجودة لتحديد فعالية HN ومخاطره وتكلفته مقارنةً بطرق الإغلاق الأخرى.",
+      "future_impact_en": "Larger, higher-quality comparative trials are needed to establish HN’s effectiveness, risks, and cost relative to other closure strategies.",
+      "why_important_ar": "تقدم الدراسة تقديرًا مجمعًا لانخفاض hematoma مع HN، وتبرز أهمية إبلاغ المرضى باحتمال تغير pigmentation المؤقت.",
+      "why_important_en": "The study quantifies the association between HN and fewer hematomas while highlighting the need to counsel patients about temporary pigmentary changes.",
+      "vs_previous_ar": "توسع هذه المراجعة الأدلة السابقة المحدودة بعينة أكبر، لكنها تؤكد أن نتائجها المقارنة تقتصر على cervicofacial rhytidectomy وأن بقية التقديرات وصفية.",
+      "vs_previous_en": "This review expands on earlier limited evidence with a larger pooled sample, while clarifying that comparative findings apply to cervicofacial rhytidectomy and other pooled rates are descriptive.",
+      "stars": 4,
+      "stars_reason_ar": "هذه systematic review وmeta-analysis كبيرة نسبيًا وتجد ارتباطًا مهمًا بانخفاض hematoma، لكن غالبية الأدلة غير عشوائية والنتيجة لا تثبت السببية أو تغير الممارسة وحدها.",
+      "stars_reason_en": "This relatively large systematic review and meta-analysis finds a clinically important association with fewer hematomas, but predominantly non-randomized evidence limits causal inference and practice change.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسبة لمناقشة journal club بسبب الأثر المحتمل على اختيار الإغلاق، مع أهمية تقييم التحيز في الدراسات غير العشوائية وحدود الاستنتاجات أحادية المجموعة.",
+      "jc_reason_en": "Suitable for journal club because of its potential relevance to closure choices and the need to examine bias in non-randomized studies and the limits of single-arm estimates.",
+      "watch": true,
+      "watch_detail_ar": "يستحق HN المتابعة كجهاز تثبيت مؤقت قد يقلل hematoma بعد cervicofacial rhytidectomy، مع الحاجة إلى بيانات مقارنة أقوى.",
+      "watch_detail_en": "Track HN as a temporary fixation device that may reduce hematoma after cervicofacial rhytidectomy, while awaiting stronger comparative evidence.",
+      "watch_type": "device",
+      "research_gap_ar": "لا تزال هناك حاجة إلى comparative randomized studies لتأكيد أثر HN على hematoma ومقارنة المضاعفات والنتائج التجميلية والتكلفة.",
+      "research_gap_en": "Comparative randomized studies are needed to confirm HN’s effect on hematoma and compare complications, aesthetic outcomes, and costs.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نستعرض اليوم systematic review وmeta-analysis عن hemostatic net، أو HN، في جراحة تجميل الوجه. الفكرة هي استخدام شبكة مؤقتة عبر الجلد لتثبيت flap إلى SMAS-platysma، بهدف تقليل dead space والحركة بين الطبقات، وبالتالي الحد من hematoma.\n\nشملت المراجعة 13 دراسة و3264 مريضًا، كان 2175 منهم قد عولجوا باستخدام HN. كانت ست دراسات مقارنة. في cervicofacial rhytidectomy، ارتبط HN بانخفاض odds of hematoma مقارنة بالإغلاق المعتمد على drains: OR 0.07، مع 95% confidence interval من 0.02 إلى 0.24. لم تجد المراجعة فرقًا ذا دلالة في skin necrosis، لكن هذا لا يعني أن المخاطر متطابقة بصورة مؤكدة.\n\nأما المعدلات المجمعة من الدراسات أحادية المجموعة فكانت 1.09% لـhematoma، و1.66% لـseroma، و0.96% لـnecrosis، و0.28% لـpersistent hyperpigmentation. هذه أرقام وصفية فقط؛ لا يجوز تفسيرها على أنها مقارنة بين HN وطرق أخرى، كما أن الفعالية المقارنة خارج rhytidectomy غير مثبتة.\n\nمن الناحية العملية، يمكن مناقشة HN كخيار في cervicofacial rhytidectomy، لكن هذه النتائج لا تكفي لفرض استخدامه روتينيًا. ينبغي إخبار المرضى بأن تغير pigmentation عند مواضع دخول sutures هو الأثر المرئي الأكثر شيوعًا، وقد يستغرق زواله حتى ثلاثة أشهر. قوة الاستنتاج محدودة لأن الأدلة في معظمها غير عشوائية، لذا تُعد النتائج مولدة للفرضيات. ستكون الخطوة التالية إجراء comparative trials عشوائية تقارن المضاعفات والنتائج التجميلية والتكلفة. الخلاصة: إشارة مشجعة لانخفاض hematoma، مع ضرورة تفسيرها بحذر وعدم تعميمها خارج cervicofacial rhytidectomy.",
+      "audio_script_en": "Today’s review examines a hemostatic net, or HN, in facial aesthetic surgery. HN is a temporary transcutaneous lattice that anchors the flap to the SMAS-platysma, aiming to reduce dead space and shear and thereby limit hematoma.\n\nThe systematic review and meta-analysis included 13 studies and 3264 patients, with 2175 HN-treated patients. Six studies were comparative. In cervicofacial rhytidectomy, HN was associated with substantially lower odds of hematoma than drain-based closure: an odds ratio of 0.07, with a 95% confidence interval from 0.02 to 0.24. The review found no statistically significant difference in skin necrosis, although that does not establish that risks are equivalent.\n\nPooled single-arm rates were 1.09% for hematoma, 1.66% for seroma, 0.96% for necrosis, and 0.28% for persistent hyperpigmentation. These are descriptive estimates, not comparisons against another closure method. Comparative effectiveness outside rhytidectomy has not been established.\n\nFor practice, HN can be discussed as an option for cervicofacial rhytidectomy, but the findings are not sufficient to mandate routine use. Patients should be counseled that pigmentary changes at suture entry sites are the most frequent visible adverse event and may take up to three months to resolve. The evidence is predominantly non-randomized, so the pooled findings are hypothesis-generating and should be interpreted cautiously. Future randomized comparative trials should assess complications, aesthetic outcomes, and costs. The take-home message is a promising association with fewer hematomas, without evidence supporting broad extrapolation beyond cervicofacial rhytidectomy.",
+      "mcq": [
+        {
+          "q_ar": "ما النتيجة المقارنة الأساسية لـHN في cervicofacial rhytidectomy؟",
+          "q_en": "What was the main comparative finding for HN in cervicofacial rhytidectomy?",
+          "options_ar": [
+            "أ) انخفاض odds of hematoma مقارنةً بالإغلاق المعتمد على drains",
+            "ب) انخفاض necrosis بنسبة مؤكدة",
+            "ج) زيادة seroma مقارنةً بالإغلاق المعتمد على drains",
+            "د) إثبات فعالية HN في جميع إجراءات تجميل الوجه"
+          ],
+          "options_en": [
+            "A) Lower odds of hematoma than with drain-based closure",
+            "B) A confirmed reduction in necrosis",
+            "C) More seroma than with drain-based closure",
+            "D) Proven effectiveness across all facial aesthetic procedures"
+          ],
+          "answer": 0,
+          "explanation_ar": "ارتبط HN بانخفاض odds of hematoma (OR 0.07؛ 95% CI 0.02–0.24) في cervicofacial rhytidectomy.",
+          "explanation_en": "HN was associated with lower hematoma odds (OR 0.07; 95% CI 0.02–0.24) in cervicofacial rhytidectomy."
+        },
+        {
+          "q_ar": "كيف ينبغي تفسير معدلات المضاعفات المجمعة من الدراسات أحادية المجموعة؟",
+          "q_en": "How should pooled complication rates from single-arm studies be interpreted?",
+          "options_ar": [
+            "أ) كدليل يثبت تفوق HN على drains",
+            "ب) كتقديرات وصفية لا تسمح باستنتاج مقارن",
+            "ج) كدليل على عدم وجود أي مضاعفات",
+            "د) كدليل عشوائي عالي اليقين"
+          ],
+          "options_en": [
+            "A) As proof that HN is superior to drains",
+            "B) As descriptive estimates that do not support comparative inference",
+            "C) As proof that no complications occur",
+            "D) As high-certainty randomized evidence"
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسات أحادية المجموعة لا تحتوي على مجموعة مقارنة، لذا تصف incidence ولا تثبت الفعالية المقارنة.",
+          "explanation_en": "Single-arm studies lack a comparator, so they describe incidence but do not establish comparative effectiveness."
+        },
+        {
+          "q_ar": "ما الأثر المرئي الذي ينبغي مناقشته قبل العملية؟",
+          "q_en": "Which visible adverse event should be discussed preoperatively?",
+          "options_ar": [
+            "أ) Persistent hyperpigmentation عند مواضع دخول sutures",
+            "ب) فقدان السمع الدائم",
+            "ج) Necrosis في كل المرضى",
+            "د) Seroma يستمر دائمًا لأكثر من سنة"
+          ],
+          "options_en": [
+            "A) Persistent hyperpigmentation at suture entry sites",
+            "B) Permanent hearing loss",
+            "C) Necrosis in every patient",
+            "D) Seroma that always lasts more than a year"
+          ],
+          "answer": 0,
+          "explanation_ar": "قد يحدث تغير pigmentation في مواضع دخول sutures، وقد يستغرق زواله حتى ثلاثة أشهر.",
+          "explanation_en": "Pigmentary changes can occur at suture entry sites and may take up to three months to resolve."
+        }
+      ]
+    },
+    {
+      "pmid": "42878110",
+      "title_ar": "Distinguishing the endotypes of Chronic rhinosinusitis: the emerging roles of macrophages.",
+      "title_en": "Distinguishing the endotypes of Chronic rhinosinusitis: the emerging roles of macrophages.",
+      "journal": "Expert review of clinical immunology",
+      "pub_date": "2026-Oct-16",
+      "doi": "10.1080/1744666X.2026.2747885",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42878110/",
+      "pdf_url": null,
+      "study_design": "Narrative literature review",
+      "summary_ar": "تستعرض هذه المقالة دور macrophages في تباين endotypes لدى chronic rhinosinusitis (CRS)، بما يشمل type 1/2/3 inflammation. وتوضح كيف يمكن لمحفزات التهابية مختلفة أن تغيّر حالات macrophage ووظائفها بين هذه endotypes. كما تلخص نتائج single-cell transcriptome analysis التي كشفت عن مجموعات فرعية من macrophages تحمل gene expression signatures مرتبطة بأنماط CRS. وتناقش المقالة إمكان الاستفادة من هذا التغاير لتطوير biomarkers تساعد في endotyping واختيار targeted therapy. وتسلط الضوء كذلك على الاهتمام المتزايد بـ nasal tissue-resident macrophages واحتمال مساهمتها في olfactory loss. وبما أنها مراجعة للأدبيات وليست دراسة سريرية تدخلية، فإنها تقدم إطاراً تفسيرياً ولا تثبت فائدة سريرية مباشرة لهذه المقاربات.",
+      "summary_en": "This review examines macrophage roles across the type 1, type 2, and type 3 endotypes of chronic rhinosinusitis (CRS). It describes how different inflammatory stimuli shape macrophage states and functions. Single-cell transcriptome studies have identified macrophage subsets with gene expression signatures associated with CRS endotypes. These findings may inform the development of biomarkers for endotyping and targeted therapy. The review also highlights growing interest in nasal tissue-resident macrophages and their possible contribution to olfactory loss. As a literature review rather than an interventional clinical study, it offers a framework for understanding disease heterogeneity but does not establish direct clinical benefit.",
+      "practice_change_ar": "لا تدعم هذه المراجعة تغييراً فورياً في تدبير CRS، لكنها تعزز أهمية تقييم endotype عند توفر أدوات سريرية موثوقة.",
+      "practice_change_en": "This review does not support an immediate change in CRS management, but reinforces the importance of endotype assessment when reliable clinical tools become available.",
+      "future_impact_ar": "قد تساعد أبحاث macrophage subsets وnasal tissue-resident macrophages على تطوير biomarkers وعلاجات موجهة، وربما توضح آليات olfactory loss.",
+      "future_impact_en": "Research on macrophage subsets and nasal tissue-resident macrophages may yield biomarkers and targeted treatments, and clarify mechanisms of olfactory loss.",
+      "why_important_ar": "تجمع المقالة الأدلة المتنامية حول macrophage heterogeneity بوصفها مدخلاً لفهم اختلاف الالتهاب والاستجابة العلاجية في CRS.",
+      "why_important_en": "The review synthesizes emerging evidence on macrophage heterogeneity as a way to understand variation in CRS inflammation and treatment response.",
+      "vs_previous_ar": "بدلاً من التركيز على التصنيف التقليدي type 1/2/3 وحده، تربط المقالة هذا التصنيف بتنوع macrophage الذي كشفته دراسات single-cell transcriptome.",
+      "vs_previous_en": "Rather than considering the traditional type 1/2/3 classification alone, the review connects CRS endotypes to macrophage diversity identified by single-cell transcriptome studies.",
+      "stars": 3,
+      "stars_reason_ar": "مراجعة أدبيات سردية، وليست systematic review أو دراسة سريرية؛ تقدم معرفة مفيدة وحديثة عن macrophage heterogeneity، لكن لا تغير الممارسة الحالية ولا تثبت منفعة سريرية مباشرة.",
+      "stars_reason_en": "A narrative literature review, not a systematic review or clinical study; it provides useful and current insights into macrophage heterogeneity but does not change current practice or establish direct clinical benefit.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسبة لنادي المجلة لمناقشة صلة macrophage subsets بـ CRS endotypes وإمكان تحويل نتائج single-cell transcriptome إلى biomarkers قابلة للاستخدام السريري.",
+      "jc_reason_en": "Suitable for journal club discussion of how macrophage subsets relate to CRS endotypes and whether single-cell transcriptome findings can be translated into clinical biomarkers.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم التحقق سريرياً من biomarkers المعتمدة على macrophages، وربطها بنتائج المرض والاستجابة للعلاج، مع تحديد دور nasal tissue-resident macrophages في olfactory loss.",
+      "research_gap_en": "Macrophage-based biomarkers require clinical validation against disease outcomes and treatment response, and the role of nasal tissue-resident macrophages in olfactory loss needs clarification.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تتناول هذه المراجعة دور macrophages في chronic rhinosinusitis، أو CRS، وهو مرض التهابي غير متجانس يُصنف تقليدياً إلى type 1 وtype 2 وtype 3 inflammation. السؤال المهم هو كيف يمكن لتنوع macrophages أن يساعد في تفسير اختلاف المرضى، وربما تحسين endotyping واختيار العلاج مستقبلاً.\n\nتوضح المقالة أن macrophages تتأثر بمحفزات التهابية متعددة، ويمكن أن تتبنى حالات ووظائف مختلفة بين endotypes. كما تستعرض نتائج single-cell transcriptome analysis التي حددت مجموعات فرعية من macrophages ذات gene expression signatures مرتبطة بأنماط CRS. ويُطرح هذا التغاير باعتباره أساساً محتملاً لتطوير biomarkers تساعد على تمييز endotypes، وقد تدعم لاحقاً targeted therapy.\n\nومن النقاط التي تستحق الانتباه الاهتمام المتزايد بـ nasal tissue-resident macrophages، إذ قد يكون لها دور في olfactory loss المرتبط بـ CRS. لكن هذا الاحتمال ما زال مجالاً للبحث، ولا تقدم المراجعة دليلاً على أن قياس هذه الخلايا أو استهدافها يحسن النتائج السريرية.\n\nمن ناحية التصميم، هذه مراجعة أدبيات سردية، وليست تجربة علاجية أو systematic review. لذلك فإن قوتها في تنظيم المعرفة وإبراز مسارات البحث، لا في تغيير الممارسة الحالية. التقييم المناسب هو ثلاث نجوم وثقة متوسطة: المقالة مفيدة لأطباء rhinology ولمناقشة آليات المرض، لكنها لا تثبت biomarker جاهزاً أو تدخلاً علاجياً جديداً.\n\nالخلاصة العملية: لا يوجد تغيير فوري في تدبير CRS بناءً على هذه المراجعة. الأثر المستقبلي المحتمل هو تطوير biomarkers أكثر دقة وربط macrophage subsets بالاستجابة للعلاج وبفقدان الشم. وتبقى الفجوة الأساسية هي التحقق السريري من هذه المؤشرات وتحديد ما إذا كان توجيه العلاج وفق macrophage endotypes يحسن نتائج المرضى.",
+      "audio_script_en": "This review examines the role of macrophages in chronic rhinosinusitis, or CRS, a heterogeneous inflammatory disorder traditionally divided into type 1, type 2, and type 3 inflammation. The central question is whether macrophage diversity can help explain differences between patients and eventually improve endotyping and treatment selection.\n\nThe authors describe how different inflammatory stimuli shape macrophage states and functions across CRS endotypes. They also summarize single-cell transcriptome findings that identify macrophage subsets with gene expression signatures associated with particular CRS patterns. This diversity could provide a basis for biomarkers that distinguish endotypes and, eventually, support targeted therapy.\n\nA further area of interest is nasal tissue-resident macrophages and their possible contribution to olfactory loss in CRS. This remains an emerging research question: the review does not show that measuring or targeting these cells improves clinical outcomes.\n\nIn terms of evidence, this is a narrative literature review, not a treatment trial or systematic review. Its value is in organizing current concepts and identifying research directions rather than changing clinical practice. A reasonable assessment is three stars with moderate confidence: it is useful for rhinology clinicians and discussion of disease mechanisms, but it does not establish a validated biomarker or a new treatment intervention.\n\nThe practical takeaway is that this review does not justify an immediate change in CRS management. Its potential future impact lies in more precise biomarkers and in connecting macrophage subsets with treatment response and olfactory loss. The major research gap is clinical validation of these markers and evidence that macrophage-informed treatment selection improves patient outcomes.",
+      "mcq": [
+        {
+          "q_ar": "ما الفكرة الأساسية التي تربطها المراجعة بتباين endotypes في CRS؟",
+          "q_en": "What central concept does the review link to variation among CRS endotypes?",
+          "options_ar": [
+            "أ) تغاير macrophages ووظائفها",
+            "ب) اختلاف تقنيات FESS فقط",
+            "ج) دور البكتيريا وحده",
+            "د) تغيرات تشريحية ثابتة"
+          ],
+          "options_en": [
+            "A) Macrophage heterogeneity and function",
+            "B) Differences in FESS techniques alone",
+            "C) The role of bacteria alone",
+            "D) Fixed anatomical variation"
+          ],
+          "answer": 0,
+          "explanation_ar": "تركز المراجعة على اختلاف حالات macrophages ومجموعاتها الفرعية بين CRS endotypes.",
+          "explanation_en": "The review focuses on differences in macrophage states and subsets across CRS endotypes."
+        },
+        {
+          "q_ar": "ما التقنية البحثية التي ساعدت في تحديد مجموعات macrophage المرتبطة بـ CRS؟",
+          "q_en": "Which research approach helped identify macrophage subsets associated with CRS?",
+          "options_ar": [
+            "أ) Single-cell transcriptome analysis",
+            "ب) Randomized surgical trials",
+            "ج) Conventional audiometry",
+            "د) Polysomnography"
+          ],
+          "options_en": [
+            "A) Single-cell transcriptome analysis",
+            "B) Randomized surgical trials",
+            "C) Conventional audiometry",
+            "D) Polysomnography"
+          ],
+          "answer": 0,
+          "explanation_ar": "تذكر المراجعة أن single-cell transcriptome analysis كشفت مجموعات فرعية ذات gene expression signatures مرتبطة بـ CRS endotypes.",
+          "explanation_en": "The review reports that single-cell transcriptome analysis revealed subsets with gene expression signatures associated with CRS endotypes."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن أثر هذه المراجعة على الممارسة الحالية؟",
+          "q_en": "Which conclusion best describes the review's effect on current practice?",
+          "options_ar": [
+            "أ) تفرض تغييراً فورياً في علاج CRS",
+            "ب) تثبت علاجاً موجهاً جديداً",
+            "ج) تقدم معرفة مفيدة دون تغيير فوري للممارسة",
+            "د) تثبت أن macrophages لا صلة لها بـ CRS"
+          ],
+          "options_en": [
+            "A) It mandates an immediate change in CRS treatment",
+            "B) It establishes a new targeted treatment",
+            "C) It provides useful knowledge without an immediate practice change",
+            "D) It proves macrophages are unrelated to CRS"
+          ],
+          "answer": 2,
+          "explanation_ar": "المقالة مراجعة سردية تطرح آليات ومجالات بحث، لكنها لا تثبت منفعة سريرية مباشرة أو علاجاً جديداً.",
+          "explanation_en": "This narrative review outlines mechanisms and research directions but does not establish direct clinical benefit or a new treatment."
+        }
+      ]
+    },
+    {
+      "pmid": "42888510",
+      "title_ar": "MUC16 Defines a Fibrotic Endotype With Corticosteroid Insensitivity in Nasal Polyps.",
+      "title_en": "MUC16 Defines a Fibrotic Endotype With Corticosteroid Insensitivity in Nasal Polyps.",
+      "journal": "Allergy",
+      "pub_date": "2026-Oct-16",
+      "doi": "10.1111/all.70541",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42888510/",
+      "pdf_url": null,
+      "study_design": "Human polyp tissue analysis with in vitro loss-of-function experiments",
+      "summary_ar": "درست هذه الدراسة ارتباط MUC16 بالتليف وضعف الاستجابة لـ corticosteroid في CRSwNP. أظهرت عينات المرضى المقاومين لـ oral corticosteroid أعلى مستويات collagen وα-SMA وTGF-β1 وhydroxyproline، رغم أنها لم تكن الأعلى في eosinophil. ارتفعت مستويات MUC16 في هذه polyps وارتبطت بمقدار hydroxyproline. في fibroblasts، أدى إسكات MUC16 إلى خفض phospho-SMAD3 ونشاط Smad-binding element، وتقليل proliferation، واستعادة تثبيط dexamethasone لإنتاج collagen I. وفي epithelial cells، عزز إسكات MUC16 تأثير dexamethasone على LPS-induced IL-6، مع خفض STAT3 phosphorylation وتعزيز مؤشرات glucocorticoid response. تدعم النتائج وجود ارتباط بين MUC16 وphenotype ليفي مقاوم للعلاج، لكن التحقق السريري المستقبلي مطلوب قبل استخدامه كـ biomarker أو therapeutic target.",
+      "summary_en": [
+        "This study examined whether MUC16 is associated with fibrosis and reduced corticosteroid responsiveness in CRSwNP.",
+        "Polyps from oral corticosteroid-resistant patients showed the greatest collagen, α-SMA, TGF-β1, and hydroxyproline levels, despite not being the most eosinophilic.",
+        "MUC16 was increased in these polyps and correlated with hydroxyproline.",
+        "In fibroblasts, MUC16 silencing reduced phospho-SMAD3 and Smad-binding element activity, decreased proliferation, and restored dexamethasone inhibition of collagen I.",
+        "In epithelial cells, MUC16 silencing enhanced dexamethasone suppression of LPS-induced IL-6 and improved several glucocorticoid-response measures.",
+        "The findings support a link between MUC16 and a fibrotic, steroid-insensitive phenotype, but prospective clinical validation is needed before biomarker or therapeutic use."
+      ],
+      "practice_change_ar": "لا تغيّر هذه النتائج الممارسة الحالية؛ فلا يزال علاج CRSwNP يعتمد على التقييم والعلاجات المعتمدة دون اختبار MUC16.",
+      "practice_change_en": "These findings do not change current practice; CRSwNP management should continue without MUC16 testing.",
+      "future_impact_ar": "قد يساعد التحقق السريري من MUC16 على تحديد مرضى CRSwNP ذوي phenotype ليفي مقاوم للعلاج وتطوير استراتيجيات موجهة لهم.",
+      "future_impact_en": "Clinical validation of MUC16 could help identify patients with fibrotic, treatment-refractory CRSwNP and inform targeted strategies.",
+      "why_important_ar": "تقدم الدراسة آلية محتملة تربط MUC16 بالتليف وبضعف استجابة الخلايا لـ corticosteroid في nasal polyps.",
+      "why_important_en": "The study proposes a potential mechanism linking MUC16 to fibrosis and impaired corticosteroid response in nasal polyps.",
+      "vs_previous_ar": "تضيف الدراسة إلى فهم CRSwNP بتحديد MUC16 كمرشح مرتبط بـ fibrotic endotype، لكنها لا تثبت بعد قيمته السريرية أو تغيّر التوصيات.",
+      "vs_previous_en": "The study adds MUC16 as a candidate marker of a fibrotic CRSwNP endotype, but does not establish clinical utility or change recommendations.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة على أنسجة بشرية مدعومة بتجارب in vitro تقدم آلية ونتيجة جديدة، لكنها لا تختبر تدخلًا سريريًا ولا تثبت فائدة MUC16 في توجيه العلاج؛ لذا فهي معرفة مهمة وليست ممارسة مغيرة.",
+      "stars_reason_en": "Human tissue findings supported by in vitro experiments provide a novel mechanistic signal, but do not test a clinical intervention or establish MUC16-guided treatment; this is useful knowledge rather than practice-changing evidence.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it combines patient tissue data with mechanistic experiments and raises the important distinction between biomarker association and demonstrated clinical utility.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات مستقبلية مستقلة لتحديد ما إذا كان MUC16 يتنبأ باستجابة العلاج أو يضيف قيمة إلى المؤشرات السريرية والنسيجية الحالية.",
+      "research_gap_en": "Independent prospective studies should determine whether MUC16 predicts treatment response or adds value beyond existing clinical and histologic measures.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نتناول اليوم دراسة تبحث دور MUC16 في chronic rhinosinusitis with nasal polyps، أو CRSwNP، مع التركيز على التليف وضعف الاستجابة لـ corticosteroid. تكمن أهمية السؤال في أن بعض المرضى لا يستجيبون جيدًا للعلاج، وقد تكون لديهم أنماط مرضية مختلفة لا يفسرها مستوى eosinophil وحده.\n\nحلل الباحثون أنسجة nasal polyp من مجموعات مرضى مختلفة، بما فيها حالات مقاومة لـ oral corticosteroid، وأجروا قياسات نسيجية وجزيئية. كما استخدموا fibroblasts وepithelial cells في تجارب مخبرية، مع إسكات MUC16 لدراسة أثره في مسارات التليف والاستجابة لـ dexamethasone.\n\nكانت polyps لدى المرضى المقاومين لـ oral corticosteroid الأعلى في مؤشرات التليف، بما فيها collagen وα-SMA وTGF-β1 وhydroxyproline، مع أنها لم تكن المجموعة الأعلى في eosinophil. وكان MUC16 مرتفعًا في هذه العينات ومرتبطًا بـ hydroxyproline. وفي fibroblasts، أدى إسكات MUC16 إلى خفض phospho-SMAD3 ونشاط Smad-binding element، وتقليل proliferation، كما أعاد حساسية الخلايا لتثبيط dexamethasone لإنتاج collagen I. أما في epithelial cells، فحسّن إسكات MUC16 تثبيط dexamethasone لـ LPS-induced IL-6، وغيّر مؤشرات مرتبطة باستجابة glucocorticoid.\n\nسريريًا، لا تبرر هذه النتائج تغيير العلاج أو طلب اختبار MUC16 في الوقت الحالي. قوة الدراسة أنها تربط ملاحظات أنسجة بشرية بتجارب فقدان وظيفة تدعم دورًا آليًا محتملاً. لكن البيانات المخبرية لا تثبت أن قياس MUC16 سيتنبأ باستجابة مريض بعينه أو أن استهدافه سيحسن النتائج. لذلك تُعد الدراسة إضافة مهمة لفهم fibrotic endotype محتمل، وليست دليلًا جاهزًا لتغيير الممارسة.\n\nالخطوة التالية هي التحقق مستقبلًا من قيمة MUC16 التنبؤية في مجموعات مستقلة، ومعرفة ما إذا كان يضيف فائدة إلى التقييم السريري والأنسجة المعتاد. الخلاصة: MUC16 مرشح واعد لفهم التليف ومقاومة corticosteroid في CRSwNP، لكن استخدامه كـ biomarker أو therapeutic target ما زال يحتاج إلى إثبات سريري.",
+      "audio_script_en": "Today’s study investigates MUC16 in chronic rhinosinusitis with nasal polyps, or CRSwNP, with a particular focus on fibrosis and reduced corticosteroid responsiveness. The clinical rationale is that some patients remain difficult to treat, and eosinophil levels alone may not capture all relevant disease patterns.\n\nThe researchers examined nasal polyp tissue from different patient groups, including patients resistant to oral corticosteroids, using histologic and molecular measures. They also studied fibroblasts and epithelial cells in vitro and used MUC16 silencing to investigate its effects on fibrotic and glucocorticoid-response pathways.\n\nPolyps from corticosteroid-resistant patients had the highest measures of fibrosis, including collagen, α-SMA, TGF-β1, and hydroxyproline, although they were not the most eosinophilic. MUC16 was increased in these samples and correlated with hydroxyproline. In fibroblasts, silencing MUC16 reduced phospho-SMAD3 and Smad-binding element activity, decreased proliferation, and restored dexamethasone inhibition of collagen I. In epithelial cells, MUC16 silencing enhanced dexamethasone suppression of LPS-induced IL-6 and altered several measures of glucocorticoid signaling.\n\nThese findings do not justify changing treatment or ordering MUC16 testing today. A strength is the combination of human tissue observations with loss-of-function experiments that support a possible mechanism. However, laboratory findings do not show that MUC16 predicts an individual patient’s response or that targeting it will improve clinical outcomes. The work is therefore an important addition to understanding a possible fibrotic endotype, not evidence ready to change practice.\n\nThe next step is prospective validation in independent patient groups, including assessment of whether MUC16 adds predictive value beyond routine clinical and tissue evaluation. In short, MUC16 is a promising candidate for understanding fibrosis and corticosteroid insensitivity in CRSwNP, but its use as a biomarker or therapeutic target remains unproven clinically.",
+      "mcq": [
+        {
+          "q_ar": "ما السمة النسيجية الأبرز في polyps لدى المرضى المقاومين لـ oral corticosteroid؟",
+          "q_en": "What was the most notable tissue finding in polyps from oral corticosteroid-resistant patients?",
+          "options_ar": [
+            "أ) أعلى مستويات مؤشرات التليف",
+            "ب) أعلى مستويات eosinophil",
+            "ج) غياب collagen",
+            "د) انخفاض hydroxyproline"
+          ],
+          "options_en": [
+            "A) The highest levels of fibrosis markers",
+            "B) The highest eosinophil levels",
+            "C) Absence of collagen",
+            "D) Reduced hydroxyproline"
+          ],
+          "answer": 0,
+          "explanation_ar": "أظهرت هذه المجموعة أعلى مستويات collagen وα-SMA وTGF-β1 وhydroxyproline، دون أن تكون الأعلى في eosinophil.",
+          "explanation_en": "This group had the highest collagen, α-SMA, TGF-β1, and hydroxyproline levels, but was not the most eosinophilic."
+        },
+        {
+          "q_ar": "ما أثر إسكات MUC16 في fibroblasts وفقًا للتجارب؟",
+          "q_en": "What effect did MUC16 silencing have in fibroblasts?",
+          "options_ar": [
+            "أ) زاد proliferation وخفّض حساسية dexamethasone",
+            "ب) خفّض مؤشرات SMAD واستعاد حساسية dexamethasone",
+            "ج) رفع إنتاج collagen I",
+            "د) لم يؤثر في أي مسار مقاس"
+          ],
+          "options_en": [
+            "A) Increased proliferation and reduced dexamethasone sensitivity",
+            "B) Reduced SMAD measures and restored dexamethasone sensitivity",
+            "C) Increased collagen I production",
+            "D) Had no effect on measured pathways"
+          ],
+          "answer": 1,
+          "explanation_ar": "خفض إسكات MUC16 phospho-SMAD3 ونشاط Smad-binding element وproliferation، واستعاد تثبيط dexamethasone لـ collagen I.",
+          "explanation_en": "MUC16 silencing reduced phospho-SMAD3, Smad-binding element activity, and proliferation, and restored dexamethasone inhibition of collagen I."
+        },
+        {
+          "q_ar": "ما الاستنتاج السريري الأنسب من هذه الدراسة؟",
+          "q_en": "What is the most appropriate clinical conclusion from this study?",
+          "options_ar": [
+            "أ) ينبغي استخدام MUC16 روتينيًا لاختيار العلاج",
+            "ب) يجب إيقاف corticosteroid لدى جميع مرضى CRSwNP",
+            "ج) MUC16 مرشح محتمل يحتاج إلى تحقق سريري مستقبلي",
+            "د) ثبت أن استهداف MUC16 يحسن النتائج لدى المرضى"
+          ],
+          "options_en": [
+            "A) MUC16 should routinely guide treatment selection",
+            "B) Corticosteroids should be stopped in all patients with CRSwNP",
+            "C) MUC16 is a candidate requiring prospective clinical validation",
+            "D) Targeting MUC16 has been proven to improve patient outcomes"
+          ],
+          "answer": 2,
+          "explanation_ar": "تدعم النتائج ارتباط MUC16 بphenotype ليفي مقاوم وتقدم دليلًا آليًا مخبريًا، لكنها لا تثبت فائدة سريرية أو علاجية.",
+          "explanation_en": "The findings associate MUC16 with a fibrotic, resistant phenotype and provide laboratory mechanistic evidence, but do not establish clinical or therapeutic benefit."
+        }
+      ]
+    },
+    {
+      "pmid": "42887023",
+      "title_ar": "Spatial localization patterns in MRI-negative Cushing disease: a comparative pituitary heat map analysis.",
+      "title_en": "Spatial localization patterns in MRI-negative Cushing disease: a comparative pituitary heat map analysis.",
+      "journal": "Journal of neurosurgery",
+      "pub_date": "2026-Oct-16",
+      "doi": "10.3171/2026.5.JNS252620",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42887023/",
+      "pdf_url": null,
+      "study_design": "Retrospective cohort n=153 (133 MRI-positive, 20 MRI-negative)",
+      "summary_ar": "حللت هذه الدراسة retrospective cohort خرائط موضعية لورم corticotroph adenomas مؤكدة نسيجيًا لدى 153 مريضًا خضعوا لجراحة transsphenoidal بسبب Cushing disease. شملت المجموعة 133 ورمًا MRI-positive و20 ورمًا MRI-negative، ووُثّق موضع كل ورم على مخطط pituitary موحد ثم جُمعت البيانات في heat maps. ظهر أكثر من نصف الأورام في الجزء anterior من pituitary في المجموعتين. ارتبطت أورام MRI-positive أكثر بالموضعين lateral وdorsal من anterior pituitary، بينما لم تُظهر أورام MRI-negative منطقة شائعة محددة. كانت مستويات nadir cortisol بعد الجراحة أعلى في مجموعة MRI-negative، كما كانت reoperation أكثر شيوعًا؛ وكان remission أقل، لكن الفرق لم يبلغ الدلالة الإحصائية وفق النتائج المعروضة. تدعم النتائج استخدام التوزيع التشريحي كمرجع لاستكشاف gland، مع إبقاء القرار الجراحي معتمدًا على intraoperative findings وتشريح كل مريض.",
+      "summary_en": "This retrospective cohort analyzed anatomical maps of histologically confirmed corticotroph adenomas in 153 patients who underwent transsphenoidal surgery for Cushing disease. The cohort included 133 MRI-positive and 20 MRI-negative tumors, documented on standardized pituitary sketches and aggregated into heat maps. More than half of tumors in both groups were located in the anterior pituitary. MRI-positive tumors were more likely to occur in the lateral and dorsal anterior pituitary, whereas MRI-negative tumors showed no distinct region of increased prevalence. The MRI-negative group had higher postoperative nadir cortisol and more reoperations; remission was lower, but the reported difference was not statistically significant. The findings offer anatomical context for gland exploration, while operative decisions should remain guided by intraoperative findings and individual anatomy.",
+      "practice_change_ar": "لا تبرر النتائج استهداف منطقة ثابتة في MRI-negative disease؛ بل يمكن استخدامها كمرجع تشريحي مساعد مع توجيه الاستكشاف بحسب intraoperative findings وتشريح المريض.",
+      "practice_change_en": "The findings do not justify targeting a fixed region in MRI-negative disease; they may inform anatomical exploration while decisions remain guided by intraoperative findings and patient anatomy.",
+      "future_impact_ar": "قد تساعد دراسات أكبر متعددة المراكز في التحقق من خرائط التوزيع وتحديد ما إذا كان دمجها في التخطيط الجراحي يحسن remission ويقلل reoperation.",
+      "future_impact_en": "Larger multicenter studies could validate the distribution maps and determine whether incorporating them into surgical planning improves remission and reduces reoperation.",
+      "why_important_ar": "توضح الدراسة أن MRI-negative corticotroph adenomas لا تتركز في منطقة pituitary واحدة، ما يحد من الاعتماد على استهداف موضعي نمطي.",
+      "why_important_en": "The study shows that MRI-negative corticotroph adenomas do not cluster in a single pituitary region, limiting the value of stereotyped focal targeting.",
+      "vs_previous_ar": "بدل الاعتماد على الانطباعات الجراحية الفردية فقط، تقارن الدراسة التوزيع المكاني لأورام مؤكدة نسيجيًا وفق MRI status، وتجد نمطًا أوضح في MRI-positive دون MRI-negative tumors.",
+      "vs_previous_en": "Rather than relying only on individual surgical impressions, this study compares the spatial distribution of histologically confirmed tumors by MRI status, finding a clearer pattern in MRI-positive but not MRI-negative tumors.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة retrospective cohort كبيرة نسبيًا ومباشرة الصلة بجراحة skull_base، وتضيف معلومات مكانية مفيدة؛ لكن مجموعة MRI-negative صغيرة والنتائج لا تغيّر الممارسة الحالية.",
+      "stars_reason_en": "A relatively large retrospective cohort directly relevant to skull-base surgery that adds useful spatial information, but the MRI-negative subgroup is small and the findings do not change current practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study addresses an important Cushing disease surgical-planning question, offers an objective comparison of MRI-positive and MRI-negative tumors, and has limitations suitable for discussion.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات مستقبلية متعددة المراكز لتقييم قابلية تعميم خرائط التوزيع وما إذا كان استخدامها يحسن نتائج الجراحة في MRI-negative disease.",
+      "research_gap_en": "Prospective multicenter studies are needed to assess the generalizability of the distribution maps and whether their use improves outcomes in MRI-negative disease.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "تتناول هذه الدراسة تحديًا جراحيًا مهمًا في Cushing disease: كيف نحدد corticotroph adenoma عندما لا يظهر بوضوح على MRI؟ راجع الباحثون سجلات 153 مريضًا خضعوا لجراحة transsphenoidal، وكانت الأورام مؤكدة بالفحص النسيجي. شملت الدراسة 133 حالة MRI-positive و20 حالة MRI-negative. استخدم الجرّاح مخططًا موحدًا لتسجيل موقع الورم في pituitary، ثم حوّل الباحثون المواقع إلى heat maps للمقارنة.\n\nأظهرت النتائج أن أكثر من نصف الأورام في كلتا المجموعتين كانت في الجزء anterior من pituitary. لكن أورام MRI-positive كانت أكثر ميلًا للتموضع في المناطق lateral وdorsal من anterior pituitary. في المقابل، لم تظهر أورام MRI-negative منطقة واحدة ترتفع فيها نسبة التوضع؛ أي إن الصور لا تدعم استهداف منطقة نمطية واحدة عند غياب علامة الورم على MRI.\n\nمن ناحية النتائج، كان nadir cortisol بعد الجراحة أعلى في مجموعة MRI-negative، واحتاج عدد أكبر من هؤلاء المرضى إلى reoperation. أما remission فكان أقل في مجموعة MRI-negative، لكن الفرق لم يكن ذا دلالة إحصائية بحسب النتائج المقدمة. تظل هذه مقارنة retrospective، كما أن مجموعة MRI-negative صغيرة، لذلك ينبغي الحذر من تعميم الخريطة على جميع المرضى.\n\nما الذي تعنيه الدراسة للممارسة؟ لا تقدم وصفة جراحية جديدة ولا تبرر استئصال منطقة محددة بصورة روتينية. لكنها تضيف سياقًا تشريحيًا مفيدًا لاستكشاف gland، مع التأكيد على أن القرار يجب أن يستند إلى intraoperative findings وتشريح المريض الفردي. وتكمن أهميتها في أن MRI-negative tumors لا تتبع نمطًا مكانيًا واضحًا، بخلاف الزيادة الملحوظة في التوضع lateral وdorsal لدى MRI-positive tumors. ستكون الخطوة التالية إجراء دراسات متعددة المراكز لاختبار هذه النتائج وقياس تأثير الخرائط على remission ومعدلات reoperation.",
+      "audio_script_en": "This study addresses a difficult surgical problem in Cushing disease: localizing a corticotroph adenoma when it is not clearly visible on MRI. The authors reviewed 153 patients who underwent transsphenoidal surgery and had histologically confirmed tumors. There were 133 MRI-positive cases and 20 MRI-negative cases. The surgeon documented tumor location on standardized pituitary sketches, which the research team then aggregated into heat maps.\n\nMore than half of tumors in both groups were in the anterior pituitary. However, MRI-positive tumors were more likely to be located in the lateral and dorsal portions of the anterior pituitary. MRI-negative tumors did not show a distinct region of increased prevalence. In practical terms, the data do not support routinely targeting one stereotyped pituitary region when MRI does not reveal the lesion.\n\nPostoperatively, the MRI-negative group had higher nadir cortisol and a higher reoperation rate. Remission was also lower in that group, although the reported difference was not statistically significant. This is a retrospective comparison, and the MRI-negative subgroup is small, so the findings should not be overgeneralized.\n\nFor current practice, the study does not establish a new operative protocol or justify routine resection of a particular region. It provides anatomical context that may help surgeons consider gland exploration, while emphasizing that decisions should still be based on intraoperative findings and the patient’s individual anatomy. Its key contribution is showing that MRI-negative tumors lack a clear spatial hotspot, unlike the lateral and dorsal tendency observed for MRI-positive tumors. Multicenter studies are needed to validate the maps and determine whether using them can improve remission or reduce reoperation.",
+      "mcq": [
+        {
+          "q_ar": "ما النتيجة المكانية الرئيسية لدى MRI-negative corticotroph adenomas؟",
+          "q_en": "What was the main spatial finding for MRI-negative corticotroph adenomas?",
+          "options_ar": [
+            "أ) تركزت جميعها في الجزء lateral من pituitary",
+            "ب) لم تظهر منطقة واحدة ذات انتشار أعلى بوضوح",
+            "ج) تركزت جميعها في الجزء dorsal من anterior pituitary",
+            "د) ظهرت حصريًا في الجزء posterior من pituitary"
+          ],
+          "options_en": [
+            "A) They were all concentrated in the lateral pituitary",
+            "B) They showed no single region of clearly increased prevalence",
+            "C) They were all concentrated in the dorsal anterior pituitary",
+            "D) They occurred exclusively in the posterior pituitary"
+          ],
+          "answer": 1,
+          "explanation_ar": "لم تكشف heat maps عن منطقة ذات زيادة واضحة في توضع MRI-negative adenomas.",
+          "explanation_en": "The heat maps did not identify a region of clearly increased prevalence for MRI-negative adenomas."
+        },
+        {
+          "q_ar": "أي مجموعة أظهرت ميلًا أكبر إلى التوضع lateral وdorsal في anterior pituitary؟",
+          "q_en": "Which group showed a greater tendency to localize laterally and dorsally in the anterior pituitary?",
+          "options_ar": [
+            "أ) MRI-positive tumors",
+            "ب) MRI-negative tumors",
+            "ج) المجموعتان بالتساوي",
+            "د) لم يُحلل موضع الأورام بحسب MRI status"
+          ],
+          "options_en": [
+            "A) MRI-positive tumors",
+            "B) MRI-negative tumors",
+            "C) Both groups equally",
+            "D) Tumor location was not analyzed by MRI status"
+          ],
+          "answer": 0,
+          "explanation_ar": "كانت أورام MRI-positive أكثر احتمالًا للتموضع في الجانبين lateral وdorsal من anterior pituitary.",
+          "explanation_en": "MRI-positive tumors were more likely to localize to the lateral and dorsal anterior pituitary."
+        },
+        {
+          "q_ar": "ما التفسير الأنسب لتطبيق النتائج على الجراحة؟",
+          "q_en": "What is the most appropriate surgical interpretation of these findings?",
+          "options_ar": [
+            "أ) استئصال الجزء lateral من pituitary في جميع حالات MRI-negative",
+            "ب) تجاهل intraoperative findings واستخدام heat map وحدها",
+            "ج) اعتبار التوزيع المكاني مرجعًا مساعدًا مع الاستناد إلى intraoperative findings وتشريح المريض",
+            "د) الامتناع عن الجراحة في جميع حالات MRI-negative disease"
+          ],
+          "options_en": [
+            "A) Resect the lateral pituitary in every MRI-negative case",
+            "B) Ignore intraoperative findings and rely only on the heat map",
+            "C) Use the spatial distribution as supporting context alongside intraoperative findings and patient anatomy",
+            "D) Avoid surgery in all cases of MRI-negative disease"
+          ],
+          "answer": 2,
+          "explanation_ar": "لا تحدد الدراسة هدفًا جراحيًا ثابتًا؛ بل تدعم استخدام التوزيع التشريحي كمرجع مع بقاء القرار معتمدًا على النتائج أثناء العملية وتشريح المريض.",
+          "explanation_en": "The study does not define a fixed surgical target; it supports using the anatomical distribution as context while relying on intraoperative findings and individual anatomy."
+        }
+      ]
+    },
+    {
+      "pmid": "42886344",
+      "title_ar": "Long-term effects of voice training and swallowing function exercises on postoperative functional recovery in laryngeal cancer patients: a retrospective cohort study.",
+      "title_en": "Long-term effects of voice training and swallowing function exercises on postoperative functional recovery in laryngeal cancer patients: a retrospective cohort study.",
+      "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+      "pub_date": "2026-Oct-16",
+      "doi": "10.1007/s00520-026-11302-9",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42886344/",
+      "pdf_url": "https://doi.org/10.1007/s00520-026-11302-9",
+      "study_design": "Retrospective cohort n=120",
+      "summary_ar": "شملت هذه الدراسة retrospective cohort عدد 120 مريضًا خضعوا لجراحة laryngeal cancer، وقارنت بين systematic voice and swallowing training وroutine care. عند 12 شهرًا، ارتبط التأهيل بدرجة أقل على Voice Handicap Index (35.25 مقابل 58.70، P<0.001) وانخفاض dysphagia (10% مقابل 30%، P=0.008). كما كانت درجة EQ-5D أعلى في مجموعة التأهيل (0.82 مقابل 0.68، P<0.001)، مع انخفاض total complication rate (11.67% مقابل 26.67%، P=0.032). أظهر multivariate analysis ارتباط rehabilitation بتحسن voice function وswallowing function وانخفاض complications. النتائج تشير إلى فائدة محتملة مستمرة للتأهيل المشترك، لكنها لا تثبت السببية بسبب التصميم retrospective واحتمال وجود confounding. لا يوضح abstract تفاصيل كافية عن أنواع الجراحة أو محتوى التدريب والالتزام به.",
+      "summary_en": "This retrospective cohort included 120 patients who underwent laryngeal cancer surgery and compared systematic voice and swallowing training with routine care. At 12 months, the rehabilitation group had a lower Voice Handicap Index score (35.25 vs 58.70; P<0.001) and less dysphagia (10% vs 30%; P=0.008). EQ-5D was higher with rehabilitation (0.82 vs 0.68; P<0.001), while the total complication rate was lower (11.67% vs 26.67%; P=0.032). Multivariate analysis associated rehabilitation with better voice and swallowing function and fewer complications. The findings suggest potential long-term benefit but cannot establish causation because the study was retrospective and may be affected by confounding. The abstract does not provide sufficient detail about surgery types, training protocols, or adherence.",
+      "practice_change_ar": "يمكن التفكير في إحالة مرضى laryngeal cancer بعد الجراحة إلى voice and swallowing rehabilitation، لكن هذه النتائج وحدها لا تبرر تغييرًا إلزاميًا في البروتوكولات.",
+      "practice_change_en": "Consider referral for voice and swallowing rehabilitation after laryngeal cancer surgery, but these findings alone do not justify a mandatory protocol change.",
+      "future_impact_ar": "قد تدعم هذه النتائج تطوير برامج تأهيل معيارية إذا أكدت prospective studies وRCTs الفائدة وحددت توقيت التدريب وجرعته.",
+      "future_impact_en": "These findings may support standardized rehabilitation programs if prospective studies and RCTs confirm benefit and define training timing and dose.",
+      "why_important_ar": "تتناول الدراسة نتائج وظيفية وجودة حياة مهمة للمرضى بعد جراحة laryngeal cancer، وتقترح أن التأهيل المشترك قد يقلل dysphagia والمضاعفات.",
+      "why_important_en": "The study addresses important functional and quality-of-life outcomes after laryngeal cancer surgery and suggests combined rehabilitation may reduce dysphagia and complications.",
+      "vs_previous_ar": "تضيف الدراسة مقارنة طويلة الأمد بين rehabilitation المشترك وroutine care، لكنها لا تقدم دليلًا سببيًا أو بروتوكولًا جديدًا مثبتًا.",
+      "vs_previous_en": "The study adds a long-term comparison of combined rehabilitation with routine care, but does not provide causal evidence or a validated new protocol.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة retrospective cohort بحجم n=120 وتُظهر فروقًا سريرية مفيدة، لكن غياب العشوائية واحتمال confounding ومحدودية تفاصيل التدخل تجعل الدليل متوسطًا ولا تثبت تغيير الممارسة.",
+      "stars_reason_en": "This retrospective cohort of 120 reports clinically useful differences, but lack of randomization, potential confounding, and limited intervention details make the evidence moderate and insufficient to establish a practice change.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for journal club because of its sample size and relevant functional outcomes, with important discussion points around confounding, patient selection, and measurement of rehabilitation adherence.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج الأدلة إلى RCT متعدد المراكز يحدد نوع الجراحة وبروتوكول التأهيل والالتزام، ويقيس النتائج الوظيفية وجودة الحياة لفترة متابعة أطول.",
+      "research_gap_en": "Evidence is needed from a multicenter RCT that specifies surgery type, rehabilitation protocol, and adherence, and measures functional and quality-of-life outcomes over longer follow-up.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة عن التعافي الوظيفي بعد جراحة laryngeal cancer. هذه retrospective cohort شملت 120 مريضًا بين عامي 2019 و2023؛ تلقى 60 منهم systematic voice and swallowing training، بينما تلقى 60 routine care. قُيّمت النتائج عند 6 و12 و24 شهرًا باستخدام Voice Handicap Index وSwallowing Function Scale وEQ-5D، إضافة إلى تسجيل complications.\n\nبحسب النتائج الواردة في abstract، عند 12 شهرًا كان Voice Handicap Index أقل في مجموعة التأهيل: 35.25 مقارنةً بـ58.70، مع P<0.001. وكانت dysphagia أقل، 10% مقابل 30%، وEQ-5D أعلى، 0.82 مقابل 0.68. كذلك انخفض total complication rate من 26.67% إلى 11.67%. وذكر multivariate analysis أن rehabilitation ارتبط بتحسن voice function وswallowing function وانخفاض complications.\n\nالأهمية السريرية هي أن التأهيل المشترك قد يكون مفيدًا لاستعادة الوظيفة وجودة الحياة، ولذلك من المعقول بحث إحالة المرضى إلى خدمات voice and swallowing rehabilitation بعد الجراحة. لكن الدراسة retrospective، لذا لا يمكن استبعاد اختلافات اختيار المرضى أو confounding، ولا تثبت أن التدريب وحده سبب التحسن. كما أن abstract لا يشرح أنواع العمليات، تفاصيل برنامج التدريب، أو مدى الالتزام به؛ ولا يعرض هنا النتائج الكاملة لكل نقاط المتابعة.\n\nالتقييم ثلاث نجوم وثقة متوسطة: حجم العينة جيد وموضوع الدراسة مهم، لكن النتائج لا تكفي لتغيير البروتوكولات بصورة إلزامية. تصلح الدراسة للنقاش في journal club، خصوصًا حول ضبط confounding وتصميم prospective study أو RCT. الفجوة البحثية الأساسية هي الحاجة إلى بروتوكول موحد ودراسة متعددة المراكز تحدد الجرعة والتوقيت والالتزام، وتتابع النتائج الوظيفية وجودة الحياة مدة أطول. لا توجد تقنية أو أداة جديدة بارزة تستدعي المتابعة التقنية.",
+      "audio_script_en": "Today we review a study of functional recovery after laryngeal cancer surgery. This retrospective cohort included 120 patients treated between 2019 and 2023. Sixty received systematic voice and swallowing training, and 60 received routine care. Outcomes were assessed at 6, 12, and 24 months using the Voice Handicap Index, Swallowing Function Scale, and EQ-5D, along with complication recording.\n\nIn the abstract’s reported 12-month results, the Voice Handicap Index was lower in the rehabilitation group: 35.25 versus 58.70, with P<0.001. Dysphagia was reported in 10% versus 30%, and EQ-5D was higher, 0.82 versus 0.68. The total complication rate was also lower, 11.67% compared with 26.67%. Multivariate analysis associated rehabilitation with improved voice and swallowing function and fewer complications.\n\nThe clinical relevance is that combined rehabilitation may help restore function and quality of life. It is reasonable to consider referral to voice and swallowing rehabilitation services after surgery. However, this is retrospective evidence: differences in patient selection and other confounders could explain some of the observed effects, and the study cannot establish that training itself caused the improvement. The abstract also does not detail surgery types, the training protocol, or adherence, and it does not present complete results for every follow-up time point.\n\nThe article receives three stars with moderate confidence. The cohort is sizeable and the question matters, but the evidence is not strong enough to mandate a practice change. It is appropriate for journal club, particularly to discuss confounding and the design of a prospective study or RCT. The key research gap is a multicenter study with a standardized program that defines training dose, timing, and adherence and follows functional and quality-of-life outcomes for longer. No new device, instrument, or technology is featured.",
+      "mcq": [
+        {
+          "q_ar": "ما نوع تصميم الدراسة وحجم العينة؟",
+          "q_en": "What were the study design and sample size?",
+          "options_ar": [
+            "أ) RCT شملت 120 مريضًا",
+            "ب) Retrospective cohort شملت 120 مريضًا",
+            "ج) Prospective cohort شملت 60 مريضًا",
+            "د) Case series شملت 20 مريضًا"
+          ],
+          "options_en": [
+            "A) An RCT with 120 patients",
+            "B) A retrospective cohort with 120 patients",
+            "C) A prospective cohort with 60 patients",
+            "D) A case series with 20 patients"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت الدراسة retrospective cohort وضمت 120 مريضًا، موزعين بالتساوي بين rehabilitation وroutine care.",
+          "explanation_en": "The study was a retrospective cohort of 120 patients, divided equally between rehabilitation and routine care."
+        },
+        {
+          "q_ar": "أي نتيجة عند 12 شهرًا كانت أفضل في مجموعة rehabilitation؟",
+          "q_en": "Which 12-month outcome was better in the rehabilitation group?",
+          "options_ar": [
+            "أ) ارتفاع Voice Handicap Index",
+            "ب) ارتفاع dysphagia incidence",
+            "ج) ارتفاع EQ-5D مع انخفاض complication rate",
+            "د) عدم وجود اختلاف في أي نتيجة"
+          ],
+          "options_en": [
+            "A) A higher Voice Handicap Index",
+            "B) A higher incidence of dysphagia",
+            "C) A higher EQ-5D and a lower complication rate",
+            "D) No difference in any outcome"
+          ],
+          "answer": 2,
+          "explanation_ar": "سجلت مجموعة rehabilitation EQ-5D أعلى وtotal complication rate أقل، إلى جانب انخفاض Voice Handicap Index وdysphagia.",
+          "explanation_en": "The rehabilitation group had higher EQ-5D and a lower total complication rate, as well as lower Voice Handicap Index scores and less dysphagia."
+        },
+        {
+          "q_ar": "ما أهم قيد منهجي عند تفسير هذه النتائج؟",
+          "q_en": "What is the main methodological limitation when interpreting these findings?",
+          "options_ar": [
+            "أ) الدراسة حيوانية",
+            "ب) حجم العينة أقل من 10",
+            "ج) التصميم retrospective لا يثبت السببية وقد يتأثر بـconfounding",
+            "د) لم تُقَس أي نتائج سريرية"
+          ],
+          "options_en": [
+            "A) The study was conducted in animals",
+            "B) The sample size was fewer than 10",
+            "C) The retrospective design cannot establish causality and may be affected by confounding",
+            "D) No clinical outcomes were measured"
+          ],
+          "answer": 2,
+          "explanation_ar": "التصميم retrospective يحد من الاستدلال السببي، وقد تؤثر عوامل مثل اختيار المرضى والاختلاف في الرعاية على النتائج.",
+          "explanation_en": "The retrospective design limits causal inference, and factors such as patient selection or differences in care may influence the findings."
+        }
+      ]
+    }
+  ]
+}
