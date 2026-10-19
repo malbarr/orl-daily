@@ -1,0 +1,687 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T08:46:20Z",
+  "articles": [
+    {
+      "pmid": "42891871",
+      "title_ar": "Duration of single-agent perioperative antibiotic prophylaxis and postoperative meningitis after endoscopic endonasal skull base surgery: a systematic review and meta-analysis of 7,981 patients.",
+      "title_en": "Duration of single-agent perioperative antibiotic prophylaxis and postoperative meningitis after endoscopic endonasal skull base surgery: a systematic review and meta-analysis of 7,981 patients.",
+      "journal": "Neurosurgical review",
+      "pub_date": "2026-Oct-17",
+      "doi": "10.1007/s10143-026-04537-x",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42891871/",
+      "pdf_url": null,
+      "study_design": "Systematic review and meta-analysis of 14 studies, n=7,981",
+      "summary_ar": "قيّمت هذه systematic review وmeta-analysis حدوث postoperative meningitis بحسب مدة single-agent perioperative antibiotic prophylaxis بعد endoscopic endonasal skull base surgery. شملت المراجعة 14 دراسة و7,981 مريضًا، وقُسّمت مدة prophylaxis إلى ultra-short (≤1 يوم)، وshort (1–3 أيام)، وlong (>3 أيام). بلغ pooled incidence لـ postoperative meningitis نسبة 1.38%، مع تغاير ملحوظ بين الدراسات (I²=65.8%). لم يظهر فرق ذو دلالة إحصائية بين مجموعات المدة، كما لم ترتبط مدة antibiotic prophylaxis بحدوث meningitis في meta-regression. ارتبط ارتفاع نسبة intraoperative CSF leak في الدراسة بارتفاع incidence of meningitis. تشير النتائج إلى أن خصائص الخطورة الجراحية، ولا سيما intraoperative CSF leak، قد تكون أهم من إطالة prophylaxis، لكن البيانات لا تثبت التكافؤ بين الأنظمة.",
+      "summary_en": "This systematic review and meta-analysis evaluated postoperative meningitis by duration of single-agent perioperative antibiotic prophylaxis after endoscopic endonasal skull base surgery. It included 14 studies and 7,981 patients, classifying prophylaxis as ultra-short (≤1 day), short (1–3 days), or long (>3 days). The pooled incidence of postoperative meningitis was 1.38%, with substantial between-study heterogeneity (I²=65.8%). Meningitis incidence did not differ significantly across duration subgroups, and duration was not associated with meningitis in meta-regression. A higher study-level prevalence of intraoperative CSF leak was associated with higher meningitis incidence. The findings suggest operative risk characteristics may matter more than extending prophylaxis, but do not establish equivalence between regimens.",
+      "practice_change_ar": "لا تدعم النتائج تغيير الممارسة إلى مدة محددة، لكنها لا تُظهر فائدة واضحة لإطالة antibiotic prophylaxis روتينيًا لأكثر من 3 أيام.",
+      "practice_change_en": "These findings do not establish a preferred duration, but show no clear benefit from routinely extending antibiotic prophylaxis beyond 3 days.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية مضبوطة ومُقسّمة بحسب intraoperative CSF leak على تحديد مدة prophylaxis المناسبة لكل فئة خطورة.",
+      "future_impact_en": "Future controlled studies stratified by intraoperative CSF leak may clarify the appropriate prophylaxis duration for each risk group.",
+      "why_important_ar": "تلخص الدراسة بيانات 7,981 مريضًا حول مضاعفة خطيرة ونادرة، وتتناول ما إذا كانت إطالة antibiotic prophylaxis تقلل postoperative meningitis.",
+      "why_important_en": "This study synthesizes data from 7,981 patients on a rare but serious complication and examines whether longer antibiotic prophylaxis reduces postoperative meningitis.",
+      "vs_previous_ar": "بدلًا من افتراض أن مدة أطول من antibiotic prophylaxis أكثر أمانًا، تقارن هذه المراجعة مباشرةً بين فئات المدة وتبرز ارتباط intraoperative CSF leak بالخطر.",
+      "vs_previous_en": "Rather than assuming longer antibiotic prophylaxis is safer, this review compares duration groups and highlights the association between intraoperative CSF leak and meningitis risk.",
+      "stars": 4,
+      "stars_reason_ar": "تحصل على 4 نجوم لأنها systematic review وmeta-analysis كبيرة وذات صلة مباشرة بـ skull base، وتضيف دليلًا مفيدًا دون أن تغيّر الممارسة؛ كما أن التغاير وتصميم الدراسات الأصلية يحدان من قوة الاستنتاج.",
+      "stars_reason_en": "Four stars reflect a large, directly relevant systematic review and meta-analysis that provides useful evidence but does not change practice; heterogeneity and the underlying study designs limit the strength of inference.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسبة لـ journal club لمناقشة تفسير عدم وجود فرق بين مدد prophylaxis، وأثر التغاير، واحتمال confounding المرتبط بـ intraoperative CSF leak.",
+      "jc_reason_en": "Suitable for journal club discussion of the nonsignificant duration findings, heterogeneity, and potential confounding related to intraoperative CSF leak.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى دراسات مستقبلية مقارنة ومُصممة لتقييم antibiotic prophylaxis بحسب وجود intraoperative CSF leak، مع توحيد تعريف meningitis والأنظمة الوقائية.",
+      "research_gap_en": "Prospective comparative studies should evaluate antibiotic prophylaxis by intraoperative CSF leak status and standardize meningitis definitions and prophylaxis regimens.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "تتناول هذه الدراسة سؤالًا عمليًا في endoscopic endonasal skull base surgery: هل تقلل مدة أطول من single-agent perioperative antibiotic prophylaxis حدوث postoperative meningitis؟ أجرى الباحثون systematic review وmeta-analysis وفق PRISMA 2020، وشملت 14 دراسة بإجمالي 7,981 مريضًا. صُنّفت الأنظمة إلى ultra-short، أي يوم واحد أو أقل، وshort، أي من يوم إلى ثلاثة أيام، وlong، أي أكثر من ثلاثة أيام.\n\nكان pooled incidence لـ postoperative meningitis 1.38%، لكن النتائج تفاوتت بين الدراسات، مع I² بلغ 65.8%. لم يكن الفرق بين مجموعات المدة ذا دلالة إحصائية: كانت النسب 2.12% مع long-duration، و1.20% مع short-duration، و1.24% مع ultra-short prophylaxis. كذلك لم تجد meta-regression ارتباطًا بين مدة antibiotic prophylaxis وحدوث meningitis. في المقابل، ارتبط ارتفاع نسبة intraoperative CSF leak على مستوى الدراسة بارتفاع meningitis incidence.\n\nسريريًا، لا تثبت هذه النتائج أن المدد المختلفة متكافئة، ولا تحدد بروتوكولًا مثاليًا؛ فهي تحليل لدراسات رصدية مع تغاير ملحوظ. لكنها لا تقدم دليلًا على فائدة إطالة prophylaxis روتينيًا. لذلك ينبغي تفسير الخطر ضمن سياق خصائص العملية، مع اهتمام خاص بـ intraoperative CSF leak، واتباع البروتوكولات المحلية بدل استنتاج مدة علاجية جديدة من هذه المراجعة وحدها.\n\nتكمن أهمية الورقة في جمع بيانات عدد كبير من المرضى حول مضاعفة نادرة لكنها خطيرة، وإبراز أن عوامل الخطورة الجراحية قد تكون أكثر ارتباطًا بالعدوى من مدة المضاد وحدها. وتبقى الحاجة قائمة إلى دراسات مستقبلية مضبوطة، تُقسّم المرضى بحسب وجود CSF leak وتوحّد تعريف meningitis ونظام prophylaxis. الخلاصة: هذه دراسة مفيدة للنقاش وتوجيه البحث، لكنها لا تغيّر الممارسة الحالية بمفردها.",
+      "audio_script_en": "This study addresses a practical question in endoscopic endonasal skull base surgery: does a longer course of single-agent perioperative antibiotic prophylaxis reduce postoperative meningitis? The authors conducted a PRISMA 2020 systematic review and meta-analysis of 14 studies involving 7,981 patients. Prophylaxis was categorized as ultra-short, one day or less; short, one to three days; or long, more than three days.\n\nThe pooled incidence of postoperative meningitis was 1.38%, with notable between-study heterogeneity, I² of 65.8%. There was no statistically significant difference between duration groups: incidence was 2.12% with long-duration prophylaxis, 1.20% with short-duration prophylaxis, and 1.24% with ultra-short prophylaxis. Meta-regression also found no association between antibiotic duration and meningitis. In contrast, a higher study-level proportion of intraoperative CSF leak was associated with higher meningitis incidence.\n\nClinically, these findings do not prove that different durations are equivalent or establish an optimal regimen. The evidence is based on studies with considerable heterogeneity. However, it provides no clear support for routinely extending prophylaxis. Risk should be interpreted in the context of operative characteristics, particularly intraoperative CSF leak, and local protocols should be followed rather than inferring a new standard duration from this review alone.\n\nThe article matters because it brings together a large patient sample for a rare but serious complication and suggests that surgical risk factors may be more closely associated with infection than antibiotic duration alone. Future controlled studies should stratify patients by CSF leak and standardize meningitis definitions and prophylaxis regimens. In summary, this is useful evidence for discussion and future research, but it does not independently warrant a change in current practice.",
+      "mcq": [
+        {
+          "q_ar": "ما النسبة الإجمالية المجمعة لحدوث postoperative meningitis في هذه meta-analysis؟",
+          "q_en": "What was the pooled incidence of postoperative meningitis in this meta-analysis?",
+          "options_ar": [
+            "أ) 0.14%",
+            "ب) 1.38%",
+            "ج) 5.36%",
+            "د) 13.8%"
+          ],
+          "options_en": [
+            "A) 0.14%",
+            "B) 1.38%",
+            "C) 5.36%",
+            "D) 13.8%"
+          ],
+          "answer": 1,
+          "explanation_ar": "بلغ pooled incidence لـ postoperative meningitis نسبة 1.38% (95% CI: 0.92%–2.08%).",
+          "explanation_en": "The pooled incidence of postoperative meningitis was 1.38% (95% CI: 0.92%–2.08%)."
+        },
+        {
+          "q_ar": "أي عامل ارتبط بارتفاع meningitis incidence في meta-regression؟",
+          "q_en": "Which factor was associated with higher meningitis incidence in meta-regression?",
+          "options_ar": [
+            "أ) مدة antibiotic prophylaxis الأطول",
+            "ب) ارتفاع نسبة intraoperative CSF leak",
+            "ج) استخدام ultra-short prophylaxis",
+            "د) زيادة عدد المرضى في الدراسة"
+          ],
+          "options_en": [
+            "A) Longer antibiotic prophylaxis duration",
+            "B) A higher proportion of intraoperative CSF leak",
+            "C) Use of ultra-short prophylaxis",
+            "D) A larger study sample"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتبط ارتفاع النسبة على مستوى الدراسة لـ intraoperative CSF leak بارتفاع meningitis incidence (p=0.010)، بينما لم ترتبط المدة بالنتيجة.",
+          "explanation_en": "A higher study-level proportion of intraoperative CSF leak was associated with higher meningitis incidence (p=0.010), whereas duration was not associated with the outcome."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب حول مدة perioperative antibiotic prophylaxis؟",
+          "q_en": "What is the most appropriate conclusion about perioperative antibiotic prophylaxis duration?",
+          "options_ar": [
+            "أ) أثبتت الدراسة أن long-duration prophylaxis تمنع meningitis",
+            "ب) كانت ultra-short prophylaxis أسوأ بوضوح من بقية الأنظمة",
+            "ج) لم يظهر ارتباط ذو دلالة إحصائية بين المدة وmeningitis، دون إثبات التكافؤ",
+            "د) يجب إيقاف prophylaxis لجميع المرضى"
+          ],
+          "options_en": [
+            "A) The study proved that long-duration prophylaxis prevents meningitis",
+            "B) Ultra-short prophylaxis was clearly worse than the other regimens",
+            "C) No statistically significant association between duration and meningitis was detected, without proving equivalence",
+            "D) Prophylaxis should be stopped for all patients"
+          ],
+          "answer": 2,
+          "explanation_ar": "لم تجد التحليلات فرقًا ذا دلالة أو ارتباطًا بين المدة والنتيجة، لكن ذلك لا يثبت التكافؤ ولا يبرر استنتاجًا بإيقاف prophylaxis.",
+          "explanation_en": "The analyses found no significant difference or association, but this does not establish equivalence or justify stopping prophylaxis."
+        }
+      ]
+    },
+    {
+      "pmid": "42892559",
+      "title_ar": "Voice Rehabilitation After Early Laryngeal Cancer: A Narrative Review.",
+      "title_en": "Voice Rehabilitation After Early Laryngeal Cancer: A Narrative Review.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Oct-17",
+      "doi": "10.1016/j.jvoice.2026.09.028",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42892559/",
+      "pdf_url": null,
+      "study_design": "Narrative review of 15 studies",
+      "summary_ar": "تراجع هذه narrative review أدلة voice therapy بعد علاج early-stage laryngeal cancer باستخدام radiotherapy أو transoral CO₂ laser microsurgery. شملت المراجعة 15 دراسة، واستخدمت معظمها برامج منظمة تجمع breathing وrelaxation وposture وphonation exercises، غالبًا عبر 8-10 جلسات. أظهرت النتائج تحسنًا ذا أهمية سريرية في voice-related quality of life، والتقييم perceptual للصوت، والنتائج التي يبلغ عنها المرضى، خصوصًا على المدى القصير والمتوسط. استمرت بعض المكاسب على المدى الأطول لكنها تراجعت جزئيًا، بينما ظلت نتائج acoustic متباينة. بدت structured physiologic voice therapy أكثر فاعلية من indirect approaches وحدها، لكن اختلاف البروتوكولات ومقاييس النتائج ومدد المتابعة يحد من المقارنة. تخلص المراجعة إلى أن voice therapy خيار تأهيلي واعد، مع الحاجة إلى controlled trials أكبر ومقاييس موحدة ومتابعة طويلة الأمد.",
+      "summary_en": "This narrative review examines voice therapy after conservative treatment of early-stage laryngeal cancer with radiotherapy or transoral CO₂ laser microsurgery.\nFifteen studies were included; most used structured programs combining breathing, relaxation, posture, and phonation exercises, typically over 8–10 sessions.\nAcross studies, therapy was associated with clinically meaningful improvements in voice-related quality of life, perceptual voice outcomes, and patient-reported outcomes, especially at short- to intermediate-term follow-up.\nBenefits persisted but were partly attenuated over longer follow-up, while acoustic outcomes were variable.\nStructured physiologic voice therapy appeared more effective than indirect approaches alone.\nHeterogeneity in protocols, outcome measures, and follow-up limits comparisons; larger controlled trials with standardized measures and longer follow-up are needed.",
+      "practice_change_ar": "يمكن للأطباء اليوم التفكير في إحالة المرضى الذين يعانون من voice impairment بعد علاج early laryngeal cancer إلى voice therapy منظمة، مع توضيح أن البروتوكول الأمثل غير محسوم.",
+      "practice_change_en": "Clinicians can consider referral for structured voice therapy when voice impairment persists after early laryngeal cancer treatment, while recognizing that the optimal protocol is not established.",
+      "future_impact_ar": "قد تؤدي controlled trials أكبر تستخدم outcome measures موحدة ومتابعة طويلة الأمد إلى تحديد أفضل مكونات voice therapy واستدامة فائدتها.",
+      "future_impact_en": "Larger controlled trials using standardized outcome measures and long-term follow-up may clarify the most effective components of voice therapy and the durability of its benefits.",
+      "why_important_ar": "تسلط المراجعة الضوء على مشكلة وظيفية مستمرة بعد علاج السرطان، وتجمع أدلة تشير إلى أن التأهيل الصوتي قد يحسن جودة الحياة والتواصل.",
+      "why_important_en": "The review highlights persistent functional impairment after cancer treatment and synthesizes evidence that voice rehabilitation may improve quality of life and communication.",
+      "vs_previous_ar": "بدلًا من تقديم بروتوكول علاجي جديد، تجمع المراجعة الأدلة المتفرقة وتبرز أن structured physiologic voice therapy قد تتفوق على indirect approaches، مع بقاء الأدلة غير متجانسة.",
+      "vs_previous_en": "Rather than introducing a new treatment protocol, the review synthesizes scattered evidence and suggests structured physiologic voice therapy may outperform indirect approaches, while emphasizing that the evidence remains heterogeneous.",
+      "stars": 3,
+      "stars_reason_ar": "هذه narrative review تضم 15 دراسة وليست systematic review أو meta-analysis؛ تشير نتائجها إلى فائدة محتملة ومهمة سريريًا، لكن عدم التجانس وغياب بروتوكول موحد يحدان من قوة الاستنتاج والتغيير الفوري للممارسة.",
+      "stars_reason_en": "This narrative review includes 15 studies but is not a systematic review or meta-analysis. It suggests potentially meaningful clinical benefit, but heterogeneity and the lack of a standardized protocol limit certainty and immediate practice change.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "موضوع ذو صلة مباشرة بـ laryngology ويعرض خيارًا تأهيليًا عمليًا بعد علاج السرطان، كما يتيح نقاشًا مهمًا حول تفاوت البروتوكولات وجودة الأدلة.",
+      "jc_reason_en": "This is directly relevant to laryngology and presents a practical rehabilitation option after cancer treatment, while prompting useful discussion about protocol variation and evidence quality.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى controlled trials أكبر تقارن بروتوكولات voice therapy محددة باستخدام outcome measures متعددة الأبعاد موحدة ومتابعة طويلة الأمد.",
+      "research_gap_en": "Larger controlled trials are needed to compare defined voice therapy protocols using standardized multidimensional outcome measures and long-term follow-up.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نتناول اليوم مراجعة سردية عن إعادة تأهيل الصوت بعد early laryngeal cancer. غالبًا ما يُعالج early-stage laryngeal cancer، وخصوصًا glottic carcinoma، باستخدام radiotherapy أو transoral CO₂ laser microsurgery. ورغم السيطرة الورمية الجيدة، قد يستمر voice impairment ويؤثر في التواصل وجودة الحياة.\n\nجمعت المراجعة 15 دراسة تناولت voice therapy بعد هذه العلاجات المحافظة. استخدمت معظم الدراسات برامج منظمة تجمع breathing وrelaxation وposture وphonation exercises، وغالبًا قُدمت خلال 8 إلى 10 جلسات. أظهرت النتائج تحسنًا ذا أهمية سريرية في voice-related quality of life، والتقييم perceptual للصوت، والنتائج التي يبلغ عنها المرضى. كانت التحسينات أوضح في المتابعة القصيرة والمتوسطة؛ واستمر بعضها على المدى الأطول مع تراجع جزئي. أما acoustic outcomes فكانت متباينة. وتشير المراجعة إلى أن structured physiologic voice therapy قد تكون أنفع من indirect approaches وحدها.\n\nما الذي يتغير في الممارسة؟ يمكن التفكير في إحالة المريض الذي يستمر لديه voice impairment بعد علاج السرطان إلى voice therapy منظمة. لكن لا يوجد بروتوكول معياري مثبت، لذلك ينبغي تجنب التعامل مع عدد الجلسات أو مكونات البرنامج كخيار نهائي موحد.\n\nقوة الاستنتاج محدودة لأن هذه narrative review، ولأن الدراسات اختلفت في التدخلات ومقاييس النتائج ومدد المتابعة. لذلك فالثقة متوسطة، والنتيجة مفيدة سريريًا لكنها لا تقلب الممارسة وحدها. أهمية المقال أنه يلفت النظر إلى جانب وظيفي طويل الأمد قد يحتاج إلى رعاية بعد نجاح علاج السرطان. والخطوة البحثية المطلوبة هي إجراء controlled trials أكبر، بمقاييس متعددة الأبعاد موحدة ومتابعة طويلة الأمد، لتحديد أفضل مكونات العلاج ومدى استمرار الفائدة. هذه مراجعة مناسبة للنقاش في journal club، خصوصًا حول كيفية اختيار المرضى وقياس تحسن الصوت.",
+      "audio_script_en": "Today’s review focuses on voice rehabilitation after early laryngeal cancer. Early-stage laryngeal cancer, particularly glottic carcinoma, is commonly treated with radiotherapy or transoral CO₂ laser microsurgery. Even when tumor control is favorable, voice impairment may persist and affect communication and quality of life.\n\nThis narrative review included 15 studies of voice therapy after these conservative treatments. Most used structured programs combining breathing, relaxation, posture, and phonation exercises, often delivered over 8 to 10 sessions. Findings generally indicated clinically meaningful improvements in voice-related quality of life, perceptual voice outcomes, and patient-reported outcomes. Benefits were clearest at short- to intermediate-term follow-up. Some gains persisted longer, although they were partly attenuated, and acoustic outcomes were variable. The authors suggest structured physiologic voice therapy may be more effective than indirect approaches alone.\n\nWhat does this mean for practice today? Clinicians can consider referral for structured voice therapy when voice impairment continues after cancer treatment. However, there is no established standard protocol, so the review does not justify treating a particular session count or exercise combination as definitive.\n\nThe evidence has important limitations. This is a narrative review, and studies differed in interventions, outcome measures, and follow-up duration. Confidence is therefore moderate: the findings are useful, but they do not by themselves mandate a major practice change. The article matters because it highlights a lasting functional concern that may be overlooked once cancer treatment is complete. The key research need is larger controlled trials with standardized multidimensional outcomes and long-term follow-up to determine which therapy components work best and how durable the benefits are. This is a useful journal club article, especially for discussion of patient selection and how to measure meaningful voice improvement.",
+      "mcq": [
+        {
+          "q_ar": "ما التدخل الذي تراجعه المقالة لإعادة تأهيل الصوت بعد علاج early laryngeal cancer؟",
+          "q_en": "Which intervention does the article review for voice rehabilitation after early laryngeal cancer treatment?",
+          "options_ar": [
+            "أ) Voice therapy",
+            "ب) Chemotherapy وحدها",
+            "ج) Total laryngectomy",
+            "د) Cochlear implant"
+          ],
+          "options_en": [
+            "A) Voice therapy",
+            "B) Chemotherapy alone",
+            "C) Total laryngectomy",
+            "D) Cochlear implant"
+          ],
+          "answer": 0,
+          "explanation_ar": "تبحث المراجعة في voice therapy بعد radiotherapy أو transoral CO₂ laser microsurgery لعلاج early-stage laryngeal cancer.",
+          "explanation_en": "The review examines voice therapy after radiotherapy or transoral CO₂ laser microsurgery for early-stage laryngeal cancer."
+        },
+        {
+          "q_ar": "أي نتيجة وُصفت بأنها متباينة بين الدراسات؟",
+          "q_en": "Which outcome was described as variable across studies?",
+          "options_ar": [
+            "أ) Voice-related quality of life",
+            "ب) Acoustic outcomes",
+            "ج) Perceptual voice outcomes",
+            "د) Patient-reported voice outcomes"
+          ],
+          "options_en": [
+            "A) Voice-related quality of life",
+            "B) Acoustic outcomes",
+            "C) Perceptual voice outcomes",
+            "D) Patient-reported voice outcomes"
+          ],
+          "answer": 1,
+          "explanation_ar": "أشارت المراجعة إلى تحسن النتائج perceptual والوظيفية، بينما ظلت acoustic outcomes متباينة.",
+          "explanation_en": "The review reported perceptual and functional gains, whereas acoustic outcomes remained variable."
+        },
+        {
+          "q_ar": "ما القيد الأبرز الذي يمنع استخلاص بروتوكول موحد من هذه المراجعة؟",
+          "q_en": "What is the main limitation preventing a single standardized protocol from being established from this review?",
+          "options_ar": [
+            "أ) اقتصار الأدلة على animal studies",
+            "ب) عدم وجود نتائج سريرية",
+            "ج) اختلاف التدخلات ومقاييس النتائج ومدد المتابعة",
+            "د) دراسة مرضى otology فقط"
+          ],
+          "options_en": [
+            "A) The evidence consists only of animal studies",
+            "B) No clinical outcomes were reported",
+            "C) Variation in interventions, outcome measures, and follow-up durations",
+            "D) Only otology patients were studied"
+          ],
+          "answer": 2,
+          "explanation_ar": "تفاوت البروتوكولات ومقاييس النتائج ومدد المتابعة يحد من المقارنة المباشرة بين الدراسات.",
+          "explanation_en": "Differences in protocols, outcome measures, and follow-up durations limit direct comparison across studies."
+        }
+      ]
+    },
+    {
+      "pmid": "42893428",
+      "title_ar": "Recognizing Odontogenic Maxillary Sinusitis in the ENT Clinic: Four CT Findings That Should Prompt Dental Evaluation.",
+      "title_en": "Recognizing Odontogenic Maxillary Sinusitis in the ENT Clinic: Four CT Findings That Should Prompt Dental Evaluation.",
+      "journal": "Ear, nose, & throat journal",
+      "pub_date": "2026-Oct-18",
+      "doi": "10.1177/01455613261497899",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42893428/",
+      "pdf_url": null,
+      "study_design": "Retrospective single-center cohort, 65 patients and 84 maxillary sinuses",
+      "summary_ar": "راجعت هذه retrospective cohort عدد 65 مريضًا لديهم acute أو chronic maxillary sinusitis وتصوير CT خلال السنة السابقة، وشملت المراجعة 84 maxillary sinus. وجد الفريق متعدد التخصصات سمات radiographic تشير إلى مساهمة odontogenic في 50/84 (59.52%) من الجيوب المصابة، لدى 40 مريضًا. كانت السمات الأربع periapical pathology، widened periodontal ligament (PDL) space، oroantral communication، وlarge dental restorations. بين الجيوب ذات السمات، ظهرت periapical pathology في 56%، وwidened PDL space في 34%، وoroantral communication في 30%، وlarge dental restorations في 18%. أوصى الفريق بإحالة 38 من أصل 40 مريضًا ذوي سمات odontogenic إلى dental evaluation، اعتمادًا على CT وحده. تدعم النتائج مراجعة maxillary dentition بصورة منهجية على sinus CT، لكنها لا تثبت التشخيص السريري أو أثر الإحالة والعلاج بسبب التصميم الاستعادي وغياب المتابعة والنتائج العلاجية.",
+      "summary_en": "This retrospective single-center cohort reviewed CT scans from 65 patients with acute or chronic maxillary sinusitis, covering 84 affected maxillary sinuses. Multidisciplinary reviewers identified radiographic features suggesting an odontogenic contribution in 50/84 sinuses (59.52%), involving 40 patients. The four features assessed were periapical pathology, widened periodontal ligament (PDL) space, oroantral communication, and large dental restorations. Among the 50 sinuses with suggestive findings, periapical pathology was most frequent (56%), followed by widened PDL space (34%), oroantral communication (30%), and large dental restorations (18%). The team recommended dental evaluation for 38 of the 40 patients with suggestive findings, based on CT review alone. The study supports deliberate review of the maxillary dentition on sinus CT, but does not establish clinical diagnosis or the benefits of referral or treatment.",
+      "practice_change_ar": "افحص maxillary dentition عند مراجعة sinus CT لمرضى maxillary sinusitis، وفكّر في dental evaluation عند وجود إحدى السمات الأربع، مع تأكيد الحاجة سريريًا.",
+      "practice_change_en": "Review the maxillary dentition on sinus CT in patients with maxillary sinusitis and consider dental evaluation when any of the four features is present, while confirming clinical relevance.",
+      "future_impact_ar": "تحتاج دراسات prospective متعددة المراكز إلى اختبار دقة هذه السمات وربط الإحالة والعلاج بنتائج المرضى.",
+      "future_impact_en": "Prospective multicenter studies should validate these imaging features and determine whether referral and dental treatment improve patient outcomes.",
+      "why_important_ar": "قد تُغفل مساهمة odontogenic في maxillary sinusitis، وتقدم الدراسة قائمة عملية من أربع سمات يمكن أن تنبه اختصاصي ENT إلى تقييم dental.",
+      "why_important_en": "An odontogenic contribution to maxillary sinusitis may be overlooked, and this study offers ENT clinicians four practical CT findings that can prompt dental evaluation.",
+      "vs_previous_ar": "تضيف الدراسة تقديرًا من cohort عيادي واحد وتحدد أربع سمات CT، لكنها لا تقدم معيارًا تشخيصيًا مثبتًا أو دليلًا جديدًا على فعالية التدبير.",
+      "vs_previous_en": "The study provides a single-clinic cohort estimate and specifies four CT features, but does not validate a diagnostic standard or demonstrate improved outcomes from management.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة retrospective cohort صغيرة من مركز واحد في مجلة تخصصية غير مدرجة ضمن الفئات الأعلى؛ تقدم قائمة تصويرية مفيدة، لكن لا تثبت التشخيص أو تغير نتائج التدبير، لذا تستحق المعرفة دون تغيير الممارسة جذريًا.",
+      "stars_reason_en": "This small, single-center retrospective cohort in a specialty journal offers a useful imaging checklist but does not validate diagnosis or show better management outcomes; it is worth knowing rather than practice-changing.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسبة للنقاش حول كيفية التمييز بين السمات التصويرية الموحية والـ diagnosis المؤكد، وحدود الاعتماد على CT وحده لتوجيه dental referral.",
+      "jc_reason_en": "Useful for discussing the distinction between suggestive imaging and confirmed diagnosis, and the limitations of using CT alone to guide dental referral.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "ينبغي إجراء prospective studies تقارن تفسير CT بالتقييم dental السريري وتتابع أثر الإحالة والعلاج على أعراض sinusitis وتكررها.",
+      "research_gap_en": "Prospective studies should compare CT interpretation with clinical dental assessment and track the effects of referral and treatment on sinusitis symptoms and recurrence.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم دراسة بعنوان «Recognizing Odontogenic Maxillary Sinusitis in the ENT Clinic: Four CT Findings That Should Prompt Dental Evaluation». هذه دراسة retrospective cohort من عيادة ENT أكاديمية واحدة، شملت 65 مريضًا لديهم acute أو chronic maxillary sinusitis وتصوير CT خلال السنة السابقة. راجع الفريق متعدد التخصصات 84 maxillary sinus بحثًا عن علامات توحي بمساهمة odontogenic.\n\nوُجدت علامة واحدة أو أكثر في 50 من أصل 84 sinus، أي نحو 60%، موزعة على 40 مريضًا. السمات الأربع التي جرى تقييمها هي periapical pathology، widened periodontal ligament أو PDL space، oroantral communication، وlarge dental restorations. كانت periapical pathology الأكثر شيوعًا بنسبة 56% من الجيوب ذات السمات، تلتها widened PDL space بنسبة 34%، ثم oroantral communication بنسبة 30%، وlarge dental restorations بنسبة 18%. أوصى الفريق بإحالة 38 من المرضى الأربعين إلى dental evaluation، اعتمادًا على نتائج CT وحدها.\n\nالرسالة العملية لا تتمثل في أن هذه العلامات تثبت odontogenic sinusitis، بل في تذكّر فحص maxillary dentition عند مراجعة sinus CT، والنظر في dental evaluation عند وجودها. من المهم تفسير النتائج ضمن السياق السريري، لأن الدراسة لم تؤكد الحالات بفحص dental موحد ولم تختبر ما إذا كانت الإحالة أو المعالجة تحسن الأعراض أو تمنع التكرر.\n\nنقاط القوة تشمل مراجعة متعددة التخصصات وتحديد قائمة واضحة من العلامات؛ أما القيود فتشمل التصميم الاستعادي، صغر العينة، وكونها من مركز واحد. كما أن النسبة المرصودة لا ينبغي تعميمها على جميع مرضى sinusitis. لذلك نمنح الدراسة ثلاث نجوم وثقة متوسطة: معرفة عملية مفيدة، لكنها ليست دليلًا كافيًا لتغيير التدبير بمفردها. الخطوة البحثية التالية هي prospective multicenter validation، مع مقارنة CT بالتقييم السريري dental وقياس نتائج الإحالة والعلاج.",
+      "audio_script_en": "Today’s article is “Recognizing Odontogenic Maxillary Sinusitis in the ENT Clinic: Four CT Findings That Should Prompt Dental Evaluation.” It is a retrospective cohort from a single academic ENT clinic. The investigators reviewed CT scans from 65 patients with acute or chronic maxillary sinusitis, covering 84 affected maxillary sinuses, and looked for findings that might indicate an odontogenic contribution.\n\nOne or more suggestive features were identified in 50 of 84 sinuses, about 60%, involving 40 patients. The four findings were periapical pathology, widened periodontal ligament or PDL space, oroantral communication, and large dental restorations. Among the 50 sinuses with suggestive findings, periapical pathology was most common at 56%, followed by widened PDL space at 34%, oroantral communication at 30%, and large dental restorations at 18%. Based on CT review alone, the multidisciplinary team recommended dental evaluation for 38 of the 40 patients.\n\nThe practical takeaway is to deliberately inspect the maxillary dentition when reviewing sinus CT in patients with maxillary sinusitis and consider dental evaluation if one of these features is present. These findings are prompts, not proof of odontogenic sinusitis. The study did not use a uniform dental assessment to confirm cases and did not test whether referral or dental treatment improved symptoms or prevented recurrence.\n\nStrengths include multidisciplinary image review and a clear, practical list of findings. Limitations include the retrospective design, modest sample, and single-center setting. The observed proportion should not be assumed to represent all patients with sinusitis. We give this study three stars with medium confidence: it is useful to know, but not sufficient by itself to change management. Future prospective multicenter studies should validate the CT findings against clinical dental assessment and measure outcomes after referral and treatment.",
+      "mcq": [
+        {
+          "q_ar": "أي سمة كانت الأكثر شيوعًا بين maxillary sinus التي أظهرت علامات توحي بمساهمة odontogenic؟",
+          "q_en": "Which feature was most common among maxillary sinuses with findings suggestive of an odontogenic contribution?",
+          "options_ar": [
+            "أ) widened periodontal ligament (PDL) space",
+            "ب) oroantral communication",
+            "ج) periapical pathology",
+            "د) large dental restorations"
+          ],
+          "options_en": [
+            "A) Widened periodontal ligament (PDL) space",
+            "B) Oroantral communication",
+            "C) Periapical pathology",
+            "D) Large dental restorations"
+          ],
+          "answer": 2,
+          "explanation_ar": "كانت periapical pathology موجودة في 28 من أصل 50 sinus ذات سمات موحية، أي 56%، وهي النسبة الأعلى.",
+          "explanation_en": "Periapical pathology was present in 28 of the 50 sinuses with suggestive features, or 56%, the highest proportion."
+        },
+        {
+          "q_ar": "كم عدد المرضى الذين أوصى الفريق بإحالتهم إلى dental evaluation من بين المرضى ذوي السمات التصويرية الموحية؟",
+          "q_en": "How many patients with suggestive imaging features were recommended for dental evaluation?",
+          "options_ar": [
+            "أ) 15 من 40",
+            "ب) 28 من 40",
+            "ج) 38 من 40",
+            "د) 40 من 40"
+          ],
+          "options_en": [
+            "A) 15 of 40",
+            "B) 28 of 40",
+            "C) 38 of 40",
+            "D) 40 of 40"
+          ],
+          "answer": 2,
+          "explanation_ar": "أوصى الفريق بإحالة 38 من أصل 40 مريضًا ذوي سمات odontogenic إلى dental evaluation بناءً على CT.",
+          "explanation_en": "The team recommended dental evaluation for 38 of the 40 patients with suggestive odontogenic findings, based on CT."
+        },
+        {
+          "q_ar": "ما التفسير الأنسب لنتائج هذه الدراسة؟",
+          "q_en": "What is the most appropriate interpretation of this study’s findings?",
+          "options_ar": [
+            "أ) تثبت السمات الأربع تشخيص odontogenic sinusitis",
+            "ب) تدعم فحص maxillary dentition والنظر في dental evaluation، لكنها لا تثبت التشخيص أو تحسن النتائج",
+            "ج) تثبت أن large dental restorations هي السبب الأكثر شيوعًا",
+            "د) تثبت أن dental referral يمنع تكرر sinusitis"
+          ],
+          "options_en": [
+            "A) The four features definitively establish a diagnosis of odontogenic sinusitis",
+            "B) They support reviewing the maxillary dentition and considering dental evaluation, but do not prove diagnosis or improved outcomes",
+            "C) They establish large dental restorations as the most common cause",
+            "D) They establish that dental referral prevents sinusitis recurrence"
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسة الاستعادية وصفت سمات CT وأوصت بالإحالة بالتوافق، لكنها لم تتحقق من التشخيص السريري أو تقِس أثر الإحالة والعلاج على النتائج.",
+          "explanation_en": "The retrospective study described CT features and referral consensus, but did not confirm clinical diagnoses or measure the effects of referral and treatment on outcomes."
+        }
+      ]
+    },
+    {
+      "pmid": "42891921",
+      "title_ar": "Healthcare Utilization in Patients With Chronic Rhinosinusitis With Nasal Polyps - Analysis of the Reg-ent Clinical Data Registry.",
+      "title_en": "Healthcare Utilization in Patients With Chronic Rhinosinusitis With Nasal Polyps - Analysis of the Reg-ent Clinical Data Registry.",
+      "journal": "American journal of rhinology & allergy",
+      "pub_date": "2026-Oct-17",
+      "doi": "10.1177/19458924261498481",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42891921/",
+      "pdf_url": null,
+      "study_design": "Retrospective registry cohort n=12,944",
+      "summary_ar": "استخدمت هذه الدراسة retrospective cohort بيانات Reg-ent لمقارنة healthcare utilization لدى مرضى CRSwNP الذين تلقوا dupilumab أو خضعوا لـ ESS بين 2019 و2025. شملت الدراسة 12,944 مريضًا، وقارنت استخدام oral antibiotics أو corticosteroids، وpolyp recurrence/persistence، وrepeat imaging. خلال الأشهر الستة الأولى، ارتبط dupilumab باحتمال أقل لاستخدام antibiotics أو corticosteroids مقارنةً بـ ESS (aHR=0.740)، لكن بعد ستة أشهر ارتبط باحتمال أعلى (aHR=1.279). كان خطر polyp recurrence/persistence أعلى في مجموعة dupilumab خلال الفترتين، كما كان repeat imaging أكثر شيوعًا في المجموعة خلال الأشهر الستة الأولى وأقل بعدها. هذه نتائج رصدية قد تتأثر باختلاف اختيار العلاج وشدة المرض، لذا لا تثبت أن أحد الخيارين يسبب نتائج أفضل من الآخر. تدعم النتائج shared decision making والمتابعة الفردية، ولا تكفي وحدها لتغيير اختيار العلاج.",
+      "summary_en": "This retrospective Reg-ent registry cohort compared healthcare utilization in patients with CRSwNP treated with dupilumab or ESS between 2019 and 2025.\nThe study included 12,944 patients and assessed antibiotic or corticosteroid use, polyp recurrence/persistence, and repeat imaging.\nDuring the first six months, dupilumab was associated with lower antibiotic/corticosteroid use than ESS (aHR=0.740); after six months, use was higher (aHR=1.279).\nPolyp recurrence/persistence was more likely in the dupilumab group in both periods.\nRepeat imaging was more frequent with dupilumab in the first six months but less frequent thereafter.\nAs an observational comparison, the findings may reflect treatment selection and disease severity and do not establish causation.",
+      "practice_change_ar": "لا تبرر النتائج تغيير اختيار العلاج حاليًا، لكنها تدعم مناقشة اختلاف أنماط المتابعة واستخدام الأدوية مع مرضى CRSwNP عند المقارنة بين dupilumab وESS.",
+      "practice_change_en": "These findings do not justify changing treatment selection today, but support discussing differing follow-up and medication-use patterns when comparing dupilumab with ESS for CRSwNP.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية مضبوطة بحسب شدة المرض وسبب اختيار العلاج على تحديد المرضى الأنسب لـ dupilumab أو ESS.",
+      "future_impact_en": "Future studies controlling for disease severity and treatment selection may clarify which patients are best suited to dupilumab or ESS.",
+      "why_important_ar": "تقدم الدراسة مقارنة واسعة النطاق لأنماط healthcare utilization بعد خيارين شائعين لعلاج CRSwNP المقاوم للعلاج.",
+      "why_important_en": "This large comparison describes healthcare utilization patterns after two commonly used options for inadequately controlled CRSwNP.",
+      "vs_previous_ar": "تضيف الدراسة بيانات registry مقارنةً عبر الزمن، لكنها لا تثبت تفوق dupilumab أو ESS ولا تحل محل الأدلة الإرشادية الحالية.",
+      "vs_previous_en": "The study adds time-stratified comparative registry data but does not establish superiority of dupilumab or ESS or replace current guideline-based decision-making.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة retrospective registry كبيرة تضم 12,944 مريضًا وتقدم معلومات مفيدة عن اختلاف النتائج بمرور الوقت، لكن احتمال confounding وغياب التوزيع العشوائي يحدان من الاستنتاجات السريرية.",
+      "stars_reason_en": "This large retrospective registry study provides useful information about changing outcomes over time, but confounding and the lack of randomization limit clinical conclusions.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it compares dupilumab with ESS in a large cohort and reports differing outcomes before and after six months, while raising important questions about confounding and interpretation of registry data.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا dupilumab في CRSwNP، إذ تقارن هذه الدراسة أنماط استخدام الأدوية والتصوير بعد بدء العلاج مقارنةً بـ ESS.",
+      "watch_detail_en": "Track dupilumab use in CRSwNP; this study compares subsequent medication and imaging utilization with ESS.",
+      "watch_type": "drug",
+      "research_gap_ar": "هناك حاجة إلى دراسات prospective أو مضبوطة جيدًا تقارن dupilumab مع ESS مع ضبط شدة CRSwNP، وسبب اختيار العلاج، والنتائج التي تهم المرضى.",
+      "research_gap_en": "Prospective or well-controlled studies are needed to compare dupilumab with ESS while accounting for CRSwNP severity, treatment selection, and patient-centered outcomes.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نراجع اليوم دراسة عن healthcare utilization لدى مرضى CRSwNP، منشورة في American Journal of Rhinology & Allergy. استخدم الباحثون بيانات Reg-ent في retrospective cohort ضمت 12,944 مريضًا عولجوا بـ dupilumab أو خضعوا لـ ESS بين عامي 2019 و2025.\n\nكان الهدف مقارنة استخدام oral antibiotics وcorticosteroids، وpolyp recurrence أو persistence، إضافة إلى repeat imaging. قُسمت المتابعة إلى فترتين، قبل ستة أشهر وبعدها، واستُخدم Kaplan-Meier وpiecewise Cox proportional hazards models مع adjustment لبعض الخصائص، ومنها العمر والجنس ووجود asthma أو allergic rhinitis.\n\nفي أول ستة أشهر، كان استخدام antibiotics أو corticosteroids أقل في مجموعة dupilumab مقارنةً بمجموعة ESS، مع adjusted hazard ratio يساوي 0.740. بعد ستة أشهر انعكس هذا النمط، وأصبح الاستخدام أعلى في مجموعة dupilumab، مع adjusted hazard ratio يساوي 1.279. كذلك، كان polyp recurrence أو persistence أعلى في مجموعة dupilumab خلال الفترتين. أما repeat imaging فكان أكثر في المجموعة خلال الأشهر الستة الأولى، وأقل بعد ذلك.\n\nالمهم هو أن هذه دراسة رصدية وليست تجربة عشوائية. لذلك قد تعكس الاختلافات شدة المرض أو أسباب اختيار dupilumab بدل ESS، ولا ينبغي تفسيرها على أنها تثبت تفوق أحد العلاجين. كما أن استخدام الأدوية أو التصوير لا يقيس وحده تحسن الأعراض أو جودة الحياة.\n\nالخلاصة العملية: لا تغيّر هذه الدراسة اختيار العلاج بحد ذاتها، لكنها تقدم معلومات مفيدة للمناقشة مع المرضى حول أنماط المتابعة واستخدام الموارد بمرور الوقت. تبقى shared decision making مهمة عند اختيار dupilumab أو ESS. تستحق الدراسة النقاش في journal club بسبب حجمها ونتائجها المتغيرة بمرور الوقت، مع التركيز على confounding وحدود بيانات registry. ومن المهم أن تدرس الأبحاث المستقبلية نتائج المرضى مع ضبط شدة CRSwNP وسبب اختيار العلاج.",
+      "audio_script_en": "Today’s article examines healthcare utilization among patients with CRSwNP, using the Reg-ent registry. This retrospective cohort included 12,944 patients treated with dupilumab or undergoing ESS between 2019 and 2025.\n\nThe authors compared oral antibiotic and corticosteroid use, polyp recurrence or persistence, and repeat imaging. Follow-up was divided at six months, and the analysis used Kaplan-Meier estimates and piecewise Cox proportional hazards models, with adjustment for selected factors including age, sex, asthma, and allergic rhinitis.\n\nDuring the first six months, antibiotic or corticosteroid use was lower among patients receiving dupilumab than among those undergoing ESS, with an adjusted hazard ratio of 0.740. After six months, the association reversed: medication use was higher in the dupilumab group, with an adjusted hazard ratio of 1.279. Polyp recurrence or persistence was also more likely in the dupilumab group during both periods. Repeat imaging was more frequent with dupilumab during the first six months and less frequent thereafter.\n\nThese results require cautious interpretation. This was an observational study, not a randomized trial. Differences may reflect disease severity or why clinicians selected dupilumab rather than ESS, and the findings cannot establish that one treatment causes better outcomes. Medication use and imaging are also not, by themselves, measures of symptom relief or quality of life.\n\nThe practical takeaway is that this study does not independently change treatment selection. It does, however, offer useful information for discussing how medication and imaging utilization may vary over time after dupilumab or ESS. Shared decision-making remains important. The article is suitable for journal club because of its large cohort and time-dependent findings, especially for discussion of confounding and registry limitations. Future research should compare patient-centered outcomes while accounting for disease severity and treatment selection.",
+      "mcq": [
+        {
+          "q_ar": "كم عدد المرضى الذين شملتهم دراسة Reg-ent؟",
+          "q_en": "How many patients were included in the Reg-ent study?",
+          "options_ar": [
+            "أ) 1,294",
+            "ب) 6,450",
+            "ج) 12,944",
+            "د) 25,000"
+          ],
+          "options_en": [
+            "A) 1,294",
+            "B) 6,450",
+            "C) 12,944",
+            "D) 25,000"
+          ],
+          "answer": 2,
+          "explanation_ar": "شملت retrospective cohort عدد 12,944 مريضًا لديهم CRSwNP.",
+          "explanation_en": "The retrospective cohort included 12,944 patients with CRSwNP."
+        },
+        {
+          "q_ar": "كيف اختلفت علاقة dupilumab باستخدام antibiotics أو corticosteroids قبل ستة أشهر وبعدها؟",
+          "q_en": "How did the association between dupilumab and antibiotic or corticosteroid use differ before and after six months?",
+          "options_ar": [
+            "أ) كان الاستخدام أعلى مع dupilumab في الفترتين",
+            "ب) كان الاستخدام أقل مع dupilumab في الفترتين",
+            "ج) كان الاستخدام أقل مع dupilumab أولًا ثم أعلى بعد ستة أشهر",
+            "د) لم يظهر اختلاف بين المجموعتين"
+          ],
+          "options_en": [
+            "A) Use was higher with dupilumab in both periods",
+            "B) Use was lower with dupilumab in both periods",
+            "C) Use was lower with dupilumab initially, then higher after six months",
+            "D) No difference was found between groups"
+          ],
+          "answer": 2,
+          "explanation_ar": "كان adjusted hazard ratio 0.740 خلال أول ستة أشهر، ثم 1.279 بعد ذلك، ما يشير إلى انعكاس العلاقة.",
+          "explanation_en": "The adjusted hazard ratio was 0.740 during the first six months and 1.279 thereafter, indicating a reversal in the association."
+        },
+        {
+          "q_ar": "ما أهم قيد عند تفسير المقارنة بين dupilumab وESS؟",
+          "q_en": "What is the key limitation when interpreting the comparison between dupilumab and ESS?",
+          "options_ar": [
+            "أ) الدراسة تضمنت أقل من عشرة مرضى",
+            "ب) الدراسة رصدية وقد تتأثر بـ confounding واختيار العلاج",
+            "ج) لم تتضمن أي نتائج سريرية",
+            "د) الدراسة أُجريت على نماذج حيوانية"
+          ],
+          "options_en": [
+            "A) The study included fewer than ten patients",
+            "B) The observational design may be affected by confounding and treatment selection",
+            "C) The study reported no outcomes",
+            "D) The study used animal models"
+          ],
+          "answer": 1,
+          "explanation_ar": "لأن الدراسة retrospective وغير عشوائية، قد تفسر شدة المرض أو اختيار العلاج بعض الاختلافات المرصودة.",
+          "explanation_en": "Because the study was retrospective and nonrandomized, disease severity and treatment selection may explain some observed differences."
+        }
+      ]
+    },
+    {
+      "pmid": "42893529",
+      "title_ar": "Changes in Peripheral Immune Cell Subsets Following Endoscopic Sinus Surgery Differ Between CRSwNP and AERD.",
+      "title_en": "Changes in Peripheral Immune Cell Subsets Following Endoscopic Sinus Surgery Differ Between CRSwNP and AERD.",
+      "journal": "International forum of allergy & rhinology",
+      "pub_date": "2026-Oct-18",
+      "doi": "10.1002/alr.70289",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42893529/",
+      "pdf_url": null,
+      "study_design": "Paired pre/post-ESS observational cohort; CyTOF analysis, n=28",
+      "summary_ar": "حللت الدراسة عينات دم قبل وبعد ESS لدى 28 مريضًا، منهم 13 مصابًا بـCRSwNP و15 مصابًا بـAERD، باستخدام لوحة CyTOF تضم 37 marker. في المجموعة المجمعة، زادت CD4+ naïve T cells وCD194+ neutrophils بعد الجراحة، بينما انخفضت eosinophils. عند تحليل المجموعات منفصلة، زادت CD4+ naïve T cells في كلتيهما، لكن انخفاض eosinophils ظهر فقط لدى مرضى CRSwNP. كما ازدادت dendritic cells بعد ESS في CRSwNP دون AERD، وكانت CD141+ monocyte-derived DCs أكثر شيوعًا في CRSwNP قبل الجراحة وبعدها. قبل ESS، كانت CD185+ وCD194+ neutrophils أعلى لدى مرضى AERD مقارنةً بـCRSwNP. تشير النتائج إلى تغيرات مناعية جهازية محتملة بعد ESS، لكنها لا تثبت أن هذه التغيرات تؤدي إلى تحسن سريري.",
+      "summary_en": "The study analyzed pre- and post-ESS blood samples from 28 patients: 13 with CRSwNP and 15 with AERD, using a 37-marker CyTOF panel.\nIn the combined cohort, CD4+ naïve T cells and CD194+ neutrophils increased after surgery, while eosinophils decreased.\nBy disease group, CD4+ naïve T cells increased in both groups, but eosinophils decreased only in CRSwNP.\nDendritic cells increased after ESS in CRSwNP but not in AERD; CD141+ monocyte-derived DCs were more prevalent in CRSwNP at both timepoints.\nBefore surgery, CD185+ and CD194+ neutrophils were higher in AERD than in CRSwNP.\nThese findings suggest systemic immune changes associated with ESS, but do not establish clinical benefit or causality.",
+      "practice_change_ar": "لا تغيّر هذه النتائج الممارسة الحالية؛ يظل ESS علاجًا جراحيًا وفق الاستطبابات المعتادة، ولا تكفي هذه المؤشرات لتوجيه اختيار العلاج.",
+      "practice_change_en": "These findings do not change current practice; ESS should continue to be used according to usual indications, as these immune markers are not yet sufficient to guide treatment selection.",
+      "future_impact_ar": "قد تساعد دراسات أكبر تربط تغيرات CyTOF بالنتائج السريرية في تطوير مؤشرات حيوية تميز الاستجابة المناعية بعد ESS لدى CRSwNP وAERD.",
+      "future_impact_en": "Larger studies linking CyTOF changes to clinical outcomes may help develop biomarkers that distinguish immune responses to ESS in CRSwNP and AERD.",
+      "why_important_ar": "توضح الدراسة أن الاستجابة المناعية المحيطية بعد ESS قد تختلف بين CRSwNP وAERD، بدل أن تكون تغيرًا موحدًا لدى جميع المرضى.",
+      "why_important_en": "The study suggests that peripheral immune responses after ESS may differ between CRSwNP and AERD rather than representing a uniform response across patients.",
+      "vs_previous_ar": "تضيف الدراسة توصيفًا أوسع لمجموعات الخلايا المناعية باستخدام CyTOF، وتُظهر أن انخفاض eosinophils بعد ESS في هذه العينة اقتصر على CRSwNP.",
+      "vs_previous_en": "Using CyTOF to profile a broader range of immune subsets, the study found that the post-ESS eosinophil decrease in this cohort was limited to CRSwNP.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة رصدية قبل/بعد صغيرة نسبيًا (n=28) تستخدم CyTOF وتقدم نتائج مناعية جديدة، لكنها استكشافية ولا تثبت أثرًا سريريًا أو تغيّرًا في التدبير؛ لذلك تستحق المعرفة دون أن تغيّر الممارسة.",
+      "stars_reason_en": "This relatively small paired pre/post observational study (n=28) uses CyTOF and reports novel immune findings, but it is exploratory and does not demonstrate clinical impact or change management; it is useful to know rather than practice-changing.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for discussion of paired pre/post study design, interpretation limits of CyTOF data, and how to connect peripheral immune changes with patient-relevant ESS outcomes.",
+      "watch": true,
+      "watch_detail_ar": "يجدر متابعة CyTOF بوصفها تقنية متعددة المؤشرات لرسم مجموعات الخلايا المناعية، مع انتظار تحقق النتائج في عينات أكبر وربطها بالنتائج السريرية.",
+      "watch_detail_en": "CyTOF is worth tracking as a multiplex technology for profiling immune cell subsets, pending validation in larger cohorts and linkage to clinical outcomes.",
+      "watch_type": "technology",
+      "research_gap_ar": "تحتاج دراسات مستقبلية أكبر وطويلة المتابعة إلى تحديد ما إذا كانت تغيرات الخلايا المناعية بعد ESS تتنبأ بتحسن الأعراض أو النكس، وما إذا كانت تختلف بحسب النمط المرضي.",
+      "research_gap_en": "Larger, longitudinal studies are needed to determine whether post-ESS immune-cell changes predict symptom improvement or recurrence and whether these relationships vary by disease phenotype.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نناقش اليوم دراسة بعنوان: Changes in Peripheral Immune Cell Subsets Following Endoscopic Sinus Surgery Differ Between CRSwNP and AERD، المنشورة في International Forum of Allergy & Rhinology. السؤال هو ما إذا كانت التغيرات في الخلايا المناعية الموجودة في الدم بعد ESS تختلف بين مرضى CRSwNP ومرضى AERD.\n\nشملت الدراسة 28 مريضًا: 13 مصابًا بـCRSwNP و15 مصابًا بـAERD. قارن الباحثون عينات الدم قبل الجراحة وبعدها، واستخدموا CyTOF بلوحة من 37 marker لتحديد مجموعات مناعية متعددة. هذه دراسة رصدية قبل/بعد، وليست تجربة علاجية عشوائية، لذلك فهي تصف ارتباطات ولا تثبت السببية.\n\nفي المجموعة كلها، زادت CD4+ naïve T cells وCD194+ neutrophils بعد ESS، بينما انخفضت eosinophils. لكن عند فصل المرضى حسب التشخيص، ظهرت نقطة مهمة: زادت CD4+ naïve T cells في كل من CRSwNP وAERD، في حين انخفضت eosinophils بعد الجراحة في CRSwNP فقط. كذلك زادت dendritic cells في CRSwNP دون أن يظهر ذلك في AERD، وكانت CD141+ monocyte-derived DCs أكثر شيوعًا في CRSwNP في القياسين قبل الجراحة وبعدها. وقبل ESS، كانت مجموعتا CD185+ وCD194+ neutrophils أعلى لدى مرضى AERD.\n\nما أهمية ذلك؟ تقترح النتائج أن ESS قد يترافق مع تغيرات مناعية جهازية، وأن طبيعة هذه التغيرات قد تختلف بحسب النمط المرضي. إلا أن الدراسة لا تبين أن تغير هذه الخلايا يسبب تحسنًا في الأعراض، ولا تقدم مؤشرًا حيويًا جاهزًا لاختيار العلاج أو توقع النتيجة. كما أن حجم العينة صغير، والتحليل استكشافي.\n\nلذلك لا تتغير الممارسة السريرية اليوم: يُتخذ قرار ESS وفق التقييم السريري والاستطبابات المعتادة، وليس بناءً على هذه النتائج المناعية. تستحق الدراسة النقاش لأنها تستخدم CyTOF لتوصيف مجموعات خلوية بتفصيل أكبر، وتطرح فرضيات قابلة للاختبار. والخطوة التالية هي دراسات أكبر وأطول متابعة تربط هذه التغيرات بنتائج يهم المريض مثل تحسن الأعراض أو عودة السلائل. التقييم الإجمالي: معرفة مفيدة، بثقة متوسطة، دون أثر مباشر على التدبير الحالي.",
+      "audio_script_en": "Today we are reviewing “Changes in Peripheral Immune Cell Subsets Following Endoscopic Sinus Surgery Differ Between CRSwNP and AERD,” published in the International Forum of Allergy & Rhinology. The study asks whether peripheral immune-cell changes after ESS differ between patients with CRSwNP and those with AERD.\n\nThe investigators included 28 patients: 13 with CRSwNP and 15 with AERD. They compared blood collected before and after surgery using CyTOF with a 37-marker panel. This is a paired observational study, not a randomized treatment trial, so its findings describe associations and cannot establish causation.\n\nAcross the combined cohort, CD4+ naïve T cells and CD194+ neutrophils increased after ESS, while eosinophils decreased. The subgroup results add an important distinction: CD4+ naïve T cells increased in both CRSwNP and AERD, but eosinophils decreased only in CRSwNP. Dendritic cells increased after ESS in CRSwNP but not in AERD. CD141+ monocyte-derived DCs were more prevalent in CRSwNP at both the pre- and postoperative timepoints. Before surgery, CD185+ and CD194+ neutrophils were higher in AERD than in CRSwNP.\n\nWhy does this matter? The findings suggest that ESS may be associated with systemic immune changes, and that these changes may differ by disease phenotype. However, the study does not show that the cell changes cause symptom improvement, and it does not establish a biomarker that can currently guide treatment selection or predict outcomes. The sample is also small, and the analyses are exploratory.\n\nThere is no immediate practice change. ESS decisions should continue to follow usual clinical assessment and indications, rather than these immune profiles. The work is worth discussing because CyTOF provides detailed profiling of immune-cell subsets and generates hypotheses for future research. Larger longitudinal studies should test whether these changes relate to patient-centered outcomes, such as symptom improvement or polyp recurrence. Overall, this is useful-to-know evidence with moderate confidence, but no direct effect on current management.",
+      "mcq": [
+        {
+          "q_ar": "ما التغير الذي لوحظ في eosinophils بعد ESS عند تحليل المجموعتين معًا؟",
+          "q_en": "What change in eosinophils was observed after ESS in the combined cohort?",
+          "options_ar": [
+            "أ) ارتفعت",
+            "ب) انخفضت",
+            "ج) لم تتغير",
+            "د) لم تُقَس"
+          ],
+          "options_en": [
+            "A) They increased",
+            "B) They decreased",
+            "C) They did not change",
+            "D) They were not measured"
+          ],
+          "answer": 1,
+          "explanation_ar": "انخفضت eosinophils بعد ESS في المجموعة المجمعة، لكن التحليل المنفصل أظهر أن الانخفاض كان في CRSwNP فقط.",
+          "explanation_en": "Eosinophils decreased after ESS in the combined cohort, although subgroup analysis showed that the decrease occurred only in CRSwNP."
+        },
+        {
+          "q_ar": "في أي مجموعة ظهر انخفاض eosinophils بعد ESS عند تحليل المرضى بحسب التشخيص؟",
+          "q_en": "In which group did eosinophils decrease after ESS when patients were analyzed by diagnosis?",
+          "options_ar": [
+            "أ) AERD فقط",
+            "ب) CRSwNP فقط",
+            "ج) كلتا المجموعتين",
+            "د) لم تنخفض في أي مجموعة"
+          ],
+          "options_en": [
+            "A) AERD only",
+            "B) CRSwNP only",
+            "C) Both groups",
+            "D) Neither group"
+          ],
+          "answer": 1,
+          "explanation_ar": "عند تقسيم العينة بحسب المرض، انخفضت eosinophils بعد ESS لدى مرضى CRSwNP، ولم يُرصد الانخفاض لدى مرضى AERD.",
+          "explanation_en": "After stratification by disease, eosinophils decreased after ESS in CRSwNP, but not in AERD."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن أثر هذه الدراسة على الممارسة الحالية؟",
+          "q_en": "What is the most appropriate conclusion about this study’s effect on current practice?",
+          "options_ar": [
+            "أ) تفرض تغييرًا فوريًا في استطبابات ESS",
+            "ب) تثبت أن CyTOF يجب أن يُستخدم روتينيًا لاختيار العلاج",
+            "ج) تقدم نتائج مناعية استكشافية لا تكفي لتغيير التدبير الحالي",
+            "د) تثبت أن ESS يمنع النكس في AERD"
+          ],
+          "options_en": [
+            "A) It mandates an immediate change in ESS indications",
+            "B) It proves CyTOF should routinely guide treatment selection",
+            "C) It provides exploratory immune findings insufficient to change current management",
+            "D) It proves ESS prevents recurrence in AERD"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة صغيرة ورصدية، وتعرض تغيرات في مجموعات الخلايا دون إثبات صلتها بنتائج سريرية أو تقديم أداة جاهزة لتوجيه العلاج.",
+          "explanation_en": "The study is small and observational; it reports immune-cell changes without establishing their relationship to clinical outcomes or providing a validated treatment-guidance tool."
+        }
+      ]
+    },
+    {
+      "pmid": "42893525",
+      "title_ar": "Environmental Exposures, Chronic Sinusitis, and Olfaction in People With Cystic Fibrosis.",
+      "title_en": "Environmental Exposures, Chronic Sinusitis, and Olfaction in People With Cystic Fibrosis.",
+      "journal": "International forum of allergy & rhinology",
+      "pub_date": "2026-Oct-18",
+      "doi": "10.1002/alr.70204",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42893525/",
+      "pdf_url": null,
+      "study_design": "Prospective multicenter observational study, n=80",
+      "summary_ar": "شملت الدراسة 80 بالغًا لديهم cystic fibrosis وchronic rhinosinusitis، من مراكز rhinology أكاديمية متعددة في الولايات المتحدة. قُدّر التعرض طويل الأمد لستة ملوثات هواء باستخدام متوسطات ثلاث سنوات من محطات U.S. Environmental Protection Agency المرتبطة بالرمز البريدي للسكن. قُيّمت شدة المرض باستخدام Lund-Kennedy endoscopy scores وLund-Mackay CT scores وSNOT-22، كما قُيّمت حاسة الشم باستخدام QOD-NS و40-item Smell Identification Test. ارتبط ارتفاع التعرض لـozone بارتفاع SNOT-22، بما يشمل مجالات ear/facial وpsychological وsleep dysfunction، وبنتائج أسوأ في اختبارات الشم. لم تظهر ارتباطات مهمة بين الملوثات الأخرى والنتائج المدروسة. توحي النتائج بأن ozone قد يرتبط بزيادة عبء الأعراض واضطراب الشم لدى هذه الفئة، لكنها لا تثبت السببية ولا تُغيّر التدبير السريري حاليًا.",
+      "summary_en": "This prospective multicenter study included 80 adults with cystic fibrosis and comorbid chronic rhinosinusitis. Long-term exposure to six ambient pollutants was estimated using three-year averages from Environmental Protection Agency monitors linked to residential ZIP codes. Disease burden was assessed with Lund-Kennedy endoscopy scores, Lund-Mackay CT scores, and SNOT-22; olfaction was assessed with QOD-NS and the 40-item Smell Identification Test. Higher ozone exposure was associated with worse total SNOT-22 scores and worse olfactory-specific outcomes. The reported associations included ear/facial, psychological, and sleep dysfunction domains. Other pollutants were not significantly associated with the outcomes studied. These findings suggest a possible environmental association but do not establish causality or support a change in clinical management today.",
+      "practice_change_ar": "لا تغيّر هذه النتائج التدبير السريري اليوم، لكنها تبرر مناقشة التعرض البيئي لـozone بوصفه عاملًا محتملًا لدى مرضى CF ذوي الأعراض المستمرة.",
+      "practice_change_en": "These findings do not change clinical management today, but they support considering ambient ozone exposure as a possible factor in patients with CF and persistent symptoms.",
+      "future_impact_ar": "قد تساعد دراسات أكبر ومعدّلة لعوامل الإرباك في تحديد ما إذا كان تقليل التعرض لـozone يحسن أعراض CRS أو وظيفة الشم لدى مرضى CF.",
+      "future_impact_en": "Larger studies with adjustment for confounders may determine whether reducing ozone exposure improves CRS symptoms or olfactory function in people with CF.",
+      "why_important_ar": "تسلط الدراسة الضوء على ارتباط بيئي محتمل بين ozone وعبء أعراض CRS واضطراب الشم لدى فئة سريرية محددة.",
+      "why_important_en": "The study highlights a possible environmental association between ozone, CRS symptom burden, and olfactory dysfunction in a specific clinical population.",
+      "vs_previous_ar": "تضيف الدراسة بيانات عن ozone والشم لدى البالغين المصابين بـCF وCRS، وهي علاقة لم تكن موصوفة جيدًا، لكنها لا تغيّر الإرشادات أو تثبت السببية.",
+      "vs_previous_en": "The study adds data on ozone and olfaction in adults with CF and CRS, an understudied relationship, but does not change guidelines or establish causality.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة prospective متعددة المراكز ذات صلة سريرية، وتقدم ارتباطًا جديرًا بالاهتمام بين ozone والنتائج الأنفية والشمّية؛ لكن حجم العينة محدود، وقياس التعرض تقديري، والتحليلات غير معدّلة بحسب الملخص، لذا لا تكفي لتغيير الممارسة.",
+      "stars_reason_en": "This clinically relevant prospective multicenter study reports an interesting association between ozone and sinonasal and olfactory outcomes. However, the sample is modest, exposure was estimated, and the abstract reports no adjusted analyses, so the evidence is insufficient to change practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for journal club discussion of ZIP-code-based exposure estimation, potential confounding, and interpretation of associations in a modest-sized cohort.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات أكبر تستخدم تقديرًا أدق للتعرض، وتضبط عوامل الإرباك، وتختبر ما إذا كان خفض التعرض لـozone يحسن النتائج السريرية.",
+      "research_gap_en": "Larger studies using more precise exposure assessment and confounder adjustment are needed, including evaluation of whether reducing ozone exposure improves clinical outcomes.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم دراسة عن التعرض البيئي وchronic rhinosinusitis وحاسة الشم لدى البالغين المصابين بـcystic fibrosis. ضمت الدراسة 80 مريضًا لديهم CF وCRS، جرى استقطابهم prospectively من عدة مراكز أكاديمية في الولايات المتحدة بين عامي 2019 و2023. قدّر الباحثون التعرض طويل الأمد لستة ملوثات هواء، منها PM2.5 وPM10 وNO2 وozone، اعتمادًا على محطات U.S. Environmental Protection Agency القريبة من الرمز البريدي للسكن، وحُسب متوسط التعرض خلال ثلاث سنوات قبل التسجيل.\n\nقاس الفريق شدة CRS باستخدام Lund-Kennedy endoscopy scores وLund-Mackay CT scores وSNOT-22. كما قيّموا الشم باستخدام QOD-NS و40-item Smell Identification Test. كانت النتيجة الأبرز أن التعرض الأعلى لـozone ارتبط بارتفاع SNOT-22، بما في ذلك مجالات ear/facial وpsychological وsleep dysfunction. وارتبط أيضًا بنتائج أسوأ في مقاييس الشم: ارتفعت درجات QOD-NS وانخفضت درجات Smell Identification Test. لم تظهر ارتباطات مهمة للملوثات الأخرى بحسب الملخص.\n\nهذه دراسة رصدية؛ لذلك لا تثبت أن ozone سبب تدهور الأعراض أو الشم. كما أن تقدير التعرض باستخدام الرمز البريدي قد لا يعكس التعرض الفردي بدقة، وحجم العينة 80 مريضًا، ولا يذكر الملخص تحليلات معدّلة لعوامل الإرباك. لا توصي النتائج بتغيير العلاج أو بإجراء فحوص إضافية لكل مريض اليوم، لكنها تقدم إشارة تستحق المتابعة، خصوصًا لدى مرضى CF ذوي الأعراض المستمرة.\n\nتستحق الورقة نقاش journal club بسبب طريقة تقدير التعرض وتفسير الارتباطات. والخطوة التالية هي دراسات أكبر، مع قياس أدق للتعرض وضبط لعوامل الإرباك، لتحديد ما إذا كان تقليل التعرض لـozone يؤدي فعلًا إلى تحسن سريري. الخلاصة: ozone ارتبط بعبء أعراض CRS أعلى ووظيفة شم أسوأ في هذه المجموعة، لكن الدليل أولي ولا يثبت السببية.",
+      "audio_script_en": "Today we review a study of environmental exposure, chronic rhinosinusitis, and olfaction in adults with cystic fibrosis. The investigators prospectively enrolled 80 adults with CF and CRS at multiple U.S. academic centers between 2019 and 2023. They estimated long-term exposure to six pollutants, including PM2.5, PM10, NO2, and ozone, using nearby Environmental Protection Agency monitors linked to each participant’s residential ZIP code. Exposure was summarized as a three-year mean before enrollment.\n\nCRS burden was assessed with Lund-Kennedy endoscopy scores, Lund-Mackay CT scores, and SNOT-22. Olfaction was assessed with QOD-NS and the 40-item Smell Identification Test. The main finding was that higher ozone exposure was associated with worse total SNOT-22 scores, including ear/facial, psychological, and sleep dysfunction domains. Higher ozone was also associated with worse olfactory-specific outcomes: QOD-NS scores were higher and Smell Identification Test scores were lower. The other pollutants did not show significant associations in the reported analyses.\n\nThis is an observational study, so it cannot establish that ozone caused worse symptoms or olfaction. ZIP-code-linked monitor data may not represent each participant’s personal exposure accurately, the cohort was modest in size, and the abstract does not describe adjusted analyses. The findings do not support changing treatment or ordering additional tests for every patient today. They do, however, identify a possible environmental factor worth considering in people with CF who have persistent sinonasal symptoms.\n\nThis paper is useful for journal club because it raises questions about exposure measurement and confounding. Larger studies with more precise exposure assessment and appropriate adjustment are needed to determine whether reducing ozone exposure can improve clinical outcomes. The takeaway is that ozone exposure was associated with greater CRS symptom burden and worse olfactory function in this cohort, but the evidence is preliminary and does not prove causality.",
+      "mcq": [
+        {
+          "q_ar": "ما الملوث الذي ارتبط بزيادة عبء أعراض CRS ونتائج شم أسوأ؟",
+          "q_en": "Which pollutant was associated with greater CRS symptom burden and worse olfactory outcomes?",
+          "options_ar": [
+            "أ) PM2.5",
+            "ب) Ozone",
+            "ج) SO2",
+            "د) CO"
+          ],
+          "options_en": [
+            "A) PM2.5",
+            "B) Ozone",
+            "C) SO2",
+            "D) CO"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتبط ارتفاع التعرض لـozone بارتفاع SNOT-22 وQOD-NS، وبانخفاض درجات Smell Identification Test.",
+          "explanation_en": "Higher ozone exposure was associated with higher SNOT-22 and QOD-NS scores and lower Smell Identification Test scores."
+        },
+        {
+          "q_ar": "كيف قُدّر التعرض طويل الأمد للملوثات في هذه الدراسة؟",
+          "q_en": "How was long-term pollutant exposure estimated in this study?",
+          "options_ar": [
+            "أ) بقياس شخصي مباشر لمدة أسبوع",
+            "ب) باستخدام محطات EPA المرتبطة بالرمز البريدي للسكن ومتوسط ثلاث سنوات",
+            "ج) بقياس مستوى الملوثات في CT للجيوب",
+            "د) بالاعتماد على استبيان عن الأعراض فقط"
+          ],
+          "options_en": [
+            "A) Direct personal monitoring for one week",
+            "B) EPA monitors linked to residential ZIP codes, using a three-year mean",
+            "C) Measuring pollutants on sinus CT",
+            "D) Using a symptom questionnaire alone"
+          ],
+          "answer": 1,
+          "explanation_ar": "ربط الباحثون محطات U.S. Environmental Protection Agency القريبة بالرمز البريدي للسكن وحسبوا متوسط التعرض لثلاث سنوات.",
+          "explanation_en": "The investigators linked nearby U.S. Environmental Protection Agency monitors to residential ZIP codes and calculated a three-year mean exposure."
+        },
+        {
+          "q_ar": "ما التفسير الأنسب لنتائج الدراسة؟",
+          "q_en": "What is the most appropriate interpretation of the study findings?",
+          "options_ar": [
+            "أ) أثبتت أن ozone يسبب CRS لدى مرضى CF",
+            "ب) تدعم علاقة ارتباطية محتملة لكنها لا تثبت السببية",
+            "ج) تثبت أن جميع ملوثات الهواء تزيد اضطراب الشم",
+            "د) تفرض تغييرًا فوريًا في علاج CRS"
+          ],
+          "options_en": [
+            "A) It proves ozone causes CRS in people with CF",
+            "B) It supports a possible association but does not establish causality",
+            "C) It proves all air pollutants worsen olfaction",
+            "D) It mandates an immediate change in CRS treatment"
+          ],
+          "answer": 1,
+          "explanation_ar": "التصميم رصدي، لذا يبين ارتباطًا ولا يثبت السببية أو يبرر تغييرًا فوريًا في التدبير.",
+          "explanation_en": "The observational design demonstrates an association, not causality, and does not justify an immediate management change."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026101901",
+      "title_ar": "سوق أنظمة التصوير بالمناظير متوسطة المدى حتى عام 2035: الطلب على الإجراءات طفيفة التوغل يدفع النمو",
+      "title_en": "Mid-Range Endoscopy Visualization Systems Market Through 2035: Minimally Invasive Procedures Drive Growth",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-19",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "يتناول تقرير من IndexBox آفاق سوق أنظمة التصوير بالمناظير متوسطة المدى حتى عام 2035. ويشير عنوان التقرير إلى أن الطلب على الإجراءات طفيفة التوغل يدعم النمو المتوقع للسوق. لا يتضمن الخبر المتاح تقديرات لحجم السوق أو معدلات نمو أو إعلانات عن شركات أو تطورات محددة في المنتجات. وهو تقرير عن اتجاهات السوق، وليس خبراً عن قرار تنظيمي أو صفقة.",
+      "summary_en": "An IndexBox market report examines the outlook for mid-range endoscopy visualization systems through 2035. Its headline identifies demand for minimally invasive procedures as a driver of expected market growth. The provided item does not include market-size estimates, growth rates, company announcements, or specific product developments. It is a market-trend report, not news of a regulatory decision or transaction.",
+      "practice_change_ar": "يشير التقرير إلى اتجاه عام في السوق، لكنه لا يقدم إرشادات سريرية أو توصيات شراء محددة لعيادات الأنف والأذن والحنجرة.",
+      "practice_change_en": "The report signals a broad market trend but provides no specific clinical or purchasing guidance for ENT practices.",
+      "future_impact_ar": "يمكن لفرق الأنف والأذن والحنجرة متابعة ما إذا كان الطلب المتوقع سيؤدي إلى أنظمة أكثر إتاحة أو تحسينات ملموسة في التصوير بالمنظار.",
+      "future_impact_en": "ENT teams can monitor whether the projected demand translates into more accessible systems or meaningful improvements in endoscopic visualization.",
+      "why_important_ar": "قد يؤدي نمو تقنيات التصوير إلى توسيع خيارات المعدات بمرور الوقت، لكن الخبر لا يثبت حدوث تغييرات في التوافر أو الأداء أو التكلفة.",
+      "why_important_en": "Growth in visualization technology could widen equipment options over time, although this item does not establish changes in availability, performance, or cost.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "أهمية محدودة للممارسة؛ الخبر يورد اتجاهاً سوقياً عاماً دون أرقام أو أثر سريري مباشر.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "نستعرض اليوم خبراً عن تقرير من شركة IndexBox يتناول سوق أنظمة التصوير بالمناظير متوسطة المدى حتى عام 2035. يشير عنوان التقرير إلى أن تزايد الطلب على الإجراءات طفيفة التوغل قد يدعم نمو هذا السوق. لكن الخبر المتاح لا يقدم أرقاماً عن حجم السوق أو معدل النمو المتوقع، ولا يذكر شركات بعينها أو منتجات جديدة. لذلك لا يمكن استخلاص توصية شراء أو توقع تغير محدد في توافر الأجهزة أو تكلفتها. بالنسبة إلى أطباء الأنف والأذن والحنجرة، تظل أهمية الخبر محدودة في الوقت الحالي؛ فهو يعكس اتجاهاً عاماً نحو تقنيات المناظير، وليس دليلاً على تحسن سريري أو تنظيمي بعينه. ومن المفيد متابعة ما إذا كانت توقعات السوق ستتحول لاحقاً إلى خيارات أكثر إتاحة أو تحسينات عملية في جودة التصوير.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026101902",
+      "title_ar": "توقّعات بنمو سوق تنظير الأنف والأذن والحنجرة بمعدل سنوي مركب قدره 6.4%",
+      "title_en": "ENT Endoscopy Market Projected to Grow at a 6.4% CAGR",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-19",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت Market.us نظرة عامة على السوق تتوقع نمو سوق تنظير الأنف والأذن والحنجرة بمعدل سنوي مركب قدره 6.4%. ولا يحدد العنوان الفترة الزمنية للتوقعات أو حجم السوق أو فئات المنتجات والمناطق المتوقع أن تقود النمو. وهذا توقع سوقي، وليس خبراً عن استحواذ أو قرار تنظيمي أو دعوى قضائية أو دراسة سريرية.",
+      "summary_en": "Market.us published a market overview projecting a 6.4% compound annual growth rate for the ENT endoscopy market. The headline does not specify the forecast period, market valuation, or which product segments and regions are expected to drive growth. It is a market forecast, not a report of an acquisition, regulatory decision, lawsuit, or clinical study.",
+      "practice_change_ar": "لا يستدعي هذا التوقع وحده تغيير اختيارات الجرّاحين للمعدات أو خطط الشراء أو سير العمل السريري.",
+      "practice_change_en": "The forecast alone does not call for changes to surgeons’ equipment choices, purchasing plans, or clinical workflows.",
+      "future_impact_ar": "إذا تحققت التوقعات، فقد يجذب السوق مزيداً من الاستثمارات وتطوير المنتجات، لكن يلزم الاطلاع على تفاصيل التقرير لتقييم انعكاس ذلك على الممارسة السريرية.",
+      "future_impact_en": "If the forecast is realized, the market could attract further investment and product development, although the report details would be needed to assess implications for clinical practice.",
+      "why_important_ar": "قد يشير النمو المتوقع إلى تزايد الاهتمام التجاري بتنظير الأنف والأذن والحنجرة، لكن العنوان لا يقدم دليلاً على تحسن النتائج السريرية أو تغير فرص الحصول على هذه التقنيات.",
+      "why_important_en": "The projected growth may signal expanding commercial interest in ENT endoscopy, but the headline provides no evidence of improved clinical outcomes or changes in access.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "توقع سوقي عام ومحدود التفاصيل، ولا يذكر أثراً سريرياً مباشراً أو قراراً يؤثر في الممارسة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أشارت Market.us إلى توقع نمو سوق تنظير الأنف والأذن والحنجرة بمعدل سنوي مركب يبلغ 6.4%. لكن العنوان المنشور لا يوضح الفترة التي تغطيها التوقعات، ولا حجم السوق، ولا المنتجات أو المناطق التي قد تقود هذا النمو. لذلك ينبغي التعامل مع الرقم بوصفه تقديراً تجارياً، لا دليلاً على تحسن سريري أو تغير وشيك في خيارات العلاج. بالنسبة إلى جرّاحي الأنف والأذن والحنجرة، لا يقدم الخبر وحده سبباً لتغيير المعدات أو سير العمل؛ وقد تهم تفاصيل التقرير المؤسسات عند تقييم اتجاهات الاستثمار والشراء. الخلاصة: إشارة عامة إلى نمو متوقع في السوق، مع حاجة إلى معلومات أكثر لتحديد مدى موثوقية التوقعات وأهميتها للممارسة.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026101903",
+      "title_ar": "شركات رائدة في مجال الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية",
+      "title_en": "Leading ENT Companies Driving Medical Technology Innovation",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-19",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت SNS Insider مقالًا بعنوان «شركات رائدة في مجال الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية». ولا تحدد المادة الإخبارية المتاحة الشركات المعنية أو التقنيات التي يتناولها المقال، كما لا تذكر صفقة أو قرارًا تنظيميًا أو تطورًا تجاريًا محددًا. ويشير العنوان إلى تناول عام للابتكار في قطاع التكنولوجيا الطبية للأنف والأذن والحنجرة، لكن المعلومات المتاحة لا تكفي لاستخلاص نتائج بشأن منتجات أو تغيرات سوقية بعينها.",
+      "summary_en": "SNS Insider published an article titled “Leading ENT Companies Driving Medical Technology Innovation.” The supplied news item does not identify the companies, describe specific technologies, or report a transaction, regulatory decision, or other concrete business development. Its headline indicates a broad focus on innovation in the ENT medical technology sector, but the available information does not support conclusions about particular products or market changes.",
+      "practice_change_ar": "لا يُتوقع تغيير فوري في الممارسة السريرية، إذ لا تقدم المادة تفاصيل عن تقنيات محددة أو أدلتها أو مدى توافرها.",
+      "practice_change_en": "No immediate change to clinical practice is indicated because the item provides no details about specific technologies, evidence, or availability.",
+      "future_impact_ar": "سيتحدد مسار القطاع وفق التقنيات التي يجري تطويرها والتحقق من فعاليتها والحصول على الموافقات التنظيمية لها واعتمادها في الممارسة السريرية.",
+      "future_impact_en": "The sector’s direction will depend on which technologies are developed, validated, cleared by regulators, and adopted in clinical practice.",
+      "why_important_ar": "ينبغي لجراحي الأنف والأذن والحنجرة اعتبار ذلك إشارة عامة إلى نشاط القطاع، لا دليلًا على أن ابتكارًا بعينه سيحسن رعاية المرضى.",
+      "why_important_en": "ENT surgeons should treat this as a broad industry signal rather than evidence that a particular innovation will improve patient care.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "الأهمية السريرية محدودة لأن الخبر المتاح لا يذكر شركات أو تقنيات أو تطورات محددة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "إليكم موجزًا عن خبر في قطاع الأنف والأذن والحنجرة. نشرت منصة SNS Insider مقالًا بعنوان «شركات رائدة في مجال الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية». لكن المادة المتاحة لا تذكر أسماء الشركات، ولا تحدد الأجهزة أو التقنيات التي يجري تطويرها، ولا تعرض نتائج سريرية أو قرارات تنظيمية أو صفقات تجارية. لذلك لا يمكن اعتبار الخبر إعلانًا عن منتج جديد أو دليلًا على تغير مباشر في الممارسة. بالنسبة إلى الأطباء، تظل النقطة الأهم هي متابعة التقنيات عندما تُعرض تفاصيلها، ثم تقييم الأدلة السريرية، وسلامة الاستخدام، والموافقات التنظيمية، ومدى توافرها. الخلاصة: العنوان يلفت إلى نشاط الابتكار في القطاع، لكن المعلومات الحالية عامة ولا تشير إلى أثر عملي فوري على رعاية مرضى الأنف والأذن والحنجرة.",
+      "mcq": []
+    }
+  ]
+}
