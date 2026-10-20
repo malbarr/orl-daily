@@ -1,0 +1,883 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T08:32:32Z",
+  "articles": [
+    {
+      "pmid": "42896827",
+      "title_ar": "Quantitative Analysis Reveals IL-17A Widens Nasal Epithelial Tight Junction Gaps via AMPK in Allergic Rhinitis.",
+      "title_en": "Quantitative Analysis Reveals IL-17A Widens Nasal Epithelial Tight Junction Gaps via AMPK in Allergic Rhinitis.",
+      "journal": "Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology",
+      "pub_date": "2026-Oct-19",
+      "doi": "10.1016/j.anai.2026.10.001",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42896827/",
+      "pdf_url": null,
+      "study_design": "دراسة آلية انتقالية باستخدام عينات بشرية ونموذج خلايا ظهارية أنفية بشرية in vitro",
+      "summary_ar": "بحثت الدراسة دور IL-17A في اضطراب tight junctions في nasal epithelium لدى مرضى allergic rhinitis، وما إذا كان AMPK يتوسط هذا التأثير. أظهرت عينات inferior turbinate لدى المرضى خللاً في tight junctions وانخفاضاً في نشاط AMPK، مع ارتفاع IL-17A وارتباط عكسي بينه وبين مستويات بروتينات tight junctions. في human nasal epithelial cells المزروعة عند air-liquid interface، أدى التعرض المطوّل لـ IL-17A إلى خفض بروتينات tight junctions وtransepithelial electrical resistance، وزيادة paracellular permeability واتساع الفجوات بين الخلايا. أظهر bulk RNA sequencing تثبيط مسارات AMPK بعد التحفيز بـ IL-17A. أدى تنشيط AMPK باستخدام AICAR إلى استعادة تعبير tight junctions وتحسين وظيفة الحاجز. تشير النتائج إلى آلية محتملة لاضطراب الحاجز في allergic rhinitis، لكنها لا تثبت فعالية علاجية لدى المرضى.",
+      "summary_en": "This translational study examined whether IL-17A disrupts nasal epithelial tight junctions in allergic rhinitis through AMPK signaling.\nPatient inferior turbinate tissue showed disrupted tight junctions, reduced AMPK activity, and elevated IL-17A, which was inversely associated with tight junction protein levels.\nIn human nasal epithelial cells cultured at an air-liquid interface, prolonged IL-17A exposure reduced tight junction proteins and transepithelial electrical resistance.\nIt also increased paracellular permeability and widened intercellular gaps.\nBulk RNA sequencing showed suppression of AMPK signaling after IL-17A stimulation.\nThe AMPK activator AICAR improved tight junction expression and barrier function in the cell model, suggesting a potential mechanism and therapeutic target that requires clinical validation.",
+      "practice_change_ar": "لا تغيّر هذه النتائج الممارسة السريرية اليوم، إذ لم تُختبر فعالية تنشيط AMPK علاجياً لدى مرضى allergic rhinitis.",
+      "practice_change_en": "These findings do not change clinical practice today because AMPK activation has not been tested therapeutically in patients with allergic rhinitis.",
+      "future_impact_ar": "قد تدعم النتائج تطوير استراتيجيات تستهدف IL-17A أو AMPK لاستعادة nasal epithelial barrier إذا أكدت الدراسات السريرية سلامتها وفعاليتها.",
+      "future_impact_en": "The findings may inform strategies targeting IL-17A or AMPK to restore the nasal epithelial barrier if clinical studies confirm safety and efficacy.",
+      "why_important_ar": "تربط الدراسة بين IL-17A وتثبيط AMPK وبين خلل tight junctions، مقدمةً تفسيراً آلياً محتملاً لاضطراب الحاجز في allergic rhinitis.",
+      "why_important_en": "The study links IL-17A and AMPK suppression to tight junction disruption, offering a possible mechanism for barrier dysfunction in allergic rhinitis.",
+      "vs_previous_ar": "بدلاً من الاكتفاء بوصف اضطراب الحاجز في allergic rhinitis، تقترح الدراسة مسار IL-17A/AMPK وتختبر إنقاذ الخلل بتنشيط AMPK في نموذج خلايا بشرية.",
+      "vs_previous_en": "Rather than only describing barrier dysfunction in allergic rhinitis, the study proposes an IL-17A/AMPK pathway and tests AMPK-mediated rescue in a human cell model.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة آلية انتقالية تجمع عينات بشرية مع تجارب in vitro، وتضيف آلية واعدة، لكن غياب الاختبار العلاجي السريري يحد من أثرها المباشر على الممارسة.",
+      "stars_reason_en": "This translational mechanistic study combines human tissue with in vitro experiments and adds a promising pathway, but the lack of clinical treatment testing limits immediate practice impact.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق النقاش لأنها تجمع تحليلاً كمياً للحاجز مع بيانات عينات بشرية وتجارب إنقاذ وظيفية، مع ضرورة مناقشة محدودية ترجمتها السريرية.",
+      "jc_reason_en": "It merits discussion for combining quantitative barrier assessment, human tissue data, and functional rescue experiments, while also raising questions about clinical translation.",
+      "watch": true,
+      "watch_detail_ar": "يستحق AICAR المتابعة بوصفه أداة لتنشيط AMPK في نموذج خلوي، مع أن الدراسة لا تثبت استخدامه علاجياً في allergic rhinitis.",
+      "watch_detail_en": "AICAR is worth tracking as an AMPK-activating tool in this cell model, although the study does not establish it as a treatment for allergic rhinitis.",
+      "watch_type": "drug",
+      "research_gap_ar": "يلزم اختبار ما إذا كان تعديل IL-17A أو AMPK يحسن أعراض allergic rhinitis ووظيفة الحاجز لدى المرضى، مع تقييم السلامة والجرعة.",
+      "research_gap_en": "Clinical studies are needed to determine whether modifying IL-17A or AMPK improves allergic rhinitis symptoms and barrier function, and to assess safety and dosing.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تتناول هذه الدراسة اضطراب الحاجز الظهاري الأنفي في allergic rhinitis، وتركز على دور IL-17A ومسار AMPK. استخدم الباحثون عينات inferior turbinate من مرضى allergic rhinitis وأشخاص أصحاء، إلى جانب human nasal epithelial cells مزروعة عند air-liquid interface. أظهرت أنسجة المرضى خللاً في tight junctions وانخفاضاً في نشاط AMPK، بينما كانت مستويات IL-17A مرتفعة ومرتبطة عكسياً بمستويات بروتينات tight junctions.\n\nفي نموذج الخلايا، أدى التعرض المطوّل لـ IL-17A إلى انخفاض بروتينات tight junctions وtransepithelial electrical resistance، مع زيادة paracellular permeability واتساع المسافات بين الخلايا. وأظهر bulk RNA sequencing تثبيط إشارات AMPK بعد التحفيز. وعندما استخدم الباحثون AICAR لتنشيط AMPK، تحسنت مستويات tight junctions ووظيفة الحاجز. هذه النتائج تدعم احتمال أن يساهم IL-17A في إضعاف الحاجز عبر تثبيط AMPK.\n\nنقطة القوة هي الجمع بين عينات بشرية وقياسات وظيفية كمية وتجربة إنقاذ تدعم المسار المقترح. لكن الدراسة آلية وانتقالية، ولم تختبر علاجاً لدى المرضى؛ كما أن تحسن الخلايا في المختبر لا يثبت تحسن الأعراض أو السلامة السريرية. لذلك لا تغيّر النتائج الممارسة حالياً، وتُعد دليلاً واعداً يستحق المتابعة لا توصية علاجية. الخطوة التالية هي دراسات سريرية تحدد ما إذا كان استهداف IL-17A أو AMPK يستطيع تحسين أعراض allergic rhinitis واستعادة وظيفة الحاجز، مع تقييم الجرعة والسلامة. الخلاصة: يقدم العمل تفسيراً بيولوجياً محتملاً وهدفاً بحثياً، لكنه لا يبرر استخدام AICAR أو أي تدخل موجّه للمسار خارج الأبحاث.",
+      "audio_script_en": "This study investigates nasal epithelial barrier dysfunction in allergic rhinitis, focusing on IL-17A and AMPK signaling. The researchers analyzed inferior turbinate tissue from patients with allergic rhinitis and healthy controls, and studied human nasal epithelial cells cultured at an air-liquid interface. Patient tissue showed disrupted tight junctions and reduced AMPK activity. IL-17A was elevated and inversely associated with tight junction protein levels.\n\nIn the cell model, prolonged IL-17A exposure reduced tight junction proteins and transepithelial electrical resistance, while increasing paracellular permeability and widening intercellular gaps. Bulk RNA sequencing indicated suppression of AMPK signaling. Activating AMPK with AICAR improved tight junction expression and barrier function. Together, these findings support a possible mechanism in which IL-17A weakens the epithelial barrier by suppressing AMPK.\n\nA strength is the combination of human tissue observations, quantitative functional measurements, and a rescue experiment supporting the proposed pathway. However, this is a mechanistic translational study, not a clinical treatment trial. Improvement in cultured cells does not establish symptom benefit or safety in patients. The findings therefore do not change current practice; they are promising and worth following, but do not support prescribing AICAR or another pathway-directed intervention for allergic rhinitis. Future clinical studies should determine whether targeting IL-17A or AMPK improves symptoms and restores barrier function, while assessing dosing and safety. In short, the study offers a plausible biological explanation and a research target, but clinical relevance remains to be demonstrated.",
+      "mcq": [
+        {
+          "q_ar": "ما المسار الذي تقترح الدراسة أن IL-17A يثبطه لإضعاف nasal epithelial barrier؟",
+          "q_en": "Which pathway does the study propose IL-17A suppresses to impair the nasal epithelial barrier?",
+          "options_ar": [
+            "أ) AMPK",
+            "ب) JAK-STAT",
+            "ج) Wnt",
+            "د) mTOR"
+          ],
+          "options_en": [
+            "A) AMPK",
+            "B) JAK-STAT",
+            "C) Wnt",
+            "D) mTOR"
+          ],
+          "answer": 0,
+          "explanation_ar": "أظهرت الدراسة تثبيط AMPK بعد التحفيز بـ IL-17A، كما حسّن تنشيط AMPK وظيفة الحاجز في نموذج الخلايا.",
+          "explanation_en": "The study found AMPK suppression after IL-17A stimulation, and AMPK activation improved barrier function in the cell model."
+        },
+        {
+          "q_ar": "ما أثر AICAR في نموذج human nasal epithelial cells؟",
+          "q_en": "What effect did AICAR have in the human nasal epithelial cell model?",
+          "options_ar": [
+            "أ) زاد paracellular permeability",
+            "ب) استعاد tight junction expression وحسّن وظيفة الحاجز",
+            "ج) رفع IL-17A",
+            "د) أوقف نمو الخلايا"
+          ],
+          "options_en": [
+            "A) Increased paracellular permeability",
+            "B) Restored tight junction expression and improved barrier function",
+            "C) Increased IL-17A",
+            "D) Stopped cell growth"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتبط تنشيط AMPK باستخدام AICAR بتحسن tight junction expression ووظيفة الحاجز في التجارب الخلوية.",
+          "explanation_en": "AMPK activation with AICAR was associated with improved tight junction expression and barrier function in the cell experiments."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن الأثر السريري للدراسة؟",
+          "q_en": "What is the most appropriate conclusion about the clinical impact of this study?",
+          "options_ar": [
+            "أ) تثبت أن AICAR علاج فعّال لـ allergic rhinitis",
+            "ب) تفرض تغيير العلاج المعتاد اليوم",
+            "ج) تقدم دليلاً آلياً واعداً يحتاج إلى تحقق سريري",
+            "د) تثبت عدم وجود دور للحاجز الظهاري"
+          ],
+          "options_en": [
+            "A) It proves AICAR is an effective treatment for allergic rhinitis",
+            "B) It requires changing routine treatment today",
+            "C) It provides promising mechanistic evidence requiring clinical validation",
+            "D) It proves the epithelial barrier has no role"
+          ],
+          "answer": 2,
+          "explanation_ar": "التجارب كانت على عينات بشرية ونموذج خلايا، ولم تختبر العلاج أو النتائج السريرية لدى المرضى.",
+          "explanation_en": "The experiments used human samples and a cell model; they did not test treatment or clinical outcomes in patients."
+        }
+      ]
+    },
+    {
+      "pmid": "42895519",
+      "title_ar": "Positioning of Depemokimab in Uncontrolled Severe Asthma.",
+      "title_en": "Positioning of Depemokimab in Uncontrolled Severe Asthma.",
+      "journal": "Journal of investigational allergology & clinical immunology",
+      "pub_date": "2026-Oct-19",
+      "doi": "10.18176/jiaci.1229",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42895519/",
+      "pdf_url": null,
+      "study_design": "Narrative review/therapeutic positioning article summarizing phase 3 trials",
+      "summary_ar": "تستعرض المقالة دور depemokimab، وهو anti-IL-5 monoclonal antibody طويل المفعول يُعطى كل 26 أسبوعًا، لدى مرضى severe eosinophilic asthma وCRSwNP غير المضبوطين. في SWIFT-1 وSWIFT-2، خفّض العلاج المعدل السنوي لـ clinically significant exacerbations بنسبة 54%، كما خفّض exacerbations التي تتطلب hospitalization أو emergency department care بنسبة 72% مقارنةً بـ placebo. وفي ANCHOR-1 وANCHOR-2، تحققت النهايتان الأساسيتان، مع انخفاض endoscopic nasal polyp score وتحسن nasal obstruction خلال 52 أسبوعًا. يتيح dosing مرتين سنويًا تقليل عدد الحقن وقد يكون خيارًا ملائمًا عند تزامن severe asthma وCRSwNP. لكن أثر انخفاض تواتر الجرعات على adherence وpersistence لم يُثبت بعد. وتخلص المقالة إلى أن depemokimab خيار علاجي إضافي عندما يكون منع exacerbations هدفًا مهمًا.",
+      "summary_en": "This article reviews the positioning of depemokimab, an ultra-long-acting anti-IL-5 monoclonal antibody administered every 26 weeks, for uncontrolled severe eosinophilic asthma and CRSwNP.\nIn the SWIFT-1 and SWIFT-2 trials, it reduced the annualized rate of clinically significant exacerbations by 54% and exacerbations requiring hospitalization or emergency department care by 72% versus placebo.\nThe ANCHOR-1 and ANCHOR-2 trials met both coprimary endpoints, demonstrating reduced endoscopic nasal polyp scores and improved nasal obstruction over 52 weeks.\nTwice-yearly dosing may reduce injection burden and offers an option when severe asthma and CRSwNP coexist.\nWhether fewer injections improve adherence or persistence remains unproven.\nThe authors position depemokimab as an additional option when exacerbation prevention is a major treatment goal.",
+      "practice_change_ar": "يمكن للطبيب مناقشة depemokimab كخيار إضافي للمرضى المؤهلين المصابين بـ severe eosinophilic asthma، ولا سيما عند تزامن CRSwNP، دون افتراض أن dosing مرتين سنويًا يحسن adherence.",
+      "practice_change_en": "Clinicians can consider depemokimab as an additional option for eligible patients with severe eosinophilic asthma, particularly when CRSwNP coexists, without assuming that twice-yearly dosing improves adherence.",
+      "future_impact_ar": "قد تجعل البيانات طويلة الأمد ودراسات adherence مستقبلًا depemokimab خيارًا أكثر أهمية للمرضى الذين يفضلون تقليل عبء العلاج.",
+      "future_impact_en": "Long-term outcomes and adherence studies may clarify whether depemokimab’s infrequent dosing makes it particularly valuable for patients seeking a lower treatment burden.",
+      "why_important_ar": "تجمع المقالة نتائج علاج يستهدف مسارين مرضيين مترافقين وتوضح فائدة محتملة في تقليل exacerbations وتحسين أعراض CRSwNP.",
+      "why_important_en": "The article brings together evidence for a treatment relevant to coexisting severe asthma and CRSwNP, including potential benefits for exacerbations and sinonasal symptoms.",
+      "vs_previous_ar": "تضيف المقالة خيارًا بيولوجيًا بجدول جرعات كل 26 أسبوعًا إلى الخيارات المتاحة، لكنّها لا تثبت تفوقه على biologics أخرى أو تحسن adherence.",
+      "vs_previous_en": "It adds a biologic option with 26-week dosing to current choices, but does not establish superiority over other biologics or improved adherence.",
+      "stars": 3,
+      "stars_reason_ar": "تلخص المقالة نتائج phase 3 RCTs ذات صلة سريرية ودواءً جديدًا، لكنها ليست دراسة مقارنة مباشرة ولا تثبت أثرًا على adherence أو تفوقًا على العلاجات الأخرى؛ لذلك تقدم معرفة مفيدة دون تغيير فوري للممارسة.",
+      "stars_reason_en": "The article summarizes clinically relevant phase 3 RCTs and a novel drug, but provides no direct comparative evidence or proof of improved adherence or superiority over other treatments; it is useful rather than immediately practice-changing.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق المناقشة لمراجعة نتائج phase 3 التي تدعم علاجًا جديدًا طويل المفعول لمرضى قد يجمعون بين severe asthma وCRSwNP، مع تقييم حدود الأدلة المتاحة.",
+      "jc_reason_en": "This is suitable for journal club to discuss phase 3 evidence for a new long-acting treatment relevant to patients with both severe asthma and CRSwNP, alongside the limitations of the available evidence.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا depemokimab بوصفه anti-IL-5 monoclonal antibody بجرعات كل 26 أسبوعًا، مع ترقب بيانات المقارنة المباشرة وadherence والنتائج طويلة الأمد في CRSwNP.",
+      "watch_detail_en": "Track depemokimab as an anti-IL-5 monoclonal antibody dosed every 26 weeks, particularly for head-to-head evidence, adherence outcomes, and long-term CRSwNP results.",
+      "watch_type": "drug",
+      "research_gap_ar": "تلزم دراسات مقارنة مباشرة وبيانات طويلة الأمد لتحديد الفعالية النسبية والسلامة، وما إذا كان dosing الأقل تواترًا يحسن adherence وpersistence.",
+      "research_gap_en": "Head-to-head and long-term studies are needed to determine comparative effectiveness and safety and whether less frequent dosing improves adherence and persistence.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تتناول هذه المقالة موضع depemokimab ضمن الخيارات العلاجية لـ severe eosinophilic asthma وchronic rhinosinusitis with nasal polyps، أو CRSwNP. الدواء هو anti-IL-5 monoclonal antibody طويل المفعول، ويمكن إعطاؤه كل 26 أسبوعًا، ما يقلل عدد الحقن مقارنةً بجدول الجرعات الأكثر تكرارًا.\n\nفي تجربتي SWIFT-1 وSWIFT-2 من phase 3، انخفض المعدل السنوي لـ clinically significant exacerbations بنسبة 54% مقارنةً بـ placebo. كما انخفضت exacerbations التي استدعت hospitalization أو emergency department care بنسبة 72%. أما في ANCHOR-1 وANCHOR-2، فقد تحققت النهايتان الأساسيتان لدى مرضى CRSwNP غير المضبوطين، مع تحسن endoscopic nasal polyp score وnasal obstruction خلال 52 أسبوعًا.\n\nالأهمية السريرية لفرق الأنف والأذن والحنجرة هي وجود خيار بيولوجي قد يكون مناسبًا خصوصًا عندما يتزامن CRSwNP مع severe asthma. لكن المقالة تلخص الأدلة ولا تقدم مقارنة مباشرة بين depemokimab وbiologics أخرى. كذلك، لا نعرف بعد إن كان تقليل الحقن يحسن adherence أو persistence، ولا تكفي النتائج المعروضة وحدها لإثبات تفوقه على العلاجات المتاحة.\n\nلذلك، التقييم هو ثلاث نجوم من خمس، مع ثقة متوسطة: معلومات مفيدة عن دواء جديد ونتائج phase 3، لكنها لا تُحدث تغييرًا عامًا وفوريًا في الممارسة. يستحق الموضوع نقاش journal club، ويستحق depemokimab المتابعة بوصفه علاجًا بجدول جرعات مرتين سنويًا. الأولويات البحثية هي المقارنة المباشرة، والسلامة والفعالية على المدى الطويل، وقياس adherence وpersistence في الاستخدام الواقعي.",
+      "audio_script_en": "This article considers where depemokimab may fit for severe eosinophilic asthma and chronic rhinosinusitis with nasal polyps, or CRSwNP. Depemokimab is an ultra-long-acting anti-IL-5 monoclonal antibody that can be administered every 26 weeks, substantially reducing injection frequency.\n\nIn the phase 3 SWIFT-1 and SWIFT-2 trials, depemokimab reduced the annualized rate of clinically significant exacerbations by 54% versus placebo. Exacerbations requiring hospitalization or emergency department care fell by 72%. In the ANCHOR-1 and ANCHOR-2 trials in inadequately controlled CRSwNP, both coprimary endpoints were met, with improvements in endoscopic nasal polyp score and nasal obstruction over 52 weeks.\n\nFor ENT clinicians, the practical interest is an additional biologic option for patients who have CRSwNP alongside severe asthma. However, this positioning article summarizes trial evidence rather than providing a direct comparison with other biologics. It also does not establish that fewer injections improve adherence or persistence, or that depemokimab is superior to existing treatments.\n\nThe article receives three stars out of five, with moderate confidence: it presents useful phase 3 evidence about a novel drug, but does not by itself justify a broad immediate change in practice. It is appropriate for journal club discussion, and depemokimab is worth tracking as a twice-yearly treatment. Key research needs include head-to-head comparisons, longer-term safety and effectiveness data, and real-world assessment of adherence and persistence.",
+      "mcq": [
+        {
+          "q_ar": "ما تواتر إعطاء depemokimab المذكور في المقالة؟",
+          "q_en": "What dosing interval for depemokimab is described in the article?",
+          "options_ar": [
+            "أ) كل أسبوع",
+            "ب) كل 4 أسابيع",
+            "ج) كل 26 أسبوعًا",
+            "د) مرة واحدة يوميًا"
+          ],
+          "options_en": [
+            "A) Every week",
+            "B) Every 4 weeks",
+            "C) Every 26 weeks",
+            "D) Once daily"
+          ],
+          "answer": 2,
+          "explanation_ar": "depemokimab هو ultra-long-acting anti-IL-5 monoclonal antibody يُعطى كل 26 أسبوعًا.",
+          "explanation_en": "Depemokimab is an ultra-long-acting anti-IL-5 monoclonal antibody administered every 26 weeks."
+        },
+        {
+          "q_ar": "ما الانخفاض الذي أبلغت عنه SWIFT-1 وSWIFT-2 في annualized rate of clinically significant exacerbations مقارنةً بـ placebo؟",
+          "q_en": "What reduction in the annualized rate of clinically significant exacerbations versus placebo was reported in SWIFT-1 and SWIFT-2?",
+          "options_ar": [
+            "أ) 24%",
+            "ب) 54%",
+            "ج) 72%",
+            "د) 90%"
+          ],
+          "options_en": [
+            "A) 24%",
+            "B) 54%",
+            "C) 72%",
+            "D) 90%"
+          ],
+          "answer": 1,
+          "explanation_ar": "أبلغت تجارب SWIFT-1 وSWIFT-2 عن انخفاض بنسبة 54% في annualized rate of clinically significant exacerbations.",
+          "explanation_en": "SWIFT-1 and SWIFT-2 reported a 54% reduction in the annualized rate of clinically significant exacerbations."
+        },
+        {
+          "q_ar": "أي فجوة بحثية مهمة لا تزال غير محسومة بحسب المقالة؟",
+          "q_en": "Which important research question remains unresolved according to the article?",
+          "options_ar": [
+            "أ) ما إذا كان تقليل تواتر الجرعات يحسن adherence وpersistence",
+            "ب) ما إذا كان الدواء يُعطى يوميًا",
+            "ج) ما إذا كانت ANCHOR-1 وANCHOR-2 دراسات حيوانية",
+            "د) ما إذا كان الدواء يستهدف IL-5"
+          ],
+          "options_en": [
+            "A) Whether less frequent dosing improves adherence and persistence",
+            "B) Whether the drug is administered daily",
+            "C) Whether ANCHOR-1 and ANCHOR-2 were animal studies",
+            "D) Whether the drug targets IL-5"
+          ],
+          "answer": 0,
+          "explanation_ar": "تشير المقالة إلى أن أثر تقليل الحقن على adherence وpersistence لم يُثبت بعد.",
+          "explanation_en": "The article notes that the effect of fewer injections on adherence and persistence has not yet been demonstrated."
+        }
+      ]
+    },
+    {
+      "pmid": "42893525",
+      "title_ar": "Environmental Exposures, Chronic Sinusitis, and Olfaction in People With Cystic Fibrosis.",
+      "title_en": "Environmental Exposures, Chronic Sinusitis, and Olfaction in People With Cystic Fibrosis.",
+      "journal": "International forum of allergy & rhinology",
+      "pub_date": "2026-Oct-18",
+      "doi": "10.1002/alr.70204",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42893525/",
+      "pdf_url": "https://doi.org/10.1002/alr.70204",
+      "study_design": "Prospective multicenter observational cohort, n=80",
+      "summary_ar": "قيّمت هذه الدراسة ارتباط التعرض طويل الأمد لملوثات الهواء بشدة chronic rhinosinusitis (CRS) ووظيفة الشم لدى 80 بالغًا لديهم cystic fibrosis (CF) وCRS. قُدّر التعرض لستة ملوثات باستخدام قياسات Environmental Protection Agency المرتبطة بالرمز البريدي للسكن، وحُسب متوسط التعرض خلال ثلاث سنوات قبل التسجيل. شملت مقاييس النتائج Lund-Kennedy endoscopy scores وLund-Mackay CT scores وSNOT-22 وQOD-NS و40-item Smell Identification Test. ارتبط التعرض الأعلى ل ozone بدرجات SNOT-22 أسوأ (Rs=0.34، p=0.002)، بما في ذلك بعض المجالات المتعلقة بالأذن والوجه والحالة النفسية والنوم. كما ارتبط ozone الأعلى بأعراض olfactory أسوأ ودرجات أقل في Smell Identification Test، بينما لم تظهر الملوثات الأخرى ارتباطات مهمة. تشير النتائج إلى ارتباط محتمل، لكنها لا تثبت أن ozone يسبب تدهور CRS أو olfaction، وتحتاج إلى دراسات أكبر مع ضبط العوامل المربكة.",
+      "summary_en": "This prospective multicenter study examined associations between long-term air pollution exposure, chronic rhinosinusitis (CRS) severity, and olfaction in 80 adults with cystic fibrosis (CF) and CRS. Exposure to six pollutants was estimated from Environmental Protection Agency monitors linked to residential ZIP codes, using a three-year mean before enrollment. Outcomes included Lund-Kennedy endoscopy scores, Lund-Mackay CT scores, SNOT-22, QOD-NS, and the 40-item Smell Identification Test. Higher ozone exposure was associated with worse total SNOT-22 scores (Rs=0.34, p=0.002), including several symptom domains. Higher ozone was also associated with worse olfactory-specific outcomes and lower Smell Identification Test scores. Other measured pollutants showed no significant associations. The findings identify a possible environmental association, but do not establish causation and require larger, adjusted studies.",
+      "practice_change_ar": "لا تغيّر هذه النتائج التدبير السريري اليوم، لكنها تدعم أخذ التعرض البيئي في الاعتبار عند تقييم مرضى CF مع CRS.",
+      "practice_change_en": "These findings do not change clinical management today, but support considering environmental exposure when evaluating patients with CF and CRS.",
+      "future_impact_ar": "قد تساعد دراسات أكبر ومضبوطة في تحديد ما إذا كان تقليل التعرض ل ozone يحسّن أعراض CRS أو olfaction لدى مرضى CF.",
+      "future_impact_en": "Larger adjusted studies may determine whether reducing ozone exposure improves CRS symptoms or olfaction in people with CF.",
+      "why_important_ar": "تسلط الدراسة الضوء على عامل بيئي محتمل مرتبط بأعراض الأنف والجيوب ووظيفة الشم لدى مجموعة ذات احتياجات سريرية خاصة.",
+      "why_important_en": "The study highlights a potential environmental factor associated with sinonasal symptoms and olfaction in a clinically distinct population.",
+      "vs_previous_ar": "تضيف الدراسة بيانات خاصة بمرضى CF إلى الأدلة المحدودة حول علاقة ملوثات الهواء بحدة CRS والشم، دون أن تثبت علاقة سببية.",
+      "vs_previous_en": "This study adds CF-specific data to the limited evidence linking air pollution with CRS severity and olfaction, without establishing causality.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة prospective متعددة المراكز جيدة القاعدة شملت 80 مريضًا، وتتناول سؤالًا سريريًا جديدًا نسبيًا؛ لكن الارتباطات الرصدية وحجم العينة وعدم ضبط العوامل المربكة يحدّون من أثرها العملي.",
+      "stars_reason_en": "A prospective multicenter study with a useful sample size addresses a relatively novel clinical question, but observational associations, limited sample size, and lack of adjusted analyses constrain its practical impact.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for journal club because it raises a clinically relevant environmental hypothesis and invites discussion of exposure assessment, association versus causation, and confounding.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات أكبر مع نمذجة التعرض الفردي وضبط عوامل مثل الموقع الجغرافي، التدخين، وشدة CF لتحديد ما إذا كان ozone يؤثر سببيًا في CRS والشم.",
+      "research_gap_en": "Larger studies using individualized exposure estimates and adjustment for factors such as geography, smoking, and CF severity are needed to assess whether ozone causally affects CRS and olfaction.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نراجع اليوم دراسة عن التعرض البيئي وchronic rhinosinusitis، أو CRS، ووظيفة الشم لدى البالغين المصابين بـcystic fibrosis، أو CF. شملت الدراسة 80 مريضًا لديهم CF وCRS، وجُمِعوا prospectively من عدة مراكز أكاديمية أمريكية بين عامي 2019 و2023. قدّر الباحثون التعرض لستة ملوثات هواء اعتمادًا على أقرب محطة تابعة لـEnvironmental Protection Agency إلى الرمز البريدي للسكن، واستخدموا متوسطًا لثلاث سنوات قبل التسجيل.\n\nقُيّمت شدة المرض باستخدام Lund-Kennedy endoscopy scores وLund-Mackay CT scores وSNOT-22، كما قُيّمت وظيفة الشم باستخدام QOD-NS و40-item Smell Identification Test. النتيجة الأبرز كانت ارتباط التعرض الأعلى لozone بدرجات SNOT-22 أسوأ، مع ارتباطات في مجالات تشمل أعراض الأذن والوجه، والحالة النفسية، والنوم. كذلك ارتبط ozone الأعلى بدرجات QOD-NS أسوأ ودرجات أقل في اختبار Smell Identification. لم تُظهر الملوثات الأخرى ارتباطات مهمة بالنتائج المدروسة.\n\nمن المهم تفسير هذه النتائج بحذر. الدراسة رصدية، لذا تُظهر ارتباطًا ولا تثبت أن ozone يسبب تدهور CRS أو فقدان الشم. كما أن تقدير التعرض اعتمادًا على الرمز البريدي قد لا يعكس التعرض الشخصي بدقة، ولم تُذكر تحليلات متعددة المتغيرات لضبط العوامل المربكة. لذلك لا تغيّر النتائج التدبير السريري اليوم، ولا تبرر توصية علاجية محددة، لكنها تضيف فرضية بيئية تستحق المتابعة في مرضى CF.\n\nتُعد الدراسة مفيدة للنقاش لأنها تربط بيانات التلوث بمقاييس أعراض وolfaction ذات صلة سريرية، وتسلط الضوء على فجوة معرفية لدى هذه المجموعة. الخطوة التالية هي دراسات أكبر تستخدم قياسًا أدق للتعرض وتضبط عوامل مثل الموقع الجغرافي والتدخين وشدة CF، ثم تختبر ما إذا كان تقليل التعرض لozone يحسن الأعراض أو وظيفة الشم. الخلاصة: ozone عامل محتمل مرتبط بعبء الأعراض وضعف الشم، لكن الدليل الحالي أولي ولا يثبت السببية.",
+      "audio_script_en": "Today’s review covers a study of environmental exposure, chronic rhinosinusitis, or CRS, and olfaction in adults with cystic fibrosis, or CF. The prospective multicenter study enrolled 80 adults with both CF and CRS at U.S. academic rhinology centers from 2019 to 2023. Investigators estimated exposure to six air pollutants using the nearest Environmental Protection Agency monitor linked to each participant’s residential ZIP code, and calculated a three-year mean exposure before enrollment.\n\nCRS outcomes included Lund-Kennedy endoscopy scores, Lund-Mackay CT scores, and SNOT-22. Olfaction was evaluated using QOD-NS and the 40-item Smell Identification Test. The main finding was that higher ozone exposure correlated with worse total SNOT-22 scores, including ear and facial, psychological, and sleep domains. Higher ozone was also associated with worse QOD-NS scores and lower Smell Identification Test scores. The other pollutants studied did not show significant associations with the CRS or olfactory outcomes.\n\nThe results should be interpreted cautiously. This is an observational study, so it identifies associations but cannot establish that ozone causes worse CRS or impaired smell. ZIP-code-based exposure estimates may not reflect an individual’s actual exposure, and the abstract does not report adjusted analyses to account for potential confounders. The findings therefore do not change clinical management today and do not support a specific treatment recommendation. They do, however, raise a plausible environmental question in a population with substantial upper-airway disease.\n\nThis article is useful for journal club because it links pollution estimates with clinically relevant symptom and olfaction measures in a CF-specific cohort. Larger studies should use more individualized exposure assessment and adjust for factors such as geography, smoking, and CF severity. Researchers could then examine whether reducing ozone exposure improves symptoms or olfactory function. The takeaway is that ozone exposure may be associated with greater sinonasal symptom burden and worse olfaction in adults with CF and CRS, but the evidence is preliminary and does not demonstrate causality.",
+      "mcq": [
+        {
+          "q_ar": "ما الملوث الذي ارتبط بزيادة عبء أعراض CRS وضعف olfaction في هذه الدراسة؟",
+          "q_en": "Which pollutant was associated with greater CRS symptom burden and worse olfaction in this study?",
+          "options_ar": [
+            "أ) PM2.5",
+            "ب) Ozone",
+            "ج) SO2",
+            "د) CO"
+          ],
+          "options_en": [
+            "A) PM2.5",
+            "B) Ozone",
+            "C) SO2",
+            "D) CO"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتبط التعرض الأعلى لozone بدرجات SNOT-22 أسوأ وبنتائج olfactory أسوأ؛ أما الملوثات الأخرى فلم تظهر ارتباطات مهمة.",
+          "explanation_en": "Higher ozone exposure was associated with worse SNOT-22 and olfactory outcomes; the other pollutants showed no significant associations."
+        },
+        {
+          "q_ar": "ما التصميم الأنسب لوصف هذه الدراسة؟",
+          "q_en": "Which description best characterizes the study design?",
+          "options_ar": [
+            "أ) RCT",
+            "ب) Systematic review",
+            "ج) Prospective multicenter observational cohort",
+            "د) Case report"
+          ],
+          "options_en": [
+            "A) RCT",
+            "B) Systematic review",
+            "C) Prospective multicenter observational cohort",
+            "D) Case report"
+          ],
+          "answer": 2,
+          "explanation_ar": "سُجّل 80 بالغًا prospectively في عدة مراكز، وقورنت تقديرات تعرضهم ونتائجهم دون تدخل عشوائي.",
+          "explanation_en": "The study prospectively enrolled 80 adults at multiple centers and assessed exposure-outcome associations without randomization."
+        },
+        {
+          "q_ar": "ما الاستنتاج الذي تدعمه النتائج على نحو أدق؟",
+          "q_en": "Which conclusion is most directly supported by the findings?",
+          "options_ar": [
+            "أ) يسبب ozone حتمًا CRS لدى مرضى CF",
+            "ب) يقلل علاج ozone من أعراض CRS",
+            "ج) يرتبط ozone الأعلى بأعراض وolfaction أسوأ، لكن السببية غير مثبتة",
+            "د) ترتبط جميع ملوثات الهواء بتدهور الشم"
+          ],
+          "options_en": [
+            "A) Ozone definitively causes CRS in people with CF",
+            "B) Ozone treatment reduces CRS symptoms",
+            "C) Higher ozone is associated with worse symptoms and olfaction, but causality is unproven",
+            "D) All air pollutants are associated with worse smell"
+          ],
+          "answer": 2,
+          "explanation_ar": "التصميم الرصدي يثبت وجود ارتباط إحصائي، لكنه لا يثبت السببية أو أثر تدخل لتقليل التعرض.",
+          "explanation_en": "The observational design supports an association but cannot establish causality or the benefit of an exposure-reduction intervention."
+        }
+      ]
+    },
+    {
+      "pmid": "42893428",
+      "title_ar": "Recognizing Odontogenic Maxillary Sinusitis in the ENT Clinic: Four CT Findings That Should Prompt Dental Evaluation.",
+      "title_en": "Recognizing Odontogenic Maxillary Sinusitis in the ENT Clinic: Four CT Findings That Should Prompt Dental Evaluation.",
+      "journal": "Ear, nose, & throat journal",
+      "pub_date": "2026-Oct-18",
+      "doi": "10.1177/01455613261497899",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42893428/",
+      "pdf_url": "https://doi.org/10.1177/01455613261497899",
+      "study_design": "Retrospective cohort, n=65 patients (84 maxillary sinuses)",
+      "summary_ar": "راجعت هذه الدراسة retrospective cohort صور CT لـ65 مريضًا لديهم acute أو chronic maxillary sinusitis، وشملت 84 maxillary sinus. أظهر multidisciplinary review علامات radiographic تشير إلى odontogenic contribution في 50/84 (59.52%) من الجيوب. كانت أبرز العلامات periapical pathology (56%)، widened PDL space (34%)، oroantral communication (30%)، وlarge dental restorations (18%). أوصى الفريق بإحالة 38 من أصل 40 مريضًا لديهم هذه العلامات إلى dental evaluation، استنادًا إلى CT وحدها. تدعم النتائج مراجعة maxillary dentition عمدًا عند قراءة CT لمرضى maxillary sinusitis. لكن الدراسة أحادية المركز ووصفية، ولم تتحقق من التشخيص السريري أو نتائج الإحالات.",
+      "summary_en": "This retrospective cohort reviewed CT scans from 65 patients with acute or chronic maxillary sinusitis, covering 84 maxillary sinuses. Multidisciplinary review found radiographic features consistent with an odontogenic contribution in 50/84 sinuses (59.52%). The findings included periapical pathology (56%), widened PDL space (34%), oroantral communication (30%), and large dental restorations (18%). Based on CT findings alone, the team retrospectively recommended dental referral for 38 of the 40 patients with these features. The results support deliberate review of the maxillary dentition when interpreting sinus CT. However, this was a single-center descriptive study and did not verify diagnoses or referral outcomes.",
+      "practice_change_ar": "عند مراجعة CT لدى مرضى maxillary sinusitis، افحص maxillary dentition بحثًا عن periapical pathology وoroantral communication وwidened PDL space وlarge dental restorations، وفكّر في dental evaluation عند وجودها.",
+      "practice_change_en": "When reviewing CT for maxillary sinusitis, assess the maxillary dentition for periapical pathology, oroantral communication, widened PDL space, and large dental restorations, and consider dental evaluation when these are present.",
+      "future_impact_ar": "تحتاج هذه النتائج إلى دراسات متعددة المراكز تربط علامات CT بالتقييم السريري ونتائج dental referral لتحديد مسار إحالة موثوق.",
+      "future_impact_en": "These findings need multicenter studies linking CT features with clinical assessment and dental referral outcomes to establish a reliable referral pathway.",
+      "why_important_ar": "قد تساعد مراجعة الأسنان على CT في التعرف على مساهمة odontogenic غير ملحوظة لدى مرضى maxillary sinusitis.",
+      "why_important_en": "Reviewing the teeth on CT may help identify an overlooked odontogenic contribution in patients with maxillary sinusitis.",
+      "vs_previous_ar": "تضيف الدراسة وصفًا عمليًا لأربع علامات CT شائعة في عينة ENT، لكنها لا تثبت أن انتشارها أعلى من تقديرات أخرى أو تغيّر الإرشادات.",
+      "vs_previous_en": "The study provides a practical description of four CT findings in an ENT cohort, but does not establish prevalence beyond other estimates or change guidelines.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة retrospective cohort وصفية من مركز واحد وبعينة متوسطة؛ تقدم علامات CT مفيدة للتعرف على odontogenic sinusitis، لكن دون تأكيد سريري أو نتائج متابعة، لذا فهي معرفة مفيدة وليست ممارسة مغيرة.",
+      "stars_reason_en": "This single-center descriptive retrospective cohort offers useful CT clues for recognizing odontogenic sinusitis, but lacks clinical confirmation or outcome data, making it useful knowledge rather than practice-changing evidence.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for discussion of how to assess the maxillary dentition on CT and the limitations of using imaging findings alone to guide referral.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات مستقبلية متعددة المراكز للتحقق من دقة علامات CT وربط dental referral بالتشخيص المؤكد وتحسن نتائج المرضى.",
+      "research_gap_en": "Prospective multicenter studies should validate the CT findings and link dental referral to confirmed diagnoses and patient outcomes.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم دراسة بعنوان “Recognizing Odontogenic Maxillary Sinusitis in the ENT Clinic: Four CT Findings That Should Prompt Dental Evaluation.” وهي دراسة retrospective cohort أُجريت في عيادة ENT أكاديمية واحدة. راجع الباحثون CT لدى 65 مريضًا لديهم acute أو chronic maxillary sinusitis، وشملت المراجعة 84 maxillary sinus. قيّم فريق متعدد التخصصات الصور بحثًا عن علامات قد تشير إلى odontogenic contribution، مع اعتماد توصيات الإحالة على CT وحدها.\n\nوُجدت علامة واحدة أو أكثر في 50 من أصل 84 sinus، أي نحو 60%. كانت العلامات الأربع هي periapical pathology، وwidened PDL space، وoroantral communication، وlarge dental restorations. كانت periapical pathology الأكثر شيوعًا، إذ ظهرت في 56% من الجيوب ذات العلامات، تلتها widened PDL space بنسبة 34%، ثم oroantral communication بنسبة 30%، وlarge dental restorations بنسبة 18%. أوصى الفريق بإحالة 38 من أصل 40 مريضًا لديهم علامات تصويرية إلى dental evaluation.\n\nالرسالة العملية هي أن قراءة CT لمرضى maxillary sinusitis ينبغي أن تتضمن مراجعة مقصودة لـmaxillary dentition، وألا يقتصر الانتباه على mucosal disease. عند ظهور هذه العلامات، يمكن التفكير في تنسيق التقييم مع dental colleagues. لكن ينبغي تفسير النتائج بحذر: الدراسة صغيرة نسبيًا، أحادية المركز، واستخدمت مراجعة CT وحدها لتحديد الإحالة، من دون تأكيد التشخيص السريري أو قياس نتائج الإحالات. لذلك لا تثبت أن كل علامة تعني وجود odontogenic disease، ولا تقدم دليلًا على أن الإحالة تحسن النتائج.\n\nتضيف الدراسة قائمة عملية بعلامات تصويرية قد تساعد على عدم إغفال مصدر سني محتمل، لكنها لا تغيّر الإرشادات أو الممارسة بمفردها. الثقة متوسطة من ناحية القيمة التعليمية، والدليل محدود بسبب التصميم الوصفي. والخطوة البحثية التالية هي دراسات متعددة المراكز تربط علامات CT بالفحص السريري ونتائج dental referral. بالنسبة إلى نقاش journal club، السؤال الأساسي هو: ما المعايير السريرية أو التصويرية التي ينبغي أن تدفع إلى الإحالة، وكيف نتحقق من فائدتها؟",
+      "audio_script_en": "Today we review “Recognizing Odontogenic Maxillary Sinusitis in the ENT Clinic: Four CT Findings That Should Prompt Dental Evaluation.” This was a retrospective cohort from a single academic ENT clinic. The investigators reviewed CT scans from 65 patients with acute or chronic maxillary sinusitis, covering 84 maxillary sinuses. A multidisciplinary team assessed the scans for features that might indicate an odontogenic contribution, and referral recommendations were based on CT findings alone.\n\nOne or more suggestive findings were identified in 50 of 84 sinuses, about 60%. The four findings were periapical pathology, widened PDL space, oroantral communication, and large dental restorations. Periapical pathology was most common, occurring in 56% of affected sinuses, followed by widened PDL space at 34%, oroantral communication at 30%, and large dental restorations at 18%. The team retrospectively recommended dental evaluation for 38 of the 40 patients with radiographic findings.\n\nThe practical message is to deliberately review the maxillary dentition when interpreting CT for maxillary sinusitis, rather than focusing only on mucosal disease. If these findings are present, coordination with dental colleagues may be appropriate. However, the results require caution: the study was relatively small and single-center, and referral decisions relied on CT review without reported clinical confirmation or referral outcomes. The findings do not mean that every radiographic feature proves odontogenic disease, and the study does not show that referral improves outcomes.\n\nThis article offers a useful checklist of imaging clues that may help clinicians consider a dental source, but it does not independently change guidelines or practice. Confidence is intermediate for educational value, with limited evidence because of the descriptive design. Future multicenter work should correlate CT findings with clinical assessment and dental referral outcomes. For journal club, a useful question is what clinical or imaging threshold should prompt referral, and how should its benefit be validated?",
+      "mcq": [
+        {
+          "q_ar": "ما العلامة الأكثر شيوعًا بين الجيوب التي أظهرت علامات radiographic تشير إلى odontogenic contribution؟",
+          "q_en": "Which finding was most common among sinuses with radiographic features suggestive of an odontogenic contribution?",
+          "options_ar": [
+            "أ) widened PDL space",
+            "ب) oroantral communication",
+            "ج) periapical pathology",
+            "د) large dental restorations"
+          ],
+          "options_en": [
+            "A) Widened PDL space",
+            "B) Oroantral communication",
+            "C) Periapical pathology",
+            "D) Large dental restorations"
+          ],
+          "answer": 2,
+          "explanation_ar": "كانت periapical pathology موجودة في 28 من أصل 50 sinus ذات علامات، أي 56%، وهي النسبة الأعلى.",
+          "explanation_en": "Periapical pathology was found in 28 of the 50 sinuses with findings, or 56%, the highest proportion."
+        },
+        {
+          "q_ar": "كم عدد maxillary sinus التي أظهرت علامات radiographic تشير إلى odontogenic contribution؟",
+          "q_en": "How many maxillary sinuses had radiographic findings suggestive of an odontogenic contribution?",
+          "options_ar": [
+            "أ) 15 من 84",
+            "ب) 28 من 84",
+            "ج) 40 من 84",
+            "د) 50 من 84"
+          ],
+          "options_en": [
+            "A) 15 of 84",
+            "B) 28 of 84",
+            "C) 40 of 84",
+            "D) 50 of 84"
+          ],
+          "answer": 3,
+          "explanation_ar": "ظهرت العلامات في 50 من أصل 84 maxillary sinus، أي 59.52%.",
+          "explanation_en": "Findings were identified in 50 of 84 maxillary sinuses, or 59.52%."
+        },
+        {
+          "q_ar": "ما أبرز قيد عند تفسير توصيات dental referral في هذه الدراسة؟",
+          "q_en": "What is a key limitation when interpreting the study’s dental referral recommendations?",
+          "options_ar": [
+            "أ) كانت التوصيات مبنية على CT وحدها دون تحقق من التشخيص أو نتائج الإحالة",
+            "ب) لم تُراجع صور CT",
+            "ج) شملت الدراسة أطفالًا فقط",
+            "د) كانت الدراسة RCT متعددة المراكز"
+          ],
+          "options_en": [
+            "A) Recommendations were based on CT alone without confirmation of diagnosis or referral outcomes",
+            "B) CT scans were not reviewed",
+            "C) The study included only children",
+            "D) The study was a multicenter RCT"
+          ],
+          "answer": 0,
+          "explanation_ar": "اعتمدت توصيات الإحالة على consensus من CT findings وحدها، ولم تُذكر متابعة تؤكد التشخيص أو أثر الإحالة.",
+          "explanation_en": "Referral recommendations were based on consensus from CT findings alone, with no reported follow-up confirming diagnoses or referral effects."
+        }
+      ]
+    },
+    {
+      "pmid": "42895305",
+      "title_ar": "Time trends of human papillomavirus-attributable head and neck cancers: the BROADEN study.",
+      "title_en": "Time trends of human papillomavirus-attributable head and neck cancers: the BROADEN study.",
+      "journal": "Journal of the National Cancer Institute",
+      "pub_date": "2026-Oct-19",
+      "doi": "10.1093/jnci/djag375",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42895305/",
+      "pdf_url": null,
+      "study_design": "Multinational retrospective study, 6043 patients from 88 hospitals",
+      "summary_ar": "قيّمت BROADEN تغيرات HPV-attributable fractions (HPV-AFs) عبر فترتين، 2008-2009 و2018-2019، لدى مرضى head and neck cancer في سبع دول. شملت الحالات oropharynx وoral cavity وnasopharynx وhypopharynx وlarynx. استند تحديد HPV-attributability في oropharyngeal cancer إلى إيجابية اثنين من ثلاثة اختبارات: HPV-DNA وHPV-E6*I mRNA وp16INK4a immunohistochemistry؛ أما بقية المواقع فتطلبت إيجابية HPV-DNA وHPV-E6*I mRNA. ارتفعت HPV-AF في oropharyngeal cancer في الدول السبع، وكان الارتفاع ذا دلالة إحصائية في جميعها باستثناء China وJapan. تراوحت النسب في 2018-2019 بين 20.0% في Portugal و51.7% في Japan، بينما كانت HPV-AFs في بقية head and neck cancers منخفضة، لا تتجاوز 5%، دون اتجاه زمني واضح. تدعم النتائج وجود اختلافات جغرافية وزمنية، لكنها لا تثبت أن هذه التغيرات ستؤدي وحدها إلى تعديل التدبير السريري الحالي.",
+      "summary_en": "The BROADEN study assessed changes in HPV-attributable fractions (HPV-AFs) across two periods, 2008-2009 and 2018-2019, in patients with head and neck cancer from seven countries. Included sites were the oropharynx, oral cavity, nasopharynx, hypopharynx, and larynx. Attribution in oropharyngeal cancer required positivity on two of three tests: HPV-DNA, HPV-E6*I mRNA, and p16INK4a immunohistochemistry; other sites required both HPV-DNA and HPV-E6*I mRNA positivity. HPV-AF in oropharyngeal cancer increased in all seven countries, with statistically significant increases in all except China and Japan. In 2018-2019, rates ranged from 20.0% in Portugal to 51.7% in Japan, while other head and neck cancer sites had HPV-AFs of 5% or less and no clear time trend. The findings document geographic and temporal variation but do not by themselves establish a need to change current clinical management.",
+      "practice_change_ar": "لا تغيّر هذه النتائج التدبير السريري اليوم، لكنها تدعم الانتباه إلى اختلاف انتشار HPV-associated oropharyngeal cancer بحسب البلد والزمن.",
+      "practice_change_en": "These findings do not change clinical management today, but reinforce awareness that HPV-associated oropharyngeal cancer prevalence varies by country and over time.",
+      "future_impact_ar": "قد تساعد هذه البيانات في توجيه سياسات الوقاية وتقدير العبء المستقبلي لـ HPV-associated head and neck cancer بحسب المنطقة.",
+      "future_impact_en": "These data may inform prevention policies and regional estimates of the future burden of HPV-associated head and neck cancer.",
+      "why_important_ar": "تقدم الدراسة مقارنة متعددة الدول ومبنية على اختبارات مركزية لقياس HPV-attributability عبر خمسة مواقع من head and neck cancer.",
+      "why_important_en": "The study provides a multicountry comparison using centralized testing to assess HPV-attributability across five head and neck cancer sites.",
+      "vs_previous_ar": "تتجاوز الدراسة المعرفة السابقة التي ركزت غالبًا على ارتفاع oropharyngeal cancer في دول غربية، بإضافة بيانات زمنية من سبع دول وخمسة مواقع سرطانية.",
+      "vs_previous_en": "It extends prior knowledge, which largely focused on rising oropharyngeal cancer in Western countries, with longitudinal data from seven countries and five cancer sites.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة retrospective كبيرة ومتعددة الدول، مع اختبارات مركزية ونتائج جديدة مفيدة لفهم الاتجاهات الجغرافية؛ لكنها رصدية ولا تغيّر الممارسة الحالية مباشرة.",
+      "stars_reason_en": "A large, multinational retrospective study with centralized testing and useful new data on geographic trends; however, it is observational and does not directly change current practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسبة لنقاش journal club بسبب حجمها الدولي، ومعاييرها المخبرية لتحديد HPV-attributability، والاختلافات اللافتة بين البلدان.",
+      "jc_reason_en": "Suitable for journal club because of its multinational scale, laboratory criteria for HPV-attributability, and notable between-country differences.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج الدراسات المستقبلية إلى فحص أسباب الاختلافات بين الدول، وربط HPV-attributability بالنتائج السريرية والعوامل السكانية، وتقييم الاتجاهات في فترات أحدث.",
+      "research_gap_en": "Future studies should investigate reasons for between-country differences, link HPV-attributability with clinical outcomes and population factors, and assess trends in more recent periods.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "نراجع اليوم دراسة BROADEN المنشورة في Journal of the National Cancer Institute، وهي دراسة متعددة الدول عن الاتجاهات الزمنية للسرطانات المنسوبة إلى human papillomavirus، أو HPV. شملت الدراسة 6043 مريضًا من 88 مستشفى في France وGermany وItaly وPortugal وSpain وChina وJapan، وقارنت التشخيصات في عامي 2008-2009 مع 2018-2019. ضمت الدراسة خمسة مواقع: oropharynx وoral cavity وnasopharynx وhypopharynx وlarynx.\n\nاستخدم الباحثون عينات أنسجة محفوظة، وأجروا اختبارات مركزية لـ HPV-DNA وHPV-E6*I mRNA وp16INK4a immunohistochemistry. عُدّت حالات oropharyngeal cancer منسوبة إلى HPV عند إيجابية اختبارين من ثلاثة، بينما تطلبت المواقع الأخرى إيجابية كل من HPV-DNA وHPV-E6*I mRNA.\n\nالنتيجة الأساسية هي ارتفاع HPV-attributable fraction في oropharyngeal cancer في البلدان السبعة. كان هذا الارتفاع ذا دلالة إحصائية في جميع الدول ما عدا China وJapan. وفي الفترة الأحدث تراوحت النسب من 20% في Portugal إلى 51.7% في Japan. أما بقية مواقع head and neck cancer، فكانت النسب المنسوبة إلى HPV منخفضة، لا تتجاوز 5%، ولم يظهر فيها اتجاه زمني واضح.\n\nأهمية الدراسة أنها تقدم مقارنة جغرافية واسعة باستخدام تعريف مخبري منضبط للسببية، وتوضح أن عبء HPV-associated oropharyngeal cancer يختلف بين البلدان ويتغير مع الزمن. مع ذلك، هذه دراسة retrospective رصدية، ولا تثبت أسباب الاختلافات أو أثرها على نتائج العلاج، كما أن الارتفاع لم يصل إلى دلالة إحصائية في بلدين. لذلك لا تغيّر النتائج قرارات العلاج أو التدبير اليوم، لكنها مفيدة لتخطيط الوقاية ومراقبة العبء السرطاني. ومن الأسئلة البحثية المهمة تفسير الاختلافات بين المناطق، وربط هذه الاتجاهات بالعوامل السكانية والنتائج السريرية، وتحديث التقديرات ببيانات أحدث. التقييم الإجمالي أربع نجوم، مع confidence متوسطة: دراسة قوية ومهمة للمعرفة، لكنها ليست ممارسة سريرية متغيرة.",
+      "audio_script_en": "Today we review the BROADEN study, published in the Journal of the National Cancer Institute, which examines time trends in human papillomavirus-attributable cancers. This multinational retrospective study included 6,043 patients from 88 hospitals in France, Germany, Italy, Portugal, Spain, China, and Japan. It compared diagnoses from 2008-2009 with those from 2018-2019 and covered five sites: the oropharynx, oral cavity, nasopharynx, hypopharynx, and larynx.\n\nThe investigators used archived tissue samples and centralized testing for HPV-DNA, HPV-E6*I mRNA, and p16INK4a immunohistochemistry. For oropharyngeal cancer, HPV attribution required positive results on two of the three tests. For the other cancer sites, both HPV-DNA and HPV-E6*I mRNA had to be positive.\n\nThe main finding was an increase in the HPV-attributable fraction of oropharyngeal cancer in all seven countries. The increase was statistically significant in every country except China and Japan. In 2018-2019, the HPV-attributable fraction ranged from 20% in Portugal to 51.7% in Japan. By contrast, HPV-attributable fractions in the other head and neck cancer sites were 5% or less, with no clear time trend.\n\nThe study matters because it offers a broad geographic comparison using consistent laboratory criteria and shows that the burden of HPV-associated oropharyngeal cancer varies by country and changes over time. However, this is a retrospective observational study. It cannot establish why these differences exist or whether they affect treatment outcomes, and the increase was not statistically significant in two countries. The findings therefore do not change clinical management today, but they may support prevention planning and cancer-burden surveillance. Future work should explain regional differences, connect these trends with population factors and clinical outcomes, and provide updated estimates. Overall, this is a four-star study with moderate confidence: valuable for understanding epidemiology, but not practice-changing.",
+      "mcq": [
+        {
+          "q_ar": "ما النتيجة الرئيسية المتعلقة بـ HPV-attributable fraction في oropharyngeal cancer؟",
+          "q_en": "What was the main finding for the HPV-attributable fraction in oropharyngeal cancer?",
+          "options_ar": [
+            "أ) انخفضت في جميع البلدان",
+            "ب) ارتفعت في البلدان السبعة، لكن دون دلالة إحصائية في China وJapan",
+            "ج) بقيت ثابتة في جميع البلدان",
+            "د) ارتفعت فقط في الدول الأوروبية"
+          ],
+          "options_en": [
+            "A) It decreased in all countries",
+            "B) It increased in all seven countries, but not significantly in China and Japan",
+            "C) It remained unchanged in all countries",
+            "D) It increased only in European countries"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت الدراسة اتجاهًا تصاعديًا في البلدان السبعة، وكانت الزيادة ذات دلالة إحصائية باستثناء China وJapan.",
+          "explanation_en": "The study found an upward trend in all seven countries, with statistically significant increases except in China and Japan."
+        },
+        {
+          "q_ar": "ما الشرط المستخدم لإسناد oropharyngeal cancer إلى HPV؟",
+          "q_en": "What criterion was used to attribute oropharyngeal cancer to HPV?",
+          "options_ar": [
+            "أ) إيجابية HPV-DNA وحدها",
+            "ب) إيجابية p16INK4a immunohistochemistry وحدها",
+            "ج) إيجابية اثنين من ثلاثة اختبارات: HPV-DNA وHPV-E6*I mRNA وp16INK4a immunohistochemistry",
+            "د) إيجابية HPV-E6*I mRNA وحدها"
+          ],
+          "options_en": [
+            "A) Positive HPV-DNA alone",
+            "B) Positive p16INK4a immunohistochemistry alone",
+            "C) Positivity on two of three tests: HPV-DNA, HPV-E6*I mRNA, and p16INK4a immunohistochemistry",
+            "D) Positive HPV-E6*I mRNA alone"
+          ],
+          "answer": 2,
+          "explanation_ar": "استلزم تعريف HPV-attributability في oropharyngeal cancer إيجابية اثنين من الاختبارات الثلاثة المحددة.",
+          "explanation_en": "HPV-attributability in oropharyngeal cancer required positive results on two of the three specified tests."
+        },
+        {
+          "q_ar": "ما الذي وجدته الدراسة في بقية مواقع head and neck cancer غير oropharynx؟",
+          "q_en": "What did the study find in head and neck cancer sites other than the oropharynx?",
+          "options_ar": [
+            "أ) HPV-attributable fractions لا تتجاوز 5% دون اتجاه زمني واضح",
+            "ب) ارتفاعًا إحصائيًا كبيرًا في جميع البلدان",
+            "ج) نسبًا أعلى من 50% في معظم البلدان",
+            "د) عدم وجود أي حالة منسوبة إلى HPV"
+          ],
+          "options_en": [
+            "A) HPV-attributable fractions of 5% or less with no clear time trend",
+            "B) A large statistically significant increase in all countries",
+            "C) Rates above 50% in most countries",
+            "D) No HPV-attributable cases"
+          ],
+          "answer": 0,
+          "explanation_ar": "كانت HPV-attributable fractions في المواقع الأخرى منخفضة، بحد أقصى 5%، ولم يُلاحظ فيها اتجاه زمني واضح.",
+          "explanation_en": "HPV-attributable fractions at the other sites were low, at 5% or less, with no clear time trend."
+        }
+      ]
+    },
+    {
+      "pmid": "42895989",
+      "title_ar": "Safety-Net Hospitals Have Increased Costs of Care Following Acoustic Neuroma Surgery.",
+      "title_en": "Safety-Net Hospitals Have Increased Costs of Care Following Acoustic Neuroma Surgery.",
+      "journal": "Otology & neurotology : official publication of the American Otological Society, American Neurotology Society [and] European Academy of Otology and Neurotology",
+      "pub_date": "2026-Oct-19",
+      "doi": "10.1097/MAO.0000000000005101",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42895989/",
+      "pdf_url": null,
+      "study_design": "Retrospective analysis of a nationally representative inpatient database, n=50,991",
+      "summary_ar": "حللت هذه الدراسة بيانات 50,991 حالة دخول للبالغين الذين خضعوا لاستئصال acoustic neuroma في الولايات المتحدة بين 2001 و2021، منها 26.0% في safety-net hospitals (SNHs). كان المرضى في SNHs أكثر احتمالًا لأن يكون لديهم Medicaid ودخل أسري أقل. أظهر التحليل غير المعدل ارتفاع معدلات hydrocephalus وdysphagia وpulmonary edema وsepsis في SNHs. بعد adjustment متعدد المتغيرات، ارتبطت الرعاية في SNHs بزيادة odds of medical complications (OR 1.30، 95% CI 1.01–1.70)، لكن لم يظهر ارتباط دال إحصائيًا مع surgical/CNS complications. بلغ متوسط تكاليف الإقامة $42,749 في SNHs مقابل $36,456 في المستشفيات الأخرى، كما ارتبطت SNH status بزيادة مستقلة في التكاليف مقدارها $35,679 لكل حالة دخول. تشير النتائج إلى تفاوت في الموارد والنتائج الطبية، لكنها لا تثبت أن نوع المستشفى هو سبب هذه الفروق ولا تحدد آلية ارتفاع التكاليف.",
+      "summary_en": "This retrospective analysis included 50,991 adult admissions for acoustic neuroma resection in the United States from 2001 to 2021; 26.0% occurred at safety-net hospitals (SNHs). Patients at SNHs were more likely to have Medicaid and lower household income. Unadjusted rates of hydrocephalus, dysphagia, pulmonary edema, and sepsis were higher at SNHs. After multivariable adjustment, SNH care was associated with higher odds of medical complications (OR 1.30, 95% CI 1.01–1.70), but not with a statistically significant increase in surgical/CNS complications. Mean hospitalization costs were $42,749 at SNHs versus $36,456 at other hospitals, and SNH status was independently associated with a reported $35,679 increase per admission. The findings identify disparities in medical complications and costs but do not establish causality or explain the cost difference.",
+      "practice_change_ar": "لا تغيّر هذه النتائج اختيار النهج الجراحي اليوم، لكنها تدعم الانتباه إلى المخاطر الطبية واحتياجات الموارد عند تخطيط الرعاية في SNHs.",
+      "practice_change_en": "These findings do not change surgical approach today, but support attention to medical risks and resource needs when planning care at SNHs.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية تربط تفاصيل الحالة السريرية واستخدام الموارد في تحديد أسباب ارتفاع التكاليف والطرق الممكنة لدعم SNHs.",
+      "future_impact_en": "Future studies linking clinical detail with resource utilization may clarify the drivers of higher costs and identify ways to support SNHs.",
+      "why_important_ar": "تسلط الدراسة الضوء على ارتباط بين تقديم جراحة acoustic neuroma في SNHs وارتفاع medical complications والتكاليف ضمن عينة وطنية كبيرة.",
+      "why_important_en": "The study highlights an association between acoustic neuroma surgery at SNHs and higher medical complications and costs in a large national sample.",
+      "vs_previous_ar": "تضيف الدراسة منظورًا على مستوى المستشفيات حول الفوارق والتكاليف بعد acoustic neuroma surgery، وهو جانب لا توضحه عادةً دراسات النتائج الجراحية وحدها.",
+      "vs_previous_en": "The study adds a hospital-level perspective on disparities and costs after acoustic neuroma surgery, aspects not usually captured by surgical-outcome studies alone.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة retrospective كبيرة تعتمد على قاعدة بيانات وطنية، وتقدم معلومات مفيدة عن الفوارق والتكاليف، لكن التصميم الرصدي واحتمال وجود confounding يحدان من الاستنتاجات ولا يغيران الممارسة مباشرة.",
+      "stars_reason_en": "This large retrospective national database study provides useful information on disparities and costs, but its observational design and potential confounding limit conclusions and do not directly change practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because of its national sample and associations between SNH status, medical complications, and costs, alongside important questions about confounding and interpretation of the reported cost increase.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج الدراسات المستقبلية إلى بيانات سريرية وتفاصيل عن شدة المرض واستخدام الموارد لتحديد ما إذا كانت الفروق ناتجة عن خصائص المرضى أو المستشفيات أو عوامل أخرى.",
+      "research_gap_en": "Future studies need clinical, disease-severity, and resource-utilization data to determine whether the differences reflect patient characteristics, hospital factors, or other causes.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "تتناول هذه الدراسة تفاوت النتائج والتكاليف بعد جراحة acoustic neuroma، مع التركيز على safety-net hospitals أو SNHs، وهي مستشفيات تقدم الرعاية لعدد أكبر من المرضى ذوي الاحتياجات الاجتماعية والاقتصادية. استخدم الباحثون قاعدة بيانات وطنية أمريكية شملت 50,991 حالة دخول للبالغين الذين خضعوا لاستئصال acoustic neuroma بين عامي 2001 و2021. وقعت 26% من الحالات في SNHs، وكان المرضى فيها أكثر احتمالًا للحصول على Medicaid وأن يكون دخل أسرهم أقل.\n\nفي التحليل غير المعدل، كانت معدلات hydrocephalus وdysphagia وpulmonary edema وsepsis أعلى في SNHs. وبعد adjustment متعدد المتغيرات، بقي الارتباط مع medical complications دالًا إحصائيًا، مع OR قدره 1.30 و95% CI من 1.01 إلى 1.70. في المقابل، لم يكن الارتباط مع surgical/CNS complications دالًا إحصائيًا. كذلك كان متوسط تكاليف الإقامة أعلى في SNHs: $42,749 مقارنةً بـ$36,456 في المستشفيات الأخرى. وذكر التحليل أن SNH status ارتبطت بزيادة مستقلة في التكاليف مقدارها $35,679 لكل admission.\n\nما أهمية ذلك؟ تقدم الدراسة صورة وطنية عن الفوارق في الرعاية والإنفاق بعد إجراء معقد في مجال skull base، وتلفت الانتباه إلى أن المستشفيات التي تخدم مرضى أكثر هشاشة قد تواجه أعباء طبية ومالية أكبر. لكنها دراسة retrospective قائمة على بيانات إدارية، لذلك لا تثبت أن SNH status تسبب المضاعفات أو ارتفاع التكاليف. كما أن البيانات المتاحة لا تفسر أسباب الزيادة في التكاليف، وقد تبقى عوامل مثل خصائص المرضى وشدة حالتهم واختلاف استخدام الموارد مؤثرة.\n\nلا تدعم النتائج تغيير النهج الجراحي أو اتخاذ قرار علاجي مختلف اليوم. لكنها تشجع الفرق على الانتباه للمخاطر الطبية والتخطيط للموارد، وتدعم جهودًا مستقبلية لتوفير دعم ملائم للمستشفيات التي تقدم هذه الجراحات. يستحق البحث النقاش في journal club بسبب حجمه الوطني وأهميته للإنصاف في الرعاية، مع التركيز على confounding وتفسير النتائج الاقتصادية. الخلاصة: هذه معلومات مفيدة للممارسة والسياسات الصحية، لكنها لا تزال ارتباطية ولا تكفي وحدها لإثبات السببية أو تحديد التدخل الأمثل.",
+      "audio_script_en": "This study examines differences in outcomes and costs after acoustic neuroma surgery, focusing on safety-net hospitals, or SNHs, which care for larger numbers of patients with socioeconomic vulnerability. The investigators analyzed a nationally representative US inpatient database containing 50,991 adult admissions for acoustic neuroma resection from 2001 through 2021. Twenty-six percent of admissions occurred at SNHs. These patients were more likely to have Medicaid coverage and lower household income.\n\nOn unadjusted analysis, hydrocephalus, dysphagia, pulmonary edema, and sepsis were more frequent at SNHs. After multivariable adjustment, SNH care remained associated with higher odds of medical complications, with an OR of 1.30 and a 95% CI of 1.01 to 1.70. The association with surgical/CNS complications was not statistically significant. Mean hospitalization costs were also higher at SNHs: $42,749 compared with $36,456 at other hospitals. The analysis additionally reported that SNH status was independently associated with a $35,679 increase in costs per admission.\n\nWhy does this matter? The study provides a national view of disparities and spending after a complex skull-base procedure. It draws attention to the potentially greater medical and financial burden faced by hospitals caring for more socioeconomically vulnerable patients. However, this is a retrospective study using administrative data, so it cannot establish that SNH status causes complications or higher costs. The analysis also does not explain the cost difference; patient characteristics, disease severity, and differences in resource use may contribute.\n\nThe findings do not support changing the surgical approach or making a different treatment decision today. They do support awareness of medical risk and resource planning, and they provide a rationale for future work to identify appropriate support for hospitals performing these procedures. This is a useful journal-club article because of its national scale and relevance to equitable access, while also offering an opportunity to discuss confounding and the interpretation of economic results. In short, the study offers useful information for clinicians and policymakers, but its associations do not prove causality or identify the best intervention.",
+      "mcq": [
+        {
+          "q_ar": "كم بلغ عدد حالات الدخول في الدراسة؟",
+          "q_en": "How many admissions were included in the study?",
+          "options_ar": [
+            "أ) 5,099",
+            "ب) 13,245",
+            "ج) 50,991",
+            "د) 509,910"
+          ],
+          "options_en": [
+            "A) 5,099",
+            "B) 13,245",
+            "C) 50,991",
+            "D) 509,910"
+          ],
+          "answer": 2,
+          "explanation_ar": "شملت الدراسة 50,991 حالة دخول للبالغين خضعوا لاستئصال acoustic neuroma.",
+          "explanation_en": "The study included 50,991 adult admissions for acoustic neuroma resection."
+        },
+        {
+          "q_ar": "ما النتيجة المعدلة المرتبطة بـSNH status؟",
+          "q_en": "Which adjusted outcome was associated with SNH status?",
+          "options_ar": [
+            "أ) زيادة دالة في surgical/CNS complications فقط",
+            "ب) زيادة odds of medical complications دون ارتباط دال بـsurgical/CNS complications",
+            "ج) انخفاض دال في جميع المضاعفات",
+            "د) عدم وجود ارتباط بالتكاليف"
+          ],
+          "options_en": [
+            "A) A significant increase in surgical/CNS complications only",
+            "B) Higher odds of medical complications, without a significant association with surgical/CNS complications",
+            "C) A significant decrease in all complications",
+            "D) No association with costs"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتبطت SNH status بزيادة odds of medical complications (OR 1.30)، لكن الارتباط مع surgical/CNS complications لم يكن دالًا.",
+          "explanation_en": "SNH status was associated with higher odds of medical complications (OR 1.30), but the association with surgical/CNS complications was not significant."
+        },
+        {
+          "q_ar": "ما أهم قيد عند تفسير نتائج الدراسة؟",
+          "q_en": "What is the key limitation when interpreting the study findings?",
+          "options_ar": [
+            "أ) دراسة RCT صغيرة",
+            "ب) لا تتضمن أي نتائج سريرية",
+            "ج) تصميم retrospective وبيانات إدارية لا تثبت السببية",
+            "د) اقتصرت على دراسة حيوانية"
+          ],
+          "options_en": [
+            "A) It is a small RCT",
+            "B) It reports no clinical outcomes",
+            "C) Its retrospective design and administrative data cannot establish causality",
+            "D) It is an animal study"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة retrospective وتعتمد على قاعدة بيانات إدارية؛ لذلك تُظهر ارتباطات ولا تثبت أن SNH status تسبب الفروق.",
+          "explanation_en": "The study is retrospective and uses administrative data; it identifies associations but cannot prove that SNH status causes the differences."
+        }
+      ]
+    },
+    {
+      "pmid": "42896146",
+      "title_ar": "Detection of Pathological Voice Samples Using a Text-to-Speech-Inspired Approach With Multiple Model Architectures: Method Development and Comparative Evaluation Study",
+      "title_en": "Detection of Pathological Voice Samples Using a Text-to-Speech-Inspired Approach With Multiple Model Architectures: Method Development and Comparative Evaluation Study",
+      "journal": "Journal of medical Internet research",
+      "pub_date": "2026-Oct-19",
+      "doi": "10.2196/94285",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42896146/",
+      "pdf_url": "https://doi.org/10.2196/94285",
+      "study_design": "دراسة تطوير منهجية وتقييم مقارن باستخدام قاعدة بيانات سريرية",
+      "summary_ar": "قيّمت الدراسة استخدام عينات speech مولّدة بواسطة text-to-speech (TTS) لتحسين اكتشاف voice disorders وتصنيفها اعتمادًا على Saarbrücken Voice Database. شملت المهام التعرف الثنائي على الاضطراب باستخدام 1988 تسجيلًا، والتصنيف إلى أربع فئات باستخدام 1199 تسجيلًا، مع إنشاء عينة اصطناعية لكل عينة تدريب أصلية. أظهر Kartoffelbox نتائج أفضل من XTTS في تقييم الاستماع المعمّى، كما حقق HuBERT أفضل أداء بين النماذج الأساسية؛ وارتفعت accuracy إلى 0.87 بعد augmentation باستخدام Kartoffelbox. حقق دمج النماذج AUC بلغ 0.93 للتعرف الثنائي، بينما سجل learnable fusion أفضل أداء إجمالي للتصنيف متعدد الفئات، مع بقاء laryngitis من الفئات الأصعب. تشير النتائج إلى إمكانية دعم screening الآلي، لكنها لا تثبت الجاهزية للاستخدام السريري بسبب اعتمادها على قاعدة بيانات واحدة والحاجة إلى تحقق خارجي.",
+      "summary_en": "This study evaluated text-to-speech (TTS)-generated samples for improving voice disorder recognition and classification using the Saarbrücken Voice Database. The tasks included binary recognition using 1,988 recordings and four-class classification using 1,199 recordings, with one synthetic sample generated for each training instance. In blinded listening, Kartoffelbox-generated speech performed better than XTTS, and HuBERT was the strongest baseline; Kartoffelbox augmentation increased accuracy to 0.87. Model fusion achieved an AUC of 0.93 for binary recognition, while learnable fusion performed best overall for multiclass classification; laryngitis remained challenging. The results suggest potential for automated screening, but clinical readiness is not established because the evaluation used a single database and requires external validation.",
+      "practice_change_ar": "لا تغيّر هذه النتائج الممارسة السريرية اليوم، ولا ينبغي استخدام النموذج بدل التقييم المتخصص للـ voice disorders.",
+      "practice_change_en": "These findings do not change clinical practice today, and the model should not replace specialist assessment of voice disorders.",
+      "future_impact_ar": "إذا تأكد الأداء في مجموعات سريرية مستقلة، فقد تساعد أدوات AI المعتمدة على voice recordings في فرز المرضى وتحديد أولوية الإحالة.",
+      "future_impact_en": "If performance is confirmed in independent clinical cohorts, AI tools based on voice recordings may support triage and referral prioritization.",
+      "why_important_ar": "توضح الدراسة أن اختيار TTS model وطريقة دمج النماذج قد يؤثران في أداء أدوات screening الآلية للـ voice disorders.",
+      "why_important_en": "The study shows that TTS model selection and model-fusion strategy can affect automated screening performance for voice disorders.",
+      "vs_previous_ar": "تضيف الدراسة تقييمًا مباشرًا لـ synthetic speech augmentation ودمج عدة architectures، بدل الاعتماد على recordings الأصلية أو نموذج منفرد فقط.",
+      "vs_previous_en": "The study adds a direct evaluation of synthetic-speech augmentation and multiple-architecture fusion, rather than relying only on original recordings or a single model.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة تطوير وتقييم مقارن على قاعدة بيانات كبيرة نسبيًا، وتقدم نتيجة تقنية واعدة في laryngology؛ لكن غياب التحقق الخارجي وعدم اختبار الأثر على قرارات الرعاية يحدان من قوة الدليل والتطبيق المباشر.",
+      "stars_reason_en": "This method-development and comparative evaluation uses a relatively large database and offers a promising laryngology application; however, lack of external validation and clinical-outcome testing limit the evidence and immediate applicability.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it tests synthetic augmentation and multimodel fusion for a clinical problem, with results varying by task and metric and requiring external validation.",
+      "watch": true,
+      "watch_detail_ar": "راقبوا تطور AI وTTS-based tools لتحليل الصوت، إذ قد تدعم screening والفرز في عيادات voice disorders بعد التحقق السريري المستقل.",
+      "watch_detail_en": "Track AI and TTS-based tools for voice analysis, which may support screening and triage in voice clinics after independent clinical validation.",
+      "watch_type": "technology",
+      "research_gap_ar": "يلزم التحقق من النماذج على مجموعات متعددة المراكز وبأجهزة تسجيل ولهجات وسياقات سريرية متنوعة، مع تقييم أثرها على القرارات والنتائج السريرية.",
+      "research_gap_en": "The models require validation across multicenter datasets, recording devices, accents, and clinical settings, with assessment of their effects on clinical decisions and outcomes.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "في هذه الدراسة المنشورة في Journal of Medical Internet Research، اختبر الباحثون ما إذا كان speech الاصطناعي المولّد بواسطة text-to-speech يمكن أن يحسن اكتشاف voice disorders وتصنيفها. استخدموا Saarbrücken Voice Database، مع 1988 تسجيلًا لمهمة التمييز بين وجود الاضطراب وعدم وجوده، و1199 تسجيلًا للتصنيف إلى أربع فئات. ولّد الباحثون عينة اصطناعية لكل عينة تدريب، وقارنوا بين XTTS وKartoffelbox، إلى جانب نماذج منها SVM وResNet-18 وHuBERT وWav2Vec 2.0 وWavLM.\n\nفي تقييم استماع معمى محدود، كان من الأصعب على المستمعين التعرف إلى عينات Kartoffelbox على أنها اصطناعية مقارنة بعينات XTTS. وكان HuBERT أفضل النماذج الأساسية توازنًا في مهمة التعرف الثنائي، مع accuracy بلغت 0.85. بعد augmentation باستخدام Kartoffelbox، وصلت accuracy إلى 0.87. كما حقق دمج النماذج AUC بلغ 0.93 في التعرف الثنائي، بينما قدم learnable fusion أفضل نتيجة إجمالية للتصنيف متعدد الفئات، مع بقاء laryngitis من الفئات الأصعب.\n\nالأهمية السريرية المحتملة هي أن تحليل voice recordings آليًا قد يساعد مستقبلًا في screening أو ترتيب أولوية الإحالة، خصوصًا عندما يكون الوصول إلى specialist محدودًا. لكن هذه النتائج لا تبرر استخدام النظام لاتخاذ تشخيص مستقل أو استبدال تقييم laryngology؛ فالدراسة اعتمدت على قاعدة بيانات واحدة ولم تثبت الأداء في بيئات سريرية خارجية أو أثره على نتائج المرضى. لذلك، لا تتغير الممارسة اليوم، لكن التقنية جديرة بالمتابعة. الخطوة البحثية التالية هي اختبار النموذج على بيانات متعددة المراكز ومتنوعة في الأجهزة واللهجات، ثم قياس فائدته العملية في مسارات الرعاية.",
+      "audio_script_en": "This study in the Journal of Medical Internet Research asks whether text-to-speech-generated samples can improve automated recognition and classification of voice disorders. The researchers used the Saarbrücken Voice Database, with 1,988 recordings for binary disorder recognition and 1,199 recordings for classification into four groups. They generated one synthetic sample per training instance and compared XTTS with Kartoffelbox, alongside models including SVM, ResNet-18, HuBERT, Wav2Vec 2.0, and WavLM.\n\nIn a small blinded listening evaluation, Kartoffelbox samples were less often recognized as synthetic than XTTS samples. HuBERT was the most balanced baseline for binary recognition, with an accuracy of 0.85. With Kartoffelbox augmentation, accuracy reached 0.87. Model fusion achieved an AUC of 0.93 for binary recognition, while learnable fusion had the best overall performance for multiclass classification. Laryngitis remained one of the more difficult classes to classify.\n\nThe potential clinical value is that automated voice analysis might eventually support screening or referral prioritization, particularly where access to specialists is limited. However, these results do not justify independent diagnosis or replacement of laryngology assessment. The study used one database and did not establish performance in external clinical settings or demonstrate improved patient outcomes. Therefore, practice should not change today, although the technology is worth tracking. Further research should test the models across multiple centers, recording devices, and accents, and evaluate whether they improve real-world clinical pathways.",
+      "mcq": [
+        {
+          "q_ar": "ما مصدر البيانات الذي استخدمته الدراسة؟",
+          "q_en": "Which database did the study use?",
+          "options_ar": [
+            "أ) Saarbrücken Voice Database",
+            "ب) UK Biobank",
+            "ج) MIMIC-IV",
+            "د) Common Voice فقط"
+          ],
+          "options_en": [
+            "A) Saarbrücken Voice Database",
+            "B) UK Biobank",
+            "C) MIMIC-IV",
+            "D) Common Voice only"
+          ],
+          "answer": 0,
+          "explanation_ar": "استخدم الباحثون Saarbrücken Voice Database لمهمتي التعرف على voice disorders والتصنيف متعدد الفئات.",
+          "explanation_en": "The researchers used the Saarbrücken Voice Database for both voice disorder recognition and multiclass classification."
+        },
+        {
+          "q_ar": "أي TTS model ارتبط بتحسن أداء HuBERT بعد augmentation؟",
+          "q_en": "Which TTS model was associated with improved HuBERT performance after augmentation?",
+          "options_ar": [
+            "أ) XTTS",
+            "ب) Kartoffelbox",
+            "ج) WavLM",
+            "د) ResNet-18"
+          ],
+          "options_en": [
+            "A) XTTS",
+            "B) Kartoffelbox",
+            "C) WavLM",
+            "D) ResNet-18"
+          ],
+          "answer": 1,
+          "explanation_ar": "أدى augmentation باستخدام Kartoffelbox إلى وصول accuracy لدى HuBERT إلى 0.87.",
+          "explanation_en": "Kartoffelbox-based augmentation increased HuBERT accuracy to 0.87."
+        },
+        {
+          "q_ar": "ما القيد الأساسي الذي يمنع تغيير الممارسة السريرية حاليًا؟",
+          "q_en": "What is the main limitation preventing a change in clinical practice today?",
+          "options_ar": [
+            "أ) لم تُستخدم أي بيانات صوتية",
+            "ب) الدراسة اقتصرت على قاعدة بيانات واحدة وتحتاج إلى تحقق سريري خارجي",
+            "ج) لم تتضمن الدراسة نماذج AI",
+            "د) جميع الفئات صُنفت بدقة كاملة"
+          ],
+          "options_en": [
+            "A) No voice recordings were used",
+            "B) The study relied on one database and needs external clinical validation",
+            "C) The study did not include AI models",
+            "D) All classes were classified perfectly"
+          ],
+          "answer": 1,
+          "explanation_ar": "النتائج واعدة، لكنها مبنية على قاعدة بيانات واحدة ولم تثبت بعد في مجموعات سريرية خارجية أو ضمن مسارات رعاية فعلية.",
+          "explanation_en": "The results are promising, but they rely on a single database and have not yet been established in external clinical cohorts or real care pathways."
+        }
+      ]
+    },
+    {
+      "pmid": "42895868",
+      "title_ar": "Patient Characteristics and Anesthetic Factors Affecting Hospital Length of Stay in Orthognathic Surgery.",
+      "title_en": "Patient Characteristics and Anesthetic Factors Affecting Hospital Length of Stay in Orthognathic Surgery.",
+      "journal": "The Journal of craniofacial surgery",
+      "pub_date": "2026-Oct-19",
+      "doi": "10.1097/SCS.0000000000013514",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42895868/",
+      "pdf_url": null,
+      "study_design": "Retrospective cohort n=170",
+      "summary_ar": "درست هذه الدراسة retrospective cohort ارتباط خصائص المرضى وعوامل التخدير بالإقامة المطولة بعد Le Fort I osteotomy. شملت الدراسة 170 مريضًا، وكان لدى 47 منهم extended length of stay، الذي عُرّف بأنه الإقامة يومين أو أكثر. ارتبطت الإقامة المطولة في التحليل غير المعدّل بارتفاع معدلات obstructive sleep apnea وdifficult airway history وارتفاع Mallampati class وASA class III، إضافة إلى زيادة مدة التخدير والجراحة. في multivariable logistic regression، تنبأ ASA class III بصورة مستقلة بالإقامة المطولة، مع adjusted odds ratio قدره 8.49. كما تنبأت مدة الجراحة الأطول بالإقامة المطولة، بزيادة adjusted odds ratio قدرها 1.50 لكل ساعة. تقترح النتائج أن ASA classification قد يساعد في التخطيط للمراقبة بعد الجراحة، لكنها لا تثبت أن تغيير مسار الرعاية يقلل مدة الإقامة.",
+      "summary_en": "This retrospective cohort examined patient and anesthetic factors associated with extended length of stay after Le Fort I osteotomy. It included 170 patients, 47 of whom stayed at least two days. On unadjusted analysis, extended stay was associated with obstructive sleep apnea, difficult airway history, higher Mallampati class, ASA class III, and longer anesthesia and operative durations. In multivariable logistic regression, ASA class III independently predicted extended stay (adjusted odds ratio 8.49). Longer operative duration was also an independent predictor, with an adjusted odds ratio of 1.50 per hour. The findings support considering ASA classification when planning postoperative monitoring, but do not establish that changing care pathways will reduce length of stay.",
+      "practice_change_ar": "لا تغيّر هذه الدراسة الممارسة مباشرة، لكن يمكن أخذ ASA class III بعين الاعتبار عند التخطيط للمراقبة بعد orthognathic surgery.",
+      "practice_change_en": "This study does not directly change practice, but ASA class III may be considered when planning postoperative monitoring after orthognathic surgery.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية متعددة المراكز في التحقق من هذه المؤشرات وتطوير أدوات لتقدير خطر الإقامة المطولة قبل الجراحة.",
+      "future_impact_en": "Future multicenter studies could validate these predictors and develop tools to estimate extended-stay risk before surgery.",
+      "why_important_ar": "تحدد الدراسة مؤشرات سريرية قد تساعد فرق orthognathic surgery على توقع احتياجات المراقبة والتخطيط للخروج.",
+      "why_important_en": "The study identifies clinical factors that may help orthognathic surgery teams anticipate monitoring needs and plan discharge.",
+      "vs_previous_ar": "تضيف الدراسة بيانات خاصة بمرضى Le Fort I osteotomy تربط ASA class III ومدة الجراحة بالإقامة، لكنها لا تثبت تفوق استراتيجية جديدة على الممارسة المعتادة.",
+      "vs_previous_en": "The study adds Le Fort I osteotomy-specific data linking ASA class III and operative duration with length of stay, but does not demonstrate the benefit of a new care strategy over usual practice.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة retrospective cohort بحجم متوسط (n=170) ونتائج ذات صلة بالتخطيط السريري، لكن تصميمها أحادي المركز والرصدّي يحدان من قوة الاستنتاج، كما أن النتائج لا تغيّر الممارسة الحالية.",
+      "stars_reason_en": "A moderately sized retrospective cohort (n=170) provides clinically relevant planning information, but its single-center observational design limits inference and the findings do not change current practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it examines preoperatively assessable factors and raises questions about the predictive value of ASA classification and the need for external validation.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسة مستقبلية متعددة المراكز للتحقق من قدرة ASA class ومدة الجراحة على التنبؤ بالإقامة، وتقييم ما إذا كان توجيه المراقبة وفق مستوى الخطر يحسن النتائج أو يقلل الإقامة.",
+      "research_gap_en": "A prospective multicenter study should validate ASA class and operative duration as predictors and assess whether risk-guided monitoring improves outcomes or reduces length of stay.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نستعرض اليوم دراسة بعنوان Patient Characteristics and Anesthetic Factors Affecting Hospital Length of Stay in Orthognathic Surgery. تبحث الدراسة ما إذا كانت خصائص المرضى وعوامل التخدير تساعد على توقع الإقامة المطولة بعد Le Fort I osteotomy، في وقت تتجه فيه بعض المراكز إلى مسارات الرعاية ambulatory.\n\nهذه retrospective cohort أُجريت في مركز أكاديمي واحد، وشملت 170 مريضًا خضعوا للجراحة بين عامي 2019 و2025. عرّف الباحثون الإقامة المطولة بأنها يومان أو أكثر، وحدث ذلك لدى 47 مريضًا. في التحليل غير المعدّل، ارتبطت الإقامة الأطول بوجود obstructive sleep apnea أو difficult airway history، وارتفاع Mallampati class أو ASA class، إضافة إلى طول مدة التخدير والجراحة.\n\nالأهم أن multivariable logistic regression أظهر أن ASA class III تنبأ بصورة مستقلة بالإقامة المطولة، مع adjusted odds ratio بلغ 8.49، وإن كان confidence interval واسعًا. كذلك ارتبطت كل ساعة إضافية من مدة الجراحة بزيادة odds الإقامة المطولة، مع adjusted odds ratio بلغ 1.50. هذه نتائج قد تفيد في تقدير احتياجات المراقبة والتخطيط للخروج، لكن الدراسة لا تثبت أن تعديل الرعاية بناءً على هذه العوامل سيقلل الإقامة أو يحسن النتائج.\n\nنقاط القوة هي حجم العينة المناسب نسبيًا والتركيز على عوامل يمكن تقييمها حول وقت الجراحة. أما القيود فتشمل التصميم الرصدي، والمركز الواحد، واحتمال تأثر النتائج بعوامل غير مقاسة، إضافة إلى أن مدة الجراحة ليست مؤشرًا متاحًا بالكامل قبل العملية. كما أن الارتباطات غير المعدّلة بين عوامل airway وارتفاع ASA class لا تعني أنها جميعًا تنبؤات مستقلة.\n\nتقييمنا ثلاث نجوم مع confidence 🟡: المقال مفيد للتخطيط، لكنه لا يغيّر الممارسة اليوم. يمكن للأطباء أخذ ASA class III في الحسبان عند مناقشة المراقبة بعد الجراحة، مع تجنب اعتباره أداة تنبؤ معتمدة بذاتها. تبقى الحاجة إلى دراسة مستقبلية متعددة المراكز للتحقق من النتائج واختبار ما إذا كانت المراقبة الموجّهة بحسب الخطر تغيّر النتائج السريرية أو مدة الإقامة.",
+      "audio_script_en": "Today we are reviewing “Patient Characteristics and Anesthetic Factors Affecting Hospital Length of Stay in Orthognathic Surgery.” The study asks whether patient characteristics and anesthetic factors can help predict an extended stay after Le Fort I osteotomy, as some centers move toward ambulatory pathways.\n\nThis was a single-center retrospective cohort of 170 patients who underwent surgery between 2019 and 2025. The authors defined extended length of stay as two or more days; 47 patients met that definition. On unadjusted analysis, extended stay was associated with obstructive sleep apnea, difficult airway history, higher Mallampati class or ASA class, and longer anesthesia and operative durations.\n\nThe main adjusted findings were that ASA class III independently predicted extended stay, with an adjusted odds ratio of 8.49, although the confidence interval was wide. Each additional hour of operative duration was also associated with higher odds of an extended stay, with an adjusted odds ratio of 1.50. These findings may inform monitoring and discharge planning, but the study does not show that changing care based on these factors reduces length of stay or improves outcomes.\n\nStrengths include a reasonably sized cohort and attention to factors relevant to perioperative planning. Limitations include the observational, single-center design, possible unmeasured confounding, and the fact that operative duration is not fully known before surgery. Also, the unadjusted associations between airway-related factors and higher ASA class do not establish that each is an independent predictor.\n\nWe rate the study three stars with 🟡 confidence: it is useful for planning but does not change practice today. Clinicians may consider ASA class III when discussing postoperative monitoring, while avoiding treating it as a validated prediction tool on its own. A prospective multicenter study is needed to validate these findings and determine whether risk-guided monitoring changes clinical outcomes or length of stay.",
+      "mcq": [
+        {
+          "q_ar": "كيف عرّفت الدراسة extended length of stay؟",
+          "q_en": "How did the study define extended length of stay?",
+          "options_ar": [
+            "أ) إقامة يوم أو أكثر",
+            "ب) إقامة يومين أو أكثر",
+            "ج) إقامة ثلاثة أيام أو أكثر",
+            "د) دخول وحدة العناية المركزة لأي مدة"
+          ],
+          "options_en": [
+            "A) A stay of one day or more",
+            "B) A stay of two days or more",
+            "C) A stay of three days or more",
+            "D) Any admission to an intensive care unit"
+          ],
+          "answer": 1,
+          "explanation_ar": "عرّفت الدراسة extended length of stay بأنها hospitalization لمدة يومين أو أكثر.",
+          "explanation_en": "The study defined extended length of stay as hospitalization for two or more days."
+        },
+        {
+          "q_ar": "أي عامل تنبأ بصورة مستقلة بالإقامة المطولة في multivariable logistic regression؟",
+          "q_en": "Which factor independently predicted extended stay in the multivariable logistic regression?",
+          "options_ar": [
+            "أ) obstructive sleep apnea",
+            "ب) difficult airway history",
+            "ج) ASA class III",
+            "د) elevated Mallampati class"
+          ],
+          "options_en": [
+            "A) Obstructive sleep apnea",
+            "B) Difficult airway history",
+            "C) ASA class III",
+            "D) Elevated Mallampati class"
+          ],
+          "answer": 2,
+          "explanation_ar": "كان ASA class III عاملًا تنبؤيًا مستقلًا، مع adjusted odds ratio قدره 8.49.",
+          "explanation_en": "ASA class III was an independent predictor, with an adjusted odds ratio of 8.49."
+        },
+        {
+          "q_ar": "ما التفسير الأنسب لنتائج هذه الدراسة؟",
+          "q_en": "What is the most appropriate interpretation of these findings?",
+          "options_ar": [
+            "أ) تثبت أن تغيير الرعاية وفق ASA class يقلل الإقامة",
+            "ب) تدعم استخدام ASA class III ومدة الجراحة كمؤشرات مرتبطة بالإقامة، وتحتاج إلى تحقق إضافي",
+            "ج) تثبت أن جميع عوامل airway تنبؤات مستقلة",
+            "د) توصي بإلغاء مسارات ambulatory بعد orthognathic surgery"
+          ],
+          "options_en": [
+            "A) They prove that changing care based on ASA class reduces length of stay",
+            "B) They support ASA class III and operative duration as associated predictors requiring further validation",
+            "C) They prove that all airway factors are independent predictors",
+            "D) They recommend abandoning ambulatory pathways after orthognathic surgery"
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسة retrospective ورصدية؛ لذا تحدد ارتباطات ومؤشرات محتملة، ولا تثبت أثر تدخل موجّه أو استقلال جميع عوامل airway.",
+          "explanation_en": "Because this was a retrospective observational study, it identifies associations and potential predictors but does not establish the effect of a targeted intervention or the independent role of all airway factors."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026102001",
+      "title_ar": "سوق أنظمة التصوير للتنظير الداخلي متوسطة السعر حتى عام 2035: الطلب على الإجراءات طفيفة التوغل يدفع النمو",
+      "title_en": "Mid-Range Endoscopy Visualization Systems Market to 2035: Minimally Invasive Demand Drives Growth",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-20",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "يتوقع تقرير سوقي من IndexBox نمو سوق أنظمة التصوير للتنظير الداخلي متوسطة السعر حتى عام 2035، مشيراً إلى الطلب على الإجراءات طفيفة التوغل بوصفه محركاً رئيسياً. ولا يذكر الخبر شركات بعينها أو أرقاماً لحجم السوق أو إطلاق منتجات محددة. وهو توقع للسوق وليس إعلاناً عن صفقة أو قرار تنظيمي أو دراسة سريرية.",
+      "summary_en": "An IndexBox market report projects growth in the mid-range endoscopy visualization systems market through 2035, citing demand for minimally invasive procedures as a key driver. The item does not identify specific companies, market-size figures, or product launches. It is a market outlook rather than an announcement of a transaction, regulatory decision, or clinical study.",
+      "practice_change_ar": "لا يستدعي هذا التوقع تغييراً فورياً في ممارسة طب الأنف والأذن والحنجرة، لكنه قد يفيد عند تقييم خيارات أجهزة التنظير المستقبلية والميزانيات.",
+      "practice_change_en": "The forecast does not call for an immediate change in ENT practice, but it may be relevant when evaluating future endoscopy equipment options and budgets.",
+      "future_impact_ar": "إذا تحقق التوقع، فقد تتاح لعيادات طب الأنف والأذن والحنجرة خيارات أكثر من الأنظمة متوسطة السعر بمرور الوقت، وفقاً لتوافر المنتجات والاحتياجات السريرية.",
+      "future_impact_en": "If the forecast materializes, ENT practices may see more mid-range system options over time, subject to product availability and clinical requirements.",
+      "why_important_ar": "قد يؤدي نمو أنظمة التصوير متوسطة السعر إلى توسيع خيارات الأجهزة، لكن التقرير لا يقدم دليلاً على تغيّرات محددة في الأسعار أو الأداء.",
+      "why_important_en": "Potential growth in mid-range visualization systems could broaden equipment choices, although the report provides no evidence of specific price or performance changes.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "توقع سوقي عام من دون تفاصيل تخص شركات أو منتجات أو أثر سريري مباشر على أطباء الأنف والأذن والحنجرة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "في أخبار الأعمال المرتبطة بطب الأنف والأذن والحنجرة، يتوقع تقرير من IndexBox نمو سوق أنظمة التصوير للتنظير الداخلي متوسطة السعر حتى عام 2035. ويعزو التقرير هذا الاتجاه إلى الطلب المتزايد على الإجراءات طفيفة التوغل. قد يكون هذا التطور مهماً للعيادات والمستشفيات عند التخطيط لشراء أجهزة التنظير أو تحديثها، إذ يمكن أن تتسع الخيارات المتاحة ضمن الفئة متوسطة السعر. لكن الخبر لا يحدد حجم النمو المتوقع، ولا يذكر شركات أو منتجات بعينها، كما لا يقدم بيانات عن الأسعار أو جودة الأداء. لذلك لا يشير إلى تغيير سريري فوري، بل يقدم نظرة عامة على اتجاه محتمل في السوق. وينبغي أن تستند قرارات الشراء إلى احتياجات الممارسة، والتوافق مع المعدات القائمة، والأداء السريري والتكلفة، لا إلى التوقعات السوقية وحدها.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026102002",
+      "title_ar": "شركات رائدة في طب الأنف والأذن والحنجرة تدفع الابتكار في التكنولوجيا الطبية",
+      "title_en": "Leading ENT Companies Driving Medical Technology Innovation",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-20",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "يُقدَّم الخبر بوصفه استعراضًا لشركات رائدة تدفع الابتكار في تقنيات طب الأنف والأذن والحنجرة. لكن المعلومات المتاحة لا تتضمن نص المقال أو أسماء الشركات أو تفاصيل المنتجات أو البيانات المالية أو حدثًا تجاريًا محددًا. لذلك لا يمكن الاستناد إليه لإثبات وقوع استحواذ أو قرار تنظيمي أو دعوى قضائية أو تطور جوهري آخر.",
+      "summary_en": "The item is titled as an overview of leading companies driving innovation in ear, nose, and throat (ENT) medical technology. The available listing provides no article text, company names, product details, financial data, or specific business event. It therefore does not establish that an acquisition, regulatory decision, lawsuit, or other material development has occurred.",
+      "practice_change_ar": "لا يمكن استنتاج أي تغيير فوري في الممارسة السريرية لأن الخبر لا يحدد تقنية بعينها أو أدلة سريرية.",
+      "practice_change_en": "No immediate change to clinical practice can be inferred because the listing does not identify a specific technology or clinical evidence.",
+      "future_impact_ar": "ستعتمد أي آثار مستقبلية على رعاية مرضى الأنف والأذن والحنجرة على الشركات والتقنيات والأدلة المحددة التي يتناولها المقال الكامل.",
+      "future_impact_en": "Any implications for future ENT care will depend on the specific companies, technologies, and evidence discussed in the full article.",
+      "why_important_ar": "قد يكون الموضوع ذا صلة باتجاهات التكنولوجيا في طب الأنف والأذن والحنجرة، لكن المعلومات المتاحة لا تكفي لتقييم أثره السريري أو التشغيلي.",
+      "why_important_en": "The topic may be relevant to ENT technology trends, but the available information is too limited to assess clinical or operational impact.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "الأهمية محدودة لأن المتاح عنوان عام فقط ولا يذكر تطورًا محددًا أو بيانات قابلة للتقييم.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "يتناول عنوان الخبر شركات رائدة تسهم في الابتكار بمجال تقنيات طب الأنف والأذن والحنجرة. لكن المعلومات المنشورة في الإحالة المتاحة تقتصر على العنوان واسم المصدر، ولا تعرض أسماء الشركات أو التقنيات أو نتائج سريرية أو تطورات تجارية محددة. لذلك لا يمكن تأكيد وجود استحواذ أو موافقة تنظيمية أو تغيير في السوق، كما لا يمكن استنتاج أثر مباشر على قرارات الأطباء أو رعاية المرضى. قد يكون الموضوع مفيدًا لفهم اتجاهات القطاع عند الاطلاع على المقال الكامل، لكن تقييم أهميته يتطلب تفاصيل عن المنتجات، ومستوى الأدلة، والجهات المعنية. في الوقت الحالي، لا توجد معلومات كافية لتوصية سريرية أو إجراء عملي جديد.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026102003",
+      "title_ar": "ميدترونيك وكارل ستورز تتعاونان لتطوير حلول جراحية متكاملة للأنف والأذن والحنجرة",
+      "title_en": "Medtronic and KARL STORZ Collaborate on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-20",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أعلنت شركتا ميدترونيك وكارل ستورز عن تعاون يركز على حلول جراحية متكاملة في مجال الأنف والأذن والحنجرة. ويشير الخبر إلى شراكة بين الشركتين، لكن المادة المتاحة لا تحدد المنتجات المشمولة أو موعد طرحها أو الشروط التجارية. ولا تتضمن المعلومات المقدمة تفاصيل عن استحواذ أو قرار تنظيمي أو أثر مالي.",
+      "summary_en": "Medtronic and KARL STORZ have announced a collaboration focused on integrated surgical solutions for ear, nose, and throat care. The headline indicates a partnership between the medical technology companies, but the supplied news item does not specify the products, launch timeline, or commercial terms. No acquisition, regulatory decision, or financial details are reported in the information provided.",
+      "practice_change_ar": "قد تتاح لجراحي الأنف والأذن والحنجرة مستقبلاً أجهزة جراحية أكثر تكاملاً، لكن الخبر لا يحدد حتى الآن أي تغيير ملموس في الممارسة الحالية.",
+      "practice_change_en": "ENT surgeons may eventually have access to more integrated surgical equipment, although no specific change to current practice is described yet.",
+      "future_impact_ar": "قد يشير التعاون إلى توجه أوسع نحو أنظمة مترابطة لغرف عمليات الأنف والأذن والحنجرة، وسيعتمد أثره على توافر المنتجات وتوافقها وأدائها السريري.",
+      "future_impact_en": "The collaboration could signal a broader move toward connected ENT operating-room systems, with its impact depending on product availability, interoperability, and clinical performance.",
+      "why_important_ar": "قد يسهم تنسيق التقنيات من موردين راسخين في تبسيط سير العمل الجراحي، لكن الفائدة السريرية غير واضحة إلى أن تُعلن تفاصيل الحل والأدلة الداعمة له.",
+      "why_important_en": "Coordinating technologies from two established suppliers could simplify surgical workflows, but the clinical benefit remains unclear until the solution and supporting evidence are detailed.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "تعاون صناعي قد يهم الأطباء مستقبلاً، لكن التفاصيل والآثار السريرية لم تُعلن في المادة المتاحة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "في أخبار قطاع الأنف والأذن والحنجرة، أعلنت ميدترونيك وكارل ستورز عن تعاون لتطوير حلول جراحية متكاملة. وقد يجمع هذا التعاون تقنيات الشركتين ضمن منظومة أكثر تنسيقاً للاستخدام في جراحة الأنف والأذن والحنجرة. لكن الخبر المتاح لا يحدد المنتجات التي سيشملها التعاون، أو موعد طرحها، أو شروطه التجارية. لذلك لا يمكن حتى الآن تقدير أثره المباشر على خيارات الجراحين أو نتائج المرضى. إذا تحولت الشراكة إلى أدوات متوافقة وسهلة الدمج في غرف العمليات، فقد تساعد على تحسين سير العمل؛ أما إثبات الفائدة السريرية فيتطلب تفاصيل المنتج وبيانات الأداء. سنترقب إعلانات الشركتين لمعرفة ما إذا كان التعاون سيؤدي إلى حلول متاحة فعلياً للأطباء.",
+      "mcq": []
+    }
+  ]
+}
