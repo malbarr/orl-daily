@@ -1,0 +1,589 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T08:39:45Z",
+  "articles": [
+    {
+      "pmid": "42897248",
+      "title_ar": "Quantifying Facial Rejuvenation after Deep Plane Facelift Using Convolutional Neural Network-Based Age Estimation: Correlation with Patient-Reported Outcomes on the FACE-Q Aesthetic Module.",
+      "title_en": "Quantifying Facial Rejuvenation after Deep Plane Facelift Using Convolutional Neural Network-Based Age Estimation: Correlation with Patient-Reported Outcomes on the FACE-Q Aesthetic Module.",
+      "journal": "Aesthetic plastic surgery",
+      "pub_date": "2026-Oct-19",
+      "doi": "10.1007/s00266-026-06374-1",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42897248/",
+      "pdf_url": null,
+      "study_design": "Retrospective cross-sectional study, n=72",
+      "summary_ar": "درست هذه الدراسة 72 مريضة خضعن لـ deep plane face and neck lift بين 2020 و2024، واستخدمت خمس منصات CNN لتقدير العمر من الصور القياسية. بلغ متوسط الانخفاض المركب المقدّر في العمر 7.64 ± 3.44 سنوات، أو 15.67 ± 6.76%، ولم تكن الفروق بين المنصات ذات دلالة إحصائية (Friedman test، p-value=0.056). عند متابعة 12 شهرًا، ارتبط الانخفاض الذي أبلغت عنه المريضات بقوة مع facial appearance (ρ=0.61)، وoutcomes (ρ=0.54)، وpsychological well-being (ρ=0.44). في المقابل، كانت ارتباطات AI-estimated rejuvenation أضعف، ولم يبلغ الدلالة إلا ارتباطه بـ early life impact (ρ=0.25، p-value=0.034). تشير النتائج إلى أن تقدير العمر بواسطة CNN ونتائج FACE-Q يصفان جوانب متكاملة، لا بدائل متطابقة، لنتائج الجراحة. ولا تثبت الدراسة أن قياس AI يحسن اختيار المريضات أو قرارات العلاج.",
+      "summary_en": "This retrospective cross-sectional study included 72 women who underwent deep plane face and neck lift between 2020 and 2024.\nFive publicly available CNN platforms estimated age from standardized photographs.\nThe composite estimated age reduction was 7.64 ± 3.44 years (15.67 ± 6.76%), with no significant differences between platforms (Friedman test, p=0.056).\nAt 12 months, patient-reported age reduction correlated with facial appearance (ρ=0.61), outcomes (ρ=0.54), and psychological well-being (ρ=0.44).\nAI-estimated rejuvenation had weaker associations, with only early life impact reaching statistical significance (ρ=0.25, p=0.034).\nThe measures may capture complementary outcome dimensions, but the study does not show that AI estimation improves clinical decisions.",
+      "practice_change_ar": "لا تستدعي النتائج تغيير الممارسة حاليًا، لكنها تدعم استخدام تقدير CNN كأداة قياس بحثية مكملة إلى جانب FACE-Q لا كبديل عن تقييم المريضات.",
+      "practice_change_en": "These findings do not warrant a practice change today, but support CNN age estimation as a research measure alongside, not instead of, FACE-Q patient assessment.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية متعددة المراكز على التحقق من ثبات تقدير CNN وربطه بنتائج جمالية ووظيفية يهمّ المريضات.",
+      "future_impact_en": "Future multicenter studies could validate the consistency of CNN estimates and relate them to aesthetic and functional outcomes that matter to patients.",
+      "why_important_ar": "توضح الدراسة أن التغير الذي تتنبأ به خوارزميات العمر لا يعكس بالضرورة مقدار التحسن الذي تشعر به المريضة.",
+      "why_important_en": "The study shows that age changes estimated by algorithms do not necessarily reflect the improvement perceived by patients.",
+      "vs_previous_ar": "تضيف الدراسة مقارنة كمية بين خمس منصات CNN ونتائج FACE-Q، بينما لا تزال النتائج المبلّغ عنها من المريضات المقياس الأكثر ارتباطًا بتجربتهن.",
+      "vs_previous_en": "The study adds a quantitative comparison of five CNN platforms with FACE-Q outcomes, while patient-reported measures remain more closely related to patients’ experience.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة retrospective cross-sectional متوسطة الحجم (n=72) تقدم تطبيقًا مبتكرًا لـ CNN، لكن ارتباط تقدير AI بنتائج المريضات محدود ولا يغير التدبير السريري؛ لذا فهي مفيدة للمعرفة لا للممارسة الفورية.",
+      "stars_reason_en": "This moderate-sized retrospective cross-sectional study (n=72) offers a novel CNN application, but AI estimates correlate only weakly with patient-reported outcomes and do not change clinical management; it is useful to know rather than practice-changing.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق النقاش لمقارنتها بين مقاييس AI وFACE-Q، ولأن محدودية الارتباط تثير أسئلة حول صلاحية تقدير العمر كبديل عن النتائج التي تهم المريضات.",
+      "jc_reason_en": "It merits discussion for comparing AI measures with FACE-Q and for raising questions about whether estimated age is a valid proxy for outcomes that matter to patients.",
+      "watch": true,
+      "watch_detail_ar": "ينبغي متابعة أدوات CNN لتقدير العمر من الصور لمعرفة مدى ثباتها ودقتها قبل اعتمادها كمقاييس نتائج سريرية.",
+      "watch_detail_en": "Track CNN photo-based age-estimation tools for their consistency and accuracy before considering them validated clinical outcome measures.",
+      "watch_type": "technology",
+      "research_gap_ar": "يلزم إجراء دراسات مستقبلية متعددة المراكز مع صور موحدة ومقاييس مُتحقق منها لتحديد دقة CNN وتعميم النتائج عبر الأعمار وأنواع البشرة وإجراءات الوجه المختلفة.",
+      "research_gap_en": "Prospective multicenter studies using standardized photographs and validated measures are needed to establish CNN accuracy and generalizability across ages, skin types, and facial procedures.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "تتناول هذه الدراسة استخدام الذكاء الاصطناعي لقياس التغير الظاهري بعد deep plane face and neck lift، ومقارنة هذا التقدير بما أبلغت عنه المريضات في FACE-Q. شملت الدراسة 72 مريضة خضعن للجراحة بين عامي 2020 و2024. حلل الباحثون صورًا قياسية باستخدام خمس منصات CNN متاحة للعامة، ثم حسبوا مقياسًا مركبًا للانخفاض المقدّر في العمر. جُمعت إجابات FACE-Q عند متابعة 12 شهرًا.\n\nكان متوسط الانخفاض المقدّر في العمر 7.64 سنوات، مع انحراف معياري قدره 3.44 سنوات، أي ما يعادل نحو 15.67 بالمئة. لم تصل الفروق بين المنصات الخمس إلى الدلالة الإحصائية، إذ بلغ p-value في Friedman test مقدار 0.056. وهذا يشير إلى تقارب تقديراتها في هذه العينة، لكنه لا يثبت وحده دقتها أو صلاحيتها السريرية.\n\nالأهم أن الانخفاض في العمر كما أدركته المريضات ارتبط بقوة أكبر بتقييم facial appearance، وoutcomes، وpsychological well-being. أما تقديرات AI فكان ارتباطها أضعف، ولم يظهر ارتباط ذو دلالة إلا مع early life impact، وكان ρ يساوي 0.25. لذلك لا ينبغي تفسير العمر الذي تتنبأ به الخوارزمية على أنه بديل عن رضا المريضة أو تجربتها.\n\nسريريًا، لا تبرر هذه النتائج تغيير الممارسة أو استخدام تقديرات CNN لاتخاذ قرارات العلاج. القيمة الحالية للأداة بحثية، وقد تكون مكملة للتصوير ومقاييس FACE-Q، لا بديلة عنها. تستحق الدراسة نقاش journal club لأنها تبرز الفارق بين قياس بصري آلي ونتيجة يقيّمها المريض. ومن نقاط القوة مقارنة خمس منصات ووجود متابعة لمدة 12 شهرًا؛ أما القيود فتشمل التصميم retrospective cross-sectional، واقتصار العينة على نساء خضعن لإجراء واحد، وعدم إثبات قابلية التعميم أو أثر الأداة على القرارات.\n\nالخلاصة: AI-based age estimation تقنية جديرة بالمتابعة، لكن تقييم النتائج الجمالية يجب أن يظل متعدد الأبعاد ومتمحورًا حول المريضة. تحتاج الخطوة التالية إلى دراسات مستقبلية متعددة المراكز، وصور موحدة، واختبارات دقة على مجموعات سكانية وإجراءات مختلفة، مع التحقق من ارتباط هذه المقاييس بنتائج تهم المريضات.",
+      "audio_script_en": "This study examines whether artificial intelligence can quantify apparent rejuvenation after deep plane face and neck lift, and whether its estimates correspond to what patients report on the FACE-Q Aesthetic Module. It included 72 women who underwent surgery between 2020 and 2024. Standardized photographs were analyzed using five publicly available CNN platforms, and the researchers combined model estimates into a composite age-reduction measure. FACE-Q outcomes were collected at 12 months.\n\nThe composite estimated age reduction was 7.64 years, with a standard deviation of 3.44 years, or approximately 15.67 percent. Differences among the five platforms did not reach statistical significance: the Friedman test p-value was 0.056. This suggests broadly similar estimates in this sample, but does not by itself establish accuracy or clinical validity.\n\nThe key finding is that patient-perceived age reduction was more strongly associated with ratings of facial appearance, outcomes, and psychological well-being. AI-estimated rejuvenation had weaker associations; only its relationship with early life impact was statistically significant, with a correlation of 0.25. An algorithm’s age estimate should therefore not be treated as a substitute for patient satisfaction or experience.\n\nFor clinical practice, the findings do not justify changing management or using CNN estimates to guide treatment decisions. At present, this technology is best regarded as a research measure that might complement standardized photography and FACE-Q, rather than replace them. The paper is a useful journal-club topic because it highlights the difference between automated visual measurement and patient-reported outcomes. Strengths include comparing five platforms and a 12-month assessment. Limitations include the retrospective cross-sectional design, a sample restricted to women undergoing one procedure, and the lack of evidence that the tool generalizes or changes decisions.\n\nIn summary, AI-based age estimation is worth tracking, but aesthetic outcomes should continue to be evaluated in a multidimensional, patient-centered way. Future multicenter studies should use standardized photographs, test accuracy across populations and procedures, and determine whether these measures correspond to outcomes patients value.",
+      "mcq": [
+        {
+          "q_ar": "ما متوسط الانخفاض المركب في العمر الذي قدّرته نماذج CNN؟",
+          "q_en": "What was the mean composite age reduction estimated by the CNN models?",
+          "options_ar": [
+            "أ) 2.1 ± 1.0 سنوات",
+            "ب) 7.64 ± 3.44 سنوات",
+            "ج) 15.67 ± 6.76 سنوات",
+            "د) 20.0 ± 4.5 سنوات"
+          ],
+          "options_en": [
+            "A) 2.1 ± 1.0 years",
+            "B) 7.64 ± 3.44 years",
+            "C) 15.67 ± 6.76 years",
+            "D) 20.0 ± 4.5 years"
+          ],
+          "answer": 1,
+          "explanation_ar": "بلغ متوسط الانخفاض المركب المقدّر 7.64 ± 3.44 سنوات؛ أما 15.67 ± 6.76 فهي النسبة المئوية للانخفاض.",
+          "explanation_en": "The mean composite estimated reduction was 7.64 ± 3.44 years; 15.67 ± 6.76 was the percentage reduction."
+        },
+        {
+          "q_ar": "أي نتيجة أظهرت أقوى ارتباط مع الانخفاض في العمر كما أبلغت عنه المريضات؟",
+          "q_en": "Which outcome showed the strongest association with patient-perceived age reduction?",
+          "options_ar": [
+            "أ) facial appearance",
+            "ب) psychological well-being",
+            "ج) early life impact",
+            "د) تقدير CNN المركب"
+          ],
+          "options_en": [
+            "A) Facial appearance",
+            "B) Psychological well-being",
+            "C) Early life impact",
+            "D) Composite CNN estimate"
+          ],
+          "answer": 0,
+          "explanation_ar": "كان الارتباط الأقوى مع facial appearance (ρ=0.61)، مقارنةً بـ psychological well-being (ρ=0.44).",
+          "explanation_en": "The strongest association was with facial appearance (ρ=0.61), compared with psychological well-being (ρ=0.44)."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب لتطبيق تقديرات CNN في الممارسة؟",
+          "q_en": "What is the most appropriate conclusion about applying CNN estimates in practice?",
+          "options_ar": [
+            "أ) ينبغي أن تحل محل FACE-Q في تقييم النتائج",
+            "ب) تثبت أن الجراحة تحسن psychological well-being لدى جميع المريضات",
+            "ج) قد تكون مقياسًا مكملًا، لكن الدراسة لا تبرر تغيير الممارسة",
+            "د) لا توجد علاقة بين أي مقياس ونتائج المريضات"
+          ],
+          "options_en": [
+            "A) They should replace FACE-Q for outcome assessment",
+            "B) They prove surgery improves psychological well-being in every patient",
+            "C) They may be a complementary measure, but the study does not justify a practice change",
+            "D) No measure was associated with patient outcomes"
+          ],
+          "answer": 2,
+          "explanation_ar": "ارتبط تقدير AI ارتباطًا أضعف بنتائج المريضات، لذا يمكن اعتباره مقياسًا مكملًا، ولا تثبت الدراسة منفعة سريرية تبرر تغيير الممارسة.",
+          "explanation_en": "AI estimates had weaker associations with patient outcomes, so they may be complementary; the study does not demonstrate clinical benefit sufficient to change practice."
+        }
+      ]
+    },
+    {
+      "pmid": "42900199",
+      "title_ar": "Efficacy and safety of middle turbinate resection versus preservation during endoscopic sinus surgery in patients with chronic rhinosinusitis: a systematic review and meta-analysis.",
+      "title_en": "Efficacy and safety of middle turbinate resection versus preservation during endoscopic sinus surgery in patients with chronic rhinosinusitis: a systematic review and meta-analysis.",
+      "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+      "pub_date": "2026-Oct-20",
+      "doi": "10.1007/s00405-026-10608-y",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42900199/",
+      "pdf_url": null,
+      "study_design": "Systematic review and meta-analysis of 31 studies",
+      "summary_ar": "جمعت هذه systematic review وmeta-analysis نتائج 31 دراسة قارنت middle turbinate resection مع preservation أثناء ESS لدى مرضى CRS. ارتبطت resection بتحسن محدود في Lund-Kennedy endoscopic score، من دون فرق مهم في SNOT أو olfaction أو POSE scores. انخفضت synechiae وsinus ostium restenosis مع resection، كما انخفضت lateralization وpolyp recurrence. في المقابل، ارتفع postoperative bleeding، ولم يظهر فرق مهم في crustation أو middle meatal antrostomy patency. تشير النتائج إلى مكاسب في بعض مخرجات healing وpatency، لكنها لا تثبت تفوقًا مستمرًا في الأعراض التي يبلغ عنها المرضى.",
+      "summary_en": "This systematic review and meta-analysis included 31 studies comparing middle turbinate resection with preservation during ESS for CRS.\nResection modestly improved Lund-Kennedy endoscopic scores, but did not significantly improve SNOT symptoms, olfaction, or POSE scores.\nIt was associated with fewer synechiae and cases of sinus ostium restenosis.\nLateralization and polyp recurrence were also lower with resection.\nPostoperative bleeding was more frequent after resection, while crustation and middle meatal antrostomy patency did not differ significantly.\nOverall, the findings favor individualized management rather than routine resection.",
+      "practice_change_ar": "لا تدعم النتائج إجراء middle turbinate resection بشكل روتيني، لذا ينبغي اختيار resection أو preservation وفق anatomy والمخاطر الفردية، مع مراعاة زيادة postoperative bleeding.",
+      "practice_change_en": "The findings do not support routine middle turbinate resection; choose resection or preservation according to individual anatomy and risks, including the increased risk of postoperative bleeding.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية عالية الجودة ومحددة حسب phenotype وanatomy على توضيح المرضى الأكثر استفادة من resection.",
+      "future_impact_en": "Future high-quality studies stratified by phenotype and anatomy may clarify which patients benefit most from resection.",
+      "why_important_ar": "توازن هذه المراجعة بين تحسن بعض مخرجات endoscopy وpatency وبين غياب فائدة واضحة في الأعراض وزيادة bleeding.",
+      "why_important_en": "This review weighs improvements in some endoscopic and patency outcomes against the lack of clear symptom benefit and increased bleeding.",
+      "vs_previous_ar": "تضيف المراجعة تقديرًا مجمعًا لمقارنة ما زالت محل خلاف، وتبرز أن فوائد resection الإجرائية لا تعني بالضرورة تحسنًا محسوسًا في الأعراض.",
+      "vs_previous_en": "The review provides pooled estimates for a debated comparison and highlights that procedural benefits of resection do not necessarily translate into better patient-reported symptoms.",
+      "stars": 3,
+      "stars_reason_ar": "هذه systematic review وmeta-analysis قوية التصميم وتضم 31 دراسة، لكنها لا تثبت فائدة متسقة في الأعراض ولا تغير الممارسة إلى resection روتيني؛ لذا تقدم معرفة مفيدة لا ممارسة جديدة.",
+      "stars_reason_en": "This systematic review and meta-analysis has a strong design and includes 31 studies, but it shows no consistent symptom benefit and does not justify routine resection; it adds useful knowledge rather than changing practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "موضوع خلافي ذو صلة مباشرة بقرارات ESS، والنتائج المتباينة بين endoscopic outcomes والأعراض والمخاطر تستحق مناقشة جودة الدراسات وقابلية تعميمها.",
+      "jc_reason_en": "This is a directly relevant, debated ESS decision, and the mixed endoscopic, symptom, and safety findings merit discussion of study quality and generalizability.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى تجارب مستقبلية موحدة تقارن الاستراتيجيتين مع stratification بحسب CRS phenotype وextent of surgery، وتتابع bleeding وpatient-reported outcomes طويلًا.",
+      "research_gap_en": "Standardized prospective trials are needed to compare the strategies, stratify by CRS phenotype and extent of surgery, and follow bleeding and patient-reported outcomes over the long term.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نناقش اليوم systematic review وmeta-analysis تقارن بين middle turbinate resection وpreservation أثناء ESS لعلاج CRS. شملت المراجعة 31 دراسة، بعد فرز آلاف السجلات، وقارنت النتائج التشريحية والوظيفية والمضاعفات بعد الجراحة.\n\nالنتيجة الأساسية هي أن resection حسّنت Lund-Kennedy endoscopic score بدرجة محدودة، لكنها لم تحقق فرقًا مهمًا في SNOT، أي الأعراض التي يبلغ عنها المرضى. كذلك لم تظهر فروق مهمة في olfaction أو POSE scores. في المقابل، ارتبطت resection بانخفاض synechiae وsinus ostium restenosis، وكذلك lateralization وpolyp recurrence. لكن postoperative bleeding كان أعلى، ولم تختلف crustation أو middle meatal antrostomy patency بشكل مهم.\n\nما الذي يعنيه ذلك في العيادة؟ لا تبرر النتائج استئصال middle turbinate بصورة روتينية لكل مريض. قد تكون resection خيارًا في حالات مختارة عندما تكون patency أو الوصول الجراحي موضع قلق، لكن ينبغي موازنة ذلك مع خطر bleeding والحفاظ على anatomy. القرار الأفضل يظل فرديًا ويعتمد على anatomy والمخاطر والسياق الجراحي.\n\nتستحق المقالة النقاش في journal club لأن السؤال شائع ومثار للجدل، ولأن التحسن في مخرجات endoscopy لا يترافق بالضرورة مع فائدة يشعر بها المريض. كما أن الاستنتاجات تعتمد على الدراسات المشمولة، ولا توضح الملخصات تفاصيل كافية عن اختلاف طرق الجراحة أو خصائص المرضى. نحتاج إلى دراسات مستقبلية موحدة، مع stratification بحسب CRS phenotype وextent of surgery، وقياس طويل الأمد للأعراض والوظيفة والمضاعفات. الخلاصة العملية: لا تغيير جذري في الممارسة اليوم؛ استخدموا resection أو preservation وفق حالة المريض، لا كقاعدة عامة.",
+      "audio_script_en": "Today’s paper is a systematic review and meta-analysis comparing middle turbinate resection with preservation during ESS for CRS. It included 31 studies and evaluated postoperative endoscopic findings, symptoms, and complications.\n\nResection produced a modest improvement in Lund-Kennedy endoscopic scores, but there was no significant difference in SNOT symptom scores. Olfaction and POSE scores also did not differ significantly. Resection was associated with fewer synechiae and cases of sinus ostium restenosis, as well as less lateralization and polyp recurrence. The trade-off was more postoperative bleeding. Crustation and middle meatal antrostomy patency were not significantly different.\n\nFor practice, these results do not support routine middle turbinate resection in every patient. Resection may be reasonable in selected cases where access or patency is a particular concern, but clinicians should weigh those potential benefits against bleeding risk and the value of preserving anatomy. Individualized decision-making remains appropriate.\n\nThis is a useful journal-club paper because it addresses a common and controversial surgical choice. It also illustrates that better endoscopic findings do not necessarily mean better patient-reported symptoms. Interpretation depends on the included studies, and the abstract does not provide enough detail to assess variation in surgical methods or patient characteristics. Future standardized prospective studies should stratify patients by CRS phenotype and extent of surgery, and measure long-term symptoms, function, and complications. The practical takeaway is not a wholesale change in practice: choose resection or preservation based on the patient and operative context rather than applying a routine rule.",
+      "mcq": [
+        {
+          "q_ar": "ما النتيجة التي لم تتحسن بشكل مهم مع middle turbinate resection مقارنةً بـ preservation؟",
+          "q_en": "Which outcome did not improve significantly with middle turbinate resection compared with preservation?",
+          "options_ar": [
+            "أ) synechiae",
+            "ب) sinus ostium restenosis",
+            "ج) SNOT symptoms",
+            "د) lateralization"
+          ],
+          "options_en": [
+            "A) Synechiae",
+            "B) Sinus ostium restenosis",
+            "C) SNOT symptoms",
+            "D) Lateralization"
+          ],
+          "answer": 2,
+          "explanation_ar": "لم يظهر فرق مهم في SNOT، رغم انخفاض بعض المضاعفات وتحسن Lund-Kennedy endoscopic score مع resection.",
+          "explanation_en": "SNOT scores did not differ significantly, despite fewer certain complications and improved Lund-Kennedy endoscopic scores with resection."
+        },
+        {
+          "q_ar": "ما الخطر الذي ارتفع مع middle turbinate resection؟",
+          "q_en": "Which risk increased with middle turbinate resection?",
+          "options_ar": [
+            "أ) postoperative bleeding",
+            "ب) sinus ostium restenosis",
+            "ج) synechiae",
+            "د) polyp recurrence"
+          ],
+          "options_en": [
+            "A) Postoperative bleeding",
+            "B) Sinus ostium restenosis",
+            "C) Synechiae",
+            "D) Polyp recurrence"
+          ],
+          "answer": 0,
+          "explanation_ar": "ارتبطت resection بزيادة postoperative bleeding، بينما كانت synechiae وsinus ostium restenosis وpolyp recurrence أقل.",
+          "explanation_en": "Resection was associated with more postoperative bleeding, while synechiae, sinus ostium restenosis, and polyp recurrence were lower."
+        },
+        {
+          "q_ar": "ما التوجه العملي الأنسب بناءً على هذه المراجعة؟",
+          "q_en": "What is the most appropriate practice approach based on this review?",
+          "options_ar": [
+            "أ) إجراء resection روتينيًا لكل مرضى CRS",
+            "ب) تجنب resection في جميع الحالات",
+            "ج) اختيار resection أو preservation وفق anatomy والمخاطر الفردية",
+            "د) اتخاذ القرار اعتمادًا على olfaction وحده"
+          ],
+          "options_en": [
+            "A) Perform routine resection in all patients with CRS",
+            "B) Avoid resection in all cases",
+            "C) Choose resection or preservation based on individual anatomy and risks",
+            "D) Make the decision based on olfaction alone"
+          ],
+          "answer": 2,
+          "explanation_ar": "لا تدعم النتائج resection روتينيًا أو منعها مطلقًا؛ الأفضل تفصيل القرار بحسب الحالة وموازنة فوائد patency مع خطر bleeding.",
+          "explanation_en": "The findings support neither routine resection nor universal avoidance; tailor the decision to the case and balance patency-related benefits against bleeding risk."
+        }
+      ]
+    },
+    {
+      "pmid": "42898972",
+      "title_ar": "Stratified Therapeutic Evaluation of Presbyphonia Based on Degree of Vocal Fold Atrophy: Efficacy and Prognostic Differences of Semi-Occluded Vocal Tract Training Across Different Stages.",
+      "title_en": "Stratified Therapeutic Evaluation of Presbyphonia Based on Degree of Vocal Fold Atrophy: Efficacy and Prognostic Differences of Semi-Occluded Vocal Tract Training Across Different Stages.",
+      "journal": "Laryngoscope investigative otolaryngology",
+      "pub_date": "2026-Oct",
+      "doi": "10.1002/lio2.70597",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42898972/",
+      "pdf_url": "https://doi.org/10.1002/lio2.70597",
+      "study_design": "Prospective single-center cohort n=180",
+      "summary_ar": "قيّمت هذه الدراسة prospective cohort أثر SOVT training لدى 180 مريضًا لديهم presbyphonia، مع تصنيفهم إلى مجموعات mild وmoderate وsevere بحسب درجة vocal fold atrophy ومتابعتهم لمدة 8 أسابيع. تحسنت درجات VHI-10 وMPT وCPP، كما تحسنت مقاييس jitter وshimmer وPPQ وAPQ وNHR، مع دلالة إحصائية لجميع هذه التغيرات. كان هناك تفاعل معنوي بين الزمن وشدة atrophy بالنسبة إلى VHI-10، وسجلت مجموعة moderate أكبر تحسن. حقق 68.9% من المشاركين MCID، وحدد LCGA ثلاثة مسارات للاستجابة، مع ميل حالات moderate إلى تحسن سريع أو مستدام. تشير النتائج إلى أن الاستجابة لـSOVT training قد تختلف حسب شدة atrophy، لكنها لا تثبت أن التدريب أفضل من تدخل آخر لغياب مجموعة مقارنة. وقد تساعد النتائج في توجيه التوقعات السريرية، مع الحاجة إلى دراسات مضبوطة ومتابعة أطول لتأكيد «النافذة العلاجية» المقترحة.",
+      "summary_en": "This prospective cohort evaluated SOVT training in 180 patients with presbyphonia, stratified by mild, moderate, or severe vocal fold atrophy and followed for 8 weeks.\nVHI-10, MPT, and CPP improved significantly, as did jitter, shimmer, PPQ, APQ, and NHR.\nA significant time-by-severity interaction was observed for VHI-10, with the moderate group showing the greatest improvement.\nOverall, 68.9% achieved the MCID; LCGA identified three response trajectories, with moderate cases more often improving rapidly or sustainably.\nThe findings suggest that response may vary with atrophy severity, but the uncontrolled design cannot establish comparative efficacy.\nControlled studies and longer follow-up are needed to verify the proposed therapeutic window and response patterns.",
+      "practice_change_ar": "يمكن تقديم SOVT training كخيار لإعادة التأهيل الصوتي لدى مرضى presbyphonia، مع توضيح أن درجة التحسن المتوقعة قد تختلف بحسب شدة vocal fold atrophy.",
+      "practice_change_en": "SOVT training can be offered as a voice rehabilitation option for presbyphonia, while counseling patients that expected improvement may differ by vocal fold atrophy severity.",
+      "future_impact_ar": "قد تدعم دراسات مضبوطة مستقبلية استخدام شدة vocal fold atrophy ومسارات الاستجابة لتخصيص خطط voice rehabilitation.",
+      "future_impact_en": "Future controlled studies may support using vocal fold atrophy severity and response trajectories to individualize voice rehabilitation.",
+      "why_important_ar": "توضح الدراسة أن نتائج SOVT training قد تتباين بين درجات atrophy، وأن مجموعة moderate حققت أكبر تحسن في VHI-10.",
+      "why_important_en": "The study suggests that SOVT training outcomes may vary by atrophy severity, with the moderate group showing the greatest VHI-10 improvement.",
+      "vs_previous_ar": "تضيف الدراسة تحليلًا طبقيًا حسب شدة vocal fold atrophy ومسارات الاستجابة إلى معرفة فاعلية SOVT training، لكنها لا تقارن التدريب بعلاج بديل أو بمجموعة ضابطة.",
+      "vs_previous_en": "The study adds severity-stratified and response-trajectory analyses to the evidence on SOVT training, but does not compare it with an alternative treatment or control group.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة prospective cohort جيدة الحجم (n=180) وتقدم معلومات مفيدة عن اختلاف الاستجابة حسب شدة atrophy، لكن غياب مجموعة ضابطة ومركزية الدراسة يحدان من قوة الاستنتاجات؛ لذا تستحق 3 نجوم.",
+      "stars_reason_en": "This sizable prospective cohort (n=180) offers useful information on response by atrophy severity, but the lack of a control group and single-center design limit inference; therefore, it merits 3 stars.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق الدراسة النقاش لأنها تربط شدة vocal fold atrophy بمقدار التحسن وتستخدم LCGA، مع ضرورة مناقشة غياب المقارنة العلاجية ومحدودية المتابعة.",
+      "jc_reason_en": "This study merits discussion for linking vocal fold atrophy severity with improvement and applying LCGA, while also prompting consideration of the absent comparator and short follow-up.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى دراسة متعددة المراكز ذات مجموعة مقارنة وتقييم طويل الأمد لتحديد ما إذا كان SOVT training يحقق فائدة إضافية، ولتأكيد اختلاف الاستجابة بين درجات atrophy.",
+      "research_gap_en": "A multicenter study with a comparator and longer follow-up is needed to establish the added benefit of SOVT training and confirm response differences across atrophy severities.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نراجع اليوم دراسة عن presbyphonia، وهي حالة ترتبط بالتقدم في العمر وتغيرات الصوت، وتركز على ما إذا كانت درجة vocal fold atrophy ترتبط بالاستجابة إلى SOVT training.\n\nشملت الدراسة prospective cohort أحادية المركز 180 مريضًا، صُنّفوا إلى مجموعات mild وmoderate وsevere بحسب شدة atrophy. تلقى الجميع برنامج SOVT training موحدًا، وأُجريت القياسات عند البداية، ثم في الأسبوع الرابع والثامن. كان المقياس الأساسي هو VHI-10، وشملت النتائج الأخرى GRBAS وMPT وCPP ومقاييس acoustic perturbation والضوضاء، إضافة إلى glottal gap score.\n\nتحسنت درجات VHI-10 وMPT وCPP مع الوقت، كما تحسنت jitter وshimmer وPPQ وAPQ وNHR. وكان التفاعل بين الزمن وشدة atrophy ذا دلالة بالنسبة إلى VHI-10؛ إذ أظهرت مجموعة moderate أكبر تحسن. وصل 68.9% من المشاركين إلى MCID. وباستخدام LCGA، حدد الباحثون ثلاثة مسارات للاستجابة، وكانت حالات moderate أكثر ميلًا إلى التحسن السريع أو المستدام.\n\nالرسالة السريرية هي أن SOVT training خيار تأهيلي يمكن أخذه بالاعتبار لدى مرضى presbyphonia، وأن شدة atrophy قد تساعد في ضبط توقعات المريض ومناقشة احتمال الاستجابة. لكن لا ينبغي اعتبار النتائج دليلًا على أن الحالات moderate هي حتمًا «النافذة العلاجية» المثلى؛ فالدراسة لم تتضمن مجموعة ضابطة أو مقارنة بعلاج آخر، وكانت المتابعة ثمانية أسابيع فقط. كما أن الدراسة أُجريت في مركز واحد، ما يحد من تعميم النتائج.\n\nلذلك، هذه إضافة مفيدة وليست تغييرًا للممارسة بحد ذاتها. ستحتاج الخطوة التالية إلى دراسة مضبوطة متعددة المراكز، مع متابعة أطول، وقياس واضح للالتزام بالتدريب والنتائج التي تهم المرضى. وتستحق الورقة نقاشًا في journal club بسبب تحليلها الطبقي واستخدامها LCGA، وبسبب الحاجة إلى تقييم مدى موثوقية المسارات المقترحة قبل استخدامها لتخصيص العلاج.",
+      "audio_script_en": "Today’s article examines whether the degree of vocal fold atrophy predicts response to SOVT training in patients with presbyphonia.\n\nThis single-center prospective cohort included 180 patients, stratified into mild, moderate, and severe atrophy groups. Everyone received standardized SOVT training and was followed for eight weeks. The primary outcome was VHI-10, with additional assessments including GRBAS, MPT, CPP, acoustic perturbation and noise measures, and glottal gap score. Measurements were taken at baseline and at weeks four and eight.\n\nThe investigators reported improvements over time in VHI-10, MPT, and CPP, as well as jitter, shimmer, PPQ, APQ, and NHR. For VHI-10, there was a significant interaction between time and severity: the moderate group had the greatest improvement. Overall, 68.9% of participants reached the MCID. LCGA identified three response trajectories, and moderate cases were more likely to show rapid or sustained improvement.\n\nFor clinicians, the findings support considering SOVT training as a rehabilitation option for presbyphonia. They also suggest that atrophy severity could be useful when discussing likely outcomes. However, the results do not establish that moderate atrophy is definitively an optimal therapeutic window. There was no control group or alternative-treatment comparison, follow-up lasted only eight weeks, and the single-center design may limit generalizability.\n\nThis is useful evidence, but it does not by itself warrant a change in standard practice. A multicenter controlled study with longer follow-up would help determine the treatment’s comparative benefit and whether the observed response trajectories are reproducible. It would also be useful to assess adherence and outcomes that matter directly to patients. The article is appropriate for journal club because its stratified analysis and use of LCGA raise interesting questions about individualized rehabilitation, while its design calls for careful interpretation.",
+      "mcq": [
+        {
+          "q_ar": "ما المقياس الأساسي للنتيجة في هذه الدراسة؟",
+          "q_en": "What was the primary outcome in this study?",
+          "options_ar": [
+            "أ) GRBAS",
+            "ب) VHI-10",
+            "ج) MPT",
+            "د) glottal gap score"
+          ],
+          "options_en": [
+            "A) GRBAS",
+            "B) VHI-10",
+            "C) MPT",
+            "D) Glottal gap score"
+          ],
+          "answer": 1,
+          "explanation_ar": "حددت الدراسة التغير في VHI-10 بوصفه النتيجة الأساسية، بينما كانت القياسات الأخرى نتائج ثانوية.",
+          "explanation_en": "The study designated change in VHI-10 as the primary outcome; the other listed measures were secondary outcomes."
+        },
+        {
+          "q_ar": "أي مجموعة أظهرت أكبر تحسن في VHI-10؟",
+          "q_en": "Which group showed the greatest improvement in VHI-10?",
+          "options_ar": [
+            "أ) مجموعة mild",
+            "ب) مجموعة moderate",
+            "ج) مجموعة severe",
+            "د) لم يختلف التحسن بين المجموعات"
+          ],
+          "options_en": [
+            "A) The mild group",
+            "B) The moderate group",
+            "C) The severe group",
+            "D) Improvement did not differ across groups"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت مجموعة moderate أكبر تحسن في VHI-10، مع وجود تفاعل معنوي بين الزمن وشدة atrophy.",
+          "explanation_en": "The moderate group had the greatest VHI-10 improvement, with a significant interaction between time and atrophy severity."
+        },
+        {
+          "q_ar": "ما أهم قيد منهجي عند تفسير فاعلية SOVT training في هذه الدراسة؟",
+          "q_en": "What is the main design limitation when interpreting the efficacy of SOVT training in this study?",
+          "options_ar": [
+            "أ) عدد المشاركين أقل من 10",
+            "ب) عدم وجود مجموعة ضابطة أو مقارنة بعلاج بديل",
+            "ج) اقتصار الدراسة على بيانات حيوانية",
+            "د) عدم قياس أي نتائج صوتية"
+          ],
+          "options_en": [
+            "A) The sample included fewer than 10 participants",
+            "B) There was no control group or alternative-treatment comparison",
+            "C) The study used only animal data",
+            "D) No voice outcomes were measured"
+          ],
+          "answer": 1,
+          "explanation_ar": "تلقى جميع المشاركين SOVT training ولم توجد مجموعة مقارنة؛ لذلك لا يمكن عزل أثر التدريب أو إثبات تفوقه على علاج آخر.",
+          "explanation_en": "All participants received SOVT training and there was no comparator, so the study cannot isolate the training effect or show superiority over another treatment."
+        }
+      ]
+    },
+    {
+      "pmid": "40927877",
+      "title_ar": "Characteristics and Risk Factors of Pollen-Food Allergy Syndrome in Patients With Hay Fever: A Digital Cross-Sectional Cohort Study Using AllerSearch.",
+      "title_en": "Characteristics and Risk Factors of Pollen-Food Allergy Syndrome in Patients With Hay Fever: A Digital Cross-Sectional Cohort Study Using AllerSearch.",
+      "journal": "Journal of investigational allergology & clinical immunology",
+      "pub_date": "2026-Oct-20",
+      "doi": "10.18176/jiaci.1101",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40927877/",
+      "pdf_url": "https://www.jiaci.org/revistas/doi10.18176_jiaci.1101-supplementarymaterial.pdf",
+      "study_design": "Digital cross-sectional cohort study, Japan, n=2874",
+      "summary_ar": "درست هذه الدراسة اليابانية المقطعية باستخدام منصة AllerSearch خصائص وعوامل الخطورة المرتبطة بـ pollen-food allergy syndrome (PFAS) لدى أشخاص أبلغوا عن hay fever. شملت العينة 2874 مشاركًا، منهم 2352 لديهم hay fever، وذكر الملخص أن 1788 مشاركًا لديهم PFAS بنسبة 23.9%؛ إلا أن العدد والنسبة المئوية لا يتوافقان حسابيًا، ما يستدعي الحذر في تفسير الانتشار. كانت أكثر الأطعمة المحفزة المبلغ عنها melon وkiwi وtomato. ارتبط PFAS بتاريخ allergic disease وasthma وatopic dermatitis وurticaria وdrug allergy، كما ارتبط بالتوقف عن استخدام contact lens خلال موسم hay fever والحساسية تجاه yellow sand أو particulate matter 2.5. حدد تحليل clustering سبع مجموعات من أنماط التحسس، وارتبطت بعض المجموعات ببداية hay fever في عمر أبكر. تشير النتائج إلى عوامل قد تساعد على توجيه التقييم، لكنها قائمة على بيانات ذاتية الإبلاغ وتصميم مقطعي لا يثبت السببية.",
+      "summary_en": "This Japanese digital cross-sectional study used AllerSearch to characterize pollen-food allergy syndrome (PFAS) and associated factors in people reporting hay fever. Of 2,874 participants, 2,352 reported hay fever; the abstract states that 1,788 had PFAS (23.9%), although the reported count and percentage are inconsistent. The most frequently reported food triggers were melon, kiwi, and tomato. PFAS was associated with a history of allergic disease, asthma, atopic dermatitis, urticaria, drug allergy, stopping contact lens use during hay fever season, and sensitivity to yellow sand or particulate matter 2.5. Clustering identified seven allergen-pattern groups, and some groups were associated with earlier hay fever onset. These findings may inform clinical questioning, but self-report and the cross-sectional design limit causal interpretation.",
+      "practice_change_ar": "لا يبرر هذا البحث تغييرًا فوريًا في الممارسة، لكنه يدعم سؤال مرضى hay fever عن تفاعلاتهم مع الطعام وعن الأمراض التحسسية المصاحبة.",
+      "practice_change_en": "This study does not warrant an immediate practice change, but supports asking patients with hay fever about food reactions and coexisting allergic diseases.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية تحقق PFAS سريريًا وتتابع المرضى على تطوير تقييم أكثر تخصيصًا لأنماط التحسس.",
+      "future_impact_en": "Future studies with clinically verified PFAS and longitudinal follow-up may help develop more individualized assessment of allergen patterns.",
+      "why_important_ar": "تلفت الدراسة الانتباه إلى شيوع التفاعلات الغذائية المصاحبة لـ hay fever وإلى عوامل سريرية وبيئية تستحق الاستقصاء.",
+      "why_important_en": "The study highlights food reactions associated with hay fever and clinical and environmental factors worth exploring.",
+      "vs_previous_ar": "تضيف الدراسة بيانات رقمية عن مجموعات أنماط التحسس وعواملها في عينة يابانية، لكنها لا تثبت علاقات سببية ولا تستبدل التقييم السريري.",
+      "vs_previous_en": "The study adds digital cohort data on allergen-pattern clusters and associated factors in a Japanese sample, but does not establish causality or replace clinical assessment.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة مقطعية رقمية كبيرة نسبيًا تقدم معرفة مفيدة عن عوامل مرتبطة بـ PFAS، لكن اعتمادها على الإبلاغ الذاتي والتناقض بين العدد والنسبة يحدان من قوة الاستنتاجات وتأثيرها العملي.",
+      "stars_reason_en": "A relatively large digital cross-sectional study offers useful information on factors associated with PFAS, but self-report and an inconsistency between the reported count and percentage limit the strength and clinical impact of its findings.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Worth discussing because of its sample size, digital approach, and clustering analysis, while scrutinizing self-reported PFAS definitions and the numerical inconsistency in the results.",
+      "watch": true,
+      "watch_detail_ar": "تستحق منصة AllerSearch المتابعة بوصفها أداة رقمية لجمع بيانات الحساسية على نطاق واسع، مع أن هذه الدراسة لا تثبت أثرها كأداة رعاية سريرية.",
+      "watch_detail_en": "AllerSearch is worth tracking as a digital platform for large-scale allergy data collection, although this study does not establish its value as a clinical care tool.",
+      "watch_type": "technology",
+      "research_gap_ar": "ينبغي إجراء دراسات مستقبلية تؤكد PFAS بتقييم سريري أو اختبارات مناسبة، وتوضح المقام الصحيح لحساب الانتشار وتختبر هذه الارتباطات طوليًا.",
+      "research_gap_en": "Future studies should verify PFAS using clinical assessment or appropriate testing, clarify the denominator for prevalence estimates, and assess these associations longitudinally.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم دراسة عن pollen-food allergy syndrome، أو PFAS، لدى أشخاص لديهم hay fever، واستخدمت منصة AllerSearch لجمع البيانات في اليابان بين عامي 2020 و2024. هذا تصميم مقطعي يعتمد على استبيانات رقمية، وليس دراسة علاجية أو تجربة تثبت السببية.\n\nشملت الدراسة 2874 مشاركًا، وكان لدى 2352 منهم hay fever. يذكر الملخص أن 1788 لديهم PFAS، بنسبة 23.9%، لكن هذين الرقمين غير متوافقين حسابيًا؛ لذلك لا ينبغي التعامل مع النسبة باعتبارها تقديرًا موثوقًا للانتشار قبل توضيح المقام أو تصحيح البيانات. أكثر الأطعمة التي أبلغ عنها المشاركون كمحفزات كانت melon ثم kiwi ثم tomato.\n\nمن الارتباطات الملحوظة وجود تاريخ allergic disease، وasthma، وatopic dermatitis، وurticaria، وdrug allergy. كما ارتبط PFAS بالتوقف عن استخدام contact lens خلال موسم hay fever، وبالحساسية تجاه yellow sand أو particulate matter 2.5. لا يعني هذا أن هذه العوامل تسبب PFAS؛ فالتصميم المقطعي والإبلاغ الذاتي لا يسمحان باستنتاج السببية، وقد تتأثر النتائج بطريقة اختيار المشاركين أو تذكر الأعراض.\n\nاستخدم الباحثون clustering وحددوا سبع مجموعات لأنماط التحسس. كانت إحدى المجموعات واسعة التحسس، بينما ارتبطت المجموعات الأخرى غالبًا بطعام واحد، وظهر hay fever في عمر أبكر لدى بعض المجموعات مقارنة بغير المصابين بـ PFAS. قد تساعد هذه الملاحظات على صياغة أسئلة أكثر تحديدًا في العيادة، لكنها تحتاج إلى تحقق سريري ودراسات متابعة.\n\nالخلاصة العملية: لا تغير الدراسة التدبير الحالي، لكنها تذكّرنا بسؤال مرضى hay fever عن تفاعلات الطعام والأمراض التحسسية المصاحبة. قيمتها الأساسية في توليد فرضيات عن عوامل الخطورة وأنماط التحسس، مع تحفظ مهم بسبب التناقض العددي والاعتماد على بيانات ذاتية الإبلاغ. ومن الأسئلة البحثية التالية التحقق من PFAS سريريًا، وتحديد معدل الانتشار بدقة، واختبار هذه الارتباطات في دراسات طولية.",
+      "audio_script_en": "Today we review a study of pollen-food allergy syndrome, or PFAS, among people with hay fever, using the AllerSearch digital platform in Japan from 2020 to 2024. This was a cross-sectional questionnaire-based study, not a treatment trial and not a design that can establish causation.\n\nThe study included 2,874 participants, of whom 2,352 reported hay fever. The abstract states that 1,788 participants had PFAS, representing 23.9%, but the count and percentage do not agree mathematically. The denominator or reported figures need clarification, so the prevalence estimate should be interpreted cautiously. The most commonly reported food triggers were melon, kiwi, and tomato.\n\nReported associations included a history of allergic disease, asthma, atopic dermatitis, urticaria, and drug allergy. PFAS was also associated with stopping contact lens use during hay fever season and with sensitivity to yellow sand or particulate matter 2.5. These are associations, not evidence that the factors cause PFAS. Self-report, participant selection, and the cross-sectional design can all affect the findings.\n\nThe researchers used clustering to identify seven allergen-pattern groups. One group showed broad food sensitivity, while the others were each mainly associated with a single food. Hay fever onset was earlier in some clusters than among people without PFAS. These patterns could help clinicians ask more focused questions, but they require clinical validation and longitudinal study.\n\nThe practical takeaway is that the findings do not change current management, but they support asking patients with hay fever about food reactions and coexisting allergic conditions. The study is useful for generating hypotheses about risk factors and sensitization patterns. Its limitations include self-reported outcomes and the numerical inconsistency in the prevalence figures. Future research should verify PFAS clinically, clarify prevalence estimates, and test these associations in longitudinal cohorts.",
+      "mcq": [
+        {
+          "q_ar": "ما التصميم الأساسي لهذه الدراسة؟",
+          "q_en": "What was the primary design of this study?",
+          "options_ar": [
+            "أ) تجربة عشوائية محكومة",
+            "ب) دراسة مقطعية رقمية",
+            "ج) مراجعة منهجية",
+            "د) سلسلة حالات مستقبلية"
+          ],
+          "options_en": [
+            "A) Randomized controlled trial",
+            "B) Digital cross-sectional study",
+            "C) Systematic review",
+            "D) Prospective case series"
+          ],
+          "answer": 1,
+          "explanation_ar": "جمعت الدراسة بيانات رقمية في اليابان ضمن تصميم مقطعي، لذا لا تثبت السببية.",
+          "explanation_en": "The study collected digital data in Japan using a cross-sectional design, which cannot establish causality."
+        },
+        {
+          "q_ar": "ما أكثر محفز غذائي لـ PFAS أبلغ عنه المشاركون؟",
+          "q_en": "Which food was the most frequently reported PFAS trigger?",
+          "options_ar": [
+            "أ) kiwi",
+            "ب) tomato",
+            "ج) melon",
+            "د) التفاح"
+          ],
+          "options_en": [
+            "A) Kiwi",
+            "B) Tomato",
+            "C) Melon",
+            "D) Apple"
+          ],
+          "answer": 2,
+          "explanation_ar": "كان melon أكثر محفز غذائي شيوعًا في التقارير، يليه kiwi ثم tomato.",
+          "explanation_en": "Melon was the most frequently reported trigger, followed by kiwi and then tomato."
+        },
+        {
+          "q_ar": "ما أحد القيود المهمة في أرقام انتشار PFAS الواردة في الملخص؟",
+          "q_en": "What is an important limitation of the PFAS prevalence figures in the abstract?",
+          "options_ar": [
+            "أ) لم يُذكر عدد المشاركين",
+            "ب) العدد 1788 لا يتوافق حسابيًا مع النسبة 23.9% من العينة المذكورة",
+            "ج) شملت الدراسة أطفالًا فقط",
+            "د) استُخدمت نتائج مختبرية بدلًا من بيانات المشاركين"
+          ],
+          "options_en": [
+            "A) The number of participants was not reported",
+            "B) The count of 1,788 is mathematically inconsistent with 23.9% of the reported cohort",
+            "C) The study included only children",
+            "D) Laboratory results were used instead of participant data"
+          ],
+          "answer": 1,
+          "explanation_ar": "النسبة 23.9% من 2874 لا تساوي 1788، ما يستدعي توضيح المقام أو تصحيح الرقم.",
+          "explanation_en": "A prevalence of 23.9% among 2,874 participants does not equal 1,788, so the denominator or reported count needs clarification."
+        }
+      ]
+    },
+    {
+      "pmid": "41123023",
+      "title_ar": "Assessing Sensitization to Der p 23 and Inhibition of Specific IgE Using Commercial Extracts in House Dust Mite-Allergic Patients.",
+      "title_en": "Assessing Sensitization to Der p 23 and Inhibition of Specific IgE Using Commercial Extracts in House Dust Mite-Allergic Patients.",
+      "journal": "Journal of investigational allergology & clinical immunology",
+      "pub_date": "2026-Oct-20",
+      "doi": "10.18176/jiaci.1121",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41123023/",
+      "pdf_url": "https://www.jiaci.org/revistas/doi10.18176_jiaci.1121.pdf",
+      "study_design": "Retrospective analysis n=1700 with sIgE inhibition assays",
+      "summary_ar": "حللت هذه الدراسة بأثر رجعي بيانات 1700 مريض لديهم حساسية تجاه house dust mite بين 2019 و2023، لتقييم التحسس تجاه Der p 23 وقدرة commercial extracts على تثبيط ارتباط IgE. قيس sIgE تجاه Der p 1 وDer p 2 وDer p 23 باستخدام ImmunoCAP، وعُرّف التحسس الأحادي تجاه Der p 23 بوجود sIgE أعلى من 0.35 kUA/L تجاه Der p 23 وأقل من 0.10 kUA/L تجاه Der p 1 وDer p 2. كان 62.3% من المرضى متحسسين تجاه Der p 23، بينما استوفى 59 مريضًا، أي 3.47%، تعريف التحسس الأحادي. أكد ALEX microarray التحسس الحصري لدى 16 من أصل 22 مريضًا خضعوا لهذا الفحص. اختلف تثبيط IgE بواسطة خمسة commercial skin prick test extracts، وتراوحت نسبة التثبيط بين 42% و77%. تشير النتائج إلى أن بعض المرضى قد لا يحصلون على تغطية كافية تجاه Der p 23 من بعض commercial extracts، لكنها لا تثبت أن allergen immunotherapy غير فعالة لديهم أو تحدد أثرها السريري.",
+      "summary_en": "This retrospective analysis evaluated 1,700 house dust mite-allergic patients seen between 2019 and 2023 for Der p 23 sensitization and inhibition of IgE binding by commercial extracts. Specific IgE to Der p 1, Der p 2, and Der p 23 was measured using ImmunoCAP. Monosensitization was defined as sIgE above 0.35 kUA/L to Der p 23 and below 0.10 kUA/L to Der p 1 and Der p 2. Overall, 62.3% were sensitized to Der p 23, and 59 patients (3.47%) met the monosensitization definition. ALEX microarray confirmed exclusive sensitization in 16 of 22 patients assessed. Five commercial skin prick test extracts inhibited IgE binding in 42%–77% of cases, highlighting variability without establishing the clinical effectiveness of allergen immunotherapy in this subgroup.",
+      "practice_change_ar": "لا تبرر النتائج تغيير allergen immunotherapy حاليًا، لكنها تدعم التفكير في molecular profiling عند الاشتباه بتحسس أحادي تجاه Der p 23.",
+      "practice_change_en": "These findings do not justify changing allergen immunotherapy today, but support considering molecular profiling when Der p 23 monosensitization is suspected.",
+      "future_impact_ar": "قد تساعد دراسات allergen immunotherapy المستقبلية التي تقيس محتوى Der p 23 ونتائج المرضى في تحسين اختيار المستخلصات.",
+      "future_impact_en": "Future allergen immunotherapy studies measuring Der p 23 content and patient outcomes could improve extract selection.",
+      "why_important_ar": "تُظهر الدراسة أن التحسس تجاه Der p 23 شائع وأن قدرة commercial extracts على تثبيط IgE تجاهه تختلف بين المنتجات.",
+      "why_important_en": "The study shows that Der p 23 sensitization is common and that commercial extracts vary in their ability to inhibit IgE binding to it.",
+      "vs_previous_ar": "تضيف الدراسة تقديرات من مجموعة كبيرة للتَحسس الأحادي تجاه Der p 23 ومقارنة مخبرية بين خمسة commercial extracts، دون إثبات تفوق علاجي لأي منها.",
+      "vs_previous_en": "It adds large-cohort estimates of Der p 23 monosensitization and a laboratory comparison of five commercial extracts, but does not establish therapeutic superiority.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة بأثر رجعي على 1700 مريض توفر بيانات مفيدة عن Der p 23، لكن فحوص تثبيط IgE لا تقيس نتائج allergen immunotherapy السريرية، كما أن النتائج لا تغيّر الممارسة مباشرة.",
+      "stars_reason_en": "This retrospective study of 1,700 patients provides useful Der p 23 data, but IgE inhibition assays do not measure clinical allergen immunotherapy outcomes and the findings do not directly change practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This merits discussion because it highlights a potential mismatch between sensitization profiles and commercial extract content, while emphasizing the distinction between laboratory inhibition and clinical efficacy.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات سريرية مستقبلية تقيس محتوى Der p 23 في allergen immunotherapy extracts وتربطه بنتائج المرضى المتحسسين أحاديًا تجاهه.",
+      "research_gap_en": "Prospective clinical studies should quantify Der p 23 in allergen immunotherapy extracts and relate extract content to outcomes in monosensitized patients.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "في هذه المراجعة، نناقش دراسة عن التحسس تجاه Der p 23 لدى مرضى حساسية house dust mite، وعن مدى قدرة commercial extracts على تثبيط ارتباط IgE. أُجري تحليل بأثر رجعي شمل 1700 مريضًا بين عامي 2019 و2023. قاس الباحثون sIgE تجاه Der p 1 وDer p 2 وDer p 23 باستخدام ImmunoCAP، واستخدموا ALEX microarray لتأكيد التحسس الحصري لدى مجموعة فرعية.\n\nكان 62.3% من المرضى متحسسين تجاه Der p 23، بينما استوفى 59 مريضًا، أي 3.47%، تعريف التحسس الأحادي: sIgE إيجابي تجاه Der p 23 وسلبي وفق الحدود المحددة تجاه Der p 1 وDer p 2. أكد ALEX microarray التحسس الحصري لدى 16 من أصل 22 مريضًا خضعوا لهذا الفحص. وفي اختبارات التثبيط، اختلف أداء خمسة commercial skin prick test extracts، إذ تراوحت نسبة تثبيط IgE بين 42% و77%.\n\nالأهمية السريرية هي أن بعض المرضى قد يكون لديهم sensitization profile لا تغطيه بعض المستخلصات التجارية بشكل جيد. لكن الدراسة لم تختبر استجابة المرضى للعلاج، ولا يمكن اعتبار تثبيط IgE في المختبر دليلًا مباشرًا على فعالية allergen immunotherapy أو فشلها. لذلك لا تبرر النتائج تغيير العلاج اليوم، لكنها قد تدفع إلى التفكير في molecular profiling عند الاشتباه بتحسس أحادي تجاه Der p 23.\n\nنقاط القوة تشمل حجم العينة الكبير، فيما تشمل القيود التصميم بأثر رجعي، وفحص ALEX لدى مجموعة فرعية فقط، وغياب نتائج سريرية للعلاج. وتبقى هناك حاجة إلى دراسات مستقبلية تقيس محتوى Der p 23 في allergen immunotherapy extracts وتربطه بأعراض المرضى ونتائج علاجهم. الخلاصة: Der p 23 مهم لدى نسبة كبيرة من المرضى، والتحسس الأحادي أقل شيوعًا لكنه قد يكون ذا أهمية سريرية، بينما تختلف commercial extracts في التثبيط المخبري.",
+      "audio_script_en": "Today’s review examines Der p 23 sensitization in house dust mite-allergic patients and whether commercial extracts inhibit IgE binding to this allergen. This retrospective analysis included 1,700 patients assessed between 2019 and 2023. The investigators measured sIgE to Der p 1, Der p 2, and Der p 23 using ImmunoCAP, and used ALEX microarray to confirm exclusive sensitization in a subset.\n\nOverall, 62.3% of patients were sensitized to Der p 23. Fifty-nine patients, or 3.47%, met the study definition of monosensitization: sIgE above the specified threshold to Der p 23 and below the thresholds to Der p 1 and Der p 2. Among 22 patients assessed with ALEX, exclusive sensitization was confirmed in 16. In inhibition assays, five commercial skin prick test extracts showed variable performance, inhibiting IgE binding in 42% to 77% of cases.\n\nThe clinical message is that some patients may have a sensitization profile that is not well represented by certain commercial extracts. However, the study did not evaluate treatment response, and laboratory IgE inhibition cannot be taken as direct evidence that allergen immunotherapy will succeed or fail. The findings therefore do not support an immediate change in treatment, although molecular profiling may be worth considering when Der p 23 monosensitization is suspected.\n\nStrengths include the large patient cohort. Important limitations include the retrospective design, ALEX confirmation in only a subset, and the absence of clinical immunotherapy outcomes. Future prospective studies should quantify Der p 23 in allergen immunotherapy extracts and link extract content to patient symptoms and treatment outcomes. In summary, Der p 23 sensitization is common, monosensitization is less frequent but potentially relevant, and commercial extracts vary in laboratory inhibition.",
+      "mcq": [
+        {
+          "q_ar": "ما نسبة المرضى الذين استوفوا تعريف التحسس الأحادي تجاه Der p 23؟",
+          "q_en": "What proportion of patients met the study definition of Der p 23 monosensitization?",
+          "options_ar": [
+            "أ) 0.35%",
+            "ب) 3.47%",
+            "ج) 16%",
+            "د) 62.3%"
+          ],
+          "options_en": [
+            "A) 0.35%",
+            "B) 3.47%",
+            "C) 16%",
+            "D) 62.3%"
+          ],
+          "answer": 1,
+          "explanation_ar": "استوفى 59 من أصل 1700 مريضًا تعريف التحسس الأحادي، أي 3.47%.",
+          "explanation_en": "Fifty-nine of 1,700 patients met the monosensitization definition, corresponding to 3.47%."
+        },
+        {
+          "q_ar": "ما النطاق الذي تراوحت ضمنه نسبة تثبيط IgE بواسطة commercial extracts؟",
+          "q_en": "What was the range of IgE inhibition by the commercial extracts?",
+          "options_ar": [
+            "أ) 5%–20%",
+            "ب) 22%–35%",
+            "ج) 42%–77%",
+            "د) 80%–100%"
+          ],
+          "options_en": [
+            "A) 5%–20%",
+            "B) 22%–35%",
+            "C) 42%–77%",
+            "D) 80%–100%"
+          ],
+          "answer": 2,
+          "explanation_ar": "أظهرت خمسة commercial extracts تثبيطًا متفاوتًا تراوحت نسبته بين 42% و77%.",
+          "explanation_en": "The five commercial extracts showed variable inhibition ranging from 42% to 77%."
+        },
+        {
+          "q_ar": "ما الاستنتاج العملي الأنسب من هذه الدراسة؟",
+          "q_en": "What is the most appropriate practical conclusion from this study?",
+          "options_ar": [
+            "أ) ثبت أن allergen immunotherapy غير فعالة لدى جميع المرضى المتحسسين تجاه Der p 23.",
+            "ب) ينبغي تغيير علاج كل مريض لديه house dust mite allergy.",
+            "ج) قد يكون molecular profiling مفيدًا عند الاشتباه بتحسس أحادي، لكن الدراسة لا تثبت نتائج العلاج.",
+            "د) تؤكد الدراسة تفوق أحد commercial extracts سريريًا."
+          ],
+          "options_en": [
+            "A) Allergen immunotherapy is proven ineffective in all patients sensitized to Der p 23.",
+            "B) Treatment should be changed for every patient with house dust mite allergy.",
+            "C) Molecular profiling may be useful when monosensitization is suspected, but the study does not establish treatment outcomes.",
+            "D) The study confirms the clinical superiority of one commercial extract."
+          ],
+          "answer": 2,
+          "explanation_ar": "تصف الدراسة sensitization ونتائج تثبيط مخبرية، لكنها لا تقيس الاستجابة السريرية لـ allergen immunotherapy ولا تثبت تفوق منتج معين.",
+          "explanation_en": "The study reports sensitization and laboratory inhibition results, but does not measure clinical response to allergen immunotherapy or establish product superiority."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026102101",
+      "title_ar": "سوق أنظمة التصوير بالمناظير متوسطة السعر حتى عام 2035: الطلب على الإجراءات طفيفة التوغل يدفع النمو",
+      "title_en": "Mid-Range Endoscopy Visualization Systems Market Through 2035: Minimally Invasive Procedures Drive Growth",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-21",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "تتناول IndexBox آفاق سوق أنظمة التصوير بالمناظير متوسطة السعر حتى عام 2035، وتشير إلى أن الطلب على الإجراءات طفيفة التوغل يدعم نمو السوق. ويتعلق الخبر بتوقعات السوق، وليس بصفقة استحواذ أو دعوى قضائية أو تحرك في الأسهم أو قرار من إدارة الغذاء والدواء الأمريكية. ولا تتضمن المادة المقدمة تقديرات لحجم السوق أو أسماء شركات أو تفاصيل إقليمية.",
+      "summary_en": "IndexBox reports on the outlook for the mid-range endoscopy visualization systems market through 2035, citing demand for minimally invasive procedures as a growth driver. The item concerns a market forecast, not a specific acquisition, lawsuit, stock move, or FDA decision. The supplied news item does not provide market-size estimates, named companies, or detailed regional findings.",
+      "practice_change_ar": "لا يتضمن التوقع تغييراً فورياً في الإرشادات السريرية، لكنه قد يشير إلى استمرار الاهتمام التجاري بخيارات التصوير بالمناظير ضمن فئات سعرية مختلفة.",
+      "practice_change_en": "The forecast does not announce an immediate change in clinical guidance, but it may signal continued commercial interest in endoscopy visualization options across price tiers.",
+      "future_impact_ar": "ينبغي لفرق الأنف والأذن والحنجرة توقع استمرار تطور السوق، مع تقييم الأنظمة وفق الأداء السريري والدعم الفني والتكلفة الإجمالية، لا بناءً على توقعات النمو وحدها.",
+      "future_impact_en": "ENT teams should expect ongoing market development but assess any systems on clinical performance, service support, and total cost rather than forecast growth alone.",
+      "why_important_ar": "إذا توسع الطلب كما هو متوقع، فقد يؤثر توافر مزيد من الأنظمة متوسطة السعر في خيارات الأجهزة ومناقشات الشراء في عيادات الأنف والأذن والحنجرة.",
+      "why_important_en": "If demand expands as forecast, broader availability of mid-range systems could affect equipment choices and purchasing discussions in ENT practices.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "توقع عام للسوق دون بيانات تفصيلية أو أثر سريري مباشر معلن.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "نستعرض اليوم تقريراً من IndexBox عن توقعات سوق أنظمة التصوير بالمناظير متوسطة السعر حتى عام 2035. ويشير التقرير، وفقاً للعنوان والمعلومات المتاحة، إلى أن الطلب على الإجراءات طفيفة التوغل يدعم نمو هذا السوق. لا يتناول الخبر صفقة استحواذ أو قراراً تنظيمياً أو تغييراً في الإرشادات، كما لا يقدم أرقاماً عن حجم السوق أو أسماء الشركات المعنية. بالنسبة إلى أطباء الأنف والأذن والحنجرة، قد يعكس هذا التوجه اهتماماً مستمراً بتوفير خيارات تصوير بالمناظير عبر مستويات سعرية مختلفة. لكن توقعات السوق وحدها لا تكفي لاتخاذ قرار شراء؛ إذ ينبغي مقارنة جودة الصورة، والموثوقية، والدعم الفني، والتوافق مع الأجهزة الحالية، والتكلفة الإجمالية. والخلاصة: الخبر مؤشر تجاري عام، وليس دليلاً على تغير فوري في الممارسة السريرية.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026102102",
+      "title_ar": "شركات رائدة في طب الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية",
+      "title_en": "Leading ENT Companies Driving Medical Technology Innovation",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-21",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت SNS Insider مقالًا يسلط الضوء على شركات تعمل في مجال الابتكار في التكنولوجيا الطبية بقطاع الأنف والأذن والحنجرة. ولا يحدد الخبر المتاح أسماء شركات أو منتجات أو صفقات أو قرارات تنظيمية أو تطورات مالية بعينها. لذلك لا يقدم تفاصيل موثقة عن حدث تجاري محدد أو تغيير في الممارسة السريرية.",
+      "summary_en": "SNS Insider published an article highlighting companies involved in medical technology innovation in the ENT sector. The supplied news item does not identify specific companies, products, transactions, regulatory decisions, or financial developments. It therefore provides no verifiable details about a particular business event or change in clinical practice.",
+      "practice_change_ar": "لا يتضمن الخبر تحديثًا محددًا بشأن منتج أو قرار تنظيمي يستدعي تغيير الممارسة السريرية.",
+      "practice_change_en": "The item does not report a specific product or regulatory update that would warrant a change in clinical practice.",
+      "future_impact_ar": "قد تستمر التكنولوجيا في طب الأنف والأذن والحنجرة في التطور، لكن تفاصيل المقال المتاحة لا تكفي لتحديد الابتكارات التي قد تؤثر في التخصص.",
+      "future_impact_en": "ENT technology may continue to evolve, but the article details provided are insufficient to assess which innovations could affect the field.",
+      "why_important_ar": "في غياب تقنيات محددة أو أدلة على اعتمادها سريريًا، لا يقدم الخبر معلومات كافية لتوجيه قرارات رعاية المرضى.",
+      "why_important_en": "Without named technologies or evidence of clinical adoption, the item offers little information to guide patient-care decisions.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "الأهمية محدودة لعدم ذكر تطور تجاري أو سريري محدد يمكن تقييمه.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "يتناول عنوان مقال نشرته SNS Insider شركات تقود الابتكار في التكنولوجيا الطبية بمجال الأنف والأذن والحنجرة. لكن الخبر المتاح لا يذكر أسماء هذه الشركات أو المنتجات التي تطورها، ولا يشير إلى صفقة استحواذ أو قرار من إدارة الغذاء والدواء الأمريكية أو نتائج مالية محددة. لذلك لا يمكن استخلاص أثر مباشر على اختيار الأجهزة أو إجراءات الأطباء أو رعاية المرضى. بالنسبة إلى أطباء الأنف والأذن والحنجرة، تظل أهمية هذا الخبر محدودة إلى أن تتوفر معلومات موثقة عن التقنيات المعنية، وأدلتها السريرية، ووضعها التنظيمي.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026102103",
+      "title_ar": "ميدترونيك وكارل شتورز تتعاونان لتطوير حلول جراحية متكاملة للأنف والأذن والحنجرة",
+      "title_en": "Medtronic and Karl Storz Collaborate on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-21",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أعلنت شركتا ميدترونيك وكارل شتورز تعاونًا يركز على حلول جراحية متكاملة لرعاية الأنف والأذن والحنجرة. ويشير الإعلان إلى مسعى لدمج منتجات الشركتين أو حلول كل منهما في مجال جراحات الأنف والأذن والحنجرة. ولا يوضح التقرير المتاح المنتجات أو التقنيات المشمولة، أو موعد توفرها، أو الشروط التجارية للتعاون. كما لا يشير إلى قرار تنظيمي أو تغيير في الإرشادات السريرية.",
+      "summary_en": "Medtronic and Karl Storz have announced a collaboration focused on integrated surgical solutions for ear, nose and throat care. The announcement signals an effort to bring offerings from the two medical-device companies together for ENT surgery. The available report does not specify which products or technologies will be included, when they will become available, or the collaboration’s commercial terms. No regulatory decision or change to clinical guidance is described.",
+      "practice_change_ar": "قد تتاح لجراحي الأنف والأذن والحنجرة مستقبلًا خيارات جراحية أكثر تكاملًا، لكن الإعلان وحده لا يشير إلى تغيير فوري في الممارسة.",
+      "practice_change_en": "ENT surgeons may eventually have access to more integrated surgical options, but the announcement alone does not indicate an immediate change in practice.",
+      "future_impact_ar": "قد يسهم التعاون في تشكيل منتجات مستقبلية للأنف والأذن والحنجرة، وستعتمد أهميته على التقنيات المقدمة والأدلة على فائدتها العملية أو السريرية.",
+      "future_impact_en": "The collaboration may shape future ENT product offerings, with its significance depending on the technologies delivered and evidence of practical or clinical benefit.",
+      "why_important_ar": "قد يؤثر تكامل الحلول الجراحية بصورة أوثق في سير العمل واختيارات شراء المعدات، لكن المعلومات المنشورة لا توضح الفوائد السريرية حتى الآن.",
+      "why_important_en": "Closer integration of surgical solutions could affect equipment workflows and purchasing choices, although the clinical benefits remain unclear from the information reported.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "تعاون تجاري محتمل الصلة بتجهيزات الجراحة، لكن تفاصيل المنتجات والتأثير السريري غير متاحة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أعلنت ميدترونيك وكارل شتورز عن تعاون يركز على حلول جراحية متكاملة في مجال الأنف والأذن والحنجرة. وقد يتيح هذا التعاون مستقبلًا جمع منتجات أو تقنيات من الشركتين ضمن خيارات جراحية أكثر تكاملًا. لكن التفاصيل المنشورة حتى الآن محدودة؛ فلا يحدد التقرير المنتجات المعنية أو موعد توفرها، كما لا يذكر الشروط التجارية أو الفوائد السريرية المتوقعة. لذلك لا يشير الإعلان إلى تغيير فوري في الممارسة اليومية للجراحين. وتكمن أهميته المحتملة في تأثير الحلول الجديدة على تجهيز غرف العمليات وسير العمل وقرارات شراء المعدات. وسيعتمد تقييم أثر التعاون على ما ستقدمه الشركتان فعليًا، وعلى مدى توافر الأدلة التي تثبت فائدته العملية أو السريرية.",
+      "mcq": []
+    }
+  ]
+}
