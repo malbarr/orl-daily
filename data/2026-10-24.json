@@ -1,0 +1,589 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T08:11:27Z",
+  "articles": [
+    {
+      "pmid": "42912892",
+      "title_ar": "Correction of Tanzer II Constricted Ear: A Framework Approach With Costal Cartilage Graft and Auricular Cartilage Release.",
+      "title_en": "Correction of Tanzer II Constricted Ear: A Framework Approach With Costal Cartilage Graft and Auricular Cartilage Release.",
+      "journal": "The Journal of craniofacial surgery",
+      "pub_date": "2026-Oct-22",
+      "doi": "10.1097/SCS.0000000000013518",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42912892/",
+      "pdf_url": null,
+      "study_design": "Retrospective case series, 74 patients (90 ears)",
+      "summary_ar": "قيّمت هذه الدراسة retrospective series تقنية لتصحيح Tanzer type II constricted ear تجمع بين auricular cartilage release وautologous costal cartilage grafting. شملت الدراسة 74 مريضًا لديهم 90 ear، بمتوسط عمر 8.2 سنوات، وتابعت النتائج لمدة 12 شهرًا. تضمنت التقنية إجراء radial chondrotomies وتثبيت sculpted eighth costal cartilage graft لتوسيع helical rim واستعادة vertical height. بلغت median EAR-Q scores بعد الجراحة 86.0 لمقياس Psychological، و74.0 لمقياس Ear Adverse Effects، و62.0 لمقياس Ear Appearance. حدثت complications لدى 9 مرضى (12.2%)، ومنها hematoma وcartilage exposure ومشكلات التئام الجرح وpartial flap necrosis، وعولجت جميعها بتدخلات ثانوية. تشير النتائج إلى تحسن psychosocial outcomes ونتائج جراحية واعدة، لكن التصميم retrospective وقصر المتابعة يحدان من قوة الاستنتاج.",
+      "summary_en": "This retrospective case series evaluated a framework-based correction for Tanzer type II constricted ear using auricular cartilage release and autologous costal cartilage grafting. It included 74 patients with 90 ears, with a mean age of 8.2 years and a mean follow-up of 12 months. The procedure used radial chondrotomies and rigid fixation of a sculpted eighth costal cartilage graft to expand the helical rim and restore vertical height. Median postoperative EAR-Q scores were 86.0 for the Psychological Scale, 74.0 for Ear Adverse Effects, and 62.0 for Ear Appearance. Complications occurred in 9 patients (12.2%), including hematoma, cartilage exposure, impaired wound healing, and partial flap necrosis; all were managed with secondary interventions. The results are promising, particularly for psychosocial outcomes, but retrospective design and limited follow-up constrain certainty.",
+      "practice_change_ar": "لا تغيّر هذه الدراسة الممارسة اليوم، لكنها تدعم اعتبار الجمع بين auricular cartilage release وcostal cartilage graft خيارًا جراحيًا ممكنًا لحالات Tanzer type II المختارة.",
+      "practice_change_en": "This study does not change practice today, but supports considering combined auricular cartilage release and costal cartilage grafting for selected Tanzer type II cases.",
+      "future_impact_ar": "قد تساعد دراسات prospective comparative ذات متابعة أطول على تحديد مدى ثبات النتائج ومقارنة هذه التقنية بالخيارات الجراحية الأخرى.",
+      "future_impact_en": "Prospective comparative studies with longer follow-up could establish durability and compare this technique with other surgical options.",
+      "why_important_ar": "تقدم الدراسة نتائج EAR-Q ومعدلات complications لتقنية تجمع بين تحرير framework وإضافة graft في تشوه أذني معقد.",
+      "why_important_en": "The study reports EAR-Q outcomes and complications for a combined framework-release and grafting approach to a complex auricular deformity.",
+      "vs_previous_ar": "بدل الاعتماد على إعادة تشكيل framework الأصلي وحده، تجمع هذه التقنية بين radial chondrotomies وrigid costal cartilage graft لدعم helical rim والارتفاع العمودي.",
+      "vs_previous_en": "Rather than relying on reshaping the native framework alone, this technique combines radial chondrotomies with a rigid costal cartilage graft to support the helical rim and vertical height.",
+      "stars": 3,
+      "stars_reason_ar": "حصلت على 3 نجوم لأنها retrospective case series متوسطة الحجم تقدم تقنية مفيدة ونتائج patient-reported، لكن غياب مجموعة مقارنة وقصر المتابعة يمنعان اعتبار الدليل حاسمًا.",
+      "stars_reason_en": "Three stars reflect a moderately sized retrospective case series with a useful technique and patient-reported outcomes, tempered by the lack of a comparator and limited follow-up.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق النقاش بسبب الجمع التقني بين cartilage release وcostal cartilage graft، مع ضرورة تقييم اختيار المرضى ومعدلات complications وغياب المقارنة المباشرة.",
+      "jc_reason_en": "Worth discussing for its combined cartilage-release and costal-graft technique, while critically examining patient selection, complications, and the absence of a direct comparison.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء prospective comparative studies مع متابعة أطول وقياسات EAR-Q قبل الجراحة وبعدها لتحديد الفائدة النسبية واستدامة النتائج.",
+      "research_gap_en": "Prospective comparative studies with longer follow-up and preoperative and postoperative EAR-Q assessments are needed to establish relative benefit and durability.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نستعرض اليوم دراسة عن التصحيح الجراحي لـ Tanzer type II constricted ear، وهو تشوه يتضمن نقصًا متعدد الأبعاد في auricular framework وskin envelope. شملت هذه retrospective case series عدد 74 مريضًا و90 ear، بمتوسط عمر 8.2 سنوات، وتابعت المرضى لمدة 12 شهرًا في المتوسط.\n\nتعتمد التقنية على الجمع بين تحرير cartilage الأصلي وإضافة autologous costal cartilage graft. أجرى الجراحون radial chondrotomies في الجزء المتضيق، ثم ثبتوا sculpted eighth costal cartilage graft لتوسيع helical rim واستعادة vertical height. هذه المقاربة تهدف إلى معالجة نقص framework عبر تحرير البنية الموجودة وتوفير دعم إضافي في الوقت نفسه.\n\nبعد الجراحة، كان median EAR-Q score لمقياس Psychological هو 86، و74 لمقياس Ear Adverse Effects، و62 لمقياس Ear Appearance. توحي هذه النتائج بفائدة نفسية ملحوظة، بينما كانت نتائج المظهر متوسطة. ظهرت complications لدى 9 مرضى، أي 12.2 بالمئة، وشملت localized hematoma لدى أربعة، وcartilage exposure لدى ثلاثة، إضافة إلى impaired wound healing وpartial flap necrosis. عولجت جميع الحالات بتدخلات ثانوية.\n\nما أهمية هذه الدراسة؟ إنها تقدم بيانات patient-reported outcomes ومعلومات عن complications لتقنية framework-based في تشوه يصعب تصحيحه، وتدعم إمكان الجمع بين auricular cartilage release وcostal cartilage grafting. لكنها لا تثبت أن التقنية أفضل من البدائل، لأن الدراسة retrospective ولا تتضمن مجموعة مقارنة، كما أن المتابعة متوسطة المدة ومحدودة إلى 12 شهرًا.\n\nلذلك لا ينبغي اعتبار النتائج تغييرًا للممارسة اليوم. يمكن للجراحين اعتبار هذه المقاربة خيارًا ممكنًا في حالات مختارة، مع مناقشة احتمال الحاجة إلى تدخل ثانوي. والخطوة التالية هي إجراء prospective comparative studies بمتابعة أطول، وقياس EAR-Q قبل الجراحة وبعدها، لتحديد استدامة النتائج والفائدة النسبية مقارنة بالتقنيات الأخرى. الخلاصة: تقنية واعدة ومفيدة للمعرفة، لكن مستوى الدليل متوسط ويستدعي تأكيدًا إضافيًا.",
+      "audio_script_en": "Today we review a surgical study of Tanzer type II constricted ear, a deformity involving multidimensional deficiency of the auricular framework and skin envelope. This retrospective case series included 74 patients and 90 ears. The mean patient age was 8.2 years, and mean follow-up was 12 months.\n\nThe technique combines release of native cartilage with an autologous costal cartilage graft. Surgeons performed radial chondrotomies in the constricted cartilage and rigidly fixed a sculpted eighth costal cartilage graft to expand the helical rim and restore vertical height. The approach is intended to address framework deficiency by releasing the existing structure while adding support.\n\nPostoperative median EAR-Q scores were 86 for the Psychological Scale, 74 for Ear Adverse Effects, and 62 for Ear Appearance. These results suggest meaningful psychosocial benefit, while appearance scores were more moderate. Complications occurred in 9 patients, or 12.2 percent. They included localized hematoma in four patients, cartilage exposure in three, and one case each of impaired wound healing and partial flap necrosis. All were managed with secondary interventions.\n\nWhy does this study matter? It reports patient-reported outcomes and complications for a framework-based approach to a challenging deformity, and supports the feasibility of combining auricular cartilage release with costal cartilage grafting. However, it does not establish superiority over alternatives: the study is retrospective, has no comparison group, and follow-up is limited to an average of 12 months.\n\nThe findings therefore do not warrant a change in practice today. Surgeons may consider the approach for selected cases, while counseling patients about the possibility of secondary intervention. Prospective comparative studies with longer follow-up and preoperative as well as postoperative EAR-Q assessments are needed to determine durability and relative benefit. In summary, this is a promising and clinically useful technique to know about, but the evidence remains moderate and needs further confirmation.",
+      "mcq": [
+        {
+          "q_ar": "ما التصميم البحثي لهذه الدراسة؟",
+          "q_en": "What was the study design?",
+          "options_ar": [
+            "أ) RCT",
+            "ب) Prospective cohort",
+            "ج) Retrospective case series",
+            "د) Systematic review"
+          ],
+          "options_en": [
+            "A) RCT",
+            "B) Prospective cohort",
+            "C) Retrospective case series",
+            "D) Systematic review"
+          ],
+          "answer": 2,
+          "explanation_ar": "كانت الدراسة retrospective وشملت 74 مريضًا عولجوا بين 2021 و2023.",
+          "explanation_en": "The study was retrospective and included 74 patients treated between 2021 and 2023."
+        },
+        {
+          "q_ar": "ما المكون الأساسي للتقنية الجراحية المدروسة؟",
+          "q_en": "What was the central component of the surgical technique?",
+          "options_ar": [
+            "أ) Septoplasty مع turbinate reduction",
+            "ب) Radial chondrotomies مع تثبيت costal cartilage graft",
+            "ج) استخدام alloplastic implant فقط",
+            "د) إعادة تشكيل skin envelope دون cartilage graft"
+          ],
+          "options_en": [
+            "A) Septoplasty with turbinate reduction",
+            "B) Radial chondrotomies with fixation of a costal cartilage graft",
+            "C) Use of an alloplastic implant alone",
+            "D) Skin-envelope reshaping without cartilage grafting"
+          ],
+          "answer": 1,
+          "explanation_ar": "جمعت التقنية بين radial chondrotomies وتثبيت sculpted eighth costal cartilage graft لتوسيع helical rim واستعادة vertical height.",
+          "explanation_en": "The technique combined radial chondrotomies with a sculpted eighth costal cartilage graft to expand the helical rim and restore vertical height."
+        },
+        {
+          "q_ar": "ما أهم قيد يحد من قوة الاستنتاجات؟",
+          "q_en": "What is the main limitation on the strength of the conclusions?",
+          "options_ar": [
+            "أ) عدد المرضى أقل من 10",
+            "ب) الدراسة animal study",
+            "ج) غياب مجموعة مقارنة مع retrospective design ومتابعة محدودة",
+            "د) عدم الإبلاغ عن أي outcomes"
+          ],
+          "options_en": [
+            "A) Fewer than 10 patients",
+            "B) It was an animal study",
+            "C) Retrospective design, no comparison group, and limited follow-up",
+            "D) No outcomes were reported"
+          ],
+          "answer": 2,
+          "explanation_ar": "رغم حجم العينة المفيد، فإن retrospective design وغياب المقارنة والمتابعة بمتوسط 12 شهرًا تحد من تقييم الفعالية طويلة الأمد.",
+          "explanation_en": "Despite a useful sample size, the retrospective design, lack of a comparator, and mean 12-month follow-up limit assessment of long-term effectiveness."
+        }
+      ]
+    },
+    {
+      "pmid": "42909557",
+      "title_ar": "Oral versus intranasal probiotics for nasal microbiome modulation: a comparative review of route-dependent mechanisms and clinical implications.",
+      "title_en": "Oral versus intranasal probiotics for nasal microbiome modulation: a comparative review of route-dependent mechanisms and clinical implications.",
+      "journal": "Folia microbiologica",
+      "pub_date": "2026-Oct-23",
+      "doi": "10.1007/s12223-026-01614-y",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42909557/",
+      "pdf_url": null,
+      "study_design": "Narrative review of clinical and mechanistic studies",
+      "summary_ar": "تقارن هذه narrative review بين probiotics الفموية وintranasal لتعديل nasal microbiome في allergic rhinitis وchronic rhinosinusitis وعدوى الجهاز التنفسي لدى الأطفال. قد تؤثر probiotics الفموية عبر systemic immunomodulation المرتبط بـ gut-nose axis أو عبر انتقال بعض السلالات من oropharynx إلى nasopharynx. شملت الأدلة تجارب على Bifidobacterium longum وLactobacillus plantarum وLacticaseibacillus rhamnosus GG، مع نتائج سريرية ومناعية متفاوتة. أظهرت بعض دراسات intranasal probiotics فائدة في حالات محددة، لكن تجارب أخرى لم تجد تحسناً في seasonal allergic rhinitis أو chronic rhinosinusitis دون nasal polyps. تؤكد النتائج أن الفعالية تعتمد على strain-disease matching، وأن التحسن داخل المجموعة لا يثبت دائماً تفوق العلاج على المقارنة بين المجموعات. يقترح المؤلفون مبدئياً أن systemic type-2-driven disease قد يناسبها oral delivery، بينما قد تستفيد حالات localized dysbiosis الحادة من intranasal delivery. لا تكفي الأدلة الحالية لتحديد route مفضل، وتبرز الحاجة إلى direct comparative trials وmicrobiome-based stratification ودراسات formulations ذات مفعول مستدام.",
+      "summary_en": "This narrative review compares oral and intranasal probiotics for nasal microbiome modulation in allergic rhinitis, chronic rhinosinusitis, and pediatric respiratory infections.\nOral probiotics may act through systemic immunomodulation along the gut-nose axis or through oropharyngeal-to-nasopharyngeal trafficking.\nStudies of several strains report variable clinical and immunologic outcomes, including changes in cytokines and symptom control.\nSome intranasal trials report benefits in selected conditions, while others found no benefit in seasonal allergic rhinitis or chronic rhinosinusitis without nasal polyps.\nThe review emphasizes strain-disease matching and cautions that within-group improvement does not establish between-group treatment benefit.\nOral delivery may suit systemic type-2-driven disease, whereas intranasal delivery may suit acute localized dysbiosis, but this remains tentative.\nDirect comparative trials, microbiome-based stratification, and sustained-release formulations are important research priorities.",
+      "practice_change_ar": "لا تبرر الأدلة الحالية تفضيل oral أو intranasal probiotics روتينياً، لذا ينبغي أن يظل اختيار العلاج موجهاً بالبيانات الخاصة بالسلالة والمرض.",
+      "practice_change_en": "Current evidence does not justify routinely preferring oral or intranasal probiotics; treatment selection should remain guided by strain- and disease-specific data.",
+      "future_impact_ar": "قد توضح direct comparative trials مع microbiome-based stratification أي route وسلالة يناسبان كل نمط مرضي.",
+      "future_impact_en": "Direct comparative trials with microbiome-based stratification may clarify which route and strain best fit each disease phenotype.",
+      "why_important_ar": "تلخص المقالة أدلة متفرقة وتقارن آليات route المختلفة، مع إبراز محدودية البيانات السريرية الحالية.",
+      "why_important_en": "The review organizes scattered evidence and contrasts route-dependent mechanisms while highlighting the limitations of current clinical data.",
+      "vs_previous_ar": "بدلاً من تناول probiotics كفئة واحدة، تقارن المقالة بين oral وintranasal delivery وتربط اختيار route بالآلية والسلالة والمرض.",
+      "vs_previous_en": "Rather than treating probiotics as a single intervention, the review compares oral and intranasal delivery and links route choice to mechanism, strain, and disease.",
+      "stars": 3,
+      "stars_reason_ar": "هذه narrative review تجمع أدلة سريرية وآلية مفيدة لكنها ليست systematic review أو دراسة مقارنة مباشرة؛ ولأن النتائج غير متجانسة ولا تغير الممارسة حالياً، تستحق 3 من 5 نجوم.",
+      "stars_reason_en": "This narrative review summarizes useful clinical and mechanistic evidence but is neither a systematic review nor a direct comparative study; heterogeneous findings do not change practice today, supporting 3/5 stars.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تصلح للمناقشة لأنها تقارن routeين علاجيين ناشئين وتوضح كيف تحد السلالات المختلفة والنتائج المتباينة من الاستنتاجات السريرية.",
+      "jc_reason_en": "It is suitable for journal club because it compares two emerging treatment routes and shows how strain variation and mixed results constrain clinical conclusions.",
+      "watch": true,
+      "watch_detail_ar": "تستحق probiotic strains وformulations ذات الإيصال المستدام المتابعة، لكن فعاليتها السريرية ما زالت تحتاج إلى تجارب مقارنة مباشرة.",
+      "watch_detail_en": "Probiotic strains and sustained-release formulations merit tracking, although their clinical effectiveness still requires direct comparative trials.",
+      "watch_type": "drug",
+      "research_gap_ar": "توجد حاجة إلى direct comparative RCTs تقيس النتائج السريرية وnasal microbiome وتحدد التفاعل بين route والسلالة والنمط المرضي.",
+      "research_gap_en": "Direct comparative RCTs should assess clinical outcomes and the nasal microbiome while testing interactions among route, strain, and disease phenotype.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تتناول هذه المقالة سؤالاً مهماً في rhinology: هل يمكن تعديل nasal microbiome بصورة أفضل باستخدام probiotics فموية أم intranasal؟ المقالة narrative review وليست تجربة مقارنة مباشرة أو systematic review، لذلك يجب تفسير استنتاجاتها بحذر.\n\nتطرح المقالة آليتين محتملتين لـ oral probiotics. الأولى systemic immunomodulation عبر gut-nose axis، بما يشمل short-chain fatty acids وtryptophan metabolites. والثانية انتقال بعض البكتيريا من oropharynx إلى nasopharynx؛ وقد رُصد هذا الانتقال لدى جزء من مستخدمي صيغة chewable من Lacticaseibacillus rhamnosus GG. لكن التغير في nasal IL-13 ظهر في مجموعتي probiotic وplacebo، ما يجعل تفسير الأثر العلاجي غير مباشر. كما أظهرت دراسات أخرى على سلالات مثل Bifidobacterium longum وLactobacillus plantarum نتائج مناعية أو عرضية واعدة، لكنها لا تثبت أفضلية route فموي بصورة عامة.\n\nأما intranasal probiotics، فقد أظهرت بعض الدراسات نتائج مشجعة في حالات محددة، مثل pediatric acute rhinosinusitis أو otitis media، لكن النتائج ليست متسقة. لم تحقق بعض sprays فائدة في seasonal allergic rhinitis أو chronic rhinosinusitis دون nasal polyps. وهذا يسلط الضوء على أهمية مطابقة strain مع disease، وعلى ضرورة التمييز بين التحسن داخل المجموعة والفرق الحقيقي بين مجموعات العلاج والمقارنة.\n\nالخلاصة العملية أن المقالة لا تدعم تغيير الممارسة أو التوصية روتينياً بـ oral أو intranasal probiotics. يطرح المؤلفون فرضية أن systemic type-2-driven disease قد تستفيد من oral immunomodulation، بينما قد يناسب intranasal delivery حالات localized dysbiosis الحادة، لكن هذا الاقتراح لم يُحسم. تقييمنا ثلاث نجوم من خمس، مع confidence متوسطة: العمل مفيد لتكوين صورة عن المجال، لكنه لا يقدم دليلاً حاسماً. الأولويات البحثية هي direct comparative trials، وmicrobiome-based stratification، وformulations ذات مفعول مستدام. تستحق probiotic strains المتابعة، لكن القرار السريري ينبغي أن يستند إلى الأدلة الخاصة بكل strain وdisease إلى أن تتوفر دراسات أقوى.",
+      "audio_script_en": "This review addresses a relevant rhinology question: can the nasal microbiome be better modulated with oral or intranasal probiotics? It is a narrative review, not a direct comparative trial or a systematic review, so its conclusions should be interpreted cautiously.\n\nThe authors describe two possible mechanisms for oral probiotics. First, systemic immunomodulation through the gut-nose axis may involve short-chain fatty acids and tryptophan metabolites. Second, some bacteria may travel from the oropharynx to the nasopharynx. One study detected this trafficking in a proportion of users of a chewable Lacticaseibacillus rhamnosus GG formulation. However, nasal IL-13 decreased in both probiotic and placebo groups, making the treatment effect difficult to attribute. Other studies of strains such as Bifidobacterium longum and Lactobacillus plantarum reported promising immune or symptom outcomes, but they do not establish that oral delivery is generally superior.\n\nFor intranasal probiotics, some individual studies reported benefits in selected settings, including pediatric acute rhinosinusitis or otitis media, but results were inconsistent. Other nasal sprays showed no benefit in seasonal allergic rhinitis or chronic rhinosinusitis without nasal polyps. This underscores the importance of matching the strain to the disease and distinguishing within-group improvement from a genuine between-group treatment effect.\n\nThe practical takeaway is that this review does not support changing practice or routinely recommending either oral or intranasal probiotics. The authors tentatively suggest that oral immunomodulation might suit systemic type-2-driven disease, while intranasal delivery might suit acute localized dysbiosis; this hypothesis remains unproven. We rate the article three out of five stars, with medium confidence: it is useful for understanding the field, but it does not provide decisive evidence. Priorities include direct comparative trials, microbiome-based stratification, and sustained-release formulations. Probiotic strains merit continued attention, but clinical decisions should remain based on strain- and disease-specific evidence until stronger studies are available.",
+      "mcq": [
+        {
+          "q_ar": "ما الآليتان المقترحتان لتأثير oral probiotics على nasal microbiome؟",
+          "q_en": "What are the two proposed mechanisms by which oral probiotics may affect the nasal microbiome?",
+          "options_ar": [
+            "أ) systemic immunomodulation عبر gut-nose axis، وانتقال البكتيريا من oropharynx إلى nasopharynx",
+            "ب) تثبيط إفراز المخاط، وزيادة تصريف الجيوب جراحياً",
+            "ج) قتل الفيروسات مباشرة، وتوسيع ostia الأنفية",
+            "د) تثبيط الحساسية موضعياً فقط، ومنع انتقال البكتيريا إلى nasopharynx"
+          ],
+          "options_en": [
+            "A) Systemic immunomodulation via the gut-nose axis and bacterial trafficking from the oropharynx to the nasopharynx",
+            "B) Suppression of mucus secretion and surgical enlargement of sinus drainage pathways",
+            "C) Direct viral killing and widening of the nasal ostia",
+            "D) Local allergy suppression alone and prevention of bacterial nasopharyngeal trafficking"
+          ],
+          "answer": 0,
+          "explanation_ar": "تقترح المقالة systemic immunomodulation عبر gut-nose axis، إضافة إلى انتقال بعض السلالات من oropharynx إلى nasopharynx.",
+          "explanation_en": "The review proposes systemic immunomodulation through the gut-nose axis and trafficking of some strains from the oropharynx to the nasopharynx."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن اختيار oral أو intranasal probiotics حالياً؟",
+          "q_en": "What is the most appropriate current conclusion about choosing oral versus intranasal probiotics?",
+          "options_ar": [
+            "أ) intranasal probiotics أفضل في جميع أمراض الأنف",
+            "ب) oral probiotics أفضل دائماً لأنها تؤثر جهازياً",
+            "ج) لا توجد أدلة كافية لتفضيل route روتينياً، ويجب مراعاة strain وdisease",
+            "د) كلا routeين ثبت عدم فعاليتهما"
+          ],
+          "options_en": [
+            "A) Intranasal probiotics are superior for all nasal diseases",
+            "B) Oral probiotics are always superior because they act systemically",
+            "C) Evidence is insufficient to routinely favor either route; strain and disease should be considered",
+            "D) Both routes have been proven ineffective"
+          ],
+          "answer": 2,
+          "explanation_ar": "النتائج متباينة وتعتمد على strain وdisease؛ لذلك لا تبرر المقالة تفضيل route واحد روتينياً.",
+          "explanation_en": "Findings vary by strain and disease, so the review does not justify routinely preferring one route."
+        },
+        {
+          "q_ar": "ما أولوية البحث التي حددتها المقالة؟",
+          "q_en": "Which research priority did the review identify?",
+          "options_ar": [
+            "أ) استبدال العلاجات القياسية فوراً بـ probiotics",
+            "ب) إجراء direct comparative trials واستخدام microbiome-based stratification",
+            "ج) دراسة intranasal probiotics في الحيوانات فقط",
+            "د) اعتماد سلالة واحدة لجميع أمراض الأنف"
+          ],
+          "options_en": [
+            "A) Immediately replacing standard treatments with probiotics",
+            "B) Conducting direct comparative trials and using microbiome-based stratification",
+            "C) Studying intranasal probiotics only in animals",
+            "D) Adopting one strain for all nasal diseases"
+          ],
+          "answer": 1,
+          "explanation_ar": "توصي المقالة بإجراء direct comparative trials، وتحديد المرضى وفق microbiome، وتطوير formulations ذات مفعول مستدام.",
+          "explanation_en": "The review calls for direct comparative trials, microbiome-based stratification, and development of sustained-release formulations."
+        }
+      ]
+    },
+    {
+      "pmid": "42913509",
+      "title_ar": "Near real-time intraoperative assessment of pituitary neuroendocrine tumors using stimulated Raman histology during endoscopic transsphenoidal surgery: comparison with conventional histopathology.",
+      "title_en": "Near real-time intraoperative assessment of pituitary neuroendocrine tumors using stimulated Raman histology during endoscopic transsphenoidal surgery: comparison with conventional histopathology.",
+      "journal": "Journal of neurosurgery",
+      "pub_date": "2026-Oct-23",
+      "doi": "10.3171/2026.5.JNS2667",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42913509/",
+      "pdf_url": null,
+      "study_design": "Observational diagnostic feasibility cohort, 28 patients",
+      "summary_ar": "قيّمت هذه الدراسة استخدام stimulated Raman histology (SRH) لتحليل عينات PitNET أثناء endoscopic transsphenoidal surgery، ومقارنتها بصور H&E التقليدية. شملت الدراسة 28 مريضًا و66 عينة من tumor core أو المناطق المحيطة، وكانت SRH قابلة للتنفيذ في جميع الحالات. أظهرت الصور توافقًا ممتازًا مع H&E في 56.1% من العينات، وتوافقًا جيدًا في 30.3%، وتوافقًا منخفضًا في 13.6%. لم يختلف التوافق إحصائيًا بين عينات tumor core والعينات المحيطة (p = 0.409). استطاعت SRH إظهار سمات مثل فقدان lobular glandular structure في النسيج adenomatous، كما أمكن تمييز سمات subtype محددة ورصد امتداد الورم إلى البنى المجاورة. تدعم النتائج استخدام SRH كوسيلة مساعدة لاتخاذ القرار أثناء الجراحة، لكنها لا تثبت حتى الآن تحسن النتائج الجراحية أو تغني عن histopathology التقليدية.",
+      "summary_en": "This study evaluated stimulated Raman histology (SRH) for intraoperative assessment of pituitary neuroendocrine tumors (PitNETs) during endoscopic transsphenoidal surgery, comparing it with conventional H&E images.\nThe analysis included 28 patients and 66 samples from tumor cores and, when feasible, peritumoral regions.\nSRH was feasible in every case; comparability with H&E was excellent in 56.1% of samples, good in 30.3%, and low in 13.6%.\nComparability did not differ significantly between tumor-core and peritumoral samples (p = 0.409).\nSRH depicted features including loss of lobular glandular structure in adenomatous tissue and selected subtype-specific patterns, and could help identify tumor infiltration into adjacent structures.\nThe results support SRH as a potential intraoperative decision aid, but do not establish improved surgical outcomes or replacement of conventional histopathology.",
+      "practice_change_ar": "لا تغيّر هذه النتائج الممارسة اليوم، لكنها تدعم اعتبار SRH وسيلة مساعدة واعدة عند توفرها مع استمرار الاعتماد على histopathology التقليدية.",
+      "practice_change_en": "These findings do not change practice today, but support SRH as a promising adjunct when available while conventional histopathology remains necessary.",
+      "future_impact_ar": "قد يتيح دمج SRH مع AI تصنيفًا أسرع وأكثر اتساقًا للعينات أثناء PitNET surgery.",
+      "future_impact_en": "Integration of SRH with AI may enable faster and more consistent intraoperative classification of samples during PitNET surgery.",
+      "why_important_ar": "قد تساعد الصور شبه الفورية للجراح على التمييز بين PitNET والغدة الطبيعية عندما يصعب التفريق بينهما بالعين المجردة.",
+      "why_important_en": "Near-real-time images may help surgeons distinguish PitNET from normal gland when they look similar macroscopically.",
+      "vs_previous_ar": "على خلاف الاعتماد على المظهر الجراحي وحده أو انتظار H&E التقليدية، تفحص الدراسة تصوير SRH دون صبغ لإظهار سمات النسيج أثناء العملية.",
+      "vs_previous_en": "Unlike relying on surgical appearance alone or waiting for conventional H&E, this study evaluates label-free SRH imaging for intraoperative tissue assessment.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة تشخيصية رصدية صغيرة شملت 28 مريضًا، وتعرض تقنية جديدة قابلة للتطبيق مع توافق جيد مع H&E، لكن لا تثبت تحسن النتائج أو تغيير الممارسة؛ لذلك تستحق اهتمامًا متوسطًا.",
+      "stars_reason_en": "This small observational diagnostic study included 28 patients and presents a novel feasible technique with good agreement with H&E, but does not demonstrate better outcomes or a practice-changing effect; a moderate score is appropriate.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it evaluates an intraoperative imaging technology that may improve tissue distinction, while raising questions about diagnostic accuracy and clinical outcomes.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا SRH وإمكان دمجها مع AI، إذ قد توفر قراءة نسيجية شبه فورية لدعم القرار أثناء PitNET surgery.",
+      "watch_detail_en": "Track SRH and its potential integration with AI, as it may provide near-real-time tissue assessment to support decisions during PitNET surgery.",
+      "watch_type": "technology",
+      "research_gap_ar": "يلزم إجراء دراسات أكبر ومتعددة المراكز تقارن دقة SRH بالتشخيص النهائي وتقيّم أثرها في extent of resection والنتائج السريرية.",
+      "research_gap_en": "Larger multicenter studies should compare SRH accuracy with final diagnoses and assess its effect on extent of resection and clinical outcomes.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نستعرض اليوم دراسة عن استخدام stimulated Raman histology، أو SRH، لتقييم PitNET أثناء endoscopic transsphenoidal surgery. التحدي السريري هو أن الورم والغدة النخامية الطبيعية قد يبدوان متشابهين بالعين المجردة، ما يجعل تحديد النسيج أثناء العملية صعبًا. SRH تقنية تصوير بصري من دون صبغ، تنتج صورًا رقمية قريبة من الصور النسيجية خلال دقائق.\n\nشملت الدراسة 28 مريضًا بالغًا و66 عينة من tumor core، ومن المناطق المحيطة عندما أمكن. قارن neuropathologist صور SRH بصور H&E التقليدية. كانت التقنية قابلة للتطبيق في جميع الحالات. بلغ التوافق الممتاز 56.1%، والجيد 30.3%، والمنخفض 13.6%. ولم يكن هناك فرق مهم في التوافق بين عينات tumor core والعينات المحيطة، مع p-value يساوي 0.409.\n\nأظهرت SRH فقدان lobular glandular structure في النسيج adenomatous، كما كشفت بعض السمات الخاصة بأنواع PitNET المختلفة، وساعدت على تحديد امتداد الورم إلى البنى المجاورة. لكن الدراسة لم تثبت أن استخدام التقنية يحسن extent of resection أو النتائج التي تهم المرضى، كما أن جزءًا من العينات لم يحقق توافقًا مرتفعًا مع H&E.\n\nالخلاصة أن هذه تقنية واعدة ومهمة للمتابعة، لكنها لا تغيّر الممارسة اليوم ولا تستبدل histopathology التقليدية. تستحق الدراسة نقاش journal club لأنها تقدم وسيلة جديدة قد تساعد على اتخاذ القرار أثناء العملية. الخطوة التالية هي دراسات أكبر ومتعددة المراكز تقيس diagnostic accuracy وتأثير التقنية في القرارات الجراحية والنتائج السريرية. وقد يعزز دمج SRH مع AI سرعة التفسير واتساقه مستقبلًا.",
+      "audio_script_en": "Today we are reviewing a study of stimulated Raman histology, or SRH, for intraoperative assessment of pituitary neuroendocrine tumors during endoscopic transsphenoidal surgery. The clinical problem is that PitNET and normal pituitary tissue may look similar to the surgeon, making tissue identification difficult. SRH is a label-free optical imaging method that produces digital images resembling histology within minutes.\n\nThe study included 28 adults and 66 samples from tumor cores and, when feasible, peritumoral areas. A neuropathologist compared SRH images with conventional H&E. Imaging was feasible in every case. Comparability was excellent in 56.1% of samples, good in 30.3%, and low in 13.6%. There was no significant difference in comparability between tumor-core and peritumoral samples, with a p-value of 0.409.\n\nSRH showed loss of lobular glandular structure in adenomatous tissue, identified some features associated with specific PitNET subtypes, and could depict tumor infiltration into adjacent structures. However, the study did not show that SRH improves extent of resection or patient outcomes, and some samples had low comparability with H&E.\n\nThe take-home message is that SRH is a promising technology worth tracking, but it does not change practice today and should not replace conventional histopathology. The study merits journal-club discussion because it explores a new way to support intraoperative decisions. Larger multicenter studies should assess diagnostic accuracy, effects on surgical decisions, and patient outcomes. Future integration with AI could make image interpretation faster and more consistent.",
+      "mcq": [
+        {
+          "q_ar": "ما التقنية التي قيّمتها الدراسة للتقييم أثناء PitNET surgery؟",
+          "q_en": "Which technique did the study evaluate for intraoperative assessment during PitNET surgery?",
+          "options_ar": [
+            "أ) stimulated Raman histology (SRH)",
+            "ب) frozen section فقط",
+            "ج) CT داخل العملية",
+            "د) fluorescence-guided surgery"
+          ],
+          "options_en": [
+            "A) Stimulated Raman histology (SRH)",
+            "B) Frozen section only",
+            "C) Intraoperative CT",
+            "D) Fluorescence-guided surgery"
+          ],
+          "answer": 0,
+          "explanation_ar": "استخدمت الدراسة SRH، وهي تقنية تصوير بصري دون صبغ، ثم قارنت الصور مع H&E التقليدية.",
+          "explanation_en": "The study used label-free optical SRH imaging and compared the images with conventional H&E."
+        },
+        {
+          "q_ar": "كم مريضًا وكم عينة تضمّن التحليل النهائي؟",
+          "q_en": "How many patients and samples were included in the final analysis?",
+          "options_ar": [
+            "أ) 28 مريضًا و66 عينة",
+            "ب) 66 مريضًا و28 عينة",
+            "ج) 100 مريض و100 عينة",
+            "د) 10 مرضى و28 عينة"
+          ],
+          "options_en": [
+            "A) 28 patients and 66 samples",
+            "B) 66 patients and 28 samples",
+            "C) 100 patients and 100 samples",
+            "D) 10 patients and 28 samples"
+          ],
+          "answer": 0,
+          "explanation_ar": "شملت الدراسة 28 مريضًا، وأنتجت 66 عينة للمقارنة النهائية.",
+          "explanation_en": "The study included 28 patients, yielding 66 samples for final comparison."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن أثر النتائج على الممارسة الحالية؟",
+          "q_en": "What is the most appropriate conclusion about the effect of these findings on current practice?",
+          "options_ar": [
+            "أ) تثبت أن SRH يجب أن تستبدل H&E فورًا",
+            "ب) تدعم SRH كوسيلة مساعدة واعدة، دون إثبات أنها تغيّر النتائج أو تستبدل histopathology",
+            "ج) تثبت أن SRH غير قابلة للتطبيق أثناء الجراحة",
+            "د) تثبت تحسن extent of resection لدى جميع المرضى"
+          ],
+          "options_en": [
+            "A) They prove SRH should immediately replace H&E",
+            "B) They support SRH as a promising adjunct without proving improved outcomes or replacement of histopathology",
+            "C) They show SRH is not feasible during surgery",
+            "D) They prove improved extent of resection in all patients"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت SRH قابلة للتطبيق وأظهرت توافقًا مع H&E، لكن الدراسة لم تختبر تحسن النتائج أو تثبت إمكانية الاستغناء عن histopathology التقليدية.",
+          "explanation_en": "SRH was feasible and showed agreement with H&E, but the study did not demonstrate improved outcomes or establish that conventional histopathology can be replaced."
+        }
+      ]
+    },
+    {
+      "pmid": "42919719",
+      "title_ar": "Long-Term Patient-Reported Outcomes Following Voice Therapy in Individuals With Benign Vocal Fold Lesions and Primary Muscle Tension Dysphonia.",
+      "title_en": "Long-Term Patient-Reported Outcomes Following Voice Therapy in Individuals With Benign Vocal Fold Lesions and Primary Muscle Tension Dysphonia.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Oct-23",
+      "doi": "10.1016/j.jvoice.2026.09.065",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42919719/",
+      "pdf_url": null,
+      "study_design": "Retrospective cross-sectional study n=64",
+      "summary_ar": "قيّمت هذه الدراسة النتائج طويلة الأمد التي أبلغ عنها 64 بالغًا تلقوا voice therapy بسبب benign vocal fold lesions أو primary muscle tension dysphonia. جرى التقييم بعد متوسط متابعة يقارب 47 شهرًا باستخدام Voice Handicap Index-10 واستبيان Patient Perception of Voice Therapy. بلغ متوسط VHI-10 مقدار 12.06، وارتبط انخفاض الإعاقة الصوتية بإدراك أكبر لفائدة العلاج والتحسن. لم يرتبط الوقت منذ العلاج بصورة مهمة بأي مقياس للنتائج، ولم تظهر فروق مهمة بين مجموعات التشخيص. أبلغ 60.9% عن تحسن كبير أو ملحوظ، وقدرة على تلبية متطلبات التواصل اليومية، وعدم الحاجة إلى تقييم أو علاج إضافي. كان تكرر الأعراض شائعًا، لكنه غالبًا متقطع لا مستمر؛ وتدعم النتائج تقييمًا متعدد الأبعاد لاستدامة نتائج voice therapy.",
+      "summary_en": "This retrospective cross-sectional study assessed long-term patient-reported outcomes in 64 adults treated with voice therapy for benign vocal fold lesions or primary muscle tension dysphonia. Follow-up occurred a mean of approximately 47 months after therapy, using the VHI-10 and a Patient Perception of Voice Therapy questionnaire. The mean VHI-10 score was 12.06, and lower handicap correlated with greater perceived treatment benefit and improvement. Time since treatment was not significantly associated with outcome measures, and outcomes did not differ significantly among diagnostic groups. Overall, 60.9% reported significant or major improvement, adequate ability to meet daily communication demands, and no need for further evaluation or treatment. Symptom recurrence was common but typically intermittent, supporting multidimensional assessment of long-term voice therapy outcomes.",
+      "practice_change_ar": "لا تغيّر هذه النتائج الممارسة مباشرة، لكنها تدعم مناقشة احتمال استمرار الفائدة لسنوات مع المرضى ومتابعة الوظيفة الصوتية إلى جانب الأعراض.",
+      "practice_change_en": "These findings do not directly change practice, but support discussing potentially durable benefits with patients and assessing voice function alongside symptoms during follow-up.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية متعددة المراكز وبمتابعة استباقية على تحديد العوامل التي تتنبأ باستمرار التحسن أو عودة الأعراض بعد voice therapy.",
+      "future_impact_en": "Future prospective, multicenter studies may identify factors that predict sustained improvement or symptom recurrence after voice therapy.",
+      "why_important_ar": "تضيف الدراسة بيانات متابعة طويلة الأمد تتمحور حول المريض لحالات شائعة من اضطرابات الصوت.",
+      "why_important_en": "The study adds long-term, patient-centered outcome data for common voice disorders.",
+      "vs_previous_ar": "تتجاوز هذه النتائج التقييم قصير الأمد للأعراض بإظهار نتائج يبلغ عنها المرضى بعد نحو أربع سنوات، لكنها لا تثبت السببية أو التفوق على علاج آخر.",
+      "vs_previous_en": "The study extends short-term symptom assessment with patient-reported outcomes at roughly four years, but does not establish causality or superiority over another treatment.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة استعادية مقطعية صغيرة نسبيًا دون مجموعة مقارنة؛ تقدم معرفة مفيدة عن استدامة النتائج، لكنها لا تغيّر الممارسة ولا تثبت فعالية العلاج سببيًا.",
+      "stars_reason_en": "A relatively small retrospective cross-sectional study without a comparator; it provides useful information on durability but does not change practice or establish causal treatment efficacy.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Worth discussing because it evaluates voice therapy outcomes after long follow-up and distinguishes symptom recurrence from persistent functional handicap, while highlighting limitations of retrospective design.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تلزم دراسات استباقية ذات قياسات قبل العلاج ومجموعة مقارنة لتحديد مقدار التحسن المنسوب للعلاج والعوامل المرتبطة باستدامته.",
+      "research_gap_en": "Prospective studies with pretreatment measures and a comparator are needed to estimate treatment-attributable improvement and identify predictors of durability.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة عن النتائج طويلة الأمد التي أبلغ عنها المرضى بعد voice therapy لدى أشخاص لديهم benign vocal fold lesions أو primary muscle tension dysphonia. شملت الدراسة 64 بالغًا أكملوا العلاج بين عامي 2021 و2023، ثم أجابوا عن استبيانات بعد متوسط متابعة بلغ نحو 47 شهرًا. استخدم الباحثون Voice Handicap Index-10، إلى جانب استبيان Patient Perception of Voice Therapy ومعلومات ديموغرافية.\n\nكان متوسط VHI-10 هو 12.06. وارتبط انخفاض الإعاقة الصوتية بإدراك أكبر لفائدة العلاج وبمزيد من التحسن الملحوظ. لم يظهر ارتباط مهم بين الزمن المنقضي منذ العلاج ونتائج المرضى، كما لم تختلف النتائج بصورة مهمة بين مجموعة vocal nodule وPMTD ومجموعات التشخيص الأخرى أو المختلطة. أفاد 60.9% بتحسن كبير أو ملحوظ، وبأنهم قادرون على تلبية متطلبات التواصل اليومية، ولم يحتاجوا إلى تقييم أو علاج إضافي. ورغم شيوع عودة الأعراض، كانت غالبًا متقطعة بدلًا من أن تكون مستمرة.\n\nما أهمية ذلك سريريًا؟ تشير النتائج إلى أن المرضى قد يرون فائدة من voice therapy تستمر لسنوات، وأن قياس نجاح العلاج لا ينبغي أن يقتصر على وجود الأعراض؛ بل يجب أن يشمل الإعاقة الصوتية، والقدرة على التواصل، وتصور المريض للتعافي. لكن هذه دراسة استعادية مقطعية بلا مجموعة مقارنة، وتعتمد على تقارير المرضى بعد سنوات، لذلك لا تثبت أن العلاج وحده سبب استمرار التحسن ولا تحدد مسار الأعراض بدقة.\n\nلا تفرض الدراسة تغييرًا مباشرًا في الممارسة، لكنها تدعم مناقشة استدامة الفائدة مع المرضى واستخدام مقاييس متعددة عند المتابعة. والخطوة البحثية التالية هي إجراء دراسات استباقية تشمل قياسات قبل العلاج ومجموعات مقارنة لتحديد من يستفيد طويلًا، وما العوامل المرتبطة بعودة الأعراض أو استمرار التحسن. الخلاصة: هذه إضافة مفيدة لطب الحنجرة، لا دليل حاسم لتغيير مسار العلاج.",
+      "audio_script_en": "Today’s article examines long-term patient-reported outcomes after voice therapy for benign vocal fold lesions and primary muscle tension dysphonia. It included 64 adults who had completed therapy between 2021 and 2023. Participants completed the Voice Handicap Index-10, an expanded Turkish Patient Perception of Voice Therapy questionnaire, and a demographic questionnaire at a mean of about 47 months after treatment.\n\nThe mean VHI-10 score was 12.06. Lower voice-related handicap was associated with greater perceived treatment benefit and improvement. Time since treatment was not significantly associated with any outcome measure, and outcomes did not significantly differ across vocal nodule, PMTD, and other or mixed diagnostic groups. Overall, 60.9% reported significant or major improvement, said they could meet daily communication demands, and did not require further evaluation or treatment. Symptom recurrence was common, but was typically intermittent rather than persistent.\n\nWhy does this matter? The findings suggest that patients may perceive benefits from voice therapy for several years. They also support evaluating outcomes beyond symptoms alone, including functional communication, voice handicap, and the patient’s own perception of recovery. However, this was a retrospective cross-sectional study without a comparison group, and outcomes were recalled and reported years after therapy. It therefore cannot establish that therapy alone caused sustained improvement or precisely describe symptom trajectories.\n\nThe study does not require an immediate change in practice. It does support discussing the possibility of durable benefit and using multidimensional patient-reported measures in follow-up. Prospective studies with pretreatment assessments and comparison groups are needed to determine who maintains improvement and which factors predict recurrence. In summary, this is useful laryngology evidence on long-term patient experience, but not definitive evidence for changing treatment pathways.",
+      "mcq": [
+        {
+          "q_ar": "كم بلغ متوسط مدة المتابعة بعد voice therapy؟",
+          "q_en": "What was the mean follow-up time after voice therapy?",
+          "options_ar": [
+            "أ) نحو 12 شهرًا",
+            "ب) نحو 24 شهرًا",
+            "ج) نحو 47 شهرًا",
+            "د) نحو 90 شهرًا"
+          ],
+          "options_en": [
+            "A) About 12 months",
+            "B) About 24 months",
+            "C) About 47 months",
+            "D) About 90 months"
+          ],
+          "answer": 2,
+          "explanation_ar": "كان متوسط المتابعة 46.98 شهرًا، أي نحو 47 شهرًا.",
+          "explanation_en": "The mean follow-up was 46.98 months, or approximately 47 months."
+        },
+        {
+          "q_ar": "ما النتيجة المتعلقة بالزمن منذ العلاج؟",
+          "q_en": "What did the study find about time since treatment?",
+          "options_ar": [
+            "أ) ارتبط بزيادة الإعاقة الصوتية بصورة مهمة",
+            "ب) ارتبط بتحسن أكبر بصورة مهمة",
+            "ج) لم يرتبط بصورة مهمة بمقاييس النتائج",
+            "د) اختلف أثره حسب التشخيص بصورة مؤكدة"
+          ],
+          "options_en": [
+            "A) It was significantly associated with greater voice handicap",
+            "B) It was significantly associated with greater improvement",
+            "C) It was not significantly associated with outcome measures",
+            "D) Its effect differed definitively by diagnosis"
+          ],
+          "answer": 2,
+          "explanation_ar": "لم يرتبط الوقت المنقضي منذ العلاج بصورة مهمة بأي من مقاييس النتائج التي أبلغ عنها المرضى.",
+          "explanation_en": "Time since treatment was not significantly associated with any patient-reported outcome measure."
+        },
+        {
+          "q_ar": "ما أهم محدودية في تفسير هذه النتائج؟",
+          "q_en": "What is a key limitation when interpreting these findings?",
+          "options_ar": [
+            "أ) الدراسة شملت أقل من عشرة مرضى",
+            "ب) الدراسة استعادية مقطعية بلا مجموعة مقارنة",
+            "ج) لم تُجمع أي نتائج أبلغ عنها المرضى",
+            "د) اقتصرت الدراسة على حيوانات"
+          ],
+          "options_en": [
+            "A) The study included fewer than ten patients",
+            "B) The study was retrospective and cross-sectional without a comparator",
+            "C) No patient-reported outcomes were collected",
+            "D) The study was limited to animals"
+          ],
+          "answer": 1,
+          "explanation_ar": "التصميم الاستعادي المقطعي وغياب مجموعة مقارنة يحدان من الاستدلال السببي حول فاعلية العلاج واستدامة أثره.",
+          "explanation_en": "The retrospective cross-sectional design and lack of a comparator limit causal conclusions about treatment efficacy and durability."
+        }
+      ]
+    },
+    {
+      "pmid": "42913514",
+      "title_ar": "Intraoperative dorsal cochlear nucleus action potential monitoring in hearing preservation retrosigmoid surgery for vestibular schwannoma: a predictive analysis of short-term hearing outcomes.",
+      "title_en": "Intraoperative dorsal cochlear nucleus action potential monitoring in hearing preservation retrosigmoid surgery for vestibular schwannoma: a predictive analysis of short-term hearing outcomes.",
+      "journal": "Journal of neurosurgery",
+      "pub_date": "2026-Oct-23",
+      "doi": "10.3171/2026.5.JNS253148",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42913514/",
+      "pdf_url": null,
+      "study_design": "Retrospective cohort n=153",
+      "summary_ar": "قيّمت هذه الدراسة retrospective cohort سلامة وقيمة التنبؤ باستخدام continuous DNAP monitoring عبر 4-contact depth electrode أثناء retrosigmoid resection لـ vestibular schwannoma، مقارنةً بـ ABR. شملت الدراسة 153 مريضًا بالغًا لديهم preoperative WRS ≥50%، وسُجلت baseline DNAP signals مستقرة لدى 80.4% مقارنةً بـ60.8% لـ ABR، دون مضاعفات منسوبة إلى electrode. بعد 5–7 أيام، حقق 41.2% serviceable hearing و56.2% speech function preservation؛ وكانت النسب عند 6 أشهر 40.9% و56.2% على التوالي بين من توفرت لهم audiometry. ظل DNAP preservation أكثر المتغيرات اتساقًا بوصفه independent predictor للنتائج المبكرة ونتائج 6 أشهر. حدد ROC analysis قيمة DNAP residual amplitude ratio مقدارها 0.41 كـ cutoff أمثل للتنبؤ بالنتائج المبكرة، مع أداء تشخيصي جيد وحساسية أعلى باستمرار من ABR في متابعة 6 أشهر. تدعم النتائج جدوى التقنية كأداة intraoperative feedback، لكنها لا تثبت أن استخدامها يحسن النتائج مقارنةً بـ standard monitoring.",
+      "summary_en": "This retrospective cohort evaluated the safety and predictive value of continuous DNAP monitoring with a 4-contact depth electrode during retrosigmoid vestibular schwannoma resection, compared with ABR. The study included 153 adults with preoperative WRS ≥50%; stable baseline DNAP signals were recorded in 80.4%, versus 60.8% for ABR, with no electrode-related complications. At 5–7 days, 41.2% had serviceable hearing and 56.2% preserved speech function; corresponding 6-month rates were 40.9% and 56.2% among patients with available audiometry. DNAP preservation was the most consistent independent predictor of early and 6-month hearing outcomes. ROC analysis identified a DNAP residual amplitude ratio cutoff of 0.41 for early outcomes, and DNAP showed favorable diagnostic performance with consistently higher sensitivity than ABR at 6 months. The results support DNAP as a promising source of intraoperative feedback, but do not establish that its use improves outcomes compared with standard monitoring.",
+      "practice_change_ar": "لا تكفي هذه النتائج retrospective لتغيير standard monitoring اليوم، لكنها تدعم النظر في DNAP monitoring كإضافة واعدة في مراكز جراحة vestibular schwannoma ذات الخبرة.",
+      "practice_change_en": "These retrospective findings are insufficient to change standard monitoring today, but support considering DNAP monitoring as a promising adjunct at experienced vestibular schwannoma centers.",
+      "future_impact_ar": "قد يؤدي التحقق prospectively من DNAP residual amplitude ratio cutoff إلى تحسين التنبؤ بالسمع وتوجيه قرارات الجراحة أثناء العملية.",
+      "future_impact_en": "Prospective validation of the DNAP residual amplitude ratio cutoff may improve hearing prediction and inform intraoperative surgical decisions.",
+      "why_important_ar": "تقدم الدراسة بيانات سريرية كبيرة نسبيًا عن أداة monitoring جديدة قد توفر feedback أكثر موثوقية من ABR أثناء hearing-preservation surgery.",
+      "why_important_en": "This study provides a relatively large clinical dataset on a monitoring tool that may offer more reliable feedback than ABR during hearing-preservation surgery.",
+      "vs_previous_ar": "بخلاف الاعتماد على ABR وحده، تقارن الدراسة continuous DNAP monitoring مباشرةً بـ ABR وتقترح cutoff كميًا للتنبؤ بالنتائج.",
+      "vs_previous_en": "Unlike reliance on ABR alone, this study directly compares continuous DNAP monitoring with ABR and proposes a quantitative outcome-prediction cutoff.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة retrospective cohort كبيرة نسبيًا (n=153) في مجال skull_base، وتختبر تقنية monitoring جديدة مع نتائج سريرية ومتابعة؛ لكنها غير عشوائية ولا تثبت تحسن النتائج بسبب استخدامها، لذا تستحق 4 نجوم دون أن تغيّر الممارسة بعد.",
+      "stars_reason_en": "A relatively large retrospective cohort (n=153) in skull-base surgery evaluates a novel monitoring technique with clinical outcomes and follow-up. However, it is nonrandomized and does not show that using the technique improves outcomes, supporting 4 stars without a practice-changing rating.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسبة للنقاش لأنها تقارن DNAP مع ABR، وتقترح cutoff عمليًا، وتثير أسئلة مهمة حول التحقق prospectively وأثر monitoring على القرارات والنتائج.",
+      "jc_reason_en": "Suitable for journal club because it compares DNAP with ABR, proposes a practical cutoff, and raises important questions about prospective validation and whether monitoring changes decisions or outcomes.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا 4-contact depth electrode وcontinuous DNAP monitoring؛ فهما تقنية monitoring واعدة قد تكمل ABR في hearing-preservation surgery.",
+      "watch_detail_en": "Track the 4-contact depth electrode and continuous DNAP monitoring as a promising monitoring technology that may complement ABR in hearing-preservation surgery.",
+      "watch_type": "device",
+      "research_gap_ar": "يلزم إجراء prospective multicenter studies لتأكيد سلامة التقنية وقيمة cutoff، وتحديد ما إذا كان توجيه الجراحة بواسطة DNAP يحسن hearing outcomes مقارنةً بـ ABR وحده.",
+      "research_gap_en": "Prospective multicenter studies are needed to confirm safety and the proposed cutoff, and to determine whether DNAP-guided surgery improves hearing outcomes compared with ABR alone.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نناقش اليوم دراسة عن continuous monitoring لـ dorsal cochlear nucleus action potential، أو DNAP، خلال retrosigmoid surgery لاستئصال vestibular schwannoma مع محاولة الحفاظ على السمع. السؤال الأساسي هو: هل يمكن لـ DNAP monitoring أن يوفر إشارة موثوقة ويتنبأ بالسمع بعد العملية بصورة أفضل من auditory brainstem response، أو ABR؟\n\nهذه retrospective cohort شملت 153 مريضًا بالغًا، وكانت لديهم preoperative word recognition score لا يقل عن 50%. استخدم الفريق multimodal monitoring شمل ABR وcochlear nerve action potential mapping، إضافة إلى 4-contact depth electrode لتسجيل DNAP باستمرار. أمكن تسجيل baseline DNAP signals مستقرة لدى 80.4% من المرضى، مقارنةً بـ60.8% مع ABR، ولم تُسجل مضاعفات منسوبة إلى electrode.\n\nبعد 5 إلى 7 أيام، حقق 41.2% من المرضى serviceable hearing، بينما حافظ 56.2% على speech function وفق WRS ≥50%. وفي مجموعة المتابعة audiometric عند 6 أشهر، كانت النسب 40.9% و56.2% على التوالي. في multivariable analyses، كان DNAP preservation أكثر المتنبئات المستقلة اتساقًا للنتائج المبكرة وعند 6 أشهر. كما اقترح ROC analysis أن DNAP residual amplitude ratio أكبر من 0.41 يرتبط بنتائج سمعية مبكرة أفضل. وفي متابعة 6 أشهر، أظهر DNAP أداءً تشخيصيًا جيدًا وحساسية أعلى باستمرار من ABR.\n\nما أهمية ذلك؟ قد يوفر DNAP feedback مستمرًا أثناء الجراحة، ويكون مفيدًا عندما لا يمكن تسجيل ABR بصورة مستقرة. لكن هذه الدراسة retrospective، ولا تثبت أن استخدام DNAP يسبب تحسنًا في السمع أو يغير القرارات الجراحية للأفضل. لذلك لا ينبغي اعتبار cutoff البالغ 0.41 قاعدة علاجية ثابتة أو استبدال ABR اعتمادًا على هذه النتائج وحدها.\n\nالخلاصة العملية: DNAP monitoring باستخدام depth electrode يبدو آمنًا وواعدًا كمكمّل لـ ABR في مراكز skull_base ذات الخبرة، لكنه يحتاج إلى prospective multicenter validation. وينبغي أن تقيس الدراسات القادمة ليس فقط دقة التنبؤ، بل أيضًا ما إذا كان DNAP-guided surgery يحسن hearing outcomes مقارنةً بالمراقبة المعتادة.",
+      "audio_script_en": "Today’s paper examines continuous dorsal cochlear nucleus action potential, or DNAP, monitoring during retrosigmoid vestibular schwannoma surgery intended to preserve hearing. The central question is whether DNAP provides a reliable signal and predicts postoperative hearing better than auditory brainstem response, or ABR.\n\nThis retrospective cohort included 153 adults with a preoperative word recognition score of at least 50%. The multimodal monitoring protocol included ABR, cochlear nerve action potential mapping, and continuous DNAP recording through a 4-contact depth electrode. Stable baseline DNAP signals were obtained in 80.4% of patients, compared with 60.8% for ABR. No complications were attributed to electrode placement.\n\nAt 5 to 7 days after surgery, 41.2% of patients had serviceable hearing, and 56.2% preserved speech function based on WRS of at least 50%. Among patients with audiometric follow-up at 6 months, the corresponding rates were 40.9% and 56.2%. In multivariable analyses, DNAP preservation was the most consistent independent predictor of both early and 6-month outcomes. ROC analysis proposed a DNAP residual amplitude ratio cutoff of 0.41 for early outcomes. At 6 months, DNAP retained favorable diagnostic performance and consistently higher sensitivity than ABR.\n\nWhy does this matter? Continuous DNAP feedback may be useful during surgery, particularly when ABR signals cannot be recorded reliably. However, this is a retrospective study, and it does not demonstrate that DNAP monitoring itself improves hearing or changes surgical decisions in a beneficial way. The proposed 0.41 cutoff should therefore not yet be treated as a definitive decision threshold, and these data alone do not support replacing ABR.\n\nThe practical takeaway is that DNAP monitoring with a depth electrode appears safe and promising as an adjunct to ABR at experienced skull-base centers. Prospective multicenter validation is needed. Future studies should assess not only predictive accuracy but also whether DNAP-guided surgery actually improves hearing outcomes compared with usual monitoring.",
+      "mcq": [
+        {
+          "q_ar": "كم كانت نسبة المرضى الذين أمكن تسجيل baseline DNAP signals مستقرة لديهم؟",
+          "q_en": "In what proportion of patients were stable baseline DNAP signals recorded?",
+          "options_ar": [
+            "أ) 40.9%",
+            "ب) 60.8%",
+            "ج) 80.4%",
+            "د) 93.0%"
+          ],
+          "options_en": [
+            "A) 40.9%",
+            "B) 60.8%",
+            "C) 80.4%",
+            "D) 93.0%"
+          ],
+          "answer": 2,
+          "explanation_ar": "سُجلت baseline DNAP signals مستقرة لدى 123 من أصل 153 مريضًا، أي 80.4%، مقارنةً بـ60.8% لـ ABR.",
+          "explanation_en": "Stable baseline DNAP signals were recorded in 123 of 153 patients, or 80.4%, compared with 60.8% for ABR."
+        },
+        {
+          "q_ar": "ما قيمة DNAP residual amplitude ratio cutoff التي اقترحها ROC analysis للنتائج المبكرة؟",
+          "q_en": "What DNAP residual amplitude ratio cutoff did ROC analysis identify for early outcomes?",
+          "options_ar": [
+            "أ) 0.21",
+            "ب) 0.41",
+            "ج) 0.60",
+            "د) 0.80"
+          ],
+          "options_en": [
+            "A) 0.21",
+            "B) 0.41",
+            "C) 0.60",
+            "D) 0.80"
+          ],
+          "answer": 1,
+          "explanation_ar": "حدد ROC analysis قيمة 0.41 كـ cutoff أمثل للتنبؤ بالنتائج السمعية المبكرة.",
+          "explanation_en": "ROC analysis identified 0.41 as the optimal cutoff for predicting early hearing outcomes."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأكثر ملاءمة عند تطبيق نتائج هذه الدراسة على الممارسة؟",
+          "q_en": "What is the most appropriate clinical interpretation of these findings?",
+          "options_ar": [
+            "أ) استبدال ABR بـ DNAP في جميع الحالات فورًا",
+            "ب) اعتبار cutoff 0.41 معيارًا علاجيًا مثبتًا",
+            "ج) اعتبار DNAP تقنية واعدة كمكمّل، مع الحاجة إلى تحقق prospective",
+            "د) تجنب استخدام depth electrode بسبب مضاعفات شائعة"
+          ],
+          "options_en": [
+            "A) Replace ABR with DNAP in all cases immediately",
+            "B) Treat the 0.41 cutoff as a proven treatment standard",
+            "C) Consider DNAP a promising adjunct pending prospective validation",
+            "D) Avoid the depth electrode because complications are common"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة retrospective وتدعم الوعد التنبؤي لـ DNAP، لكنها لا تثبت أن استخدامه يحسن النتائج؛ لذلك يلزم prospective validation قبل تغيير الممارسة.",
+          "explanation_en": "The retrospective study supports DNAP’s predictive promise but does not prove that its use improves outcomes; prospective validation is needed before changing practice."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026102401",
+      "title_ar": "شركات رائدة في مجال الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية",
+      "title_en": "Leading ENT Companies Driving Medical Technology Innovation",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-24",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت SNS Insider مقالًا بعنوان «شركات رائدة في مجال الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية». ولا يحدد المحتوى المتاح هنا أسماء الشركات أو التقنيات أو بيانات السوق أو التطورات التي يناقشها المقال. كما لا يذكر صفقة استحواذ محددة أو دعوى قضائية أو تحركًا في الأسهم أو قرارًا تنظيميًا. ويلزم الاطلاع على تفاصيل إضافية من المقال لتقييم ما يورده.",
+      "summary_en": "SNS Insider published an article titled “Leading ENT Companies Driving Medical Technology Innovation.” The item provided here does not identify the companies, technologies, market data, or specific developments discussed. It does not report a named acquisition, lawsuit, stock move, or regulatory decision. Further details from the article would be needed to assess its claims.",
+      "practice_change_ar": "لا يصف الخبر منتجًا أو تطورًا سريريًا محددًا، لذا لا يشير وحده إلى تغيير في الممارسة الحالية لجراحي الأنف والأذن والحنجرة.",
+      "practice_change_en": "No specific product or clinical development is described, so the item alone does not suggest a change to ENT surgeons’ current practice.",
+      "future_impact_ar": "قد يقدم المقال نظرة عامة على السوق، لكن لا يمكن تحديد دلالاته على مستقبل رعاية الأنف والأذن والحنجرة دون تفاصيل عن الشركات والتقنيات المعنية.",
+      "future_impact_en": "The article may offer a market overview, but its implications for future ENT care cannot be determined without details on the companies and technologies involved.",
+      "why_important_ar": "يشير العنوان إلى نشاط عام في مجال تقنيات الأنف والأذن والحنجرة، لكنه لا يقدم معلومات تثبت وجود أثر سريري أو تشغيلي.",
+      "why_important_en": "The headline signals general activity in ENT medical technology, but provides no evidence of a clinical or operational impact.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "أهمية محدودة للممارسين؛ فالمعلومات المتاحة لا تتضمن تطورًا تجاريًا أو سريريًا محددًا.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "يتناول عنوان منشور من SNS Insider شركات رائدة يُقال إنها تقود الابتكار في التكنولوجيا الطبية بمجال الأنف والأذن والحنجرة. لكن التفاصيل المتاحة عن الخبر تقتصر على العنوان، ولا تحدد الشركات أو التقنيات أو التطورات التي يتناولها المقال. كذلك لا تتضمن معلومات عن صفقات استحواذ، أو قرارات للهيئات التنظيمية، أو نتائج سريرية، أو تحركات في الأسهم. لذلك لا يمكن استنتاج أثر مباشر على قرارات العلاج أو الممارسة اليومية لجراحي الأنف والأذن والحنجرة. قد يكون المقال مفيدًا بوصفه نظرة عامة على السوق، لكن تقييم أهميته يتطلب الاطلاع على الشركات والمنتجات والبيانات التي يستند إليها. في الوقت الحالي، لا يشير الخبر وحده إلى تغيير في رعاية المرضى أو إلى إجراء محدد يستدعي المتابعة.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026102402",
+      "title_ar": "ميدترونيك وكارل شتورز تتعاونان لتطوير حلول جراحية متكاملة للأنف والأذن والحنجرة",
+      "title_en": "Medtronic and KARL STORZ Partner on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-24",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أفادت «ماس ديفايس» بأن ميدترونيك وكارل شتورز تتعاونان لتطوير حلول جراحية متكاملة في مجال الأنف والأذن والحنجرة. ولا يحدد العنوان المنتجات أو التقنيات التي ستُدمج، أو موعد إتاحة أي حلول، أو ما إذا كان التعاون يتضمن التزامات تجارية أو سريرية. ولا يتضمن الخبر المتاح معلومات عن قرار تنظيمي أو استحواذ أو شروط مالية.",
+      "summary_en": "Medtronic and KARL STORZ are collaborating on integrated surgical solutions for ear, nose and throat care, according to MassDevice. The headline does not specify which products or technologies will be combined, when any solutions may become available, or whether the collaboration includes commercial or clinical commitments. No regulatory decision, acquisition, or financial terms are reported in the provided item.",
+      "practice_change_ar": "ينبغي لجراحي الأنف والأذن والحنجرة انتظار تفاصيل المنتجات ومدى توافرها قبل التفكير في تغيير تجهيزاتهم أو سير العمل الجراحي.",
+      "practice_change_en": "ENT surgeons should await details about the products and availability before considering any changes to their equipment or surgical workflows.",
+      "future_impact_ar": "قد يشير التعاون إلى استمرار الاستثمار في تقنيات متكاملة لغرف عمليات الأنف والأذن والحنجرة، وسيتوقف أثره العملي على الحلول التي ستُعلن لاحقاً.",
+      "future_impact_en": "The partnership may signal continued investment in integrated ENT operating-room technology, with its practical impact depending on the solutions ultimately announced.",
+      "why_important_ar": "إذا أسفر التعاون عن أنظمة متوافقة، فقد يبسّط سير العمل في غرف العمليات، لكن المعلومات المتاحة لا تثبت أي فوائد سريرية.",
+      "why_important_en": "If the collaboration delivers compatible systems, it could simplify operating-room workflows, but no clinical benefits are established in the information provided.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "أهمية محدودة حالياً لغياب تفاصيل المنتجات أو أثر سريري أو موعد للتطبيق.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "في خبر يهم قطاع تقنيات الأنف والأذن والحنجرة، أعلنت ميدترونيك وكارل شتورز عن تعاون لتطوير حلول جراحية متكاملة. لكن المعلومات المنشورة في العنوان المتاح لا توضح ما المنتجات أو التقنيات التي ستشملها الشراكة، ولا متى قد تصبح هذه الحلول متاحة للجراحين. كذلك، لا توجد تفاصيل هنا عن دراسات سريرية أو فوائد محددة للمرضى، ولا عن شروط تجارية أو موافقات تنظيمية. لذلك، لا يعني الإعلان وحده أن على الأطباء تغيير تجهيزاتهم أو ممارساتهم الحالية. بالنسبة لجراحي الأنف والأذن والحنجرة، ستكون النقاط المهمة عند صدور مزيد من التفاصيل هي توافق الأنظمة مع تجهيزات غرف العمليات القائمة، ومدى تأثيرها في سير العمل، وتوافر بيانات تدعم أي ادعاءات سريرية. في الوقت الحالي، يُنظر إلى الخبر بوصفه إشارة إلى تعاون صناعي محتمل، وليس دليلاً على تغيير فوري في الممارسة. سنحتاج إلى معلومات إضافية لتقييم الأثر العملي لهذه الشراكة.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026102403",
+      "title_ar": "سوق أنظمة التصوير للتنظير الداخلي متوسطة الفئة حتى عام 2035: الطلب على الإجراءات طفيفة التوغل يدفع النمو",
+      "title_en": "Mid-Range Endoscopy Visualization Systems Market to 2035: Minimally Invasive Demand Drives Growth",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-24",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت IndexBox تقريراً عن آفاق سوق أنظمة التصوير للتنظير الداخلي متوسطة الفئة حتى عام 2035، وعزت النمو المتوقع إلى الطلب على الإجراءات طفيفة التوغل. ولا يتضمن الخبر المتاح تقديرات لحجم السوق أو تفاصيل جغرافية أو تطورات تخص شركات بعينها. كما لا يذكر قرارات تنظيمية أو تغييرات في الإرشادات السريرية.",
+      "summary_en": "IndexBox published a market outlook titled “Mid-Range Endoscopy Visualization Systems Market to 2035,” attributing expected growth to demand for minimally invasive procedures. The provided news item does not include market-size estimates, regional details, or specific company developments. It also does not identify any regulatory decisions or changes to clinical guidance.",
+      "practice_change_ar": "لا يعلن التقرير عن تغيير في الممارسة السريرية، لكن الاتجاه المذكور قد يكون مفيداً عند تقييم احتياجات شراء أنظمة التنظير مستقبلاً.",
+      "practice_change_en": "The report does not announce a change in clinical practice, but its stated trend may be relevant when evaluating future endoscopy-system purchasing needs.",
+      "future_impact_ar": "إذا استمر الاتجاه المتوقع، فقد تشهد عيادات الأنف والأذن والحنجرة استثمارات وخيارات منتجات أكثر في أنظمة التصوير متوسطة الفئة، لكن الخبر لا يقدم أرقاماً محددة للتوقعات.",
+      "future_impact_en": "If the forecasted trend continues, ENT practices may see more investment and product options in mid-range visualization systems, but the item provides no specific forecast figures.",
+      "why_important_ar": "قد يدعم تزايد الطلب على الرعاية طفيفة التوغل انتشار معدات التصوير بالتنظير، لكن التقرير لا يقدم دليلاً على أثر سريري مباشر.",
+      "why_important_en": "Greater demand for minimally invasive care could support wider availability of endoscopic visualization equipment, although the report provides no evidence of a direct clinical impact.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "خبر عام عن توقعات السوق، من دون أرقام أو تطورات محددة ذات أثر مباشر على أطباء الأنف والأذن والحنجرة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "إليكم موجزاً عن خبر يخص سوق أجهزة التنظير. نشرت IndexBox تقريراً يتناول توقعات سوق أنظمة التصوير للتنظير الداخلي متوسطة الفئة حتى عام 2035، ويشير عنوان التقرير إلى أن الطلب على الإجراءات طفيفة التوغل يدفع نمو السوق. لكن الخبر المتاح لا يذكر حجم السوق أو معدل النمو المتوقع، ولا يحدد المناطق أو الشركات التي قد تقود هذا التوسع. كما لا يتضمن معلومات عن موافقات تنظيمية أو تغييرات في التوصيات السريرية. بالنسبة لأطباء الأنف والأذن والحنجرة، قد يكون الاتجاه مهماً عند التخطيط لاحتياجات الأجهزة والاستثمار في تقنيات التنظير مستقبلاً، لكنه لا يغيّر الممارسة الحالية بحد ذاته. لذلك، ينبغي التعامل معه كتوجه عام في السوق، لا كدليل على أثر سريري مؤكد.",
+      "mcq": []
+    }
+  ]
+}
