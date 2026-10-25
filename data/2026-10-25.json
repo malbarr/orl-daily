@@ -1,0 +1,981 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T08:24:06Z",
+  "articles": [
+    {
+      "pmid": "42909557",
+      "title_ar": "Oral versus intranasal probiotics for nasal microbiome modulation: a comparative review of route-dependent mechanisms and clinical implications.",
+      "title_en": "Oral versus intranasal probiotics for nasal microbiome modulation: a comparative review of route-dependent mechanisms and clinical implications.",
+      "journal": "Folia microbiologica",
+      "pub_date": "2026-Oct-23",
+      "doi": "10.1007/s12223-026-01614-y",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42909557/",
+      "pdf_url": null,
+      "study_design": "Narrative review of clinical and mechanistic studies",
+      "summary_ar": "تقارن هذه narrative review بين oral probiotics وintranasal probiotics لتعديل nasal microbiome في allergic rhinitis وchronic rhinosinusitis وعدوى الجهاز التنفسي لدى الأطفال. قد تؤثر oral probiotics عبر systemic immunomodulation المرتبط بgut-nose axis، أو عبر انتقال بعض السلالات من oropharynx إلى nasopharynx. أظهرت دراسات محددة تحسناً في أعراض allergic rhinitis أو مؤشرات cytokines، لكن النتائج تختلف باختلاف السلالة والتركيبة. أظهرت intranasal probiotics بعض الفوائد في دراسات منفردة تشمل pathogen displacement، بينما لم تُظهر بخاخات أخرى فائدة واضحة في allergic rhinitis أو chronic rhinosinusitis. تشير المراجعة إلى أن اختيار طريق الإعطاء قد يتوافق مبدئياً مع pathophysiology، لكن الدليل لا يثبت تفوق أحد الطريقين. وتدعو إلى direct comparative trials، واختيار المشاركين وفق microbiome، وتطوير formulations تطلق probiotic بصورة مستدامة.",
+      "summary_en": "This narrative review compares oral and intranasal probiotics for nasal microbiome modulation in allergic rhinitis, chronic rhinosinusitis, and pediatric respiratory infections.\nOral probiotics may act through systemic immunomodulation along the gut-nose axis or through oropharyngeal-to-nasopharyngeal trafficking.\nSelected trials reported symptom or cytokine improvements, but effects varied by strain and formulation.\nSome intranasal products showed pathogen displacement and clinical benefit in individual studies, while other sprays showed no clear benefit.\nThe review suggests route selection may reflect disease pathophysiology, but does not establish that either route is superior.\nIt calls for direct comparative trials, microbiome-based stratification, and sustained-release formulations.",
+      "practice_change_ar": "لا يبرر هذا الدليل تغيير الممارسة الحالية، ويمكن استخدامه فقط لتوجيه اختيار probiotic بصورة حذرة وفق المرض والسلالة.",
+      "practice_change_en": "This evidence does not justify changing current practice; it may only cautiously inform probiotic selection by disease and strain.",
+      "future_impact_ar": "قد تتيح direct comparative trials وmicrobiome-based stratification تحديد المرضى والسلالات وطريق الإعطاء الأكثر فائدة.",
+      "future_impact_en": "Direct comparative trials and microbiome-based stratification may identify which patients, strains, and delivery routes are most beneficial.",
+      "why_important_ar": "تلخص المقالة دليلاً متبايناً على تدخل واعد، وتوضح أن النتائج قد تعتمد على توافق السلالة والمرض وطريق الإعطاء.",
+      "why_important_en": "The review synthesizes mixed evidence for a promising intervention and highlights the likely importance of matching strain, disease, and delivery route.",
+      "vs_previous_ar": "تقدم المقالة مقارنة منظمة بين oral وintranasal probiotics، بينما يظل الدليل السابق موزعاً بين دراسات مختلفة دون إثبات تفوق مباشر.",
+      "vs_previous_en": "The review organizes evidence across oral and intranasal probiotics, but the underlying literature remains fragmented and does not demonstrate direct superiority of either route.",
+      "stars": 3,
+      "stars_reason_ar": "هذه narrative review ذات صلة سريرية وتطرح إطاراً مفيداً لاختيار طريق الإعطاء، لكن غياب systematic review أو direct comparative trials وتباين النتائج يحدان من قوة الاستنتاجات؛ لذا تستحق 3 من 5.",
+      "stars_reason_en": "This clinically relevant narrative review offers a useful framework for route selection, but the absence of a systematic review or direct comparative trials and the heterogeneous findings limit its conclusions; 3 of 5 stars.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسب للنقاش لأنه يقارن آليات وطرق إعطاء مختلفة، ويكشف فجوة واضحة بين plausibility mechanistic والأدلة السريرية المتباينة.",
+      "jc_reason_en": "Suitable for discussion because it compares delivery mechanisms and highlights the gap between mechanistic plausibility and heterogeneous clinical evidence.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا formulations ذات الإطلاق المستدام ووسائل توصيل probiotic إلى nasopharynx، إذ قد تحسن التعرض الموضعي وتساعد على تفسير اختلاف النتائج.",
+      "watch_detail_en": "Track sustained-release formulations and methods of delivering probiotics to the nasopharynx, as they may improve local exposure and help explain variable results.",
+      "watch_type": "technology",
+      "research_gap_ar": "توجد حاجة إلى direct comparative trials مصممة جيداً تقارن oral وintranasal probiotics مع stratification وفق المرض وnasal microbiome والسلالة.",
+      "research_gap_en": "Well-designed direct comparative trials are needed to compare oral and intranasal probiotics with stratification by disease, nasal microbiome, and strain.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم مقالة تقارن oral probiotics وintranasal probiotics بوصفهما طريقتين لتعديل nasal microbiome، مع التركيز على allergic rhinitis وchronic rhinosinusitis وعدوى الجهاز التنفسي لدى الأطفال. تصميم المقالة هو narrative review يجمع دراسات سريرية وآلية، وليس تجربة مباشرة تقارن الطريقين.\n\nتشرح المراجعة أن oral probiotics قد تؤثر عبر systemic immunomodulation المرتبط بgut-nose axis، بما في ذلك نواتج مثل short-chain fatty acids وtryptophan metabolites. وقد تصل بعض السلالات أيضاً من oropharynx إلى nasopharynx؛ ففي دراسة على صيغة chewable بطيئة الإطلاق، رُصدت السلالة في nasopharynx لدى جزء من المشاركين، لكن تغير IL-13 ظهر في مجموعتي probiotic وplacebo، ما يجعل تفسير هذا المؤشر محدوداً. أشارت دراسات أخرى إلى تحسن أعراض أو تغير cytokines، لكن النتائج مرتبطة بالسلالة والتركيبة.\n\nأما intranasal probiotics، فقد أظهرت بعض الدراسات الصغيرة pathogen displacement وفوائد سريرية في حالات محددة، منها acute rhinosinusitis لدى الأطفال وotitis media وadenoid hypertrophy. لكن نتائج بعض بخاخات الأنف كانت سلبية، كما أن التحسن في بعض مجموعات chronic rhinosinusitis لم يتأكد دائماً عند المقارنة بين المجموعات. لذلك لا تثبت المراجعة تفوق oral أو intranasal delivery.\n\nالأهمية العملية اليوم محدودة: لا توجد قاعدة كافية لتغيير الممارسة، ويمكن فقط اعتبار pathophysiology والسلالة عند مناقشة هذه المنتجات. الثقة متوسطة، والتقييم ثلاث نجوم من خمس، لأن المقالة مفيدة في تنظيم الأدلة لكنها narrative review والنتائج متفاوتة. من التقنيات الجديرة بالمتابعة formulations ذات الإطلاق المستدام والتوصيل الموضعي إلى nasopharynx. الفجوة الأهم هي إجراء direct comparative trials مع stratification وفق nasal microbiome والمرض والسلالة.",
+      "audio_script_en": "Today’s review compares oral and intranasal probiotics as approaches to nasal microbiome modulation, focusing on allergic rhinitis, chronic rhinosinusitis, and pediatric respiratory infections. It is a narrative review of clinical and mechanistic studies—not a head-to-head trial of the two routes.\n\nThe authors describe two possible pathways for oral probiotics. One is systemic immunomodulation through the gut-nose axis, potentially involving short-chain fatty acids and tryptophan metabolites. The other is trafficking from the oropharynx to the nasopharynx. In one study, a slow-release chewable formulation was detected in the nasopharynx in some users. However, the reported decrease in IL-13 occurred in both probiotic and placebo groups, limiting interpretation of that biomarker. Other studies reported symptom or cytokine changes, but findings appear strain- and formulation-dependent.\n\nFor intranasal probiotics, some individual studies reported pathogen displacement and clinical benefit in settings including pediatric acute rhinosinusitis, otitis media, and adenoid hypertrophy. Results were not consistent: other nasal sprays showed no benefit, and improvements in some chronic rhinosinusitis groups were not always confirmed by between-group comparisons. The review therefore does not establish that oral or intranasal delivery is superior.\n\nThe practical takeaway is that current evidence is insufficient to change clinical practice. Disease pathophysiology and strain-specific evidence may inform cautious consideration, but should not be mistaken for proof of efficacy. I rate this three out of five stars, with worth-knowing confidence: it offers a useful synthesis, but it is a narrative review with heterogeneous underlying studies. Sustained-release formulations and local nasopharyngeal delivery are technologies to watch. The major research need is direct comparative trials with stratification by disease, nasal microbiome, and probiotic strain.",
+      "mcq": [
+        {
+          "q_ar": "ما التصميم الأساسي للمقالة؟",
+          "q_en": "What is the primary design of the article?",
+          "options_ar": [
+            "أ) RCT تقارن الطريقين مباشرة",
+            "ب) narrative review للأدلة السريرية والآلية",
+            "ج) prospective cohort",
+            "د) meta-analysis لشبكة من التجارب"
+          ],
+          "options_en": [
+            "A) An RCT directly comparing both routes",
+            "B) A narrative review of clinical and mechanistic evidence",
+            "C) A prospective cohort",
+            "D) A network meta-analysis of trials"
+          ],
+          "answer": 1,
+          "explanation_ar": "المقالة تصف نفسها بأنها narrative review تجمع دراسات سريرية وآلية، ولا تقدم تجربة مقارنة أصلية.",
+          "explanation_en": "The article is described as a narrative review synthesizing clinical and mechanistic studies, not an original comparative trial."
+        },
+        {
+          "q_ar": "أي عبارة تلخص الدليل حول طريق إعطاء probiotics؟",
+          "q_en": "Which statement best summarizes the evidence on probiotic delivery route?",
+          "options_ar": [
+            "أ) ثبت تفوق intranasal probiotics في جميع الأمراض",
+            "ب) ثبت تفوق oral probiotics في جميع الأمراض",
+            "ج) لا يثبت الدليل تفوق أحد الطريقين، والنتائج تعتمد على السلالة والمرض",
+            "د) لا توجد دراسات بشرية لأي من الطريقين"
+          ],
+          "options_en": [
+            "A) Intranasal probiotics are proven superior for all diseases",
+            "B) Oral probiotics are proven superior for all diseases",
+            "C) Neither route is proven superior; findings depend on strain and disease",
+            "D) No human studies exist for either route"
+          ],
+          "answer": 2,
+          "explanation_ar": "تؤكد المراجعة تباين النتائج وأهمية strain-disease matching، ولا تعرض دليلاً يثبت تفوقاً مباشراً لأحد الطريقين.",
+          "explanation_en": "The review emphasizes heterogeneous results and strain-disease matching, without evidence establishing direct superiority of either route."
+        },
+        {
+          "q_ar": "ما أهم فجوة بحثية حددتها المقالة؟",
+          "q_en": "What is the main research gap identified by the article?",
+          "options_ar": [
+            "أ) غياب دراسات عن oral probiotics حصراً",
+            "ب) الحاجة إلى direct comparative trials مع microbiome-based stratification",
+            "ج) الحاجة إلى تجارب على الحيوانات فقط",
+            "د) الحاجة إلى دراسات تقيس IL-13 دون أعراض سريرية"
+          ],
+          "options_en": [
+            "A) The complete absence of studies on oral probiotics",
+            "B) The need for direct comparative trials with microbiome-based stratification",
+            "C) The need for animal studies only",
+            "D) The need for studies measuring IL-13 without clinical symptoms"
+          ],
+          "answer": 1,
+          "explanation_ar": "توصي المقالة بمقارنة الطريقين مباشرة، مع اختيار المشاركين وفق microbiome وتقييم توافق المرض والسلالة.",
+          "explanation_en": "The review calls for head-to-head route comparisons and participant stratification by microbiome, with attention to disease and strain matching."
+        }
+      ]
+    },
+    {
+      "pmid": "42926144",
+      "title_ar": "Transforming Operative Documentation into Predictors of Vibratory Recovery After Phonomicrosurgery: A Proof-of-Concept Study.",
+      "title_en": "Transforming Operative Documentation into Predictors of Vibratory Recovery After Phonomicrosurgery: A Proof-of-Concept Study.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Oct-24",
+      "doi": "10.1016/j.jvoice.2026.09.052",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42926144/",
+      "pdf_url": null,
+      "study_design": "Proof-of-concept observational study, n=30",
+      "summary_ar": "درست هذه الدراسة إمكانية تحويل operative documentation بعد phonomicrosurgery إلى مقاييس كمية تتنبأ بنتائج اهتزاز vocal fold. شملت الدراسة 30 مريضًا لديهم benign vocal fold lesions، وحُسبت أربعة مقاييس: Incision Size Ratio Index (ISRI)، وLesion Area Index (LAI)، وIncision Position Index (IPI)، وoperative note score. قُيّمت العلاقة بين هذه المقاييس ونتائج postoperative stroboscopy باستخدام multiple linear regression. ارتبط ISRI سلبًا باستعادة mucosal wave (β = -1.87، P = 0.027)، بينما ارتبط LAI إيجابيًا بها (β = 13.64، P = 0.026). ظهرت هذه الارتباطات في التحليل متعدد المتغيرات فقط، بما يتماشى مع suppression pattern، ولم يظهر IPI أو operative note score قدرة تنبؤية. تُعد النتائج أولية ولا تثبت أن هذه المقاييس تحسن اختيار العلاج أو النتائج السريرية.",
+      "summary_en": "This proof-of-concept study examined whether operative documentation after phonomicrosurgery can be converted into quantitative predictors of vocal fold vibratory recovery. It included 30 patients with benign vocal fold lesions. Four metrics were assessed: Incision Size Ratio Index (ISRI), Lesion Area Index (LAI), Incision Position Index (IPI), and operative note score. Associations with postoperative stroboscopic outcomes were evaluated using multiple linear regression. ISRI was negatively associated with mucosal wave recovery, while LAI was positively associated with it. These associations appeared only in multivariable analysis, consistent with a suppression pattern; IPI and operative note scores were not predictive. The findings are exploratory and do not establish clinical utility.",
+      "practice_change_ar": "لا تغيّر هذه الدراسة الممارسة الحالية؛ فلا ينبغي استخدام هذه المقاييس لاتخاذ قرارات جراحية قبل التحقق منها في عينات أكبر.",
+      "practice_change_en": "This study does not change current practice; these metrics should not guide surgical decisions until validated in larger cohorts.",
+      "future_impact_ar": "قد تتيح دراسة مستقبلية أكبر ومُتحقق منها استخدام operative documentation لتقدير نتائج vibratory recovery بصورة أكثر موضوعية.",
+      "future_impact_en": "A larger, validated study could enable operative documentation to support more objective prediction of vibratory recovery.",
+      "why_important_ar": "تُظهر الدراسة طريقة قابلة للقياس لاستخراج مؤشرات من operative notes بدل الاعتماد على وصف جراحي غير موحد.",
+      "why_important_en": "The study demonstrates a quantitative approach to extracting potential predictors from operative notes rather than relying solely on unstandardized surgical descriptions.",
+      "vs_previous_ar": "بدل الاكتفاء بوصف نتائج phonomicrosurgery، تقترح الدراسة مؤشرات كمية من تفاصيل incision وlesion، لكنها لم تثبت بعد تفوقها أو فائدتها السريرية.",
+      "vs_previous_en": "Rather than merely describing phonomicrosurgery outcomes, this study proposes quantitative incision- and lesion-based metrics, but their superiority and clinical utility remain unproven.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة proof-of-concept صغيرة شملت 30 مريضًا، وتقدم منهجًا جديدًا ذا صلة بـ laryngology، لكن النتائج الاستكشافية لا تغيّر الممارسة وتحتاج إلى تحقق مستقل.",
+      "stars_reason_en": "This small proof-of-concept study included 30 patients and presents a novel laryngology-relevant method, but its exploratory findings do not change practice and require independent validation.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تصلح الدراسة للنقاش حول بناء المقاييس من operative notes، وتأثير حجم العينة وsuppression pattern على تفسير multiple regression.",
+      "jc_reason_en": "The study is useful for discussion of metric development from operative notes and the effects of small samples and suppression patterns on multiple regression interpretation.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسة مستقبلية متعددة المراكز بعينة أكبر، مع توحيد قياس المقاييس والتحقق من قدرتها التنبؤية وارتباطها بنتائج يهمها المرضى.",
+      "research_gap_en": "A larger prospective multicenter study should standardize metric measurement and validate predictive performance against patient-relevant outcomes.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة proof-of-concept بعنوان: Transforming Operative Documentation into Predictors of Vibratory Recovery After Phonomicrosurgery. ركزت الدراسة على سؤال عملي في laryngology: هل يمكن تحويل تفاصيل operative notes بعد phonomicrosurgery إلى مقاييس كمية تتنبأ باستعادة اهتزاز vocal fold؟\n\nشملت العينة 30 مريضًا لديهم benign vocal fold lesions. استخرج الباحثون أربعة مقاييس: Incision Size Ratio Index، أو ISRI، وLesion Area Index، أو LAI، وIncision Position Index، أو IPI، إضافة إلى operative note score. ثم قارنوا هذه المؤشرات بنتائج postoperative stroboscopy باستخدام multiple linear regression.\n\nكانت النتيجة الأبرز أن ISRI ارتبط سلبًا باستعادة mucosal wave، بينما ارتبط LAI إيجابيًا بها، وكلا الارتباطين بلغ دلالة إحصائية في النموذج متعدد المتغيرات. لم يظهر IPI أو operative note score قدرة تنبؤية. ومن المهم أن هذه الارتباطات لم تظهر بالطريقة نفسها في التحليل المنفرد، بل ظهرت في التحليل متعدد المتغيرات، وهو ما وصفه الباحثون بأنه suppression pattern. لذلك ينبغي الحذر في تفسيرها، خصوصًا مع عينة صغيرة وغياب التحقق الخارجي.\n\nما الذي يعنيه هذا للطبيب؟ لا توجد حاليًا توصية بتغيير طريقة إجراء phonomicrosurgery أو استخدام هذه المؤشرات لاتخاذ قرار سريري. أهمية الدراسة منهجية بالدرجة الأولى: فهي توضح أن تفاصيل العملية المكتوبة قد تحمل معلومات قابلة للقياس، وقد تساعد مستقبلًا على تحسين توحيد التوثيق والتنبؤ بالنتائج.\n\nتستحق الورقة نقاش journal club بسبب طريقة بناء المقاييس، وحجم العينة، وكيفية تفسير معاملات regression. الخطوة التالية هي دراسة مستقبلية أكبر ومتعددة المراكز، مع تعريف موحد للمقاييس والتحقق من ارتباطها بنتائج stroboscopy وبما يهم المرضى. الخلاصة: فكرة مبتكرة ومناسبة للمتابعة، لكنها دليل أولي لا يغيّر الممارسة اليوم.",
+      "audio_script_en": "Today we review the proof-of-concept study, “Transforming Operative Documentation into Predictors of Vibratory Recovery After Phonomicrosurgery.” Its central question is whether details routinely recorded in operative notes can be converted into quantitative predictors of vocal fold vibratory recovery.\n\nThe investigators studied 30 patients undergoing phonomicrosurgery for benign vocal fold lesions. They calculated four metrics: the Incision Size Ratio Index, or ISRI; the Lesion Area Index, or LAI; the Incision Position Index, or IPI; and an operative note score. They evaluated associations with postoperative stroboscopic ratings using multiple linear regression.\n\nISRI was negatively associated with mucosal wave recovery, while LAI was positively associated with recovery. Both associations reached statistical significance in the multivariable model. IPI and the operative note score were not predictive. Notably, the associations emerged only in multivariable analysis, which the authors characterized as a suppression pattern. That finding warrants careful interpretation, particularly given the small sample and lack of external validation.\n\nFor clinical practice, this study does not support changing surgical technique or using these metrics to guide patient care today. Its contribution is methodological: it suggests that operative documentation may contain measurable information that could eventually support more standardized outcome prediction.\n\nThis is a useful journal club paper because it raises questions about metric development, sample size, regression modeling, and how to interpret findings that appear only after adjustment. The next step should be a larger prospective, preferably multicenter study with standardized metric definitions and independent validation. Researchers should also assess whether these metrics predict outcomes that matter to patients, in addition to stroboscopic ratings. The takeaway is a promising and relevant idea, but the evidence remains preliminary and does not yet justify practice change.",
+      "mcq": [
+        {
+          "q_ar": "أي مقياس ارتبط سلبًا باستعادة mucosal wave؟",
+          "q_en": "Which metric was negatively associated with mucosal wave recovery?",
+          "options_ar": [
+            "أ) ISRI",
+            "ب) LAI",
+            "ج) IPI",
+            "د) operative note score"
+          ],
+          "options_en": [
+            "A) ISRI",
+            "B) LAI",
+            "C) IPI",
+            "D) Operative note score"
+          ],
+          "answer": 0,
+          "explanation_ar": "ارتبط ISRI سلبًا باستعادة mucosal wave في multiple linear regression.",
+          "explanation_en": "ISRI was negatively associated with mucosal wave recovery in the multiple linear regression."
+        },
+        {
+          "q_ar": "ما تصميم الدراسة وحجم عينتها؟",
+          "q_en": "What were the study design and sample size?",
+          "options_ar": [
+            "أ) RCT شملت 120 مريضًا",
+            "ب) proof-of-concept observational study شملت 30 مريضًا",
+            "ج) systematic review شملت 30 دراسة",
+            "د) case report لمريض واحد"
+          ],
+          "options_en": [
+            "A) An RCT with 120 patients",
+            "B) A proof-of-concept observational study with 30 patients",
+            "C) A systematic review of 30 studies",
+            "D) A case report of one patient"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت هذه proof-of-concept study شملت 30 مريضًا خضعوا لـ phonomicrosurgery.",
+          "explanation_en": "This was a proof-of-concept study involving 30 patients who underwent phonomicrosurgery."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن الممارسة السريرية الحالية؟",
+          "q_en": "What is the most appropriate conclusion about current clinical practice?",
+          "options_ar": [
+            "أ) يجب تغيير incision بناءً على ISRI فورًا",
+            "ب) يجب اعتماد LAI لتحديد أهلية الجراحة",
+            "ج) لا يوجد ما يبرر تغيير الممارسة قبل التحقق من النتائج",
+            "د) أثبتت الدراسة أن IPI يتنبأ بالنتائج"
+          ],
+          "options_en": [
+            "A) Incisions should immediately be changed based on ISRI",
+            "B) LAI should determine surgical eligibility",
+            "C) There is no basis for changing practice before validation",
+            "D) The study proved that IPI predicts outcomes"
+          ],
+          "answer": 2,
+          "explanation_ar": "النتائج أولية ومن عينة صغيرة، لذا لا تدعم تغيير الممارسة قبل دراسات تحقق أكبر.",
+          "explanation_en": "The findings are preliminary and based on a small cohort, so practice should not change before larger validation studies."
+        }
+      ]
+    },
+    {
+      "pmid": "42921719",
+      "title_ar": "Predictors of Perioperative Patient Communications in Endoscopic Sinus Surgery.",
+      "title_en": "Predictors of Perioperative Patient Communications in Endoscopic Sinus Surgery.",
+      "journal": "The Annals of otology, rhinology, and laryngology",
+      "pub_date": "2026-Oct-24",
+      "doi": "10.1177/00034894261500358",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42921719/",
+      "pdf_url": null,
+      "study_design": "Retrospective chart review, single-center, n=167",
+      "summary_ar": "راجعت هذه الدراسة بأثر رجعي سجلات 167 مريضًا خضعوا لـ outpatient endoscopic sinus surgery (ESS) خلال عام 2023 في مركز واحد. بادر 98 مريضًا (59%) بإجراء 149 patient-initiated communications (PIC) خلال الفترة المحيطة بالجراحة. لم يرتبط الجنس أو تاريخ التدخين بزيادة PIC، بينما ارتبط وجود anxiety/depression بارتفاع odds of PIC (OR 11.9؛ 95% CI 4.0–35)، وكذلك استخدام nasal septal splints (OR 2.59؛ 95% CI 1.08–6.23). تركزت الاتصالات قبل الجراحة على scheduling وأسئلة التعافي، وبعدها على nasal obstruction وepistaxis. تشير النتائج إلى أن تحديد مخاوف المرضى مسبقًا قد يساعد على تحسين التثقيف والتواصل حول الرعاية المحيطة بالجراحة. لكن التصميم الاستعادي أحادي المركز لا يثبت السببية، كما أن النتائج تحتاج إلى تأكيد في دراسات مستقبلية متعددة المراكز.",
+      "summary_en": "This single-center retrospective chart review evaluated 167 patients undergoing outpatient endoscopic sinus surgery (ESS) in 2023. A total of 98 patients (59%) initiated 149 perioperative patient communications (PICs). Gender and smoking history were not associated with increased PIC, whereas anxiety/depression (OR 11.9; 95% CI 4.0–35) and nasal septal splints (OR 2.59; 95% CI 1.08–6.23) were associated with higher likelihood of communication. Preoperative contacts most often concerned scheduling and recovery, while postoperative contacts commonly involved nasal obstruction and epistaxis. These findings could help clinicians anticipate concerns and improve perioperative education. The retrospective, single-center design does not establish causality, and the findings require prospective, multicenter validation.",
+      "practice_change_ar": "يمكن للأطباء استخدام هذه النتائج لتقديم إرشادات استباقية حول التعافي وnasal obstruction وepistaxis، خصوصًا للمرضى الذين لديهم anxiety/depression أو nasal septal splints، دون اعتبارها دليلًا لتغيير العلاج.",
+      "practice_change_en": "Clinicians can use these findings to proactively counsel patients about recovery, nasal obstruction, and epistaxis, particularly those with anxiety/depression or nasal septal splints, without treating the results as a reason to change treatment.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية متعددة المراكز في اختبار ما إذا كان التثقيف الموجّه يقلل PIC ويحسن تجربة المرضى بعد ESS.",
+      "future_impact_en": "Future multicenter studies could test whether targeted education reduces PIC and improves the patient experience after ESS.",
+      "why_important_ar": "توضح الدراسة أن التواصل غير المخطط شائع بعد ESS وتحدد مخاوف يمكن استباقها ضمن تحسين جودة الرعاية.",
+      "why_important_en": "The study shows that unplanned communication is common after ESS and identifies concerns that may be addressed through quality improvement.",
+      "vs_previous_ar": "تضيف الدراسة تقديرات كمية لعوامل مرتبطة بـ PIC في ESS، لكنها لا تغيّر الإرشادات أو الممارسة القياسية الحالية.",
+      "vs_previous_en": "The study adds quantitative estimates of factors associated with PIC after ESS but does not change current guidelines or standard practice.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة استعادية أحادية المركز شملت 167 مريضًا، وتقدم معرفة مفيدة لتحسين التواصل لكنها لا تثبت السببية ولا تغيّر الممارسة، لذا تستحق 3 من 5.",
+      "stars_reason_en": "This single-center retrospective study included 167 patients and offers useful information for communication improvement, but it does not establish causality or change practice, supporting 3 of 5 stars.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it examines a potentially modifiable aspect of ESS care and allows consideration of retrospective-design limitations, generalizability, and the associations of anxiety/depression and nasal septal splints with PIC.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسة مستقبلية متعددة المراكز لتحديد ما إذا كان التثقيف الموجّه وفق عوامل الخطورة يقلل PIC، مع ضبط شدة المرض وتعقيد الجراحة.",
+      "research_gap_en": "A prospective multicenter study is needed to determine whether risk-tailored education reduces PIC while accounting for disease severity and surgical complexity.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم دراسة عن patient-initiated communications، أو PIC، حول outpatient endoscopic sinus surgery، أو ESS. أجرى الباحثون مراجعة استعادية لسجلات 167 مريضًا في مركز ثالثي واحد خلال عام 2023. كان لدى 98 مريضًا، أي 59% من العينة، ما مجموعه 149 اتصالًا بادر بها المرضى خلال الفترة المحيطة بالجراحة.\n\nلم يُظهر الجنس ولا تاريخ التدخين ارتباطًا واضحًا بزيادة الاتصالات. في المقابل، ارتبط وجود anxiety/depression بارتفاع odds of PIC، مع OR يساوي 11.9 و95% CI من 4.0 إلى 35. كما ارتبط استخدام nasal septal splints بزيادة احتمال التواصل، مع OR يساوي 2.59 و95% CI من 1.08 إلى 6.23. قبل الجراحة، كانت الأسئلة غالبًا عن scheduling والتعافي؛ وبعدها تركزت على nasal obstruction وepistaxis.\n\nما الفائدة العملية؟ يمكن للفريق استخدام هذه الأنماط لتوقع الأسئلة وتقديم معلومات واضحة مسبقًا عن التعافي والأعراض المتوقعة، مع اهتمام خاص بالمرضى الذين لديهم anxiety/depression أو من سيستخدمون nasal septal splints. لكن هذه النتائج لا تثبت أن هذه العوامل تسبب الاتصالات، ولا تبرر تغيير اختيار المرضى أو العلاج. إنها فرصة لتحسين التثقيف وتنظيم قنوات التواصل، لا توصية علاجية جديدة.\n\nقوة الدراسة أنها شملت أكثر من مئة مريض وتتناول جانبًا عمليًا من رعاية rhinology. أما حدودها، فهي تصميم استعادي، ومركز واحد، واحتمال تأثر النتائج بعوامل لم تُقَس مثل شدة المرض وتعقيد الجراحة. لذلك فالثقة متوسطة، والدراسة مفيدة للمعرفة وتحسين الجودة لكنها ليست ممارسة مغيرة.\n\nالخطوة التالية هي دراسة مستقبلية متعددة المراكز تختبر ما إذا كان التثقيف الموجّه يقلل PIC ويحسن تجربة المرضى، مع ضبط خصائص المرض والجراحة. الخلاصة: الاتصالات شائعة بعد ESS، ومعرفة أسبابها المحتملة قد تساعد على استباق مخاوف المرضى وتحسين الرعاية.",
+      "audio_script_en": "Today’s article examines patient-initiated communications, or PIC, surrounding outpatient endoscopic sinus surgery, or ESS. The investigators conducted a retrospective chart review at one tertiary center, covering 167 patients treated in 2023. Ninety-eight patients—59% of the cohort—generated a total of 149 perioperative communications.\n\nGender and smoking history were not associated with a clear increase in PIC. By contrast, anxiety/depression was associated with higher odds of communication, with an OR of 11.9 and a 95% CI of 4.0 to 35. Nasal septal splints were also associated with increased PIC, with an OR of 2.59 and a 95% CI of 1.08 to 6.23. Before surgery, contacts most often concerned scheduling and recovery. After surgery, patients commonly contacted the team about nasal obstruction and epistaxis.\n\nThe practical takeaway is that care teams may be able to anticipate common questions and provide clearer preoperative guidance about recovery and expected symptoms. Patients with anxiety/depression, and those receiving nasal septal splints, may merit particular attention. However, these associations do not demonstrate causation and do not justify changing treatment or patient selection. The findings point toward communication and quality-improvement opportunities, not a new treatment recommendation.\n\nA strength is the sample size of more than 100 patients and the focus on a practical issue in rhinology. Important limitations include the retrospective, single-center design and the possibility that unmeasured factors—such as disease severity or surgical complexity—affected communication. Overall, this is useful-to-know evidence rather than practice-changing evidence.\n\nA prospective multicenter study could test whether targeted education reduces PIC and improves patient experience while accounting for disease and surgical factors. In summary, communication is common around ESS, and anticipating patients’ concerns may help teams improve perioperative care.",
+      "mcq": [
+        {
+          "q_ar": "ما نسبة المرضى الذين بادروا باتصالات PIC في الدراسة؟",
+          "q_en": "What proportion of patients initiated PIC in the study?",
+          "options_ar": [
+            "أ) 30%",
+            "ب) 45%",
+            "ج) 59%",
+            "د) 84%"
+          ],
+          "options_en": [
+            "A) 30%",
+            "B) 45%",
+            "C) 59%",
+            "D) 84%"
+          ],
+          "answer": 2,
+          "explanation_ar": "بادر 98 من أصل 167 مريضًا بالاتصال، أي نحو 59%.",
+          "explanation_en": "Ninety-eight of 167 patients initiated communication, approximately 59%."
+        },
+        {
+          "q_ar": "أي عاملين ارتبطا بزيادة احتمال PIC؟",
+          "q_en": "Which two factors were associated with increased likelihood of PIC?",
+          "options_ar": [
+            "أ) الجنس وتاريخ التدخين",
+            "ب) anxiety/depression واستخدام nasal septal splints",
+            "ج) الجراحة الأولية والعمر",
+            "د) تاريخ التدخين وepistaxis"
+          ],
+          "options_en": [
+            "A) Gender and smoking history",
+            "B) Anxiety/depression and use of nasal septal splints",
+            "C) Primary surgery and age",
+            "D) Smoking history and epistaxis"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتبط anxiety/depression وnasal septal splints بزيادة PIC، بينما لم يرتبط الجنس أو التدخين بذلك.",
+          "explanation_en": "Anxiety/depression and nasal septal splints were associated with increased PIC, whereas gender and smoking were not."
+        },
+        {
+          "q_ar": "ما أكثر موضوعات الاتصالات بعد الجراحة شيوعًا؟",
+          "q_en": "What were the most common topics of postoperative communications?",
+          "options_ar": [
+            "أ) scheduling وطلب تجديد الأدوية",
+            "ب) nasal obstruction وepistaxis",
+            "ج) تغيرات الصوت والبلع",
+            "د) فقدان السمع والدوار"
+          ],
+          "options_en": [
+            "A) Scheduling and medication refills",
+            "B) Nasal obstruction and epistaxis",
+            "C) Voice and swallowing changes",
+            "D) Hearing loss and vertigo"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت الاتصالات بعد الجراحة تتعلق في المقام الأول بـ nasal obstruction وepistaxis.",
+          "explanation_en": "Postoperative communications primarily concerned nasal obstruction and epistaxis."
+        }
+      ]
+    },
+    {
+      "pmid": "42924370",
+      "title_ar": "The Importance of Nasal Airflow Distribution for Olfactory Function and Paranasal Sinus Ventilation: Insights From a Computational Fluid Dynamics Evaluation in Dupilumab-Treated CRSwNP Patients.",
+      "title_en": "The Importance of Nasal Airflow Distribution for Olfactory Function and Paranasal Sinus Ventilation: Insights From a Computational Fluid Dynamics Evaluation in Dupilumab-Treated CRSwNP Patients.",
+      "journal": "International forum of allergy & rhinology",
+      "pub_date": "2026-Oct-23",
+      "doi": "10.1002/alr.70300",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42924370/",
+      "pdf_url": null,
+      "study_design": "Retrospective single-center CFD study, paired pre/post-treatment, n=26",
+      "summary_ar": "قيّمت هذه الدراسة بأثر رجعي، باستخدام CFD، تغيرات nasal airflow وparanasal sinus ventilation لدى 26 مريضًا بالغًا مصابًا بـ CRSwNP بعد 6 أشهر من dupilumab. زاد total inspiratory airflow من 17.35 إلى 22.30 L/min، وزاد total expiratory airflow من 18.15 إلى 21.86 L/min. سُجل أكبر ارتفاع نسبي في airflow داخل olfactory cleft، إذ بلغ 567% أثناء inspiration. تحسنت نتائج SSIT-16 من 4.7 إلى 10.3، وارتبط تغير inspiratory airflow في olfactory section بتحسن الشم ارتباطًا متوسطًا. كما تحسنت paranasal sinus patency، لكن التغير لم يرتبط بشكل ملحوظ بـ CoSI. تشير النتائج إلى مساهمة conductive airflow في olfactory dysfunction، إلا أن التصميم الصغير والأحادي المركز لا يثبت السببية ولا يغير التدبير السريري وحده.",
+      "summary_en": "This retrospective single-center CFD study evaluated airflow and sinus ventilation changes in 26 adults with CRSwNP after six months of dupilumab. Total inspiratory and expiratory airflow both increased significantly. The largest relative increase was in the olfactory cleft, with a 567% rise during inspiration. SSIT-16 scores improved, and changes in inspiratory airflow in the olfactory section were moderately associated with improved smell scores. Paranasal sinus patency also increased, without a significant association with CoSI. The findings support a conductive contribution to olfactory dysfunction, but the small, retrospective study does not establish causality or change current management.",
+      "practice_change_ar": "لا تستدعي النتائج تغيير التدبير الحالي، لكنها تدعم متابعة olfactory function إلى جانب الأعراض لدى مرضى CRSwNP الذين يتلقون dupilumab.",
+      "practice_change_en": "These findings do not warrant a change in current management, but support monitoring olfactory function alongside symptoms in patients with CRSwNP receiving dupilumab.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية متعددة المراكز تستخدم CFD في تحديد أنماط airflow المرتبطة باستجابة olfactory function وتوجيه اختيار العلاج.",
+      "future_impact_en": "Future multicenter studies using CFD may identify airflow patterns associated with olfactory response and help guide treatment selection.",
+      "why_important_ar": "تقدم الدراسة قياسات موضوعية تربط تحسن airflow في olfactory cleft بتحسن الشم بعد dupilumab.",
+      "why_important_en": "The study provides objective measurements linking improved olfactory-cleft airflow with better smell after dupilumab.",
+      "vs_previous_ar": "تضيف الدراسة تحليل CFD لتوزيع airflow وparanasal sinus ventilation إلى المعرفة السابقة التي ركزت أساسًا على التحسن السريري والشم بعد dupilumab.",
+      "vs_previous_en": "The study adds CFD analysis of airflow distribution and paranasal sinus ventilation to prior evidence focused mainly on clinical and olfactory improvement with dupilumab.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة CFD استعادية صغيرة شملت 26 مريضًا، وتقدم نتيجة مفيدة وجديدة عن airflow والشم، لكن غياب مجموعة مقارنة ومحدودية الحجم يمنعان استنتاج تأثير يغير الممارسة.",
+      "stars_reason_en": "This small retrospective CFD study of 26 patients offers useful, novel information about airflow and smell, but its size and lack of a comparator limit practice-changing conclusions.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Worth discussing because it uses CFD to quantify functional changes after biologic therapy and reports a clinically relevant, though non-causal, association between airflow and smell.",
+      "watch": true,
+      "watch_detail_ar": "يجدر متابعة dupilumab وCFD بوصفهما علاجًا وتقنية قد تساعد مستقبلًا في تفسير الاستجابة الوظيفية لدى مرضى CRSwNP.",
+      "watch_detail_en": "Track dupilumab and CFD as a therapy and technology that may help characterize functional response in CRSwNP.",
+      "watch_type": "technology",
+      "research_gap_ar": "يلزم إجراء دراسة مستقبلية متعددة المراكز مع مجموعة مقارنة لتحديد ما إذا كان تحسن olfactory-cleft airflow يتنبأ باستمرار تحسن الشم أو يستجيب له سببيًا.",
+      "research_gap_en": "A prospective multicenter study with a comparator is needed to determine whether improved olfactory-cleft airflow predicts or causally contributes to sustained smell improvement.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نناقش اليوم دراسة في International Forum of Allergy & Rhinology تبحث العلاقة بين nasal airflow والشم وتهوية الجيوب لدى مرضى CRSwNP المعالجين بـ dupilumab.\n\nاستخدم الباحثون تصميمًا استعاديًا أحادي المركز شمل 26 مريضًا بالغًا، وقارنوا CT وCFD قبل العلاج وبعد ستة أشهر. قاسوا total airflow أثناء inspiration وexpiration، ووزعوه على أقسام الأنف، كما قيّموا الشم باستخدام SSIT-16 وقيّموا paranasal sinus patency.\n\nارتفع total inspiratory airflow من نحو 17 إلى 22 L/min، وارتفع expiratory airflow من نحو 18 إلى 22 L/min. وكان أكبر تغير نسبي في olfactory cleft، حيث زاد inspiratory airflow بنسبة 567%. بالتوازي، تحسن متوسط SSIT-16 من 4.7 إلى 10.3. كما ارتبط مقدار التغير في airflow ضمن olfactory section بتحسن درجة الشم، مع ارتباط متوسط إحصائيًا. تحسنت أيضًا paranasal sinus patency، لكن لم يظهر ارتباط مهم بينها وبين CoSI.\n\nتكمن أهمية الدراسة في تقديم قياس موضوعي لتوزيع airflow، ودعم احتمال وجود مكوّن conductive في olfactory dysfunction لدى مرضى CRSwNP. لكن الارتباط لا يثبت السببية، والدراسة صغيرة واستعادية ومن مركز واحد، ولا تتضمن مجموعة مقارنة. لذلك لا تبرر تغيير اختيار العلاج أو المراقبة في الممارسة اليومية، لكنها تعزز أهمية تقييم الشم إلى جانب الأعراض عند استخدام dupilumab.\n\nلـ journal club، تستحق الدراسة النقاش حول مدى دقة نماذج CFD في تمثيل الوظيفة الفعلية، وما إذا كان تحسن airflow يتنبأ بالاستجابة طويلة الأمد. الخطوة البحثية التالية هي دراسة مستقبلية متعددة المراكز، مع مجموعة مقارنة وقياسات وظيفية متكررة. كما ينبغي متابعة CFD بوصفه تقنية واعدة، لا أداة سريرية معيارية حتى الآن.",
+      "audio_script_en": "Today’s article in the International Forum of Allergy & Rhinology examines the relationship between nasal airflow, smell, and sinus ventilation in patients with CRSwNP treated with dupilumab.\n\nThis retrospective, single-center study included 26 adults. The investigators compared CT-based CFD simulations before treatment and after six months. They quantified total airflow during inspiration and expiration, airflow distribution across nasal sections, olfactory function using SSIT-16, and paranasal sinus patency.\n\nTotal inspiratory airflow increased from approximately 17 to 22 L/min, while expiratory airflow increased from approximately 18 to 22 L/min. The largest relative change occurred in the olfactory cleft, where inspiratory airflow rose by 567%. Mean SSIT-16 scores improved from 4.7 to 10.3. The change in airflow within the olfactory section was moderately associated with improvement in smell scores. Paranasal sinus patency also improved, although its change was not significantly associated with CoSI.\n\nThe study’s contribution is its objective assessment of airflow distribution and its support for a conductive component of olfactory dysfunction in CRSwNP. However, an association does not establish causality. The cohort is small, retrospective, and from a single center, with no comparator group. The findings therefore do not justify changing treatment selection or routine monitoring today, but they reinforce the value of assessing smell alongside symptoms in patients receiving dupilumab.\n\nFor journal club, useful discussion points include how well CFD models reflect real-world nasal function and whether airflow improvement predicts long-term olfactory response. The next step would be a prospective, multicenter study with a comparator and repeated functional measurements. CFD is a technology worth tracking, but it is not yet a standard clinical decision tool.",
+      "mcq": [
+        {
+          "q_ar": "ما التصميم الأساسي لهذه الدراسة؟",
+          "q_en": "What was the basic study design?",
+          "options_ar": [
+            "أ) RCT متعدد المراكز",
+            "ب) دراسة CFD استعادية أحادية المركز",
+            "ج) مراجعة منهجية",
+            "د) دراسة حيوانية"
+          ],
+          "options_en": [
+            "A) Multicenter RCT",
+            "B) Retrospective single-center CFD study",
+            "C) Systematic review",
+            "D) Animal study"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت الدراسة استعادية وأحادية المركز، واستخدمت CFD لدى 26 مريضًا مع قياسات قبل العلاج وبعده.",
+          "explanation_en": "The study was retrospective and single-center, using CFD in 26 patients with pre- and post-treatment assessments."
+        },
+        {
+          "q_ar": "أين سُجل أكبر ارتفاع نسبي في airflow بعد dupilumab؟",
+          "q_en": "Where was the greatest relative airflow increase after dupilumab observed?",
+          "options_ar": [
+            "أ) في nasopharynx",
+            "ب) في olfactory cleft",
+            "ج) في inferior turbinate فقط",
+            "د) في trachea"
+          ],
+          "options_en": [
+            "A) In the nasopharynx",
+            "B) In the olfactory cleft",
+            "C) Only at the inferior turbinate",
+            "D) In the trachea"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان أكبر ارتفاع نسبي في inspiratory airflow داخل olfactory cleft وبلغ 567%.",
+          "explanation_en": "The largest relative increase was in inspiratory airflow within the olfactory cleft, reaching 567%."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن العلاقة بين airflow والشم؟",
+          "q_en": "What is the most appropriate conclusion about airflow and smell?",
+          "options_ar": [
+            "أ) أثبتت الدراسة أن airflow هو السبب الوحيد لفقدان الشم",
+            "ب) ارتبط تغير airflow في olfactory section بتحسن SSIT-16 دون إثبات السببية",
+            "ج) لم يتحسن SSIT-16",
+            "د) ارتبطت patency بتحسن CoSI بشكل مؤكد"
+          ],
+          "options_en": [
+            "A) The study proved airflow is the sole cause of smell loss",
+            "B) Airflow change in the olfactory section was associated with improved SSIT-16, without proving causality",
+            "C) SSIT-16 did not improve",
+            "D) Patency was definitively associated with improved CoSI"
+          ],
+          "answer": 1,
+          "explanation_ar": "وجدت الدراسة ارتباطًا بين تغير airflow في olfactory section وتحسن SSIT-16، لكن التصميم لا يثبت أن أحدهما سبب الآخر.",
+          "explanation_en": "The study found an association between airflow change in the olfactory section and SSIT-16 improvement, but the design cannot establish causation."
+        }
+      ]
+    },
+    {
+      "pmid": "42919719",
+      "title_ar": "Long-Term Patient-Reported Outcomes Following Voice Therapy in Individuals With Benign Vocal Fold Lesions and Primary Muscle Tension Dysphonia.",
+      "title_en": "Long-Term Patient-Reported Outcomes Following Voice Therapy in Individuals With Benign Vocal Fold Lesions and Primary Muscle Tension Dysphonia.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Oct-23",
+      "doi": "10.1016/j.jvoice.2026.09.065",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42919719/",
+      "pdf_url": null,
+      "study_design": "Retrospective cross-sectional study n=64",
+      "summary_ar": "قيّمت هذه الدراسة النتائج التي أبلغ عنها المرضى بعد نحو 47 شهرًا من إكمال voice therapy لدى 64 بالغًا لديهم BVFLs أو PMTD. بلغ متوسط VHI-10 مقدار 12.06، وارتبط انخفاض العبء الصوتي بتقييم أكبر لفائدة العلاج والتحسن المدرك. لم يرتبط الوقت منذ العلاج بصورة ذات دلالة إحصائية بأي من مقاييس النتائج. أفاد 60.9% بتحسن ملحوظ أو كبير، وبأن voice therapy كان مفيدًا وأنهم استطاعوا تلبية متطلبات التواصل اليومية دون الحاجة إلى تقييم أو علاج إضافي. كان تكرر الأعراض شائعًا، لكنه غالبًا متقطع لا مستمر، ولم تختلف النتائج بوضوح بين مجموعات التشخيص. تشير النتائج إلى استمرار الفائدة التي يدركها المرضى لسنوات، لكنها لا تثبت السببية بسبب التصميم retrospective cross-sectional وغياب مجموعة مقارنة.",
+      "summary_en": "This retrospective cross-sectional study assessed outcomes in 64 adults with BVFLs or PMTD about 47 months after completing voice therapy.\nThe mean VHI-10 score was 12.06, and lower handicap was associated with greater perceived treatment benefit and improvement.\nTime since therapy was not significantly associated with any patient-reported outcome.\nA total of 60.9% reported significant or major improvement, found therapy beneficial, and met daily communication needs without further evaluation or treatment.\nSymptom recurrence was common but usually intermittent rather than persistent.\nOutcomes did not differ significantly across diagnosis groups; the findings suggest durable perceived benefit but cannot establish causality.",
+      "practice_change_ar": "لا تغيّر هذه الدراسة التدبير الحالي، لكنها تدعم سؤال المرضى عن الوظيفة الصوتية والانتكاسات المتقطعة خلال المتابعة طويلة الأمد بعد voice therapy.",
+      "practice_change_en": "This study does not change current management, but supports asking about functional voice use and intermittent recurrence during long-term follow-up after voice therapy.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية prospective ذات قياسات متكررة ومجموعة مقارنة في تحديد مدى دوام الفائدة والعوامل المرتبطة بالانتكاس.",
+      "future_impact_en": "Future prospective studies with repeated assessments and a comparison group could clarify benefit durability and factors associated with recurrence.",
+      "why_important_ar": "تضيف الدراسة بيانات عن تجربة المرضى بعد عدة سنوات، بما يشمل أثر الأعراض على التواصل اليومي وليس شدة الأعراض وحدها.",
+      "why_important_en": "The study adds several-year patient-reported data that address daily communication function as well as symptom burden.",
+      "vs_previous_ar": "بدل التركيز على النتائج القريبة من العلاج، تقدم الدراسة متابعة طويلة الأمد، لكنها لا تقارن النتائج بضوابط أو بخيارات علاجية أخرى.",
+      "vs_previous_en": "Rather than focusing on outcomes soon after therapy, this study provides long-term follow-up, but does not compare outcomes with controls or alternative treatments.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة retrospective cross-sectional صغيرة نسبيًا (n=64) تقدم معلومات مفيدة عن النتائج طويلة الأمد، لكن غياب مجموعة مقارنة والقيود المنهجية يحدان من قوة الاستنتاج ولا يغيران الممارسة.",
+      "stars_reason_en": "This modest-sized retrospective cross-sectional study (n=64) offers useful long-term outcome information, but the lack of a comparison group and design limitations constrain inference and do not change practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion for its clinically relevant long-term outcomes and the opportunity to examine recall, cross-sectional design, and the absence of a comparison group.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى دراسات prospective مضبوطة تستخدم قياسات معيارية متكررة لتحديد استدامة التحسن والعوامل التي تتنبأ بتكرر الأعراض بعد voice therapy.",
+      "research_gap_en": "Controlled prospective studies with repeated standardized assessments are needed to determine the durability of improvement and predictors of symptom recurrence after voice therapy.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نراجع اليوم دراسة عن النتائج طويلة الأمد التي أبلغ عنها المرضى بعد voice therapy لدى بالغين لديهم benign vocal fold lesions أو primary muscle tension dysphonia. شملت الدراسة 64 مشاركًا أكملوا العلاج بين عامي 2021 و2023، ثم جرى تقييمهم بعد متابعة متوسطها نحو 47 شهرًا. استخدم الباحثون VHI-10 واستبيانًا موسعًا لتصور المريض لفائدة voice therapy، إلى جانب معلومات ديموغرافية.\n\nكان متوسط VHI-10 هو 12.06. ارتبط انخفاض العبء الصوتي بتقييم أعلى لفائدة العلاج وبإحساس أكبر بالتحسن. لم يُظهر الزمن المنقضي منذ العلاج ارتباطًا ذا دلالة إحصائية بالنتائج. وأفاد 60.9% بتحسن ملحوظ أو كبير، وبأن العلاج ساعدهم على تلبية احتياجات التواصل اليومية دون الحاجة إلى تقييم أو علاج إضافي. ورغم شيوع عودة الأعراض، كانت غالبًا متقطعة لا مستمرة، ولم تظهر فروق ذات دلالة بين مجموعات vocal nodules وPMTD والتشخيصات الأخرى أو المختلطة.\n\nالنقطة العملية هي أن النتائج المدركة قد تستمر لسنوات، وأن تقييم النجاح لا ينبغي أن يقتصر على شدة الأعراض؛ بل يشمل القدرة على استخدام الصوت في الحياة اليومية. مع ذلك، لا تثبت هذه الدراسة أن voice therapy وحده سبب التحسن. فهي دراسة retrospective cross-sectional، ولا تتضمن مجموعة ضابطة، كما تعتمد على تقارير المرضى في نقطة متابعة واحدة. لذلك لا تغيّر الممارسة الحالية، لكنها تدعم متابعة الوظيفة الصوتية والسؤال عن الانتكاسات المتقطعة بعد العلاج.\n\nتستحق الورقة نقاشًا في journal club بسبب طول مدة المتابعة ومحورية النتائج التي تهم المرضى، وبسبب حدود التصميم. والخطوة البحثية التالية هي إجراء دراسات prospective مضبوطة مع قياسات متكررة، لتحديد استدامة الفائدة والعوامل المرتبطة بعودة الأعراض. الخلاصة: هذه إضافة مفيدة لمعرفة نتائج voice therapy على المدى البعيد، لكنها دليل يستحق الاهتمام لا دليلًا يغيّر التدبير اليوم.",
+      "audio_script_en": "Today’s paper examines long-term patient-reported outcomes after voice therapy in adults with benign vocal fold lesions, or BVFLs, and primary muscle tension dysphonia, or PMTD. It included 64 adults who completed therapy between 2021 and 2023 and were assessed a mean of about 47 months later. The measures included the VHI-10 and an expanded patient-perception questionnaire about voice therapy.\n\nThe mean VHI-10 score was 12.06. Lower voice-related handicap was associated with greater perceived treatment benefit and improvement. Time since therapy was not significantly associated with any outcome measure. Overall, 60.9% reported significant or major improvement, considered therapy beneficial, and said they could meet daily communication demands without needing additional evaluation or treatment. Symptoms often recurred, but recurrence was typically intermittent rather than persistent. Outcomes did not differ significantly across the vocal nodule, PMTD, and other or mixed diagnosis groups.\n\nThe clinical takeaway is that patients may perceive benefits for several years, and that outcome assessment should include everyday voice function, not symptom severity alone. However, the study cannot show that voice therapy caused the long-term outcomes. It is retrospective and cross-sectional, has no comparison group, and captures patient reports at a single follow-up assessment. It therefore does not change current practice, but supports asking about functional voice use and intermittent symptoms during long-term follow-up.\n\nThis is a useful journal-club paper because it addresses a clinically meaningful long-term question while raising important methodological issues. Future controlled prospective studies with repeated standardized assessments could better establish durability and identify predictors of recurrence. In summary, the study adds useful evidence about long-term patient experience after voice therapy, but it is worth knowing rather than practice-changing.",
+      "mcq": [
+        {
+          "q_ar": "ما متوسط مدة المتابعة بعد إكمال voice therapy في هذه الدراسة؟",
+          "q_en": "What was the mean follow-up time after completion of voice therapy?",
+          "options_ar": [
+            "أ) نحو 12 شهرًا",
+            "ب) نحو 24 شهرًا",
+            "ج) نحو 47 شهرًا",
+            "د) نحو 72 شهرًا"
+          ],
+          "options_en": [
+            "A) About 12 months",
+            "B) About 24 months",
+            "C) About 47 months",
+            "D) About 72 months"
+          ],
+          "answer": 2,
+          "explanation_ar": "بلغ متوسط المتابعة 46.98 شهرًا، أي نحو 47 شهرًا.",
+          "explanation_en": "The mean follow-up was 46.98 months, or approximately 47 months."
+        },
+        {
+          "q_ar": "أي نتيجة ارتبطت بانخفاض VHI-10؟",
+          "q_en": "Which outcome was associated with a lower VHI-10 score?",
+          "options_ar": [
+            "أ) انخفاض الفائدة المدركة من العلاج",
+            "ب) زيادة الفائدة المدركة والتحسن المدرك",
+            "ج) الحاجة المؤكدة إلى علاج إضافي",
+            "د) ارتباط دال بالوقت منذ العلاج"
+          ],
+          "options_en": [
+            "A) Lower perceived treatment benefit",
+            "B) Greater perceived treatment benefit and improvement",
+            "C) A definite need for additional treatment",
+            "D) A significant association with time since therapy"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتبط انخفاض العبء الصوتي بفائدة أكبر للعلاج وتحسن أكبر كما أدركهما المرضى.",
+          "explanation_en": "Lower voice-related handicap was associated with greater patient-perceived treatment benefit and improvement."
+        },
+        {
+          "q_ar": "ما القيد المنهجي الأهم عند تفسير النتائج؟",
+          "q_en": "What is the main methodological limitation when interpreting the findings?",
+          "options_ar": [
+            "أ) الدراسة شملت أقل من عشرة مرضى",
+            "ب) الدراسة حيوانية",
+            "ج) التصميم retrospective cross-sectional من دون مجموعة مقارنة",
+            "د) لم تتضمن أي نتائج أبلغ عنها المرضى"
+          ],
+          "options_en": [
+            "A) The study included fewer than ten patients",
+            "B) The study was conducted in animals",
+            "C) The retrospective cross-sectional design had no comparison group",
+            "D) It included no patient-reported outcomes"
+          ],
+          "answer": 2,
+          "explanation_ar": "التصميم retrospective cross-sectional وغياب مجموعة مقارنة يحدان من الاستدلال السببي.",
+          "explanation_en": "The retrospective cross-sectional design and lack of a comparison group limit causal inference."
+        }
+      ]
+    },
+    {
+      "pmid": "42913509",
+      "title_ar": "Near real-time intraoperative assessment of pituitary neuroendocrine tumors using stimulated Raman histology during endoscopic transsphenoidal surgery: comparison with conventional histopathology.",
+      "title_en": "Near real-time intraoperative assessment of pituitary neuroendocrine tumors using stimulated Raman histology during endoscopic transsphenoidal surgery: comparison with conventional histopathology.",
+      "journal": "Journal of neurosurgery",
+      "pub_date": "2026-Oct-23",
+      "doi": "10.3171/2026.5.JNS2667",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42913509/",
+      "pdf_url": null,
+      "study_design": "Prospective intraoperative diagnostic feasibility cohort, 28 patients",
+      "summary_ar": "قيّمت هذه الدراسة جدوى stimulated Raman histology (SRH) ودقتها في التمييز بين PitNET والأنسجة الطبيعية أثناء endoscopic transsphenoidal surgery. شملت الدراسة 28 مريضًا، وحُللت 66 عينة طازجة من tumor core، وعند الإمكان من المناطق المحيطة، ثم قورنت الصور بنتائج hematoxylin and eosin (H&E). كانت تقنية SRH ممكنة في جميع الحالات، وصُنفت المقارنة مع H&E بأنها ممتازة في 56.1% وجيدة في 30.3% من العينات. لم يظهر اختلاف معنوي في قابلية المقارنة بين عينات tumor core والأنسجة المحيطة (p = 0.409). أظهرت الصور سمات نسيجية مهمة، منها فقدان البنية الغدية الفصيصية في النسيج adenomatous، كما أمكن تمييز سمات بعض الأنواع الفرعية. تدعم النتائج استخدام SRH كوسيلة مساعدة سريعة أثناء الجراحة، لكنها لا تثبت بعد أنها تحسن النتائج السريرية أو تغني عن histopathology التقليدي.",
+      "summary_en": "This study assessed the feasibility and diagnostic concordance of stimulated Raman histology (SRH) for intraoperative distinction of PitNET from normal tissue during endoscopic transsphenoidal surgery.\nThe cohort included 28 adults and 66 fresh samples from tumor cores and, when feasible, peritumoral regions.\nSRH was feasible in every case, with excellent comparability to hematoxylin and eosin (H&E) in 56.1% of samples and good comparability in 30.3%.\nComparability did not significantly differ between tumor-core and peritumoral samples (p = 0.409).\nSRH depicted key tissue architecture and selected subtype-specific features, supporting rapid intraoperative tissue assessment.\nThe findings establish feasibility, but do not show improved patient outcomes or replace conventional histopathology.",
+      "practice_change_ar": "لا تغيّر هذه النتائج الممارسة اليوم؛ يمكن اعتبار SRH وسيلة مساعدة واعدة، لكن يلزم التحقق من دقتها وتأثيرها السريري قبل اعتمادها روتينيًا.",
+      "practice_change_en": "These findings do not change practice today; SRH is a promising adjunct, but its accuracy and clinical impact require further validation before routine adoption.",
+      "future_impact_ar": "قد يؤدي دمج SRH مع أدوات الذكاء الاصطناعي والتحقق متعدد المراكز إلى تسريع تحديد حدود PitNET والأنسجة الطبيعية أثناء الجراحة.",
+      "future_impact_en": "Integration of SRH with AI tools and multicenter validation could accelerate intraoperative identification of PitNET and normal tissue boundaries.",
+      "why_important_ar": "تتناول الدراسة تحديًا جراحيًا عمليًا يتمثل في تشابه PitNET والأنسجة الطبيعية ظاهريًا، وتختبر تصويرًا نسيجيًا سريعًا أثناء العملية.",
+      "why_important_en": "The study addresses the practical challenge that PitNET and normal pituitary tissue can look similar during surgery, testing rapid intraoperative tissue imaging.",
+      "vs_previous_ar": "على خلاف التقييم بالعين المجردة والاعتماد على histopathology التقليدي، تقدم SRH صورًا رقمية قريبة من H&E خلال دقائق، مع بقاء فائدتها السريرية بحاجة إلى إثبات.",
+      "vs_previous_en": "Unlike gross inspection and reliance on conventional histopathology, SRH provides near-H&E-quality digital images within minutes, although its clinical benefit remains to be established.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة جدوى تشخيصية على 28 مريضًا تُظهر تقنية جديدة ونتائج واعدة، لكنها ليست تجربة مقارنة للنتائج ولا تكفي لتغيير الممارسة؛ لذلك تستحق اهتمامًا متوسطًا.",
+      "stars_reason_en": "This 28-patient diagnostic feasibility study evaluates a novel technique and reports promising concordance, but it does not compare clinical outcomes or justify a practice change, warranting a moderate score.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it evaluates real-time histological imaging in skull-base surgery, while allowing appraisal of sample size, the comparability measure, and the absence of patient outcomes.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا تطور SRH، وهي تقنية تصوير نسيجي بصري بلا صبغة تُنتج صورًا رقمية سريعة، خصوصًا مع تطوير التكامل مع الذكاء الاصطناعي.",
+      "watch_detail_en": "Track SRH, a label-free optical histology technology that produces rapid digital images, particularly as integration with AI develops.",
+      "watch_type": "technology",
+      "research_gap_ar": "هناك حاجة إلى دراسات مستقبلية أكبر ومتعددة المراكز تقيس الدقة التشخيصية بمقاييس محددة، وتأثير SRH في قرارات الجراحة والنتائج السريرية مقارنةً بالرعاية المعتادة.",
+      "research_gap_en": "Larger prospective multicenter studies should quantify diagnostic accuracy and assess the effect of SRH on surgical decisions and patient outcomes against usual care.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "في هذا المقال من Journal of Neurosurgery، يدرس الباحثون استخدام stimulated Raman histology، أو SRH، لتقييم أنسجة pituitary neuroendocrine tumors أثناء endoscopic transsphenoidal surgery. التحدي السريري هو أن PitNET والأنسجة الطبيعية في الغدة النخامية قد يبدوان متشابهين بالعين، بينما قد يساعد التمييز بينهما الجراح أثناء العملية.\n\nشملت الدراسة 28 مريضًا بالغًا، وجُمعت 66 عينة طازجة من tumor core، ومن المناطق المحيطة عندما أمكن. صُوّرت العينات باستخدام SRH ثم قورنت الصور مع hematoxylin and eosin، أو H&E، بواسطة neuropathologist معمى عن البيانات السريرية. كانت التقنية ممكنة في جميع الحالات. أظهرت 56.1% من العينات مقارنة ممتازة مع H&E، و30.3% مقارنة جيدة، و13.6% مقارنة منخفضة. ولم يكن الفرق بين عينات tumor core والأنسجة المحيطة ذا دلالة إحصائية، مع p-value يساوي 0.409.\n\nمن ناحية نوعية الصور، أظهر SRH فقدان البنية الغدية الفصيصية في النسيج adenomatous، كما ساعد على رؤية تنظيم connective tissue في البنى المحيطة وبعض السمات المرتبطة بالأنواع الفرعية. وتكمن الجدة في توفير صور رقمية قريبة من H&E خلال دقائق، من دون معالجة تقليدية للعينة قبل التصوير.\n\nلكن هذه دراسة جدوى صغيرة، ولا تثبت أن استخدام SRH يحسن مدى الاستئصال أو يقلل المضاعفات أو يغير النتائج السريرية. لذلك لا ينبغي اعتبارها سببًا لتغيير الممارسة الآن، ولا بديلًا مثبتًا عن histopathology التقليدي. التقييم الأنسب هو أنها تقنية واعدة تستحق المتابعة، مع ثقة متوسطة.\n\nتستحق الورقة النقاش في journal club بسبب تطبيقها العملي في جراحة skull base. وتشمل الفجوات البحثية الحاجة إلى دراسات أكبر ومتعددة المراكز، مع قياس دقة التشخيص وتأثير المعلومات الفورية على القرار الجراحي والنتائج. ومن المجالات الجديرة بالمتابعة تطوير SRH ودمجه مع artificial intelligence لتسريع تفسير الصور وتحسينه.",
+      "audio_script_en": "This Journal of Neurosurgery study evaluates stimulated Raman histology, or SRH, for intraoperative assessment of pituitary neuroendocrine tumors during endoscopic transsphenoidal surgery. The clinical problem is that PitNET and normal pituitary tissue may look similar to the surgeon, making real-time tissue identification potentially useful.\n\nThe study included 28 adults and analyzed 66 fresh samples from tumor cores and, when feasible, peritumoral regions. Samples were imaged with SRH and then processed for conventional hematoxylin and eosin, or H&E, comparison. A neuropathologist blinded to clinical data assessed the images. SRH was feasible in all cases. Comparability with H&E was excellent for 56.1% of samples, good for 30.3%, and low for 13.6%. There was no significant difference in comparability between tumor-core and peritumoral samples; the p-value was 0.409.\n\nSRH showed relevant tissue features, including loss of lobular glandular architecture in adenomatous tissue, connective-tissue organization in surrounding structures, and selected subtype-associated findings. Its main innovation is producing digital images approaching H&E quality within minutes, without the usual pre-imaging tissue processing.\n\nThe important limitation is that this is a small feasibility study. It does not demonstrate that SRH improves extent of resection, reduces complications, or changes patient outcomes. It should therefore not change current practice or be considered a proven replacement for conventional histopathology. The appropriate interpretation is promising technology with moderate confidence, rather than practice-changing evidence.\n\nThis paper is suitable for journal club because it tests a practical tool in skull-base surgery. Future studies should be larger and multicenter, define diagnostic accuracy more rigorously, and determine whether real-time information changes surgical decisions or outcomes. SRH is also worth tracking as it develops, especially potential integration with artificial intelligence to improve the speed and consistency of image interpretation.",
+      "mcq": [
+        {
+          "q_ar": "كم عدد المرضى والعينات التي شملها التحليل المقارن؟",
+          "q_en": "How many patients and samples were included in the comparative analysis?",
+          "options_ar": [
+            "أ) 28 مريضًا و66 عينة",
+            "ب) 66 مريضًا و28 عينة",
+            "ج) 20 مريضًا و56 عينة",
+            "د) 38 مريضًا و90 عينة"
+          ],
+          "options_en": [
+            "A) 28 patients and 66 samples",
+            "B) 66 patients and 28 samples",
+            "C) 20 patients and 56 samples",
+            "D) 38 patients and 90 samples"
+          ],
+          "answer": 0,
+          "explanation_ar": "شملت الدراسة 28 مريضًا، وأُجري التحليل المقارن على 66 عينة نسيجية.",
+          "explanation_en": "The study included 28 patients, and the final comparative analysis used 66 tissue samples."
+        },
+        {
+          "q_ar": "ما نسبة العينات التي أظهرت مقارنة ممتازة بين SRH وH&E؟",
+          "q_en": "What proportion of samples showed excellent comparability between SRH and H&E?",
+          "options_ar": [
+            "أ) 13.6%",
+            "ب) 30.3%",
+            "ج) 56.1%",
+            "د) 90.0%"
+          ],
+          "options_en": [
+            "A) 13.6%",
+            "B) 30.3%",
+            "C) 56.1%",
+            "D) 90.0%"
+          ],
+          "answer": 2,
+          "explanation_ar": "صُنفت المقارنة بأنها ممتازة في 37 من أصل 66 عينة، أي 56.1%.",
+          "explanation_en": "Comparability was rated excellent in 37 of 66 samples, or 56.1%."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب حول تأثير هذه الدراسة على الممارسة الحالية؟",
+          "q_en": "What is the most appropriate conclusion about this study’s impact on current practice?",
+          "options_ar": [
+            "أ) تثبت أن SRH يجب أن يحل محل H&E فورًا",
+            "ب) تثبت تحسن النتائج السريرية بعد استخدام SRH",
+            "ج) تدعم جدوى SRH، لكن لا تكفي لتغيير الممارسة أو استبدال histopathology التقليدي",
+            "د) تُظهر أن SRH غير ممكن أثناء الجراحة"
+          ],
+          "options_en": [
+            "A) It proves SRH should immediately replace H&E",
+            "B) It proves clinical outcomes improve after SRH use",
+            "C) It supports SRH feasibility but is insufficient to change practice or replace conventional histopathology",
+            "D) It shows SRH is not feasible during surgery"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة تُظهر جدوى تقنية واعدة ومقارنة نسيجية، لكنها لا تقيس تحسن النتائج ولا تثبت أنها بديل عن histopathology التقليدي.",
+          "explanation_en": "The study demonstrates feasibility and histological comparability, but does not measure improved outcomes or establish SRH as a replacement for conventional histopathology."
+        }
+      ]
+    },
+    {
+      "pmid": "42924419",
+      "title_ar": "Dexmedetomidine Added to Hyperventilation Improves Surgical Field Visibility Without Compromising Cerebral Oxygenation During Endoscopic Sinus Surgery.",
+      "title_en": "Dexmedetomidine Added to Hyperventilation Improves Surgical Field Visibility Without Compromising Cerebral Oxygenation During Endoscopic Sinus Surgery.",
+      "journal": "International forum of allergy & rhinology",
+      "pub_date": "2026-Oct-23",
+      "doi": "10.1002/alr.70299",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42924419/",
+      "pdf_url": null,
+      "study_design": "Double-blinded randomized controlled trial, n=74",
+      "summary_ar": "قيّمت هذه الدراسة العشوائية مزدوجة التعمية لدى 74 مريضًا يخضعون لـ ESS ما إذا كانت إضافة dexmedetomidine إلى hyperventilation تحسن وضوح المجال الجراحي دون التأثير في cerebral oxygenation. عند مرور 30 دقيقة، كان Boezaart score أقل مع العلاج المركب مقارنةً بـ hyperventilation وحده (2.0 مقابل 3.0؛ p-value=0.003). وأظهر التحليل الطولي انخفاض odds لدرجات المجال الجراحي الأسوأ مع العلاج المركب (OR=0.180؛ 95% CI، 0.062–0.524؛ p-value=0.002). كذلك انخفض bleeding rate، بينما كانت intraoperative ScO2 متقاربة بين المجموعتين ولم تحدث cerebral desaturation events. تشير النتائج إلى تحسن ظروف الجراحة دون إشارة إلى تدهور cerebral oxygenation في هذه العينة. وتدعم الدراسة فائدة محتملة لهذه الاستراتيجية، لكن الحاجة قائمة إلى دراسات أكبر لتأكيد السلامة والفعالية وتحديد أفضل بروتوكول للتطبيق.",
+      "summary_en": "This double-blinded RCT randomized 74 patients undergoing ESS to dexmedetomidine plus hyperventilation or hyperventilation alone. At 30 minutes, the combined strategy produced a lower Boezaart surgical field score (2.0 vs 3.0; p=0.003). Longitudinal analysis also found lower odds of poorer field scores with the combined strategy (OR 0.180; 95% CI 0.062–0.524; p=0.002). Bleeding rate was lower, while intraoperative ScO2 was comparable and no cerebral desaturation events occurred. These findings suggest improved operative visibility without a detected compromise in cerebral oxygenation in this sample. Larger studies are needed to establish safety, generalizability, and an optimal protocol.",
+      "practice_change_ar": "يمكن للأطباء اعتبار إضافة dexmedetomidine إلى hyperventilation خيارًا لتحسين المجال الجراحي في ESS، لكن النتائج لا تكفي لفرض تغيير روتيني في الممارسة.",
+      "practice_change_en": "Clinicians may consider adding dexmedetomidine to hyperventilation to improve the surgical field during ESS, but these results do not justify a routine practice change.",
+      "future_impact_ar": "قد تدعم دراسات أكبر ومتعددة المراكز اعتماد بروتوكول يجمع dexmedetomidine وhyperventilation إذا أكدت الفعالية والسلامة.",
+      "future_impact_en": "Larger multicenter studies could support adoption of a dexmedetomidine–hyperventilation protocol if they confirm efficacy and safety.",
+      "why_important_ar": "تعالج الدراسة التوازن المهم بين تقليل النزف وتحسين الرؤية أثناء ESS مع مراقبة cerebral oxygenation.",
+      "why_important_en": "The study addresses the important balance between reducing bleeding and improving visibility during ESS while monitoring cerebral oxygenation.",
+      "vs_previous_ar": "تضيف الدراسة مقارنة عشوائية مباشرة تُظهر تحسن Boezaart score وانخفاض bleeding rate مع dexmedetomidine دون انخفاض ملحوظ في ScO2، بدل الاعتماد على hyperventilation وحده.",
+      "vs_previous_en": "This trial adds a direct randomized comparison showing improved Boezaart scores and lower bleeding with dexmedetomidine, without a detected reduction in ScO2, versus hyperventilation alone.",
+      "stars": 4,
+      "stars_reason_ar": "تجربة RCT جيدة التصميم تقدم دليلًا سريريًا مفيدًا على تحسين المجال الجراحي مع عدم رصد ضرر في cerebral oxygenation؛ لكن حجم العينة محدود والنتائج لا تثبت وحدها ضرورة تغيير الممارسة الروتينية.",
+      "stars_reason_en": "This well-designed RCT provides useful clinical evidence of improved visibility without detected cerebral oxygenation compromise, but its sample is limited and does not by itself warrant routine practice change.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق الدراسة النقاش لأنها تختبر استراتيجية تخديرية قابلة للتطبيق وتوازن بين وضوح المجال الجراحي وسلامة cerebral oxygenation، مع نتائج تحتاج إلى تفسير في ضوء حجم العينة.",
+      "jc_reason_en": "This merits discussion because it tests a potentially actionable anesthetic strategy balancing surgical visibility and cerebral oxygenation, while its findings must be interpreted in light of the sample size.",
+      "watch": true,
+      "watch_detail_ar": "راقب استخدام dexmedetomidine في ESS، إذ تشير هذه التجربة إلى تحسن الرؤية وانخفاض النزف دون رصد cerebral desaturation.",
+      "watch_detail_en": "Track dexmedetomidine use in ESS: this trial suggests improved visibility and reduced bleeding without observed cerebral desaturation.",
+      "watch_type": "drug",
+      "research_gap_ar": "يلزم إجراء تجارب أكبر ومتعددة المراكز لتحديد سلامة dexmedetomidine على نطاق أوسع، وجرعته المثلى، وتأثيره في النتائج الجراحية والتعافي بعد العملية.",
+      "research_gap_en": "Larger multicenter trials are needed to establish broader safety, optimal dexmedetomidine dosing, and effects on surgical and postoperative recovery outcomes.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم تجربة عشوائية مزدوجة التعمية في مرضى chronic rhinosinusitis الذين خضعوا لـ endoscopic sinus surgery، أو ESS. شملت الدراسة 74 مريضًا، وقارنت بين hyperventilation وحده وبين إضافة dexmedetomidine إلى hyperventilation. كان الهدف الأساسي قياس Boezaart surgical field score بعد 30 دقيقة من بدء الجراحة.\n\nكانت النتيجة الأساسية لصالح العلاج المركب: بلغ الوسيط 2.0 مقابل 3.0 مع hyperventilation وحده، وكان الفرق ذا دلالة إحصائية، p-value تساوي 0.003. كما أظهر التحليل عبر الزمن انخفاض odds لدرجات المجال الجراحي الأسوأ، مع OR يساوي 0.180 و95% CI من 0.062 إلى 0.524. وأفاد الباحثون أيضًا بانخفاض bleeding rate مع إضافة dexmedetomidine.\n\nأما مسألة السلامة المهمة، وهي cerebral oxygenation، فلم تُظهر فرقًا ملحوظًا في intraoperative ScO2 بين المجموعتين، ولم تحدث cerebral desaturation events. لذلك تشير النتائج إلى إمكانية تحسين الرؤية الجراحية مع عدم رصد تدهور في الأكسجة الدماغية ضمن هذه العينة.\n\nعمليًا، تقدم الدراسة معلومة مفيدة للأطباء ولا تثبت بعد ضرورة تغيير الممارسة الروتينية؛ فحجم العينة محدود، كما أن غياب أحداث desaturation في 74 مريضًا لا يستبعد المخاطر النادرة. يمكن اعتبار dexmedetomidine خيارًا جديرًا بالنقاش عند تحسين ظروف ESS، مع مراعاة التقييم الفردي والمراقبة المناسبة. ومن المهم أن تؤكد دراسات أكبر ومتعددة المراكز هذه النتائج، وتحدد الجرعة والبروتوكول الأمثل، وتقيّم تأثير الاستراتيجية في التعافي والنتائج الجراحية. خلاصة الدراسة: تحسن في Boezaart score وانخفاض في النزف، مع ScO2 متقاربة بين المجموعتين.",
+      "audio_script_en": "Today’s article is a double-blinded randomized trial in patients with chronic rhinosinusitis undergoing endoscopic sinus surgery, or ESS. Seventy-four patients were assigned to hyperventilation alone or dexmedetomidine added to hyperventilation. The primary endpoint was the Boezaart surgical field score 30 minutes after surgery began.\n\nThe primary result favored the combined strategy. The reported score was 2.0 versus 3.0 with hyperventilation alone, with a p-value of 0.003. Longitudinal analysis also showed lower odds of poorer surgical field scores with dexmedetomidine: OR 0.180, with a 95% confidence interval from 0.062 to 0.524. The bleeding rate was also lower in the combined-treatment group.\n\nThe key safety question was whether improving the field might impair cerebral oxygenation. Intraoperative ScO2 was comparable between groups, and no cerebral desaturation events were reported. Thus, this trial found better visibility without detected compromise in cerebral oxygenation in the study sample.\n\nFor practice, this is useful evidence, but it is not yet sufficient to mandate a routine change. The sample was modest, and the absence of desaturation events among 74 patients cannot exclude uncommon harms. Clinicians may consider dexmedetomidine as an option for optimizing ESS conditions, with appropriate patient assessment and monitoring. Larger multicenter trials should confirm the benefit, establish the best dose and protocol, and evaluate postoperative recovery and surgical outcomes. The take-home message is improved Boezaart scores and less bleeding, with comparable ScO2 in this randomized comparison.",
+      "mcq": [
+        {
+          "q_ar": "ما التصميم البحثي للدراسة؟",
+          "q_en": "What was the study design?",
+          "options_ar": [
+            "أ) تجربة عشوائية مزدوجة التعمية",
+            "ب) دراسة أترابية استعادية",
+            "ج) سلسلة حالات",
+            "د) مراجعة منهجية"
+          ],
+          "options_en": [
+            "A) Double-blinded randomized controlled trial",
+            "B) Retrospective cohort study",
+            "C) Case series",
+            "D) Systematic review"
+          ],
+          "answer": 0,
+          "explanation_ar": "وُزّع 74 مريضًا عشوائيًا ضمن تجربة مزدوجة التعمية إلى مجموعتي العلاج.",
+          "explanation_en": "The 74 patients were randomly assigned in a double-blinded trial to the two treatment groups."
+        },
+        {
+          "q_ar": "ما النتيجة الأساسية التي حسّنتها إضافة dexmedetomidine؟",
+          "q_en": "Which primary outcome improved with added dexmedetomidine?",
+          "options_ar": [
+            "أ) Boezaart surgical field score",
+            "ب) Intraoperative ScO2",
+            "ج) مدة الإقامة في المستشفى",
+            "د) معدل cerebral desaturation events"
+          ],
+          "options_en": [
+            "A) Boezaart surgical field score",
+            "B) Intraoperative ScO2",
+            "C) Length of hospital stay",
+            "D) Rate of cerebral desaturation events"
+          ],
+          "answer": 0,
+          "explanation_ar": "كان Boezaart score أقل بعد 30 دقيقة مع dexmedetomidine وhyperventilation مقارنةً بـ hyperventilation وحده.",
+          "explanation_en": "The Boezaart score was lower at 30 minutes with dexmedetomidine plus hyperventilation than with hyperventilation alone."
+        },
+        {
+          "q_ar": "ما الذي أظهرته الدراسة بشأن cerebral oxygenation؟",
+          "q_en": "What did the study report regarding cerebral oxygenation?",
+          "options_ar": [
+            "أ) انخفضت ScO2 بوضوح مع العلاج المركب",
+            "ب) كانت ScO2 متقاربة ولم تحدث cerebral desaturation events",
+            "ج) لم تُقَس ScO2",
+            "د) تحسنت ScO2 بصورة دالة إحصائيًا"
+          ],
+          "options_en": [
+            "A) ScO2 clearly decreased with the combined strategy",
+            "B) ScO2 was comparable and no cerebral desaturation events occurred",
+            "C) ScO2 was not measured",
+            "D) ScO2 improved significantly"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت intraoperative ScO2 متقاربة بين المجموعتين ولم تُسجّل cerebral desaturation events.",
+          "explanation_en": "Intraoperative ScO2 was comparable between groups, and no cerebral desaturation events were reported."
+        }
+      ]
+    },
+    {
+      "pmid": "42922438",
+      "title_ar": "Comparison of Chronic Rhinosinusitis Disease Control Classification Using the Chronic Rhinosinusitis Control Test Versus EPOS Criteria.",
+      "title_en": "Comparison of Chronic Rhinosinusitis Disease Control Classification Using the Chronic Rhinosinusitis Control Test Versus EPOS Criteria.",
+      "journal": "International forum of allergy & rhinology",
+      "pub_date": "2026-Oct-23",
+      "doi": "10.1002/alr.70301",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42922438/",
+      "pdf_url": null,
+      "study_design": "Comparative cross-sectional analysis of 305 participants",
+      "summary_ar": "قارنت هذه الدراسة تصنيف السيطرة على chronic rhinosinusitis باستخدام Chronic Rhinosinusitis Control Test (CRCT) ومعايير EPOS لدى 305 مشاركين. بلغ الاتفاق بين الطريقتين 35.7%، مع κ = 0.366 وp < 0.001. صنّف CRCT عددًا أكبر من المرضى ضمن فئتي controlled وpartly controlled، بينما صنّفت معايير EPOS نسبة أكبر على أنها uncontrolled. أظهر CRCT صلاحية تقاربية وتمييزية، إذ ارتبطت فئات السيطرة المختلفة بفروق مناسبة في Overall Symptom Severity وSNOT-22 وEQ-5D VAS وmodified Lund-Kennedy score. افتقرت فئتا controlled وpartly controlled في EPOS إلى الصلاحية التمييزية، كما تضمنت فئة uncontrolled مرضى ذوي عبء مرضي خفيف جدًا. تشير النتائج إلى أن CRCT يعكس تقييم المرضى ومقدمي الرعاية للسيطرة على المرض بصورة أقرب من تصنيف EPOS.",
+      "summary_en": "This study compared chronic rhinosinusitis control classifications using the Chronic Rhinosinusitis Control Test (CRCT) and EPOS criteria in 305 participants. Agreement between the approaches was 35.7% (κ = 0.366, p < 0.001). CRCT classified more patients as controlled or partly controlled, whereas EPOS more often classified patients as uncontrolled. CRCT showed convergent and divergent validity across Overall Symptom Severity, SNOT-22, EQ-5D VAS, and modified Lund-Kennedy scores. EPOS control categories had validity limitations, including patients with very mild disease burden in the uncontrolled group. Overall, CRCT classifications aligned more closely with patient and provider assessments.",
+      "practice_change_ar": "يمكن استخدام CRCT بوصفه أداة عملية لتقييم السيطرة على chronic rhinosinusitis، لكن هذه الدراسة وحدها لا تبرر استبدال تصنيف EPOS رسميًا.",
+      "practice_change_en": "CRCT can be used as a practical measure of chronic rhinosinusitis control, but this study alone does not justify formally replacing EPOS classification.",
+      "future_impact_ar": "قد تدعم دراسات التحقق متعددة المراكز اعتماد CRCT لتوحيد تقييم السيطرة وتوجيه قرارات العلاج في chronic rhinosinusitis.",
+      "future_impact_en": "Multicenter validation could support adopting CRCT to standardize control assessment and inform treatment decisions in chronic rhinosinusitis.",
+      "why_important_ar": "تُظهر النتائج أن تصنيف السيطرة يؤثر في تحديد عبء المرض، وأن فئات EPOS قد لا تميز المرضى بدقة.",
+      "why_important_en": "The findings show that control classification affects how disease burden is represented and that EPOS categories may not discriminate patients accurately.",
+      "vs_previous_ar": "على خلاف تصنيف EPOS، أظهر CRCT توافقًا أفضل مع تقييم المرضى ومقدمي الرعاية وصلاحية أوضح عبر مقاييس عبء المرض.",
+      "vs_previous_en": "Unlike EPOS classification, CRCT aligned more closely with patient and provider assessments and showed clearer validity across disease-burden measures.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة مقارنة مقطعية على 305 مشاركين تقدم معرفة مفيدة حول صلاحية أدوات تصنيف السيطرة، لكنها لا تثبت أن تغيير الأداة يحسن النتائج أو يغير الممارسة مباشرة.",
+      "stars_reason_en": "This comparative analysis of 305 participants provides useful evidence on the validity of control measures, but does not show that changing tools improves outcomes or directly changes practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This merits discussion because it compares a practical clinical measure with EPOS and finds substantial classification differences, while its design limits conclusions about definitive clinical superiority.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات مستقبلية متعددة المراكز لتحديد ما إذا كان استخدام CRCT يغيّر قرارات العلاج أو يحسن نتائج المرضى مقارنةً بـ EPOS.",
+      "research_gap_en": "Prospective multicenter studies should determine whether CRCT use changes treatment decisions or improves patient outcomes compared with EPOS.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم دراسة قارنت تصنيف السيطرة على chronic rhinosinusitis باستخدام Chronic Rhinosinusitis Control Test، أو CRCT، ومعايير EPOS. شملت الدراسة 305 مشاركين، وقاست عبء المرض من خلال Overall Symptom Severity، وSNOT-22، وEQ-5D VAS، إضافة إلى modified Lund-Kennedy score في التنظير. كان الاتفاق بين تصنيفي CRCT وEPOS منخفضًا نسبيًا، إذ بلغ 35.7%، مع κ يساوي 0.366 وقيمة p أقل من 0.001. صنّف CRCT عددًا أكبر من المشاركين على أنهم controlled أو partly controlled، بينما مال EPOS إلى تصنيف المرضى على أنهم uncontrolled. والأهم أن فئات CRCT عكست فروقًا مناسبة في عبء المرض، بما يدعم الصلاحية التقاربية والتمييزية. في المقابل، لم تميز فئات controlled وpartly controlled وفق EPOS عبء المرض جيدًا، كما ضمت فئة uncontrolled مرضى لديهم مرض خفيف جدًا. تشير النتائج إلى أن CRCT أقرب إلى تقييم المرضى ومقدمي الرعاية، وقد يكون مفيدًا في التقييم السريري. لكن التصميم المقارن لا يثبت أن استخدامه يغير العلاج أو يحسن النتائج؛ لذلك لا تكفي هذه الدراسة وحدها لاستبدال EPOS. الخلاصة أن هذه دراسة مفيدة لأطباء rhinology، وتدعم التحقق المستقبلي متعدد المراكز من CRCT وربط استخدامه بقرارات العلاج ونتائج المرضى.",
+      "audio_script_en": "Today we review a study comparing chronic rhinosinusitis control classification using the Chronic Rhinosinusitis Control Test, or CRCT, with EPOS criteria. It included 305 participants and assessed disease burden using Overall Symptom Severity, SNOT-22, EQ-5D VAS, and endoscopic modified Lund-Kennedy scores. Agreement between the two classifications was relatively low: 35.7%, with κ = 0.366 and p < 0.001. CRCT classified more participants as controlled or partly controlled, while EPOS tended to classify more as uncontrolled. CRCT categories showed appropriate differences in disease burden, supporting convergent and divergent validity. In contrast, the EPOS controlled and partly controlled categories did not discriminate disease burden well, and its uncontrolled category included some patients with very mild disease. The findings suggest that CRCT more closely reflects patient and provider assessments and may be useful in clinical evaluation. However, this comparative study does not demonstrate that using CRCT changes treatment decisions or improves outcomes, so it is not sufficient by itself to replace EPOS. The take-home message for rhinology clinicians is that CRCT is a promising control measure deserving further validation, particularly in prospective multicenter studies linking its use to treatment decisions and patient outcomes.",
+      "mcq": [
+        {
+          "q_ar": "كم بلغ الاتفاق بين تصنيف CRCT ومعايير EPOS؟",
+          "q_en": "What was the agreement between CRCT and EPOS classifications?",
+          "options_ar": [
+            "أ) 15.7%",
+            "ب) 35.7%",
+            "ج) 65.7%",
+            "د) 85.7%"
+          ],
+          "options_en": [
+            "A) 15.7%",
+            "B) 35.7%",
+            "C) 65.7%",
+            "D) 85.7%"
+          ],
+          "answer": 1,
+          "explanation_ar": "بلغ الاتفاق 35.7%، وكانت قيمة κ تساوي 0.366.",
+          "explanation_en": "Agreement was 35.7%, with κ = 0.366."
+        },
+        {
+          "q_ar": "ما أبرز قصور لوحظ في تصنيف EPOS ضمن هذه الدراسة؟",
+          "q_en": "What was a key limitation observed with EPOS classification in this study?",
+          "options_ar": [
+            "أ) لم يتضمن تقييمًا للأعراض",
+            "ب) صنّف جميع المرضى على أنهم controlled",
+            "ج) ضم تصنيف uncontrolled مرضى ذوي عبء مرضي خفيف جدًا",
+            "د) لم يُستخدم لدى مرضى chronic rhinosinusitis"
+          ],
+          "options_en": [
+            "A) It did not include symptom assessment",
+            "B) It classified every patient as controlled",
+            "C) Its uncontrolled group included patients with very mild disease burden",
+            "D) It was not used in patients with chronic rhinosinusitis"
+          ],
+          "answer": 2,
+          "explanation_ar": "أشارت الدراسة إلى أن فئة uncontrolled وفق EPOS تضمنت مرضى بعبء مرضي خفيف جدًا، ما يضعف صلاحيتها التقاربية.",
+          "explanation_en": "The EPOS uncontrolled category included patients with very mild disease burden, limiting its convergent validity."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن تطبيق نتائج الدراسة؟",
+          "q_en": "What is the most appropriate conclusion for applying these findings?",
+          "options_ar": [
+            "أ) استبدال EPOS فورًا في جميع الممارسات",
+            "ب) استخدام CRCT كأداة واعدة مع الحاجة إلى دراسات تحقق إضافية",
+            "ج) إيقاف قياس عبء المرض",
+            "د) اعتبار CRCT علاجًا لـ chronic rhinosinusitis"
+          ],
+          "options_en": [
+            "A) Immediately replace EPOS in all practices",
+            "B) Consider CRCT a promising measure requiring further validation",
+            "C) Stop measuring disease burden",
+            "D) Consider CRCT a treatment for chronic rhinosinusitis"
+          ],
+          "answer": 1,
+          "explanation_ar": "تدعم النتائج صلاحية CRCT، لكنها لا تثبت تحسن النتائج أو تبرر وحدها الاستبدال الرسمي لمعايير EPOS.",
+          "explanation_en": "The findings support CRCT validity, but do not demonstrate improved outcomes or independently justify formally replacing EPOS."
+        }
+      ]
+    },
+    {
+      "pmid": "42921763",
+      "title_ar": "Duration of Olfactory Loss and Steroid Responsiveness as Predictors of Treatment Response to Dupilumab in Chronic Rhinosinusitis With Nasal Polyps.",
+      "title_en": "Duration of Olfactory Loss and Steroid Responsiveness as Predictors of Treatment Response to Dupilumab in Chronic Rhinosinusitis With Nasal Polyps.",
+      "journal": "International forum of allergy & rhinology",
+      "pub_date": "2026-Oct-24",
+      "doi": "10.1002/alr.70298",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42921763/",
+      "pdf_url": null,
+      "study_design": "Prospective single-arm cohort",
+      "summary_ar": "درس هذا البحث prospective single-arm cohort لمرضى CRSwNP الذين بدأوا dupilumab، لتقييم ارتباط مدة فقدان الشم وsteroid responsiveness وتقلب الشم الأساسي بتحسن الشم بعد 12 أسبوعًا. قيس الشم باستخدام Sniffin' Sticks، بما يشمل TDI، إلى جانب تقييم المرضى لقدرتهم على الشم. ارتبطت مدة فقدان الشم الأقصر بتحسن أكبر في TDI (R² = 0.089، p = 0.02). حقق المرضى الذين فقدوا الشم منذ أقل من 10 سنوات تحسنًا أكبر من أصحاب المدة الأطول (10.9 مقابل 4.5 نقاط؛ p = 0.01)، متجاوزًا الفرق MCID البالغ 5.5 نقاط. أظهر المرضى ذوو steroid responsiveness تحسنًا أكبر في بعض المقاييس، لكن لم يظهر فرق إجمالي في تغير TDI. كان لدى من أبلغوا عن تقلب الشم الأساسي TDI أعلى طوال العلاج، مع مقدار تحسن مشابه؛ وتشير النتائج إلى أن مدة فقدان الشم قد تساعد في توجيه التوقعات، مع الحاجة إلى دراسات أكبر لتأكيدها.",
+      "summary_en": "This prospective single-arm cohort examined whether duration of olfactory loss, steroid responsiveness, and baseline smell fluctuation predict olfactory outcomes after 12 weeks of dupilumab for CRSwNP. Olfaction was measured with Sniffin' Sticks, including the composite TDI score, and patient-reported smell ability. Shorter duration of olfactory loss was associated with greater TDI improvement (R² = 0.089, p = 0.02). Patients with less than 10 years of loss improved more than those with longer loss (10.9 vs. 4.5 points; p = 0.01), exceeding the 5.5-point MCID. Steroid-responsive patients improved more on some measures, but not in overall TDI change. Baseline smell fluctuation was associated with higher TDI scores throughout treatment, but a similar magnitude of change. These features may inform counseling, although larger studies are needed to validate the findings.",
+      "practice_change_ar": "يمكن استخدام مدة فقدان الشم، خصوصًا حد 10 سنوات، لتوجيه توقعات مرضى CRSwNP قبل dupilumab، لكنها لا تكفي وحدها لاختيار العلاج.",
+      "practice_change_en": "Use duration of olfactory loss, particularly the 10-year threshold, to inform expectations before dupilumab in CRSwNP, but not as a stand-alone treatment-selection criterion.",
+      "future_impact_ar": "قد تدعم هذه النتائج تطوير أدوات تنبؤ سريرية إذا تأكدت في cohorts أكبر وبمتابعة أطول.",
+      "future_impact_en": "If validated in larger cohorts with longer follow-up, these findings could support clinical prediction tools.",
+      "why_important_ar": "تقدم الدراسة مؤشرًا سريريًا بسيطًا قد يفسر تفاوت تحسن الشم مع dupilumab لدى مرضى CRSwNP.",
+      "why_important_en": "The study offers a readily available clinical feature that may help explain variable olfactory improvement with dupilumab in CRSwNP.",
+      "vs_previous_ar": "تضيف الدراسة مدة فقدان الشم كعامل تنبؤ محتمل، بينما لم يظهر steroid responsiveness فرقًا إجماليًا في تحسن TDI.",
+      "vs_previous_en": "The study adds duration of olfactory loss as a potential predictor, while finding no overall TDI improvement difference by steroid responsiveness.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة prospective أحادية الذراع تقدم معلومة سريرية مفيدة عن توقيت فقدان الشم، لكن غياب مجموعة مقارنة وحجم العينة غير المذكور يحدان من قوة الاستنتاج ولا يغيران الممارسة مباشرة.",
+      "stars_reason_en": "This prospective single-arm study provides useful clinical information about duration of smell loss, but the lack of a comparator and unreported sample size limit inference; it does not directly change practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The 10-year threshold and its potential clinical relevance merit discussion, alongside the single-arm design and modest R².",
+      "watch": true,
+      "watch_detail_ar": "راقب dupilumab في CRSwNP، إذ تبحث الدراسة عن خصائص سريرية قد تساعد على توقع تحسن الشم مع هذا biologic.",
+      "watch_detail_en": "Track dupilumab in CRSwNP, as this study explores clinical features that may predict olfactory response to this biologic.",
+      "watch_type": "drug",
+      "research_gap_ar": "يلزم إجراء دراسات متعددة المراكز ذات مجموعات مقارنة وعينات أكبر للتحقق من حد 10 سنوات وتحديد أثر steroid responsiveness على نتائج الشم.",
+      "research_gap_en": "Larger multicenter studies with comparator groups are needed to validate the 10-year threshold and clarify the effect of steroid responsiveness on olfactory outcomes.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم دراسة عن التنبؤ بتحسن الشم بعد استخدام dupilumab لدى مرضى CRSwNP. صُممت الدراسة كـ prospective single-arm cohort، وسجل الباحثون مدة فقدان الشم، وsteroid responsiveness، وتقلب الشم قبل العلاج. قيس الشم باستخدام Sniffin' Sticks، بما في ذلك composite TDI score، كما سُجل تقييم المرضى لقدرتهم على الشم، عند البداية وبعد 12 أسبوعًا.\n\nكانت النتيجة الأبرز أن المرضى ذوي مدة فقدان الشم الأقصر حققوا تحسنًا أكبر في TDI. وتحديدًا، تحسن من فقدوا الشم منذ أقل من 10 سنوات بمقدار 10.9 نقاط، مقابل 4.5 نقاط لدى من تجاوزت مدة فقدانهم 10 سنوات. بلغ الفرق دلالة إحصائية، كما تجاوز MCID البالغ 5.5 نقاط، ما يجعل هذه العتبة مفيدة عند مناقشة التوقعات مع المرضى. لكن العلاقة تفسر جزءًا محدودًا من التباين، إذ كان R² يساوي 0.089.\n\nأما steroid responsiveness فارتبط بتحسن أكبر في بعض المقاييس، مثل التقييم الذاتي للشم وsmell identification، لكنه لم يرتبط بفرق إجمالي في تغير TDI. والمرضى الذين أبلغوا عن تقلب الشم الأساسي بدأوا وحافظوا على TDI أعلى، لكن مقدار التغير لديهم كان مشابهًا.\n\nعمليًا، قد تساعد مدة فقدان الشم في تقديم مشورة أكثر واقعية قبل dupilumab، لكنها لا ينبغي أن تكون وحدها أساسًا لاختيار العلاج أو حرمان المريض منه. الدراسة prospective، لكنها أحادية الذراع، ولم يذكر الملخص حجم العينة؛ لذلك تبقى النتائج استكشافية. تستحق الورقة النقاش في journal club، كما أن dupilumab يظل علاجًا يستحق المتابعة. الخطوة التالية هي دراسات أكبر، مع مجموعات مقارنة ومتابعة أطول، للتحقق من عتبة 10 سنوات وتوضيح القيمة التنبؤية للاستجابة للsteroid.",
+      "audio_script_en": "Today’s review examines predictors of olfactory improvement with dupilumab in patients with CRSwNP. This was a prospective, single-arm cohort. Investigators recorded duration of smell loss, steroid responsiveness, and baseline smell fluctuation. They assessed olfaction with Sniffin' Sticks, including the composite TDI score, and recorded patient-reported smell ability at baseline and after 12 weeks.\n\nThe main finding was that shorter duration of olfactory loss was associated with greater TDI improvement. Patients with less than 10 years of smell loss improved by 10.9 points, compared with 4.5 points among those with longer loss. The difference was statistically significant and exceeded the 5.5-point MCID, making this a potentially useful point for counseling. However, the association explained only a modest proportion of variation, with an R² of 0.089.\n\nSteroid-responsive patients improved more on some measures, including patient-reported olfaction and smell identification, but there was no overall difference in TDI change. Patients reporting baseline smell fluctuation had higher TDI scores throughout treatment, yet their magnitude of improvement was similar.\n\nFor practice, duration of smell loss may help set expectations before dupilumab, but it should not be used alone to select treatment or to exclude patients. The prospective design is a strength, but the study was single-arm and the abstract does not report sample size, so the findings remain exploratory. This is a worthwhile journal-club paper, and dupilumab remains a drug to track in CRSwNP. Larger studies with comparator groups and longer follow-up should validate the 10-year threshold and clarify the predictive value of steroid responsiveness.",
+      "mcq": [
+        {
+          "q_ar": "ما العامل الذي ارتبط بأكبر تحسن في TDI بعد dupilumab؟",
+          "q_en": "Which factor was associated with greater TDI improvement after dupilumab?",
+          "options_ar": [
+            "أ) مدة فقدان الشم الأقصر",
+            "ب) تقلب الشم الأساسي",
+            "ج) مدة فقدان الشم الأطول",
+            "د) عدم الاستجابة للsteroid"
+          ],
+          "options_en": [
+            "A) Shorter duration of olfactory loss",
+            "B) Baseline smell fluctuation",
+            "C) Longer duration of olfactory loss",
+            "D) Steroid non-responsiveness"
+          ],
+          "answer": 0,
+          "explanation_ar": "ارتبطت مدة فقدان الشم الأقصر بتحسن أكبر في TDI، وكان التحسن أكبر لدى من كانت المدة لديهم أقل من 10 سنوات.",
+          "explanation_en": "Shorter duration of olfactory loss was associated with greater TDI improvement, particularly for patients with less than 10 years of loss."
+        },
+        {
+          "q_ar": "ما مقدار تحسن TDI لدى المرضى ذوي فقدان الشم لأقل من 10 سنوات مقارنة بمن تجاوزت المدة لديهم 10 سنوات؟",
+          "q_en": "What were the TDI improvements for patients with less than 10 years versus more than 10 years of olfactory loss?",
+          "options_ar": [
+            "أ) 4.5 مقابل 10.9 نقاط",
+            "ب) 10.9 مقابل 4.5 نقاط",
+            "ج) 5.5 مقابل 10.9 نقاط",
+            "د) لم يظهر أي تحسن في المجموعتين"
+          ],
+          "options_en": [
+            "A) 4.5 vs. 10.9 points",
+            "B) 10.9 vs. 4.5 points",
+            "C) 5.5 vs. 10.9 points",
+            "D) Neither group improved"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان متوسط تحسن TDI هو 10.9 نقاط لمن كانت مدة فقدان الشم لديهم أقل من 10 سنوات، مقابل 4.5 نقاط للمدة الأطول.",
+          "explanation_en": "Mean TDI improvement was 10.9 points for less than 10 years of smell loss and 4.5 points for longer duration."
+        },
+        {
+          "q_ar": "ما النتيجة المتعلقة بمرضى steroid-responsive؟",
+          "q_en": "What did the study find about steroid-responsive patients?",
+          "options_ar": [
+            "أ) حققوا تحسنًا أكبر في TDI إجمالًا",
+            "ب) لم يتحسن لديهم أي مقياس للشم",
+            "ج) تحسنوا أكثر في بعض المقاييس، دون فرق إجمالي في تغير TDI",
+            "د) كان لديهم TDI أقل طوال العلاج"
+          ],
+          "options_en": [
+            "A) They had greater overall TDI improvement",
+            "B) They improved on no olfactory measures",
+            "C) They improved more on some measures, without an overall TDI change difference",
+            "D) They had lower TDI scores throughout treatment"
+          ],
+          "answer": 2,
+          "explanation_ar": "ظهر تحسن أكبر لدى steroid-responsive patients في بعض المقاييس، لكن لم يكن هناك فرق إجمالي في تغير TDI.",
+          "explanation_en": "Steroid-responsive patients improved more on selected measures, but there was no overall difference in TDI change."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026102501",
+      "title_ar": "الشركات الرائدة في طب الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية",
+      "title_en": "Leading ENT Companies Driving Medical Technology Innovation",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-25",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت SNS Insider عرضًا عامًا يسلط الضوء على شركات تصفها بأنها تقود الابتكار في التكنولوجيا الطبية بمجال الأنف والأذن والحنجرة. ولا يحدد الخبر المتاح شركات أو منتجات بعينها، أو نتائج مالية، أو قرارات سريرية أو تنظيمية جديدة. لذا فهو يتناول توجهًا عامًا في القطاع، وليس إعلانًا مؤكدًا عن استحواذ أو دعوى قضائية أو تحرك في الأسهم أو إجراء من إدارة الغذاء والدواء الأمريكية. ويلزم الاطلاع على تفاصيل إضافية لتقييم تقنيات محددة أو الأدلة الداعمة لها.",
+      "summary_en": "SNS Insider published an overview highlighting companies it describes as leading medical technology innovation in the ENT field. The available news item does not identify specific companies, products, financial results, or new clinical or regulatory decisions. It therefore reports an industry trend rather than a confirmed acquisition, lawsuit, stock move, or FDA action. Further details would be needed to assess particular technologies or their evidence.",
+      "practice_change_ar": "لا يتضمن الخبر معلومات كافية عن منتجات أو نتائج سريرية تبرر تغيير الممارسة الحالية في طب الأنف والأذن والحنجرة.",
+      "practice_change_en": "The item does not provide enough product or clinical information to justify a change in current ENT practice.",
+      "future_impact_ar": "ينبغي لجراحي الأنف والأذن والحنجرة متابعة تطورات القطاع مع انتظار معلومات محددة عن التقنيات والقرارات التنظيمية والأدلة السريرية.",
+      "future_impact_en": "ENT surgeons should follow developments in the sector while awaiting specific technologies, regulatory decisions, and clinical evidence.",
+      "why_important_ar": "قد يؤثر الابتكار في التكنولوجيا الطبية مستقبلًا في خيارات التشخيص والعلاج، لكن هذا العرض لا يقدم دليلًا محددًا على فائدة سريرية أو أثر عملي.",
+      "why_important_en": "Medical technology innovation may eventually affect diagnostic and treatment options, but this overview offers no specific evidence of clinical benefit or impact.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "الأهمية محدودة لغياب تفاصيل عن شركات أو منتجات أو نتائج سريرية محددة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "يتناول خبر من SNS Insider الشركات التي تقود الابتكار في التكنولوجيا الطبية بمجال الأنف والأذن والحنجرة. لكن المعلومات المتاحة تقتصر على عنوان عام، ولا تذكر أسماء الشركات أو التقنيات أو نتائج سريرية أو مستجدات مالية وتنظيمية محددة. لذلك لا يمكن استنتاج وجود تغيير وشيك في خيارات التشخيص أو العلاج، ولا توجد في الخبر تفاصيل تبرر تعديل الممارسة اليومية. تظل أهمية الابتكار في هذا المجال مرتبطة بما ستقدمه التقنيات مستقبلًا من أدلة على السلامة والفعالية، وبحصولها على الموافقات التنظيمية اللازمة. يمكن للأطباء متابعة هذه التطورات، مع الاعتماد على الأدلة السريرية والإرشادات المهنية عند اتخاذ القرارات العلاجية. الخلاصة: الخبر إشارة عامة إلى نشاط الابتكار في القطاع، وليس إعلانًا عن منتج أو قرار محدد يؤثر حاليًا في رعاية المرضى.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026102502",
+      "title_ar": "ميدترونيك وكارل ستورز تتعاونان لتطوير حلول جراحية متكاملة للأنف والأذن والحنجرة",
+      "title_en": "Medtronic and Karl Storz Collaborate on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-25",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أعلنت شركتا ميدترونيك وكارل ستورز عن تعاون يركز على حلول جراحية متكاملة في مجال الأنف والأذن والحنجرة. ويشير الإعلان إلى سعي الشركتين المتخصصتين في الأجهزة الطبية إلى الجمع بين منتجاتهما لخدمة إجراءات الأنف والأذن والحنجرة. ولا يوضح التقرير المتاح المنتجات المعنية أو شروط التعاون أو موعد إطلاق الحلول.",
+      "summary_en": "Medtronic and Karl Storz have announced a collaboration focused on integrated surgical solutions for ear, nose and throat care. The announcement signals an effort by the two medical-device companies to bring their offerings together for ENT procedures. The available report does not specify the products involved, the terms of the collaboration, or a launch timeline.",
+      "practice_change_ar": "في الوقت الحالي، لا يُتوقع أن تتغير سير العمل السريري قبل أن توضح الشركتان المنتجات التي ستُدمج وموعد توفرها.",
+      "practice_change_en": "For now, surgeons should not expect a change in clinical workflows until the companies clarify which products will be integrated and when they will be available.",
+      "future_impact_ar": "قد يشجع هذا التعاون على مزيد من التكامل بين منصات أجهزة الأنف والأذن والحنجرة، لكن أثره النهائي سيعتمد على المنتجات والأدلة السريرية ومدى توفرها.",
+      "future_impact_en": "The partnership may encourage further integration among ENT device platforms, though its eventual impact will depend on the products, evidence, and availability.",
+      "why_important_ar": "إذا أسفر التعاون عن أدوات متوافقة ومتكاملة، فقد يسهم في تبسيط استخدام المعدات وتنسيق العمل داخل غرف عمليات الأنف والأذن والحنجرة.",
+      "why_important_en": "If the collaboration produces compatible, integrated tools, it could simplify equipment use and coordination in ENT operating rooms.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "خبر تجاري قد يهم مشتري الأجهزة، لكن تفاصيل المنتجات والأثر السريري لم تُعلن.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أعلنت شركتا ميدترونيك وكارل ستورز عن تعاون لتقديم حلول جراحية متكاملة في مجال الأنف والأذن والحنجرة. وقد يتيح هذا التوجه، إذا نتجت عنه أدوات متوافقة ومتكاملة، تبسيط استخدام التجهيزات وتنسيق العمل داخل غرف العمليات. لكن الإعلان المتاح لا يحدد المنتجات التي يشملها التعاون، ولا شروطه أو موعد إتاحة أي حلول جديدة. لذلك لا توجد في الوقت الحالي معلومات كافية للقول إن هذا الخبر سيغير الممارسة السريرية أو خيارات شراء الأجهزة لدى الجراحين. الأهمية العملية ستتضح بعد نشر تفاصيل المنتجات، ومدى توافقها مع الأنظمة الموجودة، وأي بيانات تدعم استخدامها. سنترقب ما تعلنه الشركتان لاحقاً.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026102503",
+      "title_ar": "سوق أنظمة التصوير بالمناظير متوسطة الفئة حتى عام 2035: الطلب على الإجراءات طفيفة التوغل يدفع النمو",
+      "title_en": "Mid-Range Endoscopy Visualization Systems Market to 2035: Minimally Invasive Demand Drives Growth",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-25",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "تتناول IndexBox توقعات سوق أنظمة التصوير بالمناظير متوسطة الفئة حتى عام 2035، وتشير إلى أن الطلب على الإجراءات طفيفة التوغل يدفع نمو السوق. ولا يتضمن الخبر المقدم تقديرات لحجم السوق أو معدلات النمو، كما لا يورد تفاصيل عن شركات مصنّعة أو منتجات بعينها. ويتعلق المحتوى باتجاهات السوق، لا بصفقة استحواذ أو قرار تنظيمي أو دعوى قضائية أو تحرك في الأسهم.",
+      "summary_en": "IndexBox reports on a market outlook for mid-range endoscopy visualization systems through 2035, citing demand for minimally invasive procedures as a growth driver. The supplied item does not provide market-size estimates, growth rates, or details about specific manufacturers or products. It describes a market trend rather than an acquisition, regulatory decision, lawsuit, or stock move.",
+      "practice_change_ar": "قد يشير هذا الاتجاه إلى اتساع خيارات أنظمة التصوير متوسطة السعر المتاحة لجراحي الأنف والأذن والحنجرة، لكن الخبر لا يقدم بيانات عن المنتجات أو أدائها تساعد في قرارات الشراء.",
+      "practice_change_en": "For ENT surgeons, the reported trend may signal a widening range of mid-priced visualization options, but the item provides no product or performance data to guide purchasing decisions.",
+      "future_impact_ar": "إذا استمر الطلب المتوقع، فقد توسع الشركات المصنّعة عروضها ضمن الفئة المتوسطة، ما يزيد أهمية الأدلة المقارنة حول جودة الصورة والموثوقية والتكلفة الإجمالية لعيادات الأنف والأذن والحنجرة.",
+      "future_impact_en": "If the projected demand continues, manufacturers may expand mid-range offerings, making comparative evidence on image quality, reliability, and total cost increasingly important for ENT practices.",
+      "why_important_ar": "قد تؤثر معدات التصوير في سير العمل بالمناظير، لكن توقعات السوق وحدها لا تثبت حدوث تغير في النتائج السريرية أو توافر المعدات.",
+      "why_important_en": "Visualization equipment can affect endoscopic workflow, but this market outlook alone does not establish changes in clinical outcomes or equipment availability.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "اتجاه سوقي محتمل الصلة بشراء المعدات، لكن الخبر لا يقدم أرقامًا أو تفاصيل سريرية محددة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "تشير مادة منشورة عن سوق أنظمة التصوير بالمناظير متوسطة الفئة إلى توقعات تمتد حتى عام 2035، وتربط نمو السوق بالطلب على الإجراءات طفيفة التوغل. بالنسبة لجراحي الأنف والأذن والحنجرة، قد يعني ذلك اتساع الخيارات المتاحة في فئة الأسعار المتوسطة، لكن الخبر لا يحدد شركات أو أجهزة بعينها، ولا يقدم أرقامًا عن حجم السوق أو معدل نموه. كما لا يعرض بيانات عن جودة الصورة أو الاعتمادية أو أثر هذه الأنظمة في النتائج السريرية. لذلك، لا يكفي هذا التقرير وحده لاتخاذ قرار شراء؛ بل تظل المقارنة العملية بين الأجهزة وتكاليفها وأدائها ضرورية. الخلاصة: الخبر يرصد اتجاهًا تجاريًا محتمل الأهمية، وليس إعلانًا عن منتج جديد أو تغيير تنظيمي أو دليلًا على تحسن الرعاية.",
+      "mcq": []
+    }
+  ]
+}
