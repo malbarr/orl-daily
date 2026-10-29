@@ -1,0 +1,687 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T09:54:22Z",
+  "articles": [
+    {
+      "pmid": "42950360",
+      "title_ar": "Infraorbital versus sphenopalatine ganglion block for patient-reported recovery after septorhinoplasty: A randomized controlled trial.",
+      "title_en": "Infraorbital versus sphenopalatine ganglion block for patient-reported recovery after septorhinoplasty: A randomized controlled trial.",
+      "journal": "Journal of clinical anesthesia",
+      "pub_date": "2026-Oct-28",
+      "doi": "10.1016/j.jclinane.2026.112354",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42950360/",
+      "pdf_url": null,
+      "study_design": "Patient- and assessor-blinded RCT, n=89 analyzed",
+      "summary_ar": "قارنت هذه الدراسة RCT بين bilateral ultrasound-guided infraorbital nerve block وtransnasal sphenopalatine ganglion block لدى البالغين الخاضعين لـseptorhinoplasty. تلقى المرضى في المجموعتين 2 mL من 0.5% bupivacaine لكل جهة، مع توفير surgical infiltration وmultimodal analgesia بشكل متماثل. عند 24 ساعة، كان متوسط QoR-15 أعلى في مجموعة infraorbital nerve block بمقدار 12.5 نقطة، مع 95% confidence interval من 8.01 إلى 17.01 وp-value=0.001، متجاوزًا minimal clinically important difference المحدد مسبقًا. كما وصل عدد أكبر من مرضى هذه المجموعة إلى acceptable symptom state، وكانت pain scores أقل وقلت الحاجة إلى rescue analgesia. لم تختلف nausea and vomiting أو anesthetic consumption أو recovery room stay بين المجموعتين. تدعم النتائج infraorbital nerve block لتحسين التعافي المبلغ عنه من المرضى، لكن النتائج الثانوية تظل hypothesis-generating وتحتاج إلى تأكيد في دراسات أوسع.",
+      "summary_en": "This patient- and assessor-blinded RCT compared bilateral ultrasound-guided infraorbital nerve block with transnasal sphenopalatine ganglion block in adults undergoing septorhinoplasty. Both groups received 2 mL of 0.5% bupivacaine per side, with identical surgical infiltration and multimodal analgesia. At 24 hours, QoR-15 was 12.5 points higher with infraorbital nerve block (95% CI 8.01–17.01; p=0.001), exceeding the prespecified minimal clinically important difference. More patients in that group reached the acceptable symptom state, pain scores were lower, and fewer required rescue analgesia. Nausea and vomiting, anesthetic consumption, and recovery room stay did not differ. The findings favor infraorbital nerve block for patient-reported recovery, while secondary outcomes remain hypothesis-generating and warrant confirmation.",
+      "practice_change_ar": "يمكن تفضيل ultrasound-guided infraorbital nerve block على transnasal sphenopalatine ganglion block لتحسين التعافي بعد septorhinoplasty، مع مراعاة أن النتائج تحتاج إلى تأكيد.",
+      "practice_change_en": "Clinicians may favor ultrasound-guided infraorbital nerve block over transnasal sphenopalatine ganglion block to improve recovery after septorhinoplasty, while recognizing that the findings need confirmation.",
+      "future_impact_ar": "قد تؤكد دراسات متعددة المراكز ما إذا كان تفوق infraorbital nerve block مستدامًا عبر تقنيات جراحية ومجموعات مرضى مختلفة.",
+      "future_impact_en": "Multicenter studies could establish whether the advantage of infraorbital nerve block persists across surgical techniques and patient populations.",
+      "why_important_ar": "تُظهر الدراسة فرقًا ذا أهمية سريرية في QoR-15 مع طريقة regional analgesia مرتبطة مباشرة بجراحة الأنف.",
+      "why_important_en": "The study demonstrates a clinically meaningful QoR-15 difference with a regional analgesia technique directly relevant to nasal surgery.",
+      "vs_previous_ar": "تضيف الدراسة مقارنة عشوائية مباشرة بين infraorbital nerve block وsphenopalatine ganglion block بدل الاعتماد على تقييم كل block منفردًا.",
+      "vs_previous_en": "This trial adds a direct randomized comparison of infraorbital nerve block and sphenopalatine ganglion block rather than evaluating either block in isolation.",
+      "stars": 4,
+      "stars_reason_ar": "هذه RCT جيدة التصميم وذات نتيجة أولية مهمة سريريًا، لكن Journal of Clinical Anesthesia ليس ضمن قائمة المجلات الأعلى تصنيفًا المذكورة، كما أن الدراسة أحادية المركز والنتائج الثانوية استكشافية.",
+      "stars_reason_en": "This is a well-designed RCT with a clinically important primary outcome, but Journal of Clinical Anesthesia is not among the specified top-tier journals, and the single-center study’s secondary findings are exploratory.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق الدراسة النقاش لأنها تقارن تدخلين مستخدمين سريريًا وتجد فرقًا يتجاوز minimal clinically important difference، مع أسئلة قابلة للنقاش حول قابلية التعميم والتعمية.",
+      "jc_reason_en": "This merits discussion because it compares two clinically used interventions and finds a difference exceeding the minimal clinically important difference, while raising questions about generalizability and blinding.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات أكبر ومتعددة المراكز لتقييم استدامة تحسن QoR-15 ومقارنة السلامة والفعالية عبر بروتوكولات analgesia وأنواع septorhinoplasty المختلفة.",
+      "research_gap_en": "Larger multicenter studies are needed to assess the durability of QoR-15 improvement and compare safety and effectiveness across analgesia protocols and septorhinoplasty approaches.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نستعرض اليوم تجربة عشوائية محكومة قارنت infraorbital nerve block مع sphenopalatine ganglion block لتحسين التعافي بعد septorhinoplasty. أُجريت الدراسة في مستشفى تدريبي، وشملت 90 بالغًا بحالة ASA I أو II، مع تحليل بيانات 89 مريضًا. تلقى المشاركون، بعد induction of general anesthesia، إما bilateral transnasal sphenopalatine ganglion block أو bilateral ultrasound-guided infraorbital nerve block، باستخدام 2 mL من 0.5% bupivacaine لكل جهة. كانت surgical infiltration وmultimodal analgesia متطابقتين بين المجموعتين، وكانت الدراسة patient- and assessor-blinded.\n\nالنتيجة الأساسية كانت QoR-15 بعد 24 ساعة. بلغ المتوسط 129.1 في مجموعة infraorbital nerve block مقابل 116.6 في مجموعة sphenopalatine ganglion block، بفرق 12.5 نقطة و95% confidence interval من 8.01 إلى 17.01، مع p-value يساوي 0.001. تجاوز الفرق minimal clinically important difference المحدد مسبقًا، كما حققت نسبة أكبر من مجموعة infraorbital nerve block acceptable symptom state. وكانت pain scores أقل في جميع نقاط القياس، واحتاج عدد أقل من المرضى إلى rescue analgesia.\n\nلم تُسجل فروق في nausea and vomiting أو anesthetic consumption أو recovery room stay. لذلك، تشير النتيجة الأساسية إلى فائدة ذات أهمية سريرية لـinfraorbital nerve block في التعافي الذي يبلّغ عنه المريض. مع ذلك، حجم الدراسة وموقعها الواحد يحدان من التعميم، وتبقى النتائج الثانوية hypothesis-generating. عمليًا، يمكن للأطباء التفكير في تفضيل ultrasound-guided infraorbital nerve block بعد septorhinoplasty، مع عدم اعتبار هذه التجربة وحدها حاسمة لتغيير البروتوكولات. ستكون الدراسات متعددة المراكز مفيدة لتأكيد النتيجة وتقييم اختلافها بحسب التقنية الجراحية وبروتوكولات analgesia. هذه دراسة مناسبة لنقاش journal club بسبب عشوائيتها، ومقاييسها التي تركز على المريض، والفرق الذي تجاوز الحد الأدنى للأهمية السريرية.",
+      "audio_script_en": "Today’s review covers a randomized controlled trial comparing infraorbital nerve block with sphenopalatine ganglion block for recovery after septorhinoplasty. The study enrolled 90 adults with ASA physical status I or II at a tertiary training hospital; 89 were analyzed. After induction of general anesthesia, participants received either bilateral transnasal sphenopalatine ganglion block or bilateral ultrasound-guided infraorbital nerve block, using 2 mL of 0.5% bupivacaine per side. Surgical infiltration and multimodal analgesia were identical, and patients and assessors were blinded.\n\nThe primary outcome was QoR-15 at 24 hours. The mean score was 129.1 with infraorbital nerve block and 116.6 with sphenopalatine ganglion block. The 12.5-point difference had a 95% confidence interval of 8.01 to 17.01 and a p-value of 0.001. It exceeded the prespecified minimal clinically important difference. More patients receiving infraorbital nerve block also reached the acceptable symptom state. Pain scores were lower at every measured time point, and fewer patients needed rescue analgesia.\n\nThere were no significant differences in nausea and vomiting, anesthetic consumption, or recovery room stay. The primary result therefore supports a clinically meaningful improvement in patient-reported recovery with infraorbital nerve block. However, this was a relatively small, single-center trial, and the secondary findings should be regarded as hypothesis-generating. Clinicians may consider favoring ultrasound-guided infraorbital nerve block after septorhinoplasty, but this trial alone does not establish a universal change in practice. Larger multicenter studies should confirm the recovery benefit and assess whether it varies with surgical technique and analgesia protocols. This is a useful journal-club paper because of its randomized design, patient-centered outcome, and clinically important effect size.",
+      "mcq": [
+        {
+          "q_ar": "ما النتيجة الأساسية التي قاستها الدراسة؟",
+          "q_en": "What was the primary outcome measured in the trial?",
+          "options_ar": [
+            "أ) QoR-15 بعد 24 ساعة",
+            "ب) مدة العملية",
+            "ج) recovery room stay",
+            "د) nausea and vomiting خلال أسبوع"
+          ],
+          "options_en": [
+            "A) QoR-15 at 24 hours",
+            "B) Operative duration",
+            "C) Recovery room stay",
+            "D) Nausea and vomiting over one week"
+          ],
+          "answer": 0,
+          "explanation_ar": "كانت النتيجة الأساسية total QoR-15 score بعد 24 ساعة من septorhinoplasty.",
+          "explanation_en": "The primary outcome was the total QoR-15 score 24 hours after septorhinoplasty."
+        },
+        {
+          "q_ar": "أي block حقق متوسط QoR-15 أعلى؟",
+          "q_en": "Which block achieved the higher mean QoR-15 score?",
+          "options_ar": [
+            "أ) Transnasal sphenopalatine ganglion block",
+            "ب) Ultrasound-guided infraorbital nerve block",
+            "ج) لم يوجد فرق بين المجموعتين",
+            "د) لم يُقَس QoR-15"
+          ],
+          "options_en": [
+            "A) Transnasal sphenopalatine ganglion block",
+            "B) Ultrasound-guided infraorbital nerve block",
+            "C) There was no difference between groups",
+            "D) QoR-15 was not measured"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان متوسط QoR-15 هو 129.1 مع infraorbital nerve block مقابل 116.6 مع sphenopalatine ganglion block.",
+          "explanation_en": "Mean QoR-15 was 129.1 with infraorbital nerve block versus 116.6 with sphenopalatine ganglion block."
+        },
+        {
+          "q_ar": "أي نتيجة لم تختلف بين المجموعتين؟",
+          "q_en": "Which outcome did not differ between the groups?",
+          "options_ar": [
+            "أ) pain scores",
+            "ب) الحاجة إلى rescue analgesia",
+            "ج) nausea and vomiting",
+            "د) بلوغ acceptable symptom state"
+          ],
+          "options_en": [
+            "A) Pain scores",
+            "B) Need for rescue analgesia",
+            "C) Nausea and vomiting",
+            "D) Reaching the acceptable symptom state"
+          ],
+          "answer": 2,
+          "explanation_ar": "لم تختلف nausea and vomiting بين المجموعتين، بخلاف pain scores والحاجة إلى rescue analgesia.",
+          "explanation_en": "Nausea and vomiting did not differ, unlike pain scores and the need for rescue analgesia."
+        }
+      ]
+    },
+    {
+      "pmid": "42951365",
+      "title_ar": "Outcomes of the Paramedian Forehead Flap for Nasal Reconstruction: Systematic Review and Meta-Analysis.",
+      "title_en": "Outcomes of the Paramedian Forehead Flap for Nasal Reconstruction: Systematic Review and Meta-Analysis.",
+      "journal": "The Laryngoscope",
+      "pub_date": "2026-Oct-28",
+      "doi": "10.1002/lary.71018",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42951365/",
+      "pdf_url": null,
+      "study_design": "Systematic review and meta-analysis of 69 observational studies (n=4100)",
+      "summary_ar": "جمعت هذه systematic review وmeta-analysis بيانات 69 دراسة رصدية شملت 4100 مريض خضعوا لـ PMFF لإعادة بناء الأنف. كان basal cell carcinoma أكثر دواعي reconstruction شيوعًا (64.9%)، وشكلت full-thickness defects نسبة 55.3% من الحالات. استُخدم two-stage reconstruction في 67.9% من الحالات، مقابل 18.7% لـ three-stage و5.6% لـ single-stage. كانت المضاعفات قليلة إجمالًا، وأكثرها scar retraction (6.6%) وbleeding (6.2%) وvenous congestion (6.1%). لم يختلف flap survival بحسب عدد المراحل أو دواعي reconstruction أو موضع perforator، لكن venous congestion كان أكثر شيوعًا بعد single-stage مقارنةً بـ two-stage وthree-stage. ارتبط cartilage grafting بانخفاض complete flap survival بمقدار 3.4%، مع ضرورة تفسير هذه المقارنات في ضوء الطبيعة الرصدية للدراسات.",
+      "summary_en": "This systematic review and meta-analysis included 69 observational studies and 4,100 patients undergoing PMFF nasal reconstruction.\nBasal cell carcinoma was the most common indication (64.9%), and 55.3% of reconstructions involved full-thickness defects.\nTwo-stage reconstruction was most common (67.9%), followed by three-stage (18.7%) and single-stage (5.6%) procedures.\nOverall complications were uncommon; scar retraction, bleeding, and venous congestion were reported most often.\nFlap survival did not differ by stage number, indication, or perforator localization.\nVenous congestion was more frequent after single-stage reconstruction, while cartilage grafting was associated with a 3.4% reduction in complete flap survival.",
+      "practice_change_ar": "لا تبرر النتائج تغييرًا روتينيًا في اختيار PMFF أو عدد مراحله، لكنها تدعم مناقشة احتمال زيادة venous congestion مع single-stage reconstruction أثناء التخطيط والاستشارة.",
+      "practice_change_en": "The findings do not warrant routine changes to PMFF selection or staging, but support discussing the higher observed venous congestion rate with single-stage reconstruction during planning and counseling.",
+      "future_impact_ar": "قد تساعد دراسات مقارنة مستقبلية ذات تعريفات موحدة للمضاعفات في توضيح أثر عدد المراحل وcartilage grafting على النتائج.",
+      "future_impact_en": "Future comparative studies using standardized complication definitions may clarify how staging and cartilage grafting affect outcomes.",
+      "why_important_ar": "توفر هذه الدراسة تجميعًا واسعًا للنتائج والمضاعفات، ما يدعم تقدير موثوقية PMFF ومناقشة المخاطر مع المرضى.",
+      "why_important_en": "This large evidence synthesis provides a useful estimate of PMFF reliability and complication patterns for patient counseling.",
+      "vs_previous_ar": "بدل الاعتماد على سلاسل الحالات المنفردة، تجمع الدراسة نتائج 69 دراسة، وتبرز فرق venous congestion بحسب عدد المراحل مع عدم وجود فرق واضح في flap survival.",
+      "vs_previous_en": "Rather than relying on individual case series, this review synthesizes 69 studies and identifies a staging-related difference in venous congestion without a clear difference in flap survival.",
+      "stars": 4,
+      "stars_reason_ar": "تستند الدراسة إلى systematic review وmeta-analysis كبيرة منشورة في The Laryngoscope، وتضيف بيانات مفيدة عن المضاعفات والنتائج، لكنها لا تثبت تفوقًا سببيًا لطريقة جراحية ولا تغيّر الممارسة بوضوح.",
+      "stars_reason_en": "This large systematic review and meta-analysis in The Laryngoscope adds useful outcome and complication data, but does not establish causal superiority of a surgical approach or clearly change practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسبة للنقاش لأنها تجمع أكبر مجموعة مذكورة من PMFF وتتيح مناقشة تفسير المقارنات بين المراحل وحدود الأدلة الرصدية.",
+      "jc_reason_en": "Suitable for journal club because it synthesizes a large PMFF cohort and invites discussion of staging comparisons and the limitations of observational evidence.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى دراسات مستقبلية مقارنة تستخدم تعريفات موحدة للعيوب والمضاعفات وتضبط اختلاف شدة الحالات لتقييم أثر staging وcartilage grafting.",
+      "research_gap_en": "Prospective comparative studies with standardized defect and complication definitions, and adjustment for case severity, are needed to assess the effects of staging and cartilage grafting.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نراجع اليوم دراسة بعنوان Outcomes of the Paramedian Forehead Flap for Nasal Reconstruction، وهي systematic review وmeta-analysis نُشرت في The Laryngoscope. شملت 69 دراسة رصدية و4100 مريض خضعوا لـ PMFF لإعادة بناء الأنف، بمتوسط متابعة يقارب 20 شهرًا. كان basal cell carcinoma أكثر دواعي reconstruction شيوعًا، وشكلت full-thickness defects أكثر من نصف الحالات.\n\nكان two-stage reconstruction هو النهج الأكثر استخدامًا، يليه three-stage ثم single-stage. إجمالًا، بدت المضاعفات قليلة؛ وشملت الأكثر شيوعًا scar retraction وbleeding وvenous congestion. لم يجد التحليل فرقًا واضحًا في flap survival بحسب عدد المراحل أو indication أو perforator localization. لكن venous congestion كان أكثر شيوعًا مع single-stage reconstruction مقارنةً بـ two-stage وthree-stage. كما ارتبط cartilage grafting بانخفاض complete flap survival بمقدار 3.4%؛ وهذه علاقة ضمن بيانات رصدية وليست دليلًا على السببية.\n\nالخلاصة العملية أن PMFF يظل خيارًا موثوقًا لعيوب الأنف المعقدة، ولا تقدم النتائج سببًا كافيًا لتغيير روتيني في اختيار عدد المراحل. مع ذلك، يمكن للطبيب مناقشة احتمال venous congestion الأعلى مع single-stage reconstruction عند اختيار الخطة. قوة المقال أنه يجمع بيانات واسعة، لكن اختلاف الدراسات ومحدودية المقارنات الرصدية يفرضان الحذر في تفسير الفروق. تبقى الحاجة إلى دراسات مستقبلية مقارنة، بتعريفات موحدة للمضاعفات وضبط شدة العيوب، لتحديد أثر staging وcartilage grafting على النتائج.",
+      "audio_script_en": "Today’s review is titled “Outcomes of the Paramedian Forehead Flap for Nasal Reconstruction.” This systematic review and meta-analysis, published in The Laryngoscope, included 69 observational studies and 4,100 patients undergoing PMFF reconstruction, with an average follow-up of about 20 months. Basal cell carcinoma was the most common indication, and more than half of the reconstructions involved full-thickness defects.\n\nTwo-stage reconstruction was used most often, followed by three-stage and then single-stage procedures. Complications were uncommon overall; scar retraction, bleeding, and venous congestion were reported most frequently. The analysis found no clear difference in flap survival by stage number, indication, or perforator localization. However, venous congestion was more frequent after single-stage reconstruction than after two- or three-stage procedures. Cartilage grafting was associated with a 3.4% reduction in complete flap survival, but this observational association should not be interpreted as proof of causation.\n\nThe practical takeaway is that PMFF remains a reliable option for complex nasal defects, and these findings do not justify a routine change in staging practice. Surgeons may, however, include the observed higher venous congestion rate with single-stage reconstruction in planning and patient counseling. The strength of this article is its broad synthesis, while variation between studies and the observational nature of the comparisons limit firm conclusions. Future comparative studies with standardized complication definitions and adjustment for defect severity could better clarify the effects of staging and cartilage grafting.",
+      "mcq": [
+        {
+          "q_ar": "كم عدد الدراسات والمرضى الذين شملتهم هذه systematic review وmeta-analysis؟",
+          "q_en": "How many studies and patients were included in this systematic review and meta-analysis?",
+          "options_ar": [
+            "أ) 69 دراسة و4100 مريض",
+            "ب) 41 دراسة و6900 مريض",
+            "ج) 100 دراسة و410 مريض",
+            "د) 19 دراسة و4000 مريض"
+          ],
+          "options_en": [
+            "A) 69 studies and 4,100 patients",
+            "B) 41 studies and 6,900 patients",
+            "C) 100 studies and 410 patients",
+            "D) 19 studies and 4,000 patients"
+          ],
+          "answer": 0,
+          "explanation_ar": "شمل التحليل 69 دراسة رصدية بإجمالي 4100 مريض.",
+          "explanation_en": "The meta-analysis included 69 observational studies with 4,100 patients in total."
+        },
+        {
+          "q_ar": "ما المضاعفة التي كانت أكثر شيوعًا بعد single-stage reconstruction مقارنةً بالمراحل الأخرى؟",
+          "q_en": "Which complication was more frequent after single-stage reconstruction than after the other staging approaches?",
+          "options_ar": [
+            "أ) Scar retraction",
+            "ب) Bleeding",
+            "ج) Venous congestion",
+            "د) Complete flap loss"
+          ],
+          "options_en": [
+            "A) Scar retraction",
+            "B) Bleeding",
+            "C) Venous congestion",
+            "D) Complete flap loss"
+          ],
+          "answer": 2,
+          "explanation_ar": "كان venous congestion أكثر شيوعًا بعد single-stage reconstruction؛ ولم يُظهر flap survival فرقًا بحسب عدد المراحل.",
+          "explanation_en": "Venous congestion was more frequent after single-stage reconstruction; flap survival did not differ by stage number."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن أثر هذه النتائج على الممارسة؟",
+          "q_en": "What is the most appropriate conclusion about the effect of these findings on practice?",
+          "options_ar": [
+            "أ) يجب إيقاف استخدام PMFF في full-thickness defects",
+            "ب) تثبت النتائج أن three-stage reconstruction يرفع flap survival",
+            "ج) تدعم النتائج مناقشة venous congestion مع single-stage دون فرض تغيير روتيني في staging",
+            "د) يضمن cartilage grafting complete flap survival"
+          ],
+          "options_en": [
+            "A) PMFF should no longer be used for full-thickness defects",
+            "B) The findings prove that three-stage reconstruction improves flap survival",
+            "C) The findings support discussing venous congestion with single-stage procedures without requiring a routine change in staging",
+            "D) Cartilage grafting guarantees complete flap survival"
+          ],
+          "answer": 2,
+          "explanation_ar": "النتائج رصدية ولم تُظهر فرقًا في flap survival بحسب عدد المراحل؛ ويمكن استخدام فرق venous congestion لدعم التخطيط والاستشارة دون اعتباره إثباتًا للسببية.",
+          "explanation_en": "The observational results found no flap-survival difference by stage number; the venous congestion finding can inform planning and counseling without proving causation."
+        }
+      ]
+    },
+    {
+      "pmid": "42951856",
+      "title_ar": "Application of masseteric-to-facial nerve trunk transfer in complete facial paralysis after lateral skull base tumor surgery: an anatomical-based analysis and clinical outcome evaluation",
+      "title_en": "Application of masseteric-to-facial nerve trunk transfer in complete facial paralysis after lateral skull base tumor surgery: an anatomical-based analysis and clinical outcome evaluation",
+      "journal": "Zhonghua wai ke za zhi [Chinese journal of surgery]",
+      "pub_date": "2026-Oct-29",
+      "doi": "10.3760/cma.j.cn112139-20260422-00165",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42951856/",
+      "pdf_url": null,
+      "study_design": "Anatomical cadaveric study (4 cadavers) plus retrospective case series (n=38)",
+      "summary_ar": "قيّمت الدراسة جدوى masseteric-to-facial nerve trunk transfer تشريحيًا وسريريًا لدى مرضى complete facial paralysis بعد جراحة lateral skull base tumor. أُجريت ثماني عمليات نقل على أربعة جثامين، وأظهرت القياسات إمكانية تحقيق coaptation دون شد بعد تحرير inferior division من facial nerve. شملت السلسلة السريرية الاستعادية 38 مريضًا، مع تقييم الوظيفة باستخدام House-Brackmann grade وeFACE وقياسات حركة oral commissure قبل الجراحة وبعد 12 شهرًا. حدث فشل جراحي لدى مريضين، وكان لدى كليهما خلل شديد في trigeminal nerve، كما ظهرت salivary fistula لدى مريضين وتحسنت بالعلاج المحافظ. لدى 36 مريضًا أعيد بناء العصب لديهم بنجاح، تحسن median HB grade من 6 إلى 3، وارتفع عدد القادرين على إغلاق العين بقوة من 6 إلى 31. لوحظت حركة oral commissure لأول مرة بوسيط 108 أيام، مع تحسن في مقاييس eFACE وFACE-gram ووجود synkinesis خفيف؛ وتدعم النتائج جدوى التقنية، مع أهمية تقييم وظيفة donor nerve.",
+      "summary_en": "This study assessed the anatomical feasibility and clinical outcomes of masseteric-to-facial nerve trunk transfer for complete facial paralysis after lateral skull base tumor surgery.\nEight transfers in four cadavers showed that tension-free coaptation could be achieved after mobilization of the inferior facial nerve division.\nThe retrospective clinical series included 38 patients, with facial function assessed before surgery and at 12 months using HB grade, eFACE, and oral commissure movement measurements.\nReconstruction failed in two patients, both with severe trigeminal nerve dysfunction; two others developed salivary fistula that resolved conservatively.\nAmong 36 successfully reconstructed patients, median HB grade improved from 6 to 3, and the number achieving forceful eye closure rose from 6 to 31.\nOral commissure movement began at a median of 108 days, with significant improvements in facial function measures and only mild synkinesis; donor nerve function warrants careful assessment.",
+      "practice_change_ar": "يمكن النظر في masseteric-to-facial nerve trunk transfer كخيار ترميمي للشلل الوجهي الكامل بعد جراحة lateral skull base، مع تقييم وظيفة trigeminal nerve قبل العملية.",
+      "practice_change_en": "Masseteric-to-facial nerve trunk transfer can be considered for complete facial paralysis after lateral skull base surgery, with preoperative assessment of trigeminal nerve function.",
+      "future_impact_ar": "تحتاج التقنية إلى دراسات مقارنة ومتابعة أطول لتحديد أفضل توقيت للاستخدام، واستدامة التحسن، والمرضى الأكثر استفادة.",
+      "future_impact_en": "Comparative studies with longer follow-up are needed to define optimal timing, durability of improvement, and which patients benefit most.",
+      "why_important_ar": "تقدم الدراسة نتائج سريرية أولية مشجعة لخيار ترميمي قد يحسن حركة الوجه وإغلاق العين بعد إصابة facial nerve المرتبطة بجراحة الأورام.",
+      "why_important_en": "The study provides encouraging early clinical results for a reconstructive option that may improve facial movement and eye closure after tumor-surgery-related facial nerve injury.",
+      "vs_previous_ar": "تضيف الدراسة تقييمًا تشريحيًا وسلسلة سريرية خاصة بنقل masseteric nerve إلى facial nerve trunk، لكنها لا تثبت تفوقه على خيارات إعادة التعصيب الأخرى.",
+      "vs_previous_en": "The study adds anatomical assessment and a clinical series specifically examining masseteric nerve transfer to the facial nerve trunk, but does not establish superiority over other reinnervation options.",
+      "stars": 3,
+      "stars_reason_ar": "ثلاث نجوم: سلسلة استعادية من 38 مريضًا مع دراسة تشريحية داعمة وتقنية واعدة، لكن غياب مجموعة مقارنة وقصر المتابعة يجعلان الدليل مفيدًا دون أن يغيّر الممارسة على نطاق واسع.",
+      "stars_reason_en": "Three stars: a 38-patient retrospective series with supporting anatomical work evaluates a promising technique, but the lack of a comparator and limited follow-up make the evidence informative rather than practice-changing.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for journal club because it examines a novel surgical technique and functional outcomes while inviting critical discussion of selection bias, lack of comparison, and limited follow-up.",
+      "watch": true,
+      "watch_detail_ar": "يستحق masseteric-to-facial nerve trunk transfer المتابعة بوصفه نهجًا جراحيًا ناشئًا لإعادة التعصيب، خصوصًا لدى المرضى ذوي وظيفة trigeminal nerve المحفوظة.",
+      "watch_detail_en": "Masseteric-to-facial nerve trunk transfer merits tracking as an emerging reinnervation procedure, particularly in patients with preserved trigeminal nerve function.",
+      "watch_type": "technology",
+      "research_gap_ar": "تلزم دراسات مستقبلية مقارنة ومتعددة المراكز لتقييم النتائج طويلة الأمد، ومعدلات المضاعفات، وأثر شدة خلل trigeminal nerve في نجاح النقل.",
+      "research_gap_en": "Prospective comparative multicenter studies are needed to assess long-term outcomes, complication rates, and how the severity of trigeminal nerve dysfunction affects transfer success.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نستعرض اليوم دراسة عن masseteric-to-facial nerve trunk transfer لاستعادة وظيفة الوجه لدى مرضى complete facial paralysis بعد جراحة أورام lateral skull base. تجمع الدراسة بين مرحلتين: دراسة تشريحية على أربعة جثامين، وسلسلة استعادية شملت 38 مريضًا عولجوا بين عامي 2023 و2025.\n\nفي الجزء التشريحي، أُجريت ثماني عمليات نقل. أظهرت النتائج أن تحرير inferior division من facial nerve أتاح تحقيق coaptation دون شد مع masseteric nerve. في السلسلة السريرية، قُيّمت النتائج قبل الجراحة وبعد 12 شهرًا باستخدام House-Brackmann grade وeFACE وقياسات حركة oral commissure.\n\nمن بين المرضى، فشلت إعادة البناء لدى اثنين، وكان لدى كليهما خلل شديد في trigeminal nerve بعد الجراحة الأصلية. كما حدثت salivary fistula لدى مريضين، لكنها زالت بالعلاج المحافظ. أما لدى 36 مريضًا نجح لديهم الترميم، فتحسن median HB grade من 6 إلى 3. وارتفع عدد المرضى القادرين على إغلاق العين بقوة من ستة إلى 31. بدأت حركة oral commissure بوسيط 108 أيام، وأظهرت مقاييس eFACE وFACE-gram تحسنًا، مع synkinesis وُصف بأنه خفيف.\n\nما أهمية ذلك؟ تقدم الدراسة تقنية ترميمية واعدة لتحسين حركة الوجه وإغلاق العين، لكنها لا تثبت تفوقها على بدائل إعادة التعصيب؛ فهي سلسلة استعادية بلا مجموعة مقارنة، والمتابعة المبلغ عنها تمتد إلى 12 شهرًا. لذلك تُعد النتائج مفيدة لمعرفة الخيارات المتاحة، لا سببًا لتغيير الممارسة بشكل عام. عمليًا، يمكن مناقشة التقنية في حالات مختارة، مع تقييم وظيفة trigeminal nerve قبل العملية. وستكون الدراسات المقارنة ذات المتابعة الأطول ضرورية لتحديد دوام التحسن، ومخاطر المضاعفات، والمرضى الأكثر استفادة.",
+      "audio_script_en": "Today’s review examines masseteric-to-facial nerve trunk transfer for complete facial paralysis after lateral skull base tumor surgery. The study combined an anatomical cadaveric assessment in four cadavers with a retrospective clinical series of 38 patients treated between 2023 and 2025.\n\nIn the anatomical phase, eight transfers were performed. The investigators found that, after mobilizing the inferior division of the facial nerve, tension-free coaptation with the masseteric nerve was feasible. In the clinical series, outcomes were assessed before surgery and at 12 months using House-Brackmann grade, eFACE, and measurements of oral commissure movement.\n\nReconstruction failed in two patients, both of whom had severe trigeminal nerve dysfunction after their initial tumor surgery. Two patients developed salivary fistula, which resolved with conservative management. Among the 36 patients with successful reconstruction, median HB grade improved from 6 to 3. The number able to achieve forceful eye closure increased from six to 31. Oral commissure movement began at a median of 108 days. eFACE and FACE-gram measures improved, and reported synkinesis was mild.\n\nWhy does this matter? The findings suggest a promising reconstructive option for improving facial movement and eye closure, but they do not show that this approach is superior to other reinnervation procedures. This was a retrospective series without a comparison group, and the reported outcome assessment was at 12 months. The results are therefore useful for informing selected cases, rather than grounds for broad practice change. Clinicians considering the procedure should assess trigeminal nerve function beforehand. Longer-term comparative studies are needed to establish durability, complication rates, and which patients are most likely to benefit.",
+      "mcq": [
+        {
+          "q_ar": "ما التصميم السريري الأساسي للدراسة؟",
+          "q_en": "What was the primary clinical study design?",
+          "options_ar": [
+            "أ) تجربة عشوائية مضبوطة",
+            "ب) سلسلة حالات استعادية من 38 مريضًا",
+            "ج) دراسة أترابية مستقبلية مضبوطة",
+            "د) تقرير حالة واحد"
+          ],
+          "options_en": [
+            "A) Randomized controlled trial",
+            "B) Retrospective case series of 38 patients",
+            "C) Prospective controlled cohort",
+            "D) Single case report"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت المرحلة السريرية سلسلة حالات استعادية شملت 38 مريضًا، إضافة إلى مرحلة تشريحية على الجثامين.",
+          "explanation_en": "The clinical phase was a retrospective case series of 38 patients, alongside a separate cadaveric anatomical phase."
+        },
+        {
+          "q_ar": "ما العامل المشترك لدى المريضين اللذين فشلت لديهما إعادة البناء؟",
+          "q_en": "What feature was shared by the two patients in whom reconstruction failed?",
+          "options_ar": [
+            "أ) شلل وجهي لمدة تقل عن شهر",
+            "ب) خلل شديد في trigeminal nerve",
+            "ج) حدوث salivary fistula بعد العملية",
+            "د) وجود paraganglioma"
+          ],
+          "options_en": [
+            "A) Facial paralysis lasting less than one month",
+            "B) Severe trigeminal nerve dysfunction",
+            "C) Postoperative salivary fistula",
+            "D) Paraganglioma"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان لدى المريضين اللذين فشلت لديهما العملية خلل شديد في trigeminal nerve بعد جراحة الورم الأولية.",
+          "explanation_en": "Both patients with surgical failure had severe trigeminal nerve dysfunction following their initial tumor surgery."
+        },
+        {
+          "q_ar": "ما أهم قيد يمنع اعتبار هذه النتائج دليلًا حاسمًا لتغيير الممارسة؟",
+          "q_en": "What is the main limitation that prevents these findings from being definitive evidence for changing practice?",
+          "options_ar": [
+            "أ) عدد المرضى أقل من عشرة",
+            "ب) الدراسة حيوانية فقط",
+            "ج) تصميم استعادي دون مجموعة مقارنة ومتابعة محدودة",
+            "د) عدم قياس أي نتائج وظيفية"
+          ],
+          "options_en": [
+            "A) Fewer than ten patients were included",
+            "B) The study was exclusively animal-based",
+            "C) Retrospective design without a comparator and limited follow-up",
+            "D) No functional outcomes were measured"
+          ],
+          "answer": 2,
+          "explanation_ar": "رغم تحسن النتائج الوظيفية، فإن التصميم الاستعادي وغياب مجموعة مقارنة والتقييم المبلغ عنه عند 12 شهرًا تحد من قوة الاستنتاج.",
+          "explanation_en": "Despite functional improvement, the retrospective design, absence of a comparator, and reported 12-month assessment limit the strength of the conclusions."
+        }
+      ]
+    },
+    {
+      "pmid": "42944876",
+      "title_ar": "Biologic therapy in type 2 CRSwNP: from immunopathology to clinical management.",
+      "title_en": "Biologic therapy in type 2 CRSwNP: from immunopathology to clinical management.",
+      "journal": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
+      "pub_date": "2026-Oct-27",
+      "doi": "10.1007/s00011-026-02399-z",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42944876/",
+      "pdf_url": null,
+      "study_design": "Narrative review",
+      "summary_ar": "تراجع هذه المقالة immunopathology وrisk stratification في type 2 CRSwNP، وهو endotype يتسم بوجود eosinophilic infiltration وتنشيط مسارات IL-4 وIL-5 وIL-13. وترتبط الحالة كثيرًا بوجود asthma وNSAID-exacerbated respiratory disease، مع ارتفاع خطر recurrence. قد تخفف intranasal أو systemic corticosteroids وendoscopic sinus surgery الأعراض، لكنها لا تحقق دائمًا سيطرة مستدامة لدى المرضى ذوي الالتهاب المستمر. تستعرض المقالة biologic therapies التي تستهدف IL-4Rα وIL-5/IL-5R وIgE وTSLP، وتشير إلى فعاليتها في تقليل polyp burden وتحسين الأعراض وخفض التعرض لـ systemic corticosteroids. وتؤكد أن اختيار المريض المناسب والمتابعة المنظمة عنصران مهمان لتخصيص العلاج. لكن غياب المقارنات المباشرة القوية يترك أسئلة حول اختيار biologic الأنسب واستراتيجيات maintenance طويلة الأمد دون إجابة حاسمة.",
+      "summary_en": "This review discusses the immunopathology and risk stratification of type 2 CRSwNP, an endotype characterized by eosinophilic infiltration and activation of IL-4, IL-5, and IL-13 pathways.\nPatients commonly have comorbid asthma or NSAID-exacerbated respiratory disease and face a high risk of recurrence.\nIntranasal or systemic corticosteroids and endoscopic sinus surgery can relieve symptoms, but may not provide sustained control in persistent type 2 inflammation.\nThe review summarizes biologics targeting IL-4Rα, IL-5/IL-5R, IgE, and TSLP, which can reduce polyp burden, improve symptoms, and decrease systemic corticosteroid exposure.\nIt emphasizes individualized patient selection, assessment of disease burden, and structured follow-up.\nRobust head-to-head comparisons and evidence to guide long-term maintenance strategies remain lacking.",
+      "practice_change_ar": "اليوم، يدعم المقال تقييم type 2 inflammation وdisease burden والأمراض المصاحبة عند اختيار المرضى لـ biologic therapy، مع متابعة منظمة بدل اعتماد قرار موحد للجميع.",
+      "practice_change_en": "Today, the review supports assessing type 2 inflammation, disease burden, and comorbidities when selecting patients for biologic therapy, with structured follow-up rather than a one-size-fits-all approach.",
+      "future_impact_ar": "قد تساعد المقارنات المباشرة والدراسات طويلة الأمد مستقبلًا على تحديد biologic الأنسب ومدة maintenance المثلى لكل فئة من المرضى.",
+      "future_impact_en": "Future head-to-head and long-term studies may clarify the best biologic and optimal maintenance duration for different patient groups.",
+      "why_important_ar": "توضح المقالة خيارات biologic therapy لمجموعة من مرضى CRSwNP الذين لا يحققون سيطرة كافية بالعلاج التقليدي أو يعانون recurrence متكررًا.",
+      "why_important_en": "The review outlines biologic options for patients with CRSwNP who remain uncontrolled with conventional treatment or experience recurrent disease.",
+      "vs_previous_ar": "بدل تقديم علاج جديد أو تغيير إرشادات مثبتة، تجمع المقالة المعرفة الحالية ضمن إطار لاتخاذ القرار وتبرز فجوات الدليل حول الاختيار والمداومة.",
+      "vs_previous_en": "Rather than introducing a new treatment or changing established guidance, the review organizes current evidence into a decision framework and highlights gaps in patient selection and maintenance.",
+      "stars": 3,
+      "stars_reason_ar": "مراجعة سردية مفيدة سريريًا تلخص خيارات biologic therapy وتدعم تخصيص العلاج، لكن غياب المقارنات المباشرة والبيانات الجديدة يحد من أثرها على الممارسة.",
+      "stars_reason_en": "This clinically useful narrative review summarizes biologic options and supports individualized care, but the lack of head-to-head comparisons and new primary data limits its practice impact.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for discussion of biologic selection in type 2 CRSwNP, the limitations of current evidence, and monitoring response and long-term treatment.",
+      "watch": true,
+      "watch_detail_ar": "تستحق biologic therapies التي تستهدف IL-4Rα وIL-5/IL-5R وIgE وTSLP المتابعة، نظرًا إلى قدرتها على تحسين disease control وتقليل الحاجة إلى systemic corticosteroids.",
+      "watch_detail_en": "Biologics targeting IL-4Rα, IL-5/IL-5R, IgE, and TSLP warrant tracking because they may improve disease control and reduce systemic corticosteroid use.",
+      "watch_type": "drug",
+      "research_gap_ar": "يلزم إجراء head-to-head trials ودراسات طويلة الأمد لتحديد الاختيار الأمثل بين biologics ومعايير الاستجابة ومدة maintenance المناسبة.",
+      "research_gap_en": "Head-to-head trials and long-term studies are needed to determine optimal biologic selection, response criteria, and maintenance duration.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نناقش اليوم مراجعة عن biologic therapy في type 2 CRSwNP، من immunopathology إلى التدبير السريري. يصف المقال هذا endotype بأنه مرتبط بـ eosinophilic infiltration وتنشيط مسارات IL-4 وIL-5 وIL-13. كما يشيع لدى هؤلاء المرضى وجود asthma أو NSAID-exacerbated respiratory disease، ويكون لديهم خطر مرتفع لعودة المرض.\n\nالعلاج المعتاد، بما فيه intranasal أو systemic corticosteroids وendoscopic sinus surgery، قد يحسن الأعراض، لكنه لا يضمن سيطرة مستدامة لدى المرضى ذوي الالتهاب المستمر. لذلك تلخص المراجعة biologic therapies التي تستهدف IL-4Rα وIL-5/IL-5R وIgE وTSLP. وقد أظهرت هذه العلاجات فائدة في تقليل polyp burden، وتحسين الأعراض، وخفض التعرض لـ systemic corticosteroids.\n\nمن الناحية العملية، تشجع المراجعة على اختيار العلاج بحسب inflammatory profile وdisease burden والأمراض المصاحبة، مع وضع خطة متابعة منظمة. لكن هذه مراجعة سردية وليست تجربة مقارنة، كما أن الأدلة على المقارنة المباشرة بين biologics وعلى استراتيجيات maintenance طويلة الأمد ما زالت غير كافية. لذلك لا تقدم المقالة قاعدة نهائية لاختيار دواء بعينه، ولا تدعو إلى تغيير فوري موحد للممارسة.\n\nالخلاصة أن المقالة مفيدة لأطباء rhinology عند مناقشة biologic therapy مع المرضى الذين لا يسيطر العلاج التقليدي على مرضهم أو يتكرر لديهم. الثقة متوسطة: المعلومات ذات قيمة سريرية، لكنها لا تحسم الاختيار. وتبقى الحاجة إلى head-to-head trials ودراسات متابعة طويلة الأمد لتحديد من يستفيد من كل علاج، وكيفية قياس الاستجابة، ومدة الاستمرار المناسبة.",
+      "audio_script_en": "Today we are reviewing an article on biologic therapy in type 2 CRSwNP, moving from immunopathology to clinical management. The review describes this endotype as involving eosinophilic infiltration and activation of IL-4, IL-5, and IL-13 pathways. Asthma and NSAID-exacerbated respiratory disease are common comorbidities, and recurrence risk is high.\n\nConventional care, including intranasal or systemic corticosteroids and endoscopic sinus surgery, can improve symptoms but may not deliver sustained control when type 2 inflammation persists. The review summarizes biologics targeting IL-4Rα, IL-5/IL-5R, IgE, and TSLP. These therapies have demonstrated benefits in reducing polyp burden, improving symptoms, and decreasing systemic corticosteroid exposure.\n\nFor practice, the authors support selecting treatment according to inflammatory profile, disease burden, and comorbidities, and using structured follow-up. However, this is a narrative review, not a comparative trial. Evidence directly comparing biologics and defining sustainable long-term maintenance strategies remains limited. It therefore does not establish a definitive drug-selection rule or mandate a uniform immediate change in practice.\n\nThe article is useful for rhinologists considering biologic therapy for patients whose disease remains uncontrolled or recurrent despite conventional treatment. Confidence is moderate: the review provides clinically relevant context, but does not resolve which biologic is best for an individual patient. Head-to-head trials and longer-term studies are still needed to identify appropriate candidates, define response measures, and establish optimal treatment duration.",
+      "mcq": [
+        {
+          "q_ar": "ما السمة المناعية المركزية في type 2 CRSwNP كما وردت في المراجعة؟",
+          "q_en": "What is the central immunologic feature of type 2 CRSwNP described in the review?",
+          "options_ar": [
+            "أ) eosinophilic infiltration وتنشيط مسارات IL-4 وIL-5 وIL-13",
+            "ب) غياب الالتهاب ووجود fibrosis فقط",
+            "ج) تنشيط مسار IL-17 وحده",
+            "د) عدوى بكتيرية بوصفها السبب الوحيد"
+          ],
+          "options_en": [
+            "A) Eosinophilic infiltration and activation of IL-4, IL-5, and IL-13 pathways",
+            "B) Absence of inflammation with fibrosis alone",
+            "C) Activation of the IL-17 pathway alone",
+            "D) Bacterial infection as the sole cause"
+          ],
+          "answer": 0,
+          "explanation_ar": "تصف المراجعة type 2 CRSwNP بأنه يتسم بـ eosinophilic infiltration وتنشيط مسارات IL-4 وIL-5 وIL-13.",
+          "explanation_en": "The review characterizes type 2 CRSwNP by eosinophilic infiltration and activation of IL-4, IL-5, and IL-13 pathways."
+        },
+        {
+          "q_ar": "أي مما يلي يمثل أحد أهداف biologic therapies التي تناقشها المراجعة؟",
+          "q_en": "Which of the following is a target of biologic therapies discussed in the review?",
+          "options_ar": [
+            "أ) IL-4Rα",
+            "ب) IL-2 receptor فقط",
+            "ج) TNF-β فقط",
+            "د) VEGF receptor فقط"
+          ],
+          "options_en": [
+            "A) IL-4Rα",
+            "B) IL-2 receptor only",
+            "C) TNF-β only",
+            "D) VEGF receptor only"
+          ],
+          "answer": 0,
+          "explanation_ar": "تشمل الأهداف المذكورة IL-4Rα وIL-5/IL-5R وIgE وTSLP.",
+          "explanation_en": "The targets listed include IL-4Rα, IL-5/IL-5R, IgE, and TSLP."
+        },
+        {
+          "q_ar": "ما القيد الرئيسي الذي يمنع تحديد biologic therapy الأفضل بشكل قاطع؟",
+          "q_en": "What is the main limitation preventing a definitive choice of the best biologic therapy?",
+          "options_ar": [
+            "أ) عدم وجود head-to-head comparisons قوية",
+            "ب) عدم وجود علاجات تستهدف T2 inflammation",
+            "ج) ثبوت أن biologics تزيد recurrence لدى جميع المرضى",
+            "د) عدم ارتباط CRSwNP بـ asthma"
+          ],
+          "options_en": [
+            "A) Lack of robust head-to-head comparisons",
+            "B) No therapies target T2 inflammation",
+            "C) Biologics are proven to increase recurrence in all patients",
+            "D) CRSwNP is not associated with asthma"
+          ],
+          "answer": 0,
+          "explanation_ar": "تؤكد المراجعة أن غياب المقارنات المباشرة القوية يجعل اختيار المريض والعلاج واستراتيجية maintenance تحديات قائمة.",
+          "explanation_en": "The review notes that the lack of robust direct comparisons leaves patient and biologic selection, as well as maintenance strategy, unresolved."
+        }
+      ]
+    },
+    {
+      "pmid": "42944642",
+      "title_ar": "Helicobacter pylori Infection Is Associated With the Occurrence and Progression of Vocal Fold Leukoplakia via NRF2/KEAP1 Pathway Activation.",
+      "title_en": "Helicobacter pylori Infection Is Associated With the Occurrence and Progression of Vocal Fold Leukoplakia via NRF2/KEAP1 Pathway Activation.",
+      "journal": "International journal of cancer",
+      "pub_date": "2026-Oct-27",
+      "doi": "10.1002/ijc.70668",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42944642/",
+      "pdf_url": null,
+      "study_design": "Case-control clinicopathological study (VFL n=64, controls n=30) with in vitro experiments",
+      "summary_ar": "قارنت الدراسة انتشار H. pylori في عينات 64 مريضًا لديهم vocal fold leukoplakia (VFL) مع 30 عينة من مرضى vocal cord polyps، ووجدت معدلات أعلى في مجموعة VFL (48.4% مقابل 16.7%، p-value=0.003). ارتبط وجود H. pylori بزيادة احتمالات VFL في multivariate logistic regression (odds ratio=6.198، confidence interval 1.580–24.321)، مع predominance لسلالات VacA-positive بين الحالات المصابة. أظهرت أنسجة VFL ارتفاعًا في NRF2 وKEAP1 وHO-1، مع اختلاف نمط HO-1 بحسب virulence، بينما ظهر ارتفاع NRF2 بصرف النظر عن virulence. وفي تجارب in vitro، حفز H. pylori انتقال NRF2 إلى النواة والاستجابة للإجهاد التأكسدي. استجابت خلايا VFL بسرعة أكبر، وبلغ تنشيط المسار ذروته خلال 24 ساعة مقابل 48 ساعة في الخلايا الطبيعية، مع تغيرات شكلية أوضح. تشير النتائج إلى ارتباط محتمل وآلية بيولوجية ممكنة، لكنها لا تثبت السببية ولا تكفي لتغيير التدبير السريري حاليًا.",
+      "summary_en": "This study compared H. pylori prevalence in 64 patients with vocal fold leukoplakia (VFL) and 30 vocal cord polyp controls. Infection was more frequent in VFL (48.4% vs 16.7%, p=0.003), and multivariate analysis found an odds ratio of 6.198 (95% confidence interval 1.580–24.321). VacA-positive strains predominated among infected VFL cases. VFL tissues showed increased NRF2, KEAP1, and HO-1 expression, with virulence-dependent HO-1 induction and virulence-independent NRF2 upregulation. In vitro, H. pylori induced NRF2 nuclear translocation and oxidative stress responses; VFL-derived cells responded earlier and showed more pronounced morphological changes. The findings support a possible association and mechanism but do not establish causality or justify changing current care.",
+      "practice_change_ar": "لا تبرر هذه الدراسة وحدها إجراء فحص روتيني لـ H. pylori أو تغيير تدبير VFL في الممارسة الحالية.",
+      "practice_change_en": "This study alone does not justify routine H. pylori screening or a change in current VFL management.",
+      "future_impact_ar": "قد تدعم دراسات مستقبلية أكبر ومتابعة طولية تقييم H. pylori كعامل خطر أو هدف محتمل للتدخل لدى مرضى VFL.",
+      "future_impact_en": "Larger prospective studies may clarify whether H. pylori is a risk factor or a potential intervention target in VFL.",
+      "why_important_ar": "تربط الدراسة بين H. pylori وVFL سريريًا وتقترح NRF2/KEAP1 كآلية محتملة لتأثيره.",
+      "why_important_en": "The study links H. pylori with VFL clinically and proposes NRF2/KEAP1 activation as a possible mechanism.",
+      "vs_previous_ar": "تضيف الدراسة بيانات سريرية وآلية عن ارتباط H. pylori بمسار NRF2/KEAP1، لكنها لا تقدم دليلًا كافيًا لتعديل الإرشادات أو الممارسة.",
+      "vs_previous_en": "It adds clinical and mechanistic evidence linking H. pylori to NRF2/KEAP1 activation, but not enough evidence to change guidelines or practice.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة case-control صغيرة مع تجارب in vitro؛ تقدم ارتباطًا وآلية جديرين بالاهتمام، لكن تصميمها وحجمها لا يثبتان السببية أو يغيران الممارسة.",
+      "stars_reason_en": "A small case-control study with in vitro experiments offers an interesting association and mechanism, but cannot establish causality or change practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for discussion because it combines a notable clinical association with mechanistic data, while raising questions about confounding, case-control limitations, and causality.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات prospective أكبر لتحديد ما إذا كانت H. pylori تسبق تطور VFL وما إذا كان علاج العدوى يؤثر في progression أو التحول الخبيث.",
+      "research_gap_en": "Larger prospective studies should establish whether H. pylori precedes VFL development and whether eradication alters progression or malignant transformation.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تتناول هذه الدراسة العلاقة بين عدوى H. pylori وvocal fold leukoplakia، أو VFL، وهي آفة حنجرية محتملة التسرطن. شملت المقارنة 64 مريضًا لديهم VFL و30 مريضًا لديهم vocal cord polyps. وُجدت H. pylori في 48.4% من مجموعة VFL، مقابل 16.7% في مجموعة المقارنة، وكان الفرق ذا دلالة إحصائية. كما ارتبطت العدوى بزيادة احتمالات VFL في تحليل متعدد المتغيرات، مع odds ratio بلغ 6.198، لكن confidence interval كان واسعًا، ما يعكس عدم اليقين. بين الحالات المصابة، كانت سلالات VacA-positive هي الأكثر شيوعًا.\n\nبحث الباحثون أيضًا عن آلية محتملة عبر مسار NRF2/KEAP1 المرتبط بالإجهاد التأكسدي. أظهرت أنسجة VFL ارتفاعًا في NRF2 وKEAP1 وHO-1. وفي تجارب in vitro، حفز التعرض لـ H. pylori انتقال NRF2 إلى النواة. استجابت خلايا VFL بسرعة أكبر من الخلايا الطبيعية، إذ بلغ تنشيط المسار ذروته بعد 24 ساعة بدلًا من 48 ساعة، وظهرت لديها تغيرات شكلية أوضح.\n\nنقطة القوة هي الجمع بين بيانات مرضى وملاحظات آلية، لكن الدراسة صغيرة، وتصميمها لا يثبت أن H. pylori تسبب VFL أو تقدمها. لذلك لا تغير النتائج الممارسة اليوم، ولا تكفي وحدها لتوصية بفحص روتيني أو علاج H. pylori خصيصًا لمنع VFL. تستحق الدراسة النقاش في journal club، خصوصًا حول confounding والسببية. الخطوة التالية هي دراسات prospective أكبر، مع تقييم ما إذا كان استئصال H. pylori يغير مسار VFL أو خطر التحول الخبيث. الخلاصة: ارتباط واعد وآلية محتملة، لكن الدليل لا يزال تمهيديًا.",
+      "audio_script_en": "This study examines the association between H. pylori infection and vocal fold leukoplakia, or VFL, a potentially precancerous laryngeal lesion. The investigators compared 64 patients with VFL with 30 patients who had vocal cord polyps. H. pylori was detected in 48.4% of the VFL group and 16.7% of controls, a statistically significant difference. In multivariate analysis, infection was associated with higher odds of VFL, with an odds ratio of 6.198. The confidence interval was wide, however, so the estimate remains uncertain. Among infected VFL cases, VacA-positive strains predominated.\n\nThe researchers also investigated a possible mechanism involving the oxidative stress pathway NRF2/KEAP1. VFL tissues had increased expression of NRF2, KEAP1, and HO-1. In vitro exposure to H. pylori induced NRF2 nuclear translocation. VFL-derived cells responded earlier than normal cells, with pathway activation peaking at 24 hours rather than 48 hours, and they showed more pronounced morphological changes.\n\nA strength is the combination of patient samples and mechanistic experiments. Important limitations are the small sample and observational design, which cannot establish that H. pylori causes VFL or drives its progression. The results do not change practice today and are not sufficient to recommend routine H. pylori screening or eradication specifically to prevent VFL. The paper is appropriate for journal club discussion, particularly around confounding and causality. Larger prospective studies should determine whether infection precedes VFL and whether eradication changes disease progression or malignant transformation risk. In summary, this is an interesting clinical association with a plausible mechanism, but the evidence remains preliminary.",
+      "mcq": [
+        {
+          "q_ar": "ما نسبة انتشار H. pylori في مجموعة VFL مقارنة بمجموعة vocal cord polyps؟",
+          "q_en": "What was the prevalence of H. pylori in the VFL group compared with the vocal cord polyp control group?",
+          "options_ar": [
+            "أ) 48.4% مقابل 16.7%",
+            "ب) 16.7% مقابل 48.4%",
+            "ج) 71.0% مقابل 30.0%",
+            "د) 24.0% مقابل 12.0%"
+          ],
+          "options_en": [
+            "A) 48.4% vs 16.7%",
+            "B) 16.7% vs 48.4%",
+            "C) 71.0% vs 30.0%",
+            "D) 24.0% vs 12.0%"
+          ],
+          "answer": 0,
+          "explanation_ar": "كانت نسبة H. pylori أعلى في مجموعة VFL: 48.4% مقابل 16.7% لدى الضوابط.",
+          "explanation_en": "H. pylori prevalence was higher in the VFL group: 48.4% versus 16.7% in controls."
+        },
+        {
+          "q_ar": "أي مسار درست الدراسة بوصفه آلية محتملة لارتباط H. pylori بـ VFL؟",
+          "q_en": "Which pathway was studied as a possible mechanism linking H. pylori with VFL?",
+          "options_ar": [
+            "أ) JAK/STAT",
+            "ب) NRF2/KEAP1",
+            "ج) Wnt/β-catenin",
+            "د) Notch"
+          ],
+          "options_en": [
+            "A) JAK/STAT",
+            "B) NRF2/KEAP1",
+            "C) Wnt/β-catenin",
+            "D) Notch"
+          ],
+          "answer": 1,
+          "explanation_ar": "ركزت الدراسة على مسار NRF2/KEAP1 المرتبط بالاستجابة للإجهاد التأكسدي.",
+          "explanation_en": "The study focused on NRF2/KEAP1, a pathway associated with oxidative stress responses."
+        },
+        {
+          "q_ar": "ما الاستنتاج السريري الأنسب بناءً على هذه الدراسة؟",
+          "q_en": "What is the most appropriate clinical conclusion from this study?",
+          "options_ar": [
+            "أ) يجب إجراء screening روتيني لـ H. pylori لكل مريض لديه VFL",
+            "ب) ثبت أن استئصال H. pylori يمنع VFL",
+            "ج) توجد علاقة محتملة، لكن النتائج لا تثبت السببية ولا تغير الممارسة الحالية",
+            "د) لا توجد أي صلة بين H. pylori وVFL"
+          ],
+          "options_en": [
+            "A) Routine H. pylori screening is required for every patient with VFL",
+            "B) H. pylori eradication has been proven to prevent VFL",
+            "C) There is a possible association, but causality is unproven and current practice should not change",
+            "D) There is no association between H. pylori and VFL"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة رصدية وصغيرة؛ تدعم وجود ارتباط وآلية محتملة، لكنها لا تثبت السببية أو فائدة الفحص والعلاج الروتينيين.",
+          "explanation_en": "The study is small and observational; it suggests an association and possible mechanism but does not establish causality or support routine screening and treatment."
+        }
+      ]
+    },
+    {
+      "pmid": "42945985",
+      "title_ar": "Videolaryngoscopy versus direct laryngoscopy for nasotracheal intubation in infants undergoing cardiac procedures (NasoVISI): a multicentre, randomised controlled trial.",
+      "title_en": "Videolaryngoscopy versus direct laryngoscopy for nasotracheal intubation in infants undergoing cardiac procedures (NasoVISI): a multicentre, randomised controlled trial.",
+      "journal": "The Lancet. Child & adolescent health",
+      "pub_date": "2026-Oct-27",
+      "doi": "10.1016/S2352-4642(26)00239-7",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42945985/",
+      "pdf_url": null,
+      "study_design": "Multicentre RCT n=673",
+      "summary_ar": "قارنت هذه multicentre RCT بين videolaryngoscopy وdirect laryngoscopy لإجراء nasotracheal intubation لدى infants بعمر 365 يومًا أو أقل يخضعون لإجراءات cardiac. شملت primary outcome نجاح intubation من المحاولة الأولى، وحُللت بيانات 673 infant. كان النجاح 83% مع videolaryngoscopy مقابل 75% مع direct laryngoscopy، مع adjusted risk difference قدره 8.2% (95% CI 2.0–14.3؛ p=0.0093). كانت complications متقاربة بين المجموعتين سواء في المحاولة الأولى أو عبر جميع المحاولات، ولم تحدث cardiac arrest أو وفاة. تدعم النتائج استخدام videolaryngoscopy كخيار أول في هذه الفئة، لكن الدراسة لم تشمل infants ذوي difficult airways المتوقعة، كما أن النتائج مستمدة من مراكز cardiac متخصصة.",
+      "summary_en": "This multicentre RCT compared videolaryngoscopy with direct laryngoscopy for nasotracheal intubation in infants aged 365 days or younger undergoing cardiac procedures. The primary outcome was first-attempt intubation success, analyzed in 673 infants. Success was 83% with videolaryngoscopy versus 75% with direct laryngoscopy, an adjusted risk difference of 8.2% (95% CI 2.0–14.3; p=0.0093). Complication rates were similar between groups for both the first attempt and all attempts combined, and there were no cardiac arrests or deaths. The findings support videolaryngoscopy as a first-line option in this population, but infants with anticipated difficult airways were excluded and the results come from specialist cardiac centres.",
+      "practice_change_ar": "في infants غير المتوقع أن يكون لديهم difficult airway ويخضعون لإجراءات cardiac في مراكز متخصصة، تدعم النتائج اختيار videolaryngoscopy كخيار أول لـnasotracheal intubation.",
+      "practice_change_en": "For infants without an anticipated difficult airway undergoing cardiac procedures at specialist centres, the results support choosing videolaryngoscopy first for nasotracheal intubation.",
+      "future_impact_ar": "ينبغي أن تحدد الدراسات المقبلة ما إذا كانت الفائدة تمتد إلى difficult airways، والمراكز غير المتخصصة، والظروف العاجلة، مع تقييم متطلبات تدريب clinicians.",
+      "future_impact_en": "Further studies should assess whether the benefit extends to difficult airways, nonspecialist centres, and urgent settings, while evaluating clinician training needs.",
+      "why_important_ar": "تقدم الدراسة دليلاً عشوائياً متعدد المراكز على زيادة نجاح intubation من المحاولة الأولى دون فرق واضح في complications.",
+      "why_important_en": "This trial provides multicentre randomized evidence that videolaryngoscopy improves first-attempt intubation success without a clear difference in complications.",
+      "vs_previous_ar": "بينما دعمت دراسات سابقة videolaryngoscopy في orotracheal intubation لدى infants، تختبر هذه الدراسة nasotracheal intubation وتجد تحسناً في نجاح المحاولة الأولى مقارنةً بـdirect laryngoscopy.",
+      "vs_previous_en": "Whereas earlier evidence supported videolaryngoscopy for orotracheal intubation in infants, this trial evaluates nasotracheal intubation and finds higher first-attempt success than with direct laryngoscopy.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة RCT متعددة المراكز قوية التصميم ومنشورة في The Lancet: Child & Adolescent Health، وتُظهر تحسناً ذا دلالة في نجاح المحاولة الأولى؛ لكن تعميمها محدود إلى infants دون difficult airway متوقعة وفي مراكز متخصصة، ولم تُظهر انخفاضاً في complications.",
+      "stars_reason_en": "A strong multicentre RCT published in The Lancet: Child & Adolescent Health demonstrates significantly better first-attempt success. Generalizability is limited to infants without anticipated difficult airways in specialist centres, and complications were not reduced.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق الدراسة المناقشة لأنها تقدم مقارنة عشوائية مباشرة لتقنيتين شائعتين، مع فائدة مطلقة في نجاح المحاولة الأولى وأسئلة مهمة حول قابلية التعميم والسلامة والتدريب.",
+      "jc_reason_en": "This merits journal club discussion as a direct randomized comparison of two common techniques, showing an absolute improvement in first-attempt success while raising important questions about generalizability, safety, and training.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا اعتماد videolaryngoscopy وتطور أدلتها في nasotracheal intubation لدى infants، خصوصاً في difficult airways والبيئات غير المتخصصة.",
+      "watch_detail_en": "Track adoption of videolaryngoscopy and emerging evidence for infant nasotracheal intubation, particularly in difficult airways and nonspecialist settings.",
+      "watch_type": "device",
+      "research_gap_ar": "ما زالت الحاجة قائمة إلى دراسات تقيم videolaryngoscopy لدى infants ذوي difficult airways المتوقعة، وفي المراكز غير المتخصصة والظروف العاجلة، مع متابعة complications ونتائج التدريب.",
+      "research_gap_en": "Studies are still needed in infants with anticipated difficult airways, nonspecialist centres, and urgent settings, with assessment of complications and training outcomes.",
+      "subspecialty": "pediatric",
+      "audio_script_ar": "نستعرض اليوم دراسة NasoVISI، وهي multicentre RCT قارنت videolaryngoscopy مع direct laryngoscopy في nasotracheal intubation لدى infants الذين يخضعون لإجراءات cardiac. أُجريت الدراسة في ثمانية مراكز cardiac للأطفال في الولايات المتحدة، وشملت infants بعمر 365 يومًا أو أقل، دون difficult airway متوقعة. من بين 684 infant جرى توزيعهم عشوائياً، دخل 673 في تحليل النتيجة الأساسية.\n\nكان المقياس الأساسي هو نجاح intubation من المحاولة الأولى. حققت مجموعة videolaryngoscopy نجاحاً لدى 83%، مقارنةً بـ75% مع direct laryngoscopy. بلغ adjusted risk difference 8.2%، وكان 95% confidence interval من 2.0 إلى 14.3، مع p-value تساوي 0.0093. أما complications، فكانت متقاربة: ظهرت complications في المحاولة الأولى لدى 13% مقابل 12%، وبالنظر إلى جميع المحاولات كانت النسبة 14% في كل مجموعة تقريباً. لم تسجل الدراسة cardiac arrest أو وفيات.\n\nالخلاصة العملية هي أن videolaryngoscopy يزيد احتمال النجاح من المحاولة الأولى في هذه الفئة، ولذلك تدعم النتائج اعتباره خياراً أول لـnasotracheal intubation لدى infants دون difficult airway متوقعة في مراكز cardiac متخصصة. لكن تحسن النجاح لم يصاحبه انخفاض واضح في complications، ولا ينبغي افتراض أن النتائج تنطبق تلقائياً على difficult airways أو المراكز الأقل خبرة أو الحالات العاجلة.\n\nتتميز الدراسة بتصميم عشوائي متعدد المراكز وحجم عينة كبير نسبياً، ما يجعلها ذات قيمة سريرية، لكنها لا تحسم كل جوانب التطبيق. وتستحق المناقشة في journal club بسبب أهمية النتيجة الأساسية، وحدود قابلية التعميم، والحاجة إلى معرفة أثر تدريب clinicians. ينبغي أن تركز الأبحاث المقبلة على difficult airways، والبيئات غير المتخصصة، والحالات العاجلة، وعلى العلاقة بين التدريب واستخدام videolaryngoscopy ونتائج المرضى.",
+      "audio_script_en": "Today we review the NasoVISI study, a multicentre randomized trial comparing videolaryngoscopy with direct laryngoscopy for nasotracheal intubation in infants undergoing cardiac procedures. The trial took place at eight paediatric cardiac centres in the United States and enrolled infants aged 365 days or younger without an anticipated difficult airway. Of 684 infants randomized, 673 were included in the primary outcome analysis.\n\nThe primary outcome was successful intubation on the first attempt. Success occurred in 83% of the videolaryngoscopy group, compared with 75% of the direct laryngoscopy group. The adjusted risk difference was 8.2%, with a 95% confidence interval of 2.0 to 14.3 and a p-value of 0.0093. Complications were similar: first-attempt complications occurred in 13% versus 12%, and complications across all attempts occurred in approximately 14% of each group. There were no cardiac arrests or deaths.\n\nThe practical takeaway is that videolaryngoscopy improves the chance of first-attempt success in this population. The findings support considering it a first-line option for nasotracheal intubation in infants without an anticipated difficult airway at specialist cardiac centres. However, the improvement in success was not accompanied by a clear reduction in complications, and the results should not automatically be extrapolated to difficult airways, less experienced centres, or urgent cases.\n\nThe study is clinically valuable because it is randomized, multicentre, and has a relatively large sample. Nevertheless, it does not resolve every implementation question. It is well suited to journal club discussion because of the primary outcome, limits to generalizability, and the need to understand clinician training requirements. Future research should evaluate difficult airways, nonspecialist and urgent settings, and the relationship between training, videolaryngoscopy use, and patient outcomes.",
+      "mcq": [
+        {
+          "q_ar": "ما النتيجة الأساسية التي قارنتها دراسة NasoVISI؟",
+          "q_en": "What primary outcome did the NasoVISI trial compare?",
+          "options_ar": [
+            "أ) نجاح intubation من المحاولة الأولى",
+            "ب) مدة الإقامة في المستشفى",
+            "ج) حدوث cardiac arrest خلال 30 يوماً",
+            "د) الحاجة إلى tracheostomy"
+          ],
+          "options_en": [
+            "A) First-attempt intubation success",
+            "B) Length of hospital stay",
+            "C) Cardiac arrest within 30 days",
+            "D) Need for tracheostomy"
+          ],
+          "answer": 0,
+          "explanation_ar": "كانت النتيجة الأساسية هي نجاح intubation من المحاولة الأولى.",
+          "explanation_en": "The primary outcome was successful intubation on the first attempt."
+        },
+        {
+          "q_ar": "كم بلغت نسبة نجاح المحاولة الأولى مع videolaryngoscopy مقارنةً بـdirect laryngoscopy؟",
+          "q_en": "What were the first-attempt success rates with videolaryngoscopy and direct laryngoscopy?",
+          "options_ar": [
+            "أ) 65% مقابل 75%",
+            "ب) 75% مقابل 83%",
+            "ج) 83% مقابل 75%",
+            "د) 90% مقابل 90%"
+          ],
+          "options_en": [
+            "A) 65% versus 75%",
+            "B) 75% versus 83%",
+            "C) 83% versus 75%",
+            "D) 90% versus 90%"
+          ],
+          "answer": 2,
+          "explanation_ar": "كان نجاح المحاولة الأولى 83% مع videolaryngoscopy و75% مع direct laryngoscopy.",
+          "explanation_en": "First-attempt success was 83% with videolaryngoscopy and 75% with direct laryngoscopy."
+        },
+        {
+          "q_ar": "أي مجموعة لم تشملها الدراسة وفق معاييرها؟",
+          "q_en": "Which group was excluded by the trial's eligibility criteria?",
+          "options_ar": [
+            "أ) Infants بعمر أقل من سنة يخضعون لإجراءات cardiac",
+            "ب) Infants دون difficult airway متوقعة",
+            "ج) Infants ذوو difficult airways متوقعة",
+            "د) Infants الذين يحتاجون nasotracheal intubation"
+          ],
+          "options_en": [
+            "A) Infants younger than one year undergoing cardiac procedures",
+            "B) Infants without an anticipated difficult airway",
+            "C) Infants with an anticipated difficult airway",
+            "D) Infants requiring nasotracheal intubation"
+          ],
+          "answer": 2,
+          "explanation_ar": "استبعدت الدراسة المرضى الذين لديهم difficult airway متوقعة، لذا لا يمكن تعميم نتائجها عليهم مباشرةً.",
+          "explanation_en": "The trial excluded patients with an anticipated difficult airway, so its results cannot be directly generalized to them."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026102901",
+      "title_ar": "شركات رائدة في طب الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية",
+      "title_en": "Leading ENT Companies Driving Medical Technology Innovation",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-29",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت SNS Insider عرضًا عامًا يسلط الضوء على شركات تعمل في مجال الابتكار في التكنولوجيا الطبية لرعاية الأنف والأذن والحنجرة. ولا يحدد العنوان شركات بعينها أو منتجات أو عمليات استحواذ أو قرارات تنظيمية أو نتائج سريرية. لذا فهو يشير إلى اتجاه عام في القطاع، لا إلى تطور تجاري أو سريري محدد. ولا يمكن تأكيد أي دليل يغيّر الممارسة أو إعلان خاص بشركة استنادًا إلى المعلومات المتاحة.",
+      "summary_en": "SNS Insider published an overview highlighting companies involved in medical technology innovation for ear, nose, and throat care. The headline does not identify specific companies, products, acquisitions, regulatory decisions, or clinical findings. It therefore signals a broad industry trend rather than a particular business or clinical development. No practice-changing evidence or company-specific announcement can be confirmed from the available information.",
+      "practice_change_ar": "لا ينبغي لجراحي الأنف والأذن والحنجرة تغيير الممارسة السريرية استنادًا إلى هذا العرض العام من دون تفاصيل محددة عن المنتجات وأدلة داعمة.",
+      "practice_change_en": "ENT surgeons should not alter clinical practice based on this broad industry overview without specific product details and supporting evidence.",
+      "future_impact_ar": "ستتوقف الأهمية المستقبلية على طرح هذه الشركات ابتكارات محددة في السوق وإثبات سلامتها وفعاليتها وفوائدها العملية لسير العمل.",
+      "future_impact_en": "Future relevance will depend on whether these companies bring specific innovations to market and demonstrate safety, effectiveness, and meaningful workflow benefits.",
+      "why_important_ar": "قد يعكس الخبر استمرار تطوير التكنولوجيا في مجال الأنف والأذن والحنجرة، لكنه لا يقدم أثرًا سريريًا أو تشغيليًا موثقًا للممارسات.",
+      "why_important_en": "The item may reflect ongoing technology development in ENT, but it provides no verified clinical or operational impact for practices.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "عنوان عام بلا تفاصيل عن منتج أو قرار تنظيمي أو دليل سريري ذي أثر مباشر.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "يتناول عنوان نشرته منصة SNS Insider شركات تقود الابتكار في التكنولوجيا الطبية بمجال الأنف والأذن والحنجرة. لكن المعلومات المتاحة لا تحدد أسماء الشركات أو المنتجات، ولا تشير إلى استحواذ أو موافقة تنظيمية أو نتائج دراسة سريرية. لذلك ينبغي التعامل مع الخبر بوصفه لمحة عامة عن نشاط القطاع، وليس إعلانًا عن تقنية ثبتت فائدتها للمرضى. بالنسبة إلى أطباء الأنف والأذن والحنجرة، لا توجد حاليًا معلومات كافية لتغيير الممارسة أو اعتماد جهاز جديد. وتستحق أي تقنية لاحقة التقييم بناءً على بيانات السلامة والفعالية، ومدى ملاءمتها لسير العمل السريري.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026102902",
+      "title_ar": "ميدترونيك وكارل ستورز تتعاونان لتطوير حلول جراحية متكاملة في الأنف والأذن والحنجرة",
+      "title_en": "Medtronic and Karl Storz Collaborate on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-29",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أعلنت شركتا ميدترونيك وكارل ستورز عن تعاون يركز على حلول جراحية متكاملة في مجال الأنف والأذن والحنجرة، وفقاً لموقع ماس ديفايس. ولا يوضح العنوان المنتجات أو التقنيات المعنية، كما لا يقدم تفاصيل عن التوافر أو الأسعار أو موعد الإطلاق. ولا يتضمن الخبر المتاح نتائج سريرية أو قرارات تنظيمية.",
+      "summary_en": "Medtronic and Karl Storz have announced a collaboration focused on integrated surgical solutions for ear, nose and throat care, according to MassDevice. The headline does not specify which products or technologies are involved, or provide details on availability, pricing or launch timing. No clinical outcomes or regulatory decisions are reported in the available item.",
+      "practice_change_ar": "لا يُتوقع حدوث تغيير فوري في الممارسة السريرية؛ وسيحتاج الجراحون إلى مزيد من التفاصيل عن المنتجات وآليات تطبيقها لتقييم أهمية التعاون.",
+      "practice_change_en": "There is no reported immediate change to clinical practice; surgeons will need further product and implementation details to assess the collaboration’s relevance.",
+      "future_impact_ar": "قد يفضي التعاون إلى أنظمة جراحية أكثر تكاملاً في تخصص الأنف والأذن والحنجرة، وستعتمد أهميته على المنتجات التي ستُطوَّر والأدلة على فائدتها في الممارسة.",
+      "future_impact_en": "The collaboration may lead to more connected ENT surgical systems, with its significance depending on the products developed and evidence of their value in practice.",
+      "why_important_ar": "قد يؤثر دمج حلول الشركتين مستقبلاً في سير العمل داخل غرف العمليات في تخصص الأنف والأذن والحنجرة، لكن الفوائد السريرية والتشغيلية لم تُحدَّد بعد.",
+      "why_important_en": "Combining the companies’ offerings could eventually affect ENT operating-room workflows, but the clinical and operational benefits have not yet been specified.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "تعاون تجاري قد يؤثر في التقنيات وسير العمل، لكن التفاصيل والأثر السريري غير متاحين.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أعلنت ميدترونيك وكارل ستورز عن تعاون لتطوير حلول جراحية متكاملة في مجال الأنف والأذن والحنجرة، بحسب تقرير لموقع ماس ديفايس. وقد تكون مثل هذه الشراكات ذات أهمية للأطباء إذا أسهمت في تحسين تكامل الأجهزة أو تبسيط سير العمل داخل غرفة العمليات. لكن المعلومات المنشورة في الخبر المتاح لا تحدد المنتجات أو التقنيات التي يشملها التعاون، ولا موعد طرحها أو مدى توافرها. كذلك، لم تُذكر بيانات عن نتائج سريرية أو مزايا عملية مثبتة. لذلك لا يعني الإعلان وجود تغيير فوري في الممارسة؛ وينبغي انتظار تفاصيل إضافية عن الحلول، ومتطلبات استخدامها، وما إذا كانت ستقدم قيمة سريرية واضحة. وسنراقب أي إعلانات لاحقة تتضمن مواصفات المنتجات أو أدلة على أثرها في رعاية مرضى الأنف والأذن والحنجرة.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026102903",
+      "title_ar": "سوق أنظمة تصوير التنظير متوسطة الفئة حتى عام 2035: الطلب على الإجراءات طفيفة التوغل يدفع النمو",
+      "title_en": "Mid-Range Endoscopy Visualization Systems Market to 2035: Minimally Invasive Demand Drives Growth",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-29",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "تشير IndexBox إلى أن الطلب على الإجراءات طفيفة التوغل يدفع نمو سوق أنظمة تصوير التنظير متوسطة الفئة، مع توقعات تمتد حتى عام 2035. ويتناول الخبر اتجاهاً وتوقعات للسوق، وليس صفقة استحواذ أو قراراً تنظيمياً أو إعلاناً عن شركة بعينها. ولا يتضمن النص المتاح تفاصيل عن حجم السوق أو معدلات نموه أو الشركات المصنّعة المحددة.",
+      "summary_en": "IndexBox reports that demand for minimally invasive procedures is driving growth in the mid-range endoscopy visualization systems market, with the market outlook extending to 2035. The item presents a market trend and forecast rather than a specific acquisition, regulatory decision, or company announcement. It does not provide details in the supplied text about market size, growth rates, or individual manufacturers.",
+      "practice_change_ar": "لا تستدعي التوقعات تغييراً فورياً في الممارسة، لكنها قد تفيد في التخطيط المستقبلي للأجهزة ومناقشة قرارات شرائها.",
+      "practice_change_en": "The forecast does not call for an immediate change in ENT practice, but it may inform future equipment planning and purchasing discussions.",
+      "future_impact_ar": "قد تتاح لأقسام الأنف والأذن والحنجرة خيارات أكثر من الأجهزة مع تطور السوق، ما يزيد أهمية المقارنة بين جودة الصورة وسير العمل والتكلفة الإجمالية.",
+      "future_impact_en": "ENT departments may see more equipment options as the market develops, making comparative assessment of image quality, workflow, and total cost increasingly important.",
+      "why_important_ar": "قد يؤدي اتساع الطلب على الرعاية طفيفة التوغل إلى زيادة توافر أنظمة التصوير متوسطة الفئة، لكن التقرير لا يقدم أدلة محددة عن الأداء السريري أو تطبيقات الأنف والأذن والحنجرة.",
+      "why_important_en": "Broader demand for minimally invasive care could expand the availability of mid-range visualization systems, although the report provides no specific evidence about clinical performance or ENT applications.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "توقع سوقي عام بلا بيانات تفصيلية أو تغيير مباشر في الممارسة السريرية.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "تتوقع شركة IndexBox استمرار نمو سوق أنظمة تصوير التنظير متوسطة الفئة حتى عام 2035، مدفوعاً بزيادة الطلب على الإجراءات طفيفة التوغل. الخبر يقدم نظرة عامة على اتجاه السوق، ولا يعلن عن صفقة أو قرار تنظيمي أو منتج محدد. كما أن المعلومات المتاحة لا تتضمن أرقاماً عن حجم السوق أو معدلات نموه، ولا تحدد الشركات أو التطبيقات المرتبطة بطب الأنف والأذن والحنجرة. بالنسبة للأطباء والمؤسسات الصحية، لا يعني هذا التوقع ضرورة تغيير الممارسة أو شراء أجهزة فوراً، لكنه قد يكون عاملاً عند التخطيط طويل الأمد للمعدات. وعند مقارنة الخيارات، تبقى جودة الصورة وسهولة دمج النظام في سير العمل والتكلفة الإجمالية عوامل أساسية، إلى جانب ملاءمته للاحتياجات السريرية الفعلية.",
+      "mcq": []
+    }
+  ]
+}
