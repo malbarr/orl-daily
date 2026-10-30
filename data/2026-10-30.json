@@ -1,0 +1,883 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T10:00:16Z",
+  "articles": [
+    {
+      "pmid": "42954986",
+      "title_ar": "Nasal Obstruction and Treatment With Oxymetazoline and Corticosteroids: A Randomized Clinical Trial.",
+      "title_en": "Nasal Obstruction and Treatment With Oxymetazoline and Corticosteroids: A Randomized Clinical Trial.",
+      "journal": "JAMA otolaryngology-- head & neck surgery",
+      "pub_date": "2026-Oct-29",
+      "doi": "10.1001/jamaoto.2026.3297",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42954986/",
+      "pdf_url": null,
+      "study_design": "Single-center double-blind RCT n=60",
+      "summary_ar": "قيّمت هذه الدراسة ما إذا كان الجمع بين oxymetazoline وbudesonide يعالج chronic nasal obstruction دون التسبب في rebound obstruction أو rhinitis medicamentosa لدى بالغين لم يستجيبوا سابقًا لـ topical steroids. شملت الدراسة 60 مشاركًا عُشووا لتلقي oxymetazoline/budesonide أو budesonide وحده مرتين يوميًا لمدة 4 أسابيع، مع فترة wean مدتها 3 أسابيع. بعد 4 أسابيع، استجاب 24 من 29 مشاركًا (83%) في مجموعة العلاج المركب، مقارنةً بـ10 من 28 (36%) في مجموعة budesonide وحده. بلغ الفرق بين المجموعتين 47 نقطة مئوية، مع 95% confidence interval من 25 إلى 70 نقطة مئوية. لم تظهر في مجموعة oxymetazoline علامات تفاقم تدل على rebound obstruction أثناء العلاج، وتمكن المشاركون من إيقافه بنجاح خلال فترة wean. تدعم النتائج احتمال فائدة العلاج المركب قصير الأمد للمرضى الذين لم يستفيدوا من topical steroids، لكنها لا تحسم سلامة الاستخدام الأطول.",
+      "summary_en": "This single-center, double-blind RCT evaluated combined oxymetazoline/budesonide for chronic nasal obstruction in adults who had not responded to topical steroids. Sixty participants were randomized to oxymetazoline/budesonide or budesonide alone, twice daily for 4 weeks, followed by a 3-week wean. At 4 weeks, 24 of 29 participants (83%) receiving combination therapy responded, compared with 10 of 28 (36%) receiving budesonide alone. The between-group difference was 47 percentage points (95% CI, 25-70). No participant in the oxymetazoline arm developed worsening obstruction concerning for rebound during active treatment, and participants successfully weaned off the medication. The results support potential short-term benefit for patients who have not responded to topical steroids, but do not establish the safety of longer-term use.",
+      "practice_change_ar": "يمكن للطبيب أن يناقش تجربة قصيرة ومراقبة لـ oxymetazoline/budesonide لدى مرضى chronic nasal obstruction الذين لم يستجيبوا لـ topical steroids، مع عدم اعتبارها دليلًا على أمان الاستخدام طويل الأمد.",
+      "practice_change_en": "Clinicians may consider a short, monitored trial of oxymetazoline/budesonide for chronic nasal obstruction unresponsive to topical steroids, without assuming that long-term use is safe.",
+      "future_impact_ar": "قد تدعم هذه النتائج إجراء دراسات أكبر وأطول لتحديد مدة العلاج المثلى ومخاطر rebound obstruction مع الاستخدام الممتد.",
+      "future_impact_en": "These findings may prompt larger, longer studies to define optimal treatment duration and the risk of rebound obstruction with extended use.",
+      "why_important_ar": "تقدم الدراسة دليلًا عشوائيًا على تحسن الأعراض مع العلاج المركب لدى مرضى لم يستجيبوا للعلاج المعتاد، مع تقييم عملي لإمكانية الإيقاف.",
+      "why_important_en": "The trial provides randomized evidence of symptomatic benefit in patients unresponsive to usual topical therapy and directly evaluates whether treatment can be stopped.",
+      "vs_previous_ar": "على خلاف المخاوف المستندة إلى الاستخدام المطول لـ oxymetazoline، لم تُلاحظ rebound obstruction خلال 4 أسابيع من العلاج المركب أو أثناء فترة wean في هذه الدراسة.",
+      "vs_previous_en": "In contrast to concerns about prolonged oxymetazoline use, rebound obstruction was not observed during 4 weeks of combination treatment or the subsequent wean in this trial.",
+      "stars": 4,
+      "stars_reason_ar": "تجربة RCT عشوائية في JAMA Otolaryngology تُظهر فرقًا سريريًا كبيرًا لصالح العلاج المركب؛ خُفض التقييم إلى 4 نجوم بسبب صغر العينة، ومركز واحد، وقصر المتابعة.",
+      "stars_reason_en": "A randomized trial in JAMA Otolaryngology found a large clinical response difference favoring combination therapy; the rating is limited to 4 stars by the small, single-center sample and short follow-up.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق الدراسة النقاش بسبب الفرق الكبير في الاستجابة، مع ضرورة تقييم حدود عينة صغيرة ومدة علاج قصيرة قبل تعميم استخدام oxymetazoline.",
+      "jc_reason_en": "The large response difference merits discussion, alongside the limitations of a small sample and short treatment period before broader adoption of oxymetazoline.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا oxymetazoline مع budesonide كنهج دوائي محتمل لـ chronic nasal obstruction، مع الحاجة إلى بيانات أطول عن rebound obstruction والسلامة.",
+      "watch_detail_en": "Track oxymetazoline combined with budesonide as a potential medication strategy for chronic nasal obstruction, while awaiting longer-term safety and rebound data.",
+      "watch_type": "drug",
+      "research_gap_ar": "تحتاج الدراسات المستقبلية إلى عينات أكبر ومتابعة أطول لتقييم استمرار الفائدة، وrhinitis medicamentosa، وسلامة الاستخدام الممتد.",
+      "research_gap_en": "Future studies need larger samples and longer follow-up to assess durability of benefit, rhinitis medicamentosa, and the safety of extended use.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "في مراجعة اليوم، نناقش تجربة سريرية عشوائية نُشرت في JAMA Otolaryngology حول chronic nasal obstruction واستخدام oxymetazoline مع budesonide. السؤال مهم لأن oxymetazoline قد يخفف الاحتقان بفاعلية، لكن الاستخدام المطول يرتبط بمخاوف من rebound obstruction وrhinitis medicamentosa.\n\nشملت الدراسة 60 بالغًا لديهم chronic nasal obstruction ولم يستجيبوا سابقًا لـ topical steroids، واستُبعد المصابون بـ chronic sinusitis. قُسّم المشاركون إلى مجموعتين: الأولى استخدمت oxymetazoline/budesonide، والثانية budesonide وحده، مرتين يوميًا لمدة أربعة أسابيع، ثم اتبع الجميع فترة wean مدتها ثلاثة أسابيع. كان المخرج الأساسي هو نسبة المستجيبين، أي من حققوا تحسنًا لا يقل عن moderate على Clinical Global Impressions-Improvement scale.\n\nكانت الاستجابة 83% مع العلاج المركب، مقابل 36% مع budesonide وحده؛ والفرق 47 نقطة مئوية، مع 95% confidence interval من 25 إلى 70 نقطة. لم تسجل مجموعة oxymetazoline تفاقمًا أثناء فترة العلاج يوحي بـ rebound obstruction، كما تمكن المشاركون من إيقاف الدواء خلال فترة wean دون مشكلة. خضع عدد محدود فقط من المشاركين لخزعات inferior turbinate، لذا لا ينبغي المبالغة في الاستنتاجات النسيجية.\n\nما الذي تعنيه النتائج للممارسة؟ يمكن التفكير في دورة قصيرة ومراقبة من oxymetazoline/budesonide لمرضى مختارين لم يستجيبوا لـ topical steroids. لكن هذه ليست حجة كافية لاستخدام oxymetazoline طويل الأمد؛ فالدراسة أحادية المركز، صغيرة، والمتابعة قصيرة. كما أن غياب rebound خلال أسابيع لا ينفي احتمال حدوثه مع مدد أطول.\n\nتُقيّم الدراسة بأربع نجوم، والثقة متوسطة؛ فهي RCT ذات نتيجة واعدة، لكنها لا تغيّر الممارسة على نحو واسع بعد. النقطة البحثية الأهم هي الحاجة إلى تجارب أكبر وأطول تحدد مدة العلاج المثلى، واستدامة التحسن، ومخاطر rhinitis medicamentosa. الخلاصة: خيار دوائي يستحق المتابعة، مع وصف حذر ومراقبة واضحة، لا استخدام مفتوح المدة.",
+      "audio_script_en": "Today’s review examines a randomized clinical trial in JAMA Otolaryngology on chronic nasal obstruction treated with oxymetazoline plus budesonide. The clinical question matters because oxymetazoline can provide effective decongestion, but prolonged use is associated with concern about rebound obstruction and rhinitis medicamentosa.\n\nThe study enrolled 60 adults with chronic nasal obstruction who had previously failed topical steroids; people with chronic sinusitis were excluded. Participants received either oxymetazoline/budesonide or budesonide alone, twice daily for four weeks, followed by a three-week wean. The primary outcome was the responder rate, defined as at least moderate improvement on the Clinical Global Impressions-Improvement scale.\n\nThe response rate was 83% with combination treatment and 36% with budesonide alone. The difference was 47 percentage points, with a 95% confidence interval of 25 to 70 percentage points. No participant in the oxymetazoline arm developed worsening obstruction concerning for rebound during active treatment, and participants successfully stopped the medication during the wean. Only a small subset underwent inferior turbinate biopsies, so histopathologic findings should not be overinterpreted.\n\nFor practice, clinicians may consider a short, monitored course of oxymetazoline/budesonide in selected patients who have not responded to topical steroids. However, this trial does not establish the safety of long-term oxymetazoline. It was conducted at one center, enrolled a modest number of participants, and followed them for a limited period. The absence of rebound over several weeks does not rule out risk with longer exposure.\n\nThis study earns four stars, with moderate confidence: it is a promising RCT, but it is not yet sufficient to change routine practice broadly. Larger trials with longer follow-up are needed to assess durability, optimal treatment duration, and the risk of rhinitis medicamentosa. The takeaway is that this is a drug strategy worth tracking and potentially considering with careful monitoring—not an endorsement of indefinite use.",
+      "mcq": [
+        {
+          "q_ar": "ما نسبة المستجيبين بعد 4 أسابيع في مجموعة oxymetazoline/budesonide؟",
+          "q_en": "What was the responder rate after 4 weeks in the oxymetazoline/budesonide arm?",
+          "options_ar": [
+            "أ) 36%",
+            "ب) 47%",
+            "ج) 83%",
+            "د) 100%"
+          ],
+          "options_en": [
+            "A) 36%",
+            "B) 47%",
+            "C) 83%",
+            "D) 100%"
+          ],
+          "answer": 2,
+          "explanation_ar": "استجاب 24 من 29 مشاركًا في مجموعة العلاج المركب، أي 83%.",
+          "explanation_en": "Twenty-four of 29 participants in the combination arm responded, corresponding to 83%."
+        },
+        {
+          "q_ar": "ما النتيجة المتعلقة بـ rebound obstruction خلال فترة العلاج في مجموعة oxymetazoline؟",
+          "q_en": "What was observed regarding rebound obstruction during treatment in the oxymetazoline arm?",
+          "options_ar": [
+            "أ) ظهرت لدى معظم المشاركين",
+            "ب) لم تظهر لدى أي مشارك علامات تفاقم مقلقة",
+            "ج) ظهرت بعد إيقاف budesonide فقط",
+            "د) لم تُقيّم في الدراسة"
+          ],
+          "options_en": [
+            "A) It developed in most participants",
+            "B) No participant developed concerning worsening signs",
+            "C) It appeared only after stopping budesonide",
+            "D) It was not assessed in the trial"
+          ],
+          "answer": 1,
+          "explanation_ar": "لم يُسجل تفاقم أثناء العلاج يوحي بـ rebound obstruction، وتمكن المشاركون من إيقاف oxymetazoline خلال فترة wean.",
+          "explanation_en": "No worsening concerning for rebound obstruction was reported during treatment, and participants successfully weaned off oxymetazoline."
+        },
+        {
+          "q_ar": "ما أهم قيد عند تفسير نتائج هذه التجربة؟",
+          "q_en": "What is the key limitation when interpreting this trial?",
+          "options_ar": [
+            "أ) لم تتضمن مجموعة مقارنة",
+            "ب) كانت دراسة حيوانية",
+            "ج) كانت صغيرة ومن مركز واحد وذات متابعة قصيرة",
+            "د) لم تقِس تحسن الأعراض"
+          ],
+          "options_en": [
+            "A) It did not include a comparison group",
+            "B) It was an animal study",
+            "C) It was small, single-center, and had short follow-up",
+            "D) It did not measure symptom improvement"
+          ],
+          "answer": 2,
+          "explanation_ar": "رغم أنها RCT مع مجموعة مقارنة، فإن حجم العينة الصغير، والمركز الواحد، وقصر المتابعة تحد من تعميم النتائج وتقييم السلامة طويلة الأمد.",
+          "explanation_en": "Although it was an RCT with a comparator, the small sample, single-center design, and short follow-up limit generalizability and assessment of long-term safety."
+        }
+      ]
+    },
+    {
+      "pmid": "42958650",
+      "title_ar": "Postoperative Vocal fold mobility impairment after thoracic aortic surgery: A systematic review and meta-analysis of incidence, anatomy, and ascertainment.",
+      "title_en": "Postoperative Vocal fold mobility impairment after thoracic aortic surgery: A systematic review and meta-analysis of incidence, anatomy, and ascertainment.",
+      "journal": "Interdisciplinary cardiovascular and thoracic surgery",
+      "pub_date": "2026-Oct-29",
+      "doi": "10.1093/icvts/ivag291",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42958650/",
+      "pdf_url": null,
+      "study_design": "Systematic review and meta-analysis of 39 observational studies; primary meta-analysis of 11 cohorts (n=2,082)",
+      "summary_ar": "راجعت هذه systematic review وmeta-analysis حدوث postoperative vocal fold mobility impairment (VFMI) بعد thoracic aortic surgery لدى البالغين. شملت المراجعة 39 دراسة رصدية، لكن التحليل الأساسي اقتصر على 11 cohort شملت 2,082 مريضًا، مع 263 حالة جرى تأكيدها بأداة فحص بعد ظهور الأعراض. بلغ pooled observed VFMI نحو 14.9%، إلا أن heterogeneity كان مرتفعًا جدًا (I² 92.7%) وامتد 95% prediction interval من 0.3% إلى 43.3%. ارتبطت زيادة الامتداد التشريحي، وبخاصة distal arch أو descending exposure، بزيادة VFMI المرصود، بينما ظلت تقديرات القرب من left subclavian محدودة. ارتبط VFMI أيضًا بـpulmonary morbidity وairway intervention وإطالة الإقامة في المستشفى. تشير النتائج إلى أن اختلاف التشريح وطريقة ascertainment يجعل رقم incidence موحدًا مضللًا، وتدعم تقييم laryngeal موجّهًا للمرضى ذوي الأعراض مع دراسة screening في بعض الإجراءات عالية الخطورة.",
+      "summary_en": "This systematic review and meta-analysis examined postoperative vocal fold mobility impairment (VFMI) after adult thoracic aortic surgery. It included 39 observational studies, while the primary analysis was restricted to 11 symptom-triggered, instrumentally confirmed cohorts comprising 2,082 patients and 263 events. The pooled observed VFMI was 14.9%, but heterogeneity was substantial (I² 92.7%) and the 95% prediction interval ranged from 0.3% to 43.3%. Greater anatomical extent, particularly distal arch or descending exposure, was consistently associated with more observed VFMI; estimates near the left subclavian artery were limited. VFMI was also associated with pulmonary morbidity, airway intervention, and prolonged hospitalization. The findings show why a single incidence estimate is misleading and support targeted assessment of symptomatic patients, while suggesting that screening in selected high-risk procedures warrants further study.",
+      "practice_change_ar": "ينبغي تقييم laryngeal لدى المرضى الذين تظهر عليهم أعراض بعد thoracic aortic surgery، دون اعتماد pooled incidence واحد لتقدير الخطر لكل الإجراءات.",
+      "practice_change_en": "Assess the larynx in patients who develop symptoms after thoracic aortic surgery, and do not use one pooled incidence to estimate risk across all procedures.",
+      "future_impact_ar": "قد تقود دراسات مستقبلية موحدة ascertainment إلى تحديد ما إذا كان routine screening مفيدًا بعد عمليات distal arch وdescending عالية الخطورة.",
+      "future_impact_en": "Future studies using standardized ascertainment may clarify whether routine screening benefits patients after high-risk distal arch and descending procedures.",
+      "why_important_ar": "توضح الدراسة أن اختلاف التشريح وطريقة الكشف يفسران تفاوتًا كبيرًا في VFMI، وهو اضطراب قد يرتبط بمضاعفات تنفسية وتدخلات airway.",
+      "why_important_en": "The review shows that anatomy and ascertainment contribute to widely varying VFMI estimates, and that VFMI may accompany respiratory morbidity and airway interventions.",
+      "vs_previous_ar": "بدل تقديم incidence موحد كما قد توحي به التقارير السابقة، تربط هذه المراجعة النتائج بامتداد التعرض التشريحي وبطريقة ascertainment وتبرز عدم اليقين الكبير.",
+      "vs_previous_en": "Rather than presenting a universal incidence as prior reports may imply, this review relates observed VFMI to anatomical exposure and ascertainment and emphasizes substantial uncertainty.",
+      "stars": 3,
+      "stars_reason_ar": "هذه systematic review وmeta-analysis كبيرة نسبيًا، لكنها تعتمد على دراسات رصدية مع heterogeneity شديد وفاصل تنبؤ واسع؛ لذا تقدم معرفة سريرية مفيدة دون تغيير الممارسة بشكل حاسم.",
+      "stars_reason_en": "This relatively large systematic review and meta-analysis offers useful clinical insight, but relies on observational studies with substantial heterogeneity and a wide prediction interval, so it does not establish a practice-changing estimate.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for journal club discussion of how anatomy and ascertainment affect pooled incidence, the limits of observational evidence, and the rationale for targeted screening.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى دراسات مستقبلية متعددة المراكز تستخدم فحصًا موحدًا، وتقارن symptom-triggered assessment بـroutine screening في إجراءات distal arch وdescending عالية الخطورة.",
+      "research_gap_en": "Multicenter prospective studies using standardized assessment are needed to compare symptom-triggered evaluation with routine screening after high-risk distal arch and descending procedures.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نناقش اليوم systematic review وmeta-analysis حول postoperative vocal fold mobility impairment، أو VFMI، بعد thoracic aortic surgery. أهمية الموضوع أن ضعف حركة vocal fold قد يُغفل إذا اقتصر التقييم على المرضى الذين يُحالون بسبب أعراض واضحة، كما أن خطره قد يتغير بحسب امتداد العملية التشريحي.\n\nجمعت المراجعة 39 دراسة رصدية. أما التحليل الأساسي فشمل 11 cohort فقط، تضم 2,082 مريضًا و263 حالة VFMI، مع اشتراط أن يكون الفحص قد أُجري بعد ظهور الأعراض وأن يكون التشخيص مؤكدًا بأداة فحص. بلغ pooled observed incidence نحو 14.9%. لكن لا ينبغي التعامل مع هذا الرقم كاحتمال ثابت لكل مريض؛ فقد كان heterogeneity مرتفعًا جدًا، إذ بلغ I² 92.7%، وكان 95% prediction interval واسعًا من 0.3% إلى 43.3%. كما تراوحت النسب بين الدراسات من 4.0% إلى 38.8%.\n\nمن حيث anatomy، ارتبطت العمليات ذات الامتداد الأكبر، وخصوصًا distal arch أو descending exposure، بزيادة VFMI المرصود. لكن الأدلة المتعلقة بتقديرات التعرض القريب من left subclavian ما زالت محدودة. كذلك ارتبط VFMI بـpulmonary morbidity، والحاجة إلى airway intervention، وإطالة مدة الإقامة في المستشفى.\n\nما الذي يتغير اليوم؟ تدعم النتائج تقييم laryngeal لدى المرضى الذين تظهر عليهم أعراض بعد thoracic aortic surgery، لكنها لا تثبت أن routine screening مطلوب لكل مريض أو لكل إجراء. عمليًا، من الأفضل عدم استخدام pooled incidence واحد لتقدير الخطر في إجراءات مختلفة تشريحيًا.\n\nقوة الدراسة أنها تجمع أدبيات واسعة وتلفت الانتباه إلى أثر anatomy وascertainment. أما حدودها الرئيسية فهي اعتمادها على observational studies والتباين الكبير في التعريفات وطرق الفحص، مع اقتصار التحليل الأساسي على symptom-triggered cohorts. الخطوة التالية هي دراسات prospective متعددة المراكز تستخدم فحصًا موحدًا وتقارن التقييم الموجّه بـroutine screening، خصوصًا بعد إجراءات distal arch وdescending عالية الخطورة. الخلاصة: المقال مفيد لتحديد من يستحق تقييمًا سريريًا، لكنه لا يقدم incidence دقيقًا موحدًا ولا يبرر تغييرًا شاملًا في سياسة screening.",
+      "audio_script_en": "Today’s review examines postoperative vocal fold mobility impairment, or VFMI, after thoracic aortic surgery. The issue matters because impaired vocal fold movement can be missed when assessment is limited to patients referred for symptoms, and observed risk may differ with the anatomical extent of surgery.\n\nThe systematic review included 39 observational studies. The primary meta-analysis was narrower: 11 symptom-triggered, instrumentally confirmed cohorts, with 2,082 patients and 263 VFMI events. The pooled observed incidence was about 14.9%. That figure should not be treated as a fixed risk for every patient. Heterogeneity was very high, with I-squared of 92.7%, and the 95% prediction interval ranged from 0.3% to 43.3%. Individual study estimates ranged from 4.0% to 38.8%.\n\nAnatomically, greater exposure, especially involving the distal arch or descending aorta, was consistently associated with higher observed VFMI. Evidence for specific estimates involving exposure close to the left subclavian artery was limited. VFMI was also associated with pulmonary morbidity, airway intervention, and longer hospitalization.\n\nWhat should clinicians do today? The findings support laryngeal assessment when patients develop symptoms after thoracic aortic surgery. They do not establish that every patient or every procedure should undergo routine screening. A single pooled incidence is a poor guide to risk across procedures with different anatomical exposures.\n\nThe review’s strengths include its broad evidence base and explicit attention to anatomy and ascertainment. Its main limitations are reliance on observational evidence, variation in outcome definitions and testing, and restriction of the primary analysis to symptom-triggered cohorts. The next step is prospective, multicenter research with standardized assessment, comparing symptom-triggered evaluation with routine screening, particularly after high-risk distal arch and descending procedures. In summary, this is useful evidence for targeted clinical assessment, but it does not provide a precise universal incidence or justify a blanket change in screening policy.",
+      "mcq": [
+        {
+          "q_ar": "ما pooled observed incidence الذي أوردته الدراسة للتحليل الأساسي؟",
+          "q_en": "What pooled observed incidence did the primary analysis report?",
+          "options_ar": [
+            "أ) 4.0%",
+            "ب) 14.9%",
+            "ج) 21.5%",
+            "د) 43.3%"
+          ],
+          "options_en": [
+            "A) 4.0%",
+            "B) 14.9%",
+            "C) 21.5%",
+            "D) 43.3%"
+          ],
+          "answer": 1,
+          "explanation_ar": "بلغ pooled observed VFMI نحو 14.9%، مع heterogeneity مرتفع و95% prediction interval واسع.",
+          "explanation_en": "Pooled observed VFMI was approximately 14.9%, with substantial heterogeneity and a wide 95% prediction interval."
+        },
+        {
+          "q_ar": "أي نمط من التعرض التشريحي ارتبط باستمرار بزيادة VFMI المرصود؟",
+          "q_en": "Which anatomical exposure pattern was consistently associated with higher observed VFMI?",
+          "options_ar": [
+            "أ) التعرض المحدود إلى ascending aorta فقط",
+            "ب) distal arch أو descending exposure",
+            "ج) التعرض المعزول إلى abdominal aorta",
+            "د) لا توجد علاقة تشريحية مذكورة"
+          ],
+          "options_en": [
+            "A) Limited exposure to the ascending aorta only",
+            "B) Distal arch or descending exposure",
+            "C) Isolated exposure to the abdominal aorta",
+            "D) No anatomical association was reported"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتبط الامتداد التشريحي الأكبر، وخصوصًا distal arch أو descending exposure، بزيادة VFMI المرصود.",
+          "explanation_en": "Greater anatomical extent, particularly distal arch or descending exposure, was associated with higher observed VFMI."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن screening بعد thoracic aortic surgery؟",
+          "q_en": "What is the most appropriate conclusion about screening after thoracic aortic surgery?",
+          "options_ar": [
+            "أ) إجراء routine screening لكل مريض ثبتت فائدته",
+            "ب) لا حاجة إلى تقييم laryngeal حتى عند وجود أعراض",
+            "ج) دعم تقييم المرضى ذوي الأعراض، مع الحاجة لدراسة screening في مجموعات عالية الخطورة",
+            "د) pooled incidence يحدد الخطر بدقة لكل إجراء"
+          ],
+          "options_en": [
+            "A) Routine screening for every patient has proven benefit",
+            "B) Laryngeal assessment is unnecessary even when symptoms occur",
+            "C) Assess symptomatic patients and study screening in selected high-risk groups",
+            "D) The pooled incidence precisely defines risk for every procedure"
+          ],
+          "answer": 2,
+          "explanation_ar": "تدعم الدراسة التقييم الموجّه للمرضى ذوي الأعراض، لكنها لا تثبت فائدة routine screening الشامل؛ وتوصي بدراسة ذلك في إجراءات مختارة عالية الخطورة.",
+          "explanation_en": "The review supports targeted assessment of symptomatic patients but does not establish benefit from universal routine screening; screening in selected high-risk procedures needs evaluation."
+        }
+      ]
+    },
+    {
+      "pmid": "42958882",
+      "title_ar": "Retronasal olfactory recovery during biologic therapy for chronic rhinosinusitis with nasal polyps: a prospective longitudinal study with parallel orthonasal assessment.",
+      "title_en": "Retronasal olfactory recovery during biologic therapy for chronic rhinosinusitis with nasal polyps: a prospective longitudinal study with parallel orthonasal assessment.",
+      "journal": "Rhinology",
+      "pub_date": "2026-Oct-30",
+      "doi": "10.4193/Rhin26.216",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42958882/",
+      "pdf_url": null,
+      "study_design": "Prospective longitudinal cohort n=69",
+      "summary_ar": "قيّمت هذه الدراسة الاستباقية الطولية تعافي حاسة الشم عبر المسار retronasal وorthonasal لدى 69 بالغًا مصابين بـCRSwNP شديد وبدأوا علاجًا بـbiologic. شملت العلاجات dupilumab لدى 44 مريضًا وmepolizumab لدى 25، مع تقييم عند البداية وبعد 4 و12 و24 أسبوعًا. تحسنت جميع النتائج بمرور الوقت، وارتفع متوسط retronasal score من 7.2 إلى 10.4 خلال أول 4 أسابيع، بينما ارتفع TDI من 15.0 إلى 26.0 عند الأسبوع 24. أظهرت التحليلات تفاعلًا بين الزمن والعلاج في retronasal identification وTDI وSNOT-22 وNPS. ارتبط dupilumab بتحسن أكبر في retronasal function والأعراض مقارنةً بـmepolizumab، لكن تصميم الدراسة لا يثبت تفوقًا سببيًا بين العلاجين. تقترح النتائج أن قياس retronasal olfaction قد يكون مؤشرًا وظيفيًا مبكرًا للاستجابة، ويحتاج ذلك إلى تأكيد في دراسات مقارنة أكبر.",
+      "summary_en": "This prospective longitudinal study assessed retronasal and orthonasal olfaction in 69 adults with severe CRSwNP starting biologic therapy. The cohort included 44 patients receiving dupilumab and 25 receiving mepolizumab, assessed at baseline and weeks 4, 12, and 24. All measured outcomes improved over time. Mean retronasal score rose from 7.2 to 10.4 by week 4, while mean TDI increased from 15.0 to 26.0 by week 24. Significant time-by-treatment interactions were reported for retronasal identification, TDI, SNOT-22, and NPS. Dupilumab was associated with greater retronasal and symptom improvement than mepolizumab, but the study does not establish causal superiority. Retronasal testing may be an early functional response marker, pending confirmation in larger comparative studies.",
+      "practice_change_ar": "لا تغيّر هذه الدراسة اختيار العلاج حاليًا، لكنها تدعم النظر في قياس retronasal olfaction كأداة متابعة إضافية لدى مرضى CRSwNP الذين يتلقون biologic.",
+      "practice_change_en": "This study does not change treatment selection today, but supports considering retronasal olfaction testing as an additional monitoring measure for patients with CRSwNP receiving a biologic.",
+      "future_impact_ar": "إذا تأكدت النتائج في دراسات مقارنة أكبر، فقد يصبح اختبار retronasal olfaction مؤشرًا مبكرًا للاستجابة يساعد على تقييم أثر biologic.",
+      "future_impact_en": "If confirmed in larger comparative studies, retronasal olfaction testing could become an early response marker for assessing biologic effectiveness.",
+      "why_important_ar": "توضح الدراسة أن تعافي الشم عبر المسار retronasal قد يحدث بسرعة وبمسار زمني يختلف عن تحسن TDI.",
+      "why_important_en": "The study suggests retronasal olfactory recovery can occur rapidly and follow a different time course from improvement in TDI.",
+      "vs_previous_ar": "تضيف الدراسة متابعة طولية لقياس retronasal function بالتوازي مع orthonasal olfaction، وتقارن أنماط التعافي المرتبطة بـdupilumab وmepolizumab.",
+      "vs_previous_en": "The study adds longitudinal retronasal assessment alongside orthonasal testing and compares recovery patterns associated with dupilumab and mepolizumab.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة cohort استباقية جيدة التصميم نسبيًا شملت 69 مريضًا، وتضيف بيانات مفيدة عن retronasal olfaction وأنماط التعافي؛ لكن غياب التوزيع العشوائي والمقارنة السببية يجعلها غير كافية لتغيير الممارسة.",
+      "stars_reason_en": "This prospective cohort of 69 patients provides useful data on retronasal olfaction and recovery patterns, but the lack of randomization and causal comparison is insufficient to change practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion for its parallel longitudinal retronasal and orthonasal assessments and its comparison of biologic-associated recovery patterns, alongside important methodological limitations.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا بيانات dupilumab وmepolizumab في CRSwNP، خصوصًا الدراسات المقارنة التي تقيّم تعافي الشم عبر المسار retronasal.",
+      "watch_detail_en": "Track evidence on dupilumab and mepolizumab in CRSwNP, particularly comparative studies assessing retronasal olfactory recovery.",
+      "watch_type": "drug",
+      "research_gap_ar": "تلزم دراسات أكبر ذات مقارنة عشوائية أو مضبوطة لتحديد ما إذا كان اختلاف تحسن retronasal olfaction بين dupilumab وmepolizumab يعكس أثرًا علاجيًا حقيقيًا، ولتقييم قيمة الاختبار التنبؤية.",
+      "research_gap_en": "Larger randomized or controlled comparisons are needed to determine whether differences in retronasal recovery reflect a true treatment effect and to establish the test's predictive value.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم دراسة في Rhinology عن تعافي حاسة الشم لدى مرضى التهاب الجيوب الأنفية المزمن مع السلائل الأنفية، أو CRSwNP، أثناء تلقي العلاج البيولوجي. ركزت الدراسة على قياس قد لا يُستخدم روتينيًا في متابعة هؤلاء المرضى، وهو الشم عبر المسار retronasal، وقارنته بالشم orthonasal.\n\nشملت الدراسة الاستباقية الطولية 69 بالغًا مصابًا بمرض شديد؛ تلقى 44 منهم dupilumab، وتلقى 25 mepolizumab. جرى التقييم عند بدء العلاج، ثم في الأسابيع 4 و12 و24. قاس الباحثون الشم orthonasal باستخدام Sniffin' Sticks ودرجة TDI، والشم retronasal باستخدام اختبار تعرّف موثّق من 20 عنصرًا. كما تابعوا NPS وpeak nasal inspiratory flow وSNOT-22.\n\nكان الضعف الشمي واضحًا عند البداية، بمتوسط TDI قدره 15.0 ودرجة retronasal قدرها 7.2. تحسنت جميع النتائج بمرور الوقت. ومن النقاط اللافتة أن درجة retronasal ارتفعت إلى 10.4 خلال أربعة أسابيع، بينما واصل TDI التحسن تدريجيًا ليصل إلى 26.0 في الأسبوع 24. أظهرت التحليلات تفاعلًا بين الزمن ونوع العلاج في retronasal identification وTDI وSNOT-22 وNPS، مع ارتباط dupilumab بتحسن أكبر في retronasal function والأعراض مقارنةً بـmepolizumab.\n\nما أهمية ذلك؟ قد يكون اختبار retronasal وسيلة عملية لالتقاط تحسن وظيفي مبكر، وربما يضيف معلومات لا توفرها مقاييس الشم التقليدية وحدها. لكن هذه دراسة cohort وليست تجربة عشوائية، ولذلك لا يمكن اعتبار الفروق دليلًا قاطعًا على تفوق dupilumab؛ فقد تسهم عوامل اختيار العلاج أو الاختلافات بين المرضى في النتائج. كما أن المتابعة اقتصرت على 24 أسبوعًا.\n\nالخلاصة السريرية: الدراسة مفيدة لتوسيع فهمنا لمسارات تعافي الشم أثناء biologic therapy، لكنها لا تبرر تغيير اختيار العلاج أو اعتماد اختبار retronasal روتينيًا حتى الآن. نحتاج إلى دراسات أكبر ومقارنات مضبوطة لتأكيد الفروق، وتحديد ما إذا كان التحسن المبكر يتنبأ باستجابة طويلة الأمد. تستحق الدراسة المناقشة لأنها تطرح سؤالًا مهمًا عن كيفية قياس الاستجابة الوظيفية لدى مرضى CRSwNP.",
+      "audio_script_en": "Today we review a Rhinology study of olfactory recovery during biologic therapy for chronic rhinosinusitis with nasal polyps, or CRSwNP. The investigators focused on retronasal olfaction, a less commonly followed measure, and assessed it alongside orthonasal smell.\n\nThis prospective longitudinal cohort included 69 adults with severe disease: 44 received dupilumab and 25 received mepolizumab. Assessments took place at baseline and at weeks 4, 12, and 24. Orthonasal smell was measured with Sniffin' Sticks and the TDI score; retronasal function was measured using a validated 20-item identification test. The team also evaluated NPS, peak nasal inspiratory flow, and SNOT-22.\n\nOlfactory impairment was substantial at baseline, with a mean TDI of 15.0 and retronasal score of 7.2. All outcomes improved over time. A notable finding was the early rise in retronasal score, from 7.2 to 10.4 by week 4, while TDI improved progressively to 26.0 at week 24. The analysis found time-by-treatment interactions for retronasal identification, TDI, SNOT-22, and NPS. Dupilumab was associated with greater improvements in retronasal function and symptoms than mepolizumab.\n\nWhy does this matter? Retronasal testing may capture early functional improvement and could provide information beyond conventional orthonasal testing. However, this was a cohort study, not a randomized trial. The observed treatment differences do not prove that dupilumab is causally superior; treatment selection and patient differences could have influenced the results. Follow-up was also limited to 24 weeks.\n\nThe clinical takeaway is that this study expands our understanding of olfactory recovery during biologic therapy, but it does not justify changing biologic selection or routinely adopting retronasal testing today. Larger controlled comparisons are needed to confirm the treatment-associated differences and determine whether early retronasal improvement predicts longer-term response. It is a worthwhile journal-club paper because it raises an important question about how we measure functional response in CRSwNP.",
+      "mcq": [
+        {
+          "q_ar": "ما التغير المبكر الذي لوحظ في retronasal score بعد بدء biologic therapy؟",
+          "q_en": "What early change was observed in retronasal score after starting biologic therapy?",
+          "options_ar": [
+            "أ) انخفض من 10.4 إلى 7.2 خلال 4 أسابيع",
+            "ب) ارتفع من 7.2 إلى 10.4 خلال 4 أسابيع",
+            "ج) بقي ثابتًا حتى الأسبوع 24",
+            "د) ارتفع من 15.0 إلى 26.0 خلال 4 أسابيع"
+          ],
+          "options_en": [
+            "A) It fell from 10.4 to 7.2 by week 4",
+            "B) It rose from 7.2 to 10.4 by week 4",
+            "C) It remained unchanged through week 24",
+            "D) It rose from 15.0 to 26.0 by week 4"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتفع متوسط retronasal score من 7.2 عند البداية إلى 10.4 خلال أول أربعة أسابيع.",
+          "explanation_en": "Mean retronasal score increased from 7.2 at baseline to 10.4 within the first four weeks."
+        },
+        {
+          "q_ar": "أي علاج ارتبط بتحسن أكبر في retronasal function والأعراض في هذه الدراسة؟",
+          "q_en": "Which treatment was associated with greater improvement in retronasal function and symptoms in this study?",
+          "options_ar": [
+            "أ) mepolizumab",
+            "ب) dupilumab",
+            "ج) لم يظهر اختلاف بين العلاجين",
+            "د) لم يتلق المشاركون biologic therapy"
+          ],
+          "options_en": [
+            "A) mepolizumab",
+            "B) dupilumab",
+            "C) No difference between the treatments was reported",
+            "D) Participants did not receive biologic therapy"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتبط dupilumab بتحسن أكبر في retronasal function والأعراض مقارنةً بـmepolizumab، لكن تصميم الدراسة لا يثبت تفوقًا سببيًا.",
+          "explanation_en": "Dupilumab was associated with greater retronasal and symptom improvement than mepolizumab, but the study design does not prove causal superiority."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن تطبيق نتائج الدراسة في الممارسة؟",
+          "q_en": "What is the most appropriate conclusion about applying the study findings in practice?",
+          "options_ar": [
+            "أ) تثبت الدراسة وجوب اختيار dupilumab لكل مريض",
+            "ب) يمكن اعتبار retronasal testing أداة محتملة للمتابعة، لكن يلزم تأكيد فائدتها",
+            "ج) لم تتحسن أي نتيجة سريرية بمرور الوقت",
+            "د) تثبت الدراسة أن TDI لا فائدة منه"
+          ],
+          "options_en": [
+            "A) The study proves dupilumab should be selected for every patient",
+            "B) Retronasal testing may be a monitoring tool, but its value needs confirmation",
+            "C) No clinical outcomes improved over time",
+            "D) The study proves TDI is not useful"
+          ],
+          "answer": 1,
+          "explanation_ar": "تشير النتائج إلى احتمال فائدة retronasal testing كقياس مبكر، لكن الدراسة الرصدية لا تكفي لتغيير اختيار العلاج أو اعتماد الاختبار روتينيًا.",
+          "explanation_en": "The findings suggest potential value for early retronasal monitoring, but this observational study is insufficient to change treatment selection or establish routine testing."
+        }
+      ]
+    },
+    {
+      "pmid": "42955309",
+      "title_ar": "Artificial Intelligence in Facelift Surgery: A Systematic Review of Objective Outcome Assessment and Patient-Perceived Rejuvenation.",
+      "title_en": "Artificial Intelligence in Facelift Surgery: A Systematic Review of Objective Outcome Assessment and Patient-Perceived Rejuvenation.",
+      "journal": "Aesthetic plastic surgery",
+      "pub_date": "2026-Oct-28",
+      "doi": "10.1007/s00266-026-06392-z",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42955309/",
+      "pdf_url": null,
+      "study_design": "Systematic review of 9 studies",
+      "summary_ar": "راجعت هذه الدراسة systematic review تسع دراسات منشورة بين 2020 و2025 حول استخدام AI لتقييم نتائج facelift surgery. استخدمت الدراسات convolutional neural networks لتقدير التغير في العمر الظاهري بعد الجراحة، وقد تراوح الانخفاض المقدّر بين 1.7 و5.8 سنوات بحسب التقنية ومدة المتابعة. كانت تقديرات AI أقل من rejuvenation الذي أفاد به المرضى بنحو 35% إلى 50%. أظهرت تقنيات SMAS-based انخفاضًا أكبر في العمر المقدّر بواسطة AI مقارنة بإجراءات skin-only. حققت LLMs دقة تشخيصية من 85% إلى 88% في patient counseling، لكنها تجاوزت مستويات readability الموصى بها. خلص المؤلفون إلى أن AI قد يضيف قياسًا موضوعيًا، لكنه لا يعوّض patient-reported outcome measures، مع ضرورة الحذر بسبب محدودية الأدلة وتباينها.",
+      "summary_en": "This systematic review assessed nine studies published from 2020 to 2025 on AI applications in facelift surgery. Convolutional neural networks estimated postoperative age reductions of 1.7–5.8 years, varying by technique and follow-up. AI estimates were approximately 35%–50% lower than rejuvenation reported by patients. SMAS-based techniques showed greater AI-measured age reduction than skin-only procedures. LLMs achieved 85%–88% diagnostic accuracy for patient counseling but exceeded recommended readability levels. The authors conclude that AI may complement objective outcome assessment but should not replace validated patient-reported outcome measures. Findings are preliminary given the small, heterogeneous evidence base.",
+      "practice_change_ar": "لا تبرر النتائج تغيير الممارسة حاليًا؛ ينبغي استخدام AI، إن استُخدم، كأداة مساعدة إلى جانب patient-reported outcome measures وليس بديلًا عنها.",
+      "practice_change_en": "These findings do not justify a practice change today; if used, AI should complement rather than replace patient-reported outcome measures.",
+      "future_impact_ar": "قد تساعد أدوات AI مستقبلًا في توحيد قياس نتائج facelift surgery وتحسين counseling، إذا جرى التحقق منها في دراسات أكبر وأكثر تنوعًا.",
+      "future_impact_en": "AI tools may eventually standardize facelift outcome assessment and improve counseling if validated in larger, more diverse studies.",
+      "why_important_ar": "توضح الدراسة أن القياس الآلي للتحسن بعد facelift surgery قد لا يعكس مقدار التحسن الذي يشعر به المرضى.",
+      "why_important_en": "The review highlights that automated measurements of facelift outcomes may not reflect the degree of improvement patients perceive.",
+      "vs_previous_ar": "تجمع هذه المراجعة أدلة حديثة على AI في facelift surgery وتبرز فجوة بين تقدير العمر الآلي وتجربة المرضى، بدل الاعتماد على القياس الموضوعي وحده.",
+      "vs_previous_en": "This review synthesizes emerging evidence on AI in facelift surgery and emphasizes the gap between automated age estimates and patient experience rather than relying on objective measurements alone.",
+      "stars": 3,
+      "stars_reason_ar": "مراجعة systematic review ذات تصميم قوي مبدئيًا، لكنها تشمل تسع دراسات متباينة فقط ولا تغيّر الممارسة حاليًا؛ لذا تقدم معرفة مفيدة لا دليلًا حاسمًا.",
+      "stars_reason_en": "A systematic review has a strong design baseline, but it includes only nine heterogeneous studies and does not change current practice; it offers useful rather than definitive evidence.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it identifies a meaningful mismatch between AI metrics and patient assessments and raises questions about outcome validity and the readability of counseling materials.",
+      "watch": true,
+      "watch_detail_ar": "راقبوا أدوات AI، بما فيها convolutional neural networks وLLMs، مع الحاجة إلى التحقق السريري وتحسين ملاءمة مخرجاتها للمرضى.",
+      "watch_detail_en": "Track AI tools, including convolutional neural networks and LLMs, while awaiting clinical validation and improved patient-facing readability.",
+      "watch_type": "technology",
+      "research_gap_ar": "تلزم دراسات مستقبلية أكبر ومتعددة المراكز تربط مقاييس AI بنتائج patient-reported outcome measures وبمتابعة طويلة الأمد.",
+      "research_gap_en": "Larger multicenter studies are needed to correlate AI metrics with patient-reported outcome measures and long-term follow-up.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نستعرض اليوم مراجعة systematic review حول استخدام Artificial Intelligence في تقييم نتائج facelift surgery. ضمّت المراجعة تسع دراسات نُشرت بين عامي 2020 و2025، ودرست بالأساس neural network-based age estimation، ومدى توافق هذه التقديرات مع إحساس المرضى بالتجدد، إضافة إلى استخدام large language models في patient counseling.\n\nقدّرت convolutional neural networks انخفاض العمر الظاهري بعد الجراحة بنحو 1.7 إلى 5.8 سنوات، بحسب التقنية الجراحية ومدة المتابعة. لكن تقديرات AI كانت أقل من مقدار التحسن الذي أبلغ عنه المرضى بنحو 35% إلى 50%. كما أظهرت تقنيات SMAS-based انخفاضًا أكبر في العمر المقدّر آليًا مقارنة بإجراءات skin-only. وفي counseling، حققت LLMs دقة بلغت 85% إلى 88%، لكنها أنتجت محتوى يتجاوز مستويات readability الموصى بها، ما قد يحد من فهم المرضى للمعلومات.\n\nما الذي يعنيه ذلك للممارسة؟ لا تدعم هذه النتائج استبدال تقييم المريض أو patient-reported outcome measures بخوارزمية. يمكن أن تكون أدوات AI إضافة موضوعية، لكنها لا تقيس بالضرورة ما يراه المريض أو يشعر به، كما لا ينبغي تفسير تقدير العمر على أنه مقياس كامل لنجاح العملية. تظل الأدلة أولية، إذ اقتصرت المراجعة على تسع دراسات متفاوتة، ولذلك فالثقة متوسطة والنتيجة مفيدة للمعرفة أكثر من كونها ممارسة مغيرة.\n\nتستحق الدراسة النقاش في journal club لأنها تثير أسئلة حول تعريف النجاح الجراحي والتحيز المحتمل في الخوارزميات، وكذلك كيفية جعل counseling المدعوم بـLLM واضحًا ومناسبًا للمريض. وتتمثل الفجوة البحثية في الحاجة إلى دراسات أكبر ومتعددة المراكز تقارن مقاييس AI مباشرةً بنتائج المرضى وتتابعهم على المدى الطويل. الخلاصة: تابعوا تطور هذه التقنيات، لكن استخدموها بحذر وبصورة مكملة للتقييم السريري وتجربة المريض.",
+      "audio_script_en": "Today we review a systematic review of Artificial Intelligence applications in facelift surgery. It included nine studies published between 2020 and 2025, examining neural network-based age estimation, agreement with patients’ perceived rejuvenation, and large language model support for patient counseling.\n\nConvolutional neural networks estimated postoperative age reductions of approximately 1.7 to 5.8 years, depending on surgical technique and follow-up. However, AI estimates were about 35% to 50% lower than the rejuvenation reported by patients. SMAS-based techniques showed greater AI-measured age reduction than skin-only procedures. For counseling, LLMs achieved 85% to 88% diagnostic accuracy, but their material exceeded recommended readability standards, potentially limiting patient comprehension.\n\nWhat does this mean for practice? The findings do not support replacing patient assessment or validated patient-reported outcome measures with an algorithm. AI may provide an additional objective measure, but it does not necessarily capture what patients see or feel, and estimated age reduction should not be treated as a complete measure of surgical success. The evidence remains preliminary: only nine heterogeneous studies were included. This is useful evidence to know about, but it is not practice-changing.\n\nThe review merits journal club discussion because it raises questions about how surgical success is defined, potential algorithmic bias, and how LLM-supported counseling can be made clear and appropriate for patients. Larger multicenter studies are needed to compare AI metrics directly with patient-reported outcomes and assess longer-term results. The bottom line is to track these technologies, but use them cautiously and as supplements to clinical assessment and the patient’s own experience.",
+      "mcq": [
+        {
+          "q_ar": "ما مقدار انخفاض العمر الظاهري بعد facelift surgery الذي قدّرته convolutional neural networks؟",
+          "q_en": "What postoperative apparent-age reduction did convolutional neural networks estimate?",
+          "options_ar": [
+            "أ) 0.1 إلى 0.5 سنة",
+            "ب) 1.7 إلى 5.8 سنوات",
+            "ج) 6 إلى 10 سنوات",
+            "د) أكثر من 10 سنوات"
+          ],
+          "options_en": [
+            "A) 0.1–0.5 years",
+            "B) 1.7–5.8 years",
+            "C) 6–10 years",
+            "D) More than 10 years"
+          ],
+          "answer": 1,
+          "explanation_ar": "قدّرت convolutional neural networks انخفاضًا يتراوح بين 1.7 و5.8 سنوات، مع اختلاف النتائج بحسب التقنية ومدة المتابعة.",
+          "explanation_en": "Convolutional neural networks estimated reductions of 1.7–5.8 years, with variation by technique and follow-up."
+        },
+        {
+          "q_ar": "كيف قارنت تقديرات AI للتحسن بتجربة المرضى؟",
+          "q_en": "How did AI estimates compare with patients’ perceived improvement?",
+          "options_ar": [
+            "أ) بالغت في تقدير التحسن بنحو 35% إلى 50%",
+            "ب) قللت تقدير التحسن بنحو 35% إلى 50%",
+            "ج) تطابقت تمامًا مع تقييم المرضى",
+            "د) لم تتضمن الدراسات مقارنة بتقييم المرضى"
+          ],
+          "options_en": [
+            "A) They overestimated improvement by about 35%–50%",
+            "B) They underestimated improvement by about 35%–50%",
+            "C) They matched patient assessments exactly",
+            "D) The studies did not compare them with patient assessments"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت تقديرات AI أقل من rejuvenation الذي أفاد به المرضى بنحو 35% إلى 50%.",
+          "explanation_en": "AI estimates were approximately 35%–50% lower than the rejuvenation reported by patients."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن استخدام AI في تقييم نتائج facelift surgery حاليًا؟",
+          "q_en": "What is the most appropriate conclusion about using AI to assess facelift outcomes today?",
+          "options_ar": [
+            "أ) استبدال patient-reported outcome measures بالكامل",
+            "ب) اعتماد تقدير العمر بوصفه المقياس الوحيد للنجاح",
+            "ج) استخدامه أداة مساعدة إلى جانب patient-reported outcome measures",
+            "د) إيقاف استخدام جميع أدوات AI في البحث"
+          ],
+          "options_en": [
+            "A) Replace patient-reported outcome measures entirely",
+            "B) Use age estimation as the sole measure of success",
+            "C) Use it as an adjunct to patient-reported outcome measures",
+            "D) Discontinue all AI tools in research"
+          ],
+          "answer": 2,
+          "explanation_ar": "توصي المراجعة بأن يكون AI أداة مساعدة، لا بديلًا عن patient-reported outcome measures، نظرًا لعدم التوافق بين المقاييس الآلية وإدراك المرضى.",
+          "explanation_en": "The review recommends AI as an adjunct, not a replacement for patient-reported outcome measures, given the mismatch between automated metrics and patient perception."
+        }
+      ]
+    },
+    {
+      "pmid": "42951365",
+      "title_ar": "Outcomes of the Paramedian Forehead Flap for Nasal Reconstruction: Systematic Review and Meta-Analysis.",
+      "title_en": "Outcomes of the Paramedian Forehead Flap for Nasal Reconstruction: Systematic Review and Meta-Analysis.",
+      "journal": "The Laryngoscope",
+      "pub_date": "2026-Oct-28",
+      "doi": "10.1002/lary.71018",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42951365/",
+      "pdf_url": "https://doi.org/10.1002/lary.71018",
+      "study_design": "Systematic review and meta-analysis of 69 observational studies (n=4100)",
+      "summary_ar": "جمعت هذه systematic review وmeta-analysis بيانات 69 دراسة رصدية شملت 4100 مريض خضعوا لـparamedian forehead flap لإعادة بناء الأنف. كان basal cell carcinoma السبب الأكثر شيوعًا، وشكلت full-thickness defects أكثر من نصف الحالات، بينما كان الإجراء ذو المرحلتين هو الأكثر استخدامًا. كانت المضاعفات نادرة عمومًا، وأكثرها شيوعًا scar retraction بنسبة 6.6%، وbleeding بنسبة 6.2%، وvenous congestion بنسبة 6.1%. لم يختلف flap survival باختلاف عدد المراحل أو indication أو perforator localization. ارتبطت عمليات single-stage بمعدل venous congestion أعلى من عمليات المرحلتين أو الثلاث مراحل. كما ارتبط استخدام cartilage graft بانخفاض complete flap survival بنسبة 3.4%، لكن هذا الارتباط لا يثبت السببية.",
+      "summary_en": "This systematic review and meta-analysis included 69 observational studies and 4,100 patients undergoing paramedian forehead flap nasal reconstruction.\nBasal cell carcinoma was the most common indication, and full-thickness defects accounted for more than half of reconstructions.\nTwo-stage reconstruction was the most frequently used approach.\nComplications were generally uncommon; scar retraction, bleeding, and venous congestion were the most frequent.\nFlap survival did not differ by stage number, indication, or perforator localization.\nVenous congestion was more frequent with single-stage reconstruction, and cartilage grafting was associated with a 3.4% reduction in complete flap survival.",
+      "practice_change_ar": "لا تدعم النتائج تغييرًا فوريًا في اختيار عدد المراحل، لكنها تتيح مناقشة احتمال venous congestion الأعلى مع single-stage reconstruction عند تقديم المشورة للمرضى.",
+      "practice_change_en": "The findings do not mandate an immediate change in stage selection, but support counseling patients that venous congestion may be more frequent after single-stage reconstruction.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية مضبوطة على تحديد ما إذا كان ارتباط cartilage graft بانخفاض complete flap survival يعكس أثرًا سببيًا أم اختلافًا في تعقيد الحالات.",
+      "future_impact_en": "Future controlled studies may clarify whether the association between cartilage grafting and lower complete flap survival is causal or reflects differences in defect complexity.",
+      "why_important_ar": "توفر هذه الدراسة أكبر تجميع كمي مذكور لنتائج paramedian forehead flap، وتعرض معدلات المضاعفات والنتائج وفق تقنيات إعادة البناء.",
+      "why_important_en": "This study provides the largest reported quantitative synthesis of paramedian forehead flap outcomes, detailing complication rates and reconstructive patterns.",
+      "vs_previous_ar": "تضيف الدراسة مقارنة كمية بين تقنيات reconstruction المختلفة، بما فيها عدد المراحل، بدل الاعتماد على سلاسل الحالات الفردية والتقارير المتفرقة.",
+      "vs_previous_en": "The review adds quantitative comparisons across reconstructive approaches, including stage number, beyond the scattered case series and individual reports.",
+      "stars": 4,
+      "stars_reason_ar": "تحليل تلوي قوي للتصميم شمل 69 دراسة و4100 مريض، ونُشر في The Laryngoscope؛ يقدم بيانات مفيدة عن المضاعفات لكنه لا يثبت تفوق تقنية ولا يغير الممارسة بوضوح.",
+      "stars_reason_en": "A strong meta-analysis of 69 studies and 4,100 patients published in The Laryngoscope; it provides useful complication data but does not establish a superior technique or clearly change practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسب للنقاش لأنه يجمع قاعدة كبيرة من الأدلة حول reconstruction شائع، مع نتائج قد تؤثر في counseling واختيار التقنية، رغم محدودية الدراسات الرصدية.",
+      "jc_reason_en": "Suitable for journal club because it synthesizes a large evidence base on a common reconstruction and reports findings relevant to counseling and technique selection, while highlighting limitations of observational evidence.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج الأدلة إلى دراسات مستقبلية موحدة تسجل تعقيد defect واستخدام cartilage graft ونتائج flap بصورة متسقة، لتقليل confounding في المقارنات بين التقنيات.",
+      "research_gap_en": "Future studies should consistently document defect complexity, cartilage graft use, and flap outcomes to reduce confounding in comparisons between techniques.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نستعرض اليوم دراسة بعنوان Outcomes of the Paramedian Forehead Flap for Nasal Reconstruction: Systematic Review and Meta-Analysis، نُشرت في The Laryngoscope. إنها systematic review وmeta-analysis لـ69 دراسة رصدية ضمت 4100 مريض خضعوا لـparamedian forehead flap لإعادة بناء الأنف، مع متابعة متوسطة تقارب 20 شهرًا.\n\nكان متوسط عمر المرضى نحو 59 عامًا، وكان basal cell carcinoma أكثر indications شيوعًا، تلاه trauma. وشكلت full-thickness defects نحو 55% من الحالات. كان reconstruction على مرحلتين هو النهج الأكثر استخدامًا، بنسبة تقارب 68%، مقارنة بنحو 19% للنهج ذي الثلاث مراحل، وقرابة 6% للنهج ذي المرحلة الواحدة.\n\nكانت المضاعفات غير شائعة إجمالًا. شملت الأكثر تكرارًا scar retraction بنسبة 6.6%، وbleeding بنسبة 6.2%، وvenous congestion بنسبة 6.1%. لم يجد التحليل اختلافًا في flap survival بحسب عدد المراحل أو indication أو perforator localization. لكن venous congestion كان أكثر شيوعًا بعد single-stage reconstruction مقارنة بالنهج ذي المرحلتين أو الثلاث مراحل. كما ارتبط استخدام cartilage graft بانخفاض complete flap survival بنسبة 3.4%؛ وهذه نتيجة ارتباطية ولا تثبت أن graft هو السبب.\n\nما أهمية ذلك عمليًا؟ تدعم النتائج موثوقية paramedian forehead flap مع معدلات مضاعفات منخفضة، وتوفر أرقامًا مفيدة لتقديم المشورة. لكنها لا تبرر وحدها تغيير اختيار عدد المراحل أو تفضيل تقنية على أخرى؛ فالبيانات مستمدة من دراسات رصدية وقد تتأثر بتعقيد defects واختيار الحالات. ومن ثم، فالثقة متوسطة، والتقييم أربع نجوم: مراجعة كمية كبيرة ومهمة سريريًا، لكنها لا تغير الممارسة بوضوح اليوم.\n\nللبحث المستقبلي، نحتاج دراسات موحدة تسجل تفاصيل defect وcartilage graft ونتائج flap، وتضبط الفروق بين الحالات. الخلاصة: الدراسة مرجع مفيد لمناقشة المخاطر والنتائج مع المرضى، مع الانتباه إلى أن المقارنات لا تثبت السببية.",
+      "audio_script_en": "Today we are reviewing “Outcomes of the Paramedian Forehead Flap for Nasal Reconstruction: Systematic Review and Meta-Analysis,” published in The Laryngoscope. This systematic review and meta-analysis included 69 observational studies and 4,100 patients who underwent paramedian forehead flap nasal reconstruction. Mean follow-up was approximately 20 months.\n\nThe average patient age was about 59 years. Basal cell carcinoma was the most common indication, followed by trauma, and full-thickness defects made up approximately 55% of reconstructions. Two-stage reconstruction predominated, accounting for about 68% of procedures; three-stage approaches accounted for around 19%, while single-stage procedures accounted for roughly 6%.\n\nComplications were uncommon overall. The most frequently reported were scar retraction at 6.6%, bleeding at 6.2%, and venous congestion at 6.1%. Flap survival did not differ by stage number, indication, or perforator localization. Venous congestion, however, was more frequent following single-stage reconstruction than following two- or three-stage procedures. Cartilage grafting was associated with a 3.4% reduction in complete flap survival. Because the evidence is observational, this association does not demonstrate that grafting causes reduced survival.\n\nWhat does this mean for practice? The results support the reliability of the paramedian forehead flap and provide useful figures for patient counseling. They do not, by themselves, justify changing stage selection or favoring one approach: the included studies were observational, and comparisons may be affected by defect complexity and case selection. We rate this four stars, with medium confidence: it is a large and clinically useful synthesis, but it does not clearly change practice today.\n\nFuture research should use consistent reporting of defect characteristics, cartilage graft use, and flap outcomes, while adjusting for differences between patients. In summary, this review is a useful resource for discussing expected outcomes and complications, with appropriate caution about causal interpretation.",
+      "mcq": [
+        {
+          "q_ar": "ما أكثر indication شيوعًا لإجراء paramedian forehead flap في هذه المراجعة؟",
+          "q_en": "What was the most common indication for paramedian forehead flap reconstruction in this review?",
+          "options_ar": [
+            "أ) trauma",
+            "ب) basal cell carcinoma",
+            "ج) melanoma",
+            "د) congenital nasal defect"
+          ],
+          "options_en": [
+            "A) Trauma",
+            "B) Basal cell carcinoma",
+            "C) Melanoma",
+            "D) Congenital nasal defect"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان basal cell carcinoma أكثر indications شيوعًا، بنسبة 64.9%.",
+          "explanation_en": "Basal cell carcinoma was the most common indication, accounting for 64.9%."
+        },
+        {
+          "q_ar": "أي مضاعفة ظهرت بمعدل أعلى بعد single-stage reconstruction مقارنة بالنهج ذي المرحلتين والثلاث مراحل؟",
+          "q_en": "Which complication was more frequent after single-stage reconstruction than after two- or three-stage procedures?",
+          "options_ar": [
+            "أ) scar retraction",
+            "ب) bleeding",
+            "ج) venous congestion",
+            "د) complete flap loss"
+          ],
+          "options_en": [
+            "A) Scar retraction",
+            "B) Bleeding",
+            "C) Venous congestion",
+            "D) Complete flap loss"
+          ],
+          "answer": 2,
+          "explanation_ar": "كان venous congestion أكثر شيوعًا مع single-stage reconstruction، مع عدم إثبات هذه المقارنة للسببية.",
+          "explanation_en": "Venous congestion was more frequent after single-stage reconstruction; the observational comparison does not establish causality."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن ارتباط cartilage graft بنتائج flap survival؟",
+          "q_en": "Which is the most appropriate interpretation of the association between cartilage grafting and flap survival?",
+          "options_ar": [
+            "أ) ثبت أن cartilage graft يسبب complete flap loss",
+            "ب) ارتبط cartilage graft بانخفاض complete flap survival بنسبة 3.4%، دون إثبات السببية",
+            "ج) أدى cartilage graft إلى زيادة flap survival بنسبة 3.4%",
+            "د) لم تذكر الدراسة أي نتيجة تتعلق بـcartilage graft"
+          ],
+          "options_en": [
+            "A) Cartilage grafting was proven to cause complete flap loss",
+            "B) Cartilage grafting was associated with a 3.4% reduction in complete flap survival, without proof of causality",
+            "C) Cartilage grafting increased flap survival by 3.4%",
+            "D) The study reported no finding related to cartilage grafting"
+          ],
+          "answer": 1,
+          "explanation_ar": "أفاد التحليل بارتباط cartilage graft بانخفاض complete flap survival بنسبة 3.4%، لكن طبيعة الدراسات الرصدية لا تسمح باستنتاج السببية.",
+          "explanation_en": "The analysis reported an association with a 3.4% reduction in complete flap survival, but observational evidence cannot establish causality."
+        }
+      ]
+    },
+    {
+      "pmid": "42954272",
+      "title_ar": "Malignant Transformation Rates of Vocal Fold Leukoplakia Stratified by Dysplasia Grade: A Systematic Review and Meta-Analysis.",
+      "title_en": "Malignant Transformation Rates of Vocal Fold Leukoplakia Stratified by Dysplasia Grade: A Systematic Review and Meta-Analysis.",
+      "journal": "Clinical otolaryngology : official journal of ENT-UK ; official journal of Netherlands Society for Oto-Rhino-Laryngology & Cervico-Facial Surgery",
+      "pub_date": "2026-Oct-29",
+      "doi": "10.1111/coa.70186",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42954272/",
+      "pdf_url": null,
+      "study_design": "Systematic review and meta-analysis of 30 studies; meta-analysis of 17 studies",
+      "summary_ar": "هدفت هذه systematic review وmeta-analysis إلى تقدير معدلات malignant transformation لدى مرضى vocal fold leukoplakia بحسب درجة dysplasia. شملت المراجعة 30 دراسة و3714 مريضًا لديهم dysplastic lesions، واستخدمت 17 دراسة في التحليل الكمي. وفق WHO 2005، بلغ معدل التحول الخبيث 7.3% في mild dysplasia، و19.2% في moderate dysplasia، و29.4% في severe dysplasia أو carcinoma in situ. كانت مخاطر التحول أعلى في severe مقارنةً بـ mild وmoderate، كما كانت أعلى في moderate مقارنةً بـ mild. ووفق WHO 2017، كان خطر التحول في high-grade أعلى من low-grade، لكن النظام ذي الفئتين قد لا يُظهر بشكل منفصل مستوى الخطر الخاص بـ moderate dysplasia. تدعم النتائج زيادة شدة المتابعة مع ارتفاع درجة dysplasia، مع الحاجة إلى توحيد فترات المتابعة وتحسين الإبلاغ عن البيانات.",
+      "summary_en": "This systematic review and meta-analysis assessed malignant transformation rates in vocal fold leukoplakia by dysplasia grade.\nIt included 30 studies and 3,714 patients with dysplastic lesions; 17 studies contributed to the meta-analysis.\nUnder WHO 2005, transformation rates were 7.3% for mild, 19.2% for moderate, and 29.4% for severe dysplasia or carcinoma in situ.\nTransformation risk increased significantly with each higher grade in the three-tier system.\nUnder WHO 2017, high-grade dysplasia had greater risk than low-grade dysplasia, although the two-tier approach may obscure the distinct risk associated with moderate dysplasia.\nThe findings support closer surveillance for higher-grade lesions, while standardized follow-up and reporting are needed.",
+      "practice_change_ar": "ينبغي استخدام درجة dysplasia لتوجيه شدة المتابعة، مع الانتباه إلى أن moderate dysplasia تحمل خطرًا مهمًا حتى عند تصنيفها ضمن نظام WHO 2017.",
+      "practice_change_en": "Use dysplasia grade to guide surveillance intensity, recognizing that moderate dysplasia carries meaningful risk even within the WHO 2017 two-tier system.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية ذات فترات متابعة وتعريفات موحدة على تحديد جداول متابعة أدق وتوضيح أثر ضبط عوامل الخطورة.",
+      "future_impact_en": "Future studies with standardized follow-up and reporting may refine surveillance schedules and clarify the impact of risk-factor control.",
+      "why_important_ar": "تقدم هذه المراجعة تقديرات مجمعة لمخاطر malignant transformation بحسب درجة dysplasia، وهي معلومات مهمة لتقدير المتابعة لدى مرضى vocal fold leukoplakia.",
+      "why_important_en": "This review provides pooled estimates of malignant transformation by dysplasia grade, informing surveillance discussions for vocal fold leukoplakia.",
+      "vs_previous_ar": "تضيف المراجعة تقديرات كمية مجمعة وتقارن WHO 2005 ذي الفئات الثلاث بـ WHO 2017 ذي الفئتين، مع إبراز احتمال ضياع معلومات خطر moderate dysplasia.",
+      "vs_previous_en": "The review adds pooled risk estimates and compares the WHO 2005 three-tier system with WHO 2017, highlighting that the latter may obscure the risk profile of moderate dysplasia.",
+      "stars": 4,
+      "stars_reason_ar": "هذه systematic review وmeta-analysis قوية التصميم، وتقدم تقديرات مفيدة سريريًا بحسب درجة dysplasia؛ لكنها لا تثبت أن تغيير المتابعة يحسن النتائج، لذا لا تُعد ممارسةً مغيرة مباشرة.",
+      "stars_reason_en": "This systematic review and meta-analysis offers clinically useful grade-specific risk estimates, but does not establish that changing surveillance improves outcomes, so it is not directly practice-changing.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسبة لنقاش journal club لأنها تقارن أنظمة تصنيف dysplasia وتعرض مخاطر مجمعة قد تؤثر في تقدير المتابعة، مع أهمية مناقشة اختلاف الدراسات وجودة البيانات.",
+      "jc_reason_en": "Suitable for journal club because it compares dysplasia grading systems and reports pooled risks relevant to surveillance, while prompting discussion of study heterogeneity and data quality.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى دراسات مستقبلية تستخدم تعريفات موحدة لدرجات dysplasia، وفترات متابعة محددة، وإبلاغًا متسقًا عن malignant transformation وضبط عوامل الخطورة.",
+      "research_gap_en": "Future studies should standardize dysplasia definitions, follow-up intervals, malignant transformation reporting, and assessment of risk-factor control.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نراجع اليوم systematic review وmeta-analysis عن خطر malignant transformation لدى مرضى vocal fold leukoplakia بحسب درجة dysplasia. ضمت المراجعة 30 دراسة و3714 مريضًا لديهم dysplastic lesions، بينما ساهمت 17 دراسة في التحليل الكمي. معظم الدراسات استخدمت WHO 2005، مع بيانات أقل وفق WHO 2017.\n\nفي تصنيف WHO 2005، بلغ معدل التحول الخبيث 7.3% لدى mild dysplasia، و19.2% لدى moderate dysplasia، و29.4% لدى severe dysplasia أو carcinoma in situ. وكانت الفروق بين الدرجات ذات دلالة إحصائية: خطر severe أعلى من mild، وأعلى أيضًا من moderate، كما تجاوز خطر moderate خطر mild. أما في WHO 2017، فكان خطر high-grade أعلى من low-grade.\n\nالنقطة العملية هي أن خطر malignant transformation يزداد مع ارتفاع درجة dysplasia، ما يدعم متابعة أكثر كثافة للدرجات الأعلى. لكن التصنيف ذي الفئتين قد لا يُظهر بوضوح أن moderate dysplasia لها مستوى خطر مستقل ومهم. لذلك لا ينبغي افتراض أن إدراجها ضمن high-grade يلغي الحاجة إلى تقديرها سريريًا.\n\nهذه النتائج مفيدة لتوجيه نقاش المتابعة، لكنها لا تحدد جدولًا زمنيًا موحدًا ولا تثبت أن تغيير المتابعة بحد ذاته يحسن النتائج. كذلك، فإن اختلاف الدراسات ومحدودية استخدام تصنيف WHO 2017 يحدان من اليقين. تدعو المراجعة إلى توحيد فترات المتابعة، وطريقة الإبلاغ عن التحول الخبيث، وتقييم أثر ضبط عوامل الخطورة. الخلاصة: grade مهم في تقدير الخطر، وmoderate dysplasia تستحق الانتباه، لكن القرارات الفردية تحتاج إلى سياق سريري ومتابعة مناسبة.",
+      "audio_script_en": "Today’s review examines malignant transformation in vocal fold leukoplakia according to dysplasia grade. This systematic review and meta-analysis included 30 studies and 3,714 patients with dysplastic lesions, with 17 studies contributing to the quantitative analysis. Most studies used WHO 2005 grading, and relatively few used WHO 2017.\n\nUnder WHO 2005, pooled malignant transformation rates were 7.3% for mild dysplasia, 19.2% for moderate dysplasia, and 29.4% for severe dysplasia or carcinoma in situ. The risk increased across grades: severe dysplasia carried greater risk than both mild and moderate dysplasia, and moderate dysplasia carried greater risk than mild dysplasia. Under WHO 2017, high-grade dysplasia had greater risk than low-grade dysplasia.\n\nThe practical message is that higher dysplasia grades warrant greater surveillance attention. However, the two-tier system may make it less clear that moderate dysplasia has a distinct, clinically meaningful risk profile. Clinicians should therefore avoid treating the category change as evidence that moderate lesions are low risk.\n\nThis evidence can inform surveillance discussions, but it does not define a standard follow-up interval or show that a particular surveillance schedule improves outcomes. Differences among studies and limited data using WHO 2017 also temper certainty. The authors call for standardized follow-up intervals and data reporting, as well as better assessment of risk-factor control. In short, dysplasia grade helps stratify risk, moderate dysplasia deserves attention, and follow-up should be individualized while stronger evidence is developed.",
+      "mcq": [
+        {
+          "q_ar": "بحسب WHO 2005، ما معدل malignant transformation المقدر لدى مرضى moderate dysplasia؟",
+          "q_en": "Under WHO 2005, what was the estimated malignant transformation rate for moderate dysplasia?",
+          "options_ar": [
+            "أ) 7.3%",
+            "ب) 19.2%",
+            "ج) 29.4%",
+            "د) 39.4%"
+          ],
+          "options_en": [
+            "A) 7.3%",
+            "B) 19.2%",
+            "C) 29.4%",
+            "D) 39.4%"
+          ],
+          "answer": 1,
+          "explanation_ar": "قدرت المراجعة معدل malignant transformation في moderate dysplasia بـ19.2%، مقارنةً بـ7.3% في mild و29.4% في severe dysplasia أو carcinoma in situ.",
+          "explanation_en": "The pooled transformation rate was 19.2% for moderate dysplasia, compared with 7.3% for mild and 29.4% for severe dysplasia or carcinoma in situ."
+        },
+        {
+          "q_ar": "ما الملاحظة الأساسية حول تصنيف WHO 2017 ذي الفئتين؟",
+          "q_en": "What is the main concern raised about the WHO 2017 two-tier grading system?",
+          "options_ar": [
+            "أ) لا يميز بين vocal fold leukoplakia وcarcinoma in situ",
+            "ب) قد لا يُظهر بشكل منفصل مستوى الخطر الخاص بـ moderate dysplasia",
+            "ج) أظهر أن low-grade أعلى خطرًا من high-grade",
+            "د) لم يتضمن أي دراسات عن malignant transformation"
+          ],
+          "options_en": [
+            "A) It does not distinguish vocal fold leukoplakia from carcinoma in situ",
+            "B) It may not show the distinct risk profile of moderate dysplasia",
+            "C) It found greater risk with low-grade than high-grade dysplasia",
+            "D) It included no studies of malignant transformation"
+          ],
+          "answer": 1,
+          "explanation_ar": "قد يؤدي دمج الدرجات في فئتين إلى تقليل وضوح مستوى الخطر الخاص بـ moderate dysplasia، رغم أن لها خطرًا مهمًا.",
+          "explanation_en": "The two-tier system may obscure the distinct and meaningful risk associated with moderate dysplasia."
+        },
+        {
+          "q_ar": "ما الخلاصة السريرية الأكثر اتساقًا مع نتائج المراجعة؟",
+          "q_en": "Which clinical conclusion is most consistent with the review’s findings?",
+          "options_ar": [
+            "أ) لا ترتبط درجة dysplasia بخطر التحول الخبيث",
+            "ب) تقتصر المتابعة على severe dysplasia",
+            "ج) يزداد خطر التحول الخبيث مع ارتفاع درجة dysplasia، ما يدعم اهتمامًا أكبر بالمتابعة عند الدرجات الأعلى",
+            "د) تثبت النتائج أن جدول متابعة محددًا يحسن البقاء"
+          ],
+          "options_en": [
+            "A) Dysplasia grade is unrelated to malignant transformation risk",
+            "B) Follow-up is needed only for severe dysplasia",
+            "C) Transformation risk rises with dysplasia grade, supporting greater surveillance attention for higher grades",
+            "D) The findings prove that a specific surveillance schedule improves survival"
+          ],
+          "answer": 2,
+          "explanation_ar": "أظهرت النتائج ارتفاع معدلات malignant transformation مع ارتفاع درجة dysplasia، لكنها لم تثبت أن جدول متابعة محددًا يحسن النتائج.",
+          "explanation_en": "Transformation rates rose with dysplasia grade, but the review did not prove that any specific surveillance schedule improves outcomes."
+        }
+      ]
+    },
+    {
+      "pmid": "42958869",
+      "title_ar": "Cost-Effectiveness of Canal Wall Up Tympanoplasty With and Without Obliteration in Cholesteatoma Surgery.",
+      "title_en": "Cost-Effectiveness of Canal Wall Up Tympanoplasty With and Without Obliteration in Cholesteatoma Surgery.",
+      "journal": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+      "pub_date": "2026-Oct-29",
+      "doi": "10.1002/ohn.70507",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42958869/",
+      "pdf_url": null,
+      "study_design": "State-transition Markov cost-effectiveness model using propensity score-matched retrospective cohort data (n=110 ears)",
+      "summary_ar": "قيّمت الدراسة cost-effectiveness لـ bony obliteration tympanoplasty مقارنةً بـ canal wall up دون mastoid obliteration لدى مرضى cholesteatoma، من منظور payer صحي في Netherlands. استخدم الباحثون state-transition Markov model لمدة 5 سنوات، واعتمدوا على transition probabilities ومعدلات complications من propensity score-matched retrospective cohort شمل 110 آذان. قدّرت النتائج أن متوسط التكلفة كان €5954 مع bony obliteration tympanoplasty، مقابل €4844 مع canal wall up دون obliteration، وكان طول operative time المحرك الأساسي لفرق التكلفة. في المقابل، ارتبطت bony obliteration tympanoplasty بزيادة quality-adjusted life years من 2.47 إلى 2.76 خلال 5 سنوات. بلغ incremental cost-effectiveness ratio €3855 لكل quality-adjusted life year إضافية، وهو أقل من عتبات willingness-to-pay المعتادة. وأظهر probabilistic sensitivity analysis أن الإجراء cost-effective في 97% من المحاكاة عند عتبة €50,000، لكن النتائج تظل تقديرات نموذجية وليست مقارنة prospective مباشرة.",
+      "summary_en": "This study evaluated the cost-effectiveness of bony obliteration tympanoplasty versus canal wall up without mastoid obliteration for cholesteatoma from a healthcare payer perspective in the Netherlands. A state-transition Markov model projected costs and outcomes over five years, using transition probabilities and complication rates from a propensity score-matched retrospective cohort of 110 ears. Estimated mean costs were €5954 for bony obliteration tympanoplasty and €4844 for canal wall up without obliteration, with longer operative time driving much of the cost difference. The model estimated 2.76 versus 2.47 quality-adjusted life years, respectively. The incremental cost-effectiveness ratio was €3855 per additional quality-adjusted life year. Probabilistic sensitivity analysis found bony obliteration cost-effective in 97% of simulations at a €50,000 willingness-to-pay threshold, although these are model-based estimates rather than results from a prospective comparative trial.",
+      "practice_change_ar": "تدعم النتائج مناقشة bony obliteration tympanoplasty كخيار جراحي عند التخطيط لـ cholesteatoma، لكنها لا تفرض تغييرًا فوريًا للممارسة بسبب اعتمادها على نموذج اقتصادي وبيانات retrospective.",
+      "practice_change_en": "The findings support discussing bony obliteration tympanoplasty as a surgical option for cholesteatoma, but do not mandate an immediate practice change because they rely on an economic model and retrospective data.",
+      "future_impact_ar": "قد تساعد هذه النتائج في توجيه قرارات تخصيص الموارد، على أن تُختبر عبر دراسات prospective متعددة المراكز وبمتابعة أطول.",
+      "future_impact_en": "These findings may inform resource-allocation decisions, but should be tested in prospective multicenter studies with longer follow-up.",
+      "why_important_ar": "توازن الدراسة بين التكلفة الأعلى لـ bony obliteration tympanoplasty والمكاسب المتوقعة في quality-adjusted life years ضمن تحليل اقتصادي ذي صلة بالقرار السريري.",
+      "why_important_en": "The study balances the higher cost of bony obliteration tympanoplasty against modeled gains in quality-adjusted life years in a clinically relevant economic analysis.",
+      "vs_previous_ar": "تضيف الدراسة مقارنةً اقتصادية كمية إلى المقارنة الجراحية بين الطريقتين، بدل الاكتفاء بتقييم النتائج السريرية أو معدلات recurrence.",
+      "vs_previous_en": "The study adds a quantitative economic comparison of the two techniques, extending beyond assessments of clinical outcomes or recurrence rates alone.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة cost-effectiveness بنموذج Markov مدعوم ببيانات propensity score-matched retrospective cohort من 110 آذان، ونُشرت في مجلة رفيعة؛ تقدم معلومة مفيدة للتخطيط لكنها لا تثبت التفوق عبر تجربة prospective مباشرة.",
+      "stars_reason_en": "A Markov cost-effectiveness model supported by propensity score-matched retrospective cohort data from 110 ears, published in a high-tier journal; it offers useful planning information but does not establish superiority in a prospective comparative trial.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits journal club discussion because its economic-model assumptions and data sources may influence technique selection and resource allocation in cholesteatoma surgery.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء prospective multicenter comparative study مع متابعة أطول وبيانات مباشرة عن recurrence وquality of life للتحقق من افتراضات النموذج وقابليته للتعميم.",
+      "research_gap_en": "A prospective multicenter comparative study with longer follow-up and direct recurrence and quality-of-life data is needed to validate the model assumptions and generalizability.",
+      "subspecialty": "otology",
+      "audio_script_ar": "مرحبًا بكم في ORL Daily. تتناول هذه الدراسة cost-effectiveness لـ bony obliteration tympanoplasty مقارنةً بـ canal wall up دون mastoid obliteration في جراحة cholesteatoma. أُجري التحليل من منظور payer صحي في Netherlands، باستخدام state-transition Markov model على مدى خمس سنوات. استندت احتمالات الانتقال ومعدلات complications إلى propensity score-matched retrospective cohort شمل 110 آذان، مع مطابقة عوامل مثل منشأ cholesteatoma ومدى المرض والجراحات السابقة.\n\nقدّر النموذج متوسط التكلفة بنحو €5954 مع bony obliteration tympanoplasty، مقابل €4844 مع canal wall up دون obliteration. كان طول operative time المحرك الرئيس لارتفاع التكلفة. لكن النموذج قدّر أيضًا تحسنًا في quality-adjusted life years: 2.76 مقابل 2.47 خلال خمس سنوات. بلغ incremental cost-effectiveness ratio €3855 لكل quality-adjusted life year إضافية، وهو أقل بكثير من عتبة willingness-to-pay البالغة €50,000 المستخدمة في التحليل. وبحسب probabilistic sensitivity analysis، كانت bony obliteration cost-effective في 97% من المحاكاة عند هذه العتبة.\n\nما أهمية ذلك؟ تقدم الدراسة منظورًا اقتصاديًا قد يساعد الجراحين والأنظمة الصحية عند مناقشة الخيارات الجراحية وتخصيص الموارد. لكنها لا تثبت أن التقنية أفضل سريريًا لكل مريض؛ فالنتائج تقديرات نموذجية مبنية على بيانات retrospective، وليست ناتجة عن randomized أو prospective comparative trial. لذلك فالثقة متوسطة: معلومة جديرة بالمعرفة والنقاش، لكنها لا تستدعي وحدها تغييرًا فوريًا للممارسة. يمكن اعتبار الدراسة ذات قيمة لـ journal club، خصوصًا لمناقشة افتراضات النموذج ومصادر البيانات.\n\nالخطوة البحثية التالية هي prospective multicenter comparative study بمتابعة أطول، تشمل بيانات مباشرة عن recurrence وquality of life، للتحقق من نتائج النموذج ومدى انطباقها على مراكز ومرضى مختلفين. الخلاصة: قد تكون bony obliteration tympanoplasty خيارًا cost-effective رغم تكلفتها الأولية الأعلى، وينبغي إدراج هذه المعطيات ضمن التخطيط الفردي لـ cholesteatoma surgery.",
+      "audio_script_en": "Welcome to ORL Daily. This study evaluates the cost-effectiveness of bony obliteration tympanoplasty compared with canal wall up without mastoid obliteration for cholesteatoma surgery. The analysis took a healthcare payer perspective in the Netherlands and used a state-transition Markov model with a five-year horizon. Transition probabilities and complication rates came from a propensity score-matched retrospective cohort of 110 ears. Matching included cholesteatoma origin, disease extent, and prior middle ear surgery.\n\nThe model estimated mean costs of €5954 for bony obliteration tympanoplasty and €4844 for canal wall up without obliteration. Longer operative time was the main driver of the additional cost. The modeled health benefit was higher with bony obliteration: 2.76 versus 2.47 quality-adjusted life years over five years. The incremental cost-effectiveness ratio was €3855 per additional quality-adjusted life year, well below the €50,000 willingness-to-pay threshold used in the analysis. Probabilistic sensitivity analysis found the procedure cost-effective in 97% of simulations at that threshold.\n\nWhy does this matter? The study adds an economic perspective that may help surgeons and healthcare systems discuss surgical options and resource allocation. However, it does not prove that the technique is clinically superior for every patient. The results are model-based estimates drawing on retrospective data, not findings from a randomized or prospective comparative trial. Confidence is therefore moderate: this is useful information to know and discuss, but it does not by itself justify an immediate change in practice. It is well suited to journal club, particularly to examine the model assumptions and the quality and applicability of its source data.\n\nThe next step should be a prospective multicenter comparative study with longer follow-up and direct measures of recurrence and quality of life. That would help validate the model and establish whether its findings generalize across patients and centers. In summary, bony obliteration tympanoplasty may be cost-effective despite higher initial costs, and the evidence can inform individualized planning for cholesteatoma surgery.",
+      "mcq": [
+        {
+          "q_ar": "ما التصميم التحليلي الأساسي المستخدم في الدراسة؟",
+          "q_en": "What was the primary analytical design used in the study?",
+          "options_ar": [
+            "أ) Randomized controlled trial",
+            "ب) State-transition Markov cost-effectiveness model",
+            "ج) Systematic review and meta-analysis",
+            "د) Prospective case series"
+          ],
+          "options_en": [
+            "A) Randomized controlled trial",
+            "B) State-transition Markov cost-effectiveness model",
+            "C) Systematic review and meta-analysis",
+            "D) Prospective case series"
+          ],
+          "answer": 1,
+          "explanation_ar": "استخدمت الدراسة state-transition Markov model لمدة خمس سنوات، مع مدخلات مستمدة من retrospective cohort.",
+          "explanation_en": "The study used a five-year state-transition Markov model with inputs from a retrospective cohort."
+        },
+        {
+          "q_ar": "ما incremental cost-effectiveness ratio الذي قدّرته الدراسة؟",
+          "q_en": "What incremental cost-effectiveness ratio did the study estimate?",
+          "options_ar": [
+            "أ) €3855 لكل quality-adjusted life year إضافية",
+            "ب) €4844 لكل quality-adjusted life year إضافية",
+            "ج) €5954 لكل quality-adjusted life year إضافية",
+            "د) €50,000 لكل quality-adjusted life year إضافية"
+          ],
+          "options_en": [
+            "A) €3855 per additional quality-adjusted life year",
+            "B) €4844 per additional quality-adjusted life year",
+            "C) €5954 per additional quality-adjusted life year",
+            "D) €50,000 per additional quality-adjusted life year"
+          ],
+          "answer": 0,
+          "explanation_ar": "بلغ incremental cost-effectiveness ratio €3855 لكل quality-adjusted life year إضافية.",
+          "explanation_en": "The incremental cost-effectiveness ratio was €3855 per additional quality-adjusted life year."
+        },
+        {
+          "q_ar": "ما التفسير الأنسب لنتائج الدراسة عند اتخاذ قرار سريري؟",
+          "q_en": "What is the most appropriate interpretation of these findings for clinical decision-making?",
+          "options_ar": [
+            "أ) تثبت النتائج تفوق bony obliteration في randomized trial",
+            "ب) تثبت النتائج أن canal wall up أقل تكلفة في جميع السياقات",
+            "ج) تدعم النتائج cost-effectiveness لـ bony obliteration، لكنها تقديرات نموذجية مبنية على بيانات retrospective",
+            "د) لا تقدم الدراسة أي معلومات اقتصادية"
+          ],
+          "options_en": [
+            "A) The findings prove bony obliteration superiority in a randomized trial",
+            "B) The findings prove canal wall up is less costly in all settings",
+            "C) The findings support the cost-effectiveness of bony obliteration, but are model-based estimates using retrospective data",
+            "D) The study provides no economic information"
+          ],
+          "answer": 2,
+          "explanation_ar": "تدعم النتائج cost-effectiveness ضمن افتراضات النموذج، لكنها ليست دليلًا من مقارنة prospective أو randomized مباشرة.",
+          "explanation_en": "The findings support cost-effectiveness under the model assumptions, but are not evidence from a direct prospective or randomized comparison."
+        }
+      ]
+    },
+    {
+      "pmid": "42958645",
+      "title_ar": "Clinician-guided digital CBT-I improves sleep quality and apnea severity in patients with co-morbid insomnia and OSA: A Double-Blind, Randomized Clinical Trial.",
+      "title_en": "Clinician-guided digital CBT-I improves sleep quality and apnea severity in patients with co-morbid insomnia and OSA: A Double-Blind, Randomized Clinical Trial.",
+      "journal": "American journal of respiratory and critical care medicine",
+      "pub_date": "2026-Oct-29",
+      "doi": "10.1093/ajrccm/aamag567",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42958645/",
+      "pdf_url": null,
+      "study_design": "Double-blind RCT n=88",
+      "summary_ar": "قارنت هذه الدراسة RCT بين clinician-guided digital CBT-I عبر ست جلسات أسبوعية وsleep hygiene education لدى 88 مريضًا لديهم COMISA. بعد 3 أشهر، تحسنت درجات ISI وPSQI بدرجة أكبر مع D-CBT-I مقارنةً بالمجموعة الضابطة، مع أحجام أثر كبيرة. انخفضت درجات Epworth Sleepiness Scale أيضًا بصورة أكبر مع D-CBT-I. بعد العلاج مباشرةً، انخفض AHI بمقدار 6.0 events/h في مجموعة D-CBT-I، بينما ارتفع بمقدار 2.0 events/h مع SHE. حدثت زيادة عابرة في ESS خلال الأسابيع 2–4، لكن لم تُسجل حالات ضعف وظيفي أو أضرار مرتبطة بالنعاس. وأظهرت النتائج كذلك فوائد في metacognition وexecutive function، مع ضرورة تفسيرها في ضوء حجم العينة والمتابعة المحدودة.",
+      "summary_en": "This double-blind RCT compared six weekly clinician-guided digital CBT-I sessions with sleep hygiene education in 88 patients with COMISA. At three months, ISI and PSQI scores improved more with D-CBT-I, with large reported effect sizes. Epworth Sleepiness Scale scores also decreased more in the D-CBT-I group. Immediately after treatment, AHI decreased by 6.0 events/h with D-CBT-I but increased by 2.0 events/h with SHE. ESS temporarily increased during weeks 2–4, but no functional impairment or sleepiness-related adverse events were reported. Improvements in metacognition and executive function were also reported, although the sample and follow-up duration limit certainty.",
+      "practice_change_ar": "يمكن عرض clinician-guided digital CBT-I كخيار مساعد لعلاج insomnia لدى مرضى COMISA، لكنه لا يحل محل تقييم OSA أو علاجه المعتاد.",
+      "practice_change_en": "Clinician-guided digital CBT-I can be offered as an adjunct for insomnia in patients with COMISA, but it does not replace standard OSA evaluation or treatment.",
+      "future_impact_ar": "قد يدعم تأكيد النتائج في عينات أكبر وفترات أطول دمج digital CBT-I في مسارات الرعاية المشتركة لمرضى COMISA.",
+      "future_impact_en": "Replication in larger cohorts with longer follow-up could support integrating digital CBT-I into shared-care pathways for COMISA.",
+      "why_important_ar": "تُظهر الدراسة أن علاج insomnia الرقمي الموجّه سريريًا قد يحسن أعراض insomnia وربما يقلل AHI لدى مرضى COMISA.",
+      "why_important_en": "The study suggests clinician-guided digital insomnia treatment may improve insomnia symptoms and potentially reduce AHI in patients with COMISA.",
+      "vs_previous_ar": "تضيف الدراسة دليلًا على clinician-guided digital CBT-I لدى COMISA، بدل الاقتصار على توصية CBT-I العامة أو sleep hygiene وحدها.",
+      "vs_previous_en": "The study adds evidence for clinician-guided digital CBT-I specifically in COMISA, beyond general CBT-I recommendations or sleep hygiene alone.",
+      "stars": 4,
+      "stars_reason_ar": "تجربة RCT عشوائية ذات نتائج سريرية واعدة، لكنها صغيرة نسبيًا ومحدودة المتابعة، ولا تكفي وحدها لتغيير المعايير الحالية لعلاج OSA.",
+      "stars_reason_en": "This randomized RCT reports clinically promising outcomes, but its modest sample and limited follow-up are insufficient on their own to change current OSA management standards.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion for combining digital CBT-I with objective AHI measurement, while raising questions about sleep-restriction safety and generalizability.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا clinician-guided digital CBT-I بوصفه تقنية علاجية قابلة للتوسع قد تكمل رعاية COMISA إذا تأكدت الفائدة والسلامة.",
+      "watch_detail_en": "Track clinician-guided digital CBT-I as a potentially scalable treatment technology that may complement COMISA care if its benefits and safety are confirmed.",
+      "watch_type": "technology",
+      "research_gap_ar": "هناك حاجة إلى تجارب أكبر وأطول تقيس أثر D-CBT-I على AHI والالتزام بعلاج OSA والنتائج الوظيفية.",
+      "research_gap_en": "Larger, longer trials should assess D-CBT-I effects on AHI, adherence to OSA treatment, and functional outcomes.",
+      "subspecialty": "sleep",
+      "audio_script_ar": "نراجع اليوم تجربة عشوائية مزدوجة التعمية عن clinician-guided digital CBT-I لدى مرضى لديهم COMISA، أي اجتماع insomnia وOSA. شملت الدراسة 88 مريضًا، وقارنت ست جلسات رقمية أسبوعية تتضمن sleep restriction وstimulus control وإعادة بناء الأفكار، مع sleep hygiene education وحدها.\n\nفي المتابعة بعد ثلاثة أشهر، تحسنت درجات ISI بمقدار 9.5 نقاط مع D-CBT-I مقابل 4 نقاط مع التثقيف، وتحسنت درجات PSQI بمقدار 4.9 مقابل 1.8 نقطة. كما انخفضت درجات Epworth Sleepiness Scale بدرجة أكبر في مجموعة التدخل. ومن النتائج اللافتة انخفاض AHI بمقدار 6 events/h بعد العلاج في مجموعة D-CBT-I، مقابل ارتفاعه بمقدار 2 events/h في مجموعة المقارنة. أبلغ الباحثون أيضًا عن فوائد في metacognition وexecutive function.\n\nهناك نقطة سلامة مهمة: ارتفعت ESS مؤقتًا خلال الأسابيع الثانية إلى الرابعة، لكن لم يُسجل ضعف وظيفي أو حادث مرتبط بالنعاس. لذلك، عند استخدام sleep restriction، من المهم متابعة النعاس وتقييم المخاطر الفردية، مع الاستمرار في تقييم OSA وتقديم علاجه المعتاد. لا ينبغي اعتبار CBT-I بديلًا عن CPAP أو أي علاج OSA موصى به للمريض.\n\nقوة الدراسة أنها RCT وتضم قياسًا موضوعيًا لـAHI، لكنها شملت 88 مشاركًا فقط وتابعت المرضى ثلاثة أشهر. كما أن انخفاض AHI كان نتيجة بعد العلاج، لذا يحتاج إلى تكرار وتقييم الاستمرارية. الخلاصة العملية: يمكن التفكير في clinician-guided digital CBT-I كعلاج مساعد لتحسين insomnia لدى مرضى COMISA، لكن الدليل لا يغيّر وحده معايير علاج OSA. نحتاج إلى تجارب أكبر وأطول تقيس الالتزام بالعلاج والنتائج الوظيفية والسلامة.",
+      "audio_script_en": "Today’s review is a double-blind randomized trial of clinician-guided digital CBT-I for patients with COMISA, the co-occurrence of insomnia and OSA. The study enrolled 88 participants and compared six weekly online sessions—including sleep restriction, stimulus control, and cognitive restructuring—with sleep hygiene education alone.\n\nAt three-month follow-up, ISI improved by 9.5 points with D-CBT-I versus 4 points with education, while PSQI improved by 4.9 versus 1.8 points. Epworth Sleepiness Scale scores also decreased more in the intervention group. Notably, AHI measured by attended in-laboratory polysomnography decreased by 6 events per hour after treatment with D-CBT-I, compared with a 2-event-per-hour increase in the control group. The investigators also reported benefits in metacognition and executive function.\n\nThe safety finding deserves attention: ESS rose temporarily during weeks two through four, although the study reported no functional impairment or sleepiness-related adverse events. Clinicians using sleep restriction should still consider individual sleepiness and safety risks, and continue standard OSA assessment and treatment. CBT-I should not be presented as a substitute for CPAP or other indicated OSA therapy.\n\nThe strengths are randomization and objective AHI measurement. Limitations include the modest sample of 88 and follow-up limited to three months. The AHI finding, in particular, needs replication and assessment of durability. The practical takeaway is that clinician-guided digital CBT-I is a promising adjunct for insomnia in COMISA, but this single trial does not change OSA treatment standards. Larger and longer studies should examine adherence, functional outcomes, safety, and sustained effects on AHI.",
+      "mcq": [
+        {
+          "q_ar": "ما المقارنة الأساسية في هذه التجربة؟",
+          "q_en": "What was the primary comparison in this trial?",
+          "options_ar": [
+            "أ) digital CBT-I موجّه سريريًا مقابل sleep hygiene education",
+            "ب) CPAP مقابل الجراحة",
+            "ج) دواء منوم مقابل placebo",
+            "د) علاج جراحي مقابل علاج دوائي"
+          ],
+          "options_en": [
+            "A) Clinician-guided digital CBT-I versus sleep hygiene education",
+            "B) CPAP versus surgery",
+            "C) Hypnotic medication versus placebo",
+            "D) Surgical versus pharmacologic treatment"
+          ],
+          "answer": 0,
+          "explanation_ar": "قارنت الدراسة ست جلسات أسبوعية من clinician-guided digital CBT-I مع sleep hygiene education وحدها.",
+          "explanation_en": "The trial compared six weekly clinician-guided digital CBT-I sessions with sleep hygiene education alone."
+        },
+        {
+          "q_ar": "ما التغير في AHI بعد العلاج في مجموعة D-CBT-I؟",
+          "q_en": "What was the post-treatment AHI change in the D-CBT-I group?",
+          "options_ar": [
+            "أ) ارتفع بمقدار 6 events/h",
+            "ب) انخفض بمقدار 6 events/h",
+            "ج) لم يتغير",
+            "د) انخفض بمقدار 2 events/h"
+          ],
+          "options_en": [
+            "A) Increased by 6 events/h",
+            "B) Decreased by 6 events/h",
+            "C) Did not change",
+            "D) Decreased by 2 events/h"
+          ],
+          "answer": 1,
+          "explanation_ar": "انخفض AHI بمقدار 6.0 events/h مع D-CBT-I، مقابل ارتفاعه بمقدار 2.0 events/h مع SHE.",
+          "explanation_en": "AHI decreased by 6.0 events/h with D-CBT-I, compared with a 2.0 events/h increase with SHE."
+        },
+        {
+          "q_ar": "ما الاستنتاج العملي الأكثر ملاءمة لهذه النتائج؟",
+          "q_en": "What is the most appropriate clinical interpretation of these findings?",
+          "options_ar": [
+            "أ) D-CBT-I بديل مثبت عن جميع علاجات OSA",
+            "ب) يمكن استخدام D-CBT-I كعلاج مساعد لـinsomnia مع استمرار رعاية OSA المعتادة",
+            "ج) ينبغي تجنب CBT-I لدى جميع مرضى OSA",
+            "د) تثبت النتائج أن انخفاض AHI يستمر لسنوات"
+          ],
+          "options_en": [
+            "A) D-CBT-I is a proven substitute for all OSA treatments",
+            "B) D-CBT-I may be an adjunct for insomnia while standard OSA care continues",
+            "C) CBT-I should be avoided in all patients with OSA",
+            "D) The results establish that AHI reduction lasts for years"
+          ],
+          "answer": 1,
+          "explanation_ar": "النتائج واعدة لعلاج insomnia لدى COMISA، لكنها لا تثبت أن D-CBT-I يحل محل علاج OSA أو أن الفائدة طويلة الأمد.",
+          "explanation_en": "The results are promising for insomnia in COMISA but do not establish D-CBT-I as a replacement for OSA treatment or prove long-term benefit."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026103001",
+      "title_ar": "ميدترونيك وكارل ستورز تتعاونان لتطوير حلول جراحية متكاملة للأنف والأذن والحنجرة",
+      "title_en": "Medtronic and Karl Storz Collaborate on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-30",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أفاد موقع ماس ديفايس بأن ميدترونيك وكارل ستورز تتعاونان في مجال الحلول الجراحية المتكاملة للأنف والأذن والحنجرة. ويشير الإعلان إلى تنسيق تقنياتهما أو دمجها، لكن الخبر المتاح لا يحدد المنتجات أو النطاق التقني أو موعد الإطلاق. كما لا يتضمن تفاصيل عن الأسعار أو الوضع التنظيمي أو الشروط التجارية. وستلزم معلومات إضافية لتقييم توافر الحلول وقدراتها السريرية.",
+      "summary_en": "MassDevice reports that Medtronic and Karl Storz are collaborating on integrated surgical solutions for ENT. The announcement points to combining or coordinating their technologies, but the supplied news item does not specify the products, technical scope, or launch timeline. No pricing, regulatory status, or commercial terms are provided. Further details will be needed to assess the solutions’ availability and clinical capabilities.",
+      "practice_change_ar": "قد تتاح لجراحي الأنف والأذن والحنجرة مستقبلاً أدوات أكثر تكاملاً في غرف العمليات، لكن الإعلان لا يشير إلى تغيير فوري في الممارسة السريرية.",
+      "practice_change_en": "ENT surgeons may eventually have access to more integrated operating-room tools, but no immediate change to clinical practice is established by the announcement.",
+      "future_impact_ar": "إذا أسفر التعاون عن منتجات متاحة تجارياً، فقد يؤثر في المنافسة وخيارات التكامل داخل غرف عمليات الأنف والأذن والحنجرة.",
+      "future_impact_en": "If the collaboration produces commercially available products, it could shape competition and integration options in ENT operating rooms.",
+      "why_important_ar": "قد يؤثر التكامل الأوثق بين التقنيات الجراحية في سير العمل داخل غرفة العمليات واختيار المعدات، لكن الفوائد السريرية لم تُحدّد بعد.",
+      "why_important_en": "Closer integration of surgical technologies could affect operating-room workflow and equipment choices, although the clinical benefits have not yet been described.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "تعاون تجاري قد يهم اختيار المعدات مستقبلاً، لكن التفاصيل والآثار السريرية غير واضحة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "في خبر يهم سوق تقنيات الأنف والأذن والحنجرة، أفاد موقع ماس ديفايس بأن شركتي ميدترونيك وكارل ستورز تتعاونان لتطوير حلول جراحية متكاملة. قد يعني هذا تنسيقاً أكبر بين تقنيات الشركتين، بما قد ينعكس مستقبلاً على تجهيز غرف العمليات وسير العمل فيها. لكن الخبر المتاح لا يوضح المنتجات المشمولة أو موعد طرحها، ولا يقدم تفاصيل عن الأسعار أو الوضع التنظيمي أو النتائج السريرية. لذلك لا توجد حتى الآن معلومات كافية للقول إن هذا التعاون سيغيّر الممارسة اليومية للجراحين. الأهمية المحتملة تكمن في أن الحلول المتكاملة قد توسع الخيارات المتاحة للمؤسسات والجراحين، إذا تحولت إلى منتجات عملية ومتوفرة تجارياً. سنحتاج إلى متابعة الإعلانات اللاحقة لمعرفة ما الذي سيُطرح فعلياً، وما إذا كان سيقدم مزايا قابلة للقياس في الكفاءة أو النتائج.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026103002",
+      "title_ar": "توقعات بنمو سوق التنظير الأنفي والأذني والحنجري بمعدل سنوي مركب قدره 6.4%",
+      "title_en": "ENT Endoscopy Market Forecast to Grow at a 6.4% CAGR",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-30",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت Market.us نظرة عامة على السوق تتوقع نمو سوق التنظير الأنفي والأذني والحنجري بمعدل سنوي مركب قدره 6.4%. ولا يوضح العنوان الفترة الزمنية للتوقع أو قيمة السوق أو العوامل التي تقود النمو المتوقع. وهذا تقدير تجاري للسوق، وليس خبراً عن استحواذ أو قرار تنظيمي أو دراسة سريرية محددة.",
+      "summary_en": "Market.us published a market overview forecasting a 6.4% compound annual growth rate for the ENT endoscopy market. The headline does not specify the forecast period, market valuation, or the factors driving the projected growth. This is a commercial market estimate, not a report of a specific acquisition, regulatory decision, or clinical study.",
+      "practice_change_ar": "لا يشير هذا التوقع إلى تغيير في الممارسة السريرية، لكنه قد يهم الجراحين عند تقييم توافر معدات التنظير والاستثمار فيها مستقبلاً.",
+      "practice_change_en": "The forecast does not indicate a change in clinical practice, but may be relevant to surgeons evaluating future availability and investment in endoscopic equipment.",
+      "future_impact_ar": "إذا تحقق التوقع، فقد يدعم نمو السوق مزيداً من الاستثمار في التنظير الأنفي والأذني والحنجري، لكن ينبغي للأطباء انتظار بيانات موثوقة عن المنتجات والنتائج السريرية قبل استخلاص استنتاجات للممارسة.",
+      "future_impact_en": "If the forecast is realized, market growth could support further investment in ENT endoscopy, but clinicians should look for verified product and clinical data before drawing practice conclusions.",
+      "why_important_ar": "يشير التقدير إلى استمرار الاهتمام التجاري بتنظير الأنف والأذن والحنجرة، لكنه لا يقدم أدلة بشأن نتائج المرضى أو أداء الأجهزة أو التكاليف المحلية.",
+      "why_important_en": "The estimate suggests continued commercial interest in ENT endoscopy, though it provides no evidence about patient outcomes, device performance, or local costs.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "توقع سوقي عام دون بيانات سريرية أو أثر مباشر واضح على قرارات الأطباء.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أشارت Market.us إلى توقع نمو سوق التنظير الأنفي والأذني والحنجري بمعدل سنوي مركب يبلغ 6.4%. لكن العنوان المنشور لا يحدد الفترة التي يغطيها التوقع، ولا القيمة الحالية للسوق، ولا العوامل التي يُتوقع أن تدفع هذا النمو. لذلك ينبغي التعامل مع الرقم بوصفه تقديراً تجارياً، لا دليلاً على تحسن النتائج السريرية أو على فعالية جهاز بعينه. بالنسبة إلى أطباء الأنف والأذن والحنجرة، قد يكون نمو السوق مؤشراً عاماً إلى استمرار الاستثمار والاهتمام بالتقنيات التنظيرية، وربما إلى توسع خيارات المعدات مستقبلاً. مع ذلك، لا يقدم الخبر معلومات كافية لتغيير الممارسة أو لاتخاذ قرارات شراء. عند تقييم أي جهاز، تظل الأدلة السريرية، وسهولة الاستخدام، والموثوقية، والتكلفة الإجمالية، ومدى ملاءمته لاحتياجات المرضى والمؤسسة عوامل أكثر مباشرة من توقعات السوق. والخلاصة: توقع نمو لافت للنظر من ناحية الأعمال، لكن أثره السريري غير مثبت في المعلومات المتاحة.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026103003",
+      "title_ar": "نمو سوق مناظير الحنجرة الليفية المرنة حتى عام 2035 مدعوم بالطلب في حالات مجرى الهواء الصعب",
+      "title_en": "Flexible Fibre Laryngoscope Market Growth Through 2035 Supported by Difficult-Airway Demand",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-10-30",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "يتوقع تقرير سوقي من IndexBox نمو سوق مناظير الحنجرة الليفية المرنة حتى عام 2035، مستندًا إلى الطلب المرتبط بتدبير حالات مجرى الهواء الصعب. ولا يتضمن الخبر أرقامًا محددة لحجم السوق أو أسماء شركات أو تفاصيل عن قرارات تنظيمية. وهو توقع للسوق، وليس إعلانًا عن صفقة أو تغيير في الإرشادات السريرية.",
+      "summary_en": "An IndexBox market report forecasts growth in the flexible fibre laryngoscope market through 2035, citing demand associated with difficult-airway management. The item does not provide specific market-size figures, named companies, or details of regulatory decisions. It is a market outlook rather than an announcement of a transaction or change in clinical guidance.",
+      "practice_change_ar": "لا يستدعي هذا التوقع تغييرًا فوريًا في الممارسة السريرية، لكنه قد يفيد عند التخطيط لشراء معدات تدبير مجرى الهواء.",
+      "practice_change_en": "The forecast does not call for an immediate change in clinical practice, but it may be relevant when planning equipment procurement for airway management.",
+      "future_impact_ar": "إذا تحقق هذا التوقع، فقد تشهد عيادات الأنف والأذن والحنجرة استمرار الاستثمار وتطوير المنتجات في مجال معدات التنظير الحنجري المرن.",
+      "future_impact_en": "If the forecast materializes, ENT practices may see continued investment and product development in flexible laryngoscopy equipment.",
+      "why_important_ar": "تُعد مناظير الحنجرة المرنة أدوات مفيدة في تقييم مجرى الهواء وتدبيره، لذا قد يؤثر استمرار الطلب في توافر المعدات وخيارات شرائها.",
+      "why_important_en": "Flexible laryngoscopes are useful tools in airway assessment and management, so sustained demand may affect equipment availability and procurement options.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "توقع سوقي عام ذو صلة بالمعدات، من دون أثر سريري مباشر أو تفاصيل كمية واضحة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "تشير توقعات سوقية نشرتها IndexBox إلى نمو سوق مناظير الحنجرة الليفية المرنة حتى عام 2035، مع إرجاع ذلك جزئيًا إلى الطلب المرتبط بتدبير مجرى الهواء الصعب. وتُستخدم هذه المناظير في تقييم مجرى الهواء وإجراءاته، ما يجعل اتجاهات السوق ذات صلة بتخطيط شراء المعدات في مؤسسات الأنف والأذن والحنجرة. لكن الخبر لا يورد أرقامًا محددة لحجم السوق، ولا يسمّي شركات أو منتجات بعينها، كما لا يعلن عن تغيير في الإرشادات السريرية أو قرار تنظيمي. لذلك تبقى هذه المعلومات توقعًا تجاريًا عامًا، لا سببًا لتغيير الممارسة اليومية. وقد تكون أهميتها المستقبلية في متابعة توافر الأجهزة وخياراتها، إذا استمر الطلب وتحقق النمو المتوقع.",
+      "mcq": []
+    }
+  ]
+}
