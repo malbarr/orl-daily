@@ -1,0 +1,491 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T10:27:32Z",
+  "articles": [
+    {
+      "pmid": "42141701",
+      "title_ar": "How I Do It: A Novel Case Series of Office-Based Laser Complete Excision of Vocal Fold Cysts.",
+      "title_en": "How I Do It: A Novel Case Series of Office-Based Laser Complete Excision of Vocal Fold Cysts.",
+      "journal": "The Laryngoscope",
+      "pub_date": "2026-Nov",
+      "doi": "10.1002/lary.70627",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42141701/",
+      "pdf_url": "https://doi.org/10.1002/lary.70627",
+      "study_design": "Case series; sample size and study methods not specified in the provided abstract",
+      "summary_ar": "تصف المقالة تقنية لإزالة vocal fold cysts بالكامل في العيادة باستخدام Trublue laser عبر transnasal flexible endoscopy. يُجرى الإجراء تحت local anesthesia، مع إزالة الكيس en bloc بدلاً من marsupialization التقليدي. يذكر الملخص أن التقنية ممكنة من الناحية الفنية وأن المرضى تحملوا الإجراء جيداً. لا يوضح الملخص عدد المرضى أو تفاصيل اختيارهم أو مدة المتابعة. كما لا يقدم نتائج موضوعية عن voice outcomes أو معدلات النكس أو المضاعفات. لذلك توفر الدراسة وصفاً أولياً لتقنية جراحية جديدة، لكن المعلومات المتاحة لا تكفي لمقارنة فعاليتها وسلامتها مع الخيارات المعتادة.",
+      "summary_en": "This article describes office-based complete excision of vocal fold cysts using a Trublue laser through transnasal flexible endoscopy. The procedure is performed under local anesthesia and aims to remove the cyst en bloc rather than using conventional marsupialization. The abstract describes the technique as technically feasible and reports excellent procedural tolerability. It does not specify the number of patients, selection criteria, or duration of follow-up. Nor does it provide objective voice outcomes, recurrence rates, or complication data. The report offers an initial description of a novel surgical approach, but the available information is insufficient to compare its effectiveness and safety with established options.",
+      "practice_change_ar": "لا تكفي هذه السلسلة لتغيير الممارسة اليوم، لكنها قد تتيح خياراً مكتبياً لبعض المرضى بعد تقييم ملاءمتهم للإجراء.",
+      "practice_change_en": "This case series is not sufficient to change practice today, but the approach may offer an office-based option for selected patients after assessment of suitability.",
+      "future_impact_ar": "قد تدعم دراسات مستقبلية مقارنة هذه التقنية مع marsupialization مع قياس voice outcomes والنكس والمضاعفات.",
+      "future_impact_en": "Future comparative studies could evaluate this technique against marsupialization using voice outcomes, recurrence, and complication rates.",
+      "why_important_ar": "تستكشف المقالة إمكانية إزالة vocal fold cysts بالكامل في العيادة تحت local anesthesia باستخدام laser.",
+      "why_important_en": "The article explores complete office-based removal of vocal fold cysts under local anesthesia using a laser.",
+      "vs_previous_ar": "بدلاً من marsupialization التقليدي، تصف المقالة إزالة الكيس en bloc باستخدام Trublue laser عبر transnasal flexible endoscopy.",
+      "vs_previous_en": "Rather than conventional marsupialization, the article describes en bloc cyst removal with a Trublue laser through transnasal flexible endoscopy.",
+      "stars": 3,
+      "stars_reason_ar": "سلسلة حالات ذات حجم عينة غير مذكور في الملخص، ما يجعل قوة الدليل محدودة؛ لكن Laryngoscope مجلة رفيعة المستوى والتقنية جديدة، لذا تستحق اهتماماً أولياً دون أن تثبت تغيير الممارسة.",
+      "stars_reason_en": "This is a case series with an unreported sample size in the abstract, so the evidence is limited. The Laryngoscope publication and novel technique warrant attention, but the report does not establish a practice change.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق النقاش لأنها تعرض تقنية مكتبية جديدة، مع أهمية التحقق من عدد الحالات والنتائج السريرية التفصيلية قبل استنتاج فعاليتها.",
+      "jc_reason_en": "It merits discussion because it presents a novel office-based technique, while the case number and detailed clinical outcomes need clarification before effectiveness can be judged.",
+      "watch": true,
+      "watch_detail_ar": "يستحق Trublue laser المتابعة بوصفه أداة لإجراء complete excision في العيادة، مع الحاجة إلى بيانات أوسع عن السلامة والنتائج الصوتية.",
+      "watch_detail_en": "The Trublue laser is worth tracking as a tool for office-based complete excision, pending broader safety and voice-outcome data.",
+      "watch_type": "instrument",
+      "research_gap_ar": "هناك حاجة إلى دراسات مستقبلية ذات حجم عينة واضح ومتابعة كافية تقارن voice outcomes والنكس والمضاعفات مع marsupialization.",
+      "research_gap_en": "Future studies with a clearly reported sample size and adequate follow-up should compare voice outcomes, recurrence, and complications with marsupialization.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تتناول هذه المقالة تقنية جديدة لإزالة vocal fold cysts بالكامل في العيادة. الفكرة الأساسية هي استخدام Trublue laser عبر transnasal flexible endoscopy، وإجراء العملية تحت local anesthesia. وبدلاً من marsupialization، تهدف التقنية إلى إزالة الكيس en bloc.\n\nبحسب الملخص، كان الإجراء ممكناً من الناحية الفنية، ووُصف بأنه جيد التحمل من قبل المرضى. لكن من المهم تفسير هذه النتيجة بحذر. فالملخص المتاح لا يذكر عدد المرضى، ولا يوضح معايير اختيارهم، ولا يقدم مدة المتابعة. كما لا تتوفر فيه بيانات موضوعية عن voice outcomes أو معدلات النكس أو المضاعفات. لذلك لا نستطيع من هذه المعلومات وحدها معرفة ما إذا كانت الإزالة الكاملة تحسن النتائج مقارنةً بالنهج التقليدي، أو ما إذا كانت مناسبة لمجموعة واسعة من المرضى.\n\nقوة المقالة أنها تعرض طريقة مبتكرة قد تتيح علاجاً مكتبياً، وربما تتجنب الحاجة إلى إجراء جراحي في غرفة العمليات لبعض المرضى. لكن كونها سلسلة حالات، مع غياب تفاصيل النتائج في الملخص، يعني أن مستوى الدليل محدود. لذلك تُعد المقالة مفيدة للتعرف على التقنية، لكنها لا تكفي لتغيير الممارسة اليوم.\n\nلأطباء laryngology، تستحق هذه الورقة النقاش خصوصاً من ناحية اختيار المرضى، ومتطلبات الخبرة، وإمكانية الحصول على عينة كاملة مع الحفاظ على وظيفة vocal fold. ويستحق Trublue laser المتابعة بوصفه أداة جديدة لهذا الاستخدام. الخطوة التالية هي دراسات أكبر، مع متابعة كافية ومقارنة مباشرة مع marsupialization، وقياس الصوت والنكس والمضاعفات بشكل منهجي. الخلاصة: تقنية واعدة وقابلة للتطبيق بحسب التقرير، لكنها تحتاج إلى بيانات سريرية أكثر قبل اعتمادها كخيار روتيني.",
+      "audio_script_en": "This article describes a novel approach to complete office-based excision of vocal fold cysts. The technique uses a Trublue laser through transnasal flexible endoscopy under local anesthesia. Unlike conventional marsupialization, the goal is to remove the cyst en bloc.\n\nThe abstract reports that the procedure was technically feasible and well tolerated. Those findings are encouraging, but they need to be interpreted cautiously. The available abstract does not report the number of patients, patient-selection criteria, or duration of follow-up. It also provides no objective voice outcomes, recurrence rates, or complication data. As a result, we cannot determine from the information supplied whether complete excision improves outcomes over the conventional approach, or how broadly the technique can be applied.\n\nThe main contribution is the description of a novel office-based option that might allow selected patients to avoid an operating-room procedure. However, this is a case series, and the abstract provides limited clinical outcome information. The evidence is therefore preliminary: useful for awareness and discussion, but not sufficient to change routine practice today.\n\nFor laryngologists, important questions include which patients are appropriate candidates, what expertise is required, and whether complete removal can be achieved while preserving vocal fold function. The Trublue laser is also worth tracking as an instrument for this application. The next step is larger studies with adequate follow-up and direct comparison with marsupialization, including systematic assessment of voice, recurrence, and complications. In summary, the technique appears feasible and promising according to the report, but more clinical data are needed before it can be considered a routine alternative.",
+      "mcq": [
+        {
+          "q_ar": "ما التقنية الموصوفة لإزالة vocal fold cysts؟",
+          "q_en": "Which technique is described for removing vocal fold cysts?",
+          "options_ar": [
+            "أ) Trublue laser عبر transnasal flexible endoscopy لإزالة الكيس en bloc",
+            "ب) marsupialization باستخدام external approach",
+            "ج) إزالة الكيس تحت general anesthesia باستخدام cold instruments فقط",
+            "د) العلاج الدوائي باستخدام corticosteroid"
+          ],
+          "options_en": [
+            "A) Trublue laser through transnasal flexible endoscopy for en bloc removal",
+            "B) Marsupialization through an external approach",
+            "C) Cyst removal under general anesthesia using cold instruments only",
+            "D) Medical treatment with corticosteroid"
+          ],
+          "answer": 0,
+          "explanation_ar": "تصف المقالة إزالة الكيس بالكامل en bloc باستخدام Trublue laser عبر transnasal flexible endoscopy تحت local anesthesia.",
+          "explanation_en": "The article describes complete en bloc excision with a Trublue laser through transnasal flexible endoscopy under local anesthesia."
+        },
+        {
+          "q_ar": "ما القيد الرئيسي للمعلومات الواردة في الملخص؟",
+          "q_en": "What is the main limitation of the information provided in the abstract?",
+          "options_ar": [
+            "أ) لا يذكر الملخص استخدام endoscopy",
+            "ب) لا يذكر عدد المرضى أو نتائج voice outcomes والنكس والمضاعفات",
+            "ج) الدراسة حيوانية وليست سريرية",
+            "د) التقنية لا تتضمن laser"
+          ],
+          "options_en": [
+            "A) The abstract does not mention endoscopy",
+            "B) It does not report the patient number or voice, recurrence, and complication outcomes",
+            "C) The study is animal-based rather than clinical",
+            "D) The technique does not involve a laser"
+          ],
+          "answer": 1,
+          "explanation_ar": "الملخص يصف الجدوى والتحمل، لكنه لا يقدم حجم العينة أو نتائج سريرية تفصيلية مثل الصوت والنكس والمضاعفات.",
+          "explanation_en": "The abstract describes feasibility and tolerability but does not provide the sample size or detailed clinical outcomes such as voice, recurrence, and complications."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن أثر الدراسة على الممارسة الحالية؟",
+          "q_en": "What is the most appropriate conclusion about the study's effect on current practice?",
+          "options_ar": [
+            "أ) تثبت أن التقنية يجب أن تحل محل marsupialization لجميع المرضى",
+            "ب) تدعم اعتماد التقنية فوراً بوصفها معيار الرعاية",
+            "ج) تقدم خياراً مبتكراً يستحق الدراسة، لكنها لا تكفي وحدها لتغيير الممارسة",
+            "د) تثبت أن الإجراء غير ممكن في العيادة"
+          ],
+          "options_en": [
+            "A) It proves the technique should replace marsupialization for all patients",
+            "B) It supports immediate adoption as the standard of care",
+            "C) It presents a novel option worth further study but is insufficient by itself to change practice",
+            "D) It proves the procedure is not feasible in the office"
+          ],
+          "answer": 2,
+          "explanation_ar": "سلسلة الحالات تقدم دليلاً أولياً على الجدوى والتحمل، لكن نقص تفاصيل العينة والنتائج يمنع استنتاج تغيير الممارسة.",
+          "explanation_en": "The case series provides preliminary evidence of feasibility and tolerability, but missing sample and outcome details prevent a practice-changing conclusion."
+        }
+      ]
+    },
+    {
+      "pmid": "42121342",
+      "title_ar": "How I Do It: Two Novel, Low-Cost Phonomicrosurgery Models With Open-Source, 3D-Printed Laryngoscopes.",
+      "title_en": "How I Do It: Two Novel, Low-Cost Phonomicrosurgery Models With Open-Source, 3D-Printed Laryngoscopes.",
+      "journal": "The Laryngoscope",
+      "pub_date": "2026-Nov",
+      "doi": "10.1002/lary.70617",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42121342/",
+      "pdf_url": "https://doi.org/10.1002/lary.70617",
+      "study_design": "Educational technical description; phonomicrosurgery simulation models",
+      "summary_ar": "تصف المقالة نموذجين جديدين منخفضي التكلفة لمحاكاة vocal fold microflap باستخدام منتجات متوفرة في متاجر البقالة. كما تقدم ملفات مفتوحة المصدر لأجزاء قابلة للطباعة ثلاثية الأبعاد لمحاكاة عدة laryngoscopes مستخدمة في laryngeal phonomicrosurgery. صُممت النماذج لتكون سهلة الإعداد وإعادة الإنتاج. قد تساعد المتدربين على ممارسة المهارات الأساسية في بيئة محاكاة قبل التعامل مع المرضى. لا يذكر الملخص مقارنة تعليمية أو نتائج أداء للمتدربين، ولا يقدم بيانات عن تحسن الكفاءة أو انتقال المهارات إلى الممارسة السريرية. لذلك تُعد المقالة وصفاً تعليمياً مبتكراً، لا دليلاً على فعالية تدريبية مثبتة.",
+      "summary_en": "This article describes two novel, low-cost models for simulating vocal fold microflap using products available at grocery stores. It also provides open-source files for 3D-printed parts that simulate several laryngoscopes used in laryngeal phonomicrosurgery. The models are designed to be easy to assemble and reproduce. They may offer trainees a setting to practice basic skills before operating on patients. The abstract reports no educational comparison or trainee performance outcomes, and provides no data on skill improvement or transfer to clinical practice. Thus, this is a novel educational technique description rather than evidence of proven training effectiveness.",
+      "practice_change_ar": "لا تدعم المقالة تغيير الممارسة الجراحية اليوم، لكنها توفر خياراً عملياً منخفض التكلفة لتدريب phonomicrosurgery بالمحاكاة.",
+      "practice_change_en": "The article does not support changing surgical practice today, but offers a practical, low-cost option for simulation-based phonomicrosurgery training.",
+      "future_impact_ar": "قد تتيح النماذج المفتوحة المصدر توسيع فرص التدريب، إذا أثبتت الدراسات اللاحقة فعاليتها التعليمية ونقل المهارات إلى غرفة العمليات.",
+      "future_impact_en": "The open-source models could broaden access to training if future studies demonstrate educational effectiveness and transfer of skills to the operating room.",
+      "why_important_ar": "تقدم المقالة طريقة قابلة للتكرار ومنخفضة التكلفة لممارسة مهارات laryngeal phonomicrosurgery خارج غرفة العمليات.",
+      "why_important_en": "The article offers a reproducible, low-cost way to practice laryngeal phonomicrosurgery skills outside the operating room.",
+      "vs_previous_ar": "على خلاف التدريب المعتمد على نماذج أو أدوات أكثر تكلفة، تجمع هذه الطريقة بين مواد متاحة وملفات laryngoscope مفتوحة المصدر وقابلة للطباعة ثلاثية الأبعاد.",
+      "vs_previous_en": "Unlike training that relies on more costly models or equipment, this approach combines readily available materials with open-source, 3D-printable laryngoscope parts.",
+      "stars": 3,
+      "stars_reason_ar": "وصف تقني تعليمي في مجلة Laryngoscope، مع ابتكار واضح في نماذج المحاكاة وإتاحتها بتكلفة منخفضة؛ لكن غياب نتائج التحقق من الفعالية يحد من قوة الدليل والأثر السريري المباشر.",
+      "stars_reason_en": "An educational technical description in The Laryngoscope, with clear novelty in low-cost simulation models; however, the lack of effectiveness validation limits the evidence and immediate clinical impact.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق النقاش حول كيفية تقييم نماذج المحاكاة منخفضة التكلفة وقياس انتقال المهارات إلى الأداء الجراحي.",
+      "jc_reason_en": "Warrants discussion of how low-cost simulation models should be evaluated and how skill transfer to surgical performance can be measured.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا ملفات laryngoscope المفتوحة المصدر والقابلة للطباعة ثلاثية الأبعاد، لاحتمال توسيع الوصول إلى أدوات تدريب phonomicrosurgery.",
+      "watch_detail_en": "Track the open-source, 3D-printable laryngoscope parts for their potential to expand access to phonomicrosurgery training tools.",
+      "watch_type": "instrument",
+      "research_gap_ar": "يلزم إجراء دراسات تقارن اكتساب المهارات والاحتفاظ بها ونقلها إلى غرفة العمليات باستخدام هذه النماذج مقابل أساليب التدريب الحالية.",
+      "research_gap_en": "Studies should compare skill acquisition, retention, and transfer to the operating room with these models versus existing training approaches.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تتناول هذه المقالة وسيلة تدريبية جديدة في مجال laryngology: نموذجين منخفضي التكلفة لمحاكاة vocal fold microflap، إلى جانب ملفات مفتوحة المصدر لأجزاء laryngoscopes قابلة للطباعة ثلاثية الأبعاد. تعتمد النماذج على منتجات متوفرة في متاجر البقالة، ما يجعل إعدادها وإعادة إنتاجها أكثر سهولة من الاعتماد على أدوات محاكاة باهظة الثمن. الفكرة الأساسية هي إتاحة ممارسة المهارات الأساسية في laryngeal phonomicrosurgery قبل العمل على المرضى، مع محاكاة عدة laryngoscopes مستخدمة في هذا النوع من الجراحة.\n\nنقطة القوة هي الابتكار وسهولة الوصول؛ كما أن الملفات المفتوحة المصدر قد تسمح للمؤسسات التعليمية بتعديل الأدوات أو تصنيعها محلياً. لكن الملخص لا يعرض مقارنة مع نموذج آخر، ولا يقيس أداء المتدربين أو تحسن مهاراتهم، ولا يثبت انتقال التدريب إلى غرفة العمليات. لذلك فهذا وصف تقني مفيد، وليس دليلاً على أن النموذج يحسن النتائج الجراحية.\n\nالتقييم ثلاث نجوم وثقة متوسطة: المقالة منشورة في The Laryngoscope وتقدم أداة تدريبية جديدة، لكنها لا تقدم نتائج تحقق. لا نوصي بتغيير الممارسة الجراحية اليوم، لكن يمكن للبرامج التدريبية النظر في استخدامها كخيار إضافي منخفض التكلفة. ومن المهم مستقبلاً قياس اكتساب المهارات والاحتفاظ بها ونقلها إلى الأداء السريري. يستحق العمل نقاشاً في journal club حول معايير تقييم المحاكاة، كما تستحق ملفات laryngoscope القابلة للطباعة المتابعة بوصفها أداة تدريبية محتملة.",
+      "audio_script_en": "This article presents a new training approach in laryngology: two low-cost models for simulating vocal fold microflap, together with open-source files for 3D-printed parts that simulate several laryngoscopes used in laryngeal phonomicrosurgery. The models use products available at grocery stores, making them relatively easy to assemble and reproduce. The goal is to let trainees practice basic skills before operating on patients, while using simulated versions of instruments common in this type of surgery.\n\nThe main strengths are novelty and accessibility. Open-source files may also allow training programs to adapt or manufacture parts locally. However, the abstract reports no comparison with existing models, no trainee performance measures, and no evidence that practice with these models transfers to the operating room. This is therefore a useful technical description, not proof that the models improve surgical outcomes.\n\nThe article receives three stars with medium confidence. It appears in The Laryngoscope and describes a novel educational tool, but does not provide validation data. It does not justify changing surgical practice today; training programs may consider it as an additional, low-cost simulation option. Future work should measure skill acquisition, retention, and transfer to clinical performance. The article is suitable for journal club discussion about standards for evaluating simulation tools, and the 3D-printable laryngoscope parts are worth tracking as a potential training instrument.",
+      "mcq": [
+        {
+          "q_ar": "ما الهدف الأساسي من النموذجين الموصوفين في المقالة؟",
+          "q_en": "What is the primary purpose of the two models described in the article?",
+          "options_ar": [
+            "أ) علاج vocal fold lesions",
+            "ب) تدريب مهارات vocal fold microflap بالمحاكاة",
+            "ج) قياس نتائج جراحة laryngectomy",
+            "د) تشخيص paralysis of the vocal folds"
+          ],
+          "options_en": [
+            "A) Treat vocal fold lesions",
+            "B) Simulate training in vocal fold microflap skills",
+            "C) Measure outcomes of laryngectomy",
+            "D) Diagnose paralysis of the vocal folds"
+          ],
+          "answer": 1,
+          "explanation_ar": "النموذجان مصممان لتدريب المهارات الأساسية في phonomicrosurgery، بما في ذلك محاكاة vocal fold microflap.",
+          "explanation_en": "The models are designed to train basic phonomicrosurgery skills, including simulation of vocal fold microflap."
+        },
+        {
+          "q_ar": "ما الميزة التي توفرها ملفات laryngoscope المذكورة؟",
+          "q_en": "What feature do the described laryngoscope files provide?",
+          "options_ar": [
+            "أ) إنها ملفات مغلقة المصدر لأداة تجارية واحدة",
+            "ب) إنها أجزاء مفتوحة المصدر قابلة للطباعة ثلاثية الأبعاد لمحاكاة عدة laryngoscopes",
+            "ج) إنها برنامج لتشخيص أمراض الصوت",
+            "د) إنها أدوات مخصصة للاستخدام الجراحي على المرضى"
+          ],
+          "options_en": [
+            "A) They are closed-source files for one commercial instrument",
+            "B) They are open-source, 3D-printable parts simulating multiple laryngoscopes",
+            "C) They are software for diagnosing voice disorders",
+            "D) They are instruments intended for surgery on patients"
+          ],
+          "answer": 1,
+          "explanation_ar": "تتيح الملفات تصنيع أجزاء محاكاة لعدة laryngoscopes باستخدام الطباعة ثلاثية الأبعاد، وهي متاحة بصيغة مفتوحة المصدر.",
+          "explanation_en": "The files allow 3D printing of simulated parts for multiple laryngoscopes and are publicly available as open-source resources."
+        },
+        {
+          "q_ar": "ما أهم قيد في الأدلة التي يقدمها الملخص؟",
+          "q_en": "What is the main evidence limitation in the abstract?",
+          "options_ar": [
+            "أ) لم يصف أي نموذج تدريبي",
+            "ب) لم يذكر تطبيقاً في laryngology",
+            "ج) لم يقدم نتائج تقيس الفعالية التعليمية أو انتقال المهارات",
+            "د) اقتصر على دراسة دواء"
+          ],
+          "options_en": [
+            "A) It did not describe any training model",
+            "B) It did not address an application in laryngology",
+            "C) It reported no outcomes measuring educational effectiveness or skill transfer",
+            "D) It was limited to a drug study"
+          ],
+          "answer": 2,
+          "explanation_ar": "الملخص يصف النماذج وهدفها، لكنه لا يعرض قياسات أداء المتدربين أو دليلاً على تحسن المهارات أو انتقالها للممارسة السريرية.",
+          "explanation_en": "The abstract describes the models and their purpose but provides no trainee performance measures or evidence of improved skills or clinical transfer."
+        }
+      ]
+    },
+    {
+      "pmid": "42715799",
+      "title_ar": "Neurogenic Paradoxical Vocal Fold Motion: A Systematic Review of Central and Pheripheral Nervous System Disorders.",
+      "title_en": "Neurogenic Paradoxical Vocal Fold Motion: A Systematic Review of Central and Pheripheral Nervous System Disorders.",
+      "journal": "Brazilian journal of otorhinolaryngology",
+      "pub_date": "2026",
+      "doi": "10.1016/j.bjorl.2026.101894",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42715799/",
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S1808869426001436/pdf",
+      "study_design": "Systematic review, 11 studies; 102 patients enrolled, including 42 with neurological-associated PVFM",
+      "summary_ar": "جمعت هذه systematic review أدلة منشورة عن paradoxical vocal fold motion (PVFM) المرتبط باضطرابات عصبية مؤكدة، وشملت 11 دراسة و102 مريضًا، منهم 42 لديهم PVFM مرتبط باضطراب عصبي. تضمنت الأسباب brainstem malformations وepilepsy وcerebral palsy وneuromuscular junction disorders وbasal ganglia diseases وneurodegenerative disorders وion-channelopathies. لم تسمح طبيعة الدراسات بتقدير مدى شيوع الأسباب العصبية بين جميع حالات PVFM؛ لكن أُبلغ عن مرض عصبي لدى 54% من الرضع المصابين بـPVFM، ووُثق PVFM لدى 33% من مرضى multiple system atrophy في مجموعات بعينها. تحسن معظم المرضى أو زالت أعراضهم عندما عولج السبب العصبي القابل للعلاج، بينما استمرت الأعراض غالبًا مع الأمراض التنكسية المتفاقمة. تؤكد المراجعة أهمية التفكير في اضطراب عصبي عضوي، لا اعتبار PVFM حالة وظيفية فقط. الأدلة مستمدة في معظمها من دراسات رصدية وتقارير وسلاسل حالات، لذا لا تثبت السببية ولا تحدد فعالية علاج بعينه.",
+      "summary_en": "This systematic review synthesized evidence on paradoxical vocal fold motion (PVFM) associated with confirmed neurological disorders, including 11 studies and 102 enrolled patients, 42 of whom had neurological-associated PVFM. Reported etiologies included brainstem malformations, epilepsy, cerebral palsy, neuromuscular junction disorders, basal ganglia diseases, neurodegenerative disorders, and ion-channelopathies. The review could not estimate the prevalence of neurological causes among all PVFM cases; individual cohorts reported neurological disease in 54% of infants with PVFM and PVFM in 33% of patients with multiple system atrophy. Most reported reversible cases improved or resolved after treatment directed at the underlying neurological disorder, whereas symptoms often persisted in progressive diseases. The findings support considering organic neurological disease rather than assuming PVFM is solely functional. Evidence is largely observational and case-based, limiting causal inference and treatment comparisons.",
+      "practice_change_ar": "عند وجود PVFM غير نمطي أو مقاوم للعلاج، ينبغي توسيع التقييم ليشمل احتمال وجود اضطراب عصبي، مع توجيه الفحوص والعلاج بحسب الحالة.",
+      "practice_change_en": "For atypical or treatment-refractory PVFM, clinicians should consider neurological disease and tailor evaluation and management to the suspected underlying condition.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية أكبر ومنهجية في تحديد المرضى الذين يستفيدون من التقييم العصبي وتوضيح نتائج العلاج بحسب السبب.",
+      "future_impact_en": "Larger, standardized studies may identify which patients benefit from neurological evaluation and clarify treatment outcomes by etiology.",
+      "why_important_ar": "تُبرز المراجعة أن PVFM قد يكون علامة على اضطراب في التحكم العصبي، ما قد يوجّه الانتباه إلى أسباب قابلة للعلاج.",
+      "why_important_en": "The review highlights that PVFM can signal disrupted neural control and may prompt recognition of treatable underlying conditions.",
+      "vs_previous_ar": "تضيف المراجعة تجميعًا للارتباطات العصبية الموصوفة، لكنها لا تقدم إرشادات علاجية جديدة أو تقديرًا موثوقًا لانتشار هذه الحالات.",
+      "vs_previous_en": "The review consolidates reported neurological associations but does not provide new treatment guidance or a reliable prevalence estimate.",
+      "stars": 3,
+      "stars_reason_ar": "تستند الدراسة إلى systematic review، وهو تصميم قوي مبدئيًا، لكن الأدلة المضمنة قليلة ومتغايرة وتعتمد على دراسات رصدية وحالات، كما أن المجلة ليست ضمن قائمة المجلات الأعلى تصنيفًا المحددة؛ لذا تقدم معرفة مفيدة دون تغيير الممارسة وحدها.",
+      "stars_reason_en": "The systematic review has a strong design in principle, but its limited, heterogeneous evidence base relies on observational studies and cases; the journal is not among the specified top-tier titles. It adds useful knowledge but does not independently change practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق المناقشة لأنها تتحدى افتراض أن PVFM وظيفي دائمًا، مع ضرورة نقد محدودية الأدلة وعدم إمكان استنتاج الانتشار أو السببية.",
+      "jc_reason_en": "It merits discussion because it challenges the assumption that PVFM is always functional, while its evidence limitations prevent firm prevalence or causal conclusions.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى دراسات مستقبلية موحدة تحدد معايير التقييم العصبي وتقارن نتائج العلاج بحسب التشخيص العصبي.",
+      "research_gap_en": "Prospective standardized studies are needed to define neurological evaluation criteria and compare outcomes by neurological diagnosis.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تتناول هذه الورقة systematic review عن paradoxical vocal fold motion، أو PVFM، المرتبط باضطرابات مؤكدة في الجهاز العصبي المركزي أو المحيطي. شملت المراجعة 11 دراسة و102 مريضًا ضمن الدراسات، وكان لدى 42 منهم PVFM مرتبط باضطراب عصبي. من الأسباب التي وردت brainstem malformations وepilepsy وcerebral palsy وneuromuscular junction disorders، إضافة إلى basal ganglia diseases وneurodegenerative disorders وion-channelopathies.\n\nالنقطة السريرية المهمة هي أن PVFM لا ينبغي اعتباره وظيفيًا بالضرورة، خصوصًا في الحالات غير النمطية أو التي لا تستجيب للعلاج. أبلغت بعض المجموعات عن اضطراب عصبي لدى 54% من الرضع المصابين بـPVFM، كما وُثق PVFM لدى 33% من مرضى multiple system atrophy في مجموعة محددة. لكن هذه الأرقام لا تمثل انتشار الأسباب العصبية بين جميع مرضى PVFM؛ فالمراجعة لم تكن مصممة لتقدير ذلك.\n\nتحسنت الأعراض أو زالت لدى معظم الحالات التي كان سببها قابلًا للعلاج عند معالجة الاضطراب العصبي الأساسي. بالمقابل، استمرت الأعراض غالبًا مع الأمراض التنكسية المتفاقمة. وهذا يدعم التفكير في تقييم عصبي موجّه عندما تكون الصورة السريرية غير معتادة أو مقاومة للعلاج، من دون افتراض أن كل مريض يحتاج إلى فحوص واسعة أو أن معالجة السبب ستضمن زوال الأعراض.\n\nقوة الورقة أنها تجمع ارتباطات عصبية متفرقة وتلفت الانتباه إلى أسباب قد تكون قابلة للعلاج. أما حدودها فتشمل قلة الدراسات، وتنوعها، والاعتماد على بيانات رصدية وتقارير وسلاسل حالات؛ لذلك لا يمكن إثبات السببية أو مقارنة علاجات محددة بثقة. الخلاصة: هذه مراجعة مفيدة لأطباء laryngology، لكنها لا تغيّر الممارسة بمفردها. الخطوة المعقولة هي إبقاء الأسباب العصبية ضمن التشخيص التفريقي في الحالات المختارة، مع الحاجة إلى دراسات مستقبلية موحدة لتحديد من يستفيد من التقييم العصبي وما النتائج المتوقعة بحسب التشخيص.",
+      "audio_script_en": "This systematic review examines paradoxical vocal fold motion, or PVFM, associated with confirmed central or peripheral neurological disorders. It included 11 studies with 102 enrolled patients; 42 patients had PVFM associated with a neurological disorder. Reported causes included brainstem malformations, epilepsy, cerebral palsy, neuromuscular junction disorders, basal ganglia diseases, neurodegenerative disorders, and ion-channelopathies.\n\nThe clinical message is that PVFM should not automatically be assumed to be functional, particularly when the presentation is atypical or treatment-resistant. Some included cohorts reported neurological disease in 54% of infants with PVFM, and PVFM in 33% of patients with multiple system atrophy. These figures are cohort-specific and cannot be interpreted as prevalence estimates for all patients with PVFM; the review was not designed to establish that.\n\nMost reported cases with reversible or treatable neurological causes improved substantially or resolved when treatment targeted the underlying disorder. Symptoms often persisted in progressive neurodegenerative disease. This supports considering a directed neurological evaluation in selected patients, while avoiding the assumption that every patient requires extensive testing or that treating an underlying condition guarantees symptom resolution.\n\nA strength of the review is that it brings together scattered neurological associations and draws attention to potentially treatable causes. Its limitations are the small number and heterogeneity of studies, with evidence largely drawn from observational reports and case series. As a result, it cannot establish causality or reliably compare specific treatments. The bottom line for laryngology practice is to keep neurological disease in the differential diagnosis for atypical or refractory PVFM, but not to regard this review as practice-changing. Standardized prospective studies are needed to clarify who should receive neurological evaluation and how outcomes vary by diagnosis.",
+      "mcq": [
+        {
+          "q_ar": "ما الاستنتاج الأكثر دقة بشأن انتشار الأسباب العصبية بين جميع مرضى PVFM؟",
+          "q_en": "What is the most accurate conclusion about the prevalence of neurological causes among all patients with PVFM?",
+          "options_ar": [
+            "أ) حددت المراجعة انتشارًا عامًا قدره 54%.",
+            "ب) حددت المراجعة انتشارًا عامًا قدره 33%.",
+            "ج) لم تسمح المراجعة بتقدير الانتشار بين جميع حالات PVFM.",
+            "د) لم تُدرج المراجعة أي مجموعات سريرية."
+          ],
+          "options_en": [
+            "A) The review established an overall prevalence of 54%.",
+            "B) The review established an overall prevalence of 33%.",
+            "C) The review could not estimate prevalence across all PVFM cases.",
+            "D) The review included no clinical cohorts."
+          ],
+          "answer": 2,
+          "explanation_ar": "الأرقام 54% و33% تخص مجموعات سريرية محددة، ولا يمكن تعميمها لتقدير الانتشار بين جميع مرضى PVFM.",
+          "explanation_en": "The 54% and 33% figures came from specific cohorts and cannot be generalized as prevalence among all patients with PVFM."
+        },
+        {
+          "q_ar": "ما النمط العام لنتائج العلاج بحسب المراجعة؟",
+          "q_en": "What was the general pattern of treatment outcomes in the review?",
+          "options_ar": [
+            "أ) تحسنت الحالات القابلة للعلاج غالبًا، بينما استمرت الأعراض غالبًا في الأمراض المتفاقمة.",
+            "ب) زالت الأعراض في جميع الحالات بصرف النظر عن السبب.",
+            "ج) لم تتحسن أي حالة بعد معالجة الاضطراب العصبي.",
+            "د) كانت النتائج متطابقة في الحالات القابلة للعلاج والأمراض التنكسية."
+          ],
+          "options_en": [
+            "A) Treatable cases often improved, while symptoms often persisted in progressive diseases.",
+            "B) Symptoms resolved in every case regardless of cause.",
+            "C) No cases improved after treatment of the neurological disorder.",
+            "D) Outcomes were identical in treatable and neurodegenerative conditions."
+          ],
+          "answer": 0,
+          "explanation_ar": "أشارت المراجعة إلى تحسن معظم الحالات القابلة للعلاج، مقابل استمرار الأعراض غالبًا مع الأمراض المتفاقمة.",
+          "explanation_en": "The review reported improvement in most treatable cases, whereas symptoms often persisted with progressive diseases."
+        },
+        {
+          "q_ar": "ما التطبيق السريري الأكثر اتزانًا لهذه النتائج؟",
+          "q_en": "What is the most balanced clinical application of these findings?",
+          "options_ar": [
+            "أ) اعتبار كل حالات PVFM اضطرابًا عصبيًا مؤكدًا.",
+            "ب) إيقاف تقييم الحنجرة لصالح الفحوص العصبية.",
+            "ج) إجراء فحوص عصبية واسعة لكل مريض دون النظر إلى العرض السريري.",
+            "د) التفكير في تقييم عصبي موجّه للحالات غير النمطية أو المقاومة للعلاج."
+          ],
+          "options_en": [
+            "A) Treat every PVFM case as a confirmed neurological disorder.",
+            "B) Stop laryngeal assessment and use neurological testing instead.",
+            "C) Perform extensive neurological testing in every patient regardless of presentation.",
+            "D) Consider directed neurological evaluation for atypical or treatment-refractory cases."
+          ],
+          "answer": 3,
+          "explanation_ar": "تدعم النتائج إبقاء الاضطرابات العصبية ضمن التشخيص التفريقي في الحالات المختارة، لكنها لا تبرر فحوصًا واسعة لكل مريض.",
+          "explanation_en": "The findings support considering neurological causes in selected patients, but do not justify extensive testing for everyone."
+        }
+      ]
+    },
+    {
+      "pmid": "42826529",
+      "title_ar": "The impact of nasal valve surgery on snoring.",
+      "title_en": "The impact of nasal valve surgery on snoring.",
+      "journal": "Brazilian journal of otorhinolaryngology",
+      "pub_date": "2026",
+      "doi": "10.1016/j.bjorl.2026.101887",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42826529/",
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S1808869426001369/pdf",
+      "study_design": "Prospective analytical study, n=30",
+      "summary_ar": "هدفت هذه الدراسة prospective إلى تقييم تأثير nasal surgery على مدة الشخير لدى 30 مريضًا لديهم nasal obstruction وشكوى من الشخير. شملت المجموعة الأولى مرضى لديهم complex septal deviations وnasal valve weakness وتغيرات بنيوية ظاهرة، بينما شملت المجموعة الثانية مرضى لديهم moderate to severe septal deviations. قاس الباحثون مدة الشخير كنسبة من وقت النوم باستخدام تطبيق SnoreLab™، كما قيّموا nasal symptoms ومخاطر obstructive sleep apnea والنعاس النهاري والرضا عن المظهر. أظهرت النتائج انخفاضًا ذا دلالة في مدة الشخير لدى المجموعة الأولى، لكن الملخص لا يورد مقادير التأثير أو قيم p. وُجد ارتباط ضعيف بين chronic nasal obstruction وارتفاع خطر obstructive sleep apnea في المجموعتين. تشير النتائج إلى أن تصحيح الانسداد الأنفي قد يقلل الشخير لدى بعض المرضى، لكنها لا تثبت أن الجراحة تعالج obstructive sleep apnea.",
+      "summary_en": "This prospective analytical study evaluated nasal surgery and snoring duration in 30 patients with nasal obstruction and snoring complaints.\nGroup 1 had complex septal deviations, nasal valve weakness, and visible structural changes; Group 2 had moderate-to-severe septal deviations.\nSnoring duration as a percentage of sleep time was measured with the SnoreLab™ mobile app.\nThe study also assessed nasal symptoms, obstructive sleep apnea risk, daytime sleepiness, and aesthetic satisfaction.\nSnoring duration significantly decreased in Group 1; the abstract does not provide effect sizes or p-values.\nThe association between chronic nasal obstruction and increased obstructive sleep apnea risk was weak in both groups.",
+      "practice_change_ar": "لا تدعم هذه الدراسة تغيير الممارسة حاليًا، لكنها تساند تقييم nasal anatomy لدى مرضى nasal obstruction والشخير مع توضيح أن جراحة الأنف لا تُعد علاجًا مثبتًا لـ obstructive sleep apnea.",
+      "practice_change_en": "This study does not justify changing practice today, but supports assessing nasal anatomy in patients with nasal obstruction and snoring while clarifying that nasal surgery is not an established treatment for obstructive sleep apnea.",
+      "future_impact_ar": "قد تساعد دراسات أكبر ذات قياسات موضوعية ومتابعة أطول في تحديد المرضى الذين يستفيدون من nasal surgery في تقليل الشخير.",
+      "future_impact_en": "Larger studies with objective measurements and longer follow-up may identify which patients benefit from nasal surgery for snoring reduction.",
+      "why_important_ar": "تتناول الدراسة شكوى شائعة وتوضح احتمال تحسن الشخير بعد تصحيح الانسداد الأنفي لدى مجموعة مختارة من المرضى.",
+      "why_important_en": "The study addresses a common complaint and suggests that correcting nasal obstruction may reduce snoring in selected patients.",
+      "vs_previous_ar": "تضيف الدراسة قياسًا لتغير مدة الشخير باستخدام تطبيق بعد nasal surgery، لكنها لا تقدم دليلًا كافيًا لتغيير المعرفة أو الإرشادات الحالية.",
+      "vs_previous_en": "The study adds app-based measurement of snoring duration after nasal surgery, but does not provide enough evidence to change current knowledge or guidelines.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة prospective صغيرة تضم 30 مريضًا، وتقدم فائدة سريرية محتملة لكنها غير عشوائية وتعتمد على قياس عبر تطبيق ولا تثبت أثرًا على obstructive sleep apnea؛ لذلك تستحق اهتمامًا متوسطًا.",
+      "stars_reason_en": "A small prospective study of 30 patients offers potentially useful clinical information, but is nonrandomized, uses app-based measurement, and does not establish an effect on obstructive sleep apnea; therefore it merits a moderate score.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for discussion of patient selection and snoring measurement, especially the limits of inference from a small nonrandomized study using an app-based measure.",
+      "watch": true,
+      "watch_detail_ar": "يستحق SnoreLab™ المتابعة بوصفه أداة تقنية منخفضة الكلفة لقياس الشخير، مع ضرورة التحقق من دقته مقارنة بالقياسات الموضوعية.",
+      "watch_detail_en": "SnoreLab™ is worth tracking as a low-cost technology for measuring snoring, although its accuracy should be validated against objective measurements.",
+      "watch_type": "technology",
+      "research_gap_ar": "تلزم دراسات عشوائية أكبر تقارن nasal surgery بالعلاج التحفظي وتستخدم قياسات نوم موضوعية لتحديد أثر الجراحة على الشخير وobstructive sleep apnea.",
+      "research_gap_en": "Larger randomized studies comparing nasal surgery with conservative management and using objective sleep measurements are needed to establish effects on snoring and obstructive sleep apnea.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "في هذا الملخص من ORL Daily، نراجع دراسة بعنوان «The impact of nasal valve surgery on snoring»، تناولت سؤالًا شائعًا في عيادات الأنف والنوم: هل يمكن أن يؤدي تصحيح الانسداد الأنفي إلى تقليل الشخير؟\n\nالدراسة prospective analytical، وشملت 30 مريضًا لديهم nasal obstruction وشكوى من الشخير. قُسّم المشاركون إلى مجموعتين. ضمت الأولى مرضى لديهم complex septal deviations وnasal valve weakness وتغيرات بنيوية ظاهرة، أما الثانية فضمت مرضى لديهم moderate to severe septal deviations. قاس الباحثون مدة الشخير كنسبة من وقت النوم باستخدام تطبيق SnoreLab™، إلى جانب تقييم nasal symptoms ومخاطر obstructive sleep apnea والنعاس النهاري والرضا عن المظهر.\n\nكانت النتيجة الأبرز انخفاضًا ذا دلالة في مدة الشخير لدى المجموعة الأولى. كما وُجد ارتباط ضعيف بين chronic nasal obstruction وارتفاع خطر obstructive sleep apnea في المجموعتين. لكن الملخص لا يعرض مقدار الانخفاض أو قيم p، ولا يذكر مقارنة عشوائية أو مجموعة ضابطة؛ لذلك ينبغي تفسير النتائج بحذر. والأهم أن تحسن الشخير لا يعني أن nasal surgery تعالج obstructive sleep apnea.\n\nمن الناحية العملية، لا تغيّر هذه الدراسة الممارسة اليوم، لكنها تذكّرنا بأهمية فحص nasal anatomy عند تقييم مريض يشكو من الانسداد والشخير، وبضرورة شرح أن هدف الجراحة قد يكون تحسين الانسداد أو تقليل الشخير لدى بعض المرضى، لا استبدال تقييم وعلاج اضطرابات التنفس أثناء النوم. كما أن استخدام SnoreLab™ أداة جديرة بالاهتمام، لكن دقة القياس تحتاج إلى تحقق مقابل قياسات موضوعية.\n\nنمنح الدراسة ثلاث نجوم وثقة متوسطة: فهي prospective وتطرح فائدة سريرية محتملة، لكنها صغيرة وغير عشوائية وتعتمد على قياس بالتطبيق. والبحث القادم ينبغي أن يكون أكبر وعشوائيًا، مع متابعة أطول وقياسات نوم موضوعية، لتحديد من يستفيد فعلًا وما إذا كان الأثر يقتصر على الشخير أم يمتد إلى نتائج النوم الأخرى.",
+      "audio_script_en": "This ORL Daily review examines “The impact of nasal valve surgery on snoring,” a study addressing a familiar question in ENT and sleep clinics: can correcting nasal obstruction reduce snoring?\n\nThe prospective analytical study included 30 patients with nasal obstruction and snoring complaints. Participants were divided into two groups. Group 1 had complex septal deviations, nasal valve weakness, and visible structural changes; Group 2 had moderate-to-severe septal deviations. Researchers measured snoring duration as a percentage of sleep time using the SnoreLab™ mobile app. They also assessed nasal symptoms, obstructive sleep apnea risk, daytime sleepiness, and aesthetic satisfaction.\n\nThe main finding was a significant reduction in snoring duration in Group 1. The study also found a weak association between chronic nasal obstruction and increased obstructive sleep apnea risk in both groups. However, the abstract does not report the size of the reduction or p-values, and it describes no randomization or control group. These limitations mean the findings should be interpreted cautiously. In particular, improvement in snoring does not establish that nasal surgery treats obstructive sleep apnea.\n\nFor clinical practice, this study does not warrant a change in management today. It does reinforce the value of examining nasal anatomy in patients who report both obstruction and snoring. Counseling should distinguish a possible reduction in snoring or nasal blockage from treatment of sleep-disordered breathing; patients still need appropriate assessment and treatment for obstructive sleep apnea when indicated. SnoreLab™ is also worth tracking as a convenient measurement technology, although its accuracy needs validation against objective measures.\n\nWe assign three stars and moderate confidence. The prospective design and clinically relevant question are strengths, but the sample is small, the study is nonrandomized, and snoring was measured using an app. Larger randomized studies with longer follow-up and objective sleep measurements are needed to identify who benefits and whether any effect extends beyond snoring.",
+      "mcq": [
+        {
+          "q_ar": "ما الأداة التي استخدمتها الدراسة لقياس مدة الشخير؟",
+          "q_en": "What tool did the study use to measure snoring duration?",
+          "options_ar": [
+            "أ) تخطيط النوم داخل المختبر فقط",
+            "ب) تطبيق SnoreLab™ للهاتف المحمول",
+            "ج) استبيان الرضا عن المظهر",
+            "د) قياس تدفق الهواء الأنفي وحده"
+          ],
+          "options_en": [
+            "A) In-laboratory polysomnography only",
+            "B) The SnoreLab™ mobile app",
+            "C) An aesthetic satisfaction questionnaire",
+            "D) Nasal airflow measurement alone"
+          ],
+          "answer": 1,
+          "explanation_ar": "قاس الباحثون مدة الشخير كنسبة من وقت النوم باستخدام تطبيق SnoreLab™.",
+          "explanation_en": "Researchers measured snoring duration as a percentage of sleep time using the SnoreLab™ app."
+        },
+        {
+          "q_ar": "ما النتيجة الأساسية التي أوردها الملخص؟",
+          "q_en": "What was the main result reported in the abstract?",
+          "options_ar": [
+            "أ) انخفاض ذو دلالة في مدة الشخير لدى المجموعة الأولى",
+            "ب) انخفاض خطر obstructive sleep apnea في المجموعتين",
+            "ج) عدم حدوث أي تغير في الشخير",
+            "د) تحسن مثبت في جميع مقاييس النوم"
+          ],
+          "options_en": [
+            "A) A significant reduction in snoring duration in Group 1",
+            "B) Reduced obstructive sleep apnea risk in both groups",
+            "C) No change in snoring",
+            "D) Proven improvement in all sleep measures"
+          ],
+          "answer": 0,
+          "explanation_ar": "ذكر الملخص انخفاضًا ذا دلالة في مدة الشخير لدى المجموعة الأولى، ولم يثبت تحسنًا في جميع مقاييس النوم.",
+          "explanation_en": "The abstract reported a significant reduction in snoring duration in Group 1, not proven improvement across all sleep measures."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأكثر ملاءمة للممارسة السريرية؟",
+          "q_en": "Which conclusion is most appropriate for clinical practice?",
+          "options_ar": [
+            "أ) nasal surgery علاج مثبت لـ obstructive sleep apnea",
+            "ب) ينبغي إجراء الجراحة لكل مريض يشخر",
+            "ج) قد تقلل nasal surgery الشخير لدى بعض المرضى، لكن الدراسة لا تثبت علاج obstructive sleep apnea",
+            "د) لا توجد حاجة لتقييم nasal anatomy"
+          ],
+          "options_en": [
+            "A) Nasal surgery is an established treatment for obstructive sleep apnea",
+            "B) Surgery should be performed for every patient who snores",
+            "C) Nasal surgery may reduce snoring in some patients, but the study does not establish treatment of obstructive sleep apnea",
+            "D) Nasal anatomy does not need to be assessed"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة صغيرة وغير عشوائية وتدعم احتمال تقليل الشخير لدى بعض المرضى، لكنها لا تثبت أن الجراحة تعالج obstructive sleep apnea.",
+          "explanation_en": "The small, nonrandomized study suggests possible snoring reduction in selected patients but does not establish that surgery treats obstructive sleep apnea."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026110101",
+      "title_ar": "ميدترونيك وكارل ستورتز تتعاونان لتطوير حلول جراحية متكاملة للأنف والأذن والحنجرة",
+      "title_en": "Medtronic and Karl Storz Collaborate on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-01",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أعلنت شركتا ميدترونيك وكارل ستورتز تعاونًا يركز على حلول جراحية متكاملة في مجال الأنف والأذن والحنجرة. ولا يوضح العنوان المنتجات أو التقنيات التي ستُدمج، أو موعد توفر أي حلول. كما لا تشير المعلومات المتاحة إلى استحواذ أو قرار تنظيمي أو شروط مالية. وستلزم تفاصيل إضافية لتقييم نطاق التعاون وآثاره السريرية.",
+      "summary_en": "Medtronic and Karl Storz announced a collaboration focused on integrated surgical solutions for ear, nose and throat care. The headline does not specify which products or technologies will be combined, or when any solutions may become available. No acquisition, regulatory decision, or financial terms are indicated in the provided information. Further details will be needed to assess the collaboration’s scope and clinical implications.",
+      "practice_change_ar": "لا يُتوقع أن يتغير عمل جرّاحي الأنف والأذن والحنجرة فورًا استنادًا إلى الإعلان وحده، إذ لم تُذكر تفاصيل المنتجات أو توفرها أو الأدلة الداعمة لها.",
+      "practice_change_en": "ENT surgeons should not expect an immediate change in practice based on the announcement alone; specific products, availability, and evidence have not been detailed.",
+      "future_impact_ar": "قد يشير التعاون إلى توجه أوسع نحو أنظمة متكاملة لغرف عمليات الأنف والأذن والحنجرة، بانتظار تفاصيل التنفيذ والنتائج.",
+      "future_impact_en": "The partnership may signal a broader move toward integrated ENT operating-room systems, pending details on implementation and outcomes.",
+      "why_important_ar": "إذا أفضى التعاون إلى أدوات جراحية متوافقة ومتكاملة، فقد يبسّط سير العمل، لكن الفائدة السريرية لم تثبت بعد.",
+      "why_important_en": "If the collaboration produces interoperable surgical tools, it could simplify workflows, but the clinical benefit remains unestablished.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "خبر تجاري قد يكون ذا صلة بالتقنيات الجراحية، لكن التفاصيل والأثر السريري غير واضحين.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أعلنت شركتا ميدترونيك وكارل ستورتز عن تعاون لتطوير حلول جراحية متكاملة في مجال الأنف والأذن والحنجرة. وقد يهم هذا الإعلان الجرّاحين لأن دمج التقنيات والأدوات داخل غرفة العمليات يمكن، من حيث المبدأ، أن يساعد على تنسيق سير العمل الجراحي.\n\nلكن المعلومات المنشورة في العنوان المتاح محدودة؛ فلا توضح المنتجات التي يشملها التعاون، أو موعد إطلاقها، أو ما إذا كانت ستتطلب تجهيزات جديدة. كذلك لا تتوافر تفاصيل عن دراسات سريرية أو نتائج تثبت تحسن السلامة أو الفعالية أو الكفاءة.\n\nلذلك، لا يعني الإعلان وجود تغيير فوري في الممارسة أو توفر تقنية جديدة للاستخدام. يمكن للأطباء متابعة الإعلانات اللاحقة لمعرفة نطاق الحلول، وتوافقها مع الأنظمة الحالية، وأي بيانات عن أثرها على النتائج والتكلفة. حتى تتضح هذه الجوانب، يُعد الخبر تطورًا تجاريًا واعدًا محتملًا، لا توصية بتغيير الممارسة السريرية.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026110102",
+      "title_ar": "توقعات بنمو سوق تنظير الأنف والأذن والحنجرة بمعدل سنوي مركب قدره 6.4%",
+      "title_en": "ENT Endoscopy Market Forecast to Grow at a 6.4% CAGR",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-01",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "ذكرت Market.us أن سوق تنظير الأنف والأذن والحنجرة يُتوقع أن ينمو بمعدل سنوي مركب قدره 6.4%. ولا يحدد العنوان الفترة الزمنية للتوقعات أو تقديرات حجم السوق أو العوامل التي تقود هذا النمو. ويتعلق الخبر بتوقعات السوق، وليس بعملية استحواذ محددة أو قرار تنظيمي أو دراسة سريرية.",
+      "summary_en": "Market.us reports that the ENT endoscopy market is projected to grow at a compound annual growth rate of 6.4%. The headline does not specify the forecast period, market-size estimates, or the factors driving the projection. It describes a market forecast, not a specific acquisition, regulatory decision, or clinical study.",
+      "practice_change_ar": "لا تستدعي هذه التوقعات تغييرًا فوريًا في الممارسة السريرية، لكنها قد تكون ذات صلة عند تقييم مشتريات معدات التنظير مستقبلًا.",
+      "practice_change_en": "The forecast does not call for an immediate change in clinical practice, but may be relevant when evaluating future endoscopy equipment purchases.",
+      "future_impact_ar": "إذا تحققت التوقعات، فقد يجد جراحو الأنف والأذن والحنجرة خيارات أوسع من منتجات التنظير، لكن ينبغي أن تستند قرارات الشراء إلى أدلة كل منتج واحتياجات المؤسسة المحلية.",
+      "future_impact_en": "If the forecast is realized, ENT surgeons may see a broader range of endoscopy products, but purchasing decisions should rely on product-level evidence and local needs.",
+      "why_important_ar": "قد يشير نمو السوق المحتمل إلى استمرار الاستثمار في تقنيات التنظير في طب الأنف والأذن والحنجرة، لكن التفاصيل المتاحة عن التقرير لا تكفي لتقييم أثر ذلك في التكاليف أو رعاية المرضى.",
+      "why_important_en": "Potential market growth may signal continued investment in ENT endoscopy technology, although the report details provided are too limited to assess effects on costs or patient care.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "أهمية محدودة للجراحين؛ الخبر توقع سوقي عام من دون تفاصيل عن المنتجات أو أثر سريري مباشر.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أشارت Market.us إلى أن سوق تنظير الأنف والأذن والحنجرة يُتوقع أن ينمو بمعدل سنوي مركب يبلغ 6.4%. لكن العنوان المنشور لا يوضح الفترة التي تغطيها التوقعات، ولا حجم السوق المتوقع، ولا أسباب النمو. لذلك ينبغي التعامل مع الرقم بوصفه تقديرًا تجاريًا عامًا، وليس دليلًا على تحسن النتائج السريرية أو انخفاض تكاليف الأجهزة. بالنسبة إلى أطباء الأنف والأذن والحنجرة، قد يعكس هذا التوقع استمرار اهتمام الشركات بأدوات التنظير وتطويرها، وربما اتساع الخيارات المتاحة مستقبلًا. لكنه لا يبرر وحده تغيير الممارسة أو شراء أجهزة جديدة. عند تقييم أي منتج، تظل جودة الصورة، وسهولة الاستخدام، والتوافق مع الاحتياجات السريرية، والتكلفة الإجمالية، والأدلة المنشورة عوامل أساسية. الخلاصة: الخبر إشارة عامة إلى اتجاه السوق، وأهميته العملية محدودة ما لم تتوفر تفاصيل أكثر عن التقرير أو عن التقنيات والمنتجات المعنية.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026110103",
+      "title_ar": "سوق مناظير الحنجرة الليفية المرنة حتى عام 2035: الطلب المرتبط بمجرى الهواء الصعب يدعم النمو",
+      "title_en": "Flexible Fibre Laryngoscope Market Through 2035: Difficult-Airway Demand Supports Growth",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-01",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت IndexBox توقعات لسوق مناظير الحنجرة الليفية المرنة حتى عام 2035، وحددت الطلب المرتبط بالتعامل مع مجرى الهواء الصعب بوصفه أحد محركات النمو. المادة توقعات سوقية وليست إعلاناً عن استحواذ أو قرار تنظيمي أو دعوى قضائية أو أداء شركة بعينها. ولا تتضمن المعلومات المتاحة تقديرات لحجم السوق أو معدلات نمو أو تفاصيل عن منهجية البحث.",
+      "summary_en": "IndexBox published a market outlook for flexible fibre laryngoscopes through 2035, identifying demand related to difficult-airway management as a growth driver. The item is a market forecast, not an announcement of an acquisition, regulatory decision, lawsuit, or specific company performance. The provided information does not include market-size estimates, growth rates, or details on the underlying research.",
+      "practice_change_ar": "لا تشير التوقعات إلى تغيير في الإرشادات السريرية، لكنها تسلط الضوء على استمرار الاهتمام التجاري بالمناظير المرنة المستخدمة في تقييم مجرى الهواء والتعامل معه.",
+      "practice_change_en": "The forecast does not establish a change in clinical guidance, but it highlights continued commercial interest in flexible scopes used for airway assessment and management.",
+      "future_impact_ar": "إذا تحقق الطلب المتوقع، فقد تشهد عيادات الأنف والأذن والحنجرة استمرار تطوير المنتجات والمنافسة في مجال المناظير المرنة، لكن التفاصيل المتاحة هنا لا تكفي لتقدير حجم ذلك أو توقيته.",
+      "future_impact_en": "If the forecasted demand materializes, ENT practices may see continued product development and competition in flexible laryngoscopes, but the report details available here are insufficient to assess the scale or timing.",
+      "why_important_ar": "قد تكون المناظير المرنة ذات صلة برعاية حالات مجرى الهواء الصعب، لكن هذه التوقعات السوقية لا تقدم أدلة جديدة بشأن النتائج السريرية أو أداء الأجهزة.",
+      "why_important_en": "Flexible laryngoscopes can be relevant to difficult-airway care, although this market outlook provides no new evidence about clinical outcomes or device performance.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "توقع سوقي عام دون بيانات كمية أو أثر سريري مباشر.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أصدرت IndexBox توقعات لسوق مناظير الحنجرة الليفية المرنة حتى عام 2035. وتشير المادة إلى أن الطلب المرتبط بالتعامل مع مجرى الهواء الصعب قد يدعم نمو السوق. من المهم التمييز بين هذا النوع من التوقعات التجارية وبين الأدلة السريرية: فالمعلومات المتاحة لا تتضمن أرقاماً لحجم السوق أو معدل النمو، ولا تقدم بيانات عن فعالية الأجهزة أو نتائج المرضى. بالنسبة إلى أطباء الأنف والأذن والحنجرة، قد يكون الخبر مؤشراً على استمرار اهتمام الشركات بتطوير هذه المناظير وتوسيع المنافسة، لكنه لا يستدعي بحد ذاته تغييراً في الممارسة أو اختيار الأجهزة. وتبقى قيمة التوقعات محدودة إلى حين الاطلاع على منهجيتها وتفاصيلها الكمية.",
+      "mcq": []
+    }
+  ]
+}
