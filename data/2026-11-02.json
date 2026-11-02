@@ -1,0 +1,393 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T11:00:05Z",
+  "articles": [
+    {
+      "pmid": "42546548",
+      "title_ar": "Guideline update: Neonatal and infant airway management.",
+      "title_en": "Guideline update: Neonatal and infant airway management.",
+      "journal": "The American journal of emergency medicine",
+      "pub_date": "2026-Nov",
+      "doi": "10.1016/j.ajem.2026.07.056",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42546548/",
+      "pdf_url": null,
+      "study_design": "Guideline update summary / narrative review",
+      "summary_ar": "تلخص المقالة توصيات 2024 المشتركة الصادرة عن European Society of Anaesthesiology and Intensive Care وBritish Journal of Anaesthesia لإدارة airway لدى neonates وinfants دون عمر سنة. توصي باستخدام history وphysical examination لتوقع difficult airway، مع توفير anaesthesia مناسبة باستخدام أدوية مثل etomidate أو ketamine مع neuromuscular blocking agents. يُوصى بأن تكون videolaryngoscopy الخيار الأول لـ intubation، مع استخدام apneic oxygenation أثناء المحاولة. إذا تعذرت tracheal intubation، يمكن استخدام supraglottic device لإنقاذ oxygenation وventilation. ينبغي الحد من عدد المحاولات، والنظر بعد كل إخفاق في تغيير technique أو provider أو كليهما، مع استخدام stylet في hyperangulated videolaryngoscopy blades أو airways ذات الوضع anterior تشريحياً. يُستخدم end-tidal capnography لتأكيد intubation، كما تؤكد التوصيات أهمية human factors لتقليل الضرر.",
+      "summary_en": "Summarizes the 2024 joint guidelines for airway management in neonates and infants under one year.\nUse history and physical examination to anticipate a difficult airway.\nFor intubation, the guidelines favor appropriate anesthesia with agents such as etomidate or ketamine plus neuromuscular blocking agents.\nVideolaryngoscopy is recommended as the first-choice intubation technique, with apneic oxygenation during attempts.\nA supraglottic device can provide rescue oxygenation and ventilation when tracheal intubation fails.\nLimit attempts, consider changing technique or provider after each failure, use a stylet in specified situations, and confirm intubation with end-tidal capnography.",
+      "practice_change_ar": "ينبغي اعتماد videolaryngoscopy كخيار أول لـ intubation لدى neonates وinfants، مع apneic oxygenation وend-tidal capnography وخطة واضحة لتقليل المحاولات وتأمين rescue ventilation.",
+      "practice_change_en": "Use videolaryngoscopy as the first-choice intubation technique in neonates and infants, with apneic oxygenation, end-tidal capnography, and a planned limit on attempts and rescue ventilation.",
+      "future_impact_ar": "قد يؤدي تطبيق هذه التوصيات وتدريب الفرق على human factors إلى تحسين سلامة airway لدى neonates وinfants، لكن يلزم تقييم النتائج السريرية للتطبيق.",
+      "future_impact_en": "Implementing these recommendations and training teams in human factors may improve neonatal and infant airway safety, although clinical outcomes of implementation require evaluation.",
+      "why_important_ar": "تكتسب المقالة أهميتها من جمعها خطوات عملية للحد من فشل intubation ومضاعفاته لدى فئة عالية الخطورة.",
+      "why_important_en": "The article is important because it consolidates practical steps to reduce intubation failure and harm in a high-risk population.",
+      "vs_previous_ar": "تقدم المقالة ملخصاً لتوصيات مشتركة حديثة تجعل videolaryngoscopy الخيار الأول وتؤكد apneic oxygenation، وحدّ المحاولات، واعتبارات human factors.",
+      "vs_previous_en": "It summarizes recent joint recommendations that prioritize videolaryngoscopy and emphasize apneic oxygenation, limiting attempts, and human factors.",
+      "stars": 4,
+      "stars_reason_ar": "هذا ملخص إرشادات وليس دراسة سريرية أصلية، لذا لا يقدم مستوى دليل تجريبي مرتفعاً؛ لكنه يتناول قرارات عملية قد تغير إدارة airway اليوم، مع قيمة سريرية واضحة رغم أن المجلة ليست ضمن قائمة المجلات الأعلى تصنيفاً المحددة.",
+      "stars_reason_en": "This is a guideline summary rather than an original clinical study, so it does not provide high-level primary evidence; however, it addresses actionable decisions that can change airway management today and has clear clinical value.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "موضوع مناسب للنقاش لأنه يراجع توصيات حديثة ومباشرة التطبيق في إدارة airway الطارئة لدى neonates وinfants.",
+      "jc_reason_en": "Suitable for discussion because it reviews recent, actionable recommendations for emergency airway management in neonates and infants.",
+      "watch": true,
+      "watch_detail_ar": "تابع اعتماد videolaryngoscopy كخيار أول ونتائج تطبيقه في intubation لدى neonates وinfants، خصوصاً مع apneic oxygenation.",
+      "watch_detail_en": "Track the adoption of videolaryngoscopy as the first-choice technique and its outcomes in neonatal and infant intubation, particularly alongside apneic oxygenation.",
+      "watch_type": "device",
+      "research_gap_ar": "هناك حاجة إلى دراسات تطبيقية تقارن نتائج airway السريرية قبل تطبيق هذه التوصيات وبعده، بما يشمل نجاح المحاولة الأولى والمضاعفات.",
+      "research_gap_en": "Implementation studies are needed to compare clinical airway outcomes before and after adoption of these recommendations, including first-attempt success and complications.",
+      "subspecialty": "pediatric",
+      "audio_script_ar": "نستعرض اليوم تحديثاً إرشادياً حول إدارة airway لدى neonates وinfants دون عمر سنة. المقالة تلخص توصيات 2024 المشتركة من European Society of Anaesthesiology and Intensive Care وBritish Journal of Anaesthesia، وتركز على أهميتها في emergency medicine.\n\nأولاً، توصي الإرشادات باستخدام history وphysical examination لتوقع difficult airway والاستعداد له قبل بدء intubation. ولضمان anaesthesia مناسبة، تذكر أدوية مثل etomidate أو ketamine، بالتزامن مع neuromuscular blocking agents. الهدف هو تهيئة ظروف مناسبة للإجراء بدلاً من إجراء محاولات غير محسوبة.\n\nثانياً، تعتبر videolaryngoscopy الخيار الأول لـ intubation، وتوصي باستخدام apneic oxygenation خلال محاولة intubation. إذا لم تنجح tracheal intubation، يمكن اللجوء إلى supraglottic device لتأمين oxygenation وventilation. كما يجب الحد من عدد المحاولات، وبعد كل محاولة فاشلة ينبغي التفكير في تغيير technique أو provider أو كليهما. عند استخدام hyperangulated videolaryngoscopy blade، أو عند وجود airway بوضع anterior تشريحياً، يُنصح باستخدام stylet.\n\nيجب تأكيد intubation باستخدام end-tidal capnography. ولا تقتصر الإرشادات على الأدوات التقنية؛ فهي تؤكد أيضاً دور human factors والعمل الجماعي في تحسين الرعاية والحد من الضرر.\n\nهذه المقالة ملخص إرشادي وليست تجربة سريرية أصلية، لذلك لا تقدم نتائج مقارنة جديدة. مع ذلك، فهي ذات أثر عملي واضح، وتستحق النقاش في journal club لتوحيد النهج والتدريب. ومن المفيد متابعة مدى تطبيق videolaryngoscopy ونتائج ذلك، خصوصاً نجاح المحاولة الأولى والمضاعفات. وتبقى هناك حاجة إلى دراسات تطبيقية تقيس أثر هذه التوصيات على النتائج السريرية لدى neonates وinfants.",
+      "audio_script_en": "Today we review an update on airway management in neonates and infants under one year of age. The article summarizes the 2024 joint guidelines from the European Society of Anaesthesiology and Intensive Care and the British Journal of Anaesthesia, with an emphasis on emergency medicine.\n\nFirst, use history and physical examination to anticipate a difficult airway and prepare before intubation. The guidelines recommend ensuring appropriate anesthesia, with agents such as etomidate or ketamine used alongside neuromuscular blocking agents. The goal is to create suitable conditions for the procedure and avoid poorly planned repeated attempts.\n\nSecond, videolaryngoscopy is recommended as the first-choice technique for intubation, and apneic oxygenation should be used during the attempt. If tracheal intubation is unsuccessful, a supraglottic device can be used to provide rescue oxygenation and ventilation. Attempts should be limited. After each unsuccessful attempt, consider changing the technique, the provider, or both. A stylet is recommended with hyperangulated videolaryngoscopy blades and when the airway is anatomically anterior.\n\nConfirm intubation using end-tidal capnography. The recommendations also highlight human factors and teamwork as important parts of safer care, not simply technical details.\n\nThis is a guideline summary, not an original clinical trial, so it does not provide new comparative patient outcome data. Nevertheless, it offers actionable recommendations and is appropriate for journal club discussion and local airway training. Track adoption of videolaryngoscopy and the clinical outcomes of implementation, especially first-attempt success and complications. Further implementation studies are needed to establish how these recommendations affect outcomes in neonates and infants.",
+      "mcq": [
+        {
+          "q_ar": "ما التقنية التي توصي بها الإرشادات كخيار أول لـ intubation لدى neonates وinfants؟",
+          "q_en": "Which technique do the guidelines recommend as the first choice for intubation in neonates and infants?",
+          "options_ar": [
+            "أ) Direct laryngoscopy",
+            "ب) Videolaryngoscopy",
+            "ج) Flexible bronchoscopy في جميع الحالات",
+            "د) Supraglottic device كخيار أول"
+          ],
+          "options_en": [
+            "A) Direct laryngoscopy",
+            "B) Videolaryngoscopy",
+            "C) Flexible bronchoscopy in all cases",
+            "D) Supraglottic device as the first choice"
+          ],
+          "answer": 1,
+          "explanation_ar": "توصي الإرشادات باستخدام videolaryngoscopy كخيار أول لـ intubation.",
+          "explanation_en": "The guidelines recommend videolaryngoscopy as the first-choice intubation technique."
+        },
+        {
+          "q_ar": "ما الإجراء الموصى به عند فشل tracheal intubation للمساعدة في rescue oxygenation وventilation؟",
+          "q_en": "What is recommended to support rescue oxygenation and ventilation if tracheal intubation fails?",
+          "options_ar": [
+            "أ) تكرار المحاولة بالطريقة نفسها دون حد",
+            "ب) استخدام supraglottic device",
+            "ج) إزالة stylet فقط",
+            "د) إيقاف oxygenation"
+          ],
+          "options_en": [
+            "A) Repeat the same attempt without a limit",
+            "B) Use a supraglottic device",
+            "C) Remove the stylet only",
+            "D) Stop oxygenation"
+          ],
+          "answer": 1,
+          "explanation_ar": "يمكن استخدام supraglottic device كوسيلة إنقاذ لتوفير oxygenation وventilation عند تعذر intubation.",
+          "explanation_en": "A supraglottic device can provide rescue oxygenation and ventilation when intubation is unsuccessful."
+        },
+        {
+          "q_ar": "ما الوسيلة التي ينبغي استخدامها لتأكيد intubation؟",
+          "q_en": "What method should be used to confirm intubation?",
+          "options_ar": [
+            "أ) End-tidal capnography",
+            "ب) History وحده",
+            "ج) Chest auscultation وحده",
+            "د) Videolaryngoscopy قبل الإجراء فقط"
+          ],
+          "options_en": [
+            "A) End-tidal capnography",
+            "B) History alone",
+            "C) Chest auscultation alone",
+            "D) Videolaryngoscopy only before the procedure"
+          ],
+          "answer": 0,
+          "explanation_ar": "توصي الإرشادات باستخدام end-tidal capnography للتحقق من intubation.",
+          "explanation_en": "The guidelines recommend end-tidal capnography to verify intubation."
+        }
+      ]
+    },
+    {
+      "pmid": "41385730",
+      "title_ar": "Neoadjuvant Nivolumab plus Carboplatin and Paclitaxel in Patients with Locally Advanced Resectable Squamous Cell Carcinoma of the Head and Neck: A Phase II, Single-Arm Trial.",
+      "title_en": "Neoadjuvant Nivolumab plus Carboplatin and Paclitaxel in Patients with Locally Advanced Resectable Squamous Cell Carcinoma of the Head and Neck: A Phase II, Single-Arm Trial.",
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "pub_date": "2026-Nov-02",
+      "doi": "10.1158/1078-0432.CCR-25-2807",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41385730/",
+      "pdf_url": "https://doi.org/10.2139/ssrn.4996826",
+      "study_design": "Prospective, open-label, single-arm phase II trial; n=34",
+      "summary_ar": "قيّمت هذه الدراسة phase II prospectively إضافة nivolumab إلى neoadjuvant carboplatin وpaclitaxel لدى مرضى لديهم locally advanced، resectable SCCHN، مع إجراء surgery ثم adjuvant radiotherapy ± chemotherapy. شملت الدراسة 34 مريضًا، وكان 85% منهم مصابين بمرض stage IVA، وكان oral cavity الموقع الأكثر شيوعًا. خضع 33 مريضًا للجراحة، وحقق جميعهم R0 resection. أكمل 82% جميع دورات neoadjuvant therapy، وسُجلت grade 3/4 treatment-related adverse events لدى 41%. حقق 73% على الأقل MPR في primary site، بينما حقق 45% pCR في primary site. وفي تحليل غير مخطط له عند 3 سنوات، بلغ recurrence-free survival 74% وOS 83%.",
+      "summary_en": "This prospective phase II study evaluated neoadjuvant nivolumab plus carboplatin and paclitaxel for locally advanced, resectable SCCHN, followed by surgery and adjuvant radiotherapy with or without chemotherapy. Thirty-four patients enrolled; 85% had stage IVA disease, and the oral cavity was the most common primary site. Thirty-three patients underwent surgery, and all had an R0 resection. Twenty-seven patients (82%) completed all neoadjuvant cycles, while 14 (41%) experienced grade 3/4 treatment-related adverse events. At the primary site, 73% achieved at least MPR and 45% achieved pCR. In an unplanned 3-year analysis, recurrence-free survival was 74% and OS was 83%.",
+      "practice_change_ar": "لا تغيّر هذه النتائج الممارسة حاليًا؛ ينبغي أن تظل هذه التركيبة neoadjuvant ضمن إطار التجارب السريرية إلى حين توفر نتائج confirmatory phase III.",
+      "practice_change_en": "These results do not change practice today; this neoadjuvant regimen should remain within clinical trials pending confirmatory phase III evidence.",
+      "future_impact_ar": "قد تدعم النتائج دراسة phase III لتحديد ما إذا كانت إضافة nivolumab تحسن النتائج بما يكفي لاعتمادها لدى مرضى SCCHN القابل للاستئصال.",
+      "future_impact_en": "The findings may support a phase III trial to determine whether adding nivolumab improves outcomes enough to establish this approach for resectable SCCHN.",
+      "why_important_ar": "تُظهر الدراسة معدلات pCR وMPR واعدة مع neoadjuvant chemoimmunotherapy في مجموعة يغلب عليها مرض stage IVA، مع توثيق مخاطر السمية.",
+      "why_important_en": "The study reports promising pCR and MPR rates with neoadjuvant chemoimmunotherapy in a population largely comprising stage IVA disease, while also documenting treatment toxicity.",
+      "vs_previous_ar": "على خلاف neoadjuvant chemotherapy وحده، أضافت هذه الدراسة PD-1 inhibitor nivolumab، لكنها لم تتضمن مجموعة مقارنة ولا تثبت تفوق التركيبة على الرعاية السابقة.",
+      "vs_previous_en": "Unlike neoadjuvant chemotherapy alone, this study added the PD-1 inhibitor nivolumab, but its single-arm design cannot establish superiority over prior care.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة prospective phase II single-arm ذات نتائج مرضية واعدة وجديدة، لكن غياب مجموعة مقارنة وكونها غير confirmatory يعنيان أنها لا تغيّر الممارسة بعد.",
+      "stars_reason_en": "This prospective single-arm phase II trial reports promising, novel pathologic outcomes, but the lack of a comparator and confirmatory evidence means it does not yet change practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق النقاش في journal club لأنها تختبر إضافة immunotherapy قبل surgery، وتوازن بين الاستجابة المرضية الملحوظة والسمية وحدود تصميم single-arm.",
+      "jc_reason_en": "It merits journal club discussion because it tests preoperative immunotherapy, balancing notable pathologic responses and toxicity against the limitations of a single-arm design.",
+      "watch": true,
+      "watch_detail_ar": "تابع nivolumab ضمن neoadjuvant chemoimmunotherapy، إذ أظهرت هذه الدراسة نشاطًا مرضيًا واعدًا ويحتاج إلى تأكيد في phase III.",
+      "watch_detail_en": "Track nivolumab in neoadjuvant chemoimmunotherapy: this study showed promising pathologic activity that requires confirmation in phase III.",
+      "watch_type": "drug",
+      "research_gap_ar": "يلزم إجراء phase III عشوائية لتحديد الفائدة النسبية للتركيبة من حيث survival والسمية مقارنةً بالرعاية القياسية، مع تقييم النتائج بحسب HPV status وموقع الورم.",
+      "research_gap_en": "A randomized phase III trial is needed to establish comparative survival benefit and toxicity versus standard care, with outcomes assessed by HPV status and tumor site.",
+      "subspecialty": "head_neck",
+      "audio_script_ar": "نتناول اليوم دراسة phase II عن neoadjuvant nivolumab مع carboplatin وpaclitaxel لدى مرضى لديهم locally advanced، resectable squamous cell carcinoma of the head and neck، أو SCCHN. الفكرة هي إضافة PD-1 inhibitor إلى chemotherapy قبل surgery، بهدف زيادة الاستجابة المرضية قبل استكمال العلاج الجراحي والإشعاعي المعتاد.\n\nكانت الدراسة prospective، open-label، single-arm، وشملت 34 مريضًا. كان 85% منهم مصابين بمرض stage IVA، وكان oral cavity الموقع الأكثر شيوعًا. تلقى المرضى العلاج قبل الجراحة، ثم adjuvant radiotherapy مع أو من دون chemotherapy. خضع 33 مريضًا للجراحة، وحقق جميع من أُجريت لهم الجراحة R0 resection. أكمل 82% جميع دورات neoadjuvant therapy، لكن 41% عانوا grade 3 أو 4 treatment-related adverse events، وهو جانب مهم عند تقدير عبء العلاج.\n\nمن ناحية الاستجابة، حقق 73% على الأقل MPR في primary site، وحقق 45% pCR. وفي تحليل غير مخطط له عند 3 سنوات، بلغ recurrence-free survival 74% وOS 83%. هذه الأرقام مشجعة، لكنها لا تثبت أن nivolumab هو سبب تحسن النتائج؛ فالدراسة لم تتضمن مجموعة مقارنة، كما أن أعداد المرضى محدودة. كذلك كان primary endpoint هو pCR في primary site، فلا ينبغي تفسير النتيجة على أنها استجابة كاملة في جميع مواضع المرض.\n\nالأهمية السريرية هي أن neoadjuvant chemoimmunotherapy قد تحقق استجابات مرضية ملحوظة في مرضى لديهم مرض متقدم وقابل للاستئصال، مع أن السمية ليست بسيطة. لكن هذه النتائج لا تبرر تغيير الممارسة حاليًا، ولا استبدال الجراحة أو العلاج المساعد. النهج مناسب للدراسة ضمن clinical trials إلى أن تتوفر نتائج confirmatory phase III، وهو ما أوصى به الباحثون خصوصًا لمرضى HPV-negative SCCHN المتقدم والقابل للاستئصال.\n\nلـ journal club، ركزوا على اختيار المرضى، وتعريف pCR وMPR، ومحدودية تصميم single-arm، وكيفية تفسير نتائج survival غير المخطط لها. والخلاصة: إشارة واعدة تستحق المتابعة، لكنها ليست دليلًا نهائيًا على فائدة مقارنة بالرعاية القياسية.",
+      "audio_script_en": "Today’s article examines neoadjuvant nivolumab with carboplatin and paclitaxel in patients with locally advanced, resectable squamous cell carcinoma of the head and neck, or SCCHN. The rationale is to add a PD-1 inhibitor to chemotherapy before surgery, aiming to increase pathologic response before patients proceed to surgery and adjuvant treatment.\n\nThis was a prospective, open-label, single-arm phase II trial of 34 patients. Most had advanced disease: 85% had stage IVA tumors, and the oral cavity was the most frequent site. Treatment consisted of six weeks of neoadjuvant chemotherapy with nivolumab every other week, followed by surgery and adjuvant radiotherapy, with or without chemotherapy. Thirty-three patients underwent surgery, and all had an R0 resection. Twenty-seven patients, or 82%, completed all neoadjuvant cycles. However, 41% experienced grade 3 or 4 treatment-related adverse events, an important consideration when weighing the regimen’s potential benefits.\n\nAt the primary site, 73% achieved at least a major pathologic response, and 45% achieved a pathologic complete response. In an unplanned analysis at three years, recurrence-free survival was 74% and overall survival was 83%. These results are encouraging, but they do not demonstrate that nivolumab caused better outcomes: there was no control group, and the study was small. Also, the primary endpoint was complete response at the primary site, so this should not be interpreted as complete response at every site of disease.\n\nThe clinical contribution is a promising signal that neoadjuvant chemoimmunotherapy can produce substantial pathologic responses in patients with advanced resectable disease. The regimen also has meaningful toxicity. It does not justify changing standard practice or replacing surgery and adjuvant therapy. Use should remain within clinical trials until confirmatory phase III results are available. The authors particularly support further study in advanced-stage, resectable HPV-negative SCCHN.\n\nFor journal club, discuss patient selection, how pCR and MPR are defined, the limitations of a single-arm design, and the interpretation of unplanned survival analyses. The take-home message is that this is a noteworthy, promising approach to track, but not yet proof of comparative benefit over standard care.",
+      "mcq": [
+        {
+          "q_ar": "ما التصميم الأساسي لهذه الدراسة؟",
+          "q_en": "What was the primary study design?",
+          "options_ar": [
+            "أ) RCT phase III",
+            "ب) دراسة phase II prospective single-arm",
+            "ج) Retrospective case series",
+            "د) Meta-analysis"
+          ],
+          "options_en": [
+            "A) Phase III RCT",
+            "B) Prospective single-arm phase II study",
+            "C) Retrospective case series",
+            "D) Meta-analysis"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت دراسة phase II prospective، open-label، single-arm، ولم تتضمن مجموعة مقارنة عشوائية.",
+          "explanation_en": "It was a prospective, open-label, single-arm phase II study without a randomized comparator."
+        },
+        {
+          "q_ar": "ما نسبة المرضى الذين حققوا pCR في primary site؟",
+          "q_en": "What proportion of patients achieved pCR at the primary site?",
+          "options_ar": [
+            "أ) 15%",
+            "ب) 33%",
+            "ج) 45%",
+            "د) 73%"
+          ],
+          "options_en": [
+            "A) 15%",
+            "B) 33%",
+            "C) 45%",
+            "D) 73%"
+          ],
+          "answer": 2,
+          "explanation_ar": "حقق 15 من أصل 34 مريضًا، أي 45%، pCR في primary site.",
+          "explanation_en": "Fifteen of 34 patients, or 45%, achieved pCR at the primary site."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن تطبيق هذه النتائج في الممارسة الحالية؟",
+          "q_en": "What is the most appropriate conclusion about applying these findings in current practice?",
+          "options_ar": [
+            "أ) اعتماد التركيبة بدل surgery لجميع المرضى",
+            "ب) اعتبارها علاجًا قياسيًا مثبتًا من هذه الدراسة وحدها",
+            "ج) عدم تغيير الممارسة حتى تتوفر أدلة confirmatory، ويفضل phase III",
+            "د) رفض دراسة nivolumab في SCCHN"
+          ],
+          "options_en": [
+            "A) Adopt the regimen instead of surgery for all patients",
+            "B) Consider it a proven standard based on this study alone",
+            "C) Do not change practice pending confirmatory evidence, ideally phase III",
+            "D) Stop studying nivolumab in SCCHN"
+          ],
+          "answer": 2,
+          "explanation_ar": "النتائج واعدة، لكن تصميم single-arm لا يثبت التفوق على الرعاية القياسية؛ لذا يلزم confirmatory phase III قبل تغيير الممارسة.",
+          "explanation_en": "The results are promising, but the single-arm design cannot establish superiority over standard care; confirmatory phase III evidence is needed before practice changes."
+        }
+      ]
+    },
+    {
+      "pmid": "42696771",
+      "title_ar": "Handheld cochlear nerve action potential mapping for real-time functional navigation in vestibular schwannoma surgery.",
+      "title_en": "Handheld cochlear nerve action potential mapping for real-time functional navigation in vestibular schwannoma surgery.",
+      "journal": "Journal of neurosurgery",
+      "pub_date": "2026-Nov-01",
+      "doi": "10.3171/2026.3.JNS252763",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42696771/",
+      "pdf_url": null,
+      "study_design": "Retrospective single-center cohort n=193",
+      "summary_ar": "قيّمت هذه الدراسة retrospective single-center cohort شملت 193 مريضًا خضعوا لجراحة vestibular schwannoma بين 2021 و2024، تقنية handheld cochlear nerve action potential (CNAP) mapping مقارنةً بـ brainstem auditory evoked potentials (BAEP). تمكّن CNAP mapping من تحديد cochlear nerve في 83.4% من الحالات، مقابل 46.1% عند elicitation باستخدام BAEP (p < 0.001). ارتبطت استجابات CNAP المواتية، التي عُرّفت بأنها ثبات waveform أو انخفاض amplitude بأقل من 50%، بـ hearing preservation بنسبة 91.4% مقابل 8.1%. بقي الارتباط قويًا بعد adjustment، مع adjusted OR قدره 37.0 و95% CI من 9.28 إلى 217.8. حقق نموذج CNAP مع BAEP قدرة تمييز ممتازة (AUC = 0.91) ومعايرة جيدة. تشير النتائج إلى أن CNAP mapping يوفر تحديدًا وظيفيًا آنيًا ومعلومات مكملة، لكن سلامة cochlear nerve البنيوية، خصوصًا مع الأورام الكبيرة، تظل مهمة للحفاظ على السمع.",
+      "summary_en": "This retrospective single-center cohort included 193 patients undergoing vestibular schwannoma surgery from 2021 to 2024 and evaluated handheld cochlear nerve action potential (CNAP) mapping against brainstem auditory evoked potentials (BAEP). CNAP mapping identified the cochlear nerve in 83.4% of cases, compared with 46.1% using BAEP (p < 0.001). Favorable CNAP responses—stable waveforms or an amplitude decrease of less than 50%—were associated with hearing preservation in 91.4% versus 8.1% of patients. The association remained strong after adjustment (adjusted OR 37.0, 95% CI 9.28–217.8). The combined CNAP + BAEP model had excellent discrimination (AUC 0.91) and good calibration. CNAP mapping offers real-time functional localization and complementary information, although structural cochlear nerve integrity, particularly with large tumors, remains important for hearing preservation.",
+      "practice_change_ar": "يمكن للفرق التي تجري جراحة vestibular schwannoma تقييم إضافة handheld CNAP mapping إلى BAEP للمساعدة في تحديد cochlear nerve آنيًا، لكن النتائج لا تثبت بعد ضرورة تغيير الممارسة القياسية.",
+      "practice_change_en": "Teams performing vestibular schwannoma surgery may consider adding handheld CNAP mapping to BAEP for real-time cochlear nerve localization, although these findings do not yet establish a required change in standard practice.",
+      "future_impact_ar": "قد تدعم دراسات متعددة المراكز prospective التحقق من CNAP mapping وتحديد مدى تحسينه لنتائج hearing preservation.",
+      "future_impact_en": "Prospective multicenter studies could validate CNAP mapping and determine whether it improves hearing-preservation outcomes.",
+      "why_important_ar": "تقدم الدراسة وسيلة عملية لتحديد cochlear nerve وظيفيًا عندما تكون BAEP غير قابلة للاستثارة أو غير موثوقة أثناء الجراحة.",
+      "why_important_en": "The study offers a practical way to functionally localize the cochlear nerve when BAEP is unobtainable or unreliable during surgery.",
+      "vs_previous_ar": "على خلاف الاعتماد على BAEP وحده، تدرس هذه التقنية تسجيل near-field CNAP مباشرةً باستخدام handheld bipolar probe وتوفر معلومات وظيفية مكملة.",
+      "vs_previous_en": "Unlike reliance on BAEP alone, this technique records near-field CNAP directly with a handheld bipolar probe and provides complementary functional information.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة retrospective single-center كبيرة نسبيًا (n=193) عن تقنية جديدة ذات صلة مباشرة بجراحة skull base، مع ارتباط قوي بنتائج hearing preservation؛ لكنها لا تثبت السببية أو التفوق في تجربة prospective متعددة المراكز، لذا تستحق 4 نجوم.",
+      "stars_reason_en": "This relatively large retrospective single-center study (n=193) evaluates a novel technique directly relevant to skull base surgery and reports a strong association with hearing preservation. It does not establish causality or superiority in a prospective multicenter trial, supporting a 4-star rating.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق المناقشة لأنها تقارن أداة intraoperative جديدة بـ BAEP وتطرح أسئلة مهمة حول التحيز، قابلية التعميم، ودلالة association القوية على القرار الجراحي.",
+      "jc_reason_en": "It merits discussion because it compares a novel intraoperative tool with BAEP and raises important questions about bias, generalizability, and how a strong association should influence surgical decisions.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا handheld bipolar CNAP mapping بوصفها تقنية intraoperative ناشئة لتحديد cochlear nerve ومراقبة وظيفته أثناء جراحة vestibular schwannoma.",
+      "watch_detail_en": "Track handheld bipolar CNAP mapping as an emerging intraoperative technology for cochlear nerve localization and functional monitoring during vestibular schwannoma surgery.",
+      "watch_type": "technology",
+      "research_gap_ar": "يلزم إجراء prospective multicenter studies مع ضبط لحجم الورم والسمع قبل الجراحة لتقييم قابلية التكرار، الدقة التنبؤية، والأثر الفعلي للتقنية على hearing preservation.",
+      "research_gap_en": "Prospective multicenter studies controlling for tumor size and preoperative hearing are needed to assess reproducibility, predictive accuracy, and the technique’s actual effect on hearing preservation.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نتناول اليوم دراسة عن handheld cochlear nerve action potential mapping أثناء جراحة vestibular schwannoma، وهي جراحة قد يكون فيها تحديد مسار cochlear nerve صعبًا بسبب إزاحة العصب وتدهور brainstem auditory evoked potentials، أو BAEP. شملت الدراسة retrospective single-center cohort عددها 193 مريضًا أُجريت لهم الجراحة بين سبتمبر 2021 ونوفمبر 2024.\n\nاستخدم الباحثون bipolar handheld probes لتحديد النشاط الوظيفي للعصب قرب مساره المفترض، وقارنوا ذلك بإمكانية elicitation لـ BAEP. تمكن CNAP mapping من تحديد cochlear nerve في 83.4% من الحالات، مقارنةً بـ 46.1% مع BAEP، وكان الفرق ذا دلالة إحصائية. اعتُبرت الاستجابة مواتية إذا ظل waveform مستقرًا أو انخفض amplitude بأقل من 50%. ارتبطت هذه الاستجابة بـ hearing preservation، المصنفة AAO-HNS من A إلى C، لدى 91.4% مقابل 8.1% في الحالات ذات الاستجابات غير المواتية. وكان adjusted OR 37.0، مع 95% CI واسع من 9.28 إلى 217.8. كما حقق نموذج CNAP مع BAEP AUC قدره 0.91 ومعايرة جيدة.\n\nالأهمية العملية هي أن هذه التقنية قد تساعد الجراح على تحديد cochlear nerve وظيفيًا وفي الوقت الحقيقي، خصوصًا عندما تصبح BAEP أقل موثوقية. لكنها لا تثبت أن استخدام CNAP بحد ذاته يحسن hearing preservation؛ فالدراسة استعادية ومن مركز واحد، وقد تتأثر النتائج بعوامل مثل حجم الورم والسمع قبل الجراحة. كما يؤكد الباحثون أن سلامة العصب البنيوية، لا سيما في الأورام الكبيرة، تظل عنصرًا أساسيًا.\n\nالخلاصة: هذه تقنية واعدة تستحق المتابعة والنقاش في journal club، لكنها ليست بعد دليلًا كافيًا لفرض تغيير في معيار المراقبة الجراحية. المطلوب prospective multicenter validation تقارن النتائج وتختبر ما إذا كانت إضافة CNAP تغيّر القرار الجراحي وتحسن السمع فعليًا.",
+      "audio_script_en": "Today’s article examines handheld cochlear nerve action potential, or CNAP, mapping during vestibular schwannoma surgery. Cochlear nerve localization can be difficult because the nerve may be displaced, while brainstem auditory evoked potentials, or BAEP, can become unreliable as waveforms deteriorate. The retrospective single-center cohort included 193 patients who underwent surgery between September 2021 and November 2024.\n\nThe team used bipolar handheld probes to assess near-field activity along the presumed cochlear nerve course and compared CNAP mapping with BAEP elicitation. CNAP mapping identified the cochlear nerve in 83.4% of cases, versus 46.1% with BAEP, a statistically significant difference. A favorable CNAP response was defined as a stable waveform or an amplitude decrease of less than 50%. Favorable responses were associated with hearing preservation—AAO-HNS classes A through C—in 91.4% of patients, compared with 8.1% among those with unfavorable responses. The adjusted OR was 37.0, with a wide 95% CI of 9.28 to 217.8. The combined CNAP and BAEP model had an AUC of 0.91 and good calibration.\n\nThe clinical attraction is real-time functional localization, especially when BAEP becomes difficult to interpret. However, this retrospective association does not prove that CNAP mapping itself improves hearing outcomes. Results may also reflect factors such as tumor size and preoperative hearing. The authors emphasize that structural cochlear nerve integrity remains important, particularly in large tumors.\n\nIn summary, this is a promising technology to track and discuss in journal club, but it is not yet sufficient evidence to mandate a change in standard intraoperative monitoring. Prospective multicenter validation should assess reproducibility, account for important clinical factors, and determine whether CNAP changes surgical decisions or improves hearing preservation.",
+      "mcq": [
+        {
+          "q_ar": "ما نسبة تحديد cochlear nerve باستخدام CNAP mapping في هذه الدراسة؟",
+          "q_en": "What proportion of cases had the cochlear nerve identified with CNAP mapping?",
+          "options_ar": [
+            "أ) 46.1%",
+            "ب) 63.4%",
+            "ج) 83.4%",
+            "د) 91.4%"
+          ],
+          "options_en": [
+            "A) 46.1%",
+            "B) 63.4%",
+            "C) 83.4%",
+            "D) 91.4%"
+          ],
+          "answer": 2,
+          "explanation_ar": "حدد CNAP mapping العصب في 83.4% من الحالات، مقابل 46.1% باستخدام BAEP.",
+          "explanation_en": "CNAP mapping identified the nerve in 83.4% of cases, compared with 46.1% using BAEP."
+        },
+        {
+          "q_ar": "كيف عرّفت الدراسة استجابة CNAP المواتية؟",
+          "q_en": "How did the study define a favorable CNAP response?",
+          "options_ar": [
+            "أ) اختفاء waveform بعد التحفيز",
+            "ب) ثبات waveform أو انخفاض amplitude بأقل من 50%",
+            "ج) زيادة amplitude بأكثر من 50% فقط",
+            "د) وجود BAEP قابل للاستثارة في جميع المراحل"
+          ],
+          "options_en": [
+            "A) Loss of the waveform after stimulation",
+            "B) A stable waveform or an amplitude decrease of less than 50%",
+            "C) An amplitude increase of more than 50% only",
+            "D) Elicit-able BAEP at every surgical stage"
+          ],
+          "answer": 1,
+          "explanation_ar": "الاستجابة المواتية كانت waveform مستقرًا أو انخفاضًا في amplitude أقل من 50%.",
+          "explanation_en": "A favorable response meant a stable waveform or an amplitude decrease of less than 50%."
+        },
+        {
+          "q_ar": "ما أهم قيد على تفسير النتائج؟",
+          "q_en": "What is the key limitation when interpreting these findings?",
+          "options_ar": [
+            "أ) الدراسة شملت أقل من 10 مرضى",
+            "ب) الدراسة حيوانية ولم تشمل مرضى",
+            "ج) الدراسة retrospective ومن مركز واحد، فلا تثبت أن التقنية تسبب تحسن hearing preservation",
+            "د) لم تُقَس أي نتائج سمعية"
+          ],
+          "options_en": [
+            "A) The study included fewer than 10 patients",
+            "B) The study was animal research and included no patients",
+            "C) It was retrospective and single-center, so it cannot establish that the technique causes better hearing preservation",
+            "D) No hearing outcomes were measured"
+          ],
+          "answer": 2,
+          "explanation_ar": "التصميم retrospective ومن مركز واحد يحد من الاستدلال السببي والتعميم، رغم قياس النتائج السمعية.",
+          "explanation_en": "The retrospective, single-center design limits causal inference and generalizability, although hearing outcomes were measured."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026110201",
+      "title_ar": "ميدترونيك وكارل ستورز تتعاونان لتطوير حلول جراحية متكاملة للأنف والأذن والحنجرة",
+      "title_en": "Medtronic and Karl Storz Collaborate on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-02",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "تتعاون شركتا ميدترونيك وكارل ستورز لتقديم حلول جراحية متكاملة في مجال الأنف والأذن والحنجرة، وفقاً لما أورده موقع MassDevice. ويصف الإعلان تعاوناً بين الشركتين، وليس عملية استحواذ. ولا يوضح التقرير المتاح التقنيات المعنية أو موعد الإطلاق أو الشروط التجارية أو مدى إتاحة هذه الحلول للأطباء.",
+      "summary_en": "Medtronic and Karl Storz are collaborating on integrated surgical solutions for ear, nose and throat care, according to MassDevice. The announcement describes a collaboration, not an acquisition. The available report does not specify the technologies involved, launch timing, commercial terms, or whether the solutions are available to clinicians.",
+      "practice_change_ar": "قد يتيح هذا التعاون مستقبلاً أدوات جراحية أكثر تكاملاً لأطباء الأنف والأذن والحنجرة، لكن المعلومات المتاحة لا تشير إلى تغيير فوري في الممارسة.",
+      "practice_change_en": "For practicing ENT surgeons, the collaboration may eventually offer more integrated surgical tools, but no immediate change in practice is established by the information available.",
+      "future_impact_ar": "سيتوقف الأثر المستقبلي على المنتجات التي ستُطوَّر، والأدلة على قيمتها السريرية، ومدى توافرها وملاءمتها لفرق الأنف والأذن والحنجرة.",
+      "future_impact_en": "The impact will depend on the products developed, their evidence of clinical value, and whether they become accessible and practical for ENT teams.",
+      "why_important_ar": "قد يسهم جمع إمكانات شركتين راسختين في مجال الأجهزة الطبية في تبسيط سير العمل الجراحي، لكن الفوائد السريرية لم تُحدَّد بعد.",
+      "why_important_en": "Combining capabilities from two established medical-device companies could simplify surgical workflows, although the clinical benefits have not yet been detailed.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "تعاون تجاري قد يؤثر في الأدوات الجراحية مستقبلاً، لكن لا توجد تفاصيل كافية لإثبات أثر سريري أو تغيير وشيك في الممارسة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أعلنت ميدترونيك وكارل ستورز عن تعاون لتطوير حلول جراحية متكاملة في مجال الأنف والأذن والحنجرة، بحسب تقرير لموقع MassDevice. الخبر يتعلق بشراكة بين شركتين، وليس باستحواذ. وقد يكون دمج الخبرات والمنتجات فرصة لتقديم أدوات أكثر تكاملاً وتحسين سير العمل داخل غرف العمليات. لكن التفاصيل المنشورة محدودة؛ فلا تتضمن أسماء المنتجات أو موعد طرحها، كما لا توضح ما إذا كانت هناك بيانات سريرية أو فوائد مثبتة للمرضى. بالنسبة إلى جرّاحي الأنف والأذن والحنجرة، لا توجد حالياً معلومات تشير إلى تغيير مباشر في الممارسة أو إلى ضرورة اتخاذ إجراء. الأهمية العملية ستتضح مع الإعلان عن المنتجات، وتوافرها، والأدلة التي تبين أثرها على النتائج وسير العمل. لذا يُعد الخبر تطوراً تجارياً يستحق المتابعة، مع انتظار تفاصيل إضافية قبل تقييم قيمته السريرية.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026110202",
+      "title_ar": "توقعات بنمو سوق تنظير الأنف والأذن والحنجرة بمعدل سنوي مركب قدره 6.4%",
+      "title_en": "ENT Endoscopy Market Projected to Grow at a 6.4% CAGR",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-02",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "يشير عنوان صادر عن Market.us إلى توقع نمو سوق تنظير الأنف والأذن والحنجرة بمعدل سنوي مركب قدره 6.4%. ولا يحدد الخبر المتاح فترة التوقعات أو حجم السوق أو نطاقه الجغرافي أو العوامل التي تقود هذا التقدير. ويتعلق الأمر بتوقع سوقي، وليس بعملية استحواذ أو قرار تنظيمي أو دراسة سريرية محددة. وينبغي التعامل مع التقدير بحذر إلى حين مراجعة التقرير الأصلي ومنهجيته.",
+      "summary_en": "A Market.us headline reports a projected 6.4% compound annual growth rate for the ENT endoscopy market. The provided item does not specify the forecast period, market size, geographic scope, or factors driving the estimate. It describes a market projection, not a specific acquisition, regulatory decision, or clinical study. The estimate should be interpreted cautiously until the underlying report and its methodology are reviewed.",
+      "practice_change_ar": "لا يقدم هذا التوقع وحده دليلاً يبرر تغيير قرارات شراء أجهزة التنظير أو سير العمل السريري أو رعاية المرضى.",
+      "practice_change_en": "This projection alone does not provide evidence to change endoscopy purchasing, clinical workflows, or patient-care decisions.",
+      "future_impact_ar": "إذا تحقق هذا التوقع، فقد يؤدي الاستثمار المتزايد إلى توسيع خيارات الأجهزة، لكن ينبغي للجراحين تقييم المنتجات المستقبلية بناءً على الأدلة وسهولة الاستخدام والقيمة.",
+      "future_impact_en": "If the forecast is borne out, increased investment could expand equipment options, though surgeons should assess future products on evidence, usability, and value.",
+      "why_important_ar": "قد يشير نمو السوق إلى اهتمام تجاري متزايد بتنظير الأنف والأذن والحنجرة، لكن الخبر لا يقدم أدلة سريرية أو معلومات عن منتجات محددة تتعلق بالنتائج أو التكاليف.",
+      "why_important_en": "Market growth may signal commercial interest in ENT endoscopy, but the item provides no product-level or clinical evidence relevant to outcomes or costs.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "أهمية محدودة للجراحين؛ الخبر توقع سوقي موجز بلا تفاصيل منهجية أو أثر سريري مباشر.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "تقرير موجز من Market.us يتوقع أن ينمو سوق تنظير الأنف والأذن والحنجرة بمعدل سنوي مركب يبلغ 6.4%. لكن الخبر المتاح لا يذكر الفترة الزمنية التي يغطيها التوقع، ولا حجم السوق، ولا المنطقة الجغرافية، كما لا يوضح مصادر البيانات أو منهجية التحليل. لذلك ينبغي اعتبار الرقم مؤشراً تجارياً أولياً، لا دليلاً على تحسن النتائج السريرية أو على ضرورة شراء أجهزة جديدة. بالنسبة إلى جراحي الأنف والأذن والحنجرة، لا توجد في هذا الخبر معلومات تستدعي تغيير الممارسة أو قرارات علاج المرضى. وإذا تحقق النمو المتوقع، فقد يزيد الاستثمار في الأجهزة ويمنح الممارسين خيارات أوسع مستقبلاً. ومع ذلك، يظل تقييم أي تقنية جديدة معتمداً على الأدلة السريرية، وسهولة الاستخدام، والتكلفة والقيمة المقدمة. وتبقى مراجعة التقرير الكامل ضرورية لفهم مدى موثوقية هذا التوقع.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026110203",
+      "title_ar": "توقعات سوق مناظير الحنجرة الليفية المرنة حتى عام 2035: الطلب المرتبط بصعوبة مجرى الهواء يدعم النمو",
+      "title_en": "Flexible Fibre Laryngoscope Market Forecast Through 2035: Difficult-Airway Demand Supports Growth",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-02",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت IndexBox توقعات تشير إلى نمو سوق مناظير الحنجرة الليفية المرنة حتى عام 2035، وعزت ذلك إلى الطلب المرتبط بالتعامل مع حالات صعوبة مجرى الهواء. ولا يتضمن الخبر المتاح أرقاماً عن حجم السوق أو أسماء شركات أو تفاصيل عن افتراضات التقرير. ويتناول الخبر توقعاً سوقياً، وليس قراراً تنظيمياً أو صفقة أو دراسة سريرية.",
+      "summary_en": "IndexBox published a market outlook forecasting growth in the flexible fibre laryngoscope market through 2035, citing demand related to difficult-airway management. The supplied item does not provide market-size figures, named companies, or details about the report’s assumptions. It describes a market forecast, not a regulatory decision, transaction, or clinical study.",
+      "practice_change_ar": "لا تغيّر هذه التوقعات الإرشادات السريرية الحالية، لكنها قد تكون ذات صلة عند التخطيط لشراء المعدات وتوفير موارد التعامل مع مجرى الهواء الصعب.",
+      "practice_change_en": "The forecast does not change current clinical guidance, but it may be relevant when planning equipment purchases and difficult-airway resources.",
+      "future_impact_ar": "إذا تحقق الطلب المتوقع، فقد تشهد فرق الأنف والأذن والحنجرة تنوعاً أكبر في الأجهزة واستمراراً للاستثمار، إلا أن التقرير لا يحدد منتجات بعينها أو توقيتاً لذلك.",
+      "future_impact_en": "If projected demand materializes, ENT teams may see a broader range of devices and continued investment, although this report does not identify specific products or timing.",
+      "why_important_ar": "تُعد المناظير المرنة أدوات مفيدة للتعامل مع مجرى الهواء، لكن التوقعات السوقية وحدها لا تقدم دليلاً على تحسن نتائج المرضى أو أداء الأجهزة.",
+      "why_important_en": "Flexible laryngoscopes are useful airway tools, but the market forecast alone provides no evidence of improved patient outcomes or device performance.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "أهمية محدودة للممارسة السريرية؛ الخبر توقع سوقي عام ولا يتضمن تغييراً تنظيمياً أو دليلاً سريرياً.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "إليكم موجزاً عن سوق أجهزة الأنف والأذن والحنجرة. تشير توقعات نشرتها IndexBox إلى أن سوق مناظير الحنجرة الليفية المرنة قد يواصل النمو حتى عام 2035، مع اعتبار الطلب المرتبط بالتعامل مع مجرى الهواء الصعب أحد عوامل الدعم. لكن الخبر المتاح لا يذكر أرقاماً لحجم السوق، ولا يحدد الشركات أو المنتجات التي قد تستفيد من هذا النمو، كما لا يوضح منهجية التوقعات. ومن المهم التمييز بين توقعات السوق والدليل السريري: فلا يقدم هذا التقرير معلومات جديدة عن فعالية الأجهزة أو سلامتها، ولا يغيّر الإرشادات الحالية. بالنسبة إلى أطباء الأنف والأذن والحنجرة، قد تكون هذه الإشارة مفيدة على مستوى التخطيط للمعدات والميزانيات، لكنها لا تكفي وحدها لاتخاذ قرار شراء أو تغيير في الممارسة. الخلاصة: توقع نمو طويل الأجل مدفوع باحتياجات مجرى الهواء الصعب، مع محدودية التفاصيل المتاحة.",
+      "mcq": []
+    }
+  ]
+}
