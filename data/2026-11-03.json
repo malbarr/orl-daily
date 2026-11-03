@@ -1,0 +1,589 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T10:56:40Z",
+  "articles": [
+    {
+      "pmid": "39043533",
+      "title_ar": "Radiofrequency Versus CO2 Laser in Posterior Cordotomy for Managing Bilateral Abductor Vocal Fold Immobility.",
+      "title_en": "Radiofrequency Versus CO2 Laser in Posterior Cordotomy for Managing Bilateral Abductor Vocal Fold Immobility.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Nov",
+      "doi": "10.1016/j.jvoice.2024.07.008",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39043533/",
+      "pdf_url": null,
+      "study_design": "Prospective comparative randomized study, n=80",
+      "summary_ar": "قارنت هذه الدراسة prospective randomized بين استخدام radiofrequency وCO2 laser لإجراء posterior cordotomy لدى 80 مريضًا لديهم bilateral abductor vocal fold immobility. شملت المجموعة A عدد 44 مريضًا عولجوا بـradiofrequency، بينما شملت المجموعة B عدد 36 مريضًا عولجوا بـCO2 laser. تحسنت respiratory chink بعد الجراحة بشكل ملحوظ في المجموعتين، وتحسنت dyspnea بصورة أكبر مع CO2 laser. تدهورت درجات VHI-10 بعد الجراحة في كلتا المجموعتين، بما يعكس أثر توسيع مجرى التنفس على voice. خلص الباحثون إلى أن الإجراءين فعالان وآمنان، مع أفضلية CO2 laser في breathing وexercise tolerance. لا يوضح الملخص مدة المتابعة أو تفاصيل حجم التحسن، لذا يصعب تقدير الأهمية السريرية الدقيقة للفرق بين الطريقتين.",
+      "summary_en": "This prospective randomized comparative study evaluated posterior cordotomy using radiofrequency versus CO2 laser in 80 patients with bilateral abductor vocal fold immobility. The radiofrequency group included 44 patients, and the CO2 laser group included 36. Respiratory chink improved significantly after surgery in both groups. Dyspnea improved more in the CO2 laser group, which also had better reported breathing and exercise tolerance outcomes. VHI-10 scores deteriorated significantly in both groups, highlighting the voice trade-off associated with airway-widening surgery. The authors considered both approaches effective and safe, but the abstract does not report follow-up duration or the magnitude of between-group differences.",
+      "practice_change_ar": "لا يبرر هذا الدليل تغيير الممارسة فورًا، لكن يمكن أخذ أفضلية CO2 laser المبلغ عنها في التنفس والقدرة على التمرين في الحسبان عند اختيار التقنية.",
+      "practice_change_en": "This evidence does not warrant an immediate practice change, but the reported breathing and exercise-tolerance advantage with CO2 laser may inform technique selection.",
+      "future_impact_ar": "قد تساعد دراسات أكبر ذات متابعة أطول وقياسات موضوعية للتنفس والصوت في تحديد التقنية الأفضل لكل مريض.",
+      "future_impact_en": "Larger studies with longer follow-up and objective respiratory and voice measures may clarify which technique is preferable for different patients.",
+      "why_important_ar": "توضح الدراسة المقايضة بين تحسن مجرى التنفس وتدهور الصوت بعد posterior cordotomy، وتقارن تقنيتين مستخدمتين سريريًا.",
+      "why_important_en": "The study highlights the trade-off between improved airway function and worsened voice after posterior cordotomy while comparing two clinically used techniques.",
+      "vs_previous_ar": "تضيف الدراسة مقارنة عشوائية مباشرة بين radiofrequency وCO2 laser، بدل الاكتفاء بوصف نتائج posterior cordotomy عمومًا.",
+      "vs_previous_en": "It adds a direct randomized comparison of radiofrequency and CO2 laser rather than reporting posterior cordotomy outcomes in general.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة prospective randomized تضم 80 مريضًا، ما يوفر دليلًا مقارنًا مفيدًا، لكن الملخص لا يقدم أحجام التأثير أو تفاصيل المتابعة، والنتائج لا تكفي لتغيير الممارسة؛ لذلك تستحق 3 من 5.",
+      "stars_reason_en": "This prospective randomized study of 80 patients provides useful comparative evidence, but the abstract lacks effect sizes and follow-up details, and the findings are insufficient to change practice; therefore, it merits 3 of 5 stars.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مقارنة randomized بين تقنيتين جراحيتين مع نتائج متباينة للتنفس والصوت تجعلها مناسبة لمناقشة اختيار التقنية والموازنة بين الفوائد والمخاطر.",
+      "jc_reason_en": "The randomized comparison of two surgical techniques and their differing respiratory and voice outcomes makes this useful for discussing technique selection and benefit-risk trade-offs.",
+      "watch": true,
+      "watch_detail_ar": "تستحق مقارنة CO2 laser وradiofrequency المتابعة، خصوصًا لتحديد ما إذا كانت أفضلية التنفس مع CO2 laser تتكرر في دراسات أكبر.",
+      "watch_detail_en": "The comparison of CO2 laser and radiofrequency is worth tracking, particularly to determine whether the reported respiratory advantage of CO2 laser is reproduced in larger studies.",
+      "watch_type": "instrument",
+      "research_gap_ar": "هناك حاجة إلى بيانات عن مدة المتابعة، وأحجام التأثير، والمضاعفات، ونتائج الصوت والتنفس طويلة الأمد لتقييم الفروق بين التقنيتين.",
+      "research_gap_en": "Further data on follow-up duration, effect sizes, complications, and long-term voice and respiratory outcomes are needed to assess differences between the techniques.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة تقارن بين radiofrequency وCO2 laser في إجراء posterior cordotomy لعلاج bilateral abductor vocal fold immobility. شملت الدراسة prospectively 80 مريضًا، ووزعتهم عشوائيًا إلى مجموعتين: 44 مريضًا خضعوا للإجراء باستخدام radiofrequency، و36 باستخدام CO2 laser. تحسنت respiratory chink بعد الجراحة بشكل ملحوظ في كلتا المجموعتين، ما يشير إلى أن كلا الأسلوبين قد يساعدان على تحسين مجرى التنفس. لكن التحسن في dyspnea كان أكبر في مجموعة CO2 laser، كما أفاد الباحثون بأفضلية هذه المجموعة في breathing وexercise tolerance. في المقابل، تدهورت درجات VHI-10 بعد الجراحة في المجموعتين، وهي نتيجة تذكّرنا بأن توسيع مجرى الهواء قد يأتي على حساب جودة الصوت. خلص مؤلفو الدراسة إلى أن كلا الإجراءين فعال وآمن، مع أفضلية CO2 laser في نتائج التنفس والقدرة على التمرين. من نقاط القوة وجود مقارنة randomized مباشرة بين تقنيتين جراحيتين، ومن القيود أن الملخص لا يذكر مدة المتابعة، أو حجم الفروق بين المجموعتين، أو تفاصيل المضاعفات. لذلك لا تكفي هذه النتائج وحدها لفرض تغيير فوري في الممارسة، لكنها تقدم معلومة مفيدة عند مناقشة اختيار التقنية مع المرضى، مع توضيح المقايضة المتوقعة بين التنفس والصوت. نحتاج إلى دراسات أكبر، بمتابعة أطول وقياسات موضوعية للصوت والتنفس، لتأكيد أفضلية CO2 laser وتحديد المرضى الأكثر استفادة. الخلاصة: كلا الخيارين أظهر تحسنًا في مجرى التنفس، بينما أشارت النتائج إلى ميزة تنفسية محتملة لـCO2 laser، مقابل تدهور voice في المجموعتين.",
+      "audio_script_en": "Today we review a prospective randomized comparison of radiofrequency and CO2 laser for posterior cordotomy in patients with bilateral abductor vocal fold immobility. The study included 80 patients: 44 received radiofrequency-assisted surgery and 36 underwent CO2 laser-assisted surgery. Respiratory chink improved significantly after surgery in both groups, suggesting that either technique can help improve the airway. The authors reported greater improvement in dyspnea with CO2 laser, as well as an advantage in breathing and exercise tolerance. However, VHI-10 scores deteriorated significantly in both groups, underscoring the potential voice cost of airway-widening surgery. The authors concluded that both approaches were effective and safe, with CO2 laser showing better respiratory and exercise-tolerance outcomes. A key strength is the randomized, direct comparison of two surgical techniques. Important limitations are that the abstract does not provide follow-up duration, between-group effect sizes, or detailed complication data. Consequently, the findings are useful for counseling and technique selection but are not sufficient on their own to mandate a change in practice. Larger studies with longer follow-up and objective voice and respiratory measures are needed to confirm the reported CO2 laser advantage and determine which patients benefit most. The practical takeaway is that both procedures improved airway measures, while voice scores worsened in both groups; CO2 laser may offer an additional respiratory benefit that needs further confirmation.",
+      "mcq": [
+        {
+          "q_ar": "ما عدد المرضى الذين شملتهم الدراسة؟",
+          "q_en": "How many patients were included in the study?",
+          "options_ar": [
+            "أ) 36",
+            "ب) 44",
+            "ج) 80",
+            "د) 120"
+          ],
+          "options_en": [
+            "A) 36",
+            "B) 44",
+            "C) 80",
+            "D) 120"
+          ],
+          "answer": 2,
+          "explanation_ar": "شملت الدراسة 80 مريضًا موزعين على مجموعتي radiofrequency وCO2 laser.",
+          "explanation_en": "The study included 80 patients assigned to the radiofrequency and CO2 laser groups."
+        },
+        {
+          "q_ar": "ما النتيجة المتعلقة بالتنفس التي أفاد بها الباحثون بعد posterior cordotomy؟",
+          "q_en": "What respiratory outcome did the authors report after posterior cordotomy?",
+          "options_ar": [
+            "أ) لم يتحسن respiratory chink في أي مجموعة",
+            "ب) تحسن respiratory chink في المجموعتين، وكان تحسن dyspnea أكبر مع CO2 laser",
+            "ج) تحسن dyspnea فقط مع radiofrequency",
+            "د) تدهورت نتائج التنفس في المجموعتين"
+          ],
+          "options_en": [
+            "A) Respiratory chink did not improve in either group",
+            "B) Respiratory chink improved in both groups, with greater dyspnea improvement in the CO2 laser group",
+            "C) Dyspnea improved only with radiofrequency",
+            "D) Respiratory outcomes worsened in both groups"
+          ],
+          "answer": 1,
+          "explanation_ar": "تحسن respiratory chink في المجموعتين، بينما كان تحسن dyspnea أكبر في مجموعة CO2 laser.",
+          "explanation_en": "Respiratory chink improved in both groups, while dyspnea improved more in the CO2 laser group."
+        },
+        {
+          "q_ar": "ما التغير الذي حدث في درجات VHI-10 بعد الجراحة؟",
+          "q_en": "What happened to VHI-10 scores after surgery?",
+          "options_ar": [
+            "أ) تحسنت في المجموعتين",
+            "ب) لم تتغير في أي مجموعة",
+            "ج) تدهورت في المجموعتين",
+            "د) تدهورت فقط مع CO2 laser"
+          ],
+          "options_en": [
+            "A) They improved in both groups",
+            "B) They did not change in either group",
+            "C) They deteriorated in both groups",
+            "D) They deteriorated only with CO2 laser"
+          ],
+          "answer": 2,
+          "explanation_ar": "أظهرت الدراسة تدهورًا ملحوظًا في VHI-10 بعد الجراحة في كلتا المجموعتين.",
+          "explanation_en": "The study reported significant postoperative deterioration in VHI-10 scores in both groups."
+        }
+      ]
+    },
+    {
+      "pmid": "42121342",
+      "title_ar": "How I Do It: Two Novel, Low-Cost Phonomicrosurgery Models With Open-Source, 3D-Printed Laryngoscopes.",
+      "title_en": "How I Do It: Two Novel, Low-Cost Phonomicrosurgery Models With Open-Source, 3D-Printed Laryngoscopes.",
+      "journal": "The Laryngoscope",
+      "pub_date": "2026-Nov",
+      "doi": "10.1002/lary.70617",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42121342/",
+      "pdf_url": "https://doi.org/10.1002/lary.70617",
+      "study_design": "Technical description / simulation model",
+      "summary_ar": "تصف المقالة نموذجين جديدين منخفضي التكلفة للتدرب على vocal fold microflap باستخدام منتجات متوفرة في متاجر البقالة. كما توفر أجزاء قابلة للطباعة ثلاثية الأبعاد ومفتوحة المصدر لمحاكاة عدة laryngoscopes تُستخدم في laryngeal phonomicrosurgery. صُممت النماذج لتكون سهلة التحضير وإعادة الاستخدام في التدريب الأساسي. لا يذكر الملخص مقارنةً تعليمية مضبوطة أو نتائج كمية لقياس تحسن المهارات. لذلك تظل الفائدة الأساسية إتاحة التدريب العملي بتكلفة منخفضة، لا إثبات تحسن النتائج الجراحية. قد تساعد هذه الأدوات برامج التدريب على توفير فرص ممارسة أكثر قبل التعامل مع الحالات السريرية.",
+      "summary_en": "The article describes two novel, low-cost vocal fold microflap training models made from products available in grocery stores.\nIt also provides open-source, 3D-printable components that simulate several laryngoscopes used in laryngeal phonomicrosurgery.\nThe models are intended to support basic hands-on surgical training and are designed to be easily reproducible.\nThe abstract does not report a controlled educational comparison or quantitative skill outcomes.\nIts main contribution is affordable access to practice rather than demonstrated improvement in surgical performance.\nThe models may help training programs provide additional practice before clinical procedures.",
+      "practice_change_ar": "لا يغيّر هذا المقال التدبير الجراحي اليوم، لكنه يتيح خيارًا منخفض التكلفة للتدريب الأساسي على phonomicrosurgery.",
+      "practice_change_en": "This article does not change surgical management today, but it offers a low-cost option for basic phonomicrosurgery training.",
+      "future_impact_ar": "قد تدعم هذه النماذج تدريبًا أكثر إتاحة وتكرارًا إذا أثبتت دراسات لاحقة تحسن المهارات الجراحية.",
+      "future_impact_en": "These models could support more accessible and repeated training if future studies demonstrate improved surgical skills.",
+      "why_important_ar": "تجمع المقالة بين مواد بسيطة وأدوات laryngoscope قابلة للطباعة ثلاثية الأبعاد لتقليل عوائق التدريب على جراحة دقيقة.",
+      "why_important_en": "The article combines simple materials with 3D-printable laryngoscope tools to lower barriers to training in a delicate surgical procedure.",
+      "vs_previous_ar": "على خلاف التدريب الذي يعتمد على موارد محاكاة مكلفة أو أقل توافراً، تقدم المقالة نماذج منخفضة التكلفة وأجزاء مفتوحة المصدر.",
+      "vs_previous_en": "Unlike training approaches dependent on costly or less accessible simulation resources, this article presents low-cost models and open-source components.",
+      "stars": 3,
+      "stars_reason_ar": "وصف تقني تعليمي وليس دراسة مقارنة لنتائج التدريب؛ نال نقاطًا للإضافة الجديدة ولمكانة The Laryngoscope، لكن لا توجد أدلة على تغيير الممارسة أو تحسن النتائج.",
+      "stars_reason_en": "This is a technical educational description, not a comparative outcomes study. Novelty and publication in The Laryngoscope support its value, but evidence of practice change or improved outcomes is absent.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "يوفر المقال مثالًا عمليًا قابلًا للنقاش حول تصميم محاكاة منخفضة التكلفة وتقييم فعاليتها في تدريب laryngeal phonomicrosurgery.",
+      "jc_reason_en": "The article offers a practical discussion of low-cost simulation design and how its effectiveness for laryngeal phonomicrosurgery training should be evaluated.",
+      "watch": true,
+      "watch_detail_ar": "تابع أجزاء laryngoscope مفتوحة المصدر والقابلة للطباعة ثلاثية الأبعاد لأنها قد توسع الوصول إلى محاكاة phonomicrosurgery منخفضة التكلفة.",
+      "watch_detail_en": "Watch the open-source, 3D-printable laryngoscope components because they may broaden access to low-cost phonomicrosurgery simulation.",
+      "watch_type": "device",
+      "research_gap_ar": "يلزم تقييم مضبوط يقيس اكتساب المهارات والاحتفاظ بها وانتقالها إلى الأداء الجراحي الفعلي مقارنةً بطرق التدريب المعتادة.",
+      "research_gap_en": "Controlled evaluation is needed to measure skill acquisition, retention, and transfer to operative performance compared with standard training methods.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تتناول هذه المقالة التعليمية نموذجين جديدين منخفضي التكلفة للتدرب على vocal fold microflap، إلى جانب أجزاء مفتوحة المصدر قابلة للطباعة ثلاثية الأبعاد لمحاكاة عدة laryngoscopes تُستخدم في laryngeal phonomicrosurgery.\n\nالفكرة الأساسية هي الاستفادة من منتجات متوفرة في متاجر البقالة ومن أدوات يمكن تصنيعها بالطباعة ثلاثية الأبعاد، بحيث يصبح التدريب الأساسي أكثر سهولة وأقل اعتمادًا على تجهيزات محاكاة مكلفة. وهذا مهم لأن phonomicrosurgery يتطلب ممارسة دقيقة للتعامل مع أنسجة vocal fold وأدوات الجراحة المجهرية.\n\nمع ذلك، ينبغي تفسير الإضافة بحذر. المقالة وصف تقني لنماذج تدريبية، ولا يقدم الملخص دراسة مقارنة مضبوطة أو قياسات كمية لاكتساب المهارات، ولا يثبت أن التدريب بهذه النماذج يحسن الأداء في غرفة العمليات أو النتائج السريرية. لذلك لا يغيّر المقال ما يفعله الجراح اليوم، لكنه يقدم خيارًا عمليًا قد يضيف فرصًا للتدرب قبل التعامل مع الحالات السريرية.\n\nالتقييم العام ثلاث نجوم، مع ثقة متوسطة: توجد جدة وفائدة تعليمية محتملة، لكن مستوى الدليل محدود. يستحق المقال النقاش في journal club عند بحث تطوير المحاكاة منخفضة التكلفة، كما تستحق الأجزاء المفتوحة المصدر والقابلة للطباعة المتابعة بوصفها أداة تدريبية. والخطوة البحثية المهمة هي إجراء دراسات تقيس اكتساب المهارات والاحتفاظ بها وانتقالها إلى الأداء الجراحي الفعلي مقارنةً بالتدريب المعتاد.",
+      "audio_script_en": "This educational article presents two novel, low-cost models for practicing vocal fold microflap, along with open-source, 3D-printable components that simulate several laryngoscopes used in laryngeal phonomicrosurgery.\n\nThe central idea is to use readily available grocery-store products and printable tools to make basic hands-on training easier to access and less dependent on expensive simulation equipment. This is relevant because phonomicrosurgery requires precise handling of vocal fold tissue and microsurgical instruments.\n\nThe contribution should nevertheless be interpreted cautiously. The article is a technical description of training models. The abstract does not report a controlled comparison or quantitative measures of skill acquisition, and it does not show that practice with these models improves operating-room performance or clinical outcomes. The work therefore does not change what surgeons do today, but it may provide a practical additional opportunity to rehearse before clinical cases.\n\nOverall, this merits three stars with moderate confidence: it is novel and potentially useful for education, but the evidence is limited. It is suitable for journal club discussion about accessible simulation, and the open-source printable laryngoscope components are worth tracking as a training tool. The key next step is controlled research measuring skill acquisition, retention, and transfer to operative performance compared with standard training.",
+      "mcq": [
+        {
+          "q_ar": "ما الغرض الأساسي من نموذجي التدريب الموصوفين؟",
+          "q_en": "What is the primary purpose of the two training models?",
+          "options_ar": [
+            "أ) تدريب أساسي على vocal fold microflap",
+            "ب) علاج vocal fold lesions سريريًا",
+            "ج) قياس نتائج المرضى بعد phonomicrosurgery",
+            "د) استبدال laryngoscopy في غرفة العمليات"
+          ],
+          "options_en": [
+            "A) Basic practice of vocal fold microflap",
+            "B) Clinical treatment of vocal fold lesions",
+            "C) Measurement of patient outcomes after phonomicrosurgery",
+            "D) Replacement of laryngoscopy in the operating room"
+          ],
+          "answer": 0,
+          "explanation_ar": "صُممت النماذج للتدرب الأساسي على vocal fold microflap، وليست علاجًا سريريًا أو بديلًا للأدوات الجراحية.",
+          "explanation_en": "The models are intended for basic vocal fold microflap practice, not clinical treatment or replacement of surgical instruments."
+        },
+        {
+          "q_ar": "ما الذي توفره الأجزاء مفتوحة المصدر والقابلة للطباعة ثلاثية الأبعاد؟",
+          "q_en": "What do the open-source, 3D-printable components provide?",
+          "options_ar": [
+            "أ) محاكاة عدة laryngoscopes المستخدمة في laryngeal phonomicrosurgery",
+            "ب) قياس vocal fold vibration سريريًا",
+            "ج) تصنيع أدوات جراحية للاستخدام البشري",
+            "د) تصوير lesions دون laryngoscopy"
+          ],
+          "options_en": [
+            "A) Simulation of several laryngoscopes used in laryngeal phonomicrosurgery",
+            "B) Clinical measurement of vocal fold vibration",
+            "C) Manufacture of surgical instruments for human use",
+            "D) Imaging lesions without laryngoscopy"
+          ],
+          "answer": 0,
+          "explanation_ar": "تتيح الأجزاء محاكاة عدة laryngoscopes للتدريب، ولا يذكر الملخص أنها أدوات معتمدة للاستخدام الجراحي على المرضى.",
+          "explanation_en": "The components simulate several laryngoscopes for training; the abstract does not describe them as instruments approved for patient surgery."
+        },
+        {
+          "q_ar": "ما أبرز قيد في الدليل المتاح من الملخص؟",
+          "q_en": "What is the main evidence limitation based on the abstract?",
+          "options_ar": [
+            "أ) عدم وجود مقارنة مضبوطة أو نتائج كمية للتدريب",
+            "ب) اقتصار الدراسة على مرضى الأطفال",
+            "ج) عدم ارتباط الموضوع بـ laryngology",
+            "د) تقييم نموذج واحد فقط"
+          ],
+          "options_en": [
+            "A) No controlled comparison or quantitative training outcomes are reported",
+            "B) The study is limited to pediatric patients",
+            "C) The topic is unrelated to laryngology",
+            "D) Only one model is evaluated"
+          ],
+          "answer": 0,
+          "explanation_ar": "الملخص يصف النماذج وفائدتها المحتملة، لكنه لا يعرض مقارنة تعليمية مضبوطة أو قياسات كمية للأداء.",
+          "explanation_en": "The abstract describes the models and their potential utility but reports neither a controlled educational comparison nor quantitative performance measures."
+        }
+      ]
+    },
+    {
+      "pmid": "42972625",
+      "title_ar": "Dynamic Voice Computed Tomography for Dysphonia Disproportionate to Clinical Findings.",
+      "title_en": "Dynamic Voice Computed Tomography for Dysphonia Disproportionate to Clinical Findings.",
+      "journal": "The Laryngoscope",
+      "pub_date": "2026-Nov-02",
+      "doi": "10.1002/lary.71001",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42972625/",
+      "pdf_url": null,
+      "study_design": "Retrospective case series n=15",
+      "summary_ar": "قيّمت هذه الدراسة الاستعادية فائدة Dynamic Voice Computed Tomography (DVCT) لدى 15 بالغًا يعانون من dysphonia، مع تاريخ سابق لـ thyroplasty أو اشتباه بـ posterior glottic insufficiency (PGI). كانت جميع الحالات تُظهر اضطرابًا في مقاييس الصوت الصوتية والإدراكية لا يتناسب مع مظهر videostroboscopy. أضاف DVCT معلومات تشريحية سريرية مهمة لدى جميع المرضى، وكشف غالبًا عن PGI أو vertical height mismatch أو implant malposition أو arytenoid malposition. أكدت النتائج أهلية 47% من المرضى للجراحة، وغيّرت الإجراء المخطط له لدى 33%، وساعدت على تجنب الجراحة لدى 13%. تشير النتائج إلى أن DVCT قد يكون فحصًا مكمّلًا عندما لا تفسر videostroboscopy شدة اضطراب الصوت أو تكون محدودة بسبب التشريح أو supraglottic hyperfunction. لكن الدراسة صغيرة واستعادية، ولا تثبت أن استخدام DVCT يحسن النتائج الصوتية أو يبرر تطبيقه روتينيًا.",
+      "summary_en": "This retrospective case series evaluated Dynamic Voice Computed Tomography (DVCT) in 15 adults with dysphonia and prior thyroplasty or known/suspected posterior glottic insufficiency (PGI).\nAll patients had abnormal acoustic and perceptual voice measures that were disproportionate to videostroboscopy findings.\nDVCT added clinically relevant anatomic information in every case, commonly identifying PGI, vertical height mismatch, implant malposition, or arytenoid malposition.\nFindings confirmed surgical candidacy in 47%, altered planned procedures in 33%, and helped avoid surgery in 13%.\nThe results support considering DVCT as a complementary assessment when videostroboscopy does not explain the severity of dysphonia or is limited by anatomy or supraglottic hyperfunction.\nThe small retrospective series does not establish improved voice outcomes or support routine use in all patients.",
+      "practice_change_ar": "يمكن التفكير في DVCT كفحص مكمّل للمرضى المختارين ذوي dysphonia غير المتناسبة مع نتائج videostroboscopy، خصوصًا بعد thyroplasty أو عند الاشتباه بـ PGI.",
+      "practice_change_en": "Consider DVCT as a complementary test in selected patients whose dysphonia is disproportionate to videostroboscopy findings, particularly after thyroplasty or when PGI is suspected.",
+      "future_impact_ar": "قد تدعم دراسات مستقبلية أكبر تحديد المرضى الذين يستفيدون من DVCT وقياس أثره على نتائج الصوت وتكاليف الرعاية.",
+      "future_impact_en": "Larger prospective studies could identify which patients benefit from DVCT and assess its effects on voice outcomes and care costs.",
+      "why_important_ar": "توضح الدراسة أن التصوير الديناميكي قد يكشف اختلالات تشريحية لا تظهر بوضوح في videostroboscopy وتؤثر في قرارات الجراحة.",
+      "why_important_en": "The study suggests dynamic imaging can reveal anatomic abnormalities not readily apparent on videostroboscopy and may affect surgical decisions.",
+      "vs_previous_ar": "على خلاف التقييم المعتمد على videostroboscopy وحده، تقترح الدراسة إضافة DVCT لتوصيف تشريح glottis في حالات مختارة، دون أن تثبت بعد تفوقه في النتائج.",
+      "vs_previous_en": "Unlike assessment relying on videostroboscopy alone, this study proposes DVCT to characterize glottic anatomy in selected cases, without yet demonstrating superior outcomes.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة استعادية صغيرة من 15 مريضًا في مجلة Laryngoscope، وتعرض استخدامًا واعدًا لـ DVCT مع أثر واضح على القرارات، لكن غياب المقارنة ونتائج الصوت بعد التدخل يحدان من قوة الدليل.",
+      "stars_reason_en": "A small retrospective series of 15 patients in Laryngoscope describes promising DVCT use and meaningful effects on decisions, but the lack of a comparator and post-intervention voice outcomes limits the evidence.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق الدراسة النقاش لأنها تطرح أداة تصوير إضافية قد تغيّر التخطيط الجراحي في حالات laryngology المعقدة، مع ضرورة تقييم حدود الدليل واحتمال تحيز اختيار المرضى.",
+      "jc_reason_en": "This merits discussion because it introduces an imaging adjunct that may change surgical planning in complex laryngology cases, while raising questions about evidence limitations and patient-selection bias.",
+      "watch": true,
+      "watch_detail_ar": "ينبغي متابعة DVCT بوصفه تقنية تصوير ناشئة لتحديد مدى قابليته للتكرار وفائدته السريرية مقارنةً بـ videostroboscopy.",
+      "watch_detail_en": "Track DVCT as an emerging imaging technology to determine its reproducibility and clinical value relative to videostroboscopy.",
+      "watch_type": "technology",
+      "research_gap_ar": "هناك حاجة إلى دراسات مستقبلية أكبر تقارن DVCT بالتقييم المعتاد، وتقيس أثره على نتائج الصوت ومعدلات الجراحة والتكلفة.",
+      "research_gap_en": "Larger prospective studies should compare DVCT with standard evaluation and measure its effects on voice outcomes, surgical rates, and costs.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "في مراجعة اليوم من مجلة The Laryngoscope، نناقش دراسة عن Dynamic Voice Computed Tomography، أو DVCT، لدى مرضى يعانون من dysphonia لا تتناسب شدتها مع نتائج الفحص السريري. شملت الدراسة الاستعادية 15 بالغًا، متوسط أعمارهم نحو 63 عامًا. كان لدى عشرة منهم تاريخ سابق لـ thyroplasty، بينما كان لدى خمسة posterior glottic insufficiency معروف أو مشتبه به. وقد أظهر جميع المرضى اضطرابًا في المقاييس الصوتية والإدراكية، رغم أن مظهر videostroboscopy لم يفسر شدة المشكلة بصورة كافية.\n\nأضاف DVCT معلومات تشريحية ذات أهمية سريرية لدى جميع المرضى. وشملت الموجودات الأكثر شيوعًا posterior glottic insufficiency، وvertical height mismatch، وimplant malposition، وarytenoid malposition. لم تقتصر أهمية هذه المعلومات على وصف التشريح؛ فقد أكدت أهلية 47% من المرضى للجراحة، وغيّرت الخطة الجراحية لدى 33%، وساعدت على تجنب الجراحة لدى 13%.\n\nالرسالة العملية هي أن DVCT قد يكون فحصًا مكمّلًا مفيدًا في حالات مختارة، خاصة بعد laryngeal framework surgery أو عند الاشتباه بـ posterior glottic insufficiency، عندما تكون videostroboscopy محدودة أو لا تفسر شدة dysphonia. لكن لا ينبغي اعتبار هذه النتائج دليلًا على ضرورة استخدام التصوير روتينيًا؛ فالدراسة صغيرة واستعادية، ولا تقدم مجموعة مقارنة أو نتائج صوتية بعد العلاج. لذلك فالثقة متوسطة، والدليل يستحق المتابعة لا تغيير الممارسة على نطاق واسع الآن.\n\nمن النقاط المهمة للنقاش: كيف نختار المرضى الذين سيستفيدون من DVCT؟ وهل تؤدي المعلومات الإضافية فعلًا إلى تحسن الصوت وتقليل الإجراءات غير الضرورية، أم أنها تغيّر القرارات فقط؟ هناك حاجة إلى دراسات مستقبلية أكبر تقارن DVCT بالتقييم المعتاد وتقيس النتائج الصوتية والتكلفة. الخلاصة: DVCT تقنية تصوير واعدة في laryngology المعقدة، لكنها حتى الآن أداة انتقائية مكمّلة وليست بديلًا عن التقييم السريري أو videostroboscopy.",
+      "audio_script_en": "Today’s review from The Laryngoscope examines Dynamic Voice Computed Tomography, or DVCT, in adults whose dysphonia is disproportionate to clinical findings. This retrospective case series included 15 patients with a mean age of about 63 years. Ten had undergone thyroplasty, and five had known or suspected posterior glottic insufficiency. In every patient, acoustic and perceptual voice measures were abnormal to a degree that was not adequately explained by videostroboscopy.\n\nDVCT provided additional clinically relevant anatomic information in all 15 cases. Common findings included posterior glottic insufficiency, vertical height mismatch, implant malposition, and arytenoid malposition. The added information was associated with changes in management: it confirmed surgical candidacy in 47% of patients, altered the planned procedure in 33%, and helped avoid surgery in 13%.\n\nThe practical takeaway is that DVCT may be a useful complementary test for selected complex patients, particularly after laryngeal framework surgery or when posterior glottic insufficiency is suspected and videostroboscopy is limited or does not explain the severity of dysphonia. However, these results do not justify routine imaging for every patient. This was a small retrospective series, with no comparison group and no reported post-treatment voice outcomes. The evidence is therefore worth knowing, but not strong enough to establish that DVCT improves patient outcomes or should broadly change current practice.\n\nFor journal club, consider how clinicians should select patients for DVCT and whether its effect on surgical decisions translates into better voice outcomes or fewer unnecessary procedures. Larger prospective studies should compare DVCT with standard assessment and evaluate reproducibility, clinical outcomes, and cost. In summary, DVCT is a promising imaging technology for complex laryngology cases, best viewed for now as a selective adjunct rather than a replacement for clinical assessment or videostroboscopy.",
+      "mcq": [
+        {
+          "q_ar": "ما الفئة السريرية التي درستها هذه الدراسة؟",
+          "q_en": "Which clinical population did this study evaluate?",
+          "options_ar": [
+            "أ) أطفال لديهم recurrent croup",
+            "ب) بالغون لديهم dysphonia مع thyroplasty سابقة أو اشتباه بـ PGI",
+            "ج) مرضى لديهم chronic rhinosinusitis بعد FESS",
+            "د) مرضى لديهم hearing loss بعد tympanoplasty"
+          ],
+          "options_en": [
+            "A) Children with recurrent croup",
+            "B) Adults with dysphonia and prior thyroplasty or suspected PGI",
+            "C) Patients with chronic rhinosinusitis after FESS",
+            "D) Patients with hearing loss after tympanoplasty"
+          ],
+          "answer": 1,
+          "explanation_ar": "شملت الدراسة بالغين لديهم dysphonia غير متناسبة مع نتائج videostroboscopy، مع thyroplasty سابقة أو PGI معروف أو مشتبه به.",
+          "explanation_en": "The series included adults with dysphonia disproportionate to videostroboscopy findings and prior thyroplasty or known/suspected PGI."
+        },
+        {
+          "q_ar": "ما النتيجة الأساسية التي أبلغت عنها الدراسة بخصوص DVCT؟",
+          "q_en": "What was the principal reported finding about DVCT?",
+          "options_ar": [
+            "أ) لم يضف معلومات تشريحية إلى videostroboscopy",
+            "ب) أضاف معلومات تشريحية مهمة لدى جميع المرضى",
+            "ج) حسّن مقاييس الصوت لدى جميع المرضى",
+            "د) منع الحاجة إلى videostroboscopy في كل الحالات"
+          ],
+          "options_en": [
+            "A) It added no anatomic information beyond videostroboscopy",
+            "B) It added clinically relevant anatomic information in all patients",
+            "C) It improved voice measures in all patients",
+            "D) It eliminated the need for videostroboscopy in every case"
+          ],
+          "answer": 1,
+          "explanation_ar": "ذكر الباحثون أن DVCT قدم معلومات تشريحية إضافية ذات صلة سريرية في الحالات الخمس عشرة؛ ولم يثبتوا تحسن مقاييس الصوت.",
+          "explanation_en": "The authors reported additional clinically relevant anatomic information from DVCT in all 15 cases; they did not establish improved voice measures."
+        },
+        {
+          "q_ar": "ما القيد الأهم عند تفسير هذه النتائج؟",
+          "q_en": "What is the most important limitation when interpreting these findings?",
+          "options_ar": [
+            "أ) الدراسة حيوانية",
+            "ب) شملت أقل من عشرة مرضى",
+            "ج) دراسة استعادية صغيرة من دون مجموعة مقارنة أو نتائج صوتية بعد العلاج",
+            "د) لم تتناول أي قرار سريري"
+          ],
+          "options_en": [
+            "A) It was an animal study",
+            "B) It included fewer than ten patients",
+            "C) It was a small retrospective series without a comparator or post-treatment voice outcomes",
+            "D) It did not address any clinical decisions"
+          ],
+          "answer": 2,
+          "explanation_ar": "كان التصميم استعاديًا وشمل 15 مريضًا، ولم يتضمن مجموعة مقارنة أو قياسًا لنتائج الصوت بعد التدخل؛ لذلك لا يثبت تحسن النتائج بسبب DVCT.",
+          "explanation_en": "The study was retrospective and included 15 patients, with no comparator or post-intervention voice outcomes; it therefore cannot establish that DVCT improves outcomes."
+        }
+      ]
+    },
+    {
+      "pmid": "42904438",
+      "title_ar": "The link between air pollution and chronic rhinosinusitis.",
+      "title_en": "The link between air pollution and chronic rhinosinusitis.",
+      "journal": "Current opinion in otolaryngology & head and neck surgery",
+      "pub_date": "2026-Nov-03",
+      "doi": "10.1097/MOO.0000000000001164",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42904438/",
+      "pdf_url": null,
+      "study_design": "Narrative review",
+      "summary_ar": "تراجع المقالة الأدلة الحديثة على ارتباط تلوث الهواء، خصوصًا particulate matter بقطر 2.5 μm أو أقل (PM2.5)، بـ chronic rhinosinusitis (CRS). تشير الدراسات التي استعرضتها إلى أن PM2.5 يرتبط بزيادة انتشار CRS وشدة المرض. كما تُظهر دراسات على human nasal epithelial cells أن PM2.5 قد يفاقم epithelial remodeling وbarrier dysfunction ويقلل ciliogenesis. تشمل المصادر المرتبطة بهذه الآثار pollen وtraffic وindustrial pollutants وwildfire smoke. ويرتبط التعرض المزمن لـ PM2.5 بنتائج أسوأ خاصة بالمرض وجودة الحياة بعد endoscopic sinus surgery. لا تقدم المراجعة دليلًا على أن تغيير الممارسة السريرية مطلوب الآن، وتدعو إلى دراسات longitudinal أكبر لتحديد الآثار طويلة الأمد.",
+      "summary_en": "This narrative review examines recent evidence linking air pollution, particularly PM2.5, with chronic rhinosinusitis (CRS). The reviewed studies associate PM2.5 exposure with greater CRS prevalence and disease severity. Cellular studies in human nasal epithelial cells suggest PM2.5 can worsen epithelial remodeling and barrier dysfunction and reduce ciliogenesis. Pollen, traffic, industrial pollutants, and wildfire smoke are among the reported contributors. Chronic PM2.5 exposure is also associated with worse disease-specific and quality-of-life outcomes following endoscopic sinus surgery. Larger longitudinal studies are needed to clarify long-term clinical effects.",
+      "practice_change_ar": "لا تدعم الأدلة الحالية تغييرًا فوريًا في تدبير CRS، لكن يمكن أخذ التعرض لـ PM2.5 بعين الاعتبار عند مناقشة العوامل البيئية مع المرضى.",
+      "practice_change_en": "Current evidence does not support an immediate change in CRS management, but PM2.5 exposure may be considered when discussing environmental contributors with patients.",
+      "future_impact_ar": "قد تساعد دراسات longitudinal أكبر على تحديد أثر التعرض طويل الأمد وتقييم ما إذا كان الحد من التعرض يحسن نتائج CRS.",
+      "future_impact_en": "Larger longitudinal studies may clarify the effects of long-term exposure and determine whether reducing exposure improves CRS outcomes.",
+      "why_important_ar": "تسلط المقالة الضوء على عامل بيئي قابل للتعديل قد يرتبط بانتشار CRS وشدته ونتائج endoscopic sinus surgery.",
+      "why_important_en": "The review highlights a potentially modifiable environmental exposure associated with CRS prevalence, severity, and outcomes after endoscopic sinus surgery.",
+      "vs_previous_ar": "تضيف المراجعة تركيزًا أحدث على PM2.5 وآثاره المحتملة في upper airway، بينما كان تأثير تلوث الهواء أوضح سابقًا في أمراض lower airway.",
+      "vs_previous_en": "The review brings a newer focus to PM2.5 and its potential effects in the upper airway, where pollution has been more established as a concern in lower airway disease.",
+      "stars": 3,
+      "stars_reason_ar": "مراجعة سردية وليست systematic review أو meta-analysis؛ تلخص ارتباطًا سريريًا مهمًا وآليات محتملة، لكن الأدلة لا تغير الممارسة حاليًا وتحتاج إلى دراسات longitudinal أقوى.",
+      "stars_reason_en": "This is a narrative review rather than a systematic review or meta-analysis. It summarizes a clinically relevant association and possible mechanisms, but the evidence does not yet change practice and needs stronger longitudinal studies.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This is suitable for discussion because it connects environmental exposure with CRS outcomes and raises questions about causality and the quality of the underlying studies.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى دراسات longitudinal أكبر تقيس التعرض لـ PM2.5 بموضوعية وتحدد علاقته السببية بنتائج CRS قبل الجراحة وبعدها.",
+      "research_gap_en": "Larger longitudinal studies with objective PM2.5 exposure assessment are needed to clarify causal relationships with CRS outcomes before and after surgery.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تتناول هذه المراجعة العلاقة بين تلوث الهواء وchronic rhinosinusitis، أو CRS، مع تركيز خاص على particulate matter الذي يبلغ قطره 2.5 μm أو أقل، والمعروف باسم PM2.5. أهمية الموضوع أن دور تلوث الهواء معروف على نحو أوسع في أمراض lower airway، بينما ظهرت الأدلة على تأثيره في upper airway وCRS حديثًا نسبيًا.\n\nتستعرض المقالة دراسات تربط PM2.5 بزيادة انتشار CRS وبشدة أكبر للمرض. وعلى مستوى الخلايا، تشير دراسات human nasal epithelial cells إلى أن التعرض قد يفاقم epithelial remodeling وbarrier dysfunction، وقد يقلل ciliogenesis. وتُذكر مصادر متعددة للجسيمات، منها pollen وtraffic وindustrial pollutants وwildfire smoke، بوصفها عوامل مستقلة مرتبطة بانتشار المرض أو تفاقمه.\n\nومن النتائج السريرية اللافتة أن التعرض المزمن لـ PM2.5 ارتبط بنتائج أسوأ خاصة بالمرض وجودة الحياة بعد endoscopic sinus surgery. لكن هذه المراجعة لا تثبت أن PM2.5 سبب مباشر لهذه النتائج، ولا تقدم تدخلًا علاجيًا يغير الممارسة الحالية. لذلك فالمغزى العملي هو الانتباه إلى العوامل البيئية في مناقشة حالة المريض، دون اعتبار ذلك بديلًا عن التقييم أو العلاج المعتاد.\n\nتُصنف المقالة كمراجعة سردية، لذا توفر تجميعًا مفيدًا للمعرفة لكنها لا تحمل قوة systematic review أو meta-analysis. التقييم ثلاث نجوم والثقة متوسطة: الموضوع مهم للرhinology، لكن البيانات لا تكفي لتغيير التدبير. الفجوة الأساسية هي الحاجة إلى دراسات longitudinal أكبر تقيس التعرض بموضوعية وتقيّم النتائج قبل الجراحة وبعدها، وتفصل بين الارتباط والسببية. وقد توضح هذه الدراسات لاحقًا ما إذا كان تقليل التعرض يحسن أعراض CRS أو نتائج الجراحة.",
+      "audio_script_en": "This review examines the relationship between air pollution and chronic rhinosinusitis, or CRS, focusing on particulate matter with a diameter of 2.5 micrometers or less, known as PM2.5. Pollution is a well-established concern in lower airway disease, while its role in upper airway disease has been investigated more recently.\n\nThe studies summarized in the review associate PM2.5 exposure with increased CRS prevalence and greater disease severity. Cellular studies in human nasal epithelial cells suggest that PM2.5 may worsen epithelial remodeling and barrier dysfunction and reduce ciliogenesis. Potential sources include pollen, traffic, industrial pollutants, and wildfire smoke, each reported as a contributor to CRS prevalence or exacerbation.\n\nA notable clinical finding is that chronic PM2.5 exposure is associated with worse disease-specific and quality-of-life outcomes following endoscopic sinus surgery. However, this review does not establish that PM2.5 directly causes those outcomes, nor does it identify an intervention that should change current practice. Clinicians may consider environmental exposure when discussing CRS, but it should not replace standard assessment or management.\n\nThis is a narrative review, so it provides a useful synthesis but does not have the evidentiary strength of a systematic review or meta-analysis. It receives three stars with moderate confidence: the topic is relevant to rhinology, but the evidence is not yet practice-changing. The key research gap is the need for larger longitudinal studies with objective exposure measurements and clinical outcomes assessed before and after surgery. Such studies could clarify causality and establish whether reducing exposure improves CRS symptoms or surgical outcomes.",
+      "mcq": [
+        {
+          "q_ar": "ما الملوث الذي تركز عليه المراجعة بوصفه مرتبطًا بـ CRS؟",
+          "q_en": "Which pollutant does the review primarily identify as associated with CRS?",
+          "options_ar": [
+            "أ) PM2.5",
+            "ب) الأوزون فقط",
+            "ج) أول أكسيد الكربون فقط",
+            "د) بخار الماء"
+          ],
+          "options_en": [
+            "A) PM2.5",
+            "B) Ozone alone",
+            "C) Carbon monoxide alone",
+            "D) Water vapor"
+          ],
+          "answer": 0,
+          "explanation_ar": "تركز المراجعة على particulate matter بقطر 2.5 μm أو أقل (PM2.5) وعلاقته بانتشار CRS وشدته.",
+          "explanation_en": "The review focuses on particulate matter 2.5 μm or smaller (PM2.5) and its association with CRS prevalence and severity."
+        },
+        {
+          "q_ar": "أي تغير خلوي ذُكر في human nasal epithelial cells بعد التعرض لـ PM2.5؟",
+          "q_en": "Which cellular change was reported in human nasal epithelial cells following PM2.5 exposure?",
+          "options_ar": [
+            "أ) تحسن barrier function",
+            "ب) زيادة ciliogenesis",
+            "ج) تفاقم epithelial remodeling وbarrier dysfunction",
+            "د) زوال epithelial remodeling"
+          ],
+          "options_en": [
+            "A) Improved barrier function",
+            "B) Increased ciliogenesis",
+            "C) Worsened epithelial remodeling and barrier dysfunction",
+            "D) Elimination of epithelial remodeling"
+          ],
+          "answer": 2,
+          "explanation_ar": "تشير الدراسات الخلوية التي استعرضتها المقالة إلى تفاقم epithelial remodeling وbarrier dysfunction وانخفاض ciliogenesis.",
+          "explanation_en": "The reviewed cellular studies suggest worsened epithelial remodeling and barrier dysfunction, along with reduced ciliogenesis."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن أثر هذه المراجعة على الممارسة الحالية؟",
+          "q_en": "What is the most appropriate conclusion about this review's impact on current practice?",
+          "options_ar": [
+            "أ) تثبت ضرورة تغيير العلاج الجراحي فورًا",
+            "ب) تبرر وصف دواء جديد لكل مرضى CRS",
+            "ج) تقدم معرفة مفيدة، لكن لا تثبت حاليًا تغييرًا فوريًا في الممارسة",
+            "د) تثبت أن PM2.5 هو السبب الوحيد لـ CRS"
+          ],
+          "options_en": [
+            "A) It proves that surgical management must change immediately",
+            "B) It justifies prescribing a new drug to all patients with CRS",
+            "C) It provides useful knowledge but does not currently establish an immediate practice change",
+            "D) It proves PM2.5 is the sole cause of CRS"
+          ],
+          "answer": 2,
+          "explanation_ar": "المراجعة تلخص ارتباطات مهمة لكنها تدعو إلى دراسات longitudinal أكبر، ولا تقدم دليلًا يثبت ضرورة تغيير الممارسة الآن.",
+          "explanation_en": "The review summarizes important associations but calls for larger longitudinal studies and does not establish a need to change practice now."
+        }
+      ]
+    },
+    {
+      "pmid": "42971772",
+      "title_ar": "Efficacy of sinus drug-eluting stents for chronic rhinosinusitis with nasal polyps: a multidimensional study.",
+      "title_en": "Efficacy of sinus drug-eluting stents for chronic rhinosinusitis with nasal polyps: a multidimensional study.",
+      "journal": "The Journal of laryngology and otology",
+      "pub_date": "2026-Nov-03",
+      "doi": "10.1017/S0022215126105866",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42971772/",
+      "pdf_url": null,
+      "study_design": "Prospective preference-based controlled study, n=60",
+      "summary_ar": "قارنت هذه الدراسة بين إجراء FESS وحده وإضافة drug-eluting stent في middle meatus لدى 60 مريضًا مصابًا بـ chronic rhinosinusitis with nasal polyps. اختار المرضى العلاج وفق تفضيلهم، لذلك لم يكن توزيعهم عشوائيًا. قُيّمت أعراض Sino-Nasal Outcome Test 22، ومظهر mucosa باستخدام Lund-Kennedy scores، ومستوى MMP-9 قبل العملية وبعد 3 و12 شهرًا. تحسنت المؤشرات في المجموعتين بعد الجراحة. كان انخفاض MMP-9 متقاربًا بعد 3 أشهر، بينما أظهرت مجموعة stent انخفاضًا أكبر بعد 12 شهرًا وتحسنًا إضافيًا في بعض symptom scores. تشير النتائج إلى فائدة محتملة قصيرة الأمد، لكن التصميم غير العشوائي وغياب تفاصيل مقدار الأثر يحدّان من اليقين.",
+      "summary_en": "This study compared standalone FESS with FESS plus an intra-operative middle meatus drug-eluting stent in 60 patients with chronic rhinosinusitis and nasal polyps. Treatment groups were determined by patient preference rather than random allocation. Sino-Nasal Outcome Test 22, Lund-Kennedy scores, and nasal secretion MMP-9 were assessed before surgery and at 3 and 12 months. All measured indicators improved after surgery in both groups. MMP-9 reduction was similar at 3 months, while the stent group had greater reduction at 12 months and additional improvement in related symptom scores. The findings suggest possible benefit through 12 months, but non-random allocation and limited reporting of effect sizes constrain confidence.",
+      "practice_change_ar": "لا تكفي هذه الدراسة غير العشوائية لتغيير الممارسة، لذا يبقى FESS وحده خيارًا مناسبًا إلى أن تتوفر أدلة مقارنة أقوى.",
+      "practice_change_en": "This non-randomized study is insufficient to change practice, so standalone FESS remains appropriate pending stronger comparative evidence.",
+      "future_impact_ar": "قد تدعم النتائج إجراء RCT أكبر لتحديد فاعلية drug-eluting stent ومتانة فائدته السريرية.",
+      "future_impact_en": "These findings may support a larger RCT to establish the efficacy and durability of drug-eluting stents.",
+      "why_important_ar": "تتناول الدراسة device قد يحسّن الأعراض ومؤشرات الالتهاب بعد FESS لدى مرضى nasal polyps.",
+      "why_important_en": "The study evaluates a device that may improve symptoms and inflammatory markers after FESS in patients with nasal polyps.",
+      "vs_previous_ar": "تضيف الدراسة مقارنة سريرية مباشرة مع FESS وحده، لكنها لا تحسم الفائدة بسبب التخصيص حسب تفضيل المريض.",
+      "vs_previous_en": "The study adds a direct clinical comparison with standalone FESS, but patient-preference allocation prevents firm conclusions about benefit.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة مستقبلية مضبوطة تضم 60 مريضًا، لكنها غير عشوائية ومحدودة المتابعة؛ النتائج واعدة ومفيدة للمعرفة دون أن تغيّر الممارسة حاليًا.",
+      "stars_reason_en": "A prospective controlled study of 60 patients, but non-randomized and limited in follow-up; the findings are promising and useful to know but do not currently change practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it compares standalone FESS with an added device and raises important questions about non-random allocation and surrogate outcomes such as MMP-9.",
+      "watch": true,
+      "watch_detail_ar": "يستحق drug-eluting stent المتابعة لمعرفة ما إذا كانت الدراسات العشوائية ستؤكد تحسن الأعراض واستمرار الفائدة.",
+      "watch_detail_en": "The drug-eluting stent is worth tracking to see whether randomized studies confirm symptom improvement and sustained benefit.",
+      "watch_type": "device",
+      "research_gap_ar": "يلزم إجراء RCT أكبر مع توضيح نوع الدواء المنطلق ومقدار الأثر السريري، ومتابعة أطول ومعدلات النكس والحاجة إلى جراحة إضافية.",
+      "research_gap_en": "A larger RCT should specify the eluted drug, quantify clinical effects, extend follow-up, and report recurrence and subsequent surgery rates.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نراجع اليوم دراسة عن إضافة drug-eluting stent إلى FESS لدى مرضى chronic rhinosinusitis with nasal polyps. شملت الدراسة 60 مريضًا من Changsha Central Hospital، واختيرت مجموعة العلاج وفق تفضيل المريض، لا بالتوزيع العشوائي. قارن الباحثون بين FESS وحده وبين FESS مع زرع stent في middle meatus.\n\nقاس الفريق Sino-Nasal Outcome Test 22 للأعراض، وLund-Kennedy scores لمظهر mucosa، ومستوى MMP-9 في إفرازات الأنف. أُجريت القياسات قبل العملية ثم بعد 3 أشهر و12 شهرًا. تحسنت المؤشرات في كلتا المجموعتين. بعد 3 أشهر، لم يكن انخفاض MMP-9 مختلفًا بوضوح بين المجموعتين. لكن بعد 12 شهرًا، ارتبطت إضافة stent بانخفاض أكبر في MMP-9 وتحسن أكبر في بعض symptom scores.\n\nالرسالة السريرية هي أن هذا device قد يضيف فائدة إلى FESS، لكن الدراسة لا تثبت السببية؛ فتخصيص العلاج حسب التفضيل قد يؤدي إلى اختلافات بين المجموعتين. كما أن الملخص لا يذكر حجم الفروق أو تفاصيل كافية عن الدواء المنطلق والآثار الضارة. لذلك لا نرى سببًا لتغيير الممارسة أو اعتماد stent روتينيًا بناءً على هذه النتائج وحدها.\n\nنقيّمها بثلاث نجوم من خمس، وبثقة متوسطة: هي دراسة مقارنة مستقبلية ذات صلة مباشرة بطب rhinology، لكنها غير عشوائية ومحدودة إلى 12 شهرًا. تستحق النقاش في journal club لأن تفسير النتائج يتطلب فهم قيود التصميم، ولأن MMP-9 مؤشر التهابي وليس بديلًا كافيًا عن النتائج التي تهم المريض. كما يستحق الجهاز المتابعة، خصوصًا إذا ظهرت نتائج RCT أكبر تقيس مقدار تحسن الأعراض، واستمرار الأثر، والنكس، والحاجة إلى جراحة إضافية. الخلاصة: فائدة محتملة، لا دليل كافٍ حتى الآن لتغيير الممارسة.",
+      "audio_script_en": "Today we review a study of adding a drug-eluting stent to FESS for chronic rhinosinusitis with nasal polyps. It included 60 patients at Changsha Central Hospital. Patients selected their treatment preference, so the comparison was not randomized. The researchers compared standalone FESS with FESS plus a stent placed in the middle meatus.\n\nThe outcomes were Sino-Nasal Outcome Test 22 for symptoms, Lund-Kennedy scores for mucosal appearance, and MMP-9 in nasal secretions. Assessments were made before surgery and at 3 and 12 months. Indicators improved in both groups. At 3 months, MMP-9 reduction was not significantly different. At 12 months, however, the stent group had a greater reduction in MMP-9 and greater improvement in related symptom scores.\n\nClinically, the device may offer an additional benefit after FESS, but this study cannot establish that the stent caused the difference. Treatment preference may have introduced differences between the groups. The abstract also does not report effect sizes or adequate detail about the eluted drug and adverse events. These findings alone do not justify changing practice or routinely adopting the stent.\n\nWe rate the study three out of five stars, with moderate confidence. It is a prospective comparative study relevant to rhinology, but it is non-randomized and follow-up is limited to 12 months. It is suitable for journal club because its design limitations matter, and because MMP-9 is an inflammatory marker rather than a substitute for outcomes that matter directly to patients. The device is worth tracking, particularly if larger RCTs report symptom effect sizes, durability, recurrence, and subsequent surgery. The bottom line is a possible benefit, but not yet evidence strong enough to change practice.",
+      "mcq": [
+        {
+          "q_ar": "كيف حُددت مجموعة العلاج في هذه الدراسة؟",
+          "q_en": "How was treatment group determined in this study?",
+          "options_ar": [
+            "أ) بالتوزيع العشوائي",
+            "ب) حسب تفضيل المريض",
+            "ج) حسب نتيجة MMP-9",
+            "د) حسب Lund-Kennedy scores"
+          ],
+          "options_en": [
+            "A) By random allocation",
+            "B) By patient treatment preference",
+            "C) By MMP-9 result",
+            "D) By Lund-Kennedy scores"
+          ],
+          "answer": 1,
+          "explanation_ar": "اختيرت المجموعة وفق تفضيل المريض، لذا فالدراسة ليست RCT.",
+          "explanation_en": "Groups were formed according to patient preference, so this was not an RCT."
+        },
+        {
+          "q_ar": "ما النتيجة التي ظهرت عند متابعة 12 شهرًا في مجموعة stent؟",
+          "q_en": "What was observed at 12-month follow-up in the stent group?",
+          "options_ar": [
+            "أ) تدهور جميع المؤشرات",
+            "ب) عدم تحسن أي نتيجة مقارنةً بـ FESS وحده",
+            "ج) انخفاض أكبر في MMP-9 وتحسن أكبر في بعض symptom scores",
+            "د) اختلاف في MMP-9 بعد 3 أشهر فقط"
+          ],
+          "options_en": [
+            "A) Worsening in all measures",
+            "B) No improvement in any outcome compared with FESS alone",
+            "C) Greater MMP-9 reduction and improvement in some symptom scores",
+            "D) A difference in MMP-9 only at 3 months"
+          ],
+          "answer": 2,
+          "explanation_ar": "عند 12 شهرًا، أظهرت مجموعة stent انخفاضًا أكبر في MMP-9 وتحسنًا أكبر في بعض symptom scores.",
+          "explanation_en": "At 12 months, the stent group had greater MMP-9 reduction and greater improvement in some symptom scores."
+        },
+        {
+          "q_ar": "ما أهم سبب لعدم تغيير الممارسة اعتمادًا على هذه الدراسة وحدها؟",
+          "q_en": "What is the main reason not to change practice based on this study alone?",
+          "options_ar": [
+            "أ) عدد المرضى أقل من 10",
+            "ب) الدراسة غير عشوائية والتخصيص تم حسب تفضيل المريض",
+            "ج) لم تشمل مرضى chronic rhinosinusitis",
+            "د) لم تتضمن أي متابعة بعد العملية"
+          ],
+          "options_en": [
+            "A) The study included fewer than 10 patients",
+            "B) It was non-randomized, with allocation based on patient preference",
+            "C) It did not include patients with chronic rhinosinusitis",
+            "D) It included no postoperative follow-up"
+          ],
+          "answer": 1,
+          "explanation_ar": "التخصيص حسب التفضيل قد يؤدي إلى اختلافات بين المجموعتين ويحد من الاستدلال السببي.",
+          "explanation_en": "Preference-based allocation may produce group differences and limits causal inference."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026110301",
+      "title_ar": "ميدترونيك وكارل ستورز تتعاونان لتطوير حلول جراحية متكاملة للأنف والأذن والحنجرة",
+      "title_en": "Medtronic and Karl Storz Collaborate on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-03",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أفادت «ماس ديفايس» بأن ميدترونيك وكارل ستورز تتعاونان لتطوير حلول جراحية متكاملة في مجال الأنف والأذن والحنجرة. ولا يوضح التقرير المتاح المنتجات أو التقنيات التي ستُدمج، أو موعد إتاحة الحلول، أو الشروط المالية للتعاون. ولم يُذكر صدور قرار تنظيمي أو تغيير في الإرشادات السريرية الحالية.",
+      "summary_en": "Medtronic and Karl Storz are collaborating on integrated surgical solutions for ear, nose and throat care, according to MassDevice. The available report does not specify which products or technologies will be combined, when solutions may become available, or the financial terms of the collaboration. No regulatory decision or change to current clinical guidance is reported.",
+      "practice_change_ar": "لا يُتوقع أن يطرأ تغيير فوري على الممارسة؛ إذ لا يحدد التقرير منتجات متاحة أو أدلة سريرية.",
+      "practice_change_en": "ENT surgeons should not expect an immediate change in practice; the report does not identify available products or clinical evidence.",
+      "future_impact_ar": "قد يشير التعاون إلى توجه نحو أنظمة أكثر ترابطاً لغرف عمليات الأنف والأذن والحنجرة، لكن ذلك يتوقف على تفاصيل التقنية وتوافرها وأدائها السريري.",
+      "future_impact_en": "The collaboration may signal a move toward more connected ENT operating-room systems, pending details on the technology, availability and clinical performance.",
+      "why_important_ar": "قد تؤثر الحلول المتكاملة مستقبلاً في سير العمل الجراحي واختيار المعدات، لكن قيمتها السريرية لا تزال غير واضحة إلى حين الكشف عن منتجات محددة وأدلة داعمة.",
+      "why_important_en": "Integrated solutions could eventually affect surgical workflows and equipment choices, but their clinical value remains unclear until specific offerings and evidence are disclosed.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "خبر تجاري قد يهم اختيار التقنيات مستقبلاً، لكن التفاصيل والأثر السريري غير محددين.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "إليكم موجزاً من أخبار قطاع الأنف والأذن والحنجرة. أعلنت ميدترونيك وكارل ستورز عن تعاون يهدف إلى تطوير حلول جراحية متكاملة لهذا التخصص، وفقاً لما أوردته «ماس ديفايس». لكن المعلومات المنشورة في الخبر المتاح محدودة؛ فلا توضح ما المنتجات أو التقنيات التي ستُجمع، ولا موعد طرح أي حلول، ولا الشروط المالية للتعاون. كذلك، لم يُذكر وجود قرار تنظيمي جديد أو بيانات سريرية تدعم منتجاً بعينه. بالنسبة إلى الجرّاحين، لا يعني الإعلان بحد ذاته تغييراً فورياً في الممارسة أو اختيار المعدات. وقد تصبح المبادرة مهمة إذا أسفرت عن أدوات تحسن سير العمل أو تكامل الأنظمة داخل غرفة العمليات، لكن تقييم ذلك يتطلب معرفة التفاصيل والاطلاع على نتائج الأداء السريري. سنترقب أي إعلان لاحق عن المنتجات والتوافر والأدلة الداعمة.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026110302",
+      "title_ar": "تقرير يتوقع نمو سوق تنظير الأنف والأذن والحنجرة بمعدل سنوي مركب 6.4%",
+      "title_en": "ENT Endoscopy Market Report Projects 6.4% CAGR",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-03",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت Market.us تقريراً عن حجم سوق تنظير الأنف والأذن والحنجرة وحصته ونموه. ويذكر عنوان التقرير توقع نمو سنوي مركب للسوق بنسبة 6.4%. ولا يوضح الخبر المتاح الفترة الزمنية للتوقع أو القيمة السوقية أو العوامل التي تقود هذا النمو. ولا يتناول الخبر صفقة استحواذ أو قراراً تنظيمياً أو حدثاً مالياً يخص شركة بعينها.",
+      "summary_en": "Market.us published a report on the size, share, and growth of the ENT endoscopy market. The report headline cites a projected compound annual growth rate (CAGR) of 6.4%. The available item does not specify the forecast period, market valuation, or factors driving the projection. No acquisition, regulatory decision, or company-specific financial event is reported.",
+      "practice_change_ar": "لا يشير هذا التوقع إلى تغيير فوري في الممارسة السريرية، لكنه قد يوفر سياقاً عند تقييم خيارات معدات التنظير والميزانيات.",
+      "practice_change_en": "The projection does not indicate an immediate change to clinical practice, but may provide context when evaluating endoscopy equipment options and budgets.",
+      "future_impact_ar": "إذا استمر هذا النمو المتوقع، فقد يشجع على مزيد من الاستثمار والمنافسة في منتجات تنظير الأنف والأذن والحنجرة، لكن يلزم الاطلاع على تفاصيل التقرير لتقييم دلالاته.",
+      "future_impact_en": "If sustained, the projected growth may encourage further investment and competition in ENT endoscopy products, though the report details are needed to assess its implications.",
+      "why_important_ar": "قد يعكس نمو السوق زيادة النشاط التجاري في مجال تنظير الأنف والأذن والحنجرة، لكن العنوان وحده لا يثبت حدوث تغييرات في توافر الأجهزة أو تكلفتها أو نتائج المرضى.",
+      "why_important_en": "Market growth could reflect expanding commercial activity in ENT endoscopy, but the headline alone does not establish changes in device availability, cost, or patient outcomes.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "خبر سوقي عام، ولا يتضمن دليلاً على أثر سريري مباشر أو تغيير عملي محدد.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "إليكم موجزاً تجارياً من قطاع الأنف والأذن والحنجرة. نشرت شركة Market.us تقريراً عن حجم سوق تنظير الأنف والأذن والحنجرة وحصته ونموه، ويذكر عنوان التقرير توقع معدل نمو سنوي مركب يبلغ 6.4%. لكن الخبر المتاح لا يحدد الفترة التي يغطيها التوقع، ولا حجم السوق المتوقع أو العوامل التي تستند إليها هذه النسبة. كما لا يتضمن معلومات عن جهاز بعينه أو قرار تنظيمي أو تغيير في الرعاية السريرية. بالنسبة للأطباء، قد يكون هذا التوقع مؤشراً عاماً على نشاط السوق، ويمكن أخذه في الاعتبار عند متابعة خيارات المعدات والميزانيات، لكنه لا يبرر بحد ذاته تغيير الممارسة. وتبقى أهمية التقرير محدودة إلى حين الاطلاع على منهجيته وتفاصيله.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026110303",
+      "title_ar": "سوق مناظير الحنجرة الليفية المرنة حتى عام 2035: الطلب المرتبط بصعوبة تأمين مجرى الهواء يدعم النمو",
+      "title_en": "Flexible Fibre Laryngoscopes Market Through 2035: Difficult Airway Demand Supports Growth",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-03",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "تتوقع دراسة سوقية من IndexBox نمو سوق مناظير الحنجرة الليفية المرنة حتى عام 2035، وتعزو ذلك إلى الطلب المرتبط بتدبير مجرى الهواء صعب التأمين. ولا يتضمن الخبر المتاح تقديرات لحجم السوق أو معدلات نموه، كما لا يذكر شركات مصنّعة أو منتجات محددة. وهذا توقع سوقي، وليس خبراً عن قرار تنظيمي أو استحواذ أو دراسة سريرية.",
+      "summary_en": "An IndexBox market outlook projects growth in the flexible fibre laryngoscope market through 2035, citing demand related to difficult airway management. The available item does not provide market-size estimates, growth rates, or details about specific manufacturers or product launches. It is a market forecast, not a report of a regulatory decision, acquisition, or clinical study.",
+      "practice_change_ar": "لا يعلن هذا التوقع عن تغيير في الإرشادات أو الممارسة السريرية، لكنه يسلط الضوء على استمرار الاهتمام بالأجهزة المستخدمة لتقييم مجرى الهواء صعب التأمين وتدبيره.",
+      "practice_change_en": "The forecast does not announce a change in clinical guidance or practice, but it highlights continued interest in devices used for difficult airway assessment and management.",
+      "future_impact_ar": "إذا تحقق الطلب المتوقع، فقد يشجع ذلك على استمرار الاستثمار وتطوير المنتجات في مجال تنظير الحنجرة المرن، مع أن التقرير لا يورد توقعات محددة أو تداعيات تخص شركات بعينها.",
+      "future_impact_en": "If the projected demand materializes, it may encourage continued investment and product development in flexible laryngoscopy, although the report provides no specific projections or company-level implications.",
+      "why_important_ar": "تُستخدم مناظير الحنجرة المرنة في تقييم مجرى الهواء، لكن التوقع السوقي لا يقدم أدلة جديدة بشأن أداء الأجهزة أو سلامتها أو نتائج المرضى.",
+      "why_important_en": "Flexible laryngoscopes are relevant to airway evaluation, but the market outlook provides no new evidence about device performance, safety, or patient outcomes.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "توقع سوقي عام بلا بيانات تفصيلية أو أثر سريري مباشر معلن.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أشار تقرير سوقي من IndexBox إلى توقع نمو سوق مناظير الحنجرة الليفية المرنة حتى عام 2035، مستنداً إلى الطلب المرتبط بتدبير حالات صعوبة تأمين مجرى الهواء. لكن الخبر المتاح لا يقدم أرقاماً عن حجم السوق أو معدل النمو، ولا يحدد شركات أو أجهزة بعينها. والأهم للأطباء أن هذا توقع تجاري، وليس دليلاً سريرياً جديداً أو تغييراً في الإرشادات. تظل مناظير الحنجرة المرنة أدوات مهمة لتقييم مجرى الهواء، لكن لا يتضمن التقرير معلومات جديدة عن أدائها أو سلامتها أو نتائج المرضى. لذلك، لا يترتب على الخبر تغيير مباشر في الممارسة اليومية، وقد تقتصر أهميته على الإشارة إلى استمرار الاهتمام والاستثمار في هذه الفئة من الأجهزة.",
+      "mcq": []
+    }
+  ]
+}
