@@ -1,0 +1,687 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T10:55:47Z",
+  "articles": [
+    {
+      "pmid": "42904438",
+      "title_ar": "The link between air pollution and chronic rhinosinusitis.",
+      "title_en": "The link between air pollution and chronic rhinosinusitis.",
+      "journal": "Current opinion in otolaryngology & head and neck surgery",
+      "pub_date": "2026-Nov-03",
+      "doi": "10.1097/MOO.0000000000001164",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42904438/",
+      "pdf_url": null,
+      "study_design": "Narrative review",
+      "summary_ar": "تستعرض هذه المقالة الأدلة الحديثة على ارتباط تلوث الهواء، خصوصًا particulate matter بحجم PM2.5 أو أقل، بمرض chronic rhinosinusitis (CRS). تشير الدراسات إلى أن PM2.5 يرتبط بزيادة انتشار CRS وتفاقم شدة المرض، كما قد تسهم مصادر متعددة مثل pollen وحركة المرور والملوثات الصناعية ودخان حرائق الغابات في هذه الآثار. وتصف دراسات على human nasal epithelial cells لدى مرضى CRS تفاقم epithelial remodeling وbarrier dysfunction وانخفاض ciliogenesis بعد التعرض لـ PM2.5. كما ارتبط التعرض المزمن لـ PM2.5 بنتائج أسوأ خاصة بالمرض وبجودة الحياة بعد endoscopic sinus surgery. هذه مراجعة للأدلة وليست تجربة سريرية، لذلك لا تثبت وحدها السببية أو تحدد أثرًا علاجيًا يمكن تطبيقه مباشرة. يخلص المؤلفون إلى أن دراسات longitudinal أكبر لازمة لفهم الآثار السريرية طويلة الأمد.",
+      "summary_en": "This review summarizes recent evidence linking air pollution, particularly PM2.5, with chronic rhinosinusitis (CRS). PM2.5 is associated with increased CRS prevalence and greater disease severity, with pollen, traffic, industrial pollutants, and wildfire smoke identified as contributing sources. Studies using human nasal epithelial cells from people with CRS suggest that PM2.5 can worsen epithelial remodeling and barrier dysfunction and reduce ciliogenesis. Chronic exposure has also been associated with worse disease-specific and quality-of-life outcomes after endoscopic sinus surgery. As a review, the article synthesizes existing evidence rather than testing an intervention or establishing causality. The authors call for larger longitudinal studies to clarify long-term clinical effects.",
+      "practice_change_ar": "لا تغيّر هذه المراجعة التدبير السريري اليوم، لكنها تدعم مناقشة التعرض لتلوث الهواء مع مرضى CRS وتجنب تقديم الارتباط بوصفه علاقة سببية مثبتة.",
+      "practice_change_en": "This review does not change management today, but supports discussing air-pollution exposure with patients with CRS without presenting the association as proven causation.",
+      "future_impact_ar": "قد تساعد الدراسات longitudinal الأكبر على تحديد ما إذا كان تقليل التعرض لـ PM2.5 يحسن مسار CRS أو نتائج endoscopic sinus surgery.",
+      "future_impact_en": "Larger longitudinal studies may determine whether reducing PM2.5 exposure improves CRS course or outcomes after endoscopic sinus surgery.",
+      "why_important_ar": "تسلط المقالة الضوء على عامل بيئي واسع الانتشار قد يرتبط بعبء CRS وشدة المرض ونتائج الجراحة.",
+      "why_important_en": "The article highlights a widespread environmental exposure associated with CRS burden, disease severity, and postsurgical outcomes.",
+      "vs_previous_ar": "تضيف المقالة تركيزًا حديثًا على PM2.5 وآثاره المحتملة في upper airway ونتائج CRS، بينما تظل الأدلة السريرية طويلة الأمد غير مكتملة.",
+      "vs_previous_en": "The review brings recent attention to PM2.5 and its potential effects on the upper airway and CRS outcomes, while emphasizing that long-term clinical evidence remains incomplete.",
+      "stars": 3,
+      "stars_reason_ar": "مراجعة سردية تجمع أدلة سريرية وخلوية ذات أهمية للرhinology، لكنها لا تقدم تجربة أو دليلًا يغيّر الممارسة؛ لذا تستحق المعرفة مع بقاء اليقين محدودًا.",
+      "stars_reason_en": "This narrative review synthesizes clinically relevant and mechanistic evidence for rhinology, but provides no trial or practice-changing evidence; it is useful to know, with limited certainty.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "موضوع مناسب للنقاش حول جودة الأدلة التي تربط التعرض البيئي بـ CRS، وكيفية ترجمة الارتباطات إلى إرشاد المرضى وأولويات البحث.",
+      "jc_reason_en": "This is suitable for discussion of the evidence linking environmental exposure to CRS and how associations should inform counseling and research priorities.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تلزم دراسات longitudinal أكبر تقيس التعرض لـ PM2.5 وتتابع حدوث CRS وشدته ونتائج endoscopic sinus surgery على المدى الطويل.",
+      "research_gap_en": "Larger longitudinal studies should measure PM2.5 exposure and track CRS incidence, severity, and long-term outcomes after endoscopic sinus surgery.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تتناول هذه المراجعة العلاقة بين تلوث الهواء وchronic rhinosinusitis، أو CRS، مع تركيز خاص على particulate matter ذي القطر 2.5 ميكرومتر أو أقل، المعروف باسم PM2.5. تشير الدراسات التي استعرضها المؤلفون إلى ارتباط PM2.5 بزيادة انتشار CRS وبشدة أكبر للمرض. وقد تشمل مصادر التعرض pollen، وحركة المرور، والملوثات الصناعية، ودخان حرائق الغابات.\n\nتقترح الأدلة الخلوية آليات محتملة لهذا الارتباط. ففي human nasal epithelial cells المأخوذة من أشخاص لديهم CRS، ارتبط التعرض لـ PM2.5 بتفاقم epithelial remodeling وbarrier dysfunction، إلى جانب انخفاض ciliogenesis. وتشير الأدلة السريرية كذلك إلى أن التعرض المزمن قد يرتبط بنتائج أسوأ خاصة بالمرض وبجودة الحياة بعد endoscopic sinus surgery.\n\nمن المهم تفسير هذه النتائج بحذر. المقالة مراجعة للأدلة وليست تجربة سريرية، والارتباط لا يثبت أن تلوث الهواء هو سبب مباشر للمرض أو أن تقليل التعرض سيحسن نتائج الجراحة. لذلك لا تفرض المراجعة تغييرًا فوريًا في التدبير، لكنها تذكّر الأطباء بإمكان مناقشة التعرض البيئي مع مرضى CRS، من دون إعطاء وعود علاجية غير مدعومة.\n\nالرسالة الأهم هي أن PM2.5 قد يمثل عاملًا بيئيًا قابلًا للتعديل يستحق مزيدًا من البحث. يدعو المؤلفون إلى دراسات longitudinal أكبر لتحديد الآثار طويلة الأمد، وقياس العلاقة بين التعرض والحدوث والشدة ونتائج الجراحة. الخلاصة: هذه مراجعة مفيدة لأطباء rhinology، وتقدم معرفة مهمة، لكنها لا تغيّر الممارسة الحالية ولا تحسم السببية.",
+      "audio_script_en": "This review examines the relationship between air pollution and chronic rhinosinusitis, or CRS, focusing particularly on particulate matter with a diameter of 2.5 micrometers or less, known as PM2.5. The studies summarized by the authors associate PM2.5 with increased CRS prevalence and greater disease severity. Potential sources include pollen, traffic, industrial pollutants, and wildfire smoke.\n\nCellular evidence suggests possible mechanisms. In human nasal epithelial cells from people with CRS, PM2.5 exposure has been associated with worse epithelial remodeling and barrier dysfunction, as well as reduced ciliogenesis. Clinical studies also suggest that chronic exposure is associated with worse disease-specific and quality-of-life outcomes after endoscopic sinus surgery.\n\nThese findings should be interpreted cautiously. This is a review of existing evidence, not a clinical trial, and association does not prove that air pollution directly causes CRS or that reducing exposure will improve surgical outcomes. The review therefore does not require an immediate change in management. It does, however, support considering environmental exposure in conversations with patients, while avoiding unsupported promises about treatment benefit.\n\nThe main message is that PM2.5 may be a modifiable environmental factor deserving further study. The authors call for larger longitudinal studies to establish long-term effects and clarify links with disease occurrence, severity, and postsurgical outcomes. In short, this is useful background for rhinology clinicians, but it adds knowledge rather than changing practice, and causality remains uncertain.",
+      "mcq": [
+        {
+          "q_ar": "ما الملوث الذي تركز عليه المراجعة بوجه خاص؟",
+          "q_en": "Which pollutant is the primary focus of the review?",
+          "options_ar": [
+            "أ) PM2.5",
+            "ب) الأوزون فقط",
+            "ج) ثاني أكسيد الكربون",
+            "د) الرادون"
+          ],
+          "options_en": [
+            "A) PM2.5",
+            "B) Ozone alone",
+            "C) Carbon dioxide",
+            "D) Radon"
+          ],
+          "answer": 0,
+          "explanation_ar": "تركز المراجعة على particulate matter بقطر 2.5 ميكرومتر أو أقل، أي PM2.5.",
+          "explanation_en": "The review focuses on particulate matter with a diameter of 2.5 micrometers or less, or PM2.5."
+        },
+        {
+          "q_ar": "أي تغير خلوي ارتبط بالتعرض لـ PM2.5 في human nasal epithelial cells لدى مرضى CRS؟",
+          "q_en": "Which cellular change was associated with PM2.5 exposure in human nasal epithelial cells from patients with CRS?",
+          "options_ar": [
+            "أ) زيادة ciliogenesis وتحسن barrier function",
+            "ب) تفاقم epithelial remodeling وbarrier dysfunction وانخفاض ciliogenesis",
+            "ج) اختفاء epithelial remodeling بالكامل",
+            "د) تحسن مؤكد في جميع مؤشرات الخلايا"
+          ],
+          "options_en": [
+            "A) Increased ciliogenesis and improved barrier function",
+            "B) Worse epithelial remodeling and barrier dysfunction, with reduced ciliogenesis",
+            "C) Complete elimination of epithelial remodeling",
+            "D) Confirmed improvement in all cellular measures"
+          ],
+          "answer": 1,
+          "explanation_ar": "تذكر المراجعة أن PM2.5 قد يفاقم epithelial remodeling وbarrier dysfunction ويقلل ciliogenesis.",
+          "explanation_en": "The review reports that PM2.5 may worsen epithelial remodeling and barrier dysfunction while reducing ciliogenesis."
+        },
+        {
+          "q_ar": "ما الخطوة البحثية التي يوصي بها المؤلفون؟",
+          "q_en": "What research step do the authors recommend?",
+          "options_ar": [
+            "أ) إيقاف جميع دراسات CRS",
+            "ب) دراسات longitudinal أكبر لتحديد الآثار السريرية طويلة الأمد",
+            "ج) استبدال endoscopic sinus surgery بالعلاج البيئي",
+            "د) اعتماد علاقة سببية مؤكدة دون مزيد من الدراسات"
+          ],
+          "options_en": [
+            "A) Stop all CRS research",
+            "B) Larger longitudinal studies to define long-term clinical effects",
+            "C) Replace endoscopic sinus surgery with environmental treatment",
+            "D) Accept proven causality without further study"
+          ],
+          "answer": 1,
+          "explanation_ar": "تؤكد الخلاصة الحاجة إلى دراسات longitudinal أكبر لتوضيح الآثار السريرية طويلة الأمد لتلوث الهواء على CRS.",
+          "explanation_en": "The review concludes that larger longitudinal studies are needed to clarify the long-term clinical effects of air pollution on CRS."
+        }
+      ]
+    },
+    {
+      "pmid": "42971772",
+      "title_ar": "Efficacy of sinus drug-eluting stents for chronic rhinosinusitis with nasal polyps: a multidimensional study.",
+      "title_en": "Efficacy of sinus drug-eluting stents for chronic rhinosinusitis with nasal polyps: a multidimensional study.",
+      "journal": "The Journal of laryngology and otology",
+      "pub_date": "2026-Nov-03",
+      "doi": "10.1017/S0022215126105866",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42971772/",
+      "pdf_url": null,
+      "study_design": "Prospective nonrandomized preference-based controlled study, n=60",
+      "summary_ar": "قارنت هذه الدراسة بين FESS وحده وبين FESS مع زرع drug-eluting stent في middle meatus لدى 60 مريضًا مصابًا بـ chronic rhinosinusitis with nasal polyps. اختير العلاج وفق تفضيل المرضى، ولم يكن التوزيع عشوائيًا. قُيّمت الأعراض باستخدام Sino-Nasal Outcome Test 22، كما قُيّمت حالة mucosa باستخدام Lund-Kennedy scores ومستويات MMP-9 في nasal secretions قبل الجراحة وبعد 3 و12 شهرًا. تحسنت جميع المؤشرات بعد الجراحة في كلا المجموعتين. كان انخفاض MMP-9 متشابهًا عند 3 أشهر، لكن مجموعة stent أظهرت انخفاضًا أكبر في MMP-9 وتحسنًا أكبر في بعض symptom scores عند 12 شهرًا. تشير النتائج إلى فائدة إضافية محتملة للـ stent، لكن التصميم غير العشوائي وحجم العينة المحدود يحدّان من قوة الاستنتاج.",
+      "summary_en": "This study compared standalone FESS with FESS plus intraoperative middle meatus drug-eluting stent implantation in 60 patients with chronic rhinosinusitis with nasal polyps. Treatment was selected according to patient preference rather than random assignment. Outcomes included Sino-Nasal Outcome Test 22, Lund-Kennedy scores, and nasal secretion MMP-9, measured before surgery and at 3 and 12 months. All measured indicators improved after surgery in both groups. At 3 months, MMP-9 reduction was similar, while at 12 months the stent group had greater MMP-9 reduction and greater improvement in related symptom scores. The findings suggest possible additional benefit, but the nonrandomized design and small sample limit certainty.",
+      "practice_change_ar": "لا تكفي هذه النتائج لتغيير الممارسة؛ يمكن اعتبار drug-eluting stent خيارًا واعدًا، لكن يلزم تأكيد فائدته في RCT.",
+      "practice_change_en": "These results are insufficient to change practice; drug-eluting stents are promising, but their benefit needs confirmation in an RCT.",
+      "future_impact_ar": "قد تدعم النتائج إجراء RCT أكبر لتحديد مدة الفائدة السريرية ودور stent في الحد من الالتهاب بعد FESS.",
+      "future_impact_en": "The findings may support a larger RCT to establish the duration of clinical benefit and the role of stents in reducing inflammation after FESS.",
+      "why_important_ar": "تدرس المقالة إضافة device موضعي إلى FESS وتقيس النتائج بالأعراض والمظهر المخاطي وMMP-9.",
+      "why_important_en": "The article evaluates a local device added to FESS using symptom, mucosal, and MMP-9 outcomes.",
+      "vs_previous_ar": "تضيف الدراسة مقارنة مباشرة بين FESS وحده وFESS مع drug-eluting stent، لكنها لا تقدم دليلًا عشوائيًا يحسم الفائدة الإضافية.",
+      "vs_previous_en": "The study directly compares FESS alone with FESS plus a drug-eluting stent, but does not provide randomized evidence to establish added benefit.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة مستقبلية مضبوطة غير عشوائية على 60 مريضًا؛ تقدم إشارة سريرية واعدة حول device جديد، لكن اختيار العلاج حسب التفضيل وصغر العينة يحدّان من الثقة والتطبيق.",
+      "stars_reason_en": "A prospective controlled but nonrandomized study of 60 patients provides a promising signal for a device, but preference-based treatment allocation and small sample size limit confidence and applicability.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق الدراسة النقاش بسبب احتمال فائدة drug-eluting stent، مع أهمية تقييم أثر التوزيع حسب التفضيل وغياب العشوائية على النتائج.",
+      "jc_reason_en": "The possible benefit of a drug-eluting stent merits discussion, particularly alongside the implications of preference-based, nonrandomized allocation.",
+      "watch": true,
+      "watch_detail_ar": "ينبغي متابعة drug-eluting stent في sinus surgery لمعرفة ما إذا كانت الفائدة المبلغ عنها تستمر وتُثبت في دراسات عشوائية أكبر.",
+      "watch_detail_en": "Track drug-eluting stents in sinus surgery to see whether the reported benefit persists and is confirmed in larger randomized studies.",
+      "watch_type": "device",
+      "research_gap_ar": "يلزم إجراء RCT متعدد المراكز بحجم أكبر، مع توضيح نوع الدواء وجرعته ومعدل المضاعفات والحاجة إلى جراحة مراجعة.",
+      "research_gap_en": "A larger multicenter RCT is needed, with specification of the drug and dose and reporting of complications and revision surgery rates.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تتناول هذه الدراسة سؤالًا مهمًا في rhinology: هل يضيف drug-eluting stent يوضع في middle meatus أثناء FESS فائدة تتجاوز الجراحة وحدها لدى مرضى chronic rhinosinusitis with nasal polyps؟ شملت الدراسة 60 مريضًا، لكن اختيار العلاج كان وفق تفضيل المريض، وليس بالتوزيع العشوائي. قارنت مجموعة FESS وحده بمجموعة FESS مع زرع stent. تابع الباحثون النتائج قبل الجراحة، وبعد 3 أشهر، وبعد 12 شهرًا. شملت المقاييس Sino-Nasal Outcome Test 22 للأعراض، وLund-Kennedy scores لتقييم المظهر المخاطي، وMMP-9 في nasal secretions بوصفه مؤشرًا للالتهاب.\n\nتحسنت المؤشرات بعد الجراحة في المجموعتين. عند 3 أشهر، لم يكن انخفاض MMP-9 مختلفًا بوضوح بينهما. أما عند 12 شهرًا، فكان انخفاض MMP-9 أكبر في مجموعة stent، مع تحسن أكبر في بعض symptom scores المرتبطة. يدعم ذلك احتمال أن يكون للـ stent أثر إضافي على الأعراض والالتهاب خلال سنة، لكنه لا يثبت علاقة سببية بسبب تصميم الدراسة.\n\nسريريًا، لا تبرر هذه النتائج وحدها تغيير الممارسة أو استخدام stent روتينيًا. من نقاط الضعف الأساسية غياب العشوائية، واحتمال اختلاف خصائص المرضى بحسب تفضيل العلاج، إلى جانب أن العينة صغيرة. كما لا يوفر الملخص تفاصيل كافية عن نوع الدواء والجرعة أو المضاعفات والتكلفة. لذلك فالثقة متوسطة، والمقالة مفيدة للنقاش في journal club، لا لإصدار توصية حاسمة.\n\nالخطوة التالية هي RCT أكبر ومتعدد المراكز، مع متابعة أطول وقياس واضح للأعراض، وmucosal healing، والمضاعفات، والحاجة إلى revision surgery. الخلاصة: drug-eluting stent تقنية تستحق المتابعة، لكن فائدتها الإضافية مقارنةً بـ FESS وحده ما زالت تحتاج إلى تأكيد.",
+      "audio_script_en": "This rhinology study asks whether a drug-eluting stent placed in the middle meatus during FESS adds benefit beyond surgery alone for patients with chronic rhinosinusitis with nasal polyps. It included 60 patients, but treatment was selected according to patient preference rather than randomized. One group received standalone FESS, while the other received FESS plus stent implantation. Outcomes were assessed before surgery and at 3 and 12 months. Measures included the Sino-Nasal Outcome Test 22 for symptoms, Lund-Kennedy scores for mucosal appearance, and nasal secretion MMP-9 as an inflammatory marker.\n\nAll indicators improved after surgery in both groups. At 3 months, MMP-9 reduction was not clearly different between groups. At 12 months, the stent group had a greater reduction in MMP-9 and greater improvement in some related symptom scores. This suggests a possible additional effect on symptoms and inflammation over one year, but the study design cannot establish causation.\n\nThese findings alone do not justify changing practice or using stents routinely. Important limitations include the absence of randomization, possible differences between patients choosing each treatment, and the small sample. The abstract also gives limited information about the drug and dose, complications, and cost. The evidence is therefore worth knowing and discussing in journal club, but it does not support a definitive recommendation.\n\nThe next step should be a larger multicenter RCT with longer follow-up and clear assessment of symptoms, mucosal healing, complications, and revision surgery. In summary, drug-eluting stents are a technology worth tracking, but their added benefit over FESS alone remains to be confirmed.",
+      "mcq": [
+        {
+          "q_ar": "كيف اختير المرضى للعلاج في هذه الدراسة؟",
+          "q_en": "How was treatment allocation determined in this study?",
+          "options_ar": [
+            "أ) بالتوزيع العشوائي",
+            "ب) وفق تفضيل العلاج لدى المرضى",
+            "ج) وفق نتيجة MMP-9 فقط",
+            "د) وفق نوع polyp"
+          ],
+          "options_en": [
+            "A) Random allocation",
+            "B) Patient treatment preference",
+            "C) MMP-9 result alone",
+            "D) Polyp subtype"
+          ],
+          "answer": 1,
+          "explanation_ar": "اختيرت المجموعة العلاجية بحسب تفضيل المرضى؛ لذلك فالدراسة مضبوطة لكنها غير عشوائية.",
+          "explanation_en": "Patients selected their treatment preference, making this a controlled but nonrandomized study."
+        },
+        {
+          "q_ar": "ما النتيجة التي ظهرت عند 12 شهرًا في مجموعة stent مقارنةً بمجموعة FESS وحده؟",
+          "q_en": "What was observed at 12 months in the stent group compared with FESS alone?",
+          "options_ar": [
+            "أ) انخفاض أكبر في MMP-9 وتحسن أكبر في بعض symptom scores",
+            "ب) تدهور جميع المؤشرات",
+            "ج) عدم تحسن أي من المجموعتين",
+            "د) انخفاض أكبر في MMP-9 عند 3 أشهر فقط"
+          ],
+          "options_en": [
+            "A) Greater MMP-9 reduction and greater improvement in some symptom scores",
+            "B) Worsening of all indicators",
+            "C) No improvement in either group",
+            "D) Greater MMP-9 reduction only at 3 months"
+          ],
+          "answer": 0,
+          "explanation_ar": "أبلغت الدراسة عن انخفاض أكبر في MMP-9 وتحسن أكبر في بعض symptom scores لدى مجموعة stent عند 12 شهرًا.",
+          "explanation_en": "At 12 months, the stent group showed greater MMP-9 reduction and greater improvement in some symptom scores."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب حول تغيير الممارسة بناءً على هذه الدراسة؟",
+          "q_en": "What is the most appropriate conclusion about changing practice based on this study?",
+          "options_ar": [
+            "أ) اعتماد stent روتينيًا لكل المرضى",
+            "ب) إيقاف إجراء FESS",
+            "ج) اعتبار النتائج واعدة، مع انتظار RCT أكبر لتأكيد الفائدة",
+            "د) رفض استخدام stent في جميع الحالات"
+          ],
+          "options_en": [
+            "A) Use stents routinely for all patients",
+            "B) Discontinue FESS",
+            "C) Regard the findings as promising while awaiting a larger RCT",
+            "D) Reject stent use in all cases"
+          ],
+          "answer": 2,
+          "explanation_ar": "التصميم غير العشوائي والعينة المحدودة لا يكفيان لتغيير الممارسة، وتلزم دراسة عشوائية أكبر.",
+          "explanation_en": "The nonrandomized design and limited sample are insufficient to change practice; a larger randomized study is needed."
+        }
+      ]
+    },
+    {
+      "pmid": "42978338",
+      "title_ar": "A Pilot Study on the Relationship Between Time to Formalin Fixation and Changes in Eosinophil Infiltration in Nasal Polyps.",
+      "title_en": "A Pilot Study on the Relationship Between Time to Formalin Fixation and Changes in Eosinophil Infiltration in Nasal Polyps.",
+      "journal": "American journal of rhinology & allergy",
+      "pub_date": "2026-Nov-03",
+      "doi": "10.1177/19458924261503616",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42978338/",
+      "pdf_url": null,
+      "study_design": "Pilot laboratory study with clinical specimen correlation and controlled fixation-delay comparison",
+      "summary_ar": "بحثت هذه الدراسة ما إذا كان التأخير قبل formalin fixation يغيّر eosinophil counts وسلامة epithelial tissue في nasal polyps لدى مرضى CRSwNP. في العينات السريرية، تراوح الوقت حتى fixation بين 51 دقيقة و19 ساعة، وارتبط التأخير الأطول بانخفاض eosinophil counts، لكن الارتباط لم يبلغ الدلالة الإحصائية التقليدية (r = -0.867، p = .057). وفي الجزء التجريبي، جرى تثبيت العينات عند 0 ساعة و1 و3 و7 أيام بعد الاستئصال. كانت eosinophil counts أقل عند جميع أوقات التأخير مقارنةً بـ0 ساعة (p < .05)، كما ازداد epithelial injury مع طول التأخير. تشير النتائج إلى أن تأخر معالجة العينة قد يقلل تقدير eosinophil infiltration ويؤثر في صلاحية التقييم النسيجي. تدعم الدراسة توحيد إجراءات نقل العينات وتوقيت fixation، مع الحاجة إلى دراسات أكبر لتحديد حدود زمنية عملية.",
+      "summary_en": "This pilot study assessed whether delays before formalin fixation affect eosinophil counts and epithelial integrity in nasal polyps from patients with CRSwNP. In clinical specimens, fixation delays ranged from 51 minutes to 19 hours; longer delays were associated with lower eosinophil counts, although the correlation did not meet conventional statistical significance (r = -0.867, p = .057). In the controlled experiment, specimens were fixed at 0 hours and 1, 3, and 7 days after excision. Eosinophil counts were lower at each delayed time point than at 0 hours (p < .05), while epithelial injury increased with delay. These findings suggest that delayed specimen processing can underestimate eosinophilic infiltration and compromise histologic assessment. Standardized specimen handling and fixation timing may improve reliability, but larger studies are needed to establish practical time limits.",
+      "practice_change_ar": "ينبغي الحرص على إرسال nasal polyp specimens للتثبيت بـformalin دون تأخير غير ضروري، مع عدم تغيير التفسير السريري اعتماداً على هذه الدراسة وحدها.",
+      "practice_change_en": "Nasal polyp specimens should be sent for formalin fixation without avoidable delay, but this study alone does not justify changing clinical interpretation protocols.",
+      "future_impact_ar": "قد تقود دراسات أكبر إلى بروتوكول موحد يحدد أقصى وقت مقبول قبل formalin fixation لتحسين موثوقية eosinophil assessment.",
+      "future_impact_en": "Larger studies may establish a standardized maximum interval before formalin fixation to improve the reliability of eosinophil assessment.",
+      "why_important_ar": "قد يؤدي تأخر fixation إلى خفض eosinophil counts المقاسة، ما قد يؤثر في التصنيف النسيجي والقرارات المرتبطة به.",
+      "why_important_en": "Delayed fixation may reduce measured eosinophil counts, potentially affecting histologic classification and decisions based on those counts.",
+      "vs_previous_ar": "تضيف الدراسة دليلاً تجريبياً على أثر تأخير fixation، وهي مسألة لم تكن تحكمها بروتوكولات موحدة لمعالجة nasal polyp specimens.",
+      "vs_previous_en": "The study adds experimental evidence about fixation delay, an aspect of nasal polyp specimen handling that has lacked standardized protocols.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة تجريبية استطلاعية مع مقارنة مضبوطة، وتكشف مشكلة مهمة في معالجة العينات، لكن حجم الدراسة المحدود وعدم إثبات أثر سريري مباشر يجعلانها دليلاً متوسطاً لا يغيّر الممارسة وحده.",
+      "stars_reason_en": "This is a pilot experimental study with a controlled comparison that identifies an important specimen-handling issue; however, its limited scale and lack of demonstrated direct clinical impact make it moderate evidence that does not independently change practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق النقاش لأنها تبرز عاملاً قبل تحليلياً قد يغيّر نتائج eosinophil counts، وتطرح أسئلة عن توحيد إجراءات المختبر.",
+      "jc_reason_en": "It merits discussion because it identifies a pre-analytic factor that may alter eosinophil counts and raises questions about standardizing laboratory workflows.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات متعددة المراكز وبأعداد أكبر لتحديد تأثير التأخيرات القصيرة، ووضع حد زمني موحد لـformalin fixation وربط التغيرات بالنتائج السريرية.",
+      "research_gap_en": "Larger multicenter studies are needed to assess shorter delays, define a standardized time limit for formalin fixation, and link histologic changes to clinical outcomes.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "مرحباً بكم في مراجعة ORL Daily. تتناول هذه الدراسة سؤالاً عملياً في rhinology: هل يؤثر الوقت بين استئصال nasal polyp وبدء formalin fixation في قياس eosinophil infiltration؟ أهمية السؤال أن eosinophil counts قد تُستخدم في توصيف CRSwNP، وقد تدخل في قرارات أو معايير تعتمد على نتائج الفحص النسيجي.\n\nجمع الباحثون عينات سريرية سُجل فيها الوقت حتى fixation، كما أجروا مقارنة تجريبية ثُبتت فيها العينات عند 0 ساعة، ثم بعد يوم وثلاثة أيام وسبعة أيام. في العينات السريرية، تراوح التأخير بين 51 دقيقة و19 ساعة. وظهر ارتباط بين زيادة التأخير وانخفاض eosinophil counts، لكن قيمة p كانت .057، لذلك لم يصل هذا الارتباط إلى الدلالة الإحصائية التقليدية.\n\nأما في الجزء التجريبي، فقد انخفضت eosinophil counts في جميع مجموعات التأخير مقارنةً بالتثبيت الفوري، مع دلالة إحصائية. كذلك ازدادت epithelial injury مع طول التأخير. الرسالة الأساسية أن التأخير قد يؤدي إلى نقص تقدير eosinophil infiltration، وأن سلامة النسيج نفسها تتدهور.\n\nهذه دراسة استطلاعية صغيرة وليست دليلاً كافياً وحدها لتغيير معايير التشخيص أو العلاج. لكنها تقدم سبباً وجيهاً لتجنب التأخير غير الضروري في إرسال العينات، وتدعم توحيد التعامل مع tissue specimens وتوثيق وقت fixation. لا تقترح الدراسة دواءً أو جهازاً جديداً، بل تركز على جودة pre-analytic handling.\n\nما يزال مطلوباً إجراء دراسات أكبر ومتعددة المراكز لتحديد أثر التأخيرات الأقصر، ووضع حد زمني عملي موحد، ومعرفة ما إذا كانت التغيرات النسيجية تؤثر فعلاً في القرارات أو النتائج السريرية. الخلاصة: تعاملوا مع توقيت fixation بوصفه عاملاً قد يؤثر في موثوقية eosinophil assessment، مع تفسير النتائج ضمن حدود الدليل الحالي.",
+      "audio_script_en": "Welcome to ORL Daily. This study addresses a practical rhinology question: does the interval between nasal polyp excision and formalin fixation affect measured eosinophil infiltration? The issue matters because eosinophil counts are used to characterize CRSwNP and may inform decisions or eligibility criteria that rely on histology.\n\nThe investigators recorded fixation delays in clinical specimens and also performed a controlled experiment, fixing tissue immediately or after one, three, and seven days. In the clinical specimens, delays ranged from 51 minutes to 19 hours. Longer delay was associated with lower eosinophil counts, although the correlation did not reach conventional statistical significance: p was .057.\n\nIn the experimental component, eosinophil counts were significantly lower at every delayed time point than at immediate fixation. Epithelial injury also increased with delay. The central finding is that delayed processing may underestimate eosinophilic infiltration while degrading tissue preservation.\n\nThis is a pilot study, so it is not sufficient on its own to change diagnostic criteria or treatment. Still, it provides a reasonable basis for avoiding unnecessary delays in sending specimens and for standardizing tissue handling and documenting fixation time. The study does not evaluate a new drug or device; its focus is pre-analytic specimen processing.\n\nLarger multicenter studies are needed to assess shorter delays, define a practical standardized time limit, and determine whether these histologic changes alter clinical decisions or patient outcomes. The takeaway is to regard fixation timing as a potentially important source of variability in eosinophil assessment, while interpreting the current evidence cautiously.",
+      "mcq": [
+        {
+          "q_ar": "ما النتيجة الأساسية للجزء التجريبي عند تأخير formalin fixation؟",
+          "q_en": "What was the main finding of the controlled experiment with delayed formalin fixation?",
+          "options_ar": [
+            "أ) ارتفعت eosinophil counts وتحسنت سلامة epithelial tissue",
+            "ب) انخفضت eosinophil counts وازداد epithelial injury",
+            "ج) لم تتغير eosinophil counts أو epithelial injury",
+            "د) انخفض epithelial injury دون تغير eosinophil counts"
+          ],
+          "options_en": [
+            "A) Eosinophil counts increased and epithelial integrity improved",
+            "B) Eosinophil counts decreased and epithelial injury increased",
+            "C) Neither eosinophil counts nor epithelial injury changed",
+            "D) Epithelial injury decreased while eosinophil counts were unchanged"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت العينات المثبتة بعد 1 و3 و7 أيام انخفاض eosinophil counts وارتفاع epithelial injury مقارنةً بالتثبيت عند 0 ساعة.",
+          "explanation_en": "Specimens fixed after 1, 3, and 7 days had lower eosinophil counts and greater epithelial injury than specimens fixed at 0 hours."
+        },
+        {
+          "q_ar": "كيف فُسرت نتيجة الارتباط في العينات السريرية بين وقت fixation وeosinophil counts؟",
+          "q_en": "How was the association between fixation delay and eosinophil counts in clinical specimens interpreted?",
+          "options_ar": [
+            "أ) ارتباط إيجابي ذو دلالة إحصائية",
+            "ب) لم يظهر أي ارتباط",
+            "ج) ارتباط سلبي، لكنه لم يبلغ الدلالة الإحصائية التقليدية",
+            "د) ارتباط سلبي ذو دلالة إحصائية مؤكدة"
+          ],
+          "options_en": [
+            "A) A significant positive correlation",
+            "B) No association was observed",
+            "C) A negative correlation that did not reach conventional statistical significance",
+            "D) A definitively significant negative correlation"
+          ],
+          "answer": 2,
+          "explanation_ar": "كان الارتباط سلبياً (r = -0.867)، لكن p = .057، وهي أعلى قليلاً من حد الدلالة التقليدي .05.",
+          "explanation_en": "The correlation was negative (r = -0.867), but p = .057, slightly above the conventional .05 threshold."
+        },
+        {
+          "q_ar": "ما الاستنتاج العملي الأنسب من هذه الدراسة؟",
+          "q_en": "What is the most appropriate practical conclusion from this study?",
+          "options_ar": [
+            "أ) اعتماد نتائج eosinophil counts دون اعتبار توقيت المعالجة",
+            "ب) تأخير fixation عمداً لتحسين حفظ النسيج",
+            "ج) تجنب التأخير غير الضروري وتوحيد التعامل مع العينات، مع انتظار دراسات أكبر",
+            "د) إلغاء استخدام eosinophil counts في CRSwNP"
+          ],
+          "options_en": [
+            "A) Use eosinophil counts without considering processing time",
+            "B) Intentionally delay fixation to improve tissue preservation",
+            "C) Avoid unnecessary delays and standardize specimen handling while awaiting larger studies",
+            "D) Discontinue eosinophil counts in CRSwNP"
+          ],
+          "answer": 2,
+          "explanation_ar": "تدعم النتائج تقليل التأخير وتوحيد التعامل مع العينات، لكنها لا تكفي وحدها لإلغاء القياس أو تغيير المعايير السريرية.",
+          "explanation_en": "The findings support minimizing delays and standardizing specimen handling, but are insufficient by themselves to abandon eosinophil assessment or change clinical criteria."
+        }
+      ]
+    },
+    {
+      "pmid": "42975548",
+      "title_ar": "Association Between Pituitary Adenoma Excision and Risk of Cerebrovascular Disease and Mortality in Patients With Cushing's Disease: A Propensity Score-Matched Analysis.",
+      "title_en": "Association Between Pituitary Adenoma Excision and Risk of Cerebrovascular Disease and Mortality in Patients With Cushing's Disease: A Propensity Score-Matched Analysis.",
+      "journal": "Neurosurgery",
+      "pub_date": "2026-Nov-03",
+      "doi": "10.1227/neu.0000000000004273",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42975548/",
+      "pdf_url": null,
+      "study_design": "Retrospective multicenter database cohort with propensity score matching",
+      "summary_ar": "حللت هذه الدراسة retrospective بيانات TriNetX من 69 مؤسسة صحية على مدى 20 عامًا، وشملت 4265 بالغًا مصابًا بـ Cushing's disease (CD). بعد propensity score matching، ارتبطت CD بارتفاع خطر cerebrovascular disease (CeVD) مقارنة بمجموعة غير مصابة، بما في ذلك ischemic stroke وhemorrhagic stroke. بين مرضى CD، ارتبط استئصال pituitary adenoma (PA) بانخفاض خطر CeVD وischemic stroke والوفاة مقارنة بعدم إجراء الاستئصال. بلغ risk ratio لـ CeVD مقدار 0.68، ولـ ischemic stroke مقدار 0.50، وللوفاة مقدار 0.52. أظهرت تحليلات الحساسية باستخدام مؤشرات دوائية لـ biochemical remission اتجاهات مشابهة، لكن النتائج لم تكن statistically significant. تدعم النتائج احتمال وجود فائدة وعائية وجهازية للجراحة، لكنها لا تثبت السببية بسبب طبيعة الدراسة observational واحتمال وجود confounding متبقٍ.",
+      "summary_en": "This retrospective multicenter study used 20 years of TriNetX data from 69 healthcare organizations and included 4,265 adults with Cushing's disease (CD). After propensity score matching, CD was associated with increased cerebrovascular disease (CeVD), ischemic stroke, and hemorrhagic stroke compared with no CD. Among patients with CD, pituitary adenoma (PA) excision was associated with lower risks of CeVD, ischemic stroke, and mortality than no excision. The risk ratios were 0.68 for CeVD, 0.50 for ischemic stroke, and 0.52 for mortality. Sensitivity analyses using medication-based proxies for biochemical remission showed similar trends, but these were not statistically significant. The findings suggest a potential vascular and survival benefit from surgery, but the observational design cannot establish causality and remains vulnerable to residual confounding.",
+      "practice_change_ar": "لا تغيّر هذه النتائج الممارسة الجراحية اليوم، لكنها تدعم مناقشة المخاطر الوعائية طويلة الأمد مع مرضى CD دون اعتبارها دليلًا سببيًا على فائدة الاستئصال.",
+      "practice_change_en": "These results do not change surgical practice today, but support discussing long-term vascular risks with patients with CD without treating the association as proof of a causal benefit from excision.",
+      "future_impact_ar": "قد تساعد هذه النتائج في تصميم دراسات prospective تحدد ما إذا كان تحقيق biochemical remission بعد الجراحة يقلل CeVD والوفاة.",
+      "future_impact_en": "These findings may inform prospective studies to determine whether achieving biochemical remission after surgery reduces CeVD and mortality.",
+      "why_important_ar": "تُبرز الدراسة العبء الوعائي المهم لـ Cushing's disease وتقدم بيانات واسعة عن ارتباط استئصال PA بنتائج وعائية ووفيات أقل.",
+      "why_important_en": "The study highlights the substantial cerebrovascular burden of Cushing's disease and provides large-scale data linking PA excision with lower vascular event and mortality risks.",
+      "vs_previous_ar": "تضيف الدراسة تقديرات matched واسعة للمخاطر وتربط استئصال PA بنتائج CeVD والوفاة، بينما كانت الأدلة السابقة أقل تركيزًا على هذه المقارنة.",
+      "vs_previous_en": "This study adds large matched estimates of risk and links PA excision with CeVD and mortality outcomes, extending evidence that has been less focused on this comparison.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة retrospective multicenter كبيرة مع propensity score matching، وتتناول نتيجة مهمة ذات صلة بجراحة skull base؛ لكن الطبيعة observational واحتمال confounding يحدان من قوة الاستنتاج، ولا تغيّر النتائج الممارسة حاليًا.",
+      "stars_reason_en": "This is a large retrospective multicenter study with propensity score matching on an important skull base surgery-related outcome; however, its observational design and potential confounding limit inference, and the findings do not currently change practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It is suitable for journal club because of its large database, use of propensity score matching, and the important distinction between association and causation when interpreting surgical effects.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى دراسات prospective تربط توقيت الجراحة وقياسات biochemical remission الفعلية بالنتائج الوعائية والوفيات على المدى الطويل.",
+      "research_gap_en": "Prospective studies are needed to relate surgical timing and measured biochemical remission to long-term cerebrovascular outcomes and mortality.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نناقش اليوم دراسة عن Cushing's disease، وهي حالة تنتج عن فرط cortisol المرتبط عادةً بـ adrenocorticotropic hormone-secreting pituitary adenoma. السؤال الأساسي هو ما إذا كان مرضى Cushing's disease أكثر عرضة لـ cerebrovascular disease، وما إذا كان استئصال pituitary adenoma يرتبط بانخفاض هذه المخاطر والوفاة.\n\nاستخدم الباحثون بيانات retrospective من TriNetX شملت 69 مؤسسة صحية أمريكية على مدى 20 عامًا. ضمت مجموعة Cushing's disease عدد 4265 مريضًا، وكان متوسط العمر عند التشخيص 45.7 عامًا، وكانت 78.4% من المجموعة من النساء. أجرى الباحثون propensity score matching لمقارنة المرضى بمجموعات مناسبة، ثم حسبوا مخاطر النتائج الوعائية.\n\nبعد matching، ارتبطت Cushing's disease بزيادة خطر أي cerebrovascular disease، مع risk ratio قدره 1.97. وكان risk ratio لـ ischemic stroke هو 2.35، ولـ hemorrhagic stroke هو 1.75. وظهرت ارتباطات مشابهة عند تحليل النتائج بحسب الجنس.\n\nفي المقارنة بين مرضى Cushing's disease الذين خضعوا لاستئصال pituitary adenoma والذين لم يخضعوا له، ارتبط الاستئصال بانخفاض خطر أي cerebrovascular disease، حيث بلغ risk ratio 0.68، وبانخفاض ischemic stroke إلى 0.50، والوفاة إلى 0.52. أبلغت الدراسة أيضًا عن number needed to treat مقداره 25.6 لـ cerebrovascular disease، و33.3 لـ ischemic stroke، و40.0 للوفاة. لكن هذه الأرقام يجب تفسيرها بحذر، لأن الدراسة observational ولا تثبت أن الجراحة هي سبب انخفاض المخاطر.\n\nفي تحليلات الحساسية التي استخدمت medication-based proxies لـ biochemical remission، كانت الاتجاهات متشابهة لكنها لم تصل إلى statistical significance. لذلك لا تثبت الدراسة أن remission هو الآلية المسؤولة عن الفائدة الملاحظة.\n\nالخلاصة السريرية: تؤكد الدراسة أن Cushing's disease يرتبط بعبء أعلى من stroke، وتقدم إشارة مهمة إلى أن استئصال الورم قد يرتبط بنتائج أفضل. لكنها لا تبرر تغيير الممارسة الجراحية وحدها. من المهم مناقشة المخاطر الوعائية مع المرضى، مع انتظار دراسات prospective تقيس biochemical remission وتتحكم بصورة أفضل في confounding.",
+      "audio_script_en": "Today we are reviewing a study of Cushing's disease, a hypercortisolemic condition commonly caused by an adrenocorticotropic hormone-secreting pituitary adenoma. The investigators asked whether patients with Cushing's disease have greater cerebrovascular risk and whether pituitary adenoma excision is associated with lower vascular risk and mortality.\n\nThis retrospective study used 20 years of TriNetX data from 69 healthcare organizations. It identified 4,265 adults with Cushing's disease. The mean age at diagnosis was 45.7 years, and 78.4% of the group were women. The researchers used propensity score matching to create comparison groups and estimate risks of cerebrovascular outcomes.\n\nAfter matching, Cushing's disease was associated with nearly twice the risk of any cerebrovascular disease, with a risk ratio of 1.97. The risk ratio was 2.35 for ischemic stroke and 1.75 for hemorrhagic stroke. Similar associations were seen when results were stratified by sex.\n\nAmong patients with Cushing's disease, pituitary adenoma excision was associated with lower risk of any cerebrovascular disease, with a risk ratio of 0.68. The risk ratio was 0.50 for ischemic stroke and 0.52 for mortality. The reported numbers needed to treat were 25.6 for cerebrovascular disease, 33.3 for ischemic stroke, and 40.0 for mortality. These estimates should be interpreted cautiously: this was an observational study, so the associations do not establish that surgery caused the lower risks.\n\nSensitivity analyses used medication-based proxies for biochemical remission. The trends were similar, but the findings were not statistically significant. Consequently, the study does not establish that remission explains the observed associations.\n\nThe clinical takeaway is that Cushing's disease is associated with a substantial stroke burden, and surgery may be associated with better vascular and survival outcomes. This evidence alone does not justify a change in surgical practice. It does support discussing long-term vascular risk with patients and underscores the need for prospective studies that measure biochemical remission and better address confounding.",
+      "mcq": [
+        {
+          "q_ar": "ما الخطر الذي ارتبط بـ Cushing's disease بعد propensity score matching مقارنةً بغياب المرض؟",
+          "q_en": "What risk was associated with Cushing's disease after propensity score matching compared with no disease?",
+          "options_ar": [
+            "أ) انخفاض خطر أي cerebrovascular disease",
+            "ب) ارتفاع خطر أي cerebrovascular disease وischemic وhemorrhagic stroke",
+            "ج) ارتفاع خطر hemorrhagic stroke فقط",
+            "د) عدم وجود ارتباط مع نتائج وعائية"
+          ],
+          "options_en": [
+            "A) Lower risk of any cerebrovascular disease",
+            "B) Higher risk of any cerebrovascular disease, ischemic stroke, and hemorrhagic stroke",
+            "C) Higher risk of hemorrhagic stroke only",
+            "D) No association with vascular outcomes"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتبطت Cushing's disease بزيادة خطر أي cerebrovascular disease وischemic stroke وhemorrhagic stroke بعد matching.",
+          "explanation_en": "After matching, Cushing's disease was associated with increased risks of any cerebrovascular disease, ischemic stroke, and hemorrhagic stroke."
+        },
+        {
+          "q_ar": "أي عبارة تصف ارتباط pituitary adenoma excision بالنتائج لدى مرضى Cushing's disease؟",
+          "q_en": "Which statement describes the association of pituitary adenoma excision with outcomes in patients with Cushing's disease?",
+          "options_ar": [
+            "أ) ارتبط بزيادة CeVD والوفاة",
+            "ب) لم يرتبط بأي نتيجة",
+            "ج) ارتبط بانخفاض CeVD وischemic stroke والوفاة",
+            "د) ارتبط بانخفاض hemorrhagic stroke فقط"
+          ],
+          "options_en": [
+            "A) It was associated with increased CeVD and mortality",
+            "B) It was not associated with any outcome",
+            "C) It was associated with lower CeVD, ischemic stroke, and mortality",
+            "D) It was associated with lower hemorrhagic stroke only"
+          ],
+          "answer": 2,
+          "explanation_ar": "ارتبط الاستئصال بانخفاض خطر أي CeVD وischemic stroke والوفاة مقارنةً بعدم إجراء الاستئصال.",
+          "explanation_en": "Excision was associated with lower risks of any CeVD, ischemic stroke, and mortality compared with no excision."
+        },
+        {
+          "q_ar": "ما أهم قيد عند تفسير ارتباط الجراحة بانخفاض النتائج السلبية؟",
+          "q_en": "What is the key limitation when interpreting the association between surgery and lower adverse outcomes?",
+          "options_ar": [
+            "أ) كانت الدراسة animal study",
+            "ب) كان عدد المرضى أقل من 10",
+            "ج) التصميم retrospective observational ولا يثبت السببية",
+            "د) لم تشمل الدراسة أي مجموعة مقارنة"
+          ],
+          "options_en": [
+            "A) The study was an animal study",
+            "B) The study included fewer than 10 patients",
+            "C) The retrospective observational design cannot establish causality",
+            "D) The study included no comparison group"
+          ],
+          "answer": 2,
+          "explanation_ar": "رغم استخدام propensity score matching، تظل الدراسة observational وقد تتأثر بـ residual confounding، لذلك لا تثبت أن الجراحة سببت انخفاض المخاطر.",
+          "explanation_en": "Despite propensity score matching, the observational study may be affected by residual confounding and cannot prove that surgery caused the lower risks."
+        }
+      ]
+    },
+    {
+      "pmid": "42972625",
+      "title_ar": "Dynamic Voice Computed Tomography for Dysphonia Disproportionate to Clinical Findings.",
+      "title_en": "Dynamic Voice Computed Tomography for Dysphonia Disproportionate to Clinical Findings.",
+      "journal": "The Laryngoscope",
+      "pub_date": "2026-Nov-02",
+      "doi": "10.1002/lary.71001",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42972625/",
+      "pdf_url": null,
+      "study_design": "Retrospective case series n=15",
+      "summary_ar": "قيّمت هذه الدراسة الاستعادية فائدة Dynamic Voice Computed Tomography (DVCT) لدى 15 بالغًا يعانون من dysphonia لا تتناسب شدتها مع نتائج videostroboscopy، وكان لديهم تاريخ من laryngeal framework surgery أو اشتباه بـ posterior glottic insufficiency (PGI). شملت المجموعة 10 مرضى خضعوا سابقًا لـ thyroplasty وخمسة لديهم PGI معروف أو مشتبه به. أضاف DVCT معلومات تشريحية ذات صلة سريرية لدى جميع المرضى، وكشف غالبًا عن PGI أو vertical height mismatch أو implant malposition أو arytenoid malposition. أثرت نتائج التصوير في القرارات الجراحية: أكدت أهلية الجراحة لدى 47%، وغيّرت الإجراء المخطط له لدى 33%، وأسهمت في تجنب الجراحة لدى 13%. تشير النتائج إلى أن DVCT قد يكون فحصًا تكميليًا مفيدًا عندما لا تفسر videostroboscopy شدة اضطراب الصوت. لكن صغر العينة والتصميم الاستعادي يحدان من قوة الاستنتاجات ولا يثبتان أن استخدام DVCT يحسن النتائج الصوتية.",
+      "summary_en": "This retrospective case series assessed Dynamic Voice Computed Tomography (DVCT) in 15 adults whose dysphonia was disproportionate to videostroboscopy findings and who had prior laryngeal framework surgery or suspected posterior glottic insufficiency (PGI). Ten patients had previously undergone thyroplasty, and five had known or suspected PGI. DVCT provided additional clinically relevant anatomic information in all patients, commonly identifying PGI, vertical height mismatch, implant malposition, or arytenoid malposition. Imaging confirmed surgical candidacy in 47%, altered planned procedures in 33%, and helped avoid surgery in 13%. The findings suggest DVCT can complement videostroboscopy when the severity of voice impairment is not explained by the examination. The small retrospective series does not establish whether DVCT improves voice outcomes.",
+      "practice_change_ar": "يمكن التفكير في DVCT كفحص تكميلي انتقائي لدى المرضى ذوي dysphonia غير المفسرة بـ videostroboscopy، خصوصًا بعد laryngeal framework surgery أو عند الاشتباه بـ PGI.",
+      "practice_change_en": "Consider DVCT as a selective adjunct when videostroboscopy does not explain dysphonia, particularly after laryngeal framework surgery or when PGI is suspected.",
+      "future_impact_ar": "قد تدعم دراسات مستقبلية أكبر استخدام DVCT لتوجيه اختيار المرضى والإجراءات الجراحية وقياس أثره على النتائج الصوتية.",
+      "future_impact_en": "Larger prospective studies may clarify whether DVCT improves surgical selection, procedure planning, and voice outcomes.",
+      "why_important_ar": "توضح الدراسة أن التصوير الديناميكي قد يكشف اختلالات تشريحية لا تظهر بوضوح في videostroboscopy لدى حالات صوتية معقدة.",
+      "why_important_en": "The study suggests dynamic imaging can reveal anatomic abnormalities not readily apparent on videostroboscopy in complex voice patients.",
+      "vs_previous_ar": "بخلاف التقييم المعتمد على videostroboscopy وحده، يضيف DVCT تصويرًا تشريحيًا ديناميكيًا قد يؤثر في التخطيط الجراحي.",
+      "vs_previous_en": "Unlike evaluation relying on videostroboscopy alone, DVCT adds dynamic anatomic imaging that may affect surgical planning.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة استعادية صغيرة من نوع case series تضم 15 مريضًا، منشورة في مجلة Laryngoscope، وتعرض تقنية تصوير واعدة أثرت في التدبير؛ لكن غياب مجموعة مقارنة ونتائج صوتية بعد التدخل يحدان من قوة الدليل.",
+      "stars_reason_en": "This small retrospective case series of 15 patients in The Laryngoscope describes a promising imaging approach that influenced management, but the lack of a comparator and post-intervention voice outcomes limits the evidence.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study merits discussion because it proposes imaging that may change surgical planning in complex laryngology cases, while raising questions about selection bias and appropriate imaging use.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا DVCT بوصفه تقنية تصوير ناشئة لتقييم glottic anatomy وتوجيه القرارات لدى حالات dysphonia المعقدة.",
+      "watch_detail_en": "Track DVCT as an emerging imaging technology for characterizing glottic anatomy and informing decisions in complex dysphonia.",
+      "watch_type": "technology",
+      "research_gap_ar": "يلزم إجراء دراسات prospective أكبر تقارن DVCT بالتقييم المعتاد وتقيس أثره على النتائج الصوتية والقرارات والتكلفة.",
+      "research_gap_en": "Larger prospective studies should compare DVCT with usual evaluation and assess voice outcomes, decision impact, and cost.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة بعنوان Dynamic Voice Computed Tomography for Dysphonia Disproportionate to Clinical Findings، منشورة في The Laryngoscope. وهي دراسة استعادية شملت 15 بالغًا في مركز laryngology تخصصي، كانت لديهم dysphonia لا تتناسب مع مظهر larynx في videostroboscopy، مع تاريخ سابق من laryngeal framework surgery أو اشتباه بـ posterior glottic insufficiency، أو PGI. كان عشرة مرضى قد خضعوا لـ thyroplasty، بينما كان لدى خمسة PGI معروف أو مشتبه به.\n\nالفكرة الأساسية هي استخدام Dynamic Voice Computed Tomography، أو DVCT، للحصول على توصيف تشريحي إضافي عندما يكون تقييم videostroboscopy محدودًا أو لا يفسر شدة المشكلة الصوتية. أضاف DVCT معلومات تشريحية ذات صلة سريرية لدى المرضى الخمسة عشر جميعًا. وشملت الموجودات الشائعة PGI، وvertical height mismatch، وimplant malposition، وarytenoid malposition.\n\nكان للتصوير أثر على التدبير: أكد أهلية الجراحة لدى 47 بالمئة من المرضى، وغيّر الإجراء المخطط له لدى 33 بالمئة، وساعد على تجنب الجراحة لدى 13 بالمئة. لذلك قد يكون DVCT خيارًا تكميليًا انتقائيًا في حالات dysphonia المعقدة، خصوصًا بعد جراحة framework أو عند الاشتباه بخلل posterior glottis، بدل اعتباره بديلًا روتينيًا عن videostroboscopy.\n\nلكن يجب تفسير النتائج بحذر. فالدراسة صغيرة واستعادية، ولا تتضمن مجموعة مقارنة أو بيانات تثبت تحسن voice outcomes بعد القرارات التي اتُخذت بناءً على التصوير. كما أن العينة منتقاة من ممارسة تخصصية، ما يحد من تعميم النتائج. الخلاصة العملية هي أن DVCT قد يكشف anatomy لم تُقدّر بالكامل بالفحص المعتاد، لكنه يحتاج إلى تحقق prospective أكبر قبل اعتماد أثره السريري أو الاقتصادي. ويستحق هذا التطور المتابعة بوصفه تقنية تصوير ناشئة في laryngology.",
+      "audio_script_en": "Today we are reviewing “Dynamic Voice Computed Tomography for Dysphonia Disproportionate to Clinical Findings,” published in The Laryngoscope. This retrospective case series included 15 adults evaluated at a tertiary laryngology practice. Their dysphonia was more severe than suggested by videostroboscopy, and they had either prior laryngeal framework surgery or known or suspected posterior glottic insufficiency, or PGI. Ten had previously undergone thyroplasty, and five had known or suspected PGI.\n\nThe study examined Dynamic Voice Computed Tomography, or DVCT, as an additional way to characterize glottic anatomy when videostroboscopy is limited or does not explain the patient’s voice impairment. DVCT provided additional clinically relevant anatomic information in all 15 patients. Common findings included PGI, vertical height mismatch, implant malposition, and arytenoid malposition.\n\nThe imaging findings influenced management. They confirmed surgical candidacy in 47 percent, altered the planned procedure in 33 percent, and helped avoid surgery in 13 percent. This suggests DVCT may be a useful selective adjunct in complex dysphonia, particularly after framework surgery or when a posterior glottic problem is suspected. It should not be interpreted as a replacement for videostroboscopy or as a routine test for every patient with dysphonia.\n\nThere are important limitations. The series is small and retrospective, with no comparator group and no reported evidence that DVCT-guided decisions improved voice outcomes. The patients were also selected from a tertiary specialty practice, which limits generalizability. The practical takeaway is that DVCT may reveal anatomy not fully appreciated on the standard examination and can influence surgical planning, but larger prospective studies are needed to establish its clinical and economic value. It is an emerging laryngology imaging technology worth watching.",
+      "mcq": [
+        {
+          "q_ar": "ما نوع تصميم الدراسة؟",
+          "q_en": "What was the study design?",
+          "options_ar": [
+            "أ) RCT متعددة المراكز",
+            "ب) دراسة cohort prospective",
+            "ج) دراسة case series استعادية شملت 15 مريضًا",
+            "د) مراجعة منهجية"
+          ],
+          "options_en": [
+            "A) Multicenter RCT",
+            "B) Prospective cohort study",
+            "C) Retrospective case series of 15 patients",
+            "D) Systematic review"
+          ],
+          "answer": 2,
+          "explanation_ar": "كانت الدراسة مراجعة استعادية لـ15 بالغًا خضعوا لـ DVCT.",
+          "explanation_en": "The study retrospectively evaluated 15 adults who underwent DVCT."
+        },
+        {
+          "q_ar": "أي نتيجة تلخص أثر DVCT على القرارات الجراحية؟",
+          "q_en": "Which finding summarizes the effect of DVCT on surgical decisions?",
+          "options_ar": [
+            "أ) لم يؤثر في أي قرار",
+            "ب) أكد الأهلية لدى 47%، وغيّر الإجراء لدى 33%، وساعد على تجنب الجراحة لدى 13%",
+            "ج) منع الجراحة لدى جميع المرضى",
+            "د) غيّر الإجراء لدى 80% من المرضى"
+          ],
+          "options_en": [
+            "A) It did not affect any decisions",
+            "B) It confirmed candidacy in 47%, altered procedures in 33%, and helped avoid surgery in 13%",
+            "C) It prevented surgery in all patients",
+            "D) It changed the procedure in 80% of patients"
+          ],
+          "answer": 1,
+          "explanation_ar": "أبلغ الباحثون عن هذه النسب لتأثير التصوير في أهلية الجراحة والإجراء المخطط وتجنب العملية.",
+          "explanation_en": "These are the reported proportions for confirming candidacy, changing the planned procedure, and avoiding surgery."
+        },
+        {
+          "q_ar": "ما القيد الأهم عند تفسير هذه النتائج؟",
+          "q_en": "What is the most important limitation when interpreting these findings?",
+          "options_ar": [
+            "أ) الدراسة شملت أطفالًا فقط",
+            "ب) لم تُجرَ أي فحوص تصويرية",
+            "ج) الدراسة صغيرة واستعادية ولا تثبت تحسن voice outcomes",
+            "د) لم تتضمن مرضى لديهم dysphonia"
+          ],
+          "options_en": [
+            "A) The study included only children",
+            "B) No imaging was performed",
+            "C) The study is small and retrospective and does not establish improved voice outcomes",
+            "D) It did not include patients with dysphonia"
+          ],
+          "answer": 2,
+          "explanation_ar": "صغر العينة والتصميم الاستعادي وغياب نتائج صوتية مقارنة تحد من الاستنتاج السببي والتعميم.",
+          "explanation_en": "The small retrospective sample and lack of comparative voice outcomes limit causal conclusions and generalizability."
+        }
+      ]
+    },
+    {
+      "pmid": "42977636",
+      "title_ar": "Multimodal Patterns of Early Voice Change After Thyroidectomy.",
+      "title_en": "Multimodal Patterns of Early Voice Change After Thyroidectomy.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Nov-03",
+      "doi": "10.1016/j.jvoice.2026.10.012",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42977636/",
+      "pdf_url": null,
+      "study_design": "Retrospective cohort n=120",
+      "summary_ar": "هدفت هذه الدراسة retrospective single-center إلى وصف أنماط تغير الصوت المبكر بعد thyroidectomy لدى 120 مريضًا، مع استبعاد من لديهم اضطراب صوتي سابق أو vocal fold paralysis واضح. أُجريت التقييمات قبل الجراحة وفي postoperative day 7 ± 2، وشملت thyroidectomy-related voice and symptom questionnaire وacoustic analysis وmaximum phonation time وvoice range profile وvideolaryngostroboscopy. استخدم الباحثون K-means clustering استكشافيًا لتجميع التغيرات في أربعة مجالات: الأعراض، وacoustic، والوظيفة، وstroboscopic. أظهر cluster A تدهورًا نسبيًا أقل لدى 55% من المرضى، بينما ظهر في cluster B، الذي ضم 6.7%، أكبر تدهور في shimmer وnoise-to-harmonic ratio مع edema وbowing. أما cluster C، الذي ضم 38.3%، فتميز بتفاقم الأعراض وتراجع pitch range مع تغيرات محدودة نسبيًا في بعض القياسات acoustic وstroboscopic. هذه النتائج وصفية ومبكرة، ولا تثبت أن الأنماط فئات تشخيصية أو تنبؤية ثابتة، كما أن الارتباط الاستكشافي بين female sex والانتماء إلى B أو C لا يثبت قابلية بيولوجية. يلزم إجراء دراسات longitudinal والتحقق الخارجي قبل استخدام هذه الأنماط لتوجيه القرارات السريرية.",
+      "summary_en": "This single-center retrospective study described early voice changes in 120 patients after thyroidectomy, excluding patients with preexisting voice disorders or overt vocal fold paralysis. Assessments were performed before surgery and at postoperative day 7 ± 2, using patient-reported, acoustic, functional, and videolaryngostroboscopic measures. Exploratory K-means clustering identified three profiles: relatively less deterioration in 55% of patients, marked acoustic and stroboscopic deterioration in 6.7%, and prominent symptom and pitch-range deterioration in 38.3%. The most pronounced changes in the second profile included shimmer, noise-to-harmonic ratio, edema, and bowing. The profiles are descriptive early postoperative patterns, not validated diagnostic or prognostic categories. The exploratory association with female sex does not establish biological susceptibility. Longitudinal studies and external validation are needed before these profiles can guide care.",
+      "practice_change_ar": "لا تغيّر هذه النتائج الممارسة الحالية؛ لكنها تدعم تقييم الصوت بعد thyroidectomy باستخدام مقاييس متعددة بدل الاعتماد على vocal fold paralysis وحده.",
+      "practice_change_en": "These findings do not change current practice, but support assessing voice after thyroidectomy with multiple measures rather than relying on vocal fold paralysis alone.",
+      "future_impact_ar": "قد تساعد دراسات longitudinal والتحقق الخارجي في تحديد ما إذا كانت هذه الأنماط المبكرة تتنبأ بتعافي الصوت أو تستدعي متابعة مخصصة.",
+      "future_impact_en": "Longitudinal studies and external validation may determine whether these early profiles predict voice recovery or warrant tailored follow-up.",
+      "why_important_ar": "توضح الدراسة أن التغير الصوتي المبكر بعد thyroidectomy قد يشمل الأعراض والوظيفة وقياسات الصوت حتى دون vocal fold paralysis واضح.",
+      "why_important_en": "The study highlights that early voice changes after thyroidectomy may involve symptoms, function, and voice measures even without overt vocal fold paralysis.",
+      "vs_previous_ar": "تضيف الدراسة تصنيفًا استكشافيًا متعدد المجالات إلى المعرفة السابقة، لكنها لا تثبت فئات سريرية جديدة أو تغيّر التوصيات الحالية.",
+      "vs_previous_en": "The study adds an exploratory multimodal classification to existing knowledge but does not validate new clinical categories or change current recommendations.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة retrospective cohort جيدة الحجم (n=120) في مجال laryngology، وتقدم معرفة وصفية مفيدة، لكن التحليل استكشافي ومبكر ولا يثبت أثرًا على التدبير أو نتائج طويلة الأمد.",
+      "stars_reason_en": "This is a reasonably sized retrospective cohort (n=120) in laryngology that offers useful descriptive knowledge, but its exploratory early analysis does not establish management impact or long-term outcomes.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study merits discussion because it applies K-means to multimodal measures, includes a small cluster B, and raises questions about reproducibility and external validation.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "ينبغي أن تتحقق دراسات prospective متعددة المراكز مما إذا كانت هذه الأنماط تتكرر وتتنبأ بمسار التعافي الصوتي أو بنتائج سريرية مهمة.",
+      "research_gap_en": "Prospective multicenter studies should test whether these profiles are reproducible and predict voice recovery or clinically meaningful outcomes.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة بعنوان «Multimodal Patterns of Early Voice Change After Thyroidectomy»، وهي دراسة retrospective single-center شملت 120 مريضًا خضعوا لـthyroidectomy. استبعد الباحثون المرضى الذين لديهم اضطرابات صوتية سابقة أو vocal fold paralysis واضح، وأجروا تقييمًا قبل العملية وبعدها بنحو أسبوع، عند postoperative day 7 مع هامش يومين.\n\nاستخدم التقييم مجموعة واسعة من المقاييس: استبيانًا للأعراض المرتبطة بـthyroidectomy، وacoustic analysis، وmaximum phonation time، وvoice range profile، إضافة إلى videolaryngostroboscopy. ثم وحّد الباحثون اتجاه التغيرات وطبّقوا K-means clustering بصورة استكشافية، فظهرت ثلاثة أنماط.\n\nالنمط الأول شمل 55% من المرضى، وكان تدهوره أقل نسبيًا من متوسط المجموعة، مع ذلك لم يخلُ من تفاقم الأعراض وتراجع pitch range. النمط الثاني كان صغيرًا، 6.7% فقط، لكنه أظهر أكبر تدهور في shimmer وnoise-to-harmonic ratio، إلى جانب edema وbowing. أما النمط الثالث، وشمل 38.3%، فتميز بزيادة الأعراض وتراجع pitch range، مع تغير محدود نسبيًا في بعض القياسات acoustic وstroboscopic.\n\nما أهمية ذلك؟ قد تحدث تغيرات صوتية مهمة حتى في غياب vocal fold paralysis واضح، ولذلك قد يكون تقييم الصوت متعدد الجوانب أكثر إفادة من الاعتماد على مظهر حركة الأحبال الصوتية وحده. لكن لا ينبغي اعتبار هذه المجموعات تشخيصات أو فئات تنبؤية جاهزة؛ فالتقييم أُجري مبكرًا، والتجميع استكشافي، ولم تُثبت الدراسة أن الأنماط تتنبأ بالتعافي أو تغير التدبير. كذلك لا يثبت الارتباط الاستكشافي بين female sex والانتماء إلى نمطين وجود قابلية بيولوجية.\n\nالخلاصة السريرية: هذه الدراسة لا تغيّر الممارسة اليوم، لكنها تقدم إطارًا مفيدًا للتفكير في تعدد مظاهر تغير الصوت بعد الجراحة. نحتاج إلى دراسات longitudinal وبيانات من مراكز أخرى لاختبار ثبات هذه الأنماط وصلتها بالتعافي والنتائج التي تهم المرضى.",
+      "audio_script_en": "Today’s article is “Multimodal Patterns of Early Voice Change After Thyroidectomy.” This single-center retrospective study included 120 patients who underwent thyroidectomy. Patients with preexisting voice disorders or overt vocal fold paralysis were excluded. Voice assessments were performed before surgery and about one week afterward, at postoperative day 7 with a two-day margin.\n\nThe authors used a range of measures: a thyroidectomy-related symptom questionnaire, acoustic analysis, maximum phonation time, voice range profile, and videolaryngostroboscopy. They harmonized the direction of postoperative changes and used exploratory K-means clustering to identify three profiles.\n\nThe first profile included 55% of patients and showed less deterioration relative to the cohort average, although symptoms and pitch range also worsened. The second profile was small, at 6.7%, but showed the greatest deterioration in shimmer and noise-to-harmonic ratio, along with edema and bowing. The third profile included 38.3% and was characterized by prominent symptom and pitch-range deterioration, with comparatively limited change in some acoustic and stroboscopic measures.\n\nWhy does this matter? Voice changes can occur even without overt vocal fold paralysis, so a multimodal assessment may provide a fuller picture than vocal fold movement alone. However, these clusters should not be treated as established diagnostic or prognostic categories. The assessment was early, the clustering was exploratory, and the study did not show that the profiles predict recovery or change management. The exploratory association between female sex and membership in two clusters also does not prove biological susceptibility.\n\nThe practical takeaway is that this study does not change care today, but offers a useful framework for considering the different ways voice may change after thyroidectomy. Longitudinal research and external validation are needed to establish whether these profiles are reproducible and relate to recovery or patient-important outcomes.",
+      "mcq": [
+        {
+          "q_ar": "متى أُجري التقييم الصوتي المبكر بعد thyroidectomy؟",
+          "q_en": "When was the early postoperative voice assessment performed?",
+          "options_ar": [
+            "أ) في اليوم الأول بعد الجراحة",
+            "ب) عند postoperative day 7 ± 2 days",
+            "ج) بعد شهر واحد",
+            "د) بعد ستة أشهر"
+          ],
+          "options_en": [
+            "A) On postoperative day 1",
+            "B) At postoperative day 7 ± 2 days",
+            "C) At one month",
+            "D) At six months"
+          ],
+          "answer": 1,
+          "explanation_ar": "أُجري التقييم المبكر عند postoperative day 7 مع هامش يومين.",
+          "explanation_en": "The early assessment was performed at postoperative day 7 with a two-day margin."
+        },
+        {
+          "q_ar": "ما السمة الأبرز لـcluster B؟",
+          "q_en": "What was the most notable feature of cluster B?",
+          "options_ar": [
+            "أ) تدهور acoustic وstroboscopic الأكبر، مع تغيرات في shimmer وnoise-to-harmonic ratio وedema وbowing",
+            "ب) تحسن جميع مقاييس الصوت",
+            "ج) تدهور الأعراض دون أي تغير acoustic",
+            "د) وجود vocal fold paralysis لدى جميع المرضى"
+          ],
+          "options_en": [
+            "A) Greatest acoustic and stroboscopic deterioration, including changes in shimmer, noise-to-harmonic ratio, edema, and bowing",
+            "B) Improvement in all voice measures",
+            "C) Symptom deterioration without any acoustic change",
+            "D) Vocal fold paralysis in every patient"
+          ],
+          "answer": 0,
+          "explanation_ar": "أظهر cluster B أكبر تدهور في shimmer وnoise-to-harmonic ratio، إضافة إلى edema وbowing.",
+          "explanation_en": "Cluster B showed the greatest worsening in shimmer and noise-to-harmonic ratio, as well as edema and bowing."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن clusters التي حددتها الدراسة؟",
+          "q_en": "What is the most appropriate interpretation of the clusters identified in this study?",
+          "options_ar": [
+            "أ) فئات تشخيصية وتنبؤية مثبتة يمكن استخدامها مباشرة",
+            "ب) دليل على أن female sex يسبب تغير الصوت",
+            "ج) أنماط وصفية استكشافية تحتاج إلى longitudinal study وexternal validation",
+            "د) دليل على عدم الحاجة إلى تقييم الصوت بعد الجراحة"
+          ],
+          "options_en": [
+            "A) Validated diagnostic and prognostic categories ready for immediate use",
+            "B) Proof that female sex causes voice change",
+            "C) Exploratory descriptive profiles requiring longitudinal study and external validation",
+            "D) Evidence that postoperative voice assessment is unnecessary"
+          ],
+          "answer": 2,
+          "explanation_ar": "وصف الباحثون الأنماط بأنها استكشافية ومبكرة، وأكدوا الحاجة إلى longitudinal study وexternal validation.",
+          "explanation_en": "The authors characterized the profiles as exploratory and early, and called for longitudinal research and external validation."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026110401",
+      "title_ar": "ميدترونيك وكارل ستورز تتعاونان لتطوير حلول جراحية متكاملة للأنف والأذن والحنجرة",
+      "title_en": "Medtronic and Karl Storz Collaborate on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-04",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أعلنت ميدترونيك وكارل ستورز تعاونهما لتقديم حلول جراحية متكاملة في مجال الأنف والأذن والحنجرة، وفقًا لموقع ماس ديفايس. ويشير الإعلان إلى دمج عروض الشركتين، لكن التقرير المتاح لا يحدد المنتجات أو موعد الإطلاق أو الشروط التجارية. ولم يُعلن عن قرار تنظيمي أو عملية استحواذ.",
+      "summary_en": "Medtronic and Karl Storz are collaborating on integrated surgical solutions for ear, nose, and throat care, according to MassDevice. The announcement points to a combination of the companies’ offerings, but the available report does not specify the products, launch timeline, or commercial terms. No regulatory decision or acquisition was reported.",
+      "practice_change_ar": "ينبغي لجراحي الأنف والأذن والحنجرة متابعة التفاصيل اللاحقة لمعرفة المنتجات التي ستُدمج وما إذا كان التعاون سيغيّر المعدات أو مسارات العمل المتاحة لهم.",
+      "practice_change_en": "ENT surgeons should look for further details on which products will be integrated and whether the collaboration changes their available equipment or workflows.",
+      "future_impact_ar": "قد يوسّع التعاون نطاق الحلول الجراحية المترابطة في مجال الأنف والأذن والحنجرة، بحسب المنتجات وتفاصيل التنفيذ التي ستعلنها الشركتان.",
+      "future_impact_en": "The collaboration may expand the range of connected ENT surgical offerings, depending on the products and implementation details the companies disclose.",
+      "why_important_ar": "قد تؤثر الحلول المتكاملة في اختيار المعدات ومسارات العمل الجراحية، لكن لم تُذكر حتى الآن فوائد سريرية محددة.",
+      "why_important_en": "Integrated solutions could affect equipment choices and surgical workflows, although no specific clinical benefit has been described yet.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "تعاون تجاري قد يهم الأطباء عند اختيار المعدات، لكن تفاصيل المنتجات والأثر السريري غير متاحة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "في خبر يهم قطاع الأنف والأذن والحنجرة، أعلنت شركتا ميدترونيك وكارل ستورز عن تعاون لتطوير حلول جراحية متكاملة. وقد ينعكس هذا التعاون مستقبلًا على خيارات المعدات ومسارات العمل في غرف العمليات. لكن المعلومات المنشورة حتى الآن لا تحدد المنتجات التي ستشملها الشراكة، ولا موعد طرحها أو شروطها التجارية. كما لم يُعلن عن تغيير تنظيمي أو عن فوائد سريرية مثبتة. لذلك، تظل أهمية الخبر مرتبطة بما ستكشفه الشركتان لاحقًا من تفاصيل حول التكامل والتوافر، وما إذا كانت الحلول الجديدة ستؤثر عمليًا في إجراءات أطباء الأنف والأذن والحنجرة.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026110402",
+      "title_ar": "توقع نمو سوق مناظير الأنف والأذن والحنجرة بمعدل سنوي مركب قدره 6.4%",
+      "title_en": "ENT Endoscopy Market Projected to Grow at a 6.4% CAGR",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-04",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "تفيد Market.us بأن سوق مناظير الأنف والأذن والحنجرة يُتوقع أن ينمو بمعدل نمو سنوي مركب قدره 6.4%. ولا يحدد العنوان الفترة الزمنية للتوقع أو قيمة السوق أو العوامل المحركة لهذا النمو. كما لا تتضمن المعلومات المتاحة أي صفقة تجارية محددة أو قرار تنظيمي أو نتيجة سريرية.",
+      "summary_en": "Market.us reports that the ENT endoscopy market is projected to grow at a compound annual growth rate of 6.4%. The headline does not specify the forecast period, market value, or factors driving the projection. No specific company transaction, regulatory decision, or clinical finding is identified in the available information.",
+      "practice_change_ar": "قد يشير التوقع إلى استمرار الاهتمام التجاري بالمناظير، لكنه لا يقدم أدلة تستدعي تغيير اختيار المعدات أو الممارسة السريرية.",
+      "practice_change_en": "The projection may signal continued commercial interest in endoscopy, but it does not provide evidence to change equipment choices or clinical practice.",
+      "future_impact_ar": "إذا تحقق التوقع، فقد يتوسع قطاع مناظير الأنف والأذن والحنجرة، لكن ينبغي للأطباء انتظار بيانات أوضح عن الفترة المتوقعة والمنتجات والافتراضات المستخدمة.",
+      "future_impact_en": "If the forecast is realized, the ENT endoscopy sector may expand, but clinicians should await clearer data on the forecast period, products, and underlying assumptions.",
+      "why_important_ar": "قد يؤثر نمو السوق في توافر تقنيات التنظير وتطويرها، لكن تفاصيل التقرير اللازمة لتقييم هذا الأثر غير متاحة.",
+      "why_important_en": "Market growth could influence the availability and development of endoscopic technologies, although the report details needed to assess that impact are not provided.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "أهمية محدودة للممارسة السريرية؛ إذ يقتصر الخبر على توقع نمو السوق دون تفاصيل أو أثر سريري مباشر.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "تشير Market.us إلى أن سوق مناظير الأنف والأذن والحنجرة قد ينمو بمعدل سنوي مركب قدره 6.4%. لكن العنوان المتاح لا يوضح الفترة التي يغطيها التوقع، ولا حجم السوق، ولا العوامل التي قد تفسر هذا النمو. كذلك لا يتناول الخبر منتجًا بعينه أو قرارًا تنظيميًا أو دليلًا سريريًا جديدًا. بالنسبة إلى أطباء الأنف والأذن والحنجرة، قد يعكس هذا التوقع اهتمامًا تجاريًا مستمرًا بتقنيات التنظير، لكنه لا يكفي وحده لتبرير تغيير المعدات أو الممارسة. من المهم الاطلاع على التقرير الكامل قبل استخلاص نتائج بشأن التوافر أو التطور التقني مستقبلًا.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026110403",
+      "title_ar": "سوق مناظير الحنجرة الليفية المرنة حتى عام 2035: الطلب على تدبير مجرى الهواء الصعب يدعم النمو",
+      "title_en": "Flexible Fibre Laryngoscope Market Through 2035: Difficult Airway Demand Supports Growth",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-04",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "يشير تقرير سوقي من IndexBox إلى أن الطلب على مناظير الحنجرة الليفية المرنة يُتوقع أن يستفيد من الحاجة إلى تدبير مجرى الهواء الصعب، مع امتداد التوقعات حتى عام 2035. ولا يتضمن الخبر المتاح تقديرات لحجم السوق أو معدلات النمو أو تفاصيل إقليمية أو معلومات عن شركات مصنّعة بعينها. ويتناول التقرير اتجاهاً سوقياً، وليس عملية استحواذ أو قراراً تنظيمياً أو دراسة سريرية محددة.",
+      "summary_en": "An IndexBox market report says demand for flexible fibre laryngoscopes is expected to be supported by the need to manage difficult airways, with the market outlook extending to 2035. The supplied news item does not provide market-size estimates, growth rates, regional breakdowns, or details about particular manufacturers. It describes a market trend rather than a specific acquisition, regulatory decision, or clinical study.",
+      "practice_change_ar": "لا يعلن التقرير عن تغيير في الإرشادات السريرية، لكنه يؤكد استمرار أهمية معدات تنظير الحنجرة المرن في تدبير مجرى الهواء الصعب.",
+      "practice_change_en": "The report does not announce a change in clinical guidance, but it underscores the continuing relevance of flexible laryngoscopy equipment in difficult-airway practice.",
+      "future_impact_ar": "قد تشهد فرق الأنف والأذن والحنجرة استمرار الاستثمار وتطوير المنتجات في مجال مناظير الحنجرة المرنة، لكن ينبغي تفسير التوقع بحذر في غياب بيانات سوقية داعمة.",
+      "future_impact_en": "ENT teams may see continued investment and product development in flexible laryngoscopes, but the forecast should be interpreted cautiously without supporting market data.",
+      "why_important_ar": "قد يؤثر نمو السوق بمرور الوقت في توافر الأجهزة وخياراتها، لكن التقرير لا يقدم دليلاً على تغير فوري في الوصول إليها أو في نتائج المرضى.",
+      "why_important_en": "Market growth could affect the availability and choice of devices over time, although the report provides no evidence of an immediate change in access or patient outcomes.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "خبر سوقي عام بلا بيانات كمية أو أثر سريري مباشر معلن.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "يتناول تقرير من IndexBox توقعات سوق مناظير الحنجرة الليفية المرنة حتى عام 2035. ويشير التقرير إلى أن الحاجة إلى تدبير حالات مجرى الهواء الصعب تدعم الطلب على هذه الأجهزة. بالنسبة لأطباء الأنف والأذن والحنجرة، يسلط ذلك الضوء على استمرار أهمية المناظير المرنة ضمن أدوات تقييم مجرى الهواء وتدبيره. لكن الخبر المتاح لا يذكر حجم السوق أو معدل النمو المتوقع، ولا يقدم تفاصيل عن الأسعار أو الشركات المصنّعة أو مدى توافر الأجهزة. كما أنه لا يعلن عن تغيير في الإرشادات السريرية، ولا يعرض نتائج دراسة تقارن بين الأجهزة أو تقيس أثرها في المرضى. لذلك يُنظر إلى الخبر بوصفه مؤشراً سوقياً عاماً، لا دليلاً على تغير فوري في الممارسة. وسيكون من المفيد متابعة بيانات أكثر تفصيلاً عن نمو السوق وتوافر المنتجات وتطورها، مع الاستمرار في اختيار الأجهزة وفق احتياجات المرضى والممارسات السريرية المعتمدة.",
+      "mcq": []
+    }
+  ]
+}
