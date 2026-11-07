@@ -1,0 +1,1086 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T10:01:20Z",
+  "articles": [
+    {
+      "pmid": "42989572",
+      "title_ar": "Reconstructing Skull Base Reconstruction: The State of the Art.",
+      "title_en": "Reconstructing Skull Base Reconstruction: The State of the Art.",
+      "journal": "Head & neck",
+      "pub_date": "2026-Nov-05",
+      "doi": "10.1002/hed.70538",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42989572/",
+      "pdf_url": null,
+      "study_design": "Narrative literature review",
+      "summary_ar": "تستعرض هذه المقالة التطورات الحديثة في skull base reconstruction بالتزامن مع توسع endoscopic skull base surgery، مع التركيز على استعادة الحاجز بين cranial وnasal cavities بأقل morbidity ممكنة. يدعم نهج graded reconstruction استخدام free grafts أو local flaps في العيوب منخفضة التدفق، بينما يُفضّل الإغلاق متعدد الطبقات باستخدام أنسجة vascularized في العيوب عالية التدفق. قد تفيد lumbar drainage مرضى مختارين مرتفعي الخطورة، لكن الأدلة لا تدعم بشكل متسق الاستخدام الروتيني لـ packing أو antibiotic prophylaxis المطوّل. توسّع endoscopic free flap inset وvirtual surgical planning وpatient-specific implants خيارات معالجة العيوب المركبة والمعقدة وحالات salvage. يمكن أن تقلل synthetic dural substitutes الحاجة إلى donor-site، فيما لا تزال الأدلة السريرية على L-PRF ناشئة، ومعظم regenerative scaffolds وPRP والاستراتيجيات الخلوية في مراحل preclinical. تؤكد المقالة ضرورة اختيار أقل reconstruction morbidity يحقق إغلاقاً موثوقاً ويحافظ على الوظيفة وجودة الحياة، مع الحاجة إلى دراسات prospective معيارية تقيس النتائج المهمة للمرضى والقيمة العلاجية.",
+      "summary_en": "This review surveys recent advances in skull base reconstruction alongside expanding endoscopic skull base surgery.\nIt supports graded reconstruction: free grafts or local flaps for selected low-flow defects and multilayer vascularized closure for high-flow defects.\nLumbar drainage may benefit selected high-risk patients, but routine packing and prolonged antibiotic prophylaxis lack consistent support.\nEndoscopic free flap inset, virtual surgical planning, and patient-specific implants broaden options for complex composite and salvage defects.\nSynthetic dural substitutes may reduce donor-site morbidity; clinical support for L-PRF is emerging, while most scaffolds, PRP, and cell-based strategies remain preclinical.\nThe authors favor the least morbid reliable reconstruction and call for standardized prospective studies of patient- and value-centric outcomes.",
+      "practice_change_ar": "عملياً، ينبغي اختيار reconstruction بحسب تدفق CSF وحجم العيب، وتجنب packing وantibiotic prophylaxis المطوّلين بصورة روتينية دون مبرر خاص بالمريض.",
+      "practice_change_en": "In practice, tailor reconstruction to CSF flow and defect complexity, and avoid routine prolonged packing or antibiotic prophylaxis without a patient-specific indication.",
+      "future_impact_ar": "قد يتيح تطور virtual surgical planning وpatient-specific implants والمواد الحيوية ترميم عيوب skull base أكثر تعقيداً، لكن ذلك يحتاج إلى تحقق prospective.",
+      "future_impact_en": "Further development of virtual surgical planning, patient-specific implants, and biologic materials may enable reconstruction of increasingly complex skull base defects, pending prospective validation.",
+      "why_important_ar": "تلخص المقالة كيف يمكن موازنة موثوقية إغلاق skull base مع morbidity والتكلفة والتعافي وجودة الحياة.",
+      "why_important_en": "The review frames skull base reconstruction as a balance between reliable closure, morbidity, cost, recovery, and quality of life.",
+      "vs_previous_ar": "بدلاً من اعتماد reconstruction واحد لجميع العيوب، تعرض المقالة نهجاً متدرجاً يختار أقل construct morbidity يلائم مستوى الخطورة وتعقيد العيب.",
+      "vs_previous_en": "Rather than using a single reconstruction strategy for all defects, the review describes a graded approach that matches the least morbid construct to defect risk and complexity.",
+      "stars": 3,
+      "stars_reason_ar": "مراجعة سردية وليست دراسة مقارنة أصلية؛ تستفيد من مكانة Head & Neck وتقدم خلاصة عملية للتقنيات والمواد، لكن الأدلة على كثير من الابتكارات ما تزال محدودة ولا تثبت تغييراً واسعاً للممارسة.",
+      "stars_reason_en": "This is a narrative review rather than an original comparative study. The Head & Neck publication and practical synthesis are strengths, but evidence for many innovations remains limited and does not establish a broad practice-changing effect.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This is useful for discussing risk- and flow-based reconstruction choices, the evidence for lumbar drainage, packing, and antibiotics, and the appropriate role of newer materials.",
+      "watch": true,
+      "watch_detail_ar": "راقب تطور L-PRF وvirtual surgical planning وpatient-specific implants؛ فهي توسع خيارات reconstruction، لكن فعالية كثير منها تحتاج إلى دراسات سريرية مستقبلية.",
+      "watch_detail_en": "Track L-PRF, virtual surgical planning, and patient-specific implants as emerging reconstruction options, while recognizing that many still require prospective clinical validation.",
+      "watch_type": "technology",
+      "research_gap_ar": "توجد حاجة إلى دراسات prospective معيارية تقارن خيارات reconstruction وadjuncts، وتقيس النتائج الوظيفية وجودة الحياة والتكلفة والمضاعفات.",
+      "research_gap_en": "Standardized prospective studies are needed to compare reconstruction strategies and adjuncts using functional, quality-of-life, cost, and complication outcomes.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "تتناول هذه المراجعة حالة الفن في skull base reconstruction، في سياق ازدياد حجم وتعقيد العيوب الناتجة عن endoscopic skull base surgery. الفكرة المحورية هي استعادة حاجز موثوق بين cranial وnasal cavities، مع تقليل morbidity والتكلفة ووقت التعافي، والحفاظ على الوظيفة وجودة الحياة.\n\nتطرح المقالة نهجاً متدرجاً بحسب طبيعة العيب. في العيوب منخفضة التدفق، قد تكفي free grafts أو local flaps في حالات مختارة. أما العيوب عالية التدفق، فتحتاج غالباً إلى إغلاق متعدد الطبقات يتضمن أنسجة vascularized. وهذا يدعم اختيار reconstruction وفق خطورة الحالة بدلاً من استخدام construct واحد للجميع. قد تكون lumbar drainage مفيدة لبعض المرضى مرتفعي الخطورة، لكن المراجعة لا تجد دعماً ثابتاً للاستخدام الروتيني لـ packing أو antibiotic prophylaxis لفترات مطولة.\n\nتوسّع تقنيات مثل endoscopic free flap inset وvirtual surgical planning وpatient-specific implants إمكانات التعامل مع العيوب المركبة، والعيوب الكبيرة، وحالات salvage. وقد تقلل synthetic dural substitutes الحاجة إلى donor-site. أما L-PRF فلديه دعم سريري ناشئ، في حين أن معظم regenerative scaffolds وPRP والاستراتيجيات الخلوية لا تزال preclinical، لذلك لا ينبغي اعتبارها خيارات مثبتة على نطاق واسع.\n\nسريرياً، الرسالة هي اختيار أقل reconstruction morbidity يحقق إغلاقاً موثوقاً، وتخصيص adjuncts بحسب المريض، لا استخدامها بصورة روتينية دون داعٍ. هذه مراجعة سردية في Head & Neck، وليست تجربة مقارنة، لذا فهي مفيدة لتوجيه التفكير والنقاش لكنها لا تثبت تفوق تقنية بعينها. تستحق النقاش في journal club لمراجعة معايير اختيار الإغلاق والـ adjuncts، وتحديد مواضع عدم اليقين. أما الفجوة البحثية الأساسية فهي الحاجة إلى دراسات prospective معيارية تقيس المضاعفات والوظيفة وجودة الحياة والتكلفة. ينبغي متابعة L-PRF وvirtual surgical planning وpatient-specific implants، مع انتظار تحقق سريري أقوى قبل تعميم معظم الاستخدامات الجديدة.",
+      "audio_script_en": "This review examines the state of skull base reconstruction as endoscopic skull base surgery creates larger and more complex defects. Its central goal is to restore a reliable barrier between the cranial and nasal cavities while balancing morbidity, cost, recovery, function, and quality of life.\n\nThe authors describe a graded approach based on defect characteristics. Selected low-flow defects may be managed with free grafts or local flaps. High-flow defects generally call for multilayer closure with vascularized tissue. The implication is to match the reconstructive construct to the risk rather than use one approach for every patient. Lumbar drainage may help selected high-risk patients, but the review finds no consistent support for routine packing or prolonged antibiotic prophylaxis.\n\nNewer options broaden the reconstructive toolkit. Endoscopic free flap inset, virtual surgical planning, and patient-specific implants may help address complex composite defects and salvage cases. Synthetic dural substitutes can reduce donor-site morbidity in suitable cases. Clinical support for L-PRF is emerging, whereas most regenerative scaffolds, PRP, and cell-based strategies remain preclinical; they should not yet be regarded as established routine approaches.\n\nFor current practice, the key message is to choose the least morbid construct that reliably closes the defect and to individualize adjuncts rather than use them routinely without a clear indication. This is a narrative review in Head & Neck, not a comparative trial, so it is useful for organizing clinical decisions but cannot establish that one technique is superior. It is a good journal-club topic for discussing risk-based closure, adjunct use, and unresolved evidence. The major research need is standardized prospective evaluation of complications, function, quality of life, and cost. L-PRF, virtual surgical planning, and patient-specific implants are worth tracking, but stronger clinical validation is needed before broad adoption.",
+      "mcq": [
+        {
+          "q_ar": "ما النهج الذي تدعمه المراجعة للعيوب عالية التدفق في skull base؟",
+          "q_en": "Which approach does the review support for high-flow skull base defects?",
+          "options_ar": [
+            "أ) استخدام free graft منفرد في جميع الحالات",
+            "ب) إغلاق متعدد الطبقات باستخدام أنسجة vascularized",
+            "ج) تجنب أي reconstruction",
+            "د) استخدام packing وحده لفترة مطولة"
+          ],
+          "options_en": [
+            "A) A single free graft in every case",
+            "B) Multilayer closure using vascularized tissue",
+            "C) Avoiding reconstruction",
+            "D) Prolonged packing alone"
+          ],
+          "answer": 1,
+          "explanation_ar": "توصي المراجعة بإغلاق متعدد الطبقات باستخدام أنسجة vascularized للعيوب عالية التدفق، مع تخصيص reconstruction حسب الحالة.",
+          "explanation_en": "The review supports multilayer vascularized closure for high-flow defects, with reconstruction tailored to the case."
+        },
+        {
+          "q_ar": "ما الاستنتاج بشأن packing وantibiotic prophylaxis المطوّل؟",
+          "q_en": "What is the review's conclusion regarding packing and prolonged antibiotic prophylaxis?",
+          "options_ar": [
+            "أ) يجب استخدامهما روتينياً لكل مريض",
+            "ب) هما بديلان عن الإغلاق متعدد الطبقات",
+            "ج) لا تدعم الأدلة المتاحة استخدامهما الروتيني بشكل متسق",
+            "د) يُستخدمان فقط مع regenerative scaffolds"
+          ],
+          "options_en": [
+            "A) They should be used routinely in every patient",
+            "B) They replace multilayer closure",
+            "C) Available evidence does not consistently support their routine use",
+            "D) They are used only with regenerative scaffolds"
+          ],
+          "answer": 2,
+          "explanation_ar": "تشير المراجعة إلى أن الاستخدام الروتيني لـ packing وantibiotic prophylaxis المطوّل غير مدعوم بشكل متسق.",
+          "explanation_en": "The review notes that routine packing and prolonged antibiotic prophylaxis are not consistently supported."
+        },
+        {
+          "q_ar": "أي عبارة تصف مستوى الأدلة على L-PRF والعديد من regenerative scaffolds؟",
+          "q_en": "Which statement best describes the evidence for L-PRF and many regenerative scaffolds?",
+          "options_ar": [
+            "أ) جميعها مثبتة بتجارب عشوائية كبيرة",
+            "ب) L-PRF لديه دعم سريري ناشئ، ومعظم regenerative scaffolds ما تزال preclinical",
+            "ج) لا توجد أي أبحاث حولها",
+            "د) ثبت أنها تتفوق على vascularized flaps"
+          ],
+          "options_en": [
+            "A) All are established by large randomized trials",
+            "B) L-PRF has emerging clinical support, while most regenerative scaffolds remain preclinical",
+            "C) No research has been conducted on them",
+            "D) They have been shown to outperform vascularized flaps"
+          ],
+          "answer": 1,
+          "explanation_ar": "تصف المراجعة الأدلة السريرية على L-PRF بأنها ناشئة، بينما تذكر أن معظم regenerative scaffolds وPRP والاستراتيجيات الخلوية ما تزال preclinical.",
+          "explanation_en": "The review describes clinical support for L-PRF as emerging, while most regenerative scaffolds, PRP, and cell-based strategies remain preclinical."
+        }
+      ]
+    },
+    {
+      "pmid": "42989377",
+      "title_ar": "Laryngeal Cancer Microbiome Study Reveals Parvimonas and Campylobacter as Potential Therapy Targets.",
+      "title_en": "Laryngeal Cancer Microbiome Study Reveals Parvimonas and Campylobacter as Potential Therapy Targets.",
+      "journal": "The Laryngoscope",
+      "pub_date": "2026-Nov-05",
+      "doi": "10.1002/lary.71027",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42989377/",
+      "pdf_url": null,
+      "study_design": "Prospective controlled microbiome study; 57 samples from 24 cancer patients and 33 controls",
+      "summary_ar": "قارنت هذه الدراسة prospective عينات mucosal من 24 مريضًا مصابًا بـ laryngeal cancer لم يتلقوا علاجًا سابقًا، مع 33 مريضًا خضعوا لجراحة لأسباب أخرى. استُخدم 16S rRNA sequencing لتحليل تكوين microbiome، واستُبعدت عينتان لعدم وجود قراءات مصنفة. احتوت عينات cancer على Parvimonas وCampylobacter ضمن core microbiome، كما أظهرت إثراءً ذا دلالة إحصائية في 19 genus مقارنةً بعينات controls. شملت الأجناس الأكثر إثراءً Peptococcus وCampylobacter وParvimonas، بينما ظهرت Corynebacterium وAlloprevotella ضمن core microbiome الخاص بمجموعة controls. خلص الباحثون إلى وجود microbial dysbiosis وفقدان taxa يُحتمل أن تكون immunoprotective في mucosa المصابة بالسرطان. النتائج استكشافية ولا تثبت أن هذه الميكروبات تسبب السرطان أو أن استهدافها يحسن نتائج العلاج.",
+      "summary_en": "This prospective study compared laryngeal mucosal samples from 24 treatment-naive patients with laryngeal cancer and 33 surgical controls without oral or laryngeal disease. The investigators used 16S rRNA sequencing to characterize the microbiome and excluded two samples with no classified reads. Cancer samples showed a distinct core microbiome that included Parvimonas and Campylobacter, alongside significant enrichment of 19 genera compared with controls. The most enriched genera included Peptococcus, Campylobacter, and Parvimonas; Corynebacterium and Alloprevotella were unique to the control core microbiome. The authors describe microbial dysbiosis and possible loss of immunoprotective taxa in cancer-associated mucosa. These exploratory findings do not establish causation or show that targeting these microbes improves cancer outcomes.",
+      "practice_change_ar": "لا تغيّر هذه النتائج تدبير laryngeal cancer أو الفحوص السريرية الحالية، ولا تبرر استخدام microbiome testing أو العلاج الموجّه للميكروبات.",
+      "practice_change_en": "These findings do not change current laryngeal cancer management or justify microbiome testing or microbe-targeted treatment.",
+      "future_impact_ar": "قد تساعد دراسات أكبر وطولية وتجارب وظيفية في تحديد ما إذا كان تعديل Parvimonas أو Campylobacter يؤثر في نشوء laryngeal cancer أو علاجه.",
+      "future_impact_en": "Larger longitudinal and functional studies may determine whether modifying Parvimonas or Campylobacter affects laryngeal cancer development or treatment.",
+      "why_important_ar": "تقدم الدراسة وصفًا أوليًا لاختلافات microbiome مرتبطة بـ laryngeal cancer وتحدد أهدافًا محتملة للبحث اللاحق.",
+      "why_important_en": "The study provides an initial description of laryngeal cancer-associated microbiome differences and identifies candidates for further research.",
+      "vs_previous_ar": "تضيف الدراسة بيانات خاصة بـ laryngeal mucosa وتبرز Parvimonas وCampylobacter، لكنها لا تتجاوز المعرفة الارتباطية إلى إثبات السببية أو تقديم علاج.",
+      "vs_previous_en": "The study adds laryngeal mucosa-specific data highlighting Parvimonas and Campylobacter, but remains associative and does not establish causation or a treatment.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة prospective مضبوطة في مجلة مرموقة، وتقدم نتائج جديدة ذات صلة بـ laryngeal cancer؛ لكن حجم العينة محدود والنتائج لا تغيّر الممارسة حاليًا.",
+      "stars_reason_en": "A prospective controlled study in a leading journal with novel findings relevant to laryngeal cancer; however, the sample is limited and the results do not currently change practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Worth discussing because it proposes a new link between the microbiome and laryngeal cancer, while prompting appraisal of study limitations and the distinction between association and causality.",
+      "watch": true,
+      "watch_detail_ar": "تُتابع تقنيات microbiome profiling المعتمدة على 16S rRNA sequencing لمعرفة ما إذا كانت ستُثبت لاحقًا فائدتها في تصنيف laryngeal cancer أو توجيه العلاج.",
+      "watch_detail_en": "Track 16S rRNA sequencing-based microbiome profiling to see whether future studies establish a role in laryngeal cancer classification or treatment selection.",
+      "watch_type": "technology",
+      "research_gap_ar": "يلزم إجراء دراسات أكبر وطولية مع ضبط عوامل مثل التدخين، إلى جانب اختبارات وظيفية، للتحقق من ثبات هذه الارتباطات وسببية الميكروبات وأثر استهدافها.",
+      "research_gap_en": "Larger longitudinal studies controlling for factors such as smoking, combined with functional experiments, are needed to validate these associations, assess causality, and test whether targeting the microbes has an effect.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نناقش اليوم دراسة عن microbiome في laryngeal cancer، منشورة في The Laryngoscope. شملت الدراسة prospective 57 عينة mucosal: 24 من مرضى laryngeal cancer لم يتلقوا علاجًا، و33 من controls خضعوا لجراحة لأسباب لا تتعلق بأمراض الفم أو الحنجرة. استخدم الباحثون 16S rRNA sequencing للتعرف على البكتيريا الموجودة في العينات.\n\nأظهرت النتائج أن Parvimonas وCampylobacter كانا ضمن core microbiome الخاص بعينات السرطان، كما كانا من الأجناس المُثرَاة مقارنةً بمجموعة controls. رُصد إثراء في 19 genus إجمالًا، وكان Peptococcus من أبرزها. في المقابل، تميزت عينات controls بوجود Corynebacterium وAlloprevotella ضمن core microbiome. يرى الباحثون أن هذه النتائج تعكس microbial dysbiosis، وربما فقدان بعض taxa ذات دور immunoprotective.\n\nما أهمية ذلك؟ تقدم الدراسة وصفًا أوليًا لاختلافات microbiome في laryngeal mucosa المصابة بالسرطان، وتطرح Parvimonas وCampylobacter كأهداف محتملة لأبحاث مستقبلية. لكن النتائج لا تثبت أن هذه الميكروبات تسبب السرطان، ولا توضح ما إذا كان تغييرها سيحسن فعالية العلاج أو نتائجه.\n\nمن المهم أيضًا مراعاة محدودية حجم العينة، وأن تحليل 16S rRNA يصف التركيب الميكروبي ولا يثبت الوظيفة أو السببية. لذلك لا ينبغي حاليًا طلب microbiome testing أو تغيير تدبير laryngeal cancer بناءً على هذه الدراسة. تقييمنا: دراسة تستحق النقاش، بدرجة ثلاث نجوم وثقة متوسطة، وتدعم إجراء دراسات أكبر وطولية واختبارات وظيفية قبل التفكير في تطبيق سريري.",
+      "audio_script_en": "Today we are reviewing a study of the laryngeal cancer microbiome, published in The Laryngoscope. This prospective study included 57 mucosal samples: 24 from treatment-naive patients with laryngeal cancer and 33 controls undergoing surgery for reasons unrelated to oral or laryngeal disease. The researchers used 16S rRNA sequencing to characterize the bacterial communities.\n\nParvimonas and Campylobacter were found in the cancer group’s core microbiome and were enriched compared with controls. Overall, 19 genera were enriched in cancer samples, with Peptococcus among the most prominent. By contrast, Corynebacterium and Alloprevotella were present in the control group’s core microbiome. The authors interpret these findings as evidence of microbial dysbiosis and possible loss of immunoprotective taxa.\n\nWhy does this matter? The study offers an initial description of microbiome differences in laryngeal cancer and identifies Parvimonas and Campylobacter as candidates for future research. However, it does not show that these organisms cause cancer, or that changing their abundance would improve treatment response or outcomes.\n\nThe sample is relatively small, and 16S rRNA sequencing describes microbial composition rather than proving function or causality. Clinicians should not order microbiome testing or alter laryngeal cancer management based on this study. Our assessment is three stars with moderate confidence: it is worth knowing and discussing, but larger longitudinal studies and functional experiments are needed before any clinical application.",
+      "mcq": [
+        {
+          "q_ar": "ما نوع التصميم الذي استخدمته الدراسة؟",
+          "q_en": "What study design was used?",
+          "options_ar": [
+            "أ) تجربة عشوائية مضبوطة",
+            "ب) دراسة prospective مضبوطة لتحليل microbiome",
+            "ج) مراجعة منهجية",
+            "د) سلسلة حالات استعادية"
+          ],
+          "options_en": [
+            "A) Randomized controlled trial",
+            "B) Prospective controlled microbiome study",
+            "C) Systematic review",
+            "D) Retrospective case series"
+          ],
+          "answer": 1,
+          "explanation_ar": "قارنت الدراسة prospectively عينات 24 مريضًا مصابًا بالسرطان مع عينات 33 control.",
+          "explanation_en": "The study prospectively compared samples from 24 cancer patients with samples from 33 controls."
+        },
+        {
+          "q_ar": "أي genusين برزا ضمن عينات laryngeal cancer؟",
+          "q_en": "Which two genera were highlighted in laryngeal cancer samples?",
+          "options_ar": [
+            "أ) Corynebacterium وAlloprevotella",
+            "ب) Parvimonas وCampylobacter",
+            "ج) Streptococcus وLactobacillus",
+            "د) Haemophilus وMoraxella"
+          ],
+          "options_en": [
+            "A) Corynebacterium and Alloprevotella",
+            "B) Parvimonas and Campylobacter",
+            "C) Streptococcus and Lactobacillus",
+            "D) Haemophilus and Moraxella"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان Parvimonas وCampylobacter ضمن core microbiome الخاص بمجموعة السرطان، كما أُثريا مقارنةً بـ controls.",
+          "explanation_en": "Parvimonas and Campylobacter were part of the cancer group’s core microbiome and were enriched relative to controls."
+        },
+        {
+          "q_ar": "ما الاستنتاج السريري الأنسب لهذه النتائج حاليًا؟",
+          "q_en": "What is the most appropriate current clinical interpretation?",
+          "options_ar": [
+            "أ) يجب علاج جميع المرضى بمضاد حيوي موجّه",
+            "ب) تثبت النتائج أن البكتيريا تسبب laryngeal cancer",
+            "ج) لا تغيّر النتائج الممارسة، وتحتاج إلى تحقق ودراسات إضافية",
+            "د) ينبغي استخدام microbiome testing بدلًا من الخزعة"
+          ],
+          "options_en": [
+            "A) All patients should receive targeted antibiotics",
+            "B) The findings prove that bacteria cause laryngeal cancer",
+            "C) The findings do not change practice and need further validation",
+            "D) Microbiome testing should replace biopsy"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة ارتباطية واستكشافية، ولا تثبت السببية أو فائدة العلاج الموجّه للميكروبات.",
+          "explanation_en": "This is an exploratory association study; it does not establish causality or demonstrate benefit from microbe-targeted treatment."
+        }
+      ]
+    },
+    {
+      "pmid": "42994162",
+      "title_ar": "Progressive reduction in CSF leak rates in translabyrinthine vestibular schwannoma surgery using a suture-stabilised fat graft and improved Eustachian tube obliteration: Technical note.",
+      "title_en": "Progressive reduction in CSF leak rates in translabyrinthine vestibular schwannoma surgery using a suture-stabilised fat graft and improved Eustachian tube obliteration: Technical note.",
+      "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+      "pub_date": "2026-Nov-06",
+      "doi": "10.1016/j.jocn.2026.112379",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42994162/",
+      "pdf_url": null,
+      "study_design": "Retrospective case series n=159, sequential technique cohorts",
+      "summary_ar": "راجعت هذه الدراسة بأثر رجعي 159 مريضًا خضعوا لجراحة vestibular schwannoma عبر translabyrinthine approach بين 2014 و2025. قورنت نتائج historical technique مع suture-stabilised fat graft (SSFG)، ثم SSFG مع Eustachian tube obliteration (ETO). انخفض معدل postoperative CSF leak من 31.3% تاريخيًا إلى 4.9% في مجموعتي ما بعد 2017، بفارق مطلق قدره 26.4 نقطة مئوية (p=0.003). لم تحدث أي leaks بين 38 مريضًا عولجوا بـ SSFG وETO، لكن الفرق مقارنةً بـ SSFG وحده لم يكن ذا دلالة إحصائية (0% مقابل 6.7%، p=0.19). عولجت جميع حالات التسرب السبعة بعد 2017 دون توثيق morbidity دائم، وسُجلت حالتا pseudomeningocele. تدعم النتائج استراتيجية الإغلاق المحسنة، لكنها لا تثبت أن ETO يضيف فائدة مستقلة إلى SSFG.",
+      "summary_en": [
+        "This retrospective series reviewed 159 patients undergoing translabyrinthine vestibular schwannoma surgery from 2014 to 2025.",
+        "The authors compared a historical closure technique with suture-stabilised fat graft (SSFG), followed by SSFG plus Eustachian tube obliteration (ETO).",
+        "Postoperative CSF leaks decreased from 31.3% historically to 4.9% across the post-2017 cohorts, an absolute difference of 26.4 percentage points (p=0.003).",
+        "No leaks occurred among 38 patients receiving SSFG plus ETO, but the difference from SSFG alone was not statistically significant (0% vs 6.7%, p=0.19).",
+        "All seven post-2017 leaks were managed without documented permanent morbidity, and two pseudomeningoceles were reported.",
+        "The findings support the refined closure strategy but do not establish an independent benefit from adding ETO."
+      ],
+      "practice_change_ar": "يمكن اعتماد SSFG كجزء من استراتيجية إغلاق محسنة في translabyrinthine surgery، لكن هذه البيانات لا تبرر اعتبار ETO إضافةً مثبتة الفائدة.",
+      "practice_change_en": "SSFG may be incorporated into an improved closure strategy for translabyrinthine surgery, but these data do not establish ETO as a proven additional benefit.",
+      "future_impact_ar": "قد تؤدي دراسات متعددة المراكز ذات مجموعات مقارنة متزامنة إلى تحديد الفائدة المستقلة لـ ETO وتحسين بروتوكولات منع CSF leak.",
+      "future_impact_en": "Multicenter studies with concurrent comparison groups could clarify the independent benefit of ETO and refine CSF leak prevention protocols.",
+      "why_important_ar": "تعالج الدراسة مضاعفة مهمة بعد translabyrinthine surgery وتعرض انخفاضًا ملحوظًا في CSF leak بعد تحسين خطوات الإغلاق.",
+      "why_important_en": "The study addresses an important complication of translabyrinthine surgery and reports a marked reduction in CSF leaks after closure refinement.",
+      "vs_previous_ar": "مقارنةً بالمعدلات التاريخية المرتفعة، تصف الدراسة نهجًا متدرجًا يجمع SSFG مع ETO، مع إبقاء الفائدة الإضافية لـ ETO غير مؤكدة.",
+      "vs_previous_en": "Compared with historically high leak rates, the study describes a staged approach combining SSFG and ETO, while leaving the incremental benefit of ETO uncertain.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة استعادية متسلسلة كبيرة نسبيًا (n=159) تقدم تقنية إغلاق عملية ونتائج واعدة، لكن المقارنات غير العشوائية وصغر مجموعة ETO وعدم دلالة الفرق بين SSFG وحده وSSFG مع ETO تحد من قوة الاستنتاج.",
+      "stars_reason_en": "This relatively large retrospective sequential series (n=159) presents a practical closure technique and promising outcomes, but nonrandomized comparisons, the small ETO cohort, and the nonsignificant difference between SSFG alone and SSFG plus ETO limit the conclusions.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This merits discussion because it links a technical change to a substantial reduction in CSF leaks while raising questions about sequential improvements and the limitations in establishing ETO's benefit.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا بروتوكول SSFG مع ETO بوصفه نهجًا جراحيًا واعدًا، مع انتظار بيانات مقارنة أكبر لتأكيد أثر ETO المستقل.",
+      "watch_detail_en": "Track the SSFG-plus-ETO protocol as a promising surgical approach, while awaiting larger comparative data to confirm ETO's independent effect.",
+      "watch_type": "technology",
+      "research_gap_ar": "يلزم إجراء دراسة مستقبلية متعددة المراكز تقارن SSFG وحده مع SSFG وETO باستخدام تعريف موحد لـ CSF leak ومتابعة طويلة الأمد.",
+      "research_gap_en": "A prospective multicenter study comparing SSFG alone with SSFG plus ETO, using a standardized CSF leak definition and long-term follow-up, is needed.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "تتناول هذه الدراسة الوقاية من CSF leak بعد جراحة vestibular schwannoma عبر translabyrinthine approach، وهي مضاعفة مهمة قد تؤدي إلى الحاجة لتدخلات إضافية. راجع الباحثون بأثر رجعي 159 مريضًا عولجوا بين عامي 2014 و2025، وقسموهم بحسب تطور تقنية الإغلاق: historical technique، ثم suture-stabilised fat graft أو SSFG، ثم SSFG مع Eustachian tube obliteration أو ETO.\n\nكانت النتيجة الأساسية هي postoperative CSF leak. انخفض المعدل من 31.3% في المجموعة التاريخية إلى 4.9% في مجموعتي ما بعد 2017، وكان الفرق ذا دلالة إحصائية، بقيمة p تساوي 0.003. وفي مجموعة SSFG مع ETO، التي شملت 38 مريضًا، لم تسجل أي حالة تسرب. لكن المقارنة مع SSFG وحده، الذي سجل 7 حالات من أصل 105، لم تصل إلى الدلالة الإحصائية؛ كانت p تساوي 0.19. لذلك لا يمكن الجزم بأن ETO هو سبب الانخفاض الإضافي المحتمل.\n\nمن النقاط المطمئنة أن حالات التسرب السبعة بعد 2017 عولجت دون توثيق morbidity دائم، وسُجلت حالتا pseudomeningocele فقط في مجموعتي ما بعد 2017. عمليًا، تقدم النتائج دعمًا لاستراتيجية الإغلاق المحسنة، وخصوصًا SSFG، لكنها لا تثبت فائدة مستقلة لـ ETO ولا تفرض تغييرًا موحدًا في الممارسة اعتمادًا على هذه الدراسة وحدها.\n\nتتمثل قوة المقال في العدد الإجمالي الكبير نسبيًا وتركيزه على مشكلة مباشرة في جراحة skull base. أما حدوده فتشمل التصميم الاستعادي، والتغييرات المتتابعة عبر الزمن، واختلاف أحجام المجموعات، وصغر مجموعة ETO. هذه العوامل تجعل من الصعب فصل أثر التقنية عن الخبرة المتزايدة أو التغيرات الأخرى في الرعاية. وتستحق النتائج النقاش في journal club، مع متابعة التقنية بوصفها نهجًا واعدًا. ستكون الخطوة البحثية الأهم دراسة مستقبلية متعددة المراكز تقارن SSFG وحده مع SSFG وETO، وتعتمد تعريفًا موحدًا لـ CSF leak وفترة متابعة طويلة.",
+      "audio_script_en": "This study examines prevention of CSF leaks after translabyrinthine surgery for vestibular schwannoma, an important complication that can require additional treatment. The authors retrospectively reviewed 159 patients treated between 2014 and 2025, grouping them by the evolution of their closure technique: a historical technique, suture-stabilised fat graft or SSFG, and then SSFG combined with Eustachian tube obliteration, or ETO.\n\nThe primary outcome was postoperative CSF leak. The rate fell from 31.3% in the historical cohort to 4.9% across the post-2017 cohorts, a statistically significant difference with a p-value of 0.003. There were no leaks among the 38 patients treated with SSFG plus ETO. However, compared with SSFG alone, which had 7 leaks among 105 patients, the difference was not statistically significant; the p-value was 0.19. The study therefore cannot establish that ETO independently accounts for any additional reduction.\n\nReassuringly, all seven post-2017 leaks were managed without documented permanent morbidity. Only two pseudomeningoceles were reported across the post-2017 cohorts. In practice, these findings support an improved closure strategy, particularly SSFG, but do not prove an independent benefit from ETO or mandate a universal practice change based on this study alone.\n\nA strength is the relatively large overall series and its focus on a clinically important skull base surgery complication. Limitations include the retrospective design, sequential changes in technique over time, unequal cohort sizes, and the small ETO group. These factors make it difficult to separate the effect of the closure technique from increasing experience or other changes in care. The findings merit journal club discussion, and the protocol is worth tracking as a promising surgical approach. The key next step is a prospective multicenter comparison of SSFG alone with SSFG plus ETO, using a standardized CSF leak definition and long-term follow-up.",
+      "mcq": [
+        {
+          "q_ar": "ما النتيجة الأساسية التي قيّمتها الدراسة بعد translabyrinthine surgery؟",
+          "q_en": "What was the primary outcome assessed after translabyrinthine surgery?",
+          "options_ar": [
+            "أ) CSF leak بعد الجراحة",
+            "ب) تحسن السمع",
+            "ج) عودة vestibular schwannoma",
+            "د) شلل العصب الوجهي"
+          ],
+          "options_en": [
+            "A) Postoperative CSF leak",
+            "B) Hearing improvement",
+            "C) Vestibular schwannoma recurrence",
+            "D) Facial nerve paralysis"
+          ],
+          "answer": 0,
+          "explanation_ar": "حددت الدراسة postoperative CSF leak بوصفه النتيجة الأساسية.",
+          "explanation_en": "The study designated postoperative CSF leak as its primary outcome."
+        },
+        {
+          "q_ar": "ما معدل CSF leak في مجموعة SSFG مع ETO؟",
+          "q_en": "What was the CSF leak rate in the SSFG-plus-ETO cohort?",
+          "options_ar": [
+            "أ) 31.3%",
+            "ب) 6.7%",
+            "ج) 4.9%",
+            "د) 0% بين 38 مريضًا"
+          ],
+          "options_en": [
+            "A) 31.3%",
+            "B) 6.7%",
+            "C) 4.9%",
+            "D) 0% among 38 patients"
+          ],
+          "answer": 3,
+          "explanation_ar": "لم تُسجل أي حالة CSF leak في مجموعة SSFG مع ETO التي ضمت 38 مريضًا، لكن ذلك لا يثبت تفوقًا ذا دلالة إحصائية.",
+          "explanation_en": "No CSF leaks were observed among the 38 patients receiving SSFG plus ETO, but this does not establish a statistically significant advantage."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأدق بشأن الفائدة الإضافية لـ ETO؟",
+          "q_en": "What is the most accurate conclusion about the incremental benefit of ETO?",
+          "options_ar": [
+            "أ) ثبتت فائدته المستقلة بدلالة إحصائية",
+            "ب) لم يكن الفرق عن SSFG وحده ذا دلالة إحصائية، لذا تبقى فائدته المستقلة غير مؤكدة",
+            "ج) زاد CSF leak مقارنةً بـ SSFG وحده",
+            "د) لم تُقيّم الدراسة ETO"
+          ],
+          "options_en": [
+            "A) Its independent benefit was statistically established",
+            "B) The difference from SSFG alone was not statistically significant, so its independent benefit remains uncertain",
+            "C) It increased CSF leaks compared with SSFG alone",
+            "D) The study did not evaluate ETO"
+          ],
+          "answer": 1,
+          "explanation_ar": "لم يكن الفرق بين SSFG مع ETO وSSFG وحده ذا دلالة إحصائية (p=0.19)، ولذلك لا يمكن تأكيد أثر ETO المستقل.",
+          "explanation_en": "The difference between SSFG plus ETO and SSFG alone was not statistically significant (p=0.19), so an independent ETO effect cannot be confirmed."
+        }
+      ]
+    },
+    {
+      "pmid": "42995026",
+      "title_ar": "Acoustic Correlates of Endoscopically Identified Vocal Fold Lesions in a Large Clinical Cohort: Perceptual Associations and Screening Performance.",
+      "title_en": "Acoustic Correlates of Endoscopically Identified Vocal Fold Lesions in a Large Clinical Cohort: Perceptual Associations and Screening Performance.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Nov-06",
+      "doi": "10.1016/j.jvoice.2026.10.001",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42995026/",
+      "pdf_url": null,
+      "study_design": "Cross-sectional cohort study n=782",
+      "summary_ar": "شملت هذه الدراسة cross-sectional cohort عدد 782 مريضًا يعانون من dysphonia، وخضعوا لـ videolaryngostroboscopy وتسجيل acoustic موحد وتقييم perceptual باستخدام CAPE-V وGRBAS. كانت vocal fold polyps أكثر الآفات شيوعًا (32.1%)، تليها nodules وReinke's edema وcysts وgranuloma. اختلفت jitter وshimmer وHNR وCPPS بوضوح بين الفئات، وكانت الانحرافات acoustic أشد لدى مرضى polyps. كان انخفاض CPPS أقوى predictor مستقل لوجود lesion، وارتبط أكثر من غيره بدرجة CAPE-V overall severity. حقق النموذج acoustic المدمج AUC قدره 0.91 للتمييز بين الأصوات المصحوبة بـ lesion والأصوات ذات vocal folds طبيعية بنيويًا. تشير النتائج إلى فائدة acoustic assessment كأداة screening أو triage مساعدة، لكنها لا تحدد نوع lesion أو benignity ولا تغني عن endoscopy.",
+      "summary_en": "This cross-sectional cohort study evaluated 782 patients with dysphonia using videolaryngostroboscopy, standardized acoustic recordings, and perceptual ratings with CAPE-V and GRBAS. Vocal fold polyps were the most common lesion (32.1%), followed by nodules, Reinke's edema, cysts, and granuloma. Jitter, shimmer, HNR, and CPPS differed significantly across categories, with the greatest acoustic deviations in patients with polyps. Reduced CPPS was the strongest independent predictor of lesion presence and had the strongest association with CAPE-V overall severity. A combined acoustic model distinguished lesion from structurally normal voices with an AUC of 0.91. Acoustic measures may support screening and triage, but cannot identify lesion type or benignity and should not replace endoscopic examination.",
+      "practice_change_ar": "يمكن استخدام انخفاض CPPS ومؤشرات acoustic الأخرى لدعم screening أو triage لدى مرضى dysphonia، لكن endoscopy تظل ضرورية لتشخيص الآفة وتحديد طبيعتها.",
+      "practice_change_en": "Reduced CPPS and other acoustic measures can support screening or triage in dysphonia, but endoscopy remains necessary to diagnose and characterize a lesion.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية متعددة المراكز على التحقق من أداء CPPS كأداة triage وتحديد فائدته في مسارات الإحالة السريرية.",
+      "future_impact_en": "Future multicenter studies could validate CPPS as a triage tool and establish its value in clinical referral pathways.",
+      "why_important_ar": "تقدم الدراسة الكبيرة دليلًا على ارتباط قياسات الصوت الموضوعية بوجود vocal fold lesions وشدة dysphonia المدركة.",
+      "why_important_en": "This large study links objective voice measures with endoscopically identified vocal fold lesions and perceived dysphonia severity.",
+      "vs_previous_ar": "تضيف الدراسة تقييمًا واسعًا ومتكاملًا لـ acoustic وperceptual وendoscopic findings، مع إبراز CPPS، لكنها لا تثبت بديلًا عن الفحص بالمنظار.",
+      "vs_previous_en": "The study adds a large integrated assessment of acoustic, perceptual, and endoscopic findings, highlighting CPPS without establishing it as a substitute for endoscopy.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة cross-sectional كبيرة شملت 782 مريضًا وقدمت نتائج تشخيصية مفيدة، لكن طبيعتها غير التدخلية لا تثبت تغييرًا مباشرًا للممارسة أو أن acoustic assessment يغني عن endoscopy.",
+      "stars_reason_en": "This large cross-sectional study of 782 patients provides useful diagnostic evidence, but its non-interventional design does not establish a practice-changing role or show that acoustic assessment can replace endoscopy.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق الدراسة النقاش لمقارنة أداء CPPS مع بقية القياسات acoustic، ولتقييم حدود استخدام نموذج screening في القرار السريري.",
+      "jc_reason_en": "The study merits discussion of CPPS performance relative to other acoustic measures and the limitations of applying a screening model to clinical decisions.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم تحقق prospective خارجي ومتعدد المراكز لتحديد دقة CPPS عبر أنواع lesion ومجموعات مرضى مختلفة وقياس أثره على الإحالة والتشخيص.",
+      "research_gap_en": "Prospective external multicenter validation is needed to assess CPPS across lesion types and patient groups and to measure its impact on referral and diagnosis.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة عن العلاقة بين القياسات acoustic والآفات التي تُكتشف بالمنظار في vocal folds. شملت الدراسة 782 مريضًا لديهم dysphonia، وخضعوا لـ videolaryngostroboscopy وتسجيل صوتي موحد، إضافة إلى تقييم perceptual باستخدام CAPE-V وGRBAS. كان النوع الأكثر شيوعًا هو vocal fold polyps، بنسبة 32.1%، تلتها nodules ثم Reinke's edema وcysts وgranuloma.\n\nقارن الباحثون jitter وshimmer وHNR وCPPS بين الفئات. اختلفت جميع القياسات إحصائيًا، وكانت الانحرافات الأكبر لدى مرضى polyps. برز انخفاض CPPS بوصفه أقوى predictor مستقل لوجود lesion، كما ارتبط بدرجة CAPE-V overall severity ارتباطًا قويًا، بقيمة r تساوي سالب 0.71. وبلغت قدرة النموذج acoustic المدمج على التمييز بين وجود lesion وسلامة البنية AUC قدره 0.91.\n\nما معنى ذلك سريريًا؟ يمكن أن تساعد قياسات الصوت، وخصوصًا CPPS، في screening أو triage لمرضى dysphonia، وربما تدعم تحديد من يحتاج إلى تقييم laryngeal. لكنها لا تحدد إن كانت الآفة benign، ولا تميز وحدها بين أنواع الآفات. كما أن الدراسة استبعدت malignant وneurological وأسبابًا رئيسية أخرى لمشكلات الصوت؛ لذلك لا يمكن تعميم نتائجها على تلك الحالات.\n\nهذه دراسة cross-sectional كبيرة ومفيدة، لكنها لا تثبت أن القياسات acoustic تحسن النتائج أو تقلل الحاجة إلى الفحص. عمليًا، لا ينبغي أن تحل هذه الاختبارات محل endoscopy. الخطوة التالية هي التحقق prospectively، وفي مراكز متعددة، من أداء CPPS في مجموعات مختلفة وقياس أثره على الإحالة والتشخيص. الخلاصة: acoustic assessment أداة مساعدة واعدة، وليست بديلًا عن الفحص بالمنظار.",
+      "audio_script_en": "Today’s article examines how acoustic voice measures relate to vocal fold lesions identified endoscopically. The cross-sectional cohort included 782 patients with dysphonia. Participants underwent videolaryngostroboscopy, standardized acoustic recording, and perceptual assessment using CAPE-V and GRBAS. Vocal fold polyps were the most common finding, accounting for 32.1% of lesions, followed by nodules, Reinke's edema, cysts, and granuloma.\n\nThe authors compared jitter, shimmer, HNR, and CPPS across lesion categories. All measures differed significantly, and polyps showed the greatest deviations. Reduced CPPS was the strongest independent predictor of lesion presence and had the strongest relationship with CAPE-V overall severity, with a correlation of minus 0.71. A combined acoustic model distinguished lesion from structurally normal voices with an AUC of 0.91.\n\nThe clinical message is that acoustic assessment, particularly CPPS, may help with screening or triage in patients with dysphonia. However, it cannot establish whether a lesion is benign or reliably identify its specific type. The study also excluded malignant, neurological, and other major voice pathologies, so its findings should not be extended to those groups without further evidence.\n\nThis is a large and clinically relevant cross-sectional study, but it does not show that acoustic testing improves outcomes or reduces the need for examination. In current practice, acoustic measures can complement but should not replace endoscopy. Prospective, multicenter external validation is needed to test performance across patient groups and determine whether using CPPS changes referral or diagnostic pathways. In short, acoustic assessment is a promising aid, not a substitute for laryngeal visualization.",
+      "mcq": [
+        {
+          "q_ar": "ما القياس acoustic الذي كان أقوى predictor مستقل لوجود vocal fold lesion؟",
+          "q_en": "Which acoustic measure was the strongest independent predictor of vocal fold lesion presence?",
+          "options_ar": [
+            "أ) jitter",
+            "ب) shimmer",
+            "ج) HNR",
+            "د) CPPS"
+          ],
+          "options_en": [
+            "A) Jitter",
+            "B) Shimmer",
+            "C) HNR",
+            "D) CPPS"
+          ],
+          "answer": 3,
+          "explanation_ar": "كان انخفاض CPPS أقوى predictor مستقل لوجود lesion، مع adjusted OR قدره 1.62 لكل انخفاض بمقدار 1 dB.",
+          "explanation_en": "Reduced CPPS was the strongest independent predictor of lesion presence, with an adjusted OR of 1.62 per 1-dB decrease."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب حول دور acoustic assessment في هذه الدراسة؟",
+          "q_en": "What is the most appropriate conclusion about the role of acoustic assessment in this study?",
+          "options_ar": [
+            "أ) يمكنه تحديد benignity دون endoscopy",
+            "ب) يمكنه دعم screening أو triage لكنه لا يستبدل endoscopy",
+            "ج) يحدد نوع lesion بدقة لكل مريض",
+            "د) لا يرتبط بوجود vocal fold lesions"
+          ],
+          "options_en": [
+            "A) It can determine benignity without endoscopy",
+            "B) It can support screening or triage but does not replace endoscopy",
+            "C) It identifies the specific lesion type accurately in every patient",
+            "D) It is unrelated to vocal fold lesion presence"
+          ],
+          "answer": 1,
+          "explanation_ar": "تدعم النتائج استخدام القياسات acoustic كأداة مساعدة، لكنها لا تحدد benignity أو etiology ولا تغني عن endoscopic assessment.",
+          "explanation_en": "The findings support acoustic measures as an adjunct, but they do not determine benignity or etiology and cannot replace endoscopic assessment."
+        },
+        {
+          "q_ar": "ما نوع تصميم الدراسة؟",
+          "q_en": "What was the study design?",
+          "options_ar": [
+            "أ) RCT",
+            "ب) Meta-analysis",
+            "ج) Cross-sectional cohort study",
+            "د) Case report"
+          ],
+          "options_en": [
+            "A) RCT",
+            "B) Meta-analysis",
+            "C) Cross-sectional cohort study",
+            "D) Case report"
+          ],
+          "answer": 2,
+          "explanation_ar": "قيّمت الدراسة مجموعة من 782 مريضًا في نقطة زمنية دون تدخل عشوائي، لذا كان تصميمها cross-sectional cohort.",
+          "explanation_en": "The study assessed a cohort of 782 patients without randomized intervention, making it a cross-sectional cohort study."
+        }
+      ]
+    },
+    {
+      "pmid": "42988763",
+      "title_ar": "Cepstral Peak Prominence and Pitch Strength as Acoustic Indicators of Dysphonia in Children.",
+      "title_en": "Cepstral Peak Prominence and Pitch Strength as Acoustic Indicators of Dysphonia in Children.",
+      "journal": "The Laryngoscope",
+      "pub_date": "2026-Nov-05",
+      "doi": "10.1002/lary.71023",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42988763/",
+      "pdf_url": null,
+      "study_design": "Comparative observational study, n=100",
+      "summary_ar": "درست هذه الدراسة أداء CPPS وpitch strength في التمييز بين الأطفال ذوي الأصوات السليمة والأطفال المصابين بـdysphonia. شملت العينة 100 طفلًا بعمر 4–12 سنة، منهم 42 لديهم benign vocal fold lesions و58 دون تاريخ لمشكلات صوتية. قِيست المؤشرات في sustained vowels وconnected speech، ثم استُخدمت نماذج logistic regression وreceiver operating characteristic لتقييم الارتباط ودقة التصنيف. كانت قيم CPPS وpitch strength أقل بصورة دالة لدى الأطفال المصابين في نوعَي العينات الصوتية. كان CPPS في sustained vowel أقوى مؤشر، لكن التباين داخل المجموعات حدّ من تحديد عتبات تشخيصية واضحة. تدعم النتائج استخدام CPPS في التقييم الروتيني، مع اعتبار pitch strength مقياسًا مساعدًا واعدًا لا بديلًا عن التقييم السريري.",
+      "summary_en": "This comparative observational study assessed whether CPPS and pitch strength distinguish dysphonic from healthy pediatric voices.\nIt included 100 children aged 4–12 years: 42 with benign vocal fold lesions and 58 without a history of voice complaints.\nBoth measures were calculated from sustained vowels and connected speech, with logistic regression and receiver operating characteristic analyses used to assess discrimination.\nChildren with voice disorders had significantly lower CPPS and pitch strength values across both types of samples.\nCPPS measured on sustained vowels was the strongest predictor, although substantial within-group variability limited the reliability of clear diagnostic cutoffs.\nThe findings support CPPS as an objective assessment aid and pitch strength as a promising adjunct, not as standalone diagnostic tests.",
+      "practice_change_ar": "يمكن للأطباء إضافة قياس CPPS إلى تقييم صوت الأطفال كأداة موضوعية مساعدة، مع عدم استخدام العتبات المقترحة وحدها لتشخيص dysphonia.",
+      "practice_change_en": "Clinicians can add CPPS measurement as an objective aid in pediatric voice assessment, but should not use the proposed thresholds alone to diagnose dysphonia.",
+      "future_impact_ar": "قد تساعد دراسات أكبر ومتعددة المراكز على التحقق من العتبات وتحديد كيفية دمج CPPS وpitch strength في مسارات تقييم صوت الأطفال.",
+      "future_impact_en": "Larger multicenter studies may validate thresholds and clarify how CPPS and pitch strength should be integrated into pediatric voice-assessment pathways.",
+      "why_important_ar": "تقدم الدراسة مقاييس صوتية موضوعية وسريعة نسبيًا قد تدعم تقييم dysphonia لدى الأطفال.",
+      "why_important_en": "The study evaluates relatively brief, objective acoustic measures that may support pediatric dysphonia assessment.",
+      "vs_previous_ar": "تضيف الدراسة بيانات مقارنة لدى الأطفال لكل من CPPS وpitch strength في sustained vowels وconnected speech، لكنها لا تثبت عتبات تشخيصية حاسمة.",
+      "vs_previous_en": "The study adds pediatric comparative data for CPPS and pitch strength in sustained vowels and connected speech, but does not establish definitive diagnostic thresholds.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة رصدية مقارنة جيدة الحجم نسبيًا في مجلة Laryngoscope، وتقدم فائدة سريرية محتملة لمقاييس صوتية موضوعية؛ لكن التباين داخل المجموعات وعدم وجود عتبات حاسمة يجعلان أثرها على الممارسة محدودًا حاليًا.",
+      "stars_reason_en": "This moderately sized comparative observational study in The Laryngoscope provides potentially useful objective voice measures, but within-group variability and the lack of definitive thresholds limit its immediate clinical impact.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study merits discussion because it compares practical acoustic measures across speech-sample types and illustrates the limitations of relying on diagnostic cutoffs.",
+      "watch": true,
+      "watch_detail_ar": "ينبغي متابعة تطوير أدوات تحليل صوتي سريرية تعتمد CPPS وpitch strength، إذ قد تعزز موضوعية تقييم صوت الأطفال إذا تحققت صلاحيتها.",
+      "watch_detail_en": "Track clinical acoustic-analysis tools using CPPS and pitch strength, which could improve objectivity in pediatric voice assessment if validated.",
+      "watch_type": "technology",
+      "research_gap_ar": "يلزم إجراء دراسات مستقبلية أكبر ومتعددة المراكز للتحقق من العتبات بحسب العمر وشدة الاضطراب، ومقارنة المؤشرات بنتائج التقييم السريري.",
+      "research_gap_en": "Larger prospective multicenter studies are needed to validate age- and severity-specific thresholds and compare these measures with clinical assessment outcomes.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة في مجال laryngology عن استخدام Cepstral Peak Prominence Smoothed، أو CPPS، وpitch strength بوصفهما مؤشرين صوتيين لدى الأطفال. هدفت الدراسة إلى معرفة مدى قدرة هذين القياسين على التفريق بين الأطفال ذوي الصوت السليم والأطفال المصابين باضطراب صوتي.\n\nشملت الدراسة 100 طفل تتراوح أعمارهم بين 4 و12 سنة. كان لدى 42 طفلًا benign vocal fold lesions، بينما لم يكن لدى 58 طفلًا تاريخ لمشكلة صوتية. جُمعت عينات من sustained vowels ومن connected speech، ثم حُللت باستخدام مقاييس صوتية ونماذج logistic regression، كما استُخدم receiver operating characteristic لتقدير قدرة القياسات على التصنيف.\n\nكانت قيم CPPS وpitch strength أقل بصورة دالة لدى الأطفال المصابين في نوعَي العينات. وكان CPPS المقاس على sustained vowel أقوى مؤشر لتمييز حالة الصوت. وقدمت الدراسة عتبات مقترحة لكل مقياس، لكنها وجدت تباينًا كبيرًا بين الأطفال ضمن المجموعة الواحدة؛ لذلك لا ينبغي اعتبار هذه الأرقام حدودًا تشخيصية قاطعة أو استخدامها منفردة لاتخاذ القرار.\n\nعمليًا، تدعم النتائج إدخال CPPS كأداة موضوعية مساعدة في تقييم صوت الأطفال، وتشير إلى أن pitch strength قد يكون مقياسًا إضافيًا مفيدًا. لا تغيّر الدراسة الممارسة الحالية تغييرًا جذريًا، ولا تستبدل الفحص السريري أو التقييم الصوتي الشامل، لكنها قد تساعد في توحيد القياس وتقليل الاعتماد على الانطباع الذاتي. قوة الدليل متوسطة؛ فالدراسة مقارنة وبحجم معقول، لكنها لا تثبت أن استخدام هذه المقاييس يحسن النتائج العلاجية.\n\nمن المهم أن تشمل الأبحاث المستقبلية عينات أكبر ومتعددة المراكز، وأن تتحقق من اختلاف العتبات باختلاف العمر وشدة dysphonia، وأن تقارن النتائج بالتقييم السريري وبالتغير بعد العلاج. الخلاصة: CPPS واعد للاستخدام السريري المساعد، وpitch strength يستحق مزيدًا من التحقق، لكن العتبات الحالية لا تكفي للتشخيص وحدها.",
+      "audio_script_en": "Today’s review focuses on a pediatric laryngology study examining Cepstral Peak Prominence Smoothed, or CPPS, and pitch strength as acoustic indicators of dysphonia. The question was whether these measures can distinguish children with voice disorders from vocally healthy children, using both sustained vowels and connected speech.\n\nThe study included 100 children aged 4 to 12 years. Forty-two had benign vocal fold lesions, and 58 had no history of voice complaints. The investigators measured CPPS and pitch strength in both types of voice samples and used logistic regression and receiver operating characteristic analyses to assess their association with voice-disorder status and their ability to classify children.\n\nChildren with voice disorders had significantly lower values for both measures, whether the sample was a sustained vowel or connected speech. CPPS on sustained vowel was the strongest predictor. The authors also reported optimal classification thresholds for all four measure-and-sample combinations. However, substantial variability within each group limited the establishment of clear diagnostic cutoffs. These thresholds should therefore not be treated as definitive or used as standalone diagnostic criteria.\n\nFor clinical practice, the findings support considering CPPS as an objective aid in routine pediatric voice assessment. Pitch strength may be a useful adjunct. The measures may help make assessment more objective without adding much testing burden, but they do not replace clinical evaluation or a comprehensive voice assessment. This study is useful rather than practice-changing: it is a comparative observational study with a reasonable sample, but it does not show that using these metrics improves treatment decisions or patient outcomes.\n\nThe key research gap is validation. Larger, prospective, multicenter studies should examine whether appropriate thresholds vary by age and dysphonia severity, and should compare acoustic measurements with clinical assessments and changes after treatment. In summary, CPPS appears promising as an adjunctive measure, while pitch strength merits further evaluation; neither should currently be used alone to diagnose dysphonia in children.",
+      "mcq": [
+        {
+          "q_ar": "ما المقياس الذي كان أقوى متنبئ بحالة الصوت لدى الأطفال في هذه الدراسة؟",
+          "q_en": "Which measure was the strongest predictor of voice status in this study?",
+          "options_ar": [
+            "أ) CPPS في sustained vowel",
+            "ب) CPPS في connected speech",
+            "ج) pitch strength في sustained vowel",
+            "د) pitch strength في connected speech"
+          ],
+          "options_en": [
+            "A) CPPS on sustained vowel",
+            "B) CPPS on connected speech",
+            "C) Pitch strength on sustained vowel",
+            "D) Pitch strength on connected speech"
+          ],
+          "answer": 0,
+          "explanation_ar": "كان CPPS المقاس على sustained vowel أقوى مؤشر لتمييز الأطفال ذوي اضطراب الصوت عن الأصحاء.",
+          "explanation_en": "CPPS measured on sustained vowels was the strongest predictor distinguishing children with voice disorders from controls."
+        },
+        {
+          "q_ar": "ما القيد الرئيسي الذي حدّ من استخدام العتبات المقترحة للتشخيص؟",
+          "q_en": "What was the main limitation on using the proposed thresholds diagnostically?",
+          "options_ar": [
+            "أ) لم تُجمع عينات connected speech",
+            "ب) كان عدد المشاركين أقل من 10",
+            "ج) وجود تباين كبير داخل المجموعات",
+            "د) لم تُقَس مؤشرات صوتية"
+          ],
+          "options_en": [
+            "A) Connected-speech samples were not collected",
+            "B) Fewer than 10 participants were enrolled",
+            "C) There was substantial within-group variability",
+            "D) Acoustic measures were not assessed"
+          ],
+          "answer": 2,
+          "explanation_ar": "على الرغم من وجود فروق بين المجموعات، حدّ التباين الكبير داخل كل مجموعة من وضع حدود تشخيصية واضحة.",
+          "explanation_en": "Despite group-level differences, substantial variability within groups prevented clear diagnostic cutoffs."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب لتطبيق النتائج في الممارسة الحالية؟",
+          "q_en": "What is the most appropriate conclusion for current clinical practice?",
+          "options_ar": [
+            "أ) استخدام العتبات وحدها لتشخيص dysphonia",
+            "ب) استبدال التقييم السريري بـpitch strength",
+            "ج) تجاهل القياسات الصوتية في تقييم الأطفال",
+            "د) استخدام CPPS كأداة مساعدة، مع عدم اعتباره اختبارًا تشخيصيًا منفردًا"
+          ],
+          "options_en": [
+            "A) Diagnose dysphonia using the thresholds alone",
+            "B) Replace clinical assessment with pitch strength",
+            "C) Avoid acoustic measures in pediatric assessment",
+            "D) Use CPPS as an adjunct, not as a standalone diagnostic test"
+          ],
+          "answer": 3,
+          "explanation_ar": "تدعم النتائج استخدام CPPS للمساعدة في التقييم الموضوعي، لكنها لا تثبت عتبات حاسمة ولا تبرر الاستغناء عن التقييم السريري.",
+          "explanation_en": "The findings support CPPS as an objective adjunct, but do not establish definitive thresholds or justify replacing clinical assessment."
+        }
+      ]
+    },
+    {
+      "pmid": "42988327",
+      "title_ar": "Geographic Disparities in Transsphenoidal Pituitary Surgery in the State of São Paulo, Brazil: An Analysis of the Public Healthcare System.",
+      "title_en": "Geographic Disparities in Transsphenoidal Pituitary Surgery in the State of São Paulo, Brazil: An Analysis of the Public Healthcare System.",
+      "journal": "Neuro-Chirurgie",
+      "pub_date": "2026-Nov-05",
+      "doi": "10.1016/j.neuchi.2026.101895",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42988327/",
+      "pdf_url": "https://doi.org/10.1016/j.neuchi.2026.101895",
+      "study_design": "Retrospective population-level analysis of public healthcare database, 2010–2024; 4,086 surgeries",
+      "summary_ar": "حللت هذه الدراسة retrospectively بيانات 4,086 عملية transsphenoidal hypophysectomy أُجريت ضمن public healthcare system في ولاية São Paulo بين 2010 و2024. بلغ متوسط عدد العمليات السنوي 272، وتركز 68% منها في Region 1. كان متوسط hospital length of stay ‏9.4 أيام، بينما بلغ متوسط ICU stay ‏2.1 يوم، مع اختلافات إقليمية مهمة في مدة الإقامة والتكاليف (p-value <0.001). بلغ متوسط cost لكل hospitalization نحو US$852 وارتفع مع مرور الوقت، في حين كانت overall mortality منخفضة ومستقرة عند 1.1%. أظهرت المراكز ذات الحجم المرتفع تفاوتًا ملحوظًا في healthcare وfinancial indicators. تشير النتائج إلى تفاوت جغرافي واختلاف في استخدام الموارد، لكنها لا تثبت أسباب هذه الفروق أو أثرها في النتائج الفردية للمرضى.",
+      "summary_en": "This retrospective study analyzed 4,086 transsphenoidal hypophysectomies recorded in São Paulo’s public healthcare system from 2010 to 2024. The mean annual volume was 272 procedures, and 68% were concentrated in Region 1. Mean hospital length of stay was 9.4 days, while mean ICU stay was 2.1 days; both measures and costs differed significantly across regions (p<0.001). Mean cost per hospitalization was US$852 and increased over time. Overall mortality was low and stable at 1.1%. High-volume centers also showed considerable variation in healthcare and financial indicators. The findings identify geographic and resource-use disparities but cannot establish their causes or patient-level effects.",
+      "practice_change_ar": "لا تغيّر هذه النتائج الممارسة الجراحية مباشرة، لكنها تدعم مراجعة التفاوت الإقليمي في الوصول إلى transsphenoidal surgery واستخدام الموارد.",
+      "practice_change_en": "These findings do not directly change surgical practice, but support reviewing regional variation in access to transsphenoidal surgery and resource use.",
+      "future_impact_ar": "قد تساعد هذه البيانات في توجيه تخطيط الخدمات وتقييم ما إذا كان توحيد الرعاية يحسن الكفاءة دون التأثير سلبًا في النتائج.",
+      "future_impact_en": "These data may inform service planning and evaluation of whether more standardized care can improve efficiency without compromising outcomes.",
+      "why_important_ar": "توثق الدراسة على مستوى الولاية حجمًا كبيرًا من عمليات transsphenoidal surgery وتكشف تفاوتًا جغرافيًا وماليًا مع بقاء mortality منخفضة.",
+      "why_important_en": "The statewide dataset documents substantial transsphenoidal surgery volume and geographic and financial variation alongside low mortality.",
+      "vs_previous_ar": "تضيف الدراسة وصفًا إقليميًا طويل الأمد لبيانات public healthcare في São Paulo، بدلًا من التركيز على نتائج مركز واحد أو التقنية الجراحية وحدها.",
+      "vs_previous_en": "The study adds a long-term regional overview of São Paulo public healthcare data rather than focusing solely on a single center or surgical technique.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة retrospective واسعة شملت 4,086 عملية وتقدم بيانات مفيدة عن التفاوت الجغرافي والتكاليف، لكن تصميمها القائم على بيانات إدارية وصفية لا يثبت السببية ولا يغير الممارسة مباشرة.",
+      "stars_reason_en": "This large retrospective analysis of 4,086 procedures provides useful information on geographic and cost variation, but its descriptive administrative-data design cannot establish causation or directly change practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study merits discussion because it highlights access and resource-use variation in skull_base surgery and raises questions about service organization and regional outcome comparisons.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات تربط بيانات الإدارة الصحية بخصائص المرضى، indications، تعقيد الحالات، ونتائج وظيفية وجراحية معدلة حسب المخاطر لتفسير التفاوت الإقليمي.",
+      "research_gap_en": "Studies linking administrative records to patient characteristics, indications, case complexity, and risk-adjusted functional and surgical outcomes are needed to explain regional variation.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نراجع اليوم دراسة بعنوان «Geographic Disparities in Transsphenoidal Pituitary Surgery in the State of São Paulo, Brazil»، نُشرت في Neuro-Chirurgie. وهي دراسة retrospective اعتمدت على بيانات public healthcare المتاحة في ولاية São Paulo، وشملت 4,086 عملية transsphenoidal hypophysectomy خلال الفترة من 2010 إلى 2024.\n\nكان متوسط عدد العمليات 272 سنويًا، لكن التوزيع لم يكن متساويًا: تركز 68% من العمليات في Region 1. بلغ متوسط hospital length of stay ‏9.4 أيام، ومتوسط ICU stay ‏2.1 يوم. ظهرت فروق إقليمية ذات دلالة إحصائية في مدة الإقامة والتكاليف، مع p-value أقل من 0.001. وبلغ متوسط cost لكل hospitalization نحو 852 دولارًا أمريكيًا، مع اتجاه تصاعدي عبر فترة الدراسة. في المقابل، ظلت overall mortality منخفضة ومستقرة عند 1.1%. كما أظهرت المراكز ذات الحجم المرتفع اختلافًا ملحوظًا في مؤشرات الرعاية والإنفاق.\n\nما الذي تعنيه هذه النتائج للممارسة؟ لا تقدم الدراسة سببًا مباشرًا لتغيير اختيار التقنية أو تدبير المرضى، ولا تثبت أن حجم المركز يسبب فروقًا في النتائج. لكنها تقدم خريطة مهمة لتوزيع العمليات واستخدام الموارد، وقد تساعد مخططي الخدمات على تقييم الوصول إلى skull_base surgery والكفاءة بين المناطق.\n\nمن نقاط القوة حجم العينة والفترة الزمنية الطويلة والاعتماد على بيانات على مستوى الولاية. أما القيود فتشمل الطبيعة الوصفية للبيانات الإدارية، وعدم توفر تفاصيل كافية عن خصائص المرضى، وindications، وتعقيد الحالات، أو النتائج الفردية المعدلة حسب المخاطر. لذلك لا يمكن تفسير اختلاف length of stay أو ICU stay على أنه اختلاف في جودة الرعاية وحده.\n\nالخلاصة: الدراسة تستحق النقاش في journal club بوصفها دليلًا مفيدًا على التفاوت الجغرافي والمالي، لكنها لا تغير الممارسة اليوم. الخطوة البحثية التالية هي ربط بيانات الخدمات بخصائص المرضى والنتائج الوظيفية والجراحية لتحديد أسباب الفروق وكيفية معالجتها.",
+      "audio_script_en": "Today we review “Geographic Disparities in Transsphenoidal Pituitary Surgery in the State of São Paulo, Brazil,” published in Neuro-Chirurgie. This retrospective analysis used publicly available data from São Paulo’s public healthcare system and included 4,086 transsphenoidal hypophysectomies performed from 2010 through 2024.\n\nThe mean annual procedure volume was 272, but activity was geographically concentrated: 68% of surgeries took place in Region 1. Mean hospital length of stay was 9.4 days, and mean ICU stay was 2.1 days. Regional differences in length of stay and costs were statistically significant, with p<0.001. Mean cost per hospitalization was approximately US$852 and increased over the study period. Overall mortality remained low and stable at 1.1%. The authors also found considerable variation in healthcare and financial indicators among high-volume centers.\n\nWhat does this mean for clinical practice? The study does not provide a reason to change surgical technique or patient management, and it cannot show that center volume causes differences in outcomes. However, it offers a statewide picture of procedure distribution and resource use that could help service planners assess access to skull_base surgery and regional efficiency.\n\nStrengths include the large dataset, long study period, and statewide scope. Important limitations are the descriptive nature of administrative data and the lack of detailed patient characteristics, indications, case complexity, and risk-adjusted individual outcomes. Differences in length of stay or ICU use therefore should not be interpreted as differences in care quality alone.\n\nIn summary, this is a useful journal-club article on geographic and financial variation, but it does not change practice today. Further research should link service data with patient characteristics and functional and surgical outcomes to explain disparities and identify effective responses.",
+      "mcq": [
+        {
+          "q_ar": "كم عدد عمليات transsphenoidal hypophysectomy التي شملها تحليل São Paulo؟",
+          "q_en": "How many transsphenoidal hypophysectomies were included in the São Paulo analysis?",
+          "options_ar": [
+            "أ) 408",
+            "ب) 1,086",
+            "ج) 4,086",
+            "د) 8,406"
+          ],
+          "options_en": [
+            "A) 408",
+            "B) 1,086",
+            "C) 4,086",
+            "D) 8,406"
+          ],
+          "answer": 2,
+          "explanation_ar": "شملت الدراسة 4,086 عملية أُجريت بين 2010 و2024.",
+          "explanation_en": "The study included 4,086 procedures performed from 2010 to 2024."
+        },
+        {
+          "q_ar": "ما نسبة العمليات التي تركزت في Region 1؟",
+          "q_en": "What proportion of procedures was concentrated in Region 1?",
+          "options_ar": [
+            "أ) 28%",
+            "ب) 48%",
+            "ج) 68%",
+            "د) 88%"
+          ],
+          "options_en": [
+            "A) 28%",
+            "B) 48%",
+            "C) 68%",
+            "D) 88%"
+          ],
+          "answer": 2,
+          "explanation_ar": "أُجري 68% من العمليات في Region 1، ما يعكس تركّزًا جغرافيًا واضحًا.",
+          "explanation_en": "Region 1 accounted for 68% of procedures, indicating substantial geographic concentration."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن تطبيق نتائج الدراسة سريريًا؟",
+          "q_en": "What is the most appropriate conclusion about applying these findings clinically?",
+          "options_ar": [
+            "أ) تثبت الدراسة أن زيادة حجم المركز تخفض mortality",
+            "ب) تفرض النتائج تغيير التقنية الجراحية فورًا",
+            "ج) توثق تفاوتًا إقليميًا وماليًا، لكنها لا تثبت أسبابه أو أثره السببي في النتائج",
+            "د) تثبت أن ICU stay الأطول يحسن النتائج"
+          ],
+          "options_en": [
+            "A) The study proves higher center volume reduces mortality",
+            "B) The findings require an immediate change in surgical technique",
+            "C) It documents regional and financial variation but does not establish its causes or causal effect on outcomes",
+            "D) It proves longer ICU stay improves outcomes"
+          ],
+          "answer": 2,
+          "explanation_ar": "التصميم retrospective والبيانات الوصفية تكشف أنماط التفاوت، لكنها لا تثبت السببية ولا تبرر تغييرًا مباشرًا في الممارسة.",
+          "explanation_en": "The retrospective descriptive design identifies patterns of variation but does not establish causation or justify an immediate practice change."
+        }
+      ]
+    },
+    {
+      "pmid": "42984316",
+      "title_ar": "Trans-septal suturing versus intranasal splinting following septoplasty: a systematic review and meta-analysis.",
+      "title_en": "Trans-septal suturing versus intranasal splinting following septoplasty: a systematic review and meta-analysis.",
+      "journal": "The Journal of laryngology and otology",
+      "pub_date": "2026-Nov-05",
+      "doi": "10.1017/S0022215126106185",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42984316/",
+      "pdf_url": null,
+      "study_design": "Systematic review and meta-analysis of 17 comparative studies (n=1502)",
+      "summary_ar": "قارنت هذه systematic review وmeta-analysis بين trans-septal suturing وintranasal splinting بعد septoplasty، وشملت 17 دراسة و1502 مريضًا. لم تظهر فروق ذات دلالة في adhesion أو crust formation أو septal haematoma أو septal perforation أو post-operative bleeding. ارتبط trans-septal suturing بانخفاض post-operative pain (SMD -1.09؛ 95% CI -1.68 إلى -0.49) وانخفاض sleep disturbance (SMD -0.32؛ 95% CI -0.60 إلى -0.05). في المقابل، زاد operative time مع suturing (SMD 0.65؛ 95% CI 0.19 إلى 1.10). وُجدت ميول لانخفاض infection وepiphora مع suturing، لكن الملخص لا يذكر دلالة إحصائية لهذين الناتجين. تشير النتائج إلى حماية متقاربة من المضاعفات الرئيسية مع راحة أفضل بعد الجراحة عند استخدام suturing، مقابل وقت جراحي أطول.",
+      "summary_en": "This systematic review and meta-analysis compared trans-septal suturing with intranasal splinting after septoplasty.\nIt included 17 comparative studies with 1502 patients.\nThere were no significant differences in adhesion, crust formation, septal haematoma, septal perforation, or post-operative bleeding.\nTrans-septal suturing reduced post-operative pain (SMD -1.09; 95% CI -1.68 to -0.49) and sleep disturbance (SMD -0.32; 95% CI -0.60 to -0.05).\nSuturing increased operative time (SMD 0.65; 95% CI 0.19 to 1.10).\nInfection and epiphora tended to be less frequent with suturing, but statistical significance was not specified.\nOverall, major complication protection was comparable, with improved comfort at the cost of longer surgery.",
+      "practice_change_ar": "يمكن تفضيل trans-septal suturing عند ملاءمته للمريض والجراح لتحسين الراحة بعد septoplasty، مع موازنة الزيادة في operative time.",
+      "practice_change_en": "When appropriate for the patient and surgeon, trans-septal suturing can be favored to improve comfort after septoplasty while weighing its increased operative time.",
+      "future_impact_ar": "قد تدعم دراسات عشوائية موحدة مستقبلًا توصيات أوضح بشأن اختيار trans-septal suturing أو intranasal splinting.",
+      "future_impact_en": "Future standardized randomized studies may support clearer recommendations on choosing trans-septal suturing or intranasal splinting.",
+      "why_important_ar": "توضح هذه المراجعة أن تحسين الراحة بعد septoplasty ممكن من دون اختلاف واضح في المضاعفات الرئيسية، مع وجود كلفة زمنية جراحية.",
+      "why_important_en": "This review indicates that comfort after septoplasty may improve without an evident difference in major complications, although operative time increases.",
+      "vs_previous_ar": "تجمع الدراسة الأدلة المقارنة المتاحة وتدعم تكافؤ الطريقتين في المضاعفات الرئيسية، مع أفضلية suturing للألم واضطراب النوم.",
+      "vs_previous_en": "The study synthesizes comparative evidence, supporting similar major-complication outcomes while favoring suturing for pain and sleep disturbance.",
+      "stars": 4,
+      "stars_reason_ar": "تستند الدراسة إلى systematic review وmeta-analysis تضم 17 دراسة و1502 مريض، ما يوفر دليلًا مقارنًا مفيدًا، لكن النتائج لا تفرض تغييرًا عامًا للممارسة وتُوازن بين راحة أفضل ووقت جراحي أطول.",
+      "stars_reason_en": "This systematic review and meta-analysis includes 17 studies and 1502 patients, providing useful comparative evidence; however, it does not mandate a universal practice change and balances better comfort against longer operative time.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسب للنقاش لأنه يقارن خيارين شائعين بعد septoplasty ويعرض موازنة سريرية مباشرة بين راحة المريض وoperative time.",
+      "jc_reason_en": "Suitable for journal club because it compares two common post-septoplasty approaches and presents a direct clinical trade-off between patient comfort and operative time.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تلزم دراسات مستقبلية عالية الجودة بمتابعة موحدة لتحديد أثر اختلاف تقنيات suturing وخصائص المرضى على النتائج والمضاعفات.",
+      "research_gap_en": "High-quality future studies with standardized follow-up are needed to determine how variations in suturing techniques and patient characteristics affect outcomes and complications.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم systematic review وmeta-analysis تقارن بين trans-septal suturing وintranasal splinting بعد septoplasty. شملت المراجعة 17 دراسة مقارنة تضم 1502 مريض، ولذلك تقدم خلاصة واسعة نسبيًا للأدلة المتاحة. السؤال العملي هو: هل يحقق suturing حماية مماثلة للمضاعفات، وهل يخفف العبء على المريض بعد العملية؟\n\nلم تجد الدراسة فروقًا ذات دلالة بين الطريقتين في adhesion أو crust formation أو septal haematoma أو septal perforation أو post-operative bleeding. في المقابل، كان post-operative pain أقل مع trans-septal suturing، مع SMD قدره -1.09 و95% CI من -1.68 إلى -0.49. كما انخفض sleep disturbance بدرجة أقل، إذ بلغ SMD -0.32 و95% CI من -0.60 إلى -0.05. أما الكلفة العملية فهي زيادة operative time مع suturing، وبلغ SMD 0.65 و95% CI من 0.19 إلى 1.10. كذلك مالت infection وepiphora إلى أن تكون أقل مع suturing، لكن الملخص لا يوضح دلالة إحصائية لهذه الملاحظة.\n\nالخلاصة أن الطريقتين توفران حماية متقاربة من المضاعفات الرئيسية، بينما يبدو أن suturing يحسن الراحة بعد الجراحة على حساب وقت أطول في غرفة العمليات. لا تفرض النتائج تغييرًا موحدًا للممارسة؛ بل يمكن اختيار suturing عندما تكون راحة المريض أولوية ويكون الوقت الإضافي مقبولًا، مع مراعاة خبرة الجراح والسياق السريري. تصنيفنا أربع نجوم وثقتنا متوسطة: حجم المراجعة مهم والنتيجة مفيدة، لكنها لا تحسم اختيارًا واحدًا لكل المرضى. ومن أبرز نقاط البحث المستقبلية إجراء دراسات عالية الجودة بتعريفات وطرق متابعة موحدة، مع تقييم اختلاف تقنيات suturing وخصائص المرضى.",
+      "audio_script_en": "Today we are reviewing a systematic review and meta-analysis comparing trans-septal suturing with intranasal splinting after septoplasty. It included 17 comparative studies and 1502 patients, providing a substantial summary of the available comparative evidence. The practical question is whether suturing offers comparable protection from complications while improving the patient’s postoperative experience.\n\nThe analysis found no significant differences between techniques in adhesion, crust formation, septal haematoma, septal perforation, or post-operative bleeding. Trans-septal suturing was associated with less post-operative pain, with an SMD of -1.09 and a 95% CI from -1.68 to -0.49. Sleep disturbance was also reduced, with an SMD of -0.32 and a 95% CI from -0.60 to -0.05. The trade-off was increased operative time with suturing: SMD 0.65, 95% CI 0.19 to 1.10. Infection and epiphora tended to be less frequent with suturing, although the abstract does not report whether those differences were statistically significant.\n\nThe main takeaway is that both approaches appear to provide similar protection against major complications, while suturing may improve postoperative comfort at the cost of a longer operation. These findings do not mandate a universal change in practice. Suturing may be a reasonable choice when patient comfort is prioritized and the additional operative time is acceptable, taking surgeon experience and clinical context into account. We rate the article four stars with medium confidence: the review is sizable and clinically useful, but it does not establish one best approach for every patient. Future high-quality studies using standardized definitions and follow-up should assess how patient characteristics and variations in suturing technique influence outcomes.",
+      "mcq": [
+        {
+          "q_ar": "كم عدد الدراسات والمرضى الذين شملتهم هذه systematic review وmeta-analysis؟",
+          "q_en": "How many studies and patients were included in this systematic review and meta-analysis?",
+          "options_ar": [
+            "أ) 17 دراسة و1502 مريض",
+            "ب) 12 دراسة و500 مريض",
+            "ج) 20 دراسة و2000 مريض",
+            "د) 5 دراسات و150 مريضًا"
+          ],
+          "options_en": [
+            "A) 17 studies and 1502 patients",
+            "B) 12 studies and 500 patients",
+            "C) 20 studies and 2000 patients",
+            "D) 5 studies and 150 patients"
+          ],
+          "answer": 0,
+          "explanation_ar": "شملت المراجعة 17 دراسة مقارنة و1502 مريض.",
+          "explanation_en": "The review included 17 comparative studies and 1502 patients."
+        },
+        {
+          "q_ar": "ما النتيجة التي تحسنت مع trans-septal suturing مقارنةً بـ intranasal splinting؟",
+          "q_en": "Which outcome improved with trans-septal suturing compared with intranasal splinting?",
+          "options_ar": [
+            "أ) Septal perforation",
+            "ب) Post-operative pain",
+            "ج) Post-operative bleeding",
+            "د) Septal haematoma"
+          ],
+          "options_en": [
+            "A) Septal perforation",
+            "B) Post-operative pain",
+            "C) Post-operative bleeding",
+            "D) Septal haematoma"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتبط trans-septal suturing بانخفاض post-operative pain، بينما لم تختلف المضاعفات الرئيسية الأخرى بشكل ذي دلالة.",
+          "explanation_en": "Trans-septal suturing reduced post-operative pain, while the other major complications did not differ significantly."
+        },
+        {
+          "q_ar": "ما أبرز المقايضة المرتبطة بـ trans-septal suturing في هذه الدراسة؟",
+          "q_en": "What was the main trade-off associated with trans-septal suturing in this review?",
+          "options_ar": [
+            "أ) زيادة operative time",
+            "ب) زيادة septal perforation",
+            "ج) زيادة post-operative bleeding",
+            "د) زيادة sleep disturbance"
+          ],
+          "options_en": [
+            "A) Increased operative time",
+            "B) Increased septal perforation",
+            "C) Increased post-operative bleeding",
+            "D) Increased sleep disturbance"
+          ],
+          "answer": 0,
+          "explanation_ar": "حسّن suturing بعض جوانب الراحة، لكنه ارتبط بزيادة operative time.",
+          "explanation_en": "Suturing improved aspects of comfort but was associated with increased operative time."
+        }
+      ]
+    },
+    {
+      "pmid": "42989039",
+      "title_ar": "A prospective study of acoustic voice analysis and 24-h pH-metry for detecting gastroesophageal reflux disease in idiopathic hoarseness.",
+      "title_en": "A prospective study of acoustic voice analysis and 24-h pH-metry for detecting gastroesophageal reflux disease in idiopathic hoarseness.",
+      "journal": "Indian journal of gastroenterology : official journal of the Indian Society of Gastroenterology",
+      "pub_date": "2026-Nov-05",
+      "doi": "10.1007/s12664-026-02045-w",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42989039/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort n=40",
+      "summary_ar": "هدفت هذه الدراسة prospective إلى تحديد prevalence of GERD لدى مرضى idiopathic hoarseness ودراسة ارتباطه بخصائص الصوت. من أصل 242 مريضًا جرى فحصهم، خضع 40 مريضًا لتقييم شمل video laryngoscopy وacoustic voice analysis وesophagogastroduodenoscopy وesophageal manometry و24-h impedance pH-metry. شُخّص GERD لدى 25 مريضًا (62.5%) وفق معايير تضمنت esophagitis أو Barrett's esophagus أو abnormal acid exposure time وDeMeester scores. ارتبط GERD بوجود erosive esophagitis وارتفاع reflux symptom index، كما كانت قيم jitter وshimmer وnoise-to-harmonics ratio أعلى لدى المصابين. كانت هذه الارتباطات univariate وغير معدّلة، ولا تثبت أن GERD هو سبب تغيرات الصوت أو أن القياسات تشخّصه بدقة. لذا تُعد acoustic voice analysis أداة واعدة مساعدة، لكن يلزم إجراء دراسات أكبر ومضبوطة قبل اعتمادها سريريًا.",
+      "summary_en": "This prospective study assessed GERD prevalence and acoustic voice measures in patients with idiopathic hoarseness. Of 242 patients screened, 40 underwent video laryngoscopy, acoustic voice analysis, esophagogastroduodenoscopy, esophageal manometry, and 24-hour impedance pH monitoring. GERD was diagnosed in 25 patients (62.5%) using criteria including esophagitis, Barrett's esophagus, abnormal acid exposure time, or DeMeester scores. GERD was associated with erosive esophagitis and higher reflux symptom index scores; jitter, shimmer, and noise-to-harmonics ratio were also higher in affected patients. These were unadjusted univariate associations and do not establish causality or diagnostic accuracy. Acoustic voice analysis may be a useful adjunct, but larger controlled studies are needed before clinical adoption.",
+      "practice_change_ar": "لا تغيّر هذه النتائج الممارسة حاليًا؛ فلا ينبغي استخدام acoustic voice analysis وحده لتشخيص GERD أو توجيه العلاج لدى مرضى hoarseness.",
+      "practice_change_en": "These findings do not change practice today; acoustic voice analysis should not be used alone to diagnose GERD or guide treatment in patients with hoarseness.",
+      "future_impact_ar": "قد تساعد دراسات أكبر ومضبوطة على تحديد ما إذا كانت acoustic voice parameters تضيف قيمة تشخيصية مستقلة إلى تقييم GERD لدى مرضى hoarseness.",
+      "future_impact_en": "Larger controlled studies may determine whether acoustic voice parameters add independent diagnostic value to GERD evaluation in patients with hoarseness.",
+      "why_important_ar": "تلفت الدراسة الانتباه إلى احتمال وجود مؤشرات صوتية قابلة للقياس لدى بعض مرضى idiopathic hoarseness المصابين بـ GERD.",
+      "why_important_en": "The study draws attention to potentially measurable voice changes in some patients with idiopathic hoarseness and GERD.",
+      "vs_previous_ar": "تضيف الدراسة قياسات acoustic voice analysis إلى تقييم GERD الموضوعي، لكنها لا تثبت أنها تتفوق على وسائل التشخيص المعتمدة أو تحل محلها.",
+      "vs_previous_en": "The study adds acoustic voice measures to objective GERD evaluation but does not show that they outperform or replace established diagnostic methods.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة prospective صغيرة شملت 40 مريضًا، وتقدم ارتباطات مثيرة للاهتمام بين GERD وacoustic voice parameters، لكن التحليل غير معدّل ولا يثبت دقة تشخيصية أو يغيّر الممارسة؛ لذا تستحق المعرفة دون دليل كافٍ لتغيير الرعاية.",
+      "stars_reason_en": "This small prospective study of 40 patients reports interesting associations between GERD and acoustic voice parameters, but the analyses are unadjusted and establish neither diagnostic accuracy nor a practice-changing role.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for discussion of GERD assessment in hoarseness, particularly the small sample, univariate associations, and lack of evidence for incremental diagnostic value.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج الأبحاث إلى عينات أكبر ومجموعات مقارنة وتحليل متعدد المتغيرات لتقييم الحساسية والنوعية والقيمة الإضافية لـ acoustic voice analysis.",
+      "research_gap_en": "Larger studies with comparison groups and multivariable analyses are needed to assess the sensitivity, specificity, and incremental value of acoustic voice analysis.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة prospective تبحث في العلاقة بين GERD وidiopathic hoarseness، وتسأل تحديدًا ما إذا كانت acoustic voice analysis قد تساعد في الكشف عن GERD. شملت الدراسة 242 مريضًا خضعوا للفحص الأولي، ثم اختير 40 مريضًا لديهم idiopathic hoarseness لإجراء تقييم تفصيلي. تضمن التقييم video laryngoscopy، وacoustic voice analysis، وesophagogastroduodenoscopy، وesophageal manometry، إضافة إلى 24-h impedance pH-metry.\n\nشُخّص GERD لدى 25 من أصل 40 مريضًا، أي بنسبة 62.5%. استند التشخيص إلى نتائج مثل erosive esophagitis أو Barrett's esophagus أو abnormal acid exposure time وDeMeester scores. ارتبط التشخيص بوجود erosive esophagitis وارتفاع reflux symptom index. والأهم من ناحية laryngology، أظهر المرضى المصابون بـ GERD ارتفاعًا في absolute jitter وjitter percentage وshimmer percentage وnoise-to-harmonics ratio مقارنة بغير المصابين.\n\nلكن يجب تفسير هذه النتائج بحذر. الدراسة صغيرة، والعينة منتقاة من مرضى idiopathic hoarseness، كما أن الارتباطات كانت univariate وغير معدّلة. لذلك لا نستطيع استنتاج أن GERD تسبب التغيرات الصوتية، ولا نعرف من هذه البيانات مدى حساسية أو نوعية acoustic voice analysis، أو ما إذا كانت تضيف معلومات مستقلة إلى الاختبارات القائمة.\n\nالخلاصة العملية أن الدراسة لا تبرر تغيير الممارسة الحالية، ولا ينبغي استخدام acoustic voice analysis وحدها لتشخيص GERD أو بدء العلاج. لكنها تقدم فرضية مفيدة: قد تحمل قياسات الصوت الموضوعية مؤشرات مرتبطة بالارتجاع لدى بعض مرضى hoarseness. الخطوة التالية هي دراسات أكبر ومضبوطة، مع تحليل متعدد المتغيرات وتقييم القيمة التشخيصية الإضافية لهذه القياسات.",
+      "audio_script_en": "Today’s study examines whether GERD is associated with idiopathic hoarseness and whether acoustic voice analysis might help identify reflux. Investigators screened 242 patients and selected 40 with idiopathic hoarseness for detailed evaluation. Testing included video laryngoscopy, acoustic voice analysis, esophagogastroduodenoscopy, esophageal manometry, and 24-hour impedance pH monitoring.\n\nGERD was diagnosed in 25 of the 40 patients, or 62.5%. Diagnostic criteria included findings such as erosive esophagitis, Barrett’s esophagus, abnormal acid exposure time, and DeMeester scores. GERD was associated with erosive esophagitis and higher reflux symptom index scores. Of particular interest for laryngology, patients with GERD had higher absolute jitter, jitter percentage, shimmer percentage, and noise-to-harmonics ratio than patients without GERD.\n\nThese findings need cautious interpretation. The cohort was small and highly selected, and the reported associations were univariate and unadjusted. The study therefore cannot establish that GERD caused the voice changes. It also does not provide sufficient evidence about the sensitivity, specificity, or incremental diagnostic value of acoustic voice analysis compared with established tests.\n\nThe practical takeaway is that this study does not justify changing current practice. Acoustic voice analysis should not be used by itself to diagnose GERD or determine treatment. However, the results support a useful research hypothesis: objective voice measures may reflect reflux-associated vocal changes in some patients with hoarseness. Larger controlled studies, with multivariable adjustment and formal diagnostic performance measures, are needed to determine whether these parameters add meaningful information to clinical assessment.",
+      "mcq": [
+        {
+          "q_ar": "كم كانت نسبة المرضى الذين شُخّص لديهم GERD في العينة المختارة؟",
+          "q_en": "What proportion of the selected cohort was diagnosed with GERD?",
+          "options_ar": [
+            "أ) 25%",
+            "ب) 40%",
+            "ج) 62.5%",
+            "د) 80%"
+          ],
+          "options_en": [
+            "A) 25%",
+            "B) 40%",
+            "C) 62.5%",
+            "D) 80%"
+          ],
+          "answer": 2,
+          "explanation_ar": "شُخّص GERD لدى 25 من أصل 40 مريضًا، أي 62.5%.",
+          "explanation_en": "GERD was diagnosed in 25 of 40 patients, corresponding to 62.5%."
+        },
+        {
+          "q_ar": "أي مجموعة من acoustic voice parameters كانت أعلى لدى المرضى المصابين بـ GERD؟",
+          "q_en": "Which acoustic voice parameters were higher in patients with GERD?",
+          "options_ar": [
+            "أ) Jitter وshimmer وnoise-to-harmonics ratio",
+            "ب) Fundamental frequency فقط",
+            "ج) Maximum phonation time فقط",
+            "د) لا توجد اختلافات في acoustic voice parameters"
+          ],
+          "options_en": [
+            "A) Jitter, shimmer, and noise-to-harmonics ratio",
+            "B) Fundamental frequency only",
+            "C) Maximum phonation time only",
+            "D) No acoustic voice parameters differed"
+          ],
+          "answer": 0,
+          "explanation_ar": "أظهر المصابون بـ GERD ارتفاعًا في jitter وshimmer percentage وnoise-to-harmonics ratio.",
+          "explanation_en": "Patients with GERD had higher jitter, shimmer percentage, and noise-to-harmonics ratio."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن استخدام acoustic voice analysis في الممارسة الحالية؟",
+          "q_en": "What is the most appropriate conclusion about using acoustic voice analysis in current practice?",
+          "options_ar": [
+            "أ) تكفي وحدها لتشخيص GERD",
+            "ب) تثبت أن GERD هو سبب hoarseness",
+            "ج) قد تكون أداة مساعدة، لكن يلزم التحقق منها بدراسات أكبر",
+            "د) ينبغي أن تحل محل 24-h impedance pH-metry"
+          ],
+          "options_en": [
+            "A) It is sufficient on its own to diagnose GERD",
+            "B) It proves GERD causes hoarseness",
+            "C) It may be an adjunct, but requires validation in larger studies",
+            "D) It should replace 24-hour impedance pH monitoring"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة أظهرت ارتباطات univariate في عينة صغيرة، ولم تثبت الدقة التشخيصية أو السببية.",
+          "explanation_en": "The small study found univariate associations but did not establish diagnostic accuracy or causality."
+        }
+      ]
+    },
+    {
+      "pmid": "42992559",
+      "title_ar": "Simulation Training in Functional Endoscopic Sinus Surgery: A Scoping Review.",
+      "title_en": "Simulation Training in Functional Endoscopic Sinus Surgery: A Scoping Review.",
+      "journal": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+      "pub_date": "2026-Nov-06",
+      "doi": "10.1002/ohn.70511",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42992559/",
+      "pdf_url": null,
+      "study_design": "Scoping review of 45 studies",
+      "summary_ar": "هدفت هذه scoping review إلى تلخيص الأدلة حول simulation training في functional endoscopic sinus surgery وتحديد الممارسات التدريبية الأفضل. بحث الباحثون في PubMed وEmbase وCochrane عن الدراسات المنشورة بين نوفمبر 1998 ومايو 2025، واستخدموا PRISMA لاختيار الدراسات. شملت المراجعة 45 دراسة من أصل 298 دراسة عُثر عليها في البحث الأولي. كان task trainer أكثر أنواع simulation استخدامًا، وكان معظم هذه النماذج مطبوعًا بتقنية 3D printing. تفاوتت outcome measures بين الدراسات، وكان قياس السرعة والأداء التقني العام شائعًا، لكن أقل من نصف الدراسات استخدمت أدوات تقييم validated. خلصت المراجعة إلى أن 3D-printed task trainers هي المنصة الأكثر قابلية للتبني حاليًا، مع الحاجة إلى standardization لتحسين مقارنة النتائج وتحديد أهداف مناسبة لمستويات المتدربين.",
+      "summary_en": "This scoping review synthesized literature on simulation training for functional endoscopic sinus surgery and sought to identify best practices.\nThe authors searched PubMed, Embase, and Cochrane for studies published from November 1998 through May 2025.\nOf 298 initially identified studies, 45 met the inclusion criteria.\nTask trainers were the most commonly used simulation type, and most were 3D-printed models.\nOutcome measures varied; speed and global technical performance were frequently reported, while fewer than half of studies used validated assessment tools.\nThe authors identify 3D-printed task trainers as the most widely adoptable current platform and call for greater standardization.",
+      "practice_change_ar": "لا تفرض المراجعة تغييرًا فوريًا في الرعاية، لكنها تدعم استخدام 3D-printed task trainers عند إدخال simulation training في برامج FESS.",
+      "practice_change_en": "The review does not mandate an immediate change in care, but supports using 3D-printed task trainers when incorporating simulation training into FESS programs.",
+      "future_impact_ar": "قد يتيح standardization لنماذج التدريب ومقاييس التقييم مقارنة النتائج وتحديد أهداف كفاءة مرتبطة بمستوى المتدرب.",
+      "future_impact_en": "Standardizing training models and assessment measures could enable comparable outcomes and proficiency goals tailored to trainee level.",
+      "why_important_ar": "توضح المراجعة أن أدوات التدريب متاحة، لكن تفاوت المقاييس وقلة استخدام أدوات validated يحدان من تقييم أثرها ومقارنتها.",
+      "why_important_en": "The review shows that simulation platforms are available, but inconsistent measures and limited use of validated tools constrain evaluation and comparison.",
+      "vs_previous_ar": "بدلًا من تقديم تدخل سريري جديد، تجمع هذه المراجعة الأدبيات المتفرقة وتبرز 3D-printed task trainers كخيار عملي مع تحديد فجوات standardization.",
+      "vs_previous_en": "Rather than introducing a new clinical intervention, this review synthesizes scattered evidence, highlights 3D-printed task trainers as a practical option, and identifies standardization gaps.",
+      "stars": 4,
+      "stars_reason_ar": "هذه scoping review شملت 45 دراسة ونُشرت في مجلة رفيعة المستوى؛ تقدم معرفة مفيدة عن منصات المحاكاة وفجوات التقييم، لكنها لا تثبت تغييرًا فوريًا للممارسة.",
+      "stars_reason_en": "This scoping review includes 45 studies and appears in a high-tier journal; it offers useful information on simulation platforms and assessment gaps but does not establish an immediate practice change.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق النقاش لأنها تلخص خيارات simulation training في FESS وتكشف تفاوت outcome measures ومحدودية استخدام أدوات validated، وهي قضايا مهمة لتصميم برامج تدريب قابلة للتقييم.",
+      "jc_reason_en": "It merits discussion because it summarizes FESS simulation options and highlights variable outcome measures and limited use of validated tools—key issues when designing evaluable training programs.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا تطور 3D-printed task trainers، إذ تبرزها المراجعة كمنصة قابلة للتوسع وذات cost مناسب مع دليل على construct validity.",
+      "watch_detail_en": "Track 3D-printed task trainers, which the review identifies as a scalable, cost-conscious platform with evidence of construct validity.",
+      "watch_type": "technology",
+      "research_gap_ar": "تحتاج الدراسات المستقبلية إلى outcome measures موحدة وvalidated، وإلى ربط نتائج المحاكاة بالأداء الجراحي الفعلي ومستوى كفاءة المتدرب.",
+      "research_gap_en": "Future studies need standardized, validated outcome measures and should relate simulation results to actual surgical performance and trainee proficiency.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم مقالًا بعنوان «Simulation Training in Functional Endoscopic Sinus Surgery: A Scoping Review»، نُشر في مجلة Otolaryngology–Head and Neck Surgery. هذه scoping review تناولت استخدام simulation training لتعليم functional endoscopic sinus surgery، أو FESS، حيث تجعل درجة تعقيد الحالات بيئة التدريب المحاكية ذات أهمية خاصة.\n\nبحث المؤلفون في PubMed وEmbase وCochrane عن الدراسات المنشورة بين نوفمبر 1998 ومايو 2025، واختيرت الدراسات وفق PRISMA. من أصل 298 دراسة في البحث الأولي، استوفت 45 دراسة معايير الإدراج. كان task trainer أكثر أنواع المحاكاة شيوعًا، ومعظم هذه النماذج صُنعت باستخدام 3D printing. أما تقييم النتائج، فتفاوت كثيرًا؛ إذ قاست دراسات عديدة السرعة والأداء التقني العام، بينما استخدم أقل من نصف الدراسات أدوات تقييم validated.\n\nبحسب المؤلفين، تمثل 3D-printed task trainers حاليًا المنصة الأكثر قابلية للتبني على نطاق واسع، استنادًا إلى التكلفة وقابلية التوسع ووجود دليل على construct validity. ومع ذلك، لا تثبت هذه المراجعة أن المحاكاة تحسن نتائج المرضى أو تفرض تغييرًا فوريًا في الممارسة السريرية. لذلك فالثقة متوسطة، والمقال مفيد للمدربين وبرامج الإقامة أكثر من كونه توجيهًا سريريًا مباشرًا.\n\nالنقطة الأساسية للنقاش هي standardization: اختلاف النماذج ومقاييس التقييم يصعّب مقارنة الدراسات ووضع توقعات واضحة لكل مستوى تدريبي. ينبغي أن تستخدم الأبحاث القادمة أدوات تقييم موحدة وvalidated، وأن تبحث فيما إذا كان الأداء في المحاكاة يتنبأ بالأداء الجراحي الفعلي. يستحق المقال النقاش لأنه يعرض التقنية المتاحة حاليًا ويحدد بوضوح ما يلزم لإثبات فائدتها التعليمية. كما يجدر متابعة تطور 3D-printed task trainers بوصفها تقنية واعدة للتدريب القابل للتوسع.",
+      "audio_script_en": "Today we are reviewing “Simulation Training in Functional Endoscopic Sinus Surgery: A Scoping Review,” published in Otolaryngology–Head and Neck Surgery. This scoping review examines simulation training for functional endoscopic sinus surgery, or FESS, where procedural complexity makes a controlled training environment particularly relevant.\n\nThe authors searched PubMed, Embase, and Cochrane for studies published between November 1998 and May 2025, selecting articles using the PRISMA protocol. Of 298 records identified initially, 45 studies met the inclusion criteria. Task trainers were the most common simulation type, and most of these models were produced using 3D printing. Outcome measures varied substantially: speed and global technical performance were often assessed, but fewer than half of the studies used validated assessment tools.\n\nThe authors conclude that 3D-printed task trainers are currently the most widely adoptable platform, considering cost, scalability, and evidence of construct validity. However, this review does not establish that simulation improves patient outcomes or requires an immediate change in clinical practice. Confidence is therefore moderate: the findings are useful for educators and residency programs, rather than a direct clinical mandate.\n\nThe central issue for discussion is standardization. Differences in models and assessment measures make studies difficult to compare and hinder the creation of clear expectations for trainees at different levels. Future research should use standardized, validated measures and determine whether simulation performance predicts real-world surgical performance. This article merits journal-club discussion because it maps the available technology and clearly identifies what is needed to demonstrate educational value. 3D-printed task trainers are also worth tracking as a promising, scalable training technology.",
+      "mcq": [
+        {
+          "q_ar": "كم دراسة أُدرجت في هذه scoping review؟",
+          "q_en": "How many studies were included in this scoping review?",
+          "options_ar": [
+            "أ) 15",
+            "ب) 45",
+            "ج) 98",
+            "د) 298"
+          ],
+          "options_en": [
+            "A) 15",
+            "B) 45",
+            "C) 98",
+            "D) 298"
+          ],
+          "answer": 1,
+          "explanation_ar": "استوفت 45 دراسة معايير الإدراج من أصل 298 دراسة حُددت في البحث الأولي.",
+          "explanation_en": "Forty-five studies met the inclusion criteria out of 298 initially identified."
+        },
+        {
+          "q_ar": "ما أكثر أنواع simulation استخدامًا في الدراسات المشمولة؟",
+          "q_en": "Which simulation type was most commonly used in the included studies?",
+          "options_ar": [
+            "أ) Virtual reality platforms",
+            "ب) Cadaveric dissection",
+            "ج) Task trainers، ومعظمها 3D-printed",
+            "د) Animal models"
+          ],
+          "options_en": [
+            "A) Virtual reality platforms",
+            "B) Cadaveric dissection",
+            "C) Task trainers, most of them 3D-printed",
+            "D) Animal models"
+          ],
+          "answer": 2,
+          "explanation_ar": "كان task trainer أكثر أنواع المحاكاة شيوعًا، وكان معظمها مصنوعًا بتقنية 3D printing.",
+          "explanation_en": "Task trainers were the most popular simulation type, and most were 3D-printed."
+        },
+        {
+          "q_ar": "ما إحدى أبرز فجوات الأدلة التي حددتها المراجعة؟",
+          "q_en": "What is one major evidence gap identified by the review?",
+          "options_ar": [
+            "أ) عدم وجود أي نماذج simulation",
+            "ب) استخدام أقل من نصف الدراسات أدوات تقييم validated",
+            "ج) اقتصار جميع الدراسات على RCT",
+            "د) عدم قياس السرعة أو الأداء التقني"
+          ],
+          "options_en": [
+            "A) No simulation models exist",
+            "B) Fewer than half of studies used validated assessment tools",
+            "C) All studies were RCTs",
+            "D) Speed and technical performance were never measured"
+          ],
+          "answer": 1,
+          "explanation_ar": "استخدم أقل من نصف الدراسات أدوات تقييم validated، مع تفاوت واسع في outcome measures.",
+          "explanation_en": "Fewer than half of the studies used validated assessment tools, and outcome measures varied widely."
+        }
+      ]
+    },
+    {
+      "pmid": "42993676",
+      "title_ar": "The Horizontal Split Technique for Posterior Pharyngeal Flap Surgery: Speech and Airway Outcomes in 220 Patients.",
+      "title_en": "The Horizontal Split Technique for Posterior Pharyngeal Flap Surgery: Speech and Airway Outcomes in 220 Patients.",
+      "journal": "The Cleft palate-craniofacial journal : official publication of the American Cleft Palate-Craniofacial Association",
+      "pub_date": "2026-Nov-06",
+      "doi": "10.1177/10556656261503713",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42993676/",
+      "pdf_url": null,
+      "study_design": "Retrospective case series n=220",
+      "summary_ar": "راجعت هذه الدراسة بأثر رجعي نتائج posterior pharyngeal flap باستخدام horizontal split inset technique لدى 220 مريضًا بعمر 4–21 سنة مصابين بـ velopharyngeal dysfunction. تحسّن resonance لدى 95% من المرضى، ووصلت النتيجة إلى mild أو no hypernasality لدى 89%. انخفض median nasalance من 42 قبل العملية إلى 18 بعدها. من بين 137 مريضًا خضعوا لـ polysomnography بعد العملية، كان لدى 18 مريضًا AHI ≥5، وخضع مريضان لديهما تشخيصات syndromic لـ flap takedown. احتاج 10 مرضى إلى revisional VPD surgery، وارتبط 22qDS وnon-cleft VPD بزيادة احتمال residual hypernasality الذي يستدعي مراجعة جراحية. تدعم النتائج تحسن الكلام مع احتمال منخفض لإزالة flap بسبب OSA، لكنها تؤكد ضرورة airway monitoring طويل الأمد.",
+      "summary_en": "This 10-year retrospective series evaluated the horizontal split inset technique for posterior pharyngeal flap surgery in 220 patients aged 4–21 years with VPD.\nResonance improved in 95%, and 89% had mild or no hypernasality.\nMedian nasalance decreased from 42 preoperatively to 18 postoperatively.\nAmong 137 patients who had postoperative polysomnography, 18 had an AHI ≥5; two syndromic patients underwent flap takedown.\nTen patients required revisional VPD surgery, with 22qDS and non-cleft VPD associated with greater risk of residual hypernasality requiring revision.\nThe authors report a low risk of flap takedown for OSA but emphasize long-term airway monitoring.",
+      "practice_change_ar": "لا تغيّر هذه النتائج الاختيار الجراحي الحالي، لكنها تدعم استخدام التقنية مع توضيح احتمال الحاجة إلى revisional surgery ومتابعة airway بعد العملية.",
+      "practice_change_en": "These findings do not change current procedure selection, but support this technique while reinforcing counseling about revision risk and postoperative airway monitoring.",
+      "future_impact_ar": "قد تساعد دراسات متعددة المراكز ذات متابعة موحدة لـ speech وOSA في تحديد المرضى الأكثر عرضة للمضاعفات أو الحاجة إلى مراجعة جراحية.",
+      "future_impact_en": "Multicenter studies with standardized speech and OSA follow-up could clarify which patients are most likely to experience complications or require revision.",
+      "why_important_ar": "توفر هذه السلسلة الكبيرة بيانات سريرية عن speech وairway outcomes بعد تقنية PPF محددة لدى مرضى syndromic وnon-syndromic.",
+      "why_important_en": "This large series provides clinical speech and airway outcome data for a specific PPF technique in syndromic and non-syndromic patients.",
+      "vs_previous_ar": "تضيف الدراسة نتائج سلسلة كبيرة للتقنية ذات horizontal split، لكنها لا تقارنها مباشرةً بتقنيات PPF الأخرى.",
+      "vs_previous_en": "The study adds outcomes from a large series using the horizontal split technique, but does not directly compare it with other PPF techniques.",
+      "stars": 4,
+      "stars_reason_ar": "سلسلة استعادية كبيرة من 220 مريضًا وتقنية جراحية محددة مع نتائج سريرية مفيدة؛ لكن غياب مجموعة مقارنة وتصميم مركز واحد يحدّان من قوة الاستنتاج.",
+      "stars_reason_en": "A large retrospective series of 220 patients reports useful outcomes for a specific surgical technique, although the single-center design and lack of a comparator limit the strength of inference.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Worth discussing to weigh speech improvement against airway risks and assess the generalizability of the results and predictors of revision.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج التقنية إلى مقارنة مستقبلية متعددة المراكز مع تقنيات PPF الأخرى، وقياس موحد وطويل الأمد لـ speech وOSA.",
+      "research_gap_en": "The technique needs prospective multicenter comparison with other PPF approaches and standardized long-term assessment of speech and OSA.",
+      "subspecialty": "pediatric",
+      "audio_script_ar": "نستعرض اليوم دراسة عن posterior pharyngeal flap surgery لعلاج velopharyngeal dysfunction، أو VPD، لدى الأطفال واليافعين. الدراسة مراجعة استعادية لعشر سنوات في مركز أطفال تخصصي، وشملت 220 مريضًا بعمر 4 إلى 21 سنة، أُجريت لهم الجراحة باستخدام horizontal split inset technique على يد جراحين اثنين.\n\nمن ناحية النتائج، تحسّن resonance لدى 95% من المرضى، ووصل 89% إلى mild أو no hypernasality. كما انخفض median nasalance من 42 قبل الجراحة إلى 18 بعدها. هذه نتائج مشجعة على صعيد speech، لكنها ليست مقارنة مباشرة مع تقنية أخرى، ولذلك لا تثبت تفوق هذه الطريقة على البدائل.\n\nأما airway، فقد توفرت نتائج postoperative polysomnography لدى 137 مريضًا. كان لدى 18 منهم AHI يبلغ 5 أو أكثر، وخضع مريضان لديهما تشخيصات syndromic لـ flap takedown. إجمالًا، احتاج 10 مرضى إلى revisional VPD surgery. وأشارت الدراسة إلى أن المرضى المصابين بـ 22q11.2 deletion syndrome، أو 22qDS، والمرضى ذوي non-cleft VPD قد يكونون أكثر عرضة لـ residual hypernasality والحاجة إلى مراجعة.\n\nأهمية الدراسة أنها تقدم سلسلة كبيرة بنتائج speech وairway لتقنية جراحية محددة، مع إشارة إلى أن flap takedown بسبب OSA كان نادرًا. لكنها دراسة استعادية من مركز واحد، ولا تتضمن مجموعة مقارنة، كما أن نتائج polysomnography لم تكن متاحة لكل المرضى. لذلك تُصنّف كدليل مفيد للمعرفة، لا كدليل يغيّر الممارسة وحده.\n\nعمليًا، تدعم النتائج مناقشة هذه التقنية مع المرضى المناسبين، مع وضع توقعات واضحة بشأن احتمال revisional surgery ومتابعة airway على المدى الطويل. وتبقى الحاجة قائمة إلى دراسات مستقبلية متعددة المراكز تقارن تقنيات PPF وتستخدم متابعة موحدة لـ speech وOSA، خصوصًا لدى 22qDS وnon-cleft VPD.",
+      "audio_script_en": "Today’s article reviews posterior pharyngeal flap surgery for velopharyngeal dysfunction, or VPD, using a horizontal split inset technique. This was a 10-year retrospective review at a tertiary pediatric institution. It included 220 patients aged 4 to 21 years, with surgery performed by two surgeons.\n\nSpeech outcomes were favorable: resonance improved in 95% of patients, and 89% achieved mild or no hypernasality. Median nasalance decreased from 42 preoperatively to 18 postoperatively. These results support meaningful speech improvement, although the study does not directly compare this technique with other surgical approaches and therefore cannot establish superiority.\n\nAirway outcomes were assessed with postoperative polysomnography in 137 patients. Eighteen had an AHI of at least 5, and two syndromic patients underwent flap takedown. Ten patients underwent revisional VPD surgery. The authors report greater risk of residual hypernasality requiring revision among patients with 22q11.2 deletion syndrome, or 22qDS, and those with non-cleft VPD.\n\nThe article matters because it provides a large clinical series describing both speech and airway outcomes for a specific PPF technique. Flap takedown for OSA was uncommon, but long-term airway monitoring remains important. Evidence strength is limited by the retrospective, single-center design, the lack of a comparator, and the fact that postoperative polysomnography was available for only a subset of patients. This is useful knowledge rather than evidence that independently changes practice.\n\nFor current care, the findings support discussing the technique with appropriate patients while counseling about possible revision and maintaining long-term airway follow-up. Future multicenter prospective studies should compare PPF techniques and standardize long-term speech and OSA assessments, particularly for patients with 22qDS and non-cleft VPD.",
+      "mcq": [
+        {
+          "q_ar": "ما نسبة المرضى الذين حققوا mild أو no hypernasality بعد العملية؟",
+          "q_en": "What proportion of patients achieved mild or no hypernasality after surgery?",
+          "options_ar": [
+            "أ) 65%",
+            "ب) 79%",
+            "ج) 89%",
+            "د) 95%"
+          ],
+          "options_en": [
+            "A) 65%",
+            "B) 79%",
+            "C) 89%",
+            "D) 95%"
+          ],
+          "answer": 2,
+          "explanation_ar": "حقق 89% من المرضى mild أو no hypernasality؛ أما 95% فكانت نسبة من تحسّن لديهم resonance.",
+          "explanation_en": "Eighty-nine percent achieved mild or no hypernasality; 95% had improved resonance."
+        },
+        {
+          "q_ar": "كم مريضًا خضع لـ postoperative polysomnography؟",
+          "q_en": "How many patients underwent postoperative polysomnography?",
+          "options_ar": [
+            "أ) 89",
+            "ب) 137",
+            "ج) 180",
+            "د) 220"
+          ],
+          "options_en": [
+            "A) 89",
+            "B) 137",
+            "C) 180",
+            "D) 220"
+          ],
+          "answer": 1,
+          "explanation_ar": "خضع 137 من أصل 220 مريضًا لـ postoperative polysomnography.",
+          "explanation_en": "Postoperative polysomnography was performed in 137 of the 220 patients."
+        },
+        {
+          "q_ar": "أي مجموعتين ارتبطتا بزيادة احتمال residual hypernasality والحاجة إلى revisional surgery؟",
+          "q_en": "Which patient groups were associated with a higher likelihood of residual hypernasality requiring revision?",
+          "options_ar": [
+            "أ) مرضى 22qDS ومرضى non-cleft VPD",
+            "ب) جميع المرضى الأكبر من 18 سنة",
+            "ج) مرضى cleft VPD فقط",
+            "د) المرضى دون syndromic diagnoses فقط"
+          ],
+          "options_en": [
+            "A) Patients with 22qDS and non-cleft VPD",
+            "B) All patients older than 18 years",
+            "C) Patients with cleft VPD only",
+            "D) Patients without syndromic diagnoses only"
+          ],
+          "answer": 0,
+          "explanation_ar": "أشارت الدراسة إلى زيادة الاحتمال لدى مرضى 22qDS وnon-cleft VPD.",
+          "explanation_en": "The study identified 22qDS and non-cleft VPD as groups with increased risk."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026110701",
+      "title_ar": "ميدترونيك وكارل ستورز تتعاونان لتطوير حلول جراحية متكاملة للأنف والأذن والحنجرة",
+      "title_en": "Medtronic and Karl Storz Collaborate on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-07",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أعلنت ميدترونيك وكارل ستورز عن تعاون لتقديم حلول متكاملة لجراحات الأنف والأذن والحنجرة، وفقًا لموقع ماس ديفايس. ويشير العنوان إلى شراكة تهدف إلى دمج منتجات أو عروض الشركتين، لكن المعلومات المتاحة لا توضح المنتجات المعنية أو الشروط التجارية أو الجدول الزمني. ولا يتضمن الخبر المتاح إعلانًا عن استحواذ أو قرار تنظيمي أو أثر مالي.",
+      "summary_en": "Medtronic and Karl Storz are collaborating on integrated solutions for ENT surgery, according to MassDevice. The headline indicates a partnership focused on bringing their offerings together, but the provided report does not specify the products, commercial terms, or timeline. No acquisition, regulatory decision, or financial impact is reported in the available information.",
+      "practice_change_ar": "قد تتاح لجراحي الأنف والأذن والحنجرة مستقبلًا حلول جراحية أكثر تكاملًا، لكن الخبر لا يقدم تفاصيل كافية للإشارة إلى تغيير فوري في الممارسة السريرية.",
+      "practice_change_en": "ENT surgeons may eventually have access to more coordinated surgical solutions, but the report does not provide enough detail to indicate an immediate change in clinical practice.",
+      "future_impact_ar": "قد يسهم التعاون في تشكيل المنتجات المستقبلية لتخصص الأنف والأذن والحنجرة، وستعتمد أهميته على الحلول التي ستُطوّر وعلى الأدلة السريرية وتوافرها.",
+      "future_impact_en": "The collaboration could shape future ENT product offerings, and its significance will depend on the solutions developed and their clinical evidence and availability.",
+      "why_important_ar": "قد تؤثر الشراكات بين شركات الأجهزة الطبية الكبرى في توافر التقنيات الجراحية وتكاملها، إلا أن الخبر لا يذكر فوائد سريرية محددة.",
+      "why_important_en": "Partnerships between major device companies can influence the availability and integration of surgical technologies, although specific clinical benefits have not been reported here.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "خبر تجاري قد يؤثر في حلول الأجهزة مستقبلًا، لكن لا توجد تفاصيل عن المنتجات أو أثر سريري مباشر.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "في خبر تجاري يهم قطاع الأنف والأذن والحنجرة، أعلنت شركتا ميدترونيك وكارل ستورز عن تعاون لتقديم حلول جراحية متكاملة. يشير الإعلان إلى توجه الشركتين نحو تنسيق عروضهما في مجال جراحات الأنف والأذن والحنجرة، لكن المعلومات المتاحة لا تحدد المنتجات التي سيشملها التعاون، ولا موعد طرحها، ولا تفاصيل الاتفاق التجاري. لذلك لا يمكن في الوقت الحالي استنتاج تغيير مباشر في خيارات الجراحين أو في الممارسة السريرية. تكتسب هذه الشراكة أهميتها من احتمال أن تؤثر في تكامل التقنيات والأجهزة التي يستخدمها اختصاصيو الأنف والأذن والحنجرة مستقبلًا. وسيعتمد أثرها الفعلي على الحلول التي ستُطرح، ومدى توافرها، وما إذا كانت ستدعمها أدلة سريرية واضحة.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026110702",
+      "title_ar": "شركات رائدة في طب الأنف والأذن والحنجرة تقود ابتكار التقنيات الطبية",
+      "title_en": "Leading ENT Companies Driving Medical Technology Innovation",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-07",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت SNS Insider نظرة عامة تسلط الضوء على شركات رائدة في ابتكار التقنيات الطبية لرعاية الأنف والأذن والحنجرة. ولا يحدد الخبر المتاح أسماء شركات أو منتجات أو صفقات بعينها. كما لا يقدم تفاصيل عن قرارات تنظيمية أو نتائج سريرية أو تطورات مالية. لذلك، لا يتناول الخبر استحواذًا أو دعوى قضائية أو تحركًا في الأسهم أو قرارًا من إدارة الغذاء والدواء الأمريكية.",
+      "summary_en": "SNS Insider published an overview highlighting leading companies involved in medical technology innovation for ear, nose, and throat care. The supplied news item does not identify specific companies, products, or transactions. It also provides no details about regulatory decisions, clinical results, or financial developments. Therefore, it does not report a specific acquisition, lawsuit, stock move, or FDA decision.",
+      "practice_change_ar": "لا يشير الخبر إلى تغيير فوري في الممارسة السريرية، إذ لا يقدم أدلة أو إرشادات خاصة بمنتج معين.",
+      "practice_change_en": "No immediate change to clinical practice is indicated because the item provides no product-specific evidence or guidance.",
+      "future_impact_ar": "ستكون هناك حاجة إلى تقارير إضافية عن تقنيات وموافقات ونتائج سريرية محددة لتحديد ما إذا كانت ابتكارات هذه الشركات ستؤثر في رعاية الأنف والأذن والحنجرة.",
+      "future_impact_en": "Further reporting on specific technologies, approvals, and clinical outcomes will be needed to determine whether these companies' innovations will affect ENT care.",
+      "why_important_ar": "قد يشير الموضوع إلى استمرار الابتكار في تقنيات الأنف والأذن والحنجرة، لكن يحتاج الجراحون إلى معلومات سريرية وتنظيمية عن منتجات محددة لتقييم أثرها في رعاية المرضى.",
+      "why_important_en": "The topic may signal ongoing innovation in ENT technology, but surgeons need product-level clinical and regulatory information to assess its relevance to patient care.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "الأهمية محدودة لأن الخبر عام ولا يتضمن تفاصيل عن منتج أو قرار تجاري أو أثر سريري محدد.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "يتناول خبر من SNS Insider شركات رائدة تسهم في ابتكار التقنيات الطبية في مجال الأنف والأذن والحنجرة. لكن المعلومات المتاحة لا تحدد أسماء الشركات أو التقنيات، ولا تذكر صفقات استحواذ أو موافقات تنظيمية أو نتائج دراسات سريرية. لذلك، لا يمكن استخلاص تغيير مباشر في الممارسة اليومية أو الحكم على فائدة تقنية بعينها للمرضى. بالنسبة إلى أطباء الأنف والأذن والحنجرة، تظل الخطوة الأهم هي متابعة الأخبار التفصيلية التي تتضمن بيانات سريرية ومعلومات عن الموافقات والاستخدام العملي. وعند توفر هذه التفاصيل، يمكن تقييم أثر الابتكارات الجديدة في النتائج العلاجية وكفاءة الرعاية.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026110703",
+      "title_ar": "ميدترونيك تحصل على علامة CE لمنصة Stealth AXiS الروبوتية لجراحات الأنف والأذن والحنجرة",
+      "title_en": "Medtronic Earns CE Mark for Stealth AXiS Robotic Platform in ENT Surgery",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-07",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "حصلت شركة ميدترونيك على علامة CE لمنصتها الروبوتية Stealth AXiS لاستخدامها في جراحات الأنف والأذن والحنجرة، وفقًا لموقع MassDevice. وتتيح العلامة تسويق المنصة في الأسواق الأوروبية المعنية، مع مراعاة المتطلبات المحلية. ولم يوضح التقرير الإجراءات التي تشملها المنصة، أو موعد توافرها، أو ما إذا كانت قد حصلت على موافقات تنظيمية في مناطق أخرى. ويُعد الإعلان محطة تنظيمية وتجارية، وليس دليلًا على تفوق سريري مقارنة بالبدائل.",
+      "summary_en": "Medtronic has received a CE mark for its Stealth AXiS robotic platform for use in ENT surgery, according to MassDevice. The mark allows the platform to be marketed in applicable European markets, subject to local requirements. The report does not specify which procedures are covered, when the system will become available, or whether regulatory authorization has been obtained in other regions. The announcement is a regulatory and commercial milestone, not evidence of comparative clinical benefits.",
+      "practice_change_ar": "قد يتاح لجراحي الأنف والأذن والحنجرة في أوروبا خيار إضافي لمنصة روبوتية، لكن ينبغي انتظار تفاصيل التوافر والإجراءات المخصصة والتدريب والأدلة السريرية قبل التفكير في اعتمادها.",
+      "practice_change_en": "ENT surgeons in Europe may have access to another robotic platform, but should await details on availability, intended procedures, training, and clinical evidence before considering adoption.",
+      "future_impact_ar": "قد يزيد هذا الترخيص المنافسة في مجال الروبوتات الجراحية للأنف والأذن والحنجرة، بينما سيعتمد انتشار المنصة على أدائها السريري وتكلفتها والقرارات التنظيمية في الأسواق الأخرى.",
+      "future_impact_en": "The authorization may increase competition in surgical robotics for ENT, with broader adoption depending on clinical performance, cost, and regulatory decisions in other markets.",
+      "why_important_ar": "تمثل علامة CE خطوة مهمة نحو دخول السوق الأوروبية، لكن القيمة العملية للمنصة ستعتمد على الاستخدامات المصرح بها وسير العمل والنتائج.",
+      "why_important_en": "The CE mark is an important step toward European market access, while the platform’s practical value will depend on its approved uses, workflow, and outcomes.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 3,
+      "stars_reason_ar": "خبر تنظيمي وتجاري مهم قد يضيف خيارًا تقنيًا للجراحين الأوروبيين، لكن تفاصيل الاستخدام والتوافر والأثر السريري غير واضحة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "في خبر يهم جراحي الأنف والأذن والحنجرة، حصلت ميدترونيك على علامة CE لمنصة Stealth AXiS الروبوتية المخصصة للاستخدام في جراحات هذا التخصص، بحسب موقع MassDevice. تمنح علامة CE مسارًا لتسويق المنتج في الأسواق الأوروبية المعنية، مع الالتزام بالمتطلبات المحلية. لكن الإعلان لا يحدد أنواع العمليات التي ستشملها المنصة، ولا موعد توافرها، كما لا يوضح ما إذا كانت قد حصلت على موافقات في أسواق أخرى. ومن المهم التمييز بين الحصول على ترخيص تنظيمي وبين إثبات الفائدة السريرية؛ فالخبر لا يقدم بيانات مقارنة عن النتائج أو السلامة. بالنسبة للجراحين، قد يمثل النظام خيارًا إضافيًا مستقبلًا، لكن قرارات الشراء والاستخدام ستعتمد على تفاصيل الاستخدام المصرح به، والتدريب، والتكلفة، ومدى اندماجه في سير العمل. وتستحق الخطوة المتابعة مع ظهور معلومات أوضح عن التوافر والأدلة السريرية.",
+      "mcq": []
+    }
+  ]
+}
