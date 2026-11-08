@@ -1,0 +1,393 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T10:10:46Z",
+  "articles": [
+    {
+      "pmid": "42992559",
+      "title_ar": "Simulation Training in Functional Endoscopic Sinus Surgery: A Scoping Review.",
+      "title_en": "Simulation Training in Functional Endoscopic Sinus Surgery: A Scoping Review.",
+      "journal": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+      "pub_date": "2026-Nov-06",
+      "doi": "10.1002/ohn.70511",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42992559/",
+      "pdf_url": null,
+      "study_design": "Scoping review of 45 studies",
+      "summary_ar": "راجعت هذه الدراسة نطاق الأدلة المنشورة بين November 1998 وMay 2025 حول simulation training في functional endoscopic sinus surgery (FESS)، وشملت 45 دراسة من أصل 298 دراسة مسترجعة. كان task trainer أكثر أنواع simulation استخدامًا، وكانت غالبية هذه النماذج مطبوعة بتقنية 3D printing. اختلفت outcome measures كثيرًا بين الدراسات، وكان قياس speed وglobal technical performance هو الأكثر شيوعًا. استخدمت أقل من نصف الدراسات أدوات تقييم validated، ما يحد من المقارنة بين النتائج. خلص المؤلفون إلى أن 3D-printed task trainers هي الخيار الأوسع قابلية للتطبيق حاليًا بالنظر إلى cost وscalability وconstruct validity. وقد يدعم توحيد simulation training وضع أهداف تعليمية أوضح ومقارنة أداء المتدربين بين مستويات التدريب.",
+      "summary_en": "This scoping review examined literature on simulation training for functional endoscopic sinus surgery (FESS) published from November 1998 through May 2025.\nForty-five studies met inclusion criteria from 298 identified records.\nTask trainers were the most common simulation platform, and most were 3D-printed models.\nOutcome measures varied substantially; speed and global technical performance were reported most often.\nFewer than half of the studies used validated assessment tools, limiting comparability.\nThe authors identify 3D-printed task trainers as a broadly adoptable platform based on cost, scalability, and demonstrated construct validity.",
+      "practice_change_ar": "لا تفرض النتائج تغييرًا فوريًا في رعاية المرضى، لكنها تدعم استخدام 3D-printed task trainers كخيار عملي لتدريب FESS عند توفرها.",
+      "practice_change_en": "The findings do not mandate an immediate change in patient care, but support using 3D-printed task trainers as a practical option for FESS training where available.",
+      "future_impact_ar": "قد يتيح توحيد نماذج simulation وأدوات التقييم مقارنة أكثر موثوقية للأداء وتحديد أهداف تدريبية بحسب مستوى المتدرب.",
+      "future_impact_en": "Standardized simulation models and assessment tools may enable more reliable performance comparisons and level-specific training goals.",
+      "why_important_ar": "تلخص المراجعة خيارات simulation المتاحة وتبرز أن تفاوت أدوات القياس يعيق تقييم فعالية التدريب ومقارنة البرامج.",
+      "why_important_en": "The review summarizes available simulation options and highlights how inconsistent assessment methods hinder evaluation and comparison of training programs.",
+      "vs_previous_ar": "بدلًا من إثبات تفوق نموذج تدريبي واحد، تجمع هذه المراجعة الأدبيات وتحدد 3D-printed task trainers كخيار قابل للتبني مع إبراز الحاجة إلى standardization.",
+      "vs_previous_en": "Rather than establishing that one training model is superior, this review maps the literature, identifies 3D-printed task trainers as adoptable, and emphasizes the need for standardization.",
+      "stars": 4,
+      "stars_reason_ar": "مراجعة نطاقية شملت 45 دراسة في مجلة رفيعة المستوى، وتقدم معرفة مفيدة عن منصات simulation ومحدودية التقييم؛ لكنها لا تثبت أثرًا مباشرًا على نتائج المرضى أو تفرض تغييرًا سريريًا فوريًا.",
+      "stars_reason_en": "A scoping review of 45 studies in a high-tier journal provides useful evidence on simulation platforms and assessment limitations, but does not establish direct patient-outcome benefit or mandate immediate practice change.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "موضوع مهم لتعليم rhinology، ويتيح النقاش حول اختيار منصة simulation وكيفية توحيد outcome measures والتحقق من صلاحية أدوات التقييم.",
+      "jc_reason_en": "This is relevant to rhinology education and supports discussion of simulation platform selection, outcome-measure standardization, and validation of assessment tools.",
+      "watch": true,
+      "watch_detail_ar": "تستحق 3D-printed task trainers المتابعة بوصفها تقنية قابلة للتوسع ومنخفضة الكلفة نسبيًا لتدريب FESS، مع ضرورة تقييم صلاحية أدوات قياس الأداء.",
+      "watch_detail_en": "3D-printed task trainers are worth tracking as a scalable, relatively low-cost technology for FESS training, while performance assessment tools still require validation.",
+      "watch_type": "technology",
+      "research_gap_ar": "هناك حاجة إلى دراسات مستقبلية تستخدم outcome measures موحدة وvalidated وتقيّم انتقال المهارات المكتسبة عبر simulation إلى الأداء الجراحي والنتائج السريرية.",
+      "research_gap_en": "Future studies should use standardized, validated outcome measures and assess whether simulation-acquired skills transfer to operative performance and clinical outcomes.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم مراجعة نطاقية عن simulation training في functional endoscopic sinus surgery، أو FESS. تكمن أهمية الموضوع في أن هذه الجراحة تتطلب مهارات تقنية دقيقة، وأن التدريب في بيئة محاكاة يتيح ممارسة المهارات ضمن ظروف مضبوطة.\n\nبحث المؤلفون في PubMed وEmbase وCochrane عن الدراسات المنشورة بين November 1998 وMay 2025. من بين 298 دراسة جرى تحديدها، استوفت 45 دراسة معايير الإدراج. كان النوع الأكثر استخدامًا هو task trainer، وكانت غالبية هذه النماذج مصنوعة بتقنية 3D printing. أما تقييم النتائج، فكان متباينًا بدرجة كبيرة: قاست دراسات كثيرة السرعة والأداء التقني العام، لكن أقل من نصف الدراسات استخدمت أدوات تقييم validated.\n\nيرى المؤلفون أن 3D-printed task trainers هي المنصة الأوسع قابلية للتطبيق حاليًا، استنادًا إلى cost وscalability وconstruct validity. لكن هذه النتيجة لا تعني أن نموذجًا بعينه ثبت أنه يحسن نتائج المرضى، ولا تفرض تغييرًا فوريًا في ممارسة الجراحة. قيمتها الأساسية أنها تقدم خريطة للأدلة وتوضح أن اختلاف نماذج التدريب وطرق القياس يجعل مقارنة البرامج والنتائج صعبة.\n\nبالنسبة إلى فرق rhinology والتعليم الجراحي، يمكن اعتبار هذه النماذج خيارًا عمليًا لتدريب المهارات، مع تجنب اعتبار السرعة وحدها مقياسًا كافيًا للكفاءة. الخطوة التالية هي توحيد outcome measures والتحقق من صلاحيتها، ثم دراسة ما إذا كانت المهارات المكتسبة في simulation تنتقل إلى الأداء داخل غرفة العمليات وتحسن النتائج السريرية. الخلاصة: مراجعة مفيدة للتخطيط التعليمي، لكن الثقة في الأثر السريري ما زالت محدودة.",
+      "audio_script_en": "Today’s review examines simulation training for functional endoscopic sinus surgery, or FESS. This is an important educational topic because FESS involves technically demanding skills, and simulation provides a controlled setting in which trainees can practice.\n\nThe authors searched PubMed, Embase, and Cochrane for studies published between November 1998 and May 2025. Of 298 records identified, 45 studies met the inclusion criteria. Task trainers were the most commonly reported simulation type, and most of these were 3D-printed models. Assessment methods varied substantially. Speed and global technical performance were common measures, but fewer than half of the studies used validated assessment tools.\n\nThe authors conclude that 3D-printed task trainers are currently among the most broadly adoptable platforms, based on cost, scalability, and demonstrated construct validity. This does not establish that a particular trainer improves patient outcomes, and it does not require an immediate change in surgical practice. The review’s main contribution is mapping the available training approaches and showing how inconsistent models and assessment methods make results difficult to compare.\n\nFor rhinology educators, 3D-printed trainers may be a practical option for skills practice, but speed alone should not be treated as proof of competence. The next steps are to standardize outcome measures, validate assessment tools, and determine whether skills gained in simulation transfer to operating-room performance and improve clinical outcomes. Overall, this is useful educational evidence, with limited certainty about direct clinical benefit.",
+      "mcq": [
+        {
+          "q_ar": "ما نوع simulation الذي كان الأكثر شيوعًا في الدراسات المشمولة؟",
+          "q_en": "Which simulation type was most common in the included studies?",
+          "options_ar": [
+            "أ) Virtual reality فقط",
+            "ب) Task trainer",
+            "ج) Cadaver laboratory",
+            "د) Animal model"
+          ],
+          "options_en": [
+            "A) Virtual reality only",
+            "B) Task trainer",
+            "C) Cadaver laboratory",
+            "D) Animal model"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان task trainer أكثر أنواع simulation استخدامًا، وكانت غالبية هذه النماذج مطبوعة بتقنية 3D printing.",
+          "explanation_en": "Task trainers were the most frequently used simulation type, and most were 3D-printed."
+        },
+        {
+          "q_ar": "ما القيد المنهجي المهم الذي أبرزته المراجعة؟",
+          "q_en": "What important methodological limitation did the review identify?",
+          "options_ar": [
+            "أ) لم تتضمن الدراسات أي نماذج تدريب",
+            "ب) اقتصرت الأدلة على RCTs كبيرة",
+            "ج) استخدمت أقل من نصف الدراسات أدوات تقييم validated",
+            "د) لم تُقَس السرعة في أي دراسة"
+          ],
+          "options_en": [
+            "A) The studies included no training models",
+            "B) The evidence was limited to large RCTs",
+            "C) Fewer than half the studies used validated assessment tools",
+            "D) Speed was not measured in any study"
+          ],
+          "answer": 2,
+          "explanation_ar": "اختلفت outcome measures بين الدراسات، واستخدمت أقل من نصفها أدوات تقييم validated.",
+          "explanation_en": "Outcome measures varied, and fewer than half of the studies used validated assessment tools."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن تطبيق نتائج المراجعة اليوم؟",
+          "q_en": "What is the most appropriate conclusion about applying this review today?",
+          "options_ar": [
+            "أ) يجب إيقاف التدريب في غرفة العمليات",
+            "ب) ثبت أن 3D-printed trainers تحسن نتائج المرضى",
+            "ج) يمكن اعتماد 3D-printed task trainers كخيار عملي، مع الحاجة إلى standardization ودراسات إضافية",
+            "د) لا توجد فائدة من simulation في FESS"
+          ],
+          "options_en": [
+            "A) Operating-room training should be stopped",
+            "B) 3D-printed trainers are proven to improve patient outcomes",
+            "C) 3D-printed task trainers are a practical option, while standardization and further study are needed",
+            "D) Simulation has no value in FESS"
+          ],
+          "answer": 2,
+          "explanation_ar": "تدعم المراجعة قابلية تطبيق هذه النماذج، لكنها لا تثبت أثرًا مباشرًا على نتائج المرضى وتدعو إلى توحيد التدريب والتقييم.",
+          "explanation_en": "The review supports the adoptability of these trainers but does not prove direct patient-outcome benefit and calls for standardized training and assessment."
+        }
+      ]
+    },
+    {
+      "pmid": "42994162",
+      "title_ar": "Progressive reduction in CSF leak rates in translabyrinthine vestibular schwannoma surgery using a suture-stabilised fat graft and improved Eustachian tube obliteration: Technical note.",
+      "title_en": "Progressive reduction in CSF leak rates in translabyrinthine vestibular schwannoma surgery using a suture-stabilised fat graft and improved Eustachian tube obliteration: Technical note.",
+      "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+      "pub_date": "2026-Nov-06",
+      "doi": "10.1016/j.jocn.2026.112379",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42994162/",
+      "pdf_url": null,
+      "study_design": "Retrospective case series n=159",
+      "summary_ar": "راجعت هذه الدراسة الاستعادية 159 مريضًا خضعوا لجراحة translabyrinthine vestibular schwannoma بين عامي 2014 و2025، وقارنت ثلاث مراحل لتقنية إغلاق الجرح. شملت المراحل historical technique، ثم suture-stabilised fat graft (SSFG)، ثم SSFG مع Eustachian tube obliteration (ETO). بلغ معدل postoperative CSF leak في مجموعتي ما بعد 2017 نحو 4.9%، مقارنةً بـ31.3% مع التقنية التاريخية، وكان الفرق ذا دلالة إحصائية (p=0.003). لم تُسجّل أي CSF leak بين 38 مريضًا تلقوا SSFG مع ETO، لكن الفرق مقارنةً بـSSFG وحده لم يكن ذا دلالة إحصائية (p=0.19). عولجت حالات التسرب السبع بعد 2017 دون توثيق morbidity دائم، وحدثت حالتا pseudomeningocele (1.4%). تدعم النتائج ارتباط بروتوكول الإغلاق الأحدث بانخفاض CSF leak، لكنها لا تحدد بصورة مستقلة أثر ETO بسبب محدودية حجم المجموعة واحتمال تأثير التغييرات المتتابعة في التقنية.",
+      "summary_en": "This retrospective series reviewed 159 patients undergoing translabyrinthine vestibular schwannoma surgery from 2014 to 2025 and compared three stages of closure technique. The stages were the historical technique, suture-stabilised fat graft (SSFG), and SSFG combined with Eustachian tube obliteration (ETO). The postoperative CSF leak rate across the post-2017 cohorts was 4.9%, compared with 31.3% historically (p=0.003). No leaks were observed among 38 patients treated with SSFG plus ETO, but the difference from SSFG alone was not statistically significant (p=0.19). The seven post-2017 leaks were managed without documented permanent morbidity, and two pseudomeningoceles occurred (1.4%). The findings associate the later closure strategy with fewer leaks, but do not establish the independent benefit of ETO.",
+      "practice_change_ar": "لا تبرر هذه البيانات وحدها اعتماد ETO روتينيًا، لكنها تدعم الاهتمام ببروتوكول الإغلاق الأحدث ومراجعة نتائج CSF leak محليًا.",
+      "practice_change_en": "These data alone do not justify routine ETO, but support considering the updated closure protocol and auditing local CSF leak outcomes.",
+      "future_impact_ar": "قد توضح دراسة متعددة المراكز مستقبلية ما إذا كان ETO يضيف فائدة مستقلة إلى SSFG.",
+      "future_impact_en": "A prospective multicentre study could determine whether ETO provides an independent benefit beyond SSFG.",
+      "why_important_ar": "تتناول الدراسة مضاعفة مهمة بعد translabyrinthine surgery وتعرض انخفاضًا كبيرًا في CSF leak بعد تطوير الإغلاق.",
+      "why_important_en": "The study addresses an important complication of translabyrinthine surgery and reports a substantial reduction in CSF leaks after closure refinements.",
+      "vs_previous_ar": "بدلًا من تقديم مقارنة عشوائية، توثق الدراسة تطورًا متتابعًا لتقنية الإغلاق وتجد انخفاضًا مرتبطًا بها، مع بقاء أثر ETO غير محسوم.",
+      "vs_previous_en": "Rather than providing a randomized comparison, the study documents sequential closure refinements associated with fewer leaks, while the added effect of ETO remains uncertain.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة استعادية كبيرة نسبيًا (n=159) بتقنية جراحية ذات صلة، وتُظهر ارتباطًا مهمًا بانخفاض التسرب؛ لكن التصميم المتتابع، وصغر مجموعة ETO، وعدم دلالة الفرق الإضافي تحد من قوة الاستنتاج.",
+      "stars_reason_en": "This relatively large retrospective series (n=159) evaluates a clinically relevant surgical technique and reports a notable association with fewer leaks; sequential cohorts, the small ETO group, and the nonsignificant incremental comparison limit certainty.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسبة للنقاش حول إغلاق translabyrinthine approach، مع التركيز على الانحياز الزمني، ومقارنة المجموعات، وعدم اليقين بشأن الفائدة الإضافية لـETO.",
+      "jc_reason_en": "Useful for discussion of translabyrinthine approach closure, particularly temporal confounding, cohort comparisons, and uncertainty about the added benefit of ETO.",
+      "watch": true,
+      "watch_detail_ar": "يجدر تتبع بروتوكول SSFG مع ETO بوصفه تعديلًا تقنيًا واعدًا، مع انتظار بيانات مقارنة أكبر لتأكيد فائدة ETO.",
+      "watch_detail_en": "The SSFG-plus-ETO protocol is a promising technical refinement to track, pending larger comparative studies confirming the added value of ETO.",
+      "watch_type": "technology",
+      "research_gap_ar": "يلزم إجراء دراسة مستقبلية متعددة المراكز أو مقارنة مضبوطة لتقدير الأثر المستقل لـETO مع ضبط التغييرات الزمنية وعوامل الخطورة.",
+      "research_gap_en": "A prospective multicentre or controlled comparison is needed to estimate the independent effect of ETO while accounting for temporal changes and risk factors.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نستعرض اليوم دراسة تقنية عن الوقاية من CSF leak بعد translabyrinthine surgery لعلاج vestibular schwannoma. شملت الدراسة الاستعادية 159 مريضًا عولجوا بين 2014 و2025. قارن الباحثون ثلاث مراحل: التقنية التاريخية، ثم suture-stabilised fat graft أو SSFG، ثم SSFG مع Eustachian tube obliteration أو ETO.\n\nالنتيجة الأبرز أن معدل CSF leak في مجموعتي ما بعد 2017 كان 4.9%، مقابل 31.3% في المجموعة التاريخية، بفارق ذي دلالة إحصائية، p=0.003. وفي مجموعة SSFG مع ETO، وعددها 38 مريضًا، لم تحدث أي حالات تسرب. لكن عند مقارنة هذه المجموعة بـSSFG وحده، الذي سجل معدل تسرب 6.7%، لم يكن الفرق ذا دلالة إحصائية، p=0.19. لذلك لا يمكن اعتبار غياب التسرب في المجموعة الأصغر دليلًا قاطعًا على أن ETO هو سبب التحسن الإضافي.\n\nعولجت حالات التسرب السبع في مجموعتي ما بعد 2017 دون توثيق morbidity دائم، وسُجلت حالتا pseudomeningocele. الرسالة العملية هي أن بروتوكول الإغلاق الأحدث ارتبط بانخفاض ملحوظ في CSF leak مقارنةً بالتقنية التاريخية، لكن الدراسة استعادية وتعتمد على مجموعات متعاقبة زمنيًا. لذا قد تتداخل عوامل أخرى، مثل الخبرة الجراحية أو تغييرات الرعاية، مع أثر التقنية. لا تفرض النتائج تغييرًا فوريًا نحو ETO روتينيًا، لكنها تقدم أساسًا لمراجعة بروتوكولات الإغلاق ونتائجها محليًا.\n\nهذه الدراسة مهمة لفرق skull_base لأنها تتناول مضاعفة سريرية مؤثرة وتقترح تحسينًا تقنيًا قابلًا للتقييم. ومع ذلك، الثقة متوسطة: حجم العينة الإجمالي جيد، لكن مجموعة ETO صغيرة والمقارنة الإضافية غير دالة إحصائيًا. الخطوة البحثية التالية هي مقارنة مستقبلية أو متعددة المراكز، مع ضبط عوامل الخطورة والتغييرات الزمنية، لتحديد ما إذا كان ETO يضيف فائدة مستقلة إلى SSFG.",
+      "audio_script_en": "Today’s technical note examines prevention of CSF leak after translabyrinthine surgery for vestibular schwannoma. The retrospective study included 159 patients treated between 2014 and 2025. The authors compared three sequential closure approaches: a historical technique, suture-stabilised fat graft, or SSFG, and SSFG combined with Eustachian tube obliteration, or ETO.\n\nThe main finding was a postoperative CSF leak rate of 4.9% across the post-2017 cohorts, compared with 31.3% in the historical cohort. This difference was statistically significant, with p=0.003. No leaks occurred among the 38 patients treated with SSFG plus ETO. However, the comparison with SSFG alone, which had a 6.7% leak rate, was not statistically significant, with p=0.19. The absence of leaks in the smaller ETO cohort therefore does not establish that ETO caused an additional reduction.\n\nThe seven leaks in the post-2017 cohorts were managed without documented permanent morbidity, and two pseudomeningoceles were reported. Clinically, the updated closure strategy was associated with substantially fewer leaks than the historical technique. But this was a retrospective comparison of sequential cohorts, so changes in surgeon experience, perioperative care, and other factors may also have contributed. The findings do not mandate routine ETO, but they support consideration of the refined closure approach and local outcome auditing.\n\nThis article matters to skull-base teams because it addresses a consequential complication and describes a potentially useful technical refinement. Confidence is moderate: the overall cohort is reasonably sized, but the ETO group is small and its incremental effect was not statistically significant. A prospective or multicentre controlled study, accounting for risk factors and temporal changes, is needed to determine whether ETO adds an independent benefit to SSFG.",
+      "mcq": [
+        {
+          "q_ar": "ما معدل postoperative CSF leak في مجموعتي ما بعد 2017 مجتمعتين؟",
+          "q_en": "What was the postoperative CSF leak rate across the combined post-2017 cohorts?",
+          "options_ar": [
+            "أ) 0%",
+            "ب) 4.9%",
+            "ج) 6.7%",
+            "د) 31.3%"
+          ],
+          "options_en": [
+            "A) 0%",
+            "B) 4.9%",
+            "C) 6.7%",
+            "D) 31.3%"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان المعدل 4.9% (7/143) في مجموعتي ما بعد 2017، مقارنةً بـ31.3% في المجموعة التاريخية.",
+          "explanation_en": "The rate was 4.9% (7/143) across the post-2017 cohorts, compared with 31.3% historically."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأدق بشأن إضافة ETO إلى SSFG؟",
+          "q_en": "Which is the most accurate conclusion about adding ETO to SSFG?",
+          "options_ar": [
+            "أ) أثبتت الدراسة أن ETO يخفض التسرب بصورة مستقلة.",
+            "ب) حدثت CSF leak في جميع مرضى SSFG مع ETO.",
+            "ج) لم تحدث تسربات في مجموعة SSFG مع ETO، لكن الفرق عن SSFG وحده لم يكن ذا دلالة إحصائية.",
+            "د) كان معدل التسرب أعلى مع ETO مقارنةً بالتقنية التاريخية."
+          ],
+          "options_en": [
+            "A) The study proved that ETO independently reduces leaks.",
+            "B) CSF leaks occurred in every patient receiving SSFG plus ETO.",
+            "C) No leaks occurred in the SSFG-plus-ETO cohort, but the difference from SSFG alone was not statistically significant.",
+            "D) The leak rate with ETO was higher than with the historical technique."
+          ],
+          "answer": 2,
+          "explanation_ar": "لم تقع تسربات بين 38 مريضًا تلقوا SSFG مع ETO، لكن المقارنة مع SSFG وحده لم تصل إلى الدلالة الإحصائية (p=0.19).",
+          "explanation_en": "There were no leaks among 38 patients receiving SSFG plus ETO, but the comparison with SSFG alone was not statistically significant (p=0.19)."
+        },
+        {
+          "q_ar": "ما أهم قيد منهجي عند تفسير نتائج الدراسة؟",
+          "q_en": "What is a key methodological limitation when interpreting the findings?",
+          "options_ar": [
+            "أ) الدراسة حيوانية ولا تشمل مرضى.",
+            "ب) الدراسة مقارنة استعادية لمجموعات متعاقبة زمنيًا، ما قد يخلط أثر التقنية بتغيرات أخرى.",
+            "ج) لم تُسجل نتائج CSF leak.",
+            "د) اقتصرت الدراسة على حالة واحدة."
+          ],
+          "options_en": [
+            "A) It was an animal study with no patients.",
+            "B) It retrospectively compared sequential cohorts, so technique effects may be confounded by other changes over time.",
+            "C) CSF leak outcomes were not recorded.",
+            "D) The study included only one case."
+          ],
+          "answer": 1,
+          "explanation_ar": "قد تترافق التحسينات التقنية المتتابعة مع تغير الخبرة أو الرعاية، ولا يستطيع التصميم الاستعادي عزل أثر كل تعديل.",
+          "explanation_en": "Sequential technical changes may coincide with changes in experience or care, and the retrospective design cannot isolate the effect of each modification."
+        }
+      ]
+    },
+    {
+      "pmid": "42995026",
+      "title_ar": "Acoustic Correlates of Endoscopically Identified Vocal Fold Lesions in a Large Clinical Cohort: Perceptual Associations and Screening Performance.",
+      "title_en": "Acoustic Correlates of Endoscopically Identified Vocal Fold Lesions in a Large Clinical Cohort: Perceptual Associations and Screening Performance.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Nov-06",
+      "doi": "10.1016/j.jvoice.2026.10.001",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42995026/",
+      "pdf_url": null,
+      "study_design": "Cross-sectional cohort study n=782",
+      "summary_ar": "شملت الدراسة 782 مريضًا يعانون من dysphonia وخضعوا إلى videolaryngostroboscopy وتسجيل acoustic وتقييم auditory-perceptual باستخدام CAPE-V وGRBAS. كان polyp أكثر الآفات شيوعًا بنسبة 32.1%، يليه nodule بنسبة 24.0%، ثم Reinke's edema وcyst وgranuloma. اختلفت جميع acoustic parameters بين الفئات، وكانت أصوات المرضى ذوي polyp الأكثر انحرافًا عن القيم الطبيعية. كان انخفاض CPPS أقوى predictor مستقل لوجود lesion، وارتبط بدرجة CAPE-V overall severity ارتباطًا قويًا (r = -.71). حقق النموذج acoustic المدمج AUC قدره 0.91 للتمييز بين الأصوات المصحوبة بآفة وتلك ذات vocal folds الطبيعية بنيويًا. تُشير النتائج إلى استخدام acoustic assessment كأداة screening وtriage مكملة، لا كبديل عن endoscopy أو وسيلة لتحديد نوع الآفة أو benignity.",
+      "summary_en": "This cross-sectional cohort study included 782 patients with dysphonia who underwent videolaryngostroboscopy, acoustic recording, and auditory-perceptual assessment using CAPE-V and GRBAS. Polyps were the most prevalent lesions (32.1%), followed by nodules (24.0%), Reinke's edema, cysts, and granulomas. All measured acoustic parameters differed across categories, with polyp voices showing the greatest deviation from normal values. Decreased CPPS was the strongest independent predictor of lesion presence and correlated strongly with CAPE-V overall severity (r = -.71). The combined acoustic model distinguished lesion from structurally normal voices with an AUC of 0.91. Acoustic assessment may support screening and triage, but cannot replace endoscopy or determine lesion type or benignity.",
+      "practice_change_ar": "يمكن استخدام انخفاض CPPS وغيرها من acoustic measures لدعم screening وtriage لدى مرضى dysphonia، مع استمرار الحاجة إلى laryngeal endoscopy لتشخيص الآفة.",
+      "practice_change_en": "Decreased CPPS and other acoustic measures can support screening and triage in patients with dysphonia, while laryngeal endoscopy remains necessary to diagnose lesions.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية متعددة المراكز في التحقق من عتبات CPPS وتحديد مدى تعميم أداء النموذج على مجموعات مرضى أوسع.",
+      "future_impact_en": "Future multicenter studies could validate CPPS thresholds and determine whether the model performs well in broader patient populations.",
+      "why_important_ar": "توضح الدراسة في عينة سريرية كبيرة أن acoustic measures ترتبط بوجود vocal fold lesions وبشدة الصوت المدركة، مع إبراز حدود استخدامها التشخيصي.",
+      "why_important_en": "This large clinical cohort links acoustic measures to vocal fold lesions and perceived voice severity while clarifying their diagnostic limitations.",
+      "vs_previous_ar": "تضيف الدراسة بيانات كمية من cohort كبير تربط endoscopic findings وacoustic measures وperceptual severity، لكنها لا تغيّر المبدأ المعروف بأن acoustic assessment لا يستبدل endoscopy.",
+      "vs_previous_en": "The study adds quantitative evidence from a large cohort linking endoscopic findings, acoustic measures, and perceptual severity, but does not alter the established principle that acoustic assessment cannot replace endoscopy.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة cross-sectional cohort كبيرة شملت 782 مريضًا وقدمت نتائج مفيدة عن CPPS وأداء screening، لكنّها لا تثبت السببية ولا تغيّر الممارسة الحالية، كما أن الدراسة محصورة بمرضى dysphonia دون بعض الاضطرابات الرئيسية.",
+      "stars_reason_en": "This large cross-sectional cohort of 782 patients provides useful findings on CPPS and screening performance, but does not establish causality or change current practice, and excludes several major voice disorders.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق الدراسة النقاش بسبب حجم العينة، والمقارنة بين القياسات acoustic وendoscopic وperceptual، مع أهمية تفسير AUC وحدود screening دون المبالغة في اعتباره بديلًا للتشخيص.",
+      "jc_reason_en": "The study merits discussion for its cohort size and integration of acoustic, endoscopic, and perceptual measures, as well as how to interpret the AUC without overstating screening as a substitute for diagnosis.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات prospective متعددة المراكز للتحقق من عتبات CPPS وأداء النموذج في populations تشمل أسبابًا أخرى لاضطراب الصوت، مع تقييم أثره على قرارات الإحالة والتشخيص.",
+      "research_gap_en": "Prospective multicenter studies should validate CPPS thresholds and model performance in populations with other causes of voice disorders and assess effects on referral and diagnostic decisions.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تتناول هذه الدراسة دور القياسات الصوتية في التعرف على vocal fold lesions لدى مرضى dysphonia. شملت الدراسة 782 مريضًا خضعوا إلى videolaryngostroboscopy، وتسجيل acoustic موحد، وتقييم perceptual باستخدام CAPE-V وGRBAS. كانت polyps أكثر الآفات شيوعًا، بنسبة 32.1%، تلتها nodules بنسبة 24.0%، ثم Reinke's edema وcysts وgranulomas.\n\nوجد الباحثون اختلافًا ذا دلالة بين مجموعات الآفات في jitter وshimmer وHNR وCPPS، وكانت قيم أصوات المرضى ذوي polyps أبعد عن الطبيعي. برز انخفاض CPPS بوصفه أقوى predictor مستقل لوجود lesion، كما ارتبط بقوة مع CAPE-V overall severity، بمعامل ارتباط بلغ سالب 0.71. وبلغت قدرة النموذج acoustic المدمج على التمييز بين وجود lesion وغيابها AUC قدره 0.91.\n\nما أهمية ذلك سريريًا؟ يمكن لهذه القياسات أن تساعد في screening وtriage، أو في توجيه تقييم مريض dysphonia، لكنها لا تحدد نوع الآفة ولا تثبت أنها benign. كما لا تحل محل laryngeal endoscopy. ويجب الانتباه إلى أن الدراسة استبعدت malignant وneurological وأسبابًا رئيسية أخرى لاضطرابات الصوت، لذلك قد لا تنطبق النتائج على جميع المرضى.\n\nهذه دراسة cross-sectional كبيرة ومفيدة، لكنها لا تثبت أن تغيرات الصوت تسبب الآفات، ولا تقدم دليلًا على أن تطبيق القياسات يغير النتائج أو قرارات العلاج. من الخطوات التالية التحقق من أداء النموذج في دراسات prospective متعددة المراكز، وتحديد عتبات CPPS المناسبة، واختبار فائدته العملية في الإحالة والتقييم. الخلاصة: acoustic assessment مكمل غير invasive مفيد، أما تشخيص vocal fold lesions فيبقى معتمدًا على الفحص endoscopic.",
+      "audio_script_en": "This study examines whether acoustic measures can help identify vocal fold lesions in patients with dysphonia. It included 782 patients who underwent videolaryngostroboscopy, standardized acoustic recording, and perceptual assessment using CAPE-V and GRBAS. Polyps were the most common lesion, accounting for 32.1% of cases, followed by nodules at 24.0%, then Reinke's edema, cysts, and granulomas.\n\nThe investigators found significant differences across lesion categories in jitter, shimmer, HNR, and CPPS. Voices from patients with polyps showed the greatest deviation from normal values. Decreased CPPS was the strongest independent predictor of lesion presence and was strongly associated with CAPE-V overall severity, with a correlation of negative 0.71. The combined acoustic model achieved an AUC of 0.91 for distinguishing lesion from non-lesion voices.\n\nClinically, these results support acoustic measures as potential tools for screening and triage in dysphonia. They do not show that acoustic testing can identify the specific lesion or determine whether it is benign. Nor should acoustic assessment replace laryngeal endoscopy. The authors also excluded malignant, neurological, and other major voice pathologies, so the findings may not generalize to every patient presenting with a voice disorder.\n\nThis is a large and useful cross-sectional cohort, but it cannot establish causality or show that using these measures improves outcomes or changes management. Future prospective, multicenter research should validate CPPS thresholds, assess performance across broader patient groups, and test whether acoustic screening improves referral or diagnostic pathways. The take-home message is that acoustic assessment is a non-invasive complement to endoscopic evaluation, not a substitute for it.",
+      "mcq": [
+        {
+          "q_ar": "ما أكثر lesion شيوعًا في cohort الدراسة؟",
+          "q_en": "Which lesion was most prevalent in the study cohort?",
+          "options_ar": [
+            "أ) Vocal fold polyp",
+            "ب) Vocal fold nodule",
+            "ج) Cyst",
+            "د) Granuloma"
+          ],
+          "options_en": [
+            "A) Vocal fold polyp",
+            "B) Vocal fold nodule",
+            "C) Cyst",
+            "D) Granuloma"
+          ],
+          "answer": 0,
+          "explanation_ar": "كان polyp أكثر الآفات شيوعًا، إذ شكّل 32.1% من الحالات.",
+          "explanation_en": "Polyps were the most common lesion, accounting for 32.1% of cases."
+        },
+        {
+          "q_ar": "أي acoustic parameter كان أقوى predictor مستقل لوجود lesion؟",
+          "q_en": "Which acoustic parameter was the strongest independent predictor of lesion presence?",
+          "options_ar": [
+            "أ) Jitter",
+            "ب) Shimmer",
+            "ج) HNR",
+            "د) CPPS"
+          ],
+          "options_en": [
+            "A) Jitter",
+            "B) Shimmer",
+            "C) HNR",
+            "D) CPPS"
+          ],
+          "answer": 3,
+          "explanation_ar": "كان انخفاض CPPS أقوى predictor مستقل، وارتبط كذلك بدرجة CAPE-V overall severity.",
+          "explanation_en": "Decreased CPPS was the strongest independent predictor and was also associated with CAPE-V overall severity."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن الاستخدام السريري للقياسات acoustic؟",
+          "q_en": "What is the most appropriate conclusion about clinical use of acoustic measures?",
+          "options_ar": [
+            "أ) يمكنها تحديد نوع lesion بدقة دون endoscopy",
+            "ب) تثبت أن lesion benign",
+            "ج) قد تدعم screening وtriage لكنها لا تستبدل endoscopy",
+            "د) لا ترتبط بوجود vocal fold lesions"
+          ],
+          "options_en": [
+            "A) They can accurately identify lesion type without endoscopy",
+            "B) They establish that a lesion is benign",
+            "C) They may support screening and triage but do not replace endoscopy",
+            "D) They are unrelated to vocal fold lesions"
+          ],
+          "answer": 2,
+          "explanation_ar": "تدعم النتائج استخدام acoustic measures كأداة مساعدة، لكنها لا تحدد etiology أو benignity ولا تستبدل endoscopic assessment.",
+          "explanation_en": "The findings support acoustic measures as an adjunct, but they do not establish etiology or benignity and cannot replace endoscopic assessment."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026110801",
+      "title_ar": "ميدترونيك وكارل شتورز تتعاونان لتطوير حلول جراحية متكاملة للأنف والأذن والحنجرة",
+      "title_en": "Medtronic and Karl Storz Partner on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-08",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أعلنت شركتا ميدترونيك وكارل شتورز تعاوناً يركز على حلول جراحية متكاملة في مجال الأنف والأذن والحنجرة. ويشير الإعلان إلى شراكة بين الشركتين المتخصصتين في التقنيات الطبية، لكن المعلومات المتاحة لا تحدد المنتجات المعنية أو موعد طرحها أو الشروط التجارية. ولا يتضمن الخبر إعلاناً عن قرار تنظيمي أو استحواذ أو أثر مالي.",
+      "summary_en": "Medtronic and Karl Storz have announced a collaboration focused on integrated surgical solutions for ear, nose, and throat care. The announcement points to a partnership between the two medical-technology companies, but the information provided does not specify the products, launch timeline, or commercial terms. No regulatory decision, acquisition, or financial impact is reported in the item.",
+      "practice_change_ar": "في الوقت الحالي، لا يعني هذا التعاون تغييراً مؤكداً في خيارات الأجهزة أو سير العمل السريري للجراحين.",
+      "practice_change_en": "For now, the collaboration does not establish a change to surgeons’ current equipment choices or clinical workflows.",
+      "future_impact_ar": "قد يشجع التعاون مزيداً من التكامل بين تقنيات جراحة الأنف والأذن والحنجرة، لكن أثره العملي سيتوقف على المنتجات والبيانات التي تعلنها الشركتان لاحقاً.",
+      "future_impact_en": "The partnership may encourage further integration of ENT surgical technologies, but its practical impact will depend on the products and evidence that the companies eventually disclose.",
+      "why_important_ar": "إذا أسفر التعاون عن أنظمة متوافقة وأكثر تكاملاً، فقد يؤثر في دمج الأجهزة وقرارات شرائها في غرف عمليات الأنف والأذن والحنجرة.",
+      "why_important_en": "If the partnership produces compatible, streamlined systems, it could affect equipment integration and purchasing decisions in ENT operating rooms.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "شراكة تجارية ذات صلة بالتخصص، لكن تفاصيل المنتجات والأثر السريري غير متاحة في الخبر.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "في خبر يهم قطاع تقنيات الأنف والأذن والحنجرة، أعلنت شركتا ميدترونيك وكارل شتورز عن تعاون لتطوير حلول جراحية متكاملة. ويشير الإعلان إلى شراكة بين شركتين بارزتين في مجال الأجهزة الطبية، لكنه لا يوضح في المعلومات المتاحة ما المنتجات التي ستشملها، أو متى ستُطرح، أو تفاصيل الشروط التجارية. لذلك، لا توجد حالياً دلالة على تغيير مباشر في الأجهزة التي يستخدمها الجراحون أو في سير العمل داخل غرف العمليات. أهمية الخبر تكمن في احتمال أن يؤدي التعاون مستقبلاً إلى تحسين توافق الأنظمة والأجهزة أو تبسيط دمجها. لكن ذلك يظل احتمالاً، وليس نتيجة مثبتة. وسيحتاج الجراحون ومؤسسات الرعاية الصحية إلى انتظار تفاصيل المنتجات، وتوافرها، وأي بيانات تدعم فائدتها العملية قبل تقييم أثرها على الممارسة أو قرارات الشراء.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026110802",
+      "title_ar": "شركات رائدة في طب الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية",
+      "title_en": "Leading ENT Companies Driving Medical Technology Innovation",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-08",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت SNS Insider مقالًا بعنوان «شركات رائدة في طب الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية». ولا يتضمن الخبر المتاح سوى العنوان، من دون تحديد الشركات أو التقنيات أو التطورات التي يناقشها المقال. كما لا يذكر أي استحواذ أو دعوى قضائية أو تحرك في الأسهم أو قرار تنظيمي. ويلزم الاطلاع على تفاصيل إضافية لتقييم أي شركة أو منتج بعينه.",
+      "summary_en": "SNS Insider published an article titled “Leading ENT Companies Driving Medical Technology Innovation.” The available news item provides only the headline and does not identify the companies, technologies, or specific developments discussed. It reports no acquisition, lawsuit, stock movement, or regulatory decision. Further details would be needed to assess any particular company or product.",
+      "practice_change_ar": "لا يقدم الخبر معلومات كافية عن المنتجات أو الأدلة السريرية لتبرير تغيير الممارسة الحالية للجراحين.",
+      "practice_change_en": "The item does not provide enough product or clinical evidence to suggest a change to surgeons’ current practice.",
+      "future_impact_ar": "إذا تناول المقال تقنيات ناشئة، فقد تستحق التطورات مراجعة لاحقًا عند توافر معلومات عن إمكاناتها ووضعها التنظيمي وأدلتها السريرية.",
+      "future_impact_en": "If the article identifies emerging technologies, those developments may merit review once their capabilities, regulatory status, and clinical evidence are available.",
+      "why_important_ar": "يشير الخبر إلى استمرار الاهتمام بالابتكار في تقنيات الأنف والأذن والحنجرة، لكنه لا يقدم أدلة محددة على فائدة سريرية أو تأثير في الممارسة.",
+      "why_important_en": "It signals continued attention to innovation in ENT technology, but offers no specific evidence of clinical benefit or practice impact.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "الأهمية محدودة لأن الخبر المتاح لا يحدد شركات أو تقنيات أو نتائج سريرية.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "إليكم موجزًا عن خبر في قطاع الأنف والأذن والحنجرة. نشرت SNS Insider مقالًا بعنوان «شركات رائدة في طب الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية». لكن المعلومات المتاحة تقتصر على العنوان، ولا تذكر أسماء الشركات أو المنتجات أو نتائج الدراسات، كما لا تشير إلى صفقة تجارية أو قرار تنظيمي محدد. لذلك لا يمكن استنتاج وجود تقنية جديدة جاهزة للاستخدام أو تأثير مباشر في قرارات العلاج والجراحة. بالنسبة إلى أطباء الأنف والأذن والحنجرة، لا توجد حاليًا تفاصيل كافية لتغيير الممارسة أو التوصية بمنتج. يمكن تقييم أهمية المقال بصورة أفضل عند الاطلاع على محتواه ومعرفة الأدلة السريرية والوضع التنظيمي للتقنيات التي يناقشها.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026110803",
+      "title_ar": "ميدترونيك تحصل على علامة المطابقة الأوروبية لمنصة Stealth AXiS الروبوتية لجراحة الأنف والأذن والحنجرة",
+      "title_en": "Medtronic Earns CE Mark for Stealth AXiS Robotic Platform in ENT Surgery",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-08",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "حصلت ميدترونيك على علامة المطابقة الأوروبية لمنصتها الروبوتية Stealth AXiS للاستخدام في جراحة الأنف والأذن والحنجرة، وفقًا لموقع MassDevice. وتتيح العلامة للشركة تسويق المنصة في الأسواق الأوروبية المعنية، مع مراعاة المتطلبات المحلية. ولم يحدد الإعلان الإجراءات التي تشملها المنصة، كما لم يورد نتائج سريرية أو أسعارًا أو موعدًا للإطلاق.",
+      "summary_en": "Medtronic has received CE marking for its Stealth AXiS robotic platform for use in ENT surgery, according to MassDevice. The mark allows the company to market the platform in applicable European markets, subject to local requirements. The announcement does not specify which ENT procedures are covered or provide clinical outcomes, pricing, or a launch timeline.",
+      "practice_change_ar": "في الوقت الحالي، ينبغي للجراحين اعتبار علامة المطابقة الأوروبية إنجازًا تنظيميًا لا دليلًا على تغيّر فوري في الإجراءات المتاحة أو الممارسة السريرية.",
+      "practice_change_en": "For now, surgeons should view the CE mark as a regulatory milestone rather than evidence of an immediate change in available procedures or clinical practice.",
+      "future_impact_ar": "ستتمثل المؤشرات المهمة المقبلة في إطلاق المنصة بأوروبا، والتطبيقات المحددة لها في تخصص الأنف والأذن والحنجرة، والبيانات الواقعية عن أدائها وتأثيرها في سير العمل الجراحي.",
+      "future_impact_en": "The next key signals will be the platform’s European rollout, intended ENT applications, and real-world evidence on its performance and effect on surgical workflows.",
+      "why_important_ar": "قد يوسّع هذا الاعتماد الوصول إلى التقنيات الروبوتية في جراحة الأنف والأذن والحنجرة، لكن قيمتها السريرية ستعتمد على الإجراءات التي تدعمها والأدلة المتعلقة بالسلامة والنتائج.",
+      "why_important_en": "The approval could expand access to robotic technology in ENT, but its clinical value will depend on the procedures supported and evidence of safety and outcomes.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "خبر تنظيمي مهم بشأن تقنية روبوتية، لكن تفاصيل الاستخدام والنتائج السريرية غير متاحة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أعلنت ميدترونيك حصول منصة Stealth AXiS الروبوتية على علامة المطابقة الأوروبية للاستخدام في جراحة الأنف والأذن والحنجرة. وتمثل هذه الخطوة تقدمًا تنظيميًا يتيح للشركة تسويق المنصة في الأسواق الأوروبية المعنية، وفقًا للمتطلبات المحلية.\n\nلكن الإعلان لا يوضح أنواع العمليات التي ستدعمها المنصة، ولا يقدم بيانات عن نتائج المرضى أو السلامة أو التكلفة، كما لا يحدد موعدًا للإطلاق. لذلك لا تعني العلامة وحدها أن الممارسة السريرية ستتغير فورًا. بالنسبة إلى جراحي الأنف والأذن والحنجرة، ستكون الخطوات الأهم هي معرفة التطبيقات الجراحية المحددة، وتوافر المنصة، وظهور أدلة واقعية على أثرها في الدقة وسير العمل والنتائج. إنها إشارة إلى توسع محتمل للتقنيات الروبوتية في التخصص، لكن الحكم على قيمتها السريرية يتطلب مزيدًا من التفاصيل والبيانات.",
+      "mcq": []
+    }
+  ]
+}
