@@ -1,0 +1,1086 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T10:48:51Z",
+  "articles": [
+    {
+      "pmid": "42832386",
+      "title_ar": "Subjective and Quantitative Assessment of Vocal Tremor in Patients With Adductor Laryngeal Dystonia.",
+      "title_en": "Subjective and Quantitative Assessment of Vocal Tremor in Patients With Adductor Laryngeal Dystonia.",
+      "journal": "Journal of speech, language, and hearing research : JSLHR",
+      "pub_date": "2026-Nov-10",
+      "doi": "10.1044/2026_JSLHR-25-00990",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42832386/",
+      "pdf_url": "https://doi.org/10.1044/2026_jslhr-25-00990",
+      "study_design": "Retrospective comparative study; 55 patients with ADLD and 10 controls",
+      "summary_ar": "حللت هذه الدراسة بأثر رجعي stroboscopic laryngoscopy recordings لدى 55 مريضًا بـADLD و10 controls، مع تقييم VT ذاتيًا وقياسه باستخدام video feature tracking. رُصد VT لدى 34 من 55 مريضًا (61.82%)، وكان جميعهم من الإناث، بينما لم يُرصد لدى controls أو المرضى الذكور في هذه العينة. كان tremor الأفقي هو الأكثر شيوعًا، تلاه النمط المختلط. لم تختلف قياسات tremor الأفقي بصورة مهمة بين مجموعات ADLD أو بين مجموعتي iDT وrDT. في الاتجاه anteroposterior، ظهرت فروق بين المجموعات في amplitude وvelocity للـarytenoids، وكانت oscillation amplitudes لبعض البنى أصغر في iDT مقارنةً بـrDT. تشير النتائج إلى أن video tracking قد يوفر قياسات موضوعية مفيدة لتوصيف VT وتصنيف أنماطه، لكنها لا تثبت أثرًا على العلاج أو النتائج السريرية.",
+      "summary_en": "This retrospective study assessed vocal tremor (VT) in 55 patients with adductor laryngeal dystonia (ADLD) and 10 normal-voiced controls.\nTwo blinded laryngologists classified patients with VT as having intermittent dystonia tremor (iDT) or regular dystonia tremor (rDT).\nVT was identified in 34 patients (61.82%), all female; none of the controls or male patients in this sample had VT.\nHorizontal and mixed tremor were the predominant patterns, and horizontal kinematic measures did not significantly differ between groups.\nSome anteroposterior arytenoid measures differed between groups, and iDT showed smaller oscillation amplitudes in selected structures than rDT.\nVideo feature tracking may support objective characterization and subtyping, but clinical benefit and treatment impact remain unproven.",
+      "practice_change_ar": "لا تغيّر هذه النتائج الممارسة السريرية اليوم، لكنها تدعم اعتبار video feature tracking أداة بحثية مساعدة لتوصيف VT لدى مرضى ADLD.",
+      "practice_change_en": "These findings do not change clinical practice today, but support video feature tracking as a research adjunct for characterizing VT in ADLD.",
+      "future_impact_ar": "قد يتيح التحقق من video feature tracking في دراسات مستقبلية استخدامه لمتابعة شدة tremor والاستجابة للعلاج بصورة موضوعية.",
+      "future_impact_en": "If validated in future studies, video feature tracking could enable objective monitoring of tremor severity and treatment response.",
+      "why_important_ar": "تقدم الدراسة قياسات حركية موضوعية لـVT وتصف اختلافات محتملة بين iDT وrDT لدى مرضى ADLD.",
+      "why_important_en": "The study provides objective kinematic measurements of VT and describes possible differences between iDT and rDT in ADLD.",
+      "vs_previous_ar": "بدل الاكتفاء بالتقييم البصري لـVT، تستخدم الدراسة video feature tracking لقياس amplitude وperiod وvelocity في عدة مواضع حنجرية.",
+      "vs_previous_en": "Rather than relying only on visual assessment of VT, this study uses video feature tracking to quantify amplitude, period, and velocity at multiple laryngeal sites.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة مقارنة استعادية صغيرة نسبيًا (55 مريضًا و10 controls) تقدم منهجًا كميًا واعدًا، لكنها لا تثبت فائدة علاجية أو تغييرًا للممارسة؛ لذا تستحق 3/5.",
+      "stars_reason_en": "This modest retrospective comparative study (55 patients and 10 controls) offers a promising quantitative method but does not establish treatment benefit or practice change; 3/5.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق المناقشة لتقييم صلاحية video feature tracking، وحدود العينة الصغيرة، ومدى إمكان ترجمة الفروق الحركية إلى قرارات سريرية.",
+      "jc_reason_en": "Worth discussing to assess video feature tracking validity, the limitations of the small sample, and whether kinematic differences can inform clinical decisions.",
+      "watch": true,
+      "watch_detail_ar": "يستحق video feature tracking المتابعة بوصفه تقنية ناشئة لقياس VT موضوعيًا، مع الحاجة إلى التحقق من موثوقيته وقيمته السريرية.",
+      "watch_detail_en": "Video feature tracking is worth monitoring as an emerging technology for objective VT measurement, pending validation of its reliability and clinical value.",
+      "watch_type": "technology",
+      "research_gap_ar": "هناك حاجة إلى دراسات prospective أكبر تشمل الجنسين، وتختبر موثوقية القياس وعلاقته بشدة الأعراض والاستجابة للعلاج.",
+      "research_gap_en": "Larger prospective studies including patients of both sexes are needed to test measurement reliability and associations with symptom severity and treatment response.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة عن vocal tremor، أو VT، لدى مرضى adductor laryngeal dystonia، أو ADLD. السؤال الأساسي هو ما إذا كان بالإمكان الانتقال من التقييم البصري المعتاد إلى قياس أكثر موضوعية لحركة البنى الحنجرية، وما إذا كانت القياسات تميز بين intermittent dystonia tremor وregular dystonia tremor.\n\nكانت هذه دراسة استعادية شملت 55 مريضًا مشخصًا سريريًا بـADLD و10 controls ذوي صوت طبيعي. قيّم اختصاصيان مقاطع stroboscopic laryngoscopy دون معرفة تصنيف بعضهما، وصنفا المرضى الذين لديهم VT إلى مجموعتي iDT وrDT. بعد ذلك استُخدم video feature tracking لقياس amplitude وperiod وvelocity في epiglottis وvestibular folds وarytenoids، وفي الاتجاهين الأفقي وanteroposterior.\n\nظهر VT لدى 34 من أصل 55 مريضًا، أي 61.82%، وكان جميع هؤلاء من الإناث. لم يُرصد VT في controls أو لدى المرضى الذكور ضمن هذه العينة، وهي ملاحظة مهمة لكنها لا تثبت أن VT يقتصر على الإناث؛ فعدد الذكور كان ستة فقط. كان النمط الأفقي هو الأكثر شيوعًا، يليه النمط المختلط. لم تظهر فروق مهمة في قياسات tremor الأفقي بين المجموعات. أما في الاتجاه anteroposterior، فظهرت فروق في amplitude وvelocity للـarytenoids، وكانت بعض oscillation amplitudes أصغر في مجموعة iDT مقارنةً بمجموعة rDT.\n\nالأهمية الأساسية للدراسة منهجية: فهي توضح إمكان استخراج قياسات حركية كمية من تسجيلات الحنجرة، وقد تساعد هذه القياسات مستقبلًا في توصيف tremor أو تصنيفه ومتابعة تغيره. لكن الدراسة استعادية، والعينة محدودة، ولم تختبر ما إذا كانت هذه القياسات تغير التشخيص أو اختيار العلاج أو نتائج المرضى. لذلك لا تفرض تغييرًا على الممارسة اليوم، ولا ينبغي اعتبار video tracking بديلًا عن التقييم السريري.\n\nالخلاصة: هذه إضافة مفيدة إلى أدوات البحث في laryngology، وتستحق المتابعة والتحقق في دراسات أكبر prospective، مع تقييم ثبات القياسات وربطها بالأعراض والاستجابة للعلاج. التقييم الإجمالي ثلاث نجوم من خمس، والثقة متوسطة: معرفة جديرة بالاهتمام، لا دليلًا على تغيير الممارسة حاليًا.",
+      "audio_script_en": "Today’s paper examines vocal tremor, or VT, in patients with adductor laryngeal dystonia, or ADLD. It asks whether laryngeal tremor can be measured more objectively than by visual assessment alone, and whether measurements distinguish intermittent dystonia tremor, or iDT, from regular dystonia tremor, or rDT.\n\nThis was a retrospective study of 55 patients clinically diagnosed with ADLD and 10 normal-voiced controls. Two laryngologists assessed stroboscopic laryngoscopy recordings and classified patients with VT into iDT and rDT groups. The researchers then used video feature tracking to measure amplitude, period, and velocity at the epiglottis, vestibular folds, and arytenoids, in horizontal and anteroposterior directions.\n\nVT was identified in 34 of 55 patients, or 61.82%; all 34 were female. No VT was identified among controls or the six male patients in this sample. That sex-related observation is notable, but the small number of male patients means it should not be interpreted as evidence that VT occurs only in women. Horizontal tremor was the most common pattern, followed by mixed tremor. Horizontal measurements did not differ significantly across the ADLD groups. In the anteroposterior direction, arytenoid amplitude and velocity showed group differences, and selected structures had smaller oscillation amplitudes in the iDT group than in the rDT group.\n\nThe main contribution is methodological. The study demonstrates that video tracking can extract quantitative kinematic measures from laryngeal recordings and may eventually help characterize or subtype tremor and monitor change. However, the study was retrospective, included a limited sample, and did not test whether these measures alter diagnosis, treatment selection, or patient outcomes. It therefore does not justify a change in clinical practice today, and video tracking should not be regarded as a replacement for clinical assessment.\n\nIn summary, this is a useful addition to laryngology research methods, but its clinical role remains uncertain. Larger prospective studies should establish measurement reliability and determine whether the kinematic measures relate to symptoms or treatment response. Overall, I would rate the paper three out of five stars, with moderate confidence: it is worth knowing, but does not yet change practice.",
+      "mcq": [
+        {
+          "q_ar": "ما نسبة مرضى ADLD الذين رُصد لديهم VT في هذه الدراسة؟",
+          "q_en": "What proportion of patients with ADLD had VT detected in this study?",
+          "options_ar": [
+            "أ) 18.2%",
+            "ب) 41.2%",
+            "ج) 61.82%",
+            "د) 100%"
+          ],
+          "options_en": [
+            "A) 18.2%",
+            "B) 41.2%",
+            "C) 61.82%",
+            "D) 100%"
+          ],
+          "answer": 2,
+          "explanation_ar": "رُصد VT لدى 34 من أصل 55 مريضًا بـADLD، أي 61.82%.",
+          "explanation_en": "VT was detected in 34 of 55 patients with ADLD, or 61.82%."
+        },
+        {
+          "q_ar": "ما التقنية التي استُخدمت لقياس tremor كميًا؟",
+          "q_en": "Which technique was used to quantify tremor?",
+          "options_ar": [
+            "أ) Video feature tracking",
+            "ب) CT angiography",
+            "ج) Electromyography وحدها",
+            "د) Pure-tone audiometry"
+          ],
+          "options_en": [
+            "A) Video feature tracking",
+            "B) CT angiography",
+            "C) Electromyography alone",
+            "D) Pure-tone audiometry"
+          ],
+          "answer": 0,
+          "explanation_ar": "استخدم الباحثون video feature tracking على تسجيلات stroboscopic laryngoscopy لقياس kinematic parameters.",
+          "explanation_en": "The researchers used video feature tracking on stroboscopic laryngoscopy recordings to measure kinematic parameters."
+        },
+        {
+          "q_ar": "أي وصف يلخص النتيجة المتعلقة بقياسات tremor الأفقي؟",
+          "q_en": "Which statement summarizes the findings for horizontal tremor measurements?",
+          "options_ar": [
+            "أ) اختلفت جميع القياسات بوضوح بين iDT وrDT",
+            "ب) لم تظهر فروق مهمة ضمن مجموعات ADLD أو بين iDT وrDT",
+            "ج) لم يُرصد tremor أفقي لدى أي مريض",
+            "د) كانت القياسات أكبر دائمًا في controls"
+          ],
+          "options_en": [
+            "A) All measurements differed clearly between iDT and rDT",
+            "B) No significant differences were found within ADLD groups or between iDT and rDT",
+            "C) No patients had horizontal tremor",
+            "D) Measurements were always greater in controls"
+          ],
+          "answer": 1,
+          "explanation_ar": "لم تختلف معلمات tremor الأفقي بصورة ذات دلالة إحصائية بين مجموعات ADLD أو بين iDT وrDT.",
+          "explanation_en": "Horizontal tremor parameters did not differ significantly within the ADLD groups or between iDT and rDT."
+        }
+      ]
+    },
+    {
+      "pmid": "43002191",
+      "title_ar": "Recurrence Versus Uncontrolled Disease in Chronic Rhinosinusitis with Nasal Polyps: A Scoping Review of Conceptual and Operational Definitions.",
+      "title_en": "Recurrence Versus Uncontrolled Disease in Chronic Rhinosinusitis with Nasal Polyps: A Scoping Review of Conceptual and Operational Definitions.",
+      "journal": "Current allergy and asthma reports",
+      "pub_date": "2026-Nov-09",
+      "doi": "10.1007/s11882-026-01306-0",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43002191/",
+      "pdf_url": null,
+      "study_design": "Scoping review of 44 sources",
+      "summary_ar": "راجعت هذه scoping review مفهومي recurrence وuncontrolled disease في CRSwNP، وشملت 44 مصدرًا بعد فحص 2,488 سجلًا. يشترك المفهومان في تقييم burden الذي يشعر به المريض، والنشاط الالتهابي الموضوعي، ومتطلبات العلاج، لكنهما يختلفان في البعد الزمني والحالة المرجعية والغرض السريري. غالبًا ما يُستخدم recurrence بعد ESS، وقد يُعرّف بعودة nasal polyps أو الحاجة إلى revision ESS أو بتدهور متعدد الأبعاد بعد تحسن سابق. أما uncontrolled disease فيُستخدم عبر سياقات العلاج الطبي والجراحي وbiologic لتقدير مدى قبول burden الحالي، ولا يتطلب تحسنًا سابقًا. يوضح إطار من أربعة أنماط أن recurrence وcurrent control بُعدان مستقلان، مع وجود حالات discordant مثل استمرار uncontrolled disease دون recurrence أو حدوث recurrence مع بقاء control مقبولًا. وتخلص المراجعة إلى أن treatment response وremission وtreatment failure وescalation معلومات مرتبطة لكنها لا تعادل هذين المفهومين، وتقترح تقييم trajectory وcontrol كلًا على حدة.",
+      "summary_en": "This scoping review examined how recurrence and uncontrolled disease are conceptually and operationally defined in CRSwNP, including 44 sources identified from 2,488 records. The two constructs share assessment domains, including patient-perceived burden, objective inflammatory activity, and treatment requirements, but differ in timing, reference state, operational rules, and clinical purpose. Recurrence is most often considered after ESS and can mean endoscopic polyp regrowth, revision ESS, or broader worsening after a previously improved state. Uncontrolled disease is used across medical, surgical, and biologic treatment settings to describe whether current disease burden is acceptable, without requiring prior improvement. A four-pattern framework shows that disease trajectory and current control are separate dimensions, including persistent uncontrolled disease without recurrence and recurrence despite maintained control. Treatment response, remission, treatment failure, and escalation provide related but non-equivalent information. The authors recommend assessing trajectory and current control separately and call for prospective evaluation of the framework’s prognostic and clinical value.",
+      "practice_change_ar": "اليوم، قيّموا recurrence وcurrent disease control كلًا على حدة في CRSwNP بدل استخدام أحدهما بديلًا عن الآخر.",
+      "practice_change_en": "Today, assess recurrence and current disease control separately in CRSwNP rather than using one as a proxy for the other.",
+      "future_impact_ar": "قد تختبر الدراسات المستقبلية ما إذا كان الجمع بين trajectory وcurrent control يحسن التنبؤ بالنتائج ويوجه القرارات العلاجية.",
+      "future_impact_en": "Future studies can test whether combining disease trajectory with current control improves prognostication and treatment decisions.",
+      "why_important_ar": "توضح المراجعة أن عودة المرض بعد التحسن وارتفاع burden الحالي مفهومان متداخلان لكن غير متطابقين، ما قد يحسن دقة وصف النتائج السريرية.",
+      "why_important_en": "The review clarifies that disease returning after improvement and unacceptable current burden overlap but are not interchangeable, potentially improving clinical outcome reporting.",
+      "vs_previous_ar": "على خلاف الاستخدامات غير المتسقة التي قد تخلط recurrence مع uncontrolled disease، تقترح المراجعة إطارًا يفصل بين trajectory المرض ودرجة control الحالية.",
+      "vs_previous_en": "Rather than conflating recurrence with uncontrolled disease, the review proposes a framework that separates disease trajectory from current control.",
+      "stars": 3,
+      "stars_reason_ar": "مراجعة استكشافية لـ44 مصدرًا تقدم إطارًا مفاهيميًا مفيدًا، لكنها لا تقدم دليلًا تجريبيًا يغيّر التدبير السريري اليوم؛ لذا تستحق الاطلاع دون أن تكون ممارسة مغيرة.",
+      "stars_reason_en": "This scoping review of 44 sources offers a useful conceptual framework but no empirical evidence that changes management today, making it worthwhile to know rather than practice-changing.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "موضوع مناسب للنقاش لأنه يسلط الضوء على اختلاف تعريفات recurrence وuncontrolled disease، ويقترح إطارًا قد يحسن تصميم الدراسات وتفسير النتائج.",
+      "jc_reason_en": "Suitable for journal club because it highlights inconsistent definitions of recurrence and uncontrolled disease and proposes a framework that may improve study design and outcome interpretation.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات prospective لتحديد ما إذا كان تقييم trajectory وcurrent control منفصلين يضيف قيمة prognostic أو يحسن القرارات العلاجية.",
+      "research_gap_en": "Prospective studies are needed to determine whether separately assessing trajectory and current control adds prognostic value or improves treatment decisions.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نناقش اليوم مراجعة استكشافية عن الفرق بين recurrence وuncontrolled disease لدى مرضى CRSwNP. شملت المراجعة 44 مصدرًا اختيرت من 2,488 سجلًا، وركزت على كيفية تعريف كل مفهوم واستخدامه في الدراسات والممارسة.\n\nالفكرة الأساسية هي أن المفهومين يشتركان في بعض مجالات التقييم: burden الذي يصفه المريض، والنشاط الالتهابي الموضوعي، والحاجة إلى العلاج. لكن هذا التشابه لا يعني أنهما الشيء نفسه. recurrence يصف trajectory المرض، وغالبًا ما يُستخدم بعد ESS؛ وقد يعني عودة nasal polyps، أو الحاجة إلى revision ESS، أو تدهورًا بعد أن كان المريض قد تحسن. في المقابل، uncontrolled disease يصف مدى قبول الحالة الحالية، ويمكن استخدامه في سياقات العلاج الطبي أو الجراحي أو biologic، دون اشتراط أن يكون المريض قد تحسن سابقًا.\n\nلذلك قد يكون المريض لديه uncontrolled disease مستمر من دون recurrence، أو قد يحدث recurrence مع بقاء control مقبولًا. وتؤكد المراجعة أن treatment response وremission وtreatment failure وescalation مفاهيم ذات صلة، لكنها لا تحل محل تقييم trajectory وcontrol.\n\nالأثر العملي المباشر ليس تغيير علاج محدد، بل تحسين طريقة التقييم والتوثيق: اسألوا عن عودة المرض مقارنة بالحالة السابقة، وقيّموا burden الحالي ومدى السيطرة عليه بشكل مستقل، مع مراعاة مدة الاستفادة من العلاج السابق وتفضيلات المريض. هذه مراجعة مفاهيمية، لذلك مستوى الثقة متوسط، ولا تثبت أن الإطار المقترح يحسن النتائج. ومن أهم فجوات البحث الحاجة إلى دراسات prospective تختبر القيمة prognostic والسريرية لهذا التقييم ثنائي الأبعاد. تستحق الورقة النقاش في journal club لأنها قد تساعد على توحيد تعريفات الدراسات وتحسين تفسير قرارات التصعيد العلاجي.",
+      "audio_script_en": "Today’s review examines the distinction between recurrence and uncontrolled disease in CRSwNP. The authors included 44 sources selected from 2,488 records and explored how each construct is defined and used in research and clinical care.\n\nThe central message is that the two concepts share assessment domains: patient-perceived burden, objective inflammatory activity, and treatment requirements. But shared measurements do not make the concepts equivalent. Recurrence describes disease trajectory and is most often used after ESS. It may refer to endoscopic nasal polyp regrowth, revision ESS, or broader worsening after a period of improvement. Uncontrolled disease, by contrast, describes whether the current burden is acceptable. It can be applied in medical, surgical, and biologic treatment settings and does not require a previous improvement.\n\nThis distinction explains two potentially discordant situations: a patient may have persistent uncontrolled disease without recurrence, or may have recurrence while maintaining acceptable control. Treatment response, remission, treatment failure, and escalation are related concepts, but they do not substitute for separately assessing trajectory and current control.\n\nThe immediate practical implication is not a new treatment recommendation. It is to document these dimensions separately: ask whether disease has returned relative to the patient’s previous state, and assess current burden and control independently. Consider duration of benefit from previous therapy and the patient’s priorities. Because this is a conceptual scoping review rather than an outcomes study, confidence is moderate and the proposed approach has not been shown to improve patient outcomes. Prospective studies should establish whether this two-dimensional assessment adds prognostic or clinical value. The article is a good journal-club choice because clearer definitions could improve outcome reporting and interpretation of treatment escalation in CRSwNP.",
+      "mcq": [
+        {
+          "q_ar": "ما الفرق الأساسي بين recurrence وuncontrolled disease في CRSwNP؟",
+          "q_en": "What is the main distinction between recurrence and uncontrolled disease in CRSwNP?",
+          "options_ar": [
+            "أ) كلاهما يتطلب عودة nasal polyps بعد ESS",
+            "ب) recurrence يصف trajectory بعد حالة سابقة، بينما uncontrolled disease يصف burden الحالي المقبول أو غير المقبول",
+            "ج) uncontrolled disease لا يُستخدم إلا بعد biologic",
+            "د) لا يوجد فرق مفاهيمي بينهما"
+          ],
+          "options_en": [
+            "A) Both require nasal polyp regrowth after ESS",
+            "B) Recurrence describes trajectory relative to a prior state, while uncontrolled disease describes acceptability of current burden",
+            "C) Uncontrolled disease is used only after biologic therapy",
+            "D) There is no conceptual difference between them"
+          ],
+          "answer": 1,
+          "explanation_ar": "تفرق المراجعة بين trajectory المرض المرتبط غالبًا بحالة سابقة، وبين تقدير burden الحالي الذي لا يتطلب تحسنًا سابقًا.",
+          "explanation_en": "The review distinguishes disease trajectory, often referenced to a prior state, from assessment of current burden, which does not require prior improvement."
+        },
+        {
+          "q_ar": "أي حالة تمثل نمطًا discordant بحسب الإطار المقترح؟",
+          "q_en": "Which situation represents a discordant pattern in the proposed framework?",
+          "options_ar": [
+            "أ) recurrence مع maintained control",
+            "ب) غياب recurrence مع غياب أي أعراض دائمًا",
+            "ج) remission بعد كل علاج",
+            "د) treatment failure مع ضرورة revision ESS في جميع الحالات"
+          ],
+          "options_en": [
+            "A) Recurrence with maintained control",
+            "B) No recurrence with no symptoms in every case",
+            "C) Remission after every treatment",
+            "D) Treatment failure requiring revision ESS in every case"
+          ],
+          "answer": 0,
+          "explanation_ar": "تذكر المراجعة recurrence مع بقاء control مقبولًا كأحد النمطين discordant اللذين يبرزان استقلال المفهومين.",
+          "explanation_en": "The review identifies recurrence despite maintained control as one of the discordant patterns demonstrating that the constructs are independent."
+        },
+        {
+          "q_ar": "ما الاستنتاج العملي الأهم الذي تدعمه هذه المراجعة؟",
+          "q_en": "What is the main practical conclusion supported by this review?",
+          "options_ar": [
+            "أ) استخدام recurrence وuncontrolled disease كمترادفين",
+            "ب) الاعتماد على revision ESS وحده لتحديد control",
+            "ج) تقييم trajectory المرض وcurrent control كلًا على حدة",
+            "د) اعتبار treatment response مرادفًا لـ remission"
+          ],
+          "options_en": [
+            "A) Use recurrence and uncontrolled disease interchangeably",
+            "B) Use revision ESS alone to determine control",
+            "C) Assess disease trajectory and current control separately",
+            "D) Treat treatment response as synonymous with remission"
+          ],
+          "answer": 2,
+          "explanation_ar": "توصي المراجعة بتقييم trajectory وcurrent control بصورة منفصلة، مع تفسيرهما إلى جانب response ومدة الفائدة العلاجية وتفضيلات المريض.",
+          "explanation_en": "The review recommends separate assessment of trajectory and current control, interpreted alongside treatment response, duration of benefit, and patient priorities."
+        }
+      ]
+    },
+    {
+      "pmid": "42771827",
+      "title_ar": "Automatic Prediction of Vocal Strain Scores in Singing Voice Using Audio and Electroglottographic Modalities.",
+      "title_en": "Automatic Prediction of Vocal Strain Scores in Singing Voice Using Audio and Electroglottographic Modalities.",
+      "journal": "Journal of speech, language, and hearing research : JSLHR",
+      "pub_date": "2026-Nov-10",
+      "doi": "10.1044/2026_JSLHR-25-01016",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42771827/",
+      "pdf_url": "https://doi.org/10.1044/2026_jslhr-25-01016",
+      "study_design": "Machine-learning prediction study; 27 singers with singer-independent held-out test set",
+      "summary_ar": "طوّرت هذه الدراسة نماذج machine learning للتنبؤ بدرجات strain الصوتية لدى المغنين باستخدام تسجيلات audio وelectroglottographic (EGG). شملت البيانات 27 مغنيًا، مع تقسيم المشاركين إلى مجموعة train-validation ومجموعة test مستقلة لتقييم التعميم على مغنين غير مستخدمين في التدريب. قارنت الدراسة مجموعات مختلفة من acoustic وEGG features، واختبرت أثر بيانات META وfeature selection ودمج modalities. في مجموعة test، حقق نموذج audio-only ارتباط Spearman بقيمة ρ = .812، وحقق نموذج EGG-only قيمة ρ = .759، وكلاهما p < .001. بلغ أفضل أداء ρ = .825 باستخدام ridge model جمع features مختارة من audio وMETA. تدعم النتائج إمكانية استخدام هذه النماذج لتقييم vocal strain بصورة موضوعية، لكنها لا تثبت حتى الآن تحسن نتائج المرضى أو فائدة سريرية مباشرة.",
+      "summary_en": "This study developed machine-learning models to predict perceptual vocal strain scores in singers using audio and electroglottographic (EGG) recordings.\nIt included 27 singers, with an independent held-out test set designed to assess generalization to singers not used for model training.\nThe investigators compared acoustic and EGG feature sets and evaluated the effects of singer metadata, feature selection, and feature-level fusion.\nOn the test set, the audio-only model achieved a Spearman correlation of ρ = .812, while the EGG-only model achieved ρ = .759; both had p < .001.\nThe best test performance was ρ = .825 with a ridge model combining selected audio features and metadata.\nThese findings support objective prediction of vocal strain, but do not yet demonstrate improved clinical outcomes or direct clinical utility.",
+      "practice_change_ar": "لا يغيّر هذا العمل الممارسة السريرية اليوم، لكنه يشير إلى إمكان تطوير أدوات موضوعية مساعدة لتقييم vocal strain لدى المغنين.",
+      "practice_change_en": "This study does not change clinical practice today, but suggests a path toward objective adjuncts for assessing vocal strain in singers.",
+      "future_impact_ar": "قد تتيح هذه النماذج مستقبلًا متابعة vocal strain بصورة كمية إذا جرى التحقق منها في مجموعات سريرية أكبر وربطها بقرارات العلاج والنتائج.",
+      "future_impact_en": "These models may enable quantitative monitoring of vocal strain if validated in larger clinical cohorts and linked to treatment decisions and outcomes.",
+      "why_important_ar": "تقدم الدراسة دليلًا على أن audio وEGG features يمكن أن تتنبأ بدرجات strain التي يحددها الخبراء لدى المغنين.",
+      "why_important_en": "The study shows that audio and EGG features can predict expert-rated strain scores in singers.",
+      "vs_previous_ar": "بدل الاعتماد على perceptual ratings وحدها، تختبر الدراسة دمج audio وEGG وMETA ضمن نماذج تتنبأ بالدرجات مع اختبار مستقل على مغنين لم يشاركوا في التدريب.",
+      "vs_previous_en": "Rather than relying solely on perceptual ratings, this study tests combined audio, EGG, and metadata models using an independent singer-level test set.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة نمذجة تنبؤية ببيانات 27 مغنيًا واختبار مستقل، مع نتائج واعدة وميزة novelty تقنية؛ لكنها لا تقيس نتائج سريرية أو تغيّر تدبير المرضى، لذلك تستحق المعرفة دون أن تغيّر الممارسة.",
+      "stars_reason_en": "This predictive modeling study includes 27 singers and an independent test set, with promising performance and technical novelty; however, it does not assess clinical outcomes or alter patient management, making it useful to know rather than practice-changing.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for journal club because it uses singer-independent testing, compares modalities, and raises the important distinction between predictive accuracy and clinical utility.",
+      "watch": true,
+      "watch_detail_ar": "يجدر متابعة تقنية machine learning التي تدمج audio وEGG، إذ قد تصبح أداة مساعدة قابلة للتحقق لتقييم vocal strain لدى المغنين.",
+      "watch_detail_en": "Track the machine-learning technology combining audio and EGG, which may become a validated adjunct for assessing vocal strain in singers.",
+      "watch_type": "technology",
+      "research_gap_ar": "يلزم التحقق الخارجي على مجموعات أكبر وأكثر تنوعًا، مع اختبار قابلية تكرار القياسات وأثرها على التشخيص والتدبير والنتائج الصوتية.",
+      "research_gap_en": "External validation in larger, more diverse cohorts is needed, along with assessment of measurement repeatability and effects on diagnosis, management, and voice outcomes.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تتناول هذه الدراسة إمكانية التنبؤ بدرجات vocal strain لدى المغنين باستخدام machine learning وبيانات الصوت وelectroglottography، أو EGG. شملت الدراسة 27 مغنيًا، وقُسمت البيانات إلى مجموعة train-validation ومجموعة test مستقلة، بحيث لا يُستخدم المغنون في مجموعة الاختبار لتدريب النماذج. هذه نقطة مهمة لأنها تختبر قدرة النموذج على التعميم على أشخاص جدد، بدل الاكتفاء بأداء جيد على البيانات التي تعلّم منها.\n\nقارن الباحثون نماذج audio-only وEGG-only، واختبروا كذلك إضافة بيانات META ودمج features مختارة. في مجموعة الاختبار، وصل ارتباط Spearman لنموذج audio-only إلى ρ = .812، ولـ EGG-only إلى ρ = .759، مع p < .001 لكليهما. أما أفضل نتيجة إجمالية، ρ = .825، فكانت لنموذج ridge جمع features مختارة من audio وMETA. وخلص الباحثون أيضًا إلى أن EGG features تحمل معلومات تنبؤية قابلة للتفسير، رغم أن أداء audio كان أعلى عدديًا في المقارنة المنفردة.\n\nمن ناحية الجودة، هذه دراسة تقنية تنبؤية وليست تجربة علاجية أو دراسة نتائج سريرية. عدد المشاركين محدود، لكن وجود test set مستقل وتصميم singer-independent يدعمان قوة التقييم مقارنةً بالاختبار على بيانات التدريب فقط. لا تثبت النتائج أن استخدام النموذج يحسن التشخيص أو العلاج، ولا توضح بعد كيف سيُدمج في تقييم laryngology اليومي. لذلك لا تغيّر الدراسة الممارسة حاليًا، لكنها تستحق المتابعة بوصفها تقنية واعدة لقياس vocal strain بصورة موضوعية.\n\nالخطوة التالية هي التحقق الخارجي على مجموعات أكبر وأكثر تنوعًا، وتقييم تكرار القياسات، ثم اختبار ما إذا كانت المعلومات التي يقدمها النموذج تؤثر فعلًا في قرارات التدبير أو النتائج الصوتية. الخلاصة: أداء التنبؤ مشجع، ودمج audio مع metadata حقق أفضل ارتباط، لكن الفائدة السريرية ما زالت غير مثبتة.",
+      "audio_script_en": "This study asks whether machine learning can predict vocal strain ratings in singers using audio and electroglottographic, or EGG, recordings. It included 27 singers and separated the data into a train-validation set and an independent test set. Singers in the test set were not used to train the models, which provides a more meaningful test of whether a model can generalize to new singers.\n\nThe investigators compared audio-only and EGG-only models, and also examined metadata and feature-level fusion. In the held-out test set, the audio-only model achieved a Spearman correlation of ρ = .812, and the EGG-only model achieved ρ = .759; both results had p < .001. The highest test performance, ρ = .825, came from a ridge model combining selected audio features with metadata. Although audio models performed better numerically in the single-modality comparison, the authors report that EGG features also showed robust predictive potential and offered interpretability related to glottal dynamics.\n\nIn terms of evidence quality, this is a technical prediction study, not a treatment trial or a study of patient outcomes. The participant sample is small, but the independent singer-level test set strengthens the evaluation compared with testing only on training data. The findings do not show that using the model improves diagnosis, management, or voice outcomes, and the best model’s performance does not by itself establish clinical usefulness. Thus, the work does not change laryngology practice today, but it is worth knowing as a developing objective assessment technology.\n\nThe key next steps are external validation in larger and more diverse singer populations, assessment of measurement repeatability, and studies testing whether model results change clinical decisions or improve outcomes. Overall, the prediction results are promising, with the best performance from selected audio features plus metadata, but clinical utility remains unproven.",
+      "mcq": [
+        {
+          "q_ar": "ما أفضل أداء على مجموعة الاختبار المستقلة، وأي نموذج حققه؟",
+          "q_en": "What was the best performance on the independent test set, and which model achieved it?",
+          "options_ar": [
+            "أ) ρ = .759 باستخدام EGG-only",
+            "ب) ρ = .812 باستخدام audio-only",
+            "ج) ρ = .825 باستخدام ridge model يجمع audio وMETA",
+            "د) ρ = .823 باستخدام random forest وEGG"
+          ],
+          "options_en": [
+            "A) ρ = .759 with the EGG-only model",
+            "B) ρ = .812 with the audio-only model",
+            "C) ρ = .825 with a ridge model combining audio and META",
+            "D) ρ = .823 with random forest and EGG"
+          ],
+          "answer": 2,
+          "explanation_ar": "حقق ridge model الذي دمج features مختارة من audio وMETA أعلى ارتباط على مجموعة الاختبار، بقيمة ρ = .825.",
+          "explanation_en": "The ridge model combining selected audio features and META achieved the highest test-set correlation, ρ = .825."
+        },
+        {
+          "q_ar": "ما العنصر التصميمي الذي يدعم تقييم قدرة النموذج على التعميم على مغنين جدد؟",
+          "q_en": "Which design feature supports assessment of generalization to new singers?",
+          "options_ar": [
+            "أ) استخدام بيانات التدريب فقط",
+            "ب) تقسيم المشاركين إلى train-validation ومجموعة test مستقلة على مستوى المغني",
+            "ج) تقييم strain بواسطة النموذج دون expert ratings",
+            "د) استخدام EGG دون أي features أخرى"
+          ],
+          "options_en": [
+            "A) Using training data only",
+            "B) Splitting singers into train-validation and an independent singer-level test set",
+            "C) Rating strain with the model instead of expert ratings",
+            "D) Using EGG without any other features"
+          ],
+          "answer": 1,
+          "explanation_ar": "استخدام مجموعة test مستقلة تضم مغنين لم يُستخدموا في التدريب يختبر singer-independent generalization.",
+          "explanation_en": "An independent test set containing singers not used for training tests singer-independent generalization."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن الأثر السريري الحالي؟",
+          "q_en": "What is the most appropriate conclusion about current clinical impact?",
+          "options_ar": [
+            "أ) يثبت أن استخدام النموذج يحسن نتائج علاج vocal strain",
+            "ب) يفرض استبدال perceptual assessment بالنموذج",
+            "ج) يقدم نتائج تنبؤية واعدة، لكن الفائدة السريرية لم تُثبت بعد",
+            "د) يثبت عدم فائدة EGG في تقييم الصوت"
+          ],
+          "options_en": [
+            "A) It proves that model use improves vocal-strain treatment outcomes",
+            "B) It mandates replacing perceptual assessment with the model",
+            "C) It provides promising prediction results, but clinical utility is not yet established",
+            "D) It proves that EGG is not useful for voice assessment"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة تقيس دقة التنبؤ بدرجات expert ratings، ولا تختبر أثر النموذج على التشخيص أو التدبير أو النتائج.",
+          "explanation_en": "The study evaluates prediction of expert ratings; it does not test effects on diagnosis, management, or outcomes."
+        }
+      ]
+    },
+    {
+      "pmid": "43007373",
+      "title_ar": "Prospective Assessment of Nasal Airway Function After Primary Open Rhinoplasty.",
+      "title_en": "Prospective Assessment of Nasal Airway Function After Primary Open Rhinoplasty.",
+      "journal": "Aesthetic plastic surgery",
+      "pub_date": "2026-Nov-10",
+      "doi": "10.1007/s00266-026-06413-x",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43007373/",
+      "pdf_url": null,
+      "study_design": "Single-center prospective cohort n=32",
+      "summary_ar": "قيّمت هذه الدراسة prospective cohort وظيفة nasal airway قبل primary open rhinoplasty وبعدها بثلاثة أشهر لدى 32 مريضًا خضعوا للجراحة لأسباب aesthetic دون شكوى من nasal obstruction قبل العملية. زاد peak nasal inspiratory flow (PNIF) من 76.9 إلى 86.2 L/min، وانخفضت درجات NOSE من 23.4 إلى 14.3، وكلا التغيرين كان ذا دلالة إحصائية (p<0.001). تحسنت درجات البنود 2–5 في NOSE، بينما ساء البند الأول المتعلق بـnasal fullness قليلًا (p=0.006). زادت nasolabial angle وتحسنت right وleft internal nasal valve (INV) angles. لم توجد correlations ذات دلالة بين تغيرات PNIF وNOSE والزوايا المقاسة. تشير النتائج إلى عدم تدهور الوظيفة الأنفية خلال المتابعة القصيرة، لكن حجم العينة والتصميم أحادي المركز وعدم وجود مجموعة مقارنة تحد من الاستنتاجات.",
+      "summary_en": "This single-center prospective cohort evaluated nasal airway function in 32 patients undergoing primary open rhinoplasty for aesthetic indications without reported preoperative obstruction.\nAt three months, PNIF increased from 76.9 to 86.2 L/min, and NOSE scores decreased from 23.4 to 14.3; both changes were statistically significant (p<0.001).\nNOSE items 2–5 improved, while the nasal-fullness item worsened slightly (p=0.006).\nThe nasolabial angle increased, and right and left INV angles improved.\nChanges in PNIF, NOSE scores, and measured angles were not significantly correlated.\nThe findings suggest no short-term functional deterioration, but the small sample, single-center design, and lack of a comparison group limit causal and long-term conclusions.",
+      "practice_change_ar": "لا تدعم هذه الدراسة تغييرًا فوريًا في التقنية الجراحية، لكنها تعزز أهمية توثيق وظيفة الأنف قبل rhinoplasty وبعدها باستخدام مقاييس موضوعية وpatient-reported outcomes.",
+      "practice_change_en": "This study does not justify an immediate change in surgical technique, but reinforces documenting nasal function before and after rhinoplasty with objective measures and patient-reported outcomes.",
+      "future_impact_ar": "قد تساعد دراسات أكبر مع متابعة أطول ومجموعة مقارنة في تحديد مدى استدامة التغيرات الوظيفية والعوامل التشريحية المرتبطة بها.",
+      "future_impact_en": "Larger studies with longer follow-up and a comparison group could establish whether the functional changes persist and which anatomical factors are associated with them.",
+      "why_important_ar": "تقدم الدراسة قياسات مستقبلية موضوعية وذاتية لوظيفة الأنف بعد aesthetic rhinoplasty لدى مرضى لم تكن لديهم أعراض انسداد مسبقًا.",
+      "why_important_en": "The study provides prospective objective and patient-reported assessments of nasal function after aesthetic rhinoplasty in patients without preoperative obstruction.",
+      "vs_previous_ar": "تضيف الدراسة تقييمًا متزامنًا لـPNIF وNOSE وINV angles، لكنها لا تثبت تفوقًا على المعرفة السابقة بسبب غياب مجموعة مقارنة والمتابعة المحدودة.",
+      "vs_previous_en": "It adds combined PNIF, NOSE, and INV-angle assessment, but does not establish superiority over prior knowledge given the lack of a comparison group and limited follow-up.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة prospective cohort صغيرة (n=32) في مجلة تخصصية، وتوفر بيانات مفيدة عن الوظيفة بعد العملية، لكن المتابعة ثلاثة أشهر فقط وغياب مجموعة مقارنة وعدم وجود أثر مباشر على الممارسة تحد من قوة الدليل.",
+      "stars_reason_en": "A small prospective cohort (n=32) in a specialty journal offers useful postoperative functional data, but three-month follow-up, no comparison group, and no direct practice-changing effect limit the evidence.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Worth discussing for its combined PNIF, NOSE, and INV measurements, the interpretation of change in patients without baseline obstruction, and its design and follow-up limitations.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تلزم دراسة متعددة المراكز ذات عينة أكبر ومجموعة مقارنة ومتابعة طويلة لتحديد الاستدامة السريرية للتغيرات الوظيفية بعد primary open rhinoplasty.",
+      "research_gap_en": "A larger multicenter study with a comparison group and longer follow-up is needed to determine the clinical durability of functional changes after primary open rhinoplasty.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نراجع اليوم دراسة بعنوان «Prospective Assessment of Nasal Airway Function After Primary Open Rhinoplasty». وهي دراسة prospective cohort أحادية المركز شملت 32 مريضًا خضعوا لـprimary open rhinoplasty لأسباب جمالية، مع عدم الإبلاغ عن nasal obstruction قبل الجراحة. قيّم الباحثون الوظيفة قبل العملية وبعد ثلاثة أشهر باستخدام peak nasal inspiratory flow أو PNIF، واستبيان NOSE، إضافة إلى قياس internal nasal valve angles وnasolabial angle.\n\nارتفع متوسط PNIF من 76.9 إلى 86.2 لترًا في الدقيقة، وانخفض متوسط NOSE من 23.4 إلى 14.3، مع دلالة إحصائية لكلا التغيرين. تحسنت بنود NOSE من الثاني إلى الخامس، لكن بند nasal fullness ساء قليلًا. كذلك زادت nasolabial angle وتحسنت زوايا internal nasal valve على الجانبين. لم يجد الباحثون ارتباطًا ذا دلالة بين تغير PNIF أو NOSE وبين التغيرات الزاوية.\n\nالرسالة العملية ليست أن rhinoplasty تحسن التنفس بالضرورة، ولا أن النتائج تبرر تغيير التقنية؛ فالدراسة صغيرة، بلا مجموعة مقارنة، وتتابع المرضى ثلاثة أشهر فقط. لكنها تقدم بيانات مطمئنة على عدم ظهور تدهور وظيفي قصير الأمد في هذه المجموعة، وتدعم توثيق وظيفة الأنف قبل الجراحة وبعدها بأدوات موضوعية وpatient-reported outcomes. كما أن اختلاف النتائج بين مقاييس تدفق الهواء والأعراض والقياسات التشريحية يوضح أن هذه الأدوات تقيس جوانب متكاملة وليست بدائل متطابقة.\n\nتستحق الدراسة النقاش في journal club بسبب تصميمها المستقبلي ودمجها قياسات متعددة، مع الانتباه إلى أن النتائج لا يمكن تعميمها تلقائيًا على مرضى لديهم انسداد مسبق أو على نتائج طويلة الأمد. الخطوة التالية هي دراسة أكبر متعددة المراكز، مع مجموعة مقارنة ومتابعة أطول، لتحديد استدامة هذه التغيرات والعوامل التشريحية المرتبطة بها. الخلاصة: معرفة مفيدة للممارسة والتقييم، لكنها لا تغير الممارسة اليوم.",
+      "audio_script_en": "Today’s article is “Prospective Assessment of Nasal Airway Function After Primary Open Rhinoplasty.” This single-center prospective cohort included 32 patients undergoing primary open rhinoplasty for aesthetic reasons; patients reported no nasal obstruction before surgery. Assessments were performed before surgery and at three months, using peak nasal inspiratory flow, or PNIF, the NOSE questionnaire, and measurements of internal nasal valve and nasolabial angles.\n\nMean PNIF rose from 76.9 to 86.2 liters per minute, and mean NOSE scores fell from 23.4 to 14.3. Both changes were statistically significant. NOSE items two through five improved, while the nasal-fullness item worsened slightly. The nasolabial angle increased, and internal nasal valve angles improved on both sides. However, changes in airflow, reported symptoms, and the measured angles were not significantly correlated.\n\nThe clinical takeaway is not that rhinoplasty necessarily improves breathing, nor that these findings require a change in surgical technique. The study is small, has no comparison group, and provides only three-month follow-up. It does offer short-term reassurance that functional deterioration was not observed in this selected group. It also supports documenting nasal function both before and after surgery with objective measurements as well as patient-reported outcomes. The different patterns across airflow, symptoms, and anatomy underline that these measures capture related but nonidentical aspects of function.\n\nThis paper is worth discussing in journal club because it is prospective and combines several assessment methods. Its results should not automatically be generalized to patients with preoperative obstruction or interpreted as evidence of long-term benefit. Larger multicenter studies with comparison groups and longer follow-up are needed to establish durability and identify relevant anatomical factors. In short, this is useful information for assessment and counseling, but it does not change practice today.",
+      "mcq": [
+        {
+          "q_ar": "ما التغير الذي حدث في PNIF بعد ثلاثة أشهر؟",
+          "q_en": "What change in PNIF was observed at three months?",
+          "options_ar": [
+            "أ) انخفض من 86.2 إلى 76.9 L/min",
+            "ب) ارتفع من 76.9 إلى 86.2 L/min",
+            "ج) لم يتغير",
+            "د) لم يُقَس بعد العملية"
+          ],
+          "options_en": [
+            "A) It decreased from 86.2 to 76.9 L/min",
+            "B) It increased from 76.9 to 86.2 L/min",
+            "C) It did not change",
+            "D) It was not measured postoperatively"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتفع متوسط PNIF من 76.9 إلى 86.2 L/min، وكان التغير ذا دلالة إحصائية (p<0.001).",
+          "explanation_en": "Mean PNIF increased from 76.9 to 86.2 L/min, a statistically significant change (p<0.001)."
+        },
+        {
+          "q_ar": "أي بند في NOSE ساء قليلًا بعد الجراحة؟",
+          "q_en": "Which NOSE item worsened slightly after surgery?",
+          "options_ar": [
+            "أ) البند الأول، nasal fullness",
+            "ب) البند الثاني",
+            "ج) البند الرابع",
+            "د) جميع البنود"
+          ],
+          "options_en": [
+            "A) Item 1, nasal fullness",
+            "B) Item 2",
+            "C) Item 4",
+            "D) All items"
+          ],
+          "answer": 0,
+          "explanation_ar": "تحسنت البنود 2–5، بينما ساء البند الأول المتعلق بـnasal fullness قليلًا (p=0.006).",
+          "explanation_en": "Items 2–5 improved, while item 1 concerning nasal fullness worsened slightly (p=0.006)."
+        },
+        {
+          "q_ar": "ما أحد القيود الأساسية التي تحد من الاستنتاجات؟",
+          "q_en": "Which is a key limitation that constrains the conclusions?",
+          "options_ar": [
+            "أ) الدراسة حيوانية",
+            "ب) عدد المشاركين أقل من 10",
+            "ج) غياب مجموعة مقارنة والمتابعة القصيرة",
+            "د) لم تُستخدم مقاييس وظيفية"
+          ],
+          "options_en": [
+            "A) The study was conducted in animals",
+            "B) Fewer than 10 participants were enrolled",
+            "C) No comparison group and short follow-up",
+            "D) No functional measures were used"
+          ],
+          "answer": 2,
+          "explanation_ar": "كانت الدراسة سريرية مستقبلية، لكنها شملت 32 مريضًا فقط، دون مجموعة مقارنة، مع متابعة حتى ثلاثة أشهر.",
+          "explanation_en": "This was a clinical prospective study, but it included only 32 patients, had no comparison group, and followed patients for just three months."
+        }
+      ]
+    },
+    {
+      "pmid": "43003764",
+      "title_ar": "Videolaryngoscopy vs. direct laryngoscopy for tracheal intubation by anaesthesia resident doctors (VILARE): a pragmatic multicentre randomised trial.",
+      "title_en": "Videolaryngoscopy vs. direct laryngoscopy for tracheal intubation by anaesthesia resident doctors (VILARE): a pragmatic multicentre randomised trial.",
+      "journal": "Anaesthesia",
+      "pub_date": "2026-Nov-09",
+      "doi": "10.1111/anae.70456",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43003764/",
+      "pdf_url": null,
+      "study_design": "Pragmatic multicentre RCT n=1001",
+      "summary_ar": "قارنت هذه الدراسة متعددة المراكز بين videolaryngoscopy وdirect laryngoscopy في المحاولة الأولى لـtracheal intubation لدى بالغين، ونفّذ الإجراءات anaesthesia resident doctors تحت إشراف استشاريين. شملت الدراسة 1001 مريض، وبلغ نجاح المحاولة الأولى 79.2% مع videolaryngoscopy مقابل 70.2% مع direct laryngoscopy، بفارق مطلق 9.0% (95% confidence interval 3.7–14.4؛ p<0.001). حسّن videolaryngoscopy glottic visualisation، وخفّض الصعوبة التي أبلغ عنها المشغّل والمضاعفات الإجرائية. لم يظهر فرق ذو أهمية سريرية في زمن intubation أو الحاجة إلى adjunct airway devices. تدعم النتائج استخدام videolaryngoscopy لتحسين نجاح المحاولة الأولى عند إجراء intubation بواسطة resident doctors. تعزز الدراسة الدليل العملي متعدد المراكز، لكنها لا تحسم وحدها قابلية تعميم النتائج على جميع البيئات أو فئات المرضى.",
+      "summary_en": "This pragmatic multicentre RCT compared videolaryngoscopy with direct laryngoscopy for the initial tracheal intubation attempt in adults undergoing surgery.\nAll intubations were performed by anaesthesia resident doctors under consultant supervision.\nFirst-attempt success was 79.2% with videolaryngoscopy and 70.2% with direct laryngoscopy (absolute difference 9.0%; 95% CI 3.7–14.4; p<0.001).\nVideolaryngoscopy improved glottic visualisation and reduced operator-reported difficulty and procedural complications.\nThere was no clinically meaningful difference in intubation time or use of adjunct airway devices.\nThe findings support videolaryngoscopy as an effective initial approach for resident-performed intubation, while broader generalisability remains to be established.",
+      "practice_change_ar": "يمكن اعتماد videolaryngoscopy كخيار أول لـtracheal intubation بواسطة resident doctors، مع مراعاة الموارد والسياق المحلي.",
+      "practice_change_en": "Videolaryngoscopy can be adopted as the initial approach for tracheal intubation by resident doctors, subject to local resources and context.",
+      "future_impact_ar": "قد تدعم النتائج توسيع التدريب والإتاحة الروتينية لـvideolaryngoscopy، مع الحاجة إلى دراسات عن التكلفة والنتائج في فئات وبيئات متنوعة.",
+      "future_impact_en": "The findings may support broader training and routine availability of videolaryngoscopy, with further evaluation of cost and outcomes across diverse patients and settings.",
+      "why_important_ar": "تقدم الدراسة متعددة المراكز دليلًا عشوائيًا على تحسن نجاح المحاولة الأولى وانخفاض المضاعفات عند استخدام videolaryngoscopy بواسطة resident doctors.",
+      "why_important_en": "This multicentre randomised trial provides evidence that videolaryngoscopy improves first-attempt success and reduces complications when used by resident doctors.",
+      "vs_previous_ar": "تضيف الدراسة مقارنة عشوائية عملية متعددة المراكز في الممارسة الروتينية بواسطة resident doctors إلى الأدلة السابقة التي أشارت إلى مزايا videolaryngoscopy.",
+      "vs_previous_en": "The trial adds a pragmatic, multicentre randomised comparison in routine practice by resident doctors to prior evidence suggesting advantages of videolaryngoscopy.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة RCT متعددة المراكز ذات حجم كبير ونتائج سريرية مهمة تُظهر تحسنًا واضحًا مع videolaryngoscopy؛ تقييم 4 نجوم لأن النتائج تدعم تغيير الممارسة، مع بقاء أسئلة التعميم والتكلفة.",
+      "stars_reason_en": "A large multicentre RCT reports clinically important improvement with videolaryngoscopy; four stars reflect evidence that supports practice change while questions of generalisability and cost remain.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق الدراسة نقاش journal club بسبب تصميمها العشوائي العملي، وحجمها الكبير، وتأثير نتائجها المحتمل في اختيار وسيلة intubation وتدريب resident doctors.",
+      "jc_reason_en": "This pragmatic, large RCT merits journal club discussion because its results may affect intubation device choice and resident training.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا videolaryngoscopy بوصفه device قد يحسن نجاح المحاولة الأولى ويقلل المضاعفات عند استخدامه في التدريب والممارسة الروتينية.",
+      "watch_detail_en": "Track videolaryngoscopy as a device that may improve first-attempt success and reduce complications in training and routine practice.",
+      "watch_type": "device",
+      "research_gap_ar": "يلزم تقييم التكلفة والنتائج في حالات difficult airway، والبيئات خارج غرف العمليات، وفئات المرضى المتنوعة، مع متابعة النتائج طويلة الأمد.",
+      "research_gap_en": "Further work should assess cost, difficult-airway cases, use outside the operating room, diverse patient groups, and longer-term outcomes.",
+      "subspecialty": "general",
+      "audio_script_ar": "نستعرض اليوم دراسة VILARE، وهي pragmatic multicentre RCT قارنت videolaryngoscopy مع direct laryngoscopy في tracheal intubation لدى بالغين يخضعون للجراحة. أهمية الدراسة أنها ركزت على الممارسة اليومية، وعلى إجراءات نفذها anaesthesia resident doctors تحت إشراف استشاريين، بدل الاقتصار على خبراء أو ظروف مثالية.\n\nشملت الدراسة 1001 مريض: 501 في مجموعة videolaryngoscopy و500 في مجموعة direct laryngoscopy. كان المخرج الأساسي نجاح tracheal intubation من المحاولة الأولى. تحقق النجاح لدى 79.2% مع videolaryngoscopy مقابل 70.2% مع direct laryngoscopy، بفارق مطلق 9.0%، و95% confidence interval من 3.7 إلى 14.4، مع p<0.001.\n\nكذلك تحسنت glottic visualisation، وانخفضت صعوبة الإجراء التي أبلغ عنها المشغّلون، من 47.2% إلى 33.5%. وكانت المضاعفات الإجرائية أقل أيضًا: 7.7% مقابل 18.2%. في المقابل، لم يظهر فرق ذو أهمية سريرية في زمن intubation أو الحاجة إلى adjunct airway devices.\n\nعمليًا، تدعم هذه النتائج استخدام videolaryngoscopy كخيار أول عند إجراء intubation بواسطة resident doctors، إذا كانت الأجهزة متاحة وكان الفريق مدربًا عليها. قوة الدليل تأتي من التصميم العشوائي متعدد المراكز وحجم العينة الكبير. لذلك نمنح المقال أربع نجوم وثقة خضراء، ونوصي بمناقشته في journal club. لكن ينبغي عدم تعميم النتائج تلقائيًا على كل البيئات أو حالات difficult airway؛ كما تبقى الكلفة، وتوفر الجهاز، والنتائج خارج غرف العمليات مسائل تحتاج إلى دراسة. الخلاصة: يقدم المقال دليلًا عمليًا مقنعًا على زيادة نجاح المحاولة الأولى وتقليل المضاعفات، دون إطالة ذات أهمية سريرية للإجراء.",
+      "audio_script_en": "Today we review the VILARE study, a pragmatic multicentre RCT comparing videolaryngoscopy with direct laryngoscopy for tracheal intubation in adults undergoing surgery. Its practical focus is notable: intubations were performed by anaesthesia resident doctors under consultant supervision, rather than being limited to expert operators or idealised conditions.\n\nThe trial enrolled 1001 patients, with 501 assigned to videolaryngoscopy and 500 to direct laryngoscopy. The primary outcome was successful tracheal intubation on the first attempt. Success occurred in 79.2% of the videolaryngoscopy group versus 70.2% of the direct-laryngoscopy group, an absolute difference of 9.0 percentage points, with a 95% confidence interval of 3.7 to 14.4 and p<0.001.\n\nVideolaryngoscopy also improved glottic visualisation and reduced operator-reported difficulty, from 47.2% to 33.5%. Procedural complications were lower as well: 7.7% versus 18.2%. There was no clinically meaningful difference in intubation time or the need for adjunct airway devices.\n\nFor practice, these findings support videolaryngoscopy as an initial option for intubation performed by resident doctors when equipment and training are available. The large sample and randomised multicentre design strengthen the evidence. We rate the article four stars, with green confidence, and consider it appropriate for journal club discussion. However, results should not automatically be extrapolated to every setting or difficult-airway scenario. Cost, access to devices, and outcomes outside the operating room also warrant further study. In short, this trial offers persuasive practical evidence of improved first-attempt success and fewer complications without a clinically meaningful increase in procedure time.",
+      "mcq": [
+        {
+          "q_ar": "ما المخرج الأساسي في دراسة VILARE؟",
+          "q_en": "What was the primary outcome in the VILARE trial?",
+          "options_ar": [
+            "أ) زمن tracheal intubation",
+            "ب) نجاح tracheal intubation من المحاولة الأولى",
+            "ج) الحاجة إلى adjunct airway devices",
+            "د) مدة الإقامة في المستشفى"
+          ],
+          "options_en": [
+            "A) Time to tracheal intubation",
+            "B) First-attempt success of tracheal intubation",
+            "C) Need for adjunct airway devices",
+            "D) Length of hospital stay"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان المخرج الأساسي نجاح tracheal intubation من المحاولة الأولى.",
+          "explanation_en": "The primary outcome was successful tracheal intubation on the first attempt."
+        },
+        {
+          "q_ar": "ما نسبة نجاح المحاولة الأولى في مجموعة videolaryngoscopy؟",
+          "q_en": "What was the first-attempt success rate in the videolaryngoscopy group?",
+          "options_ar": [
+            "أ) 70.2%",
+            "ب) 79.2%",
+            "ج) 80.8%",
+            "د) 93.3%"
+          ],
+          "options_en": [
+            "A) 70.2%",
+            "B) 79.2%",
+            "C) 80.8%",
+            "D) 93.3%"
+          ],
+          "answer": 1,
+          "explanation_ar": "نجحت المحاولة الأولى لدى 397 من أصل 501 مريضًا في مجموعة videolaryngoscopy، أي 79.2%.",
+          "explanation_en": "First-attempt success occurred in 397 of 501 patients in the videolaryngoscopy group, or 79.2%."
+        },
+        {
+          "q_ar": "أي نتيجة لم يظهر فيها فرق ذو أهمية سريرية بين المجموعتين؟",
+          "q_en": "Which outcome showed no clinically meaningful difference between groups?",
+          "options_ar": [
+            "أ) glottic visualisation",
+            "ب) المضاعفات الإجرائية",
+            "ج) زمن tracheal intubation",
+            "د) صعوبة الإجراء التي أبلغ عنها المشغّل"
+          ],
+          "options_en": [
+            "A) Glottic visualisation",
+            "B) Procedural complications",
+            "C) Tracheal intubation time",
+            "D) Operator-reported procedural difficulty"
+          ],
+          "answer": 2,
+          "explanation_ar": "لم يظهر فرق ذو أهمية سريرية في زمن intubation أو الحاجة إلى adjunct airway devices.",
+          "explanation_en": "There was no clinically meaningful difference in intubation time or the need for adjunct airway devices."
+        }
+      ]
+    },
+    {
+      "pmid": "43003494",
+      "title_ar": "Long-Term Outcomes of the Anterior Ethmoidal Artery Flap for Nasal Septal Perforation Repair.",
+      "title_en": "Long-Term Outcomes of the Anterior Ethmoidal Artery Flap for Nasal Septal Perforation Repair.",
+      "journal": "The Laryngoscope",
+      "pub_date": "2026-Nov-09",
+      "doi": "10.1002/lary.71049",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43003494/",
+      "pdf_url": "https://doi.org/10.1002/lary.71049",
+      "study_design": "Multicenter retrospective cohort n=124",
+      "summary_ar": "قيّمت هذه الدراسة متعددة المراكز النتائج طويلة الأمد لإصلاح nasal septal perforation (NSP) باستخدام anterior ethmoidal artery (AEA) flap، مع أو دون interposition grafts أو septal mucosal turn-in flaps. شملت الدراسة 124 مريضًا، وكان متوسط أبعاد NSP نحو 1.0 × 1.0 cm، وتراوحت المتابعة بين سنة و7.5 سنوات. بلغ معدل الإغلاق 90.3% بعد 6 أشهر، لكنه انخفض إلى 70.2% عند آخر متابعة. حدثت 67.6% من حالات reperforation بعد مرور أكثر من سنة على الجراحة. أفاد المرضى غالبًا بتحسن bothersome symptoms، وكان 90.3% سعداء بإجراء العملية. تشير النتائج إلى أن المتابعة القصيرة قد تبالغ في تقدير النجاح التقني، بينما قد يستمر تحسن الأعراض والرضا حتى مع حدوث reperforation.",
+      "summary_en": [
+        "This multicenter retrospective cohort evaluated long-term outcomes after nasal septal perforation (NSP) repair using an anterior ethmoidal artery (AEA) flap, with or without interposition grafts or septal mucosal turn-in flaps.",
+        "The study included 124 patients, with median NSP dimensions of 1.0 × 1.0 cm and follow-up ranging from 1 to 7.5 years.",
+        "Closure was achieved in 90.3% at 6 months, but the rate declined to 70.2% at final follow-up.",
+        "Most reperforations occurred after the first postoperative year: 67.6% of failures were identified beyond 1 year.",
+        "Patients commonly reported resolution of bothersome symptoms, and 90.3% were happy they had undergone repair.",
+        "The findings highlight that short-term closure rates may overestimate durable technical success, even though symptomatic benefit and satisfaction can remain high."
+      ],
+      "practice_change_ar": "ينبغي شرح احتمال حدوث reperforation متأخر للمريض، مع عدم اعتبار نجاح الإغلاق عند 6 أشهر دليلًا كافيًا على النتيجة طويلة الأمد.",
+      "practice_change_en": "Counsel patients about late reperforation and do not treat 6-month closure as sufficient evidence of durable long-term success.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية ذات متابعة أطول وتقييم موحد للأعراض في تحديد عوامل خطر reperforation وتحسين اختيار المرضى والتقنيات.",
+      "future_impact_en": "Future studies with longer follow-up and standardized symptom assessment may identify reperforation risk factors and improve patient and technique selection.",
+      "why_important_ar": "توضح الدراسة أن نجاح AEA flap التقني قد يتراجع بمرور الوقت، رغم استمرار رضا كثير من المرضى وتحسن أعراضهم.",
+      "why_important_en": "The study shows that technical success with an AEA flap can decline over time despite persistent symptom relief and high patient satisfaction.",
+      "vs_previous_ar": "تضيف هذه الدراسة بيانات متعددة المراكز ومتابعة تصل إلى 7.5 سنوات، كاشفةً أن نسبة الإغلاق طويلة الأمد أقل من النسبة المبكرة التي أظهرتها دراسات أقصر.",
+      "vs_previous_en": "Compared with shorter-term reports, this multicenter study provides follow-up up to 7.5 years and shows substantially lower final closure than early postoperative closure rates.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة cohort استعادية متعددة المراكز بحجم n=124 منشورة في The Laryngoscope، وتضيف معرفة سريرية مفيدة عن فشل الإغلاق المتأخر، لكنها لا تغيّر الممارسة مباشرة ولا تثبت أفضلية تقنية بعينها.",
+      "stars_reason_en": "This multicenter retrospective cohort of 124 patients in The Laryngoscope adds useful evidence about late closure failure, but does not directly change practice or establish superiority of a particular technique.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for journal club because it contrasts early technical success with long-term outcomes and prompts discussion of follow-up duration and how success after NSP repair should be defined.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات مستقبلية تقارن تقنيات الإغلاق وتحدد عوامل خطر reperforation المتأخر مع قياس معياري للأعراض والرضا.",
+      "research_gap_en": "Prospective studies should compare closure techniques and identify predictors of late reperforation using standardized symptom and satisfaction measures.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نتناول اليوم دراسة بعنوان Long-Term Outcomes of the Anterior Ethmoidal Artery Flap for Nasal Septal Perforation Repair، منشورة في The Laryngoscope. وهي دراسة cohort استعادية متعددة المراكز شملت 124 مريضًا خضعوا لإصلاح nasal septal perforation، أو NSP، باستخدام anterior ethmoidal artery flap، أو AEA flap. أمكن إضافة interposition grafts أو septal mucosal turn-in flaps بحسب التقنية المستخدمة. كان متوسط أبعاد NSP نحو سنتيمتر في سنتيمتر، وتراوحت مدة المتابعة بين سنة و7.5 سنوات.\n\nالنتيجة الأهم هي الفرق بين معدل الإغلاق المبكر والنجاح طويل الأمد. فقد أُغلق NSP لدى 90.3% من المرضى بعد ستة أشهر، لكن النسبة انخفضت إلى 70.2% عند آخر متابعة. ومن اللافت أن 67.6% من حالات reperforation حدثت بعد مرور سنة على الجراحة. لذلك، لا تكفي نتيجة المتابعة المبكرة وحدها لتقدير مدى ديمومة الإغلاق، وتدعم النتائج أهمية شرح احتمال الفشل المتأخر للمريض والنظر في متابعة تتجاوز السنة.\n\nفي المقابل، لم تكن النتائج التقنية هي القصة كاملة: أبلغ المرضى غالبًا عن تحسن bothersome symptoms، وكان 90.3% سعداء بأنهم خضعوا للعملية. وهذا يوضح أن reperforation لا يعني بالضرورة غياب الفائدة التي يشعر بها المريض، مع ضرورة عدم الخلط بين الرضا الشخصي والإغلاق التشريحي.\n\nتُعد الدراسة ذات أهمية لأنها تقدم بيانات طويلة الأمد في عينة أكبر من كثير من التقارير السابقة، لكنها تبقى استعادية، ولا تحدد من الملخص عوامل موثوقة للتنبؤ بالفشل أو أفضلية تقنية محددة. عمليًا، الرسالة هي تقديم توقعات متوازنة: AEA flap يحقق إغلاقًا مبكرًا مرتفعًا، لكن احتمال reperforation يظل قائمًا وقد يظهر متأخرًا. أما أولوية البحث المقبلة فهي مقارنة التقنيات بصورة مستقبلية، وتوحيد قياس الأعراض والرضا، وتحديد عوامل خطر الفشل المتأخر.",
+      "audio_script_en": "Today’s article is “Long-Term Outcomes of the Anterior Ethmoidal Artery Flap for Nasal Septal Perforation Repair,” published in The Laryngoscope. This multicenter retrospective cohort included 124 patients who underwent nasal septal perforation, or NSP, repair using an anterior ethmoidal artery flap, or AEA flap. Interposition grafts and septal mucosal turn-in flaps were used in some cases. Median perforation dimensions were approximately one by one centimeter, and follow-up ranged from one to 7.5 years.\n\nThe key finding is the gap between early closure and long-term technical success. Closure was present in 90.3% of patients at six months, but the rate fell to 70.2% at final follow-up. Importantly, 67.6% of reperforations occurred more than one year after surgery. This means early follow-up alone can overstate the durability of closure. Patients should be counseled about the possibility of late failure, and follow-up beyond the first year may be informative.\n\nTechnical closure is not the only outcome that matters. Patients most commonly reported resolution of bothersome symptoms, and 90.3% were happy they had undergone surgery. Thus, reperforation does not necessarily mean that the patient experienced no benefit. However, patient satisfaction and anatomical closure are distinct outcomes and should be reported separately.\n\nThis study adds valuable long-term information from a relatively large cohort, but its retrospective design limits causal conclusions. The abstract does not establish reliable predictors of failure or show that one operative variation is superior. The practical takeaway is to set balanced expectations: the AEA flap has a high early closure rate, but reperforation may occur later, while symptom relief and satisfaction can remain favorable. Future prospective research should compare techniques, standardize symptom assessment, and identify risk factors for late reperforation.",
+      "mcq": [
+        {
+          "q_ar": "ما معدل إغلاق NSP بعد 6 أشهر في هذه الدراسة؟",
+          "q_en": "What was the NSP closure rate at 6 months in this study?",
+          "options_ar": [
+            "أ) 50.2%",
+            "ب) 70.2%",
+            "ج) 90.3%",
+            "د) 100%"
+          ],
+          "options_en": [
+            "A) 50.2%",
+            "B) 70.2%",
+            "C) 90.3%",
+            "D) 100%"
+          ],
+          "answer": 2,
+          "explanation_ar": "بلغ معدل الإغلاق بعد 6 أشهر 90.3%، قبل أن ينخفض إلى 70.2% عند آخر متابعة.",
+          "explanation_en": "Closure was 90.3% at 6 months and declined to 70.2% at final follow-up."
+        },
+        {
+          "q_ar": "متى حدثت غالبية حالات reperforation؟",
+          "q_en": "When did most reperforations occur?",
+          "options_ar": [
+            "أ) خلال أول شهر",
+            "ب) بين شهر و6 أشهر",
+            "ج) بين 6 و12 شهرًا",
+            "د) بعد مرور سنة"
+          ],
+          "options_en": [
+            "A) Within the first month",
+            "B) Between 1 and 6 months",
+            "C) Between 6 and 12 months",
+            "D) More than 1 year after surgery"
+          ],
+          "answer": 3,
+          "explanation_ar": "حدثت 67.6% من حالات reperforation بعد مرور أكثر من سنة على العملية.",
+          "explanation_en": "A total of 67.6% of reperforations occurred more than 1 year after surgery."
+        },
+        {
+          "q_ar": "أي عبارة تصف نتائج المرضى التي أبلغت عنها الدراسة؟",
+          "q_en": "Which statement best describes the patient-reported outcomes?",
+          "options_ar": [
+            "أ) لم يتحسن أي عرض لدى المرضى",
+            "ب) كان 90.3% سعداء بإجراء العملية",
+            "ج) تحسن الرضا فقط لدى من حافظوا على الإغلاق",
+            "د) لم تُجمع بيانات عن الأعراض أو الرضا"
+          ],
+          "options_en": [
+            "A) No patients experienced symptom improvement",
+            "B) 90.3% were happy they had undergone surgery",
+            "C) Satisfaction improved only in patients with sustained closure",
+            "D) Symptom and satisfaction data were not collected"
+          ],
+          "answer": 1,
+          "explanation_ar": "أفاد المرضى غالبًا بتحسن bothersome symptoms، وكان 90.3% سعداء بإجراء NSP repair.",
+          "explanation_en": "Patients commonly reported resolution of bothersome symptoms, and 90.3% were happy they had undergone NSP repair."
+        }
+      ]
+    },
+    {
+      "pmid": "43009414",
+      "title_ar": "Development and Psychometric Evaluation of the Videolaryngoscopy and Stroboscopy Reporting Tool (VSRT).",
+      "title_en": "Development and Psychometric Evaluation of the Videolaryngoscopy and Stroboscopy Reporting Tool (VSRT).",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Nov-10",
+      "doi": "10.1016/j.jvoice.2026.10.021",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43009414/",
+      "pdf_url": null,
+      "study_design": "Instrument development and psychometric validation study",
+      "summary_ar": "طوّر الباحثون أداة VSRT لتوحيد وتكميم توثيق نتائج videolaryngoscopy وvideostroboscopy. بدأت الأداة بـ19 بندًا، ثم أصبحت 20 بندًا بعد مراجعة الخبراء، مع إضافة صور إرشادية وتعديل بعض طرق التقييم. شمل التحقق من الصلاحية تقييم content validity وface validity بمشاركة خبراء وspeech-language pathologists وotolaryngologists وlaryngologists. تراوحت قيم intra-rater reliability بين 0.644 و0.986 للبنود categorical، وبين 0.456 و0.991 للبنود numeric. أما inter-rater reliability فتراوحت بين 0.238 و0.814 للبنود categorical، وبين 0.609 و0.893 للبنود numeric. لم تُحذف بنود خلال تقييم content validity، واستُخدمت ملاحظات المشاركين لتحسين وضوح الأداة وسهولة إكمالها. قد تدعم VSRT اتساق التوثيق والتواصل بين التخصصات، لكن تفاوت بعض قيم reliability يستدعي مزيدًا من التحقق قبل اعتبارها معيارًا نهائيًا.",
+      "summary_en": "The authors developed the VSRT to standardize and quantify reporting of videolaryngoscopy and videostroboscopy findings. The initial 19-item tool became a 20-item instrument after expert review, with guide images added and some scoring methods revised. Content and face validity were assessed with experts and clinicians, including speech-language pathologists, otolaryngologists, and laryngologists. Intra-rater reliability ranged from 0.644 to 0.986 for categorical items and 0.456 to 0.991 for numeric items. Inter-rater reliability ranged from 0.238 to 0.814 for categorical items and 0.609 to 0.893 for numeric items. No items were removed during content validation, while participant feedback was used to improve clarity and usability. The tool may improve interdisciplinary consistency, although variable reliability for some items warrants further validation.",
+      "practice_change_ar": "يمكن للأطباء المهتمين بـvoice استخدام VSRT كإطار منظم للتوثيق، لكن النتائج لا تبرر بعدُ اعتمادها معيارًا إلزاميًا أو تغيير الممارسة على نطاق واسع.",
+      "practice_change_en": "Voice clinicians may use the VSRT as a structured reporting framework, but these results do not yet justify mandatory or widespread practice change.",
+      "future_impact_ar": "قد تتيح دراسات التحقق الخارجية وتحسين البنود ذات inter-rater reliability المنخفضة اعتماد VSRT في متابعة النتائج والبحوث متعددة المراكز.",
+      "future_impact_en": "External validation and refinement of items with lower inter-rater reliability could support the VSRT’s use in outcome monitoring and multicenter research.",
+      "why_important_ar": "تعالج الأداة مشكلة وصف صور laryngeal المعقدة دون مقاييس موحدة قابلة للمقارنة.",
+      "why_important_en": "The tool addresses the challenge of describing complex laryngeal images without standardized, comparable measures.",
+      "vs_previous_ar": "على خلاف التقييمات السابقة التي قد تعتمد على توثيق غير موحد، تقدم VSRT قائمة من 20 بندًا مع إرشادات وصيغ تقييم محددة.",
+      "vs_previous_en": "Unlike potentially nonstandardized prior reporting, the VSRT provides 20 defined items with guidance and specified scoring approaches.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة تطوير أداة وتقييم psychometric properties تقدم أداة جديدة مفيدة، لكن تفاوت reliability وعدم إثبات أثرها على النتائج السريرية يجعلانها إضافة معرفية لا تغييرًا للممارسة حاليًا.",
+      "stars_reason_en": "This instrument-development and psychometric evaluation study introduces a useful tool, but variable reliability and the absence of demonstrated clinical outcome effects make it informative rather than practice-changing.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion as a new approach to standardized laryngeal assessment, particularly because inter-rater agreement varies and raises questions about implementation.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا اعتماد VSRT والتحقق الخارجي منها، إذ قد تصبح أداة مهمة لتوحيد تقارير videolaryngoscopy وvideostroboscopy.",
+      "watch_detail_en": "Track adoption and external validation of the VSRT, which may become a useful instrument for standardizing videolaryngoscopy and videostroboscopy reports.",
+      "watch_type": "instrument",
+      "research_gap_ar": "يلزم اختبار VSRT في عينات سريرية مستقلة ومتنوعة، مع دراسة أثر استخدامها على قرارات العلاج والنتائج والتوافق بين المقيمين.",
+      "research_gap_en": "The VSRT needs testing in independent, diverse clinical samples, including assessment of its effects on treatment decisions, outcomes, and inter-rater agreement.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة تطوير وتقييم أداة VSRT، وهي أداة معيارية لتسجيل نتائج videolaryngoscopy وvideostroboscopy. تنطلق الدراسة من مشكلة مألوفة في عيادات الصوت: الفحص ينتج صورًا معقدة، لكن تحويل هذه الصور إلى وصف موحد وقابل للقياس ليس أمرًا مضمونًا. بدأ الفريق بأداة تتضمن 19 بندًا، ثم أضاف بندًا بعد مراجعة الخبراء، لتصبح النسخة النهائية 20 بندًا. كما أُضيفت صور إرشادية لبعض البنود، وعُدّلت بعض طرق التقييم، وأُدخلت توضيحات لتحسين سهولة الاستخدام. جرى تقييم content validity وface validity بمشاركة خبراء وممارسين، منهم speech-language pathologists وotolaryngologists وlaryngologists. تراوحت intra-rater reliability بين 0.644 و0.986 للبنود categorical، وبين 0.456 و0.991 للبنود numeric. أما inter-rater reliability فتراوحت بين 0.238 و0.814 للبنود categorical، وبين 0.609 و0.893 للبنود numeric. هذه الأرقام تشير إلى أن بعض عناصر الأداة قد تكون أكثر اتساقًا من غيرها، وأن الاتفاق بين المقيمين يحتاج إلى اهتمام خاص، خصوصًا في بعض البنود categorical. الأهمية العملية هي أن VSRT قد توفر لغة مشتركة وتحسن تنظيم التقارير والتواصل بين أعضاء الفريق، كما قد تساعد في البحوث ومتابعة النتائج. لكن الدراسة لا تثبت أن استخدام الأداة يحسن قرارات العلاج أو النتائج السريرية، ولا تدعم فرضها معيارًا إلزاميًا الآن. لذلك تُقيّم بثلاث نجوم وثقة متوسطة: أداة جديدة وذات صلة مباشرة بـlaryngology، لكنها تحتاج إلى تحقق خارجي ودراسة أثرها في الممارسة. وتستحق المتابعة بوصفها instrument واعدة، مع التركيز على تحسين البنود ذات reliability الأقل.",
+      "audio_script_en": "Today we review the development and psychometric evaluation of the VSRT, a standardized tool for reporting videolaryngoscopy and videostroboscopy findings. The study addresses a familiar challenge in voice care: examinations produce complex images, but converting those images into consistent, measurable descriptions can be difficult. The team began with 19 items and added one item after expert review, resulting in a 20-item tool. Guide images were added for selected items, some scoring methods were revised, and explanatory notes were incorporated to improve usability. Content and face validity were assessed with experts and clinicians, including speech-language pathologists, otolaryngologists, and laryngologists. Intra-rater reliability ranged from 0.644 to 0.986 for categorical items and from 0.456 to 0.991 for numeric items. Inter-rater reliability ranged from 0.238 to 0.814 for categorical items and from 0.609 to 0.893 for numeric items. These ranges suggest that some elements are more consistently rated than others, and that agreement between different raters—particularly for some categorical items—needs attention. Clinically, the VSRT may offer a shared language, improve report structure, and support interdisciplinary communication, research, and outcome tracking. However, this study does not show that using the tool improves treatment decisions or patient outcomes, and it does not justify making the VSRT a mandatory standard today. We rate it three stars with moderate confidence: it is a novel, relevant laryngology instrument, but it needs external validation and studies of its impact on clinical practice. It is worth watching as a potentially useful reporting instrument, especially as lower-reliability items are refined.",
+      "mcq": [
+        {
+          "q_ar": "ما الهدف الأساسي من تطوير VSRT؟",
+          "q_en": "What was the primary aim of developing the VSRT?",
+          "options_ar": [
+            "أ) استبدال videolaryngoscopy بفحص تصويري آخر",
+            "ب) توحيد وتكميم الإبلاغ عن نتائج videolaryngoscopy وvideostroboscopy",
+            "ج) تحديد دواء جديد لعلاج اضطرابات الصوت",
+            "د) قياس نتائج جراحة الأذن الوسطى"
+          ],
+          "options_en": [
+            "A) To replace videolaryngoscopy with another imaging examination",
+            "B) To standardize and quantify reporting of videolaryngoscopy and videostroboscopy findings",
+            "C) To identify a new medication for voice disorders",
+            "D) To measure outcomes of middle-ear surgery"
+          ],
+          "answer": 1,
+          "explanation_ar": "صُممت VSRT لتوفير طريقة منظمة وموحدة لتسجيل نتائج الفحوص البصرية للlarynx.",
+          "explanation_en": "The VSRT was designed to provide a structured, standardized method for documenting visual laryngeal examination findings."
+        },
+        {
+          "q_ar": "كم بندًا تضمن الإصدار النهائي من VSRT؟",
+          "q_en": "How many items were included in the final VSRT?",
+          "options_ar": [
+            "أ) 10",
+            "ب) 19",
+            "ج) 20",
+            "د) 25"
+          ],
+          "options_en": [
+            "A) 10",
+            "B) 19",
+            "C) 20",
+            "D) 25"
+          ],
+          "answer": 2,
+          "explanation_ar": "بدأت الأداة بـ19 بندًا، وأُضيف بند بعد مراجعة الخبراء، ليصبح المجموع 20.",
+          "explanation_en": "The tool began with 19 items, and one item was added after expert review, yielding a total of 20."
+        },
+        {
+          "q_ar": "أي نتيجة تلخص inter-rater reliability للبنود categorical؟",
+          "q_en": "Which result summarizes inter-rater reliability for categorical items?",
+          "options_ar": [
+            "أ) تراوحت بين 0.238 و0.814",
+            "ب) تراوحت بين 0.644 و0.986",
+            "ج) كانت ثابتة عند 0.991",
+            "د) لم تُقيّم في الدراسة"
+          ],
+          "options_en": [
+            "A) It ranged from 0.238 to 0.814",
+            "B) It ranged from 0.644 to 0.986",
+            "C) It was fixed at 0.991",
+            "D) It was not evaluated in the study"
+          ],
+          "answer": 0,
+          "explanation_ar": "أبلغت الدراسة عن inter-rater reliability بين 0.238 و0.814 للبنود categorical، ما يوضح تفاوت الاتفاق بين المقيمين.",
+          "explanation_en": "The study reported inter-rater reliability of 0.238 to 0.814 for categorical items, indicating variable agreement between raters."
+        }
+      ]
+    },
+    {
+      "pmid": "43001624",
+      "title_ar": "Laryngeal branches of the recurrent laryngeal nerve: A narrative review of human anatomical studies.",
+      "title_en": "Laryngeal branches of the recurrent laryngeal nerve: A narrative review of human anatomical studies.",
+      "journal": "Anatomical record (Hoboken, N.J. : 2007)",
+      "pub_date": "2026-Nov-09",
+      "doi": "10.1002/ar.70390",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43001624/",
+      "pdf_url": "https://doi.org/10.1002/ar.70390",
+      "study_design": "Narrative review of human cadaveric and surgical anatomical studies",
+      "summary_ar": "تراجع هذه المقالة الدراسات التشريحية البشرية حول التفرعات خارج الحنجرة والتفرعات الحركية لـ recurrent laryngeal nerve (RLN)، مع التركيز على أهميتها الجراحية والوظيفية. يحدث التفرع خارج الحنجرة في نحو 60% من الأعصاب ضمن السلاسل المجمعة، ويكون الانقسام إلى فرع أمامي حركي وفرع خلفي حسي شائعًا، غالبًا على بعد 1–2 cm أسفل cricothyroid articulation. يُنظّم الفرع الحركي ضمن vertical وgenu وoblique segments، ويُعصّب posterior cricoarytenoid muscle أولًا؛ وهو العضلة الوحيدة التي تُبعّد true vocal fold. تُعصّب عضلات adductor، وهي arytenoid وlateral cricoarytenoid وthyroarytenoid، بالتتابع، ويُعد فرعا العضلتين الأخيرتين الفروع النهائية الحقيقية لـ RLN. كما تصف المراجعة شبكة اتصال مع superior laryngeal nerve تشمل Galen's anastomosis وarytenoid plexus. تستند المعرفة الحالية أساسًا إلى سلاسل تشريحية صغيرة، لذا لا تقدم المراجعة دليلًا يغيّر الممارسة مباشرة، لكنها تدعم الوعي بالتباين التشريحي أثناء الجراحة.",
+      "summary_en": "This narrative review synthesizes human cadaveric and surgical descriptions of extralaryngeal and motor branching of the recurrent laryngeal nerve (RLN).\nExtralaryngeal branching is reported in approximately 60% of nerves in pooled series; bifurcation into an anterior motor and posterior sensory branch is common.\nThe motor division is described in vertical, genu, and oblique segments, with the posterior cricoarytenoid muscle receiving its innervation first.\nThe adductor muscles are innervated sequentially, and the branches to the lateral cricoarytenoid and thyroarytenoid are described as the true terminal RLN branches.\nThe review also outlines connections with the superior laryngeal nerve, including Galen's anastomosis and the arytenoid plexus.\nEvidence is predominantly from small anatomical series, so the synthesis informs surgical anatomy but does not establish a practice-changing intervention.",
+      "practice_change_ar": "لا تغيّر هذه المراجعة الممارسة الجراحية اليوم، لكنها تذكّر الجراحين بتباين تفرعات RLN وضرورة حماية الفروع أثناء التشريح.",
+      "practice_change_en": "This review does not change surgical practice today, but it reinforces the need to recognize RLN branching variability and protect its branches during dissection.",
+      "future_impact_ar": "قد تساعد دراسات تشريحية أكبر وأكثر دقة على تحسين فهم أنماط التعصيب وتوجيه حماية الفروع خلال جراحة thyroid وlaryngeal.",
+      "future_impact_en": "Larger, higher-resolution anatomical studies may clarify innervation patterns and better inform branch preservation during thyroid and laryngeal surgery.",
+      "why_important_ar": "توضح المراجعة أن RLN قد يتفرع قبل دخول الحنجرة وأن نمط فروعه الحركية واتصالاته العصبية معقد.",
+      "why_important_en": "The review highlights that the RLN may branch before entering the larynx and has complex motor branching and neural connections.",
+      "vs_previous_ar": "تجمع المقالة الأوصاف التشريحية المنشورة في عرض واحد، لكنها لا تثبت معرفة جديدة أو تغيّر الإرشادات والممارسات الحالية.",
+      "vs_previous_en": "The article consolidates published anatomical descriptions but does not establish new knowledge that changes current guidelines or practice.",
+      "stars": 3,
+      "stars_reason_ar": "مراجعة سردية لدراسات تشريحية بشرية؛ تقدم معرفة مفيدة لجراحي laryngeal وthyroid، لكن الاعتماد على سلاسل صغيرة وعدم وجود أثر مباشر على الممارسة يحدّان من التقييم.",
+      "stars_reason_en": "A narrative review of human anatomical studies that offers useful knowledge for laryngeal and thyroid surgeons, but small underlying series and no direct practice-changing impact limit its score.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for a surgical journal club because it summarizes clinically relevant RLN branching variability and connections while highlighting the limitations of the evidence base.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "توجد حاجة إلى دراسات تشريحية بشرية أكبر وموحدة تستخدم توثيقًا عالي الدقة لربط أنماط تفرع RLN بالتشريح الجراحي والنتائج السريرية.",
+      "research_gap_en": "Larger, standardized human anatomical studies using high-resolution documentation are needed to relate RLN branching patterns to surgical anatomy and clinical outcomes.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نتناول اليوم مراجعة سردية عن فروع recurrent laryngeal nerve، أو RLN، وهي بنية تشريحية مهمة في جراحات thyroid والحنجرة والصوت. يعصب RLN معظم intrinsic laryngeal muscles، باستثناء cricothyroid، ولذلك فإن معرفة مساره وتفرعاته مهمة لتقليل خطر إصابة الأعصاب أثناء الجراحة.\n\nتجمع المراجعة أوصافًا من دراسات بشرية تشريحية وتقارير جراحية. تشير السلاسل المجمعة إلى حدوث extralaryngeal branching في نحو 60% من الأعصاب. ومن الأنماط الشائعة انقسام RLN إلى فرع أمامي حركي وفرع خلفي حسي، غالبًا على بعد 1–2 cm أسفل cricothyroid articulation. وتصف المراجعة أجزاءً للفرع الحركي باسم vertical وgenu وoblique segments.\n\nتصل التعصبات إلى posterior cricoarytenoid muscle أولًا. وهذه العضلة هي الوحيدة التي تقوم بإبعاد true vocal fold، كما أن لها أكثر من نمط للتفرع، مع احتمال وجود تقسيمات للتعصيب داخل العضلة. بعد ذلك تُعصّب عضلات adductor، وتشمل arytenoid وlateral cricoarytenoid وthyroarytenoid، بالتتابع. وتُعد الفروع المتجهة إلى lateral cricoarytenoid وthyroarytenoid الفروع النهائية الحقيقية لـ RLN. وتذكر المراجعة كذلك وجود اتصالات مع superior laryngeal nerve، منها Galen's anastomosis وarytenoid plexus.\n\nالخلاصة العملية هي أن تفرعات RLN متغيرة ومعقدة، ما يدعم الانتباه إلى الفروع أثناء التشريح الجراحي، لكنه لا يقدم تقنية جديدة أو تغييرًا مباشرًا في الممارسة. درجة التقييم ثلاث من خمس، والثقة متوسطة: المادة مفيدة للتذكير بالتشريح، إلا أن معظم المعرفة تأتي من سلاسل تشريحية صغيرة. ومن أهم الفجوات البحثية الحاجة إلى دراسات بشرية أكبر وموحدة وعالية الدقة، وربط الأوصاف التشريحية بالنتائج السريرية. تصلح المقالة لنقاش journal club لدى المهتمين بـ laryngology وجراحة thyroid.",
+      "audio_script_en": "Today’s review focuses on the laryngeal branches of the recurrent laryngeal nerve, or RLN, an important anatomical structure in thyroid, laryngeal, and voice surgery. The RLN supplies motor innervation to most intrinsic laryngeal muscles, with the cricothyroid as the exception. Knowing its course and branching is relevant to avoiding nerve injury during surgery.\n\nThis narrative review brings together human cadaveric and surgical descriptions. Across pooled series, extralaryngeal branching is reported in approximately 60% of nerves. A common pattern is division into an anterior motor branch and a posterior sensory branch, often one to two centimeters inferior to the cricothyroid articulation. The motor division is described in vertical, genu, and oblique segments.\n\nThe posterior cricoarytenoid muscle receives innervation first. It is the only muscle that abducts the true vocal fold, and its branching includes several configurations, with additional complexity from compartmental innervation. The adductor muscles—arytenoid, lateral cricoarytenoid, and thyroarytenoid—are then innervated sequentially. The branches to the lateral cricoarytenoid and thyroarytenoid are described as the true terminal RLN branches. The review also describes connections with the superior laryngeal nerve, including Galen’s anastomosis and the arytenoid plexus.\n\nThe practical takeaway is that RLN branching is variable and complex, supporting careful attention to branches during surgical dissection. However, the review introduces no new technique and does not directly change practice. It receives three out of five stars, with moderate confidence: it is useful anatomical knowledge, but much of the evidence comes from small anatomical series. A key research gap is the need for larger, standardized, high-resolution human studies that connect anatomical descriptions to clinical outcomes. The article is suitable for journal club discussion among clinicians interested in laryngology and thyroid surgery.",
+      "mcq": [
+        {
+          "q_ar": "أي عضلة تتلقى التعصيب أولًا من الفرع الحركي لـ RLN، وهي العضلة الوحيدة التي تُبعّد true vocal fold؟",
+          "q_en": "Which muscle is innervated first by the motor division of the RLN and is the only abductor of the true vocal fold?",
+          "options_ar": [
+            "أ) posterior cricoarytenoid",
+            "ب) thyroarytenoid",
+            "ج) lateral cricoarytenoid",
+            "د) cricothyroid"
+          ],
+          "options_en": [
+            "A) Posterior cricoarytenoid",
+            "B) Thyroarytenoid",
+            "C) Lateral cricoarytenoid",
+            "D) Cricothyroid"
+          ],
+          "answer": 0,
+          "explanation_ar": "تذكر المراجعة أن posterior cricoarytenoid تتلقى التعصيب أولًا، وهي العضلة الوحيدة المسؤولة عن إبعاد true vocal fold.",
+          "explanation_en": "The review states that the posterior cricoarytenoid is innervated first and is the only muscle responsible for abducting the true vocal fold."
+        },
+        {
+          "q_ar": "ما النسبة التقريبية للأعصاب التي أظهرت extralaryngeal branching في السلاسل المجمعة التي استعرضتها المقالة؟",
+          "q_en": "Approximately what proportion of nerves showed extralaryngeal branching in the pooled series reviewed?",
+          "options_ar": [
+            "أ) 10%",
+            "ب) 30%",
+            "ج) 60%",
+            "د) 90%"
+          ],
+          "options_en": [
+            "A) 10%",
+            "B) 30%",
+            "C) 60%",
+            "D) 90%"
+          ],
+          "answer": 2,
+          "explanation_ar": "تورد المراجعة أن extralaryngeal branching شوهد في نحو 60% من الأعصاب في السلاسل المجمعة.",
+          "explanation_en": "The review reports extralaryngeal branching in approximately 60% of nerves across pooled series."
+        },
+        {
+          "q_ar": "ما الوصف الأدق لمستوى الدليل والرسالة العملية لهذه المقالة؟",
+          "q_en": "Which best describes the evidence level and practical message of this article?",
+          "options_ar": [
+            "أ) RCT يثبت فائدة تقنية جراحية جديدة",
+            "ب) مراجعة سردية تشريحية مفيدة، لكنها لا تغيّر الممارسة مباشرة",
+            "ج) دراسة حيوانية لا صلة لها بجراحة الإنسان",
+            "د) دراسة مستقبلية تثبت تحسن النتائج السريرية"
+          ],
+          "options_en": [
+            "A) An RCT establishing the benefit of a new surgical technique",
+            "B) A useful narrative anatomical review that does not directly change practice",
+            "C) An animal study with no relevance to human surgery",
+            "D) A prospective study proving improved clinical outcomes"
+          ],
+          "answer": 1,
+          "explanation_ar": "المقالة مراجعة سردية لدراسات تشريحية بشرية، وتدعم المعرفة التشريحية، لكن قاعدة الأدلة لا تثبت أثرًا سريريًا يغيّر الممارسة.",
+          "explanation_en": "The article is a narrative review of human anatomical studies. It informs anatomical knowledge, but the evidence does not establish a clinical effect that changes practice."
+        }
+      ]
+    },
+    {
+      "pmid": "42725900",
+      "title_ar": "Effect of Vowel Type on Aerodynamic Measures of Estimated Subglottal Pressure and Airflow.",
+      "title_en": "Effect of Vowel Type on Aerodynamic Measures of Estimated Subglottal Pressure and Airflow.",
+      "journal": "Journal of speech, language, and hearing research : JSLHR",
+      "pub_date": "2026-Nov-10",
+      "doi": "10.1044/2026_JSLHR-26-00135",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42725900/",
+      "pdf_url": null,
+      "study_design": "Cross-sectional observational study n=43",
+      "summary_ar": "درس الباحثون تأثير نوع vowel على mean airflow (MAF) وestimated subglottal pressure (Psub) لدى 43 مشاركًا سليمًا صوتيًا بعمر 18–30 عامًا. قيس MAF أثناء sustained phonation للأصوات /i/, /u/ و/α/، كما قيس MAF وPsub ضمن syllables من نوع /pV/. خلال sustained phonation، كان MAF للصوت /i/ أقل قليلًا من /α/، بينما لم تظهر فروق دالة عند مقارنة /u/ بكل منهما. في سياق syllable، لم يتأثر MAF بنوع vowel، لكن Psub كان أعلى مع /i/ مقارنةً بـ/α/، وكانت قيمة /u/ بينهما دون فروق دالة. كانت أحجام الأثر صغيرة، كما ارتبطت القياسات بين السياقات الصوتية المختلفة بقوة، ولم يكن fundamental frequency (F0) متنبئًا دالًا بالنتائج. تشير النتائج إلى أن اختلافات supraglottal impedance المرتبطة بالنطق تفسر الفروق المحدودة، ولا يُتوقع أن تغير نوع vowel التوقعات المعيارية أو القرار السريري بصورة جوهرية.",
+      "summary_en": "This study examined whether vowel type affects mean airflow (MAF) and estimated subglottal pressure (Psub) in 43 young adults without dysphonia. MAF was measured during sustained production of /i/, /u/, and /α/, and MAF and Psub were also measured in /pV/ syllables. During sustained phonation, MAF was slightly lower for /i/ than for /α/; comparisons involving /u/ were not significant. In syllable context, vowel type did not significantly affect MAF, but Psub was higher for /i/ than for /α/, with /u/ intermediate and not significantly different from either. Effect sizes were small, measurements across vowel contexts were highly correlated, and fundamental frequency (F0) did not significantly predict MAF or Psub. The findings suggest predictable, modest vowel-related effects that are unlikely to substantially alter normative expectations or clinical decisions.",
+      "practice_change_ar": "لا تستدعي النتائج تغييرًا جوهريًا في الممارسة، لكن ينبغي توحيد vowel المستخدم عند قياس MAF وPsub أو أخذ اختلافه المحدود في الاعتبار.",
+      "practice_change_en": "The findings do not warrant a major practice change, but clinicians should standardize the vowel used for MAF and Psub measurements or account for its modest effect.",
+      "future_impact_ar": "قد تساعد دراسات أوسع تشمل فئات سريرية متنوعة على تحسين معادلات تحويل القياسات بين vowels وتأكيد مدى صلاحيتها سريريًا.",
+      "future_impact_en": "Larger studies in diverse clinical populations could refine and validate equations for converting measurements across vowels.",
+      "why_important_ar": "توضح الدراسة أن اختيار vowel يؤثر بدرجة صغيرة في بعض قياسات aerodynamic voice، ما يساعد على تفسير النتائج وتوحيد بروتوكولات القياس.",
+      "why_important_en": "The study clarifies that vowel choice has a small effect on some aerodynamic voice measures, informing interpretation and measurement standardization.",
+      "vs_previous_ar": "تضيف الدراسة دليلًا تجريبيًا على أثر vowel المحدود والمتوقع، بدل افتراض أن جميع vowels تعطي قياسات متطابقة تمامًا.",
+      "vs_previous_en": "The study provides empirical evidence for a small, predictable vowel effect rather than assuming that all vowels yield identical measurements.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة رصدية مقطعية على 43 مشاركًا سليمًا، أظهرت فروقًا صغيرة ذات فائدة منهجية لكنها لا تغير الممارسة السريرية مباشرة.",
+      "stars_reason_en": "This cross-sectional observational study of 43 healthy participants found small differences that are methodologically useful but do not directly change clinical practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for discussion of aerodynamic voice measurement standardization and how articulation may influence results.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم اختبار هذه النتائج لدى مرضى اضطرابات الصوت، ومعرفة ما إذا كانت فروق vowel الصغيرة تؤثر في التصنيف السريري أو متابعة العلاج.",
+      "research_gap_en": "These findings should be tested in patients with voice disorders to determine whether small vowel-related differences affect clinical classification or treatment monitoring.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "في هذا الملخص من ORL Daily، نراجع دراسة بحثت ما إذا كان نوع vowel يؤثر في قياسات airflow والضغط تحت المزمار المقدّر أثناء تقييم الصوت. شملت الدراسة 43 شخصًا سليمًا صوتيًا، تتراوح أعمارهم بين 18 و30 عامًا، واستخدمت جهاز Phonatory Aerodynamic System لقياس mean airflow، أو MAF، وestimated subglottal pressure، أو Psub.\n\nقيس MAF أثناء sustained phonation للأصوات /i/ و/u/ و/α/. كما قيس MAF وPsub أثناء تكرار syllables من نوع /pV/ بهذه الأصوات. في sustained phonation، كان MAF مع /i/ أقل قليلًا من القياس مع /α/، بينما لم يكن الفرق مع /u/ دالًا مقارنةً بأي منهما. أما في سياق syllable، فلم يظهر أثر دال لنوع vowel على MAF. لكن Psub كان أعلى مع /i/ منه مع /α/، وكانت قيمة /u/ بينهما، دون فروق دالة في المقارنات التي تضمنت /u/.\n\nكانت أحجام الأثر صغيرة، والقياسات عبر سياقات vowels المختلفة مترابطة بقوة. كما لم يكن fundamental frequency، أو F0، متنبئًا دالًا بالقياسات. يفسر الباحثون الفروق أساسًا بتغير supraglottal impedance المصاحب لاختلاف وضع اللسان وشكل مجرى الصوت، لا بتغيرات F0 المرتبطة بنشاط الحنجرة.\n\nالخلاصة السريرية أن اختيار vowel قد يسبب فرقًا قابلًا للقياس في بعض الظروف، لكنه لا يُتوقع أن يغير التوقعات المعيارية أو القرار السريري بصورة مهمة. من المفيد توحيد vowel المستخدم عند إجراء القياسات، أو أخذ هذا الأثر المحدود في الاعتبار عند مقارنة النتائج. لا تقدم الدراسة سببًا لتغيير الممارسة الحالية، لكنها تدعم نقاشًا عمليًا حول ضبط بروتوكولات القياس. ومن المهم تذكر أن المشاركين كانوا أصحاء وصغار السن؛ لذا تبقى الحاجة قائمة إلى دراسات لدى مرضى اضطرابات الصوت، لتحديد ما إذا كان هذا الأثر الصغير مهمًا في التشخيص أو متابعة العلاج.",
+      "audio_script_en": "In this ORL Daily review, we examine whether vowel choice affects airflow and estimated subglottal pressure measurements used in voice assessment. The study included 43 adults aged 18 to 30 years without dysphonia. Using a Phonatory Aerodynamic System, the researchers measured mean airflow, or MAF, and estimated subglottal pressure, or Psub.\n\nMAF was measured during sustained production of /i/, /u/, and /α/. The investigators also measured MAF and Psub while participants repeated syllables of the form /pV/. During sustained phonation, MAF was slightly lower for /i/ than for /α/. The result for /u/ fell between those vowels, and its comparisons with each were not statistically significant. In the syllable task, vowel type did not significantly affect MAF. However, Psub was higher for syllables containing /i/ than for those containing /α/, with /u/ again intermediate and not significantly different from either.\n\nThe effect sizes were small, and measurements across vowel contexts were highly correlated. Fundamental frequency, or F0, did not significantly predict MAF or Psub. The authors suggest that changes in supraglottal impedance associated with articulation, rather than F0-related changes in laryngeal activity, account for the observed differences.\n\nThe practical takeaway is that vowel choice can produce measurable differences in some settings, but these effects are unlikely to substantially alter normative expectations or clinical decisions. Standardizing the vowel used for measurement—or accounting for the modest effect when comparing results—may help keep assessments consistent. This study does not justify a major change in practice, but it is useful for discussions about aerodynamic measurement protocols. A key limitation is that the participants were healthy young adults. Further research in patients with voice disorders is needed to determine whether these small differences matter for clinical classification or treatment monitoring.",
+      "mcq": [
+        {
+          "q_ar": "في أي سياق لم يظهر أثر دال لنوع vowel على MAF؟",
+          "q_en": "In which context was there no significant effect of vowel type on MAF?",
+          "options_ar": [
+            "أ) sustained phonation",
+            "ب) سياق syllable /pV/",
+            "ج) كلا السياقين",
+            "د) لم يُقَس MAF في أي سياق"
+          ],
+          "options_en": [
+            "A) Sustained phonation",
+            "B) The /pV/ syllable context",
+            "C) Both contexts",
+            "D) MAF was not measured in either context"
+          ],
+          "answer": 1,
+          "explanation_ar": "في سياق syllable لم يكن أثر vowel على MAF دالًا، بينما ظهر أثر صغير في sustained phonation.",
+          "explanation_en": "Vowel type did not significantly affect MAF in the syllable context, although a small effect was found during sustained phonation."
+        },
+        {
+          "q_ar": "أي مقارنة أظهرت Psub أعلى بصورة دالة؟",
+          "q_en": "Which comparison showed significantly higher Psub?",
+          "options_ar": [
+            "أ) /α/ مقارنةً بـ/i/",
+            "ب) /u/ مقارنةً بـ/i/",
+            "ج) /i/ مقارنةً بـ/α/",
+            "د) لم تظهر أي مقارنة دالة"
+          ],
+          "options_en": [
+            "A) /α/ compared with /i/",
+            "B) /u/ compared with /i/",
+            "C) /i/ compared with /α/",
+            "D) No comparison was significant"
+          ],
+          "answer": 2,
+          "explanation_ar": "كان Psub أعلى مع syllables المحتوية على /i/ مقارنةً بتلك المحتوية على /α/؛ ولم تكن المقارنات مع /u/ دالة.",
+          "explanation_en": "Psub was higher for syllables containing /i/ than for those containing /α/; comparisons involving /u/ were not significant."
+        },
+        {
+          "q_ar": "ما الاستنتاج العملي الأبرز للدراسة؟",
+          "q_en": "What is the main practical conclusion of the study?",
+          "options_ar": [
+            "أ) يجب تغيير المعايير السريرية جذريًا بحسب vowel",
+            "ب) لا يُتوقع أن يكون لاختيار vowel أثر كبير على التوقعات المعيارية أو القرار السريري",
+            "ج) يتنبأ F0 بقوة بقياسات MAF وPsub",
+            "د) لا يمكن مقارنة القياسات بين vowels"
+          ],
+          "options_en": [
+            "A) Clinical norms must be substantially changed according to vowel",
+            "B) Vowel choice is unlikely to substantially affect normative expectations or clinical decisions",
+            "C) F0 strongly predicts MAF and Psub",
+            "D) Measurements across vowels cannot be compared"
+          ],
+          "answer": 1,
+          "explanation_ar": "رغم وجود فروق صغيرة قابلة للقياس، خلص الباحثون إلى أنها لا يُتوقع أن تؤثر جوهريًا في التوقعات المعيارية أو القرارات السريرية.",
+          "explanation_en": "Although small measurable differences were found, the authors concluded that they are unlikely to substantially affect norms or clinical decisions."
+        }
+      ]
+    },
+    {
+      "pmid": "43004006",
+      "title_ar": "Rheumatoid factor positivity in ANCA-negative eosinophilic granulomatosis with polyangiitis: cardiac mimicry, mononeuritis multiplex, and long-term outcome in a case-based systematic review.",
+      "title_en": "Rheumatoid factor positivity in ANCA-negative eosinophilic granulomatosis with polyangiitis: cardiac mimicry, mononeuritis multiplex, and long-term outcome in a case-based systematic review.",
+      "journal": "Rheumatology international",
+      "pub_date": "2026-Nov-10",
+      "doi": "10.1007/s00296-026-06334-7",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43004006/",
+      "pdf_url": "https://doi.org/10.1007/s00296-026-06334-7",
+      "study_design": "Case report with case-based systematic review of 38 published cases",
+      "summary_ar": "تصف المقالة مريضة تبلغ 42 عامًا لديها asthma مزمن وارتفاع شديد في rheumatoid factor، وظهرت لديها أولًا أعراض شبيهة بـ myocardial infarction مع شرايين تاجية غير مسدودة. خلال سبعة أشهر، تطورت لديها eosinophilia وchronic rhinosinusitis مع nasal polyposis وmononeuritis multiplex، ما أدى إلى تشخيص ANCA-negative EGPA بعد استبعاد أسباب أخرى. عولجت بـ prednisolone وazathioprine، وبقيت دون علاج مثبط للمناعة لأكثر من تسع سنوات من دون انتكاس مُبلغ عنه. شمل البحث المنهجي القائم على الحالات 38 تقريرًا عن ANCA-negative EGPA مع RF positivity، واستبعد التحليل 36 حالة لديها rheumatoid arthritis سابق. في تلك الحالات، سُجلت peripheral neuropathy لدى 72% وcardiac involvement لدى 47%، وحدث الاثنان معًا لدى 25%، مع وفاة مريضين لأسباب قلبية. تؤكد النتائج أن ارتفاع RF لا يستبعد EGPA عند وجود asthma وeosinophilia ومظاهر ENT أو neuropathy، لكنها تستند إلى تقارير حالات مع نقص في البيانات والمتابعة.",
+      "summary_en": "The article describes a 42-year-old woman with longstanding asthma and a markedly elevated rheumatoid factor who initially presented with myocardial infarction-like symptoms despite non-obstructive coronary arteries. Over seven months, she developed eosinophilia, chronic rhinosinusitis with nasal polyposis, and mononeuritis multiplex, leading to a diagnosis of ANCA-negative EGPA after alternative causes were excluded. She received prednisolone and azathioprine and remained off immunosuppressive therapy for more than nine years without reported relapse. The case-based systematic review identified 38 published cases of ANCA-negative, RF-positive EGPA; the analysis focused on 36 patients without pre-existing rheumatoid arthritis. Peripheral neuropathy was reported in 72% and cardiac involvement in 47%; both occurred in 25%, and two patients died of cardiac causes. The findings caution that elevated RF does not rule out EGPA when asthma, eosinophilia, ENT disease, or neuropathy are present, although the evidence is limited by case-report quality and incomplete follow-up.",
+      "practice_change_ar": "لا ينبغي أن يؤدي ارتفاع RF وحده إلى استبعاد EGPA، وينبغي تقييم المرضى المصابين بـ asthma وeosinophilia وأعراض ENT أو neuropathy ضمن التشخيص التفريقي.",
+      "practice_change_en": "Elevated RF alone should not exclude EGPA; consider it in patients with asthma, eosinophilia, and ENT or neuropathic manifestations.",
+      "future_impact_ar": "قد يحسن استخدام قائمة الإبلاغ المقترحة توثيق ANCA وanti-CCP وRF والنتائج طويلة الأمد في تقارير EGPA المستقبلية.",
+      "future_impact_en": "The proposed reporting checklist may improve documentation of ANCA, anti-CCP, RF, and long-term outcomes in future EGPA case reports.",
+      "why_important_ar": "تلفت المقالة الانتباه إلى احتمال أن تحجب RF positivity تشخيص EGPA لدى مرضى لديهم مظاهر أنفية وعصبية وقلبية.",
+      "why_important_en": "The article highlights how RF positivity may obscure EGPA diagnosis in patients with sinonasal, neurologic, and cardiac manifestations.",
+      "vs_previous_ar": "تضيف المقالة تجميعًا للحالات المنشورة عن ANCA-negative وRF-positive EGPA، وتبرز أن هذه الصورة قد تترافق مع neuropathy وcardiac involvement رغم إيجابية RF.",
+      "vs_previous_en": "It consolidates published cases of ANCA-negative, RF-positive EGPA and highlights frequent neuropathy and cardiac involvement despite RF positivity.",
+      "stars": 3,
+      "stars_reason_ar": "مراجعة منهجية قائمة على تقارير حالات مع حالة سريرية؛ تقدم تنبيهًا مفيدًا للتشخيص التفريقي في rhinology، لكن مستوى الدليل منخفض والنتائج لا تغير الممارسة مباشرة.",
+      "stars_reason_en": "A case-based systematic review with an illustrative case offers a useful rhinology-related diagnostic reminder, but the evidence is low quality and does not directly change practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for discussion of EGPA diagnosis despite RF positivity, the relevance of sinonasal, neurologic, and cardiac manifestations, and the limitations of case-report evidence.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى دراسات مستقبلية ذات متابعة مكتملة وتوثيق موحد لـ ANCA وanti-CCP وRF والعلاج والانتكاس في EGPA.",
+      "research_gap_en": "Prospective studies with complete follow-up and standardized reporting of ANCA, anti-CCP, RF, treatment, and relapse in EGPA are needed.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نتناول اليوم مقالة عن rheumatoid factor positivity لدى مرضى ANCA-negative eosinophilic granulomatosis with polyangiitis، أو EGPA، وهي حالة مهمة لأطباء ENT لأن chronic rhinosinusitis مع nasal polyposis قد يكون جزءًا من الصورة الجهازية. تصف المقالة امرأة عمرها 42 عامًا لديها asthma طويل الأمد وارتفاع كبير في RF. بدأت الحالة بمظاهر شبيهة بـ myocardial infarction رغم عدم وجود انسداد في الشرايين التاجية. ثم ظهرت eosinophilia، وأعراض الأنف والجيوب، وmononeuritis multiplex؛ وبعد استبعاد أسباب أخرى، شُخصت بـ ANCA-negative EGPA. تلقت prednisolone وazathioprine، وبقيت أكثر من تسع سنوات دون علاج مثبط للمناعة ومن دون انتكاس مُبلغ عنه.\n\nراجع المؤلفون 38 حالة منشورة من ANCA-negative وRF-positive EGPA، وركز التحليل على 36 حالة دون rheumatoid arthritis سابق. وُجدت peripheral neuropathy لدى 72%، وcardiac involvement لدى 47%، واجتمعت المظاهرتان لدى ربع الحالات؛ وتوفي مريضان لأسباب قلبية. كما أن بيانات الفحوص كانت ناقصة في عدد من التقارير، ولم يُذكر كل من MPO-ANCA وPR3-ANCA سوى في 42%، وanti-CCP في 11%.\n\nالخلاصة العملية هي أن RF، حتى إذا كان مرتفعًا، لا ينبغي أن يصرف الانتباه عن EGPA عند مريض لديه asthma وeosinophilia وأعراض ENT أو neuropathy. مع ذلك، فهذه مراجعة مبنية على تقارير حالات، لذا لا تثبت تقديرات الانتشار ولا تغير العلاج مباشرة. تقترح المقالة قائمة لتحسين الإبلاغ مستقبلًا، وتؤكد الحاجة إلى توثيق موحد للفحوص والعلاج والمتابعة والانتكاس.",
+      "audio_script_en": "Today’s article examines rheumatoid factor positivity in ANCA-negative eosinophilic granulomatosis with polyangiitis, or EGPA. It is relevant to ENT clinicians because chronic rhinosinusitis with nasal polyposis may be part of a broader systemic presentation. The report describes a 42-year-old woman with longstanding asthma and a markedly elevated RF. Her initial presentation mimicked myocardial infarction, although her coronary arteries were non-obstructed. Over the following seven months, eosinophilia, sinonasal disease, and mononeuritis multiplex emerged. After other causes were excluded, she was diagnosed with ANCA-negative EGPA. She received prednisolone and azathioprine, and remained off immunosuppressive treatment for more than nine years without reported relapse.\n\nThe authors reviewed 38 published cases of ANCA-negative, RF-positive EGPA and analyzed 36 without pre-existing rheumatoid arthritis. Peripheral neuropathy was reported in 72%, cardiac involvement in 47%, and both manifestations in 25%. Two patients died from cardiac causes. Reporting of laboratory tests was often incomplete: both MPO-ANCA and PR3-ANCA were documented in only 42% of cases, while anti-CCP was reported in 11%.\n\nThe practical message is that RF positivity, even at a high level, should not rule out EGPA when a patient has asthma, eosinophilia, ENT manifestations, or neuropathy. However, these findings come from published case reports and should not be treated as reliable estimates of risk or as evidence for a new treatment approach. The authors propose a checklist to improve future case reporting. Better standardized documentation and long-term follow-up will be needed to clarify disease patterns and outcomes.",
+      "mcq": [
+        {
+          "q_ar": "ما العلامات التي تطورت لدى المريضة وأسهمت في تشخيص ANCA-negative EGPA؟",
+          "q_en": "Which findings emerged in the patient and contributed to the diagnosis of ANCA-negative EGPA?",
+          "options_ar": [
+            "أ) Eosinophilia وchronic rhinosinusitis مع nasal polyposis وmononeuritis multiplex",
+            "ب) Otitis media وconductive hearing loss فقط",
+            "ج) Vocal fold paralysis وstridor",
+            "د) Nasal fracture وanosmia بعد رضّ"
+          ],
+          "options_en": [
+            "A) Eosinophilia, chronic rhinosinusitis with nasal polyposis, and mononeuritis multiplex",
+            "B) Otitis media and conductive hearing loss only",
+            "C) Vocal fold paralysis and stridor",
+            "D) Nasal fracture and post-traumatic anosmia"
+          ],
+          "answer": 0,
+          "explanation_ar": "تطورت لدى المريضة eosinophilia وchronic rhinosinusitis مع nasal polyposis وmononeuritis multiplex، وهي مظاهر دعمت تشخيص EGPA.",
+          "explanation_en": "The patient developed eosinophilia, chronic rhinosinusitis with nasal polyposis, and mononeuritis multiplex, supporting the EGPA diagnosis."
+        },
+        {
+          "q_ar": "في الحالات الـ36 دون rheumatoid arthritis سابق، ما نسبة الحالات التي أُبلغ فيها عن peripheral neuropathy؟",
+          "q_en": "Among the 36 cases without pre-existing rheumatoid arthritis, what proportion had reported peripheral neuropathy?",
+          "options_ar": [
+            "أ) 25%",
+            "ب) 42%",
+            "ج) 47%",
+            "د) 72%"
+          ],
+          "options_en": [
+            "A) 25%",
+            "B) 42%",
+            "C) 47%",
+            "D) 72%"
+          ],
+          "answer": 3,
+          "explanation_ar": "أُبلغ عن peripheral neuropathy لدى 72% من الحالات الـ36 التي شملها التحليل.",
+          "explanation_en": "Peripheral neuropathy was reported in 72% of the 36 cases analyzed."
+        },
+        {
+          "q_ar": "ما الاستنتاج السريري الأساسي بشأن RF positivity لدى مريض لديه asthma وeosinophilia ومظاهر ENT؟",
+          "q_en": "What is the main clinical takeaway regarding RF positivity in a patient with asthma, eosinophilia, and ENT manifestations?",
+          "options_ar": [
+            "أ) RF positivity تستبعد EGPA",
+            "ب) RF positivity وحدها لا ينبغي أن تستبعد EGPA",
+            "ج) يجب تشخيص rheumatoid arthritis دون تقييم إضافي",
+            "د) لا توجد حاجة إلى تقييم المظاهر الجهازية"
+          ],
+          "options_en": [
+            "A) RF positivity excludes EGPA",
+            "B) RF positivity alone should not exclude EGPA",
+            "C) Rheumatoid arthritis should be diagnosed without further assessment",
+            "D) Systemic manifestations do not need evaluation"
+          ],
+          "answer": 1,
+          "explanation_ar": "تؤكد المقالة أن ارتفاع RF لا يستبعد EGPA عندما تكون المظاهر السريرية متوافقة، بما فيها asthma وeosinophilia وأعراض ENT أو neuropathy.",
+          "explanation_en": "The article emphasizes that elevated RF does not rule out EGPA when compatible features such as asthma, eosinophilia, ENT disease, or neuropathy are present."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026111101",
+      "title_ar": "ميدترونيك وكارل ستورز تتعاونان لتطوير حلول جراحية متكاملة للأنف والأذن والحنجرة",
+      "title_en": "Medtronic and Karl Storz Collaborate on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-11",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أفادت «ماس ديفايس» بأن ميدترونيك وكارل ستورز تتعاونان لتطوير حلول جراحية متكاملة في مجال الأنف والأذن والحنجرة. ولا يوضح العنوان المنتجات أو التقنيات التي سيجري دمجها، أو موعد إتاحتها، أو الشروط التجارية للتعاون. ولا يتناول الخبر المتاح قراراً تنظيمياً أو استحواذاً أو نتائج سريرية.",
+      "summary_en": "Medtronic and Karl Storz are collaborating on integrated surgical solutions for ear, nose, and throat care, according to MassDevice. The headline does not specify which products or technologies will be combined, when they may become available, or the commercial terms of the collaboration. No regulatory decision, acquisition, or clinical outcome is reported in the available item.",
+      "practice_change_ar": "لا يشير الخبر إلى تغيير فوري في الممارسة الجراحية؛ وينبغي للجراحين انتظار تفاصيل الحلول وتوافرها والأدلة السريرية.",
+      "practice_change_en": "No immediate change to surgical practice is indicated; surgeons should await details about the solutions, availability, and clinical evidence.",
+      "future_impact_ar": "قد يوسّع التعاون خيارات التقنيات المتكاملة في الأنف والأذن والحنجرة إذا أسفر عن منتجات مفيدة سريرياً وصلت إلى السوق.",
+      "future_impact_en": "The collaboration may expand integrated ENT technology options if it produces clinically useful products that reach the market.",
+      "why_important_ar": "قد يسهم جمع خبرات الشركتين في مجال الأنف والأذن والحنجرة في تبسيط سير العمل الجراحي مستقبلاً، لكن لا يمكن تقييم الأثر العملي من دون معلومات عن المنتجات والنتائج.",
+      "why_important_en": "Combining the companies’ ENT capabilities could eventually streamline surgical workflows, but the practical impact cannot be assessed without product and outcomes information.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "تعاون صناعي ذو صلة بالتخصص، لكن تفاصيل المنتجات والتوافر والأثر السريري غير متاحة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "في خبر يهم قطاع الأنف والأذن والحنجرة، أعلنت ميدترونيك وكارل ستورز تعاونهما على حلول جراحية متكاملة للتخصص، وفقاً لموقع «ماس ديفايس». قد يتيح هذا التعاون الجمع بين خبرات الشركتين في التقنيات والأجهزة الجراحية، وربما يؤدي مستقبلاً إلى أدوات أو مسارات عمل أكثر تكاملاً. لكن الخبر المتاح لا يحدد المنتجات التي ستشملها الشراكة، ولا موعد طرحها، ولا شروطها التجارية. كذلك لا توجد معلومات عن نتائج سريرية أو تغييرات تنظيمية مرتبطة بها. لذلك، لا يوجد ما يشير إلى ضرورة تغيير الممارسة الجراحية في الوقت الحالي. ما يستحق المتابعة هو ما إذا كان التعاون سيُترجم إلى منتجات محددة، وما إذا كانت ستقدم فائدة قابلة للقياس في سير العمليات أو نتائج المرضى، وكيف ستكون إتاحتها للمؤسسات الصحية.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026111102",
+      "title_ar": "شركات رائدة في مجال الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية",
+      "title_en": "Leading ENT Companies Driving Medical Technology Innovation",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-11",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت SNS Insider مقالاً يسلّط الضوء على شركات تصفها بأنها رائدة في الابتكار بالتكنولوجيا الطبية في قطاع الأنف والأذن والحنجرة. ولا يحدد الخبر المتاح أسماء الشركات أو المنتجات أو التطورات التي يناقشها المقال. كما لا يذكر أي استحواذ أو دعوى قضائية أو تحرك في الأسهم أو قرار تنظيمي أو دراسة سريرية. ولا يكفي العنوان وحده لإثبات أن أي تقنية حسّنت نتائج المرضى.",
+      "summary_en": "SNS Insider published an article highlighting companies it describes as leaders in medical technology innovation in the ENT sector. The supplied news item does not identify the companies, products, or specific developments discussed. It reports no acquisition, lawsuit, stock movement, regulatory decision, or clinical study. The headline alone does not establish that any technology has been proven to improve patient outcomes.",
+      "practice_change_ar": "لا يستدعي الخبر تغييراً فورياً في الممارسة السريرية؛ وينبغي للجراحين مراجعة تفاصيل المنتجات والأدلة قبل التفكير في استخدام تقنيات جديدة.",
+      "practice_change_en": "No immediate change to clinical practice is indicated; surgeons should review specific product and evidence details before considering new technologies.",
+      "future_impact_ar": "ستكون هناك حاجة إلى معلومات إضافية وتقييم سريري لتحديد ما إذا كان الابتكار المشار إليه سيؤدي إلى تغييرات ملموسة في رعاية مرضى الأنف والأذن والحنجرة.",
+      "future_impact_en": "Further reporting and clinical evaluation will be needed to determine whether the highlighted innovation translates into meaningful changes in ENT care.",
+      "why_important_ar": "يشير الخبر إلى استمرار الاهتمام التجاري بتقنيات الأنف والأذن والحنجرة، لكنه لا يقدم أدلة سريرية أو معلومات عملية عن منتجات محددة.",
+      "why_important_en": "The item signals ongoing commercial interest in ENT technology, but provides no clinical evidence or actionable product information.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "الأهمية السريرية محدودة لأن الخبر لا يذكر شركات أو منتجات أو نتائج سريرية محددة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "يتناول عنوان نشرته SNS Insider شركات تقول إنها تقود الابتكار في التكنولوجيا الطبية بمجال الأنف والأذن والحنجرة. لكن الخبر المتاح لا يحدد أسماء هذه الشركات أو التقنيات المقصودة، ولا يعرض نتائج سريرية أو قراراً تنظيمياً أو تطوراً تجارياً محدداً. لذلك لا يمكن استنتاج أن ابتكاراً بعينه أصبح متاحاً للاستخدام، أو أنه يحسّن نتائج المرضى. بالنسبة إلى أطباء الأنف والأذن والحنجرة، لا يشير هذا الخبر وحده إلى ضرورة تغيير الممارسة. ومن المهم عند تقييم أي تقنية جديدة الاطلاع على بياناتها السريرية، ووضعها التنظيمي، وتكلفتها، ومدى ملاءمتها للمرضى. الخلاصة: الخبر إشارة عامة إلى نشاط الابتكار في القطاع، لكنه لا يقدم معلومات كافية لاتخاذ قرار سريري أو استثماري.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026111103",
+      "title_ar": "ميدترونيك تحصل على علامة CE لمنصة Stealth AXiS الروبوتية لجراحات الأنف والأذن والحنجرة",
+      "title_en": "Medtronic Earns CE Mark for Stealth AXiS Robotic Platform in ENT Surgery",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-11",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "حصلت ميدترونيك على علامة CE لمنصتها الروبوتية Stealth AXiS المخصصة لجراحات الأنف والأذن والحنجرة، بحسب موقع MassDevice. وتتيح العلامة تسويق المنصة في الأسواق الأوروبية المعنية، مع مراعاة المتطلبات المحلية وخطط الإطلاق. ولم يتضمن التقرير تفاصيل إضافية عن الإجراءات المحددة أو موعد الإطلاق أو النتائج السريرية. ولا تعادل علامة CE ترخيص إدارة الغذاء والدواء الأمريكية.",
+      "summary_en": "Medtronic has received CE marking for its Stealth AXiS robotic platform for ENT surgery, according to MassDevice. The mark allows the platform to be marketed in applicable European markets, subject to local requirements and rollout. The report provided no further details on specific ENT procedures, launch timing, or clinical outcomes. CE marking is not the same as U.S. FDA authorization.",
+      "practice_change_ar": "قد تتاح لجراحي الأنف والأذن والحنجرة في أوروبا منصة روبوتية أخرى لتقييمها، لكن الإعلان وحده لا يحدد مدى توفرها أو الإجراءات المؤهلة أو فوائدها السريرية.",
+      "practice_change_en": "ENT surgeons in Europe may eventually have another robotic platform to evaluate, but the announcement alone does not establish availability, eligible procedures, or clinical benefits.",
+      "future_impact_ar": "سيتوقف تأثير المنصة في ممارسة الأنف والأذن والحنجرة على توفرها واستخداماتها المصرح بها والأدلة السريرية، وكذلك مقارنتها بالتقنيات الجراحية المتاحة.",
+      "future_impact_en": "The platform’s impact on ENT practice will depend on its eventual availability, approved uses, clinical evidence, and how it compares with existing surgical technologies.",
+      "why_important_ar": "تمثل علامة CE خطوة تنظيمية قد تتيح التسويق في أوروبا، لكن اعتماد المنصة سريرياً يظل بحاجة إلى أدلة حول السلامة والنتائج وتأثيرها في سير العمل.",
+      "why_important_en": "The CE mark is a regulatory milestone that may enable European commercialization, while evidence on safety, outcomes, and workflow impact remains essential for clinical adoption.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 3,
+      "stars_reason_ar": "خطوة تنظيمية مهمة لمنصة روبوتية جديدة، لكن تفاصيل الاستخدام والأدلة السريرية غير متاحة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "في خبر يهم قطاع الأنف والأذن والحنجرة، حصلت ميدترونيك على علامة CE لمنصة Stealth AXiS الروبوتية المخصصة للجراحة في هذا التخصص، وفقاً لموقع MassDevice. تمثل علامة CE خطوة تنظيمية تتيح تسويق المنتج في الأسواق الأوروبية المعنية، مع مراعاة المتطلبات المحلية وخطط الإطلاق. لكن الخبر المنشور لا يحدد الإجراءات التي ستُستخدم فيها المنصة، ولا موعد توفرها، كما لا يقدم بيانات عن نتائج المرضى أو السلامة أو أثرها في سير العمل الجراحي. ومن المهم أيضاً التمييز بين علامة CE والترخيص الأمريكي؛ فالحصول على العلامة الأوروبية لا يعني أن المنصة حصلت على موافقة إدارة الغذاء والدواء الأمريكية. بالنسبة للجراحين، يستحق هذا التطور المتابعة، لكنه لا يكفي وحده للحكم على الفائدة السريرية أو تغيير الممارسة. وسيعتمد تأثير المنصة على تفاصيل الاستخدامات المصرح بها، وتوفرها الفعلي، وما ستظهره الأدلة السريرية ومقارنتها بالتقنيات القائمة.",
+      "mcq": []
+    }
+  ]
+}
