@@ -1,0 +1,687 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T10:12:24Z",
+  "articles": [
+    {
+      "pmid": "43026108",
+      "title_ar": "Acoustic Signatures of Vocal Nodules and Vocal Polyps: A Sex-Stratified Comparison with Normal Voices in North Indian Adults.",
+      "title_en": "Acoustic Signatures of Vocal Nodules and Vocal Polyps: A Sex-Stratified Comparison with Normal Voices in North Indian Adults.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Nov-13",
+      "doi": "10.1016/j.jvoice.2026.10.071",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43026108/",
+      "pdf_url": null,
+      "study_design": "Prospective cross-sectional study n=131",
+      "summary_ar": "قارنت هذه الدراسة acoustic voice parameters لدى 34 مريضًا لديهم vocal nodules، و36 لديهم vocal polyps، و61 من normal controls من البالغين في North India. أُخذت تسجيلات sustained vowel /a/ وحُللت باستخدام Vaghmi Voice Analysis Software وPRAAT. أظهرت المجموعات اختلافات ذات دلالة إحصائية في جميع acoustic parameters، مع تباين النتائج بحسب sex. لدى الإناث، اختلفت مجموعتا vocal nodules وvocal polyps عن normal voices، وكان الفرق الأبرز في HNR وCPPS؛ كما كان F0 وHNR أعلى مع vocal nodules مقارنةً بـ vocal polyps. لدى الذكور، ارتبطت vocal polyps بارتفاع jitter وshimmer وانخفاض HNR وCPPS مقارنةً بالضوابط، بينما لم يختلف F0 بشكل دال. تدعم النتائج استخدام acoustic analysis كأداة مساعدة لتوصيف أثر الآفات ومتابعة الصوت، لكنها لا تستبدل laryngoscopy أو videostroboscopy.",
+      "summary_en": "This prospective cross-sectional study compared acoustic voice parameters in 34 adults with vocal nodules, 36 with vocal polyps, and 61 normal controls in North India. Participants sustained vowel /a/ recordings, analyzed with Vaghmi Voice Analysis Software and PRAAT. Acoustic measures differed significantly across groups, with patterns varying by sex. Among females, both lesion groups differed from normal voices, particularly in HNR and CPPS; F0 and HNR were higher with nodules than with polyps. Among males, polyps were associated with higher jitter and shimmer and lower HNR and CPPS than controls, while F0 was not significantly different. Acoustic analysis may complement lesion assessment and longitudinal monitoring but does not replace laryngoscopy or videostroboscopy.",
+      "practice_change_ar": "لا تغيّر هذه النتائج التدبير اليوم، لكنها تدعم استخدام acoustic analysis كأداة تكميلية إلى جانب laryngoscopy وvideostroboscopy.",
+      "practice_change_en": "These findings do not change management today but support acoustic analysis as an adjunct to laryngoscopy and videostroboscopy.",
+      "future_impact_ar": "قد تساعد دراسات أكبر على التحقق من فائدة sex-stratified acoustic profiles في التشخيص ومتابعة الاستجابة للعلاج.",
+      "future_impact_en": "Larger studies may establish whether sex-stratified acoustic profiles improve diagnosis and monitoring of treatment response.",
+      "why_important_ar": "توضح الدراسة أن vocal nodules وvocal polyps يرتبطان بأنماط acoustic مختلفة، وأن CPPS وHNR قد يميزان الصوت المرضي عن الطبيعي.",
+      "why_important_en": "The study shows that vocal nodules and vocal polyps have differing acoustic patterns and that CPPS and HNR may distinguish pathological from normal voices.",
+      "vs_previous_ar": "تضيف الدراسة مقارنة مباشرة مفصولة حسب sex بين vocal nodules وvocal polyps والضوابط، لكنها لا تثبت تفوق هذه القياسات على التقييم السريري.",
+      "vs_previous_en": "The study adds a sex-stratified comparison of nodules, polyps, and controls, but does not establish that these measures outperform clinical assessment.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة prospective cross-sectional متوسطة الحجم تقدم معرفة مفيدة عن acoustic profiles المفصولة حسب sex، لكن تصميمها لا يثبت قيمة تشخيصية أو أثرًا يغير الممارسة.",
+      "stars_reason_en": "This moderately sized prospective cross-sectional study provides useful sex-stratified acoustic data, but does not establish diagnostic utility or a practice-changing effect.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق النقاش حول تفسير الفروق حسب sex، ودور HNR وCPPS كقياسات مساعدة، وحدود دراسة cross-sectional في استنتاج القيمة التشخيصية.",
+      "jc_reason_en": "Worth discussing for its sex-stratified findings, the adjunctive role of HNR and CPPS, and the limits of cross-sectional data for establishing diagnostic performance.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات أكبر ومتحققة خارجيًا لتحديد حساسية ونوعية acoustic parameters، ومقارنة قيمتها الإضافية بنتائج laryngoscopy وvideostroboscopy ومتابعة العلاج.",
+      "research_gap_en": "Larger externally validated studies are needed to determine acoustic parameter sensitivity and specificity and their added value alongside laryngoscopy, videostroboscopy, and treatment follow-up.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نناقش اليوم دراسة عن acoustic signatures لدى البالغين المصابين بـ vocal nodules أو vocal polyps، مقارنةً بأشخاص لديهم أصوات طبيعية. شملت الدراسة 131 مشاركًا: 34 لديهم vocal nodules، و36 لديهم vocal polyps، و61 من normal controls. طُلب من المشاركين إصدار sustained vowel /a/ عند pitch وloudness المعتادين، ثم حُللت التسجيلات باستخدام Vaghmi Voice Analysis Software وPRAAT.\n\nوجد الباحثون فروقًا ذات دلالة إحصائية بين المجموعات في acoustic parameters، مع تحليل منفصل حسب sex. لدى الإناث، اختلفت مجموعتا الآفات عن الأصوات الطبيعية، وبرزت الفروق خصوصًا في HNR وCPPS. كما كان F0 وHNR أعلى لدى مجموعة vocal nodules مقارنةً بمجموعة vocal polyps. لدى الذكور، أظهرت مجموعة vocal polyps ارتفاعًا في jitter وshimmer وانخفاضًا في HNR وCPPS مقارنةً بالضوابط، بينما لم يظهر F0 اختلافًا ذا دلالة. ولم تكن الفروق الزوجية في jitter لدى الإناث دالة، رغم ارتفاع المتوسط، بسبب التباين الكبير.\n\nسريريًا، تشير النتائج إلى أن acoustic analysis قد تساعد في توصيف الأثر الوظيفي للآفة، ومتابعة التغيرات الصوتية مع الوقت أو العلاج. لكنها لا تحل محل laryngoscopy أو videostroboscopy، ولا تثبت الدراسة أن هذه القياسات وحدها تشخص الآفات بدقة أو تغيّر قرار العلاج. كما أن التصميم cross-sectional وحجم العينة يحدان من الاستنتاجات، ولا تقدم النتائج حدودًا تشخيصية قابلة للتطبيق مباشرة.\n\nالخلاصة: هذه دراسة مفيدة للتعرف على أنماط acoustic مختلفة حسب نوع الآفة وsex، مع إبراز HNR وCPPS كقياسات واعدة. لا يوجد تغيير فوري في الممارسة؛ والخطوة التالية هي دراسات أكبر ومتحقق منها تقارن الأداء التشخيصي والقيمة الإضافية لهذه القياسات مع التقييم بالمنظار ومتابعة العلاج.",
+      "audio_script_en": "Today we review a study of acoustic signatures in adults with vocal nodules or vocal polyps compared with people with normal voices. It included 131 participants: 34 with nodules, 36 with polyps, and 61 normal controls. Participants sustained the vowel /a/ at their habitual pitch and loudness, and recordings were analyzed using Vaghmi Voice Analysis Software and PRAAT.\n\nThe investigators found statistically significant differences across groups in acoustic parameters and reported results separately by sex. In females, both lesion groups differed from normal voices, particularly for HNR and CPPS. F0 and HNR were higher in the nodule group than in the polyp group. In males, polyps were associated with increased jitter and shimmer and reduced HNR and CPPS compared with controls; F0 did not differ significantly. Although mean jitter was elevated in females, high variability meant pairwise differences were not significant.\n\nClinically, these results suggest acoustic analysis can help characterize the functional voice effects of lesions and may support monitoring over time or during treatment. It does not replace laryngoscopy or videostroboscopy, and this study does not show that acoustic measures alone can diagnose lesions accurately or alter treatment decisions. The cross-sectional design and sample size also limit the conclusions, and the abstract does not provide diagnostic thresholds that can be applied directly.\n\nThe take-home message is that vocal nodules and polyps may have different acoustic patterns, with HNR and CPPS appearing particularly informative. This is useful additional knowledge, not a reason to change practice today. Larger, externally validated studies should assess diagnostic performance and the added value of acoustic measures alongside endoscopic assessment and treatment follow-up.",
+      "mcq": [
+        {
+          "q_ar": "ما قياسا acoustic اللذان أظهرا أكبر الفروق الملحوظة بين الأصوات المرضية والطبيعية؟",
+          "q_en": "Which two acoustic measures showed the largest observed differences between pathological and normal voices?",
+          "options_ar": [
+            "أ) F0 وintensity",
+            "ب) HNR وCPPS",
+            "ج) jitter وF0",
+            "د) shimmer وintensity"
+          ],
+          "options_en": [
+            "A) F0 and intensity",
+            "B) HNR and CPPS",
+            "C) Jitter and F0",
+            "D) Shimmer and intensity"
+          ],
+          "answer": 1,
+          "explanation_ar": "ذكر الباحثون أن HNR وCPPS أظهرا أكبر الفروق الملحوظة، خصوصًا عند مقارنة الأصوات المرضية بالطبيعية.",
+          "explanation_en": "The authors identified HNR and CPPS as showing the largest observed group differences, particularly between pathological and normal voices."
+        },
+        {
+          "q_ar": "ما النمط الذي وُجد لدى الذكور المصابين بـ vocal polyps مقارنةً بالضوابط؟",
+          "q_en": "What pattern was observed in males with vocal polyps compared with controls?",
+          "options_ar": [
+            "أ) انخفاض jitter وshimmer وارتفاع HNR وCPPS",
+            "ب) ارتفاع jitter وshimmer وانخفاض HNR وCPPS",
+            "ج) ارتفاع F0 فقط",
+            "د) عدم وجود أي اختلاف في acoustic parameters"
+          ],
+          "options_en": [
+            "A) Lower jitter and shimmer with higher HNR and CPPS",
+            "B) Higher jitter and shimmer with lower HNR and CPPS",
+            "C) Higher F0 only",
+            "D) No differences in acoustic parameters"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتبطت vocal polyps لدى الذكور بارتفاع jitter وshimmer وانخفاض HNR وCPPS؛ ولم يختلف F0 بشكل دال.",
+          "explanation_en": "Male participants with polyps had increased jitter and shimmer and reduced HNR and CPPS; F0 was not significantly different."
+        },
+        {
+          "q_ar": "ما الاستخدام السريري الأنسب لهذه النتائج وفقًا للدراسة؟",
+          "q_en": "What is the most appropriate clinical use of these findings?",
+          "options_ar": [
+            "أ) استبدال laryngoscopy وvideostroboscopy بـ acoustic analysis",
+            "ب) استخدام acoustic analysis كأداة مساعدة لتوصيف الصوت ومتابعته",
+            "ج) تشخيص نوع الآفة اعتمادًا على F0 وحده",
+            "د) اعتبار acoustic parameters دليلًا على الحاجة إلى الجراحة"
+          ],
+          "options_en": [
+            "A) Replace laryngoscopy and videostroboscopy with acoustic analysis",
+            "B) Use acoustic analysis as an adjunct to characterize and monitor voice",
+            "C) Diagnose lesion type using F0 alone",
+            "D) Treat acoustic parameters as an indication for surgery"
+          ],
+          "answer": 1,
+          "explanation_ar": "يمكن أن تكمل acoustic analysis التقييم السريري وتساعد في المتابعة، لكنها لا تستبدل الفحص بالمنظار ولا تحدد وحدها العلاج.",
+          "explanation_en": "Acoustic analysis may complement clinical assessment and follow-up, but it does not replace endoscopic evaluation or determine treatment by itself."
+        }
+      ]
+    },
+    {
+      "pmid": "43018942",
+      "title_ar": "Disease Duration and Latent Symptom Phenotypes in Medically Refractory Chronic Rhinosinusitis.",
+      "title_en": "Disease Duration and Latent Symptom Phenotypes in Medically Refractory Chronic Rhinosinusitis.",
+      "journal": "JAMA otolaryngology-- head & neck surgery",
+      "pub_date": "2026-Nov-12",
+      "doi": "10.1001/jamaoto.2026.3282",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43018942/",
+      "pdf_url": null,
+      "study_design": "Cross-sectional analysis of prospectively collected cohort data, n=661",
+      "summary_ar": "حللت هذه الدراسة بيانات 661 مريضًا مصابًا بـ chronic rhinosinusitis (CRS) لم يستجيبوا للعلاج الطبي وخضعوا لـ endoscopic sinus surgery. استخدم الباحثون multiple correspondence analysis لتحديد أنماط تزامن 21 عرضًا، وقارنوا النتائج بين ثلاث فئات لمدة الأعراض. ظهرت ثلاثة أبعاد، فسّرَت 40% من التباين: العبء العام للأعراض، والتحول بين headache أو pressure وبين chemosensory أو drainage-dominant symptoms، وسمات airway-irritative أو sensory. ارتبطت المدة الأطول بزيادة تدريجية في العبء العام للأعراض، بينما أظهرت الأبعاد الأخرى اختلافات بين مجموعات المدة. دعمت نتائج SNOT-22 هذا النمط، مع اختلافات أوضح بين فئات المدة الأطول. تشير النتائج إلى أن duration يرتبط باختلاف بنية symptom phenotypes، لكنها لا تثبت علاقة سببية أو تحدد استجابة العلاج.",
+      "summary_en": "This cross-sectional study analyzed 661 patients with medically refractory chronic rhinosinusitis (CRS) who underwent endoscopic sinus surgery.\nMultiple correspondence analysis of 21 binary symptoms identified three dimensions, explaining 40% of total variance.\nThe dimensions represented overall symptom burden, a shift between headache/pressure and chemosensory/drainage patterns, and airway-irritative or sensory features.\nOverall symptom burden increased with longer symptom duration, while the other dimensions also differed across duration groups.\nSNOT-22 total and subdomain scores supported these duration-related patterns.\nThe findings suggest that symptom duration is associated with differences in phenotype structure, but do not establish causality or predict treatment response.",
+      "practice_change_ar": "لا تبرر النتائج تغيير العلاج اليوم، لكنها تدعم أخذ مدة الأعراض في الاعتبار عند توصيف symptom phenotype لدى مرضى CRS المقاوم للعلاج.",
+      "practice_change_en": "These findings do not justify changing treatment today, but support considering symptom duration when characterizing phenotypes in medically refractory CRS.",
+      "future_impact_ar": "قد تساعد دراسات longitudinal في تحديد ما إذا كانت أنماط الأعراض المرتبطة بالمدة تتنبأ بمسار المرض أو الاستجابة للعلاج.",
+      "future_impact_en": "Longitudinal studies may determine whether duration-associated symptom patterns predict disease course or treatment response.",
+      "why_important_ar": "توضح الدراسة أن مدة CRS قد ترتبط بتغير أنماط تزامن الأعراض، وليس فقط بزيادة شدتها.",
+      "why_important_en": "The study suggests that CRS duration may be associated with changes in symptom co-occurrence patterns, not just greater symptom severity.",
+      "vs_previous_ar": "تضيف الدراسة تحليلًا للأنماط الكامنة المرتبطة بمدة الأعراض إلى المعرفة السابقة التي لم تربط duration بوضوح بأنماط symptom co-occurrence.",
+      "vs_previous_en": "The study adds an analysis of latent symptom patterns by duration to prior knowledge that had not clearly linked duration with symptom co-occurrence.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة cross-sectional كبيرة ضمن cohort جُمعت بياناته prospective وفي مجلة JAMA Otolaryngology؛ تقدم معرفة جديدة مفيدة عن symptom phenotypes، لكنها لا تثبت السببية ولا تغيّر التدبير الحالي.",
+      "stars_reason_en": "A large cross-sectional analysis of prospectively collected cohort data in JAMA Otolaryngology offers useful new information on symptom phenotypes, but does not establish causality or change current management.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق المناقشة لأنها تستخدم تحليلًا للأنماط الكامنة في cohort كبير، وتثير أسئلة حول دور مدة الأعراض في phenotyping وتخطيط الدراسات longitudinal.",
+      "jc_reason_en": "It merits discussion because it applies latent-pattern analysis to a large cohort and raises questions about symptom duration in phenotyping and longitudinal study design.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج هذه الأنماط إلى تحقق longitudinal وفي مجموعات أوسع، مع اختبار ارتباطها بالاستجابة للعلاج والنتائج السريرية.",
+      "research_gap_en": "These patterns require longitudinal validation in broader populations, including assessment of their association with treatment response and clinical outcomes.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم دراسة عن العلاقة بين مدة الأعراض وأنماط الأعراض لدى مرضى chronic rhinosinusitis، أو CRS، المقاوم للعلاج الطبي. شملت الدراسة 661 مريضًا في عيادات rhinology بمراكز أكاديمية، وكان جميعهم قد خضعوا لـ endoscopic sinus surgery بعد عدم نجاح العلاج الطبي المناسب.\n\nاستخدم الباحثون multiple correspondence analysis لتحليل تزامن 21 عرضًا، وقارنوا النتائج بين ثلاث فئات: أقل من ستة أشهر، ومن ستة أشهر إلى ثلاث سنوات، وأكثر من ثلاث سنوات. كما استخدموا SNOT-22 للتحقق من النتائج. حدد التحليل ثلاثة أبعاد فسرت 40% من التباين. البعد الأول عكس العبء العام للأعراض، وازداد مع طول مدة المرض. أما البعد الثاني فمثّل اختلافًا بين نمط يغلب عليه headache أو pressure ونمط يغلب عليه chemosensory dysfunction أو drainage. والبعد الثالث شمل airway-irritative وsensory features. أظهرت نتائج SNOT-22 نمطًا داعمًا للفروق بين مجموعات المدة، وبرزت بعض الفروق خصوصًا بين فئات المدة الأطول.\n\nالخلاصة أن مدة الأعراض ارتبطت باختلافات في symptom phenotypes، وليس بمجرد زيادة خطية في شدة الأعراض. المرض الأقصر ارتبط بعبء أعراض أقل وبروز headache أو pressure، بينما ارتبطت المدة الأطول بعبء أكبر وبروز مشكلات الشم أو التذوق وdrainage. لكن هذه دراسة cross-sectional في مرضى مختارين ممن لم يستجيبوا للعلاج وخضعوا للجراحة؛ لذلك لا تثبت أن طول مدة المرض يسبب هذا التحول، ولا توضح ما إذا كانت هذه الأنماط تتنبأ بنتائج العلاج.\n\nلا تستدعي النتائج تغيير الممارسة اليوم، لكنها تذكّر الأطباء بأهمية وصف نمط الأعراض إلى جانب قياس شدتها. وتظل الحاجة قائمة إلى دراسات longitudinal تتحقق من هذه phenotypes وتختبر ارتباطها بمسار المرض والاستجابة للعلاج.",
+      "audio_script_en": "Today’s article examines whether symptom duration is associated with distinct symptom patterns in medically refractory chronic rhinosinusitis, or CRS. The cross-sectional analysis included 661 patients from academic rhinology clinics who had not responded to appropriate medical therapy and underwent endoscopic sinus surgery.\n\nThe investigators used multiple correspondence analysis to assess co-occurrence among 21 binary sinonasal symptoms. They compared three duration groups: less than six months, six months to three years, and more than three years. SNOT-22 total and subdomain scores provided convergent evidence. The analysis identified three dimensions, together explaining 40% of the variance. The first reflected overall symptom burden, which increased with duration. The second represented a shift between headache- or pressure-dominant symptoms and chemosensory- or drainage-dominant symptoms. The third captured airway-irritative and sensory features. SNOT-22 results supported duration-related differences, with some separation particularly between the longer-duration groups.\n\nThe main finding is that duration was associated with differences in symptom phenotype structure, rather than simply a linear increase in symptom severity. The shorter-duration group had lower overall burden and more headache or pressure predominance; longer duration was associated with greater symptom load and more chemosensory dysfunction and drainage concerns.\n\nThis is useful for clinical characterization, but it does not change management today. The study is cross-sectional and limited to a selected group of medically refractory patients who proceeded to surgery, so it cannot establish that duration causes phenotype changes or show whether these patterns predict treatment response. Longitudinal validation and evaluation of clinical outcomes are needed. For now, duration may be considered alongside symptom severity when describing CRS, without using it as a treatment-selection rule.",
+      "mcq": [
+        {
+          "q_ar": "ما نوع الدراسة التي أُجريت؟",
+          "q_en": "What was the study design?",
+          "options_ar": [
+            "أ) تجربة عشوائية محكومة",
+            "ب) تحليل cross-sectional لبيانات cohort جُمعت prospectively",
+            "ج) systematic review وmeta-analysis",
+            "د) دراسة حيوانية"
+          ],
+          "options_en": [
+            "A) Randomized controlled trial",
+            "B) Cross-sectional analysis of prospectively collected cohort data",
+            "C) Systematic review and meta-analysis",
+            "D) Animal study"
+          ],
+          "answer": 1,
+          "explanation_ar": "حللت الدراسة بيانات cohort في نقطة زمنية، وكانت البيانات قد جُمعت prospectively.",
+          "explanation_en": "The study analyzed cohort data cross-sectionally; the data had been collected prospectively."
+        },
+        {
+          "q_ar": "ما الذي مثّله البعد الأول في multiple correspondence analysis؟",
+          "q_en": "What did the first dimension in the multiple correspondence analysis represent?",
+          "options_ar": [
+            "أ) العبء العام للأعراض",
+            "ب) نمط airway-irritative فقط",
+            "ج) الاستجابة لـ endoscopic sinus surgery",
+            "د) وجود nasal polyps"
+          ],
+          "options_en": [
+            "A) Overall symptom burden",
+            "B) Airway-irritative symptoms only",
+            "C) Response to endoscopic sinus surgery",
+            "D) Presence of nasal polyps"
+          ],
+          "answer": 0,
+          "explanation_ar": "عكس البعد الأول العبء العام للأعراض، وازداد مع مدة الأعراض.",
+          "explanation_en": "The first dimension reflected overall symptom burden, which increased with symptom duration."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأهم بشأن تطبيق النتائج سريريًا؟",
+          "q_en": "What is the most important clinical interpretation of the findings?",
+          "options_ar": [
+            "أ) يجب تغيير العلاج وفق مدة الأعراض وحدها",
+            "ب) تثبت النتائج أن طول مدة المرض يسبب تغير phenotype",
+            "ج) قد تساعد مدة الأعراض في توصيف phenotype، لكن النتائج لا تغيّر التدبير حاليًا",
+            "د) لا توجد علاقة بين مدة الأعراض وأنماطها"
+          ],
+          "options_en": [
+            "A) Treatment should be changed based on symptom duration alone",
+            "B) The findings prove that longer disease duration causes phenotype changes",
+            "C) Duration may help characterize phenotype, but the findings do not change management today",
+            "D) Symptom duration is unrelated to symptom patterns"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة cross-sectional وتُظهر ارتباطًا لا سببية؛ لذلك تفيد في توصيف الأعراض ولا تفرض تغييرًا علاجيًا.",
+          "explanation_en": "The cross-sectional study shows an association, not causation; it informs symptom characterization but does not mandate a treatment change."
+        }
+      ]
+    },
+    {
+      "pmid": "43020747",
+      "title_ar": "Consistency and Agreement Across Different Chinese Connected Speech Materials in Acoustic Voice Assessment of Pediatric Vocal Fold Nodules.",
+      "title_en": "Consistency and Agreement Across Different Chinese Connected Speech Materials in Acoustic Voice Assessment of Pediatric Vocal Fold Nodules.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Nov-12",
+      "doi": "10.1016/j.jvoice.2026.10.060",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43020747/",
+      "pdf_url": "https://doi.org/10.1016/j.jvoice.2026.10.060",
+      "study_design": "Observational within-participant comparison, n=67",
+      "summary_ar": "قارنت الدراسة acoustic voice measures لدى 67 طفلاً مصاباً بـ pediatric vocal fold nodules أثناء قراءة ثلاثة نصوص صينية متصلة: The North Wind and the Sun وFishing with My Father وBirthday Gift. شملت القياسات AVQI وABI وCPPS وJitter وShimmer وHNR وGNE وقياسات spectral. اختلفت نتائج AVQI وABI وCPPS وShimmer وHNR وGNE وspectral slope إحصائياً بين مواد الكلام، بينما لم تظهر فروق ذات دلالة في Jitter وspectral tilt وH1-H2. أظهرت عدة قياسات اتساقاً نسبياً مرتفعاً عبر المواد، لكن كانت مؤشرات spectral أقل اتساقاً. بيّنت Bland-Altman analyses وجود انحيازات وحدود اتفاق تختلف بحسب القياس والمادة. تدعم النتائج استخدام مادة كلام موحدة عند تقييم الصوت ومقارنة النتائج، ولا تثبت أن النصوص المختلفة قابلة للاستبدال دون تحفظ.",
+      "summary_en": "This within-participant study compared acoustic voice measures in 67 children with pediatric vocal fold nodules using three Chinese connected-speech materials.\nMeasures included AVQI, ABI, CPPS, Jitter, Shimmer, HNR, GNE, and spectral parameters.\nSeveral measures differed significantly across materials, while Jitter, spectral tilt, and H1-H2 did not.\nRelative consistency was high for several commonly used measures, but lower for spectral slope, spectral tilt, and H1-H2.\nBland-Altman analyses showed that bias and limits of agreement depended on the parameter and material.\nThe findings favor using a consistent speech material rather than assuming unrestricted interchangeability.",
+      "practice_change_ar": "عند متابعة pediatric vocal fold nodules باستخدام acoustic voice assessment، ينبغي توحيد مادة الكلام بين الزيارات أو بين المقارنات.",
+      "practice_change_en": "When monitoring pediatric vocal fold nodules with acoustic voice assessment, use a consistent speech material across visits and comparisons.",
+      "future_impact_ar": "قد تساعد دراسات أكبر ومتعددة اللغات على تحديد مواد كلام معيارية وتفسير حدود الاتفاق سريرياً لدى الأطفال.",
+      "future_impact_en": "Larger, multilingual studies may help establish standardized speech materials and clinically meaningful agreement thresholds in children.",
+      "why_important_ar": "توضح الدراسة أن اختيار نص الكلام قد يؤثر في بعض acoustic measures، ما قد يربك تفسير التغيرات الصوتية إذا تبدلت المادة.",
+      "why_important_en": "The study shows that speech-material choice can affect some acoustic measures and complicate interpretation when materials change.",
+      "vs_previous_ar": "تضيف الدراسة مقارنة مباشرة بين ثلاثة مواد صينية متصلة لدى أطفال لديهم PVFNs، بدلاً من افتراض أن نتائج المواد المختلفة قابلة للمقارنة.",
+      "vs_previous_en": "It directly compares three Chinese connected-speech materials in children with PVFNs rather than assuming that measurements from different materials are interchangeable.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة مقارنة رصدية داخل المشاركين وبعينة من 67 طفلاً؛ تقدم فائدة منهجية عملية حول توحيد مادة الكلام، لكن نتائجها لا تغيّر علاج PVFNs ولا تثبت قابلية التعميم خارج المواد واللغة المدروسة.",
+      "stars_reason_en": "This observational within-participant comparison included 67 children and offers useful methodological guidance on standardizing speech material, but it does not change PVFN treatment and its findings may not generalize beyond the materials and language studied.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Useful for discussing speech-material selection, interpretation of ICC and Bland-Altman results, and limits on comparing acoustic outcomes across assessments.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم تقييم قابلية تعميم النتائج على لغات ومواد كلام أخرى، وربط اختلاف القياسات بأهمية سريرية وتغيرات صوتية طولية.",
+      "research_gap_en": "Further work should test generalizability to other languages and speech materials and relate measurement differences to clinical significance and longitudinal voice change.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تتناول هذه الدراسة سؤالاً عملياً في تقييم الصوت لدى الأطفال: هل تؤثر مادة الكلام المتصل المختارة في نتائج القياسات الصوتية لدى الأطفال المصابين بـ pediatric vocal fold nodules؟ شملت الدراسة 67 طفلاً، وأكمل كل مشارك ثلاثة نصوص باللغة الصينية: The North Wind and the Sun وFishing with My Father وBirthday Gift. قاس الباحثون AVQI وABI وCPPS وJitter وShimmer وHNR وGNE، إضافة إلى spectral slope وspectral tilt وH1-H2.\n\nأظهرت المقارنات فروقاً بين النصوص في AVQI وABI وCPPS وShimmer وHNR وGNE وspectral slope. في المقابل، لم تكن الفروق ذات دلالة إحصائية في Jitter أو spectral tilt أو H1-H2. كانت ICC مرتفعة لعدد من القياسات الشائعة، لكن مؤشرات spectral أظهرت اتساقاً أقل. كما أوضحت Bland-Altman analyses أن الانحياز وحدود الاتفاق يعتمدان على القياس والمادة المستخدمة؛ لذلك لا تعني قيمة الاتساق المرتفعة وحدها أن النصوص قابلة للاستبدال سريرياً.\n\nالرسالة العملية هي توحيد مادة الكلام عند متابعة المريض أو مقارنة التقييمات، لأن تبديل النص قد يؤثر في بعض النتائج حتى دون تغير حقيقي في الصوت. هذه دراسة مقارنة رصدية بعينة متوسطة، وليست تجربة علاجية، ولا تختبر نتائج علاج PVFNs. كما أن تطبيقها المباشر يقتصر على الأطفال والمواد الصينية المدروسة. من نقاط القوة استخدام كل طفل للمواد الثلاث وتحليل الاتساق والاتفاق، ومن القيود عدم إثبات الأهمية السريرية للفروق أو قابلية تعميمها على لغات أخرى.\n\nتستحق الدراسة النقاش في journal club لأنها تبرز مسألة منهجية مهمة في أبحاث الصوت: ينبغي توثيق مادة الكلام والمحافظة عليها بين الزيارات. وتحتاج الأبحاث المقبلة إلى التحقق من النتائج بلغات ومواد أخرى، وتحديد ما إذا كانت الفروق المقاسة ذات معنى سريري، وربطها بالتغير الطولي في الصوت.",
+      "audio_script_en": "This study addresses a practical question in pediatric voice assessment: does the connected-speech material selected affect acoustic results in children with pediatric vocal fold nodules? Sixty-seven children completed three Chinese materials: The North Wind and the Sun, Fishing with My Father, and Birthday Gift. The investigators measured AVQI, ABI, CPPS, Jitter, Shimmer, HNR, GNE, spectral slope, spectral tilt, and H1-H2.\n\nResults differed across materials for AVQI, ABI, CPPS, Shimmer, HNR, GNE, and spectral slope. Jitter, spectral tilt, and H1-H2 did not show statistically significant differences. ICCs indicated high relative consistency for several commonly used measures, whereas spectral measures were less consistent. Bland-Altman analyses also showed parameter-dependent bias and limits of agreement. Thus, high relative consistency should not be interpreted as proof that materials can be freely substituted in clinical comparisons.\n\nThe practical takeaway is to keep the speech material consistent when monitoring a child or comparing assessments, since changing the text may affect some measurements independently of a true voice change. This is an observational within-participant comparison, not a treatment trial, and it does not evaluate treatment outcomes for PVFNs. Direct applicability is limited to the children and Chinese materials studied. Strengths include testing all three materials in the same participants and assessing both consistency and agreement. Important limitations are that the clinical significance of the differences and generalizability to other languages were not established.\n\nThis paper merits journal-club discussion because it highlights a methodological issue in voice research: speech material should be documented and held constant across assessments. Future studies should examine other languages and materials, determine whether measurement differences are clinically meaningful, and relate them to longitudinal voice outcomes.",
+      "mcq": [
+        {
+          "q_ar": "كم عدد الأطفال المصابين بـ PVFNs الذين شملتهم الدراسة؟",
+          "q_en": "How many children with PVFNs were included?",
+          "options_ar": [
+            "أ) 27",
+            "ب) 47",
+            "ج) 67",
+            "د) 97"
+          ],
+          "options_en": [
+            "A) 27",
+            "B) 47",
+            "C) 67",
+            "D) 97"
+          ],
+          "answer": 2,
+          "explanation_ar": "شملت الدراسة 67 طفلاً مصاباً بـ PVFNs.",
+          "explanation_en": "The study enrolled 67 children with PVFNs."
+        },
+        {
+          "q_ar": "أي مجموعة من القياسات لم تُظهر فروقاً ذات دلالة إحصائية بين مواد الكلام؟",
+          "q_en": "Which set of measures showed no statistically significant differences across speech materials?",
+          "options_ar": [
+            "أ) AVQI وABI وCPPS",
+            "ب) Jitter وspectral tilt وH1-H2",
+            "ج) Shimmer وHNR وGNE",
+            "د) GNE وspectral slope وCPPS"
+          ],
+          "options_en": [
+            "A) AVQI, ABI, and CPPS",
+            "B) Jitter, spectral tilt, and H1-H2",
+            "C) Shimmer, HNR, and GNE",
+            "D) GNE, spectral slope, and CPPS"
+          ],
+          "answer": 1,
+          "explanation_ar": "لم يجد التحليل فروقاً ذات دلالة في Jitter أو spectral tilt أو H1-H2.",
+          "explanation_en": "No significant differences were found for Jitter, spectral tilt, or H1-H2."
+        },
+        {
+          "q_ar": "ما الاستنتاج العملي الأساسي للدراسة؟",
+          "q_en": "What is the study's main practical conclusion?",
+          "options_ar": [
+            "أ) يمكن استبدال جميع مواد الكلام دون تحفظ",
+            "ب) يجب استخدام القياسات spectral وحدها",
+            "ج) ينبغي توحيد مادة الكلام عند المقارنة والمتابعة",
+            "د) لا تصلح acoustic measures لتقييم الأطفال"
+          ],
+          "options_en": [
+            "A) All speech materials can be substituted without qualification",
+            "B) Only spectral measures should be used",
+            "C) Speech material should be standardized for comparisons and follow-up",
+            "D) Acoustic measures are unsuitable for assessing children"
+          ],
+          "answer": 2,
+          "explanation_ar": "بعض القياسات اختلفت بصورة منهجية حسب المادة، لذا توصي النتائج باختيار مادة ثابتة.",
+          "explanation_en": "Some measures differed systematically by material, supporting consistent material selection."
+        }
+      ]
+    },
+    {
+      "pmid": "43018980",
+      "title_ar": "A Preoperative Grading System for Endoscopic Sinus Surgery.",
+      "title_en": "A Preoperative Grading System for Endoscopic Sinus Surgery.",
+      "journal": "JAMA otolaryngology-- head & neck surgery",
+      "pub_date": "2026-Nov-12",
+      "doi": "10.1001/jamaoto.2026.3451",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43018980/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort study, analytic cohort n=450",
+      "summary_ar": "طوّرت هذه الدراسة prospective cohort مؤشر CRS Severity Index (CRS-SI) لتقدير احتمال التحسن السريري بعد endoscopic sinus surgery (ESS). شملت العينة التحليلية 450 مريضًا لديهم chronic rhinosinusitis (CRS)، وكان 64% منهم قد حققوا تحسنًا ذا أهمية سريرية، مع تعريفه بانخفاض SNOT-22 بمقدار 8.9 نقاط على الأقل. جمع المؤشر بين baseline SNOT-22، ونمط أعراض يغلب عليه headache و/أو chemosensory symptoms، ودرجتي Lund-Mackay وLund-Kennedy. ارتفعت نسبة التحسن تدريجيًا من 81% في الدرجة 1 إلى 29% في الدرجة 4، بفارق مطلق قدره 52.5 نقطة مئوية بين الطرفين. كان التمييز متوسطًا، مع C statistic قدره 0.692، وأفضل من التصنيف المعتمد على imaging وحده، كما بدا الأداء متسقًا عبر CRS phenotypes ونقاط المتابعة. تحتاج الأداة إلى external validation قبل اعتمادها لاتخاذ قرارات سريرية روتينية.",
+      "summary_en": "This prospective cohort study developed the CRS Severity Index (CRS-SI) to estimate clinically meaningful improvement after endoscopic sinus surgery (ESS). The analytic cohort included 450 patients with chronic rhinosinusitis (CRS), of whom 64% achieved an improvement defined as an SNOT-22 reduction of at least 8.9 points. The index combined baseline SNOT-22 severity, a headache and/or chemosensory-dominant symptom phenotype, and Lund-Mackay and Lund-Kennedy scores. Improvement declined monotonically from 81% in grade 1 to 29% in grade 4, a 52.5-percentage-point difference. Discrimination was moderate, with a C statistic of 0.692, and exceeded imaging grading alone; performance was consistent across CRS phenotypes and follow-up points. External validation is needed before routine clinical adoption.",
+      "practice_change_ar": "لا ينبغي تغيير اختيار المرضى أو تقديم التوقعات الجراحية اعتمادًا على CRS-SI وحده حاليًا، لكنه قد يساعد في تنظيم counseling قبل ESS مع توضيح أن الأداة لم تُتحقق خارجيًا بعد.",
+      "practice_change_en": "The CRS-SI should not yet change surgical selection or counseling on its own, but it may help structure preoperative discussions while external validation is pending.",
+      "future_impact_ar": "إذا أُثبتت صلاحية CRS-SI خارجيًا، فقد يدعم counseling أدق قبل ESS وتوحيد تصنيف المرضى في clinical trials.",
+      "future_impact_en": "If externally validated, the CRS-SI could support more tailored preoperative counseling and consistent patient stratification in clinical trials.",
+      "why_important_ar": "يقدم المؤشر طريقة عملية تجمع symptom burden وsymptom phenotype وobjective imaging لتقدير احتمالات التحسن بعد ESS.",
+      "why_important_en": "The index offers a practical way to combine symptom burden, symptom phenotype, and objective imaging when estimating improvement after ESS.",
+      "vs_previous_ar": "على خلاف المقاييس السابقة التي تناولت أجزاء منفصلة من prognosis، يدمج CRS-SI بيانات الأعراض وCT وendoscopy في مقياس ترتيبي من أربع درجات.",
+      "vs_previous_en": "Unlike prior measures that captured only parts of prognosis, the CRS-SI combines symptom data, CT, and endoscopy in a four-grade ordinal index.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة prospective cohort جيدة في مجلة JAMA Otolaryngology، وتقدم أداة prognostic جديدة ذات تدرج واضح، لكن التمييز متوسط ولم تُجرَ external validation؛ لذا فهي مهمة للمعرفة ولا تغيّر الممارسة بعد.",
+      "stars_reason_en": "This prospective cohort in JAMA Otolaryngology presents a novel prognostic tool with a clear outcome gradient, but discrimination is moderate and external validation is absent, so it is informative rather than practice-changing.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق المناقشة لأنها تختبر دمج symptom phenotype مع objective imaging في أداة prognosis، مع أهمية نقد الاختيار الإحصائي وغياب external validation.",
+      "jc_reason_en": "It merits discussion because it combines symptom phenotype and objective imaging for prognosis, while raising questions about the derivation approach and lack of external validation.",
+      "watch": true,
+      "watch_detail_ar": "تستحق أداة CRS-SI المتابعة بوصفها prognostic technology جديدة، خصوصًا عند نشر دراسات external validation أو تقييم أثرها في counseling والنتائج.",
+      "watch_detail_en": "The CRS-SI is a prognostic technology worth tracking, particularly as external validation and studies of its effect on counseling and outcomes become available.",
+      "watch_type": "technology",
+      "research_gap_ar": "يلزم إجراء external validation في cohorts مستقلة ومتنوعة، وتقييم ما إذا كان استخدام المؤشر يحسن counseling أو patient outcomes مقارنة بالممارسة المعتادة.",
+      "research_gap_en": "The index needs external validation in independent, diverse cohorts, along with evaluation of whether its use improves counseling or patient outcomes over usual care.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نراجع اليوم دراسة بعنوان A Preoperative Grading System for Endoscopic Sinus Surgery، نُشرت في JAMA Otolaryngology. هذه prospective cohort تهدف إلى تطوير أداة تساعد على تقدير احتمال التحسن بعد endoscopic sinus surgery، أو ESS، لدى مرضى chronic rhinosinusitis.\n\nضمّت الدراسة 450 مريضًا لديهم بيانات سريرية وتصويرية مكتملة، وكان متوسط العمر نحو 56 عامًا. حقق 64% تحسنًا ذا أهمية سريرية، وقد عُرّف التحسن بأنه انخفاض SNOT-22 بمقدار 8.9 نقاط على الأقل. دمج CRS Severity Index، أو CRS-SI، أربعة عناصر مختارة: شدة baseline SNOT-22، ونمط أعراض يغلب عليه headache و/أو chemosensory symptoms، ودرجتا Lund-Mackay وLund-Kennedy، اللتان تمثلان معلومات CT وendoscopy.\n\nكان التدرج بين الدرجات لافتًا: بلغت نسبة التحسن 81% في grade 1 مقابل 29% في grade 4، بفارق 52.5 نقطة مئوية. مع ذلك، كان التمييز متوسطًا، إذ بلغ C statistic 0.692. كما كان الأداء أفضل من التصنيف المعتمد على imaging وحده، وظهر متسقًا عبر CRS phenotypes ونقاط المتابعة.\n\nسريريًا، لا تبرر النتائج تغيير اختيار المرضى للجراحة أو استخدام المؤشر كحكم منفرد؛ فالدراسة اشتقت الأداة ولم تقدم external validation. لكن يمكن أن تكون مفيدة لتوضيح أن التوقعات بعد ESS تختلف باختلاف مزيج الأعراض والنتائج الموضوعية، ولتطوير counseling أكثر تنظيمًا. وتُعد أداة CRS-SI prognostic technology تستحق المتابعة، خصوصًا إذا اختُبرت في cohorts مستقلة.\n\nتتمثل نقطة القوة في دمج patient-reported symptoms مع CT وendoscopy ضمن مقياس ترتيبي موجز، بينما تشمل القيود cohort من مراكز أكاديمية وغياب التحقق الخارجي. والخطوة البحثية التالية هي اختبار صلاحية المؤشر في مجموعات متنوعة، ثم معرفة ما إذا كان استخدامه يحسن قرارات counseling أو نتائج المرضى. الخلاصة: أداة واعدة لتقدير prognosis بعد ESS، لكنها حاليًا تستحق المعرفة والمناقشة أكثر من تغيير الممارسة.",
+      "audio_script_en": "Today we review “A Preoperative Grading System for Endoscopic Sinus Surgery,” published in JAMA Otolaryngology. This prospective cohort study developed a tool to estimate the likelihood of improvement after endoscopic sinus surgery, or ESS, for patients with chronic rhinosinusitis.\n\nThe analytic cohort included 450 patients with complete clinical and imaging grades, with a mean age of about 56 years. Overall, 64% achieved clinically meaningful improvement, defined as an SNOT-22 reduction of at least 8.9 points. The CRS Severity Index, or CRS-SI, combined four selected elements: baseline SNOT-22 severity, a headache and/or chemosensory-dominant symptom phenotype, and Lund-Mackay and Lund-Kennedy scores representing CT and endoscopic findings.\n\nThe gradient across grades was substantial: improvement occurred in 81% of grade 1 patients and 29% of grade 4 patients, a 52.5-percentage-point difference. However, discrimination was moderate, with a C statistic of 0.692. The index performed better than imaging grading alone, and performance was reported as consistent across CRS phenotypes and follow-up points.\n\nClinically, these findings do not justify changing surgical selection or using the score as a stand-alone decision rule. The study derived the tool but did not externally validate it. Still, the index may help explain how postoperative expectations vary with the combination of symptoms and objective findings, and could support more structured counseling. It is a prognostic technology worth following, especially as independent cohorts are studied.\n\nA strength is the integration of patient-reported symptoms with CT and endoscopy in a concise ordinal scale. Limitations include derivation in academic-center cohorts and the lack of external validation. The next research step is to test the index in diverse populations and determine whether its use improves counseling decisions or patient outcomes. Bottom line: the CRS-SI is a promising prognostic aid after ESS, but for now it is worth knowing and discussing rather than practice-changing.",
+      "mcq": [
+        {
+          "q_ar": "ما النتيجة الأساسية التي استخدمتها الدراسة لتقييم CRS-SI بعد ESS؟",
+          "q_en": "What primary outcome did the study use to evaluate the CRS-SI after ESS?",
+          "options_ar": [
+            "أ) تحسن SNOT-22 بمقدار 8.9 نقاط على الأقل",
+            "ب) انخفاض Lund-Mackay بمقدار 8.9 نقاط",
+            "ج) غياب polyp بعد 12 شهرًا",
+            "د) انخفاض الحاجة إلى antibiotics"
+          ],
+          "options_en": [
+            "A) An SNOT-22 improvement of at least 8.9 points",
+            "B) A Lund-Mackay reduction of at least 8.9 points",
+            "C) Absence of a polyp at 12 months",
+            "D) Reduced need for antibiotics"
+          ],
+          "answer": 0,
+          "explanation_ar": "عُرّف التحسن السريري ذي الأهمية بأنه انخفاض SNOT-22 بمقدار 8.9 نقاط أو أكثر من baseline إلى follow-up.",
+          "explanation_en": "Clinically meaningful improvement was defined as an SNOT-22 reduction of at least 8.9 points from baseline to follow-up."
+        },
+        {
+          "q_ar": "أي مجموعة من العناصر اختارها CRS-SI بوصفها classifiers؟",
+          "q_en": "Which set of variables did the CRS-SI select as classifiers?",
+          "options_ar": [
+            "أ) العمر وasthma ووجود allergy فقط",
+            "ب) baseline SNOT-22، نمط أعراض headache و/أو chemosensory، ودرجتا Lund-Mackay وLund-Kennedy",
+            "ج) مدة الجراحة ونتيجة culture وجرعة corticosteroid",
+            "د) polyp status وfrontal opacification وحدهما"
+          ],
+          "options_en": [
+            "A) Age, asthma, and allergy status alone",
+            "B) Baseline SNOT-22, headache and/or chemosensory symptom phenotype, and Lund-Mackay and Lund-Kennedy scores",
+            "C) Operative duration, culture result, and corticosteroid dose",
+            "D) Polyp status and frontal opacification alone"
+          ],
+          "answer": 1,
+          "explanation_ar": "اختير baseline SNOT-22 ونمط الأعراض كعناصر clinical، واختير Lund-Mackay وLund-Kennedy كعناصر imaging.",
+          "explanation_en": "Baseline SNOT-22 and symptom phenotype were selected as clinical classifiers, with Lund-Mackay and Lund-Kennedy as imaging classifiers."
+        },
+        {
+          "q_ar": "ما التفسير الأنسب للنتيجة العملية الحالية للدراسة؟",
+          "q_en": "What is the most appropriate interpretation of the study’s current clinical implication?",
+          "options_ar": [
+            "أ) يجب اعتماد CRS-SI فورًا لاختيار جميع مرضى ESS",
+            "ب) يثبت CRS-SI أن imaging لا قيمة له في prognosis",
+            "ج) قد يدعم CRS-SI counseling، لكنه يحتاج إلى external validation قبل الاعتماد الروتيني",
+            "د) يوصى بتجنب ESS في جميع مرضى grade 4"
+          ],
+          "options_en": [
+            "A) CRS-SI should immediately determine ESS selection for all patients",
+            "B) CRS-SI proves that imaging has no prognostic value",
+            "C) CRS-SI may support counseling but needs external validation before routine adoption",
+            "D) ESS should be avoided in all grade 4 patients"
+          ],
+          "answer": 2,
+          "explanation_ar": "الأداة أظهرت تدرجًا prognostic واعدًا، لكن الدراسة لم تقدم external validation ولا تثبت أن استخدامها يحسن النتائج.",
+          "explanation_en": "The tool showed a promising prognostic gradient, but the study did not provide external validation or show that using it improves outcomes."
+        }
+      ]
+    },
+    {
+      "pmid": "43024870",
+      "title_ar": "Long-term disease control in Knosp grade 4 Cushing's disease using maximal safe resection and early adjuvant radiotherapy.",
+      "title_en": "Long-term disease control in Knosp grade 4 Cushing's disease using maximal safe resection and early adjuvant radiotherapy.",
+      "journal": "Journal of neurosurgery",
+      "pub_date": "2026-Nov-13",
+      "doi": "10.3171/2026.8.JNS261221",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43024870/",
+      "pdf_url": null,
+      "study_design": "Retrospective case series n=30",
+      "summary_ar": "قيّمت هذه الدراسة بأثر رجعي نتائج استراتيجية علاج 30 مريضًا لديهم Cushing's disease وKnosp grade 4، مع متوسط متابعة بلغ 70.5 شهرًا. ركزت الجراحة على maximal safe resection، مع تجنب التشريح الجانبي المفرط داخل cavernous sinus إلى ما بعد internal carotid artery (ICA). تلقى المرضى الذين لديهم مرض متبقٍ جانبي في cavernous sinus علاجًا مبكرًا بـ stereotactic radiotherapy (RT). تحقق endocrine and radiological disease control لدى 26 مريضًا (87%)، بينما حدث tumor progression لدى أربعة مرضى استمر لديهم hypercortisolism، وتوفي ثلاثة منهم لاحقًا لأسباب مرتبطة بالمرض. ارتبطت RT السابقة وارتفاع Ki-67 labeling index بضعف السيطرة رغم العلاج متعدد الوسائط، بينما تحققت سيطرة endocrine مستدامة في جميع حالات Crooke cell adenoma. لم تُسجل إصابة ICA أو cranial neuropathy معيقة بسبب التشريح الجانبي المفرط.",
+      "summary_en": "This retrospective series evaluated 30 patients with Knosp grade 4 Cushing's disease, with a mean follow-up of 70.5 months.\nSurgery prioritized maximal safe resection and avoided excessively aggressive cavernous sinus dissection lateral to the internal carotid artery (ICA).\nEarly stereotactic radiotherapy (RT) was used for residual lateral cavernous sinus disease.\nEndocrine and radiological disease control was achieved in 26 patients (87%).\nAll four patients with tumor progression had persistent hypercortisolism, and three later died of disease-related causes.\nPrior RT and elevated Ki-67 labeling index were associated with poorer control; no ICA injury or disabling cranial neuropathy from aggressive lateral dissection was reported.",
+      "practice_change_ar": "في مرضى Knosp grade 4 Cushing's disease، تدعم النتائج اعتماد maximal safe resection مع التخطيط لـ early adjuvant RT للمرض المتبقي في cavernous sinus بدلًا من التشريح الجانبي المفرط.",
+      "practice_change_en": "For Knosp grade 4 Cushing's disease, the findings support maximal safe resection with planned early adjuvant RT for residual cavernous sinus disease rather than excessively aggressive lateral dissection.",
+      "future_impact_ar": "قد تساعد دراسات متعددة المراكز مستقبلًا في تحديد توقيت RT والمرضى الأكثر استفادة من هذا النهج.",
+      "future_impact_en": "Future multicenter studies may clarify RT timing and identify which patients benefit most from this approach.",
+      "why_important_ar": "توضح الدراسة أن السيطرة طويلة الأمد على hypercortisolism ممكنة مع تقليل مخاطر الجراحة قرب ICA في هذا الامتداد النادر والصعب.",
+      "why_important_en": "The study suggests long-term control of hypercortisolism is achievable while limiting surgical risk near the ICA in this rare, challenging presentation.",
+      "vs_previous_ar": "تضيف الدراسة بيانات نتائج طويلة الأمد خاصة بـ Knosp grade 4 Cushing's disease، وتدعم RT المبكر للمرض المتبقي بدل محاولة استئصال جانبي جذري.",
+      "vs_previous_en": "The study adds long-term outcome data specific to Knosp grade 4 Cushing's disease and supports early RT for residual disease instead of radical lateral resection.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة استعادية صغيرة نسبيًا شملت 30 مريضًا، وتقدم بيانات مفيدة وطويلة الأمد عن استراتيجية علاج نادرة، لكنها لا تثبت تفوقها مقارنةً بخيارات أخرى.",
+      "stars_reason_en": "This relatively small retrospective series of 30 patients provides useful long-term data for a rare treatment scenario, but it does not establish superiority over alternatives.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This merits discussion because it weighs control of hypercortisolism against surgical risk near the ICA and reports long-term outcomes in a rare cohort.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تلزم مقارنة مستقبلية متعددة المراكز بين maximal safe resection مع early RT والاستراتيجيات البديلة، مع تقييم endocrine outcomes والسمية طويلة الأمد.",
+      "research_gap_en": "A prospective multicenter comparison of maximal safe resection plus early RT with alternative strategies is needed, including endocrine outcomes and long-term toxicity.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نناقش اليوم دراسة عن Knosp grade 4 Cushing's disease، وهي حالة صعبة بسبب امتداد الورم عميقًا إلى الجانب الوحشي من cavernous internal carotid artery، ما يجعل الاستئصال الكامل عبر transsphenoidal surgery صعبًا وقد يزيد خطر الأذية الوعائية والعصبية.\n\nراجع الباحثون بأثر رجعي سجلات 30 مريضًا عولجوا بين عامي 2009 و2025، وكان متوسط المتابعة 70.5 شهرًا. اعتمد النهج على maximal safe resection، مع تجنب التشريح المفرط للمرض الممتد وحشيًا إلى ICA. ولدى وجود مرض متبقٍ جانبي في cavernous sinus، استُخدم early adjuvant stereotactic radiotherapy.\n\nتحققت endocrine and radiological disease control لدى 26 مريضًا، أي 87%. حدث progression لدى أربعة مرضى، وكان لديهم جميعًا persistent hypercortisolism؛ وتوفي ثلاثة منهم لاحقًا لأسباب مرتبطة بالمرض. ارتبطت prior RT وارتفاع Ki-67 labeling index بنتائج أضعف رغم العلاج متعدد الوسائط. في المقابل، تحققت endocrine control مستدامة لدى جميع مرضى Crooke cell adenoma. ولم تسجل الدراسة ICA injury أو disabling cranial neuropathy بسبب التشريح الجانبي المفرط.\n\nما الذي تضيفه هذه النتائج؟ إنها تقدم بيانات طويلة الأمد خاصة بهذه الفئة التشريحية النادرة، وتدعم موازنة السيطرة الهرمونية مع السلامة الجراحية، بدل محاولة استئصال جذري قد يحمل مخاطر كبيرة. لكنها retrospective series صغيرة، ولا تقارن مباشرةً بين استراتيجيات العلاج؛ لذلك لا تثبت أن RT المبكر هو الخيار الأفضل لكل مريض.\n\nعمليًا، تدعم الدراسة maximal safe resection مع التخطيط لـ early adjuvant RT عند بقاء مرض جانبي في cavernous sinus. وتبقى هناك حاجة إلى دراسات prospective متعددة المراكز لتحديد توقيت RT، والمرضى الأكثر استفادة، والآثار طويلة الأمد. الخلاصة: معلومات مهمة لجراحي skull base، لكنها لا تكفي وحدها لتغيير الممارسة بصورة قاطعة.",
+      "audio_script_en": "Today we are reviewing a study of Knosp grade 4 Cushing's disease, an anatomically challenging condition in which tumor extends far lateral to the intracavernous internal carotid artery. Complete resection through transsphenoidal surgery may be difficult, and aggressive cavernous sinus dissection can put major vessels and cranial nerves at risk.\n\nThe authors retrospectively reviewed 30 patients treated between 2009 and 2025. Mean follow-up was 70.5 months. Their strategy prioritized maximal safe resection and avoided excessively aggressive dissection lateral to the ICA. Early adjuvant stereotactic radiotherapy was used for residual lateral cavernous sinus disease.\n\nEndocrine and radiological disease control was achieved in 26 patients, or 87%. Four patients experienced tumor progression; all had persistent hypercortisolism, and three later died of disease-related causes. Prior radiotherapy and an elevated Ki-67 labeling index were associated with poorer control despite multimodal treatment. In contrast, all Crooke cell adenoma cases achieved durable endocrine control. The authors reported no ICA injury or disabling cranial neuropathy attributable to aggressive lateral dissection.\n\nThe main contribution is long-term, disease-specific outcome information for a rare and difficult anatomical subgroup. The findings support balancing hormonal disease control against the hazards of radical cavernous sinus surgery. However, this is a small retrospective series without a direct comparison of treatment strategies, so it cannot prove that early radiotherapy is superior for every patient.\n\nFor practice, the results support maximal safe resection and consideration of planned early adjuvant radiotherapy when lateral cavernous sinus disease remains. Prospective multicenter studies are needed to establish optimal timing, identify patients most likely to benefit, and better characterize long-term toxicity. Overall, this is useful information for skull base teams, but not definitive evidence for a universal change in practice.",
+      "mcq": [
+        {
+          "q_ar": "ما الاستراتيجية الجراحية والعلاجية التي درستها هذه السلسلة لمرضى Knosp grade 4 Cushing's disease؟",
+          "q_en": "Which surgical and adjuvant strategy did this series evaluate for Knosp grade 4 Cushing's disease?",
+          "options_ar": [
+            "أ) الاستئصال الجذري للورم مع تشريح cavernous sinus الوحشي دون قيود",
+            "ب) maximal safe resection مع تجنب التشريح الجانبي المفرط وearly adjuvant RT للمرض المتبقي",
+            "ج) RT وحده دون إجراء جراحي",
+            "د) المراقبة دون علاج ما لم يحدث tumor progression"
+          ],
+          "options_en": [
+            "A) Radical resection with unrestricted lateral cavernous sinus dissection",
+            "B) Maximal safe resection, avoiding excessive lateral dissection, with early adjuvant RT for residual disease",
+            "C) RT alone without surgery",
+            "D) Observation without treatment unless tumor progression occurs"
+          ],
+          "answer": 1,
+          "explanation_ar": "أعطت الاستراتيجية الأولوية لـ maximal safe resection، وتجنبت التشريح الجانبي المفرط، واستخدمت early adjuvant RT للمرض المتبقي في cavernous sinus.",
+          "explanation_en": "The strategy prioritized maximal safe resection, avoided excessive lateral dissection, and used early adjuvant RT for residual cavernous sinus disease."
+        },
+        {
+          "q_ar": "كم كانت نسبة endocrine and radiological disease control في الدراسة؟",
+          "q_en": "What proportion of patients achieved endocrine and radiological disease control?",
+          "options_ar": [
+            "أ) 40% (12 من 30)",
+            "ب) 60% (18 من 30)",
+            "ج) 87% (26 من 30)",
+            "د) 100% (30 من 30)"
+          ],
+          "options_en": [
+            "A) 40% (12 of 30)",
+            "B) 60% (18 of 30)",
+            "C) 87% (26 of 30)",
+            "D) 100% (30 of 30)"
+          ],
+          "answer": 2,
+          "explanation_ar": "تحققت السيطرة الهرمونية والشعاعية لدى 26 من أصل 30 مريضًا، أي 87%.",
+          "explanation_en": "Endocrine and radiological control was achieved in 26 of 30 patients, or 87%."
+        },
+        {
+          "q_ar": "أي العوامل ارتبطت بضعف disease control في هذه السلسلة؟",
+          "q_en": "Which factors were associated with poorer disease control in this series?",
+          "options_ar": [
+            "أ) Crooke cell adenoma وغياب prior RT",
+            "ب) prior RT وارتفاع Ki-67 labeling index",
+            "ج) انخفاض Ki-67 labeling index وغياب hypercortisolism",
+            "د) عدم وجود مرض متبقٍ في cavernous sinus"
+          ],
+          "options_en": [
+            "A) Crooke cell adenoma and no prior RT",
+            "B) Prior RT and elevated Ki-67 labeling index",
+            "C) Low Ki-67 labeling index and absence of hypercortisolism",
+            "D) Absence of residual cavernous sinus disease"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتبطت prior RT وارتفاع Ki-67 labeling index بضعف السيطرة رغم العلاج متعدد الوسائط.",
+          "explanation_en": "Prior RT and an elevated Ki-67 labeling index were associated with poorer control despite multimodal treatment."
+        }
+      ]
+    },
+    {
+      "pmid": "43024372",
+      "title_ar": "Validity of Self-Report Information on Cranial Tremors in Essential Tremor: Analysis of Data from a Large, Prospective Cohort.",
+      "title_en": "Validity of Self-Report Information on Cranial Tremors in Essential Tremor: Analysis of Data from a Large, Prospective Cohort.",
+      "journal": "Neuroepidemiology",
+      "pub_date": "2026-Nov-13",
+      "doi": "10.1159/000549395",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43024372/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort, n=185",
+      "summary_ar": "قيّمت هذه الدراسة مدى دقة الإبلاغ الذاتي عن head tremor وvoice tremor لدى 185 شخصًا مصابًا بـ essential tremor (ET)، بمقارنة إجاباتهم مع فحص أجراه neurologist متخصص في movement disorders. بلغت نسبة انتشار voice tremor بالفحص 50.8%، وبلغت نسبة انتشار head tremor 49.7%. كان المرضى غالبًا لا يبلغون عن وجود الرعاش، مع sensitivity تراوحت بين 13.8% و59.3%. في المقابل، كان positive predictive value للإبلاغ الذاتي متوسطًا، وتراوح بين 61.9% و84.2%. كان الإبلاغ عن voice tremor أقل دقة من الإبلاغ عن head tremor، وخصوصًا عند وجود رعاش خفيف. تشير النتائج إلى أن الإبلاغ الذاتي وحده لا يكفي لاكتشاف هذه الأعراض، وأن الفحص السريري المنهجي مهم لتقليل حالات عدم الاكتشاف.",
+      "summary_en": "This prospective cohort evaluated self-reported head and voice tremor in 185 people with essential tremor (ET), comparing reports with an examination by an experienced movement disorders neurologist.\nOn examination, voice tremor prevalence was 50.8% and head tremor prevalence was 49.7%.\nParticipants frequently failed to report tremors, with sensitivity ranging from 13.8% to 59.3%.\nThe positive predictive value of self-reported tremor was moderate, ranging from 61.9% to 84.2%.\nSelf-report was less valid for voice tremor than for head tremor, particularly when voice tremor was mild.\nThe findings support a thorough clinical examination rather than self-report alone to identify cranial tremor.",
+      "practice_change_ar": "ينبغي عدم الاعتماد على إفادة المريض وحدها لاستبعاد head tremor أو voice tremor لدى المصابين بـ ET، وإجراء فحص سريري مباشر عند تقييم هذه الأعراض.",
+      "practice_change_en": "Do not use patient self-report alone to rule out head or voice tremor in ET; assess these symptoms directly during clinical examination.",
+      "future_impact_ar": "يمكن أن تساعد دراسات لاحقة في تطوير أساليب كشف معيارية وتحسين تقدير انتشار cranial tremor وشدته في ET.",
+      "future_impact_en": "Further studies could develop standardized detection approaches and improve estimates of cranial tremor prevalence and severity in ET.",
+      "why_important_ar": "تكمن أهمية الدراسة في إظهار أن كثيرًا من حالات cranial tremor، ولا سيما voice tremor الخفيف، قد تفوت عند الاعتماد على الإبلاغ الذاتي.",
+      "why_important_en": "The study shows that self-report can miss many cases of cranial tremor, particularly mild voice tremor.",
+      "vs_previous_ar": "تضيف الدراسة بيانات عن صلاحية الإبلاغ الذاتي، وهي مسألة لم تتوفر لها بيانات سابقة بحسب المؤلفين، وتوضح أن الحساسية منخفضة رغم أن الإبلاغ الإيجابي قد يكون مفيدًا.",
+      "vs_previous_en": "Unlike prior knowledge without validation data, this study quantifies the limited sensitivity of self-report while showing that a positive report can still be informative.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة cohort مستقبلية جيدة التصميم تضم 185 مشاركًا وتتناول سؤالًا جديدًا مفيدًا، لكن نتائجها لا تغيّر الإدارة بشكل كبير، كما أن الدراسة منشورة في مجلة تخصصية خارج قائمة المجلات الأعلى تصنيفًا.",
+      "stars_reason_en": "This prospective cohort of 185 addresses a useful, previously unvalidated question, but it is unlikely to substantially change management and was published in a journal outside the listed top-tier group.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It provides practical quantitative evidence about the limitations of self-report and supports discussion of how voice and head tremor should be assessed clinically.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج النتائج إلى التحقق في مجموعات أكبر وأكثر تنوعًا، مع تقييم أدوات أو أسئلة معيارية لتحسين كشف voice tremor الخفيف.",
+      "research_gap_en": "The findings need validation in larger, more diverse cohorts, including assessment of standardized questions or tools for detecting mild voice tremor.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة عن مدى موثوقية الإبلاغ الذاتي عن head tremor وvoice tremor لدى الأشخاص المصابين بـ essential tremor، أو ET. أُجريت الدراسة ضمن cohort مستقبلية شملت 185 شخصًا، وقارن الباحثون إجابات المشاركين مع فحص سريري مفصل أجراه neurologist ذو خبرة في movement disorders.\n\nأظهر الفحص أن voice tremor كان موجودًا لدى 50.8% من المشاركين، وأن head tremor كان موجودًا لدى 49.7%. لكن المشاركين لم يبلغوا عن كثير من الحالات التي ظهرت بالفحص؛ إذ تراوحت sensitivity للإبلاغ الذاتي بين 13.8% و59.3%. في المقابل، كان positive predictive value متوسطًا، بين 61.9% و84.2%، أي إن الإبلاغ بوجود الرعاش كان مفيدًا بدرجة معقولة، لكنه لا يعوض عن الفحص. وكان الإبلاغ الذاتي أقل دقة بالنسبة إلى voice tremor مقارنةً بـ head tremor، خاصةً عندما كان رعاش الصوت خفيفًا.\n\nالرسالة السريرية الأساسية هي ألا نعتبر عدم شكوى المريض دليلًا على غياب cranial tremor. عند تقييم مريض لديه ET، ينبغي السؤال عن الأعراض، لكن يجب أيضًا إجراء فحص مباشر للـ head وvoice tremor عند الاقتضاء. هذا مهم في السياقات التي قد تؤثر فيها الأعراض في الوظيفة أو خيارات العلاج.\n\nتضيف الدراسة بيانات تحقق لم تكن متاحة بحسب المؤلفين، لكنها لا تختبر تدخلًا علاجيًا ولا تغيّر مسار العلاج بحد ذاتها. لذلك نعدّها إضافة مفيدة للمعرفة، لا نتيجة ممارسة مغيرة، مع مستوى ثقة متوسط. ومن القيود أن النتائج مبنية على cohort محددة، وأن تعميمها يحتاج إلى تحقق إضافي. تبقى الحاجة قائمة إلى دراسات أكبر وإلى أساليب تقييم معيارية، خصوصًا لتحسين اكتشاف voice tremor الخفيف. خلاصة القول: الإبلاغ الذاتي قد يساعد عندما يكون إيجابيًا، لكنه ضعيف كأداة فحص لاستبعاد الرعاش؛ والفحص السريري الشامل يقلل حالات عدم الاكتشاف.",
+      "audio_script_en": "Today we review a prospective cohort study evaluating whether people with essential tremor, or ET, can accurately report their own head and voice tremor. The study included 185 participants. Their reports were compared with a detailed examination by an experienced movement disorders neurologist.\n\nOn examination, voice tremor was present in 50.8% of participants and head tremor in 49.7%. Participants often failed to report tremors that were found during examination: sensitivity ranged from 13.8% to 59.3%. The positive predictive value was moderate, ranging from 61.9% to 84.2%. In other words, a positive self-report could be informative, but a negative report could not reliably exclude tremor. Self-report was less valid for voice tremor than for head tremor, especially when voice tremor was mild.\n\nThe practical message is not to interpret the absence of a patient-reported symptom as proof that cranial tremor is absent. Asking about symptoms remains useful, but direct assessment of head and voice tremor should be considered when evaluating people with ET, particularly when symptoms may affect function or treatment decisions.\n\nThe study adds validation data that the authors say were previously unavailable. It does not test a treatment or establish a new management pathway, so it is useful knowledge rather than practice-changing evidence. The prospective design and cohort size are strengths, but the findings still need confirmation in other populations. Future work could assess standardized questions or examination methods, particularly for mild voice tremor. Overall, self-report may be reasonably informative when positive, but it is a poor screening method for ruling out cranial tremor; thorough clinical examination reduces missed cases.",
+      "mcq": [
+        {
+          "q_ar": "ما الخلاصة الأساسية حول استخدام الإبلاغ الذاتي لاكتشاف cranial tremor لدى مرضى ET؟",
+          "q_en": "What is the main conclusion about using self-report to detect cranial tremor in people with ET?",
+          "options_ar": [
+            "أ) يكفي الإبلاغ الذاتي لاستبعاد الرعاش عند غياب الشكوى",
+            "ب) الإبلاغ الذاتي أداة ضعيفة للاستبعاد، لذا يلزم الفحص السريري",
+            "ج) الإبلاغ الذاتي أكثر دقة من الفحص العصبي",
+            "د) لا يمكن تقييم head tremor بالفحص"
+          ],
+          "options_en": [
+            "A) Self-report is sufficient to exclude tremor when no symptom is reported",
+            "B) Self-report is poor for ruling out tremor, so clinical examination is needed",
+            "C) Self-report is more accurate than neurological examination",
+            "D) Head tremor cannot be assessed on examination"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت sensitivity للإبلاغ الذاتي منخفضة، ما يعني أن غياب الإبلاغ لا يستبعد وجود الرعاش؛ لذلك يظل الفحص السريري مهمًا.",
+          "explanation_en": "Self-report sensitivity was low, so failure to report tremor does not rule it out; clinical examination remains important."
+        },
+        {
+          "q_ar": "أي نوع من الرعاش كان الإبلاغ الذاتي عنه أقل دقة؟",
+          "q_en": "Which type of tremor was less accurately reported by participants?",
+          "options_ar": [
+            "أ) voice tremor",
+            "ب) head tremor",
+            "ج) كان النوعان متساويين في الدقة",
+            "د) لم تُقيّم الدراسة أيًا منهما"
+          ],
+          "options_en": [
+            "A) Voice tremor",
+            "B) Head tremor",
+            "C) Both types were equally accurate",
+            "D) Neither type was assessed"
+          ],
+          "answer": 0,
+          "explanation_ar": "كان الإبلاغ الذاتي أقل صلاحية بالنسبة إلى voice tremor مقارنةً بـ head tremor، وكان أقل دقة خصوصًا عندما كان رعاش الصوت خفيفًا.",
+          "explanation_en": "Self-report was less valid for voice tremor than for head tremor, particularly when voice tremor was mild."
+        },
+        {
+          "q_ar": "ما تصميم الدراسة وعدد المشاركين؟",
+          "q_en": "What was the study design and sample size?",
+          "options_ar": [
+            "أ) RCT شملت 185 مشاركًا",
+            "ب) cohort مستقبلية شملت 185 مشاركًا",
+            "ج) دراسة حالات وشواهد شملت 18 مشاركًا",
+            "د) مراجعة منهجية لـ 185 دراسة"
+          ],
+          "options_en": [
+            "A) An RCT with 185 participants",
+            "B) A prospective cohort with 185 participants",
+            "C) A case-control study with 18 participants",
+            "D) A systematic review of 185 studies"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت دراسة cohort مستقبلية شملت 185 شخصًا مصابًا بـ ET، مع مقارنة الإبلاغ الذاتي بنتائج الفحص السريري.",
+          "explanation_en": "This was a prospective cohort of 185 people with ET, comparing self-report with clinical examination."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026111401",
+      "title_ar": "ميدترونيك وكارل ستورز تتعاونان لتطوير حلول جراحية متكاملة للأنف والأذن والحنجرة",
+      "title_en": "Medtronic and Karl Storz Collaborate on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-14",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أعلنت شركتا ميدترونيك وكارل ستورز عن تعاون يركز على حلول جراحية متكاملة في مجال الأنف والأذن والحنجرة. ولا يوضح الخبر المتاح المنتجات أو التقنيات التي سيشملها التعاون، أو موعد إتاحتها، أو الشروط التجارية للاتفاق. ولم يرد ذكر لقرار تنظيمي أو استحواذ أو نتائج سريرية.",
+      "summary_en": "Medtronic and Karl Storz have announced a collaboration focused on integrated surgical solutions for ear, nose, and throat care. The supplied news item does not specify which products or technologies will be combined, when they will become available, or the commercial terms of the agreement. No regulatory decision, acquisition, or clinical outcome is reported.",
+      "practice_change_ar": "لا يُتوقع أن يطرأ تغيير فوري على الممارسة السريرية؛ إذ ستعتمد الفوائد العملية على المنتجات وتفاصيل التكامل التي ستُعلن لاحقًا.",
+      "practice_change_en": "ENT surgeons should not expect an immediate change in clinical practice; the practical implications will depend on the products and integration details disclosed.",
+      "future_impact_ar": "قد يفضي التعاون إلى أنظمة جراحية أكثر ترابطًا في مجال الأنف والأذن والحنجرة، وستتوقف أهميته على التنفيذ والتوافر وإثبات القيمة.",
+      "future_impact_en": "The collaboration may lead to more connected ENT surgical systems, with its significance depending on implementation, availability, and demonstrated value.",
+      "why_important_ar": "قد يسهم تكامل التقنيات الجراحية بصورة أوثق في تبسيط سير العمل داخل غرف العمليات، لكن الإعلان لا يقدم حتى الآن أدلة على فوائد سريرية أو كفاءة تشغيلية.",
+      "why_important_en": "Closer integration of surgical technologies could streamline operating-room workflows, but the announcement provides no evidence yet of clinical or efficiency benefits.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "تعاون صناعي قد يؤثر في تكامل التقنيات مستقبلًا، لكن التفاصيل والنتائج السريرية غير متاحة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أعلنت ميدترونيك وكارل ستورز عن تعاون لتطوير حلول جراحية متكاملة في مجال الأنف والأذن والحنجرة. وقد يتيح دمج التقنيات الجراحية من الشركتين، مستقبلًا، أنظمة أكثر ترابطًا وسير عمل أكثر سلاسة داخل غرفة العمليات. لكن الخبر المتاح لا يحدد المنتجات التي سيشملها التعاون، ولا موعد طرحها أو شروط الاتفاق. كما لا يتضمن الإعلان بيانات عن نتائج سريرية أو تحسن في الكفاءة. لذلك لا يوجد حاليًا ما يستدعي تغييرًا في الممارسة اليومية للجراحين. وستتضح أهمية هذا التعاون عند الإعلان عن تفاصيل المنتجات، وتوافرها، وأي أدلة تثبت فائدتها للمرضى أو للفرق الجراحية.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026111402",
+      "title_ar": "شركات رائدة في طب الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية",
+      "title_en": "Leading ENT Companies Driving Medical Technology Innovation",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-14",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت SNS Insider مقالاً يسلط الضوء على شركات تصفها بأنها تقود الابتكار في التكنولوجيا الطبية ضمن قطاع الأنف والأذن والحنجرة. ولا يحدد الخبر المتاح أسماء الشركات أو يقدم تفاصيل عن منتجات بعينها أو صفقات أو قرارات تنظيمية أو نتائج سريرية. لذا فهو يتناول توجهاً عاماً في القطاع، وليس تطوراً تجارياً أو سريرياً مؤكداً. ولا تشير المعلومات المتاحة إلى تغيير مباشر في الممارسة السريرية.",
+      "summary_en": "SNS Insider published an article highlighting companies it describes as leading medical technology innovation in the ENT sector. The supplied news item does not identify the companies or provide details about specific products, transactions, regulatory decisions, or clinical findings. It therefore reports a broad industry theme rather than a confirmed business or clinical development. No direct change to clinical practice is established by the available information.",
+      "practice_change_ar": "لا ينبغي لجراحي الأنف والأذن والحنجرة تغيير الممارسة السريرية استناداً إلى هذا الاستعراض العام للقطاع من دون أدلة خاصة بالمنتجات ومعلومات تنظيمية.",
+      "practice_change_en": "ENT surgeons should not change clinical practice based on this general industry overview without product-specific evidence and regulatory information.",
+      "future_impact_ar": "يلزم توفر معلومات لاحقة عن الشركات والتقنيات المحددة والأدلة السريرية والوضع التنظيمي لتقييم أي أثر مهم في رعاية مرضى الأنف والأذن والحنجرة.",
+      "future_impact_en": "Further reporting on named companies, specific technologies, clinical evidence, and regulatory status will be needed to assess any meaningful impact on ENT care.",
+      "why_important_ar": "قد يؤثر الاستثمار في التكنولوجيا الطبية في أدوات طب الأنف والأذن والحنجرة مستقبلاً، لكن الخبر لا يقدم دليلاً على ابتكار متاح حالياً أو فائدة مثبتة للمرضى.",
+      "why_important_en": "Medical technology investment may shape future ENT tools, but the item provides no evidence of a currently available innovation or demonstrated patient benefit.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "خبر عام بلا تفاصيل عن منتج أو صفقة أو قرار تنظيمي أو أثر سريري مباشر.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "نستعرض اليوم خبراً من SNS Insider بعنوان «شركات رائدة في طب الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية». يشير العنوان إلى اهتمام متزايد بالابتكار في هذا القطاع، لكن المعلومات المتاحة لا تسمي الشركات ولا تحدد التقنيات أو المنتجات التي يتناولها المقال. كما لا تتضمن تفاصيل عن استحواذات أو تحركات سوقية أو موافقات من الجهات التنظيمية أو نتائج تجارب سريرية. لذلك، لا يمكن اعتبار الخبر إعلاناً عن تغيير وشيك في أدوات العلاج أو في رعاية المرضى. بالنسبة إلى جراحي الأنف والأذن والحنجرة، تبقى الخطوة العملية هي انتظار معلومات أكثر تحديداً، تشمل الدليل السريري، وحالة الموافقة التنظيمية، وأثر التقنية على النتائج والتكاليف. الخلاصة: الخبر يلفت إلى توجه عام في الصناعة، لكنه لا يقدم حالياً ما يبرر تغيير الممارسة.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026111403",
+      "title_ar": "سوق أجهزة الأنف والأذن والحنجرة: تقرير الحجم والحصة والنمو حتى عام 2034",
+      "title_en": "ENT Devices Market: Size, Share and Growth Report Through 2034",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-14",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "تروّج شركة Fortune Business Insights لتقرير يتناول حجم سوق أجهزة الأنف والأذن والحنجرة وحصته ونموه المتوقع حتى عام 2034. ولا يتضمن الخبر المقدم سوى عنوان التقرير، من دون أرقام للسوق أو عوامل نمو أو تفاصيل إقليمية أو نتائج بحسب فئات الأجهزة. كما لا يشير إلى استحواذ أو قرار تنظيمي أو دعوى قضائية أو تطور محدد آخر في القطاع.",
+      "summary_en": "Fortune Business Insights is promoting a report on the size, share and projected growth of the ENT devices market through 2034. The supplied news item contains only the report title and does not provide market figures, growth drivers, regional breakdowns or device-category findings. It does not describe an acquisition, regulatory decision, lawsuit or other specific industry development.",
+      "practice_change_ar": "لا يقدم العنوان وحده أدلة عملية تساعد جرّاحي الأنف والأذن والحنجرة في اختيار الأجهزة أو شرائها أو تغيير الممارسة السريرية.",
+      "practice_change_en": "The headline alone does not provide actionable evidence to guide ENT surgeons’ device selection, purchasing or clinical practice.",
+      "future_impact_ar": "قد يساعد التقرير في تأطير النقاش حول الاستثمار المستقبلي في أجهزة الأنف والأذن والحنجرة، لكن ينبغي تقييم توقعاته بالرجوع إلى التقرير الكامل والأدلة المستقلة.",
+      "future_impact_en": "The report may help frame discussions about future ENT device investment, but its projections should be assessed against the full report and independent evidence.",
+      "why_important_ar": "قد توفر توقعات السوق سياقًا للتخطيط والشراء، لكن الأرقام والمنهجية التي تستند إليها غير متاحة في هذا الخبر.",
+      "why_important_en": "Market forecasts may offer context for procurement and planning, but the underlying figures and methods are not available in this item.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "أهمية محدودة للممارسة؛ الخبر لا يعرض بيانات أو نتائج تفصيلية قابلة للتطبيق.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "إليكم موجزًا عن خبر في قطاع الأنف والأذن والحنجرة: تشير Fortune Business Insights إلى تقرير عن حجم سوق أجهزة الأنف والأذن والحنجرة وحصته ومسار نموه المتوقع حتى عام 2034. لكن المادة المتاحة لا تتجاوز عنوان التقرير؛ فلا تتضمن تقديرات مالية، ولا تشرح ما الأجهزة المشمولة أو الأسواق الإقليمية التي جرى تحليلها، ولا تحدد العوامل التي قد تدفع النمو. لذلك لا يمكن استخلاص توصيات بشأن شراء الأجهزة أو اختيارها سريريًا من هذا الخبر وحده. قد يكون التقرير مفيدًا للتخطيط التجاري وفهم توقعات السوق، لكن على الأطباء والمؤسسات مراجعة تفاصيله ومنهجيته قبل الاعتماد على توقعاته. لا يعلن الخبر عن قرار تنظيمي أو تطور سريري مباشر، لذا فإن أثره الفوري على الممارسة محدود.",
+      "mcq": []
+    }
+  ]
+}
