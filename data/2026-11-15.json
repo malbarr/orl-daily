@@ -1,0 +1,589 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T10:49:51Z",
+  "articles": [
+    {
+      "pmid": "43026353",
+      "title_ar": "Diagnosis and management of benign vocal fold lesions in children: a systematic review.",
+      "title_en": "Diagnosis and management of benign vocal fold lesions in children: a systematic review.",
+      "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+      "pub_date": "2026-Nov-14",
+      "doi": "10.1007/s00405-026-10823-7",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43026353/",
+      "pdf_url": null,
+      "study_design": "Systematic review of 10 studies, n=559",
+      "summary_ar": "راجعت هذه systematic review عشر دراسات شملت 559 طفلًا لديهم benign vocal fold lesions، وكانت vocal fold nodules تمثل 86.7% من الآفات. كان flexible laryngoscopy أكثر وسائل التشخيص استخدامًا. عولج 88.0% من الأطفال تحفظيًا، مع تحسن في 75.5%-87.5% ودون مضاعفات مُبلّغ عنها. خضع 12.0% للجراحة، وتراوحت معدلات التحسن بين 79.2% و100%، بينما أبلغت إحدى الدراسات عن مضاعفات بعد الجراحة لدى 20% من المرضى. لم تكن مؤشرات الجراحة موحدة، وكان median follow-up 4.5 أشهر فقط. تخلص المراجعة إلى أن behavioral voice therapy ينبغي أن يبقى العلاج الأول، مع حصر الجراحة في الآفات structural أو refractory بعد اختيار دقيق للمرضى.",
+      "summary_en": "This systematic review included 10 studies and 559 children with benign vocal fold lesions; vocal fold nodules represented 86.7% of lesions. Flexible laryngoscopy was the most frequently used diagnostic method. Conservative management was used in 88.0% of patients, with improvement rates of 75.5%-87.5% and no reported complications. Surgery was performed in 12.0%, with improvement rates ranging from 79.2% to 100%; one study reported postoperative complications in 20% of patients. Surgical indications were not standardized, and median follow-up was only 4.5 months. The authors support behavioral voice therapy as first-line treatment and reserve surgery for carefully selected structural or refractory lesions.",
+      "practice_change_ar": "لا تدعم النتائج تغيير الممارسة الحالية: اجعل behavioral voice therapy العلاج الأول، واحتفظ بالجراحة للحالات structural أو refractory المختارة بعناية.",
+      "practice_change_en": "The findings do not support changing current practice: use behavioral voice therapy first and reserve surgery for carefully selected structural or refractory cases.",
+      "future_impact_ar": "قد تساعد دراسات prospective متعددة المراكز ذات مؤشرات جراحية ونتائج موحدة ومتابعة طويلة الأمد على تحديد المرضى الذين يستفيدون من الجراحة.",
+      "future_impact_en": "Prospective multicenter studies with standardized surgical indications, outcomes, and long-term follow-up may clarify which patients benefit from surgery.",
+      "why_important_ar": "تلخص المراجعة نتائج العلاج المتاحة لدى الأطفال وتبرز أن الجراحة قد تحمل خطرًا مهمًا على vocal fold رغم التحسن المبلغ عنه.",
+      "why_important_en": "The review synthesizes available pediatric treatment outcomes and highlights that surgery may carry meaningful vocal fold risk despite reported improvement.",
+      "vs_previous_ar": "بدل تقديم توصية علاجية جديدة، تجمع المراجعة الأدلة المتباينة وتؤكد النهج المعروف المتمثل في العلاج التحفظي أولًا مع غياب معايير موحدة للجراحة.",
+      "vs_previous_en": "Rather than introducing a new treatment recommendation, the review synthesizes heterogeneous evidence and reinforces conservative first-line care while highlighting the lack of standardized surgical criteria.",
+      "stars": 3,
+      "stars_reason_ar": "هذه systematic review ذات قاعدة تصميم قوية، لكنها جمعت عشر دراسات وصفية فقط مع متابعة قصيرة ونتائج غير موحدة؛ لذا تضيف معرفة مفيدة دون تغيير واضح للممارسة.",
+      "stars_reason_en": "This systematic review has a strong design category, but synthesizes only 10 descriptive studies with short follow-up and heterogeneous outcomes; it is useful without clearly changing practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق النقاش لأنها تقارن نتائج العلاج التحفظي والجراحة لدى الأطفال وتكشف محدودية الأدلة ومعايير اختيار المرضى.",
+      "jc_reason_en": "It merits discussion because it compares conservative and surgical outcomes in children and exposes limitations in the evidence and patient-selection criteria.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى دراسات prospective متعددة المراكز تستخدم مؤشرات جراحية ومقاييس نتائج موحدة وتوفر متابعة طويلة الأمد.",
+      "research_gap_en": "Prospective multicenter studies are needed with standardized surgical indications, outcome measures, and long-term follow-up.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نناقش اليوم مراجعة منهجية عن تشخيص وعلاج benign vocal fold lesions لدى الأطفال، وهي سبب شائع لـ chronic dysphonia. شملت المراجعة عشر دراسات و559 طفلًا، ونُشرت ضمن نطاق بحث امتد من يناير 2000 إلى مارس 2026. كانت vocal fold nodules هي الأكثر شيوعًا، إذ شكلت 86.7% من الآفات، وكان flexible laryngoscopy أكثر وسائل التشخيص استخدامًا.\n\nفيما يتعلق بالعلاج، تلقى 88% من الأطفال تدبيرًا تحفظيًا، مع تحسن مُبلغ عنه تراوح بين 75.5% و87.5%، ودون مضاعفات مُبلغ عنها في الدراسات التي تناولت هذا النهج. خضع 12% للجراحة، وبلغ التحسن 79.2% إلى 100%. لكن الأرقام الجراحية تحتاج إلى تفسير حذر؛ فقد أبلغت إحدى الدراسات عن مضاعفات بعد الجراحة لدى 20% من المرضى. كما لم تكن مؤشرات الجراحة موحدة، وكان median follow-up قصيرًا، عند 4.5 أشهر.\n\nالرسالة العملية هي أن behavioral voice therapy والتدبير التحفظي يظلان الخيار الأول للأطفال. يمكن النظر في الجراحة للآفات structural أو refractory، لكن بعد اختيار دقيق وموازنة الفائدة مقابل خطر حدوث ضرر دائم في vocal fold. لا تثبت هذه المراجعة أن الجراحة أفضل، ولا تقدم معيارًا واضحًا لتحديد توقيتها؛ فالدراسات متباينة والبيانات طويلة الأمد محدودة.\n\nتُعد هذه المراجعة مفيدة لأنها تجمع نتائج متفرقة وتؤكد النهج التحفظي المعروف، لكنها لا تغيّر الممارسة الحالية. الثقة متوسطة، والتقييم ثلاث نجوم: تصميم المراجعة قوي نسبيًا، إلا أن قاعدة الأدلة صغيرة ووصفية، مع تفاوت في النتائج وقصر المتابعة. وتتمثل الفجوة البحثية الأهم في الحاجة إلى دراسات prospective متعددة المراكز، بمؤشرات جراحية ومقاييس نتائج موحدة ومتابعة طويلة الأمد. لذلك فإن أهم ما ينبغي أخذه إلى العيادة هو البدء بالعلاج التحفظي، وحصر الجراحة في حالات مختارة بعناية.",
+      "audio_script_en": "Today we are reviewing a systematic review on the diagnosis and management of benign vocal fold lesions in children, a common cause of chronic dysphonia. The review included 10 studies and 559 children, with searches covering January 2000 through March 2026. Vocal fold nodules accounted for 86.7% of lesions, and flexible laryngoscopy was the most commonly used diagnostic tool.\n\nFor treatment, 88% of children received conservative management. Reported improvement ranged from 75.5% to 87.5%, with no complications reported for this approach in the included evidence. Surgery was performed in 12% of patients, with reported improvement ranging from 79.2% to 100%. These surgical results require caution: one study reported postoperative complications in 20% of patients. Surgical indications were not standardized, and median follow-up was short, at 4.5 months.\n\nThe practical message is that behavioral voice therapy and conservative management should remain first line for children. Surgery can be considered for structural or refractory lesions, but only after careful patient selection and discussion of the risk of permanent vocal fold damage. This review does not establish that surgery is superior or provide a clear threshold for when it should be performed; the studies are heterogeneous and long-term evidence is limited.\n\nThe review is useful because it brings scattered evidence together and reinforces the established conservative-first approach, but it does not change practice today. Confidence is moderate, with a three-star rating: the review design is strong in principle, but the evidence base is small and descriptive, with heterogeneous outcomes and short follow-up. The main research need is prospective multicenter work with standardized surgical indications, outcome measures, and long-term follow-up. For clinicians, the key takeaway is to start conservatively and reserve surgery for carefully selected children.",
+      "mcq": [
+        {
+          "q_ar": "ما أكثر أنواع benign vocal fold lesions شيوعًا في المراجعة؟",
+          "q_en": "Which type of benign vocal fold lesion was most common in the review?",
+          "options_ar": [
+            "أ) Vocal fold nodules",
+            "ب) Cysts",
+            "ج) Polyps",
+            "د) Papillomas"
+          ],
+          "options_en": [
+            "A) Vocal fold nodules",
+            "B) Cysts",
+            "C) Polyps",
+            "D) Papillomas"
+          ],
+          "answer": 0,
+          "explanation_ar": "مثّلت vocal fold nodules نسبة 86.7% من الآفات المشمولة.",
+          "explanation_en": "Vocal fold nodules accounted for 86.7% of the included lesions."
+        },
+        {
+          "q_ar": "ما التدبير الذي تدعمه المراجعة كخيار أول لمعظم الأطفال؟",
+          "q_en": "Which management approach does the review support as first line for most children?",
+          "options_ar": [
+            "أ) الجراحة الأولية لجميع الحالات",
+            "ب) Behavioral voice therapy والتدبير التحفظي",
+            "ج) المراقبة دون تقييم أو علاج لكل الحالات",
+            "د) استخدام المضادات الحيوية"
+          ],
+          "options_en": [
+            "A) Primary surgery for all cases",
+            "B) Behavioral voice therapy and conservative management",
+            "C) Observation without assessment or treatment for all cases",
+            "D) Antibiotic treatment"
+          ],
+          "answer": 1,
+          "explanation_ar": "خلصت المراجعة إلى أن التدبير التحفظي، وخصوصًا behavioral voice therapy، ينبغي أن يكون العلاج الأول.",
+          "explanation_en": "The review concludes that conservative management, primarily behavioral voice therapy, should be first-line treatment."
+        },
+        {
+          "q_ar": "ما أحد القيود الرئيسية على تفسير نتائج الجراحة؟",
+          "q_en": "What is a major limitation when interpreting the surgical findings?",
+          "options_ar": [
+            "أ) لم تشمل المراجعة أي أطفال",
+            "ب) كانت مؤشرات الجراحة موحدة والمتابعة طويلة",
+            "ج) لم تكن مؤشرات الجراحة موحدة وكانت المتابعة قصيرة",
+            "د) لم تُستخدم وسائل تشخيص endoscopic"
+          ],
+          "options_en": [
+            "A) The review included no children",
+            "B) Surgical indications were standardized and follow-up was long",
+            "C) Surgical indications were not standardized and follow-up was short",
+            "D) No endoscopic diagnostic methods were used"
+          ],
+          "answer": 2,
+          "explanation_ar": "لم تكن مؤشرات الجراحة موحدة، وكان median follow-up 4.5 أشهر فقط، ما يحد من قوة الاستنتاجات.",
+          "explanation_en": "Surgical indications were not standardized, and median follow-up was only 4.5 months, limiting the strength of conclusions."
+        }
+      ]
+    },
+    {
+      "pmid": "43026363",
+      "title_ar": "Neuronavigation-assisted versus conventional endoscopic endonasal transsphenoidal surgery for pituitary adenomas: a pilot randomized controlled trial.",
+      "title_en": "Neuronavigation-assisted versus conventional endoscopic endonasal transsphenoidal surgery for pituitary adenomas: a pilot randomized controlled trial.",
+      "journal": "Pituitary",
+      "pub_date": "2026-Nov-13",
+      "doi": "10.1007/s11102-026-01772-9",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43026363/",
+      "pdf_url": "https://www.researchsquare.com/article/rs-10757415/latest.pdf",
+      "study_design": "Pilot RCT n=50",
+      "summary_ar": "قارنت هذه pilot RCT بين neuronavigation-assisted وconventional endoscopic endonasal transsphenoidal surgery لدى 50 مريضًا مصابًا بـ pituitary adenomas، موزعين بالتساوي بين المجموعتين. كان primary outcome هو extent of resection، وشملت secondary outcomes مدة العملية وblood loss والنتائج البصرية والهرمونية والمضاعفات. بلغ gross total resection نسبة 28% مع neuronavigation مقابل 16% دونها، لكن الفرق لم يكن statistically significant (p=0.496)، وكان adjusted odds ratio هو 2.66 مع confidence interval واسع. ارتبط extent of resection بقوة بـ tumor size وfunctional status وKnosp grade، ولم يحقق أي giant adenoma gross total resection. كان median blood loss أقل مع neuronavigation (250 مقابل 350 mL؛ p=0.016)، بينما لم تختلف operative time، بما في ذلك وقت إعداد navigation. لم تُظهر الدراسة تحسنًا حاسمًا في resection، وتظل نتيجة انخفاض blood loss استكشافية بسبب صغر العينة والحاجة إلى تجربة أكبر.",
+      "summary_en": "This pilot RCT compared neuronavigation-assisted with conventional endoscopic endonasal transsphenoidal surgery in 50 patients with pituitary adenomas, randomized equally between groups.\nThe primary outcome was extent of resection; secondary outcomes included operative time, blood loss, visual and hormonal outcomes, and complications.\nGross total resection was 28% with neuronavigation versus 16% without it, a nonsignificant difference (p=0.496); the adjusted odds ratio was 2.66 with a wide confidence interval.\nExtent of resection was associated with tumor size, functional status, and Knosp grade, and no giant adenoma achieved gross total resection.\nMedian blood loss was lower with navigation (250 vs. 350 mL; p=0.016), while operative time, including setup, did not differ.\nThe findings do not establish a resection benefit; the blood-loss result is hypothesis-generating and requires confirmation in a larger trial.",
+      "practice_change_ar": "لا تبرر هذه النتائج تغيير الممارسة حاليًا، ولا تثبت تفوق neuronavigation في تحسين extent of resection.",
+      "practice_change_en": "These results do not justify changing current practice or establish that neuronavigation improves extent of resection.",
+      "future_impact_ar": "ينبغي أن تختبر multicentre RCT أكبر ما إذا كان انخفاض blood loss وتحسن resection مع neuronavigation قابلين للتكرار.",
+      "future_impact_en": "A larger multicentre RCT should test whether the reductions in blood loss and possible improvement in resection with neuronavigation are reproducible.",
+      "why_important_ar": "تقدم الدراسة العشوائية تقديرًا أوليًا لمقارنة neuronavigation بالجراحة التقليدية، وتحدد blood loss كإشارة تستحق التحقق.",
+      "why_important_en": "This randomized pilot provides an initial comparison of neuronavigation with conventional surgery and identifies blood loss as a signal worth testing.",
+      "vs_previous_ar": "تضيف هذه الدراسة مقارنة عشوائية مباشرة إلى الأدلة المختلطة السابقة، لكنها لا تحسم فائدة neuronavigation في extent of resection.",
+      "vs_previous_en": "This study adds a direct randomized comparison to previously mixed evidence but does not resolve whether neuronavigation improves extent of resection.",
+      "stars": 3,
+      "stars_reason_ar": "تجربة عشوائية محكمة، لكنها pilot صغيرة في مجلة تخصصية غير مدرجة ضمن فئات المجلات الأعلى المحددة؛ النتائج غير حاسمة ولا تغير الممارسة، مع إشارة مفيدة لانخفاض blood loss.",
+      "stars_reason_en": "A randomized controlled pilot, but small and published in a specialty journal outside the specified top-tier list; results are inconclusive and do not change practice, although the blood-loss signal is useful.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسبة للنقاش لأنها RCT صغيرة ذات نتائج متباينة، وتتيح مناقشة اختيار primary outcome، واتساع confidence interval، وأهمية blood loss في التخطيط لتجربة أكبر.",
+      "jc_reason_en": "Suitable for journal club because it is a small RCT with mixed findings, prompting discussion of the primary outcome, wide confidence intervals, and the role of blood loss in designing a larger trial.",
+      "watch": true,
+      "watch_detail_ar": "تستحق neuronavigation المتابعة كـ technology في skull_base surgery، خصوصًا للتحقق من أثرها على blood loss وextent of resection في دراسات أكبر.",
+      "watch_detail_en": "Neuronavigation merits continued tracking as a technology in skull-base surgery, particularly for its effects on blood loss and extent of resection in larger studies.",
+      "watch_type": "technology",
+      "research_gap_ar": "يلزم إجراء multicentre RCT أكبر ومخطط مسبقًا، مع قدرة إحصائية كافية وتقييم مضبوط لـ tumor size وKnosp grade، لتحديد أثر neuronavigation على resection والنتائج السريرية.",
+      "research_gap_en": "A larger, prospectively powered multicentre RCT with appropriate control for tumor size and Knosp grade is needed to determine the effect of neuronavigation on resection and clinical outcomes.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نتناول اليوم pilot randomized controlled trial قارنت neuronavigation-assisted مع conventional endoscopic endonasal transsphenoidal surgery لعلاج pituitary adenomas. أُجريت الدراسة في Ain Shams University، وشملت 50 مريضًا جرى توزيعهم عشوائيًا بالتساوي بين المجموعتين. استُبعد سبعة مرضى بسبب prior Gamma Knife radiosurgery، وكان primary outcome هو extent of resection.\n\nبلغت نسبة gross total resection 28% في مجموعة neuronavigation مقابل 16% في المجموعة التقليدية. لكن هذا الفرق لم يكن statistically significant؛ إذ كانت قيمة p تساوي 0.496. بلغ adjusted odds ratio 2.66، إلا أن confidence interval كان واسعًا، ما يعكس عدم دقة التقدير وصغر حجم العينة. كما ارتبط نجاح الاستئصال بحجم الورم وfunctional status وKnosp grade، ولم يحقق أي giant adenoma gross total resection.\n\nالنتيجة الإيجابية الأوضح كانت انخفاض median blood loss: 250 مقابل 350 mL، مع p-value تساوي 0.016. لم يظهر فرق في operative time حتى مع احتساب وقت إعداد navigation. مع ذلك، ينبغي اعتبار نتيجة blood loss استكشافية؛ فالدراسة pilot، ولا تكفي لإثبات فائدة سريرية نهائية أو استبعاد أن تكون النتيجة عائدة إلى المصادفة.\n\nعمليًا، لا تقدم هذه النتائج سببًا لتغيير الممارسة أو لاستخدام neuronavigation بهدف تحسين extent of resection لدى جميع المرضى. لكنها تضيف مقارنة عشوائية مباشرة إلى الأدلة السابقة المختلطة، وتوفر أساسًا لتخطيط تجربة أكبر. يستحق هذا المقال النقاش في journal club بسبب التباين بين اتجاه تحسن resection وعدم دلالته الإحصائية، وبين انخفاض blood loss الملحوظ. الخطوة التالية هي multicentre RCT ذات قدرة إحصائية مناسبة، مع تحليل مسبق لعوامل مثل tumor size وKnosp grade والنتائج السريرية. لذلك، الخلاصة هي أن neuronavigation تقنية جديرة بالمتابعة في skull_base surgery، لكن فائدتها لم تُثبت بعد.",
+      "audio_script_en": "Today’s paper is a pilot randomized controlled trial comparing neuronavigation-assisted with conventional endoscopic endonasal transsphenoidal surgery for pituitary adenomas. The study was conducted at Ain Shams University and randomized 50 patients equally between the two groups. Seven patients were excluded because of prior Gamma Knife radiosurgery. Extent of resection was the primary outcome.\n\nGross total resection occurred in 28% of patients with neuronavigation and 16% with conventional surgery. This difference was not statistically significant, with a p-value of 0.496. The adjusted odds ratio was 2.66, but its confidence interval was wide, so the estimate is imprecise. Extent of resection was also strongly associated with tumor size, functional status, and Knosp grade; no giant adenoma achieved gross total resection.\n\nThe clearest favorable finding was lower median blood loss with navigation: 250 versus 350 milliliters, with a p-value of 0.016. Operative time did not differ, even though navigation setup was included. Because this was a small pilot trial, the blood-loss finding should be considered hypothesis-generating rather than definitive.\n\nFor clinical practice, the results do not support changing current care or adopting neuronavigation specifically to improve extent of resection. The trial does, however, add a direct randomized comparison to an evidence base that has been mixed, and it offers useful information for planning a definitive study. It is a good journal-club paper because resection outcomes trended in favor of navigation without statistical significance, while blood loss was lower. A larger multicentre RCT, powered appropriately and accounting for factors such as tumor size and Knosp grade, is needed to confirm any benefit. Overall, neuronavigation remains a technology worth tracking in skull-base surgery, but its clinical benefit has not yet been established.",
+      "mcq": [
+        {
+          "q_ar": "ما النتيجة الأساسية التي قاستها الدراسة؟",
+          "q_en": "What was the primary outcome of the study?",
+          "options_ar": [
+            "أ) مدة العملية",
+            "ب) extent of resection",
+            "ج) blood loss",
+            "د) النتائج الهرمونية"
+          ],
+          "options_en": [
+            "A) Operative time",
+            "B) Extent of resection",
+            "C) Blood loss",
+            "D) Hormonal outcomes"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان extent of resection هو primary outcome، بينما شملت secondary outcomes مدة العملية وblood loss والنتائج البصرية والهرمونية والمضاعفات.",
+          "explanation_en": "Extent of resection was the primary outcome; operative time, blood loss, visual and hormonal outcomes, and complications were secondary outcomes."
+        },
+        {
+          "q_ar": "أي نتيجة كانت statistically significant لصالح neuronavigation؟",
+          "q_en": "Which outcome was statistically significant in favor of neuronavigation?",
+          "options_ar": [
+            "أ) gross total resection",
+            "ب) operative time",
+            "ج) انخفاض blood loss",
+            "د) عدم حدوث مضاعفات"
+          ],
+          "options_en": [
+            "A) Gross total resection",
+            "B) Operative time",
+            "C) Reduced blood loss",
+            "D) Absence of complications"
+          ],
+          "answer": 2,
+          "explanation_ar": "كان median blood loss أقل مع neuronavigation (250 مقابل 350 mL؛ p=0.016)، بينما لم يكن فرق gross total resection دالًا إحصائيًا.",
+          "explanation_en": "Median blood loss was lower with neuronavigation (250 vs. 350 mL; p=0.016), whereas the difference in gross total resection was not statistically significant."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن تطبيق neuronavigation في الممارسة حاليًا؟",
+          "q_en": "What is the most appropriate conclusion about using neuronavigation in practice now?",
+          "options_ar": [
+            "أ) ثبت أنها تحسن gross total resection لدى جميع المرضى",
+            "ب) ينبغي استبدال الجراحة التقليدية بها فورًا",
+            "ج) لا توجد حاجة إلى مزيد من الدراسات",
+            "د) النتائج لا تبرر تغيير الممارسة، ويلزم إجراء تجربة أكبر"
+          ],
+          "options_en": [
+            "A) It is proven to improve gross total resection in all patients",
+            "B) It should immediately replace conventional surgery",
+            "C) Further studies are unnecessary",
+            "D) The findings do not justify changing practice; a larger trial is needed"
+          ],
+          "answer": 3,
+          "explanation_ar": "لم يتحسن primary outcome بدرجة ذات دلالة إحصائية في هذه pilot RCT، لذا لا تبرر النتائج تغيير الممارسة وتدعم إجراء multicentre RCT أكبر.",
+          "explanation_en": "The primary outcome did not improve significantly in this pilot RCT, so the results do not justify a practice change and support a larger multicentre RCT."
+        }
+      ]
+    },
+    {
+      "pmid": "43026352",
+      "title_ar": "The orbito-pterygo-sphenoidal ligament/posterior septal artery complex as a dual-function anatomical reference for transethmoidal sphenoidotomy.",
+      "title_en": "The orbito-pterygo-sphenoidal ligament/posterior septal artery complex as a dual-function anatomical reference for transethmoidal sphenoidotomy.",
+      "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+      "pub_date": "2026-Nov-14",
+      "doi": "10.1007/s00405-026-10817-5",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43026352/",
+      "pdf_url": null,
+      "study_design": "Retrospective comparative study, 49 patients (98 sides)",
+      "summary_ar": "قيّمت هذه الدراسة الاستعادية استخدام complex of orbito-pterygo-sphenoidal ligament/posterior septal artery (OPSL/PSA) كمرجع تشريحي لإجراء transethmoidal sphenoidotomy لدى مرضى eosinophilic chronic rhinosinusitis (ECRS). شملت المقارنة 24 مريضًا (48 جانبًا) في مجموعة OPSL/PSA-guided و25 مريضًا (50 جانبًا) في المجموعة التقليدية. كان متوسط residual inferior anterior sphenoid wall (ASW) height بعد الجراحة أقل في مجموعة OPSL/PSA-guided (-0.8 مقابل 1.5 mm؛ p<0.001)، واستمر الفرق بعد ضبط العوامل المربكة المحتملة. لم يُجرَ superior turbinate resection في المجموعة الموجهة، مقارنةً بإجرائه في 28% من الجوانب بالمجموعة التقليدية. لم تُلاحظ فروق ذات دلالة إحصائية في operative time أو PSA-related hemorrhage. تشير النتائج إلى أن هذا المعلم قد يساعد في دخول sphenoid sinus وتوجيه الإزالة السفلية المضبوطة لـASW، لكن التصميم الاستعادي والحجم المحدود لا يثبتان تفوقًا عامًا أو يغيران الممارسة وحدهما.",
+      "summary_en": "This retrospective comparative study assessed the orbito-pterygo-sphenoidal ligament/posterior septal artery (OPSL/PSA) complex as a landmark for transethmoidal sphenoidotomy in patients with eosinophilic chronic rhinosinusitis (ECRS).\nThe OPSL/PSA-guided group included 24 patients (48 sides), and the conventional group included 25 patients (50 sides).\nPostoperative residual inferior anterior sphenoid wall (ASW) height was smaller with the guided approach (-0.8 vs. 1.5 mm; p<0.001), including after adjustment for potential confounders.\nSuperior turbinate resection was not performed in the guided group, compared with 28% of sides in the conventional group.\nOperative time and PSA-related hemorrhage did not differ significantly between groups.\nThe findings suggest a potentially useful landmark for sphenoid entry and controlled inferior ASW removal, but the retrospective, small study does not establish broad clinical superiority.",
+      "practice_change_ar": "لا تفرض النتائج تغيير الممارسة حاليًا، لكنها تدعم النظر في OPSL/PSA كمرجع تشريحي تكميلي أثناء transethmoidal sphenoidotomy لدى مرضى ECRS.",
+      "practice_change_en": "The findings do not mandate a practice change today, but support considering the OPSL/PSA complex as a complementary landmark during transethmoidal sphenoidotomy in patients with ECRS.",
+      "future_impact_ar": "قد تؤدي دراسات مستقبلية متعددة المراكز واستباقية إلى تحديد قابلية تكرار هذا النهج وسلامته وفائدته السريرية.",
+      "future_impact_en": "Future prospective, multicenter studies could establish the reproducibility, safety, and clinical benefit of this approach.",
+      "why_important_ar": "يقدم المقال معلمًا تشريحيًا بديلًا قد يفيد عندما يصعب تمييز superior turbinate أو sphenoid ostium في ECRS.",
+      "why_important_en": "The article presents an alternative anatomical landmark that may be useful when the superior turbinate or sphenoid ostium is difficult to identify in ECRS.",
+      "vs_previous_ar": "على خلاف الاعتماد المعتاد على superior turbinate وsphenoid ostium، يقترح المقال استخدام OPSL/PSA للمساعدة في دخول sphenoid sinus وتوجيه الإزالة السفلية لـASW.",
+      "vs_previous_en": "Unlike the usual reliance on the superior turbinate and sphenoid ostium, this approach proposes the OPSL/PSA complex for both sphenoid entry and guidance of inferior ASW removal.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة مقارنة استعادية صغيرة شملت 49 مريضًا، في مجال rhinology ذي أهمية جراحية، وتعرض معلمًا تشريحيًا جديدًا مع نتائج تصويرية واعدة؛ لكن محدودية التصميم والحجم وعدم إثبات تحسن سريري أو سلامة متفوقة تجعلانها مفيدة للمعرفة لا مغيرة للممارسة.",
+      "stars_reason_en": "This small retrospective comparative study of 49 patients addresses a relevant rhinology problem and presents a novel anatomical landmark with promising imaging findings; however, its design and size, and the lack of demonstrated clinical benefit or superior safety, make it informative rather than practice-changing.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق الدراسة النقاش لمقارنتها نهجًا تشريحيًا جديدًا بالنهج التقليدي، مع مناقشة القيود الناتجة عن التصميم الاستعادي وتحليل الجوانب.",
+      "jc_reason_en": "The study merits discussion because it compares a novel anatomical approach with conventional surgery and raises methodological questions about retrospective design and side-level analysis.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسة مستقبلية أكبر ومتعددة المراكز تقيس النتائج السريرية طويلة الأمد، ومضاعفات النزف، وقابلية تكرار تحديد OPSL/PSA.",
+      "research_gap_en": "A larger prospective multicenter study should assess long-term clinical outcomes, bleeding complications, and the reproducibility of identifying the OPSL/PSA complex.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم دراسة عن استخدام complex of orbito-pterygo-sphenoidal ligament وposterior septal artery، أو OPSL/PSA، كمرجع تشريحي لإجراء transethmoidal sphenoidotomy. تكمن أهمية السؤال في أن المعالم المعتادة، وهي superior turbinate وsphenoid ostium، قد يصعب رؤيتها لدى مرضى eosinophilic chronic rhinosinusitis، أو عند وجود اختلافات تشريحية.\n\nكانت الدراسة استعادية وشملت 49 مريضًا خضعوا لجراحة sphenoidotomy: 24 مريضًا في مجموعة OPSL/PSA-guided، و25 في المجموعة التقليدية. قاس الباحثون بصورة أساسية مقدار residual inferior anterior sphenoid wall بعد الجراحة، إضافة إلى عرض الجدار، زمن العملية، والأحداث الجراحية.\n\nكان residual inferior ASW height أقل في المجموعة الموجهة: سالب 0.8 mm مقابل 1.5 mm في المجموعة التقليدية، مع p-value أقل من 0.001، واستمر الفرق بعد ضبط العوامل المربكة المحتملة. كما لم يُجرَ superior turbinate resection في المجموعة الموجهة، بينما أُجري في 28% من الجوانب في المجموعة التقليدية. لم يظهر فرق ذو دلالة إحصائية في operative time أو PSA-related hemorrhage.\n\nالاستنتاج العملي هو أن OPSL/PSA قد يؤدي وظيفتين: المساعدة في تحديد مدخل sphenoid sinus، وتوجيه الإزالة السفلية المضبوطة لـanterior sphenoid wall. ومع ذلك، لا تثبت هذه النتائج أن النهج أكثر أمانًا أو أنه يحسن نتائج المرضى. فالدراسة صغيرة واستعادية، والنتيجة الأساسية قياس تشريحي بالتصوير، لذلك لا تكفي لتغيير الممارسة بمفردها.\n\nتستحق الورقة النقاش في journal club لأنها تقترح معلمًا تشريحيًا تكميليًا في الحالات التي تكون فيها المعالم المعتادة غير واضحة. الخطوة البحثية التالية هي دراسة مستقبلية أكبر ومتعددة المراكز تختبر قابلية تكرار تحديد OPSL/PSA، وتتابع النتائج السريرية والمضاعفات على المدى الطويل. الخلاصة: معرفة واعدة لجراحي rhinology، مع ثقة متوسطة إلى محدودة، وليست توصية بتبديل النهج المعتاد حاليًا.",
+      "audio_script_en": "Today’s article evaluates the orbito-pterygo-sphenoidal ligament/posterior septal artery complex, or OPSL/PSA, as an anatomical reference for transethmoidal sphenoidotomy. The clinical problem is that the usual landmarks—the superior turbinate and sphenoid ostium—may be difficult to identify in eosinophilic chronic rhinosinusitis or in the presence of anatomical variation.\n\nThis was a retrospective comparative study of 49 patients undergoing sphenoidotomy: 24 patients in the OPSL/PSA-guided group and 25 in the conventional group. The primary outcome was postoperative residual inferior anterior sphenoid wall height. Investigators also assessed wall width, operative time, and intraoperative events.\n\nResidual inferior ASW height was smaller in the guided group: minus 0.8 millimeters versus 1.5 millimeters, with a p-value below 0.001. The difference remained after adjustment for potential confounders. Superior turbinate resection was not performed in the guided group, compared with 28 percent of sides in the conventional group. Operative time and PSA-related hemorrhage did not differ significantly.\n\nThe proposed dual function is to help identify the sphenoid entry point and guide controlled inferior removal of the anterior sphenoid wall. The results are promising, but they do not establish that this approach is safer or improves patient-centered outcomes. The study is small and retrospective, and its primary endpoint is an imaging-based anatomical measurement, so it is not enough by itself to change routine practice.\n\nThis paper is worth discussing in journal club because it offers a complementary landmark for situations in which conventional landmarks are obscured. A larger prospective multicenter study should assess how reproducibly surgeons can identify the OPSL/PSA complex and evaluate longer-term clinical outcomes and complications. In summary, this is useful and potentially novel rhinology knowledge, but not yet a reason to replace the conventional approach.",
+      "mcq": [
+        {
+          "q_ar": "ما الهدف الأساسي من استخدام OPSL/PSA في هذه الدراسة؟",
+          "q_en": "What was the primary purpose of using OPSL/PSA in this study?",
+          "options_ar": [
+            "أ) توجيه transethmoidal sphenoidotomy والإزالة السفلية لـASW",
+            "ب) تقليل الحاجة إلى التخدير العام",
+            "ج) علاج ECRS دوائيًا",
+            "د) قياس وظيفة الشم بعد الجراحة"
+          ],
+          "options_en": [
+            "A) Guide transethmoidal sphenoidotomy and inferior ASW removal",
+            "B) Reduce the need for general anesthesia",
+            "C) Treat ECRS medically",
+            "D) Measure postoperative olfactory function"
+          ],
+          "answer": 0,
+          "explanation_ar": "اختُبر OPSL/PSA كمرجع تشريحي للمساعدة في دخول sphenoid sinus وتوجيه الإزالة السفلية المضبوطة لـASW.",
+          "explanation_en": "OPSL/PSA was evaluated as an anatomical reference for sphenoid entry and controlled inferior ASW removal."
+        },
+        {
+          "q_ar": "ما النتيجة الأساسية التي أظهرت فرقًا بين المجموعتين؟",
+          "q_en": "Which primary outcome differed between the groups?",
+          "options_ar": [
+            "أ) residual inferior ASW height بعد الجراحة",
+            "ب) operative time",
+            "ج) PSA-related hemorrhage",
+            "د) معدل ECRS"
+          ],
+          "options_en": [
+            "A) Postoperative residual inferior ASW height",
+            "B) Operative time",
+            "C) PSA-related hemorrhage",
+            "D) ECRS prevalence"
+          ],
+          "answer": 0,
+          "explanation_ar": "كان residual inferior ASW height أقل في مجموعة OPSL/PSA-guided، مع p<0.001.",
+          "explanation_en": "Residual inferior ASW height was smaller in the OPSL/PSA-guided group, with p<0.001."
+        },
+        {
+          "q_ar": "ما القيد الأهم عند تفسير نتائج الدراسة؟",
+          "q_en": "What is the key limitation when interpreting the findings?",
+          "options_ar": [
+            "أ) إنها دراسة استعادية صغيرة لا تثبت تحسن النتائج السريرية",
+            "ب) إنها دراسة على الحيوانات",
+            "ج) لم تتضمن أي مجموعة مقارنة",
+            "د) لم تذكر نتائج جراحية"
+          ],
+          "options_en": [
+            "A) It is a small retrospective study and does not establish improved clinical outcomes",
+            "B) It is an animal study",
+            "C) It included no comparator group",
+            "D) It reported no surgical outcomes"
+          ],
+          "answer": 0,
+          "explanation_ar": "التصميم الاستعادي والحجم المحدود والاعتماد على نتيجة تشريحية بالتصوير تحد من قوة الاستنتاجات.",
+          "explanation_en": "The retrospective design, limited sample, and imaging-based anatomical endpoint constrain the conclusions."
+        }
+      ]
+    },
+    {
+      "pmid": "43026108",
+      "title_ar": "Acoustic Signatures of Vocal Nodules and Vocal Polyps: A Sex-Stratified Comparison with Normal Voices in North Indian Adults.",
+      "title_en": "Acoustic Signatures of Vocal Nodules and Vocal Polyps: A Sex-Stratified Comparison with Normal Voices in North Indian Adults.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Nov-13",
+      "doi": "10.1016/j.jvoice.2026.10.071",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43026108/",
+      "pdf_url": null,
+      "study_design": "Prospective cross-sectional comparative study, n=131",
+      "summary_ar": "شملت هذه الدراسة 131 بالغًا: 34 لديهم vocal nodules، و36 لديهم vocal polyps، و61 من ذوي الأصوات الطبيعية. أُجري تحليل acoustic لعينة sustained vowel /a/ باستخدام Vaghmi Voice Analysis Software وPRAAT، مع تحليل منفصل حسب sex. ظهرت فروق ذات دلالة إحصائية بين المجموعات في جميع acoustic parameters إجمالًا. لدى الإناث، اختلفت المجموعات في F0 وintensity وHNR وCPPS، وكانت الفروق بين الحالات والأصحاء أوضح في HNR وCPPS؛ كما كان F0 وHNR أعلى مع nodules مقارنةً بـ polyps. لدى الذكور، ارتبطت polyps بارتفاع jitter وshimmer وانخفاض HNR وCPPS مقارنةً بالأصحاء، دون فرق دال في F0. لم تظهر jitter لدى الإناث فروقًا زوجية دالة، ويرجح أن التباين المرتفع أسهم في ذلك؛ وتدعم النتائج استخدام acoustic measures كمتمم للتقييم السريري لا كبديل عن laryngoscopy أو videostroboscopy.",
+      "summary_en": "This prospective cross-sectional study compared acoustic voice measures in 131 adults: 34 with vocal nodules, 36 with vocal polyps, and 61 normal controls. Participants sustained /a/, and recordings were analyzed using Vaghmi Voice Analysis Software and PRAAT, with results stratified by sex. Overall, acoustic parameters differed significantly among the groups. In females, groups differed in F0, intensity, HNR, and CPPS; HNR and CPPS particularly distinguished pathological from normal voices, while F0 and HNR were higher in nodules than polyps. In males, polyps were associated with increased jitter and shimmer and reduced HNR and CPPS compared with controls, without a significant F0 difference. Female jitter showed no significant pairwise differences, likely reflecting high variability; acoustic measures may complement, but do not replace, laryngoscopy or videostroboscopy.",
+      "practice_change_ar": "لا تغير هذه النتائج التدبير الحالي، لكنها تدعم استخدام HNR وCPPS كمقاييس acoustic متممة للتقييم الموضوعي ومتابعة الصوت.",
+      "practice_change_en": "These findings do not change current management, but support using HNR and CPPS as complementary acoustic measures for objective voice assessment and follow-up.",
+      "future_impact_ar": "قد تساعد دراسات أكبر ومتحقق منها خارجيًا في تحديد مدى فائدة acoustic profiling بحسب sex في التمييز بين أنواع vocal fold lesions ومتابعة العلاج.",
+      "future_impact_en": "Larger studies with external validation may clarify whether sex-stratified acoustic profiling can distinguish vocal fold lesion types and monitor treatment.",
+      "why_important_ar": "توضح الدراسة أن HNR وCPPS قد يلتقطان تغيرات صوتية مرتبطة بـ vocal nodules وpolyps لا يعكسها F0 وحده.",
+      "why_important_en": "The study highlights that HNR and CPPS may capture voice changes associated with vocal nodules and polyps that F0 alone does not reflect.",
+      "vs_previous_ar": "تضيف الدراسة مقارنة مباشرة بين vocal nodules وpolyps والأصوات الطبيعية مع تحليل النتائج بحسب sex، لكنها لا تثبت تفوق هذه المقاييس على التشخيص بالمنظار.",
+      "vs_previous_en": "The study adds a direct comparison of vocal nodules, polyps, and normal voices with sex-stratified results, but does not establish superiority over endoscopic diagnosis.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة prospective cross-sectional بحجم متوسط (n=131) تقدم بيانات مفيدة عن acoustic measures، لكن تصميمها لا يثبت السببية ولا يغير التدبير السريري، كما أن المجلة ليست ضمن قائمة المجلات الأعلى تصنيفًا المحددة.",
+      "stars_reason_en": "This moderate-sized prospective cross-sectional study (n=131) provides useful acoustic data, but cannot establish causality or change clinical management; the journal is not among the listed top-tier journals.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion for its sex-stratified comparison of vocal nodules and polyps and emphasis on HNR and CPPS, alongside the limitations of diagnostic discrimination and measurement variability.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات مستقبلية أكبر، مع معايير تشخيصية مرجعية وتقييم دقة القياسات وتكرارها، لتحديد قدرة HNR وCPPS على التمييز بين أنواع lesions ومتابعة الاستجابة للعلاج.",
+      "research_gap_en": "Larger prospective studies using reference diagnostic criteria and assessing measurement accuracy and repeatability are needed to determine whether HNR and CPPS distinguish lesion types and track treatment response.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة قارنت الخصائص الصوتية لدى بالغين لديهم vocal nodules أو vocal polyps مع مجموعة أصوات طبيعية، مع تحليل النتائج بحسب sex. الدراسة prospective cross-sectional وشملت 131 مشاركًا: 34 لديهم nodules، و36 لديهم polyps، و61 من الأصحاء. طُلب من المشاركين إصدار sustained vowel /a/، ثم حللت التسجيلات باستخدام Vaghmi Voice Analysis Software وPRAAT.\n\nكانت هناك فروق بين المجموعات في acoustic parameters. لدى الإناث، اختلفت F0 وintensity وHNR وCPPS، وكانت HNR وCPPS من أوضح المقاييس التي فرقت بين الأصوات المرضية والطبيعية. كذلك كانت F0 وHNR أعلى في مجموعة nodules مقارنةً بمجموعة polyps. أما لدى الذكور، فارتبطت polyps بزيادة jitter وshimmer وبانخفاض HNR وCPPS مقارنةً بالأصحاء، بينما لم يظهر فرق دال في F0. لدى الإناث، لم تصل الفروق الزوجية في jitter إلى الدلالة الإحصائية، رغم ارتفاع متوسطها، بسبب التباين الكبير.\n\nما الذي تعنيه النتائج للممارسة؟ لا ينبغي اعتبار acoustic analysis بديلًا عن laryngoscopy أو videostroboscopy، إذ يظل التشخيص قائمًا أساسًا على الفحص. لكنها قد توفر قياسات موضوعية مكملة لتوصيف أثر الآفة على الصوت، ولمتابعة التغير بمرور الوقت أو بعد العلاج. وتلفت الدراسة الانتباه إلى احتمال اختلاف الأنماط بحسب sex، وإلى قيمة HNR وCPPS مقارنة بالاعتماد على F0 وحده.\n\nتظل الأدلة محدودة بتصميم مقطعي وبعينة متوسطة، كما أن اختلاف القياسات لا يثبت قدرتها على تشخيص نوع الآفة لدى مريض بعينه. لذلك فالتقييم السريري لا يتغير اليوم، لكن النتائج مفيدة لمناقشتها في journal club، وتدعم دراسات أكبر تتحقق من دقة القياسات وقابليتها للتكرار، وتختبر فائدتها في التفريق بين lesions ومتابعة الاستجابة للعلاج.",
+      "audio_script_en": "Today we review a study comparing acoustic voice characteristics in adults with vocal nodules or vocal polyps against normal controls, with results stratified by sex. This prospective cross-sectional study included 131 participants: 34 with nodules, 36 with polyps, and 61 controls. Participants sustained the vowel /a/, and recordings were analyzed using Vaghmi Voice Analysis Software and PRAAT.\n\nThe groups differed in acoustic parameters. In females, F0, intensity, HNR, and CPPS varied across groups, with HNR and CPPS among the clearest measures distinguishing pathological from normal voices. F0 and HNR were also higher in the nodule group than in the polyp group. In males, polyps were associated with increased jitter and shimmer and lower HNR and CPPS compared with controls, while F0 did not differ significantly. Female jitter was elevated on average but did not show significant pairwise differences, likely because of high variability.\n\nWhat does this mean for practice? Acoustic analysis should not replace laryngoscopy or videostroboscopy, which remain central to diagnosis. It may, however, provide complementary objective measures of the functional voice consequences of a lesion and help track changes over time or after treatment. The study also highlights possible sex-related differences and the potential value of HNR and CPPS beyond relying on F0 alone.\n\nThe evidence is limited by the cross-sectional design and moderate sample size, and group-level differences do not prove that these measures can diagnose a lesion type in an individual patient. Clinical assessment does not change today, but the findings are useful for journal club discussion and support larger studies validating measurement accuracy and repeatability, as well as testing the measures’ ability to distinguish lesions and monitor treatment response.",
+      "mcq": [
+        {
+          "q_ar": "أي مقياسين أظهرا أوضح اختلاف بين الأصوات المرضية والطبيعية، وفقًا للملخص؟",
+          "q_en": "Which two measures showed the clearest differences between pathological and normal voices in the abstract?",
+          "options_ar": [
+            "أ) F0 وintensity",
+            "ب) HNR وCPPS",
+            "ج) jitter وF0",
+            "د) shimmer وintensity"
+          ],
+          "options_en": [
+            "A) F0 and intensity",
+            "B) HNR and CPPS",
+            "C) Jitter and F0",
+            "D) Shimmer and intensity"
+          ],
+          "answer": 1,
+          "explanation_ar": "أشار الملخص إلى أن HNR وCPPS أظهرا أكبر الفروق الملحوظة، خصوصًا بين الأصوات المرضية والطبيعية.",
+          "explanation_en": "The abstract identifies HNR and CPPS as showing the largest observed differences, particularly between pathological and normal voices."
+        },
+        {
+          "q_ar": "ما النمط الذي وُجد لدى الذكور المصابين بـ vocal polyps مقارنةً بالأصحاء؟",
+          "q_en": "Which pattern was observed in males with vocal polyps compared with controls?",
+          "options_ar": [
+            "أ) ارتفاع jitter وshimmer وانخفاض HNR وCPPS",
+            "ب) انخفاض jitter وshimmer وارتفاع HNR وCPPS",
+            "ج) ارتفاع F0 دون تغير المقاييس الأخرى",
+            "د) عدم وجود فروق في أي acoustic measures"
+          ],
+          "options_en": [
+            "A) Increased jitter and shimmer and reduced HNR and CPPS",
+            "B) Reduced jitter and shimmer and increased HNR and CPPS",
+            "C) Increased F0 with no change in other measures",
+            "D) No differences in any acoustic measures"
+          ],
+          "answer": 0,
+          "explanation_ar": "لدى الذكور، ارتبطت vocal polyps بارتفاع jitter وshimmer وانخفاض HNR وCPPS، ولم يختلف F0 دالًا.",
+          "explanation_en": "In males, vocal polyps were associated with increased jitter and shimmer and reduced HNR and CPPS; F0 did not differ significantly."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن دور acoustic analysis في التقييم السريري؟",
+          "q_en": "What is the most appropriate conclusion about the role of acoustic analysis in clinical assessment?",
+          "options_ar": [
+            "أ) يحل محل laryngoscopy وvideostroboscopy",
+            "ب) يشخص نوع الآفة بمفرده وبشكل حاسم",
+            "ج) يمكن أن يكمل التقييم السريري، لكنه لا يحل محل الفحص",
+            "د) لا يقدم أي فائدة سريرية محتملة"
+          ],
+          "options_en": [
+            "A) It replaces laryngoscopy and videostroboscopy",
+            "B) It definitively diagnoses lesion type on its own",
+            "C) It may complement clinical assessment but does not replace examination",
+            "D) It has no potential clinical value"
+          ],
+          "answer": 2,
+          "explanation_ar": "تُعد acoustic measures أدوات متممة لتوصيف الأثر الوظيفي ومتابعته، بينما يعتمد التشخيص أساسًا على laryngoscopy وvideostroboscopy.",
+          "explanation_en": "Acoustic measures can complement assessment of functional impact and follow-up, while diagnosis relies primarily on laryngoscopy and videostroboscopy."
+        }
+      ]
+    },
+    {
+      "pmid": "43024870",
+      "title_ar": "Long-term disease control in Knosp grade 4 Cushing's disease using maximal safe resection and early adjuvant radiotherapy.",
+      "title_en": "Long-term disease control in Knosp grade 4 Cushing's disease using maximal safe resection and early adjuvant radiotherapy.",
+      "journal": "Journal of neurosurgery",
+      "pub_date": "2026-Nov-13",
+      "doi": "10.3171/2026.8.JNS261221",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43024870/",
+      "pdf_url": null,
+      "study_design": "Retrospective case series n=30",
+      "summary_ar": "قيّمت هذه الدراسة retrospective case series نتائج استراتيجية maximal safe resection مع early adjuvant radiotherapy لدى 30 مريضًا لديهم Knosp grade 4 Cushing's disease، بمتوسط متابعة 70.5 شهرًا. تحقق endocrine and radiological disease control لدى 26 مريضًا (87%). حدث tumor progression لدى أربعة مرضى، وكان لدى جميعهم persistent hypercortisolism، وتوفي ثلاثة منهم لاحقًا لأسباب مرتبطة بالمرض. ارتبط prior radiotherapy وارتفاع Ki-67 labeling index بنتائج أسوأ رغم multimodal treatment، بما في ذلك temozolomide. تحقّق durable endocrine control لدى جميع حالات Crooke cell adenoma. لم تُسجل ICA injury أو disabling cranial neuropathy ناتجة عن aggressive lateral cavernous sinus dissection؛ وتدعم النتائج تجنب dissection المفرط lateral to the ICA مع التخطيط لـearly adjuvant radiotherapy للمرض المتبقي.",
+      "summary_en": "This retrospective series assessed maximal safe resection followed by early adjuvant radiotherapy in 30 patients with Knosp grade 4 Cushing's disease. Mean follow-up was 70.5 months, and endocrine and radiological disease control was achieved in 26 patients (87%). Tumor progression occurred in four patients, all with persistent hypercortisolism; three later died of disease-related causes. Prior radiotherapy and an elevated Ki-67 labeling index were associated with poorer control despite multimodal treatment, including temozolomide. Durable endocrine control was achieved in all Crooke cell adenoma cases. No ICA injury or disabling cranial neuropathy was attributed to aggressive lateral cavernous sinus dissection, supporting a strategy that avoids excessive dissection beyond the ICA and plans early radiotherapy for residual disease.",
+      "practice_change_ar": "تدعم النتائج استخدام maximal safe resection مع early adjuvant radiotherapy للمرض المتبقي في cavernous sinus بدلًا من المخاطرة بـaggressive dissection lateral to the ICA، لكنها لا تثبت تفوق هذه الاستراتيجية.",
+      "practice_change_en": "The findings support maximal safe resection with early adjuvant radiotherapy for residual cavernous sinus disease rather than risking aggressive dissection lateral to the ICA, but do not establish this strategy as superior.",
+      "future_impact_ar": "قد تساعد دراسات متعددة المراكز ذات مقارنة مباشرة في تحديد توقيت radiotherapy والمرضى الأكثر استفادة من هذه الاستراتيجية.",
+      "future_impact_en": "Multicenter comparative studies could clarify radiotherapy timing and identify which patients benefit most from this strategy.",
+      "why_important_ar": "تتناول الدراسة موازنة صعبة بين السيطرة على hypercortisolism وخطر morbidity الوعائية والعصبية في Knosp grade 4 disease.",
+      "why_important_en": "The study addresses the difficult balance between controlling hypercortisolism and avoiding vascular or neurological morbidity in Knosp grade 4 disease.",
+      "vs_previous_ar": "على خلاف التقارير الأوسع عن Cushing's disease، تركز هذه الدراسة على Knosp grade 4 وتعرض نتائج استراتيجية مخططة لتجنب aggressive lateral cavernous sinus dissection مع معالجة البقايا مبكرًا.",
+      "vs_previous_en": "Unlike broader Cushing's disease reports, this study focuses on Knosp grade 4 and reports outcomes with a planned strategy that avoids aggressive lateral cavernous sinus dissection and treats residual disease early.",
+      "stars": 3,
+      "stars_reason_ar": "ثلاث نجوم: retrospective case series صغيرة نسبيًا (n=30) من دون مجموعة مقارنة؛ تقدم معلومات سريرية مفيدة عن حالة نادرة عالية الخطورة، لكن الدليل لا يكفي لتغيير الممارسة بصورة حاسمة.",
+      "stars_reason_en": "Three stars: this relatively small retrospective case series (n=30) has no comparator. It offers useful clinical information about a rare, high-risk condition, but the evidence is insufficient for a definitive practice change.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This is suitable for journal club because Knosp grade 4 Cushing's disease is rare, management requires balancing maximal safe resection against aggressive cavernous sinus dissection, and the conclusions warrant scrutiny given the retrospective, noncomparative design.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تلزم دراسات مقارنة متعددة المراكز لتقييم توقيت radiotherapy ونتائجها طويلة الأمد مقارنة باستراتيجيات علاجية بديلة، مع ضبط عوامل الخطورة مثل prior radiotherapy وKi-67.",
+      "research_gap_en": "Multicenter comparative studies are needed to assess radiotherapy timing and long-term outcomes against alternative strategies while accounting for risk factors such as prior radiotherapy and Ki-67.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نناقش اليوم دراسة عن Knosp grade 4 Cushing's disease، وهي حالة نادرة وصعبة بسبب امتداد الورم إلى cavernous sinus lateral to the ICA. السؤال العملي هو: هل ينبغي السعي إلى إزالة جراحية كاملة مهما ارتفعت المخاطر، أم تحقيق maximal safe resection ثم معالجة الورم المتبقي؟\n\nراجع الباحثون، بأثر رجعي، 30 مريضًا عولجوا بين عامي 2009 و2025. اعتمد النهج على maximal safe resection مع تجنب aggressive dissection lateral to the ICA، واستخدام early adjuvant radiotherapy للمرض المتبقي في cavernous sinus. بلغ متوسط المتابعة 70.5 شهرًا، وتحقق endocrine and radiological disease control لدى 26 مريضًا، أي 87%. في المقابل، حدث progression لدى أربعة مرضى، وكان لديهم جميعًا persistent hypercortisolism؛ وتوفي ثلاثة منهم لأسباب مرتبطة بالمرض.\n\nارتبط prior radiotherapy وارتفاع Ki-67 بنتائج أسوأ رغم multimodal treatment، بما في ذلك temozolomide. ومن النتائج اللافتة تحقيق durable endocrine control في جميع حالات Crooke cell adenoma. كما لم تُسجل ICA injury أو disabling cranial neuropathy ناتجة عن aggressive lateral dissection. لكن غياب هذه المضاعفات في سلسلة صغيرة لا يثبت انعدام الخطر.\n\nما الذي تعنيه النتائج للممارسة؟ إنها تدعم التفكير في maximal safe resection مع تخطيط مبكر لـradiotherapy عند وجود residual lateral cavernous sinus disease، بدلًا من تعريض المريض لمخاطر تشريح مفرط قرب ICA. لكنها لا تثبت أن هذا النهج أفضل من البدائل، لأن الدراسة retrospective وغير مقارنة، وعدد المرضى محدود. لذلك فالثقة متوسطة، والنتيجة مفيدة للتخطيط والنقاش متعدد التخصصات، لا لتغيير الممارسة بصورة قاطعة.\n\nتستحق الدراسة النقاش في journal club بسبب ندرة الحالة وارتفاع عواقب persistent hypercortisolism. وتبقى الحاجة إلى دراسات متعددة المراكز تقارن توقيت radiotherapy والنتائج بعيدة المدى، مع مراعاة prior radiotherapy وKi-67.",
+      "audio_script_en": "Today we are reviewing a study of Knosp grade 4 Cushing's disease, a rare and difficult condition in which tumor extends into the cavernous sinus lateral to the ICA. The practical question is whether surgeons should pursue complete removal despite the risks, or perform maximal safe resection and treat residual disease afterward.\n\nThe authors retrospectively reviewed 30 patients treated between 2009 and 2025. Their strategy prioritized maximal safe resection, avoided aggressive dissection lateral to the ICA, and used early adjuvant radiotherapy for residual cavernous sinus disease. Mean follow-up was 70.5 months. Endocrine and radiological disease control was achieved in 26 patients, or 87%. Four patients experienced tumor progression; all had persistent hypercortisolism, and three subsequently died of disease-related causes.\n\nPrior radiotherapy and an elevated Ki-67 labeling index were associated with poorer disease control despite multimodal treatment, including temozolomide. Durable endocrine control was reported in all Crooke cell adenoma cases. The series also reported no ICA injury or disabling cranial neuropathy attributed to aggressive lateral dissection. However, the absence of these complications in a small series does not establish that the risk is zero.\n\nFor current practice, these findings support considering maximal safe resection with early radiotherapy for residual lateral cavernous sinus disease, rather than risking extensive dissection near the ICA. They do not prove that this approach is superior to alternatives: the study is retrospective, has no comparison group, and includes only 30 patients. Confidence is therefore moderate. The results can inform planning and multidisciplinary discussion, but are not sufficient to mandate a practice change.\n\nThis article merits journal-club discussion because the condition is rare and persistent hypercortisolism has serious consequences. Larger multicenter comparative studies are needed to clarify radiotherapy timing and long-term outcomes, while accounting for factors such as prior radiotherapy and Ki-67.",
+      "mcq": [
+        {
+          "q_ar": "ما الاستراتيجية العلاجية التي قيّمتها الدراسة لدى مرضى Knosp grade 4 Cushing's disease؟",
+          "q_en": "Which treatment strategy did the study evaluate in patients with Knosp grade 4 Cushing's disease?",
+          "options_ar": [
+            "أ) aggressive cavernous sinus dissection مع تجنب radiotherapy",
+            "ب) maximal safe resection مع early adjuvant radiotherapy للمرض المتبقي",
+            "ج) temozolomide وحده من دون جراحة",
+            "د) المراقبة بالتصوير من دون علاج"
+          ],
+          "options_en": [
+            "A) Aggressive cavernous sinus dissection while avoiding radiotherapy",
+            "B) Maximal safe resection with early adjuvant radiotherapy for residual disease",
+            "C) Temozolomide alone without surgery",
+            "D) Imaging surveillance without treatment"
+          ],
+          "answer": 1,
+          "explanation_ar": "أعطت الاستراتيجية الأولوية لـmaximal safe resection، مع تجنب aggressive dissection lateral to the ICA واستخدام early adjuvant radiotherapy للمرض المتبقي.",
+          "explanation_en": "The strategy prioritized maximal safe resection, avoided aggressive dissection lateral to the ICA, and used early adjuvant radiotherapy for residual disease."
+        },
+        {
+          "q_ar": "كم مريضًا حقق endocrine and radiological disease control؟",
+          "q_en": "How many patients achieved endocrine and radiological disease control?",
+          "options_ar": [
+            "أ) 4 من 30",
+            "ب) 20 من 30",
+            "ج) 26 من 30",
+            "د) 30 من 30"
+          ],
+          "options_en": [
+            "A) 4 of 30",
+            "B) 20 of 30",
+            "C) 26 of 30",
+            "D) 30 of 30"
+          ],
+          "answer": 2,
+          "explanation_ar": "تحقق disease control لدى 26 من أصل 30 مريضًا، أي 87%، خلال متوسط متابعة بلغ 70.5 شهرًا.",
+          "explanation_en": "Disease control was achieved in 26 of 30 patients, or 87%, during a mean follow-up of 70.5 months."
+        },
+        {
+          "q_ar": "ما أبرز قيد منهجي يحد من قوة الاستنتاجات؟",
+          "q_en": "What is the key methodological limitation that limits the strength of the conclusions?",
+          "options_ar": [
+            "أ) الدراسة animal study",
+            "ب) الدراسة retrospective series صغيرة من دون مجموعة مقارنة",
+            "ج) عدم وجود متابعة سريرية",
+            "د) عدم تسجيل أي نتائج endocrinological"
+          ],
+          "options_en": [
+            "A) It is an animal study",
+            "B) It is a small retrospective series without a comparator",
+            "C) It has no clinical follow-up",
+            "D) It reports no endocrinological outcomes"
+          ],
+          "answer": 1,
+          "explanation_ar": "الدراسة retrospective وشملت 30 مريضًا فقط ولم تتضمن مجموعة مقارنة، لذلك تدعم النتائج استراتيجية علاجية لكنها لا تثبت تفوقها.",
+          "explanation_en": "The study was retrospective, included only 30 patients, and had no comparator, so it supports consideration of the strategy but does not establish its superiority."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026111501",
+      "title_ar": "ميدترونيك وكارل ستورتز تتعاونان لتطوير حلول جراحية متكاملة للأنف والأذن والحنجرة",
+      "title_en": "Medtronic and Karl Storz Collaborate on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-15",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أعلنت شركتا ميدترونيك وكارل ستورتز تعاونهما بشأن حلول جراحية متكاملة في مجال الأنف والأذن والحنجرة. ويحدد الخبر الشركتين والهدف العام للتعاون، لكنه لا يوضح التقنيات المعنية أو موعد طرحها أو الشروط التجارية. ولا تتضمن المعلومات المتاحة إعلاناً عن قرار تنظيمي أو استحواذ أو أثر مالي.",
+      "summary_en": "Medtronic and Karl Storz have announced a collaboration focused on integrated surgical solutions for ENT. The headline identifies the companies and the broad aim of the partnership, but the provided news item does not specify the technologies involved, launch timing, or commercial terms. No regulatory decision, acquisition, or financial impact is reported in the available information.",
+      "practice_change_ar": "ينبغي لجراحي الأنف والأذن والحنجرة متابعة التفاصيل اللاحقة بشأن الأجهزة أو مسارات العمل التي ستُدمج قبل استنتاج أي أثر على الممارسة في غرفة العمليات.",
+      "practice_change_en": "ENT surgeons should watch for further details on which devices or workflows will be integrated before drawing conclusions about effects on operating-room practice.",
+      "future_impact_ar": "قد يشير هذا التعاون إلى توجه أوسع في القطاع لربط تقنيات جراحة الأنف والأذن والحنجرة، وستعتمد أهميته على المنتجات والأدلة التي ستظهر لاحقاً.",
+      "future_impact_en": "The collaboration may signal a broader industry effort to connect ENT surgical technologies, with its significance depending on the products and evidence that emerge.",
+      "why_important_ar": "قد يؤثر دمج منصات التقنيات الجراحية بصورة أوثق في سير العمل واختيار المعدات مستقبلاً، لكن الدلالات السريرية لم تتضح بعد.",
+      "why_important_en": "Closer integration between surgical technology platforms could eventually affect workflow and equipment choices, but the clinical implications are not yet clear.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "تعاون صناعي قد يؤثر مستقبلاً في تكامل التقنيات، لكن التفاصيل والأثر السريري غير معلنين.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "في خبر يهم قطاع الأنف والأذن والحنجرة، أعلنت ميدترونيك وكارل ستورتز عن تعاون يركز على حلول جراحية متكاملة. وقد يتيح هذا النوع من التعاون، من حيث المبدأ، ربط تقنيات أو أدوات جراحية مختلفة وتحسين تنسيقها. لكن المعلومات المنشورة في الخبر المتاح لا تحدد الأجهزة المعنية، ولا موعد طرح أي حلول، ولا توضح الشروط التجارية أو النتائج السريرية. لذلك لا يمكن حالياً الحكم على ما إذا كان التعاون سيغير سير العمل في غرفة العمليات أو يؤثر في اختيار المعدات. بالنسبة إلى الجراحين، الأهم هو متابعة الإعلانات اللاحقة عن المنتجات والتوافق بينها وأي بيانات سريرية أو تنظيمية. حتى تتوفر هذه التفاصيل، يُعد الخبر تطوراً تجارياً يستحق المتابعة، وليس تغييراً مباشراً في الممارسة السريرية.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026111502",
+      "title_ar": "شركات رائدة في طب الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية",
+      "title_en": "Leading ENT Companies Driving Medical Technology Innovation",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-15",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "يتناول عنوان المقال، المنشور في SNS Insider، شركات تسهم في الابتكار التكنولوجي الطبي في طب الأنف والأذن والحنجرة. ولا يحدد الخبر المتاح أسماء الشركات أو التقنيات أو التطورات التي يناقشها المقال. كما لا يذكر أي استحواذ أو دعوى قضائية أو تحرك في الأسهم أو قرار تنظيمي. ويلزم الاطلاع على تفاصيل إضافية لتقييم شركة أو منتج بعينه.",
+      "summary_en": "The headline describes an SNS Insider article about companies contributing to medical technology innovation in otolaryngology. The provided news item does not identify the companies, technologies, or specific developments discussed. It also reports no acquisition, lawsuit, stock movement, or regulatory decision. Further details would be needed to assess any particular company or product.",
+      "practice_change_ar": "لا يمكن استنتاج تغيير فوري في الممارسة السريرية، إذ لا يتضمن الخبر تفاصيل عن تقنيات محددة أو أدلة داعمة.",
+      "practice_change_en": "No immediate change to clinical practice can be inferred because the item provides no details about specific technologies or evidence.",
+      "future_impact_ar": "قد يفضي هذا التوجه العام إلى أدوات جديدة في طب الأنف والأذن والحنجرة، لكن أثره العملي سيتوقف على التقنيات المحددة والتحقق من فعاليتها ومدى اعتمادها.",
+      "future_impact_en": "The broader trend may bring new tools to ENT, but its practical impact will depend on the specific technologies, validation, and adoption described in the full article.",
+      "why_important_ar": "قد يؤثر الابتكار التكنولوجي في تشخيص أمراض الأنف والأذن والحنجرة وعلاجها مستقبلًا، لكن هذا الخبر الموجز لا يقدم بيانات عن منتجات أو أدلة سريرية تساعد في اتخاذ القرارات.",
+      "why_important_en": "Technology innovation may affect future ENT diagnosis and treatment, but this brief item offers no product-level or clinical evidence to guide decisions.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "الأهمية محدودة لأن الخبر لا يقدم تفاصيل عن تطور محدد أو أثر سريري.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "يتناول عنوان خبر من SNS Insider شركات رائدة تسهم في الابتكار التكنولوجي الطبي في مجال الأنف والأذن والحنجرة. لكن المعلومات المتاحة تقتصر على العنوان، ولا تحدد الشركات أو التقنيات أو المنتجات التي يناقشها المقال. كذلك لا يورد الخبر إعلانًا عن استحواذ أو دعوى قضائية أو قرار من إدارة الغذاء والدواء أو تطورًا سريريًا محددًا. لذلك لا يمكن استخلاص أثر مباشر على اختيار العلاج أو سير العمل في العيادة. يظل الابتكار التقني اتجاهًا مهمًا للتخصص، لكن تقييم أي أداة جديدة يتطلب معرفة بياناتها السريرية، وسلامتها، وتكلفتها، ومدى توافرها. ينبغي الاطلاع على المقال الكامل للحصول على هذه التفاصيل قبل اعتبار الخبر ذا دلالة عملية.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026111503",
+      "title_ar": "تقرير حجم سوق أجهزة الأنف والأذن والحنجرة وحصته ونموه حتى عام 2034",
+      "title_en": "ENT Devices Market Size, Share and Growth Report Through 2034",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-15",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت Fortune Business Insights تقريرًا عن سوق أجهزة الأنف والأذن والحنجرة، يتناول حجم السوق وحصته ونموه حتى عام 2034. ولا يتضمن الخبر المتاح أرقامًا محددة للسوق أو توقعات كمية أو نتائج مفصلة بحسب فئات الأجهزة. ويُعد هذا تقريرًا لأبحاث السوق، وليس إعلانًا عن استحواذ أو قرار تنظيمي أو دراسة سريرية.",
+      "summary_en": "Fortune Business Insights has published a report on the ENT devices market, covering market size, share and growth through 2034. The available news item does not provide specific market figures, forecasts, or device-category findings. It is a market research report, not an announcement of an acquisition, regulatory decision, or clinical study.",
+      "practice_change_ar": "لا يذكر التقرير تغييرًا في الممارسة السريرية، لكن توقعاته السوقية قد توفر سياقًا عامًا للجراحين عند تقييم خيارات الأجهزة واتجاهات القطاع.",
+      "practice_change_en": "The report does not describe a change to clinical practice, though its market outlook may provide general context for surgeons evaluating device options and industry trends.",
+      "future_impact_ar": "قد يساعد التقرير في تكوين تصور عام عن قطاع أجهزة الأنف والأذن والحنجرة حتى عام 2034، لكن فائدته العملية تعتمد على البيانات والافتراضات الواردة في التقرير الكامل.",
+      "future_impact_en": "The report may inform broader expectations about the ENT device sector through 2034, but its practical relevance will depend on the detailed data and assumptions in the full report.",
+      "why_important_ar": "قد تساعد توقعات السوق على فهم توجهات الاستثمار والابتكار في أجهزة الأنف والأذن والحنجرة، لكن الخبر لا يقدم نتائج محددة يمكن الاستناد إليها في القرارات السريرية.",
+      "why_important_en": "Market forecasts can help contextualize investment and innovation in ENT devices, but the item provides no specific findings that support clinical decisions.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "أهمية محدودة للجراحين؛ فالخبر يعلن عن تقرير سوقي ولا يعرض أرقامًا أو نتائج سريرية محددة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أعلنت مؤسسة Fortune Business Insights عن تقرير يتناول حجم سوق أجهزة الأنف والأذن والحنجرة وحصته واتجاهات نموه حتى عام 2034. لكن الخبر المتاح لا يورد أرقامًا للتوقعات، ولا يوضح الأجهزة أو الفئات التي يُتوقع أن تقود النمو. لذلك ينبغي التعامل معه بوصفه خبرًا عن أبحاث السوق، لا دليلًا على تغيير وشيك في الممارسة السريرية أو على قرار تنظيمي. قد يكون التقرير مفيدًا لفهم الصورة العامة للقطاع واتجاهات الاستثمار والابتكار، لكن تقييم أهميته يتطلب الاطلاع على التقرير الكامل ومنهجيته وافتراضاته. وبالنسبة إلى جراحي الأنف والأذن والحنجرة، لا توجد في الخبر الحالي توصية عملية أو معلومة سريرية جديدة تستدعي تغيير اختيار الأجهزة أو أساليب العلاج.",
+      "mcq": []
+    }
+  ]
+}
