@@ -1,0 +1,883 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T11:04:15Z",
+  "articles": [
+    {
+      "pmid": "43026353",
+      "title_ar": "Diagnosis and management of benign vocal fold lesions in children: a systematic review.",
+      "title_en": "Diagnosis and management of benign vocal fold lesions in children: a systematic review.",
+      "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+      "pub_date": "2026-Nov-14",
+      "doi": "10.1007/s00405-026-10823-7",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43026353/",
+      "pdf_url": null,
+      "study_design": "Systematic review of 10 studies (n=559)",
+      "summary_ar": "راجعت هذه systematic review عشر دراسات شملت 559 طفلًا لديهم benign vocal fold lesions، وكانت vocal fold nodules تمثل 86.7% من الحالات. كان flexible laryngoscopy أداة التشخيص الأكثر استخدامًا. تلقى 88.0% من الأطفال علاجًا تحفظيًا، مع معدلات تحسن بين 75.5% و87.5%، دون تسجيل مضاعفات في هذه الدراسات. خضع 12.0% للجراحة، وبلغت معدلات التحسن 79.2% إلى 100%، بينما أبلغت دراسة واحدة عن مضاعفات بعد الجراحة لدى 20% من المرضى. لم تكن مؤشرات الجراحة موحدة، وكان median follow-up قصيرًا، إذ بلغ 4.5 أشهر. تدعم النتائج behavioral voice therapy كخيار أول، مع حصر الجراحة في الحالات structural أو refractory واختيار المرضى بعناية.",
+      "summary_en": "This systematic review included 10 studies and 559 children with benign vocal fold lesions; vocal fold nodules accounted for 86.7% of lesions. Flexible laryngoscopy was the most commonly reported diagnostic tool. Conservative treatment was used in 88.0% of patients, with improvement rates of 75.5%–87.5% and no reported complications. Surgery was performed in 12.0%, with improvement rates of 79.2%–100%; one study reported postoperative complications in 20% of patients. Surgical indications were not standardized, and median follow-up was only 4.5 months. The findings support behavioral voice therapy as first-line treatment and reserve surgery for carefully selected structural or refractory lesions.",
+      "practice_change_ar": "استمر في تقديم behavioral voice therapy كعلاج أولي للأطفال، وفكّر في الجراحة فقط للحالات structural أو refractory بعد اختيار دقيق للمريض.",
+      "practice_change_en": "Continue to use behavioral voice therapy as first-line treatment in children, considering surgery only for carefully selected structural or refractory lesions.",
+      "future_impact_ar": "قد تساعد دراسات prospective متعددة المراكز ذات مؤشرات جراحية ومقاييس نتائج موحدة ومتابعة طويلة الأمد على تحديد أفضل توقيت للجراحة.",
+      "future_impact_en": "Prospective multicenter studies with standardized surgical indications, outcome measures, and long-term follow-up may clarify the optimal role and timing of surgery.",
+      "why_important_ar": "تلخص هذه المراجعة نتائج العلاج المتاحة وتبرز محدودية الأدلة المتعلقة بمخاطر الجراحة ومؤشراتها لدى الأطفال.",
+      "why_important_en": "This review summarizes available treatment outcomes while highlighting important uncertainty about surgical indications and risks in children.",
+      "vs_previous_ar": "تجمع المراجعة الأدلة المتفرقة، لكنها لا تغير الممارسة الراسخة التي تفضل العلاج التحفظي ولا تقدم معايير موحدة للجراحة.",
+      "vs_previous_en": "The review consolidates scattered evidence but does not overturn the established preference for conservative care or provide standardized surgical criteria.",
+      "stars": 4,
+      "stars_reason_ar": "مراجعة systematic review قوية التصميم نسبيًا وتشمل 559 طفلًا، وتدعم نهجًا علاجيًا مفيدًا سريريًا؛ لكن تغاير الدراسات وقصر المتابعة وغياب مؤشرات جراحية موحدة تحد من قوة الاستنتاجات.",
+      "stars_reason_en": "A systematic review with a substantial pediatric sample provides clinically useful support for conservative care, but heterogeneity, short follow-up, and nonstandardized surgical indications limit certainty.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسبة للنقاش لأنها تلخص نتائج العلاج لدى الأطفال وتتيح مراجعة كيفية موازنة التحسن المحتمل من الجراحة مع خطر المضاعفات ونقص المتابعة طويلة الأمد.",
+      "jc_reason_en": "This is a useful journal-club article for discussing pediatric treatment outcomes and weighing potential surgical benefit against complications and limited long-term evidence.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى دراسات prospective متعددة المراكز تستخدم مؤشرات جراحية ومقاييس نتائج موحدة وتوفر متابعة طويلة الأمد.",
+      "research_gap_en": "Prospective multicenter studies are needed with standardized surgical indications, outcome measures, and long-term follow-up.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تتناول هذه المراجعة المنهجية تشخيص وعلاج benign vocal fold lesions لدى الأطفال، وهي أسباب شائعة لـ chronic dysphonia. شملت المراجعة عشر دراسات و559 طفلًا، وكانت vocal fold nodules أكثر الآفات شيوعًا، إذ شكلت 86.7% من الحالات. استخدمت معظم الدراسات flexible laryngoscopy للتشخيص.\n\nكان العلاج التحفظي هو النهج الأكثر شيوعًا، واستُخدم لدى 88% من الأطفال. تراوحت معدلات التحسن المبلغ عنها بين 75.5% و87.5%، ولم تُسجل مضاعفات مرتبطة بهذا النهج في الدراسات المشمولة. لذلك تدعم النتائج استمرار behavioral voice therapy كخيار أول، مع مناقشة التدخلات التحفظية المناسبة لكل طفل.\n\nخضع 12% من الأطفال للجراحة، وبلغ التحسن المبلغ عنه 79.2% إلى 100%. لكن هذه الأرقام تحتاج إلى تفسير حذر: دراسة واحدة أبلغت عن مضاعفات بعد الجراحة لدى 20% من المرضى، ولم تكن مؤشرات الجراحة موحدة بين الدراسات. كما كان median follow-up أربعة أشهر ونصف فقط، ما يحد من قدرتنا على تقييم الاستدامة والآثار المتأخرة.\n\nالخلاصة العملية هي أن الجراحة خيار ثانوي للحالات structural أو refractory، وليست بديلًا روتينيًا للعلاج التحفظي. ينبغي اختيار المرضى بعناية وموازنة الفائدة المحتملة مع خطر الضرر الدائم لـ vocal fold. هذه مراجعة منهجية ذات قيمة سريرية، لكنها لا تغير الممارسة الحالية ولا تقدم دليلًا حاسمًا بسبب تغاير الدراسات وقصر المتابعة. تستحق القراءة والنقاش في journal club، خصوصًا عند وضع قرارات الجراحة. الأولوية البحثية هي إجراء دراسات prospective متعددة المراكز بمؤشرات جراحية ومقاييس نتائج موحدة ومتابعة طويلة الأمد.",
+      "audio_script_en": "This systematic review examines diagnosis and management of benign vocal fold lesions in children, a common cause of chronic dysphonia. It included 10 studies and 559 children. Vocal fold nodules accounted for 86.7% of lesions, and flexible laryngoscopy was the most commonly used diagnostic tool.\n\nConservative management was used in 88% of patients. Reported improvement rates ranged from 75.5% to 87.5%, with no complications reported for conservative treatment in the included studies. These findings support behavioral voice therapy as first-line management, alongside appropriate individualized conservative care.\n\nSurgery was performed in 12% of children, with reported improvement rates from 79.2% to 100%. Those figures should be interpreted cautiously: one study reported postoperative complications in 20% of patients, surgical indications were not standardized, and median follow-up was only four and a half months. The available evidence therefore does not establish the long-term durability or risks of surgery with confidence.\n\nThe practical takeaway is to reserve surgery as a secondary option for structural or refractory lesions and select patients carefully, weighing possible benefit against the risk of permanent vocal fold damage. This is a clinically useful systematic review, but it does not change current practice or provide definitive surgical criteria because the evidence is heterogeneous and follow-up is limited. It is well suited to journal-club discussion, particularly around surgical decision-making. Future prospective multicenter research should standardize surgical indications and outcome measures and include long-term follow-up.",
+      "mcq": [
+        {
+          "q_ar": "ما أكثر أنواع benign vocal fold lesions شيوعًا في الدراسات المشمولة؟",
+          "q_en": "Which benign vocal fold lesion was most common in the included studies?",
+          "options_ar": [
+            "أ) Vocal fold nodules",
+            "ب) Vocal fold cysts",
+            "ج) Vocal fold polyps",
+            "د) Papillomas"
+          ],
+          "options_en": [
+            "A) Vocal fold nodules",
+            "B) Vocal fold cysts",
+            "C) Vocal fold polyps",
+            "D) Papillomas"
+          ],
+          "answer": 0,
+          "explanation_ar": "شكلت vocal fold nodules نسبة 86.7% من الآفات المشمولة.",
+          "explanation_en": "Vocal fold nodules accounted for 86.7% of lesions in the review."
+        },
+        {
+          "q_ar": "ما العلاج الذي تدعمه المراجعة كخيار أول للأطفال المصابين بـ benign vocal fold lesions؟",
+          "q_en": "Which treatment does the review support as first-line for children with benign vocal fold lesions?",
+          "options_ar": [
+            "أ) الجراحة لجميع المرضى",
+            "ب) Behavioral voice therapy والعلاج التحفظي",
+            "ج) عدم تقديم علاج مع المتابعة فقط لكل الحالات",
+            "د) المضادات الحيوية"
+          ],
+          "options_en": [
+            "A) Surgery for all patients",
+            "B) Behavioral voice therapy and conservative management",
+            "C) Observation alone for every case",
+            "D) Antibiotics"
+          ],
+          "answer": 1,
+          "explanation_ar": "تدعم النتائج العلاج التحفظي، خصوصًا behavioral voice therapy، كنهج أول، مع حصر الجراحة لحالات مختارة.",
+          "explanation_en": "The findings support conservative management, primarily behavioral voice therapy, as first-line, reserving surgery for selected cases."
+        },
+        {
+          "q_ar": "ما أحد أبرز قيود الأدلة المتاحة حول الجراحة في هذه المراجعة؟",
+          "q_en": "What is a major limitation of the available surgical evidence in this review?",
+          "options_ar": [
+            "أ) لم تتضمن المراجعة أي أطفال",
+            "ب) كانت كل الدراسات RCTs مع متابعة طويلة",
+            "ج) لم تكن مؤشرات الجراحة موحدة وكانت المتابعة قصيرة",
+            "د) لم تُستخدم وسائل تشخيص بالمنظار"
+          ],
+          "options_en": [
+            "A) The review included no children",
+            "B) All studies were RCTs with long follow-up",
+            "C) Surgical indications were not standardized and follow-up was short",
+            "D) No endoscopic diagnostic methods were used"
+          ],
+          "answer": 2,
+          "explanation_ar": "لم توحد الدراسات مؤشرات الجراحة، وكان median follow-up أربعة أشهر ونصف فقط.",
+          "explanation_en": "Surgical indications varied across studies, and median follow-up was only 4.5 months."
+        }
+      ]
+    },
+    {
+      "pmid": "43026367",
+      "title_ar": "Intraoperative technology in skull base and vascular neurosurgery: a two-stage cross-sectional national survey.",
+      "title_en": "Intraoperative technology in skull base and vascular neurosurgery: a two-stage cross-sectional national survey.",
+      "journal": "Neurosurgical review",
+      "pub_date": "2026-Nov-14",
+      "doi": "10.1007/s10143-026-04580-8",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43026367/",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10143-026-04580-8.pdf",
+      "study_design": "Two-stage cross-sectional national survey; 24 responses from 20 UK and Ireland neurosurgical units",
+      "summary_ar": "هدفت هذه الدراسة إلى وصف استخدام intraoperative technology في جراحات skull base وvascular neurosurgery في UK وIreland. شمل الاستطلاع عمليتي transsphenoidal pituitary adenoma وretrosigmoid vestibular schwannoma، إضافة إلى pterional aneurysm surgery، وسجل تكرار الاستخدام بمقياس ترتيبي من أربع درجات. كان الاستخدام مرتبطًا بنوع العملية؛ فقد استُخدم neuronavigation غالبًا في transsphenoidal surgery، بينما حل endoscopy إلى حد كبير محل microscopy فيها، وظلت microscopy شائعة في العمليتين الأخريين. كان indocyanine green وmicro-Doppler شائعين في aneurysm surgery، وكان neurophysiological monitoring مستخدمًا لدى جميع المشاركين في vestibular schwannoma surgery، لكنه انقسم بالتساوي في aneurysm surgery. كان استخدام exoscope وintraoperative MRI وrobotics قليلًا أو معدومًا، ولم يظهر ارتباط واضح بين الخبرة وتكرار الاستخدام، مع التنبيه إلى أن الدراسة غير كافية إحصائيًا لهذا التحليل. توفر النتائج وصفًا مرجعيًا للاستخدام المبلغ عنه، لكن غياب بيانات توفر الأجهزة يمنع التمييز بين عدم الحاجة إليها وعدم إمكانية الوصول إليها.",
+      "summary_en": "This two-stage national survey described reported intraoperative technology use among neurosurgeons in the UK and Ireland. Respondents reported use across transsphenoidal pituitary adenoma, retrosigmoid vestibular schwannoma, and pterional aneurysm surgery. Technology use varied substantially by procedure: neuronavigation was common in transsphenoidal surgery, where endoscopy had largely displaced microscopy, while microscopy remained routine in the other procedures. Indocyanine green and micro-Doppler were commonly used for aneurysm surgery, and neurophysiological monitoring was universal for vestibular schwannoma surgery. Exoscopes, intraoperative MRI, and robotics were rarely or never used; the survey found no clear association between experience and use, though this analysis was underpowered. Because equipment availability was not recorded, reported non-use cannot be distinguished from lack of access.",
+      "practice_change_ar": "لا تبرر هذه النتائج تغيير الممارسة حاليًا، لكنها توضح أن اختيار التقنية ينبغي أن يرتبط بالعملية واحتياجاتها وأن عدم الاستخدام لا يثبت عدم الفائدة.",
+      "practice_change_en": "These findings do not justify changing practice today, but show that technology use is procedure-specific and that non-use does not establish lack of value.",
+      "future_impact_ar": "يمكن استخدام هذا المسح كخط أساس لمتابعة انتشار التقنيات الجديدة، مع ضرورة قياس توفر الأجهزة ونتائج المرضى في الدراسات المقبلة.",
+      "future_impact_en": "This survey can serve as a baseline for tracking adoption of newer technologies, while future studies should measure equipment availability and patient outcomes.",
+      "why_important_ar": "تقدم الدراسة صورة وطنية عن أنماط استخدام التقنيات داخل عمليات محددة، وهي معلومات لم تكن موصوفة بوضوح على هذا المستوى.",
+      "why_important_en": "The study provides a procedure-level national snapshot of technology use that has been poorly characterized.",
+      "vs_previous_ar": "بدلًا من تقييم فعالية تقنية بعينها أو تقديم توصيات إرشادية، تصف الدراسة الاستخدام المبلغ عنه عبر ثلاث عمليات وتبرز تفاوتًا مرتبطًا بنوع العملية.",
+      "vs_previous_en": "Rather than testing a specific technology or issuing recommendations, this study describes reported use across three operations and highlights procedure-specific variation.",
+      "stars": 3,
+      "stars_reason_ar": "مسح وطني مقطعي وصفي بحجم محدود، يقدم خط أساس مفيدًا عن استخدام التقنيات لكنه لا يقيس توفرها أو أثرها على النتائج، لذا لا يغير الممارسة مباشرة.",
+      "stars_reason_en": "A descriptive national cross-sectional survey with a limited response set provides a useful technology-use baseline but measures neither availability nor outcomes, so it does not directly change practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسب للنقاش حول كيفية فصل انتشار التقنية عن فعاليتها، وأثر توفر الأجهزة في تفسير الاستخدام المبلغ عنه.",
+      "jc_reason_en": "Useful for discussing how technology adoption differs from effectiveness and how equipment access affects interpretation of reported use.",
+      "watch": true,
+      "watch_detail_ar": "تستحق متابعة تقنيات exoscope وintraoperative MRI وrobotics وaugmented reality لمعرفة ما إذا كان استخدامها سيزداد مع تحسن التوفر وظهور بيانات النتائج.",
+      "watch_detail_en": "Track exoscopes, intraoperative MRI, robotics, and augmented reality to see whether use grows as access improves and outcome data emerge.",
+      "watch_type": "technology",
+      "research_gap_ar": "تحتاج الأبحاث المقبلة إلى تسجيل توفر كل جهاز، ومبررات اختياره، وربط استخدامه بنتائج المرضى والتكلفة.",
+      "research_gap_en": "Future research should record device availability and reasons for use, and link technology adoption to patient outcomes and costs.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نستعرض اليوم دراسة بعنوان: “Intraoperative technology in skull base and vascular neurosurgery: a two-stage cross-sectional national survey.” وهي مسح وطني مقطعي على مرحلتين أُجري بين جراحي الأعصاب في UK وIreland، بهدف وصف استخدام التقنيات أثناء العمليات. حلل الباحثون 24 استجابة من 20 وحدة، وشمل الاستطلاع ثلاث عمليات: transsphenoidal pituitary adenoma، وretrosigmoid vestibular schwannoma، وpterional aneurysm surgery.\n\nأهم ما توصلت إليه الدراسة أن استخدام التقنية يعتمد بشدة على نوع العملية. في transsphenoidal surgery، أبلغ المشاركون عن استخدام neuronavigation بصورة متكررة، كما يبدو أن endoscopy قد حل إلى حد كبير محل microscopy. في المقابل، كانت microscopy مستخدمة دائمًا أو غالبًا لدى جميع المشاركين في عمليتي retrosigmoid وpterional. وفي aneurysm surgery، كان استخدام indocyanine green وmicro-Doppler شائعًا. أما neurophysiological monitoring فكان مستخدمًا لدى جميع المشاركين في عمليات vestibular schwannoma، بينما انقسم الاستخدام بالتساوي تقريبًا في عمليات aneurysm.\n\nعلى الجانب الآخر، كان استخدام exoscopes وintraoperative MRI وrobotics قليلًا أو معدومًا، مع الإبلاغ عن augmented reality لدى بعض المشاركين في pterional surgery. لم يجد الباحثون ارتباطًا واضحًا بين الخبرة وتكرار الاستخدام، لكن التحليل كان محدود القدرة الإحصائية. كذلك لم يسجل الاستطلاع ما إذا كانت الأجهزة متاحة في الوحدات؛ لذلك لا يمكن معرفة ما إذا كان عدم الاستخدام يعكس قرارًا سريريًا أم نقصًا في الوصول.\n\nهذه الدراسة لا تثبت أن تقنية معينة تحسن النتائج، ولا تقدم سببًا لتغيير الممارسة اليوم. قيمتها أنها توفر خط أساس وطنيًا للاستخدام المبلغ عنه، وتبين أن التقنيات الراسخة ترتبط باحتياجات كل عملية. سريريًا، ينبغي عدم تفسير قلة استخدام تقنية حديثة على أنها دليل على عدم جدواها. مستقبلًا، يلزم ربط توفر الأجهزة واستخدامها بنتائج المرضى والتكلفة، ومتابعة انتشار exoscope وintraoperative MRI وrobotics وaugmented reality. الخلاصة: هذه بيانات مفيدة للنقاش والتخطيط، لكنها وصفية وليست دليلًا على الفعالية.",
+      "audio_script_en": "Today we are reviewing “Intraoperative technology in skull base and vascular neurosurgery: a two-stage cross-sectional national survey.” This national, two-stage cross-sectional survey asked neurosurgeons in the UK and Ireland how often they used intraoperative technologies. The analysis included 24 responses from 20 units and covered three operations: transsphenoidal pituitary adenoma, retrosigmoid vestibular schwannoma, and pterional aneurysm surgery.\n\nThe central finding is that technology use was strongly procedure-specific. In transsphenoidal surgery, respondents commonly reported neuronavigation, and endoscopy appeared to have largely displaced microscopy. By contrast, all respondents for retrosigmoid and pterional procedures reported using microscopy always or almost always. Indocyanine green and micro-Doppler were routine or commonly used in aneurysm surgery. Neurophysiological monitoring was universal among respondents for vestibular schwannoma surgery, but use was divided for aneurysm surgery.\n\nNewer technologies were less established. Exoscopes, intraoperative MRI, and robotics were used infrequently or not at all; augmented reality was reported by some respondents for pterional surgery. The survey found no clear relationship between experience and reported use, although the analysis was underpowered. Importantly, the investigators did not record whether equipment was available at each unit. Consequently, non-use could reflect lack of access rather than a clinical decision that the technology was unnecessary or ineffective.\n\nThis study does not show that any technology improves patient outcomes, and it does not support an immediate change in practice. Its contribution is a national baseline showing that established technologies cluster around the recurring needs of particular operations. Clinicians should therefore avoid treating low adoption as evidence that a technology lacks value. Future studies should document availability, reasons for use, patient outcomes, and costs, while tracking adoption of exoscopes, intraoperative MRI, robotics, and augmented reality. In short, this is useful descriptive evidence for discussion and planning, but not evidence of comparative effectiveness.",
+      "mcq": [
+        {
+          "q_ar": "ما النتيجة الأساسية المتعلقة باستخدام التقنيات في العمليات الثلاث؟",
+          "q_en": "What was the main finding about technology use across the three operations?",
+          "options_ar": [
+            "أ) كان الاستخدام متشابهًا في جميع العمليات",
+            "ب) اختلف الاستخدام بوضوح بحسب نوع العملية",
+            "ج) استُخدمت robotics بشكل روتيني في كل العمليات",
+            "د) ارتبط الاستخدام بقوة بسنوات الخبرة"
+          ],
+          "options_en": [
+            "A) Use was similar across all operations",
+            "B) Use varied substantially by procedure",
+            "C) Robotics was routinely used in every operation",
+            "D) Use was strongly associated with years of experience"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت الدراسة أن أنماط الاستخدام تختلف بحسب العملية؛ فالتقنيات الشائعة في عملية لم تكن بالضرورة شائعة في غيرها.",
+          "explanation_en": "Reported use differed by operation; technologies common in one procedure were not necessarily common in another."
+        },
+        {
+          "q_ar": "ما القيد الذي يمنع تفسير عدم استخدام تقنية على أنه عدم الحاجة إليها؟",
+          "q_en": "What limitation prevents interpreting non-use as lack of clinical need?",
+          "options_ar": [
+            "أ) لم تُسجل توفر الأجهزة في الوحدات",
+            "ب) لم تشمل الدراسة أي عمليات skull base",
+            "ج) قيس الاستخدام بمخرجات المرضى فقط",
+            "د) كانت الدراسة randomized"
+          ],
+          "options_en": [
+            "A) Equipment availability at units was not recorded",
+            "B) The study included no skull base operations",
+            "C) Use was measured only through patient outcomes",
+            "D) The study was randomized"
+          ],
+          "answer": 0,
+          "explanation_ar": "من دون معرفة توفر الأجهزة، لا يمكن التمييز بين عدم الاستخدام بسبب عدم الوصول وبين عدم اختيار التقنية سريريًا.",
+          "explanation_en": "Without availability data, the survey cannot distinguish lack of access from a clinical decision not to use a technology."
+        },
+        {
+          "q_ar": "أي التقنيات كانت شائعة في aneurysm surgery بحسب الاستطلاع؟",
+          "q_en": "Which technologies were commonly used in aneurysm surgery according to the survey?",
+          "options_ar": [
+            "أ) exoscope وrobotics",
+            "ب) intraoperative MRI وaugmented reality",
+            "ج) indocyanine green وmicro-Doppler",
+            "د) endoscopy وneuronavigation في جميع الحالات"
+          ],
+          "options_en": [
+            "A) Exoscopes and robotics",
+            "B) Intraoperative MRI and augmented reality",
+            "C) Indocyanine green and micro-Doppler",
+            "D) Endoscopy and neuronavigation in every case"
+          ],
+          "answer": 2,
+          "explanation_ar": "ذكر الباحثون أن indocyanine green وmicro-Doppler كانا من التقنيات المستخدمة بصورة روتينية في aneurysm surgery.",
+          "explanation_en": "The authors reported routine use of indocyanine green and micro-Doppler in aneurysm surgery."
+        }
+      ]
+    },
+    {
+      "pmid": "43026352",
+      "title_ar": "The orbito-pterygo-sphenoidal ligament/posterior septal artery complex as a dual-function anatomical reference for transethmoidal sphenoidotomy.",
+      "title_en": "The orbito-pterygo-sphenoidal ligament/posterior septal artery complex as a dual-function anatomical reference for transethmoidal sphenoidotomy.",
+      "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+      "pub_date": "2026-Nov-14",
+      "doi": "10.1007/s00405-026-10817-5",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43026352/",
+      "pdf_url": null,
+      "study_design": "Retrospective comparative study, n=49 patients (98 sides)",
+      "summary_ar": "قيّمت هذه الدراسة retrospective استخدام orbito-pterygo-sphenoidal ligament/posterior septal artery (OPSL/PSA) complex كمرجع تشريحي لإجراء transethmoidal sphenoidotomy لدى مرضى eosinophilic chronic rhinosinusitis (ECRS). شملت المقارنة 24 مريضًا في مجموعة OPSL/PSA-guided و25 مريضًا في المجموعة التقليدية. كان متوسط residual inferior anterior sphenoid wall (ASW) height بعد الجراحة أقل في المجموعة الموجّهة تشريحيًا (-0.8 مقابل 1.5 mm؛ p<0.001)، وظل الفرق دالًا بعد ضبط confounders. لم يُجرَ superior turbinate resection في المجموعة الموجّهة، مقابل إجرائه في 28% من الجوانب بالمجموعة التقليدية. لم تظهر فروق ذات دلالة في operative time أو PSA-related hemorrhage. تشير النتائج إلى أن هذا المرجع قد يساعد في دخول sphenoid sinus وتوجيه الإزالة السفلية المضبوطة لـASW، لكن التصميم retrospective وحجم الدراسة يحدان من قوة الاستنتاجات.",
+      "summary_en": "This retrospective study evaluated the orbito-pterygo-sphenoidal ligament/posterior septal artery (OPSL/PSA) complex as a landmark for transethmoidal sphenoidotomy in patients with eosinophilic chronic rhinosinusitis (ECRS).\nIt compared 24 patients (48 sides) treated with the OPSL/PSA-guided approach with 25 patients (50 sides) undergoing conventional surgery.\nPostoperative residual inferior anterior sphenoid wall (ASW) height was smaller with the guided approach (-0.8 vs. 1.5 mm; p<0.001), including after adjustment for potential confounders.\nSuperior turbinate resection was not performed in the guided group, compared with 28% of sides in the conventional group.\nOperative time and PSA-related hemorrhage did not differ significantly between groups.\nThe findings support the complex as a potential landmark for sphenoid entry and controlled inferior ASW removal, but the retrospective design and modest sample warrant cautious interpretation.",
+      "practice_change_ar": "لا تفرض النتائج تغييرًا فوريًا للممارسة، لكنها تدعم النظر في OPSL/PSA complex كمرجع تكميلي أثناء transethmoidal sphenoidotomy، خصوصًا عندما تكون landmarks التقليدية غير واضحة.",
+      "practice_change_en": "The findings do not mandate an immediate change in practice, but support considering the OPSL/PSA complex as a complementary landmark during transethmoidal sphenoidotomy, particularly when conventional landmarks are obscured.",
+      "future_impact_ar": "قد يؤدي التحقق prospective ومتعدد المراكز من هذه الطريقة إلى اعتماد landmark إضافي لتحسين توجيه sphenoidotomy وتقليل الحاجة إلى superior turbinate resection.",
+      "future_impact_en": "Prospective, multicenter validation could establish this approach as an additional landmark to guide sphenoidotomy and reduce the need for superior turbinate resection.",
+      "why_important_ar": "تتناول الدراسة صعوبة تحديد موضع sphenoid sinus عندما تحجب ECRS أو الاختلافات التشريحية landmarks المعتادة، وتقترح مرجعًا تشريحيًا يؤدي وظيفتين.",
+      "why_important_en": "The study addresses difficulty locating the sphenoid sinus when ECRS or anatomical variation obscures usual landmarks, and proposes one anatomical reference with two functions.",
+      "vs_previous_ar": "على خلاف الاعتماد المعتاد على superior turbinate وsphenoid ostium، تقترح الدراسة OPSL/PSA complex كمرجع تكميلي للدخول إلى sphenoid sinus ولتوجيه مقدار الإزالة السفلية من ASW.",
+      "vs_previous_en": "Unlike the usual reliance on the superior turbinate and sphenoid ostium, this study proposes the OPSL/PSA complex as a complementary landmark for sphenoid entry and controlled inferior ASW removal.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة مقارنة retrospective صغيرة نسبيًا تقدم طريقة تشريحية جديدة ونتيجة تقنية مفيدة، لكن غياب العشوائية والتحقق المستقل يمنعان اعتبارها دليلًا يغيّر الممارسة.",
+      "stars_reason_en": "This relatively small retrospective comparative study presents a novel anatomical approach and useful technical findings, but the lack of randomization and independent validation limits practice-changing conclusions.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق الدراسة النقاش لأنها تقترح landmark جراحيًا ذا وظيفتين وتعرض نتائج قابلة للقياس، مع فرصة لمناقشة confounding وحدود التصميم retrospective.",
+      "jc_reason_en": "This study merits discussion because it proposes a dual-function surgical landmark and reports measurable outcomes, while offering an opportunity to examine confounding and the limitations of retrospective design.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء prospective متعددة المراكز مع وصف موحد للتقنية وتقييم مستقل للسلامة والنتائج طويلة الأمد قبل تحديد قابلية تعميم OPSL/PSA-guided sphenoidotomy.",
+      "research_gap_en": "A prospective multicenter study with standardized technique description and independent assessment of safety and long-term outcomes is needed before the generalizability of OPSL/PSA-guided sphenoidotomy can be established.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم دراسة عن transethmoidal sphenoidotomy لدى مرضى eosinophilic chronic rhinosinusitis، أو ECRS. تبدأ أهمية الموضوع من أن superior turbinate وsphenoid ostium يُستخدمان عادةً كـlandmarks لدخول sphenoid sinus، لكن الالتهاب الشديد أو الاختلافات التشريحية قد تجعل رؤيتهما صعبة.\n\nقيّمت الدراسة retrospective طريقة تستخدم orbito-pterygo-sphenoidal ligament وposterior septal artery، ويُشار إليهما معًا باسم OPSL/PSA complex. قورنت 24 حالة عولجت بالطريقة الموجّهة بهذا المرجع مع 25 حالة في مجموعة خضعت للطريقة التقليدية، بإجمالي 98 جانبًا. كان المقياس الأساسي ارتفاع الجزء السفلي المتبقي من anterior sphenoid wall بعد الجراحة، كما قُيّم operative time والنزف المرتبط بـPSA وبعض النتائج الأخرى.\n\nكان residual inferior ASW height أقل في مجموعة OPSL/PSA-guided: متوسط -0.8 mm مقابل 1.5 mm في المجموعة التقليدية، مع p-value أقل من 0.001. واستمر الفرق بعد ضبط العوامل المربكة المحتملة. ومن النتائج اللافتة أن superior turbinate resection لم يُجرَ في المجموعة الموجّهة، بينما أُجري في 28% من الجوانب بالمجموعة التقليدية. في المقابل، لم تُظهر الدراسة فرقًا ذا دلالة في operative time أو PSA-related hemorrhage.\n\nالمغزى العملي هو أن OPSL/PSA complex قد يكون landmark تكميليًا يساعد في تحديد مدخل sphenoid sinus، كما يوجّه الإزالة السفلية المضبوطة من ASW. لكن هذه النتائج لا تثبت تفوقًا شاملًا ولا تبرر تغيير الممارسة فورًا؛ فالدراسة retrospective وصغيرة نسبيًا، وقد تتأثر باختيار المرضى وخبرة الجراح. كما أن عدم وجود فرق دال في النزف لا يثبت تساوي السلامة.\n\nلذلك تُعد الدراسة معرفة مفيدة ومبتكرة في rhinology، وتناسب journal club لمناقشة تصميمها ومقاييسها. الخطوة التالية هي دراسة prospective متعددة المراكز، مع توحيد وصف التقنية وتقييم السلامة والنتائج طويلة الأمد. إلى أن تتوفر هذه البيانات، يمكن للجراحين التعرف على هذا المرجع التشريحي والنظر فيه كخيار إضافي، لا كبديل مثبت للـlandmarks المعتادة.",
+      "audio_script_en": "Today’s review focuses on transethmoidal sphenoidotomy in patients with eosinophilic chronic rhinosinusitis, or ECRS. The superior turbinate and sphenoid ostium are commonly used to locate the sphenoid sinus, but severe inflammation or anatomical variation can make these landmarks difficult to identify.\n\nThis retrospective study assessed an approach guided by the orbito-pterygo-sphenoidal ligament and posterior septal artery, together called the OPSL/PSA complex. It compared 24 patients treated with the guided approach with 25 patients who underwent conventional surgery, for a total of 98 sides. The primary outcome was postoperative residual inferior anterior sphenoid wall height. Operative time, PSA-related hemorrhage, and other exploratory outcomes were also assessed.\n\nResidual inferior ASW height was smaller in the OPSL/PSA-guided group: a mean of minus 0.8 millimeters, compared with 1.5 millimeters in the conventional group, with a p-value below 0.001. The difference remained significant after adjustment for potential confounders. Superior turbinate resection was not performed in the guided group, whereas it was performed on 28 percent of sides in the conventional group. There were no statistically significant differences in operative time or PSA-related hemorrhage.\n\nThe practical message is that the OPSL/PSA complex may serve as a complementary landmark both for entering the sphenoid sinus and for guiding controlled inferior removal of the ASW. However, the results do not establish overall superiority or justify an immediate change in practice. This was a relatively small retrospective study, so patient selection and surgeon experience may have influenced the findings. Also, a nonsignificant difference in hemorrhage does not prove equivalent safety.\n\nThis is useful, novel rhinology evidence and a good topic for journal club, particularly to discuss the study design, outcome measures, and possible confounding. The next step should be prospective multicenter validation with a standardized description of the technique and assessment of safety and longer-term outcomes. For now, surgeons can be aware of this anatomical reference and consider it as an additional option, rather than a proven replacement for established landmarks.",
+      "mcq": [
+        {
+          "q_ar": "ما الوظيفة المزدوجة المقترحة لـOPSL/PSA complex في هذه الدراسة؟",
+          "q_en": "What dual function did the study propose for the OPSL/PSA complex?",
+          "options_ar": [
+            "أ) تحديد مدخل sphenoid sinus وتوجيه الإزالة السفلية من ASW",
+            "ب) منع النزف وإغلاق sphenoid ostium",
+            "ج) تحديد superior turbinate وقياس operative time",
+            "د) استبدال endoscope وتوسيع nasal septum"
+          ],
+          "options_en": [
+            "A) Locating sphenoid sinus entry and guiding inferior ASW removal",
+            "B) Preventing hemorrhage and closing the sphenoid ostium",
+            "C) Identifying the superior turbinate and measuring operative time",
+            "D) Replacing the endoscope and widening the nasal septum"
+          ],
+          "answer": 0,
+          "explanation_ar": "استُخدم OPSL/PSA complex كمرجع للمساعدة في دخول sphenoid sinus ولتوجيه الإزالة السفلية المضبوطة من ASW.",
+          "explanation_en": "The OPSL/PSA complex was used as a landmark to assist sphenoid sinus entry and guide controlled inferior ASW removal."
+        },
+        {
+          "q_ar": "ما النتيجة الأساسية التي قورنت بين المجموعتين؟",
+          "q_en": "What was the primary outcome compared between the groups?",
+          "options_ar": [
+            "أ) postoperative residual inferior ASW height",
+            "ب) معدل عودة ECRS",
+            "ج) مدة الإقامة في المستشفى",
+            "د) تغير حاسة الشم"
+          ],
+          "options_en": [
+            "A) Postoperative residual inferior ASW height",
+            "B) ECRS recurrence rate",
+            "C) Length of hospital stay",
+            "D) Change in sense of smell"
+          ],
+          "answer": 0,
+          "explanation_ar": "كان المقياس الأساسي هو postoperative residual inferior ASW height المقاس باستخدام CT.",
+          "explanation_en": "The primary endpoint was postoperative residual inferior ASW height measured using CT."
+        },
+        {
+          "q_ar": "أي عبارة تصف نتائج الدراسة بدقة؟",
+          "q_en": "Which statement accurately describes the study findings?",
+          "options_ar": [
+            "أ) انخفض residual inferior ASW height مع الطريقة الموجّهة، ولم يظهر فرق دال في operative time أو PSA-related hemorrhage",
+            "ب) زاد residual inferior ASW height مع الطريقة الموجّهة وقل النزف بوضوح",
+            "ج) تطابقت جميع النتائج بين المجموعتين، بما فيها superior turbinate resection",
+            "د) أثبتت الدراسة prospective أن الطريقة تمنع كل حالات النزف"
+          ],
+          "options_en": [
+            "A) Residual inferior ASW height was lower with the guided approach, with no significant difference in operative time or PSA-related hemorrhage",
+            "B) Residual inferior ASW height increased with the guided approach and hemorrhage clearly decreased",
+            "C) All outcomes were identical between groups, including superior turbinate resection",
+            "D) The prospective study proved the approach prevents all hemorrhage"
+          ],
+          "answer": 0,
+          "explanation_ar": "أظهرت مجموعة OPSL/PSA-guided residual inferior ASW height أقل، ولم تجد الدراسة فرقًا ذا دلالة في operative time أو PSA-related hemorrhage؛ كما لم يُجرَ superior turbinate resection في هذه المجموعة.",
+          "explanation_en": "The OPSL/PSA-guided group had lower residual inferior ASW height, with no significant difference in operative time or PSA-related hemorrhage; superior turbinate resection was not performed in this group."
+        }
+      ]
+    },
+    {
+      "pmid": "43026349",
+      "title_ar": "High-resolution manometry findings in laryngopharyngeal reflux: A systematic review.",
+      "title_en": "High-resolution manometry findings in laryngopharyngeal reflux: A systematic review.",
+      "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+      "pub_date": "2026-Nov-14",
+      "doi": "10.1007/s00405-026-10816-6",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43026349/",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00405-026-10816-6.pdf",
+      "study_design": "Systematic review of 20 studies",
+      "summary_ar": "راجعت هذه الدراسة المنهجية 20 دراسة بحثت استخدام high-resolution manometry (HRM)، مع أو بدون impedance، لدى البالغين المصابين بـ laryngopharyngeal reflux (LPR). اختلفت معايير تشخيص LPR بين الدراسات، إذ شملت symptom questionnaires وlaryngoscopy وpH monitoring وmultichannel intraluminal impedance-pH monitoring. كما تفاوت اختيار المرضى وبروتوكولات البلع والنتائج المقاسة، ما حدّ من إمكانية مقارنة النتائج. كانت نتائج upper esophageal sphincter resting pressure وsphincter length وintegrated relaxation pressure غير متسقة. بالمقابل، تكررت ملاحظات abnormal esophageal motility، مثل ineffective peristalsis وضعف أو فشل البلع واضطراب bolus clearance. أظهرت proximal esophageal contractile integral وupper esophageal sphincter impedance integral إشارات واعدة، لكن الأدلة عليها ما تزال محدودة، ولا تدعم النتائج تغيير الممارسة حاليًا.",
+      "summary_en": "This systematic review assessed 20 studies of high-resolution manometry (HRM), with or without impedance, in adults with laryngopharyngeal reflux (LPR).\nLPR diagnostic methods varied and included symptom questionnaires, laryngoscopy, pH monitoring, and impedance-pH monitoring.\nPatient selection, swallow protocols, and reported outcomes were also heterogeneous.\nFindings for upper esophageal sphincter resting pressure, sphincter length, and integrated relaxation pressure were inconsistent.\nAbnormal esophageal motility, including ineffective peristalsis and impaired bolus clearance, was reported more recurrently.\nSome HRM metrics appear promising, but the evidence is limited and does not currently support a practice change.",
+      "practice_change_ar": "لا تغيّر هذه المراجعة الممارسة الحالية؛ لا ينبغي اعتماد HRM وحده لتشخيص LPR أو توجيه العلاج في ظل عدم اتساق الأدلة.",
+      "practice_change_en": "This review does not change current practice; HRM should not be used alone to diagnose LPR or guide treatment given the inconsistent evidence.",
+      "future_impact_ar": "قد تحسّن بروتوكولات HRM الموحدة، بما فيها توصيات Leuven Consensus، قابلية مقارنة الدراسات وتحديد المقاييس ذات القيمة السريرية.",
+      "future_impact_en": "Standardized HRM protocols, including the Leuven Consensus recommendations, may improve study comparability and help identify clinically meaningful measures.",
+      "why_important_ar": "توضح المراجعة أن abnormal esophageal motility قد يرتبط بأعراض LPR، مع إبراز حدود الأدلة الحالية.",
+      "why_important_en": "The review highlights a recurring association between abnormal esophageal motility and LPR symptoms while clarifying the limits of current evidence.",
+      "vs_previous_ar": "بدل تقديم معيار تشخيصي جديد، تجمع المراجعة نتائج HRM المتباينة وتلفت إلى تكرار اضطراب esophageal motility مقارنة بنتائج UES غير المتسقة.",
+      "vs_previous_en": "Rather than proposing a new diagnostic standard, the review synthesizes variable HRM findings and identifies recurring esophageal motility abnormalities alongside inconsistent UES results.",
+      "stars": 3,
+      "stars_reason_ar": "مراجعة منهجية ذات قاعدة تصميم قوية، لكنها تضم دراسات شديدة التغاير ونتائجها لا تغيّر الممارسة؛ لذلك تمثل معرفة مفيدة لا دليلًا حاسمًا.",
+      "stars_reason_en": "A systematic review has a strong study-design base, but substantial heterogeneity and non-practice-changing findings make this useful rather than definitive evidence.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for journal club discussion because of variation in LPR definitions and HRM protocols, and the need to assess proposed measures for future studies.",
+      "watch": true,
+      "watch_detail_ar": "تُستحق متابعة HRM ومقاييس impedance المرتبطة به، إذ قد تساعد البروتوكولات الموحدة على تحديد مؤشرات مفيدة لتقييم LPR.",
+      "watch_detail_en": "Track HRM and related impedance measures, as standardized protocols may identify useful markers for evaluating LPR.",
+      "watch_type": "technology",
+      "research_gap_ar": "يلزم إجراء دراسات مستقبلية ببروتوكولات HRM موحدة وتعريفات معيارية لـ LPR لتحديد المؤشرات المرتبطة بالأعراض والقيمة السريرية.",
+      "research_gap_en": "Future studies need standardized HRM protocols and consistent LPR definitions to identify symptom-associated measures with clinical value.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نناقش اليوم مراجعة منهجية بعنوان High-resolution manometry findings in laryngopharyngeal reflux. بحثت الدراسة دور high-resolution manometry، أو HRM، في تقييم laryngopharyngeal reflux، المعروف اختصارًا بـ LPR، وجمعت نتائج 20 دراسة شملت بالغين.\n\nأحد التحديات الأساسية هو أن الدراسات لم تستخدم طريقة واحدة لتشخيص LPR. فقد اعتمدت بعضها على symptom questionnaires أو laryngoscopy، بينما استخدمت أخرى pH monitoring أو multichannel intraluminal impedance-pH monitoring. كذلك تفاوتت معايير اختيار المرضى وبروتوكولات البلع وطريقة تسجيل نتائج HRM؛ لذلك يصعب إجراء مقارنة مباشرة بين الدراسات.\n\nكانت نتائج upper esophageal sphincter resting pressure وsphincter length وintegrated relaxation pressure غير متسقة. أما النتيجة الأكثر تكرارًا فكانت وجود abnormal esophageal motility، بما يشمل ineffective peristalsis، وضعف أو فشل البلع، واضطراب bolus clearance. وظهرت proximal esophageal contractile integral وupper esophageal sphincter impedance integral كمؤشرين محتملين، لكن الأدلة عليهما ما تزال محدودة.\n\nالأهمية السريرية هي أن اضطراب حركة المريء قد يترافق مع أعراض LPR، لكن هذه المراجعة لا تثبت أن HRM يشخّص LPR أو يحدد العلاج، ولا تدعم تغيير الممارسة الحالية. لا ينبغي اعتبار أي من المقاييس المذكورة معيارًا معتمدًا بناءً على هذه النتائج وحدها.\n\nتستحق الورقة النقاش في journal club لأنها تبرز مشكلة التغاير المنهجي، وتوضح لماذا لا تكفي النتائج المتفرقة لاستخلاص توصية سريرية. الخطوة التالية هي إجراء دراسات ببروتوكولات موحدة، بما فيها توصيات Leuven Consensus، وتعريفات متسقة لـ LPR. قد يساعد ذلك في تحديد أي مقاييس HRM ترتبط بالأعراض أو تحمل قيمة سريرية فعلية. الخلاصة: HRM مجال يستحق المتابعة، لكن الأدلة الحالية تمهيدية وليست ممارسة مغيرة.",
+      "audio_script_en": "Today’s review is titled “High-resolution manometry findings in laryngopharyngeal reflux.” It examines the role of high-resolution manometry, or HRM, in evaluating laryngopharyngeal reflux, abbreviated LPR. The authors included 20 studies of adults with LPR.\n\nA major challenge was the lack of consistency in how LPR was diagnosed. Studies used symptom questionnaires, laryngoscopy, pH monitoring, or multichannel intraluminal impedance-pH monitoring. They also differed in patient selection, swallow protocols, and which HRM outcomes they reported. This heterogeneity makes direct comparison difficult.\n\nResults for upper esophageal sphincter resting pressure, sphincter length, and integrated relaxation pressure were inconsistent. A more recurrent finding was abnormal esophageal motility, including ineffective peristalsis, weak or failed swallows, and impaired bolus clearance. Proximal esophageal contractile integral and upper esophageal sphincter impedance integral may be promising measures, but evidence for them remains limited.\n\nThe clinical takeaway is that esophageal motility abnormalities may be associated with LPR symptoms. However, this review does not establish HRM as a diagnostic test for LPR or show that HRM-guided management improves outcomes. It does not support a change in practice, and none of the reported measures should be treated as a validated standalone diagnostic criterion based on these data.\n\nThis is a useful journal club paper because it highlights how differences in diagnostic definitions and HRM methods limit interpretation. Future studies should use standardized protocols, including the Leuven Consensus recommendations, and more consistent LPR definitions. That approach may show which HRM measures are reproducibly associated with symptoms and have real clinical value. In summary, HRM is a technology to watch, but the current evidence is preliminary rather than practice-changing.",
+      "mcq": [
+        {
+          "q_ar": "ما النتيجة التي تكررت بدرجة أكبر في الدراسات المشمولة؟",
+          "q_en": "Which finding was reported more recurrently across the included studies?",
+          "options_ar": [
+            "أ) نتائج متسقة لارتفاع upper esophageal sphincter resting pressure",
+            "ب) انتشار abnormal esophageal motility واضطراب bolus clearance",
+            "ج) إثبات أن HRM يشخّص LPR بدقة عالية",
+            "د) تحسن نتائج العلاج عند توجيهه بواسطة HRM"
+          ],
+          "options_en": [
+            "A) Consistently elevated upper esophageal sphincter resting pressure",
+            "B) Abnormal esophageal motility and impaired bolus clearance",
+            "C) Proof that HRM accurately diagnoses LPR",
+            "D) Improved treatment outcomes when guided by HRM"
+          ],
+          "answer": 1,
+          "explanation_ar": "تكررت ملاحظات abnormal esophageal motility، بما فيها ضعف البلع واضطراب bolus clearance، بينما كانت نتائج UES غير متسقة.",
+          "explanation_en": "Abnormal esophageal motility, including weak swallows and impaired bolus clearance, recurred, whereas UES findings were inconsistent."
+        },
+        {
+          "q_ar": "ما القيد الرئيسي الذي حدّ من تفسير نتائج المراجعة؟",
+          "q_en": "What was the main limitation affecting interpretation of the review findings?",
+          "options_ar": [
+            "أ) اقتصار الدراسات على الأطفال",
+            "ب) عدم استخدام أي قياسات لـ HRM",
+            "ج) التغاير في تشخيص LPR واختيار المرضى وبروتوكولات البلع والنتائج",
+            "د) اقتصار الأدلة على case reports"
+          ],
+          "options_en": [
+            "A) The studies included children only",
+            "B) No HRM measures were used",
+            "C) Heterogeneity in LPR diagnosis, patient selection, swallow protocols, and outcomes",
+            "D) The evidence consisted only of case reports"
+          ],
+          "answer": 2,
+          "explanation_ar": "تفاوتت الدراسات في طرق تشخيص LPR واختيار المرضى وبروتوكولات البلع والنتائج، ما صعّب المقارنة.",
+          "explanation_en": "Studies differed in LPR diagnostic methods, patient selection, swallow protocols, and reported outcomes, limiting comparability."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن الممارسة السريرية الحالية؟",
+          "q_en": "What is the most appropriate conclusion regarding current clinical practice?",
+          "options_ar": [
+            "أ) اعتماد HRM منفردًا لتشخيص LPR",
+            "ب) استخدام upper esophageal sphincter impedance integral معيارًا مؤكدًا",
+            "ج) إيقاف الفحوص الأخرى واستبدالها بـ HRM",
+            "د) عدم تغيير الممارسة حاليًا، مع الحاجة إلى بروتوكولات موحدة وأبحاث إضافية"
+          ],
+          "options_en": [
+            "A) Use HRM alone to diagnose LPR",
+            "B) Treat upper esophageal sphincter impedance integral as a validated standard",
+            "C) Replace other investigations with HRM",
+            "D) Make no current practice change; standardized protocols and further research are needed"
+          ],
+          "answer": 3,
+          "explanation_ar": "خلصت المراجعة إلى أن النتائج تمهيدية بسبب التغاير، وأن بروتوكولات موحدة ودراسات إضافية لازمة قبل اعتماد مقاييس سريرية.",
+          "explanation_en": "The findings are preliminary because of heterogeneity; standardized protocols and further studies are needed before clinical measures can be adopted."
+        }
+      ]
+    },
+    {
+      "pmid": "43035971",
+      "title_ar": "Patient-Reported Functional and Cosmetic Outcomes after Rhinoplasty with Autologous Versus Cadaveric Rib Cartilage Grafts.",
+      "title_en": "Patient-Reported Functional and Cosmetic Outcomes after Rhinoplasty with Autologous Versus Cadaveric Rib Cartilage Grafts.",
+      "journal": "Facial plastic surgery & aesthetic medicine",
+      "pub_date": "2026-Nov-15",
+      "doi": "10.1177/26893614261499033",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43035971/",
+      "pdf_url": null,
+      "study_design": "Retrospective cohort n=129",
+      "summary_ar": "قارنت هذه الدراسة retrospective cohort نتائج rhinoplasty باستخدام autologous أو cadaveric rib cartilage لدى 129 بالغًا، منهم 33 في مجموعة autologous و96 في مجموعة cadaveric. استُخدمت rib cartilage غالبًا كـspreader grafts، كما استُخدمت كـseptal وlateral وonlay grafts. أظهرت نماذج mixed-effects المعدّلة أن مجموعة autologous سجلت obstruction scores أقل بمتوسط فرق قدره ‎-14.02 (95% confidence interval: ‎-24.19 إلى ‎-3.85). لم يظهر فرق واضح في cosmetic scores بين المجموعتين، إذ شمل 95% confidence interval الصفر. حققت المجموعتان تحسنًا تجاوز minimal clinically important differences في obstruction وcosmetic scores عبر فترات المتابعة. بلغت revision rates ‏15.2% مع autologous و24.0% مع cadaveric، لكن الفرق غير حاسم إحصائيًا. تشير النتائج إلى فائدة سريرية مع كلا المصدرين، مع حاجة إلى دراسات أقوى لتحديد الفروق المحتملة.",
+      "summary_en": "This retrospective cohort compared rhinoplasty outcomes in 129 adults receiving autologous or cadaveric rib cartilage grafts. The cohort included 33 autologous and 96 cadaveric recipients, with grafts used most often as spreader and septal grafts. Adjusted mixed-effects models found lower average obstruction scores in the autologous group (difference -14.02; 95% CI -24.19 to -3.85). Cosmetic scores were not clearly different between groups, with the 95% CI including zero. Both groups achieved improvements exceeding the minimal clinically important differences for obstruction and cosmetic scores across postoperative intervals. Revision rates were 15.2% with autologous and 24.0% with cadaveric grafts, but the difference was inconclusive. The findings support meaningful improvement with either source while leaving comparative effectiveness uncertain.",
+      "practice_change_ar": "لا تبرر هذه النتائج تغييرًا فوريًا في اختيار graft source، ويمكن للطبيب مناقشة كلا الخيارين مع المرضى مع توضيح عدم اليقين المقارن.",
+      "practice_change_en": "These findings do not justify an immediate change in graft-source selection; clinicians can discuss both options while explaining the uncertainty in comparative outcomes.",
+      "future_impact_ar": "قد تساعد prospective comparative studies الأكبر والأطول متابعة في تحديد ما إذا كانت الفروق في obstruction أو revision rates حقيقية ومستقرة.",
+      "future_impact_en": "Larger, longer-term prospective comparative studies may determine whether differences in obstruction or revision rates are real and consistent.",
+      "why_important_ar": "تقدم الدراسة مقارنة مباشرة لنتائج breathing وappearance التي يبلغ عنها المرضى بعد استخدام مصدرين شائعين من rib cartilage في rhinoplasty.",
+      "why_important_en": "The study directly compares patient-reported breathing and appearance outcomes after rhinoplasty using two commonly used rib cartilage sources.",
+      "vs_previous_ar": "تضيف الدراسة بيانات مقارنة مباشرة إلى أدلة محدودة، لكنها لا تثبت تفوقًا عامًا لأحد المصدرين بسبب تصميمها retrospective وعدم حسم revision-rate difference.",
+      "vs_previous_en": "It adds direct comparative data to a limited evidence base but does not establish overall superiority of either source given its retrospective design and inconclusive revision-rate difference.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة retrospective cohort بحجم n=129 تقدم نتائج سريرية مفيدة، لكن تصميمها غير العشوائي والفروق غير الحاسمة في cosmetic scores وrevision rates تحد من قوة الاستنتاجات؛ لذلك تستحق المتابعة دون أن تغيّر الممارسة حاليًا.",
+      "stars_reason_en": "This retrospective cohort of 129 provides useful clinical outcomes, but its nonrandomized design and inconclusive cosmetic-score and revision-rate comparisons limit certainty; it merits attention without changing practice today.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The comparison of two common graft sources and patient-reported outcomes supports practical discussion of graft selection, while inviting critique of confounding and unequal group sizes.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء prospective comparative studies مع ضبط أفضل لاختيار المرضى، وقياس complications وrevision rates على مدى متابعة أطول.",
+      "research_gap_en": "Prospective comparative studies with better control of patient selection and longer follow-up for complications and revision rates are needed.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نستعرض اليوم دراسة تقارن نتائج rhinoplasty عند استخدام autologous rib cartilage مقابل cadaveric rib cartilage. شملت الدراسة retrospective cohort من 129 بالغًا عولجوا بين عامي 2018 و2025؛ تلقى 33 منهم grafts من autologous rib cartilage، بينما تلقى 96 cadaveric grafts. قاست الدراسة obstruction وcosmetic outcomes التي أبلغ عنها المرضى، إضافة إلى revision rates وcomplications.\n\nكان استخدام rib cartilage متنوعًا، لكنه استُخدم غالبًا كـspreader grafts، ثم كـseptal grafts، كما استُخدم في مواضع lateral وonlay. بعد التحليل باستخدام adjusted mixed-effects models، سجلت مجموعة autologous obstruction scores أقل بمتوسط فرق يقارب 14 نقطة، وكان 95% confidence interval من ‎-24.19 إلى ‎-3.85. في المقابل، لم يظهر فرق واضح في cosmetic scores؛ فالـ95% confidence interval امتد من ‎-16.33 إلى 2.22 وشمل الصفر. والأهم أن كلا المجموعتين تجاوزتا minimal clinically important differences للتحسن في obstruction وcosmetic scores عبر فترات المتابعة.\n\nكانت revision rates ‏15.2% في مجموعة autologous و24.0% في مجموعة cadaveric. إلا أن confidence interval للفرق امتد من ‎-21.5% إلى 8.6%، ولذلك لا تثبت هذه البيانات وجود فرق موثوق في معدلات المراجعة. تشير النتيجة الوظيفية إلى احتمال انخفاض obstruction scores مع autologous grafts، لكنها لا تكفي وحدها لإثبات تفوق سببي، نظرًا إلى التصميم retrospective واختلاف حجم المجموعتين واحتمال وجود confounding.\n\nعمليًا، لا تستدعي الدراسة تغيير اختيار graft source اليوم؛ فكلا الخيارين ارتبط بتحسن ذي أهمية سريرية. يمكن استخدام هذه النتائج عند مناقشة الخيارات مع المريض، مع شرح أن المقارنة ما زالت غير حاسمة. تكمن أهمية الدراسة في تقديم بيانات patient-reported مباشرة عن مصدرين شائعين، بينما تبقى الحاجة إلى prospective comparative studies أكبر، مع متابعة أطول وضبط أفضل لاختيار المرضى وقياس complications وrevision rates. تصلح الدراسة لـjournal club لأنها توازن بين فائدة النتائج السريرية وحدود الاستدلال من cohort غير عشوائية.",
+      "audio_script_en": "Today we review a study comparing rhinoplasty outcomes with autologous versus cadaveric rib cartilage. This retrospective cohort included 129 adults treated between 2018 and 2025: 33 received autologous grafts and 96 received cadaveric grafts. The investigators assessed patient-reported obstruction and cosmetic outcomes, as well as revision rates and complications.\n\nRib cartilage was used in several graft positions, most commonly as spreader grafts and septal grafts, and also as lateral and onlay grafts. In adjusted mixed-effects analyses, the autologous group had lower average obstruction scores, with a difference of about 14 points and a 95% confidence interval from -24.19 to -3.85. Cosmetic scores, however, were not clearly different: the 95% confidence interval ranged from -16.33 to 2.22 and included zero. Both groups exceeded the minimal clinically important differences for improvement in obstruction and cosmetic outcomes across postoperative intervals.\n\nRevision rates were 15.2% in the autologous group and 24.0% in the cadaveric group. But the confidence interval for the difference ranged from -21.5% to 8.6%, so these data do not establish a reliable difference in revision rates. The lower obstruction scores with autologous grafts may be clinically relevant, but a retrospective, nonrandomized comparison cannot establish that graft source caused the difference. Unequal group sizes and potential confounding also limit interpretation.\n\nFor current practice, the findings do not mandate changing graft-source selection: both options were associated with clinically meaningful improvement. The results can inform shared decision-making, provided patients understand that comparative superiority remains uncertain. The study matters because it provides direct patient-reported comparisons of two commonly used graft sources. Important next steps are larger prospective comparative studies with better control of patient selection and longer follow-up for complications and revisions. This is a useful journal-club paper because its clinically relevant outcomes can be weighed against the limitations of observational evidence.",
+      "mcq": [
+        {
+          "q_ar": "ما تصميم الدراسة وعدد المشاركين؟",
+          "q_en": "What was the study design and sample size?",
+          "options_ar": [
+            "أ) RCT شملت 129 مريضًا",
+            "ب) retrospective cohort شملت 129 بالغًا",
+            "ج) prospective cohort شملت 33 مريضًا",
+            "د) systematic review شملت 96 دراسة"
+          ],
+          "options_en": [
+            "A) An RCT of 129 patients",
+            "B) A retrospective cohort of 129 adults",
+            "C) A prospective cohort of 33 patients",
+            "D) A systematic review of 96 studies"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت الدراسة retrospective cohort وضمت 129 بالغًا: 33 تلقوا autologous grafts و96 تلقوا cadaveric grafts.",
+          "explanation_en": "The study was a retrospective cohort of 129 adults: 33 received autologous grafts and 96 received cadaveric grafts."
+        },
+        {
+          "q_ar": "أي نتيجة وُجدت لمتوسط obstruction scores؟",
+          "q_en": "What was found for average obstruction scores?",
+          "options_ar": [
+            "أ) كانت أعلى بوضوح مع autologous grafts",
+            "ب) كانت أقل مع autologous grafts، بفرق ‎-14.02",
+            "ج) لم تتحسن في أي من المجموعتين",
+            "د) لم تُقَس في الدراسة"
+          ],
+          "options_en": [
+            "A) They were clearly higher with autologous grafts",
+            "B) They were lower with autologous grafts, with a difference of -14.02",
+            "C) They did not improve in either group",
+            "D) They were not measured"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت النماذج المعدّلة obstruction scores أقل في مجموعة autologous، بمتوسط فرق ‎-14.02 و95% confidence interval من ‎-24.19 إلى ‎-3.85.",
+          "explanation_en": "Adjusted models found lower obstruction scores in the autologous group, with a mean difference of -14.02 and a 95% CI of -24.19 to -3.85."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن اختيار graft source بناءً على هذه النتائج؟",
+          "q_en": "What is the most appropriate conclusion about graft-source selection based on these findings?",
+          "options_ar": [
+            "أ) يجب استخدام autologous grafts في جميع المرضى",
+            "ب) يجب تجنب cadaveric grafts بسبب ثبوت ارتفاع revision rates",
+            "ج) لا تثبت الدراسة تفوقًا عامًا، وقد حققت المجموعتان تحسنًا ذا أهمية سريرية",
+            "د) لم يتحسن breathing أو appearance في أي مجموعة"
+          ],
+          "options_en": [
+            "A) Autologous grafts should be used in every patient",
+            "B) Cadaveric grafts should be avoided because higher revision rates were proven",
+            "C) The study does not establish overall superiority, and both groups achieved clinically meaningful improvement",
+            "D) Neither breathing nor appearance improved in either group"
+          ],
+          "answer": 2,
+          "explanation_ar": "تحسنت نتائج المجموعتين بما يتجاوز minimal clinically important differences، بينما لم تحسم الدراسة المقارنة في cosmetic scores أو revision rates.",
+          "explanation_en": "Both groups improved beyond the minimal clinically important differences, while the study did not resolve the comparisons for cosmetic scores or revision rates."
+        }
+      ]
+    },
+    {
+      "pmid": "43036233",
+      "title_ar": "The Comparison of Tissue Expression and Serum Levels of HGF/c-MET in Nasal Polyposis.",
+      "title_en": "The Comparison of Tissue Expression and Serum Levels of HGF/c-MET in Nasal Polyposis.",
+      "journal": "Clinical otolaryngology : official journal of ENT-UK ; official journal of Netherlands Society for Oto-Rhino-Laryngology & Cervico-Facial Surgery",
+      "pub_date": "2026-Nov-15",
+      "doi": "10.1111/coa.70196",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43036233/",
+      "pdf_url": null,
+      "study_design": "Human controlled comparative study; sample size not reported",
+      "summary_ar": "قارنت هذه الدراسة tissue mRNA expression لـ HGF وc-MET وserum protein levels لدى مرضى CRSwNP ومجموعة controls سليمة. كان tissue HGF mRNA expression أقل بشكل ملحوظ، بينما كان tissue c-MET mRNA expression أعلى لدى المرضى. كما ارتفعت blood eosinophil levels وSNOT-22 scores لدى المرضى مقارنةً بالcontrols. لم تختلف serum HGF وc-MET protein levels بشكل ملحوظ بين المجموعتين، ولم يوجد ارتباط واضح بين tissue expression ومستويات serum. تشير النتائج إلى dysregulation موضعي لمسار HGF/c-MET، لكن serum levels لا تبدو biomarkers غير جراحية مفيدة حاليًا.",
+      "summary_en": "This controlled human study compared tissue mRNA expression and serum protein levels of HGF and c-MET in patients with CRSwNP and healthy controls. Tissue HGF mRNA expression was significantly lower in patients, while tissue c-MET mRNA expression was higher. Blood eosinophil levels and SNOT-22 scores were also significantly higher in the patient group. Serum HGF and c-MET levels did not differ significantly between groups. Tissue expression did not correlate with serum levels, limiting their potential as non-invasive biomarkers.",
+      "practice_change_ar": "لا تغيّر هذه النتائج تدبير CRSwNP حاليًا، ولا تدعم استخدام serum HGF أو c-MET كاختبارات سريرية.",
+      "practice_change_en": "These findings do not currently change CRSwNP management and do not support serum HGF or c-MET as clinical tests.",
+      "future_impact_ar": "قد تساعد دراسات أكبر في تحديد ما إذا كان tissue HGF/c-MET expression يرتبط بأنماط المرض أو الاستجابة للعلاج.",
+      "future_impact_en": "Larger studies may determine whether tissue HGF/c-MET expression is associated with disease phenotypes or treatment response.",
+      "why_important_ar": "تقدم الدراسة بيانات بشرية عن اختلاف HGF وc-MET بين tissue وserum في CRSwNP، وتوضح أن القياسات الدموية لا تعكس بالضرورة التغيرات الموضعية.",
+      "why_important_en": "The study provides human data on tissue and serum HGF/c-MET in CRSwNP and shows that blood measurements may not reflect local tissue changes.",
+      "vs_previous_ar": "تضيف الدراسة مقارنة مباشرة بين tissue mRNA وserum protein لـ HGF وc-MET، لكنها لا تثبت قيمة serum كـ biomarker.",
+      "vs_previous_en": "The study adds a direct comparison of tissue mRNA and serum protein levels of HGF and c-MET, but does not establish serum biomarker value.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة مقارنة بشرية مضبوطة ذات novelty بيولوجية، لكنها لا تقدم تغييرًا للممارسة أو biomarker قابلًا للاستخدام، كما أن حجم العينة غير مذكور في الملخص.",
+      "stars_reason_en": "This is a controlled human comparative study with biological novelty, but it does not provide a practice-changing result or a usable biomarker; the abstract does not report the sample size.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it compares local and circulating markers and raises questions about serum biomarker validity in CRSwNP.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات أكبر مع وصف واضح للمجموعات وربط tissue HGF/c-MET بالphenotype وشدة المرض والاستجابة للعلاج.",
+      "research_gap_en": "Larger studies with clearly characterized cohorts should link tissue HGF/c-MET expression to phenotype, disease severity, and treatment response.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "في هذا الملخص من ORL Daily، نراجع دراسة عن HGF وc-MET لدى مرضى chronic rhinosinusitis with nasal polyps، أو CRSwNP. هدفت الدراسة إلى مقارنة التعبير الجيني في tissue بمستويات البروتين في serum، ومعرفة ما إذا كانت القياسات الدموية تعكس التغيرات الموضعية.\n\nشملت الدراسة مرضى بالغين خضعوا لـ FESS بسبب CRSwNP، إلى جانب controls أصحاء. قاس الباحثون tissue mRNA expression لـ HGF وc-MET باستخدام qPCR، وقياس serum protein levels باستخدام ELISA. كما قيّموا شدة المرض وquality of life باستخدام أنظمة تشمل Meltzer وLund-Mackay وSNOT-22. لم يذكر الملخص حجم العينة.\n\nكانت النتيجة الأساسية انخفاض tissue HGF mRNA expression وارتفاع tissue c-MET mRNA expression لدى المرضى مقارنةً بالcontrols. وارتفعت كذلك blood eosinophil levels وSNOT-22 scores. في المقابل، لم تختلف serum HGF أو c-MET protein levels بشكل ملحوظ بين المجموعتين، ولم يظهر ارتباط بين tissue expression ومستويات serum.\n\nتدعم النتائج احتمال وجود dysregulation موضعي في HGF/c-MET pathway في CRSwNP، لكنها لا تدعم استخدام serum HGF أو c-MET كـ non-invasive biomarkers في الوقت الحالي. الأثر العملي محدود: لا ينبغي تغيير التقييم أو العلاج السريري بناءً على هذه النتائج.\n\nتستحق الدراسة النقاش لأنها تقدم مقارنة مباشرة بين tissue وserum، لكن تفسيرها محدود بغياب حجم العينة في الملخص وبأنها لا تثبت علاقة سببية أو فائدة سريرية. الخطوة التالية هي دراسات أكبر تربط التعبير النسيجي بـ phenotype وشدة المرض والاستجابة للعلاج. الخلاصة: هذه دراسة تستحق المعرفة، لكنها لا تغيّر الممارسة حاليًا.",
+      "audio_script_en": "This ORL Daily review covers a study of HGF and c-MET in chronic rhinosinusitis with nasal polyps, or CRSwNP. The investigators compared gene expression in tissue with protein levels in serum and asked whether blood measurements reflect local changes.\n\nThe study included adults undergoing FESS for CRSwNP and healthy controls. Tissue mRNA expression of HGF and c-MET was measured using qPCR, and serum protein levels were measured using ELISA. Disease severity and quality of life were assessed using measures including the Meltzer and Lund-Mackay systems and SNOT-22. The abstract does not report the sample size.\n\nThe main findings were lower tissue HGF mRNA expression and higher tissue c-MET mRNA expression in patients than in controls. Blood eosinophil levels and SNOT-22 scores were also higher. By contrast, serum HGF and c-MET protein levels did not differ significantly between groups, and tissue expression did not correlate with serum levels.\n\nThese results suggest local dysregulation of the HGF/c-MET pathway in CRSwNP, but do not support serum HGF or c-MET as non-invasive biomarkers at present. The immediate clinical impact is limited: these findings should not change current assessment or treatment.\n\nThe study is worth discussing because it directly compares tissue and serum measurements. Interpretation is limited by the unreported sample size in the abstract and by the inability of this comparison to establish causality or clinical utility. Larger studies should examine whether tissue expression relates to disease phenotype, severity, or treatment response. The take-home message is that this is useful biological information, but it does not change practice today.",
+      "mcq": [
+        {
+          "q_ar": "ما التغير الذي وُجد في tissue HGF mRNA expression لدى مرضى CRSwNP؟",
+          "q_en": "What change in tissue HGF mRNA expression was found in patients with CRSwNP?",
+          "options_ar": [
+            "أ) كان أقل من controls",
+            "ب) كان أعلى من controls",
+            "ج) لم يختلف عن controls",
+            "د) لم يُقَس في الدراسة"
+          ],
+          "options_en": [
+            "A) It was lower than in controls",
+            "B) It was higher than in controls",
+            "C) It did not differ from controls",
+            "D) It was not measured"
+          ],
+          "answer": 0,
+          "explanation_ar": "كان tissue HGF mRNA expression أقل بشكل ملحوظ لدى مرضى CRSwNP.",
+          "explanation_en": "Tissue HGF mRNA expression was significantly lower in patients with CRSwNP."
+        },
+        {
+          "q_ar": "ما النتيجة المتعلقة بـ serum HGF وc-MET protein levels؟",
+          "q_en": "What was the finding regarding serum HGF and c-MET protein levels?",
+          "options_ar": [
+            "أ) ارتفع كلاهما بشكل ملحوظ لدى المرضى",
+            "ب) انخفض كلاهما بشكل ملحوظ لدى المرضى",
+            "ج) لم يختلفا بشكل ملحوظ بين المجموعتين",
+            "د) ارتبطا بقوة بـ tissue mRNA expression"
+          ],
+          "options_en": [
+            "A) Both were significantly higher in patients",
+            "B) Both were significantly lower in patients",
+            "C) Neither differed significantly between groups",
+            "D) Both strongly correlated with tissue mRNA expression"
+          ],
+          "answer": 2,
+          "explanation_ar": "لم يظهر فرق ذو دلالة في serum HGF أو c-MET protein levels، ولم يرتبطا بالتعبير النسيجي.",
+          "explanation_en": "Serum HGF and c-MET protein levels did not differ significantly and did not correlate with tissue expression."
+        },
+        {
+          "q_ar": "ما الاستنتاج العملي الأنسب من هذه الدراسة؟",
+          "q_en": "What is the most appropriate practical conclusion from this study?",
+          "options_ar": [
+            "أ) اعتماد serum HGF كاختبار تشخيصي روتيني",
+            "ب) تغيير علاج CRSwNP بناءً على serum c-MET",
+            "ج) اعتبار النتائج دليلًا على فائدة سريرية مؤكدة لـ HGF/c-MET",
+            "د) لا تدعم النتائج تغيير الممارسة أو استخدام serum levels كـ biomarkers حاليًا"
+          ],
+          "options_en": [
+            "A) Adopt serum HGF as a routine diagnostic test",
+            "B) Change CRSwNP treatment based on serum c-MET",
+            "C) Consider the results proof of established clinical utility for HGF/c-MET",
+            "D) The findings do not currently support practice changes or serum biomarkers"
+          ],
+          "answer": 3,
+          "explanation_ar": "لم تعكس serum levels التغيرات الموضعية، ولم تثبت الدراسة فائدة سريرية لتوجيه التدبير.",
+          "explanation_en": "Serum levels did not reflect local tissue changes, and the study did not establish clinical utility for management."
+        }
+      ]
+    },
+    {
+      "pmid": "43035053",
+      "title_ar": "Hypoglossal-facial nerve anastomosis for facial nerve injury after vestibular schwannoma surgery: A systematic review and meta-analysis.",
+      "title_en": "Hypoglossal-facial nerve anastomosis for facial nerve injury after vestibular schwannoma surgery: A systematic review and meta-analysis.",
+      "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+      "pub_date": "2026-Nov-15",
+      "doi": "10.1016/j.jocn.2026.112388",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43035053/",
+      "pdf_url": null,
+      "study_design": "Systematic review of 48 studies; meta-analysis of 4 comparative studies (866 patients overall)",
+      "summary_ar": "قيّمت هذه systematic review وmeta-analysis نتائج hypoglossal-facial nerve anastomosis (HFA) لعلاج facial nerve injury بعد resection of vestibular schwannoma. شملت المراجعة 48 دراسة و866 مريضًا، وكانت end-to-end هي التقنية الأكثر شيوعًا، تلتها side-to-end وتقنيات أخرى. أظهر 91.0% من المرضى تحسنًا في facial function، ووصل 46.4% إلى House-Brackmann grade III أو أفضل. في meta-analysis لأربع دراسات مقارنة، ارتبطت HFA باحتمال أعلى لنتيجة مواتية مقارنة بالعلاج التحفظي (OR 6.42، 95% CI 1.74–23.65؛ p-value=0.005). شملت المضاعفات tongue hemiatrophy لدى 22.5%، وصعوبات الأكل لدى 17.0%، وsynkinesis لدى 14.1%، واضطراب النطق لدى 8.3%. تشير النتائج إلى فائدة محتملة لاستعادة facial function، مع ضرورة موازنتها بمخاطر morbidity في اللسان والفم.",
+      "summary_en": "This systematic review and meta-analysis evaluated hypoglossal-facial nerve anastomosis (HFA) for facial nerve injury after vestibular schwannoma resection. It included 48 studies and 866 patients; end-to-end anastomosis was the most frequently reported technique. Facial function improved in 91.0% of patients, and 46.4% achieved House-Brackmann grade III or better. A meta-analysis of four comparative studies found higher odds of a favorable outcome with HFA than with conservative treatment (OR 6.42, 95% CI 1.74–23.65; p=0.005). Reported complications included tongue hemiatrophy (22.5%), eating difficulty (17.0%), synkinesis (14.1%), and speech disarticulation (8.3%). The findings support potential functional benefit, balanced against meaningful tongue and oral morbidity.",
+      "practice_change_ar": "تدعم النتائج مناقشة HFA كخيار لاستعادة facial function بعد إصابة facial nerve، مع شرح مخاطر tongue hemiatrophy ومضاعفات الأكل والنطق للمريض.",
+      "practice_change_en": "The findings support discussing HFA as a facial reanimation option after facial nerve injury, while counseling patients about tongue hemiatrophy and eating and speech complications.",
+      "future_impact_ar": "قد تساعد دراسات مقارنة مستقبلية ذات متابعة موحدة في تحديد أفضل تقنية وتوقيت لإجراء HFA وتقليل مضاعفاتها.",
+      "future_impact_en": "Future comparative studies with standardized follow-up may clarify the optimal HFA technique and timing and how to reduce complications.",
+      "why_important_ar": "تلخص هذه المراجعة نتائج HFA ومضاعفاتها في مجموعة كبيرة من المرضى بعد جراحة vestibular schwannoma.",
+      "why_important_en": "This review summarizes HFA outcomes and complications across a large group of patients treated after vestibular schwannoma surgery.",
+      "vs_previous_ar": "تضيف المراجعة تقديرات مجمعة للنتائج والمضاعفات، لكن قاعدة المقارنة المباشرة محدودة بأربع دراسات ولا تقلب المعرفة أو الممارسة الحالية.",
+      "vs_previous_en": "The review provides pooled estimates of outcomes and complications, but direct comparative evidence is limited to four studies and does not overturn current practice.",
+      "stars": 3,
+      "stars_reason_ar": "ثلاث نجوم: systematic review وmeta-analysis تشملان 48 دراسة، لكن معظم الأدلة غير مقارنة، والتحليل المقارن اقتصر على أربع دراسات؛ النتائج مفيدة سريريًا لكنها لا تكفي لتغيير الممارسة.",
+      "stars_reason_en": "Three stars: this systematic review and meta-analysis includes 48 studies, but most evidence is non-comparative and the pooled comparison includes only four studies; the findings are clinically useful but not sufficient to change practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for journal club discussion of reported benefit versus tongue-related morbidity, and of the limited comparative evidence and variation in techniques.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى دراسات مقارنة مستقبلية موحدة تقيس House-Brackmann grade والنتائج الوظيفية ومضاعفات اللسان بحسب تقنية HFA وتوقيت إجرائها.",
+      "research_gap_en": "Standardized prospective comparative studies are needed to assess House-Brackmann grade, functional outcomes, and tongue complications by HFA technique and timing.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نناقش اليوم مراجعة منهجية وتحليلًا تلويًا عن hypoglossal-facial nerve anastomosis، أو HFA، لعلاج facial nerve injury بعد جراحة vestibular schwannoma. جمعت الدراسة 48 دراسة شملت 866 مريضًا، مع تنوع في تقنيات إعادة التوصيل. كانت end-to-end هي الأكثر شيوعًا، وشملت التقنيات الأخرى side-to-end وhemihypoglossal-facial anastomosis ونقلًا مزدوجًا للأعصاب.\n\nمن حيث النتائج، تحسنت facial function لدى 91% من المرضى، لكن 46.4% فقط وصلوا إلى House-Brackmann grade III أو أفضل. وفي تحليل أربع دراسات مقارنة، كانت odds الوصول إلى نتيجة مواتية أعلى مع HFA مقارنة بالعلاج التحفظي؛ OR بلغ 6.42، مع 95% confidence interval من 1.74 إلى 23.65، وp-value تساوي 0.005.\n\nمع ذلك، التحسن لا يأتي من دون كلفة. أُبلغ عن tongue hemiatrophy لدى 22.5%، وصعوبة الأكل لدى 17%، وsynkinesis لدى 14.1%، واضطراب النطق لدى 8.3%. لذلك ينبغي مناقشة الفائدة المتوقعة ومخاطر المضاعفات المتعلقة باللسان والفم مع المرضى عند بحث خيارات facial reanimation.\n\nالتقييم العام هو ثلاث نجوم وثقة متوسطة: المراجعة واسعة ومفيدة، لكن الأدلة المقارنة المباشرة جاءت من أربع دراسات فقط، والتقنيات والنتائج ليست موحدة. لا تفرض هذه النتائج تغييرًا فوريًا في الممارسة، لكنها تدعم اعتبار HFA خيارًا علاجيًا في حالات مختارة. وتبقى الحاجة قائمة إلى دراسات مستقبلية تقارن التقنيات والتوقيت وتستخدم مقاييس موحدة للنتائج الوظيفية والمضاعفات. هذه المادة مناسبة لنادي المجلة، خصوصًا لمناقشة كيفية موازنة تحسن حركة الوجه مع مخاطر tongue-related morbidity.",
+      "audio_script_en": "Today’s review examines hypoglossal-facial nerve anastomosis, or HFA, for facial nerve injury after vestibular schwannoma surgery. The systematic review included 48 studies and 866 patients, with variation in the reconstruction techniques reported. End-to-end anastomosis was most common; other approaches included side-to-end, hemihypoglossal-facial anastomosis, and dual nerve transfer.\n\nFor outcomes, facial function improved in 91% of patients, while 46.4% reached House-Brackmann grade III or better. A meta-analysis of four comparative studies found higher odds of a favorable outcome with HFA than with conservative treatment: an odds ratio of 6.42, with a 95% confidence interval from 1.74 to 23.65 and a p-value of 0.005.\n\nThe potential benefit must be considered alongside complications. Tongue hemiatrophy was reported in 22.5% of patients, eating difficulty in 17%, synkinesis in 14.1%, and speech disarticulation in 8.3%. These risks are important to discuss when counseling patients about facial reanimation options.\n\nOverall, this is a three-star review with moderate confidence. Its broad scope is useful, but the direct comparative evidence comes from only four studies, and techniques and outcome reporting vary. The findings do not mandate an immediate change in practice, but they support HFA as an option to consider in selected patients. Future studies should compare techniques and timing using standardized functional outcomes and complication measures. This article is well suited to journal club, especially for discussing how to balance facial function improvement against tongue-related morbidity.",
+      "mcq": [
+        {
+          "q_ar": "كم عدد المرضى الذين شملتهم المراجعة؟",
+          "q_en": "How many patients were included in the review?",
+          "options_ar": [
+            "أ) 48",
+            "ب) 866",
+            "ج) 91",
+            "د) 4"
+          ],
+          "options_en": [
+            "A) 48",
+            "B) 866",
+            "C) 91",
+            "D) 4"
+          ],
+          "answer": 1,
+          "explanation_ar": "شملت المراجعة 48 دراسة تضم إجمالًا 866 مريضًا.",
+          "explanation_en": "The review included 48 studies comprising 866 patients overall."
+        },
+        {
+          "q_ar": "ما نسبة المرضى الذين وصلوا إلى House-Brackmann grade III أو أفضل؟",
+          "q_en": "What proportion of patients achieved House-Brackmann grade III or better?",
+          "options_ar": [
+            "أ) 22.5%",
+            "ب) 46.4%",
+            "ج) 91.0%",
+            "د) 17.0%"
+          ],
+          "options_en": [
+            "A) 22.5%",
+            "B) 46.4%",
+            "C) 91.0%",
+            "D) 17.0%"
+          ],
+          "answer": 1,
+          "explanation_ar": "وصل 46.4% من المرضى إلى House-Brackmann grade III أو أفضل؛ أما 91.0% فأظهروا أي تحسن في facial function.",
+          "explanation_en": "A total of 46.4% achieved House-Brackmann grade III or better; 91.0% showed some improvement in facial function."
+        },
+        {
+          "q_ar": "ما المضاعفة الأكثر شيوعًا من المضاعفات المذكورة؟",
+          "q_en": "Which was the most common of the reported complications?",
+          "options_ar": [
+            "أ) Synkinesis",
+            "ب) Speech disarticulation",
+            "ج) Tongue hemiatrophy",
+            "د) Eating difficulty"
+          ],
+          "options_en": [
+            "A) Synkinesis",
+            "B) Speech disarticulation",
+            "C) Tongue hemiatrophy",
+            "D) Eating difficulty"
+          ],
+          "answer": 2,
+          "explanation_ar": "كانت tongue hemiatrophy الأكثر شيوعًا، وقد أُبلغ عنها لدى 22.5% من المرضى.",
+          "explanation_en": "Tongue hemiatrophy was the most common reported complication, occurring in 22.5% of patients."
+        }
+      ]
+    },
+    {
+      "pmid": "41290050",
+      "title_ar": "Multivariable Normal Tissue Complication Probability Prediction of Early Grade Radiation-Induced Optic Neuropathy Using Visual Field Deficit in a Prospective Pencil Bean Scanning Proton Therapy Cohort.",
+      "title_en": "Multivariable Normal Tissue Complication Probability Prediction of Early Grade Radiation-Induced Optic Neuropathy Using Visual Field Deficit in a Prospective Pencil Bean Scanning Proton Therapy Cohort.",
+      "journal": "International journal of radiation oncology, biology, physics",
+      "pub_date": "2026-Nov-15",
+      "doi": "10.1016/j.ijrobp.2025.11.007",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41290050/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort; 105 patients analyzed (179 eyes)",
+      "summary_ar": "درست هذه prospective cohort حدوث grade 2+ radiation-induced optic neuropathy (RION) بعد pencil beam scanning proton therapy لدى مرضى paraoptic head and neck cancer وأورام central nervous system. شملت التحليلات 105 مرضى لديهم visual deficit معدوم أو بسيط قبل العلاج، مع متابعة median بلغت 3.6 سنوات. ظهر grade 2+ RION في 42/179 عينًا، بمتوسط onset بعد 12.1 شهرًا، بينما كان أداء Lyman-Kutcher-Burman models ضعيفًا (AUC=0.5). حققت random forest models التي أدرجت dosiomics AUC قدره 0.8، وكان baseline visual field deficit وoptic chiasm V50 من أقوى predictors. ارتبطت baseline deficits البسيطة وارتفاع V50 chiasma، إضافة إلى hypertension وhypercholesterolemia والجنس الأنثوي، بارتفاع NTCP. النتائج واعدة لتقدير الخطر المبكر، لكنها تحتاج إلى validation خارجي قبل استخدامها لتغيير قرارات العلاج.",
+      "summary_en": "This prospective cohort evaluated grade 2+ radiation-induced optic neuropathy (RION) after pencil beam scanning proton therapy in patients with paraoptic head and neck cancer or central nervous system tumors.\nThe analysis included 105 patients with no or minor pre-treatment visual deficits, representing 179 eyes, followed for a median of 3.6 years.\nGrade 2+ RION occurred in 42 eyes, with onset at a median of 12.1 months; Lyman-Kutcher-Burman models performed poorly (AUC 0.5).\nRandom forest models incorporating dosiomics achieved an AUC of 0.8.\nBaseline visual field deficit and optic chiasm V50 were among the strongest predictors.\nFemale sex, hypertension, and hypercholesterolemia were also associated with higher estimated risk; external validation is needed before clinical adoption.",
+      "practice_change_ar": "لا ينبغي تغيير قرارات العلاج حاليًا، لكن يمكن اعتبار baseline visual field assessment وoptic pathway dosimetry عنصرين مهمين لتقييم الخطر ومتابعة المرضى.",
+      "practice_change_en": "Treatment decisions should not change yet, but baseline visual field assessment and optic pathway dosimetry are important considerations for risk assessment and follow-up.",
+      "future_impact_ar": "إذا جرى التحقق الخارجي من النموذج، فقد يساعد على تخصيص optic pathway dose constraints وجدولة ophthalmologic surveillance.",
+      "future_impact_en": "If externally validated, the model could help individualize optic pathway dose constraints and ophthalmologic surveillance.",
+      "why_important_ar": "تكمن أهمية الدراسة في رصد visual field deficits مبكرًا بدل الاقتصار على blindness غير القابل للعكس كعلامة للسمية الشديدة.",
+      "why_important_en": "The study is important because it detects visual field deficits earlier rather than relying on irreversible blindness as the marker of severe toxicity.",
+      "vs_previous_ar": "على خلاف Lyman-Kutcher-Burman models ذات الأداء الضعيف في هذه المجموعة، دمج النموذج الجديد clinical features وdos iomics للتنبؤ بـ grade 2+ RION.",
+      "vs_previous_en": "Unlike the poorly performing Lyman-Kutcher-Burman models in this cohort, the new approach combined clinical features and dosiomics to predict grade 2+ RION.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة prospective cohort ذات نتائج سريرية ووسيلة prediction واعدة، لكنها ليست practice-changing بعد بسبب غياب external validation وعدم اختبار أثر النموذج على قرارات العلاج.",
+      "stars_reason_en": "A prospective cohort with clinically relevant findings and a promising prediction method, but it is not yet practice-changing because external validation and impact on treatment decisions are lacking.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Worth discussing for its use of visual field outcomes and random forest/dosiomics to predict early toxicity, while critically assessing the lack of external validation and the unit of analysis.",
+      "watch": true,
+      "watch_detail_ar": "راقبوا random forest NTCP prediction المعتمد على dosiomics، إذ قد يطور تخطيط proton therapy وتقدير مخاطر optic pathway إذا تأكد أداؤه في cohorts مستقلة.",
+      "watch_detail_en": "Track random forest NTCP prediction using dosiomics, which could improve proton therapy planning and optic pathway risk estimation if validated in independent cohorts.",
+      "watch_type": "technology",
+      "research_gap_ar": "يلزم external validation في cohorts متعددة المراكز، مع توضيح calibration والتحقق من العتبات والنتائج على مستوى المريض والعين.",
+      "research_gap_en": "Multicenter external validation is needed, including calibration assessment and confirmation of thresholds and outcomes at both patient and eye levels.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نناقش اليوم دراسة prospective cohort حول التنبؤ المبكر بـ radiation-induced optic neuropathy، أو RION، بعد pencil beam scanning proton therapy. ضمت الدراسة مرضى لديهم paraoptic head and neck cancer أو central nervous system tumors، لكن التحليل اقتصر على 105 مرضى، أي 179 عينًا، ممن كانت لديهم visual field deficits معدومة أو بسيطة قبل العلاج. أُجريت ophthalmologic assessments بصورة معيارية عند baseline ثم كل ستة أشهر، وكان تعريف grade 2+ RION هو visual field deficit أقل من -6 dB.\n\nخلال median follow-up بلغ 3.6 سنوات، ظهرت الحالة في 42 عينًا، وكان median onset بعد 12.1 شهرًا. من النقاط المهمة أن Lyman-Kutcher-Burman models لم تتنبأ بالنتائج أفضل من المصادفة، مع AUC يساوي 0.5. في المقابل، حققت random forest models التي أضافت dosiomics AUC قدره 0.8. كان baseline visual field deficit وoptic chiasm V50 من أبرز predictors، كما ارتبطت عوامل مثل hypertension وhypercholesterolemia والجنس الأنثوي بارتفاع NTCP.\n\nتضيف الدراسة قيمة لأنها تركز على visual field deficits المبكرة، بدل انتظار grade 4 RION أو blindness غير القابل للعكس. لكنها لا تثبت أن تعديل dose constraints وفق النموذج يحسن النتائج، كما أن الخوارزمية لم تُختبر في cohort مستقل. لذلك لا نوصي بتغيير قرارات العلاج اعتمادًا عليها وحدها. عمليًا، تدعم النتائج أهمية توثيق baseline visual fields ومتابعة الوظيفة البصرية بعد العلاج، خصوصًا لدى المرضى ذوي عوامل الخطر أو جرعات chiasm المرتفعة.\n\nهذه دراسة مفيدة للنقاش في journal club، لا سيما حول أداء النموذج، calibration، واحتمال overfitting. الخطوة التالية هي external validation متعددة المراكز، وتقييم ما إذا كان استخدام التنبؤ يغير التخطيط أو المتابعة ويحسن outcomes. الخلاصة: أداة prediction واعدة، لكنها ما زالت تحتاج إلى تحقق قبل اعتمادها سريريًا.",
+      "audio_script_en": "Today’s paper evaluates early prediction of radiation-induced optic neuropathy, or RION, after pencil beam scanning proton therapy. The prospective cohort included patients with paraoptic head and neck cancer or central nervous system tumors. The analysis focused on 105 patients, representing 179 eyes, with no or minor visual field deficits before treatment. Standardized ophthalmologic assessments were performed at baseline and every six months. Grade 2 or higher RION was defined as a visual field deficit below -6 dB.\n\nOver a median follow-up of 3.6 years, 42 eyes developed grade 2 or higher RION, with onset at a median of 12.1 months. The conventional Lyman-Kutcher-Burman models performed poorly, with an AUC of 0.5. Random forest models that incorporated dosiomics achieved an AUC of 0.8. Baseline visual field deficit and optic chiasm V50 were among the strongest predictors. Hypertension, hypercholesterolemia, and female sex were also associated with higher estimated NTCP.\n\nThe study’s key contribution is its focus on earlier visual field deficits rather than waiting for grade 4 RION or irreversible blindness. However, it does not establish that changing dose constraints according to the model improves patient outcomes, and the model has not been validated in an independent cohort. Therefore, the results do not justify changing treatment decisions on their own. Clinically, they reinforce the value of documenting baseline visual fields and monitoring vision after treatment, particularly in patients with risk factors or higher chiasm exposure.\n\nThis is a useful journal club paper for discussing model performance, calibration, and the risk of overfitting. The next steps are multicenter external validation and testing whether model-guided planning or follow-up improves outcomes. In summary, this is a promising prediction tool, but it needs further validation before routine clinical use.",
+      "mcq": [
+        {
+          "q_ar": "ما تعريف grade 2+ RION المستخدم في الدراسة؟",
+          "q_en": "How did the study define grade 2+ RION?",
+          "options_ar": [
+            "أ) انخفاض visual field أقل من -6 dB",
+            "ب) فقدان البصر الكامل فقط",
+            "ج) optic nerve dose يتجاوز 50 Gy وحده",
+            "د) أي شكوى بصرية ذاتية"
+          ],
+          "options_en": [
+            "A) Visual field deficit below -6 dB",
+            "B) Complete blindness only",
+            "C) Optic nerve dose above 50 Gy alone",
+            "D) Any subjective visual complaint"
+          ],
+          "answer": 0,
+          "explanation_ar": "عرّفت الدراسة grade 2+ RION بوجود visual field deficit أقل من -6 dB.",
+          "explanation_en": "The study defined grade 2+ RION as a visual field deficit below -6 dB."
+        },
+        {
+          "q_ar": "أي نموذج حقق أفضل أداء prediction في الدراسة؟",
+          "q_en": "Which model achieved the best predictive performance in the study?",
+          "options_ar": [
+            "أ) Lyman-Kutcher-Burman model",
+            "ب) Random forest model مع dosiomics",
+            "ج) نموذج يعتمد على العمر فقط",
+            "د) نموذج يعتمد على hypertension فقط"
+          ],
+          "options_en": [
+            "A) Lyman-Kutcher-Burman model",
+            "B) Random forest model incorporating dosiomics",
+            "C) An age-only model",
+            "D) A hypertension-only model"
+          ],
+          "answer": 1,
+          "explanation_ar": "حقق random forest model مع dosiomics AUC قدره 0.8، بينما كان AUC لنموذج Lyman-Kutcher-Burman يساوي 0.5.",
+          "explanation_en": "The random forest model with dosiomics achieved an AUC of 0.8, whereas the Lyman-Kutcher-Burman model had an AUC of 0.5."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن تطبيق النموذج سريريًا الآن؟",
+          "q_en": "What is the most appropriate conclusion about using the model clinically now?",
+          "options_ar": [
+            "أ) ينبغي تغيير proton therapy dose constraints فورًا",
+            "ب) يمكن الاستغناء عن ophthalmologic follow-up",
+            "ج) النموذج واعد، لكنه يحتاج إلى external validation قبل اعتماده",
+            "د) يثبت أن blindness يمكن منعها في جميع المرضى"
+          ],
+          "options_en": [
+            "A) Proton therapy dose constraints should be changed immediately",
+            "B) Ophthalmologic follow-up can be discontinued",
+            "C) The model is promising but needs external validation before adoption",
+            "D) It proves blindness can be prevented in all patients"
+          ],
+          "answer": 2,
+          "explanation_ar": "تدعم النتائج بحثًا إضافيًا واستخدام baseline visual field assessment، لكن غياب external validation يمنع اعتماد النموذج وحده لتغيير الممارسة.",
+          "explanation_en": "The findings support further evaluation and baseline visual field assessment, but the lack of external validation means the model should not independently drive practice changes."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026111601",
+      "title_ar": "ميدترونيك وكارل ستورز تتعاونان لتقديم حلول جراحية متكاملة في الأنف والأذن والحنجرة",
+      "title_en": "Medtronic and Karl Storz Collaborate on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-16",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أعلنت شركتا ميدترونيك وكارل ستورز عن تعاون يركز على تقديم حلول جراحية متكاملة لإجراءات الأنف والأذن والحنجرة. ويجمع التعاون بين تقنيات وخبرات الشركتين المتخصصتين في الأجهزة الطبية. ولم يتضمن الإعلان تفاصيل عن الشروط المالية أو موعد الإطلاق أو المنتجات والإجراءات التي سيشملها.",
+      "summary_en": "Medtronic and Karl Storz announced a collaboration focused on integrated surgical solutions for ear, nose, and throat procedures. The partnership brings together technologies and expertise from both medical-device companies. The announcement does not specify financial terms, a launch timeline, or which products and procedures will be included.",
+      "practice_change_ar": "ينبغي لجراحي الأنف والأذن والحنجرة انتظار تفاصيل إضافية عن توافر المنتجات وتوافقها وفوائدها لسير العمل قبل التفكير في تغيير تجهيزات غرف العمليات.",
+      "practice_change_en": "ENT surgeons should look for further details on product availability, compatibility, and workflow benefits before considering changes to their operating-room setup.",
+      "future_impact_ar": "قد يشير هذا التعاون إلى توجه أوسع نحو منصات جراحية متكاملة، لكن أثره العملي سيتوقف على المنتجات التي ستُطرح فعلياً.",
+      "future_impact_en": "The partnership may signal a broader industry move toward integrated surgical platforms, but its practical impact will depend on the products ultimately introduced.",
+      "why_important_ar": "إذا أثمر التعاون عن أدوات وسير عمل متوافقة، فقد يسهّل دمج المعدات ويدعم إجراء جراحات الأنف والأذن والحنجرة بكفاءة أكبر.",
+      "why_important_en": "If the collaboration delivers interoperable tools and workflows, it could simplify equipment integration and support more efficient ENT surgery.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "تعاون تجاري قد يهم قرارات تجهيز غرف العمليات، لكن تفاصيل المنتجات والأثر السريري لم تُعلن بعد.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "في أخبار قطاع الأنف والأذن والحنجرة، أعلنت ميدترونيك وكارل ستورز عن تعاون لتطوير حلول جراحية متكاملة. يجمع الاتفاق بين خبرات وتقنيات الشركتين في الأجهزة الطبية، مع تركيز على إجراءات الأنف والأذن والحنجرة. حتى الآن، لا تتوافر تفاصيل معلنة عن المنتجات التي سيشملها التعاون، أو موعد طرحها، أو شروطه المالية. بالنسبة للجراحين، قد يكون دمج الأنظمة والأدوات مفيداً إذا أدى إلى تحسين التوافق وتبسيط سير العمل داخل غرفة العمليات. لكن لا توجد في الإعلان معلومات كافية لتقييم أثر سريري مباشر أو لتبرير تغيير التجهيزات الحالية. يُنصح بمتابعة التفاصيل المتعلقة بالتوافر والتوافق والتكلفة قبل اتخاذ أي قرارات شراء أو تحديث.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026111602",
+      "title_ar": "الشركات الرائدة في مجال الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية",
+      "title_en": "Leading ENT Companies Driving Medical Technology Innovation",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-16",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "يُقدَّم الخبر على أنه نظرة عامة على الشركات الرائدة في قطاع الأنف والأذن والحنجرة ودورها في ابتكار التكنولوجيا الطبية. ولا يحدد الوصف المتاح شركات أو منتجات أو صفقات أو قرارات تنظيمية أو تطورات مالية بعينها. لذلك لا يثبت وقوع حدث تجاري محدد ولا يوفر تفاصيل كافية لتقييم الادعاءات أو آثارها.",
+      "summary_en": "The item is presented as an overview of leading companies in the ENT sector and their role in medical technology innovation. The provided description does not identify specific companies, products, transactions, regulatory decisions, or financial developments. It therefore does not establish a particular business event or provide enough detail to assess the claims or their implications.",
+      "practice_change_ar": "لا يمكن استنتاج أي تغيير فوري في الممارسة السريرية، إذ لا يتضمن الخبر تفاصيل عن منتج محدد أو أدلة بشأن استخدامه السريري.",
+      "practice_change_en": "No immediate change to clinical practice can be inferred because the item provides no specific product or evidence about clinical use.",
+      "future_impact_ar": "سيتوقف مسار القطاع مستقبلًا على ابتكارات محددة والتحقق السريري منها ووضعها التنظيمي ومدى اعتمادها، وهي أمور لا يتناولها هذا الخبر بالتفصيل.",
+      "future_impact_en": "The sector’s future direction will depend on specific innovations and their clinical validation, regulatory status, and adoption, none of which are detailed here.",
+      "why_important_ar": "يشير العنوان إلى الاهتمام المستمر بتكنولوجيا الأنف والأذن والحنجرة، لكن غياب التطورات المحددة يعني عدم وجود أثر سريري أو تشغيلي واضح.",
+      "why_important_en": "The headline signals ongoing interest in ENT technology, but without concrete developments it has no identifiable clinical or operational impact.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "الأهمية السريرية محدودة لأن الوصف لا يذكر تطورًا محددًا أو أثرًا على الممارسة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "يتناول عنوان هذا الخبر الشركات الرائدة في مجال الأنف والأذن والحنجرة ودورها في دفع الابتكار في التكنولوجيا الطبية. لكن المعلومات المتاحة لا تحدد أسماء الشركات أو التقنيات، ولا تذكر صفقة استحواذ أو قرارًا من إدارة الغذاء والدواء أو نتائج مالية أو بيانات سريرية. لذلك لا يمكن استخلاص تغيير عملي للأطباء أو تقييم أثر ابتكار بعينه على رعاية المرضى. بالنسبة إلى جرّاحي الأنف والأذن والحنجرة، تبقى أهمية الخبر عامة في تذكيرهم بتطور القطاع، لا في تقديم توصية سريرية جديدة. وسيكون من الضروري الاطلاع على تفاصيل المنتجات والأدلة السريرية ووضعها التنظيمي قبل الحكم على قيمتها أو إدخالها في الممارسة.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026111603",
+      "title_ar": "تقرير حجم سوق أجهزة الأنف والأذن والحنجرة وحصته ونموه حتى عام 2034",
+      "title_en": "ENT Devices Market Size, Share, and Growth Report Through 2034",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-16",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت Fortune Business Insights تقريرًا عن سوق أجهزة الأنف والأذن والحنجرة، يتناول حجم السوق وحصته ونموه حتى عام 2034. ولا يتضمن الخبر المقدم نتائج التقرير أو توقعاته أو فئات الأجهزة المحددة التي يغطيها. كما لا يشير إلى صفقة أو قرار تنظيمي أو تطور يخص شركة بعينها.",
+      "summary_en": "Fortune Business Insights has published a report on the ENT devices market, covering market size, share, and growth through 2034. The supplied news item does not include the report’s findings, projections, or specific device categories. No transaction, regulatory decision, or company-specific development is identified.",
+      "practice_change_ar": "قد يوفر التقرير سياقًا عن اتجاهات الأجهزة للجراحين، لكن المعلومات المتاحة لا تبرر تغيير الممارسة السريرية.",
+      "practice_change_en": "The report may offer market context for surgeons evaluating device trends, but the available information does not support a change in clinical practice.",
+      "future_impact_ar": "قد يسهم التقرير في رسم التوقعات لقطاع أجهزة الأنف والأذن والحنجرة حتى عام 2034، لكن أهميته تعتمد على النتائج والافتراضات التفصيلية.",
+      "future_impact_en": "The report may help frame expectations for the ENT device sector through 2034, but its relevance will depend on the detailed findings and assumptions.",
+      "why_important_ar": "قد تساعد توقعات السوق على فهم مشهد أجهزة الأنف والأذن والحنجرة، لكن الخبر لا يقدم آثارًا سريرية أو شرائية محددة.",
+      "why_important_en": "Market forecasts can inform awareness of the ENT device landscape, although no specific clinical or purchasing implications are provided here.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "أهمية محدودة للجراحين؛ فالخبر يعلن عن تقرير سوقي ولا يعرض نتائج أو آثارًا سريرية محددة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أعلنت Fortune Business Insights عن تقرير يتناول حجم سوق أجهزة الأنف والأذن والحنجرة وحصته وتوقعات نموه حتى عام 2034. لكن الخبر المتاح لا يعرض أرقامًا أو نتائج تفصيلية، ولا يحدد فئات الأجهزة التي شملها التقرير. لذلك لا يمكن استخلاص اتجاهات مؤكدة بشأن الأجهزة أو الشركات، ولا توجد معلومات تشير إلى تأثير مباشر على اختيار العلاج أو الممارسة السريرية. قد يكون التقرير مفيدًا لفهم صورة السوق على المدى البعيد، لكن تقييم أهميته يتطلب الاطلاع على تفاصيل منهجيته وافتراضاته ونتائجه. وبالنسبة إلى أطباء الأنف والأذن والحنجرة، لا يستدعي هذا الإعلان وحده تغييرًا في الممارسة.",
+      "mcq": []
+    }
+  ]
+}
