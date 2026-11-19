@@ -1,0 +1,1079 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T11:36:10Z",
+  "articles": [
+    {
+      "pmid": "43043969",
+      "title_ar": "A beam-membrane biomechanical vocal fold model incorporating posturing and glottal conformation.",
+      "title_en": "A beam-membrane biomechanical vocal fold model incorporating posturing and glottal conformation.",
+      "journal": "PLoS computational biology",
+      "pub_date": "2026-Nov-17",
+      "doi": "10.1371/journal.pcbi.1014936",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43043969/",
+      "pdf_url": "https://doi.org/10.1371/journal.pcbi.1014936",
+      "study_design": "Computational biomechanical model",
+      "summary_ar": "تقدم هذه الدراسة computational model منخفض التكلفة لمحاكاة biomechanics الخاصة بـ vocal fold posturing وglottal conformation. يتعامل النموذج مع body وcover بوصفهما composite beam وcoupled membrane، على التوالي. كما يدمج تأثير intrinsic laryngeal muscle activation في تحريك arytenoid cartilages وcricothyroid joint وإحداث moments عند حدود البنية. أنتج النموذج phonatory characteristics متوافقة نوعيًا مع نتائج high-fidelity finite-element models ومع observations سريرية سابقة. يتيح ذلك استكشاف أثر incomplete glottal closure في phonation dynamics بموارد حسابية أقل. لا تختبر الدراسة مرضى أو تدخلًا سريريًا، لذا تظل النتائج أداة بحثية وليست دليلًا لتغيير الممارسة حاليًا.",
+      "summary_en": "This study presents a computationally inexpensive model of vocal fold posturing and glottal conformation.\nIt represents the body and cover as a composite beam and a coupled membrane, respectively.\nIntrinsic laryngeal muscle activation influences arytenoid and cricothyroid positioning and applies boundary moments that affect glottal shape.\nThe model produces phonatory characteristics qualitatively consistent with high-fidelity finite-element models and clinical observations.\nIt offers a tractable way to study how incomplete glottal closure affects phonation dynamics.\nNo patients or clinical interventions were studied, so the findings do not directly support a change in practice.",
+      "practice_change_ar": "لا يغيّر هذا النموذج الممارسة السريرية اليوم، لكنه قد يساعد على تطوير فهم آليات phonation واضطرابات الصوت.",
+      "practice_change_en": "This model does not change clinical practice today, but may help improve understanding of phonation and voice-disorder mechanisms.",
+      "future_impact_ar": "قد يتيح النموذج إجراء parametric investigations واسعة لتحديد كيف تؤثر أنماط posturing وglottal closure في phonation disorders.",
+      "future_impact_en": "The model may enable large-scale parametric investigations of how posturing and glottal closure patterns affect phonation disorders.",
+      "why_important_ar": "تكمن أهمية الدراسة في تقديم إطار biomechanical أسرع لدراسة أثر incomplete glottal closure في dynamics إنتاج الصوت.",
+      "why_important_en": "The study offers a faster biomechanical framework for investigating how incomplete glottal closure affects voice-production dynamics.",
+      "vs_previous_ar": "بخلاف النماذج السابقة الأعلى كلفة حسابيًا، يدمج هذا النموذج تأثير muscle activation وposturing وglottal conformation ضمن إطار أبسط.",
+      "vs_previous_en": "Unlike more computationally expensive prior models, this framework incorporates muscle activation, posturing, and glottal conformation in a simpler model.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة computational biomechanical model ذات novelty وفائدة بحثية محتملة، لكن دون بيانات مرضى أو أثر مباشر على القرارات السريرية؛ لذلك تستحق 3 من 5.",
+      "stars_reason_en": "This computational biomechanical model is novel and potentially useful for research, but provides no patient data or direct clinical decision-making evidence; therefore, 3 out of 5 stars.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق المناقشة في journal club لأنها تقدم طريقة حسابية جديدة لدراسة تأثير posturing وglottal closure على phonation، مع ضرورة مناقشة حدود التحقق السريري.",
+      "jc_reason_en": "It merits journal club discussion as a new computational approach to studying how posturing and glottal closure affect phonation, while its clinical validation remains a key limitation.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا هذا computational technology لمعرفة ما إذا كان سيُتحقق منه سريريًا ويُستخدم لدراسة voice disorders أو توجيه نماذج تنبؤية.",
+      "watch_detail_en": "Track this computational technology to see whether it receives clinical validation and is applied to voice-disorder research or predictive modeling.",
+      "watch_type": "technology",
+      "research_gap_ar": "تحتاج الدراسة إلى validation مقابل بيانات سريرية كمية، وإلى اختبار قدرة النموذج على التنبؤ بخصائص phonation لدى مرضى ذوي أنماط glottal closure مختلفة.",
+      "research_gap_en": "The model needs validation against quantitative clinical data and testing of its ability to predict phonation characteristics in patients with different glottal closure patterns.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة في laryngology تقدم computational model جديدًا لمحاكاة biomechanics الخاصة بـ vocal folds. السؤال الأساسي هو كيف تؤثر وضعية vocal folds وشكل glottal closure في dynamics إنتاج الصوت، وما إذا كان بالإمكان دراسة هذه الظواهر دون الاعتماد دائمًا على نماذج حسابية باهظة التكلفة.\n\nيقسم النموذج بنية vocal fold إلى body وcover، ويمثلهما كـ composite beam وcoupled membrane. كما يدمج تأثير intrinsic laryngeal muscle activation؛ إذ يمكن لتنشيط العضلات أن يغير موضع arytenoid cartilages وcricothyroid joint، وأن يولد moments عند حدود البنية، ما يؤثر في glottal conformation.\n\nأنتج النموذج phonatory characteristics تتوافق نوعيًا مع ما ورد في high-fidelity finite-element models وفي الدراسات السريرية. ومن ثم يقدم إطارًا أقل كلفة لدراسة أثر incomplete glottal closure على phonation dynamics، وقد يساعد الباحثين على إجراء parametric investigations واسعة حول آليات بعض voice disorders.\n\nلكن من المهم تفسير النتائج بحذر: هذه دراسة computational model وليست تجربة على مرضى، ولا تثبت أن النموذج يستطيع تشخيص voice disorders أو اختيار علاج لها. كما أن التوافق النوعي لا يعادل validation سريريًا كميًا. لذلك لا يوجد تغيير فوري في الممارسة السريرية، ومستوى الثقة متوسط بوصفها معرفة جديرة بالمتابعة، لا دليلًا علاجيًا.\n\nتستحق الدراسة النقاش في journal club بسبب جمعها بين تمثيل posturing وglottal conformation مع كفاءة حسابية أفضل. الفجوة الأهم هي اختبار النموذج مقابل قياسات سريرية كمية، والتحقق من قدرته على التنبؤ بخصائص phonation لدى مرضى لديهم أنماط مختلفة من glottal closure. الخلاصة: أداة بحثية واعدة، لكن أثرها السريري المستقبلي يعتمد على validation مستقل.",
+      "audio_script_en": "Today’s laryngology article introduces a computational model for vocal fold biomechanics. The central problem is how vocal fold posture and glottal closure shape the dynamics of voice production, and whether these processes can be investigated without relying exclusively on computationally expensive models.\n\nThe model represents the vocal fold body and cover as a composite beam and a coupled membrane, respectively. It also incorporates intrinsic laryngeal muscle activation. Muscle activity can reposition the arytenoid cartilages and cricothyroid joint, while generating moments at structural boundaries that influence glottal conformation.\n\nThe resulting phonatory characteristics are qualitatively consistent with findings from high-fidelity finite-element models and clinical studies. The framework is therefore a less computationally demanding way to examine how incomplete glottal closure affects phonation dynamics. It may support large-scale parametric investigations into mechanisms relevant to some voice disorders.\n\nThere are important limitations. This is a computational model, not a patient study, and it does not show that the model can diagnose voice disorders or guide treatment. Qualitative agreement is also not the same as quantitative clinical validation. Consequently, the work does not change practice today. Confidence is moderate: it is useful research knowledge, rather than evidence for a clinical intervention.\n\nThe article is a good journal club topic because it combines posture and glottal conformation in a computationally efficient framework. The key research gap is validation against quantitative clinical measurements and testing whether the model can predict phonation characteristics in patients with differing glottal closure patterns. In short, this is a promising research technology, with future clinical value dependent on independent validation.",
+      "mcq": [
+        {
+          "q_ar": "كيف مثّل النموذج طبقتي vocal fold؟",
+          "q_en": "How did the model represent the two vocal fold layers?",
+          "options_ar": [
+            "أ) body كـ composite beam وcover كـ coupled membrane",
+            "ب) body وcover كـ fluid compartments",
+            "ج) body كـ cartilage وcover كـ bone",
+            "د) الطبقتان كـ rigid plates"
+          ],
+          "options_en": [
+            "A) The body as a composite beam and the cover as a coupled membrane",
+            "B) The body and cover as fluid compartments",
+            "C) The body as cartilage and the cover as bone",
+            "D) Both layers as rigid plates"
+          ],
+          "answer": 0,
+          "explanation_ar": "يعامل النموذج body وcover كـ composite beam وcoupled membrane، على التوالي.",
+          "explanation_en": "The model treats the body and cover as a composite beam and a coupled membrane, respectively."
+        },
+        {
+          "q_ar": "ما الأثر الذي قد تتركه intrinsic laryngeal muscle activation في النموذج؟",
+          "q_en": "What effect can intrinsic laryngeal muscle activation have in the model?",
+          "options_ar": [
+            "أ) تغيير مواضع arytenoid cartilages وcricothyroid joint وإحداث moments تؤثر في glottal conformation",
+            "ب) إيقاف airflow بالكامل",
+            "ج) تغيير كثافة الهواء فقط",
+            "د) إحداث تغييرات في cochlear function"
+          ],
+          "options_en": [
+            "A) Reposition the arytenoid cartilages and cricothyroid joint and apply moments that affect glottal conformation",
+            "B) Stop airflow completely",
+            "C) Change only air density",
+            "D) Alter cochlear function"
+          ],
+          "answer": 0,
+          "explanation_ar": "تؤثر muscle activation في positioning وتولد moments عند الحدود، ما يغير glottal conformation.",
+          "explanation_en": "Muscle activation affects positioning and generates boundary moments that influence glottal conformation."
+        },
+        {
+          "q_ar": "ما الاستنتاج السريري الأنسب لهذه الدراسة؟",
+          "q_en": "What is the most appropriate clinical interpretation of this study?",
+          "options_ar": [
+            "أ) تثبت فعالية علاج جديد لاضطرابات الصوت",
+            "ب) تبرر تغيير الممارسة السريرية فورًا",
+            "ج) تقدم أداة بحثية واعدة تحتاج إلى validation سريري",
+            "د) تثبت أن incomplete glottal closure لا يؤثر في phonation"
+          ],
+          "options_en": [
+            "A) It establishes the efficacy of a new treatment for voice disorders",
+            "B) It justifies an immediate change in clinical practice",
+            "C) It presents a promising research tool that requires clinical validation",
+            "D) It proves that incomplete glottal closure does not affect phonation"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة computational model وتقدم توافقًا نوعيًا، لكنها لا تتضمن اختبارًا سريريًا مباشرًا أو دليلًا لتغيير الممارسة.",
+          "explanation_en": "This is a computational model with qualitative agreement, but it includes no direct clinical testing or evidence for changing practice."
+        }
+      ]
+    },
+    {
+      "pmid": "42417428",
+      "title_ar": "Plasma oxytocin, early predictor of transient postoperative arginine vasopressin deficiency.",
+      "title_en": "Plasma oxytocin, early predictor of transient postoperative arginine vasopressin deficiency.",
+      "journal": "The Journal of clinical endocrinology and metabolism",
+      "pub_date": "2026-Nov-18",
+      "doi": "10.1210/clinem/dgag270",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42417428/",
+      "pdf_url": "https://doi.org/10.1210/clinem/dgag270",
+      "study_design": "Prospective observational cohort, n=74",
+      "summary_ar": "قاست هذه الدراسة مستويات plasma oxytocin وcopeptin لدى 74 مريضًا قبل transsphenoidal pituitary surgery، وبعد يوم واحد، وبعد 3 أشهر. قورنت النتائج بين المرضى الذين أصيبوا بـ postoperative arginine vasopressin deficiency (AVP-D) والذين بقوا normonatremic. كانت مستويات oxytocin أقل بشكل ملحوظ لدى مجموعة AVP-D قبل الجراحة وبعدها مباشرة، بينما ظهر انخفاض copeptin بشكل ملحوظ بعد الجراحة فقط. ارتبطت قيمة oxytocin قبل الجراحة الأقل من 69 pg/mL بالتنبؤ بـ AVP-D، بحساسية 90% ونوعية 66% وarea under the curve قدرها 0.76. لم تُحدد قيمة cutoff ذات دلالة لـ preoperative copeptin. ظلت مستويات oxytocin أقل بعد 3 أشهر لدى مرضى AVP-D، ما يدعم احتمال كونه مؤشرًا على posterior pituitary reserve، لكن النتائج تحتاج إلى تحقق مستقل قبل اعتمادها سريريًا.",
+      "summary_en": "This study measured plasma oxytocin and copeptin in 74 patients before transsphenoidal pituitary surgery, one day afterward, and at three months. Results were compared between patients who developed postoperative arginine vasopressin deficiency (AVP-D) and those who remained normonatremic. Oxytocin levels were significantly lower in the AVP-D group both before surgery and immediately afterward, whereas copeptin was significantly lower only after surgery. A preoperative oxytocin cutoff below 69 pg/mL predicted AVP-D with 90% sensitivity, 66% specificity, and an area under the curve of 0.76. No significant preoperative cutoff was identified for copeptin. Oxytocin remained lower at three months in patients with AVP-D, suggesting it may reflect posterior pituitary reserve; independent validation is needed before clinical adoption.",
+      "practice_change_ar": "لا تغيّر هذه النتائج الممارسة اليوم، لكنها تدعم دراسة plasma oxytocin كأداة مستقبلية لتقدير خطر AVP-D قبل transsphenoidal pituitary surgery.",
+      "practice_change_en": "These findings do not change practice today but support further evaluation of plasma oxytocin as a preoperative risk marker for AVP-D after transsphenoidal pituitary surgery.",
+      "future_impact_ar": "إذا تأكدت النتائج في cohorts مستقلة، فقد يساعد قياس preoperative oxytocin في تحديد المرضى الذين يحتاجون إلى مراقبة مبكرة ومكثفة لـ AVP-D.",
+      "future_impact_en": "If validated in independent cohorts, preoperative oxytocin measurement could help identify patients who need closer early monitoring for AVP-D.",
+      "why_important_ar": "قدّم البحث مقارنة مباشرة بين oxytocin وcopeptin وأظهر تفوق oxytocin في التنبؤ قبل الجراحة بمضاعفة مهمة بعد جراحة pituitary.",
+      "why_important_en": "The study directly compared oxytocin with copeptin and found oxytocin more promising for preoperative prediction of an important pituitary surgery complication.",
+      "vs_previous_ar": "على خلاف المعرفة السابقة التي طرحت oxytocin وcopeptin كمؤشرين محتملين دون مقارنة مباشرة، تشير هذه الدراسة إلى أفضلية preoperative oxytocin، مع بقاء الحاجة إلى التحقق.",
+      "vs_previous_en": "Unlike prior work that proposed oxytocin and copeptin as possible markers without directly comparing them, this study favors preoperative oxytocin, pending validation.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة cohort مستقبلية جيدة نسبيًا شملت 74 مريضًا وقدمت نتيجة مبتكرة، لكن حجمها محدود ودقتها التنبؤية متوسطة ولم تُثبت فائدتها لتغيير الممارسة.",
+      "stars_reason_en": "This prospective cohort of 74 patients offers a novel finding, but its modest size and only moderate predictive performance do not establish practice-changing utility.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق النقاش بسبب المقارنة المباشرة بين biomarkerين ووجود cutoff قابل للاختبار، مع أهمية مناقشة محدودية العينة والحاجة إلى validation.",
+      "jc_reason_en": "It merits discussion for its direct comparison of two biomarkers and testable cutoff, alongside the limited sample and need for validation.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج قيمة cutoff الخاصة بـ oxytocin إلى validation في cohorts أكبر ومتعددة المراكز مع تقييم أثرها على قرارات المراقبة والنتائج السريرية.",
+      "research_gap_en": "The oxytocin cutoff needs validation in larger multicenter cohorts, including assessment of its effect on monitoring decisions and clinical outcomes.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "في هذه الدراسة المنشورة في The Journal of Clinical Endocrinology and Metabolism، بحث المؤلفون عن مؤشر مبكر للتنبؤ بـ arginine vasopressin deficiency، أو AVP-D، بعد transsphenoidal pituitary surgery. شملت الدراسة cohort مستقبلية من 74 مريضًا، وقاست plasma oxytocin وcopeptin قبل الجراحة، وبعد يوم واحد، وبعد ثلاثة أشهر. قارن الباحثون المرضى الذين أصيبوا بـ AVP-D بمن بقيت مستويات sodium لديهم طبيعية.\n\nكانت النتيجة الأبرز أن oxytocin كان أقل بشكل ملحوظ لدى المرضى الذين أصيبوا بـ AVP-D قبل الجراحة وبعدها مباشرة. أما copeptin، فلم يظهر انخفاضًا ملحوظًا إلا بعد الجراحة، ولم تُحدد له قيمة preoperative cutoff ذات دلالة. ارتبطت قيمة oxytocin الأقل من 69 pg/mL قبل الجراحة بالتنبؤ بـ AVP-D، مع sensitivity تبلغ 90% وspecificity تبلغ 66%، وarea under the curve قدرها 0.76. بقي oxytocin منخفضًا أيضًا بعد ثلاثة أشهر لدى مجموعة AVP-D.\n\nتشير النتائج إلى أن oxytocin قد يعكس posterior pituitary reserve، وربما يكون أفضل من copeptin في التنبؤ قبل العملية. لكن هذه دراسة واحدة بعينة محدودة، كما أن specificity ليست مرتفعة بما يكفي لاعتبار الاختبار حاسمًا. لذلك لا ينبغي تغيير المراقبة أو التدبير السريري اعتمادًا على هذه النتائج وحدها.\n\nأهمية المقال أنه يقدم مقارنة مباشرة بين biomarkerين لمضاعفة مهمة في جراحة pituitary. والخطوة التالية هي validation في cohorts أكبر ومتعددة المراكز، ثم اختبار ما إذا كان استخدام oxytocin يحسن اختيار المرضى للمراقبة المكثفة أو النتائج السريرية. الخلاصة: نتيجة واعدة وجديرة بالمتابعة، لكنها حاليًا تضيف معرفة أكثر مما تغيّر الممارسة.",
+      "audio_script_en": "This study, published in The Journal of Clinical Endocrinology and Metabolism, investigated an early predictor of arginine vasopressin deficiency, or AVP-D, after transsphenoidal pituitary surgery. It included a prospective cohort of 74 patients. The researchers measured plasma oxytocin and copeptin before surgery, one day afterward, and at three months, comparing patients who developed AVP-D with those who remained normonatremic.\n\nThe main finding was that oxytocin levels were significantly lower in patients who developed AVP-D both before surgery and immediately afterward. Copeptin was significantly lower only after surgery, and no significant preoperative copeptin cutoff was identified. A preoperative oxytocin value below 69 pg/mL predicted AVP-D with 90% sensitivity and 66% specificity; the area under the curve was 0.76. Oxytocin also remained lower at three months in the AVP-D group.\n\nThese findings suggest that oxytocin may reflect posterior pituitary reserve and could outperform copeptin for preoperative prediction. However, this is a single, relatively small cohort, and the specificity is not high enough for the test to be considered definitive. The study does not justify changing clinical monitoring or management on its own.\n\nThe article is important because it directly compares two potential biomarkers for a meaningful complication of pituitary surgery. The next steps are validation in larger, multicenter cohorts and assessment of whether oxytocin-guided monitoring improves clinical decisions or outcomes. In summary, this is a promising result worth following, but for now it adds useful knowledge rather than changing practice.",
+      "mcq": [
+        {
+          "q_ar": "ما biomarker الذي أظهر أفضل قدرة على التنبؤ قبل الجراحة بـ postoperative AVP-D؟",
+          "q_en": "Which biomarker showed better preoperative prediction of postoperative AVP-D?",
+          "options_ar": [
+            "أ) Copeptin",
+            "ب) Oxytocin",
+            "ج) Sodium",
+            "د) لا شيء منهما"
+          ],
+          "options_en": [
+            "A) Copeptin",
+            "B) Oxytocin",
+            "C) Sodium",
+            "D) Neither biomarker"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان preoperative oxytocin أقل لدى المرضى الذين أصيبوا بـ AVP-D، وظهر له cutoff ذو دلالة، خلافًا لـ copeptin.",
+          "explanation_en": "Preoperative oxytocin was lower in patients who developed AVP-D and had a significant cutoff, unlike copeptin."
+        },
+        {
+          "q_ar": "ما قيمة preoperative oxytocin cutoff التي حددتها الدراسة للتنبؤ بـ AVP-D؟",
+          "q_en": "What preoperative oxytocin cutoff did the study identify for predicting AVP-D?",
+          "options_ar": [
+            "أ) أقل من 30 pg/mL",
+            "ب) أقل من 50 pg/mL",
+            "ج) أقل من 69 pg/mL",
+            "د) أكثر من 100 pg/mL"
+          ],
+          "options_en": [
+            "A) Below 30 pg/mL",
+            "B) Below 50 pg/mL",
+            "C) Below 69 pg/mL",
+            "D) Above 100 pg/mL"
+          ],
+          "answer": 2,
+          "explanation_ar": "حددت الدراسة cutoff قدره 69 pg/mL، بحساسية 90% ونوعية 66%.",
+          "explanation_en": "The study identified a cutoff of 69 pg/mL, with 90% sensitivity and 66% specificity."
+        },
+        {
+          "q_ar": "ما التفسير الأنسب للنتائج فيما يتعلق بالممارسة السريرية الحالية؟",
+          "q_en": "What is the most appropriate interpretation for current clinical practice?",
+          "options_ar": [
+            "أ) اعتماد oxytocin لتشخيص AVP-D بشكل قاطع",
+            "ب) إيقاف قياس copeptin في جميع المرضى",
+            "ج) تغيير التدبير السريري فورًا بناءً على cutoff",
+            "د) اعتبار oxytocin مؤشرًا واعدًا يحتاج إلى validation"
+          ],
+          "options_en": [
+            "A) Adopt oxytocin as a definitive diagnostic test for AVP-D",
+            "B) Stop measuring copeptin in all patients",
+            "C) Change management immediately based on the cutoff",
+            "D) Consider oxytocin a promising marker requiring validation"
+          ],
+          "answer": 3,
+          "explanation_ar": "النتائج واعدة لكنها مستمدة من cohort صغيرة نسبيًا ولم تُثبت بعد في دراسات مستقلة؛ لذلك لا تكفي لتغيير الممارسة.",
+          "explanation_en": "The findings are promising but come from a relatively small cohort and lack independent validation, so they are insufficient to change practice."
+        }
+      ]
+    },
+    {
+      "pmid": "41951378",
+      "title_ar": "Postnasal Drip and Antrostomy Narrowing after Surgery for Maxillary Sinus Fungus Ball.",
+      "title_en": "Postnasal Drip and Antrostomy Narrowing after Surgery for Maxillary Sinus Fungus Ball.",
+      "journal": "The Tohoku journal of experimental medicine",
+      "pub_date": "2026-Nov-17",
+      "doi": "10.1620/tjem.2026.J021",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41951378/",
+      "pdf_url": "https://www.jstage.jst.go.jp/article/tjem/advpub/0/advpub_2026.J021/_pdf",
+      "study_design": "Retrospective case series n=57",
+      "summary_ar": "قيّمت هذه الدراسة بأثر رجعي نتائج الجراحة لدى 57 مريضًا عولجوا من maxillary sinus fungus ball. لم تُسجّل أي حالة recurrence، بينما حدث narrowing أو closure في middle meatal antrostomy لدى 8 مرضى (14%). أبلغ 7 مرضى (12%) عن persistent postnasal drip (PND). ارتبط إجراء endoscopic modified medial maxillectomy (EMMM) مع inferior meatal antrostomy بزيادة احتمال الإحساس بـPND، مع odds ratio قدره 9.9 وconfidence interval بنسبة 95% من 1.52 إلى 64.63 (p-value = 0.017). تشير النتائج إلى أن recurrence نادرة، لكن PND قد يستمر لدى بعض المرضى بعد الجراحة. لا تثبت الدراسة أن الإجراء هو سبب PND، نظرًا إلى تصميمها retrospective وصغر عدد الأحداث.",
+      "summary_en": "This retrospective study assessed surgical outcomes in 57 patients treated for maxillary sinus fungus ball. No recurrence was observed, while narrowing or closure of the middle meatal antrostomy occurred in 8 patients (14%). Seven patients (12%) reported persistent postnasal drip (PND). Endoscopic modified medial maxillectomy (EMMM) combined with inferior meatal antrostomy was associated with PND, with an odds ratio of 9.9 (95% confidence interval 1.52–64.63; p-value = 0.017). The findings suggest that recurrence is uncommon, although PND may persist after surgery in some patients. The retrospective design and small number of events limit causal interpretation.",
+      "practice_change_ar": "لا تغيّر هذه النتائج اختيار الجراحة حاليًا، لكنها تدعم مناقشة احتمال PND بعد EMMM مع inferior meatal antrostomy ضمن الاستشارة قبل العملية.",
+      "practice_change_en": "These findings do not change surgical selection today, but support discussing the possibility of PND after EMMM with inferior meatal antrostomy during preoperative counseling.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية أكبر ومصممة استباقيًا في تحديد ما إذا كان تعديل اختيار المرضى أو التقنية يقلل PND بعد الجراحة.",
+      "future_impact_en": "Larger prospective studies may determine whether patient selection or technique modifications can reduce PND after surgery.",
+      "why_important_ar": "تُبرز الدراسة أن نجاح إزالة fungus ball وعدم recurrence لا يمنعان حدوث أعراض مستمرة أو تغيرات في antrostomy.",
+      "why_important_en": "The study highlights that successful fungus ball removal without recurrence does not preclude persistent symptoms or antrostomy changes.",
+      "vs_previous_ar": "تضيف الدراسة معلومات عن PND وnarrowing بعد الجراحة، وهي نتائج أقل تركيزًا من recurrence في التقارير المعتادة عن علاج fungus ball.",
+      "vs_previous_en": "The study adds information on postoperative PND and antrostomy narrowing, outcomes less often emphasized than recurrence in reports on fungus ball treatment.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة retrospective صغيرة نسبيًا شملت 57 مريضًا، وتقدم معلومات سريرية مفيدة عن نتائج ما بعد الجراحة، لكن اتساع confidence interval وقلة الأحداث يحدان من قوة الاستنتاج ولا يبرران تغيير الممارسة.",
+      "stars_reason_en": "This relatively small retrospective study of 57 patients provides useful clinical information on postoperative outcomes, but the wide confidence interval and few events limit the strength of its conclusions and do not justify a practice change.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The notable association between EMMM with inferior meatal antrostomy and PND merits discussion, alongside the limitations imposed by the small sample and retrospective design.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى دراسة prospective متعددة المراكز تحدد العوامل السببية المرتبطة بـPND وantrostomy narrowing بعد جراحة maxillary sinus fungus ball.",
+      "research_gap_en": "A prospective multicenter study is needed to identify causal factors associated with PND and antrostomy narrowing after surgery for maxillary sinus fungus ball.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم دراسة عن الأعراض والتغيرات التشريحية بعد جراحة maxillary sinus fungus ball. أُجريت الدراسة بأثر رجعي وشملت 57 مريضًا، وكان الهدف تحديد العوامل المرتبطة بـpersistent postnasal drip، أو PND، وبـnarrowing أو closure في antrostomy.\n\nالنتيجة المطمئنة هي عدم تسجيل أي recurrence خلال بيانات الدراسة. مع ذلك، ظهر narrowing أو closure في middle meatal antrostomy لدى 8 مرضى، أي 14%، وأبلغ 7 مرضى، أي 12%، عن PND. ارتبط إجراء endoscopic modified medial maxillectomy، أو EMMM، مع inferior meatal antrostomy بزيادة احتمال الإحساس بـPND. كان odds ratio يساوي 9.9، مع 95% confidence interval من 1.52 إلى 64.63 وp-value تساوي 0.017.\n\nما أهمية ذلك للممارسة؟ النتائج لا تثبت أن EMMM مع inferior meatal antrostomy يسبب PND، ولا تكفي لتغيير اختيار التقنية الجراحية. فالدراسة retrospective، وعدد المرضى والأحداث محدود، كما أن confidence interval واسع. لكنها تذكّرنا بأن غياب recurrence لا يعني بالضرورة غياب الأعراض بعد العملية، وأن من المناسب توضيح احتمال PND أثناء الاستشارة قبل الجراحة عند التفكير بهذا الإجراء.\n\nالخلاصة: يبدو recurrence غير شائع في هذه المجموعة، لكن بعض المرضى يعانون PND أو تغيرًا في antrostomy بعد الجراحة. وستكون هناك حاجة إلى دراسات prospective أكبر لتحديد ما إذا كان نوع العملية أو خصائص المرضى يفسر هذه النتائج، وما إذا كان بالإمكان تقليلها.",
+      "audio_script_en": "Today we review a study of symptoms and anatomical changes after surgery for maxillary sinus fungus ball. This retrospective case series included 57 patients and examined factors associated with persistent postnasal drip, or PND, and narrowing or closure of the antrostomy.\n\nThe reassuring finding was that no recurrence was observed in the study cohort. However, narrowing or closure of the middle meatal antrostomy occurred in 8 patients, or 14%, and 7 patients, or 12%, reported PND. Endoscopic modified medial maxillectomy, or EMMM, combined with inferior meatal antrostomy was associated with higher odds of PND. The odds ratio was 9.9, with a 95% confidence interval from 1.52 to 64.63 and a p-value of 0.017.\n\nWhat does this mean for practice? The findings do not establish that EMMM with inferior meatal antrostomy causes PND, and they are not sufficient to change surgical selection. The study was retrospective, the number of patients and events was limited, and the confidence interval was wide. Still, it is a useful reminder that absence of recurrence does not necessarily mean absence of postoperative symptoms. When this procedure is being considered, clinicians may wish to discuss the possibility of PND during preoperative counseling.\n\nIn summary, recurrence appeared uncommon in this cohort, but some patients experienced PND or antrostomy changes after surgery. Larger prospective studies are needed to determine whether the procedure itself or patient characteristics explain these outcomes, and whether they can be reduced.",
+      "mcq": [
+        {
+          "q_ar": "كم مريضًا شملته الدراسة؟",
+          "q_en": "How many patients were included in the study?",
+          "options_ar": [
+            "أ) 27",
+            "ب) 57",
+            "ج) 87",
+            "د) 107"
+          ],
+          "options_en": [
+            "A) 27",
+            "B) 57",
+            "C) 87",
+            "D) 107"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت هذه دراسة retrospective شملت 57 مريضًا.",
+          "explanation_en": "This retrospective study included 57 patients."
+        },
+        {
+          "q_ar": "ما نسبة المرضى الذين أبلغوا عن PND؟",
+          "q_en": "What proportion of patients reported PND?",
+          "options_ar": [
+            "أ) 5%",
+            "ب) 12%",
+            "ج) 14%",
+            "د) 25%"
+          ],
+          "options_en": [
+            "A) 5%",
+            "B) 12%",
+            "C) 14%",
+            "D) 25%"
+          ],
+          "answer": 1,
+          "explanation_ar": "أبلغ 7 من أصل 57 مريضًا عن PND، أي نحو 12%.",
+          "explanation_en": "Seven of the 57 patients reported PND, approximately 12%."
+        },
+        {
+          "q_ar": "أي إجراء ارتبط بزيادة احتمال الإحساس بـPND؟",
+          "q_en": "Which procedure was associated with increased odds of PND?",
+          "options_ar": [
+            "أ) EMMM مع inferior meatal antrostomy",
+            "ب) Septoplasty وحدها",
+            "ج) Turbinate reduction وحدها",
+            "د) عدم إجراء جراحة"
+          ],
+          "options_en": [
+            "A) EMMM with inferior meatal antrostomy",
+            "B) Septoplasty alone",
+            "C) Turbinate reduction alone",
+            "D) No surgery"
+          ],
+          "answer": 0,
+          "explanation_ar": "ارتبط EMMM مع inferior meatal antrostomy بـPND، لكن تصميم الدراسة لا يثبت علاقة سببية.",
+          "explanation_en": "EMMM with inferior meatal antrostomy was associated with PND, but the study design cannot establish causality."
+        }
+      ]
+    },
+    {
+      "pmid": "43045621",
+      "title_ar": "Vocal Fold Injection Augmentation Practices and Challenges: A Mixed Methods Study.",
+      "title_en": "Vocal Fold Injection Augmentation Practices and Challenges: A Mixed Methods Study.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Nov-17",
+      "doi": "10.1016/j.jvoice.2026.10.024",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43045621/",
+      "pdf_url": null,
+      "study_design": "Mixed-methods study: semi-structured interviews and survey of 20 fellowship-trained academic laryngologists",
+      "summary_ar": "تبحث هذه الدراسة في الممارسات والتحديات الحالية لـ vocal fold injection augmentation (VFIA) باستخدام مقابلات شبه منظمة واستبيان شمل 20 academic laryngologists. حدد التحليل النوعي 14 موضوعًا ضمن أربعة مجالات: اتخاذ القرار الأولي، والاعتبارات التقنية، والسلامة، والجوانب التنظيمية. شملت التحديات صعوبة injectability، ومخاوف reversibility، وعدم كفاءة سير العمل، والقيود المؤسسية. كان hyaluronic acid derivatives المادة الأكثر استخدامًا، إذ أفاد بها 16 من أصل 20 مشاركًا. أظهر الاستبيان تفضيلًا واضحًا لإجراء VFIA أثناء اليقظة، بمتوسط استخدام بلغ 80% من الحالات. توضح النتائج تباين الممارسات بين الخبراء وتدعم الحاجة إلى تحسين خصائص المواد والتحكم بالإجراء وتوحيد الممارسات، لكنها لا تثبت تفوق تقنية أو مادة بعينها.",
+      "summary_en": "This mixed-methods study examined current vocal fold injection augmentation (VFIA) practices and challenges through semi-structured interviews and a survey of 20 fellowship-trained academic laryngologists. The qualitative analysis identified 14 themes across four domains: initial decision-making, technical considerations, safety, and systems-level logistics. Reported challenges included injectability, reversibility concerns, workflow inefficiencies, and institutional constraints. Hyaluronic acid derivatives were the most commonly used material, reported by 16 of 20 participants. Respondents performed VFIA while patients were awake in a mean of 80% of cases. The findings document variation in expert practice and point to opportunities for improved materials, procedural control, and standardization, but do not establish the superiority of a particular technique or material.",
+      "practice_change_ar": "لا تبرر النتائج تغييرًا فوريًا في اختيار المادة أو التقنية، لكنها تشجع الأطباء على مراجعة سير العمل ومناقشة تفضيلاتهم مع مراعاة خصائص كل حالة.",
+      "practice_change_en": "The findings do not justify an immediate change in material or technique selection, but encourage clinicians to review workflow and consider patient-specific factors when choosing an approach.",
+      "future_impact_ar": "قد تدعم هذه النتائج أبحاثًا توافقية وتجارب مقارنة لتطوير مواد أكثر قابلية للحقن وتحسين التحكم والسلامة في VFIA.",
+      "future_impact_en": "These findings may inform consensus work and comparative studies to improve injectability, procedural control, and safety in VFIA.",
+      "why_important_ar": "توثق الدراسة أسباب اختلاف ممارسات الخبراء وتكشف تحديات عملية لا تظهر عادةً في الاستبيانات وحدها.",
+      "why_important_en": "The study documents why expert practices vary and identifies practical challenges that surveys alone may not capture.",
+      "vs_previous_ar": "تضيف الدراسة مقابلات نوعية تفسر مبررات اختيار المواد والتقنيات، بدل الاكتفاء بوصف أنماط الممارسة عبر الاستبيانات.",
+      "vs_previous_en": "It adds qualitative interviews explaining the reasoning behind material and technique choices, rather than only describing practice patterns through surveys.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة مختلطة نوعية وكمية شملت 20 laryngologists؛ تقدم معرفة مفيدة عن التباين والتحديات، لكنها لا تقارن النتائج السريرية ولا تغير الممارسة مباشرة.",
+      "stars_reason_en": "A mixed qualitative and quantitative study of 20 laryngologists; it provides useful insight into practice variation and challenges but does not compare clinical outcomes or directly change practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for discussion because it captures varied expert experience and raises questions about VFIA standardization, while allowing consideration of the small academic sample and lack of outcome comparisons.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى دراسات مستقبلية متعددة المراكز تقارن المواد والتقنيات ونتائج المرضى، وتقيس السلامة وقابلية العكس وكفاءة سير العمل.",
+      "research_gap_en": "Multicenter studies are needed to compare materials, techniques, and patient outcomes while measuring safety, reversibility, and workflow efficiency.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة بعنوان «Vocal Fold Injection Augmentation Practices and Challenges: A Mixed Methods Study»، منشورة في Journal of Voice. تركز الدراسة على vocal fold injection augmentation، أو VFIA، وتستكشف كيف يختار أطباء laryngology المواد والتقنيات، وما التحديات التي يواجهونها في الممارسة.\n\nاستخدم الباحثون تصميمًا مختلطًا شمل مقابلات شبه منظمة واستبيانًا لاحقًا مع 20 fellowship-trained academic laryngologists. حُللت المقابلات بطريقة استقرائية، وتوقفت المقابلات بعد الوصول إلى thematic saturation. حدد الباحثون 14 موضوعًا ضمن أربعة مجالات: اتخاذ القرار الأولي، والاعتبارات التقنية، والسلامة، وتنظيم سير العمل والممارسة.\n\nبرزت تحديات تشمل injectability، ومخاوف reversibility، وعدم كفاءة سير العمل، والقيود المؤسسية. وكان hyaluronic acid derivatives الأكثر استخدامًا، إذ اختاره 16 من المشاركين العشرين. كما أبلغ المشاركون عن إجراء VFIA أثناء اليقظة في 80% من الحالات في المتوسط.\n\nما أهمية ذلك؟ تقدم الدراسة وصفًا عمليًا لتباين الممارسة وتشرح بعض الأسباب وراءه، بما يتجاوز مجرد تعداد المواد المستخدمة. لكنها دراسة مقابلات واستبيان لخبراء أكاديميين، وليست تجربة مقارنة؛ لذلك لا تثبت أن مادة أو تقنية معينة أفضل، ولا تقدم دليلًا لتغيير الممارسة فورًا. يمكن للأطباء الاستفادة منها لمراجعة تحدياتهم المحلية وتحديد ما يحتاج إلى تحسين في سير العمل.\n\nالخلاصة أن الدراسة ذات قيمة معرفية وتناسب النقاش في journal club، لكن مستوى الثقة يبقى متوسطًا لأنها لا تقيس نتائج المرضى المقارنة. تتمثل الفجوة البحثية في الحاجة إلى دراسات متعددة المراكز تقارن المواد والتقنيات، وتقيّم السلامة والفعالية وقابلية العكس وكفاءة الإجراء. قد تساعد هذه الأدلة مستقبلًا على تطوير توصيات أكثر توحيدًا لـ VFIA.",
+      "audio_script_en": "Today we review “Vocal Fold Injection Augmentation Practices and Challenges: A Mixed Methods Study,” published in the Journal of Voice. The study focuses on vocal fold injection augmentation, or VFIA, and explores how laryngologists select materials and techniques, as well as the practical barriers they encounter.\n\nThe investigators used a mixed-methods design: semi-structured interviews followed by a survey of 20 fellowship-trained academic laryngologists. Interviews were analyzed inductively, and recruitment stopped after thematic saturation. The analysis identified 14 themes in four domains: initial decision-making, technical considerations, safety, and systems-level logistics.\n\nKey challenges included injectability, concerns about reversibility, inefficient workflows, and institutional constraints. Hyaluronic acid derivatives were the most commonly used material, reported by 16 of the 20 participants. On average, respondents performed VFIA while patients were awake in 80% of cases.\n\nWhy does this matter? The study offers a practical account of variation in expert practice and provides insight into the reasoning behind that variation—information that simple counts of materials may not capture. However, this is an interview and survey study of academic experts, not a comparative trial. It does not demonstrate that one material or technique is superior, and it does not provide evidence for an immediate change in clinical practice. Clinicians can use the findings to reflect on local workflow and identify barriers worth addressing.\n\nOverall, this is useful knowledge and a good journal-club article, but confidence is moderate because comparative patient outcomes were not measured. Future multicenter research should compare materials and techniques and assess safety, efficacy, reversibility, and procedural efficiency. Such evidence could eventually support more standardized VFIA recommendations.",
+      "mcq": [
+        {
+          "q_ar": "ما نوع التصميم المستخدم في هذه الدراسة؟",
+          "q_en": "What study design did the investigators use?",
+          "options_ar": [
+            "أ) تجربة عشوائية محكومة",
+            "ب) دراسة مختلطة شملت مقابلات واستبيانًا",
+            "ج) مراجعة منهجية وتحليل تلوي",
+            "د) سلسلة حالات استعادية"
+          ],
+          "options_en": [
+            "A) Randomized controlled trial",
+            "B) Mixed-methods study with interviews and a survey",
+            "C) Systematic review and meta-analysis",
+            "D) Retrospective case series"
+          ],
+          "answer": 1,
+          "explanation_ar": "جمعت الدراسة بين مقابلات شبه منظمة وتحليل نوعي واستبيان كمي شمل 20 laryngologists.",
+          "explanation_en": "The study combined semi-structured interviews and qualitative analysis with a quantitative survey of 20 laryngologists."
+        },
+        {
+          "q_ar": "ما المادة الأكثر استخدامًا بين المشاركين؟",
+          "q_en": "Which material was most commonly used by participants?",
+          "options_ar": [
+            "أ) Calcium hydroxyapatite",
+            "ب) Autologous fat",
+            "ج) Hyaluronic acid derivatives",
+            "د) Silicone"
+          ],
+          "options_en": [
+            "A) Calcium hydroxyapatite",
+            "B) Autologous fat",
+            "C) Hyaluronic acid derivatives",
+            "D) Silicone"
+          ],
+          "answer": 2,
+          "explanation_ar": "أفاد 16 من أصل 20 مشاركًا باستخدام hyaluronic acid derivatives بوصفها المادة الأكثر استخدامًا.",
+          "explanation_en": "Sixteen of the 20 participants reported hyaluronic acid derivatives as their most commonly used material."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن أثر هذه الدراسة على الممارسة الحالية؟",
+          "q_en": "What is the most appropriate conclusion about this study’s effect on current practice?",
+          "options_ar": [
+            "أ) تثبت تفوق hyaluronic acid على جميع المواد الأخرى",
+            "ب) تفرض إجراء VFIA أثناء اليقظة في جميع الحالات",
+            "ج) تقدم وصفًا مفيدًا للتباين والتحديات، لكنها لا تثبت تفوق مادة أو تقنية",
+            "د) تثبت أن VFIA غير آمن"
+          ],
+          "options_en": [
+            "A) It proves hyaluronic acid is superior to all other materials",
+            "B) It mandates awake VFIA in every case",
+            "C) It describes useful practice variation and challenges but does not establish material or technique superiority",
+            "D) It proves VFIA is unsafe"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة ترصد خبرات وتفضيلات الخبراء، لكنها لا تقارن النتائج السريرية ولا تختبر سببيًا أفضلية مادة أو تقنية.",
+          "explanation_en": "The study describes expert experiences and preferences but does not compare clinical outcomes or test the superiority of a material or technique."
+        }
+      ]
+    },
+    {
+      "pmid": "43041503",
+      "title_ar": "Effect of Cumulative Surgeon Volume on Revision Endoscopic Sinus Surgery in Adults: A Population-Based Study in Taiwan.",
+      "title_en": "Effect of Cumulative Surgeon Volume on Revision Endoscopic Sinus Surgery in Adults: A Population-Based Study in Taiwan.",
+      "journal": "International forum of allergy & rhinology",
+      "pub_date": "2026-Nov-17",
+      "doi": "10.1002/alr.70311",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43041503/",
+      "pdf_url": null,
+      "study_design": "Retrospective population-based cohort; 108,444 adults",
+      "summary_ar": "قيّمت هذه retrospective cohort العلاقة بين cumulative surgeon volume واحتياج البالغين إلى revision ESS، باستخدام بيانات Taiwan National Health Insurance Research Database. شملت الدراسة 108,444 مريضًا خضعوا لـ ESS بين 2001 و2014، وتابعتهم حتى 2019. بلغ معدل first revision ‏11.9%، بينما بلغ معدل second revision ‏2.2%. ارتبط انخفاض cumulative surgeon volume بارتفاع معدل first revision؛ وكانت المعدلات 12% في Q1، و13% في Q2، و11.4% في كل من Q3 وQ4، مع p for trend < 0.001. كان الارتباط أقل وضوحًا بالنسبة إلى second revision، وظهر تأثير أكثر بروزًا في high-volume hospitals، مع p for interaction < 0.001. أظهر restricted cubic spline أن انخفاض revision rate كان غير خطي وأكثر سرعة بعد نحو 585 cumulative cases. تشير النتائج إلى ارتباط بين خبرة الجراح المتراكمة واحتمال revision، لكنها لا تثبت علاقة سببية أو تحدد حدًا مضمونًا للكفاءة.",
+      "summary_en": "This retrospective population-based cohort examined whether cumulative surgeon volume was associated with revision ESS among adults in Taiwan. It included 108,444 patients who underwent ESS from 2001 to 2014, with follow-up through 2019. The first revision rate was 11.9%, and the second revision rate was 2.2%. Lower cumulative surgeon volume was associated with a higher first revision rate: 12% in Q1, 13% in Q2, and 11.4% in both Q3 and Q4 (p for trend < 0.001). The association was less apparent for second revision and was more prominent in high-volume hospitals (p for interaction < 0.001). Restricted cubic spline analysis showed a nonlinear pattern, with a more rapid decline in revision rate after approximately 585 cumulative cases. These observational findings indicate an association, not proof of causation or a guaranteed competency threshold.",
+      "practice_change_ar": "لا تبرر هذه النتائج تغيير اختيار الجراح أو وضع حد أدنى إلزامي للحالات، لكنها تدعم أخذ cumulative surgeon volume في الاعتبار ضمن تقييم جودة ESS.",
+      "practice_change_en": "These findings do not justify changing surgeon selection or setting a mandatory case threshold, but support considering cumulative surgeon volume in ESS quality assessment.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية تربط حجم الجراح بعوامل شدة المرض والتقنية والنتائج السريرية في تطوير معايير تدريب وتقييم أكثر دقة.",
+      "future_impact_en": "Future studies linking surgeon volume to disease severity, operative technique, and clinical outcomes may help develop more precise training and quality benchmarks.",
+      "why_important_ar": "تقدم هذه الدراسة السكانية الكبيرة دليلًا على أن cumulative surgeon volume قد يرتبط باحتمال إجراء first revision بعد ESS.",
+      "why_important_en": "This large population-based study suggests that cumulative surgeon volume may be associated with the likelihood of first revision after ESS.",
+      "vs_previous_ar": "تضيف الدراسة تحليلًا سكانيًا لحجم الجراح المتراكم، وتصف علاقة غير خطية وتباينًا بحسب حجم المستشفى، بدل الاقتصار على مقارنة عامة لخبرة الجراح.",
+      "vs_previous_en": "The study adds a population-based assessment of cumulative surgeon volume, describing a nonlinear association and variation by hospital volume rather than only a general comparison of surgeon experience.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة retrospective cohort كبيرة قائمة على قاعدة بيانات سكانية، ما يمنحها قيمة وصفية جيدة، لكن التصميم الرصدي واحتمال confounding وعدم إثبات السببية يحدّان من قوة الاستنتاج؛ والنتائج مفيدة لمعرفة جودة الرعاية دون أن تغيّر الممارسة مباشرة.",
+      "stars_reason_en": "This is a large retrospective population-based cohort with useful descriptive value, but its observational design, potential confounding, and inability to establish causality limit the evidence; it informs quality assessment without directly changing practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The large cohort, first-revision findings, and nonlinear association merit discussion, alongside potential confounding and the limitations of using case counts as a measure of competence.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "ينبغي إجراء دراسات مستقبلية تضبط شدة chronic rhinosinusitis، ووجود nasal polyps، والتقنية الجراحية، وخصائص الجراح والمستشفى لتحديد ما إذا كان حجم الحالات يؤثر سببيًا في revision.",
+      "research_gap_en": "Future studies should account for chronic rhinosinusitis severity, nasal polyps, operative technique, and surgeon and hospital characteristics to determine whether case volume causally affects revision.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم دراسة سكانية من Taiwan عن cumulative surgeon volume ونتائج revision بعد endoscopic sinus surgery، أو ESS، لدى البالغين. استخدم الباحثون بيانات التأمين الصحي الوطنية، وشملت العينة 108,444 مريضًا أجروا ESS بين 2001 و2014، مع متابعة حتى 2019. صُنّف الجراحون إلى أربعة أرباع بحسب عدد الحالات المتراكمة: من very low إلى very high volume.\n\nكان معدل first revision 11.9%، بينما كان معدل second revision 2.2%. ارتبط انخفاض حجم الجراح المتراكم بارتفاع first revision: 12% في الربع الأول، و13% في الثاني، مقابل 11.4% في كل من الربعين الثالث والرابع، مع p for trend أقل من 0.001. كان ارتباط حجم الجراح بـ second revision أقل وضوحًا. وظهر تأثير أكثر بروزًا في high-volume hospitals، مع p for interaction أقل من 0.001. كما أظهر restricted cubic spline علاقة غير خطية، مع تراجع أسرع في revision rate بعد نحو 585 حالة متراكمة.\n\nما أهمية ذلك؟ تقدم الدراسة بيانات واسعة تدعم احتمال ارتباط خبرة الجراح المتراكمة باحتمال first revision، وتلفت الانتباه إلى تفاعل محتمل بين خبرة الجراح وحجم المستشفى. لكنها retrospective، ولا تثبت أن زيادة عدد الحالات بحد ذاتها تمنع revision. كما أن بيانات الملخص لا تحسم أثر عوامل مثل شدة المرض، ووجود nasal polyps، والتقنية الجراحية، أو اختلاف متابعة المرضى.\n\nلذلك لا ينبغي اعتبار 585 حالة حدًا إلزاميًا للكفاءة أو تغيير اختيار الجراح اعتمادًا على هذه النتيجة وحدها. عمليًا، يمكن أن تكون cumulative volume أحد مؤشرات تقييم الجودة، إلى جانب النتائج المعدّلة بحسب خصائص المرضى والتدريب والخبرة. الخلاصة: دراسة كبيرة ومفيدة للنقاش، لكنها لا تغيّر الممارسة اليوم، وتدعو إلى دراسات مستقبلية تضبط عوامل confounding وتختبر العلاقة السببية.",
+      "audio_script_en": "Today’s study examines cumulative surgeon volume and revision after endoscopic sinus surgery, or ESS, in adults in Taiwan. Using national health insurance data, the investigators identified 108,444 adults who underwent ESS from 2001 through 2014 and followed them until 2019. Surgeons were grouped into four quartiles based on cumulative case volume, ranging from very low to very high.\n\nThe first revision rate was 11.9%, and the second revision rate was 2.2%. Lower cumulative surgeon volume was associated with a higher first revision rate: 12% in Q1, 13% in Q2, and 11.4% in both Q3 and Q4, with a p for trend below 0.001. The association was less apparent for second revision. The effect was more prominent in high-volume hospitals, with a p for interaction below 0.001. Restricted cubic spline analysis suggested a nonlinear relationship, with a more rapid decline in revision rate after approximately 585 cumulative cases.\n\nWhy does this matter? The large cohort suggests that cumulative surgeon experience may be associated with the likelihood of first revision, and that the relationship may vary with hospital volume. However, this was a retrospective observational study, so it cannot establish that case volume itself prevents revision. The abstract also does not resolve the contribution of factors such as disease severity, nasal polyps, surgical technique, or differences in follow-up.\n\nThe findings therefore do not establish 585 cases as a required competency threshold and should not, by themselves, determine surgeon selection. Cumulative volume could be considered as one quality-assessment measure, alongside case-mix-adjusted outcomes, training, and other measures of experience. Overall, this is a large and useful study for discussion, but it does not change practice today. Further research should account for potential confounders and test whether the observed association is causal.",
+      "mcq": [
+        {
+          "q_ar": "ما معدل first revision المبلغ عنه في الدراسة؟",
+          "q_en": "What first revision rate did the study report?",
+          "options_ar": [
+            "أ) 2.2%",
+            "ب) 11.9%",
+            "ج) 25%",
+            "د) 61%"
+          ],
+          "options_en": [
+            "A) 2.2%",
+            "B) 11.9%",
+            "C) 25%",
+            "D) 61%"
+          ],
+          "answer": 1,
+          "explanation_ar": "بلغ معدل first revision ‏11.9%، بينما بلغ معدل second revision ‏2.2%.",
+          "explanation_en": "The first revision rate was 11.9%, whereas the second revision rate was 2.2%."
+        },
+        {
+          "q_ar": "بعد نحو كم حالة متراكمة أظهر التحليل انخفاضًا أسرع في revision rate؟",
+          "q_en": "After approximately how many cumulative cases did the analysis show a more rapid decline in revision rate?",
+          "options_ar": [
+            "أ) 183",
+            "ب) 480",
+            "ج) 585",
+            "د) 1,035"
+          ],
+          "options_en": [
+            "A) 183",
+            "B) 480",
+            "C) 585",
+            "D) 1,035"
+          ],
+          "answer": 2,
+          "explanation_ar": "أشار restricted cubic spline إلى انخفاض أسرع بعد نحو 585 cumulative cases؛ وهذا وصف للعلاقة وليس حدًا مثبتًا للكفاءة.",
+          "explanation_en": "Restricted cubic spline analysis indicated a more rapid decline after approximately 585 cumulative cases; this describes the association and is not a validated competency threshold."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن العلاقة بين cumulative surgeon volume وrevision؟",
+          "q_en": "What is the most appropriate interpretation of the association between cumulative surgeon volume and revision?",
+          "options_ar": [
+            "أ) تثبت الدراسة أن زيادة عدد الحالات تمنع revision سببيًا.",
+            "ب) ارتبط انخفاض الحجم بارتفاع first revision، لكن التصميم لا يثبت السببية.",
+            "ج) كان الارتباط واضحًا بالدرجة نفسها مع first وsecond revision.",
+            "د) لم يظهر أي اختلاف بحسب حجم المستشفى."
+          ],
+          "options_en": [
+            "A) The study proves that increasing case volume causally prevents revision.",
+            "B) Lower volume was associated with more first revisions, but the design does not establish causality.",
+            "C) The association was equally clear for first and second revision.",
+            "D) No differences by hospital volume were observed."
+          ],
+          "answer": 1,
+          "explanation_ar": "هذه retrospective cohort؛ لذا تدعم وجود association لكنها لا تثبت السببية، وكان الارتباط أقل وضوحًا مع second revision وأكثر بروزًا في high-volume hospitals.",
+          "explanation_en": "This retrospective cohort supports an association but cannot prove causality. The finding was less apparent for second revision and more prominent in high-volume hospitals."
+        }
+      ]
+    },
+    {
+      "pmid": "43051493",
+      "title_ar": "The Completeness of Surgery Index (CoSI) in Chronic Rhinosinusitis with Nasal Polyps: A Multi-Institutional Study.",
+      "title_en": "The Completeness of Surgery Index (CoSI) in Chronic Rhinosinusitis with Nasal Polyps: A Multi-Institutional Study.",
+      "journal": "Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology",
+      "pub_date": "2026-Nov-18",
+      "doi": "10.1016/j.anai.2026.11.017",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43051493/",
+      "pdf_url": null,
+      "study_design": "Retrospective multi-institutional cohort n=160",
+      "summary_ar": "قيّمت هذه الدراسة متعددة المؤسسات قدرة CoSI، وهو scoring system قائم على CT، على التنبؤ بتحسن الأعراض بعد revision ESS لدى مرضى CRSwNP. شملت الدراسة 160 مريضًا أجروا revision ESS في ثمانية مراكز رعاية تخصصية بين 2022 و2024. المرضى الذين كان لديهم CoSI <70 حققوا تحسنًا أكبر في SNOT-22 خلال 6–24 شهرًا مقارنةً بمن كانت درجاتهم ≥70 (35.2 مقابل 18.7 نقطة؛ p<0.001). بقي هذا الارتباط ذا دلالة بعد ضبط عوامل سريرية متعددة، منها asthma وAERD وعدد العمليات السابقة واستخدام biologic والدرجة الأساسية لـSNOT-22. كما دعمت التحليلات غير الخطية وتحليلات العتبة وجود انتقال ذي أهمية سريرية قرب CoSI 70. تشير النتائج إلى أن عدم اكتمال الجراحة السابقة عامل قابل للتصحيح وقد يساعد CoSI على تحديد المرضى الأكثر احتمالًا للاستفادة من revision surgery.",
+      "summary_en": "This multi-institutional study evaluated whether CoSI, a CT-based scoring system, predicts symptom improvement after revision ESS in patients with CRSwNP. It included 160 patients who underwent revision ESS at eight tertiary care centers between 2022 and 2024. Patients with CoSI <70 had greater SNOT-22 improvement at 6–24 months than those with scores ≥70 (35.2 vs 18.7 points; p<0.001). The association remained significant after adjustment for several clinical factors, including asthma, AERD, prior ESS count, biologic use, and baseline SNOT-22. Nonlinear and threshold analyses also supported a clinically relevant transition near CoSI 70. The findings suggest that incomplete prior surgery is a potentially correctable contributor to persistent symptoms and that CoSI may help identify patients more likely to benefit from revision surgery.",
+      "practice_change_ar": "يمكن استخدام CoSI كعامل مساعد في تقييم مرضى CRSwNP المرشحين لـrevision ESS، لكن الدراسة لا تثبت أن الدرجة وحدها ينبغي أن تحدد قرار الجراحة.",
+      "practice_change_en": "CoSI can be considered as an adjunct when evaluating patients with CRSwNP for revision ESS, but this study does not establish that the score alone should determine the surgical decision.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية prospective على تحديد ما إذا كان تطبيق CoSI في اختيار المرضى يحسن النتائج ويقلل revision surgery غير الضرورية.",
+      "future_impact_en": "Future prospective studies may determine whether using CoSI to select patients improves outcomes and reduces unnecessary revision surgery.",
+      "why_important_ar": "تقدم الدراسة تحققًا متعدد المؤسسات لأداة قد تميز المرضى الذين تستمر أعراضهم بسبب عدم اكتمال الجراحة السابقة.",
+      "why_important_en": "The study provides multi-institutional validation of a tool that may identify patients whose persistent symptoms are associated with incomplete prior surgery.",
+      "vs_previous_ar": "توسّع هذه الدراسة الأدلة السابقة أحادية المؤسسة عبر إظهار ارتباط CoSI <70 بتحسن SNOT-22 في مجموعة أكبر ومتعددة المراكز مع ضبط عوامل سريرية إضافية.",
+      "vs_previous_en": "This study extends prior single-center evidence by associating CoSI <70 with SNOT-22 improvement in a larger multicenter cohort while adjusting for additional clinical factors.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة cohort استعادية متعددة المؤسسات شملت 160 مريضًا وتتحقق من أداة سريرية واعدة، لكنها لا تثبت أن استخدام CoSI يغير النتائج مقارنةً بقرار سريري غير موجّه بالدرجة؛ لذا فهي مفيدة وليست ممارسةً مغيرةً حاليًا.",
+      "stars_reason_en": "This retrospective multicenter cohort of 160 patients validates a promising clinical tool, but does not show that using CoSI improves outcomes compared with decisions made without the score; it is useful evidence rather than practice-changing evidence.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق الدراسة النقاش لمراجعة كيفية تفسير CoSI <70، ومدى قابلية تطبيق العتبة، وما إذا كان الارتباط بالتحسن يبرر تغيير اختيار المرضى لـrevision ESS.",
+      "jc_reason_en": "This study merits discussion of how to interpret CoSI <70, how generalizable the threshold is, and whether the association with improvement justifies changing patient selection for revision ESS.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا CoSI كأداة scoring قائمة على CT؛ إذ قد تدعم تقدير اكتمال ESS السابقة واختيار المرضى لـrevision surgery إذا تأكدت فائدتها prospectively.",
+      "watch_detail_en": "Track CoSI as a CT-based scoring tool that may help assess completeness of prior ESS and select patients for revision surgery if its utility is confirmed prospectively.",
+      "watch_type": "technology",
+      "research_gap_ar": "يلزم إجراء دراسات prospective لتقييم قابلية تكرار CoSI، والتحقق من عتبة 70، وقياس ما إذا كان استخدامه لتوجيه العلاج يحسن النتائج مقارنةً بالرعاية المعتادة.",
+      "research_gap_en": "Prospective studies are needed to assess CoSI reproducibility, validate the threshold of 70, and determine whether score-guided care improves outcomes compared with usual care.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم دراسة متعددة المؤسسات عن CoSI لدى مرضى CRSwNP الذين خضعوا لـrevision ESS. CoSI هو scoring system قائم على CT صُمم لتقدير مدى اكتمال جراحة الجيوب الأنفية السابقة. شملت الدراسة الاستعادية 160 مريضًا من ثمانية مراكز تخصصية، وخضعت بياناتهم للتحليل بين عامي 2022 و2024.\n\nكانت النتيجة الأساسية أن المرضى ذوي CoSI أقل من 70 حققوا تحسنًا أكبر في SNOT-22 خلال فترة متابعة من 6 إلى 24 شهرًا. بلغ متوسط التحسن 35.2 نقطة في هذه المجموعة، مقابل 18.7 نقطة لدى المرضى ذوي CoSI يساوي 70 أو أكثر، وكان الفرق ذا دلالة إحصائية، مع p<0.001. ظل الارتباط قائمًا بعد ضبط عوامل مثل asthma وAERD وعدد عمليات ESS السابقة واستخدام biologic والدرجة الأساسية لـSNOT-22. وأشارت تحليلات إضافية إلى انتقال ذي أهمية سريرية قرب عتبة 70.\n\nما أهمية ذلك؟ تدعم النتائج احتمال أن يكون عدم اكتمال الجراحة السابقة عاملًا قابلًا للتصحيح لدى بعض المرضى الذين تستمر لديهم الأعراض، وأن CoSI قد يساعد في تمييز من قد يستفيدون أكثر من revision surgery. كما توسع الدراسة الأدلة السابقة أحادية المؤسسة إلى مجموعة متعددة المراكز وأكبر حجمًا.\n\nلكن ينبغي تفسير النتائج بحذر: الدراسة استعادية، وجميع المرضى خضعوا بالفعل لـrevision ESS، لذلك فهي تُظهر ارتباطًا ولا تثبت أن استخدام CoSI لتوجيه القرار يسبب تحسنًا أكبر. لا ينبغي أن تكون عتبة 70 وحدها أساس قرار الجراحة. عمليًا، يمكن النظر إلى CoSI كأداة مساعدة ضمن التقييم السريري ونتائج CT وبقية خصائص المريض. الخطوة التالية هي دراسات prospective تختبر موثوقية scoring system والعتبة، وتقارن الرعاية الموجهة بـCoSI بالرعاية المعتادة. الخلاصة: CoSI أقل من 70 مرتبط بتحسن أكبر في SNOT-22 بعد revision ESS، وهو مؤشر واعد لكنه لم يثبت بعد أنه يغير الممارسة بمفرده.",
+      "audio_script_en": "Today we review a multicenter study of CoSI in patients with CRSwNP undergoing revision ESS. CoSI is a CT-based scoring system intended to assess how complete a patient’s previous sinus surgery was. This retrospective study included 160 patients from eight tertiary care centers, treated between 2022 and 2024.\n\nThe main finding was that patients with a CoSI below 70 had greater SNOT-22 improvement over 6 to 24 months. Mean improvement was 35.2 points in this group, compared with 18.7 points among patients with CoSI scores of 70 or higher; the difference was statistically significant, with p<0.001. The association remained after adjustment for factors including asthma, AERD, number of prior ESS procedures, biologic use, and baseline SNOT-22. Additional analyses suggested a clinically relevant transition near the threshold of 70.\n\nWhy does this matter? The findings support the possibility that incomplete prior surgery is a correctable contributor to persistent symptoms for some patients, and that CoSI could help identify those more likely to benefit from revision surgery. The study also extends earlier single-center evidence to a larger, multicenter cohort.\n\nHowever, the results need cautious interpretation. This was a retrospective study, and all included patients underwent revision ESS. It therefore demonstrates an association; it does not prove that using CoSI to guide decisions causes greater improvement. A score of 70 should not, by itself, determine whether surgery is offered. In current practice, CoSI may be considered as one part of the assessment alongside clinical findings, CT, and patient-specific factors. Prospective studies should assess scoring reliability, validate the threshold, and compare CoSI-guided care with usual care. In summary, CoSI below 70 is associated with greater SNOT-22 improvement after revision ESS: a promising indicator, but not yet a standalone practice-changing decision rule.",
+      "mcq": [
+        {
+          "q_ar": "ما الذي يقيسه CoSI في هذه الدراسة؟",
+          "q_en": "What does CoSI assess in this study?",
+          "options_ar": [
+            "أ) شدة فقدان الشم بعد الجراحة",
+            "ب) اكتمال جراحة الجيوب الأنفية السابقة اعتمادًا على CT",
+            "ج) احتمال حدوث AERD",
+            "د) الحاجة إلى استخدام biologic"
+          ],
+          "options_en": [
+            "A) Severity of postoperative smell loss",
+            "B) Completeness of prior sinus surgery based on CT",
+            "C) Probability of developing AERD",
+            "D) Need for biologic therapy"
+          ],
+          "answer": 1,
+          "explanation_ar": "CoSI هو scoring system قائم على CT صُمم لتحديد المرضى الذين قد تكون جراحتهم السابقة غير مكتملة.",
+          "explanation_en": "CoSI is a CT-based scoring system designed to identify patients who may have had incomplete prior surgery."
+        },
+        {
+          "q_ar": "أي مجموعة حققت تحسنًا أكبر في SNOT-22 بعد revision ESS؟",
+          "q_en": "Which group had greater SNOT-22 improvement after revision ESS?",
+          "options_ar": [
+            "أ) المرضى ذوو CoSI <70",
+            "ب) المرضى ذوو CoSI ≥70",
+            "ج) لم يظهر فرق بين المجموعتين",
+            "د) المرضى الذين لم يستخدموا CT"
+          ],
+          "options_en": [
+            "A) Patients with CoSI <70",
+            "B) Patients with CoSI ≥70",
+            "C) There was no difference between groups",
+            "D) Patients who did not undergo CT"
+          ],
+          "answer": 0,
+          "explanation_ar": "كان متوسط تحسن SNOT-22 لدى مجموعة CoSI <70 هو 35.2 نقطة، مقابل 18.7 نقطة لدى مجموعة CoSI ≥70.",
+          "explanation_en": "Mean SNOT-22 improvement was 35.2 points in the CoSI <70 group versus 18.7 points in the CoSI ≥70 group."
+        },
+        {
+          "q_ar": "ما أهم قيد عند تفسير نتائج الدراسة؟",
+          "q_en": "What is the key limitation when interpreting the study findings?",
+          "options_ar": [
+            "أ) الدراسة شملت أقل من 10 مرضى",
+            "ب) الدراسة حيوانية",
+            "ج) التصميم استعادي ويُظهر ارتباطًا ولا يثبت أن استخدام CoSI يسبب تحسنًا",
+            "د) لم تُجمع نتائج SNOT-22"
+          ],
+          "options_en": [
+            "A) The study included fewer than 10 patients",
+            "B) The study was conducted in animals",
+            "C) The retrospective design shows an association but does not prove that using CoSI causes improvement",
+            "D) SNOT-22 outcomes were not collected"
+          ],
+          "answer": 2,
+          "explanation_ar": "التصميم الاستعادي لا يثبت أن توجيه القرار باستخدام CoSI يؤدي بحد ذاته إلى نتائج أفضل؛ ويلزم تقييم prospective.",
+          "explanation_en": "The retrospective design cannot establish that CoSI-guided decision-making itself leads to better outcomes; prospective evaluation is needed."
+        }
+      ]
+    },
+    {
+      "pmid": "43038062",
+      "title_ar": "Five important randomized clinical trials in rhinology.",
+      "title_en": "Five important randomized clinical trials in rhinology.",
+      "journal": "Current opinion in otolaryngology & head and neck surgery",
+      "pub_date": "2026-Nov-17",
+      "doi": "10.1097/MOO.0000000000001166",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43038062/",
+      "pdf_url": null,
+      "study_design": "Invited narrative review of five randomized clinical trials or trial programs",
+      "summary_ar": "تستعرض هذه المقالة خمسة RCTs أو برامج تجارب أثّرت في قرارات العلاج الحديثة في rhinology. أظهرت LIBERTY NP SINUS-24 وSINUS-52 أن dupilumab خيار biologic فعّال لدى مرضى severe CRSwNP. وتدعم WAYPOINT تثبيط thymic stromal lymphopoietin كاستراتيجية biologic فعّالة في هذه الفئة. بيّنت ReOpen1 وReOpen2 أن fluticasone عبر exhalation delivery يحسّن الأعراض وradiographic sinus opacification لدى مرضى CRS، بمن فيهم بعض المرضى دون polyps. كما أظهرت تجربة عشوائية عملية أن endoscopic sinus surgery مع medical therapy أكثر فاعلية من medical therapy وحدها في CRSwNP. وأثبتت NAIROS تحسناً أكبر في patient-reported outcomes بعد septoplasty مقارنةً بالعلاج الطبي المعياري لدى البالغين المصابين بانسداد الأنف المرتبط بـ septal deviation. تؤكد المقالة قيمة اختيار العلاج استناداً إلى الآلية والنتائج التي تهم المرضى، مع الحاجة إلى دراسات مقارنة وbiomarkers تنبؤية.",
+      "summary_en": "This invited review highlights five randomized trials or trial programs that inform contemporary rhinology decisions. LIBERTY NP SINUS-24 and SINUS-52 established dupilumab as an effective biologic for severe CRSwNP. WAYPOINT supports thymic stromal lymphopoietin inhibition as another effective upstream biologic strategy in severe CRSwNP. ReOpen1 and ReOpen2 found that exhalation delivery of fluticasone improves symptoms and radiographic sinus opacification in CRS, including in patients without polyps. A pragmatic randomized trial found endoscopic sinus surgery plus medical therapy more effective than medical therapy alone for CRSwNP. NAIROS showed better patient-reported outcomes after septoplasty than standardized medical management for adults with nasal obstruction associated with septal deviation. The review emphasizes mechanism-informed, patient-centered choices and the need for comparative-effectiveness studies and predictive biomarkers.",
+      "practice_change_ar": "تدعم هذه الأدلة مناقشة biologic أو exhalation delivery of fluticasone أو endoscopic sinus surgery لمرضى CRS وفق نمط المرض وشدته، وطرح septoplasty عند استمرار انسداد الأنف المرتبط بـ septal deviation.",
+      "practice_change_en": "These findings support discussing biologics, exhalation delivery of fluticasone, or endoscopic sinus surgery for CRS according to disease phenotype and severity, and offering septoplasty for persistent obstruction associated with septal deviation.",
+      "future_impact_ar": "ستحتاج الممارسة إلى دراسات مقارنة مباشرة وbiomarkers تحدد المرضى الأكثر استفادة من كل علاج.",
+      "future_impact_en": "Future practice will benefit from direct comparative trials and biomarkers that identify which patients are most likely to benefit from each treatment.",
+      "why_important_ar": "تجمع المقالة نتائج تجارب عشوائية ذات صلة بقرارات علاجية شائعة تشمل CRSwNP وCRSsNP وانسداد الأنف.",
+      "why_important_en": "The review brings together randomized evidence relevant to common treatment decisions across CRSwNP, CRSsNP, and nasal obstruction.",
+      "vs_previous_ar": "بدلاً من الاعتماد على نهج موحّد أو أدلة علاجية منفردة، تلخص المقالة خيارات حديثة تشمل biologics وdrug delivery والجراحة والتدخل البنيوي.",
+      "vs_previous_en": "Rather than relying on a single treatment pathway or isolated evidence, the review summarizes newer options spanning biologics, drug delivery, surgery, and structural intervention.",
+      "stars": 3,
+      "stars_reason_ar": "مراجعة سردية لدراسات RCT مهمة سريرياً، لكنها لا تقدم بيانات أولية أو مقارنة مباشرة بين الخيارات؛ لذلك تضيف معرفة مفيدة دون أن تكون تجربة جديدة تغيّر الممارسة بمفردها.",
+      "stars_reason_en": "This is a clinically useful narrative review of important RCTs, but it provides no primary data or direct comparison among options; it informs practice without independently establishing a new practice-changing trial.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It is suitable for journal club because it covers recent evidence affecting biologic, topical, and surgical decisions in rhinology and invites discussion of the limits of cross-trial comparisons.",
+      "watch": true,
+      "watch_detail_ar": "راقبوا تطور biologics مثل dupilumab وتثبيط thymic stromal lymphopoietin، إلى جانب exhalation delivery of fluticasone، لما قد تقدمه من خيارات إضافية لعلاج CRS.",
+      "watch_detail_en": "Track biologics such as dupilumab and thymic stromal lymphopoietin inhibition, alongside exhalation delivery of fluticasone, as potentially important additional CRS treatment options.",
+      "watch_type": "drug",
+      "research_gap_ar": "هناك حاجة إلى تجارب مقارنة مباشرة وbiomarkers تنبؤية لتحديد اختيار العلاج وتسلسله لدى مرضى CRS.",
+      "research_gap_en": "Direct comparative trials and predictive biomarkers are needed to guide treatment selection and sequencing in CRS.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم مقالة بعنوان «Five important randomized clinical trials in rhinology»، وهي مراجعة سردية مدعوة تجمع أدلة من خمسة RCTs أو برامج تجارب مهمة لقرارات علاجية شائعة في rhinology. المقالة ليست تجربة جديدة بحد ذاتها، لكنها تلخص نتائج قد تساعد في اختيار العلاج.\n\nأولاً، أظهرت LIBERTY NP SINUS-24 وSINUS-52 فاعلية dupilumab لدى مرضى severe CRSwNP، بينما تدعم WAYPOINT تثبيط thymic stromal lymphopoietin كاستراتيجية biologic أخرى في هذه الفئة. ثانياً، وجدت ReOpen1 وReOpen2 أن fluticasone باستخدام exhalation delivery يحسّن الأعراض وradiographic sinus opacification لدى مرضى CRS، بمن فيهم بعض المرضى دون polyps. كما أشارت تجربة عشوائية عملية إلى أن endoscopic sinus surgery مع medical therapy أفضل من medical therapy وحدها في CRSwNP. وأظهرت NAIROS تحسناً أكبر في patient-reported outcomes بعد septoplasty مقارنةً بالعلاج الطبي المعياري لدى بالغين لديهم انسداد أنفي مرتبط بـ septal deviation.\n\nالأهمية العملية هي أن الخيارات تشمل الآن biologics وعلاجاً موضعياً بنظام توصيل محدد والجراحة، إضافة إلى septoplasty عند وجود انسداد مرتبط بانحراف الحاجز. لكن المراجعة لا تقارن هذه الخيارات مباشرة، ولا تحدد وحدها ترتيب استخدامها لكل مريض. لذلك نمنح المقالة ثلاث نجوم وثقة متوسطة: إنها مفيدة لاتخاذ القرار ومناسبة للنقاش السريري، لكنها مراجعة وليست تجربة أولية جديدة تغيّر الممارسة بمفردها.\n\nالخطوة التالية هي إجراء دراسات مقارنة مباشرة وتطوير biomarkers تنبؤية تساعد على اختيار العلاج الأنسب وتحديد المرضى الأكثر استفادة. ينبغي متابعة تطور dupilumab وتثبيط thymic stromal lymphopoietin، وكذلك exhalation delivery of fluticasone، باعتبارها خيارات تستحق الرصد في علاج CRS.",
+      "audio_script_en": "Today we review “Five important randomized clinical trials in rhinology,” an invited narrative review that brings together evidence from five trials or trial programs relevant to common rhinology decisions. It is not a new clinical trial itself, but it summarizes findings that can inform treatment selection.\n\nFirst, LIBERTY NP SINUS-24 and SINUS-52 established the effectiveness of dupilumab in severe CRSwNP. WAYPOINT supports thymic stromal lymphopoietin inhibition as another biologic strategy for this group. ReOpen1 and ReOpen2 found that fluticasone delivered through an exhalation delivery system improves symptoms and radiographic sinus opacification in CRS, including in patients without polyps. A pragmatic randomized trial also favored endoscopic sinus surgery plus medical therapy over medical therapy alone for CRSwNP. Finally, NAIROS showed better patient-reported outcomes after septoplasty than after standardized medical management in adults with nasal obstruction associated with septal deviation.\n\nThe clinical message is that treatment choices now include biologics, a specific topical drug-delivery approach, surgery, and septoplasty for appropriate patients. However, this review does not directly compare these options or establish a universal treatment sequence. We assign three stars and moderate confidence: it is useful for clinical decision-making and journal-club discussion, but it is a review rather than a new primary trial that independently changes practice.\n\nThe key research needs are direct comparative-effectiveness studies and predictive biomarkers to guide treatment selection and identify likely responders. Dupilumab, thymic stromal lymphopoietin inhibition, and exhalation delivery of fluticasone are all developments worth tracking in CRS care.",
+      "mcq": [
+        {
+          "q_ar": "ما الدور العلاجي الذي تدعمه تجارب LIBERTY NP SINUS-24 وSINUS-52؟",
+          "q_en": "What treatment role is supported by LIBERTY NP SINUS-24 and SINUS-52?",
+          "options_ar": [
+            "أ) dupilumab لعلاج severe CRSwNP",
+            "ب) septoplasty لعلاج CRSsNP",
+            "ج) fluticasone لعلاج septal deviation",
+            "د) thymic stromal lymphopoietin inhibition لعلاج nasal obstruction"
+          ],
+          "options_en": [
+            "A) dupilumab for severe CRSwNP",
+            "B) septoplasty for CRSsNP",
+            "C) fluticasone for septal deviation",
+            "D) thymic stromal lymphopoietin inhibition for nasal obstruction"
+          ],
+          "answer": 0,
+          "explanation_ar": "أثبتت LIBERTY NP SINUS-24 وSINUS-52 فاعلية dupilumab كـ biologic لدى مرضى severe CRSwNP.",
+          "explanation_en": "LIBERTY NP SINUS-24 and SINUS-52 established dupilumab as an effective biologic for severe CRSwNP."
+        },
+        {
+          "q_ar": "ما النتيجة الرئيسية التي أبلغت عنها NAIROS؟",
+          "q_en": "What was the main finding of NAIROS?",
+          "options_ar": [
+            "أ) medical therapy تفوقت على septoplasty في جميع المرضى",
+            "ب) septoplasty حسّنت patient-reported outcomes أكثر من standardized medical management",
+            "ج) dupilumab خفّض radiographic sinus opacification",
+            "د) endoscopic sinus surgery لم تضف فائدة إلى medical therapy"
+          ],
+          "options_en": [
+            "A) Medical therapy outperformed septoplasty in all patients",
+            "B) Septoplasty improved patient-reported outcomes more than standardized medical management",
+            "C) Dupilumab reduced radiographic sinus opacification",
+            "D) Endoscopic sinus surgery added no benefit to medical therapy"
+          ],
+          "answer": 1,
+          "explanation_ar": "وجدت NAIROS نتائج patient-reported outcomes أفضل بعد septoplasty لدى بالغين لديهم انسداد أنفي مرتبط بـ septal deviation.",
+          "explanation_en": "NAIROS found better patient-reported outcomes after septoplasty in adults with nasal obstruction associated with septal deviation."
+        },
+        {
+          "q_ar": "ما الفجوة البحثية التي تؤكد عليها المقالة؟",
+          "q_en": "What research gap does the review emphasize?",
+          "options_ar": [
+            "أ) الحاجة إلى تجارب مقارنة مباشرة وbiomarkers تنبؤية",
+            "ب) الحاجة إلى مزيد من تقارير الحالات الفردية",
+            "ج) غياب أي خيارات علاجية فعالة لـ CRS",
+            "د) الحاجة إلى دراسات حيوانية قبل تقييم العلاجات سريرياً"
+          ],
+          "options_en": [
+            "A) The need for direct comparative trials and predictive biomarkers",
+            "B) The need for more single case reports",
+            "C) The absence of any effective CRS treatments",
+            "D) The need for animal studies before clinical evaluation"
+          ],
+          "answer": 0,
+          "explanation_ar": "تدعو المقالة إلى comparative-effectiveness studies وbiomarkers تساعد على اختيار العلاج وتحديد المستفيدين.",
+          "explanation_en": "The review calls for comparative-effectiveness studies and biomarkers to guide treatment choice and identify patients likely to benefit."
+        }
+      ]
+    },
+    {
+      "pmid": "43042972",
+      "title_ar": "Real-World Outcomes After Dupilumab Initiation for Pediatric Chronic Rhinosinusitis with Nasal Polyps.",
+      "title_en": "Real-World Outcomes After Dupilumab Initiation for Pediatric Chronic Rhinosinusitis with Nasal Polyps.",
+      "journal": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+      "pub_date": "2026-Nov-17",
+      "doi": "10.1002/ohn.70523",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43042972/",
+      "pdf_url": null,
+      "study_design": "Retrospective propensity score-matched cohort study, n=442",
+      "summary_ar": "قيّمت هذه الدراسة retrospective cohort من قاعدة TriNetX، وشملت 442 مريضًا بعمر ≤18 عامًا لديهم CRSwNP، لمقارنة dupilumab مع مجموعة ضابطة بعد propensity score matching. خلال 12 شهرًا، ارتبط dupilumab بانخفاض acute sinusitis من 14.0% إلى 5.4% (RR 0.39؛ 95% CI 0.20–0.73) وانخفاض systemic corticosteroid bursts من 45.7% إلى 36.2% (RR 0.79؛ 95% CI 0.63–0.99). كما انخفض إجراء FESS من 17.2% إلى 8.6% (RR 0.50؛ 95% CI 0.30–0.84). لم تظهر فروق ذات دلالة إحصائية في emergency department visits أو inpatient admissions. كان توثيق nasal polyp أكثر شيوعًا في مجموعة dupilumab، ما قد يعكس اختلافات في التوثيق أو تحديد المرض. تشير النتائج إلى فائدة محتملة موفرة لـ corticosteroid والجراحة، لكنها لا تثبت السببية بسبب التصميم retrospective واحتمال وجود confounding.",
+      "summary_en": "This retrospective TriNetX cohort study compared dupilumab with matched controls among 442 patients aged 18 years or younger with CRSwNP. Over 12 months, acute sinusitis was less frequent with dupilumab (5.4% vs 14.0%; RR 0.39, 95% CI 0.20–0.73). Systemic corticosteroid bursts were also less frequent (36.2% vs 45.7%; RR 0.79, 95% CI 0.63–0.99). FESS occurred in 8.6% of dupilumab-treated patients and 17.2% of controls (RR 0.50, 95% CI 0.30–0.84). Emergency department visits and inpatient admissions did not differ significantly. Nasal polyp diagnoses were documented more often in the dupilumab cohort, which may reflect differences in documentation or case ascertainment. The findings suggest potential steroid-sparing and surgery-sparing benefits, but the retrospective design cannot establish causality.",
+      "practice_change_ar": "لا تغيّر هذه النتائج الممارسة وحدها، لكنها تدعم مناقشة dupilumab كخيار محتمل للأطفال المختارين المصابين بـ CRSwNP مع مراعاة الأدلة والاعتمادات السريرية.",
+      "practice_change_en": "These findings alone do not change practice, but support discussing dupilumab as a potential option for selected children with CRSwNP in light of the evidence and applicable clinical approvals.",
+      "future_impact_ar": "قد تدعم النتائج دراسات prospective لتحديد الأطفال الأكثر استفادة وقياس الأعراض وجودة الحياة والسلامة على المدى الطويل.",
+      "future_impact_en": "The findings may support prospective studies to identify which children benefit most and to assess symptoms, quality of life, and long-term safety.",
+      "why_important_ar": "تقدم الدراسة بيانات real-world للأطفال حول نتائج مهمة سريريًا تشمل acute sinusitis واستخدام systemic corticosteroid والحاجة إلى FESS.",
+      "why_important_en": "The study provides real-world pediatric data on clinically relevant outcomes, including acute sinusitis, systemic corticosteroid use, and FESS.",
+      "vs_previous_ar": "تضيف هذه الدراسة مقارنة matched من الممارسة الواقعية للأطفال، لكنها لا تحل محل الأدلة التجريبية أو إرشادات اختيار dupilumab.",
+      "vs_previous_en": "This study adds a matched real-world comparison in children but does not replace trial evidence or guidance on selecting patients for dupilumab.",
+      "stars": 3,
+      "stars_reason_ar": "ثلاث نجوم لدراسة retrospective كبيرة نسبيًا في مجلة رفيعة المستوى، مع نتائج مفيدة سريريًا، لكن propensity matching لا يزيل confounding ولا يثبت السببية.",
+      "stars_reason_en": "Three stars for a relatively large retrospective study in a high-tier journal with clinically useful outcomes, although propensity matching cannot eliminate confounding or establish causality.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This merits journal club discussion because it compares meaningful real-world outcomes in children, while inviting scrutiny of control selection, residual confounding, and differences in nasal polyp documentation.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا dupilumab في pediatric CRSwNP لأن هذه النتائج تشير إلى احتمال تقليل systemic corticosteroid bursts وFESS، مع الحاجة إلى تأكيد prospective.",
+      "watch_detail_en": "Track dupilumab in pediatric CRSwNP because these results suggest fewer systemic corticosteroid bursts and FESS, pending prospective confirmation.",
+      "watch_type": "drug",
+      "research_gap_ar": "تحتاج الأبحاث إلى prospective controlled studies تقيس شدة الأعراض وجودة الحياة والسلامة والاستجابة طويلة الأمد، وتحدد أثر dupilumab بحسب خصائص المرضى.",
+      "research_gap_en": "Prospective controlled studies are needed to measure symptom severity, quality of life, safety, and durability of response, and to define treatment effects across patient subgroups.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم دراسة عن dupilumab لدى الأطفال المصابين بـ chronic rhinosinusitis with nasal polyps، أو CRSwNP. استخدم الباحثون بيانات TriNetX لإجراء retrospective cohort study شملت 442 مريضًا بعمر 18 عامًا أو أقل، وقارنوا 221 مريضًا بدأوا dupilumab مع 221 مريضًا في مجموعة ضابطة بعد propensity score matching. خلال 12 شهرًا، كانت acute sinusitis أقل في مجموعة dupilumab: 5.4% مقابل 14%. كما كانت systemic corticosteroid bursts أقل: 36.2% مقابل 45.7%. واحتاج 8.6% إلى FESS، مقارنة بـ17.2% في المجموعة الضابطة. لم يكن الفرق في emergency department visits أو inpatient admissions ذا دلالة إحصائية. من النتائج اللافتة أن تشخيص nasal polyp وُثّق أكثر في مجموعة dupilumab، وهو أمر قد يعكس اختلاف التوثيق أو تحديد الحالات، وليس بالضرورة اختلافًا حقيقيًا في انتشار المرض. أهمية الدراسة أنها تقدم بيانات real-world للأطفال وتثير احتمال أن يكون dupilumab خيارًا steroid-sparing وsurgery-sparing في حالات مختارة. لكنها retrospective، لذلك لا يمكن استبعاد residual confounding أو اعتبار الارتباط دليلًا على السببية. كذلك لا تكفي النتائج وحدها لتغيير الممارسة أو تحديد من ينبغي أن يتلقى العلاج. الخلاصة: هذه دراسة مفيدة للنقاش والمتابعة، وتدعم الحاجة إلى prospective controlled studies تقيس الأعراض وجودة الحياة والسلامة والنتائج طويلة الأمد، وتحدد الأطفال الأكثر استفادة. الثقة متوسطة، والتقييم ثلاث نجوم.",
+      "audio_script_en": "Today we review a study of dupilumab in children with chronic rhinosinusitis with nasal polyps, or CRSwNP. Using the TriNetX network, investigators conducted a retrospective cohort study of 442 patients aged 18 years or younger. They matched 221 patients initiating dupilumab with 221 controls. During the following 12 months, acute sinusitis was less common in the dupilumab group: 5.4% compared with 14.0%. Systemic corticosteroid bursts were also less frequent, at 36.2% versus 45.7%. FESS was performed in 8.6% of dupilumab-treated patients and 17.2% of controls. Emergency department visits and inpatient admissions were not significantly different. Nasal polyp diagnoses were documented more often in the dupilumab group, a difference that could reflect documentation or case-ascertainment patterns rather than a true difference in disease prevalence. The study matters because pediatric real-world comparative data are limited, and these findings suggest potential steroid-sparing and surgery-sparing benefits. However, this is a retrospective study. Matching can reduce measured differences but cannot eliminate residual confounding or establish that dupilumab caused the observed outcomes. The results alone should not change practice or determine which children should receive treatment. They do justify further attention and prospective controlled studies assessing symptoms, quality of life, safety, durability, and which patient subgroups benefit. Overall, this is useful evidence for rhinology clinicians, with moderate confidence and a three-star rating.",
+      "mcq": [
+        {
+          "q_ar": "ما تصميم الدراسة وحجم العينة؟",
+          "q_en": "What were the study design and sample size?",
+          "options_ar": [
+            "أ) RCT شملت 442 مريضًا",
+            "ب) Retrospective propensity score-matched cohort شملت 442 مريضًا",
+            "ج) Prospective cohort شملت 221 مريضًا",
+            "د) Meta-analysis شملت 12 دراسة"
+          ],
+          "options_en": [
+            "A) An RCT with 442 patients",
+            "B) A retrospective propensity score-matched cohort with 442 patients",
+            "C) A prospective cohort with 221 patients",
+            "D) A meta-analysis of 12 studies"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت الدراسة retrospective cohort من TriNetX، مع propensity score matching لمجموعتين، بكل منهما 221 مريضًا.",
+          "explanation_en": "The study was a retrospective TriNetX cohort with propensity score matching, including 221 patients in each group."
+        },
+        {
+          "q_ar": "أي نتيجة لم تختلف إحصائيًا بين المجموعتين؟",
+          "q_en": "Which outcome did not differ significantly between the groups?",
+          "options_ar": [
+            "أ) Acute sinusitis",
+            "ب) Systemic corticosteroid bursts",
+            "ج) FESS",
+            "د) Emergency department visits"
+          ],
+          "options_en": [
+            "A) Acute sinusitis",
+            "B) Systemic corticosteroid bursts",
+            "C) FESS",
+            "D) Emergency department visits"
+          ],
+          "answer": 3,
+          "explanation_ar": "كانت emergency department visits بنسبة 7.2% مقابل 12.2%، لكن الفرق لم يصل إلى الدلالة الإحصائية (P=.078).",
+          "explanation_en": "Emergency department visits were 7.2% versus 12.2%, but the difference was not statistically significant (P=.078)."
+        },
+        {
+          "q_ar": "ما أهم قيد عند تفسير انخفاض systemic corticosteroid bursts وFESS؟",
+          "q_en": "What is the key limitation when interpreting the lower rates of systemic corticosteroid bursts and FESS?",
+          "options_ar": [
+            "أ) الدراسة حيوانية",
+            "ب) حجم العينة أقل من 10",
+            "ج) التصميم retrospective لا يثبت السببية وقد يبقى residual confounding",
+            "د) لم تُقَس أي نتيجة سريرية"
+          ],
+          "options_en": [
+            "A) The study was conducted in animals",
+            "B) The sample size was fewer than 10",
+            "C) The retrospective design cannot establish causality and residual confounding may remain",
+            "D) No clinical outcomes were measured"
+          ],
+          "answer": 2,
+          "explanation_ar": "رغم matching، قد تبقى عوامل غير مقاسة تؤثر في اختيار العلاج والنتائج؛ لذلك تشير النتائج إلى ارتباط ولا تثبت السببية.",
+          "explanation_en": "Despite matching, unmeasured factors may affect treatment selection and outcomes; the findings show an association, not proof of causality."
+        }
+      ]
+    },
+    {
+      "pmid": "42374829",
+      "title_ar": "Adverse Outcomes and Complications of Autologous Versus Homologous Costal Cartilage Grafts in Septorhinoplasty: A Systematic Review and Meta-analysis.",
+      "title_en": "Adverse Outcomes and Complications of Autologous Versus Homologous Costal Cartilage Grafts in Septorhinoplasty: A Systematic Review and Meta-analysis.",
+      "journal": "Aesthetic surgery journal",
+      "pub_date": "2026-Nov-17",
+      "doi": "10.1093/asj/sjag131",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42374829/",
+      "pdf_url": null,
+      "study_design": "Systematic review and meta-analysis of 50 studies, n=4482",
+      "summary_ar": "قيّمت هذه systematic review وmeta-analysis معدلات المضاعفات لدى 4482 مريضًا خضعوا لـseptorhinoplasty باستخدام ACC أو IHCC أو Tutoplast أو fresh-frozen costal cartilage. كانت المعدلات المجمعة منخفضة: warping بنسبة 2.9%، وresorption بنسبة 1.6%، وinfection بنسبة 1.9%، وrevision surgery بنسبة 5.0%، ولم تُسجل حالات extrusion مجمعة. لم تظهر فروق ذات دلالة إحصائية بين أنواع grafts لأي نتيجة، لكن laminated ACC dorsal onlay grafts ارتبطت بـwarping أقل من en bloc ACC، كما سجل fresh-frozen en bloc graft أقل warping مقارنةً بـACC. كانت مخاطر التحيز serious إلى critical، مع heterogeneity ملحوظة واحتمال وجود small-study effects. لذلك تدعم النتائج اختيار graft وفق التوفر والتكلفة وخبرة surgeon، مع الحذر من اعتبار الأنواع متكافئة بصورة مؤكدة.",
+      "summary_en": "This systematic review and meta-analysis included 50 studies and 4,482 septorhinoplasty patients receiving ACC, IHCC, Tutoplast, or fresh-frozen costal cartilage.\nPooled complication rates were low: warping 2.9%, resorption 1.6%, infection 1.9%, revision surgery 5.0%, and no pooled extrusion events.\nNo statistically significant differences between graft types were found for any outcome.\nLaminated ACC dorsal onlay grafts had less warping than en bloc ACC, while fresh-frozen en bloc grafts had the lowest warping among en bloc grafts.\nRisk of bias was serious to critical, with heterogeneity and possible small-study effects, so results warrant cautious interpretation.",
+      "practice_change_ar": "لا تفرض النتائج تغييرًا فوريًا في اختيار graft، ويمكن أن يستند الاختيار إلى التوفر والتكلفة وخبرة surgeon مع توضيح عدم اليقين للمريض.",
+      "practice_change_en": "The findings do not mandate an immediate change in graft choice; selection may consider availability, cost, and surgeon experience while acknowledging uncertainty.",
+      "future_impact_ar": "ينبغي أن تقارن الدراسات prospective الموحدة بين أنواع grafts مع متابعة طويلة الأمد وقياس ثابت للمضاعفات.",
+      "future_impact_en": "Prospective standardized studies with long-term follow-up and consistent complication definitions are needed to compare graft types.",
+      "why_important_ar": "تجمع الدراسة أدلة مقارنة واسعة حول خيارات costal cartilage المستخدمة عندما لا يكفي septal cartilage في rhinoplasty.",
+      "why_important_en": "This review consolidates comparative evidence on costal cartilage options used when septal cartilage is insufficient in rhinoplasty.",
+      "vs_previous_ar": "على خلاف الأدلة المحدودة والمتفرقة سابقًا، تقارن هذه الدراسة أربع فئات من costal cartilage، لكنها لا تثبت تفوق فئة على أخرى.",
+      "vs_previous_en": "Unlike the previously limited and fragmented evidence, this study compares four costal cartilage categories but establishes no overall superiority of one type.",
+      "stars": 3,
+      "stars_reason_ar": "هي systematic review وmeta-analysis كبيرة، لكن serious-to-critical risk of bias وheterogeneity والنتائج غير الحاسمة تحد من قوتها وتأثيرها العملي.",
+      "stars_reason_en": "This is a large systematic review and meta-analysis, but serious-to-critical risk of bias, heterogeneity, and inconclusive comparisons limit its certainty and practical impact.",
+      "confidence": "🔴",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion for its size and direct comparison of graft options, as well as the important effects of study bias and heterogeneity on its conclusions.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى دراسات prospective متعددة المراكز، ذات تعريفات موحدة للمضاعفات وfollow-up طويل الأمد، لتحديد الفروق الحقيقية بين graft types وتقنيات configuration.",
+      "research_gap_en": "Multicenter prospective studies with standardized complication definitions and long-term follow-up are needed to establish meaningful differences between graft types and configurations.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "تتناول هذه الدراسة سؤالًا عمليًا في facial_plastics: ما مدى اختلاف مضاعفات أنواع costal cartilage grafts المستخدمة في septorhinoplasty عندما لا يكون septal cartilage كافيًا؟ أجرى الباحثون systematic review وmeta-analysis شملت 50 دراسة و4482 مريضًا. تضمنت الفئات ACC وIHCC وTutoplast وfresh-frozen cartilage.\n\nكانت معدلات المضاعفات المجمعة منخفضة نسبيًا: warping بلغ 2.9%، وresorption بلغ 1.6%، وinfection بلغ 1.9%، وrevision surgery بلغ 5%. لم تُسجل حالات extrusion ضمن المعدل المجمع. والأهم أن المقارنة لم تجد فروقًا ذات دلالة إحصائية بين أنواع grafts لأي من النتائج المدروسة.\n\nظهرت إشارات مرتبطة بطريقة تشكيل graft. ففي ACC dorsal onlay grafts، كان warping أقل مع laminated constructs منه مع en bloc grafts؛ وكانت النسب 0.0% مقابل 5.42%. وبين en bloc dorsal grafts، سجل fresh-frozen cartilage أقل معدل warping، 0.60%، وكان الفرق مقارنةً بـACC ذا دلالة إحصائية. لكن هذه النتائج المحددة لا تلغي القيود العامة للأدلة.\n\nكان risk of bias في الدراسات من serious إلى critical، ومعظم الأدلة جاءت من دراسات retrospective، كما وُجدت heterogeneity واحتمال small-study effects. لذلك لا ينبغي تفسير غياب الفروق المهمة إحصائيًا كبرهان قاطع على التكافؤ. عمليًا، لا تدعم الدراسة تغييرًا إلزاميًا في اختيار graft اليوم؛ يمكن أن يراعي القرار التوفر والتكلفة وخبرة surgeon، مع مناقشة عدم اليقين مع المريض.\n\nتستحق الورقة journal club لأنها تجمع أدلة كبيرة وتقارن خيارات شائعة، لكنها منخفضة الثقة من ناحية الحسم السريري. والخطوة البحثية التالية هي دراسات prospective موحدة، مع تعريفات ثابتة للمضاعفات وfollow-up طويل الأمد، حتى نعرف إن كانت الفروق بين المواد وتقنيات configuration ذات أهمية سريرية فعلية.",
+      "audio_script_en": "This study addresses a practical facial plastics question: how do complications differ among costal cartilage grafts used in septorhinoplasty when septal cartilage is insufficient? The systematic review and meta-analysis included 50 studies and 4,482 patients. Graft categories were ACC, IHCC, Tutoplast, and fresh-frozen cartilage.\n\nPooled complication rates were relatively low: warping was 2.9%, resorption 1.6%, infection 1.9%, and revision surgery 5.0%. No pooled extrusion events were reported. Most importantly, the analysis found no statistically significant differences between graft types for any outcome.\n\nThere were signals associated with graft configuration. For ACC dorsal onlay grafts, warping was lower with laminated constructs than with en bloc grafts: 0.0% versus 5.42%. Among en bloc dorsal grafts, fresh-frozen cartilage had the lowest warping rate, 0.60%, significantly lower than ACC. These specific findings, however, do not overcome the limitations of the overall evidence.\n\nRisk of bias ranged from serious to critical. Much of the evidence came from retrospective studies, and the authors noted heterogeneity and possible small-study effects. Therefore, a lack of statistically significant differences should not be interpreted as definitive proof that all graft types are equivalent. For practice today, the review does not require a change in graft selection. Availability, cost, and surgeon experience can guide decisions, alongside an honest discussion of uncertainty with patients.\n\nThis paper is suitable for journal club because it consolidates a large body of evidence and compares commonly used options, even though certainty is limited. The next step is prospective standardized research with consistent complication definitions and long-term follow-up to determine whether differences between materials and configurations have genuine clinical importance.",
+      "mcq": [
+        {
+          "q_ar": "ما معدل warping المجمع الذي أبلغت عنه الدراسة؟",
+          "q_en": "What pooled warping rate did the study report?",
+          "options_ar": [
+            "أ) 1.6%",
+            "ب) 1.9%",
+            "ج) 2.9%",
+            "د) 5.0%"
+          ],
+          "options_en": [
+            "A) 1.6%",
+            "B) 1.9%",
+            "C) 2.9%",
+            "D) 5.0%"
+          ],
+          "answer": 2,
+          "explanation_ar": "كان معدل warping المجمع 2.9%؛ أما resorption فكان 1.6% وinfection 1.9%.",
+          "explanation_en": "The pooled warping rate was 2.9%; resorption was 1.6% and infection was 1.9%."
+        },
+        {
+          "q_ar": "ما الاستنتاج العام للمقارنة بين أنواع costal cartilage grafts؟",
+          "q_en": "What was the overall conclusion of the comparison between costal cartilage graft types?",
+          "options_ar": [
+            "أ) تفوق ACC لجميع النتائج",
+            "ب) تفوق IHCC لجميع النتائج",
+            "ج) لم تُرصد فروق ذات دلالة إحصائية بين الأنواع لأي نتيجة",
+            "د) ارتبط fresh-frozen cartilage بارتفاع revision surgery"
+          ],
+          "options_en": [
+            "A) ACC was superior for all outcomes",
+            "B) IHCC was superior for all outcomes",
+            "C) No statistically significant differences between types were found for any outcome",
+            "D) Fresh-frozen cartilage was associated with more revision surgery"
+          ],
+          "answer": 2,
+          "explanation_ar": "لم تجد meta-analysis فروقًا ذات دلالة إحصائية بين أنواع grafts لأي من النتائج، مع ضرورة تفسير ذلك بحذر بسبب ضعف جودة الأدلة.",
+          "explanation_en": "The meta-analysis found no statistically significant differences between graft types for any outcome, though this must be interpreted cautiously given the evidence limitations."
+        },
+        {
+          "q_ar": "ما القيد الأبرز الذي يحد من الثقة في الاستنتاجات؟",
+          "q_en": "What major limitation reduces confidence in the conclusions?",
+          "options_ar": [
+            "أ) اقتصار الدراسة على animal models",
+            "ب) serious-to-critical risk of bias وheterogeneity في الدراسات",
+            "ج) عدم تقييم أي مضاعفات سريرية",
+            "د) شمول أقل من عشرة مرضى"
+          ],
+          "options_en": [
+            "A) The study included only animal models",
+            "B) Serious-to-critical risk of bias and heterogeneity across studies",
+            "C) No clinical complications were assessed",
+            "D) Fewer than ten patients were included"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت مخاطر التحيز serious إلى critical، وكانت هناك heterogeneity واحتمالية small-study effects، ما يضعف اليقين.",
+          "explanation_en": "Risk of bias was serious to critical, with heterogeneity and possible small-study effects, reducing certainty."
+        }
+      ]
+    },
+    {
+      "pmid": "43053604",
+      "title_ar": "Determining the Appropriate Age for Aesthetic Procedures in Minors: A Review of the Guidelines, Outcomes, and Ethical Considerations.",
+      "title_en": "Determining the Appropriate Age for Aesthetic Procedures in Minors: A Review of the Guidelines, Outcomes, and Ethical Considerations.",
+      "journal": "Aesthetic surgery journal",
+      "pub_date": "2026-Nov-19",
+      "doi": "10.1093/asj/sjag265",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43053604/",
+      "pdf_url": null,
+      "study_design": "Review of guidelines, outcomes, and ethical considerations",
+      "summary_ar": "تراجع هذه المقالة الإرشادات والنتائج والاعتبارات الأخلاقية المتعلقة بإجراء aesthetic procedures لدى minors، مع التركيز على أن الموافقة الأبوية وحدها لا تحدد ملاءمة الإجراء. تشمل الإجراءات غير الجراحية topical skincare regimens وinjectables وlasers وskin resurfacing وmicroneedling، بينما تشمل الإجراءات الجراحية otoplasty وrhinoplasty وbreast reduction وbreast augmentation وإجراءات body contouring. تشير الأدبيات التي استعرضها المؤلفون إلى تفاوت كبير في الحد الأدنى للعمر والإرشادات المهنية والرقابة بين الإجراءات والبلدان. أظهرت دراسات سابقة عمومًا safety profiles ملائمة ورضا مرتفعًا بعد الجراحة وتحسنًا psychosocial لدى المراهقين المختارين بعناية. توصي المراجعة بتقييم emotional maturity وbody image والدوافع والتأثيرات الاجتماعية وفهم المخاطر والحدود قبل اتخاذ القرار. وتؤكد أن غياب متطلبات عمر موحدة يجعل التقييم الفردي مسؤولية أساسية للجراح.",
+      "summary_en": "This review examines guidance, outcomes, and ethical considerations for aesthetic procedures in minors, emphasizing that parental consent alone does not establish appropriateness.\nIt covers non-surgical procedures such as skincare regimens, injectables, lasers, resurfacing, and microneedling, as well as surgical procedures including otoplasty, rhinoplasty, and breast and body contouring interventions.\nThe literature shows substantial variation in minimum-age recommendations, professional guidance, and oversight across procedures and countries.\nPrior studies generally report favorable safety profiles, high postoperative satisfaction, and psychosocial improvement in appropriately selected adolescents.\nThe authors stress individualized assessment of maturity, body image, motivation, social influences, and understanding of risks and limitations.\nThey conclude that, in the absence of standardized age thresholds, surgeons must carefully determine appropriateness for each minor.",
+      "practice_change_ar": "لا تضع المراجعة حدًا عمريًا جديدًا، لكنها تدعم إجراء تقييم فردي منظم للدوافع والنضج وفهم المخاطر قبل قبول minor لإجراء تجميلي.",
+      "practice_change_en": "The review sets no new age threshold, but supports structured, individualized assessment of motivation, maturity, and risk understanding before offering a minor an aesthetic procedure.",
+      "future_impact_ar": "قد تساعد إرشادات موحدة ودراسات طويلة الأمد على تحديد معايير اختيار أكثر اتساقًا ونتائج psychosocial مستدامة لدى المراهقين.",
+      "future_impact_en": "Standardized guidance and long-term studies could establish more consistent selection criteria and clarify the durability of psychosocial outcomes in adolescents.",
+      "why_important_ar": "تتناول المقالة قرارًا حساسًا سريريًا وأخلاقيًا تتجاوز فيه ملاءمة الإجراء مسألة الموافقة القانونية وحدها.",
+      "why_important_en": "The article addresses a clinically and ethically sensitive decision in which procedural appropriateness extends beyond legal consent alone.",
+      "vs_previous_ar": "بدلًا من تقديم حد عمري موحد، تجمع المراجعة التفاوت القائم في الإرشادات وتبرز التقييم النفسي والاجتماعي الفردي كعنصر محوري.",
+      "vs_previous_en": "Rather than proposing a universal age cutoff, the review synthesizes variability in existing guidance and emphasizes individualized psychosocial assessment.",
+      "stars": 3,
+      "stars_reason_ar": "مراجعة للأدبيات والإرشادات ذات فائدة سريرية وأخلاقية، لكنها لا تقدم نتائج أصلية أو عتبة عمرية موحدة، لذا تضيف معرفة نافعة دون تغيير الممارسة مباشرة.",
+      "stars_reason_en": "This review offers clinically and ethically useful synthesis, but provides no original outcomes or universal age threshold; it informs practice without directly changing it.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It supports multidisciplinary discussion of patient selection, consent, and maturity in minors while highlighting evidence gaps and inconsistent guidance.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى دراسات مستقبلية طويلة الأمد ومقاييس موحدة لتقييم السلامة والرضا والنتائج psychosocial بحسب نوع الإجراء وعمر المريض.",
+      "research_gap_en": "Long-term prospective studies and standardized measures are needed to assess safety, satisfaction, and psychosocial outcomes by procedure type and patient age.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "تتناول هذه المراجعة سؤالًا مهمًا في facial_plastics: متى يكون إجراء aesthetic procedure مناسبًا للقاصر؟ تؤكد المقالة أن وجود موافقة الوالدين شرط قانوني في كثير من الأنظمة، لكنه لا يكفي وحده لتحديد ما إذا كان التدخل مناسبًا. يجب كذلك النظر إلى النمو الجسدي، والنضج العاطفي والمعرفي، ودوافع المراهق، وتأثير body image والضغوط الاجتماعية، وقدرته على فهم المخاطر والحدود والنتائج المحتملة.\n\nتستعرض المقالة إجراءات غير جراحية، منها topical skincare regimens وinjectables وlasers وskin resurfacing وmicroneedling، وإجراءات جراحية مثل otoplasty وrhinoplasty وbreast reduction وbreast augmentation وإجراءات body contouring. تختلف توصيات الحد الأدنى للعمر والرقابة المهنية اختلافًا كبيرًا بين الإجراءات والبلدان، ولا توجد عتبة موحدة لكثير من التدخلات.\n\nبحسب الدراسات السابقة التي تلخصها المراجعة، كانت safety profiles عمومًا ملائمة، مع رضا مرتفع بعد الجراحة وتحسن psychosocial لدى مراهقين اختيروا بعناية. لكن هذه الخلاصة لا تعني أن كل مراهق سيستفيد، ولا تقدم المراجعة دليلًا على حد عمري واحد يصلح للجميع. كما أن طبيعة المقالة مراجعة للأدلة والإرشادات، وليست تجربة سريرية أصلية، لذلك ينبغي تفسير النتائج بوصفها ملخصًا للأدبيات المتاحة.\n\nعمليًا، تدعم المقالة تقييمًا فرديًا منظمًا قبل الإجراء، يشمل الدافع، والنضج، والتوقعات، وتأثير الآخرين، وفهم المخاطر والبدائل والقيود. لا تغيّر المراجعة الممارسة بفرض معيار عمر جديد، لكنها تؤكد مسؤولية الجراح عن قرار مدروس وعن تجنب التدخل عندما تكون التوقعات أو الدوافع غير مناسبة. وتبقى الحاجة قائمة إلى دراسات طويلة الأمد ومقاييس موحدة لنتائج السلامة والرضا والصحة النفسية بحسب العمر ونوع الإجراء. لهذا السبب، تعد المقالة مناسبة للنقاش في journal club، خصوصًا بين فرق facial_plastics وpediatric care.",
+      "audio_script_en": "This review addresses a central question in facial plastics: when is an aesthetic procedure appropriate for a minor? It emphasizes that, although parental consent is generally required by legal frameworks, consent alone does not determine whether an intervention is appropriate. Clinicians should also consider physical development, cognitive and emotional maturity, the adolescent’s motivation, body image and social influences, and their understanding of risks, limitations, and likely outcomes.\n\nThe review covers non-surgical interventions, including topical skincare regimens, injectables, lasers, skin resurfacing, and microneedling. Surgical procedures include otoplasty, rhinoplasty, breast reduction, breast augmentation, and other body contouring interventions. Minimum-age recommendations, professional guidance, and oversight vary substantially across procedures and countries, and standardized age requirements are absent for many interventions.\n\nStudies summarized in the review have generally reported favorable safety profiles, high postoperative satisfaction, and psychosocial improvement in appropriately selected adolescents. These findings should not be interpreted as evidence that every adolescent will benefit, or that one age threshold is appropriate for every procedure. The article is a review of existing evidence and guidance, not an original clinical trial, so its conclusions depend on the available literature.\n\nFor practice today, the review supports individualized, structured assessment of motivation, maturity, expectations, social pressures, and understanding of risks, alternatives, and limitations. It does not introduce a new age cutoff or mandate an immediate change in practice. Instead, it highlights the surgeon’s responsibility to make a careful patient-specific decision and to defer intervention when motivations or expectations raise concern. Long-term studies using standardized measures are needed to clarify safety, satisfaction, and psychosocial outcomes by age and procedure. The topic makes this review useful for journal club discussion, particularly among facial plastics and pediatric care teams.",
+      "mcq": [
+        {
+          "q_ar": "ما الفكرة الأساسية للمراجعة بشأن تحديد ملاءمة aesthetic procedures لدى minors؟",
+          "q_en": "What is the review’s central point about determining the appropriateness of aesthetic procedures in minors?",
+          "options_ar": [
+            "أ) الموافقة الأبوية وحدها تحدد الملاءمة",
+            "ب) يجب اتخاذ القرار فرديًا مع تقييم النضج والدوافع والمخاطر",
+            "ج) جميع الإجراءات ممنوعة قبل سن موحد",
+            "د) التحسن psychosocial مضمون لكل مريض"
+          ],
+          "options_en": [
+            "A) Parental consent alone establishes appropriateness",
+            "B) Decisions should be individualized, assessing maturity, motivation, and risks",
+            "C) All procedures are prohibited before one universal age",
+            "D) Psychosocial improvement is guaranteed for every patient"
+          ],
+          "answer": 1,
+          "explanation_ar": "توضح المراجعة أن الموافقة القانونية لا تكفي، وأن التقييم الفردي للنضج والدوافع وفهم المخاطر أساسي.",
+          "explanation_en": "The review states that legal consent is not sufficient and that individualized assessment of maturity, motivation, and risk understanding is essential."
+        },
+        {
+          "q_ar": "أي عبارة تلخص ما أظهرته الدراسات السابقة التي استعرضتها المقالة؟",
+          "q_en": "Which statement summarizes findings from prior studies reviewed in the article?",
+          "options_ar": [
+            "أ) نتائج سلبية ثابتة في جميع الإجراءات",
+            "ب) سلامة ورضا وتحسن psychosocial عمومًا لدى مرضى مختارين بعناية",
+            "ج) لا توجد بيانات عن النتائج",
+            "د) نتائج طويلة الأمد موحدة لكل الأعمار"
+          ],
+          "options_en": [
+            "A) Consistently poor outcomes across all procedures",
+            "B) Generally favorable safety, satisfaction, and psychosocial outcomes in carefully selected patients",
+            "C) No outcome data exist",
+            "D) Uniform long-term outcomes across all ages"
+          ],
+          "answer": 1,
+          "explanation_ar": "تذكر المراجعة أن الدراسات السابقة أظهرت عمومًا نتائج ملائمة لدى المراهقين المختارين بعناية، دون ضمانها لكل فرد.",
+          "explanation_en": "The review reports generally favorable findings in appropriately selected adolescents, without suggesting that outcomes are guaranteed for everyone."
+        },
+        {
+          "q_ar": "ما الفجوة البحثية التي تبرزها المراجعة؟",
+          "q_en": "What research gap does the review highlight?",
+          "options_ar": [
+            "أ) غياب الحاجة إلى متابعة المرضى",
+            "ب) الحاجة إلى دراسات طويلة الأمد ومقاييس موحدة للنتائج",
+            "ج) ضرورة استبدال جميع الإجراءات الجراحية بـ injectables",
+            "د) عدم أهمية العمر أو نوع الإجراء"
+          ],
+          "options_en": [
+            "A) Follow-up of patients is unnecessary",
+            "B) The need for long-term studies and standardized outcome measures",
+            "C) All surgical procedures should be replaced by injectables",
+            "D) Age and procedure type are irrelevant"
+          ],
+          "answer": 1,
+          "explanation_ar": "تشير المقالة إلى تفاوت الإرشادات ومحدودية توحيد الأدلة، ما يدعم الحاجة إلى متابعة طويلة الأمد ومقاييس موحدة.",
+          "explanation_en": "The article notes variable guidance and limited standardization of evidence, supporting the need for long-term follow-up and standardized measures."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026111901",
+      "title_ar": "ميدترونيك وكارل ستورتس تتعاونان لتطوير حلول جراحية متكاملة للأنف والأذن والحنجرة",
+      "title_en": "Medtronic and Karl Storz Collaborate on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-19",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "تتعاون شركتا ميدترونيك وكارل ستورتس على حلول جراحية متكاملة لرعاية الأنف والأذن والحنجرة، وفقًا لموقع ماس ديفايس. ويشير الإعلان إلى شراكة بين شركتي التقنيات الطبية، لكن الملخص المتاح لا يحدد المنتجات أو الشروط التجارية أو موعد الإطلاق أو الأسواق المشاركة. ولا تتضمن المعلومات المقدمة قرارًا تنظيميًا أو استحواذًا أو تفاصيل مالية.",
+      "summary_en": "Medtronic and Karl Storz are collaborating on integrated surgical solutions for ear, nose and throat care, according to MassDevice. The announcement points to a partnership between the medical technology companies, but the available report summary does not specify the products, commercial terms, launch timeline or participating markets. No regulatory decision, acquisition or financial terms are reported in the provided information.",
+      "practice_change_ar": "ينبغي لجراحي الأنف والأذن والحنجرة متابعة التفاصيل المستقبلية حول الحلول وتوافرها قبل توقع أي تغيير في المعدات أو سير العمل الحالي.",
+      "practice_change_en": "ENT surgeons should watch for further details on the solutions and their availability before anticipating any change to current equipment or workflows.",
+      "future_impact_ar": "قد تشير الشراكة إلى استمرار اهتمام القطاع بدمج تقنيات جراحة الأنف والأذن والحنجرة، فيما سيعتمد أثرها العملي على المنتجات والأدلة التي ستظهر لاحقًا.",
+      "future_impact_en": "The partnership may signal continued industry interest in integrating ENT surgical technologies, with its practical impact depending on the products and evidence that emerge.",
+      "why_important_ar": "إذا أسفر التعاون عن أدوات أو إجراءات عمل متوافقة، فقد يؤثر في كيفية استخدام الفرق الجراحية لمعدات الشركتين، لكن لم تُعلن فوائد سريرية محددة.",
+      "why_important_en": "If the collaboration produces compatible tools or workflows, it could affect how surgical teams use equipment from the two manufacturers, though no specific clinical benefits have been disclosed.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "شراكة صناعية ذات صلة بالتخصص، لكن تفاصيل المنتجات والأثر السريري غير متاحة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "في أخبار قطاع الأنف والأذن والحنجرة، أعلنت ميدترونيك وكارل ستورتس تعاونهما على تطوير حلول جراحية متكاملة. وقد يهم هذا التعاون الفرق الجراحية، لأن الشركتين تعملان في مجال التقنيات والمعدات الطبية المستخدمة في الرعاية الجراحية. لكن المعلومات المنشورة في الملخص المتاح لا توضح ماهية المنتجات، أو موعد طرحها، أو الأسواق التي ستشملها، كما لا تتضمن شروطًا تجارية أو نتائج سريرية. لذلك لا توجد حاليًا تفاصيل كافية للقول إن هذا الإعلان سيغيّر المعدات أو الممارسات اليومية في غرف العمليات. بالنسبة إلى الجراحين، ستكون الخطوة الأهم هي متابعة الإعلانات اللاحقة لمعرفة ما إذا كانت الحلول الجديدة ستوفر تكاملًا فعليًا بين الأجهزة أو تحسّن سير العمل، وما إذا كانت ستُدعم بأدلة على فوائد سريرية. حتى تتضح هذه النقاط، يُعد الخبر مؤشرًا على تعاون صناعي محتمل الأهمية، لا تغييرًا فوريًا في الممارسة.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026111902",
+      "title_ar": "شركات رائدة في طب الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية",
+      "title_en": "Leading ENT Companies Driving Medical Technology Innovation",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-19",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت SNS Insider نظرة عامة تسلط الضوء على شركات رائدة في قطاع التقنيات الطبية للأنف والأذن والحنجرة ودورها في الابتكار. لا يحدد الخبر المتاح شركات بعينها أو منتجات أو نتائج سريرية أو تطورات مالية. كما لا يذكر استحواذًا أو دعوى قضائية أو تحركًا في الأسهم أو قرارًا تنظيميًا. ويبدو من العنوان أن المادة استعراض للقطاع وليست تقريرًا عن حدث محدد.",
+      "summary_en": "SNS Insider published an overview highlighting leading companies in the ENT medical technology sector and their role in innovation. The available news item does not identify specific companies, products, clinical findings, or financial developments. It reports no acquisition, lawsuit, stock move, or regulatory decision. The headline frames the piece as an industry overview rather than a report of a specific event.",
+      "practice_change_ar": "لا توجد إشارة إلى تغيير فوري في الممارسة السريرية، إذ لا يقدم الخبر جهازًا محددًا أو دليلًا سريريًا أو تحديثًا تنظيميًا.",
+      "practice_change_en": "No immediate change to clinical practice is indicated because the item provides no specific device, evidence, or regulatory update.",
+      "future_impact_ar": "قد يسهم استمرار الابتكار لدى شركات تقنيات الأنف والأذن والحنجرة في تشكيل خيارات التشخيص والعلاج مستقبلًا، لكن لا يمكن تقييم الآثار المحددة اعتمادًا على العنوان وحده.",
+      "future_impact_en": "Ongoing innovation by ENT technology companies could shape future diagnostic and treatment options, but specific implications cannot be assessed from this headline alone.",
+      "why_important_ar": "قد يقدم هذا الاستعراض سياقًا عامًا للسوق، لكن المعلومات المتاحة لا تثبت أثرًا سريريًا أو تشغيليًا مباشرًا على عيادات الأنف والأذن والحنجرة.",
+      "why_important_en": "The overview may provide broad market context, but the available information does not establish a direct clinical or operational impact for ENT practices.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "أهمية محدودة للممارسين؛ الخبر عام ولا يتضمن تطورًا محددًا أو أثرًا سريريًا موثقًا.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "إليكم موجزًا عن خبر في قطاع الأنف والأذن والحنجرة. نشرت SNS Insider مادة بعنوان «شركات رائدة في طب الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية»، وتعرضها بوصفها نظرة عامة على دور الشركات في تطوير هذا المجال. لكن ملخص الخبر المتاح لا يذكر أسماء الشركات، ولا يحدد تقنيات أو منتجات بعينها، كما لا يقدم بيانات سريرية أو تفاصيل عن صفقات أو قرارات تنظيمية. لذلك لا يمكن استخلاص تغيير مباشر في الممارسة أو تقييم أثر محدد على رعاية المرضى من هذه المعلومات وحدها. قد يكون الموضوع مفيدًا لمتابعة اتجاهات السوق والابتكار، لكن على الأطباء انتظار تفاصيل موثوقة عن التقنيات المعنية، وأدلتها السريرية، واعتمادها التنظيمي قبل ربطها بقرارات سريرية.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026111903",
+      "title_ar": "ميدترونيك تحصل على علامة CE لمنصة Stealth AXiS الروبوتية لجراحة الأنف والأذن والحنجرة",
+      "title_en": "Medtronic Earns CE Mark for Stealth AXiS Robotic Platform in ENT Surgery",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-19",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "حصلت ميدترونيك على علامة CE لمنصة Stealth AXiS الروبوتية المخصصة للاستخدام في جراحة الأنف والأذن والحنجرة، وفقًا لموقع MassDevice. وتتيح العلامة تسويق المنصة في الأسواق الأوروبية المعنية، مع مراعاة المتطلبات المحلية. ولم يحدد التقرير الإجراءات التي تشملها المنصة، أو موعد بدء طرحها تجاريًا، أو الأدلة السريرية التي استند إليها القرار. ويُعد ذلك إنجازًا تنظيميًا، وليس إعلانًا عن موافقة إدارة الغذاء والدواء الأمريكية أو عن تغيير في توافرها داخل الولايات المتحدة.",
+      "summary_en": "Medtronic has received a CE mark for its Stealth AXiS robotic platform for use in ENT surgery, according to MassDevice. The mark permits the platform to be marketed in applicable European markets, subject to local requirements. The report does not specify which ENT procedures are included, when commercial rollout will begin, or what clinical evidence supported the decision. The development is a regulatory milestone, not a report of FDA clearance or a change in U.S. availability.",
+      "practice_change_ar": "قد تصبح المنصة متاحة لجراحي الأنف والأذن والحنجرة في الأسواق الأوروبية المؤهلة، لكن ينبغي التحقق من الإجراءات المخصصة لها ومتطلبات التدريب وإمكانية الحصول عليها محليًا قبل التفكير في استخدامها.",
+      "practice_change_en": "ENT surgeons in eligible European markets may see the platform become available, but should confirm its intended procedures, training requirements, and local access before considering adoption.",
+      "future_impact_ar": "قد تسهم هذه الخطوة في توسيع المنافسة واعتماد التقنيات الروبوتية في طب الأنف والأذن والحنجرة، وسيعتمد تأثيرها اللاحق على الطرح والنتائج السريرية والتطورات التنظيمية في أسواق أخرى.",
+      "future_impact_en": "The milestone could broaden competition and adoption of robotic technologies in ENT, with further impact dependent on rollout, clinical results, and regulatory developments in other markets.",
+      "why_important_ar": "تمثل علامة CE خطوة مهمة نحو دخول السوق، لكن الأهمية السريرية ستعتمد على الاستطبابات المحددة للمنصة والأدلة ونتائج استخدامها في الممارسة الفعلية.",
+      "why_important_en": "The CE mark is a meaningful market-access milestone, while its clinical significance will depend on the platform’s specific indications, evidence, and real-world performance.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 3,
+      "stars_reason_ar": "خبر تنظيمي وتجاري مهم للتقنيات الروبوتية في أوروبا، لكن تفاصيل الاستطبابات والأثر السريري غير متاحة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أعلنت ميدترونيك حصول منصة Stealth AXiS الروبوتية على علامة CE لاستخدامها في جراحة الأنف والأذن والحنجرة. وتمثل هذه العلامة خطوة تنظيمية تتيح تسويق المنصة في الأسواق الأوروبية المعنية، وفقًا للمتطلبات المحلية. لكن الخبر لا يوضح الإجراءات التي ستدعمها المنصة، أو موعد بدء طرحها، كما لا يقدم تفاصيل عن الأدلة السريرية أو متطلبات تدريب الجراحين. ومن المهم التنبيه إلى أن علامة CE لا تعني حصول الجهاز على موافقة إدارة الغذاء والدواء الأمريكية، ولا تؤكد توافره في الولايات المتحدة. بالنسبة للأطباء، قد تفتح هذه الخطوة الباب أمام خيار روبوتي جديد في بعض الأسواق الأوروبية، لكن تقييم فائدته سيتطلب معرفة الاستطبابات المعتمدة ومقارنة أدائه ونتائجه بالتقنيات الحالية. وتستحق التطورات اللاحقة، بما فيها بيانات الاستخدام السريري وتوسّع نطاق التوافر، المتابعة.",
+      "mcq": []
+    }
+  ]
+}
