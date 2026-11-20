@@ -1,0 +1,687 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T11:23:38Z",
+  "articles": [
+    {
+      "pmid": "42417428",
+      "title_ar": "Plasma oxytocin, early predictor of transient postoperative arginine vasopressin deficiency.",
+      "title_en": "Plasma oxytocin, early predictor of transient postoperative arginine vasopressin deficiency.",
+      "journal": "The Journal of clinical endocrinology and metabolism",
+      "pub_date": "2026-Nov-18",
+      "doi": "10.1210/clinem/dgag270",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42417428/",
+      "pdf_url": "https://doi.org/10.1210/clinem/dgag270",
+      "study_design": "Prospective cohort n=74",
+      "summary_ar": "قيّمت الدراسة ما إذا كانت مستويات plasma oxytocin (OXT) وcopeptin تتنبأ بحدوث arginine vasopressin deficiency (AVP-D) بعد transsphenoidal pituitary surgery (TPS). شملت 74 مريضًا متتاليًا، وقِيست مستويات المؤشرين قبل الجراحة وبعدها بيوم واحد وبعد 3 أشهر. كان مستوى OXT أقل بشكل ملحوظ لدى المرضى الذين أصيبوا بـAVP-D قبل الجراحة وبعدها مباشرة، بينما ظهر انخفاض copeptin لديهم بعد الجراحة فقط. ارتبطت قيمة OXT قبل الجراحة الأقل من 69 pg/mL بالتنبؤ بـAVP-D، بحساسية 90% ونوعية 66% وarea under the curve قدرها 0.76. لم تُحدَّد قيمة cutoff ذات دلالة إحصائية لـcopeptin قبل الجراحة. ظل OXT منخفضًا بعد 3 أشهر لدى مجموعة AVP-D، ما يدعم احتمال كونه مؤشرًا على posterior pituitary reserve، لكن النتائج لا تثبت أن استخدامه يحسن التدبير السريري.",
+      "summary_en": "This study assessed whether plasma oxytocin (OXT) and copeptin predict arginine vasopressin deficiency (AVP-D) after transsphenoidal pituitary surgery (TPS). It included 74 consecutive patients, with both biomarkers measured before surgery, one day afterward, and at three months. Patients who developed AVP-D had significantly lower OXT levels before surgery and immediately afterward; their copeptin was significantly lower only after surgery. A preoperative OXT cutoff below 69 pg/mL predicted AVP-D with 90% sensitivity, 66% specificity, and an area under the curve of 0.76. No significant preoperative cutoff was established for copeptin. OXT remained lower at three months in the AVP-D group, suggesting it may reflect posterior pituitary reserve, although clinical benefit from using the marker remains unproven.",
+      "practice_change_ar": "لا يغيّر هذا البحث التدبير اليومي بعد TPS حاليًا، لكنه يشير إلى أن انخفاض OXT قبل الجراحة قد يساعد مستقبلًا في تحديد المرضى الأكثر عرضة لـAVP-D.",
+      "practice_change_en": "This study does not change routine care after TPS today, but suggests that low preoperative OXT may help identify patients at increased risk of AVP-D in the future.",
+      "future_impact_ar": "إذا تأكدت النتائج في دراسات أكبر، فقد يُستخدم OXT لتوجيه مراقبة sodium والتخطيط للمتابعة بعد TPS.",
+      "future_impact_en": "If confirmed in larger studies, OXT could help guide sodium monitoring and follow-up planning after TPS.",
+      "why_important_ar": "قدّم البحث مقارنة مباشرة بين OXT وcopeptin وأظهر إشارة تنبؤية قبل الجراحة لمضاعفة مهمة بعد جراحة pituitary.",
+      "why_important_en": "The study directly compared OXT with copeptin and identified a preoperative signal for an important complication of pituitary surgery.",
+      "vs_previous_ar": "بخلاف المعرفة السابقة التي طرحت OXT وcopeptin كمؤشرين محتملين، تشير هذه الدراسة إلى تفوق OXT في التنبؤ قبل TPS ضمن هذه المجموعة.",
+      "vs_previous_en": "Whereas prior work proposed both OXT and copeptin as possible markers, this study suggests OXT better predicts AVP-D before TPS in this cohort.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة cohort مستقبلية على 74 مريضًا، مع نتيجة جديدة ومفيدة سريريًا، لكن حجم العينة ومحدودية النوعية وعدم إثبات أثر المؤشر على التدبير تمنع اعتبارها ممارسة مغيرة.",
+      "stars_reason_en": "A prospective cohort of 74 patients offers a novel, clinically useful finding, but the sample size, modest specificity, and lack of evidence that marker-guided care improves outcomes limit its impact.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسبة للنقاش بسبب مقارنة biomarkerين بعد TPS، ووجود cutoff قابل للنقاش، مع الحاجة إلى تقييم التحقق الخارجي وقابلية التطبيق السريري.",
+      "jc_reason_en": "Suitable for discussion because it compares two biomarkers after TPS and proposes a clinically interpretable cutoff, while raising questions about external validation and clinical utility.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسة متعددة المراكز وأكبر حجمًا للتحقق من cutoff الخاص بـOXT وتحديد ما إذا كان استخدامه يحسن اكتشاف AVP-D أو نتائج المرضى.",
+      "research_gap_en": "A larger multicenter study should validate the OXT cutoff and determine whether its use improves AVP-D detection or patient outcomes.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نستعرض اليوم دراسة تبحث عن وسيلة مبكرة للتنبؤ بحدوث arginine vasopressin deficiency، أو AVP-D، بعد transsphenoidal pituitary surgery، أو TPS. هذه المضاعفة معروفة بعد جراحة pituitary، لكن التنبؤ بمن سيصاب بها قبل العملية يظل صعبًا، ولا توجد مؤشرات حيوية معتمدة لهذا الغرض.\n\nقارن الباحثون بين plasma oxytocin، ويُختصر OXT، وبين copeptin لدى 74 مريضًا متتاليًا خضعوا لـTPS. قِيست المستويات قبل الجراحة، وبعد يوم واحد، ثم بعد ثلاثة أشهر. كان OXT أقل بشكل ملحوظ لدى المرضى الذين طوروا AVP-D قبل العملية وبعدها مباشرة. أما copeptin، فكان أقل بعد العملية لدى هذه المجموعة، لكن لم يظهر cutoff قبل الجراحة يحقق دلالة إحصائية.\n\nكانت النتيجة الأساسية أن قيمة OXT قبل الجراحة أقل من 69 pg/mL تنبأت بـAVP-D بحساسية 90% ونوعية 66%، مع area under the curve قدرها 0.76. كما بقي OXT منخفضًا بعد ثلاثة أشهر لدى المرضى المصابين بـAVP-D. يطرح ذلك احتمال أن يكون OXT مؤشرًا على posterior pituitary reserve، وأن يكون أفضل من copeptin للتنبؤ قبل الجراحة ضمن هذه العينة.\n\nما أهمية ذلك لجراحات skull base؟ قد يساعد تحديد المرضى الأكثر عرضة على تخصيص مراقبة sodium والمتابعة بعد TPS. لكن هذه النتائج لا تبرر تغيير الممارسة اليوم؛ فالدراسة تضم 74 مريضًا، والنوعية متوسطة، ولم تختبر ما إذا كان اتخاذ قرارات سريرية اعتمادًا على OXT يحسن النتائج. كما أن cutoff يحتاج إلى تحقق مستقل قبل استخدامه روتينيًا.\n\nالخلاصة: هذه دراسة cohort مستقبلية تقدم إشارة جديدة ومثيرة للاهتمام حول OXT، وتستحق النقاش في journal club، لكنها لا تثبت بعد أن OXT جاهز ليكون اختبارًا سريريًا معتمدًا. الخطوة التالية هي دراسة أكبر متعددة المراكز تتحقق من cutoff وتقيّم أثره على رعاية المرضى.",
+      "audio_script_en": "Today’s article examines whether a blood biomarker can help predict arginine vasopressin deficiency, or AVP-D, after transsphenoidal pituitary surgery, or TPS. AVP-D is a recognized postoperative complication, but identifying patients at risk beforehand remains difficult, and reliable predictive biomarkers are lacking.\n\nThe investigators compared plasma oxytocin, abbreviated OXT, with copeptin in 74 consecutive patients undergoing TPS. They measured both markers before surgery, one day after surgery, and again at three months. Patients who developed AVP-D had significantly lower OXT before surgery and immediately afterward. Copeptin was significantly lower in those patients only after surgery; no significant preoperative copeptin cutoff was identified.\n\nThe main result was a preoperative OXT cutoff of 69 picograms per milliliter. This predicted AVP-D with 90% sensitivity and 66% specificity, with an area under the curve of 0.76. OXT also remained lower at three months in the AVP-D group. The authors propose that OXT may reflect posterior pituitary reserve and may be more useful than copeptin for preoperative prediction in this cohort.\n\nWhy does this matter to skull base practice? In principle, knowing who is at higher risk could help tailor sodium monitoring and follow-up after TPS. However, the results do not justify changing routine care today. The cohort was relatively small, specificity was moderate, and the study did not test whether OXT-guided decisions improve patient outcomes. The proposed cutoff also needs independent validation before routine clinical use.\n\nIn summary, this prospective cohort presents a novel and clinically relevant signal for OXT, making it worthwhile for journal club discussion. It does not yet establish OXT as a validated clinical test. The next step is a larger, multicenter study to confirm the cutoff and assess whether biomarker-guided care improves AVP-D detection or patient outcomes.",
+      "mcq": [
+        {
+          "q_ar": "ما المؤشر الذي أظهر أفضل قدرة على التنبؤ بـAVP-D قبل TPS في هذه الدراسة؟",
+          "q_en": "Which marker showed the best preoperative prediction of AVP-D after TPS in this study?",
+          "options_ar": [
+            "أ) OXT",
+            "ب) Copeptin",
+            "ج) Sodium",
+            "د) لم يُظهر أي مؤشر قدرة تنبؤية"
+          ],
+          "options_en": [
+            "A) OXT",
+            "B) Copeptin",
+            "C) Sodium",
+            "D) Neither marker showed predictive ability"
+          ],
+          "answer": 0,
+          "explanation_ar": "ارتبط انخفاض OXT قبل الجراحة بالتنبؤ بـAVP-D؛ ولم يُحدَّد cutoff قبل الجراحة ذي دلالة لـcopeptin.",
+          "explanation_en": "Low preoperative OXT predicted AVP-D; no significant preoperative cutoff was identified for copeptin."
+        },
+        {
+          "q_ar": "ما خصائص cutoff الخاص بـOXT قبل الجراحة كما وردت في الدراسة؟",
+          "q_en": "What were the reported characteristics of the preoperative OXT cutoff?",
+          "options_ar": [
+            "أ) 69 pg/mL؛ حساسية 90% ونوعية 66%",
+            "ب) 69 pg/mL؛ حساسية 66% ونوعية 90%",
+            "ج) 90 pg/mL؛ حساسية 90% ونوعية 66%",
+            "د) لم يُذكر cutoff أو أداء تشخيصي"
+          ],
+          "options_en": [
+            "A) 69 pg/mL; 90% sensitivity and 66% specificity",
+            "B) 69 pg/mL; 66% sensitivity and 90% specificity",
+            "C) 90 pg/mL; 90% sensitivity and 66% specificity",
+            "D) No cutoff or diagnostic performance was reported"
+          ],
+          "answer": 0,
+          "explanation_ar": "كان cutoff هو 69 pg/mL، مع حساسية 90% ونوعية 66% وarea under the curve قدرها 0.76.",
+          "explanation_en": "The cutoff was 69 pg/mL, with 90% sensitivity, 66% specificity, and an area under the curve of 0.76."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن تطبيق هذه النتائج حاليًا؟",
+          "q_en": "What is the most appropriate conclusion about applying these findings today?",
+          "options_ar": [
+            "أ) اعتماد OXT روتينيًا لتحديد خطة العلاج",
+            "ب) الاستغناء عن مراقبة sodium بعد TPS",
+            "ج) اعتبار OXT مؤشرًا واعدًا يحتاج إلى تحقق إضافي",
+            "د) اعتبار copeptin أفضل مؤشر قبل الجراحة"
+          ],
+          "options_en": [
+            "A) Adopt OXT routinely to determine treatment",
+            "B) Discontinue sodium monitoring after TPS",
+            "C) Regard OXT as a promising marker requiring further validation",
+            "D) Consider copeptin the superior preoperative marker"
+          ],
+          "answer": 2,
+          "explanation_ar": "النتيجة واعدة لكنها مستمدة من cohort صغيرة نسبيًا ولم تثبت أن توجيه الرعاية باستخدام OXT يحسن النتائج؛ لذلك يلزم التحقق قبل تغيير الممارسة.",
+          "explanation_en": "The finding is promising but comes from a relatively small cohort and does not show that OXT-guided care improves outcomes, so validation is needed before practice changes."
+        }
+      ]
+    },
+    {
+      "pmid": "43057915",
+      "title_ar": "Laryngopharyngeal Reflux Disease Symptoms in Fibromyalgia Syndrome: A Cross-Sectional Study of 112 Patients.",
+      "title_en": "Laryngopharyngeal Reflux Disease Symptoms in Fibromyalgia Syndrome: A Cross-Sectional Study of 112 Patients.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Nov-19",
+      "doi": "10.1016/j.jvoice.2026.10.077",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43057915/",
+      "pdf_url": null,
+      "study_design": "Cross-sectional controlled study, n=112",
+      "summary_ar": "قارنت هذه الدراسة أعراض laryngopharyngeal reflux disease بين 56 مريضًا مصابًا بـ fibromyalgia syndrome و56 control مطابقين بحسب العمر والجنس. كانت جميع المشاركات من الإناث، ومتوسط العمر في مجموعة fibromyalgia syndrome هو 47.94 سنة. كان متوسط Reflux Symptom Index أعلى في مجموعة fibromyalgia syndrome مقارنةً بـ control (9.57 مقابل 3.33؛ p<0.001). كما كان متوسط Reflux Symptom Score-12 أعلى (57.46 مقابل 14.67؛ p<0.001)، وكذلك Visual Analog Scale لحرقة المعدة (5.59 مقابل 2.16؛ p<0.001). تشير النتائج إلى زيادة الأعراض التي قد توحي بـ laryngopharyngeal reflux disease لدى المصابات بـ fibromyalgia syndrome. لكن الدراسة اعتمدت على questionnaires للأعراض ولم تثبت وجود reflux موضوعيًا أو تشخّص المرض.",
+      "summary_en": "This cross-sectional study compared symptoms suggestive of laryngopharyngeal reflux disease in 56 patients with fibromyalgia syndrome and 56 age- and gender-matched controls.\nAll participants were female, and the mean age in the fibromyalgia syndrome group was 47.94 years.\nMean Reflux Symptom Index scores were higher in the fibromyalgia syndrome group (9.57 vs 3.33; p<0.001).\nReflux Symptom Score-12 scores (57.46 vs 14.67; p<0.001) and heartburn Visual Analog Scale scores (5.59 vs 2.16; p<0.001) were also higher.\nThe findings indicate a greater burden of symptoms that may suggest laryngopharyngeal reflux disease in patients with fibromyalgia syndrome.\nSymptom questionnaires alone do not objectively establish reflux or confirm an LPRD diagnosis.",
+      "practice_change_ar": "لا تبرر النتائج تغيير الممارسة الحالية، لكنها تدعم الاستفسار عن أعراض reflux لدى مريضات fibromyalgia syndrome مع تقييمها سريريًا دون اعتبار questionnaires تشخيصًا مؤكدًا.",
+      "practice_change_en": "These findings do not warrant an immediate practice change, but support asking patients with fibromyalgia syndrome about reflux symptoms and evaluating them clinically without treating questionnaires as a confirmed diagnosis.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية تستخدم قياسات موضوعية ومجموعات أكثر تنوعًا في تحديد ما إذا كانت هذه الأعراض تعكس reflux فعليًا أم تداخلًا في الأعراض.",
+      "future_impact_en": "Future studies using objective testing and more diverse cohorts could determine whether these symptoms reflect actual reflux or symptom overlap.",
+      "why_important_ar": "تلفت الدراسة الانتباه إلى عبء أعراض الحنجرة والبلعوم وحرقة المعدة لدى مريضات fibromyalgia syndrome، مع أهمية عدم الخلط بين الأعراض والتشخيص.",
+      "why_important_en": "The study highlights laryngopharyngeal and heartburn symptom burden in patients with fibromyalgia syndrome while underscoring that symptoms are not equivalent to a diagnosis.",
+      "vs_previous_ar": "تضيف الدراسة مقارنة مباشرة مع مجموعة control، لكنها لا تقدم دليلًا موضوعيًا جديدًا يثبت وجود laryngopharyngeal reflux disease أو يغيّر المعرفة التشخيصية الحالية.",
+      "vs_previous_en": "The study adds a direct comparison with a control group but provides no objective evidence confirming laryngopharyngeal reflux disease or changing current diagnostic knowledge.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة cross-sectional مضبوطة تضم 112 مشاركة وتُظهر فروقًا إحصائية واضحة، لكنها تقيس الأعراض فقط وفي عينة نسائية واحدة؛ لذا تقدم معرفة مفيدة دون تغيير الممارسة.",
+      "stars_reason_en": "This controlled cross-sectional study includes 112 participants and shows clear statistical differences, but measures symptoms only in an all-female sample; it adds useful knowledge without changing practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for discussion of the limitations of symptom questionnaires for LPRD diagnosis, symptom overlap in fibromyalgia syndrome, and the need for objective assessment.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج العلاقة إلى دراسة مستقبلية تشمل رجالًا ومجموعات أوسع وتستخدم اختبارات موضوعية لتأكيد reflux وتقييم أثر علاج الأعراض.",
+      "research_gap_en": "The association requires prospective study in broader cohorts, including men, with objective reflux testing and assessment of symptom-treatment outcomes.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة عن أعراض laryngopharyngeal reflux disease لدى مرضى fibromyalgia syndrome، وهي دراسة cross-sectional نُشرت في Journal of Voice. شملت الدراسة 112 مشاركة: 56 مريضة مصابة بـ fibromyalgia syndrome و56 control مماثلات بحسب العمر والجنس. كانت جميع المشاركات من الإناث، ومتوسط العمر في مجموعة fibromyalgia syndrome نحو 48 سنة.\n\nاستخدم الباحثون Reflux Symptom Index وReflux Symptom Score-12، كما قيّموا حرقة المعدة باستخدام Visual Analog Scale. كانت الدرجات أعلى بوضوح في مجموعة fibromyalgia syndrome: بلغ متوسط Reflux Symptom Index نحو 9.57 مقابل 3.33، ومتوسط Reflux Symptom Score-12 نحو 57.46 مقابل 14.67، ودرجة حرقة المعدة 5.59 مقابل 2.16. وكانت الفروق ذات دلالة إحصائية، مع p<0.001 في المقاييس الثلاثة.\n\nالمغزى السريري هو أن مريضات fibromyalgia syndrome قد يذكرن أعراضًا أكثر يمكن أن توحي بـ laryngopharyngeal reflux disease. لكن هذه النتيجة لا تعني أن الدراسة أثبتت وجود reflux أو حددت معدل تشخيص LPRD؛ إذ اعتمدت على questionnaires للأعراض ولم تتضمن تأكيدًا موضوعيًا. كما أن اقتصار العينة على الإناث يحد من تعميم النتائج.\n\nلذلك لا تدعم الدراسة تغيير الممارسة اليوم. يمكن أخذ الأعراض بعين الاعتبار عند التقييم، مع تجنب تشخيص LPRD اعتمادًا على questionnaire وحده. من نقاط قوتها وجود مجموعة control ومقارنة مباشرة، أما أبرز القيود فهي التصميم cross-sectional، وصغر العينة، والاعتماد على الأعراض. والخطوة البحثية التالية هي دراسة مستقبلية أوسع تشمل مشاركين من الجنسين وتستخدم اختبارات موضوعية للـ reflux. تصلح الورقة لنقاش journal club حول تداخل الأعراض وحدود أدوات التقييم، لكنها لا تقدم علاجًا أو تقنية جديدة تستحق المتابعة.",
+      "audio_script_en": "Today’s article examines symptoms of laryngopharyngeal reflux disease in patients with fibromyalgia syndrome. This cross-sectional study, published in the Journal of Voice, included 112 participants: 56 patients with fibromyalgia syndrome and 56 controls matched by age and gender. All participants were female, and the mean age in the fibromyalgia group was approximately 48 years.\n\nThe investigators used the Reflux Symptom Index and Reflux Symptom Score-12, and assessed heartburn with a Visual Analog Scale. Scores were higher in the fibromyalgia group across all measures. Mean Reflux Symptom Index scores were 9.57 versus 3.33, Reflux Symptom Score-12 scores were 57.46 versus 14.67, and heartburn scores were 5.59 versus 2.16. Each difference was statistically significant, with p<0.001.\n\nClinically, the results suggest that patients with fibromyalgia syndrome may report more symptoms that could be consistent with laryngopharyngeal reflux disease. However, the study does not establish that these patients have reflux or provide a confirmed LPRD rate. The assessment relied on symptom questionnaires and included no objective confirmation. The all-female sample also limits generalizability.\n\nThis study does not justify an immediate change in practice. Clinicians may consider reflux symptoms during assessment, but should not diagnose LPRD based on a questionnaire alone. Strengths include the control group and direct comparison; limitations include the cross-sectional design, modest sample size, and symptom-based measures. Future prospective studies should include broader populations and objective reflux testing. This article is useful for journal club discussion about symptom overlap and diagnostic limitations, but it introduces no new treatment or technology to track.",
+      "mcq": [
+        {
+          "q_ar": "ما تصميم الدراسة؟",
+          "q_en": "What was the study design?",
+          "options_ar": [
+            "أ) RCT",
+            "ب) دراسة cross-sectional مضبوطة",
+            "ج) systematic review",
+            "د) case report"
+          ],
+          "options_en": [
+            "A) RCT",
+            "B) Controlled cross-sectional study",
+            "C) Systematic review",
+            "D) Case report"
+          ],
+          "answer": 1,
+          "explanation_ar": "قارنت الدراسة مجموعتين في نقطة زمنية واحدة باستخدام questionnaires للأعراض، لذا فهي دراسة cross-sectional مضبوطة.",
+          "explanation_en": "The study compared two groups at a single time point using symptom questionnaires, making it a controlled cross-sectional study."
+        },
+        {
+          "q_ar": "أي مقياس استُخدم لتقييم حرقة المعدة؟",
+          "q_en": "Which measure was used to assess heartburn?",
+          "options_ar": [
+            "أ) Visual Analog Scale",
+            "ب) Reflux Symptom Index",
+            "ج) Reflux Symptom Score-12",
+            "د) pH monitoring"
+          ],
+          "options_en": [
+            "A) Visual Analog Scale",
+            "B) Reflux Symptom Index",
+            "C) Reflux Symptom Score-12",
+            "D) pH monitoring"
+          ],
+          "answer": 0,
+          "explanation_ar": "قيّم الباحثون شدة heartburn باستخدام Visual Analog Scale؛ أما المقياسان الآخران فقيّما أعراض reflux.",
+          "explanation_en": "Heartburn severity was assessed using a Visual Analog Scale; the other two measures assessed reflux symptoms."
+        },
+        {
+          "q_ar": "ما القيد الأهم عند تفسير النتائج؟",
+          "q_en": "What is the key limitation when interpreting the findings?",
+          "options_ar": [
+            "أ) لم تتضمن الدراسة مجموعة control",
+            "ب) لم تقِس الدراسة أي أعراض",
+            "ج) اعتمدت على questionnaires دون تأكيد موضوعي لـ reflux",
+            "د) شملت أطفالًا فقط"
+          ],
+          "options_en": [
+            "A) The study had no control group",
+            "B) The study measured no symptoms",
+            "C) It relied on questionnaires without objective confirmation of reflux",
+            "D) It included only children"
+          ],
+          "answer": 2,
+          "explanation_ar": "النتائج توضح زيادة الأعراض المبلغ عنها، لكنها لا تثبت وجود reflux موضوعيًا أو تؤكد تشخيص LPRD.",
+          "explanation_en": "The results show increased reported symptoms but do not objectively demonstrate reflux or confirm an LPRD diagnosis."
+        }
+      ]
+    },
+    {
+      "pmid": "43051493",
+      "title_ar": "The Completeness of Surgery Index (CoSI) in Chronic Rhinosinusitis with Nasal Polyps: A Multi-Institutional Study.",
+      "title_en": "The Completeness of Surgery Index (CoSI) in Chronic Rhinosinusitis with Nasal Polyps: A Multi-Institutional Study.",
+      "journal": "Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology",
+      "pub_date": "2026-Nov-18",
+      "doi": "10.1016/j.anai.2026.11.017",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43051493/",
+      "pdf_url": null,
+      "study_design": "Retrospective multi-institutional cohort, n=160",
+      "summary_ar": "قيّمت هذه الدراسة متعددة المراكز قدرة CoSI قبل العملية على التنبؤ بتحسن الأعراض بعد revision ESS لدى مرضى CRSwNP. شملت الدراسة 160 مريضًا خضعوا لـ revision ESS في ثمانية مراكز من 2022 إلى 2024. ارتبط CoSI <70، الذي يشير إلى جراحة سابقة غير مكتملة، بتحسن أكبر في SNOT-22 خلال 6–24 شهرًا مقارنةً بـ CoSI ≥70 (35.2 مقابل 18.7 نقطة؛ p<0.001). بقي هذا الارتباط دالًا بعد ضبط عوامل سريرية وعلاجية متعددة، منها asthma واستخدام biologic والدرجة الأساسية لـ SNOT-22. أظهرت تحليلات العتبة وجود انتقال ذي أهمية سريرية قرب CoSI 70. تدعم النتائج استخدام CoSI للمساعدة في تحديد المرضى الذين قد يستفيدون أكثر من revision surgery كاملة، لكنها لا تثبت السببية بسبب التصميم الاستعادي.",
+      "summary_en": "This eight-center retrospective study assessed whether preoperative CoSI predicts symptomatic improvement after revision ESS for CRSwNP.\nIt included 160 patients who underwent revision surgery between 2022 and 2024.\nPatients with CoSI <70 had greater SNOT-22 improvement at 6–24 months than those with CoSI ≥70 (35.2 vs 18.7 points; p<0.001).\nThe association persisted after adjustment for demographic, clinical, and treatment-related factors, including asthma, biologic use, and baseline SNOT-22.\nThreshold analyses supported a clinically relevant transition near CoSI 70.\nThe findings support CoSI as a useful predictor, but the retrospective design cannot establish that incomplete prior surgery caused the difference.",
+      "practice_change_ar": "يمكن استخدام CoSI قبل revision ESS كعامل مساعد لتحديد المرضى ذوي الجراحة السابقة غير المكتملة، دون اعتباره وحده أساسًا لاتخاذ القرار.",
+      "practice_change_en": "CoSI can help identify patients with potentially incomplete prior surgery before revision ESS, but should not be used as the sole basis for decision-making.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية استباقية في تحديد ما إذا كان توجيه revision surgery وفق CoSI يحسن النتائج مقارنةً بالرعاية المعتادة.",
+      "future_impact_en": "Future prospective studies could determine whether CoSI-guided revision surgery improves outcomes compared with usual care.",
+      "why_important_ar": "تقدم الدراسة تحققًا متعدد المراكز بأن درجة CT قبل العملية ترتبط بحجم التحسن العرضي بعد revision ESS لدى مرضى CRSwNP.",
+      "why_important_en": "This study provides multi-center validation that a preoperative CT score is associated with the magnitude of symptomatic improvement after revision ESS for CRSwNP.",
+      "vs_previous_ar": "توسّع هذه الدراسة نتائج الدراسات أحادية المركز السابقة إلى مجموعة متعددة المراكز وتدعم عتبة CoSI البالغة 70.",
+      "vs_previous_en": "This study extends prior single-center findings to a multi-institutional cohort and supports the CoSI threshold of 70.",
+      "stars": 4,
+      "stars_reason_ar": "دراسة استعادية متعددة المراكز شملت 160 مريضًا وتقدم تحققًا سريريًا مفيدًا لأداة CoSI، لكن التصميم غير العشوائي لا يثبت السببية ولا يغيّر الممارسة وحده.",
+      "stars_reason_en": "This retrospective multi-center study of 160 patients offers useful clinical validation of CoSI, but its nonrandomized design cannot establish causality or change practice by itself.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق المناقشة لأنها تختبر أداة CT قابلة للتطبيق سريريًا، مع ضرورة بحث حدود الاستدلال السببي والتحيز في اختيار المرضى.",
+      "jc_reason_en": "It merits discussion because it evaluates a clinically applicable CT-based tool while raising important questions about causal inference and patient-selection bias.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا CoSI كأداة تقييم CT قد تساعد في تقدير اكتمال ESS السابقة واختيار المرضى لـ revision surgery.",
+      "watch_detail_en": "Track CoSI as a CT-based assessment tool that may help evaluate the completeness of prior ESS and inform revision-surgery selection.",
+      "watch_type": "technology",
+      "research_gap_ar": "يلزم إجراء دراسة استباقية متعددة المراكز تقارن صراحةً بين revision ESS الموجهة بواسطة CoSI والرعاية المعتادة مع تقييم النتائج طويلة الأمد.",
+      "research_gap_en": "A prospective multi-center study should directly compare CoSI-guided revision ESS with usual care and assess long-term outcomes.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم دراسة متعددة المراكز عن CoSI، أو مؤشر اكتمال الجراحة، لدى مرضى chronic rhinosinusitis with nasal polyps، المعروف اختصارًا بـ CRSwNP. يهدف هذا المؤشر المعتمد على CT إلى تقدير مدى اكتمال endoscopic sinus surgery السابقة، وقد أشارت دراسات أحادية المركز إلى أن المرضى ذوي الدرجات المنخفضة قد يحققون تحسنًا أكبر بعد revision surgery.\n\nحللت الدراسة استعاديًا 160 مريضًا خضعوا لـ revision ESS في ثمانية مراكز بين عامي 2022 و2024. قارن الباحثون نتائج المرضى ذوي CoSI أقل من 70 بمن كانت درجاتهم 70 أو أكثر. خلال فترة المتابعة من 6 إلى 24 شهرًا، تحسنت درجات SNOT-22 بمقدار 35.2 نقطة في مجموعة CoSI الأقل من 70، مقابل 18.7 نقطة في المجموعة الأخرى، وكان الفرق ذا دلالة إحصائية، بقيمة p أقل من 0.001.\n\nظل الارتباط قائمًا بعد ضبط عوامل متعددة، منها asthma، وعدد العمليات السابقة، واستخدام biologic، والدرجة الأساسية لـ SNOT-22. كما دعمت تحليلات العتبة وجود انتقال ذي أهمية سريرية قرب الدرجة 70. تشير النتائج إلى أن عدم اكتمال العملية السابقة قد يكون عاملًا قابلًا للتصحيح لدى بعض المرضى ذوي الأعراض المستمرة.\n\nعمليًا، يمكن أن يكون CoSI أداة مساعدة قبل revision ESS لتقدير احتمال الاستفادة، لكنه لا ينبغي أن يحل محل التقييم السريري أو أن يكون الأساس الوحيد لاختيار العلاج. ومن المهم تذكر أن الدراسة استعادية، وأن الارتباط لا يثبت أن عدم اكتمال الجراحة هو سبب التحسن الأكبر. كذلك لا تثبت النتائج أن استراتيجية جراحية موجهة بواسطة CoSI أفضل من الرعاية المعتادة.\n\nتكمن أهمية الدراسة في توسيع نتائج سابقة أحادية المركز إلى مجموعة متعددة المؤسسات، وتقديم دعم إضافي لعتبة CoSI البالغة 70. أما الخطوة البحثية التالية فهي دراسة استباقية تقارن مباشرةً بين قرارات revision surgery الموجهة بالمؤشر والرعاية المعتادة، مع متابعة النتائج طويلة الأمد.",
+      "audio_script_en": "Today we review a multi-institutional study of the Completeness of Surgery Index, or CoSI, in chronic rhinosinusitis with nasal polyps, known as CRSwNP. CoSI is a CT-based score intended to assess how complete a patient’s prior endoscopic sinus surgery was. Earlier single-center studies suggested that patients with lower scores may improve more after revision surgery.\n\nThis retrospective study included 160 patients who underwent revision ESS at eight centers between 2022 and 2024. The investigators compared patients with CoSI below 70 with those scoring 70 or higher. At 6 to 24 months, the lower-CoSI group had a mean SNOT-22 improvement of 35.2 points, compared with 18.7 points in the higher-CoSI group. The difference was statistically significant, with p less than 0.001.\n\nThe association remained significant after adjustment for several factors, including asthma, number of prior operations, biologic use, and baseline SNOT-22. Threshold analyses also supported a clinically relevant transition near a CoSI of 70. The findings suggest that incomplete prior surgery may be a correctable contributor to ongoing symptoms in some patients.\n\nFor practice, CoSI may be a useful adjunct when evaluating a patient before revision ESS, especially when considering whether prior surgery was incomplete. It should not replace clinical judgment or serve as the sole determinant of treatment. Because this was a retrospective study, the association does not prove that incomplete surgery caused the greater improvement. Nor does it show that a CoSI-guided surgical strategy is superior to usual care.\n\nThe study’s importance is that it extends earlier single-center findings to a multi-institutional cohort and adds support for the CoSI threshold of 70. A key next step is a prospective study comparing CoSI-guided revision decisions with usual care and assessing longer-term outcomes.",
+      "mcq": [
+        {
+          "q_ar": "ما الفرق في متوسط تحسن SNOT-22 بين مجموعتي CoSI في الدراسة؟",
+          "q_en": "What was the difference in mean SNOT-22 improvement between the CoSI groups?",
+          "options_ar": [
+            "أ) تحسن أكبر مع CoSI ≥70",
+            "ب) تحسن أكبر مع CoSI <70",
+            "ج) لم يظهر فرق بين المجموعتين",
+            "د) لم تُقَس درجات SNOT-22"
+          ],
+          "options_en": [
+            "A) Greater improvement with CoSI ≥70",
+            "B) Greater improvement with CoSI <70",
+            "C) No difference between groups",
+            "D) SNOT-22 scores were not measured"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان متوسط التحسن 35.2 نقطة مع CoSI <70 مقابل 18.7 نقطة مع CoSI ≥70.",
+          "explanation_en": "Mean improvement was 35.2 points with CoSI <70 versus 18.7 points with CoSI ≥70."
+        },
+        {
+          "q_ar": "ما التصميم البحثي وحجم العينة؟",
+          "q_en": "What were the study design and sample size?",
+          "options_ar": [
+            "أ) RCT شملت 160 مريضًا",
+            "ب) دراسة استعادية متعددة المراكز شملت 160 مريضًا",
+            "ج) دراسة مستقبلية شملت 80 مريضًا",
+            "د) مراجعة منهجية لـ 160 دراسة"
+          ],
+          "options_en": [
+            "A) RCT with 160 patients",
+            "B) Retrospective multi-center study with 160 patients",
+            "C) Prospective study with 80 patients",
+            "D) Systematic review of 160 studies"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت دراسة cohort استعادية عبر ثمانية مراكز، وشملت 160 مريضًا خضعوا لـ revision ESS.",
+          "explanation_en": "It was a retrospective cohort across eight centers, including 160 patients who underwent revision ESS."
+        },
+        {
+          "q_ar": "ما أهم قيد عند تفسير ارتباط CoSI المنخفض بتحسن أكبر؟",
+          "q_en": "What is the key limitation when interpreting the association between lower CoSI and greater improvement?",
+          "options_ar": [
+            "أ) صغر العينة إلى أقل من 10 مرضى",
+            "ب) الدراسة استعادية ولا تثبت السببية",
+            "ج) لم تُجمع نتائج سريرية",
+            "د) اقتصرت الدراسة على الحيوانات"
+          ],
+          "options_en": [
+            "A) The sample was smaller than 10 patients",
+            "B) The study was retrospective and cannot establish causality",
+            "C) No clinical outcomes were collected",
+            "D) The study was limited to animals"
+          ],
+          "answer": 1,
+          "explanation_ar": "التصميم الاستعادي يثبت وجود ارتباط بعد الضبط، لكنه لا يثبت أن عدم اكتمال العملية سبب التحسن الأكبر.",
+          "explanation_en": "The retrospective design shows an adjusted association but cannot prove that incomplete prior surgery caused the greater improvement."
+        }
+      ]
+    },
+    {
+      "pmid": "43057916",
+      "title_ar": "Laryngeal Applications of Platelet-Rich Plasma and Platelet-Rich Fibrin: A Systematic Review and Meta-Analysis.",
+      "title_en": "Laryngeal Applications of Platelet-Rich Plasma and Platelet-Rich Fibrin: A Systematic Review and Meta-Analysis.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Nov-19",
+      "doi": "10.1016/j.jvoice.2026.10.045",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43057916/",
+      "pdf_url": null,
+      "study_design": "Systematic review and meta-analysis of 13 studies",
+      "summary_ar": "راجعت هذه systematic review وmeta-analysis استخدام PRP لعلاج اضطرابات vocal fold واستخدام PRF للوقاية من PCF بعد total laryngectomy، وشملت 13 دراسة. ارتبط PRP بتحسن كبير في VHI عبر اضطرابات vocal fold المختلفة (SMD = -1.42)، وكانت النتائج أفضل للإجراءات في operating room مقارنةً بالعيادة، مع أثر كبير عند دمجه مع autologous fat. أظهر PRF وفق بروتوكول دون anticoagulant وبسرعة 3000 rpm لمدة 10 دقائق انخفاضًا في خطر PCF (RR = 0.21)، وبلغ Number Needed to Treat نحو 4.4. سُجلت آثار جانبية خطيرة نادرة جدًا مع PRP وPRF. تدعم النتائج جدوى هذه التدخلات، لكن تعدد الحالات والإجراءات وغياب تفاصيل كافية عن جودة الدراسات في الملخص يجعلان تقدير حجم الأثر وتطبيقه على نطاق واسع بحاجة إلى الحذر.",
+      "summary_en": "This systematic review and meta-analysis included 13 studies of PRP for vocal fold disorders and PRF for prevention of PCF after total laryngectomy. PRP was associated with a large improvement in VHI across vocal fold pathologies (SMD = -1.42). Outcomes appeared better for procedures performed in the operating room than in the clinic, and PRP combined with autologous fat also showed a large effect. A PRF protocol without anticoagulant, using 3000 rpm for 10 minutes, reduced PCF risk (RR = 0.21), with a reported Number Needed to Treat of 4.4. Severe adverse events were exceedingly rare. The findings are promising, but heterogeneity and limited information on study quality in the abstract warrant cautious interpretation.",
+      "practice_change_ar": "لا تبرر النتائج حتى الآن اعتماد PRP أو PRF روتينيًا، لكنها تدعم مناقشة PRP كخيار علاجي وPRF كإضافة محتملة للوقاية من PCF مع مراعاة محدودية الأدلة.",
+      "practice_change_en": "The findings do not yet justify routine use of PRP or PRF, but support discussing PRP as a treatment option and PRF as a possible adjunct for PCF prevention while accounting for limited evidence.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية موحدة البروتوكول على تحديد المرضى الأنسب لـ PRP وتأكيد فاعلية PRF للوقاية من PCF.",
+      "future_impact_en": "Future studies using standardized protocols may identify the patients most likely to benefit from PRP and confirm PRF effectiveness for PCF prevention.",
+      "why_important_ar": "تجمع المقالة أدلة سريرية على تطبيقين مختلفين لـ PRP وPRF في laryngology، مع نتائج واعدة للفاعلية والسلامة.",
+      "why_important_en": "The review synthesizes clinical evidence for two distinct PRP and PRF applications in laryngology, with promising efficacy and safety findings.",
+      "vs_previous_ar": "على خلاف الأدلة المتفرقة السابقة، تجمع هذه المراجعة نتائج PRP لاضطرابات vocal fold وPRF للوقاية من PCF، لكنها لا تثبت بعد معيارًا علاجيًا موحدًا.",
+      "vs_previous_en": "Unlike previously scattered evidence, this review brings together PRP findings for vocal fold disorders and PRF findings for PCF prevention, but does not yet establish a standardized treatment approach.",
+      "stars": 4,
+      "stars_reason_ar": "هذه systematic review وmeta-analysis تضم 13 دراسة، وتقدم نتائج كمية واعدة في مجال laryngology؛ تستحق 4 نجوم، مع التحفظ بسبب تباين الدراسات وعدم كفاية المعلومات لتغيير الممارسة الروتينية.",
+      "stars_reason_en": "This systematic review and meta-analysis of 13 studies provides promising quantitative findings in laryngology and merits 4 stars, tempered by study heterogeneity and insufficient evidence to change routine practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق المناقشة لأنها تجمع تطبيقين سريريين ناشئين، وتتيح تقييم حجم الأثر المبلغ عنه ومحدودية الأدلة قبل اعتماد هذه التدخلات.",
+      "jc_reason_en": "It merits discussion because it synthesizes two emerging clinical applications and allows appraisal of the reported effect sizes and evidence limitations before adopting these interventions.",
+      "watch": true,
+      "watch_detail_ar": "تابع تطور استخدام PRP وPRF كمواد حيوية ذاتية في laryngology، خصوصًا بروتوكول PRF للوقاية من PCF وبروتوكولات PRP لعلاج vocal fold.",
+      "watch_detail_en": "Track the development of autologous PRP and PRF applications in laryngology, particularly the PRF protocol for PCF prevention and PRP protocols for vocal fold treatment.",
+      "watch_type": "technology",
+      "research_gap_ar": "تحتاج الأبحاث إلى دراسات مقارنة أكبر وبروتوكولات موحدة تحدد أفضل تحضير وجرعة وطريقة إعطاء PRP وPRF، مع نتائج طويلة الأمد ومقاييس سريرية متسقة.",
+      "research_gap_en": "Larger comparative studies with standardized preparation, dosing, and delivery protocols are needed, alongside long-term outcomes and consistent clinical measures.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "مرحبًا بكم في ORL Daily. نراجع اليوم systematic review وmeta-analysis حول استخدام platelet-rich plasma، أو PRP، وplatelet-rich fibrin، أو PRF، في laryngology. شملت المراجعة 13 دراسة، لكنها تناولت تطبيقين منفصلين: PRP لاضطرابات vocal fold، وPRF للوقاية من pharyngocutaneous fistula، أو PCF، بعد total laryngectomy.\n\nبالنسبة إلى PRP، أفاد التحليل بتحسن كبير في voice-related quality of life وفق VHI، مع SMD يساوي ناقص 1.42. أشارت تحليلات المجموعات إلى نتائج أفضل عند إجراء العلاج في operating room مقارنةً بالعيادة، وإلى أثر كبير عند دمج PRP مع autologous fat. أما بالنسبة إلى PRF، فقد ارتبط بروتوكول دون anticoagulant وبسرعة 3000 rpm لمدة 10 دقائق بانخفاض خطر PCF؛ كان RR يساوي 0.21، وبلغ Number Needed to Treat نحو 4.4. كما ورد أن الآثار الجانبية الخطيرة نادرة جدًا.\n\nهذه نتائج واعدة، لكن لا ينبغي تفسيرها على أنها إثبات كافٍ لاعتماد أي من التدخلين روتينيًا. فالملخص لا يقدم تفاصيل كافية عن جودة الدراسات، كما أن الحالات والإجراءات المختلفة قد تحد من قابلية تعميم النتائج. لذلك نضع ثقتنا في النتائج ضمن فئة المعرفة المفيدة، لا الممارسة التي تغيرت بالفعل.\n\nعمليًا، يمكن مناقشة PRP كخيار محتمل لاستعادة الصوت، وPRF كإضافة محتملة للوقاية من PCF، مع توضيح أن الأدلة ما زالت بحاجة إلى تأكيد. ومن المهم متابعة الدراسات الأكبر ذات البروتوكولات الموحدة، خصوصًا لتحديد المرضى المناسبين وطرق التحضير والإعطاء المثلى. خلاصة المقال: تقدم PRP وPRF إمكانات مهمة في laryngology، لكن الممارسة الروتينية تنتظر أدلة أكثر رسوخًا.",
+      "audio_script_en": "Welcome to ORL Daily. Today we review a systematic review and meta-analysis on platelet-rich plasma, or PRP, and platelet-rich fibrin, or PRF, in laryngology. The review included 13 studies and assessed two distinct applications: PRP for vocal fold disorders and PRF to prevent pharyngocutaneous fistula, or PCF, after total laryngectomy.\n\nFor PRP, the analysis reported a large improvement in voice-related quality of life measured by VHI, with an SMD of minus 1.42. Subgroup analyses suggested better outcomes for procedures performed in the operating room than in the clinic, and a large effect when PRP was combined with autologous fat. For PRF, a protocol without anticoagulant, prepared at 3000 rpm for 10 minutes, was associated with reduced PCF risk. The reported RR was 0.21, with a Number Needed to Treat of about 4.4. Severe adverse events were described as exceedingly rare.\n\nThese findings are promising, but they do not by themselves establish either intervention as routine care. The abstract provides limited information about study quality, and variation in patient groups and procedures may limit how broadly the results can be applied. We therefore consider the evidence worth knowing about, rather than practice-changing at this stage.\n\nIn practice, clinicians may discuss PRP as a potential option for voice restoration and PRF as a possible adjunct for PCF prevention, while explaining that the evidence needs confirmation. Larger studies with standardized protocols are needed to identify appropriate patients and determine optimal preparation and delivery. The take-home message is that PRP and PRF offer important possibilities in laryngology, but routine adoption awaits stronger evidence.",
+      "mcq": [
+        {
+          "q_ar": "ما التطبيقان اللذان تناولتهما المراجعة؟",
+          "q_en": "Which two applications did the review assess?",
+          "options_ar": [
+            "أ) PRP لاضطرابات vocal fold وPRF للوقاية من PCF بعد total laryngectomy",
+            "ب) PRF لعلاج rhinitis وPRP للوقاية من PCF",
+            "ج) PRP لعلاج PCF وPRF لاستعادة السمع",
+            "د) PRP للوقاية من aspiration وPRF لعلاج vocal fold paralysis"
+          ],
+          "options_en": [
+            "A) PRP for vocal fold disorders and PRF to prevent PCF after total laryngectomy",
+            "B) PRF for rhinitis and PRP to prevent PCF",
+            "C) PRP to treat PCF and PRF to restore hearing",
+            "D) PRP to prevent aspiration and PRF to treat vocal fold paralysis"
+          ],
+          "answer": 0,
+          "explanation_ar": "قيّمت المراجعة PRP لاضطرابات vocal fold وPRF للوقاية من PCF بعد total laryngectomy.",
+          "explanation_en": "The review evaluated PRP for vocal fold disorders and PRF for PCF prevention after total laryngectomy."
+        },
+        {
+          "q_ar": "ما النتيجة الكمية المبلغ عنها لتأثير PRF على خطر PCF؟",
+          "q_en": "What quantitative result was reported for the effect of PRF on PCF risk?",
+          "options_ar": [
+            "أ) SMD = -1.42",
+            "ب) RR = 0.21",
+            "ج) RR = 2.1",
+            "د) Number Needed to Treat = 42"
+          ],
+          "options_en": [
+            "A) SMD = -1.42",
+            "B) RR = 0.21",
+            "C) RR = 2.1",
+            "D) Number Needed to Treat = 42"
+          ],
+          "answer": 1,
+          "explanation_ar": "أفاد الملخص بأن PRF خفّض خطر PCF مع RR يساوي 0.21، وNumber Needed to Treat يقارب 4.4.",
+          "explanation_en": "The abstract reported reduced PCF risk with PRF, with an RR of 0.21 and a Number Needed to Treat of about 4.4."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن تطبيق النتائج على الممارسة الحالية؟",
+          "q_en": "What is the most appropriate conclusion about applying these findings to current practice?",
+          "options_ar": [
+            "أ) يجب اعتماد PRP وPRF روتينيًا في جميع الحالات",
+            "ب) النتائج واعدة، لكن الأدلة لا تكفي بعد لتبرير الاستخدام الروتيني",
+            "ج) ثبت أن PRP غير آمن",
+            "د) لا توجد أي فائدة محتملة لـ PRF بعد total laryngectomy"
+          ],
+          "options_en": [
+            "A) PRP and PRF should be adopted routinely for all patients",
+            "B) Findings are promising, but evidence is not yet sufficient to justify routine use",
+            "C) PRP has been shown to be unsafe",
+            "D) PRF has no potential benefit after total laryngectomy"
+          ],
+          "answer": 1,
+          "explanation_ar": "النتائج واعدة، لكن تباين الدراسات ومحدودية معلومات الجودة يدعوان إلى الحذر قبل اعتماد الاستخدام الروتيني.",
+          "explanation_en": "The findings are promising, but study heterogeneity and limited quality information warrant caution before routine adoption."
+        }
+      ]
+    },
+    {
+      "pmid": "43053604",
+      "title_ar": "Determining the Appropriate Age for Aesthetic Procedures in Minors: A Review of the Guidelines, Outcomes, and Ethical Considerations.",
+      "title_en": "Determining the Appropriate Age for Aesthetic Procedures in Minors: A Review of the Guidelines, Outcomes, and Ethical Considerations.",
+      "journal": "Aesthetic surgery journal",
+      "pub_date": "2026-Nov-19",
+      "doi": "10.1093/asj/sjag265",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43053604/",
+      "pdf_url": null,
+      "study_design": "Narrative review; systematic review status and study count not specified",
+      "summary_ar": "تستعرض هذه المراجعة الاعتبارات التنظيمية والنتائج المتعلقة بالسلامة والمبادئ الأخلاقية للإجراءات التجميلية الجراحية وغير الجراحية لدى القاصرين. تشمل الإجراءات غير الجراحية topical skincare regimens وinjectables وlasers وskin resurfacing وmicroneedling، بينما تشمل الإجراءات الجراحية otoplasty وrhinoplasty وbreast reduction وbreast augmentation وbody contouring. تختلف توصيات الحد الأدنى للعمر والإرشادات المهنية والرقابة على الإجراءات بين الممارسات والبلدان. تشير الدراسات السابقة عمومًا إلى سلامة مقبولة ورضا مرتفع بعد الجراحة وتحسن نفسي اجتماعي لدى المراهقين المختارين بعناية. تؤكد المراجعة أن موافقة الوالدين وحدها لا تكفي لتحديد ملاءمة الإجراء، وأن تقييم النضج العاطفي والدوافع وصورة الجسد والتأثيرات الاجتماعية وفهم المخاطر والحدود ضروري. وفي غياب معايير عمرية موحدة لكثير من الإجراءات، تقع مسؤولية اتخاذ القرار الفردي بدرجة كبيرة على عاتق الجراح.",
+      "summary_en": "This review examines regulatory considerations, safety outcomes, and ethical principles for surgical and nonsurgical aesthetic procedures in minors.\nNonsurgical interventions include skincare regimens, injectables, lasers, resurfacing, and microneedling; surgical procedures include otoplasty, rhinoplasty, and breast and body contouring.\nMinimum-age recommendations, professional guidance, and oversight vary substantially across procedures and countries.\nPrior studies generally report favorable safety, satisfaction, and psychosocial outcomes in appropriately selected adolescents.\nParental consent alone does not establish appropriateness; clinicians should assess maturity, motivation, body image, social influences, and understanding of risks and limitations.\nBecause standardized age requirements are lacking for many procedures, surgeons must make individualized decisions.",
+      "practice_change_ar": "لا تقترح المراجعة تغييرًا فوريًا في الممارسة، لكنها تدعم تقييمًا فرديًا موثقًا لنضج القاصر ودوافعه وفهمه للمخاطر إلى جانب موافقة الوالدين.",
+      "practice_change_en": "The review does not mandate an immediate practice change, but supports documented, individualized assessment of a minor’s maturity, motivations, and understanding of risks in addition to parental consent.",
+      "future_impact_ar": "قد تدعم الأدلة المستقبلية وضع إرشادات موحدة بحسب نوع الإجراء ومعايير لتقييم النضج والنتائج النفسية طويلة الأمد.",
+      "future_impact_en": "Future evidence may support procedure-specific age guidance and standardized assessment of maturity and long-term psychosocial outcomes.",
+      "why_important_ar": "توضح المقالة أن اتخاذ قرار الإجراءات التجميلية للقاصرين يتطلب موازنة السلامة والفائدة النفسية والنمو والاعتبارات الأخلاقية، لا الاكتفاء بالموافقة القانونية.",
+      "why_important_en": "The article emphasizes that decisions about aesthetic procedures in minors must balance safety, psychosocial benefit, development, and ethics rather than rely on legal consent alone.",
+      "vs_previous_ar": "بدل تقديم حد عمري موحد أو بروتوكول جديد، تجمع المراجعة تفاوت الإرشادات الحالية وتؤكد التقييم الفردي متعدد العوامل.",
+      "vs_previous_en": "Rather than proposing a universal age threshold or new protocol, the review synthesizes variability in current guidance and emphasizes individualized, multidimensional assessment.",
+      "stars": 3,
+      "stars_reason_ar": "مراجعة سردية مفيدة سريريًا لكنها لا تحدد منهجية systematic review أو نتائج كمية؛ تضيف إطارًا للتقييم الأخلاقي، لكنها لا تغير الممارسة مباشرة.",
+      "stars_reason_en": "This clinically relevant narrative review does not specify systematic-review methods or quantitative results; it offers a useful ethical assessment framework but does not directly change practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It is suitable for discussion of how parental consent, adolescent maturity, risks, and benefits should be balanced when considering aesthetic procedures.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى دراسات مستقبلية موحدة وطويلة الأمد تقارن النتائج والسلامة النفسية بحسب نوع الإجراء وعمر المريض ومعايير الاختيار.",
+      "research_gap_en": "Standardized long-term studies are needed to compare procedural and psychosocial outcomes by procedure, patient age, and selection criteria.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "تتناول هذه المراجعة سؤالًا مهمًا في جراحة التجميل والترميم: كيف نحدد ملاءمة الإجراءات التجميلية لدى القاصرين؟ يوضح المؤلفون أن المسألة لا تُحسم بموافقة الوالدين وحدها. فالمراهقون ما زالوا في طور النمو المعرفي والعاطفي والجسدي، ولذلك يجب تقييم النضج والدوافع وصورة الجسد والتأثيرات الاجتماعية، إضافة إلى فهم المريض للمخاطر والحدود المتوقعة للإجراء.\n\nتشمل الإجراءات التي تستعرضها المراجعة خيارات غير جراحية مثل topical skincare regimens وinjectables وlasers وskin resurfacing وmicroneedling، وخيارات جراحية مثل otoplasty وrhinoplasty وbreast reduction وbreast augmentation وbody contouring. تختلف توصيات الحد الأدنى للعمر والإرشادات المهنية والرقابة بين البلدان والإجراءات، ولا توجد متطلبات عمر موحدة لكثير منها.\n\nتذكر المراجعة أن الأدلة المنشورة أظهرت عمومًا سلامة مقبولة ورضا مرتفعًا وتحسنًا نفسيًا اجتماعيًا لدى المراهقين الذين اختيروا بعناية. لكن الملخص لا يقدم تقديرات كمية أو منهجية مراجعة مفصلة، لذا ينبغي تفسير هذه النتائج بحذر، وعدم افتراض أنها تنطبق على كل مريض أو كل إجراء.\n\nالخلاصة العملية هي أن الجراح يتحمل مسؤولية اتخاذ قرار فردي ومدروس، يشمل التحقق من الدوافع والتوقعات والقدرة على فهم المخاطر، إلى جانب مراعاة الموافقة القانونية. لا تقدم المقالة حدًا عمريًا جديدًا ولا تغير الممارسة مباشرة، لكنها توفر إطارًا مفيدًا للنقاش واتخاذ القرار. ومن الفجوات المهمة الحاجة إلى دراسات طويلة الأمد وموحدة تقيس السلامة والنتائج النفسية وفق العمر ونوع الإجراء ومعايير اختيار المرضى. تستحق المقالة النقاش في journal club لأنها تبرز التباين الحالي وتدعو إلى موازنة الفائدة المحتملة مع التطور النفسي والجسدي والاعتبارات الأخلاقية.",
+      "audio_script_en": "This review addresses an important question in aesthetic surgery: how should clinicians determine whether an aesthetic procedure is appropriate for a minor? The authors emphasize that parental consent alone is not enough. Adolescents are still developing cognitively, emotionally, and physically, so clinicians should assess maturity, motivation, body image, social influences, and the patient’s understanding of procedural risks and limitations.\n\nThe review covers nonsurgical options such as skincare regimens, injectables, lasers, skin resurfacing, and microneedling, as well as surgical procedures including otoplasty, rhinoplasty, breast reduction, breast augmentation, and body contouring. Minimum-age recommendations, professional guidance, and oversight differ across procedures and countries; many procedures have no standardized age requirement.\n\nThe review reports that published studies have generally found favorable safety, satisfaction, and psychosocial outcomes among carefully selected adolescents. However, the abstract provides neither quantitative estimates nor detailed review methods. These findings should therefore be interpreted cautiously and should not be assumed to apply equally to every patient or procedure.\n\nThe practical takeaway is that surgeons must make individualized, thoughtful decisions. Assessment should address motivations, expectations, and the ability to understand risks, while also meeting legal consent requirements. The article does not introduce a new age threshold or directly change practice, but it offers a useful framework for clinical discussion. Important research gaps include standardized, long-term studies of safety and psychosocial outcomes by age, procedure, and patient-selection criteria. This is a worthwhile journal-club article because it highlights variability in current guidance and the need to balance potential benefit with adolescent development and ethical considerations.",
+      "mcq": [
+        {
+          "q_ar": "ما الفكرة الأساسية للمراجعة بشأن موافقة الوالدين؟",
+          "q_en": "What is the review’s central point about parental consent?",
+          "options_ar": [
+            "أ) تكفي وحدها لإثبات ملاءمة الإجراء",
+            "ب) لا تغني عن تقييم النضج والدوافع والمخاطر",
+            "ج) لا تلزم لأي إجراء تجميلي",
+            "د) تحدد حدًا عمريًا موحدًا لجميع الإجراءات"
+          ],
+          "options_en": [
+            "A) It alone establishes that a procedure is appropriate",
+            "B) It does not replace assessment of maturity, motivation, and risks",
+            "C) It is not required for any aesthetic procedure",
+            "D) It establishes one universal age threshold for all procedures"
+          ],
+          "answer": 1,
+          "explanation_ar": "تؤكد المراجعة أن موافقة الوالدين مهمة قانونيًا لكنها لا تكفي؛ يلزم تقييم المريض بصورة فردية.",
+          "explanation_en": "The review notes that parental consent is legally important but insufficient without individualized assessment."
+        },
+        {
+          "q_ar": "أي مجموعة من العوامل توصي المراجعة بتقييمها عند النظر في إجراء تجميلي لقاصر؟",
+          "q_en": "Which set of factors does the review recommend assessing when considering an aesthetic procedure for a minor?",
+          "options_ar": [
+            "أ) النضج والدوافع وصورة الجسد وفهم المخاطر",
+            "ب) الطول والوزن فقط",
+            "ج) رغبة الوالدين وحدها",
+            "د) العمر الزمني وحده"
+          ],
+          "options_en": [
+            "A) Maturity, motivations, body image, and understanding of risks",
+            "B) Height and weight only",
+            "C) The parents’ preference alone",
+            "D) Chronological age alone"
+          ],
+          "answer": 0,
+          "explanation_ar": "تدعو المراجعة إلى تقييم شامل يشمل النضج والدوافع وصورة الجسد والتأثيرات الاجتماعية وفهم المخاطر والحدود.",
+          "explanation_en": "The review calls for a broad assessment that includes maturity, motivation, body image, social influences, and understanding of risks and limitations."
+        },
+        {
+          "q_ar": "ما الفجوة البحثية التي تبرزها المراجعة؟",
+          "q_en": "What research gap does the review highlight?",
+          "options_ar": [
+            "أ) غياب أي إجراءات تجميلية للقاصرين",
+            "ب) الحاجة إلى دراسات موحدة وطويلة الأمد للسلامة والنتائج النفسية",
+            "ج) عدم وجود موافقة والدية في أي بلد",
+            "د) عدم توفر إجراءات غير جراحية"
+          ],
+          "options_en": [
+            "A) The absence of any aesthetic procedures for minors",
+            "B) The need for standardized long-term studies of safety and psychosocial outcomes",
+            "C) The absence of parental consent in every country",
+            "D) The lack of nonsurgical procedures"
+          ],
+          "answer": 1,
+          "explanation_ar": "تشير المراجعة إلى تباين الإرشادات ونقص المعايير الموحدة، ما يدعم إجراء دراسات مستقبلية طويلة الأمد.",
+          "explanation_en": "The review describes variable guidance and a lack of standardization, supporting the need for future long-term studies."
+        }
+      ]
+    },
+    {
+      "pmid": "43050563",
+      "title_ar": "Rethinking sterility in pituitary surgery: evidence for a microbiological continuum along the transsphenoidal corridor.",
+      "title_en": "Rethinking sterility in pituitary surgery: evidence for a microbiological continuum along the transsphenoidal corridor.",
+      "journal": "Acta oto-laryngologica",
+      "pub_date": "2026-Nov-18",
+      "doi": "10.1080/00016489.2026.2756112",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43050563/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort n=34",
+      "summary_ar": "درست هذه الدراسة prospective cohort شملت 34 مريضًا خضعوا لـ endoscopic transsphenoidal surgery، بهدف توصيف البكتيريا في nasopharynx وsphenoid sinus وpituitary tumors. جُمعت nasopharyngeal swabs قبل الجراحة، وأُخذت عينات sphenoid sinus mucosa وtumor أثناء الجراحة، ثم زُرعت في ظروف aerobic وanaerobic. تطابقت النتائج البكتيرية في sphenoid sinus وtumor، أو غابت البكتيريا من كليهما، لدى 64.71% من المرضى. وُجد نوع بكتيري واحد على الأقل في tumor أيضًا في sphenoid sinus لدى 79.31% من الحالات. ارتبط وجود pathogenic bacteria في sphenoid sinus بقوة بوجودها في tumor (OR=16.0؛ 95% CI: 2.16–118.0؛ p-value=0.005)، لكن حالة البكتيريا في tumor لم ترتبط بنتائج ما بعد الجراحة. حدثت جميع حالات postoperative meningitis لدى مرضى لديهم cerebrospinal fluid leakage، ولا يمكن استبعاد انتقال البكتيريا إلى عينات tumor أثناء أخذها.",
+      "summary_en": "This prospective cohort included 34 patients undergoing endoscopic transsphenoidal surgery and characterized bacteria in the nasopharynx, sphenoid sinus, and pituitary tumors. Preoperative nasopharyngeal swabs and intraoperative sphenoid sinus mucosa and tumor specimens were cultured aerobically and anaerobically. Sphenoid sinus and tumor findings were identical, or both sites were culture-negative, in 64.71% of patients. At least one tumor bacterial species was also isolated from the sphenoid sinus in 79.31% of cases. Pathogenic sphenoid sinus bacteria were strongly associated with pathogenic bacteria in tumor tissue (OR=16.0; 95% CI: 2.16–118.0; p=0.005), but tumor bacterial status was not associated with postoperative outcomes. All postoperative meningitis cases occurred in patients with cerebrospinal fluid leakage, and specimen carryover cannot be ruled out.",
+      "practice_change_ar": "لا تبرر النتائج تغيير الممارسة الحالية، لكنها تدعم الانتباه إلى الوقاية من cerebrospinal fluid leakage ومتابعة العدوى بعد الجراحة.",
+      "practice_change_en": "These findings do not justify changing current practice, but support attention to preventing cerebrospinal fluid leakage and monitoring for postoperative infection.",
+      "future_impact_ar": "قد تساعد دراسات أكبر مع ضوابط تقلل انتقال العينات في تحديد ما إذا كان التوافق البكتيري يعكس وجودًا حقيقيًا داخل tumor.",
+      "future_impact_en": "Larger studies using controls to minimize specimen carryover may determine whether bacterial concordance reflects genuine bacteria within tumors.",
+      "why_important_ar": "تتحدى الدراسة افتراض sterility في transsphenoidal corridor، مع إظهار أن الأهمية السريرية لهذا التوافق ما تزال غير محسومة.",
+      "why_important_en": "The study challenges the assumption that the transsphenoidal corridor is sterile while showing that the clinical significance of this concordance remains uncertain.",
+      "vs_previous_ar": "على خلاف التصور التقليدي بأن sphenoid sinus وpituitary region sterile، تشير النتائج إلى توافق بكتيري بين sphenoid sinus وtumor دون إثبات أثره في النتائج السريرية.",
+      "vs_previous_en": "Unlike the traditional view that the sphenoid sinus and pituitary region are sterile, these findings suggest bacterial concordance between the sphenoid sinus and tumor without demonstrating a clinical outcome effect.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة prospective cohort صغيرة نسبيًا (n=34) في skull_base، وتقدم نتيجة مثيرة للاهتمام عن التوافق البكتيري، لكن غياب ارتباط بالنتائج واحتمال انتقال العينات يحدان من أثرها على الممارسة.",
+      "stars_reason_en": "This relatively small prospective cohort (n=34) in skull-base surgery reports interesting bacterial concordance, but the lack of an outcome association and possible specimen carryover limit its practice impact.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for journal club because it challenges a traditional assumption and raises questions about interpreting culture results and possible intraoperative tumor specimen contamination.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء prospective studies أكبر تستخدم أساليب تقلل انتقال العينات وتقيّم العلاقة بين bacterial findings والعدوى والنتائج بعد الجراحة.",
+      "research_gap_en": "Larger prospective studies using methods that reduce specimen carryover should assess associations between bacterial findings, infection, and postoperative outcomes.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نراجع اليوم دراسة عن مفهوم مهم في skull_base surgery: هل sphenoid sinus وpituitary region sterile فعلًا؟\n\nهذه prospective cohort شملت 34 مريضًا خضعوا لـ endoscopic transsphenoidal surgery. أخذ الباحثون nasopharyngeal swabs قبل الجراحة، وجمعوا عينات من sphenoid sinus mucosa ومن tumor أثناء العملية، ثم أجروا culture في ظروف aerobic وanaerobic.\n\nكانت النتائج متطابقة بين sphenoid sinus وtumor، أو كانت العينتان سلبيتين، لدى 64.71% من المرضى. وفي 79.31% من الحالات، عُثر على نوع بكتيري واحد على الأقل في tumor وكان موجودًا أيضًا في sphenoid sinus. كما ارتبط وجود pathogenic bacteria في sphenoid sinus بقوة بوجودها في tumor، مع OR يساوي 16.0، و95% confidence interval من 2.16 إلى 118.0، وp-value تساوي 0.005.\n\nلكن التوافق البكتيري لا يعني تلقائيًا وجود عدوى سريرية. لم ترتبط bacterial status في tumor بنتائج ما بعد الجراحة، وكانت جميع حالات postoperative meningitis لدى مرضى لديهم cerebrospinal fluid leakage. كما أشار الباحثون إلى أن انتقال البكتيريا إلى عينة tumor أثناء أخذها لا يمكن استبعاده.\n\nالخلاصة العملية: لا تقدم هذه الدراسة سببًا لتغيير الممارسة أو لتعديل إجراءات الوقاية من العدوى. لكنها تتحدى الافتراض التقليدي بأن هذا المسار الجراحي sterile بالكامل، وتستحق الانتباه عند تفسير cultures. أهم القيود هي صغر حجم العينة، واحتمال specimen carryover، وعدم وجود علاقة مثبتة بين bacterial findings والنتائج السريرية.\n\nستكون الخطوة التالية دراسات prospective أكبر تستخدم ضوابط تقلل تلوث العينات، وتختبر ما إذا كان وجود البكتيريا يؤثر فعلًا في خطر العدوى أو نتائج المرضى. حتى ذلك الحين، تظل هذه النتائج معرفة مثيرة للاهتمام أكثر من كونها تغييرًا للممارسة.",
+      "audio_script_en": "Today we review a study addressing an important assumption in skull-base surgery: are the sphenoid sinus and pituitary region truly sterile?\n\nThis prospective cohort included 34 patients undergoing endoscopic transsphenoidal surgery. The investigators collected preoperative nasopharyngeal swabs and intraoperative specimens from sphenoid sinus mucosa and tumor, then performed aerobic and anaerobic cultures.\n\nFindings were identical between the sphenoid sinus and tumor, or both specimens were negative, in 64.71% of patients. In 79.31% of cases, at least one bacterial species found in the tumor was also isolated from the sphenoid sinus. Pathogenic bacteria in the sphenoid sinus were strongly associated with pathogenic bacteria in tumor tissue: the OR was 16.0, with a 95% confidence interval from 2.16 to 118.0 and a p-value of 0.005.\n\nHowever, bacterial concordance does not automatically imply clinical infection. Tumor bacterial status was not associated with postoperative outcomes, and every postoperative meningitis case occurred in a patient with cerebrospinal fluid leakage. The authors also note that bacterial carryover during tumor specimen collection cannot be excluded.\n\nThe practical takeaway is that this study does not support changing current practice or infection-prevention protocols. It does challenge the traditional assumption that the entire transsphenoidal corridor is sterile and is relevant when interpreting culture results. Key limitations include the small sample, possible specimen carryover, and the absence of a demonstrated association between bacterial findings and clinical outcomes.\n\nLarger prospective studies with controls to reduce contamination are needed to determine whether these bacteria genuinely occur within tumors and whether they affect infection risk or patient outcomes. For now, this is an interesting finding to know about rather than a practice-changing result.",
+      "mcq": [
+        {
+          "q_ar": "ما نسبة المرضى الذين كانت نتائج sphenoid sinus وtumor لديهم متطابقة، أو كانت العينتان سلبيتين؟",
+          "q_en": "What proportion of patients had identical sphenoid sinus and tumor findings, or negative cultures at both sites?",
+          "options_ar": [
+            "أ) 34.00%",
+            "ب) 64.71%",
+            "ج) 79.31%",
+            "د) 100%"
+          ],
+          "options_en": [
+            "A) 34.00%",
+            "B) 64.71%",
+            "C) 79.31%",
+            "D) 100%"
+          ],
+          "answer": 1,
+          "explanation_ar": "حدث التطابق أو غياب البكتيريا من الموقعين لدى 64.71% من المرضى.",
+          "explanation_en": "Identical findings or absence of bacteria at both sites occurred in 64.71% of patients."
+        },
+        {
+          "q_ar": "ما العامل الذي وُجد لدى جميع المرضى المصابين بـ postoperative meningitis؟",
+          "q_en": "Which factor was present in every patient who developed postoperative meningitis?",
+          "options_ar": [
+            "أ) Pathogenic bacteria في nasopharynx",
+            "ب) Pathogenic bacteria في tumor",
+            "ج) Cerebrospinal fluid leakage",
+            "د) Negative culture في sphenoid sinus"
+          ],
+          "options_en": [
+            "A) Pathogenic bacteria in the nasopharynx",
+            "B) Pathogenic bacteria in the tumor",
+            "C) Cerebrospinal fluid leakage",
+            "D) A negative sphenoid sinus culture"
+          ],
+          "answer": 2,
+          "explanation_ar": "وقعت جميع حالات postoperative meningitis لدى مرضى لديهم cerebrospinal fluid leakage.",
+          "explanation_en": "All postoperative meningitis cases occurred in patients with cerebrospinal fluid leakage."
+        },
+        {
+          "q_ar": "ما التفسير الأكثر ملاءمة لنتائج الدراسة في الممارسة الحالية؟",
+          "q_en": "What is the most appropriate interpretation of these findings for current practice?",
+          "options_ar": [
+            "أ) يجب اعتبار كل tumor مصابًا بعدوى بكتيرية",
+            "ب) يجب تغيير prophylactic antibiotics بناءً على هذه النتائج",
+            "ج) يثبت التوافق أن البكتيريا داخل tumor تسبب postoperative meningitis",
+            "د) النتائج تتحدى مفهوم sterility لكنها لا تثبت أثرًا سريريًا أو تبرر تغيير الممارسة"
+          ],
+          "options_en": [
+            "A) Every tumor should be considered bacterially infected",
+            "B) Prophylactic antibiotics should be changed based on these findings",
+            "C) Concordance proves that bacteria in tumors cause postoperative meningitis",
+            "D) The findings challenge sterility but do not establish clinical impact or justify practice change"
+          ],
+          "answer": 3,
+          "explanation_ar": "لم ترتبط bacterial status في tumor بالنتائج، كما لا يمكن استبعاد specimen carryover؛ لذلك لا تبرر الدراسة تغيير الممارسة.",
+          "explanation_en": "Tumor bacterial status was not associated with outcomes, and specimen carryover cannot be excluded; therefore, the study does not justify changing practice."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026112001",
+      "title_ar": "ميدترونيك وكارل ستورز تتعاونان لتقديم حلول جراحية متكاملة للأنف والأذن والحنجرة",
+      "title_en": "Medtronic and Karl Storz Collaborate on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-20",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أفادت «ماس ديفايس» بأن ميدترونيك وكارل ستورز تتعاونان على حلول جراحية متكاملة في مجال الأنف والأذن والحنجرة. ولا يوضح عنوان التقرير المنتجات أو التقنيات المعنية، أو ما إذا كان التعاون يشمل التطوير أو التكامل أو التوزيع التجاري. كما لا تتوفر معلومات عن الشروط المالية أو موعد الإطلاق أو التطبيقات السريرية المحددة. وستلزم تفاصيل إضافية لتقييم نطاق الاتفاق.",
+      "summary_en": "Medtronic and Karl Storz are collaborating on integrated surgical solutions for ear, nose and throat care, according to MassDevice. The report’s headline does not specify which products or technologies are involved, or whether the collaboration includes development, integration or commercial distribution. No financial terms, launch timeline or specific clinical applications are provided in the available item. Further details will be needed to assess the scope of the arrangement.",
+      "practice_change_ar": "لا ينبغي لجراحي الأنف والأذن والحنجرة توقع تغيير فوري في سير العمل السريري بناءً على المعلومات المحدودة المتاحة، لكن يجدر بهم متابعة تفاصيل الحلول وتوافرها.",
+      "practice_change_en": "ENT surgeons should not expect an immediate change in clinical workflows based on the limited information available, but may want to look for details on the solutions and their availability.",
+      "future_impact_ar": "إذا قدم الشريكان حلولًا قابلة للتشغيل البيني، فقد يؤثر التعاون في طريقة تكامل الأنظمة الجراحية في طب الأنف والأذن والحنجرة، لكن أثره النهائي لا يزال غير واضح.",
+      "future_impact_en": "If the partners deliver interoperable solutions, the collaboration could influence how ENT surgical systems are integrated, although its eventual impact remains uncertain.",
+      "why_important_ar": "قد يجمع التعاون بين تقنيات جراحية متكاملة، لكن لا يمكن تقييم قيمته السريرية بعد من دون تفاصيل عن المنتجات والأدلة الداعمة.",
+      "why_important_en": "The collaboration could bring together complementary surgical technologies, but its clinical value cannot yet be assessed without details on the products and evidence.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "تعاون تجاري ذو صلة بالتخصص، لكن تفاصيل المنتجات والأثر السريري غير متاحة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "إليكم موجزًا عن خبر يهم قطاع الأنف والأذن والحنجرة: أعلنت ميدترونيك وكارل ستورز عن تعاون يركز على حلول جراحية متكاملة للتخصص، وفقًا لموقع ماس ديفايس. قد يكون الجمع بين خبرات الشركتين ذا أهمية في مجال تكامل الأجهزة والأنظمة المستخدمة في الجراحة، لكن التفاصيل المنشورة في الخبر المتاح محدودة. لم يُذكر ما المنتجات أو التقنيات التي يشملها التعاون، ولا موعد طرحها أو شروطه المالية أو الاستخدامات السريرية المستهدفة. لذلك لا توجد حاليًا معلومات كافية لتحديد ما إذا كان التعاون سيغيّر خيارات الجراحين أو سير العمل في غرف العمليات. على جراحي الأنف والأذن والحنجرة متابعة الإعلانات اللاحقة لمعرفة طبيعة الحلول، وتوافرها، وما إذا كانت هناك بيانات تثبت فائدتها السريرية. في الوقت الراهن، يُعد هذا تطورًا تجاريًا جديرًا بالمتابعة، لا تغييرًا عمليًا فوريًا في الرعاية.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026112002",
+      "title_ar": "شركات رائدة في طب الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية",
+      "title_en": "Leading ENT Companies Driving Medical Technology Innovation",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-20",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت SNS Insider عرضًا عامًا يسلط الضوء على شركات تسهم في تطوير التكنولوجيا الطبية لرعاية الأنف والأذن والحنجرة. ولا يحدد الخبر المتاح شركات بعينها أو منتجات أو صفقات أو قرارات تنظيمية أو نتائج سريرية. لذلك يقدم سياقًا عامًا عن القطاع بدلًا من الإبلاغ عن تطور تجاري أو تنظيمي محدد.",
+      "summary_en": "SNS Insider published an overview highlighting companies involved in advancing medical technology for ear, nose, and throat care. The supplied news item does not identify specific companies, products, transactions, regulatory decisions, or clinical results. It therefore provides broad industry context rather than reporting a discrete business or regulatory development.",
+      "practice_change_ar": "لا يقدم الخبر وحده معلومات محددة عن منتج أو أدلة سريرية تبرر تغيير الممارسة الحالية في طب الأنف والأذن والحنجرة.",
+      "practice_change_en": "The item alone does not provide product-specific or clinical evidence that would warrant a change in current ENT practice.",
+      "future_impact_ar": "ستكون هناك حاجة إلى معلومات لاحقة عن أجهزة محددة وأدلتها ومراحلها التنظيمية لتحديد ما إذا كانت هذه الابتكارات ستؤثر فعليًا في رعاية الأنف والأذن والحنجرة.",
+      "future_impact_en": "Further reporting on specific devices, evidence, and regulatory milestones will be needed to determine whether these innovations meaningfully affect ENT care.",
+      "why_important_ar": "يشير الخبر إلى استمرار الاهتمام بتطوير تقنيات الأنف والأذن والحنجرة، لكنه لا يقدم تفاصيل تتيح تقييم الفائدة للمرضى أو السلامة أو الأثر السريري.",
+      "why_important_en": "It signals ongoing interest in ENT technology development, but offers no details to assess patient benefit, safety, or clinical impact.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "خبر عام بلا تفاصيل محددة عن تطور تجاري أو سريري أو تنظيمي.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "نستعرض اليوم خبرًا عامًا من موقع SNS Insider بعنوان «شركات رائدة في طب الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية». يشير الخبر إلى دور شركات في تطوير تقنيات موجهة لرعاية الأنف والأذن والحنجرة، لكنه لا يذكر في المعلومات المتاحة أسماء شركات أو أجهزة محددة، ولا يورد تفاصيل عن استحواذ أو صفقة أو قرار من إدارة الغذاء والدواء الأمريكية. كما لا يعرض نتائج سريرية أو بيانات عن سلامة المنتجات أو فائدتها للمرضى. لذلك، لا يشكل الخبر بحد ذاته سببًا لتغيير الممارسة السريرية أو اعتماد تقنية جديدة. تظل أهميته في أنه يلفت إلى النشاط المستمر في مجال الابتكار الطبي، فيما يحتاج الأطباء إلى متابعة الأخبار التفصيلية والأدلة السريرية والقرارات التنظيمية قبل تقييم أي منتج أو أثر محتمل على رعاية المرضى.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026112003",
+      "title_ar": "ميدترونيك تحصل على علامة CE لمنصة Stealth AXiS الروبوتية لجراحة الأنف والأذن والحنجرة",
+      "title_en": "Medtronic Earns CE Mark for Stealth AXiS Robotic Platform in ENT Surgery",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-20",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "حصلت شركة ميدترونيك على علامة CE لمنصة Stealth AXiS الروبوتية المخصصة للاستخدام في جراحة الأنف والأذن والحنجرة، وفقاً لموقع MassDevice. وتتيح العلامة تسويق المنصة للاستخدام المقصود في الأسواق الأوروبية المعنية، مع مراعاة المتطلبات المحلية. ولم يحدد التقرير الإجراءات التي تشملها المنصة أو موعد طرحها أو نتائجها السريرية. ولا تعادل علامة CE تصريحاً أو موافقة من إدارة الغذاء والدواء الأمريكية للاستخدام في الولايات المتحدة.",
+      "summary_en": "Medtronic has received a CE mark for its Stealth AXiS robotic platform for use in ENT surgery, according to MassDevice. The mark permits the platform to be marketed for its intended use in applicable European markets, subject to local requirements. The report does not specify the procedures covered, launch timing, or clinical outcomes. A CE mark is not an FDA clearance or approval for use in the United States.",
+      "practice_change_ar": "قد تتاح لجراحي الأنف والأذن والحنجرة في أوروبا منصة روبوتية جديدة لتقييمها، لكن التقرير لا يوضح الاستطبابات أو موعد الإتاحة أو الأدلة التي تبرر تغيير الممارسة الحالية.",
+      "practice_change_en": "ENT surgeons in Europe may have a new robotic platform to evaluate, but the report provides no details on indications, availability, or evidence that would support changes to current practice.",
+      "future_impact_ar": "قد تعزز هذه الخطوة المنافسة وجهود تبني الروبوتات في تخصص الأنف والأذن والحنجرة، فيما سيعتمد انتشارها سريرياً على بيانات السلامة والنتائج وسير العمل والتكلفة.",
+      "future_impact_en": "The milestone may intensify competition and adoption efforts in ENT robotics, with clinical uptake depending on safety, outcomes, workflow, and cost data.",
+      "why_important_ar": "تمثل علامة CE محطة تنظيمية قد توسّع إتاحة التكنولوجيا الروبوتية في تخصص الأنف والأذن والحنجرة، لكن قيمتها العملية ستعتمد على الاستخدامات المعتمدة والأدلة السريرية ومتطلبات التطبيق.",
+      "why_important_en": "The CE mark is a regulatory milestone that could expand access to robotic technology in ENT, while its practical value will depend on the approved uses, clinical evidence, and implementation requirements.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 3,
+      "stars_reason_ar": "خبر تنظيمي مهم بشأن تقنية روبوتية جديدة، لكن تفاصيل الاستخدام والأدلة السريرية والتوافر غير محددة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أعلنت ميدترونيك حصول منصة Stealth AXiS الروبوتية على علامة CE للاستخدام في جراحة الأنف والأذن والحنجرة، بحسب تقرير لموقع MassDevice. وتمثل هذه العلامة خطوة تنظيمية تتيح تسويق المنصة للاستخدام المقصود في الأسواق الأوروبية المعنية، وفق المتطلبات المحلية. لكن المعلومات المنشورة لا تحدد الإجراءات التي يمكن استخدام المنصة فيها، ولا موعد توفرها، ولا نتائج الدراسات السريرية المرتبطة بها. ومن المهم أيضاً التمييز بين علامة CE والتصريح الأمريكي؛ فالعلامة الأوروبية لا تعني حصول الجهاز على موافقة من إدارة الغذاء والدواء الأمريكية. بالنسبة للجراحين، يستحق الخبر المتابعة بوصفه تطوراً في مجال الروبوتات الجراحية، لكنه لا يقدم حالياً أساساً لتغيير الممارسة. وستتوقف أهمية المنصة على نطاق الاستخدام المعتمد، وسلامتها ونتائجها مقارنة بالخيارات الحالية، إضافة إلى أثرها على سير العمل والتكلفة.",
+      "mcq": []
+    }
+  ]
+}
