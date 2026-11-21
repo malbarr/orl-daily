@@ -1,0 +1,790 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T11:01:24Z",
+  "articles": [
+    {
+      "pmid": "43063989",
+      "title_ar": "Multimodal AI for Rhinoplasty Consultation and Simulation: A Blinded Expert Evaluation",
+      "title_en": "Multimodal AI for Rhinoplasty Consultation and Simulation: A Blinded Expert Evaluation",
+      "journal": "Facial plastic surgery : FPS",
+      "pub_date": "2026-Nov-20",
+      "doi": "10.1055/a-3003-2319",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43063989/",
+      "pdf_url": null,
+      "study_design": "Retrospective evaluation of 20 rhinoplasty cases with blinded expert ratings",
+      "summary_ar": "قيّمت هذه الدراسة مخرجات GPT-5.5 المستخدمة لإنشاء استشارات rhinoplasty ومحاكاة صور ما بعد الجراحة اعتمادًا على صور ما قبل الجراحة لـ20 مريضًا. راجع أربعة facial plastic surgeons المخرجات باستخدام مقاييس من خمس نقاط وعناصر لتقييم الفائدة والاتفاق مع الخطة الجراحية، مع استخدام mixed models تراعي اختلاف الحالات والمقيّمين. حصل وضوح اللغة على أعلى تقييم بمتوسط 4.05/5، بينما كانت تقييمات ملاءمة الإجراءات (2.90)، وتجنب الإجراءات غير المناسبة (2.59)، والتوافق بين الخطة والمحاكاة (2.33) أقل. لم يكن الفرق الأساسي بين مجالي الصورة والنص دالًا إحصائيًا (-0.39؛ 95% confidence interval: -0.99 إلى 0.21؛ p-value=0.18). حظيت فائدة الاستشارة بتأييد غير مشروط في 5.0% فقط من التقييمات، وبالتأييد المشروط في 78.8%، وبلغ الاتفاق الكامل مع الخطة 7.6%. تشير النتائج إلى أن المخرجات قد تبدو واضحة ومقنعة بصريًا، لكن صلاحيتها السريرية الخاصة بكل مريض غير متسقة، ولذلك تدعم استخدامها كأداة مساعدة تحت إشراف مختص لا كبديل عن التقييم الجراحي.",
+      "summary_en": "This retrospective evaluation assessed GPT-5.5 rhinoplasty consultations and postoperative image simulations generated from preoperative photographs of 20 patients.\nFour blinded fellowship-trained facial plastic surgeons rated the outputs using five-point items, utility questions, and agreement with the proposed surgical plan.\nLanguage clarity scored highest at 4.05/5, while procedure appropriateness, avoidance of inappropriate procedures, and plan-to-simulation fidelity scored 2.90, 2.59, and 2.33, respectively.\nThe primary comparison between image and text domains was not statistically significant (difference -0.39; 95% CI -0.99 to 0.21; p=0.18).\nConsultation usefulness received unqualified endorsement in 5.0% of assessments and qualified endorsement in 78.8%; full agreement with the plan was 7.6%.\nThe authors conclude that patient-specific clinical validity is inconsistent and that the technology should be used only as a supervised adjunct.",
+      "practice_change_ar": "لا تبرر النتائج تغيير الممارسة الحالية؛ ينبغي ألا تُستخدم استشارات أو محاكاة AI لاتخاذ قرارات rhinoplasty دون مراجعة facial plastic surgeon.",
+      "practice_change_en": "These findings do not justify changing current practice; AI consultations and simulations should not guide rhinoplasty decisions without review by a facial plastic surgeon.",
+      "future_impact_ar": "قد تصبح هذه الأدوات مساعدة مفيدة للتواصل مع المرضى إذا أثبتت دراسات أكبر تحسن دقتها السريرية وتوافقها مع الخطط الجراحية.",
+      "future_impact_en": "These tools may become useful aids to patient communication if larger studies demonstrate improved clinical accuracy and fidelity to surgical plans.",
+      "why_important_ar": "توضح الدراسة أن الطلاقة اللغوية والمظهر المقنع للمحاكاة لا يضمنان ملاءمة التوصيات لحالة المريض.",
+      "why_important_en": "The study shows that fluent language and visually plausible simulations do not guarantee patient-specific appropriateness.",
+      "vs_previous_ar": "تضيف الدراسة تقييمًا أعمى متعدد الأبعاد لمخرجات multimodal AI في rhinoplasty، وتُبرز فجوة بين وضوح العرض وصلاحية الخطة والمحاكاة.",
+      "vs_previous_en": "It adds a blinded, multidimensional expert assessment of multimodal AI in rhinoplasty and highlights a gap between presentation quality and clinical validity.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة تقييم استعادية صغيرة شملت 20 حالة وأربعة مقيّمين، وليست دراسة نتائج سريرية؛ تضيف معرفة مهمة عن multimodal AI لكنها لا تغيّر الممارسة، لذا تستحق 3/5.",
+      "stars_reason_en": "This small retrospective evaluation included 20 cases and four raters and did not assess clinical outcomes. It adds useful evidence about multimodal AI but does not change practice, supporting 3/5 stars.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسبة للنقاش حول كيفية تقييم أدوات AI التوليدية، وحدود محاكاة rhinoplasty، ومتطلبات الإشراف والتحقق قبل استخدامها مع المرضى.",
+      "jc_reason_en": "Suitable for discussion of how to evaluate generative AI, the limitations of rhinoplasty simulations, and the oversight and validation needed before patient-facing use.",
+      "watch": true,
+      "watch_detail_ar": "تابع تطور GPT-5.5 وأدوات multimodal AI المماثلة، إذ قد تدعم استشارات rhinoplasty مستقبلًا لكن صلاحيتها الخاصة بكل مريض غير مثبتة بعد.",
+      "watch_detail_en": "Track GPT-5.5 and similar multimodal AI tools: they may support rhinoplasty consultations, but patient-specific validity remains unestablished.",
+      "watch_type": "technology",
+      "research_gap_ar": "تحتاج الأداة إلى تقييم استباقي متعدد المراكز على عينات أكبر، مع قياس الدقة مقابل الخطط الفعلية ونتائج المرضى وفهمهم للتوقعات.",
+      "research_gap_en": "The tool needs prospective, multicenter evaluation in larger samples, measuring accuracy against actual surgical plans as well as patient outcomes and understanding of expectations.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نناقش اليوم دراسة بعنوان «Multimodal AI for Rhinoplasty Consultation and Simulation: A Blinded Expert Evaluation»، المنشورة في مجلة Facial Plastic Surgery. اختبر الباحثون GPT-5.5، الذي أنشأ استشارات rhinoplasty ومحاكاة لصور ما بعد الجراحة اعتمادًا على صور ما قبل الجراحة لـ20 مريضًا. قيّم أربعة facial plastic surgeons المخرجات دون معرفة مصدرها، باستخدام مقاييس تشمل وضوح اللغة، وملاءمة الإجراءات المقترحة، والتوافق بين الخطة الجراحية والمحاكاة. كانت الدراسة استعادية وتقييمية، ولم تختبر نتائج عمليات أُجريت فعليًا.\n\nالنتيجة الأوضح هي أن جودة الصياغة لا تعني بالضرورة جودة القرار السريري. حصل وضوح اللغة على 4.05 من 5، لكن ملاءمة الإجراءات حصلت على 2.90، وتجنب الإجراءات غير المناسبة على 2.59، والتوافق بين الخطة والمحاكاة على 2.33. لم يكن الفرق بين تقييم الصورة والنص دالًا إحصائيًا؛ فقد بلغ -0.39 مع 95% confidence interval من -0.99 إلى 0.21 وp-value قدرها 0.18. أيد الخبراء فائدة الاستشارة دون تحفظ في 5% فقط من التقييمات، بينما كان التأييد مشروطًا في 78.8%. وحدث الاتفاق الكامل مع الخطة في 7.6% فقط.\n\nعمليًا، لا تدعم هذه النتائج استخدام AI لتحديد الخطة الجراحية أو تقديم المحاكاة بوصفها توقعًا موثوقًا للنتيجة. يمكن النظر إليها كأداة مساعدة تحت إشراف الجراح، مع مراجعة كل توصية وصورة ومناقشة حدود المحاكاة مع المريض. أهمية المقال أنه يلفت إلى الفرق بين مخرجات واضحة أو جذابة بصريًا وبين مخرجات صالحة لحالة فردية. وهو يضيف تقييمًا أعمى متعدد الأبعاد بدل الاكتفاء بتقييم جودة الصورة أو اللغة، لكنه لا يغيّر الممارسة الحالية. ينبغي متابعة هذه التقنية، مع الحاجة إلى دراسات استباقية أكبر تقارن توصياتها بالخطط الفعلية ونتائج المرضى وتقيس أثرها على فهم المرضى وتوقعاتهم. الخلاصة: تقنية واعدة للنقاش والمتابعة، لكن صلاحيتها السريرية غير متسقة، والإشراف البشري ضروري.",
+      "audio_script_en": "Today we are reviewing “Multimodal AI for Rhinoplasty Consultation and Simulation: A Blinded Expert Evaluation,” published in Facial Plastic Surgery. The investigators tested GPT-5.5, which generated rhinoplasty consultations and postoperative image simulations from preoperative photographs of 20 patients. Four blinded fellowship-trained facial plastic surgeons rated the outputs for factors including language clarity, appropriateness of proposed procedures, and consistency between the surgical plan and the simulation. This was a retrospective expert evaluation, not a study of patients who underwent AI-guided surgery.\n\nThe central finding is that polished communication does not necessarily translate into sound patient-specific advice. Language clarity received the highest score, 4.05 out of 5. Procedure appropriateness scored 2.90, avoidance of inappropriate procedures 2.59, and plan-to-simulation fidelity 2.33. The primary difference between image and text domains was not statistically significant: -0.39, with a 95% confidence interval from -0.99 to 0.21 and a p-value of 0.18. Experts gave unqualified endorsement of consultation usefulness in only 5% of assessments; 78.8% received qualified endorsement. Full agreement with the proposed plan occurred in just 7.6%.\n\nFor clinical practice, these findings do not support using AI to determine a surgical plan or presenting its simulation as a reliable prediction of an individual patient’s outcome. It may be considered a supervised adjunct, with the surgeon checking each recommendation and image and explaining the limitations to the patient. The article matters because it exposes the gap between fluent language or plausible images and clinically appropriate, patient-specific guidance. It offers a blinded, multidimensional assessment, but does not establish clinical benefit or justify a practice change. The technology is worth tracking, while larger prospective studies should compare AI recommendations with actual plans and patient outcomes and assess effects on patient understanding and expectations. The takeaway is that multimodal AI is promising, but its clinical validity is inconsistent and human oversight remains essential.",
+      "mcq": [
+        {
+          "q_ar": "ما أعلى عنصر تقييمًا في مخرجات GPT-5.5 في هذه الدراسة؟",
+          "q_en": "Which aspect of GPT-5.5 outputs received the highest rating?",
+          "options_ar": [
+            "أ) ملاءمة الإجراءات",
+            "ب) وضوح اللغة",
+            "ج) التوافق بين الخطة والمحاكاة",
+            "د) تجنب الإجراءات غير المناسبة"
+          ],
+          "options_en": [
+            "A) Procedure appropriateness",
+            "B) Language clarity",
+            "C) Plan-to-simulation fidelity",
+            "D) Avoidance of inappropriate procedures"
+          ],
+          "answer": 1,
+          "explanation_ar": "حصل وضوح اللغة على أعلى متوسط، وهو 4.05/5، بينما كانت تقييمات ملاءمة الإجراءات والتوافق أقل.",
+          "explanation_en": "Language clarity had the highest mean rating at 4.05/5; procedure appropriateness and plan-to-simulation fidelity scored lower."
+        },
+        {
+          "q_ar": "كم كانت نسبة التقييمات التي أظهرت اتفاقًا كاملًا مع الخطة المقترحة؟",
+          "q_en": "What proportion of assessments showed full agreement with the proposed plan?",
+          "options_ar": [
+            "أ) 5.0%",
+            "ب) 7.6%",
+            "ج) 20.0%",
+            "د) 78.8%"
+          ],
+          "options_en": [
+            "A) 5.0%",
+            "B) 7.6%",
+            "C) 20.0%",
+            "D) 78.8%"
+          ],
+          "answer": 1,
+          "explanation_ar": "بلغ الاتفاق الكامل مع الخطة 7.6%، في حين كان التأييد غير المشروط لفائدة الاستشارة 5.0%.",
+          "explanation_en": "Full agreement with the plan was 7.6%; unqualified endorsement of consultation usefulness was 5.0%."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب للاستخدام السريري لهذه التقنية وفقًا للدراسة؟",
+          "q_en": "What is the most appropriate clinical conclusion about using this technology?",
+          "options_ar": [
+            "أ) يمكنها استبدال استشارة facial plastic surgeon",
+            "ب) ثبت أنها تحسن نتائج rhinoplasty",
+            "ج) يمكن استخدامها كأداة مساعدة تحت إشراف مختص فقط",
+            "د) ينبغي اعتماد محاكاتها كخطة جراحية نهائية"
+          ],
+          "options_en": [
+            "A) It can replace consultation with a facial plastic surgeon",
+            "B) It has been shown to improve rhinoplasty outcomes",
+            "C) It may be used only as a supervised adjunct",
+            "D) Its simulation should be adopted as the final surgical plan"
+          ],
+          "answer": 2,
+          "explanation_ar": "أظهرت الدراسة عدم اتساق الصلاحية السريرية الخاصة بالمريض، ولذلك تدعم الاستخدام المساعد الخاضع للإشراف فقط.",
+          "explanation_en": "Patient-specific clinical validity was inconsistent, supporting supervised adjunctive use only."
+        }
+      ]
+    },
+    {
+      "pmid": "43065145",
+      "title_ar": "[Advances in perioperative biologic therapy for chronic rhinosinusitis with nasal polyps]",
+      "title_en": "[Advances in perioperative biologic therapy for chronic rhinosinusitis with nasal polyps]",
+      "journal": "Zhonghua er bi yan hou tou jing wai ke za zhi = Chinese journal of otorhinolaryngology head and neck surgery",
+      "pub_date": "2026-Nov-20",
+      "doi": "10.3760/cma.j.cn115330-20260619-00376",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43065145/",
+      "pdf_url": null,
+      "study_design": "Narrative review",
+      "summary_ar": "تستعرض هذه المراجعة دور biologics حول الجراحة لدى مرضى chronic rhinosinusitis with nasal polyps (CRSwNP)، خصوصًا عند وجود type 2 inflammation وتكرر المرض رغم العلاج الدوائي وendoscopic sinus surgery (ESS). وتطرح biologics كوسيلة لاستهداف الالتهاب المستمر، بما يدعم نهجًا يجمع بين immune modulation وإعادة البناء التشريحي بدل الاعتماد على إزالة polyps جراحيًا وحدها. تناقش الأدلة المتاحة لاستخدام العلاج قبل ESS وبعدها، وكذلك ضمن خطط علاج متزامنة أو متتابعة. وتشمل القضايا السريرية اختيار المرضى، وتقييم الاستجابة، والسلامة، ومدة العلاج المثلى. كما تتناول المراجعة خصائص inflammatory endotypes لدى المرضى الصينيين، إلى جانب وضع الموافقات التنظيمية والتغطية المالية في الصين. وتخلص إلى أن التوقيت الأمثل وكيفية دمج biologics مع ESS ما زالا غير محسومين، ما يحد من تقديم توصية موحدة.",
+      "summary_en": "This review examines perioperative biologics for chronic rhinosinusitis with nasal polyps (CRSwNP), particularly in patients with type 2 inflammation and recurrence despite medical therapy and endoscopic sinus surgery (ESS).\nIt describes biologics as targeted treatment for persistent mucosal inflammation, complementing surgery rather than replacing anatomical reconstruction.\nThe review considers preoperative, postoperative, and combined or sequential treatment strategies.\nIt discusses candidate selection, response assessment, safety, and treatment duration.\nIt also considers inflammatory endotypes in Chinese patients and the regulatory and reimbursement landscape in China.\nOptimal timing and integration with ESS remain uncertain, so the review does not establish a single perioperative protocol.",
+      "practice_change_ar": "حاليًا، يمكن أخذ biologics في الاعتبار ضمن خطة فردية لمرضى CRSwNP ذوي type 2 inflammation والمرض المتكرر، لكن هذه المراجعة لا تثبت توقيتًا موحدًا لاستخدامها حول ESS.",
+      "practice_change_en": "Clinicians may consider biologics as part of individualized care for recurrent CRSwNP with type 2 inflammation, but this review does not establish a standard timing around ESS.",
+      "future_impact_ar": "قد تساعد أدلة مقارنة مستقبلية على تحديد المرضى الذين يستفيدون من biologics قبل ESS أو بعدها، وعلى توضيح مدة العلاج المناسبة.",
+      "future_impact_en": "Future comparative evidence may identify which patients benefit from biologics before or after ESS and clarify optimal treatment duration.",
+      "why_important_ar": "تتناول المراجعة سؤالًا عمليًا متزايد الأهمية حول دمج العلاج المناعي الموجّه مع الجراحة للحد من استمرار الالتهاب وتكرر CRSwNP.",
+      "why_important_en": "The review addresses an increasingly important practical question: how to integrate targeted immune therapy with surgery to manage persistent inflammation and recurrent CRSwNP.",
+      "vs_previous_ar": "توسّع المراجعة النقاش من biologics كعلاج دوائي منفرد أو ESS كإجراء جراحي إلى استراتيجية مشتركة حول الجراحة، مع إبراز أن توقيتها ومعايير اختيار المرضى لا تزال غير محددة.",
+      "vs_previous_en": "The review shifts the discussion from biologics or ESS as separate options toward integrated perioperative care, while emphasizing that timing and patient-selection criteria remain unsettled.",
+      "stars": 3,
+      "stars_reason_ar": "مراجعة سردية ذات صلة سريرية تجمع الأدلة حول biologics وESS، لكنها لا تقدم بيانات أولية أو توصية حاسمة، كما أن المجلة ليست ضمن قائمة المجلات الأعلى تصنيفًا؛ لذا فهي مفيدة للإحاطة أكثر من تغيير الممارسة.",
+      "stars_reason_en": "This clinically relevant narrative review synthesizes evidence on biologics and ESS but provides no primary data or definitive recommendation; the journal is not among the listed top-tier titles, so it is useful for awareness rather than practice change.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for discussion of selecting CRSwNP patients for combined treatment and the evidence needed to determine biologic timing and duration around ESS.",
+      "watch": true,
+      "watch_detail_ar": "تجدر متابعة biologics كعلاج موجّه لـCRSwNP، خصوصًا لمعرفة كيفية دمجها مع ESS وتحديد المرضى الأنسب لها.",
+      "watch_detail_en": "Track biologics as targeted therapy for CRSwNP, particularly evidence on integration with ESS and identification of the patients most likely to benefit.",
+      "watch_type": "drug",
+      "research_gap_ar": "هناك حاجة إلى دراسات مقارنة مستقبلية تحدد التوقيت الأمثل لـbiologics حول ESS، ومعايير اختيار المرضى، والنتائج طويلة الأمد، والتكلفة.",
+      "research_gap_en": "Prospective comparative studies are needed to define optimal biologic timing around ESS, patient-selection criteria, long-term outcomes, and cost-effectiveness.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تتناول هذه المراجعة سؤالًا مهمًا في تدبير chronic rhinosinusitis with nasal polyps، أو CRSwNP: كيف ندمج biologics مع endoscopic sinus surgery، أو ESS؟\n\nتوضح المراجعة أن CRSwNP مرض غير متجانس، وأن بعض المرضى، خصوصًا ممن لديهم type 2 inflammation، قد يستمر لديهم الالتهاب أو يتكرر المرض رغم العلاج الدوائي وESS. في هذه الحالات، قد تساعد biologics على استهداف الالتهاب المخاطي المستمر. والفكرة المطروحة ليست استبدال الجراحة بالعلاج الدوائي، بل الانتقال إلى نهج يجمع بين immune modulation والمعالجة التشريحية التي توفرها الجراحة.\n\nتستعرض المقالة الاستخدامات الممكنة قبل ESS وبعدها، وكذلك الخطط التي تجمع العلاجين بصورة متزامنة أو متتابعة. كما تناقش اختيار المرشحين للعلاج، وقياس الاستجابة، والسلامة، ومدة العلاج. وتلفت أيضًا إلى خصائص inflammatory endotypes لدى المرضى الصينيين، وإلى أن الموافقات التنظيمية والتغطية المالية تختلف بحسب السياق المحلي.\n\nلكن هذه مراجعة سردية وليست تجربة علاجية أو دراسة مقارنة جديدة؛ لذلك لا تثبت أن استراتيجية واحدة أفضل، ولا تحدد بروتوكولًا موحدًا لتوقيت biologics. عمليًا، يمكن النظر في العلاج الموجّه لمرضى مختارين لديهم مرض متكرر أو مستمر، مع اتخاذ القرار بصورة فردية ومراعاة الموافقات والتكلفة. ولا ينبغي اعتبار المقالة دليلًا على أن biologics تغني عن ESS أو أن استخدامها حول الجراحة مناسب لكل مريض.\n\nالخلاصة أن المراجعة مفيدة لفهم الاتجاه نحو علاج متكامل يجمع بين السيطرة على الالتهاب والجراحة، لكنها لا تغيّر الممارسة وحدها. الفجوة الأساسية هي الحاجة إلى دراسات مقارنة مستقبلية تحدد من يستفيد، ومتى يبدأ biologic بالنسبة إلى ESS، وكم ينبغي أن يستمر العلاج، وما أثر ذلك في النتائج طويلة الأمد والتكلفة.",
+      "audio_script_en": "This review addresses an important question in chronic rhinosinusitis with nasal polyps, or CRSwNP: how should biologics be integrated with endoscopic sinus surgery, or ESS?\n\nCRSwNP is heterogeneous, and some patients—particularly those with type 2 inflammation—continue to have persistent disease or recurrence despite medical therapy and ESS. Biologics offer a way to target ongoing mucosal inflammation. The proposed direction is not to replace surgery with medication, but to combine immune modulation with the anatomical treatment provided by surgery.\n\nThe review considers biologic use before ESS, after ESS, and in combined or sequential treatment plans. It also discusses selecting appropriate patients, assessing response, safety, and treatment duration. The authors consider inflammatory endotypes in Chinese patients as well as the local regulatory approval and reimbursement landscape.\n\nHowever, this is a narrative review, not a new treatment trial or comparative study. It does not establish that one strategy is superior or provide a standard protocol for perioperative timing. In practice, targeted treatment may be considered for selected patients with persistent or recurrent disease, with decisions individualized and informed by local approvals and costs. The article does not show that biologics replace ESS or that perioperative use is appropriate for every patient.\n\nThe key message is that CRSwNP care is moving toward an integrated approach that combines control of inflammation with surgery, but this review alone does not change practice. Prospective comparative studies are needed to determine who benefits, when biologics should be started relative to ESS, how long treatment should continue, and how these strategies affect long-term outcomes and cost.",
+      "mcq": [
+        {
+          "q_ar": "ما الفكرة الأساسية لدمج biologics مع ESS في CRSwNP؟",
+          "q_en": "What is the central rationale for integrating biologics with ESS in CRSwNP?",
+          "options_ar": [
+            "أ) استبدال ESS بالعلاج الدوائي لدى جميع المرضى",
+            "ب) الجمع بين استهداف الالتهاب والمعالجة التشريحية",
+            "ج) استخدام biologics فقط بعد استئصال كامل للجيوب",
+            "د) تجنب تقييم type 2 inflammation"
+          ],
+          "options_en": [
+            "A) Replace ESS with medication in all patients",
+            "B) Combine targeted inflammation control with anatomical treatment",
+            "C) Use biologics only after complete sinus removal",
+            "D) Avoid assessing type 2 inflammation"
+          ],
+          "answer": 1,
+          "explanation_ar": "تطرح المراجعة نهجًا متكاملًا يجمع immune modulation مع المعالجة التشريحية عبر ESS، لا استبدال أحدهما بالآخر.",
+          "explanation_en": "The review proposes integrating immune modulation with the anatomical treatment provided by ESS, rather than replacing one with the other."
+        },
+        {
+          "q_ar": "أي استراتيجية علاجية حول ESS تناقشها المراجعة؟",
+          "q_en": "Which perioperative treatment approaches does the review discuss?",
+          "options_ar": [
+            "أ) العلاج قبل ESS فقط",
+            "ب) العلاج بعد ESS فقط",
+            "ج) الاستخدام قبل الجراحة وبعدها، بما في ذلك الخطط المتزامنة أو المتتابعة",
+            "د) عدم استخدام biologics مع ESS مطلقًا"
+          ],
+          "options_en": [
+            "A) Preoperative treatment only",
+            "B) Postoperative treatment only",
+            "C) Preoperative, postoperative, and combined or sequential approaches",
+            "D) Never use biologics with ESS"
+          ],
+          "answer": 2,
+          "explanation_ar": "تستعرض المراجعة استخدام biologics قبل ESS وبعدها، وكذلك ضمن خطط علاج متزامنة أو متتابعة.",
+          "explanation_en": "The review covers biologic treatment before and after ESS, as well as combined or sequential strategies."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن توقيت biologics حول ESS؟",
+          "q_en": "What is the most appropriate conclusion about biologic timing around ESS?",
+          "options_ar": [
+            "أ) ثبت أن البدء قبل ESS هو الأفضل لكل المرضى",
+            "ب) ثبت أن العلاج بعد ESS غير مفيد",
+            "ج) لا يزال التوقيت الأمثل ومعايير اختيار المرضى غير محسومين",
+            "د) لا توجد حاجة إلى تقييم السلامة أو مدة العلاج"
+          ],
+          "options_en": [
+            "A) Starting before ESS is proven best for every patient",
+            "B) Postoperative treatment is proven ineffective",
+            "C) Optimal timing and patient-selection criteria remain uncertain",
+            "D) Safety and treatment duration do not need assessment"
+          ],
+          "answer": 2,
+          "explanation_ar": "تذكر المراجعة أن توقيت العلاج، ودمجه مع ESS، واختيار المرضى ومدة العلاج ما زالت مسائل غير محسومة.",
+          "explanation_en": "The review states that timing, integration with ESS, patient selection, and treatment duration remain uncertain."
+        }
+      ]
+    },
+    {
+      "pmid": "43057916",
+      "title_ar": "Laryngeal Applications of Platelet-Rich Plasma and Platelet-Rich Fibrin: A Systematic Review and Meta-Analysis.",
+      "title_en": "Laryngeal Applications of Platelet-Rich Plasma and Platelet-Rich Fibrin: A Systematic Review and Meta-Analysis.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Nov-19",
+      "doi": "10.1016/j.jvoice.2026.10.045",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43057916/",
+      "pdf_url": null,
+      "study_design": "Systematic review and meta-analysis of 13 studies",
+      "summary_ar": "راجعت هذه systematic review وmeta-analysis فعالية وسلامة PRP في أمراض vocal fold، وPRF للوقاية من pharyngocutaneous fistula بعد total laryngectomy، وشملت 13 دراسة. ارتبط PRP بتحسن كبير في VHI عبر أمراض vocal fold المختلفة (SMD = -1.42)، مع نتائج أفضل للإجراءات في operating room مقارنة بclinic setting، وتأثير كبير عند دمجه مع autologous fat. أظهر PRF المحضّر دون anticoagulant وباستخدام 3000 rpm لمدة 10 دقائق انخفاضًا في خطر PCF (RR = 0.21)، مع Number Needed to Treat قدره 4.4. كان ملف السلامة لكلا التدخلين جيدًا، وكانت adverse events الشديدة نادرة جدًا. تشير النتائج إلى فائدة محتملة في regenerative laryngology، لكن الملخص لا يوضح عدد الدراسات أو المرضى في كل تحليل ولا يقدم تفاصيل عن جودة الدراسات أو confidence intervals. لذلك تدعم النتائج الاهتمام بهذه التدخلات، لكنها لا تكفي وحدها لتغيير الممارسة على نطاق واسع.",
+      "summary_en": "This systematic review and meta-analysis assessed PRP for vocal fold disorders and PRF for prevention of pharyngocutaneous fistula after total laryngectomy, including 13 studies. PRP was associated with a large improvement in VHI across vocal fold pathologies (SMD = -1.42). Outcomes favored procedures performed in the operating room over the clinic setting, and PRP combined with autologous fat also showed a large effect. PRF prepared without anticoagulant at 3000 rpm for 10 minutes reduced PCF risk (RR = 0.21), with a reported Number Needed to Treat of 4.4. Both approaches had an excellent reported safety profile, with severe adverse events exceedingly rare. The results are promising, but the abstract does not report per-analysis sample sizes, study quality, or confidence intervals, limiting assessment of certainty and broad practice implications.",
+      "practice_change_ar": "لا تبرر النتائج وحدها اعتماد PRP أو PRF كمعيار روتيني، لكن يمكن مناقشة PRF للوقاية من PCF وPRP لاستعادة الصوت ضمن قرار سريري فردي.",
+      "practice_change_en": "These findings alone do not justify routine adoption of PRP or PRF, but PRF for PCF prevention and PRP for voice restoration can be considered in individualized clinical decision-making.",
+      "future_impact_ar": "قد تؤدي دراسات مستقبلية موحدة وعالية الجودة إلى تحديد أفضل بروتوكولات PRP وPRF والمرضى الأكثر استفادة.",
+      "future_impact_en": "Future high-quality studies using standardized protocols may identify the optimal PRP and PRF approaches and the patients most likely to benefit.",
+      "why_important_ar": "تجمع المقالة أدلة سريرية على تدخلين autologous واعدين لمشكلتين مهمتين في laryngology، مع الإشارة إلى نتائج الفعالية والسلامة.",
+      "why_important_en": "The review synthesizes clinical evidence for two promising autologous interventions addressing important laryngology problems and reports efficacy and safety outcomes.",
+      "vs_previous_ar": "على خلاف المعرفة المتفرقة من الدراسات الفردية، تقدم هذه المقالة تقديرات مجمعة للنتائج وتبرز أثر setting وطريقة تحضير PRF، دون إثبات معيار علاجي جديد.",
+      "vs_previous_en": "Unlike scattered individual reports, this review provides pooled estimates and highlights the influence of treatment setting and PRF preparation, without establishing a new standard of care.",
+      "stars": 4,
+      "stars_reason_ar": "تحليل منهجي وmeta-analysis ذو تصميم قوي، في مجال laryngology ذي صلة مباشرة، ويقدم نتائج كمية واعدة؛ لكن نقص تفاصيل جودة الدراسات وحجم العينات وعدم ثبوت تغيير الممارسة يحد من الدرجة.",
+      "stars_reason_en": "A systematic review and meta-analysis provides a strong study design and clinically relevant quantitative findings in laryngology; however, missing detail on study quality and sample sizes, and the lack of established practice change, limit the score.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسب لنادي المجلة لمناقشة تباين تدخلات PRP وPRF، تفسير تقديرات الأثر، ومدى كفاية الأدلة لتطبيقها سريريًا.",
+      "jc_reason_en": "Suitable for journal club discussion of PRP and PRF protocol heterogeneity, interpretation of pooled effects, and whether the evidence supports clinical implementation.",
+      "watch": true,
+      "watch_detail_ar": "تابع PRP وPRF كتقنيات regenerative laryngology، خصوصًا بروتوكول PRF دون anticoagulant للوقاية من PCF.",
+      "watch_detail_en": "Track PRP and PRF as regenerative laryngology technologies, particularly the no-anticoagulant PRF protocol for PCF prevention.",
+      "watch_type": "technology",
+      "research_gap_ar": "تلزم دراسات مقارنة مستقبلية ذات بروتوكولات موحدة، ومقاييس نتائج محددة مسبقًا، ومتابعة كافية لتأكيد الفعالية والسلامة وتحديد المرضى الأنسب.",
+      "research_gap_en": "Prospective comparative studies with standardized protocols, prespecified outcomes, and adequate follow-up are needed to confirm efficacy and safety and identify appropriate candidates.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تتناول هذه المقالة استخدام PRP وPRF في laryngeal disorders، من خلال systematic review وmeta-analysis شملتا 13 دراسة. السؤال السريري مزدوج: هل يحسن PRP نتائج الصوت في أمراض vocal fold، وهل يقلل PRF حدوث pharyngocutaneous fistula بعد total laryngectomy؟\\n\\nبالنسبة إلى PRP، أفاد التحليل بتحسن كبير في VHI، مع SMD يساوي سالب 1.42. وأظهرت تحليلات المجموعات الفرعية نتائج أفضل عندما أُجريت الإجراءات في operating room بدل clinic setting، كما ظهر تأثير كبير عند جمع PRP مع autologous fat. مع ذلك، لا ينبغي تفسير هذه النتائج على أنها إثبات نهائي لتفوق بروتوكول محدد، لأن الملخص لا يذكر أعداد المرضى أو تفاصيل جودة الدراسات لكل تحليل.\\n\\nأما PRF، فقد ارتبط بروتوكول التحضير دون anticoagulant وبسرعة 3000 rpm لمدة 10 دقائق بانخفاض خطر PCF؛ كان RR يساوي 0.21، وبلغ Number Needed to Treat المبلغ عنه 4.4. وأشار المؤلفون إلى أن كلا التدخلين أظهرا ملف سلامة جيدًا، مع ندرة adverse events الشديدة.\\n\\nمن الناحية العملية، هذه نتائج واعدة لكنها لا تثبت بعد أن PRP أو PRF يجب أن يصبحا رعاية روتينية. يمكن أخذ PRF في الاعتبار للوقاية من fistula بعد laryngectomy، وPRP لاستعادة الصوت، ضمن تقييم فردي ومراعاة خبرة الفريق والإمكانات المحلية. درجة المقالة أربع من خمس، والثقة متوسطة، لأن التصميم التجميعي قوي والنتائج مهمة، لكن تفاصيل اليقين ومقارنة البروتوكولات غير كافية لتغيير الممارسة.\\n\\nالرسالة الأهم لنادي المجلة هي الحاجة إلى دراسات مستقبلية مقارنة وموحدة، مع نتائج محددة مسبقًا ومتابعة كافية، لتأكيد الفعالية والسلامة وتحديد المرضى الذين سيستفيدون أكثر.",
+      "audio_script_en": "This article reviews the laryngeal applications of PRP and PRF in a systematic review and meta-analysis of 13 studies. It addresses two clinical questions: whether PRP improves voice outcomes in vocal fold disorders, and whether PRF reduces pharyngocutaneous fistula after total laryngectomy.\\n\\nFor PRP, the pooled analysis found a large improvement in VHI, with an SMD of -1.42. Subgroup analyses favored procedures performed in the operating room rather than the clinic setting, and PRP combined with autologous fat also had a large effect. These findings are encouraging, but they do not establish that one protocol is definitively superior; the abstract does not provide patient counts or detailed study-quality assessments for the analyses.\\n\\nFor PRF, a preparation protocol without anticoagulant, using 3000 rpm for 10 minutes, was associated with lower PCF risk. The reported RR was 0.21, with a Number Needed to Treat of 4.4. The authors also report an excellent safety profile for both interventions, with severe adverse events exceedingly rare.\\n\\nFor clinical practice, these results are promising but do not establish PRP or PRF as routine standard care. PRF may be considered for fistula prevention after laryngectomy, and PRP for voice restoration, with individualized decisions that account for the evidence, local resources, and clinical expertise. The article earns four stars with moderate confidence: the review design and quantitative findings are valuable, but uncertainty about study quality and protocol comparisons limits immediate practice change.\\n\\nThe key journal-club discussion is whether the pooled effects are sufficiently reliable to guide care. Future prospective comparative studies should use standardized preparation and delivery protocols, prespecified outcomes, and adequate follow-up to confirm effectiveness and safety and determine which patients benefit most.",
+      "mcq": [
+        {
+          "q_ar": "ما حجم الأثر المجمع المبلغ عنه لتحسن VHI بعد PRP؟",
+          "q_en": "What pooled effect was reported for improvement in VHI after PRP?",
+          "options_ar": [
+            "أ) SMD = -1.42",
+            "ب) RR = 0.21",
+            "ج) Number Needed to Treat = 4.4",
+            "د) 3000 rpm لمدة 10 دقائق"
+          ],
+          "options_en": [
+            "A) SMD = -1.42",
+            "B) RR = 0.21",
+            "C) Number Needed to Treat = 4.4",
+            "D) 3000 rpm for 10 minutes"
+          ],
+          "answer": 0,
+          "explanation_ar": "أفاد التحليل بتحسن كبير في VHI مع PRP، وكان SMD يساوي -1.42.",
+          "explanation_en": "The review reported a large improvement in VHI with PRP, with an SMD of -1.42."
+        },
+        {
+          "q_ar": "ما بروتوكول PRF المرتبط بانخفاض خطر PCF؟",
+          "q_en": "Which PRF protocol was associated with a reduced risk of PCF?",
+          "options_ar": [
+            "أ) مع anticoagulant عند 1500 rpm لمدة 5 دقائق",
+            "ب) دون anticoagulant عند 3000 rpm لمدة 10 دقائق",
+            "ج) PRP مع autologous fat في clinic setting",
+            "د) PRF عند 3000 rpm لمدة 2 دقيقة"
+          ],
+          "options_en": [
+            "A) With anticoagulant at 1500 rpm for 5 minutes",
+            "B) Without anticoagulant at 3000 rpm for 10 minutes",
+            "C) PRP with autologous fat in the clinic setting",
+            "D) PRF at 3000 rpm for 2 minutes"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتبط PRF المحضر دون anticoagulant وبسرعة 3000 rpm لمدة 10 دقائق بانخفاض PCF.",
+          "explanation_en": "PRF prepared without anticoagulant at 3000 rpm for 10 minutes was associated with reduced PCF risk."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن أثر هذه المراجعة على الممارسة الحالية؟",
+          "q_en": "What is the most appropriate conclusion about this review’s implications for current practice?",
+          "options_ar": [
+            "أ) تثبت أن PRP وPRF أصبحا معيار الرعاية لجميع المرضى",
+            "ب) توصي بإيقاف إجراءات voice restoration المعتادة",
+            "ج) تقدم نتائج واعدة، لكنها لا تكفي وحدها لتبرير الاستخدام الروتيني",
+            "د) تثبت عدم وجود adverse events مع أي من التدخلين"
+          ],
+          "options_en": [
+            "A) It establishes PRP and PRF as standard care for all patients",
+            "B) It recommends stopping usual voice-restoration procedures",
+            "C) It provides promising results but alone does not justify routine use",
+            "D) It proves that neither intervention causes adverse events"
+          ],
+          "answer": 2,
+          "explanation_ar": "النتائج واعدة، لكن نقص تفاصيل جودة الدراسات وحجم العينات يحد من اليقين ولا يثبت تغيير الممارسة الروتينية.",
+          "explanation_en": "The findings are promising, but missing detail on study quality and sample sizes limits certainty and does not establish routine practice change."
+        }
+      ]
+    },
+    {
+      "pmid": "43062756",
+      "title_ar": "Photogrammetric surgical anatomical roadmap to the cavernous sinus from multiple surgical perspectives: qualitative and morphometric analysis of ventral endoscopic and pterional approaches.",
+      "title_en": "Photogrammetric surgical anatomical roadmap to the cavernous sinus from multiple surgical perspectives: qualitative and morphometric analysis of ventral endoscopic and pterional approaches.",
+      "journal": "Neurosurgical review",
+      "pub_date": "2026-Nov-20",
+      "doi": "10.1007/s10143-026-04581-7",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43062756/",
+      "pdf_url": null,
+      "study_design": "Cadaveric anatomical study: 5 heads",
+      "summary_ar": "درست هذه الدراسة تشريح lateral wall of the cavernous sinus باستخدام ثلاثة مداخل جراحية في خمسة cadaveric heads: extended endoscopic endonasal transpterygoid، وendoscopic superior eyelid transorbital، وendoscope-assisted pterional. عالج الباحثون فيديوهات عالية الدقة بتقنيات photogrammetric reconstruction لإنشاء نماذج ثلاثية الأبعاد تفاعلية. أتاح المدخل endonasal رؤية ICA وCN VI وCN III وCN IV وV1 وV2، بينما أظهر المدخل transorbital Gasserian ganglion وV1 وV2 وV3 وأعصابًا قحفية ومقصورة cavernous sinus الجانبية. وفر المدخل pterional منظورًا واسعًا ومتعدد الاتجاهات. بلغ متوسط المساحة المكشوفة 206.1 mm² للمدخل endonasal، و290.4 mm² للمدخل transorbital، و287.8 mm² للمدخل pterional. تقدم النماذج خريطة تشريحية ثلاثية الأبعاد للتعليم والتخطيط، لكنها لا تثبت تحسن النتائج السريرية أو تفوق مدخل على آخر.",
+      "summary_en": "This cadaveric study examined the lateral wall of the cavernous sinus through three approaches in five heads: extended endoscopic endonasal transpterygoid, endoscopic superior eyelid transorbital, and endoscope-assisted pterional. High-definition endoscopic videos were processed using photogrammetric reconstruction to create interactive 3D models. The endonasal corridor visualized the ICA, CN VI, CN III, CN IV, V1, and V2; the transorbital route exposed the Gasserian ganglion, V1, V2, V3, cranial nerves, and lateral cavernous sinus compartment. The pterional approach provided a broad multidirectional view. Mean exposed areas were 206.1 mm² for endonasal, 290.4 mm² for transorbital, and 287.8 mm² for pterional. These models offer a 3D anatomical roadmap for learning and planning, but do not establish improved clinical outcomes or superiority of any approach.",
+      "practice_change_ar": "لا تغيّر هذه النتائج الممارسة الجراحية اليوم، لكنها توفر موردًا ثلاثي الأبعاد مفيدًا للتعليم والتخطيط التشريحي.",
+      "practice_change_en": "These findings do not change surgical practice today, but provide a useful 3D resource for anatomical education and planning.",
+      "future_impact_ar": "قد تساعد النماذج التفاعلية مستقبلًا في تحسين التعليم والتخطيط، إذا جرى التحقق من فائدتها في الممارسة والنتائج السريرية.",
+      "future_impact_en": "Interactive models may improve education and planning in the future if their value in clinical practice and outcomes is validated.",
+      "why_important_ar": "توضح الدراسة العلاقات التشريحية المعقدة حول cavernous sinus من زوايا جراحية متعددة باستخدام نماذج ثلاثية الأبعاد قابلة للاستكشاف.",
+      "why_important_en": "The study illustrates complex anatomy around the cavernous sinus from multiple surgical perspectives using explorable 3D models.",
+      "vs_previous_ar": "تضيف الدراسة photogrammetric 3D reconstructions قابلة للتفاعل وقياسات للمساحات المكشوفة إلى التوثيق التشريحي الذي اعتمد غالبًا على صور ثنائية الأبعاد.",
+      "vs_previous_en": "The study adds interactive photogrammetric 3D reconstructions and exposed-area measurements to anatomical documentation that has largely relied on 2D images.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة تشريحية على خمسة cadaveric heads، وتقدم أداة تصوير مبتكرة ومعرفة مفيدة، لكن الدليل قبل سريري ولا يثبت تغييرًا في النتائج أو الممارسة.",
+      "stars_reason_en": "A five-head cadaveric anatomical study offering an innovative imaging resource and useful knowledge, but with preclinical evidence and no demonstrated change in outcomes or practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Worth discussing because it compares three approaches to a complex region and demonstrates a photogrammetric reconstruction method, while highlighting the small sample and absence of clinical outcomes.",
+      "watch": true,
+      "watch_detail_ar": "تستحق تقنية photogrammetric reconstruction ومخرجاتها التفاعلية ثلاثية الأبعاد المتابعة لتقييم إمكان دمجها في التخطيط والتعليم الجراحي.",
+      "watch_detail_en": "Photogrammetric reconstruction and its interactive 3D outputs merit tracking for potential integration into surgical planning and education.",
+      "watch_type": "technology",
+      "research_gap_ar": "يلزم تقييم قابلية تكرار النماذج ودقتها وفائدتها في تخطيط العمليات، وربط استخدامها بنتائج سريرية في دراسات أكبر.",
+      "research_gap_en": "Larger studies should assess model reproducibility, accuracy, and value in operative planning, and relate their use to clinical outcomes.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نستعرض اليوم دراسة تشريحية تبحث في lateral wall of the cavernous sinus، وهي منطقة معقدة بسبب قرب الأعصاب والأوعية الدموية بعضها من بعض. استخدم الباحثون خمسة cadaveric heads لدراسة ثلاثة مداخل: extended endoscopic endonasal transpterygoid، وendoscopic superior eyelid transorbital، وendoscope-assisted pterional.\n\nالميزة الأساسية هي استخدام photogrammetric reconstruction لتحويل فيديوهات endoscopic عالية الدقة إلى نماذج تفاعلية ثلاثية الأبعاد. أتاح المدخل endonasal رؤية ICA وCN VI وCN III وCN IV وV1 وV2. أما المدخل transorbital فأظهر Gasserian ganglion وفروع العصب الخامس V1 وV2 وV3، إلى جانب الأعصاب القحفية والمقصورة الجانبية من cavernous sinus. وقدم المدخل pterional منظورًا واسعًا متعدد الاتجاهات.\n\nبلغ متوسط المساحة المكشوفة 206.1 mm² للمدخل endonasal، مقابل 290.4 mm² للمدخل transorbital و287.8 mm² للمدخل pterional. ينبغي تفسير هذه القياسات بوصفها وصفًا تشريحيًا للمساحة، لا دليلًا على تفوق سريري لأي مدخل؛ كما أن transorbital وpterional قيسا من منظورين مختلفين للسطح التشريحي المرجعي نفسه.\n\nتضيف الدراسة إلى الأدبيات خريطة تشريحية ثلاثية الأبعاد قابلة للاستكشاف، بدل الاعتماد على الصور ثنائية الأبعاد وحدها. وقد تكون مفيدة للتعليم وفهم العلاقات التشريحية والتخطيط الجراحي. لكنها دراسة على جثث، ولا تقيس سلامة المرضى أو نتائج العمليات، لذا لا تغير الممارسة اليوم. تستحق التقنية المتابعة، خصوصًا لمعرفة دقة النماذج وقابليتها للتكرار، وما إذا كان استخدامها يحسن تخطيط العمليات أو نتائجها في دراسات مستقبلية أكبر.",
+      "audio_script_en": "Today we review an anatomical study of the lateral wall of the cavernous sinus, a complex region with closely related nerves and vessels. The investigators used five cadaveric heads to examine three surgical corridors: extended endoscopic endonasal transpterygoid, endoscopic superior eyelid transorbital, and endoscope-assisted pterional.\n\nThe key method was photogrammetric reconstruction: high-definition endoscopic videos were processed into interactive 3D models. The endonasal corridor visualized the ICA, CN VI, CN III, CN IV, V1, and V2. The transorbital route exposed the Gasserian ganglion and V1, V2, and V3, as well as cranial nerves and the lateral cavernous sinus compartment. The pterional approach offered a broad, multidirectional perspective.\n\nMean exposed areas were 206.1 mm² for the endonasal route, 290.4 mm² for transorbital, and 287.8 mm² for pterional. These measurements describe anatomical exposure; they do not show clinical superiority. The transorbital and pterional measurements represent different views of the same reference anatomical surface.\n\nThe contribution is an explorable 3D anatomical roadmap that extends documentation traditionally based on 2D images. It may support education, understanding of spatial relationships, and surgical planning. However, this is a cadaveric study and does not assess patient safety or operative outcomes, so it does not change practice today. The technology is worth tracking, particularly to establish model accuracy, reproducibility, and whether its use improves planning or outcomes in larger future studies.",
+      "mcq": [
+        {
+          "q_ar": "ما التقنية التي استخدمها الباحثون لإنشاء نماذج ثلاثية الأبعاد تفاعلية؟",
+          "q_en": "Which technique did the investigators use to create interactive 3D models?",
+          "options_ar": [
+            "أ) photogrammetric reconstruction",
+            "ب) CT perfusion",
+            "ج) Fluorescence-guided imaging",
+            "د) Ultrasound elastography"
+          ],
+          "options_en": [
+            "A) Photogrammetric reconstruction",
+            "B) CT perfusion",
+            "C) Fluorescence-guided imaging",
+            "D) Ultrasound elastography"
+          ],
+          "answer": 0,
+          "explanation_ar": "عولجت فيديوهات endoscopic عالية الدقة باستخدام photogrammetric reconstruction لإنتاج نماذج تفاعلية ثلاثية الأبعاد.",
+          "explanation_en": "High-definition endoscopic videos were processed with photogrammetric reconstruction to generate interactive 3D models."
+        },
+        {
+          "q_ar": "أي مدخل أظهر Gasserian ganglion وV1 وV2 وV3 بوضوح؟",
+          "q_en": "Which approach clearly exposed the Gasserian ganglion and V1, V2, and V3?",
+          "options_ar": [
+            "أ) extended endoscopic endonasal transpterygoid",
+            "ب) endoscopic superior eyelid transorbital",
+            "ج) endoscope-assisted pterional",
+            "د) لم يُظهر أي مدخل هذه البنى"
+          ],
+          "options_en": [
+            "A) Extended endoscopic endonasal transpterygoid",
+            "B) Endoscopic superior eyelid transorbital",
+            "C) Endoscope-assisted pterional",
+            "D) None of the approaches exposed these structures"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهر المدخل endoscopic superior eyelid transorbital Gasserian ganglion وV1 وV2 وV3.",
+          "explanation_en": "The endoscopic superior eyelid transorbital route exposed the Gasserian ganglion and V1, V2, and V3."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن قياسات المساحة المكشوفة؟",
+          "q_en": "What is the most appropriate interpretation of the exposed-area measurements?",
+          "options_ar": [
+            "أ) تثبت تفوق المدخل transorbital سريريًا",
+            "ب) تثبت أن المدخل endonasal أكثر أمانًا",
+            "ج) تصف المساحة التشريحية المكشوفة ولا تثبت تفوقًا سريريًا",
+            "د) تؤكد تحسن نتائج المرضى بعد الجراحة"
+          ],
+          "options_en": [
+            "A) They prove clinical superiority of the transorbital approach",
+            "B) They prove the endonasal approach is safer",
+            "C) They describe exposed anatomical area and do not establish clinical superiority",
+            "D) They confirm improved patient outcomes after surgery"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة تشريحية على cadaveric heads، لذلك تقيس الانكشاف التشريحي ولا تقدم بيانات عن نتائج المرضى أو تفوق سريري.",
+          "explanation_en": "This cadaveric anatomical study measures exposure and provides no patient-outcome data or evidence of clinical superiority."
+        }
+      ]
+    },
+    {
+      "pmid": "43063986",
+      "title_ar": "Antibiotic Prophylaxis in Facial Plastics: A Systematic Review and Meta-Analysis",
+      "title_en": "Antibiotic Prophylaxis in Facial Plastics: A Systematic Review and Meta-Analysis",
+      "journal": "Facial plastic surgery : FPS",
+      "pub_date": "2026-Nov-20",
+      "doi": "10.1055/a-3010-5633",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43063986/",
+      "pdf_url": null,
+      "study_design": "Systematic review and meta-analysis of 41 studies (243,454 patients)",
+      "summary_ar": "تقيّم هذه systematic review وmeta-analysis أثر antibiotic prophylaxis في facial plastic surgery، مع مقارنة جرعة perioperative واحدة مقابل regimens ممتدة. شملت المراجعة 41 دراسة و243,454 مريضًا، واستخدمت random-effects models لتجميع odds ratios. ارتبطت جرعة واحدة بانخفاض surgical site infection مقارنة بعدم استخدام antibiotics (OR 0.47؛ 95% CI 0.25–0.86). كما خفّضت أي prophylaxis احتمال SSI مقارنة بعدم إعطائها (OR 0.55؛ 95% CI 0.33–0.93). لم تُظهر regimens الممتدة فائدة إضافية مقارنة بجرعة واحدة (OR 0.92؛ 95% CI 0.63–1.34؛ I²=0%). ولم تختلف التأثيرات بشكل ملحوظ بحسب نوع الإجراء، ما يدعم جرعة perioperative واحدة كخيار افتراضي يوازن الوقاية مع antimicrobial stewardship.",
+      "summary_en": "This systematic review and meta-analysis evaluated antibiotic prophylaxis across facial plastic surgery procedures, including comparisons of single-dose and extended-course regimens. It included 41 studies and 243,454 patients, with pooled odds ratios calculated using random-effects models. A single perioperative dose was associated with lower surgical site infection (SSI) odds than no antibiotics (OR 0.47; 95% CI 0.25–0.86). Any prophylaxis also reduced SSI odds versus no prophylaxis (OR 0.55; 95% CI 0.33–0.93). Extended regimens offered no additional benefit over a single dose (OR 0.92; 95% CI 0.63–1.34; I²=0%). Effects did not differ significantly by procedure type, supporting a single perioperative dose as a stewardship-preferred default.",
+      "practice_change_ar": "اعتمد جرعة perioperative واحدة من antibiotic prophylaxis كخيار افتراضي في facial plastic surgery بدل وصف regimens ممتدة روتينيًا.",
+      "practice_change_en": "Use a single perioperative dose of antibiotic prophylaxis as the default in facial plastic surgery rather than routinely prescribing extended courses.",
+      "future_impact_ar": "قد تساعد هذه النتائج على توحيد بروتوكولات antibiotic prophylaxis وتقليل الاستخدام غير الضروري للمضادات، مع الحاجة إلى دراسات مستقبلية عالية الجودة لتحديد الإجراء والمرضى الأكثر استفادة.",
+      "future_impact_en": "These findings may help standardize antibiotic prophylaxis and reduce unnecessary antibiotic exposure, while higher-quality studies are needed to identify which procedures and patients benefit most.",
+      "why_important_ar": "تتناول الدراسة اختلافًا واسعًا في الممارسة وتوفر دليلًا مجمعًا يدعم الوقاية بجرعة واحدة دون فائدة واضحة للتمديد.",
+      "why_important_en": "The review addresses substantial practice variation and provides pooled evidence supporting single-dose prophylaxis without a clear benefit from extending treatment.",
+      "vs_previous_ar": "بدل الاقتصار على إجراء واحد أو فئة محدودة، تجمع هذه المراجعة نطاقًا واسعًا من facial plastic procedures وتقارن مباشرةً الجرعة الواحدة بالجرعات الممتدة.",
+      "vs_previous_en": "Rather than focusing on one procedure or a narrow patient group, this review spans facial plastic procedures and directly compares single-dose with extended-course prophylaxis.",
+      "stars": 4,
+      "stars_reason_ar": "تستند الدراسة إلى systematic review وmeta-analysis كبيرتين، وتقدم نتيجة عملية تؤيد جرعة واحدة وتحد من المضادات الممتدة؛ لكنها لا تثبت تفوقًا بحسب نوع الإجراء، كما أن تصنيف المجلة ليس ضمن قائمة المجلات الأعلى المحددة.",
+      "stars_reason_en": "This large systematic review and meta-analysis offers actionable support for single-dose prophylaxis and avoiding extended courses; however, it does not establish procedure-specific differences, and the journal is not among the listed top-tier journals.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسب لـ journal club لمناقشة تفاوت جودة الدراسات، وملاءمة تجميع إجراءات مختلفة، وكيفية تطبيق نتائج antimicrobial stewardship على بروتوكولات المؤسسة.",
+      "jc_reason_en": "Suitable for journal club discussion of study quality, pooling across diverse procedures, and translating antimicrobial stewardship findings into institutional protocols.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج الأبحاث المستقبلية إلى دراسات مقارنة عالية الجودة تحدد أثر prophylaxis بحسب نوع الإجراء وعوامل خطر المريض، مع تقييم SSI ومقاومة المضادات والآثار الضارة.",
+      "research_gap_en": "Future high-quality comparative studies should assess prophylaxis by procedure type and patient risk, while measuring SSI, antibiotic resistance, and adverse effects.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نستعرض اليوم مقالًا بعنوان “Antibiotic Prophylaxis in Facial Plastics: A Systematic Review and Meta-Analysis”، نُشر في مجلة Facial Plastic Surgery. السؤال السريري هو: هل تقلل antibiotic prophylaxis surgical site infection في facial plastic surgery، وهل تفيد regimens الممتدة أكثر من جرعة واحدة؟\n\nضمّت المراجعة 41 دراسة بإجمالي 243,454 مريضًا، واستخدم الباحثون random-effects models لتجميع odds ratios، كما قيّموا خطر التحيز ودرجة اليقين باستخدام RoB 2 وROBINS-I وGRADE. ارتبطت جرعة perioperative واحدة بانخفاض SSI مقارنة بعدم إعطاء antibiotics، مع OR يساوي 0.47 و95% CI من 0.25 إلى 0.86. كذلك، ارتبطت أي prophylaxis بانخفاض SSI مقارنة بعدم الوقاية، مع OR يساوي 0.55 و95% CI من 0.33 إلى 0.93.\n\nأما النقطة المهمة للترشيد، فهي أن extended-course regimens لم تضف فائدة واضحة مقارنة بجرعة واحدة: OR يساوي 0.92، و95% CI من 0.63 إلى 1.34، وI² يساوي صفرًا بالمئة. ولم يجد الباحثون اختلافًا مهمًا في التأثير بحسب نوع الإجراء. لذلك، تدعم النتائج جرعة perioperative واحدة كخيار افتراضي، بدل وصف antibiotics لفترة ممتدة بصورة روتينية.\n\nسريريًا، قد تساعد هذه النتائج على توحيد الممارسة وتقليل التعرض غير الضروري للمضادات. لكن ينبغي تفسيرها مع الانتباه إلى أن الدراسات المشمولة قد تختلف في التصميم والإجراءات وتعريف SSI، وأن عدم ظهور اختلاف بحسب الإجراء لا يعني بالضرورة ثبوت التكافؤ لكل عملية أو لكل مريض. كما لا تقدم هذه النتائج وحدها بروتوكولًا محددًا لاختيار antibiotic أو توقيت إعطائه لكل حالة.\n\nالخلاصة: هذه systematic review وmeta-analysis ذات قيمة عملية، وتدعم prophylaxis بجرعة واحدة في facial plastic surgery عندما تكون الوقاية مطلوبة، من دون دليل على فائدة إضافية للجرعات الممتدة. وتبقى الحاجة قائمة إلى دراسات مقارنة أفضل تحدد دور نوع الإجراء وعوامل خطر المريض، وتقيس SSI ومقاومة المضادات والآثار الضارة.",
+      "audio_script_en": "Today’s article is “Antibiotic Prophylaxis in Facial Plastics: A Systematic Review and Meta-Analysis,” published in Facial Plastic Surgery. It asks two practical questions: does antibiotic prophylaxis reduce surgical site infection in facial plastic surgery, and do extended regimens offer more protection than a single dose?\n\nThe review included 41 studies and 243,454 patients. The authors pooled odds ratios using random-effects models and assessed risk of bias and certainty with RoB 2, ROBINS-I, and GRADE. A single perioperative dose was associated with lower SSI odds than no antibiotics: OR 0.47, with a 95% confidence interval of 0.25 to 0.86. Any prophylaxis was also associated with lower SSI odds than no prophylaxis, with an OR of 0.55 and a 95% confidence interval of 0.33 to 0.93.\n\nThe stewardship-relevant finding is that extended-course regimens did not provide a clear additional benefit over a single dose. The pooled OR was 0.92, with a 95% confidence interval of 0.63 to 1.34, and I-squared was zero percent. The review also found no significant difference in effects by procedure type. Taken together, the findings support a single perioperative dose as the default when prophylaxis is indicated, rather than routine extended antibiotic courses.\n\nIn practice, this evidence may help reduce unnecessary antibiotic exposure and support more consistent protocols. Important caveats remain: the included studies may differ in design, procedures, and SSI definitions. The absence of a significant procedure-specific difference does not prove that every procedure or patient has the same risk or response. The abstract also does not provide a specific antibiotic choice or timing protocol for individual cases.\n\nOverall, this large systematic review and meta-analysis offers actionable support for single-dose prophylaxis in facial plastic surgery and finds no demonstrated advantage to extending the course. Further high-quality comparative research should clarify how procedure type and patient risk affect the decision, and should measure SSI alongside antibiotic resistance and adverse effects.",
+      "mcq": [
+        {
+          "q_ar": "ما النتيجة الأساسية لمقارنة جرعة perioperative واحدة بعدم إعطاء antibiotics؟",
+          "q_en": "What was the main finding when a single perioperative dose was compared with no antibiotics?",
+          "options_ar": [
+            "أ) ارتفعت odds of SSI بشكل ملحوظ",
+            "ب) انخفضت odds of SSI؛ OR 0.47",
+            "ج) لم تتغير odds of SSI؛ OR 1.00",
+            "د) لم تُجرَ هذه المقارنة"
+          ],
+          "options_en": [
+            "A) SSI odds increased significantly",
+            "B) SSI odds decreased; OR 0.47",
+            "C) SSI odds were unchanged; OR 1.00",
+            "D) This comparison was not performed"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتبطت جرعة واحدة بانخفاض SSI مقارنة بعدم استخدام antibiotics، وكان OR يساوي 0.47 مع 95% CI من 0.25 إلى 0.86.",
+          "explanation_en": "A single dose was associated with lower SSI odds than no antibiotics (OR 0.47; 95% CI 0.25–0.86)."
+        },
+        {
+          "q_ar": "هل أظهرت extended-course regimens فائدة إضافية مقارنة بجرعة واحدة؟",
+          "q_en": "Did extended-course regimens show additional benefit over a single dose?",
+          "options_ar": [
+            "أ) نعم، بفائدة كبيرة ومثبتة",
+            "ب) نعم، لكن في كل أنواع الإجراءات فقط",
+            "ج) لا، لم تظهر فائدة إضافية واضحة",
+            "د) لم تُقارن regimens"
+          ],
+          "options_en": [
+            "A) Yes, with a large proven benefit",
+            "B) Yes, but only across all procedure types",
+            "C) No, no clear additional benefit was found",
+            "D) Regimens were not compared"
+          ],
+          "answer": 2,
+          "explanation_ar": "لم تُظهر المقارنة فائدة إضافية للجرعات الممتدة: OR 0.92، و95% CI من 0.63 إلى 1.34.",
+          "explanation_en": "Extended courses showed no clear additional benefit (OR 0.92; 95% CI 0.63–1.34)."
+        },
+        {
+          "q_ar": "ما الخيار الافتراضي الذي تدعمه نتائج الدراسة عند الحاجة إلى prophylaxis؟",
+          "q_en": "What default approach do the findings support when prophylaxis is indicated?",
+          "options_ar": [
+            "أ) Extended-course antibiotics لكل المرضى",
+            "ب) عدم استخدام prophylaxis في أي إجراء",
+            "ج) جرعة perioperative واحدة",
+            "د) اختيار regimen بحسب نوع الإجراء وحده دون اعتبار بقية النتائج"
+          ],
+          "options_en": [
+            "A) Extended-course antibiotics for every patient",
+            "B) No prophylaxis for any procedure",
+            "C) A single perioperative dose",
+            "D) Choose a regimen by procedure type alone, disregarding the overall findings"
+          ],
+          "answer": 2,
+          "explanation_ar": "تدعم النتائج جرعة perioperative واحدة كخيار افتراضي يوازن الوقاية مع antimicrobial stewardship، إذ لم تُظهر الجرعات الممتدة فائدة واضحة.",
+          "explanation_en": "The findings support a single perioperative dose as a default that balances prophylaxis with antimicrobial stewardship, since extended courses showed no clear benefit."
+        }
+      ]
+    },
+    {
+      "pmid": "43053604",
+      "title_ar": "Determining the Appropriate Age for Aesthetic Procedures in Minors: A Review of the Guidelines, Outcomes, and Ethical Considerations.",
+      "title_en": "Determining the Appropriate Age for Aesthetic Procedures in Minors: A Review of the Guidelines, Outcomes, and Ethical Considerations.",
+      "journal": "Aesthetic surgery journal",
+      "pub_date": "2026-Nov-19",
+      "doi": "10.1093/asj/sjag265",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43053604/",
+      "pdf_url": null,
+      "study_design": "Narrative review",
+      "summary_ar": "تستعرض هذه المراجعة الاعتبارات التنظيمية والنتائج ومبادئ الأخلاقيات المتعلقة بالإجراءات التجميلية غير الجراحية والجراحية لدى القاصرين. وتشمل الإجراءات غير الجراحية skincare، injectables، lasers، skin resurfacing وmicroneedling، بينما تشمل الجراحية otoplasty وrhinoplasty وbreast reduction وbreast augmentation وإجراءات نحت الجسم. تختلف التوصيات المتعلقة بالحد الأدنى للعمر والإرشادات المهنية والرقابة بين الإجراءات والبلدان. تشير الدراسات السابقة عمومًا إلى سلامة جيدة ورضا مرتفع بعد الجراحة وتحسن نفسي اجتماعي لدى المراهقين الذين جرى اختيارهم بعناية. تؤكد المراجعة أن موافقة الوالدين وحدها لا تكفي لتحديد ملاءمة التدخل، وأن تقييم النضج النفسي والدوافع وصورة الجسم والتأثيرات الاجتماعية وفهم المخاطر والقيود ضروري. وفي ظل غياب معايير عمرية موحدة، تقع على عاتق الجراح مسؤولية اتخاذ قرار فردي يوازن بين التطور الجسدي والنفسي والرفاه طويل الأمد.",
+      "summary_en": "This review examines regulatory issues, outcomes, and ethical principles related to surgical and nonsurgical aesthetic procedures in minors.\nNonsurgical procedures include skincare, injectables, lasers, skin resurfacing, and microneedling; surgical procedures include otoplasty, rhinoplasty, breast reduction, and breast augmentation.\nMinimum-age recommendations, professional guidance, and oversight vary across procedures and countries.\nPrior studies generally report favorable safety, high postoperative satisfaction, and psychosocial improvement in carefully selected adolescents.\nParental consent alone does not establish appropriateness; assessment should include maturity, motivation, body image, social influences, and understanding of risks and limitations.\nIn the absence of standardized age requirements, clinicians must make individualized decisions that consider development and long-term well-being.",
+      "practice_change_ar": "لا تقدم المراجعة حدًا عمريًا جديدًا، لكنها تدعم إجراء تقييم فردي منظم للنضج والدوافع وصورة الجسم وفهم المخاطر قبل الموافقة على إجراء تجميلي لقاصر.",
+      "practice_change_en": "The review establishes no new age cutoff, but supports structured, individualized assessment of maturity, motivation, body image, and risk understanding before offering an aesthetic procedure to a minor.",
+      "future_impact_ar": "قد تساعد معايير موحدة وأبحاث طويلة الأمد على توضيح اختيار المرضى وتوقيت الإجراءات التجميلية لدى القاصرين.",
+      "future_impact_en": "Standardized guidance and long-term research may clarify patient selection and timing for aesthetic procedures in minors.",
+      "why_important_ar": "توضح المقالة أن قرار إجراء تدخل تجميلي للقاصر يتجاوز الموافقة القانونية ليشمل اعتبارات النمو النفسي والرفاه طويل الأمد.",
+      "why_important_en": "The article highlights that deciding on aesthetic intervention in a minor goes beyond legal consent to include psychological development and long-term well-being.",
+      "vs_previous_ar": "بدلًا من اقتراح عمر موحد، تجمع المراجعة تفاوت الإرشادات والنتائج وتؤكد التقييم الفردي متعدد العوامل.",
+      "vs_previous_en": "Rather than proposing a universal age threshold, the review synthesizes variable guidance and outcomes and emphasizes individualized, multidimensional assessment.",
+      "stars": 3,
+      "stars_reason_ar": "مراجعة سردية مفيدة تجمع الإرشادات والاعتبارات الأخلاقية، لكن الملخص لا يوضح منهج بحث منهجيًا أو بيانات جديدة، ولا تغيّر الممارسة مباشرة.",
+      "stars_reason_en": "A useful narrative review synthesizing guidance and ethical considerations, but the abstract describes neither a systematic search nor new data, and it does not directly change practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it addresses common practical and ethical decisions in assessing minors while highlighting the lack of uniform age standards.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى دراسات مستقبلية موحدة وطويلة الأمد تقيس السلامة والرضا والنتائج النفسية الاجتماعية بحسب الإجراء والعمر ومعايير اختيار المرضى.",
+      "research_gap_en": "Standardized, long-term studies are needed to measure safety, satisfaction, and psychosocial outcomes by procedure, age, and patient-selection criteria.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نراجع اليوم مقالًا بعنوان: «تحديد العمر المناسب للإجراءات التجميلية لدى القاصرين»، وهو مراجعة سردية منشورة في Aesthetic Surgery Journal. تتناول المقالة التحديات السريرية والأخلاقية عندما يطلب المراهقون إجراءات لتحسين المظهر.\n\nتغطي المراجعة تدخلات غير جراحية مثل skincare وinjectables وlasers وskin resurfacing وmicroneedling، إضافة إلى إجراءات جراحية تشمل otoplasty وrhinoplasty وbreast reduction وbreast augmentation ونحت الجسم. الرسالة الأساسية هي أن التوصيات بشأن الحد الأدنى للعمر والرقابة المهنية تختلف كثيرًا بين الإجراءات والبلدان. وتذكر المراجعة أن الدراسات السابقة أظهرت عمومًا سلامة جيدة ورضا مرتفعًا وتحسنًا نفسيًا اجتماعيًا لدى المراهقين المختارين بعناية، لكن الملخص لا يقدم تقديرات كمية أو تحليلًا منهجيًا لهذه النتائج.\n\nمن الناحية العملية، موافقة الوالدين شرط مهم لكنها لا تحسم وحدها ما إذا كان الإجراء مناسبًا. ينبغي تقييم النضج العاطفي، والدوافع، وصورة الجسم، وتأثير الأقران أو وسائل التواصل، ومدى فهم المريض للمخاطر والقيود والنتائج المتوقعة. كما يلزم مراعاة التطور الجسدي واحتمال تغير الاحتياجات مع الزمن، إلى جانب الرفاه طويل الأمد.\n\nلا تقترح المقالة عمرًا موحدًا جديدًا ولا تقدم قاعدة تغيّر الممارسة فورًا؛ قيمتها أنها تلخص التباين الحالي وتدعم اتخاذ قرار فردي مسؤول. لذلك نمنحها ثلاث نجوم وثقة متوسطة: موضوع مهم للممارسة، لكن تصميم المراجعة السردية وغياب تفاصيل المنهج والبيانات الجديدة يحدان من قوة الاستنتاجات. وتبرز الحاجة إلى أبحاث طويلة الأمد ومعايير موحدة لقياس السلامة والرضا والنتائج النفسية الاجتماعية بحسب العمر والإجراء واختيار المرضى. وهي مناسبة لنقاش نادي المجلات، خصوصًا لفرق facial plastics التي تقيّم طلبات القاصرين.",
+      "audio_script_en": "Today we review “Determining the Appropriate Age for Aesthetic Procedures in Minors,” a narrative review published in Aesthetic Surgery Journal. It considers the clinical and ethical challenges that arise when adolescents request procedures to change their appearance.\n\nThe review covers nonsurgical interventions such as skincare, injectables, lasers, skin resurfacing, and microneedling, as well as surgical procedures including otoplasty, rhinoplasty, breast reduction, breast augmentation, and body contouring. Its central observation is that minimum-age recommendations, professional guidance, and oversight vary substantially across procedures and countries. The review reports that prior studies generally show favorable safety, high postoperative satisfaction, and psychosocial improvement in carefully selected adolescents. However, the abstract provides no quantitative estimates or details of a systematic evidence assessment.\n\nThe practical message is that parental consent, while important, does not by itself establish that a procedure is appropriate. Clinicians should assess emotional maturity, motivation, body image, social influences, and the adolescent’s understanding of risks, limitations, and likely outcomes. Physical development and the possibility that needs or preferences may change over time also matter, as does long-term well-being.\n\nThe article does not recommend a new universal age cutoff or offer a rule that immediately changes practice. Its value is in summarizing variable guidance and reinforcing individualized clinical judgment. We rate it three stars with moderate confidence: the topic is relevant, but the narrative-review design and lack of methodological detail or new data limit the strength of its conclusions. Important research needs include standardized, long-term assessment of safety, satisfaction, and psychosocial outcomes by age, procedure, and patient-selection criteria. This is a useful journal-club discussion for teams evaluating aesthetic requests from minors, particularly in facial plastics.",
+      "mcq": [
+        {
+          "q_ar": "ما الرسالة الأساسية للمراجعة بشأن تحديد ملاءمة الإجراءات التجميلية للقاصرين؟",
+          "q_en": "What is the review’s main message about determining whether aesthetic procedures are appropriate for minors?",
+          "options_ar": [
+            "أ) اعتماد عمر موحد لجميع الإجراءات",
+            "ب) الاكتفاء بموافقة الوالدين",
+            "ج) اتخاذ قرار فردي يشمل النضج والدوافع وفهم المخاطر",
+            "د) منع جميع الإجراءات غير الجراحية"
+          ],
+          "options_en": [
+            "A) Adopt one age threshold for all procedures",
+            "B) Rely solely on parental consent",
+            "C) Make an individualized decision that includes maturity, motivation, and risk understanding",
+            "D) Prohibit all nonsurgical procedures"
+          ],
+          "answer": 2,
+          "explanation_ar": "تؤكد المراجعة أن الموافقة وحدها لا تكفي، وأن التقييم الفردي النفسي والاجتماعي والسريري ضروري.",
+          "explanation_en": "The review emphasizes that consent alone is insufficient and that individualized psychosocial and clinical assessment is essential."
+        },
+        {
+          "q_ar": "أي مجموعة من العوامل توصي المراجعة بتقييمها عند النظر في إجراء تجميلي لقاصر؟",
+          "q_en": "Which set of factors does the review recommend assessing when considering an aesthetic procedure for a minor?",
+          "options_ar": [
+            "أ) النضج النفسي والدوافع وصورة الجسم وفهم المخاطر",
+            "ب) العمر وحده",
+            "ج) رغبة الوالدين فقط",
+            "د) مدة الإجراء دون توقعات المريض"
+          ],
+          "options_en": [
+            "A) Psychological maturity, motivation, body image, and risk understanding",
+            "B) Age alone",
+            "C) Parental preference alone",
+            "D) Procedure duration without the patient’s expectations"
+          ],
+          "answer": 0,
+          "explanation_ar": "تذكر المراجعة النضج والدوافع وصورة الجسم والتأثيرات الاجتماعية وفهم المخاطر والقيود ضمن عناصر التقييم.",
+          "explanation_en": "The review identifies maturity, motivation, body image, social influences, and understanding of risks and limitations as assessment factors."
+        },
+        {
+          "q_ar": "ما أحد القيود الرئيسية التي تحد من قوة الاستنتاجات المعروضة في الملخص؟",
+          "q_en": "What is one major limitation that constrains the strength of the conclusions presented in the abstract?",
+          "options_ar": [
+            "أ) المراجعة تقتصر على دراسة حيوانية",
+            "ب) لا يذكر الملخص منهج بحث منهجيًا أو بيانات كمية جديدة",
+            "ج) جميع الإجراءات تفتقر إلى أي نتائج منشورة",
+            "د) المقالة تختبر جهازًا جديدًا في تجربة عشوائية"
+          ],
+          "options_en": [
+            "A) The review is limited to an animal study",
+            "B) The abstract does not describe a systematic search method or new quantitative data",
+            "C) No procedures have any published outcomes",
+            "D) The article tests a new device in a randomized trial"
+          ],
+          "answer": 1,
+          "explanation_ar": "المقالة مراجعة سردية بحسب المعلومات المتاحة، والملخص لا يورد تفاصيل منهجية أو تقديرات كمية للنتائج.",
+          "explanation_en": "Based on the available information, this is a narrative review, and the abstract provides neither methodological details nor quantitative outcome estimates."
+        }
+      ]
+    },
+    {
+      "pmid": "43064545",
+      "title_ar": "Male Hypogonadism is Associated with Increased Dysphonia.",
+      "title_en": "Male Hypogonadism is Associated with Increased Dysphonia.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Nov-20",
+      "doi": "10.1016/j.jvoice.2026.11.011",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43064545/",
+      "pdf_url": null,
+      "study_design": "Retrospective propensity score-matched database cohort",
+      "summary_ar": "قيّمت هذه الدراسة retrospective association بين male hypogonadism وdysphonia لدى رجال بعمر 50 سنة فأكثر في الولايات المتحدة، باستخدام بيانات TriNetX للفترة 2006–2026. شملت المقارنة رجالًا لديهم serum testosterone أقل من 300 ng/dL مقابل eugonadal controls متطابقين بالعمر، مع propensity score matching لضبط عوامل سريرية وديموغرافية. ارتبط male hypogonadism بارتفاع odds تشخيص dysphonia أو vocal fold pathology (OR 1.20، 95% CI 1.11–1.29). كما ارتفعت odds إجراء flexible laryngoscopy أو voice evaluation (OR 1.14، 95% CI 1.07–1.22). وارتفعت أيضًا odds تلقي injection laryngoscopy أو voice therapy (OR 1.21، 95% CI 1.08–1.35). تشير النتائج إلى ارتباط محتمل بين testosterone وصحة صوت الرجال، لكنها لا تثبت السببية ولا توضح آلية التأثير.",
+      "summary_en": "This retrospective database study assessed the association between male hypogonadism and dysphonia in US men aged 50 years or older. Men with serum testosterone below 300 ng/dL were compared with age-matched eugonadal controls, using propensity score matching to adjust for demographic and clinical covariates. Hypogonadism was associated with higher odds of dysphonia or other vocal fold pathology (OR 1.20, 95% CI 1.11–1.29). Odds of flexible laryngoscopy or voice evaluation were also higher (OR 1.14, 95% CI 1.07–1.22). The hypogonadal group had higher odds of injection laryngoscopy or voice therapy as well (OR 1.21, 95% CI 1.08–1.35). The findings suggest an association between testosterone status and adult male voice, but cannot establish causality.",
+      "practice_change_ar": "لا تبرر هذه النتائج تغيير الممارسة حاليًا، لكنها تدعم أخذ male hypogonadism بالحسبان عند تقييم dysphonia لدى الرجال الأكبر سنًا.",
+      "practice_change_en": "These findings do not justify a change in practice today, but support considering male hypogonadism when evaluating dysphonia in older men.",
+      "future_impact_ar": "قد تدفع هذه النتائج إلى دراسات prospective تحدد ما إذا كان تقييم testosterone أو علاجه يحسن voice outcomes.",
+      "future_impact_en": "These findings may prompt prospective studies to determine whether testosterone assessment or treatment improves voice outcomes.",
+      "why_important_ar": "تلفت الدراسة الانتباه إلى ارتباط محتمل بين endocrine status وdysphonia لدى فئة من المرضى لم تُدرس على نطاق واسع.",
+      "why_important_en": "The study highlights a potential association between endocrine status and dysphonia in a population that has not been widely studied.",
+      "vs_previous_ar": "تضيف الدراسة دليلًا سكانيًا على ارتباط male hypogonadism بمشكلات الصوت، لكنها لا تثبت أن testosterone يسببها أو أن تعويضه يعالجها.",
+      "vs_previous_en": "The study adds population-level evidence linking male hypogonadism with voice disorders, but does not establish that testosterone causes them or that replacement treats them.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة cohort استعادية باستخدام قاعدة بيانات ومطابقة propensity score، وتقدم نتيجة جديدة مفيدة في laryngology؛ لكن غياب إثبات السببية واحتمال التباس عوامل غير مقاسة يمنعان منحها تقييمًا أعلى.",
+      "stars_reason_en": "This retrospective database cohort uses propensity score matching and presents a useful, novel laryngology finding; however, lack of causal evidence and possible residual confounding limit the score.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This is suitable for journal club because it links endocrine status with clinical voice outcomes and invites discussion of database limitations, bias, and causality.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى دراسات prospective تحدد العلاقة الزمنية والآليات، وتقيس voice outcomes قبل وبعد علاج male hypogonadism.",
+      "research_gap_en": "Prospective studies are needed to establish temporality and mechanisms and to measure voice outcomes before and after treatment of male hypogonadism.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة تبحث في العلاقة بين male hypogonadism واضطرابات الصوت لدى الرجال الأكبر سنًا. استخدم الباحثون بيانات TriNetX في الولايات المتحدة للفترة من 2006 إلى 2026، وقارنوا رجالًا بعمر 50 سنة فأكثر لديهم serum testosterone أقل من 300 ng/dL بمجموعة eugonadal controls متطابقة بالعمر. استخدموا propensity score matching لضبط عوامل سريرية وديموغرافية، ثم قيّموا تشخيص dysphonia وvocal fold pathology، إضافة إلى الفحوص والتدخلات المتعلقة بالصوت.\n\nكانت odds تشخيص dysphonia أو vocal fold pathology أعلى لدى الرجال المصابين بmale hypogonadism، بنسبة OR قدرها 1.20، مع 95% confidence interval من 1.11 إلى 1.29. كما زادت odds إجراء flexible laryngoscopy أو voice evaluation بنسبة OR 1.14، وزادت odds تلقي injection laryngoscopy أو voice therapy بنسبة OR 1.21. هذه نتائج متسقة مع احتمال أن يكون testosterone مرتبطًا بالحفاظ على صوت الرجل البالغ.\n\nلكن من المهم تفسير النتائج بحذر. الدراسة retrospective وتعتمد على تشخيصات وإجراءات مسجلة في قاعدة بيانات؛ لذلك قد تتأثر بالتحيز في اختيار المرضى، واختلاف استخدام الرعاية الصحية، وعوامل مربكة لم تُقَس. كما أن الارتباط لا يثبت أن انخفاض testosterone هو سبب dysphonia، ولا يثبت أن testosterone replacement سيحسن الصوت. ولا يقدم الملخص تفاصيل عن الحجم العددي للعينة أو الفروق المطلقة في المخاطر.\n\nالخلاصة العملية: لا تغيّر هذه الدراسة التقييم المعتاد لـdysphonia ولا تبرر فحص testosterone أو علاجه روتينيًا لكل مريض. لكنها ترفع الوعي باحتمال وجود عامل endocrine لدى الرجال الأكبر سنًا، وتدعم السؤال عن الأعراض والسياق السريري المناسب. تستحق الدراسة النقاش في journal club بسبب حداثة السؤال واستخدام بيانات واسعة مع propensity matching. والخطوة التالية هي دراسات prospective تقيس voice outcomes موضوعيًا قبل وبعد علاج male hypogonadism، لتحديد ما إذا كانت العلاقة سببية وما إذا كان التدخل يغيّر النتائج.",
+      "audio_script_en": "Today’s study examines whether male hypogonadism is associated with voice disorders in older men. The authors used US TriNetX data from 2006 through 2026 and compared men aged 50 years or older with serum testosterone below 300 ng/dL against age-matched eugonadal controls. They used propensity score matching to adjust for demographic and clinical covariates, and assessed diagnoses of dysphonia and vocal fold pathology, as well as voice-related evaluations and interventions.\n\nMen with hypogonadism had higher odds of dysphonia or other vocal fold pathology, with an OR of 1.20 and a 95% confidence interval of 1.11 to 1.29. The odds of flexible laryngoscopy or voice evaluation were also higher, with an OR of 1.14. Odds of injection laryngoscopy or voice therapy were higher as well, with an OR of 1.21. These findings are consistent with a possible role for testosterone in maintaining the adult male voice.\n\nThe results should be interpreted cautiously. This is a retrospective database study based on recorded diagnoses and procedures, so findings may be affected by selection bias, differences in healthcare use, and unmeasured confounding. Association does not establish that low testosterone causes dysphonia, and the study does not show that testosterone replacement improves voice. The abstract also does not report the sample size or absolute differences in risk.\n\nThe practical takeaway is that this study does not change standard dysphonia evaluation and does not support routine testosterone testing or treatment for every patient with voice symptoms. It does, however, raise awareness that endocrine factors may be relevant in some older men, depending on their clinical context. This article is appropriate for journal club because it explores a novel laryngology question using a large database and matching methods. Future prospective studies should measure objective voice outcomes before and after treatment of male hypogonadism to clarify causality and determine whether intervention improves the voice.",
+      "mcq": [
+        {
+          "q_ar": "ما الفئة التي درستها هذه الدراسة؟",
+          "q_en": "Which population did this study assess?",
+          "options_ar": [
+            "أ) رجال بعمر 50 سنة فأكثر لديهم serum testosterone أقل من 300 ng/dL",
+            "ب) نساء لديهن اضطرابات صوتية",
+            "ج) أطفال خضعوا لجراحة الحنجرة",
+            "د) رجال أصغر من 30 سنة بعد علاج صوتي"
+          ],
+          "options_en": [
+            "A) Men aged 50 years or older with serum testosterone below 300 ng/dL",
+            "B) Women with voice disorders",
+            "C) Children undergoing laryngeal surgery",
+            "D) Men under 30 years after voice therapy"
+          ],
+          "answer": 0,
+          "explanation_ar": "قارنت الدراسة رجالًا بعمر 50 سنة فأكثر لديهم serum testosterone أقل من 300 ng/dL مع eugonadal controls متطابقين بالعمر.",
+          "explanation_en": "The study compared men aged 50 years or older with serum testosterone below 300 ng/dL against age-matched eugonadal controls."
+        },
+        {
+          "q_ar": "ما الارتباط الذي وجدته الدراسة بين hypogonadism وتشخيص dysphonia أو vocal fold pathology؟",
+          "q_en": "What association did the study find between hypogonadism and dysphonia or vocal fold pathology diagnoses?",
+          "options_ar": [
+            "أ) انخفاض odds بنسبة 20%",
+            "ب) ارتفاع odds، مع OR 1.20",
+            "ج) عدم وجود أي ارتباط",
+            "د) إثبات أن testosterone replacement يعالج dysphonia"
+          ],
+          "options_en": [
+            "A) A 20% reduction in odds",
+            "B) Higher odds, with an OR of 1.20",
+            "C) No association",
+            "D) Proof that testosterone replacement treats dysphonia"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت النتائج ارتفاع odds تشخيص dysphonia أو vocal fold pathology، مع OR 1.20 و95% CI 1.11–1.29؛ ولا تثبت الدراسة فعالية العلاج.",
+          "explanation_en": "The findings showed higher odds of dysphonia or vocal fold pathology diagnoses (OR 1.20, 95% CI 1.11–1.29); the study did not establish treatment efficacy."
+        },
+        {
+          "q_ar": "ما الاستنتاج السريري الأنسب من هذه الدراسة؟",
+          "q_en": "What is the most appropriate clinical interpretation of this study?",
+          "options_ar": [
+            "أ) يجب علاج كل حالة dysphonia بtestosterone",
+            "ب) تثبت الدراسة أن انخفاض testosterone يسبب dysphonia",
+            "ج) لا تغير الدراسة الممارسة حاليًا، لكنها تشير إلى ارتباط يستدعي بحثًا prospective",
+            "د) يجب إيقاف flexible laryngoscopy لدى الرجال المصابين بhypogonadism"
+          ],
+          "options_en": [
+            "A) Every case of dysphonia should be treated with testosterone",
+            "B) The study proves that low testosterone causes dysphonia",
+            "C) It does not change practice today, but identifies an association requiring prospective study",
+            "D) Flexible laryngoscopy should be avoided in men with hypogonadism"
+          ],
+          "answer": 2,
+          "explanation_ar": "لأنها دراسة retrospective رصدية، فهي تدعم وجود association لكنها لا تثبت causality ولا تبرر تغييرًا علاجيًا روتينيًا.",
+          "explanation_en": "As a retrospective observational study, it supports an association but cannot establish causality or justify routine treatment changes."
+        }
+      ]
+    },
+    {
+      "pmid": "43059592",
+      "title_ar": "Long-term outcomes of LINAC single-dose versus fractionated stereotactic radiation for vestibular schwannoma.",
+      "title_en": "Long-term outcomes of LINAC single-dose versus fractionated stereotactic radiation for vestibular schwannoma.",
+      "journal": "British journal of neurosurgery",
+      "pub_date": "2026-Nov-20",
+      "doi": "10.1080/02688697.2026.2764164",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43059592/",
+      "pdf_url": null,
+      "study_design": "Retrospective cohort n=197",
+      "summary_ar": "قارنت هذه الدراسة بأثر رجعي نتائج LINAC-SRS لدى 92 مريضًا وLINAC-fSRT لدى 105 مرضى مصابين بـvestibular schwannoma. كان حجم الورم قبل العلاج أكبر في مجموعة fSRT، بمتوسط 2.1 cm³ مقابل 1.0 cm³ في مجموعة SRS، مع p-value=0.008. بعد متابعة وسطية بلغت 10.9 سنوات، بلغ التحكم الشعاعي بالورم 94% مع SRS و91% مع fSRT، دون فرق ذي دلالة إحصائية (p-value=0.41). بلغت نسبة عدم الحاجة إلى تدخل جراحي أو إشعاعي إضافي 98% و97% على التوالي، وكانت نتائج facial nerve palsy وتغيرات الإحساس منخفضة ومتشابهة. سُجل hydrocephalus بمعدل أعلى بعد fSRT، بنسبة 9.8% مقابل 1.1%، لكن مجموعة fSRT كان لديها حجم ورم ابتدائي أكبر. كما أظهرت مجموعة SRS زيادة وسطية أكبر في حجم الورم أثناء pseudoprogression، بنحو 75%.",
+      "summary_en": "This retrospective study compared LINAC-SRS in 92 patients with LINAC-fSRT in 105 patients with vestibular schwannoma. Pretreatment tumour volume was larger in the fSRT group: 2.1 cm³ versus 1.0 cm³ in the SRS group (p=0.008). At a median follow-up of 10.9 years, radiological control was 94% with SRS and 91% with fSRT, with no significant difference (p=0.41). Freedom from further surgical or radiation intervention was 98% and 97%, respectively, and facial nerve palsy and sensory changes were uncommon and comparable. Hydrocephalus was more frequent after fSRT (9.8% versus 1.1%), although patients in this group had larger tumours at baseline. Median pseudoprogression was greater after SRS, at approximately 75%.",
+      "practice_change_ar": "لا تدعم النتائج تغيير اختيار SRS أو fSRT حاليًا، وتؤكد أهمية تفسير hydrocephalus في ضوء حجم الورم قبل العلاج.",
+      "practice_change_en": "These findings do not support changing current selection between SRS and fSRT, and underscore interpreting hydrocephalus risk in light of pretreatment tumour size.",
+      "future_impact_ar": "قد تساعد المتابعة الطويلة والقياسات الحجمية المستقبلية على توضيح أثر حجم الورم ونمط العلاج في pseudoprogression وhydrocephalus.",
+      "future_impact_en": "Long-term follow-up with volumetric assessment may clarify how tumour size and treatment modality relate to pseudoprogression and hydrocephalus.",
+      "why_important_ar": "تقدم الدراسة بيانات متابعة طويلة الأمد حول التحكم بالورم والآثار اللاحقة بعد نمطين شائعين من LINAC stereotactic radiation.",
+      "why_important_en": "The study provides long-term data on tumour control and subsequent effects after two commonly used LINAC stereotactic radiation approaches.",
+      "vs_previous_ar": "تضيف الدراسة مقارنة طويلة الأمد وبيانات volumetric عن pseudoprogression، مع نتائج تحكم متقاربة بين SRS وfSRT.",
+      "vs_previous_en": "It adds long-term comparative and volumetric pseudoprogression data while showing similar tumour control with SRS and fSRT.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة cohort استعادية كبيرة نسبيًا (n=197) وبمتابعة طويلة، لكنها غير عشوائية ولا تُظهر فرقًا واضحًا يغيّر الممارسة؛ لذا تقدم معرفة مفيدة دون أن تكون حاسمة.",
+      "stars_reason_en": "This relatively large retrospective cohort (n=197) has long follow-up, but is non-randomized and shows no clear difference that would change practice; it offers useful rather than definitive evidence.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The direct comparison and long follow-up support discussion of radiation modality selection and interpretation of the higher hydrocephalus rate in the context of baseline tumour-size differences.",
+      "watch": true,
+      "watch_detail_ar": "تستحق LINAC stereotactic radiation المتابعة بوصفها تقنية علاجية تُظهر تحكمًا طويل الأمد متقاربًا عبر SRS وfSRT.",
+      "watch_detail_en": "LINAC stereotactic radiation is worth tracking as a treatment technology with similarly high long-term control across SRS and fSRT.",
+      "watch_type": "technology",
+      "research_gap_ar": "تلزم دراسات مستقبلية مضبوطة تأخذ حجم الورم والخصائص السريرية في الحسبان لتحديد ما إذا كان اختلاف hydrocephalus مرتبطًا بنمط العلاج أم باختلاف خط الأساس.",
+      "research_gap_en": "Prospective controlled studies accounting for tumour volume and clinical characteristics are needed to determine whether the hydrocephalus difference is attributable to treatment modality or baseline differences.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نستعرض اليوم دراسة عن النتائج طويلة الأمد لعلاج vestibular schwannoma باستخدام تقنيتين قائمتين على LINAC: جرعة واحدة من stereotactic radiosurgery، أو SRS، مقابل fractionated stereotactic radiotherapy، أو fSRT.\n\nشملت الدراسة 197 مريضًا عولجوا بين عامي 2003 و2019؛ تلقى 92 منهم SRS و105 تلقوا fSRT. كانت الدراسة استعادية، واستُخدم MRI لقياس حجم الورم وتقييم التحكم الشعاعي. من المهم ملاحظة أن الأورام في مجموعة fSRT كانت أكبر عند البداية: 2.1 cm³ مقارنة بـ1.0 cm³ في مجموعة SRS.\n\nبعد متابعة وسطية طويلة بلغت 10.9 سنوات، كان التحكم الشعاعي 94% بعد SRS و91% بعد fSRT، ولم يكن الفرق ذا دلالة إحصائية. كذلك، لم يحتج معظم المرضى إلى تدخل جراحي أو إشعاعي إضافي؛ إذ بلغت نسبة عدم الحاجة إلى تدخل آخر 98% و97% على التوالي. وكانت حالات facial nerve palsy وتغيرات الإحساس قليلة ومتشابهة بين المجموعتين.\n\nالنتيجة التي تستحق الانتباه هي أن hydrocephalus حدث بمعدل أعلى بعد fSRT: 9.8% مقابل 1.1% بعد SRS. لكن يجب تفسير هذه المقارنة بحذر، لأن مجموعة fSRT بدأت بأورام أكبر، وبالتالي لا تثبت الدراسة أن نمط الإشعاع وحده سبب هذا الاختلاف. كما كان pseudoprogression أكبر في مجموعة SRS، بزيادة وسطية تقارب 75%، ما يؤكد أهمية متابعة MRI وفهم التغير الحجمي بعد العلاج.\n\nعمليًا، لا تقدم هذه النتائج سببًا كافيًا لتغيير الاختيار الحالي بين SRS وfSRT؛ فالتحكم طويل الأمد مرتفع ومتقارب. لكنها تدعم مناقشة حجم الورم والملاءمة السريرية عند اختيار العلاج، وتدعو إلى الحذر عند تفسير hydrocephalus. قوة الدراسة هي المتابعة الطويلة والقياس الحجمي، أما حدودها فتشمل التصميم الاستعادي واختلاف أحجام الأورام الابتدائية. وتبقى الحاجة قائمة إلى دراسات مستقبلية مضبوطة تفصل أثر حجم الورم عن أثر التقنية العلاجية.",
+      "audio_script_en": "Today we review a long-term comparison of two LINAC-based treatments for vestibular schwannoma: single-dose stereotactic radiosurgery, or SRS, and fractionated stereotactic radiotherapy, or fSRT.\n\nThe retrospective cohort included 197 patients treated between 2003 and 2019: 92 received SRS and 105 received fSRT. Tumour control was assessed volumetrically on MRI. One important baseline difference is that tumours were larger in the fSRT group, with a median pretreatment volume of 2.1 cubic centimetres compared with 1.0 cubic centimetre in the SRS group.\n\nAt a median follow-up of 10.9 years, radiological tumour control was 94% after SRS and 91% after fSRT. This difference was not statistically significant. Freedom from another surgical or radiation intervention was also very high, at 98% and 97%, respectively. Facial nerve palsy and sensory changes were uncommon and comparable between groups.\n\nHydrocephalus was more frequent in the fSRT group: 9.8% compared with 1.1% after SRS. That finding requires cautious interpretation because the fSRT group had larger tumours at baseline; this retrospective comparison cannot establish that treatment modality itself caused the difference. The study also reported greater median pseudoprogression after SRS, at approximately 75%, highlighting the importance of MRI follow-up and careful interpretation of post-treatment volume changes.\n\nFor current practice, these results do not justify changing selection between SRS and fSRT: both approaches were associated with excellent, similar long-term control. They do reinforce the need to consider tumour size and patient-specific factors when choosing treatment, and to interpret hydrocephalus rates in the context of baseline differences. The study’s strengths are its large cohort and extended follow-up; its main limitations are retrospective design and unequal pretreatment tumour volumes. Prospective controlled studies are needed to distinguish the effects of tumour size from those of treatment modality.",
+      "mcq": [
+        {
+          "q_ar": "ما نسبة التحكم الشعاعي بالورم بعد متابعة وسطية بلغت 10.9 سنوات؟",
+          "q_en": "What were the radiological tumour control rates after a median follow-up of 10.9 years?",
+          "options_ar": [
+            "أ) 94% مع SRS و91% مع fSRT",
+            "ب) 91% مع SRS و94% مع fSRT",
+            "ج) 98% مع SRS و97% مع fSRT",
+            "د) 75% مع SRS و50% مع fSRT"
+          ],
+          "options_en": [
+            "A) 94% with SRS and 91% with fSRT",
+            "B) 91% with SRS and 94% with fSRT",
+            "C) 98% with SRS and 97% with fSRT",
+            "D) 75% with SRS and 50% with fSRT"
+          ],
+          "answer": 0,
+          "explanation_ar": "بلغ التحكم الشعاعي 94% في مجموعة SRS و91% في مجموعة fSRT، دون فرق ذي دلالة إحصائية.",
+          "explanation_en": "Radiological control was 94% in the SRS group and 91% in the fSRT group, with no statistically significant difference."
+        },
+        {
+          "q_ar": "أي مجموعة كان لديها حجم ورم أكبر قبل العلاج؟",
+          "q_en": "Which group had larger tumours before treatment?",
+          "options_ar": [
+            "أ) مجموعة SRS",
+            "ب) مجموعة fSRT",
+            "ج) لم يكن هناك اختلاف في الحجم",
+            "د) لا يذكر الملخص حجم الورم الابتدائي"
+          ],
+          "options_en": [
+            "A) The SRS group",
+            "B) The fSRT group",
+            "C) There was no difference in tumour volume",
+            "D) The abstract does not report baseline tumour volume"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان حجم الورم قبل العلاج أكبر في مجموعة fSRT: 2.1 cm³ مقابل 1.0 cm³ في مجموعة SRS.",
+          "explanation_en": "Pretreatment tumour volume was larger in the fSRT group: 2.1 cm³ versus 1.0 cm³ in the SRS group."
+        },
+        {
+          "q_ar": "كيف ينبغي تفسير ارتفاع معدل hydrocephalus بعد fSRT؟",
+          "q_en": "How should the higher hydrocephalus rate after fSRT be interpreted?",
+          "options_ar": [
+            "أ) يثبت أن fSRT يسبب hydrocephalus",
+            "ب) يُفسر بحذر لأن حجم الأورام الابتدائي كان أكبر في مجموعة fSRT",
+            "ج) يعني أن التحكم بالورم كان أسوأ بكثير مع fSRT",
+            "د) يثبت أن SRS لا يسبب أي آثار جانبية"
+          ],
+          "options_en": [
+            "A) It proves that fSRT causes hydrocephalus",
+            "B) It should be interpreted cautiously because baseline tumours were larger in the fSRT group",
+            "C) It means tumour control was substantially worse with fSRT",
+            "D) It proves that SRS has no adverse effects"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان hydrocephalus أكثر شيوعًا بعد fSRT، لكن مجموعة fSRT كان لديها حجم ورم ابتدائي أكبر، والدراسة الاستعادية لا تثبت السببية.",
+          "explanation_en": "Hydrocephalus was more common after fSRT, but tumours were larger at baseline in that group, and the retrospective design cannot establish causality."
+        }
+      ]
+    }
+  ]
+}
