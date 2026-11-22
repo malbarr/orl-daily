@@ -1,0 +1,1086 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T11:09:24Z",
+  "articles": [
+    {
+      "pmid": "43063989",
+      "title_ar": "Multimodal AI for Rhinoplasty Consultation and Simulation: A Blinded Expert Evaluation.",
+      "title_en": "Multimodal AI for Rhinoplasty Consultation and Simulation: A Blinded Expert Evaluation.",
+      "journal": "Facial plastic surgery : FPS",
+      "pub_date": "2026-Nov-20",
+      "doi": "10.1055/a-3003-2319",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43063989/",
+      "pdf_url": null,
+      "study_design": "Retrospective evaluation of 20 rhinoplasty cases with blinded expert ratings",
+      "summary_ar": "قيّمت هذه الدراسة مخرجات GPT-5.5 للاستشارة حول rhinoplasty ومحاكاة النتائج بعد الجراحة، اعتمادًا على صور ما قبل الجراحة لـ20 مريضًا. راجع أربعة facial plastic surgeons المخرجات بصورة معماة باستخدام مقاييس تشمل المحتوى السريري وجودة الصور واتساق الخطة وفائدتها للاستشارة. حصل وضوح اللغة على أعلى تقييم بمتوسط 4.05 من 5، بينما كانت ملاءمة الإجراءات 2.90 وتجنب الإجراءات غير الملائمة 2.59 والتوافق بين الخطة والمحاكاة 2.33. لم يكن الفرق الأساسي بين تقييم النص والصورة ذا دلالة إحصائية، إذ كان التقدير -0.39 مع 95% confidence interval من -0.99 إلى 0.21 وp-value=0.18. حصلت الاستشارة على تأييد غير مشروط في 5.0% فقط من التقييمات، وحدث توافق كامل مع الخطة الجراحية في 7.6%. تشير النتائج إلى أن اللغة الواضحة والصور المقنعة لا تضمنان صلاحية سريرية خاصة بالمريض، ولذلك ينبغي أن يظل استخدام هذه التقنية مساعدًا وتحت إشراف الجراح.",
+      "summary_en": "This study evaluated GPT-5.5 rhinoplasty consultations and postoperative simulations generated from preoperative photographs of 20 patients.\nFour blinded fellowship-trained facial plastic surgeons rated clinical content, image quality, coherence, and consultation utility.\nLanguage clarity scored highest at 4.05/5, while procedure appropriateness, avoidance of inappropriate procedures, and plan-to-simulation fidelity scored 2.90, 2.59, and 2.33, respectively.\nThe primary comparison between image and text domains was not statistically significant (estimate -0.39; 95% CI -0.99 to 0.21; p=0.18).\nUnqualified endorsement of consultation usefulness occurred in 5.0% of ratings, and full agreement with the proposed plan occurred in 7.6%.\nThe authors conclude that patient-specific clinical validity is inconsistent and support supervised adjunctive use only.",
+      "practice_change_ar": "لا ينبغي استخدام مخرجات AI لاتخاذ قرارات rhinoplasty أو تقديم توصيات مستقلة للمريض؛ يمكن استخدامها فقط كأداة مساعدة يراجعها الجراح.",
+      "practice_change_en": "AI outputs should not independently guide rhinoplasty decisions or patient recommendations; use them only as surgeon-reviewed adjuncts.",
+      "future_impact_ar": "قد تدعم نماذج AI مستقبلًا الاستشارة والمحاكاة إذا تحسنت دقتها الخاصة بالمريض وثبتت فائدتها سريريًا في دراسات أكبر.",
+      "future_impact_en": "AI models may support consultation and simulation in the future if patient-specific accuracy improves and clinical utility is established in larger studies.",
+      "why_important_ar": "توضح الدراسة أن المحاكاة الجذابة واللغة الواضحة قد تخفيان ضعفًا في ملاءمة الخطة الجراحية للمريض.",
+      "why_important_en": "The study shows that persuasive language and plausible simulations can coexist with poor patient-specific surgical planning.",
+      "vs_previous_ar": "بدلًا من افتراض أن جودة المحاكاة تعكس صلاحيتها، قارنت الدراسة بصورة معماة بين جودة النص والصورة وبين ملاءمة الخطة سريريًا.",
+      "vs_previous_en": "Rather than assuming that a convincing simulation is clinically valid, this blinded evaluation assessed both output quality and patient-specific plan appropriateness.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة تقييمية استعادية لـ20 حالة مع مراجعة خبراء معماة، وتقدم دليلًا جديدًا مفيدًا عن AI في facial plastics، لكن حجمها الصغير ومخرجات التقييم المحدودة لا يبرران تغيير الممارسة.",
+      "stars_reason_en": "This retrospective expert evaluation of 20 cases provides useful new evidence on AI in facial plastics, but its small sample and rating-based outcomes do not justify a practice change.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "موضوع AI في rhinoplasty مهم للنقاش، وتبرز النتائج الفجوة بين جودة المحاكاة الظاهرية والصلاحية السريرية الخاصة بالمريض.",
+      "jc_reason_en": "AI in rhinoplasty is timely, and the findings expose the gap between visually convincing simulations and patient-specific clinical validity.",
+      "watch": true,
+      "watch_detail_ar": "تستحق أدوات multimodal AI لمشاورات rhinoplasty ومحاكاتها المتابعة، مع ضرورة التحقق من دقتها السريرية قبل اعتمادها.",
+      "watch_detail_en": "Multimodal AI tools for rhinoplasty consultation and simulation merit tracking, but their clinical accuracy requires validation before adoption.",
+      "watch_type": "technology",
+      "research_gap_ar": "يلزم إجراء دراسات مستقبلية أكبر ومتعددة المراكز تقارن توصيات AI بالخطط والنتائج الجراحية الفعلية وتقيس أثرها على فهم المريض وقراراته.",
+      "research_gap_en": "Larger multicenter studies should compare AI recommendations with actual surgical plans and outcomes and assess effects on patient understanding and decisions.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نناقش اليوم دراسة بعنوان Multimodal AI for Rhinoplasty Consultation and Simulation، وهي تقييم معمى لمخرجات GPT-5.5 في مجال rhinoplasty. استخدم الباحثون صور ما قبل الجراحة لـ20 مريضًا، وأنشأ النظام استشارات ومحاكاة لنتائج ما بعد الجراحة. ثم قيّم أربعة facial plastic surgeons المخرجات من حيث المحتوى السريري، وجودة الصور، واتساق الخطة، وفائدة الاستشارة.\n\nكانت أبرز نقطة إيجابية وضوح اللغة، الذي حصل على 4.05 من 5. لكن التقييمات انخفضت في الجوانب الأكثر صلة بقرار الجراحة: ملاءمة الإجراءات سجلت 2.90، وتجنب الإجراءات غير الملائمة 2.59، والتوافق بين الخطة والمحاكاة 2.33. ولم يكن الفرق الأساسي بين تقييم النص والصورة ذا دلالة إحصائية. والأهم أن التأييد غير المشروط لفائدة الاستشارة ظهر في 5% فقط من التقييمات، بينما تحقق توافق كامل مع الخطة في 7.6%.\n\nهذه دراسة استعادية صغيرة، مبنية على تقييم خبراء لمخرجات النظام وليست تجربة تقيس نتائج المرضى أو أثر AI على القرارات السريرية. لذلك تقدم معرفة مهمة، لكنها لا تثبت أن استخدام النظام يحسن النتائج. الرسالة العملية هي أن اللغة الواضحة والصورة المقنعة لا تعنيان أن التوصية مناسبة لمريض بعينه. لا ينبغي أن يحل AI محل تقييم الجراح أو أن يقدم خطة مستقلة؛ ويمكن النظر إليه كأداة مساعدة تحت إشراف سريري.\n\nتستحق الدراسة النقاش في journal club لأنها تختبر تقنية ناشئة وتوضح ضرورة الفصل بين جودة العرض والصلاحية السريرية. وما زلنا بحاجة إلى دراسات أكبر ومتعددة المراكز تقارن توصيات AI بالخطط والنتائج الجراحية الفعلية، وتقيس أيضًا فهم المرضى وتأثير هذه المحاكاة على توقعاتهم وقراراتهم. وحتى تتوفر هذه الأدلة، تبقى multimodal AI تقنية جديرة بالمتابعة، لا أداة لاتخاذ القرار.",
+      "audio_script_en": "Today we are reviewing “Multimodal AI for Rhinoplasty Consultation and Simulation,” a blinded expert evaluation of GPT-5.5 outputs for rhinoplasty. The investigators used preoperative photographs from 20 patients to generate consultations and postoperative simulations. Four fellowship-trained facial plastic surgeons rated the outputs for clinical content, image quality, coherence, and consultation utility.\n\nThe strongest result was language clarity, which scored 4.05 out of 5. Ratings were lower on clinically consequential aspects: procedure appropriateness scored 2.90, avoidance of inappropriate procedures 2.59, and fidelity between the proposed plan and the simulation 2.33. The primary comparison between image and text domains was not statistically significant. Unqualified endorsement of consultation usefulness occurred in only 5% of assessments, and complete agreement with the proposed plan occurred in 7.6%.\n\nThis is a small retrospective evaluation based on expert ratings, not a trial measuring patient outcomes or the impact of AI on clinical decisions. It offers useful information but does not show that the tool improves outcomes. The practical message is that clear wording and a plausible image do not establish that a recommendation is appropriate for an individual patient. AI should not replace the surgeon’s assessment or produce an independent surgical plan; at most, it may be considered a supervised adjunct.\n\nThis paper merits journal-club discussion because it evaluates an emerging technology and highlights the difference between polished output and clinical validity. Larger multicenter studies are needed to compare AI recommendations with actual surgical plans and outcomes, and to assess how simulations affect patient understanding, expectations, and decisions. Until such evidence is available, multimodal AI is worth tracking, but it is not a decision-making tool for routine rhinoplasty care.",
+      "mcq": [
+        {
+          "q_ar": "ما الجانب الذي حصل على أعلى تقييم في مخرجات GPT-5.5؟",
+          "q_en": "Which aspect of the GPT-5.5 outputs received the highest rating?",
+          "options_ar": [
+            "أ) ملاءمة الإجراءات",
+            "ب) وضوح اللغة",
+            "ج) تجنب الإجراءات غير الملائمة",
+            "د) التوافق بين الخطة والمحاكاة"
+          ],
+          "options_en": [
+            "A) Procedure appropriateness",
+            "B) Language clarity",
+            "C) Avoidance of inappropriate procedures",
+            "D) Plan-to-simulation fidelity"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان وضوح اللغة الأعلى تقييمًا بمتوسط 4.05 من 5.",
+          "explanation_en": "Language clarity was the highest-rated domain, with a mean score of 4.05/5."
+        },
+        {
+          "q_ar": "كم بلغت نسبة التقييمات التي أظهرت توافقًا كاملًا مع الخطة الجراحية المقترحة؟",
+          "q_en": "What proportion of assessments showed full agreement with the proposed surgical plan?",
+          "options_ar": [
+            "أ) 5.0%",
+            "ب) 7.6%",
+            "ج) 22.0%",
+            "د) 78.8%"
+          ],
+          "options_en": [
+            "A) 5.0%",
+            "B) 7.6%",
+            "C) 22.0%",
+            "D) 78.8%"
+          ],
+          "answer": 1,
+          "explanation_ar": "حدث توافق كامل مع الخطة في 7.6% من التقييمات.",
+          "explanation_en": "Full agreement with the plan occurred in 7.6% of assessments."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب للاستخدام السريري لهذه التقنية وفقًا للدراسة؟",
+          "q_en": "What is the most appropriate clinical-use conclusion from this study?",
+          "options_ar": [
+            "أ) يمكن أن تحل محل تقييم الجراح",
+            "ب) يمكن اعتماد المحاكاة كخطة جراحية نهائية",
+            "ج) تُستخدم كأداة مساعدة تحت إشراف الجراح فقط",
+            "د) ثبت أنها تحسن نتائج rhinoplasty"
+          ],
+          "options_en": [
+            "A) It can replace the surgeon’s assessment",
+            "B) The simulation can be adopted as the definitive surgical plan",
+            "C) It should be used only as a surgeon-supervised adjunct",
+            "D) It has been shown to improve rhinoplasty outcomes"
+          ],
+          "answer": 2,
+          "explanation_ar": "خلصت الدراسة إلى أن الصلاحية السريرية الخاصة بالمريض غير متسقة، ما يدعم الاستخدام المساعد الخاضع للإشراف فقط.",
+          "explanation_en": "Because patient-specific clinical validity was inconsistent, the study supports supervised adjunctive use only."
+        }
+      ]
+    },
+    {
+      "pmid": "43066758",
+      "title_ar": "Association between statin use and postoperative recurrence in eosinophilic chronic rhinosinusitis: a single-center retrospective observational study.",
+      "title_en": "Association between statin use and postoperative recurrence in eosinophilic chronic rhinosinusitis: a single-center retrospective observational study.",
+      "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+      "pub_date": "2026-Nov-21",
+      "doi": "10.1007/s00405-026-10818-4",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43066758/",
+      "pdf_url": null,
+      "study_design": "Single-center retrospective observational study n=49",
+      "summary_ar": "قيّمت هذه الدراسة العلاقة بين استخدام statin وحدوث recurrence بعد FESS لدى مرضى ECRS. شملت الدراسة 49 مريضًا أكملوا متابعة لا تقل عن 6 أشهر، وكان 11 منهم يستخدمون statin. عُرّفت recurrence بالحاجة إلى revision surgery أو systemic oral corticosteroid أو local triamcinolone أو استخدام biologic therapy أو استحقاقها. كانت نسبة recurrence أقل لدى مستخدمي statin مقارنة بغير المستخدمين (27.3% مقابل 63.2%؛ OR 0.22؛ 95% CI 0.05–0.96؛ p-value=0.046). كان مستخدمو statin أكبر سنًا، وبعد ضبط التحليل إحصائيًا للعمر وasthma ضعفت العلاقة ولم تعد ذات دلالة إحصائية (adjusted OR 0.31؛ 95% CI 0.06–1.32؛ p-value=0.115). تشير النتائج إلى ارتباط محتمل، لكنها لا تثبت أن statin يمنع recurrence بسبب صغر العينة والتصميم الرصدي.",
+      "summary_en": [
+        "This study assessed the association between statin use and postoperative recurrence after FESS in patients with ECRS.",
+        "It included 49 patients with at least 6 months of follow-up; 11 were statin users.",
+        "Recurrence was defined by escalation to revision surgery, systemic oral corticosteroid, local triamcinolone, or biologic therapy use or eligibility.",
+        "Recurrence was less frequent among statin users than non-users (27.3% vs. 63.2%; OR 0.22; 95% CI 0.05–0.96; p=0.046).",
+        "Statin users were older, and adjustment for age and asthma attenuated the association, which was no longer statistically significant (adjusted OR 0.31; 95% CI 0.06–1.32; p=0.115).",
+        "The findings are hypothesis-generating and do not establish that statins prevent recurrence."
+      ],
+      "practice_change_ar": "لا تغيّر هذه النتائج الممارسة الحالية، ولا تبرر وصف statin لمنع recurrence بعد FESS.",
+      "practice_change_en": "These findings do not change current practice or justify prescribing statins to prevent recurrence after FESS.",
+      "future_impact_ar": "قد تدعم النتائج إجراء دراسات prospective متعددة المراكز لتحديد ما إذا كان statin يقلل recurrence لدى مرضى ECRS.",
+      "future_impact_en": "The findings may support prospective multicenter studies to determine whether statins reduce recurrence in ECRS.",
+      "why_important_ar": "تطرح الدراسة احتمالًا قابلًا للاختبار بأن الخصائص المضادة للالتهاب لـ statin قد ترتبط بانخفاض recurrence بعد الجراحة.",
+      "why_important_en": "The study raises a testable possibility that statins’ anti-inflammatory properties may be associated with less postoperative recurrence.",
+      "vs_previous_ar": "على خلاف المعرفة السريرية المعتادة التي لا تعدّ statin علاجًا لـ ECRS، تبحث هذه الدراسة ارتباط استخدامه بنتائج ما بعد الجراحة، دون أن تقدم دليلًا كافيًا لتغيير التوصيات.",
+      "vs_previous_en": "Unlike usual clinical practice, which does not regard statins as ECRS treatment, this study examines their association with postoperative outcomes but does not provide sufficient evidence to change recommendations.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة رصدية استعادية صغيرة من مركز واحد (n=49) في موضوع rhinology ذي صلة سريرية؛ أظهرت إشارة واعدة لكنها ضعفت بعد ضبط العمر وasthma، لذلك تقدم معرفة جديرة بالمتابعة لا دليلًا يغيّر الممارسة.",
+      "stars_reason_en": "This small single-center retrospective observational study (n=49) addresses a clinically relevant rhinology question. The promising association weakened after adjustment for age and asthma, making it useful to know but insufficient to change practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study merits discussion because the crude association differs from the adjusted result, the recurrence outcome is composite, and residual confounding is plausible in this small cohort.",
+      "watch": true,
+      "watch_detail_ar": "تتبّع الأبحاث المستقبلية حول استخدام statin في ECRS، إذ تشير هذه الدراسة الصغيرة إلى ارتباط محتمل بنتائج أفضل بعد FESS دون إثبات السببية.",
+      "watch_detail_en": "Track future research on statin use in ECRS: this small study suggests a possible association with better outcomes after FESS but does not establish causality.",
+      "watch_type": "drug",
+      "research_gap_ar": "هناك حاجة إلى دراسات prospective متعددة المراكز وأكبر حجمًا مع ضبط العوامل المربكة وتحديد نوع statin وجرعته ومدة استخدامه.",
+      "research_gap_en": "Larger prospective multicenter studies are needed to control confounding and characterize statin type, dose, and duration of use.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم دراسة تبحث سؤالًا غير معتاد في rhinology: هل يرتبط استخدام statin بانخفاض recurrence بعد FESS لدى مرضى ECRS؟ أهمية السؤال تنبع من أن ECRS كثيرًا ما يعود بعد الجراحة، وأن statin له خصائص مضادة للالتهاب، لكن فائدته السريرية في هذا السياق غير واضحة.\n\nهذه دراسة استعادية رصدية من مركز واحد، شملت 49 مريضًا أكملوا متابعة لا تقل عن ستة أشهر. كان 11 مريضًا، أي 22.4 بالمئة، يستخدمون statin. عرّف الباحثون recurrence بالحاجة إلى تصعيد العلاج، بما في ذلك revision surgery أو systemic oral corticosteroid أو local triamcinolone أو استخدام biologic therapy أو استحقاقها.\n\nكانت recurrence أقل لدى مستخدمي statin: 27.3 بالمئة مقابل 63.2 بالمئة لدى غير المستخدمين. بلغ OR الخام 0.22، مع 95% confidence interval من 0.05 إلى 0.96 وp-value تساوي 0.046. لكن مستخدمي statin كانوا أكبر سنًا، وعند ضبط التحليل للعمر وasthma، تضاءل الارتباط ولم يعد ذا دلالة إحصائية: adjusted OR 0.31، و95% confidence interval من 0.06 إلى 1.32، وp-value تساوي 0.115.\n\nالخلاصة العملية هي عدم تغيير الممارسة. لا تبرر هذه النتائج بدء statin بهدف منع recurrence بعد FESS؛ فالعدد صغير، والمتابعة محدودة، والتصميم الرصدي لا يثبت السببية. مع ذلك، تقدم الدراسة فرضية تستحق الاختبار، لذلك يمكن تتبع الأبحاث المستقبلية حول هذا الاستخدام الدوائي. الخطوة التالية المناسبة هي دراسة prospective متعددة المراكز، بعينة أكبر، مع توثيق نوع statin وجرعته ومدة استخدامه وضبط العوامل المربكة. هذه الورقة مناسبة لنادي المجلة لمناقشة أثر الالتباس، واختيار تعريف مركب لـ recurrence، والفرق بين الارتباط الخام والنتيجة المعدّلة.",
+      "audio_script_en": "Today’s rhinology paper asks an unusual question: is statin use associated with less postoperative recurrence after FESS in patients with ECRS? The question is relevant because ECRS often relapses after surgery, and statins have anti-inflammatory properties, but their clinical value in this setting is unclear.\n\nThis was a single-center retrospective observational study of 49 patients with at least six months of follow-up. Eleven patients, or 22.4%, used statins. Recurrence was defined as treatment escalation, including revision surgery, systemic oral corticosteroid, local triamcinolone, or use of or eligibility for biologic therapy.\n\nRecurrence occurred in 27.3% of statin users and 63.2% of non-users. The crude odds ratio was 0.22, with a 95% confidence interval of 0.05 to 0.96 and a p-value of 0.046. However, statin users were older. After adjustment for age and asthma, the association weakened and was no longer statistically significant: adjusted odds ratio 0.31, 95% confidence interval 0.06 to 1.32, and p-value 0.115.\n\nThe practical conclusion is not to change treatment. These results do not justify starting statins to prevent recurrence after FESS. The sample is small, follow-up is limited, and the observational design cannot establish causality. Still, the study offers a hypothesis worth testing, so future research on this drug application is worth tracking. Appropriate next steps would include larger prospective multicenter studies that document statin type, dose, and duration and account for confounding factors. This paper is suitable for journal club discussion, particularly around confounding, the composite recurrence definition, and the difference between crude and adjusted results.",
+      "mcq": [
+        {
+          "q_ar": "ما تعريف recurrence المستخدم في هذه الدراسة؟",
+          "q_en": "How was recurrence defined in this study?",
+          "options_ar": [
+            "أ) ظهور polyp في الفحص وحده",
+            "ب) الحاجة إلى تصعيد العلاج، مثل revision surgery أو corticosteroid أو biologic therapy",
+            "ج) استمرار الأعراض لأسبوع واحد",
+            "د) إعادة إجراء FESS لجميع المرضى"
+          ],
+          "options_en": [
+            "A) Detection of a polyp on examination alone",
+            "B) Need for treatment escalation, such as revision surgery, corticosteroid, or biologic therapy",
+            "C) Persistence of symptoms for one week",
+            "D) Repeat FESS for all patients"
+          ],
+          "answer": 1,
+          "explanation_ar": "شمل تعريف recurrence الحاجة إلى واحد من عدة أشكال لتصعيد العلاج، ومنها revision surgery وcorticosteroid وbiologic therapy.",
+          "explanation_en": "Recurrence meant the need for one of several treatment escalations, including revision surgery, corticosteroid, or biologic therapy."
+        },
+        {
+          "q_ar": "ماذا حدث للارتباط بين statin وrecurrence بعد ضبط العمر وasthma؟",
+          "q_en": "What happened to the association between statin use and recurrence after adjustment for age and asthma?",
+          "options_ar": [
+            "أ) أصبح أقوى وذا دلالة إحصائية",
+            "ب) لم يتغير",
+            "ج) ضعف ولم يعد ذا دلالة إحصائية",
+            "د) أثبت أن statin يسبب recurrence"
+          ],
+          "options_en": [
+            "A) It became stronger and statistically significant",
+            "B) It did not change",
+            "C) It weakened and was no longer statistically significant",
+            "D) It proved that statins cause recurrence"
+          ],
+          "answer": 2,
+          "explanation_ar": "انخفضت قوة الارتباط بعد الضبط، وأصبح adjusted p-value يساوي 0.115، لذا لم يعد ذا دلالة إحصائية.",
+          "explanation_en": "The association weakened after adjustment, with an adjusted p-value of 0.115, so it was no longer statistically significant."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن وصف statin لمنع recurrence بعد FESS؟",
+          "q_en": "What is the most appropriate conclusion about prescribing statins to prevent recurrence after FESS?",
+          "options_ar": [
+            "أ) ينبغي وصفه لكل مريض لديه ECRS",
+            "ب) ثبتت فعاليته في تجربة RCT",
+            "ج) لا تبرر النتائج تغيير الممارسة، وتبقى الفرضية بحاجة إلى دراسات أكبر",
+            "د) يجب إيقاف statin لدى جميع المرضى"
+          ],
+          "options_en": [
+            "A) It should be prescribed to every patient with ECRS",
+            "B) Its efficacy has been established in an RCT",
+            "C) The findings do not justify changing practice; the hypothesis needs larger studies",
+            "D) Statins should be stopped in all patients"
+          ],
+          "answer": 2,
+          "explanation_ar": "هذه دراسة استعادية صغيرة، والارتباط لم يبقَ ذا دلالة بعد الضبط؛ لذلك تُعد النتائج مولّدة للفرضيات ولا تثبت فائدة علاجية.",
+          "explanation_en": "This was a small retrospective study, and the association was not significant after adjustment; the findings are hypothesis-generating and do not prove treatment benefit."
+        }
+      ]
+    },
+    {
+      "pmid": "43065145",
+      "title_ar": "Advances in perioperative biologic therapy for chronic rhinosinusitis with nasal polyps",
+      "title_en": "Advances in perioperative biologic therapy for chronic rhinosinusitis with nasal polyps",
+      "journal": "Zhonghua er bi yan hou tou jing wai ke za zhi = Chinese journal of otorhinolaryngology head and neck surgery",
+      "pub_date": "2026-Nov-20",
+      "doi": "10.3760/cma.j.cn115330-20260619-00376",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43065145/",
+      "pdf_url": null,
+      "study_design": "Narrative review",
+      "summary_ar": "تستعرض هذه المراجعة دور biologics في تدبير chronic rhinosinusitis with nasal polyps (CRSwNP)، خصوصًا لدى المرضى ذوي type 2 inflammation المعرضين للنكس بعد standard medical therapy وendoscopic sinus surgery (ESS). وتناقش استخدام العلاج قبل الجراحة أو بعدها أو ضمن خطط علاجية متتابعة تجمع biologic therapy مع ESS. تشير المراجعة إلى أن biologics قد تساعد في ضبط الالتهاب المخاطي المستمر، بما يوسّع التدبير إلى ما يتجاوز debulking الجراحي وحده. لكنها تذكر أن التوقيت الأمثل، واختيار المرضى، ومدة العلاج، ومعايير تقييم الاستجابة لا تزال غير محسومة. كما تتناول السلامة والجدوى الاقتصادية، مع مراعاة inflammatory endotypes لدى المرضى الصينيين ووضع الموافقات التنظيمية والتغطية المالية في الصين. ولا يقدم الملخص نتائج كمية أو توصية محددة بتغيير الممارسة الحالية.",
+      "summary_en": "This review examines biologics for chronic rhinosinusitis with nasal polyps (CRSwNP), particularly in patients with type 2 inflammation who remain prone to recurrence after standard medical therapy and endoscopic sinus surgery (ESS).\nIt discusses preoperative, postoperative, and combined or sequential approaches integrating biologic therapy with ESS.\nBiologics may help control persistent mucosal inflammation, extending care beyond surgical debulking alone.\nHowever, optimal timing, patient selection, response assessment, and treatment duration remain uncertain.\nThe review also addresses safety and economic considerations, including Chinese inflammatory endotypes and the regulatory and reimbursement landscape in China.\nThe abstract provides no quantitative results or definitive recommendation to change current practice.",
+      "practice_change_ar": "لا تدعم المراجعة تغييرًا فوريًا في الممارسة، لكنها تشجع على تقييم biologics بصورة فردية لدى مرضى CRSwNP ذوي type 2 inflammation والنكس المتكرر.",
+      "practice_change_en": "The review does not support an immediate practice change, but encourages individualized consideration of biologics for patients with CRSwNP, type 2 inflammation, and recurrent disease.",
+      "future_impact_ar": "قد تساعد الأدلة المستقبلية في تحديد المرضى والتوقيت ومدة العلاج الأنسب لدمج biologics مع ESS.",
+      "future_impact_en": "Future evidence may clarify which patients benefit most and the optimal timing and duration of biologics integrated with ESS.",
+      "why_important_ar": "تتناول المراجعة سؤالًا سريريًا متزايد الأهمية حول دمج ضبط الالتهاب المناعي مع إعادة فتح الجيوب جراحيًا لدى مرضى CRSwNP.",
+      "why_important_en": "The review addresses an increasingly important clinical question: how to combine immune modulation with surgical restoration of sinus anatomy in CRSwNP.",
+      "vs_previous_ar": "بدل النظر إلى ESS بوصفها تدخلًا منفردًا لإزالة polyps، تعرض المراجعة نموذجًا متكاملًا يضم biologic therapy، مع الإقرار بأن الدليل لا يحسم بعد كيفية تطبيقه.",
+      "vs_previous_en": "Rather than treating ESS as stand-alone polyp debulking, the review presents an integrated model incorporating biologic therapy while acknowledging that implementation is not yet settled.",
+      "stars": 3,
+      "stars_reason_ar": "مراجعة سردية ذات صلة سريرية تجمع أدلة perioperative biologic therapy وESS، لكنها لا تقدم نتائج أصلية أو توصيات حاسمة؛ لذا فهي مفيدة للتحديث دون أن تغيّر الممارسة بحد ذاتها.",
+      "stars_reason_en": "This clinically relevant narrative review brings together evidence on perioperative biologics and ESS, but offers no original results or definitive recommendations; it is useful for keeping current rather than practice-changing.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This is suitable for discussion because patient selection, timing, and treatment duration remain unsettled, and regulatory approval and reimbursement vary across healthcare systems.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا تطور biologics لمرضى CRSwNP، إذ قد يغيّر دمجها مع ESS اختيار العلاج وتوقيته عند توافر أدلة أقوى.",
+      "watch_detail_en": "Track biologics for CRSwNP because integrating them with ESS may alter treatment selection and timing as stronger evidence emerges.",
+      "watch_type": "drug",
+      "research_gap_ar": "تلزم دراسات مقارنة مستقبلية تحدد المرشحين الأنسب ونتائج وتوقيت ومدة biologic therapy قبل ESS أو بعدها أو بالتزامن معها.",
+      "research_gap_en": "Prospective comparative studies are needed to identify the best candidates and establish outcomes, timing, and duration for biologic therapy before, after, or alongside ESS.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تتناول هذه المراجعة استخدام biologics حول وقت الجراحة لدى مرضى chronic rhinosinusitis with nasal polyps، أو CRSwNP. تركز على فئة مهمة سريريًا: المرضى الذين لديهم type 2 inflammation، ويستمر لديهم المرض أو ينكس رغم standard medical therapy وendoscopic sinus surgery، المعروفة اختصارًا بـ ESS.\n\nالفكرة الأساسية هي الانتقال من الاعتماد على debulking الجراحي وحده إلى نهج متكامل يجمع السيطرة على الالتهاب المناعي مع استعادة تشريح الجيوب. وتستعرض المراجعة عدة استراتيجيات: إعطاء biologic قبل ESS، أو بعد ESS، أو استخدام تسلسل يجمع العلاجين. وقد يكون هذا النهج مهمًا للمرضى ذوي الالتهاب المستمر أو النكس المتكرر، لكن الملخص لا يحدد دواءً بعينه ولا يقدم نتائج كمية تسمح بمقارنة الاستراتيجيات.\n\nالنقاط التي ما زالت غير محسومة تشمل من هم المرضى الأنسب للعلاج، ومتى يبدأ biologic بالنسبة إلى ESS، وكيف تقاس الاستجابة، وكم ينبغي أن تستمر المعالجة. كما تذكر المراجعة السلامة والجدوى الاقتصادية، وتلفت إلى خصوصية inflammatory endotypes لدى المرضى الصينيين وإلى وضع الموافقات التنظيمية والتغطية المالية في الصين.\n\nبالنسبة إلى الممارسة الحالية، لا تدعو هذه المراجعة إلى تغيير فوري أو إلى استخدام biologics روتينيًا حول الجراحة. لكنها تدعم التفكير الفردي في العلاج لدى مرضى CRSwNP ذوي type 2 inflammation والنكس المتكرر، مع مراعاة الأدلة المتاحة والكلفة والسياسات المحلية. لذلك فالثقة متوسطة: المقال مفيد لفهم اتجاه علاجي ناشئ، لكنه مراجعة سردية لا تقدم نتائج أصلية أو توصية حاسمة.\n\nالخلاصة أن دمج biologic therapy مع ESS مجال يستحق المتابعة، وأن الحاجة البحثية الأهم هي دراسات مقارنة مستقبلية تحدد المرضى المرشحين، والتوقيت، والمدة، والنتائج السريرية والاقتصادية.",
+      "audio_script_en": "This review examines perioperative biologics for chronic rhinosinusitis with nasal polyps, or CRSwNP. It focuses on a clinically important group: patients with type 2 inflammation who remain symptomatic or recur despite standard medical therapy and endoscopic sinus surgery, or ESS.\n\nThe central idea is to move beyond surgical debulking alone toward an integrated strategy that combines control of immune inflammation with restoration of sinus anatomy. The review considers several approaches: giving a biologic before ESS, after ESS, or using a planned sequence combining both treatments. This may be relevant for patients with persistent inflammation or repeated recurrence, but the abstract does not identify a specific drug or provide quantitative results to compare these strategies.\n\nImportant uncertainties remain. These include which patients are most likely to benefit, when biologic therapy should be started relative to ESS, how response should be assessed, and how long treatment should continue. The review also discusses safety and cost-effectiveness, and highlights Chinese inflammatory endotypes as well as the regulatory approval and reimbursement landscape in China.\n\nFor current practice, the review does not justify an immediate change or routine use of biologics around surgery. It does support individualized consideration for patients with CRSwNP, type 2 inflammation, and recurrent disease, taking available evidence, cost, and local policies into account. Confidence is therefore moderate: this is a useful overview of an emerging treatment strategy, but it is a narrative review without original results or definitive recommendations.\n\nThe main takeaway is that combining biologic therapy with ESS merits continued attention. The key research need is prospective comparative evidence establishing candidate selection, treatment timing and duration, and clinical and economic outcomes.",
+      "mcq": [
+        {
+          "q_ar": "ما الفئة التي تركز عليها المراجعة بوصفها معرضة لاستمرار المرض أو النكس رغم العلاج المعتاد وESS؟",
+          "q_en": "Which patient group does the review identify as prone to persistent disease or recurrence despite standard treatment and ESS?",
+          "options_ar": [
+            "أ) مرضى CRSwNP ذوو type 2 inflammation",
+            "ب) جميع مرضى rhinitis دون polyps",
+            "ج) مرضى acute sinusitis فقط",
+            "د) مرضى otitis media المزمن"
+          ],
+          "options_en": [
+            "A) Patients with CRSwNP and type 2 inflammation",
+            "B) All patients with rhinitis without polyps",
+            "C) Patients with acute sinusitis only",
+            "D) Patients with chronic otitis media"
+          ],
+          "answer": 0,
+          "explanation_ar": "تسلط المراجعة الضوء على مرضى CRSwNP ذوي type 2 inflammation الذين قد ينكسون رغم standard medical therapy وESS.",
+          "explanation_en": "The review focuses on patients with CRSwNP and type 2 inflammation who may recur despite standard medical therapy and ESS."
+        },
+        {
+          "q_ar": "أي جانب من perioperative biologic therapy لا يزال غير محسوم وفق الملخص؟",
+          "q_en": "Which aspect of perioperative biologic therapy remains uncertain according to the abstract?",
+          "options_ar": [
+            "أ) وجود CRSwNP كمرض سريري",
+            "ب) التوقيت الأمثل واختيار المرضى ومدة العلاج",
+            "ج) إمكانية إجراء ESS",
+            "د) أن الالتهاب قد يكون من type 2"
+          ],
+          "options_en": [
+            "A) Whether CRSwNP is a clinical disease",
+            "B) Optimal timing, patient selection, and treatment duration",
+            "C) Whether ESS can be performed",
+            "D) Whether inflammation can be type 2"
+          ],
+          "answer": 1,
+          "explanation_ar": "يصرح الملخص بأن التوقيت الأمثل، ودمج biologics مع ESS، والمرشحين المناسبين، ومدة العلاج ما زالت غير مؤكدة.",
+          "explanation_en": "The abstract states that optimal timing, integration with ESS, appropriate candidates, and treatment duration remain uncertain."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب حول أثر هذه المراجعة على الممارسة الحالية؟",
+          "q_en": "What is the most appropriate conclusion about this review's impact on current practice?",
+          "options_ar": [
+            "أ) تثبت ضرورة استخدام biologics روتينيًا قبل كل ESS",
+            "ب) تقدم نتائج كمية تحسم أفضل دواء",
+            "ج) تعرض نهجًا واعدًا، لكن لا تحسم تغيير الممارسة",
+            "د) توصي بإيقاف ESS لدى جميع المرضى"
+          ],
+          "options_en": [
+            "A) It establishes that biologics should be used routinely before every ESS",
+            "B) It provides quantitative results identifying the best drug",
+            "C) It presents a promising approach but does not establish a practice change",
+            "D) It recommends stopping ESS for all patients"
+          ],
+          "answer": 2,
+          "explanation_ar": "المراجعة تلخص مجالًا علاجيًا واعدًا وتوضح فجوات المعرفة، لكنها لا تقدم نتائج كمية أو توصية حاسمة بتغيير الممارسة.",
+          "explanation_en": "The review summarizes a promising treatment area and its evidence gaps, but provides neither quantitative results nor a definitive practice-changing recommendation."
+        }
+      ]
+    },
+    {
+      "pmid": "43063986",
+      "title_ar": "Antibiotic Prophylaxis in Facial Plastics: A Systematic Review and Meta-Analysis.",
+      "title_en": "Antibiotic Prophylaxis in Facial Plastics: A Systematic Review and Meta-Analysis.",
+      "journal": "Facial plastic surgery : FPS",
+      "pub_date": "2026-Nov-20",
+      "doi": "10.1055/a-3010-5633",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43063986/",
+      "pdf_url": null,
+      "study_design": "Systematic review and meta-analysis, 41 studies, 243,454 patients",
+      "summary_ar": "شملت هذه systematic review وmeta-analysis عدد 41 دراسة و243,454 مريضًا خضعوا لإجراءات facial plastic surgery. ارتبطت جرعة واحدة perioperative من antibiotic prophylaxis بانخفاض SSI مقارنةً بعدم استخدام antibiotics (OR 0.47, 95% CI 0.25–0.86). كما أظهر تحليل أي prophylaxis انخفاضًا في SSI مقارنةً بعدم إعطائه (OR 0.55, 95% CI 0.33–0.93). لم تضف extended-course regimens فائدة مقارنةً بجرعة واحدة (OR 0.92, 95% CI 0.63–1.34; I²=0%). لم تختلف التأثيرات بصورة ملحوظة حسب procedure type. تدعم النتائج اعتماد جرعة perioperative واحدة كخيار افتراضي يوازن بين الوقاية من SSI وantibiotic stewardship.",
+      "summary_en": "This systematic review and meta-analysis included 41 studies and 243,454 patients undergoing facial plastic surgery.\nA single perioperative dose of antibiotic prophylaxis reduced SSI compared with no antibiotics (OR 0.47, 95% CI 0.25–0.86).\nAny prophylaxis also reduced SSI compared with no prophylaxis (OR 0.55, 95% CI 0.33–0.93).\nExtended-course regimens did not provide additional benefit over a single dose (OR 0.92, 95% CI 0.63–1.34; I²=0%).\nThe effect did not differ significantly by procedure type.\nThe findings support a single perioperative dose as the stewardship-preferred default.",
+      "practice_change_ar": "استخدموا جرعة واحدة perioperative من antibiotic prophylaxis كخيار افتراضي في facial plastic surgery بدلًا من extended-course regimens، ما لم توجد أسباب سريرية خاصة.",
+      "practice_change_en": "Use a single perioperative dose of antibiotic prophylaxis as the default in facial plastic surgery rather than an extended course, unless patient-specific clinical factors warrant otherwise.",
+      "future_impact_ar": "قد تساعد هذه النتائج في توحيد بروتوكولات prophylaxis وتقليل التعرض غير الضروري لـ antibiotics، مع الحاجة إلى دراسات مستقبلية عالية الجودة لتحديد الفئات والإجراءات ذات المخاطر الخاصة.",
+      "future_impact_en": "These findings may help standardize prophylaxis protocols and reduce unnecessary antibiotic exposure, while further high-quality studies clarify risks in specific patient and procedure groups.",
+      "why_important_ar": "تتناول الدراسة تفاوتًا شائعًا في وصف antibiotics وتوفر دليلًا واسع النطاق يدعم الوقاية بجرعة واحدة دون إطالة العلاج.",
+      "why_important_en": "The study addresses widely varying antibiotic practices and provides large-scale evidence supporting single-dose prophylaxis without prolonged treatment.",
+      "vs_previous_ar": "على خلاف الممارسات المتباينة والأدلة السابقة المحدودة عبر الإجراءات، تجمع هذه المراجعة نتائج إجراءات facial plastics متعددة وتجد أن الجرعات الممتدة لا تضيف فائدة واضحة.",
+      "vs_previous_en": "Unlike variable practices and narrower prior evidence, this review synthesizes findings across facial plastic procedures and finds no clear added benefit from extended regimens.",
+      "stars": 4,
+      "stars_reason_ar": "هذه systematic review وmeta-analysis كبيرة تدعم تغييرًا عمليًا نحو جرعة واحدة، لكن محدودية رتبة المجلة المعروفة وتفاوت الدراسات يخفضان التقييم عن الحد الأقصى.",
+      "stars_reason_en": "This large systematic review and meta-analysis supports a practical shift to single-dose prophylaxis, but the journal's limited tier recognition and heterogeneity across studies keep it below the maximum score.",
+      "confidence": "🟢",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "موضوع مناسب للنقاش لأنه يجمع نتائج عدد كبير من المرضى ويقارن مباشرةً بين جرعة واحدة ودورات antibiotics الممتدة، مع أثر محتمل على stewardship والممارسة اليومية.",
+      "jc_reason_en": "This is suitable for journal club because it synthesizes a large patient population, directly compares single-dose and extended antibiotic regimens, and may affect routine practice and stewardship.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تظل الحاجة قائمة إلى دراسات مستقبلية عالية الجودة لتحديد أثر prophylaxis بحسب نوع الإجراء وعوامل خطورة المريض، وتقييم معدلات SSI ومقاومة antibiotics.",
+      "research_gap_en": "Further high-quality studies should define prophylaxis effects by procedure and patient risk, while evaluating SSI rates and antibiotic resistance.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "مرحبًا بكم في ORL Daily. نناقش اليوم دراسة بعنوان «Antibiotic Prophylaxis in Facial Plastics: A Systematic Review and Meta-Analysis». تهدف هذه الدراسة إلى تقييم تأثير antibiotic prophylaxis على surgical site infection، أو SSI، ومقارنة جرعة واحدة perioperative بالعلاج الممتد.\n\nجمع الباحثون الأدلة وفق PRISMA 2020، وشملوا قواعد بيانات متعددة، ثم أجروا meta-analysis باستخدام random-effects models. بلغ إجمالي الدراسات 41، وعدد المرضى 243,454، مع تقييم خطر التحيز ودرجة اليقين باستخدام أدوات معتمدة.\n\nالنتيجة الأهم هي أن جرعة واحدة perioperative ارتبطت بانخفاض SSI مقارنةً بعدم إعطاء antibiotics؛ إذ بلغ OR 0.47، مع 95% confidence interval من 0.25 إلى 0.86. وعند مقارنة أي prophylaxis بعدم إعطائه، كان OR 0.55، مع 95% confidence interval من 0.33 إلى 0.93. في المقابل، لم يظهر extended-course regimen فائدة إضافية على جرعة واحدة؛ وكان OR 0.92، و95% confidence interval من 0.63 إلى 1.34، مع I² يساوي صفرًا. كذلك لم تختلف النتائج بصورة ملحوظة باختلاف procedure type.\n\nما الذي يعنيه ذلك للممارسة؟ تدعم النتائج استخدام جرعة واحدة perioperative كخيار افتراضي في facial plastic surgery، بدلًا من وصف antibiotics لفترة ممتدة، ما لم تفرض حالة المريض أو ظروف الإجراء قرارًا مختلفًا. وهذا يتماشى مع antibiotic stewardship، إذ قد يحد من التعرض غير الضروري للأدوية دون التضحية بالوقاية من SSI.\n\nتكتسب الدراسة أهميتها من حجمها وتناولها طيفًا واسعًا من الإجراءات، لكنها لا تلغي الحاجة إلى تقدير المخاطر الفردية، كما أن جودة النتائج تتأثر بتنوع الدراسات المشمولة. ومن الفجوات البحثية تحديد الفئات عالية الخطورة والإجراءات التي قد تستفيد من بروتوكولات مختلفة، إضافةً إلى دراسة مقاومة antibiotics. الخلاصة: جرعة perioperative واحدة هي الخيار المدعوم كافتراضي، بينما لا يظهر أن العلاج الممتد يضيف فائدة روتينية.",
+      "audio_script_en": "Welcome to ORL Daily. Today we review “Antibiotic Prophylaxis in Facial Plastics: A Systematic Review and Meta-Analysis.” The authors set out to assess whether antibiotic prophylaxis reduces surgical site infection, or SSI, and whether extended regimens offer an advantage over a single perioperative dose.\n\nUsing a PRISMA 2020 approach, the investigators searched several major databases and pooled odds ratios with random-effects models. The review included 41 studies and 243,454 patients. The authors also assessed risk of bias and certainty of evidence using established methods.\n\nThe key finding is that a single perioperative dose was associated with fewer SSIs than no antibiotics: the odds ratio was 0.47, with a 95% confidence interval of 0.25 to 0.86. Any prophylaxis, compared with none, was also associated with reduced SSI, with an odds ratio of 0.55 and a 95% confidence interval of 0.33 to 0.93. However, extended-course regimens did not add benefit over a single dose. The odds ratio was 0.92, with a 95% confidence interval of 0.63 to 1.34, and I-squared was zero percent. The review also found no significant difference in effects by procedure type.\n\nFor current practice, these findings support a single perioperative dose as the default approach in facial plastic surgery rather than routinely prescribing an extended course. This is consistent with antibiotic stewardship: limiting unnecessary exposure while retaining the observed preventive benefit. Individual patient factors and procedure-specific circumstances may still justify a tailored decision.\n\nThe article matters because it brings together a large patient population across a broad range of facial plastic procedures, addressing substantial variation in prescribing practices. Its conclusions should nevertheless be interpreted in light of differences among the included studies and the need to identify patients or procedures with distinct risk profiles. Further high-quality research could clarify those subgroups and examine antibiotic resistance. The take-home message is straightforward: single-dose prophylaxis is supported as the stewardship-preferred default, and routine extended courses have no demonstrated additional benefit.",
+      "mcq": [
+        {
+          "q_ar": "ما أثر جرعة واحدة perioperative من antibiotic prophylaxis مقارنةً بعدم إعطائه على SSI؟",
+          "q_en": "What was the effect of a single perioperative dose of antibiotic prophylaxis compared with no antibiotics on SSI?",
+          "options_ar": [
+            "أ) خفضت SSI، مع OR 0.47",
+            "ب) زادت SSI، مع OR 1.47",
+            "ج) لم تغير SSI، مع OR 1.00",
+            "د) خفضت SSI فقط عند extended-course regimens"
+          ],
+          "options_en": [
+            "A) It reduced SSI, with an OR of 0.47",
+            "B) It increased SSI, with an OR of 1.47",
+            "C) It did not change SSI, with an OR of 1.00",
+            "D) It reduced SSI only with extended-course regimens"
+          ],
+          "answer": 0,
+          "explanation_ar": "ارتبطت جرعة واحدة perioperative بانخفاض SSI مقارنةً بعدم إعطاء antibiotics؛ كان OR 0.47 و95% CI 0.25–0.86.",
+          "explanation_en": "A single perioperative dose was associated with reduced SSI versus no antibiotics; the OR was 0.47 (95% CI 0.25–0.86)."
+        },
+        {
+          "q_ar": "ما النتيجة المتعلقة بـ extended-course regimens مقارنةً بجرعة واحدة؟",
+          "q_en": "What did the review find about extended-course regimens compared with a single dose?",
+          "options_ar": [
+            "أ) خفضت SSI بدرجة كبيرة",
+            "ب) لم تقدم فائدة إضافية واضحة",
+            "ج) كانت ضارة في جميع الإجراءات",
+            "د) لم تُدرس في المراجعة"
+          ],
+          "options_en": [
+            "A) They substantially reduced SSI",
+            "B) They provided no clear additional benefit",
+            "C) They were harmful in all procedures",
+            "D) They were not assessed in the review"
+          ],
+          "answer": 1,
+          "explanation_ar": "لم تظهر فائدة إضافية للـ extended-course regimens؛ كان OR 0.92 و95% CI 0.63–1.34.",
+          "explanation_en": "Extended-course regimens showed no additional benefit; the OR was 0.92 (95% CI 0.63–1.34)."
+        },
+        {
+          "q_ar": "ما الخيار الافتراضي الذي تدعمه الدراسة في facial plastic surgery؟",
+          "q_en": "Which default approach does the study support in facial plastic surgery?",
+          "options_ar": [
+            "أ) عدم استخدام prophylaxis في أي إجراء",
+            "ب) extended-course antibiotics لجميع المرضى",
+            "ج) جرعة واحدة perioperative مع مراعاة عوامل المريض",
+            "د) اختيار regimen بحسب procedure type فقط"
+          ],
+          "options_en": [
+            "A) No prophylaxis for any procedure",
+            "B) Extended-course antibiotics for all patients",
+            "C) A single perioperative dose, considering patient factors",
+            "D) Choosing a regimen based only on procedure type"
+          ],
+          "answer": 2,
+          "explanation_ar": "تدعم النتائج جرعة واحدة perioperative كخيار افتراضي يراعي antibiotic stewardship، مع تخصيص القرار عند وجود أسباب سريرية.",
+          "explanation_en": "The findings support a single perioperative dose as the default consistent with antibiotic stewardship, with individualization when clinically warranted."
+        }
+      ]
+    },
+    {
+      "pmid": "43066620",
+      "title_ar": "Real-world effectiveness of mepolizumab for the treatment of severe asthma with overlapping eosinophilic comorbidities",
+      "title_en": "Real-world effectiveness of mepolizumab for the treatment of severe asthma with overlapping eosinophilic comorbidities",
+      "journal": "International archives of allergy and immunology",
+      "pub_date": "2026-Nov-21",
+      "doi": "10.1159/iaa/adfag049",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43066620/",
+      "pdf_url": null,
+      "study_design": "Retrospective single-center case series n=25",
+      "summary_ar": "درست هذه الدراسة بأثر رجعي 25 مريضًا لديهم severe eosinophilic asthma وأمراض eosinophilic مرافقة، منها eosinophilic granulomatosis with polyangiitis وchronic eosinophilic pneumonia وallergic bronchopulmonary aspergillosis وeosinophilic chronic rhinosinusitis/eosinophilic otitis media. بعد 16 أسبوعًا من mepolizumab، انخفض median peripheral blood eosinophil count من 745 إلى 44/µL، وانخفض median oral corticosteroid dose من 7.5 إلى 4.0 mg/day. ارتفع median Asthma Control Test score من 18 إلى 23، كما ارتفع forced expiratory volume in 1 s من 1.89 إلى 2.08 L. حقق 19 مريضًا (76%) استجابة Excellent أو Good وفق Global Evaluation of Treatment Effectiveness. واصل 18 مريضًا العلاج حتى Month 12، بينما لم تتوفر متابعة مريض واحد؛ أما بعض ذوي الاستجابة Moderate أو Poor فحوّلوا إلى biologic آخر أو أوقفوا العلاج. تشير النتائج إلى تحسن محتمل في asthma وتقليل الحاجة إلى oral corticosteroids لدى هذه الفئة، لكن تصميم الدراسة الصغير وغير المضبوط لا يثبت السببية ولا يحدد الفعالية الخاصة بكل comorbidity.",
+      "summary_en": "This retrospective, single-center study evaluated 25 patients with severe eosinophilic asthma and overlapping eosinophilic disorders, including eosinophilic granulomatosis with polyangiitis, chronic eosinophilic pneumonia, allergic bronchopulmonary aspergillosis, and eosinophilic chronic rhinosinusitis/eosinophilic otitis media. After 16 weeks of mepolizumab, median peripheral blood eosinophil counts fell from 745 to 44/µL, and median oral corticosteroid doses fell from 7.5 to 4.0 mg/day. Median Asthma Control Test scores increased from 18 to 23, while forced expiratory volume in 1 s rose from 1.89 to 2.08 L. Nineteen patients (76%) had an Excellent or Good response on the Global Evaluation of Treatment Effectiveness. Eighteen patients continued treatment through Month 12; among patients with Moderate or Poor responses, several switched biologics or discontinued treatment. These findings suggest potential benefit across overlapping eosinophilic conditions, but the small uncontrolled design cannot establish causality or determine effects for individual comorbidities.",
+      "practice_change_ar": "لا تغيّر هذه الدراسة الممارسة وحدها، لكنها تدعم تقييم الاستجابة إلى mepolizumab بعد 16 أسبوعًا والنظر في تعديل biologic عند ضعف التحسن.",
+      "practice_change_en": "This study alone does not change practice, but it supports assessing response to mepolizumab at 16 weeks and considering a biologic change when improvement is inadequate.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية أكبر ومتعددة المراكز في تحديد أي المرضى ذوي comorbidities الأنفية والأذنية يستفيدون أكثر من mepolizumab.",
+      "future_impact_en": "Larger multicenter studies may clarify which patients with sinonasal and otologic comorbidities benefit most from mepolizumab.",
+      "why_important_ar": "تقدم الدراسة بيانات من الممارسة الواقعية عن علاج asthma الشديد عندما يتزامن مع أمراض eosinophilic تشمل chronic rhinosinusitis وotitis media.",
+      "why_important_en": "The study adds real-world data on treating severe asthma alongside eosinophilic disorders that include chronic rhinosinusitis and otitis media.",
+      "vs_previous_ar": "على خلاف الأدلة العامة حول mepolizumab في severe eosinophilic asthma، تصف هذه الدراسة نتائج مجموعة صغيرة لديها أمراض eosinophilic متداخلة، لكنها لا تقارن العلاج ببديل.",
+      "vs_previous_en": "Unlike broader evidence for mepolizumab in severe eosinophilic asthma, this study describes outcomes in a small group with overlapping eosinophilic disorders, without a comparator.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة استعادية أحادية المركز شملت 25 مريضًا؛ أظهرت تحسنًا سريريًا مفيدًا في مجموعة تشمل comorbidities أنفية وأذنية، لكن صغر العينة وغياب مجموعة مقارنة يحدان من قوة الاستنتاج والتأثير على الممارسة.",
+      "stars_reason_en": "This retrospective, single-center study included 25 patients and found clinically useful improvement in a group that included sinonasal and otologic comorbidities, but its small size and lack of a comparator limit certainty and practice impact.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it examines a biologic in overlapping eosinophilic disorders relevant to ENT and raises questions about patient selection and when to change treatment.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا mepolizumab بوصفه anti-IL-5 biologic قد يؤثر في مسار المرض لدى مرضى asthma مع eosinophilic chronic rhinosinusitis أو eosinophilic otitis media.",
+      "watch_detail_en": "Track mepolizumab as an anti-IL-5 biologic that may affect disease course in patients with asthma and eosinophilic chronic rhinosinusitis or eosinophilic otitis media.",
+      "watch_type": "drug",
+      "research_gap_ar": "يلزم إجراء دراسة مستقبلية متعددة المراكز مع مجموعة مقارنة ونتائج ENT محددة لتقييم أثر mepolizumab على eosinophilic chronic rhinosinusitis وeosinophilic otitis media.",
+      "research_gap_en": "A prospective multicenter study with a comparator and ENT-specific outcomes is needed to evaluate mepolizumab for eosinophilic chronic rhinosinusitis and eosinophilic otitis media.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نراجع اليوم دراسة عن mepolizumab لدى مرضى severe eosinophilic asthma مع أمراض eosinophilic تصيب أعضاء أخرى، بما فيها أمراض ذات صلة مباشرة بطب الأنف والأذن: eosinophilic chronic rhinosinusitis وeosinophilic otitis media.\n\nهذه دراسة استعادية أحادية المركز شملت 25 مريضًا. قيّم الباحثون Asthma Control Test، وforced expiratory volume in 1 s، وperipheral blood eosinophil counts، وجرعات oral corticosteroids عند البداية وبعد 16 أسبوعًا. كما قيّموا الاستجابة باستخدام Global Evaluation of Treatment Effectiveness، وتابعوا مسار العلاج حتى 12 شهرًا.\n\nبعد 16 أسبوعًا، انخفض median eosinophil count من 745 إلى 44 لكل microliter، وانخفض median جرعة oral corticosteroid من 7.5 إلى 4.0 milligrams يوميًا. تحسن median Asthma Control Test من 18 إلى 23، وارتفع forced expiratory volume in 1 s من 1.89 إلى 2.08 liters. صُنّف 19 مريضًا، أي 76%، ضمن استجابة Excellent أو Good. استمر معظم هؤلاء على mepolizumab حتى Month 12. وبين المرضى ذوي الاستجابة الأقل، انتقل بعضهم إلى biologic آخر، بينما أوقف أحدهم العلاج، واستمر مريض واحد مع تحسن متأخر.\n\nما أهمية ذلك لفرق ENT؟ توفر النتائج إشارة واقعية إلى أن السيطرة على eosinophilic inflammation باستخدام mepolizumab قد تتزامن مع تحسن asthma لدى مرضى لديهم أمراض أنفية أو أذنية eosinophilic. لكن الدراسة لم تقدم تحليلًا مستقلًا لنتائج الأنف أو الأذن، ولا تسمح بإثبات أن التحسن سببه الدواء. حجم العينة صغير، والدراسة غير مضبوطة ومن مركز واحد.\n\nالخلاصة العملية: هذه النتائج لا تبرر تغيير الممارسة بمفردها، لكنها تدعم تقييم الاستجابة إلى mepolizumab عند نحو 16 أسبوعًا بالتعاون مع اختصاصيي asthma، مع إعادة النظر في biologic إذا لم تكن الاستجابة كافية. الثقة متوسطة، والدراسة مفيدة للنقاش السريري ومتابعة الدواء، لا لإصدار توصية حاسمة. نحتاج إلى دراسات مستقبلية متعددة المراكز تتضمن مقاييس ENT واضحة، مثل نتائج chronic rhinosinusitis وotitis media، لتحديد الفائدة الخاصة بهذه الأمراض.",
+      "audio_script_en": "Today’s review examines mepolizumab in patients with severe eosinophilic asthma and eosinophilic disorders affecting other organs, including conditions directly relevant to ENT: eosinophilic chronic rhinosinusitis and eosinophilic otitis media.\n\nThis was a retrospective, single-center study of 25 patients. The investigators assessed Asthma Control Test scores, forced expiratory volume in 1 s, peripheral blood eosinophil counts, and oral corticosteroid doses at baseline and after 16 weeks. They also assessed response using the Global Evaluation of Treatment Effectiveness and examined treatment course for up to 12 months.\n\nAt 16 weeks, median eosinophil counts fell from 745 to 44 per microliter, and median oral corticosteroid doses fell from 7.5 to 4.0 milligrams per day. Median Asthma Control Test scores improved from 18 to 23, while forced expiratory volume in 1 s increased from 1.89 to 2.08 liters. Nineteen patients, or 76%, were rated as having an Excellent or Good response. Most continued mepolizumab through Month 12. Among patients with less favorable responses, some switched to another biologic, one discontinued biologic treatment, and one continued mepolizumab with delayed improvement.\n\nWhy does this matter to ENT clinicians? The findings provide a real-world signal that treating eosinophilic inflammation with mepolizumab may coincide with improved asthma control in patients who also have eosinophilic sinonasal or otologic disease. However, the study did not report separate, detailed ENT outcomes and cannot show that the drug caused the observed improvements. It was small, uncontrolled, and conducted at a single center.\n\nThe practical takeaway is that these results do not, by themselves, justify changing practice. They do support assessing response to mepolizumab at around 16 weeks in collaboration with asthma specialists and reconsidering the biologic if improvement is inadequate. Confidence is moderate: this is useful for clinical discussion and drug monitoring, not a basis for a definitive recommendation. Prospective multicenter studies with clear ENT outcomes for chronic rhinosinusitis and otitis media are needed to establish condition-specific benefit.",
+      "mcq": [
+        {
+          "q_ar": "ما نوع تصميم الدراسة؟",
+          "q_en": "What was the study design?",
+          "options_ar": [
+            "أ) RCT متعدد المراكز",
+            "ب) دراسة استعادية أحادية المركز",
+            "ج) مراجعة منهجية",
+            "د) دراسة حيوانية"
+          ],
+          "options_en": [
+            "A) Multicenter RCT",
+            "B) Retrospective single-center study",
+            "C) Systematic review",
+            "D) Animal study"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت الدراسة استعادية وأُجريت في مركز واحد وشملت 25 مريضًا.",
+          "explanation_en": "The study was retrospective, conducted at one center, and included 25 patients."
+        },
+        {
+          "q_ar": "متى قُيّمت الاستجابة الأساسية إلى mepolizumab؟",
+          "q_en": "When was the primary response to mepolizumab assessed?",
+          "options_ar": [
+            "أ) بعد 4 أسابيع",
+            "ب) بعد 8 أسابيع",
+            "ج) بعد 16 أسبوعًا",
+            "د) بعد 24 شهرًا"
+          ],
+          "options_en": [
+            "A) At 4 weeks",
+            "B) At 8 weeks",
+            "C) At 16 weeks",
+            "D) At 24 months"
+          ],
+          "answer": 2,
+          "explanation_ar": "قُيّمت المؤشرات السريرية وGlobal Evaluation of Treatment Effectiveness عند week 16.",
+          "explanation_en": "Clinical measures and the Global Evaluation of Treatment Effectiveness were assessed at week 16."
+        },
+        {
+          "q_ar": "أي عبارة تصف أحد القيود المهمة للدراسة؟",
+          "q_en": "Which statement describes an important study limitation?",
+          "options_ar": [
+            "أ) لم تتضمن أي متابعة سريرية",
+            "ب) كانت دراسة استعادية صغيرة بلا مجموعة مقارنة",
+            "ج) اقتصرت على مرضى دون asthma",
+            "د) لم تقِس eosinophil counts"
+          ],
+          "options_en": [
+            "A) It included no clinical follow-up",
+            "B) It was a small retrospective study without a comparator",
+            "C) It was limited to patients without asthma",
+            "D) It did not measure eosinophil counts"
+          ],
+          "answer": 1,
+          "explanation_ar": "صغر العينة والتصميم الاستعادي غير المضبوط يحدان من الاستدلال على السببية والتعميم.",
+          "explanation_en": "The small sample and uncontrolled retrospective design limit causal inference and generalizability."
+        }
+      ]
+    },
+    {
+      "pmid": "43064545",
+      "title_ar": "Male Hypogonadism is Associated with Increased Dysphonia.",
+      "title_en": "Male Hypogonadism is Associated with Increased Dysphonia.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Nov-20",
+      "doi": "10.1016/j.jvoice.2026.11.011",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43064545/",
+      "pdf_url": "https://doi.org/10.1016/j.jvoice.2026.11.011",
+      "study_design": "Retrospective propensity score-matched database cohort",
+      "summary_ar": "قيّمت هذه الدراسة ارتباط male hypogonadism باضطرابات الصوت لدى رجال بعمر 50 سنة أو أكثر في قاعدة بيانات TriNetX، مع مقارنتهم بمجموعة eugonadal matched حسب العمر. عُرّف male hypogonadism بمستوى serum testosterone أقل من 300 ng/dL. بعد propensity score matching، ارتبط male hypogonadism بزيادة odds of dysphonia أو vocal fold pathology (OR 1.20، 95% CI 1.11–1.29). كما ارتبط بزيادة إجراء flexible laryngoscopy أو voice evaluation (OR 1.14، 95% CI 1.07–1.22). وكانت odds of injection laryngoscopy أو voice therapy أعلى أيضًا (OR 1.21، 95% CI 1.08–1.35). تشير النتائج إلى ارتباط سريري، لكنها لا تثبت أن انخفاض testosterone يسبب dysphonia أو أن علاجه يحسن الصوت.",
+      "summary_en": "This retrospective TriNetX study compared men aged 50 years or older with hypogonadism, defined as serum testosterone below 300 ng/dL, with age-matched eugonadal controls. Propensity score matching was used to adjust for demographic and clinical covariates. Hypogonadism was associated with higher odds of diagnosed dysphonia or other vocal fold pathology (OR 1.20, 95% CI 1.11–1.29). It was also associated with increased odds of flexible laryngoscopy or voice evaluation (OR 1.14, 95% CI 1.07–1.22). Odds of injection laryngoscopy or voice therapy were higher as well (OR 1.21, 95% CI 1.08–1.35). The observational findings establish an association, not causation, and do not show that testosterone treatment improves voice.",
+      "practice_change_ar": "لا تغيّر النتائج الممارسة الحالية؛ يمكن أخذ hypogonadism في الحسبان ضمن التقييم السريري لرجل أكبر سنًا لديه dysphonia، دون اعتبارها سببًا مثبتًا أو بدء testosterone لعلاج الصوت.",
+      "practice_change_en": "These findings do not change current practice; hypogonadism may be considered in the clinical context of an older man with dysphonia, but is not a proven cause and does not justify testosterone treatment for voice.",
+      "future_impact_ar": "قد تدعم النتائج دراسات مستقبلية لتحديد ما إذا كان testosterone يؤثر سببيًا في وظيفة الصوت وما إذا كان علاجه يحسنها.",
+      "future_impact_en": "The findings may motivate prospective studies to determine whether testosterone causally affects voice function and whether treatment improves it.",
+      "why_important_ar": "تسلط الدراسة الضوء على ارتباط محتمل بين الحالة الهرمونية للرجال واضطرابات الصوت التي قد تستدعي تقييمًا أو تدخلًا من اختصاصي laryngology.",
+      "why_important_en": "The study highlights a potential association between men’s hormonal status and voice disorders that may prompt laryngology evaluation or intervention.",
+      "vs_previous_ar": "تضيف الدراسة ارتباطًا سكانيًا بين male hypogonadism وdysphonia إلى المعرفة السابقة، لكنها لا تقدم دليلًا سببيًا أو توصية علاجية جديدة.",
+      "vs_previous_en": "The study adds a population-level association between male hypogonadism and dysphonia, but provides neither causal evidence nor a new treatment recommendation.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة cohort استعادية كبيرة على الأرجح مع propensity score matching ونتائج ذات صلة بـ laryngology، لكن حجم العينة غير مذكور في الملخص والتصميم الرصدي لا يثبت السببية أو يغيّر الممارسة.",
+      "stars_reason_en": "A likely large retrospective cohort using propensity score matching provides relevant laryngology findings, but the abstract does not report sample size and the observational design cannot establish causality or change practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for discussion because it raises a potential hormonal correlate of dysphonia and allows consideration of confounding, limitations of database records, and the lack of evidence for benefit from testosterone therapy.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تلزم دراسات prospective تتحقق من قياسات testosterone ووظيفة الصوت وتضبط العوامل المربكة، ثم تختبر ما إذا كان علاج hypogonadism يحسن نتائج الصوت.",
+      "research_gap_en": "Prospective studies should verify testosterone levels and voice function, control confounders, and test whether treating hypogonadism improves voice outcomes.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة بعنوان «Male Hypogonadism is Associated with Increased Dysphonia» المنشورة في Journal of Voice. تبحث الدراسة ما إذا كان male hypogonadism مرتبطًا باضطرابات الصوت لدى الرجال بعمر خمسين سنة أو أكثر.\n\nاستخدم الباحثون قاعدة بيانات TriNetX لمقارنة رجال كان serum testosterone لديهم أقل من 300 ng/dL برجال eugonadal مماثلين لهم في العمر. أجروا propensity score matching لضبط عوامل ديموغرافية وسريرية. كانت النتائج الأساسية تشخيص dysphonia أو vocal fold pathology، وشملت النتائج الثانوية تقييمات وإجراءات مثل flexible laryngoscopy وvoice therapy وinjection laryngoscopy.\n\nارتبط hypogonadism بزيادة odds of dysphonia أو vocal fold pathology، بنسبة odds ratio بلغت 1.20، مع 95% confidence interval من 1.11 إلى 1.29. كما كانت odds of flexible laryngoscopy أو voice evaluation أعلى، بنسبة 1.14. وظهرت زيادة أيضًا في odds of injection laryngoscopy أو voice therapy، بنسبة 1.21.\n\nهذه النتائج ذات أهمية لـ laryngology لأنها تشير إلى ارتباط محتمل بين الحالة الهرمونية والصوت لدى الرجال الأكبر سنًا. لكنها دراسة استعادية قائمة على قاعدة بيانات، ولا تثبت أن انخفاض testosterone هو سبب dysphonia. كذلك، قد تعكس زيادة التقييمات أو التدخلات اختلافات في طلب الرعاية أو التوثيق أو عوامل مربكة أخرى. لا يقدم الملخص دليلًا على أن testosterone therapy يحسن الصوت.\n\nعمليًا، لا توجد توصية لتغيير تدبير dysphonia أو وصف testosterone لعلاجها بناءً على هذه الدراسة وحدها. يمكن اعتبار hypogonadism جزءًا من السياق السريري عند تقييم رجل لديه مشكلة صوتية، مع الاستمرار في التقييم المعتاد للأسباب الحنجرية. الخطوة البحثية التالية هي دراسات prospective تقيس مستويات testosterone ووظيفة الصوت بصورة مباشرة، وتختبر ما إذا كان علاج hypogonadism يؤدي إلى تحسن صوتي. الخلاصة: ارتباط جدير بالمتابعة، لكنه لا يثبت السببية ولا يغير الممارسة الحالية.",
+      "audio_script_en": "Today we are reviewing “Male Hypogonadism is Associated with Increased Dysphonia,” published in the Journal of Voice. The study asks whether male hypogonadism is associated with voice disorders in men aged 50 years or older.\n\nUsing the TriNetX database, the investigators compared men with serum testosterone below 300 ng/dL with age-matched eugonadal controls. They used propensity score matching to adjust for demographic and clinical covariates. The primary outcomes were diagnoses of dysphonia or other vocal fold pathology. Secondary outcomes included voice evaluation and interventions such as flexible laryngoscopy, voice therapy, and injection laryngoscopy.\n\nMen with hypogonadism had higher odds of dysphonia or vocal fold pathology, with an odds ratio of 1.20 and a 95% confidence interval of 1.11 to 1.29. They also had higher odds of flexible laryngoscopy or voice evaluation, with an odds ratio of 1.14. Odds of injection laryngoscopy or voice therapy were higher as well, at 1.21.\n\nThe findings are relevant to laryngology because they suggest a possible relationship between hormonal status and voice in older men. However, this is a retrospective database study, so it cannot establish that low testosterone causes dysphonia. Differences in healthcare use, documentation, or other confounding factors could contribute to the observed associations. The abstract also does not show that testosterone therapy improves voice.\n\nFor current practice, the study does not support changing dysphonia management or prescribing testosterone for voice symptoms. Hypogonadism may be considered as part of the clinical context when evaluating an older man with a voice complaint, while standard laryngeal assessment remains important. Prospective studies with direct hormone and voice measurements are needed, including studies that test whether treating hypogonadism improves voice outcomes. In short, this is a noteworthy association, but it does not establish causation or change practice today.",
+      "mcq": [
+        {
+          "q_ar": "ما تعريف male hypogonadism المستخدم في الدراسة؟",
+          "q_en": "How was male hypogonadism defined in the study?",
+          "options_ar": [
+            "أ) Serum testosterone أقل من 300 ng/dL",
+            "ب) Serum testosterone أقل من 500 ng/dL",
+            "ج) تشخيص dysphonia وحده",
+            "د) إجراء flexible laryngoscopy سابقًا"
+          ],
+          "options_en": [
+            "A) Serum testosterone below 300 ng/dL",
+            "B) Serum testosterone below 500 ng/dL",
+            "C) A diagnosis of dysphonia alone",
+            "D) A history of flexible laryngoscopy"
+          ],
+          "answer": 0,
+          "explanation_ar": "عرّفت الدراسة hypogonadism بوجود serum testosterone أقل من 300 ng/dL.",
+          "explanation_en": "The study defined hypogonadism as serum testosterone below 300 ng/dL."
+        },
+        {
+          "q_ar": "ما النتيجة الأساسية التي ارتبطت بـ hypogonadism؟",
+          "q_en": "Which primary outcome was associated with hypogonadism?",
+          "options_ar": [
+            "أ) انخفاض الحاجة إلى voice evaluation",
+            "ب) زيادة odds of dysphonia أو vocal fold pathology",
+            "ج) تحسن نتائج voice therapy",
+            "د) انخفاض odds of laryngoscopy"
+          ],
+          "options_en": [
+            "A) Reduced need for voice evaluation",
+            "B) Increased odds of dysphonia or vocal fold pathology",
+            "C) Improved outcomes from voice therapy",
+            "D) Reduced odds of laryngoscopy"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت odds of dysphonia أو vocal fold pathology أعلى لدى الرجال المصابين بـ hypogonadism.",
+          "explanation_en": "Men with hypogonadism had higher odds of dysphonia or vocal fold pathology."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب من هذا التصميم الاستعادي؟",
+          "q_en": "What is the most appropriate conclusion from this retrospective design?",
+          "options_ar": [
+            "أ) يثبت أن انخفاض testosterone يسبب dysphonia",
+            "ب) يثبت أن testosterone therapy تعالج dysphonia",
+            "ج) يُظهر ارتباطًا لكنه لا يثبت السببية",
+            "د) يبرر بدء testosterone لكل مريض لديه dysphonia"
+          ],
+          "options_en": [
+            "A) It proves low testosterone causes dysphonia",
+            "B) It proves testosterone therapy treats dysphonia",
+            "C) It shows an association but does not establish causality",
+            "D) It justifies testosterone for every patient with dysphonia"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة الرصدية الاستعادية تدعم وجود ارتباط، لكنها لا تثبت السببية ولا تثبت فائدة testosterone therapy.",
+          "explanation_en": "The retrospective observational study supports an association but does not establish causality or benefit from testosterone therapy."
+        }
+      ]
+    },
+    {
+      "pmid": "43062756",
+      "title_ar": "Photogrammetric surgical anatomical roadmap to the cavernous sinus from multiple surgical perspectives: qualitative and morphometric analysis of ventral endoscopic and pterional approaches.",
+      "title_en": "Photogrammetric surgical anatomical roadmap to the cavernous sinus from multiple surgical perspectives: qualitative and morphometric analysis of ventral endoscopic and pterional approaches.",
+      "journal": "Neurosurgical review",
+      "pub_date": "2026-Nov-20",
+      "doi": "10.1007/s10143-026-04581-7",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43062756/",
+      "pdf_url": "https://doi.org/10.1007/s10143-026-04581-7",
+      "study_design": "Cadaveric anatomical study; 5 heads",
+      "summary_ar": "تناولت الدراسة تشريح lateral wall of the cavernous sinus باستخدام ثلاثة مداخل جراحية على خمسة cadaveric heads. شملت المداخل extended endoscopic endonasal transpterygoid، وendoscopic superior eyelid transorbital، وendoscope-assisted pterional approaches. استُخدمت high-definition endoscopic videos وتقنيات photogrammetric reconstruction لإنشاء interactive three-dimensional models. أظهر endonasal approach رؤية ICA وCN VI وCN III وCN IV وV1 وV2، بينما أتاح transorbital approach رؤية Gasserian ganglion وV1 وV2 وV3 والأعصاب CN III وCN IV والجزء الجانبي من cavernous sinus. وفر pterional approach منظورًا واسعًا متعدد الاتجاهات، وبلغ متوسط المساحة المكشوفة 206.1 mm² عبر endonasal approach، مقابل 290.4 mm² عبر transorbital و287.8 mm² عبر pterional approach. تشير النتائج إلى فائدة النماذج ثلاثية الأبعاد في توضيح العلاقات التشريحية، لكنها مستمدة من دراسة cadaveric ولا تثبت تحسن النتائج السريرية.",
+      "summary_en": "This cadaveric anatomical study examined the lateral wall of the cavernous sinus using three surgical approaches in five heads. The approaches were extended endoscopic endonasal transpterygoid, endoscopic superior eyelid transorbital, and endoscope-assisted pterional. High-definition endoscopic videos were processed with photogrammetric reconstruction to create interactive three-dimensional models. The endonasal approach exposed the ICA, CN VI, CN III, CN IV, V1, and V2; the transorbital approach also demonstrated the Gasserian ganglion, V3, and the lateral compartment. Mean exposed areas were 206.1 mm² for endonasal, 290.4 mm² for transorbital, and 287.8 mm² for pterional approaches. The models provide an anatomical learning aid, but the study does not demonstrate improved clinical outcomes.",
+      "practice_change_ar": "لا تغيّر هذه الدراسة الممارسة الجراحية اليوم، لكنها قد تساعد في التخطيط والتعليم عبر عرض anatomy ثلاثية الأبعاد للمداخل المختلفة.",
+      "practice_change_en": "This study does not change surgical practice today, but its three-dimensional anatomy may support education and approach planning.",
+      "future_impact_ar": "قد تُمهد النماذج التفاعلية لتطوير أدوات تعليم وتخطيط جراحي، إذا جرى التحقق من فائدتها في التدريب والنتائج السريرية.",
+      "future_impact_en": "Interactive models may inform future surgical education and planning tools if their value is validated in training and clinical outcomes.",
+      "why_important_ar": "توضح الدراسة بصورة ثلاثية الأبعاد اختلاف مناطق الرؤية والعلاقات التشريحية بين مداخل cavernous sinus.",
+      "why_important_en": "The study visualizes how exposure and anatomical perspectives differ among approaches to the cavernous sinus.",
+      "vs_previous_ar": "تضيف الدراسة photogrammetric three-dimensional reconstructions إلى الأدبيات التشريحية التي اعتمدت غالبًا على صور ثنائية الأبعاد.",
+      "vs_previous_en": "It adds photogrammetric three-dimensional reconstructions to anatomical literature that has largely relied on two-dimensional images.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة تشريحية على خمسة cadaveric heads وليست دراسة نتائج سريرية؛ تقدم تقنية تصوير مبتكرة ومعرفة مفيدة، لكن أثرها على الممارسة والنتائج غير مثبت.",
+      "stars_reason_en": "A five-head cadaveric anatomical study rather than a clinical outcomes study; it offers an innovative visualization method and useful knowledge, but clinical benefit is unproven.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Worth discussing for its photogrammetric reconstruction method and comparison of three approaches to the cavernous sinus, while recognizing the small cadaveric sample and absence of clinical outcomes.",
+      "watch": true,
+      "watch_detail_ar": "تستحق photogrammetric reconstruction والنماذج التفاعلية ثلاثية الأبعاد المتابعة لاحتمال تطويرها إلى أدوات للتعليم والتخطيط الجراحي.",
+      "watch_detail_en": "Photogrammetric reconstruction and interactive three-dimensional models merit tracking as potential tools for surgical education and planning.",
+      "watch_type": "technology",
+      "research_gap_ar": "يلزم تقييم موثوقية القياسات وقابلية استخدام النماذج في التدريب، ثم اختبار ما إذا كانت تحسن التخطيط أو النتائج لدى المرضى.",
+      "research_gap_en": "Further work should assess measurement reliability and educational utility, then determine whether these models improve surgical planning or patient outcomes.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نستعرض اليوم دراسة تشريحية بعنوان: Photogrammetric surgical anatomical roadmap to the cavernous sinus from multiple surgical perspectives. تركز الدراسة على lateral wall of the cavernous sinus، وهي منطقة معقدة بسبب قرب الأعصاب والأوعية الدموية. استخدم الباحثون خمسة cadaveric heads، وطبقوا ثلاثة مداخل: extended endoscopic endonasal transpterygoid، وendoscopic superior eyelid transorbital، وendoscope-assisted pterional.\n\nبعد كشف التشريح، عالج الباحثون high-definition endoscopic videos باستخدام photogrammetric reconstruction لإنشاء نماذج تفاعلية ثلاثية الأبعاد. أظهر endonasal approach الـICA وCN VI وCN III وCN IV وV1 وV2. أما transorbital approach فأظهر Gasserian ganglion وV1 وV2 وV3 وCN III وCN IV والجزء الجانبي من cavernous sinus. ووفر pterional approach منظورًا واسعًا متعدد الاتجاهات.\n\nبلغ متوسط المساحة المكشوفة 206.1 mm² للمدخل endonasal، و290.4 mm² للمدخل transorbital، و287.8 mm² للمدخل pterional. ويمثل قياسا transorbital وpterional السطح التشريحي المرجعي نفسه من منظورين مختلفين؛ لذلك لا ينبغي تفسيرهما كاختبار لنتائج علاجية أو تفوق سريري.\n\nأهمية الدراسة أنها تنقل وصف التشريح من صور ثنائية الأبعاد إلى نماذج يمكن استكشافها، ما قد يفيد التعليم وفهم اختلاف خطوط الرؤية والتخطيط. لكن الدليل يظل تشريحيًا على عينة صغيرة، ولا يثبت أن استخدام النماذج يقلل المضاعفات أو يحسن نتائج المرضى. لا تتغير الممارسة اليوم، إلا أن التقنية تستحق المتابعة كأداة تعليمية وتخطيطية محتملة. ومن الأسئلة البحثية المهمة التحقق من دقة القياسات، وقياس أثر النماذج على اكتساب المهارات والقرارات الجراحية والنتائج السريرية.",
+      "audio_script_en": "Today’s article presents a photogrammetric anatomical roadmap to the cavernous sinus from multiple surgical perspectives. The lateral wall of the cavernous sinus is a complex skull-base region because of its close neurovascular relationships. The investigators studied five cadaveric heads using three approaches: extended endoscopic endonasal transpterygoid, endoscopic superior eyelid transorbital, and endoscope-assisted pterional.\n\nAfter exposing the anatomy, they processed high-definition endoscopic videos with photogrammetric reconstruction to create interactive three-dimensional models. The endonasal approach demonstrated the ICA, CN VI, CN III, CN IV, V1, and V2. The transorbital route showed the Gasserian ganglion, V1, V2, V3, CN III, CN IV, and the lateral compartment of the cavernous sinus. The pterional approach provided a broad, multidirectional perspective.\n\nThe mean exposed area was 206.1 square millimeters for the endonasal approach, 290.4 for the transorbital approach, and 287.8 for the pterional approach. The transorbital and pterional measurements represent the same reference anatomical surface viewed from different surgical perspectives; they should not be interpreted as comparative clinical outcomes or proof of surgical superiority.\n\nThe main contribution is a navigable three-dimensional visualization that may help learners understand anatomy, lines of sight, and approach-specific exposure. However, this is a small cadaveric study, and it does not show that the models reduce complications or improve patient outcomes. It does not change practice today, but the technology merits tracking as a potential educational and planning aid. Future research should validate measurement reliability, assess effects on surgical training and decision-making, and determine whether these models translate into better clinical outcomes.",
+      "mcq": [
+        {
+          "q_ar": "ما التقنية التي استخدمها الباحثون لإنشاء النماذج التشريحية ثلاثية الأبعاد؟",
+          "q_en": "Which technique did the investigators use to create the three-dimensional anatomical models?",
+          "options_ar": [
+            "أ) Photogrammetric reconstruction من endoscopic videos",
+            "ب) MRI functional mapping",
+            "ج) CT angiography وحدها",
+            "د) Histological sectioning"
+          ],
+          "options_en": [
+            "A) Photogrammetric reconstruction from endoscopic videos",
+            "B) MRI functional mapping",
+            "C) CT angiography alone",
+            "D) Histological sectioning"
+          ],
+          "answer": 0,
+          "explanation_ar": "عولجت high-definition endoscopic videos باستخدام photogrammetric reconstruction لإنتاج نماذج تفاعلية ثلاثية الأبعاد.",
+          "explanation_en": "High-definition endoscopic videos were processed with photogrammetric reconstruction to generate interactive three-dimensional models."
+        },
+        {
+          "q_ar": "أي مدخل سجل أكبر متوسط مساحة مكشوفة في هذه الدراسة؟",
+          "q_en": "Which approach had the largest mean exposed area in this study?",
+          "options_ar": [
+            "أ) Extended endoscopic endonasal transpterygoid",
+            "ب) Endoscopic superior eyelid transorbital",
+            "ج) Endoscope-assisted pterional",
+            "د) لم تذكر الدراسة قياسات للمداخل"
+          ],
+          "options_en": [
+            "A) Extended endoscopic endonasal transpterygoid",
+            "B) Endoscopic superior eyelid transorbital",
+            "C) Endoscope-assisted pterional",
+            "D) The study reported no approach measurements"
+          ],
+          "answer": 1,
+          "explanation_ar": "بلغ متوسط المساحة المكشوفة 290.4 mm² للمدخل transorbital، مقارنةً بـ287.8 mm² للمدخل pterional و206.1 mm² للمدخل endonasal.",
+          "explanation_en": "The transorbital approach had a mean exposed area of 290.4 mm², compared with 287.8 mm² for pterional and 206.1 mm² for endonasal."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن الأثر السريري لهذه الدراسة؟",
+          "q_en": "What is the most appropriate conclusion about this study’s clinical impact?",
+          "options_ar": [
+            "أ) تثبت تفوق المدخل transorbital في نتائج المرضى",
+            "ب) تغير معايير اختيار المدخل الجراحي اليوم",
+            "ج) تقدم أداة تشريحية وتعليمية محتملة دون إثبات تحسن النتائج السريرية",
+            "د) تثبت أن المداخل الثلاثة متساوية سريريًا"
+          ],
+          "options_en": [
+            "A) It proves superior patient outcomes with the transorbital approach",
+            "B) It changes current criteria for selecting a surgical approach",
+            "C) It offers a potential anatomical and educational tool without proving improved clinical outcomes",
+            "D) It proves that all three approaches are clinically equivalent"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة تشريحية على cadaveric heads، وتوفر نماذج ثلاثية الأبعاد مفيدة محتملًا، لكنها لا تقيس نتائج المرضى أو تثبت تغير الممارسة.",
+          "explanation_en": "This cadaveric anatomical study provides potentially useful three-dimensional models but does not measure patient outcomes or establish a practice change."
+        }
+      ]
+    },
+    {
+      "pmid": "43066652",
+      "title_ar": "Radiofrequency Ablation versus Lateralization for Bilateral Inferior Turbinate Hypertrophy: A Randomised Controlled Trial.",
+      "title_en": "Radiofrequency Ablation versus Lateralization for Bilateral Inferior Turbinate Hypertrophy: A Randomised Controlled Trial.",
+      "journal": "ORL; journal for oto-rhino-laryngology and its related specialties",
+      "pub_date": "2026-Nov-21",
+      "doi": "10.1159/orl/aegag013",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43066652/",
+      "pdf_url": null,
+      "study_design": "Single-center prospective RCT, 54 adults, 6-month follow-up",
+      "summary_ar": "قارنت هذه الدراسة العشوائية prospective بين RFIT وlateralization لدى 54 بالغًا لديهم BITH مقاوم للعلاج الطبي، واختاروا إجراءات تحت local anaesthesia. أكمل 53 مشاركًا المتابعة حتى 6 أشهر، وتحسنت NOSE scores بشكل ملحوظ مقارنةً بالbaseline في المجموعتين. استمر تحسن RFIT من الأسبوع الأول إلى الشهر الأول، ثم استقر، بينما وصل تحسن lateralization إلى مستوى ثابت بحلول الأسبوع الأول. حافظت مجموعة RFIT على انخفاض turbinate grade في جميع نقاط المتابعة، لكن التحسن في مجموعة lateralization لم يعد ذا دلالة مقارنةً بالbaseline عند 6 أشهر. كان الفرق بين المجموعتين في turbinate grade ذا دلالة عند الشهرين 3 و6، لصالح RFIT؛ أما pain وanxiety فكانا متقاربين. تشير النتائج إلى فائدة إجرائية لكلا الخيارين، مع تحسن أكبر تشريحيًا مع RFIT، لكن الدراسة صغيرة ومحدودة بمتابعة 6 أشهر.",
+      "summary_en": "This single-center randomized trial compared RFIT with lateralization in 54 adults with medically refractory BITH who chose local-anesthesia procedures.\nFifty-three participants completed follow-up through 6 months, and NOSE scores improved significantly from baseline in both groups.\nRFIT showed further symptom improvement between week 1 and month 1, then plateaued; lateralization reached an earlier plateau.\nTurbinate grade reduction was maintained at all follow-up points after RFIT, while improvement after lateralization was no longer significant versus baseline at 6 months.\nBetween-group turbinate-grade differences favored RFIT at months 3 and 6; procedural pain and anxiety were similar.\nBoth procedures appear beneficial, although the trial is small, single-center, and limited to 6-month follow-up.",
+      "practice_change_ar": "لا تفرض النتائج تغييرًا فوريًا للممارسة، لكنها تدعم عرض RFIT وlateralization كخيارين تحت local anaesthesia مع مناقشة احتمال التحسن التشريحي الأكبر مع RFIT.",
+      "practice_change_en": "The findings do not mandate an immediate practice change, but support offering RFIT and lateralization under local anaesthesia while discussing the potentially greater anatomical improvement with RFIT.",
+      "future_impact_ar": "قد تساعد دراسات أكبر ومتعددة المراكز وبمتابعة أطول على تحديد مدى استمرار الفرق بين الإجراءين وأفضل المرضى لكل خيار.",
+      "future_impact_en": "Larger multicenter studies with longer follow-up could clarify whether the difference between procedures persists and which patients benefit most from each option.",
+      "why_important_ar": "تقدم الدراسة مقارنة عشوائية مباشرة بين إجراءين مستقلين شائعين لعلاج BITH تحت local anaesthesia.",
+      "why_important_en": "The trial provides a direct randomized comparison of two commonly used stand-alone local-anesthesia procedures for BITH.",
+      "vs_previous_ar": "على خلاف الأدلة السابقة التي تناولت الإجراءين غالبًا بصورة منفصلة، تقارنهما هذه الدراسة مباشرةً وتجد تحسنًا أكبر في turbinate grade مع RFIT عند المتابعة المتأخرة.",
+      "vs_previous_en": "Unlike prior evidence that often assessed the procedures separately, this study directly compares them and finds greater later turbinate-grade improvement with RFIT.",
+      "stars": 3,
+      "stars_reason_ar": "هذه RCT مباشرة بتصميم جيد، لكنها صغيرة ومن مركز واحد وبمتابعة 6 أشهر؛ تضيف معلومات مفيدة دون أن تغيّر الممارسة وحدها.",
+      "stars_reason_en": "This is a well-designed direct RCT, but it is small, single-center, and limited to 6 months; it adds useful information without changing practice on its own.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Worth discussing because it directly compares two common procedures and raises a practical trade-off between magnitude of improvement, simplicity, and resources.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا نتائج RFIT مقارنةً بـlateralization، إذ قد تؤثر الفروق في دوام التحسن التشريحي في اختيار الإجراء تحت local anaesthesia.",
+      "watch_detail_en": "Track further RFIT-versus-lateralization outcomes, as differences in sustained anatomical improvement may inform selection of local-anesthesia procedures.",
+      "watch_type": "device",
+      "research_gap_ar": "تلزم دراسة متعددة المراكز ذات عينة أكبر ومتابعة تتجاوز 6 أشهر، مع تقييم الأعراض والنتائج التشريحية والمضاعفات والتكلفة.",
+      "research_gap_en": "A larger multicenter trial with follow-up beyond 6 months should assess symptoms, anatomical outcomes, complications, and cost.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نراجع اليوم تجربة عشوائية قارنت بين Radiofrequency ablation of the inferior turbinates، أو RFIT، وبين lateralization لعلاج bilateral inferior turbinate hypertrophy، أو BITH. شملت الدراسة 54 بالغًا لديهم أعراض مقاومة للعلاج الطبي، وكانوا يفضلون إجراءً تحت local anaesthesia بدلًا من جراحة تحت general anaesthesia. أُجريت الدراسة في مركز واحد في ماليزيا، وأكمل 53 مريضًا المتابعة لمدة ستة أشهر.\n\nكانت NOSE scores شديدة ومتشابهة عند البداية. تحسنت الأعراض بدرجة ذات دلالة إحصائية في المجموعتين حتى الشهر السادس. مع RFIT، استمر التحسن بين الأسبوع الأول والشهر الأول، ثم وصل إلى plateau. أما lateralization فوصل إلى plateau أبكر، بعد الأسبوع الأول، دون فقدان التحسن العرضي خلال فترة المتابعة. أظهرت قياسات turbinate grade فرقًا إضافيًا لصالح RFIT: ظل انخفاض الدرجة موجودًا في جميع نقاط المتابعة، بينما لم يعد التحسن في مجموعة lateralization ذا دلالة مقارنةً بالbaseline عند ستة أشهر. ظهر الفرق بين المجموعتين عند الشهرين الثالث والسادس. لم تختلف درجات pain أو anxiety بين الإجراءين.\n\nالخلاصة العملية هي أن كلا الإجراءين قد يحسّن أعراض BITH تحت local anaesthesia، وأن RFIT قد يقدم تحسنًا تشريحيًا أكبر وأكثر استمرارًا ضمن مدة هذه الدراسة. مع ذلك، لا تثبت التجربة تفوقًا سريريًا مطلقًا، ولا تبرر وحدها تغيير الممارسة؛ فالعينة صغيرة، والدراسة أحادية المركز، والمتابعة ستة أشهر فقط. يمكن للطبيب مناقشة هذه النتائج مع المريض عند الاختيار، مع أخذ تفضيل المريض وسهولة الإجراء والموارد المتاحة في الاعتبار.\n\nتستحق الورقة النقاش في journal club لأنها تقدم مقارنة مباشرة كانت محدودة سابقًا. والدراسات القادمة ينبغي أن تكون أكبر ومتعددة المراكز، مع متابعة أطول، وقياس التحسن الذي يهم المريض، والمضاعفات، والتكلفة. لذلك تُقيّم الورقة بثلاث نجوم وثقة متوسطة: معلومة مفيدة، لكنها ليست دليلًا كافيًا لتغيير الممارسة بمفردها.",
+      "audio_script_en": "Today we are reviewing a randomized trial comparing radiofrequency ablation of the inferior turbinates, or RFIT, with lateralization for bilateral inferior turbinate hypertrophy, or BITH. The study enrolled 54 adults with symptoms refractory to medical therapy who chose a local-anesthesia procedure rather than surgery under general anaesthesia. It was conducted at a single clinic in Malaysia, and 53 participants completed the 6-month follow-up.\n\nBaseline NOSE scores were in the severe range and similar between groups. Symptoms improved significantly from baseline through 6 months in both groups. With RFIT, symptom improvement continued between week 1 and month 1, then plateaued. Lateralization reached its plateau earlier, after the first week, but did not lose its symptom benefit during follow-up. The anatomical outcome, turbinate grade, showed an additional difference favoring RFIT: grade reduction was maintained at every follow-up point, whereas the reduction after lateralization was no longer statistically significant versus baseline at 6 months. The groups differed at months 3 and 6. Pain and anxiety scores were similar.\n\nThe practical takeaway is that both procedures may improve BITH symptoms under local anaesthesia, while RFIT may provide greater and more sustained anatomical improvement during the period studied. However, the trial does not establish absolute clinical superiority or, by itself, justify changing practice. It is small, single-center, and limited to 6 months of follow-up. Clinicians can discuss the findings when helping patients choose, alongside patient preference, procedural simplicity, and resource availability.\n\nThis paper is suitable for journal club because it offers a direct comparison that has been lacking. Future research should be larger, multicenter, and longer in duration, and should assess patient-centered outcomes, complications, and cost. The article merits three stars and moderate confidence: it offers useful knowledge, but not enough evidence to change practice on its own.",
+      "mcq": [
+        {
+          "q_ar": "ما الإجراءان اللذان قارنت بينهما الدراسة لعلاج BITH؟",
+          "q_en": "Which two procedures did the study compare for BITH?",
+          "options_ar": [
+            "أ) RFIT وlateralization",
+            "ب) Septoplasty وFESS",
+            "ج) Turbinate surgery تحت general anaesthesia وCPAP",
+            "د) Corticosteroid وantibiotic"
+          ],
+          "options_en": [
+            "A) RFIT and lateralization",
+            "B) Septoplasty and FESS",
+            "C) Turbinate surgery under general anaesthesia and CPAP",
+            "D) Corticosteroid and antibiotic"
+          ],
+          "answer": 0,
+          "explanation_ar": "قارنت RCT بين RFIT وlateralization بوصفهما إجراءين مستقلين تحت local anaesthesia.",
+          "explanation_en": "The RCT compared RFIT and lateralization as stand-alone procedures under local anaesthesia."
+        },
+        {
+          "q_ar": "ما النتيجة التي ميزت RFIT عن lateralization في turbinate grade؟",
+          "q_en": "What distinguished RFIT from lateralization in turbinate grade?",
+          "options_ar": [
+            "أ) لم يتحسن turbinate grade مع أي من الإجراءين",
+            "ب) استمر التحسن مع RFIT، بينما لم يعد تحسن lateralization ذا دلالة مقابل baseline عند 6 أشهر",
+            "ج) كان lateralization أفضل عند 3 و6 أشهر",
+            "د) لم تُقَس turbinate grade"
+          ],
+          "options_en": [
+            "A) Turbinate grade did not improve with either procedure",
+            "B) Improvement persisted with RFIT, while lateralization was no longer significant versus baseline at 6 months",
+            "C) Lateralization was better at 3 and 6 months",
+            "D) Turbinate grade was not measured"
+          ],
+          "answer": 1,
+          "explanation_ar": "حافظت مجموعة RFIT على انخفاض turbinate grade في جميع نقاط المتابعة، بينما لم يكن تحسن lateralization ذا دلالة مقارنةً بالbaseline عند 6 أشهر.",
+          "explanation_en": "The RFIT group maintained lower turbinate grades at all follow-up points, whereas the lateralization improvement was not significant versus baseline at 6 months."
+        },
+        {
+          "q_ar": "ما القيد الأهم عند تفسير نتائج هذه التجربة؟",
+          "q_en": "What is an important limitation when interpreting this trial?",
+          "options_ar": [
+            "أ) لم تكن الدراسة عشوائية",
+            "ب) لم تتضمن أي متابعة",
+            "ج) كانت صغيرة ومن مركز واحد ومتابعتها 6 أشهر",
+            "د) كان المشاركون أطفالًا فقط"
+          ],
+          "options_en": [
+            "A) The study was not randomized",
+            "B) It included no follow-up",
+            "C) It was small, single-center, and had 6-month follow-up",
+            "D) Participants were children only"
+          ],
+          "answer": 2,
+          "explanation_ar": "شملت الدراسة 54 بالغًا في مركز واحد وتابعتهم 6 أشهر، ما يحد من تعميم النتائج وتقييم دوامها على المدى الطويل.",
+          "explanation_en": "The study included 54 adults at one center with 6 months of follow-up, limiting generalizability and assessment of longer-term durability."
+        }
+      ]
+    },
+    {
+      "pmid": "43067377",
+      "title_ar": "Combination acetazolamide and supplemental oxygen markedly improves ventilatory control instability and OSA severity.",
+      "title_en": "Combination acetazolamide and supplemental oxygen markedly improves ventilatory control instability and OSA severity.",
+      "journal": "Chest",
+      "pub_date": "2026-Nov-21",
+      "doi": "10.1016/j.chest.2026.11.015",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43067377/",
+      "pdf_url": null,
+      "study_design": "Randomized, single-blind crossover trial n=22",
+      "summary_ar": "اختبرت هذه الدراسة randomized, single-blind crossover trial أثر acetazolamide وsupplemental oxygen، منفردين ومجتمعين، لدى 22 مشاركًا لديهم moderate-severe OSA. تلقى المشاركون acetazolamide بجرعة 500 mg يوميًا أو placebo لمدة 7 أيام، وخضعوا إلى polysomnography مع oxygen أو sham. خفّض كل من acetazolamide وoxygen منفردًا loop gain وAHI مقارنةً بـ placebo مع sham. حقق الجمع بين العلاجين أكبر انخفاض في loop gain، وكان الانخفاض أكبر بشكل ملحوظ من العلاجين المنفردين. انخفض fAHI مع الجمع بنحو 23.3 حدثًا في الساعة، أي قرابة 55%، لكن الانخفاض لم يكن أكبر بشكل ملحوظ مقارنةً بـ acetazolamide وحده. تشير النتائج إلى فائدة محتملة لدى مرضى OSA الذين يسهم ارتفاع loop gain في حالتهم، لكنها لا تثبت بعد تحسنًا طويل الأمد أو فائدة سريرية كافية لتغيير الممارسة.",
+      "summary_en": "This randomized, single-blind crossover trial studied 22 participants with moderate-to-severe OSA.\nParticipants received acetazolamide 500 mg daily or placebo for 7 days, with supplemental oxygen or sham during polysomnography.\nBoth acetazolamide and oxygen alone reduced loop gain and AHI compared with placebo plus sham.\nThe combination produced a greater reduction in loop gain than either treatment alone.\nThe combination reduced fAHI by about 23.3 events/hour, or roughly 55%, but was not significantly better than acetazolamide alone for fAHI.\nThe findings are promising for patients whose OSA is driven by elevated loop gain, but do not yet establish long-term benefit or a change in routine care.",
+      "practice_change_ar": "لا تغيّر هذه النتائج الممارسة اليوم، لكنها تدعم إجراء مزيد من الدراسات قبل اعتماد الجمع بين acetazolamide وsupplemental oxygen لعلاج OSA.",
+      "practice_change_en": "These findings do not change practice today but support further study before adopting combined acetazolamide and supplemental oxygen for OSA.",
+      "future_impact_ar": "قد يدعم هذا النهج مستقبلًا علاجًا موجّهًا لمرضى OSA الذين يكون elevated loop gain عاملًا مهمًا في مرضهم، إذا أكدت دراسات أكبر وأطول الأمد الفعالية والسلامة.",
+      "future_impact_en": "If larger, longer-term studies confirm efficacy and safety, this approach may support targeted treatment for patients whose OSA is substantially driven by elevated loop gain.",
+      "why_important_ar": "تُظهر الدراسة أن الجمع بين تدخلين يخفضان loop gain بآليتين مختلفتين قد يحقق انخفاضًا كبيرًا في loop gain وfAHI.",
+      "why_important_en": "The study suggests that combining two interventions that lower loop gain through different mechanisms can substantially reduce loop gain and fAHI.",
+      "vs_previous_ar": "على خلاف الدراسات التي اختبرت acetazolamide أو oxygen منفردًا، تقارن هذه الدراسة العلاجين معًا وتُظهر فائدة إضافية واضحة في loop gain، لا في fAHI مقارنةً بـ acetazolamide وحده.",
+      "vs_previous_en": "Unlike studies of acetazolamide or oxygen alone, this trial tests their combination and finds an additional reduction in loop gain, but not in fAHI compared with acetazolamide alone.",
+      "stars": 4,
+      "stars_reason_ar": "تجربة randomized crossover تضيف دليلًا سريريًا واعدًا على فائدة الجمع في خفض loop gain، لكن حجم العينة الصغير وغياب نتائج طويلة الأمد يمنعان اعتبارها ممارسةً مغيرة اليوم.",
+      "stars_reason_en": "This randomized crossover trial provides promising clinical evidence that the combination reduces loop gain, but its small sample and lack of long-term outcomes prevent a practice-changing rating.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق الدراسة النقاش لأنها تختبر استراتيجية دوائية تجمع آليتين لعلاج OSA، مع نتائج تفصل بين تحسن loop gain وعدم التفوق على acetazolamide وحده في fAHI.",
+      "jc_reason_en": "This study merits discussion because it tests a two-mechanism pharmacologic strategy for OSA and distinguishes improvement in loop gain from the lack of added fAHI benefit over acetazolamide alone.",
+      "watch": true,
+      "watch_detail_ar": "تُتابع تجارب acetazolamide مع supplemental oxygen لمعرفة ما إذا كان خفض loop gain يترجم إلى فائدة مستدامة وآمنة لدى مرضى OSA المختارين.",
+      "watch_detail_en": "Track trials of acetazolamide plus supplemental oxygen to determine whether lowering loop gain translates into sustained, safe benefit in selected patients with OSA.",
+      "watch_type": "drug",
+      "research_gap_ar": "هناك حاجة إلى دراسات أكبر وأطول أمدًا تقيس السلامة والالتزام بالعلاج والنتائج السريرية، وتحدد المرضى الذين يستفيدون من العلاج بحسب loop gain.",
+      "research_gap_en": "Larger, longer-term studies are needed to assess safety, adherence, and clinical outcomes and to identify which patients benefit based on loop gain.",
+      "subspecialty": "sleep",
+      "audio_script_ar": "نستعرض اليوم دراسة من مجلة Chest تبحث في علاج OSA عبر استهداف عدم استقرار التحكم بالتهوية، المعروف باسم elevated loop gain. الفكرة هي أن acetazolamide وsupplemental oxygen يخفضان loop gain بآليتين مختلفتين، وقد يكون الجمع بينهما أكثر فاعلية من استخدام أي منهما وحده.\n\nكانت الدراسة randomized, single-blind crossover trial شملت 22 شخصًا لديهم moderate-severe OSA. تناول المشاركون acetazolamide بجرعة 500 mg يوميًا أو placebo لمدة أسبوع، ثم خضعوا إلى polysomnography مع supplemental oxygen بمعدل 3 L/min أو sham. قاس الباحثون loop gain وflow-based AHI، أو fAHI.\n\nأظهرت النتائج أن acetazolamide وoxygen منفردين خفّضا loop gain وAHI مقارنةً بـ placebo مع sham. أما الجمع بينهما فحقق أكبر انخفاض في loop gain، وكان الانخفاض أكبر بشكل ملحوظ من كل علاج منفرد. كما انخفض fAHI بنحو 23.3 حدثًا في الساعة، أي قرابة 55%. لكن نقطة مهمة هي أن الجمع لم يكن أفضل بشكل ملحوظ من acetazolamide وحده في خفض fAHI.\n\nما الذي تعنيه هذه النتائج للممارسة؟ إنها لا تبرر تغيير العلاج الروتيني اليوم. فالعينة صغيرة، ومدة العلاج قصيرة، ولا تتوافر هنا بيانات عن النتائج طويلة الأمد أو السلامة المستدامة. كما أن المشاركين قد لا يمثلون جميع مرضى OSA؛ فالنهج يستهدف خصوصًا من يكون elevated loop gain عاملًا مهمًا لديهم.\n\nقيمة الدراسة أنها تختبر استراتيجية تجمع دواءً مع supplemental oxygen، وتُظهر تحسنًا واضحًا في مقياس آلي هو loop gain. الخطوة التالية هي تجارب أكبر وأطول، مع تقييم الالتزام والآثار الجانبية والنتائج التي تهم المرضى، وتحديد من يستفيد بحسب خصائصه الفسيولوجية. الخلاصة: نهج واعد يستحق المتابعة، لكنه ليس تغييرًا للممارسة في الوقت الحالي.",
+      "audio_script_en": "Today we review a Chest study on treating OSA by targeting ventilatory control instability, known as elevated loop gain. The rationale is that acetazolamide and supplemental oxygen lower loop gain through different mechanisms, so combining them might be more effective than either intervention alone.\n\nThis was a randomized, single-blind crossover trial involving 22 people with moderate-to-severe OSA. Participants took acetazolamide 500 mg daily or placebo for 7 days and underwent polysomnography with supplemental oxygen at 3 L/min or sham. Investigators assessed loop gain and flow-based AHI, or fAHI.\n\nBoth acetazolamide and oxygen alone reduced loop gain and AHI compared with placebo plus sham. The combination produced the largest reduction in loop gain, significantly greater than either monotherapy. It also reduced fAHI by about 23.3 events per hour, or roughly 55%. However, the combination was not significantly better than acetazolamide alone for reducing fAHI.\n\nWhat does this mean for clinical practice? These results do not justify changing routine care today. The sample was small, treatment was brief, and the abstract does not establish long-term outcomes or sustained safety. The approach may also be most relevant to a selected group of patients whose OSA is substantially driven by elevated loop gain.\n\nThe study is valuable because it tests a combined pharmacologic and oxygen strategy and shows a clear improvement in the physiologic measure of loop gain. Next steps include larger, longer trials assessing adherence, adverse effects, patient-relevant outcomes, and which patients benefit based on their physiology. The takeaway: this is a promising approach to watch, not a reason to change practice yet.",
+      "mcq": [
+        {
+          "q_ar": "ما تصميم الدراسة؟",
+          "q_en": "What was the study design?",
+          "options_ar": [
+            "أ) دراسة cohort مستقبلية",
+            "ب) تجربة randomized, single-blind crossover",
+            "ج) دراسة retrospective case series",
+            "د) systematic review"
+          ],
+          "options_en": [
+            "A) Prospective cohort study",
+            "B) Randomized, single-blind crossover trial",
+            "C) Retrospective case series",
+            "D) Systematic review"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت الدراسة randomized, single-blind crossover trial شملت 22 مشاركًا لديهم OSA.",
+          "explanation_en": "The study was a randomized, single-blind crossover trial involving 22 participants with OSA."
+        },
+        {
+          "q_ar": "ما النتيجة التي تحسنت أكثر مع الجمع بين acetazolamide وsupplemental oxygen مقارنةً بالعلاجين منفردين؟",
+          "q_en": "Which outcome improved more with combined acetazolamide and supplemental oxygen than with either treatment alone?",
+          "options_ar": [
+            "أ) loop gain",
+            "ب) fAHI مقارنةً بـ acetazolamide وحده",
+            "ج) مدة المتابعة",
+            "د) الالتزام طويل الأمد بالعلاج"
+          ],
+          "options_en": [
+            "A) Loop gain",
+            "B) fAHI compared with acetazolamide alone",
+            "C) Follow-up duration",
+            "D) Long-term treatment adherence"
+          ],
+          "answer": 0,
+          "explanation_ar": "كان انخفاض loop gain مع الجمع أكبر بشكل ملحوظ من انخفاضه مع كل علاج منفرد؛ أما fAHI فلم يتحسن بشكل ملحوظ أكثر من acetazolamide وحده.",
+          "explanation_en": "The combination reduced loop gain significantly more than either monotherapy; fAHI was not significantly lower than with acetazolamide alone."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن تغيير الممارسة السريرية؟",
+          "q_en": "What is the most appropriate conclusion regarding a change in clinical practice?",
+          "options_ar": [
+            "أ) يجب استبدال العلاجات المعتادة بهذا الجمع لدى جميع مرضى OSA",
+            "ب) تثبت الدراسة فائدة طويلة الأمد مؤكدة",
+            "ج) النتائج واعدة لكنها لا تكفي لتغيير الممارسة بسبب صغر العينة وقصر مدة الدراسة",
+            "د) لا صلة للنتائج بمرضى OSA"
+          ],
+          "options_en": [
+            "A) This combination should replace usual treatments for all patients with OSA",
+            "B) The study proves a definite long-term benefit",
+            "C) The results are promising but insufficient to change practice because of the small sample and short study period",
+            "D) The findings are unrelated to patients with OSA"
+          ],
+          "answer": 2,
+          "explanation_ar": "العينة صغيرة ومدة العلاج قصيرة، ولا تقدم النتائج دليلًا كافيًا على الفائدة طويلة الأمد أو لتغيير الرعاية المعتادة.",
+          "explanation_en": "The sample was small and treatment brief, so the results do not establish long-term benefit or justify changing usual care."
+        }
+      ]
+    },
+    {
+      "pmid": "43067381",
+      "title_ar": "Long-Term Volumetric Outcomes and Response Patterns Following Gamma Knife Radiosurgery for Large Vestibular Schwannomas: Impact of Tumor Composition.",
+      "title_en": "Long-Term Volumetric Outcomes and Response Patterns Following Gamma Knife Radiosurgery for Large Vestibular Schwannomas: Impact of Tumor Composition.",
+      "journal": "World neurosurgery",
+      "pub_date": "2026-Nov-21",
+      "doi": "10.1016/j.wneu.2026.125532",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43067381/",
+      "pdf_url": null,
+      "study_design": "Retrospective case series n=36",
+      "summary_ar": "حللت هذه الدراسة retrospective بيانات 36 مريضًا لديهم large vestibular schwannoma بحجم يتجاوز 5 cc وعولجوا بـ Gamma Knife radiosurgery، مع median follow-up بلغ 69 شهرًا. بلغ radiographic tumor control rate نحو 97%، وكان median residual tumor volume ratio هو 26.1% من الحجم الأساسي. ارتبطت cystic composition بانخفاض أكبر في الحجم المتبقي مقارنةً بـ solid composition، مع adjusted geometric mean ratio قدره 0.45 وp-value=0.006. أظهرت cystic tumors غالبًا shrinkage مستمرًا، بينما ارتبطت solid tumors أكثر بـ pseudoprogression، الذي قد يستمر حتى 5 سنوات ويسبب توسعًا مؤقتًا يصل إلى 3.6 أضعاف الحجم الأساسي. حدثت complications لدى 4 مرضى، واحتاج اثنان إلى shunt placement، كما خضع مريض واحد لـ salvage microsurgery بسبب intractable trigeminal neuralgia رغم انكماش الورم شعاعيًا. تدعم النتائج أهمية imaging طويل الأمد والتفسير الحذر للتضخم المؤقت، لكنها مستمدة من cohort صغيرة retrospective وتحتاج إلى تحقق في دراسات مقارنة أكبر.",
+      "summary_en": "This retrospective study evaluated 36 patients with large vestibular schwannomas (>5 cc) treated with Gamma Knife radiosurgery, with a median follow-up of 69 months. The observed radiographic tumor control rate was 97%, and the median residual tumor volume ratio was 26.1% of baseline. Cystic composition was associated with greater volume reduction than solid composition (adjusted geometric mean ratio 0.45; p=0.006). Cystic tumors more often showed continuous shrinkage, whereas solid tumors were more prone to pseudoprogression, which could persist for up to five years and transiently reach 3.6 times baseline volume. Complications occurred in four patients; two required shunt placement, and one underwent salvage microsurgery for intractable trigeminal neuralgia despite radiographic shrinkage. The findings support careful interpretation of imaging and long-term follow-up, but require validation in larger comparative studies.",
+      "practice_change_ar": "لا تغيّر هذه النتائج management الحالي، لكنها تدعم مواصلة imaging طويل الأمد وعدم اعتبار التضخم المؤقت وحده دليلًا على فشل Gamma Knife radiosurgery.",
+      "practice_change_en": "These findings do not change current management, but support continued long-term imaging and caution against interpreting transient enlargement alone as Gamma Knife radiosurgery failure.",
+      "future_impact_ar": "قد تساعد دراسات مقارنة أكبر على تحديد دور tumor composition في اختيار العلاج وتوقع مسار الاستجابة بعد radiosurgery.",
+      "future_impact_en": "Larger comparative studies may clarify how tumor composition should inform treatment selection and predict response after radiosurgery.",
+      "why_important_ar": "توضح الدراسة أن pseudoprogression قد يستمر سنوات وأن نمط الاستجابة قد يختلف بحسب cystic أو solid composition.",
+      "why_important_en": "The study highlights that pseudoprogression can last for years and that response patterns may differ by cystic versus solid composition.",
+      "vs_previous_ar": "تضيف الدراسة بيانات volumetric طويلة الأمد عن large vestibular schwannomas وتربط composition بنمط الانكماش، بدل الاكتفاء بتقييم tumor control.",
+      "vs_previous_en": "The study adds long-term volumetric data for large vestibular schwannomas and relates composition to shrinkage patterns rather than assessing tumor control alone.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة retrospective صغيرة من 36 مريضًا في موضوع مهم سريريًا، وتقدم ملاحظة مفيدة عن composition وpseudoprogression، لكنها لا تغيّر الممارسة ولا تثبت علاقة سببية.",
+      "stars_reason_en": "This small retrospective study of 36 patients addresses an important clinical question and offers useful observations on composition and pseudoprogression, but it does not change practice or establish causality.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because of the long follow-up, the possibility of years-long pseudoprogression, and the potential association between tumor composition and response.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات prospective أو comparative أكبر لتأكيد أثر cystic composition وتحديد معايير تمييز pseudoprogression عن progression الحقيقي.",
+      "research_gap_en": "Larger prospective or comparative studies are needed to confirm the effect of cystic composition and establish criteria for distinguishing pseudoprogression from true progression.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نستعرض اليوم دراسة عن النتائج طويلة الأمد لـ Gamma Knife radiosurgery لدى مرضى large vestibular schwannoma، مع التركيز على تأثير composition في تغير الحجم. الدراسة retrospective وشملت 36 مريضًا عولجوا بين عامي 2005 و2023، وكان حجم الأورام أكبر من 5 cc. بلغ median baseline volume نحو 7.3 cc، واستمر median follow-up لمدة 69 شهرًا.\n\nكان radiographic tumor control rate مرتفعًا، إذ بلغ 97%. كما بلغ median residual tumor volume ratio نحو 26.1% من الحجم الأساسي، ما يشير إلى shrinkage ملحوظ في هذه المجموعة. ارتبطت cystic tumors بانخفاض أكبر في الحجم المتبقي مقارنةً بـ solid tumors؛ وكان adjusted geometric mean ratio 0.45، مع p-value قدره 0.006. كذلك، ظهرت لدى cystic tumors أنماط shrinkage مستمرة أكثر، بينما كان pseudoprogression أكثر شيوعًا في solid tumors.\n\nالنقطة المهمة للتفسير السريري هي أن pseudoprogression قد يستمر حتى خمس سنوات، وقد يصل التوسع المؤقت إلى 3.6 أضعاف الحجم الأولي قبل حدوث regression لاحق. لذلك لا ينبغي تفسير كل زيادة في الحجم على أنها progression حقيقي، وينبغي مراعاة مسار التصوير على مدى طويل. مع ذلك، لا تعني هذه الملاحظة تجاهل الأعراض أو المضاعفات: حدثت complications لدى أربعة مرضى، احتاج اثنان منهم إلى shunt placement، وخضع مريض واحد لـ salvage microsurgery بسبب intractable trigeminal neuralgia رغم انكماش الورم شعاعيًا.\n\nمن حيث قوة الدليل، هذه سلسلة retrospective صغيرة ومن دون مجموعة مقارنة، لذا لا تثبت أن composition يسبب اختلاف الاستجابة، ولا تكفي لتغيير اختيار العلاج. لكنها تقدم معلومة مفيدة عند متابعة المرضى ومناقشة احتمال delayed regression. الخلاصة العملية هي الحفاظ على imaging طويل الأمد وتفسير تغير الحجم ضمن السياق السريري، مع عدم اعتبار النتائج دليلًا نهائيًا على تفوق radiosurgery. نحتاج إلى دراسات أكبر، ويفضل أن تكون prospective أو comparative، للتحقق من دور composition وتحديد أفضل معايير التفريق بين pseudoprogression وprogression الحقيقي.",
+      "audio_script_en": "Today we review a study of long-term outcomes after Gamma Knife radiosurgery for large vestibular schwannomas, focusing on whether tumor composition is associated with response. This retrospective series included 36 patients treated between 2005 and 2023, with tumors larger than 5 cc. Median baseline tumor volume was about 7.3 cc, and median follow-up was 69 months.\n\nThe observed radiographic tumor control rate was 97%. The median residual tumor volume ratio was 26.1% of baseline, indicating substantial shrinkage in this cohort. Cystic tumors had a lower final residual volume ratio than solid tumors, with an adjusted geometric mean ratio of 0.45 and a p-value of 0.006. Cystic tumors more often showed continuous shrinkage, while solid tumors were more likely to show pseudoprogression.\n\nA clinically important finding is that pseudoprogression could persist for up to five years. Transient enlargement reached as much as 3.6 times the initial volume before later regression. Thus, a temporary increase in tumor size should not automatically be considered true progression; the imaging trajectory over time matters. However, imaging findings must be interpreted alongside symptoms and complications. Four patients experienced complications, two required shunt placement, and one underwent salvage microsurgery for intractable trigeminal neuralgia despite radiographic shrinkage.\n\nThe evidence remains limited: this was a small retrospective series without a comparison group. It cannot establish that composition causes different responses or determine which treatment should be selected. Still, it offers useful information for counseling and follow-up. The practical takeaway is to maintain long-term imaging and interpret enlargement cautiously in the appropriate clinical context. Larger prospective or comparative studies are needed to validate the association with tumor composition and improve criteria for distinguishing pseudoprogression from true progression.",
+      "mcq": [
+        {
+          "q_ar": "ما نسبة median residual tumor volume ratio بعد Gamma Knife radiosurgery في هذه الدراسة؟",
+          "q_en": "What was the median residual tumor volume ratio after Gamma Knife radiosurgery in this study?",
+          "options_ar": [
+            "أ) 9.7%",
+            "ب) 26.1%",
+            "ج) 45%",
+            "د) 97%"
+          ],
+          "options_en": [
+            "A) 9.7%",
+            "B) 26.1%",
+            "C) 45%",
+            "D) 97%"
+          ],
+          "answer": 1,
+          "explanation_ar": "بلغ median residual tumor volume ratio 26.1% من الحجم الأساسي، بينما كان radiographic tumor control rate 97%.",
+          "explanation_en": "The median residual tumor volume ratio was 26.1% of baseline, while the radiographic tumor control rate was 97%."
+        },
+        {
+          "q_ar": "أي نوع من الأورام ارتبط بانكماش مستمر أكثر وبحجم نهائي متبقٍ أقل؟",
+          "q_en": "Which tumor type was associated with more continuous shrinkage and a lower final residual volume?",
+          "options_ar": [
+            "أ) Solid tumors",
+            "ب) Cystic tumors",
+            "ج) لم يرتبط composition بنمط الاستجابة",
+            "د) لم تحدد الدراسة هذا الارتباط"
+          ],
+          "options_en": [
+            "A) Solid tumors",
+            "B) Cystic tumors",
+            "C) Composition was not associated with response pattern",
+            "D) The study did not identify this association"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتبطت cystic composition بحجم متبقٍ أقل وباحتمال أكبر لنمط shrinkage مستمر، بينما ارتبطت solid tumors أكثر بـ pseudoprogression.",
+          "explanation_en": "Cystic composition was associated with a lower residual volume and more frequent continuous shrinkage, while solid tumors were more prone to pseudoprogression."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن pseudoprogression وفقًا للدراسة؟",
+          "q_en": "Which conclusion about pseudoprogression is most appropriate based on the study?",
+          "options_ar": [
+            "أ) يحدث فقط خلال الأشهر الأولى ويعني دائمًا progression حقيقيًا",
+            "ب) قد يستمر حتى خمس سنوات، لذا يلزم تفسير imaging طويل الأمد بحذر",
+            "ج) لا يحدث بعد Gamma Knife radiosurgery",
+            "د) يتطلب دائمًا salvage microsurgery"
+          ],
+          "options_en": [
+            "A) It occurs only in the first months and always indicates true progression",
+            "B) It may persist for up to five years, so long-term imaging should be interpreted cautiously",
+            "C) It does not occur after Gamma Knife radiosurgery",
+            "D) It always requires salvage microsurgery"
+          ],
+          "answer": 1,
+          "explanation_ar": "قد يستمر pseudoprogression حتى خمس سنوات، وقد يعقبه regression؛ لذا لا تكفي زيادة الحجم المؤقتة وحدها لإثبات progression حقيقي.",
+          "explanation_en": "Pseudoprogression may persist for up to five years and can be followed by regression; temporary enlargement alone does not establish true progression."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026112201",
+      "title_ar": "ميدترونيك وكارل ستورتز تتعاونان لتطوير حلول جراحية متكاملة للأنف والأذن والحنجرة",
+      "title_en": "Medtronic and KARL STORZ Collaborate on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-22",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أعلنت شركتا ميدترونيك وكارل ستورتز تعاونهما لتطوير حلول جراحية متكاملة في مجال الأنف والأذن والحنجرة. ويشير الإعلان إلى مسعى لدمج عروض الشركتين لخدمة جراحات هذا التخصص. ولا يحدد الخبر المنتجات أو التقنيات التي سيشملها الدمج، أو موعد إتاحتها، أو ما إذا كان التعاون يتضمن التزامات تجارية أو سريرية. ولم يُعلن عن قرار تنظيمي أو استحواذ أو شروط مالية.",
+      "summary_en": "Medtronic and KARL STORZ announced a collaboration focused on integrated surgical solutions for ear, nose and throat care. The announcement signals an effort to bring the companies’ offerings together for ENT surgery. The supplied news item does not specify which products or technologies will be integrated, when they may become available, or whether the collaboration includes commercial or clinical commitments. No regulatory decision, acquisition, or financial terms are reported.",
+      "practice_change_ar": "لا يُتوقع أن يغيّر الإعلان وحده الأجهزة أو مسارات العمل المتاحة للجراحين فوراً، إذ لم تُعلن تفاصيل المنتجات أو مواعيد طرحها.",
+      "practice_change_en": "ENT surgeons should not expect an immediate change in available devices or workflows based on the announcement alone; product details and timelines have not been provided.",
+      "future_impact_ar": "قد يفضي التعاون إلى حلول أكثر تكاملاً لغرف العمليات في تخصص الأنف والأذن والحنجرة، لكن أهميته ستعتمد على المنتجات والأدلة ومواعيد الإتاحة التي ستعلنها الشركتان لاحقاً.",
+      "future_impact_en": "The collaboration may lead to more integrated ENT operating-room solutions, but its significance will depend on the products, evidence, and availability that the companies disclose next.",
+      "why_important_ar": "قد يؤثر جمع قدرات شركتين راسختين في التكنولوجيا الطبية مستقبلاً في طريقة تكامل الأدوات والأنظمة الجراحية للأنف والأذن والحنجرة، لكن التداعيات السريرية لا تزال غير واضحة.",
+      "why_important_en": "Combining capabilities from two established medical-technology companies could eventually affect how ENT surgical tools and systems are integrated, though the clinical implications remain unclear.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "تعاون تجاري قد يهم الأطباء مستقبلاً، لكن لا توجد تفاصيل كافية عن المنتجات أو أثر سريري مباشر حالياً.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أعلنت ميدترونيك وكارل ستورتز عن تعاون يركز على تطوير حلول جراحية متكاملة لتخصص الأنف والأذن والحنجرة. وقد يتيح هذا التعاون مستقبلاً تنسيقاً أفضل بين تقنيات وأدوات الشركتين داخل غرف العمليات. لكن الخبر المتاح لا يحدد المنتجات المعنية، ولا موعد طرحها، ولا ما إذا كانت هناك دراسات سريرية أو التزامات تجارية محددة. لذلك، لا توجد في الوقت الحالي معلومات تدعو إلى تغيير الممارسة أو اعتماد أجهزة جديدة. تهم هذه الخطوة الجراحين بوصفها مؤشراً على توجه الشركات نحو حلول أكثر تكاملاً، إلا أن الحكم على أثرها السريري سيحتاج إلى تفاصيل إضافية عن التقنيات، والأدلة، وإمكانية الوصول إليها. سنراقب ما تعلنه الشركتان لاحقاً بشأن المنتجات والخطط الزمنية.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026112202",
+      "title_ar": "الشركات الرائدة في مجال الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية",
+      "title_en": "Leading ENT Companies Driving Medical Technology Innovation",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-22",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت SNS Insider عرضًا عامًا يسلّط الضوء على شركات تعمل في مجال الابتكار في التكنولوجيا الطبية لرعاية الأنف والأذن والحنجرة. ولا يذكر الخبر المتاح أسماء شركات أو منتجات محددة، أو صفقات، أو قرارات تنظيمية، أو نتائج سريرية. لذلك لا يقدم تفاصيل قابلة للتحقق عن تطور تجاري بعينه أو تغيير في الممارسة السريرية.",
+      "summary_en": "SNS Insider published an overview highlighting companies involved in medical technology innovation for ear, nose, and throat care. The provided news item does not identify specific companies, products, transactions, regulatory decisions, or clinical findings. It therefore offers no verifiable details about a particular business development or change in clinical practice.",
+      "practice_change_ar": "لا تدعم المعلومات المحدودة في هذا الخبر أي تغيير فوري في الممارسة السريرية.",
+      "practice_change_en": "No immediate practice change is supported by the limited information in this item.",
+      "future_impact_ar": "قد تؤثر منتجات وأدلة محددة في رعاية الأنف والأذن والحنجرة مستقبلًا، لكن لا يمكن تقييم أثرها المحتمل استنادًا إلى هذا العنوان وحده.",
+      "future_impact_en": "Specific products and evidence may shape ENT care in the future, but their potential impact cannot be assessed from this headline alone.",
+      "why_important_ar": "يشير الخبر إلى استمرار الاهتمام التجاري بتقنيات الأنف والأذن والحنجرة، لكنه لا يقدم أدلة توجه القرارات السريرية أو الشرائية.",
+      "why_important_en": "The item signals ongoing commercial interest in ENT technology, but provides no evidence to guide clinical or purchasing decisions.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "الأهمية محدودة لجرّاحي الأنف والأذن والحنجرة لغياب تفاصيل عن شركات أو منتجات أو نتائج محددة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "إليكم موجزًا عن خبر في قطاع الأنف والأذن والحنجرة. نشرت منصة SNS Insider مادة بعنوان «الشركات الرائدة في مجال الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية». لكن المعلومات المتاحة هنا لا تحدد أسماء الشركات أو التقنيات، ولا تشير إلى استحواذ أو قرار من إدارة الغذاء والدواء الأمريكية أو نتائج دراسة سريرية. لذلك لا يمكن استخلاص أثر مباشر على اختيار الأجهزة أو أساليب علاج المرضى. بالنسبة إلى أطباء الأنف والأذن والحنجرة، يُعد الخبر إشارة عامة إلى اهتمام الشركات بتطوير تقنيات هذا التخصص، وليس إعلانًا عن تغيير عملي محدد. سنحتاج إلى تفاصيل عن المنتجات والبيانات السريرية والتنظيمية قبل تقييم أثرها على رعاية المرضى أو قرارات الشراء.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026112203",
+      "title_ar": "ميدترونيك تحصل على علامة CE لمنصة Stealth AXiS الروبوتية لجراحة الأنف والأذن والحنجرة",
+      "title_en": "Medtronic Earns CE Mark for Stealth AXiS Robotic Platform in ENT Surgery",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-22",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "حصلت ميدترونيك على علامة CE لمنصة Stealth AXiS الروبوتية المخصصة للاستخدام في جراحة الأنف والأذن والحنجرة. وتشير العلامة إلى استيفاء المنصة المتطلبات التنظيمية الأوروبية المطبقة للاستخدام المقصود. ويمثل ذلك محطة تنظيمية وتجارية، لكن الخبر لا يحدد الإجراءات التي تشملها المنصة، أو موعد توفرها، أو ما إذا كانت قد أثبتت تحسناً في النتائج السريرية. ولم يُذكر حصولها على تصريح من إدارة الغذاء والدواء الأمريكية.",
+      "summary_en": "Medtronic has received CE marking for its Stealth AXiS robotic platform for use in ENT surgery. The mark indicates the platform has met applicable European regulatory requirements for the intended use. It is a regulatory and commercial milestone, but the announcement as reported does not specify which procedures are covered, when the platform will be available, or whether clinical outcomes have been demonstrated. No U.S. FDA authorization is reported.",
+      "practice_change_ar": "قد تتاح لجراحي الأنف والأذن والحنجرة في أوروبا منصة روبوتية جديدة لتقييمها، لكن أهميتها العملية ستعتمد على الاستطبابات المعتمدة وسير العمل ومتطلبات التدريب والأدلة السريرية.",
+      "practice_change_en": "ENT surgeons in Europe may have a new robotic platform to evaluate, but its practical relevance will depend on its approved indications, workflow, training needs, and clinical evidence.",
+      "future_impact_ar": "قد توسع المنصة دور الروبوتات في اختصاص الأنف والأذن والحنجرة إذا ثبت تبنيها وسلامتها وتحقيقها فوائد سريرية أو تشغيلية ملموسة.",
+      "future_impact_en": "The platform could expand the role of robotics in ENT if adoption, safety, and meaningful clinical or workflow benefits are demonstrated.",
+      "why_important_ar": "تمثل علامة CE خطوة مهمة نحو الاستخدام في أوروبا، لكن أثر المنصة على رعاية المرضى لا يزال غير واضح في غياب تفاصيل عن الاستطبابات والنتائج.",
+      "why_important_en": "The CE mark is an important step toward European use, while its effect on patient care remains uncertain without details on indications and outcomes.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 3,
+      "stars_reason_ar": "خطوة تنظيمية وتقنية مهمة لجراحة الأنف والأذن والحنجرة، لكن تفاصيل الاستخدام والأدلة السريرية غير متاحة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أعلنت ميدترونيك حصول منصة Stealth AXiS الروبوتية المخصصة لجراحة الأنف والأذن والحنجرة على علامة CE. ويتيح هذا الاعتماد الأوروبي الانتقال إلى مرحلة الاستخدام التجاري وفق الاستطبابات المعتمدة، لكنه لا يعني بحد ذاته إثبات تفوق سريري أو تحسن نتائج المرضى. الخبر المنشور لا يوضح أنواع الإجراءات التي ستشملها المنصة، ولا موعد توفرها، كما لا يشير إلى حصولها على تصريح من إدارة الغذاء والدواء الأمريكية. بالنسبة إلى الجراحين، ستكون الخطوة التالية هي معرفة كيفية دمج النظام في سير العمل، وما التدريب المطلوب، وما إذا كانت هناك فوائد ملموسة في الدقة أو السلامة أو الكفاءة. لذلك تمثل هذه الخطوة تطوراً مهماً في مجال الروبوتات الجراحية، لكن تقييم قيمتها العملية سيحتاج إلى تفاصيل إضافية وبيانات سريرية.",
+      "mcq": []
+    }
+  ]
+}
