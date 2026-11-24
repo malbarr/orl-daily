@@ -1,0 +1,981 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T13:39:17Z",
+  "articles": [
+    {
+      "pmid": "43069965",
+      "title_ar": "Office-Based Laser Therapy of Vocal Fold Cysts: A Systematic Review and Meta-Analysis.",
+      "title_en": "Office-Based Laser Therapy of Vocal Fold Cysts: A Systematic Review and Meta-Analysis.",
+      "journal": "Laryngoscope investigative otolaryngology",
+      "pub_date": "2026-Dec",
+      "doi": "10.1002/lio2.70615",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43069965/",
+      "pdf_url": "https://doi.org/10.1002/lio2.70615",
+      "study_design": "Systematic review and meta-analysis; 11 studies, 35 patients",
+      "summary_ar": "قيّمت هذه systematic review وmeta-analysis نتائج office-based laser therapy لدى مرضى vocal fold cysts، وشملت 11 دراسة و35 مريضًا، مع إدراج خمس دراسات في التحليل الكمي. ارتفعت درجات VHI وتحسنت مقاييس dysphonia والصوت، بما فيها jitter وshimmer وmaximum phonation time. أبلغت الدراسات عن complete disease regression لدى 34 من أصل 35 مريضًا، مع تحسن stroboscopic findings عند تقييمها. اعتمدت عدة تقديرات مجمعة على دراستين صغيرتين فقط، وسُجلت ست دراسات على أنها ذات serious risk of bias. تشير النتائج إلى احتمال فائدة العلاج لدى مرضى مختارين، لكنها لا تثبت تفوقه على microlaryngeal surgery.",
+      "summary_en": "This systematic review and meta-analysis evaluated office-based laser therapy for vocal fold cysts.\nEleven studies included 35 patients, and five studies contributed to quantitative synthesis.\nPooled results suggested improvements in VHI, dysphonia grade, jitter, shimmer, and maximum phonation time.\nComplete disease regression was reported in 34 of 35 patients, with improved stroboscopic findings where assessed.\nHowever, several pooled estimates relied on only two small studies, and six studies had serious risk of bias.\nThe findings support cautious consideration for selected patients, not a conclusion of superiority over microlaryngeal surgery.",
+      "practice_change_ar": "لا تغيّر هذه النتائج الممارسة حاليًا، لكن يمكن مناقشة office-based laser therapy كخيار انتقائي مع توضيح محدودية الأدلة وعدم ثبوت التفوق على microlaryngeal surgery.",
+      "practice_change_en": "These findings do not change practice today, but office-based laser therapy may be discussed as a selective option while explaining the limited evidence and lack of demonstrated superiority over microlaryngeal surgery.",
+      "future_impact_ar": "قد تدعم دراسات prospective comparative أكبر تحديد المرضى الأنسب للعلاج ومقارنة نتائجه مباشرةً مع microlaryngeal surgery.",
+      "future_impact_en": "Larger prospective comparative studies may identify the best candidates and directly compare outcomes with microlaryngeal surgery.",
+      "why_important_ar": "تجمع المقالة أدلة أولية على تحسن الصوت وانحسار vocal fold cysts بعد إجراء مكتبي، مع إبراز مقدار عدم اليقين.",
+      "why_important_en": "The article synthesizes early evidence of voice improvement and vocal fold cyst regression after an office-based procedure while making the uncertainty clear.",
+      "vs_previous_ar": "بدل الاعتماد على تقارير منفردة، تجمع هذه الدراسة النتائج المنشورة، لكنها لا تضيف دليلًا مقارنًا عالي الجودة إلى المعرفة السابقة.",
+      "vs_previous_en": "Rather than relying on individual reports, this review pools the published findings, but it does not add high-quality comparative evidence to existing knowledge.",
+      "stars": 3,
+      "stars_reason_ar": "هذه systematic review وmeta-analysis، ما يمنحها تصميمًا قويًا مبدئيًا، لكن مجموع العينة 35 مريضًا فقط، ومعظم الدراسات رصدية وبعض التقديرات قائمة على دراستين صغيرتين؛ لذا تقدم معرفة مفيدة دون تغيير الممارسة.",
+      "stars_reason_en": "This systematic review and meta-analysis has a strong design in principle, but includes only 35 patients overall, with observational studies and several estimates based on two small studies; it offers useful knowledge without changing practice.",
+      "confidence": "🔴",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق المناقشة بسبب الجمع بين نتائج واعدة لإجراء مكتبي وبين صغر العينة ومخاطر التحيز، وبسبب الحاجة إلى تقييم مدى موثوقية التحليل المجمع.",
+      "jc_reason_en": "It merits discussion because promising results for an office-based procedure are paired with a small sample and risk of bias, raising questions about the reliability of the pooled estimates.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا استخدام laser therapy في العيادة، إذ قد يوفر خيارًا إجرائيًا أقل اعتمادًا على microlaryngeal surgery، لكن فعاليته المقارنة ما زالت غير مؤكدة.",
+      "watch_detail_en": "Track office-based laser therapy as a potential procedural alternative to microlaryngeal surgery, while recognizing that its comparative effectiveness remains uncertain.",
+      "watch_type": "device",
+      "research_gap_ar": "هناك حاجة إلى دراسات prospective comparative أكبر، مع تعريف cyst-specific واضح ومتابعة موحدة لنتائج الصوت والانحسار والمضاعفات.",
+      "research_gap_en": "Larger prospective comparative studies are needed, with clear cyst-specific reporting and standardized follow-up of voice outcomes, regression, and complications.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نناقش اليوم systematic review وmeta-analysis حول office-based laser therapy لعلاج vocal fold cysts. شملت المراجعة 11 دراسة بمجموع 35 مريضًا، ولم تدخل سوى خمس دراسات في التحليل الكمي. أظهرت النتائج تحسنًا في VHI، ودرجة dysphonia، وjitter وshimmer، وكذلك maximum phonation time. كما أبلغت الدراسات عن complete disease regression لدى 34 مريضًا من أصل 35، مع تحسن stroboscopic findings في الحالات التي جرى تقييمها.\n\nلكن الأرقام الإيجابية تحتاج إلى تفسير حذر. اعتمدت تقديرات عدة على دراستين صغيرتين فقط، وكان التغاير متوسطًا لدرجة dysphonia، كما صُنفت ست دراسات على أنها ذات serious risk of bias، خصوصًا بسبب confounding ومحدودية الإبلاغ عن نتائج cyst-specific في مجموعات تضم آفات مختلفة. كذلك لا توجد هنا مقارنة قوية تثبت أن العلاج بالليزر يتفوق على microlaryngeal surgery.\n\nالخلاصة السريرية أن office-based laser therapy قد يكون خيارًا مناسبًا لبعض المرضى، لكنه لا يبرر تغيير الممارسة العامة في الوقت الحالي. يمكن مناقشته ضمن الاختيار المشترك للعلاج مع شرح محدودية الأدلة. أهمية المقال أنه يجمع نتائج نادرة نسبيًا حول خيار علاجي مكتبي، بينما يحدد بوضوح الفجوات التي تمنع استنتاجًا حاسمًا. الخطوة التالية هي إجراء دراسات prospective comparative أكبر، مع توثيق cyst-specific وقياس موحد لنتائج الصوت والانحسار والمضاعفات. لذا فهذه دراسة جديرة بالمناقشة والمتابعة، لكنها تقدم دليلًا منخفض الثقة ولا تثبت التكافؤ أو التفوق على الجراحة التقليدية.",
+      "audio_script_en": "Today we are reviewing a systematic review and meta-analysis of office-based laser therapy for vocal fold cysts. The authors included 11 studies with 35 patients overall, and five studies contributed to quantitative synthesis. Pooled results suggested improvements in VHI, dysphonia grade, jitter, shimmer, and maximum phonation time. Complete disease regression was reported in 34 of 35 patients, with improved stroboscopic findings where these were assessed.\n\nThese encouraging results need careful interpretation. Several estimates relied on only two small studies, heterogeneity for dysphonia grade was moderate, and six studies were rated at serious risk of bias. Concerns included confounding and limited cyst-specific reporting in cohorts that included mixed lesions. Most importantly, the review does not establish that laser therapy is superior to microlaryngeal surgery.\n\nFor clinical practice, office-based laser therapy may be considered for selected patients, but these findings do not justify changing routine management today. It can be discussed as a possible option with patients while being transparent about the limited evidence. The review matters because it brings together sparse evidence on an office-based approach and clearly identifies why certainty remains low. Larger prospective comparative studies are needed, with cyst-specific reporting and standardized measurement of voice outcomes, regression, and complications. Overall, this is useful journal-club material and a technology to track, but the evidence is not strong enough to demonstrate equivalence or superiority to conventional surgery.",
+      "mcq": [
+        {
+          "q_ar": "كم عدد المرضى الذين شملتهم الدراسات في هذه المراجعة؟",
+          "q_en": "How many patients were included across the studies in this review?",
+          "options_ar": [
+            "أ) 11",
+            "ب) 35",
+            "ج) 97",
+            "د) 120"
+          ],
+          "options_en": [
+            "A) 11",
+            "B) 35",
+            "C) 97",
+            "D) 120"
+          ],
+          "answer": 1,
+          "explanation_ar": "شملت المراجعة 11 دراسة بمجموع 35 مريضًا.",
+          "explanation_en": "The review included 11 studies comprising 35 patients."
+        },
+        {
+          "q_ar": "ما النتيجة المتعلقة بانحسار المرض التي أبلغت عنها المراجعة؟",
+          "q_en": "What disease-regression outcome did the review report?",
+          "options_ar": [
+            "أ) complete disease regression لدى 34 من 35 مريضًا",
+            "ب) complete disease regression لدى جميع المرضى",
+            "ج) عدم حدوث أي regression",
+            "د) لم تُبلغ أي دراسة عن regression"
+          ],
+          "options_en": [
+            "A) Complete disease regression in 34 of 35 patients",
+            "B) Complete disease regression in every patient",
+            "C) No regression occurred",
+            "D) No study reported regression"
+          ],
+          "answer": 0,
+          "explanation_ar": "أبلغت الدراسات عن complete disease regression لدى 34 من أصل 35 مريضًا.",
+          "explanation_en": "The studies reported complete disease regression in 34 of the 35 patients."
+        },
+        {
+          "q_ar": "ما أبرز سبب يدعو إلى الحذر عند تفسير النتائج؟",
+          "q_en": "What is a major reason to interpret the findings cautiously?",
+          "options_ar": [
+            "أ) لم تُقَس أي نتائج صوتية",
+            "ب) اقتصرت المراجعة على دراسات حيوانية",
+            "ج) صغر العينة ومخاطر التحيز، مع اعتماد عدة تقديرات على دراستين صغيرتين",
+            "د) جميع الدراسات كانت RCT كبيرة"
+          ],
+          "options_en": [
+            "A) No voice outcomes were measured",
+            "B) The review included only animal studies",
+            "C) Small sample size and risk of bias, with several estimates based on two small studies",
+            "D) All studies were large RCTs"
+          ],
+          "answer": 2,
+          "explanation_ar": "كان مجموع العينة 35 مريضًا، وسُجلت ست دراسات على أنها ذات serious risk of bias، كما اعتمدت عدة تقديرات على دراستين صغيرتين.",
+          "explanation_en": "The total sample was 35 patients, six studies had serious risk of bias, and several estimates relied on only two small studies."
+        }
+      ]
+    },
+    {
+      "pmid": "43070688",
+      "title_ar": "Surgical Anatomy of the Paralacerum Region and Its Relevance for Endoscopic Endonasal Skull Base Surgery.",
+      "title_en": "Surgical Anatomy of the Paralacerum Region and Its Relevance for Endoscopic Endonasal Skull Base Surgery.",
+      "journal": "Operative neurosurgery (Hagerstown, Md.)",
+      "pub_date": "2026-Nov-23",
+      "doi": "10.1227/ons.0000000000002226",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43070688/",
+      "pdf_url": null,
+      "study_design": "Anatomic morphometric study: dry skulls (80 sides), dissections (20 sides), and high-resolution CT (40 sides)",
+      "summary_ar": "درس الباحثون التشريح الجراحي لمنطقة paralacerum باستخدام dry skulls وanatomic dissections وhigh-resolution CT. تضم المنطقة lingual process وvidian nerve (VN) وpetrosphenoidal fissure وmandibular strut وforamen ovale وmandibular nerve وpetrous carotid segment. وُجد lingual process في 76% من الحالات، وكان غائبًا في 5%، وظهر كـossified ring في 19%. يشير petrosphenoidal triangle، المحدد بواسطة petrosphenoidal fissure وVN، نحو الجانب الوحشي من lacerum internal carotid artery (ICA)، ويُقترح كعلامة للوصول الآمن. بلغ متوسط زاوية قمة المثلث 88° ± 2°، ومتوسط عرض mandibular strut هو 6 ± 1 mm. يقع petrous ICA في العمق باتجاه posterolateral وبميل caudal طفيف، ما يستدعي الحذر أثناء الجراحة.",
+      "summary_en": "This anatomic study examined the paralacerum region using dry skulls, dissections, and high-resolution CT scans.\nThe region includes the lingual process, vidian nerve (VN), petrosphenoidal fissure, mandibular strut, foramen ovale, mandibular nerve, and petrous carotid segment.\nThe lingual process was present in 76% of cases, absent in 5%, and formed an ossified ring in 19%.\nThe petrosphenoidal triangle, bounded by the petrosphenoidal fissure and VN, points toward the lateral aspect of the lacerum internal carotid artery (ICA).\nIts mean apex angle was 88° ± 2°, and the mean mandibular strut width was 6 ± 1 mm.\nThe petrous ICA courses posterolaterally and slightly caudally, highlighting the need for caution during endoscopic access.",
+      "practice_change_ar": "يوفر petrosphenoidal triangle علامة تشريحية مفيدة لتوجيه الوصول إلى منطقة paralacerum، لكنه لا يغيّر الممارسة وحده دون تحقق سريري.",
+      "practice_change_en": "The petrosphenoidal triangle offers a useful landmark for navigating the paralacerum region, but does not by itself change practice without clinical validation.",
+      "future_impact_ar": "قد يساعد التحقق من هذه العلامات في دراسات سريرية على تحسين تخطيط وسلامة endoscopic endonasal skull base surgery.",
+      "future_impact_en": "Clinical validation of these landmarks could improve planning and safety in endoscopic endonasal skull base surgery.",
+      "why_important_ar": "توضح الدراسة علاقات تشريحية وعلامات قد تساعد الجراح على تجنب إصابة petrous ICA في منطقة عميقة ومعقدة.",
+      "why_important_en": "The study describes anatomic relationships and landmarks that may help surgeons avoid injury to the petrous ICA in a deep, complex region.",
+      "vs_previous_ar": "تضيف الدراسة وصفًا تشريحيًا ومورفومتريًا لمنطقة paralacerum وتقترح petrosphenoidal triangle كعلامة موجهة، بدل الاعتماد على وصف foramen lacerum وحده.",
+      "vs_previous_en": "The study adds a morphometric description of the paralacerum region and proposes the petrosphenoidal triangle as a navigational landmark beyond descriptions focused on the foramen lacerum.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة تشريحية متعددة الوسائل وليست دراسة نتائج سريرية؛ تضيف معرفة جراحية مفيدة، لكن أثرها على الممارسة لم يُثبت سريريًا.",
+      "stars_reason_en": "This is a multimodal anatomic study rather than a clinical outcomes study; it adds useful surgical knowledge, but its effect on practice has not been clinically validated.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسبة للنقاش التعليمي حول landmarks التشريحية ومخاطر إصابة ICA أثناء endoscopic endonasal skull base surgery.",
+      "jc_reason_en": "Suitable for teaching discussion of anatomic landmarks and ICA injury risk during endoscopic endonasal skull base surgery.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم تقييم سريري مستقبلي لتحديد ما إذا كان استخدام petrosphenoidal triangle يقلل إصابات ICA أو يحسن نتائج الجراحة.",
+      "research_gap_en": "Prospective clinical evaluation is needed to determine whether using the petrosphenoidal triangle reduces ICA injuries or improves surgical outcomes.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نستعرض اليوم دراسة تشريحية عن منطقة paralacerum وأهميتها في endoscopic endonasal skull base surgery. اعتمد الباحثون على morphometric analysis لعظام جافة شملت 80 جهة، وتشريح 20 جهة، وتحليل high-resolution CT لـ40 جهة. لذلك، تقدم الدراسة وصفًا تشريحيًا ومورفومتريًا، وليست تجربة سريرية أو دراسة لنتائج المرضى.\n\nتتضمن منطقة paralacerum عدة تراكيب مهمة، منها lingual process وvidian nerve، أو VN، وpetrosphenoidal fissure وmandibular strut وforamen ovale وmandibular nerve وpetrous carotid segment. كان lingual process موجودًا في 76% من الحالات، وغائبًا في 5%، وظهر كـossified ring في 19%، ما يوضح وجود اختلاف تشريحي ينبغي أخذه بالحسبان.\n\nالرسالة الجراحية الرئيسية هي أن petrosphenoidal triangle، المحدد بواسطة petrosphenoidal fissure وVN، يشير نحو الجانب الوحشي من lacerum ICA، ويقترحه المؤلفون كعلامة للوصول إلى المنطقة. بلغ متوسط زاوية قمة هذا المثلث 88 درجة مع انحراف قدره درجتان، وبلغ متوسط عرض mandibular strut ستة مليمترات مع انحراف قدره مليمتر واحد.\n\nفي عمق المنطقة، يسير petrous ICA باتجاه posterolateral وبميل caudal طفيف. ويصف المؤلفون علاقته بـVN بمتوسط زاوية 131 درجة في axial plane، وعلاقته بـparaclival ICA بمتوسط 120 درجة في coronal plane. هذه التفاصيل تدعم أهمية الحذر والتخطيط التشريحي لتجنب إصابة الشريان.\n\nسريريًا، تضيف الدراسة landmark مفيدًا للتوجيه، لكنها لا تثبت أن استخدامه يقلل المضاعفات أو يغير النتائج. لذا تُعد المعرفة جديرة بالاهتمام، مع ثقة متوسطة، لا دليلًا practice-changing. والخطوة البحثية التالية هي التحقق سريريًا مما إذا كان تطبيق هذه العلامة يحسن السلامة أو نتائج الجراحة. تصلح الدراسة لنقاش journal club وتعليم تشريح skull base، خصوصًا للعاملين في جراحة الأنف وقاعدة الجمجمة.",
+      "audio_script_en": "Today we review an anatomic study of the paralacerum region and its relevance to endoscopic endonasal skull base surgery. The investigators combined morphometric assessment of 80 sides of dry skulls, dissections of 20 sides, and high-resolution CT analysis of 40 sides. This is an anatomic and morphometric study, not a clinical trial or an outcomes study.\n\nThe paralacerum region contains several surgically important structures: the lingual process, vidian nerve (VN), petrosphenoidal fissure, mandibular strut, foramen ovale, mandibular nerve, and petrous carotid segment. The lingual process was present in 76% of cases, absent in 5%, and present as an ossified ring in 19%. This variability is relevant when interpreting anatomy during operative planning.\n\nThe principal proposed landmark is the petrosphenoidal triangle, bounded by the petrosphenoidal fissure and the VN. The triangle points toward the lateral aspect of the lacerum ICA and is presented as a reliable guide to the paralacerum region. Its mean apex angle was 88 degrees, with a standard deviation of 2 degrees. The mean medial-to-lateral width of the mandibular strut was 6 millimeters, with a standard deviation of 1 millimeter.\n\nThe key safety consideration is the course of the petrous ICA in the depth of the region. It runs posterolaterally and slightly caudally. The reported mean angle between the VN and petrous ICA in the axial plane was 131 degrees, while the mean angle between the paraclival and petrous ICA in the coronal plane was 120 degrees. These relationships reinforce the need for careful navigation and awareness of anatomic variation to avoid vascular injury.\n\nFor current practice, the petrosphenoidal triangle is a useful anatomic reference, but this study does not demonstrate that using it reduces complications or improves patient outcomes. The evidence is therefore worth knowing, with moderate confidence, rather than practice-changing. A key research gap is prospective clinical validation of the landmark and its relationship to surgical safety and outcomes. This article is appropriate for journal club and skull base anatomy teaching, particularly for clinicians involved in endoscopic endonasal approaches.",
+      "mcq": [
+        {
+          "q_ar": "ما العلامة التشريحية التي يقترحها الباحثون لتوجيه الوصول إلى منطقة paralacerum؟",
+          "q_en": "Which anatomic landmark do the authors propose for navigating the paralacerum region?",
+          "options_ar": [
+            "أ) petrosphenoidal triangle",
+            "ب) foramen ovale",
+            "ج) mandibular strut",
+            "د) lingual process"
+          ],
+          "options_en": [
+            "A) The petrosphenoidal triangle",
+            "B) The foramen ovale",
+            "C) The mandibular strut",
+            "D) The lingual process"
+          ],
+          "answer": 0,
+          "explanation_ar": "يشير petrosphenoidal triangle نحو الجانب الوحشي من lacerum ICA، ويُقترح كعلامة موثوقة للوصول إلى المنطقة.",
+          "explanation_en": "The petrosphenoidal triangle points toward the lateral aspect of the lacerum ICA and is proposed as a reliable access landmark."
+        },
+        {
+          "q_ar": "ما نسبة الحالات التي ظهر فيها lingual process كـossified ring؟",
+          "q_en": "In what proportion of cases was the lingual process present as an ossified ring?",
+          "options_ar": [
+            "أ) 5%",
+            "ب) 19%",
+            "ج) 76%",
+            "د) 88%"
+          ],
+          "options_en": [
+            "A) 5%",
+            "B) 19%",
+            "C) 76%",
+            "D) 88%"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان lingual process موجودًا كـossified ring في 19% من الحالات.",
+          "explanation_en": "The lingual process was present as an ossified ring in 19% of cases."
+        },
+        {
+          "q_ar": "ما الاتجاه الذي يسلكه petrous ICA في عمق منطقة paralacerum وفق الدراسة؟",
+          "q_en": "What is the course of the petrous ICA deep in the paralacerum region according to the study?",
+          "options_ar": [
+            "أ) anteromedial مع ميل cephalad",
+            "ب) posterolateral مع ميل caudal طفيف",
+            "ج) مباشرة lateral دون ميل رأسي",
+            "د) anterolateral مع ميل caudal"
+          ],
+          "options_en": [
+            "A) Anteromedial with a cephalad inclination",
+            "B) Posterolateral with a slight caudal inclination",
+            "C) Directly lateral with no vertical inclination",
+            "D) Anterolateral with a caudal inclination"
+          ],
+          "answer": 1,
+          "explanation_ar": "وصف الباحثون petrous ICA بأنه يسير posterolaterally وبميل caudal طفيف.",
+          "explanation_en": "The authors describe the petrous ICA as running posterolaterally with a slight caudal inclination."
+        }
+      ]
+    },
+    {
+      "pmid": "43072744",
+      "title_ar": "The Future of AI-Based Outcomes Tracking in Facial Plastic and Reconstructive Surgery",
+      "title_en": "The Future of AI-Based Outcomes Tracking in Facial Plastic and Reconstructive Surgery",
+      "journal": "Facial plastic surgery : FPS",
+      "pub_date": "2026-Nov-23",
+      "doi": "10.1055/a-3009-9215",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43072744/",
+      "pdf_url": null,
+      "study_design": "Narrative review",
+      "summary_ar": "تستعرض هذه narrative review تطور تقييم النتائج في facial plastic surgery من الفحص الذاتي والقياسات اليدوية إلى التصوير ثنائي وثلاثي الأبعاد واستخدام machine learning وcomputer vision. تستطيع هذه التقنيات قياس ملامح الوجه وعدم التناظر والعمر المدرك والحركة الديناميكية بدقة تقنية متزايدة. مع ذلك، فإن دراسات قليلة قارنت هذه القياسات مباشرةً مع validated patient-reported outcome measures (PROMs). وتُظهر الأدلة في facial rejuvenation وrhinoplasty وblepharoplasty وfacial paralysis ارتباطات متفاوتة بين القياسات والنتائج التي يبلغ عنها المرضى. لا تثبت المراجعة أن هذه الأدوات جاهزة للاستخدام الروتيني في تتبع النتائج السريرية. وتوصي بدراسات longitudinal تقيس التغيرات لدى المرضى أنفسهم بالتوازي مع PROMs، وتحدد عتبات التغير ذي الأهمية السريرية.",
+      "summary_en": "This narrative review traces facial plastic surgery outcomes assessment from subjective inspection and manual anthropometry to 2D/3D imaging, machine learning, and computer vision. These technologies can quantify facial morphology, asymmetry, perceived age, and dynamic movement with increasing technical accuracy. Few studies have directly compared these metrics with validated patient-reported outcome measures (PROMs). Evidence across facial rejuvenation, rhinoplasty, blepharoplasty, and facial paralysis shows variable associations with patient-reported outcomes. The review does not establish that these tools are ready for routine clinical outcome tracking. It calls for longitudinal, within-patient studies that pair metrics with PROMs and define thresholds for clinically meaningful change.",
+      "practice_change_ar": "لا يبرر هذا المقال تغيير الممارسة اليوم؛ ينبغي عدم اعتماد مقاييس AI بديلًا عن PROMs المعتمدة قبل التحقق من ارتباطها السريري.",
+      "practice_change_en": "This article does not justify changing practice today; AI metrics should not replace validated PROMs without clinical validation.",
+      "future_impact_ar": "قد تتيح الدراسات المستقبلية التي تجمع قياسات AI وPROMs longitudinally تتبعًا موضوعيًا وذا معنى سريري لنتائج جراحات الوجه.",
+      "future_impact_en": "Future studies pairing AI measurements with PROMs longitudinally may enable objective, clinically meaningful tracking of facial surgery outcomes.",
+      "why_important_ar": "توضح المراجعة أن الدقة التقنية في قياس الوجه لا تعني تلقائيًا أن القياس يعكس ما يهم المرضى.",
+      "why_important_en": "The review highlights that technical accuracy in facial measurement does not necessarily mean a metric reflects what matters to patients.",
+      "vs_previous_ar": "على عكس التقييمات السابقة التي ركزت على دقة التصوير والتحليل، تركز هذه المراجعة على التحقق من ارتباط المقاييس بنتائج المرضى المعتمدة.",
+      "vs_previous_en": "Unlike assessments focused mainly on imaging and analytic accuracy, this review emphasizes validation against patient-reported outcomes.",
+      "stars": 3,
+      "stars_reason_ar": "هذه narrative review وليست دراسة تدخلية أو مراجعة منهجية، وتقدم معرفة مفيدة عن فجوة التحقق من PROMs لكنها لا تغير الممارسة حاليًا.",
+      "stars_reason_en": "This is a narrative review, not an interventional study or systematic review; it provides useful insight into the PROM-validation gap but does not change current practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Useful for discussing the distinction between technical accuracy of AI tools and validity for measuring patient-important outcomes.",
+      "watch": true,
+      "watch_detail_ar": "تابع تطور machine learning وcomputer vision لتحليل الصور والحركة الوجهية، مع التركيز على تحققها مقابل PROMs قبل استخدامها سريريًا.",
+      "watch_detail_en": "Track machine learning and computer vision for facial image and movement analysis, particularly validation against PROMs before clinical adoption.",
+      "watch_type": "technology",
+      "research_gap_ar": "هناك حاجة إلى دراسات longitudinal تقارن تغير القياسات المدعومة بـAI مع تغير PROMs لدى المرضى أنفسهم وتحدد عتبات ذات أهمية سريرية.",
+      "research_gap_en": "Longitudinal studies should compare within-patient changes in AI-derived metrics with PROM changes and establish clinically meaningful thresholds.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "يتناول هذا المقال مستقبل استخدام الذكاء الاصطناعي لتتبع النتائج في جراحات الوجه التجميلية والترميمية. وهو narrative review، لذلك لا يختبر تدخلًا علاجيًا جديدًا ولا يقدم نتائج تجربة سريرية واحدة، بل يلخص تطور أساليب التقييم والأدلة المتاحة.\n\nتاريخيًا، انتقل تقييم النتائج من الفحص الذاتي والقياسات اليدوية إلى التصوير ثنائي وثلاثي الأبعاد، ثم إلى automated landmark detection وأساليب machine learning وcomputer vision. يمكن لهذه الأدوات قياس شكل الوجه، وعدم التناظر، والعمر المدرك، والحركة الديناميكية بدقة تقنية متزايدة. لكن السؤال الأهم سريريًا ليس فقط ما إذا كانت الأداة تقيس الوجه بدقة، بل ما إذا كان التغير المقاس يعكس تحسنًا يلاحظه المريض ويقدّره.\n\nتجد المراجعة أن عددًا قليلًا من الدراسات قارن هذه المقاييس مباشرةً مع validated patient-reported outcome measures، أو PROMs. وفي مجالات تشمل facial rejuvenation وrhinoplasty وblepharoplasty وfacial paralysis، كان الارتباط بين القياسات والنتائج التي يبلغ عنها المرضى متفاوتًا. لذلك لا تدعم الأدلة الحالية اعتماد هذه القياسات بديلًا عن PROMs، ولا تبرر تغيير الممارسة اليومية.\n\nأهمية المقال أنه يوضح فجوة بين التقدم التقني والتحقق من الفائدة السريرية. الدقة في تحليل الصورة لا تكفي وحدها لإثبات أن المقياس يعكس نتيجة مهمة للمريض. وتوصي المراجعة بدراسات longitudinal تقيس التغيرات لدى المريض نفسه، مع جمع مقاييس AI وPROMs المناسبة بالتوازي، وتحديد عتبات للتغير ذي الأهمية السريرية.\n\nالخلاصة للأطباء: هذه تقنية واعدة تستحق المتابعة، لكنها في الوقت الحالي أداة بحثية أكثر من كونها معيارًا روتينيًا لتقييم نتائج جراحات الوجه. الثقة في الاستنتاج متوسطة؛ فالمقال مفيد لتحديد اتجاه البحث، لكن الأدلة المباشرة على ارتباط المقاييس بتجربة المرضى ما زالت محدودة.",
+      "audio_script_en": "This article considers the future of AI-based outcomes tracking in facial plastic and reconstructive surgery. It is a narrative review rather than a clinical trial, so it summarizes the evolution of assessment methods and the available evidence instead of testing a new intervention.\n\nFacial outcomes assessment has progressed from subjective inspection and manual anthropometry to 2D and 3D imaging, automated landmark detection, and machine learning and computer vision. These methods can quantify facial morphology, asymmetry, perceived age, and dynamic movement with increasing technical accuracy. The key clinical question, however, is not simply whether a tool measures the face accurately. It is whether the measured change corresponds to an improvement that matters to the patient.\n\nThe review finds that few studies have directly compared these metrics with validated patient-reported outcome measures, or PROMs. Across facial rejuvenation, rhinoplasty, blepharoplasty, and facial paralysis, associations between objective metrics and patient-reported outcomes are variable. The evidence therefore does not support replacing PROMs with AI-derived measures or changing routine practice today.\n\nThe article matters because it highlights a gap between technical progress and clinical validation. Accurate image analysis alone does not establish that a metric captures a patient-important outcome. The authors call for longitudinal studies that assess changes within individual patients, collect AI-derived metrics alongside relevant PROMs, and establish thresholds for clinically meaningful change.\n\nFor clinicians, the takeaway is that this technology is promising and worth tracking, but it remains primarily a research tool rather than a routine standard for facial surgery outcomes assessment. Confidence is moderate: the review is useful for framing the research direction, while direct evidence linking these metrics to patients’ experiences remains limited.",
+      "mcq": [
+        {
+          "q_ar": "ما الفجوة الأساسية التي تحد من الاستخدام السريري الروتيني لمقاييس machine learning وcomputer vision؟",
+          "q_en": "What is the main gap limiting routine clinical use of machine learning and computer vision metrics?",
+          "options_ar": [
+            "أ) عدم القدرة على تحليل صور الوجه",
+            "ب) قلة المقارنات المباشرة مع validated PROMs",
+            "ج) عدم وجود أي تطبيقات في جراحة الوجه",
+            "د) ثبوت أن جميع المقاييس غير دقيقة"
+          ],
+          "options_en": [
+            "A) An inability to analyze facial images",
+            "B) Few direct comparisons with validated PROMs",
+            "C) No applications in facial surgery",
+            "D) Evidence that all metrics are inaccurate"
+          ],
+          "answer": 1,
+          "explanation_ar": "تؤكد المراجعة أن القياسات قد تكون دقيقة تقنيًا، لكن دراسات قليلة اختبرت ارتباطها مباشرةً بـvalidated PROMs.",
+          "explanation_en": "The review notes that metrics may be technically accurate, but few studies have directly tested their association with validated PROMs."
+        },
+        {
+          "q_ar": "ما توصية المراجعة البحثية الأهم؟",
+          "q_en": "What is the review’s key research recommendation?",
+          "options_ar": [
+            "أ) استبدال PROMs بالتصوير الآلي فورًا",
+            "ب) إجراء دراسات longitudinal تجمع قياسات AI وPROMs لدى المرضى أنفسهم",
+            "ج) إيقاف استخدام التصوير ثنائي وثلاثي الأبعاد",
+            "د) الاكتفاء بتقييم صور ما بعد الجراحة"
+          ],
+          "options_en": [
+            "A) Immediately replace PROMs with automated imaging",
+            "B) Conduct longitudinal studies pairing AI metrics and PROMs within the same patients",
+            "C) Stop using 2D and 3D imaging",
+            "D) Assess postoperative images only"
+          ],
+          "answer": 1,
+          "explanation_ar": "توصي المراجعة بمتابعة longitudinal لدى المرضى أنفسهم لتحديد ارتباط التغير في المقاييس بالتغير في PROMs وعتبات الأهمية السريرية.",
+          "explanation_en": "The review recommends longitudinal within-patient assessment to link metric changes with PROM changes and determine clinically meaningful thresholds."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب للممارسة السريرية اليوم؟",
+          "q_en": "What is the most appropriate conclusion for clinical practice today?",
+          "options_ar": [
+            "أ) مقاييس AI بديل مثبت عن PROMs",
+            "ب) ينبغي استخدامها معيارًا إلزاميًا بعد كل جراحة وجه",
+            "ج) هي واعدة، لكن الأدلة لا تبرر اعتمادها الروتيني أو استبدال PROMs",
+            "د) لا يمكنها قياس أي تغير بعد الجراحة"
+          ],
+          "options_en": [
+            "A) AI metrics are a proven replacement for PROMs",
+            "B) They should be mandatory after every facial operation",
+            "C) They are promising, but evidence does not justify routine adoption or replacing PROMs",
+            "D) They cannot measure any postoperative change"
+          ],
+          "answer": 2,
+          "explanation_ar": "تخلص المراجعة إلى أن القياسات قد تكون دقيقة، لكن التحقق من ارتباطها بنتائج المرضى لا يزال غير كافٍ للاستخدام الروتيني.",
+          "explanation_en": "The review concludes that metrics can be accurate, but their relationship to patient outcomes is not sufficiently validated for routine use."
+        }
+      ]
+    },
+    {
+      "pmid": "43070905",
+      "title_ar": "Predictors of outcomes of endoscopic sinus surgery for CRSwNP: a systematic review of the literature.",
+      "title_en": "Predictors of outcomes of endoscopic sinus surgery for CRSwNP: a systematic review of the literature.",
+      "journal": "Rhinology",
+      "pub_date": "2026-Nov-23",
+      "doi": "10.4193/Rhin25.510",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43070905/",
+      "pdf_url": null,
+      "study_design": "Systematic review of 152 studies",
+      "summary_ar": "راجع هذا الـsystematic review عدد 152 دراسة لتحديد العوامل التي تتنبأ بنتائج ضعيفة بعد endoscopic sinus surgery لدى مرضى CRSwNP. ارتبطت النتائج الأسوأ بوجود asthma أو NSAID-exacerbated respiratory disease، وبجراحات سابقة، خصوصًا مع زيادة عدد العمليات أو إصابة frontal sinus. كما ارتبطت شدة الأعراض ومدتها قبل العملية، وارتفاع Lund-Mackay score قبل العملية، وارتفاع tissue eosinophil counts بنتائج أقل ملاءمة. ووجدت بعض الأدلة على دور allergy، وعوامل مرتبطة بالجراحة، وعدم استخدام corticosteroids بعد العملية، وارتفاع ethmoid-to-maxillary opacification ratio وLund-Kennedy endoscopic score، إضافة إلى osteitis وinterleukin-5. لم يقدم review نموذجًا موحدًا ومقبولًا سريريًا لتوقع النتائج الفردية. تساعد النتائج في تحديد المرضى الأعلى خطورة، لكنها لا تثبت أن تعديل هذه العوامل سيحسن النتائج.",
+      "summary_en": "This systematic review included 152 studies assessing predictors of poor outcomes after endoscopic sinus surgery for CRSwNP. Asthma, NSAID-exacerbated respiratory disease, and prior surgery—particularly repeated procedures and frontal sinus involvement—were associated with poorer outcomes. Greater preoperative symptom severity and duration, a higher Lund-Mackay score, and increased tissue eosinophil counts were also predictive factors. Some evidence supported associations with allergy, surgical factors, lack of postoperative corticosteroid use, higher ethmoid-to-maxillary opacification ratios, higher Lund-Kennedy endoscopic scores, osteitis, and interleukin-5. The review did not establish a universally accepted clinical prediction model. Its findings can help identify higher-risk patients but do not show that modifying these factors improves outcomes.",
+      "practice_change_ar": "استخدم هذه العوامل لمناقشة احتمال استمرار المرض وتخصيص المتابعة والعلاج بعد العملية، دون اعتبارها نموذجًا تنبؤيًا معتمدًا.",
+      "practice_change_en": "Use these factors to discuss the risk of persistent disease and tailor postoperative follow-up and treatment, without treating them as a validated prediction model.",
+      "future_impact_ar": "قد تساعد هذه العوامل في تطوير نموذج تنبؤي موحد ومتحقق منه لتوجيه اختيار العلاج والمتابعة لدى مرضى CRSwNP.",
+      "future_impact_en": "These factors may support development of a standardized, validated prediction model to guide treatment selection and follow-up in CRSwNP.",
+      "why_important_ar": "يجمع review أدلة واسعة حول سمات المرضى والمرض المرتبطة بنتائج أضعف بعد endoscopic sinus surgery.",
+      "why_important_en": "The review synthesizes broad evidence on patient and disease characteristics associated with poorer outcomes after endoscopic sinus surgery.",
+      "vs_previous_ar": "بدلًا من تقديم عامل واحد أو إرشاد جديد، يجمع review عوامل تنبؤية متعددة ويؤكد غياب نموذج سريري متفق عليه.",
+      "vs_previous_en": "Rather than introducing a single predictor or new guideline, the review consolidates multiple risk factors and highlights the absence of an agreed clinical model.",
+      "stars": 4,
+      "stars_reason_ar": "مراجعة منهجية واسعة لـ152 دراسة، وتقدم معرفة مفيدة لتقدير المخاطر؛ لكن غياب نموذج تنبؤي موحد وعدم إثبات أثر تغيير العوامل يحدان من تغيير الممارسة.",
+      "stars_reason_en": "A broad systematic review of 152 studies provides useful risk-stratification knowledge, but the absence of a unified prediction model and evidence that modifying risk factors improves outcomes limit practice change.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "يستحق النقاش في journal club لأنه يجمع عوامل تنبؤية متعددة ويتيح تقييم اختلاف الأدلة والحاجة إلى نموذج سريري قابل للتحقق.",
+      "jc_reason_en": "It merits journal club discussion because it synthesizes multiple predictors and highlights variation in the evidence and the need for a clinically validated model.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى دراسات مستقبلية موحدة تتحقق من نموذج تنبؤي يجمع العوامل السريرية والتصويرية والنسيجية، ويختبر أثر توجيه العلاج وفقًا له.",
+      "research_gap_en": "Prospective standardized studies are needed to validate a model combining clinical, imaging, and tissue predictors and to test whether model-guided care improves outcomes.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "في هذا الملخص، نراجع دراسة عن العوامل التي قد تتنبأ بنتائج أضعف بعد endoscopic sinus surgery لدى مرضى CRSwNP. الدراسة systematic review شملت 152 دراسة، وهدفها تحديد عوامل ما قبل العملية وأثناءها وبعدها المرتبطة بالنتائج.\n\nأبرز العوامل المرتبطة بنتائج أقل ملاءمة كانت asthma وNSAID-exacerbated respiratory disease، إضافة إلى وجود جراحة سابقة. وبدت مخاطر النتائج الضعيفة أعلى مع تكرار العمليات، أو إصابة frontal sinus، أو قصر الفترة منذ آخر جراحة. كذلك ارتبطت شدة الأعراض ومدتها قبل العملية، وارتفاع Lund-Mackay score، وارتفاع tissue eosinophil counts بنتائج أسوأ.\n\nوذكر review أدلة أقل حسمًا حول allergy، والعوامل المرتبطة بالجراحة، وعدم استخدام corticosteroids بعد العملية. كما ظهرت ارتباطات محتملة مع ارتفاع ethmoid-to-maxillary opacification ratio وLund-Kennedy endoscopic score، ووجود osteitis، وinterleukin-5.\n\nالأهمية العملية هي أن هذه السمات يمكن أن تساعد الطبيب على تحديد المرضى الأكثر عرضة لاستمرار المرض، وإجراء نقاش واقعي حول التوقعات، والنظر في متابعة وعلاج بعد العملية يناسبان مستوى الخطورة. لكن هذه النتائج لا تعني أن تجنب الجراحة أو تعديل أي عامل بعينه سيحسن النتيجة؛ فالدراسة لا تقدم دليلًا على علاقة سببية، ولا تقدم أداة تنبؤ سريرية موحدة. لذلك، ينبغي عدم استخدام قائمة العوامل كبديل عن التقييم الفردي.\n\nمقارنةً بالمعرفة السابقة، يضيف review تجميعًا واسعًا لعوامل متعددة، لكنه يؤكد أيضًا أن نموذجًا مقبولًا وقابلًا للتطبيق على نطاق واسع ما زال غير متوفر. الخطوة البحثية التالية هي تطوير نموذج يجمع البيانات السريرية والتصويرية والنسيجية، ثم التحقق منه مستقبلًا ودراسة ما إذا كان توجيه الرعاية بناءً عليه يحسن النتائج. الخلاصة: هذه مراجعة مفيدة لتقدير المخاطر والتخطيط للمتابعة، لكنها لا تغير الممارسة بمفردها.",
+      "audio_script_en": "This review examines factors that may predict poorer outcomes after endoscopic sinus surgery in patients with CRSwNP. It is a systematic review of 152 studies, assessing preoperative, perioperative, and postoperative predictors.\n\nThe most consistently reported factors included asthma, NSAID-exacerbated respiratory disease, and prior surgery. Poorer outcomes were also associated with repeated procedures, frontal sinus involvement, and the timing of the most recent surgery. Greater preoperative symptom severity and duration, a higher Lund-Mackay score, and higher tissue eosinophil counts were additional predictors.\n\nThe review found less definitive evidence for allergy, surgical factors, and not using corticosteroids after surgery. Other possible associations included a higher ethmoid-to-maxillary opacification ratio, a higher Lund-Kennedy endoscopic score, osteitis, and interleukin-5.\n\nClinically, these findings can help identify patients who may be more likely to have persistent disease. They may inform counseling about expectations and consideration of individualized postoperative follow-up and treatment. However, the associations do not prove that avoiding surgery or changing any single factor will improve outcomes. The review also does not provide a unified, validated tool for predicting an individual patient’s result, so the factors should not replace clinical assessment.\n\nCompared with prior knowledge, the review brings together a broad range of predictors while emphasizing that there is still no universally accepted model for routine practice. Future work should develop and prospectively validate a model combining clinical, imaging, and tissue findings, then test whether model-guided care improves patient outcomes. In short, this is useful risk-stratification evidence, but it does not by itself require a change in current practice.",
+      "mcq": [
+        {
+          "q_ar": "أي عامل من التالي ارتبط بنتائج أضعف بعد endoscopic sinus surgery في review؟",
+          "q_en": "Which of the following was associated with poorer outcomes after endoscopic sinus surgery in the review?",
+          "options_ar": [
+            "أ) انخفاض Lund-Mackay score",
+            "ب) وجود asthma",
+            "ج) غياب الجراحات السابقة",
+            "د) قصر مدة الأعراض قبل العملية"
+          ],
+          "options_en": [
+            "A) A lower Lund-Mackay score",
+            "B) Asthma",
+            "C) No history of prior surgery",
+            "D) Shorter preoperative symptom duration"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان وجود asthma من العوامل المرتبطة بنتائج أضعف، إلى جانب عوامل مثل NSAID-exacerbated respiratory disease والجراحة السابقة.",
+          "explanation_en": "Asthma was associated with poorer outcomes, along with factors such as NSAID-exacerbated respiratory disease and prior surgery."
+        },
+        {
+          "q_ar": "ما الاستنتاج الصحيح بشأن استخدام عوامل الخطورة المذكورة في review؟",
+          "q_en": "What is the appropriate conclusion about using the risk factors reported in the review?",
+          "options_ar": [
+            "أ) تشكل نموذجًا تنبؤيًا موحدًا ومتحققًا منه",
+            "ب) تثبت أن تعديل كل عامل سيحسن النتائج",
+            "ج) قد تساعد على تحديد المرضى الأعلى خطورة، لكنها لا تشكل نموذجًا معتمدًا",
+            "د) تثبت أن endoscopic sinus surgery غير فعال لدى مرضى CRSwNP"
+          ],
+          "options_en": [
+            "A) They constitute a standardized, validated prediction model",
+            "B) They prove that modifying each factor will improve outcomes",
+            "C) They may help identify higher-risk patients but do not constitute an accepted model",
+            "D) They prove that endoscopic sinus surgery is ineffective in CRSwNP"
+          ],
+          "answer": 2,
+          "explanation_ar": "خلص review إلى أن عوامل متعددة تتنبأ بنتائج أضعف، لكن لا يوجد نموذج متفق عليه يمكن تطبيقه روتينيًا، كما أن الارتباط لا يثبت أن تعديل العامل يحسن النتيجة.",
+          "explanation_en": "The review identified multiple predictors but found no universally accepted model for routine use; associations also do not prove that modifying a factor improves outcomes."
+        },
+        {
+          "q_ar": "أي عامل نسيجي ارتبط بنتائج أضعف بعد الجراحة؟",
+          "q_en": "Which tissue-related factor was associated with poorer postoperative outcomes?",
+          "options_ar": [
+            "أ) انخفاض tissue eosinophil counts",
+            "ب) ارتفاع tissue eosinophil counts",
+            "ج) غياب interleukin-5",
+            "د) انخفاض osteitis"
+          ],
+          "options_en": [
+            "A) Lower tissue eosinophil counts",
+            "B) Higher tissue eosinophil counts",
+            "C) Absence of interleukin-5",
+            "D) Less osteitis"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتبط ارتفاع tissue eosinophil counts بنتائج أضعف، كما أشار review إلى بعض الأدلة المتعلقة بـinterleukin-5 وosteitis.",
+          "explanation_en": "Higher tissue eosinophil counts were associated with poorer outcomes; the review also noted some evidence concerning interleukin-5 and osteitis."
+        }
+      ]
+    },
+    {
+      "pmid": "43071801",
+      "title_ar": "Not just another Layer - Surgical applications of pericranium flaps in neurosurgery: a systematic review of the literature.",
+      "title_en": "Not just another Layer - Surgical applications of pericranium flaps in neurosurgery: a systematic review of the literature.",
+      "journal": "British journal of neurosurgery",
+      "pub_date": "2026-Nov-23",
+      "doi": "10.1080/02688697.2026.2766934",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43071801/",
+      "pdf_url": null,
+      "study_design": "Systematic review of 46 studies (800 patients), including 1 RCT, 28 observational studies, and 17 case reports",
+      "summary_ar": "راجعت هذه systematic review استخدام pericranium في تطبيقات جراحية متعددة في neurosurgery، استنادًا إلى 46 دراسة شملت 800 مريض. تضمنت التطبيقات إعادة بناء cranial وskull-base وorbital والأنسجة الرخوة، وإصلاح dura، وexpansion duraplasty، وتغطية الأجهزة، وindirect revascularisation. أفادت الدراسات بأن المضاعفات، ومنها cerebrospinal fluid leaks والعدوى، كانت قليلة عمومًا، لكن تقييمها لم يكن متسقًا. لم تجد ثماني دراسات مقارنة نتائج سلامة أسوأ مع pericranium، مع تسجيل بعض الدراسات أعدادًا أقل عدديًا من التسربات أو العدوى. غير أن هذه الدراسات عانت من خطر تحيز متوسط إلى حرج، غالبًا بسبب غياب التوزيع العشوائي. تدعم النتائج الجدوى التقنية، لكنها لا تثبت السلامة أو المتانة على المدى الطويل.",
+      "summary_en": "This systematic review assessed pericranium use across neurosurgical applications in 46 studies involving 800 patients. Applications included cranial, skull-base, orbital, and soft-tissue reconstruction; dural repair and expansion duraplasty; device coverage; and indirect revascularisation. Reported complications, including cerebrospinal fluid leaks and infections, were generally infrequent, although assessment was inconsistent. Eight comparative studies found no worse safety outcomes with pericranium, and some reported numerically fewer leaks or infections. However, these comparisons had moderate-to-critical risk of bias, often because treatment was not randomly allocated. The findings support technical feasibility but do not establish long-term safety or durability.",
+      "practice_change_ar": "لا تغيّر هذه المراجعة الممارسة اليوم، لكنها تدعم اعتبار pericranium خيارًا تقنيًا ممكنًا في حالات مختارة من إعادة البناء وdural repair.",
+      "practice_change_en": "This review does not change practice today, but supports considering pericranium as a technically feasible option for selected reconstruction and dural repair cases.",
+      "future_impact_ar": "قد تساعد دراسات مقارنة مستقبلية ذات متابعة أطول على تحديد التطبيقات التي يحقق فيها pericranium أفضل توازن بين المتانة والمضاعفات.",
+      "future_impact_en": "Future comparative studies with longer follow-up may identify which applications offer the best balance of durability and complications with pericranium.",
+      "why_important_ar": "تلخص المراجعة قاعدة أدلة واسعة نسبيًا حول flap متاح قد يُستخدم في تطبيقات skull-base وإعادة البناء، مع إبراز محدودية اليقين بشأن النتائج.",
+      "why_important_en": "The review synthesizes a relatively broad evidence base for an available flap used in skull-base and reconstructive applications while highlighting uncertainty about outcomes.",
+      "vs_previous_ar": "بدل التركيز على تطبيق واحد، تجمع هذه المراجعة استخدامات pericranium المتنوعة، لكنها لا تتجاوز محدودية الأدلة الرصدية السابقة.",
+      "vs_previous_en": "Rather than focusing on a single application, this review brings together diverse uses of pericranium but does not overcome the limitations of the existing observational evidence.",
+      "stars": 3,
+      "stars_reason_ar": "هذه systematic review قوية من حيث تصميمها، وتشمل 46 دراسة و800 مريض، لكن المجلة ليست ضمن الفئات الأعلى المذكورة، كما أن الأدلة المقارنة متحيزة والنتائج غير متسقة؛ لذلك تستحق 3 نجوم.",
+      "stars_reason_en": "This systematic review has a strong design and includes 46 studies and 800 patients, but the journal is not among the listed top-tier titles and comparative evidence is biased with inconsistent outcome assessment; therefore, it merits 3 stars.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it synthesizes diverse skull-base-relevant uses of pericranium and clearly exposes evidence gaps and bias in comparative studies.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى دراسات مقارنة مستقبلية بتعريفات موحدة للمضاعفات ومتابعة طويلة الأمد لتقييم سلامة ومتانة pericranium بحسب الاستطباب.",
+      "research_gap_en": "Prospective comparative studies with standardized complication definitions and long-term follow-up are needed to assess pericranium safety and durability by indication.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نستعرض اليوم systematic review بعنوان «Not just another Layer»، وهي مراجعة لاستخدام pericranium في جراحات neurosurgery، ولها صلة واضحة بمجال skull-base وإعادة البناء. شملت المراجعة 46 دراسة و800 مريض، منها RCT واحدة، و28 دراسة رصدية، و17 case report. تناولت الدراسات إعادة بناء cranial وskull-base وorbital والأنسجة الرخوة، وإصلاح dura، وexpansion duraplasty، وتغطية الأجهزة، وبعض التطبيقات الأخرى.\n\nكانت المضاعفات المبلغ عنها، ومنها cerebrospinal fluid leaks والعدوى، قليلة عمومًا، لكن طرق قياسها والإبلاغ عنها اختلفت بين الدراسات. وفي الدراسات المقارنة الثماني، لم تظهر نتائج سلامة أسوأ مع pericranium؛ بل سجلت بعض الدراسات أعدادًا أقل عدديًا من التسرب أو العدوى. يجب تفسير ذلك بحذر، لأن خطر التحيز تراوح بين المتوسط والحرج، وكان غياب التوزيع العشوائي من المشكلات الرئيسية.\n\nالخلاصة العملية ليست أن pericranium ثبت تفوقه، بل أن استخدامه يبدو ممكنًا تقنيًا عبر تطبيقات متنوعة. لا تقدم المراجعة دليلًا كافيًا لتغيير الممارسة أو لإثبات المتانة والنتائج طويلة الأمد. لذلك، قد يكون خيارًا مناسبًا في حالات مختارة بحسب التقييم الجراحي، مع ضرورة توضيح حدود الأدلة عند اتخاذ القرار.\n\nتستحق الورقة النقاش في journal club لأنها تجمع الأدبيات المتفرقة وتحدد ما ينقصها: دراسات مقارنة مستقبلية، وتعريفات موحدة للمضاعفات، ومتابعة أطول. التقييم الإجمالي ثلاث نجوم، والثقة متوسطة؛ فهي مفيدة لمعرفة الخيارات، لكنها لا تحسم أيها الأفضل.",
+      "audio_script_en": "Today’s review is titled “Not just another Layer” and examines pericranium use in neurosurgery, with important crossover relevance to skull-base reconstruction. It includes 46 studies and 800 patients: one RCT, 28 observational studies, and 17 case reports. The applications covered cranial, skull-base, orbital, and soft-tissue reconstruction; dural repair; expansion duraplasty; device coverage; and several other uses.\n\nReported complications, including cerebrospinal fluid leaks and infections, were generally infrequent, although outcomes were assessed inconsistently. Eight comparative studies found no worse safety outcomes with pericranium, and some reported numerically fewer leaks or infections. Those findings need cautious interpretation: risk of bias ranged from moderate to critical, with non-random treatment allocation being a major limitation.\n\nThe practical takeaway is not that pericranium has been proven superior, but that it appears technically feasible across a range of applications. The review does not provide enough evidence to change practice or establish long-term durability and outcomes. Pericranium can be considered in selected cases based on surgical judgment, while acknowledging the uncertainty.\n\nThis paper is suitable for journal club because it consolidates a scattered literature and identifies the key evidence gaps: prospective comparative studies, standardized complication definitions, and longer follow-up. Overall, it merits three stars with medium confidence. It is useful to know, but it does not settle which reconstructive option is best.",
+      "mcq": [
+        {
+          "q_ar": "كم عدد الدراسات والمرضى الذين شملتهم المراجعة؟",
+          "q_en": "How many studies and patients were included in the review?",
+          "options_ar": [
+            "أ) 12 دراسة و365 مريضًا",
+            "ب) 46 دراسة و800 مريض",
+            "ج) 22 دراسة و197 مريضًا",
+            "د) 8 دراسات و51 مريضًا"
+          ],
+          "options_en": [
+            "A) 12 studies and 365 patients",
+            "B) 46 studies and 800 patients",
+            "C) 22 studies and 197 patients",
+            "D) 8 studies and 51 patients"
+          ],
+          "answer": 1,
+          "explanation_ar": "جمعت المراجعة 46 دراسة شملت إجمالًا 800 مريض.",
+          "explanation_en": "The review included 46 studies with a total of 800 patients."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأكثر دقة بشأن نتائج السلامة؟",
+          "q_en": "Which statement most accurately reflects the safety findings?",
+          "options_ar": [
+            "أ) ثبت تفوق pericranium في جميع التطبيقات",
+            "ب) لم تظهر الدراسات المقارنة سلامة أسوأ، لكن الأدلة متحيزة وغير حاسمة",
+            "ج) كانت المضاعفات شائعة في جميع الدراسات",
+            "د) أثبتت المراجعة متانة طويلة الأمد"
+          ],
+          "options_en": [
+            "A) Pericranium was proven superior in every application",
+            "B) Comparative studies found no worse safety, but evidence is biased and inconclusive",
+            "C) Complications were common in every study",
+            "D) The review established long-term durability"
+          ],
+          "answer": 1,
+          "explanation_ar": "أفادت الدراسات المقارنة بعدم وجود نتائج سلامة أسوأ، لكن خطر التحيز يمنع استنتاجًا حاسمًا.",
+          "explanation_en": "Comparative studies reported no worse safety outcomes, but risk of bias prevents definitive conclusions."
+        },
+        {
+          "q_ar": "ما أهم أوجه القصور التي تحد من الاستنتاجات؟",
+          "q_en": "What is the main limitation restricting the conclusions?",
+          "options_ar": [
+            "أ) اقتصار الأدلة على دراسات حيوانية",
+            "ب) عدم وجود أي نتائج سريرية",
+            "ج) predominance الأدلة الرصدية وارتفاع خطر التحيز وعدم اتساق تقييم المضاعفات",
+            "د) اقتصار المراجعة على مرضى أقل من عشرة"
+          ],
+          "options_en": [
+            "A) Evidence was limited to animal studies",
+            "B) No clinical outcomes were reported",
+            "C) Predominantly observational evidence, substantial bias, and inconsistent complication assessment",
+            "D) The review included fewer than ten patients"
+          ],
+          "answer": 2,
+          "explanation_ar": "غلبت الدراسات الرصدية، وكان خطر التحيز ملحوظًا، كما اختلف تقييم المضاعفات بين الدراسات.",
+          "explanation_en": "Observational studies predominated, risk of bias was substantial, and complication assessment varied across studies."
+        }
+      ]
+    },
+    {
+      "pmid": "43073642",
+      "title_ar": "Retinex Algorithm-Based Automated Quantification of Eight Key Reflux Signs and Overall Score of Laryngopharyngeal Reflux Disease.",
+      "title_en": "Retinex Algorithm-Based Automated Quantification of Eight Key Reflux Signs and Overall Score of Laryngopharyngeal Reflux Disease.",
+      "journal": "Journal of imaging informatics in medicine",
+      "pub_date": "2026-Nov-23",
+      "doi": "10.1007/s10278-026-02532-8",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43073642/",
+      "pdf_url": null,
+      "study_design": "Diagnostic algorithm development and validation study; sample size not reported",
+      "summary_ar": "تتناول الدراسة تطوير TM-Net لأتمتة تقييم LPRD باستخدام صور laryngoscopy وتقليل التباين بين المقيمين في تطبيق RFS. يستخدم النظام تحسين الصور المعتمد على MSRCR للتعامل مع تفاوت الإضاءة، وResNet-50 مع LSA لاستخراج السمات. كما يستخدم TS-Net لتحديد سبع مناطق تشريحية، ثم CLIA وMLC-Net لتقدير درجات بنود RFS الثمانية بصورة منفصلة. حقق TS-Net متوسط mIoU قدره 0.7975 وF1 قدره 0.8581. وبالمقارنة مع 24-h multichannel intraluminal impedance-pH monitoring، بلغت دقة التشخيص 90.91%، وكان Cohen's κ = 0.75، مع McNemar's test بقيمة P = 1.000. تشير النتائج إلى إمكان استخدام الأداة كوسيلة معيارية مساعدة، لكنها لا تثبت بعد أنها تحسن القرارات السريرية أو تغني عن التقييم الطبي.",
+      "summary_en": "The study introduces TM-Net, a computer-vision system designed to automate Reflux Finding Score (RFS) assessment from laryngoscopy images and reduce observer subjectivity.\nIt combines MSRCR image enhancement, a ResNet-50 encoder with local self-attention, and anatomical segmentation of seven laryngeal regions.\nThe system predicts ordinal scores for all eight RFS sub-items rather than making only a binary classification.\nTS-Net achieved a mean IoU of 0.7975 and an F1 score of 0.8581 across the seven regions.\nAgainst 24-hour multichannel intraluminal impedance-pH monitoring, reported diagnostic accuracy was 90.91%, with Cohen's κ of 0.75 and McNemar's P = 1.000.\nThe findings are promising for standardized assessment, but external validation and evidence of clinical utility are still needed.",
+      "practice_change_ar": "لا يغيّر هذا العمل الممارسة الحالية؛ يمكن اعتبار TM-Net أداة بحثية مساعدة إلى أن تُثبت فعاليتها سريريًا في مجموعات مستقلة.",
+      "practice_change_en": "This work does not change current practice; TM-Net may be considered a research aid until its clinical performance is established in independent cohorts.",
+      "future_impact_ar": "إذا تأكدت النتائج في دراسات متعددة المراكز، فقد تدعم TM-Net تقييمًا أكثر اتساقًا لـRFS وتسهّل توحيد متابعة LPRD.",
+      "future_impact_en": "If validated in multicenter studies, TM-Net could support more consistent RFS assessment and standardized monitoring of LPRD.",
+      "why_important_ar": "تعالج الدراسة مشكلة ذات صلة مباشرة بـlaryngology، وهي ذاتية تفسير علامات laryngoscopy عند تطبيق RFS.",
+      "why_important_en": "The study addresses a practical laryngology problem: subjective interpretation of laryngoscopy findings when applying the RFS.",
+      "vs_previous_ar": "بخلاف التقييم التقليدي المعتمد على تفسير الطبيب، يجمع TM-Net بين تحسين الإضاءة وsegmentation التشريحي والتقدير المتدرج لبنود RFS الثمانية.",
+      "vs_previous_en": "Unlike conventional clinician-interpreted scoring, TM-Net combines illumination enhancement, anatomical segmentation, and ordinal scoring of all eight RFS items.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة تطوير وتحقق تشخيصي لأداة AI مبتكرة، مع نتائج واعدة لكنها لا تذكر حجم العينة ولا تثبت أثرًا على التدبير السريري؛ لذلك تستحق الاهتمام دون تغيير الممارسة.",
+      "stars_reason_en": "This is an innovative diagnostic algorithm development and validation study with promising results, but the sample size is not reported and clinical impact is unproven; it merits attention without changing practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The study merits discussion for its integration of AI, anatomical priors, and item-level RFS scoring, while prompting scrutiny of sample size, external validation, and the diagnostic reference standard.",
+      "watch": true,
+      "watch_detail_ar": "ينبغي متابعة TM-Net وتقنيات AI المشابهة لمعرفة ما إذا كانت تحقق دقة قابلة للتعميم وتضيف قيمة إلى تقييم LPRD في الممارسة.",
+      "watch_detail_en": "Track TM-Net and related AI tools to determine whether their performance generalizes and adds value to clinical LPRD assessment.",
+      "watch_type": "technology",
+      "research_gap_ar": "يلزم إجراء تحقق خارجي متعدد المراكز مع الإفصاح عن حجم العينة وتقييم قابلية التكرار وتأثير الأداة على قرارات العلاج والنتائج السريرية.",
+      "research_gap_en": "External multicenter validation should report sample size and assess reproducibility, effects on treatment decisions, and patient outcomes.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "تستعرض هذه الدراسة أداة جديدة تعتمد على AI لتقييم laryngopharyngeal reflux disease، أو LPRD، باستخدام صور laryngoscopy. المشكلة التي تستهدفها هي أن Reflux Finding Score، المعروف اختصارًا بـRFS، يعتمد على تفسير الطبيب، وقد تختلف الدرجات بين المقيمين. يقترح الباحثون نظام TM-Net لتقدير بنود RFS الثمانية بصورة آلية ومتدرجة.\n\nيتكون النظام من عدة أجزاء. يستخدم MSRCR لتحسين الصور والتعامل مع تفاوت الإضاءة. ويستعين بترميز ResNet-50 مع local self-attention لاستخراج السمات. ثم يحدد TS-Net سبع مناطق تشريحية في larynx، وتُدمج المعلومات المكانية مع CLIA وMLC-Net لإخراج درجات البنود. حقق TS-Net متوسط mIoU قدره 0.7975 وF1 قدره 0.8581. وباستخدام 24-hour multichannel intraluminal impedance-pH monitoring كمرجع، بلغت دقة التشخيص المعلنة 90.91%، مع Cohen's kappa يساوي 0.75، ولم يظهر McNemar's test اختلافًا ذا دلالة، إذ كانت P تساوي 1.000.\n\nالنقطة المهمة هي أن الأداة تقدم طريقة واعدة لتوحيد التقييم، لكنها لا تثبت أن التشخيص أو التدبير يتحسن بسبب استخدامها. كما أن الملخص لا يذكر حجم العينة، ولا يقدم تفاصيل كافية عن التحقق الخارجي أو قابلية تعميم النتائج. لذلك لا ينبغي حاليًا استبدال التقييم السريري أو استخدام TM-Net كمرجع مستقل لتشخيص LPRD.\n\nتقييمنا ثلاث نجوم من خمس، والثقة متوسطة: هناك ابتكار تقني ونتائج أولية مشجعة، لكن الدليل لا يبرر تغيير الممارسة. تستحق الدراسة نقاش journal club، خصوصًا حول تصميم التحقق، واختيار impedance-pH monitoring كمرجع، وأداء النموذج في مراكز وأجهزة تصوير مختلفة. الفجوة البحثية الأهم هي الحاجة إلى دراسة متعددة المراكز، مع حجم عينة واضح، تقيس اتفاق المقيمين، وتأثير الأداة على القرارات العلاجية والنتائج التي تهم المرضى. ينبغي متابعة TM-Net بوصفه technology واعدة، لا أداة مثبتة للاستخدام الروتيني بعد.",
+      "audio_script_en": "This study presents an AI-based approach to assessing laryngopharyngeal reflux disease, or LPRD, from laryngoscopy images. It addresses a familiar limitation of the Reflux Finding Score, or RFS: interpretation is subjective and can vary between observers. The authors developed TM-Net to automatically estimate ordinal scores for all eight RFS sub-items.\n\nThe system combines several components. MSRCR-based enhancement aims to correct uneven illumination. A ResNet-50 encoder with local self-attention extracts image features. TS-Net segments seven laryngeal anatomical regions, and CLIA with MLC-Net uses the image and anatomical information to predict the item-level scores. TS-Net achieved a mean intersection over union of 0.7975 and an F1 score of 0.8581. Against 24-hour multichannel intraluminal impedance-pH monitoring, the reported diagnostic accuracy was 90.91%, with Cohen's kappa of 0.75. McNemar's test showed no significant discordance, with P equal to 1.000.\n\nThe potential value is more standardized and reproducible assessment. However, these results do not show that using the tool improves diagnosis, treatment decisions, or patient outcomes. The abstract does not report the sample size, and it does not provide enough detail to judge external validation or generalizability. TM-Net should therefore not replace clinician assessment or serve as a stand-alone diagnostic reference in routine practice at this stage.\n\nWe rate the paper three out of five stars, with moderate confidence. It is a novel technology with encouraging initial performance, but the evidence is not yet practice-changing. It is appropriate for journal club discussion, especially regarding the validation design, the choice of impedance-pH monitoring as the reference, and the model's performance across different sites and imaging systems. The key research gap is a well-reported, multicenter external validation study that evaluates reproducibility and whether the tool changes clinical decisions or patient outcomes. TM-Net is worth tracking as an emerging technology, but it remains investigational for routine clinical use.",
+      "mcq": [
+        {
+          "q_ar": "ما الهدف الأساسي من تطوير TM-Net؟",
+          "q_en": "What is the primary aim of TM-Net?",
+          "options_ar": [
+            "أ) إجراء segmentation لصور CT للجيوب",
+            "ب) أتمتة تقدير بنود RFS من صور laryngoscopy",
+            "ج) قياس السمع آليًا",
+            "د) استبدال 24-h impedance-pH monitoring"
+          ],
+          "options_en": [
+            "A) Segment sinus CT images",
+            "B) Automate RFS item scoring from laryngoscopy images",
+            "C) Perform automated hearing tests",
+            "D) Replace 24-hour impedance-pH monitoring"
+          ],
+          "answer": 1,
+          "explanation_ar": "صُمم TM-Net لتقدير درجات بنود RFS الثمانية آليًا من صور laryngoscopy، وليس لاستبدال الفحوص المرجعية.",
+          "explanation_en": "TM-Net was designed to automatically score the eight RFS items from laryngoscopy images, not to replace reference testing."
+        },
+        {
+          "q_ar": "ما المرجع التشخيصي المستخدم في تقييم أداء TM-Net؟",
+          "q_en": "Which diagnostic reference was used to evaluate TM-Net?",
+          "options_ar": [
+            "أ) CT للحنجرة",
+            "ب) 24-h multichannel intraluminal impedance-pH monitoring",
+            "ج) اختبار prick للجلد",
+            "د) MRI للرقبة"
+          ],
+          "options_en": [
+            "A) Laryngeal CT",
+            "B) 24-hour multichannel intraluminal impedance-pH monitoring",
+            "C) Skin prick testing",
+            "D) Neck MRI"
+          ],
+          "answer": 1,
+          "explanation_ar": "قورنت نتائج النظام مع 24-h multichannel intraluminal impedance-pH monitoring.",
+          "explanation_en": "The system's results were compared with 24-hour multichannel intraluminal impedance-pH monitoring."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن الاستخدام السريري الحالي للأداة؟",
+          "q_en": "What is the most appropriate conclusion about current clinical use?",
+          "options_ar": [
+            "أ) أصبحت بديلًا مثبتًا عن تقييم الطبيب",
+            "ب) ينبغي أن تحل محل impedance-pH monitoring",
+            "ج) أداة واعدة تحتاج إلى تحقق خارجي قبل الاستخدام الروتيني",
+            "د) لا صلة لها بتقييم LPRD"
+          ],
+          "options_en": [
+            "A) It is an established replacement for clinician assessment",
+            "B) It should replace impedance-pH monitoring",
+            "C) It is promising but needs external validation before routine use",
+            "D) It is unrelated to LPRD assessment"
+          ],
+          "answer": 2,
+          "explanation_ar": "النتائج الأولية مشجعة، لكن غياب تفاصيل حجم العينة والتحقق الخارجي وأثر الأداة على النتائج يمنع اعتبارها معيارًا روتينيًا مثبتًا.",
+          "explanation_en": "Initial results are promising, but missing sample-size details, external validation, and evidence of clinical benefit prevent considering it an established routine tool."
+        }
+      ]
+    },
+    {
+      "pmid": "43071833",
+      "title_ar": "Intraoperative Mapping of the Zygomaticofacial Nerve: Implications for Safe Dissection in Endoscopic Facelift Surgery.",
+      "title_en": "Intraoperative Mapping of the Zygomaticofacial Nerve: Implications for Safe Dissection in Endoscopic Facelift Surgery.",
+      "journal": "Aesthetic surgery journal",
+      "pub_date": "2026-Nov-23",
+      "doi": "10.1093/asj/sjag264",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43071833/",
+      "pdf_url": null,
+      "study_design": "Prospective anatomical study, 158 patients",
+      "summary_ar": "قيّمت هذه الدراسة prospective anatomical study تفرعات zygomaticofacial nerve (ZFN) وموقعها خلال endoscopic facelift surgery لدى 158 مريضًا، مع فحص الجانبين باستخدام 30° endoscope. وُجد فرع واحد في 82% من الجوانب اليمنى و87% من الجوانب اليسرى، بينما كانت double foramina أقل شيوعًا وtriple foramina نادرة. لم يُشاهد nerve في 4% من الجانبين، وكان متوسط عدد الفروع أعلى قليلًا في الجانب الأيمن (p-value = 0.019). بلغ متوسط المسافة بين zygomaticofacial foramen (ZFF) وinferior orbital rim نحو 5.5 mm، وبين ZFF وzygomatic arch نحو 10 mm، دون اختلاف مهم بين الجانبين. تقدم القياسات الحية مرجعًا تشريحيًا يمكن أن يساعد على تحديد ZFN أثناء dissection. تظل الدراسة وصفية، ولا تثبت أن استخدام هذه القياسات يقلل nerve injury أو يحسن النتائج الجراحية.",
+      "summary_en": "This prospective anatomical study assessed zygomaticofacial nerve (ZFN) branching and location during endoscopic facelift surgery in 158 patients, using 30° endoscopic visualization on both sides. A single branch was observed in 82% of right and 87% of left sides; double foramina were less common, and triple foramina were rare. The nerve was not identified in 4% bilaterally, and the mean nerve count was slightly higher on the right (p = 0.019). The mean distance from the zygomaticofacial foramen (ZFF) to the inferior orbital rim was about 5.5 mm, and to the zygomatic arch about 10 mm, without meaningful side-to-side differences. These living-tissue measurements provide anatomical reference points that may help surgeons identify the ZFN during dissection. The descriptive study does not establish whether using these measurements reduces nerve injury or improves surgical outcomes.",
+      "practice_change_ar": "لا تغيّر هذه النتائج الممارسة مباشرة، لكنها توفر نقاطًا تشريحية مرجعية يمكن أخذها في الحسبان عند إجراء dissection قرب ZFN أثناء endoscopic facelift.",
+      "practice_change_en": "These findings do not directly change practice, but provide anatomical reference points to consider when dissecting near the ZFN during endoscopic facelift.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية تقارن استخدام هذه القياسات بمعدلات nerve injury على تحديد قيمتها في تحسين سلامة الجراحة.",
+      "future_impact_en": "Future studies comparing use of these measurements with nerve injury rates could determine their value in improving surgical safety.",
+      "why_important_ar": "توثق الدراسة تباين ZFN وقياساته في living tissue، ما يضيف معلومات تشريحية عملية إلى الأدلة المستمدة غالبًا من cadaveric studies.",
+      "why_important_en": "The study documents ZFN variability and measurements in living tissue, adding practical anatomical information to evidence derived largely from cadaveric studies.",
+      "vs_previous_ar": "بخلاف معظم البيانات السابقة المستمدة من cadaveric studies، تقدم هذه الدراسة قياسات ومشاهدات intraoperative في مرضى أحياء.",
+      "vs_previous_en": "Unlike much of the prior evidence derived from cadaveric studies, this study provides intraoperative observations and measurements in living patients.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة prospective anatomical study جيدة الحجم، لكنها وصفية ولا تقيس nerve injury أو نتائج المرضى؛ تضيف معرفة تشريحية مفيدة دون تغيير الممارسة حاليًا.",
+      "stars_reason_en": "A reasonably sized prospective anatomical study, but it is descriptive and does not measure nerve injury or patient outcomes; it adds useful anatomical knowledge without changing practice today.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Worth discussing because it compares living-patient observations with traditional anatomical data and raises questions about applying the measurements during dissection.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات تربط معرفة ZFN وموقعه بمعدلات nerve injury والنتائج الوظيفية والجمالية بعد endoscopic facelift.",
+      "research_gap_en": "Studies are needed to link ZFN mapping and location with nerve injury rates and functional and aesthetic outcomes after endoscopic facelift.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نستعرض اليوم دراسة عن رسم خريطة zygomaticofacial nerve، أو ZFN، أثناء endoscopic facelift surgery. تكمن أهمية الموضوع في أن عدد فروع هذا nerve ومساره قد يختلفان، وأن معظم المعلومات التشريحية المتاحة سابقًا جاءت من cadaveric studies. شملت الدراسة prospective anatomical study عدد 158 مريضًا، وفُحص الجانبان باستخدام 30° endoscope، مع قياس المسافات إلى معالم عظمية قريبة.\n\nكان هناك فرع واحد في معظم الحالات: 82% من الجوانب اليمنى و87% من اليسرى. وُجدت double foramina في نسبة أقل، أما triple foramina فكانت نادرة. لم يُشاهد nerve في 4% من الجانبين، وكان متوسط عدد الفروع أعلى قليلًا في الجانب الأيمن، مع p-value تساوي 0.019. بلغ متوسط المسافة من zygomaticofacial foramen إلى inferior orbital rim نحو 5.5 mm، وإلى zygomatic arch نحو 10 mm، وكانت القياسات متقاربة بين الجانبين.\n\nالرسالة العملية هي أن هذه الأرقام قد تساعد الجرّاح على الاستدلال على موقع ZFN عند dissection في المنطقة الوجنية. لكنها لا تثبت أن استعمال هذه القياسات يقلل nerve injury، ولا تقارن بين تقنيات جراحية أو نتائج المرضى. لذلك لا تغيّر الدراسة الممارسة اليوم، لكنها تقدم مرجعًا تشريحيًا مفيدًا، وتستحق النقاش خصوصًا عند مراجعة خطوات dissection الآمن.\n\nوتتمثل الفجوة البحثية في الحاجة إلى دراسات تربط رسم خريطة nerve فعليًا بمعدلات الإصابة والنتائج الوظيفية والجمالية بعد العملية. الخلاصة: دليل prospective جيد لإضافة قياسات من living tissue إلى المعرفة التشريحية، مع بقاء الأثر السريري غير مثبت.",
+      "audio_script_en": "Today’s article examines intraoperative mapping of the zygomaticofacial nerve, or ZFN, during endoscopic facelift surgery. The nerve’s number and course can vary, and much of the available anatomical evidence comes from cadaveric studies. This prospective anatomical study included 158 patients. Surgeons examined both sides using a 30° endoscope and measured distances to nearby bony landmarks.\n\nA single branch was present on most sides: 82% on the right and 87% on the left. Double foramina were less frequent, and triple foramina were rare. The nerve was not identified in 4% bilaterally. The mean nerve count was slightly higher on the right, with a p-value of 0.019. The average distance from the zygomaticofacial foramen to the inferior orbital rim was about 5.5 millimeters, and to the zygomatic arch about 10 millimeters. Measurements were similar between sides.\n\nThe practical message is that these reference points may help surgeons anticipate the ZFN’s location while dissecting in the zygomatic region. However, the study does not show that using these measurements reduces nerve injury, and it does not compare surgical techniques or patient outcomes. It therefore does not change practice today, but adds useful living-tissue anatomical data and is relevant for discussion of safe dissection.\n\nThe key research gap is whether applying this mapping can reduce injury or improve functional and aesthetic outcomes after surgery. In summary, this is a prospective anatomical study that complements cadaveric knowledge, while its clinical benefit remains unproven.",
+      "mcq": [
+        {
+          "q_ar": "ما تصميم الدراسة وحجم العينة؟",
+          "q_en": "What was the study design and sample size?",
+          "options_ar": [
+            "أ) RCT شملت 158 مريضًا",
+            "ب) prospective anatomical study شملت 158 مريضًا",
+            "ج) retrospective case series شملت 15 مريضًا",
+            "د) systematic review شملت 158 دراسة"
+          ],
+          "options_en": [
+            "A) An RCT involving 158 patients",
+            "B) A prospective anatomical study involving 158 patients",
+            "C) A retrospective case series involving 15 patients",
+            "D) A systematic review of 158 studies"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت الدراسة prospective anatomical study أُجريت على 158 مريضًا خضعوا لـ endoscopic facelift surgery.",
+          "explanation_en": "The study was a prospective anatomical study of 158 patients undergoing endoscopic facelift surgery."
+        },
+        {
+          "q_ar": "ما متوسط المسافة بين zygomaticofacial foramen وinferior orbital rim؟",
+          "q_en": "What was the mean distance from the zygomaticofacial foramen to the inferior orbital rim?",
+          "options_ar": [
+            "أ) نحو 2 mm",
+            "ب) نحو 5.5 mm",
+            "ج) نحو 10 mm",
+            "د) نحو 20 mm"
+          ],
+          "options_en": [
+            "A) About 2 mm",
+            "B) About 5.5 mm",
+            "C) About 10 mm",
+            "D) About 20 mm"
+          ],
+          "answer": 1,
+          "explanation_ar": "بلغ متوسط ZFF-inferior orbital rim distance نحو 5.5 mm.",
+          "explanation_en": "The mean ZFF-to-inferior-orbital-rim distance was approximately 5.5 mm."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن أثر الدراسة على الممارسة الحالية؟",
+          "q_en": "What is the most appropriate conclusion about the study’s impact on current practice?",
+          "options_ar": [
+            "أ) تثبت أن القياسات تمنع nerve injury",
+            "ب) تفرض تغييرًا فوريًا في تقنية facelift",
+            "ج) تقدم مرجعًا تشريحيًا مفيدًا لكن أثره على النتائج لم يُثبت",
+            "د) تثبت أن ZFN موجود دائمًا بفرع واحد"
+          ],
+          "options_en": [
+            "A) It proves that the measurements prevent nerve injury",
+            "B) It requires an immediate change in facelift technique",
+            "C) It provides useful anatomical references, but their impact on outcomes is unproven",
+            "D) It proves that the ZFN is always present as a single branch"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة وصفية تشريحية؛ توفر قياسات حية، لكنها لم تختبر ما إذا كان استخدامها يقلل nerve injury أو يحسن النتائج.",
+          "explanation_en": "This was a descriptive anatomical study: it provides living-tissue measurements but did not test whether using them reduces nerve injury or improves outcomes."
+        }
+      ]
+    },
+    {
+      "pmid": "43072440",
+      "title_ar": "Predictive Factors of Facial Paralysis in Vestibular Schwannoma Surgery: A 2-Year Prospective Cohort Study.",
+      "title_en": "Predictive Factors of Facial Paralysis in Vestibular Schwannoma Surgery: A 2-Year Prospective Cohort Study.",
+      "journal": "Acta otorrinolaringologica espanola",
+      "pub_date": "2026-Nov-23",
+      "doi": "10.1016/j.otoeng.2026.512424",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43072440/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort n=42",
+      "summary_ar": "تابعت هذه الدراسة prospective cohort تضم 42 مريضًا خضعوا لجراحة vestibular schwannoma، مع تقييم facial nerve function حتى 12 شهرًا باستخدام House-Brackmann وSunnybrook scales. حقق 85.7% من المرضى نتيجة مقبولة، عُرّفت بأنها House-Brackmann I–III. ارتبطت عدة عوامل سريرية وجراحية وشعاعية، إلى جانب قياسات intraoperative CMAP، بنتيجة الوجه في التحليل أحادي المتغير. في multivariate analysis، بقي postsurgical CPA CMAP amplitude العامل الوحيد المرتبط بصورة مستقلة بنتيجة السنة الأولى (OR 0.993، 95% CI 0.987–1.000؛ p-value=0.041). تدعم النتائج فائدة intraoperative neurophysiological monitoring في تقدير سلامة facial nerve، لكنها لا تثبت أن تغيير الخطة الجراحية بناءً على القياس يحسن النتائج. تظل النتائج أولية بسبب صغر cohort والحاجة إلى validation في دراسات أكبر.",
+      "summary_en": "This prospective cohort included 42 patients undergoing vestibular schwannoma surgery, with facial nerve function assessed through 12 months using House-Brackmann and Sunnybrook scales.\nAt 12 months, 85.7% had an acceptable outcome, defined as House-Brackmann grades I–III.\nSeveral clinical, surgical, radiological, and intraoperative CMAP measures were associated with outcome in univariate analyses.\nIn multivariate analysis, only postsurgical CPA CMAP amplitude remained independently associated with one-year outcome (OR 0.993; 95% CI 0.987–1.000; p=0.041).\nThe findings support the potential value of intraoperative neurophysiological monitoring for assessing facial nerve integrity.\nThe small cohort and observational design mean that the result requires validation and does not establish that monitoring-guided changes improve outcomes.",
+      "practice_change_ar": "لا تغيّر هذه الدراسة الممارسة الجراحية اليوم، لكنها تدعم استخدام postsurgical CPA CMAP amplitude كمعلومة مساعدة عند تقدير احتمال تعافي facial nerve.",
+      "practice_change_en": "This study does not change surgical practice today, but supports considering postsurgical CPA CMAP amplitude as an adjunct when estimating facial nerve recovery.",
+      "future_impact_ar": "قد تساعد دراسات أكبر متعددة المراكز في تحديد عتبات CMAP قابلة للتطبيق واختبار ما إذا كان توجيه القرارات الجراحية بها يحسن النتائج.",
+      "future_impact_en": "Larger multicenter studies could establish usable CMAP thresholds and test whether monitoring-guided surgical decisions improve outcomes.",
+      "why_important_ar": "تحدد الدراسة قياسًا intraoperative موضوعيًا ارتبط بصورة مستقلة بنتيجة facial nerve بعد جراحة vestibular schwannoma.",
+      "why_important_en": "The study identifies an objective intraoperative measure independently associated with facial nerve outcome after vestibular schwannoma surgery.",
+      "vs_previous_ar": "بدل الاعتماد على خصائص الورم والتقييم السريري وحدهما، تضيف الدراسة ارتباطًا مستقلًا بين postsurgical CPA CMAP amplitude ونتيجة السنة الأولى، دون إثبات قيمة علاجية مضافة.",
+      "vs_previous_en": "Beyond tumor features and clinical assessment, this study reports an independent association between postsurgical CPA CMAP amplitude and one-year outcome, without proving added treatment benefit.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة prospective cohort جيدة التصميم نسبيًا لكنها صغيرة (42 مريضًا) ومن مجلة ليست ضمن قائمة المجلات الأعلى تصنيفًا؛ تقدم معرفة مفيدة عن prognostic marker دون تغيير الممارسة حاليًا.",
+      "stars_reason_en": "This is a reasonably designed prospective cohort, but it is small (42 patients) and the journal is not among the listed top-tier journals; it adds useful prognostic information without changing practice today.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Worth discussing the prognostic value of CMAP, the limitations of multivariate analysis in a small cohort, and whether the measurement can be generalized to guide surgical decisions.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا تطور intraoperative neurophysiological monitoring وقياسات CMAP بوصفها أدوات محتملة لتقدير سلامة facial nerve أثناء جراحة vestibular schwannoma.",
+      "watch_detail_en": "Track intraoperative neurophysiological monitoring and CMAP measurements as potential tools for assessing facial nerve integrity during vestibular schwannoma surgery.",
+      "watch_type": "technology",
+      "research_gap_ar": "يلزم إجراء دراسة أكبر متعددة المراكز للتحقق من النتائج وتحديد عتبات CMAP، ثم اختبار أثر استخدام القياسات لتوجيه القرارات الجراحية على النتائج الوظيفية.",
+      "research_gap_en": "A larger multicenter study should validate these findings, establish CMAP thresholds, and test whether using the measurements to guide surgical decisions improves functional outcomes.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نناقش اليوم دراسة prospective cohort عن العوامل التي قد تتنبأ بنتيجة facial nerve بعد جراحة vestibular schwannoma. شملت الدراسة 42 مريضًا خضعوا للجراحة بين عامي 2022 و2024، وتابعت وظيفة facial nerve حتى 12 شهرًا باستخدام House-Brackmann وSunnybrook scales.\n\nعند نهاية المتابعة، حقق 85.7% من المرضى نتيجة مقبولة، عُرّفت بأنها House-Brackmann من الدرجة الأولى إلى الثالثة. فحص الباحثون عوامل سريرية وشعاعية وجراحية، بالإضافة إلى قياسات intraoperative neurophysiological monitoring، ومنها CMAP amplitude وstimulation threshold في fundus وCPA قبل استئصال الورم وبعده. في التحليل أحادي المتغير، ارتبطت عدة عوامل بالنتيجة، منها extent of resection، وحالة facial nerve أثناء العملية، وحجم الورم خارج القناة، والعمر، وبعض قياسات CMAP.\n\nلكن عند إجراء multivariate analysis، بقي postsurgical CPA CMAP amplitude وحده مرتبطًا بصورة مستقلة بنتيجة السنة الأولى. هذه النتيجة تجعل القياس مثيرًا للاهتمام كأداة prognostic إضافية، لكنها لا تعني أن تعديل العملية اعتمادًا عليه سيحسن وظيفة facial nerve. كما أن cohort صغير، وفترة التقييم المذكورة في النتائج تمتد إلى 12 شهرًا رغم الإشارة إلى متابعة لمدة عامين في العنوان.\n\nعمليًا، لا تفرض الدراسة تغييرًا فوريًا في إدارة الجراحة، لكنها تدعم متابعة قيمة CMAP كجزء من التقييم أثناء العملية. تستحق الدراسة النقاش في journal club بسبب أهمية المخرج السريري وحدود التحليل الإحصائي في عينة صغيرة. والخطوة التالية هي validation في cohort أكبر ومتعدد المراكز، مع تحديد عتبات واضحة واختبار ما إذا كانت القرارات الجراحية الموجهة بالقياسات تحسن النتائج. الخلاصة: postsurgical CPA CMAP amplitude قد يساعد على تقدير النتيجة، لكن الدليل الحالي لا يكفي لجعله معيارًا مستقلًا لاتخاذ القرار.",
+      "audio_script_en": "Today we are reviewing a prospective cohort study of predictors of facial nerve outcome after vestibular schwannoma surgery. The study included 42 patients operated on between 2022 and 2024, with facial nerve function assessed through 12 months using the House-Brackmann and Sunnybrook scales.\n\nAt follow-up, 85.7% had an acceptable outcome, defined as House-Brackmann grade I to III. The investigators examined clinical, radiological, and surgical factors, as well as intraoperative neurophysiological measurements. These included CMAP amplitude and stimulation threshold at the fundus and CPA, recorded before and after tumor resection. Several factors were associated with outcome in univariate analyses, including extent of resection, intraoperative nerve condition, extracanalicular tumor size, age, and selected CMAP measurements.\n\nIn multivariate analysis, only postsurgical CPA CMAP amplitude remained independently associated with one-year outcome. This makes the measurement an interesting potential prognostic adjunct, but it does not show that changing the operation in response to the result improves facial nerve function. The cohort is small, and although the title refers to a two-year prospective cohort, the reported facial outcome assessment extends to 12 months.\n\nThe study does not mandate an immediate change in surgical management, but it supports continued evaluation of CMAP as part of intraoperative assessment. It is appropriate for journal club because the clinical endpoint matters and the statistical limitations of a small cohort deserve scrutiny. Next steps include validation in a larger multicenter cohort, establishing useful thresholds, and testing whether monitoring-guided decisions improve functional outcomes. In brief, postsurgical CPA CMAP amplitude may help estimate prognosis, but current evidence is not sufficient to use it as a standalone decision rule.",
+      "mcq": [
+        {
+          "q_ar": "ما النتيجة التي بقيت مرتبطة بصورة مستقلة بنتيجة facial nerve بعد 12 شهرًا؟",
+          "q_en": "Which measure remained independently associated with facial nerve outcome at 12 months?",
+          "options_ar": [
+            "أ) حجم الورم خارج القناة",
+            "ب) Postsurgical CPA CMAP amplitude",
+            "ج) العمر",
+            "د) Extent of resection"
+          ],
+          "options_en": [
+            "A) Extracanalicular tumor size",
+            "B) Postsurgical CPA CMAP amplitude",
+            "C) Age",
+            "D) Extent of resection"
+          ],
+          "answer": 1,
+          "explanation_ar": "في multivariate analysis، كان postsurgical CPA CMAP amplitude العامل الوحيد الذي بقي مرتبطًا بصورة مستقلة بنتيجة السنة الأولى.",
+          "explanation_en": "In multivariate analysis, postsurgical CPA CMAP amplitude was the only measure that remained independently associated with one-year outcome."
+        },
+        {
+          "q_ar": "كيف عرّفت الدراسة النتيجة المقبولة لوظيفة facial nerve؟",
+          "q_en": "How did the study define an acceptable facial nerve outcome?",
+          "options_ar": [
+            "أ) House-Brackmann I–III",
+            "ب) House-Brackmann IV–VI",
+            "ج) Sunnybrook score فقط",
+            "د) عدم الحاجة إلى oculoplastic surgery"
+          ],
+          "options_en": [
+            "A) House-Brackmann I–III",
+            "B) House-Brackmann IV–VI",
+            "C) Sunnybrook score only",
+            "D) No need for oculoplastic surgery"
+          ],
+          "answer": 0,
+          "explanation_ar": "صنفت الدراسة House-Brackmann I–III على أنها وظيفة مقبولة، وبلغت نسبتها 85.7% عند 12 شهرًا.",
+          "explanation_en": "The study classified House-Brackmann grades I–III as acceptable function; 85.7% of patients met this outcome at 12 months."
+        },
+        {
+          "q_ar": "ما أهم قيد عند تطبيق هذه النتائج سريريًا؟",
+          "q_en": "What is a key limitation when applying these findings clinically?",
+          "options_ar": [
+            "أ) الدراسة لم تتضمن مرضى خضعوا للجراحة",
+            "ب) عدد المرضى صغير، والارتباط لا يثبت أن توجيه الجراحة بالقياس يحسن النتائج",
+            "ج) لم تُقيّم وظيفة facial nerve",
+            "د) الدراسة كانت animal study"
+          ],
+          "options_en": [
+            "A) The study included no surgical patients",
+            "B) The cohort is small, and association does not prove that measurement-guided surgery improves outcomes",
+            "C) Facial nerve function was not assessed",
+            "D) The study was an animal study"
+          ],
+          "answer": 1,
+          "explanation_ar": "تضمّن البحث 42 مريضًا فقط، وهو prospective observational cohort؛ لذلك لا يثبت أن التدخل بناءً على CMAP يسبب تحسنًا في النتائج.",
+          "explanation_en": "The study included only 42 patients and was an observational prospective cohort, so it does not establish that acting on CMAP measurements causes better outcomes."
+        }
+      ]
+    },
+    {
+      "pmid": "43070678",
+      "title_ar": "Age-stratified functional outcomes after microsurgical vestibular schwannoma resection in 180 adults: a retrospective cohort study.",
+      "title_en": "Age-stratified functional outcomes after microsurgical vestibular schwannoma resection in 180 adults: a retrospective cohort study.",
+      "journal": "Journal of neurosurgical sciences",
+      "pub_date": "2026-Nov-23",
+      "doi": "10.23736/S0390-5616.26.06805-0",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43070678/",
+      "pdf_url": null,
+      "study_design": "Single-center retrospective cohort n=180",
+      "summary_ar": "قيّمت هذه الدراسة retrospective cohort نتائج microsurgical resection لـsporadic vestibular schwannoma لدى 180 بالغًا، وقارنت أربع فئات عمرية. كانت نسبة House-Brackmann (HB) I-II عند متابعة سنتين 94.5% إجمالًا، دون ارتباط مستمر بالعمر في النماذج المعدّلة. بين مرشحي الحفاظ على السمع ذوي Gardner-Robertson (GR) I-II قبل الجراحة، حافظ 46.2% على serviceable hearing بعد سنتين، ولم يظهر تأثير مهم للعمر في التحليل المستمر. لكن مقارنة الحساسية أظهرت انخفاض adjusted odds لنتيجة HB I-II لدى من أعمارهم ≥60 سنة (OR 0.06, 95% CI 0.01-0.56; P=0.0129)، بينما لم يكن الفرق في السمع دالًا. كانت ICU length of stay أطول لدى مجموعة ≥70 سنة. تشير النتائج إلى أن العمر وحده لا ينبغي أن يمنع الجراحة لدى المرضى المختارين بعناية، مع ضرورة تفسير التحليلات العمرية المتباينة بحذر.",
+      "summary_en": "This single-center retrospective cohort evaluated microsurgical resection outcomes in 180 adults with sporadic vestibular schwannoma across four age groups.\nAt two years, 94.5% had favorable House-Brackmann (HB) I-II facial function, with no significant age effect in adjusted continuous-age models.\nAmong preoperative Gardner-Robertson (GR) I-II hearing-preservation candidates, 46.2% retained serviceable hearing at two years, without a significant continuous-age association.\nA prespecified sensitivity contrast found lower adjusted odds of favorable facial function in patients aged ≥60 years (OR 0.06, 95% CI 0.01-0.56; P=0.0129), but no significant hearing difference.\nICU length of stay was longer in patients aged ≥70 years.\nThe findings support individualized selection rather than using age alone to exclude otherwise appropriate surgical candidates.",
+      "practice_change_ar": "لا تغيّر الدراسة الممارسة مباشرة، لكنها تدعم عدم استبعاد المرشحين المناسبين للجراحة بسبب العمر وحده مع مناقشة مخاطر facial nerve والسمع بصورة فردية.",
+      "practice_change_en": "The study does not mandate a practice change, but supports not excluding suitable surgical candidates on age alone while discussing facial nerve and hearing risks individually.",
+      "future_impact_ar": "قد تساعد دراسات متعددة المراكز مستقبلية على تحديد أثر العمر الحقيقي بعد ضبط اختيار المرضى وخصائص الورم.",
+      "future_impact_en": "Future multicenter studies may clarify the independent effect of age after accounting for selection and tumor characteristics.",
+      "why_important_ar": "تقدم الدراسة بيانات وظيفية طويلة الأمد نسبيًا عن facial nerve والسمع لدى فئات عمرية مختلفة بعد جراحة vestibular schwannoma.",
+      "why_important_en": "It provides age-stratified two-year facial nerve and hearing outcomes after vestibular schwannoma surgery.",
+      "vs_previous_ar": "تضيف الدراسة تقديرات معدّلة بحسب العمر، لكنها لا تثبت أن العمر لا يؤثر لأن تحليل الحساسية أظهر فرقًا في facial nerve outcomes لدى من أعمارهم ≥60 سنة.",
+      "vs_previous_en": "It adds adjusted age-stratified estimates, but does not establish that age has no effect because the sensitivity contrast found a facial-function difference at age ≥60.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة retrospective cohort جيدة الحجم (n=180) في مجال skull_base، لكنها أحادية المركز ورصدية؛ والنتائج مفيدة لتوجيه النقاش لا لتغيير الممارسة، كما أن تحليلات العمر أعطت نتائج غير متطابقة.",
+      "stars_reason_en": "This reasonably sized retrospective cohort (n=180) addresses a clinically relevant skull-base question, but its single-center observational design and discordant age analyses make it informative rather than practice-changing.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because continuous-age models and the sensitivity contrast differ, raising questions about patient selection and interpretation of adjusted outcomes.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسة متعددة المراكز مع ضبط أدق لحجم الورم واختيار المرشحين وتفاصيل الحفاظ على السمع لتقدير أثر العمر بصورة موثوقة.",
+      "research_gap_en": "A multicenter study with better adjustment for tumor size, candidate selection, and hearing-preservation strategy is needed to estimate age effects reliably.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نستعرض اليوم دراسة عن النتائج الوظيفية بعد microsurgical resection لـvestibular schwannoma، مع التركيز على اختلاف العمر. شملت الدراسة 180 بالغًا في مركز واحد، وصنّفتهم إلى أربع مجموعات عمرية، ثم تابعت facial nerve function والسمع حتى سنتين.\n\nكانت النتيجة الأساسية المتعلقة بالعصب الوجهي جيدة إجمالًا: 94.5% حققوا House-Brackmann I-II بعد سنتين. وعند تحليل العمر كمتغير مستمر مع ضبط خصائص الورم والوظيفة قبل الجراحة وعوامل أخرى، لم يظهر تأثير ذو دلالة إحصائية للعمر. أما السمع، فدُرس لدى من كان لديهم Gardner-Robertson I-II قبل العملية، أي المرشحين للحفاظ على السمع؛ وحافظ 46.2% منهم على serviceable hearing بعد سنتين، أيضًا دون أثر واضح للعمر في التحليل المستمر.\n\nلكن توجد نقطة مهمة: في تحليل حساسية محدد مسبقًا، كانت adjusted odds لتحقيق HB I-II أقل لدى المرضى بعمر 60 سنة أو أكثر، مع OR يساوي 0.06 و95% confidence interval من 0.01 إلى 0.56. لم يظهر فرق دال في السمع بين المجموعتين. كما طال ICU length of stay في فئة 70 سنة أو أكثر. هذا الاختلاف بين التحليل المستمر وتحليل المقارنة الثنائية يستدعي الحذر، ولا ينبغي تفسيره كدليل قاطع على أن العمر لا يؤثر أو أنه يمنع الجراحة.\n\nعمليًا، تدعم الدراسة تقييم كل مريض بحسب حالته واختياره بعناية، بدل استخدام العمر وحده كمانع للجراحة. لكنها لا تفرض تغييرًا في الممارسة؛ فهي دراسة retrospective أحادية المركز، وقد تتأثر نتائجها بالانتقاء وعوامل غير مقاسة. تستحق القراءة في journal club لمناقشة التحليل الإحصائي، اختيار المرشحين، وكيفية شرح مخاطر facial nerve والسمع. وتبقى الحاجة قائمة إلى دراسات متعددة المراكز ذات ضبط أفضل لخصائص الورم واستراتيجية الحفاظ على السمع.",
+      "audio_script_en": "Today’s paper examines whether age is associated with functional outcomes after microsurgical resection of sporadic vestibular schwannoma. It is a single-center retrospective cohort of 180 adults divided into four prespecified age groups, with facial nerve function and hearing assessed at two years.\n\nOverall, 94.5% achieved favorable House-Brackmann I-II facial function. When age was modeled continuously and adjusted for tumor extension, side, preoperative function, symptom duration, and extent of resection, there was no statistically significant age effect. Hearing was assessed only in patients who were candidates for hearing preservation, defined by preoperative Gardner-Robertson I-II. In that group, 46.2% retained serviceable hearing at two years, and the continuous-age analysis again found no significant association.\n\nThe main interpretive caution is the prespecified sensitivity analysis comparing patients younger than 60 with those aged 60 or older. The older group had lower adjusted odds of favorable facial function, with an odds ratio of 0.06 and a 95% confidence interval of 0.01 to 0.56. The hearing comparison was not significant. ICU length of stay was longer in the group aged 70 or older. The discrepancy between the continuous-age model and the threshold-based comparison means the findings should not be reduced to a simple claim that age has no effect.\n\nFor practice, the study supports individualized assessment and argues against excluding an otherwise appropriate candidate solely because of age. It does not establish a new standard or require a change in surgical selection. The evidence is limited by its retrospective, single-center design and likely selection effects. It is a useful journal-club paper for discussing age modeling, selection of hearing-preservation candidates, and counseling about facial nerve and hearing outcomes. Larger multicenter studies with detailed adjustment for tumor characteristics and surgical strategy are needed.",
+      "mcq": [
+        {
+          "q_ar": "ما نسبة المرضى الذين حققوا House-Brackmann I-II بعد سنتين إجمالًا؟",
+          "q_en": "What proportion of patients achieved House-Brackmann I-II at two years overall?",
+          "options_ar": [
+            "أ) 46.2%",
+            "ب) 72.0%",
+            "ج) 94.5%",
+            "د) 100%"
+          ],
+          "options_en": [
+            "A) 46.2%",
+            "B) 72.0%",
+            "C) 94.5%",
+            "D) 100%"
+          ],
+          "answer": 2,
+          "explanation_ar": "بلغت نسبة HB I-II عند متابعة سنتين 94.5% إجمالًا.",
+          "explanation_en": "The overall two-year rate of HB I-II was 94.5%."
+        },
+        {
+          "q_ar": "لمن قُيّمت نتيجة serviceable hearing في هذه الدراسة؟",
+          "q_en": "In whom was the serviceable-hearing outcome assessed?",
+          "options_ar": [
+            "أ) جميع المشاركين بصرف النظر عن السمع قبل الجراحة",
+            "ب) المرشحون للحفاظ على السمع ذوو GR I-II قبل الجراحة",
+            "ج) المرضى بعمر ≥70 سنة فقط",
+            "د) المرضى الذين خضعوا لجراحة ثنائية الجانب"
+          ],
+          "options_en": [
+            "A) All participants regardless of preoperative hearing",
+            "B) Hearing-preservation candidates with preoperative GR I-II",
+            "C) Only patients aged ≥70 years",
+            "D) Patients undergoing bilateral surgery"
+          ],
+          "answer": 1,
+          "explanation_ar": "اقتصر تقييم serviceable hearing على المرشحين للحفاظ على السمع ممن كان لديهم GR I-II قبل الجراحة.",
+          "explanation_en": "Serviceable hearing was assessed among candidates with preoperative GR I-II."
+        },
+        {
+          "q_ar": "ما النتيجة التي ظهرت في تحليل الحساسية لمقارنة الأعمار <60 و≥60 سنة؟",
+          "q_en": "What did the sensitivity analysis comparing ages <60 and ≥60 years find?",
+          "options_ar": [
+            "أ) تحسن دال في السمع لدى مجموعة ≥60 سنة",
+            "ب) انخفاض adjusted odds لـHB I-II لدى مجموعة ≥60 سنة",
+            "ج) عدم وجود أي فرق في أي نتيجة",
+            "د) انخفاض ICU length of stay لدى مجموعة ≥70 سنة"
+          ],
+          "options_en": [
+            "A) Significantly better hearing in the ≥60 group",
+            "B) Lower adjusted odds of HB I-II in the ≥60 group",
+            "C) No difference in any outcome",
+            "D) Shorter ICU stay in the ≥70 group"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتبط العمر ≥60 سنة بانخفاض adjusted odds لتحقيق HB I-II (OR 0.06)، بينما لم يكن فرق السمع دالًا.",
+          "explanation_en": "Age ≥60 was associated with lower adjusted odds of HB I-II (OR 0.06), while the hearing contrast was not significant."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026112401",
+      "title_ar": "ميدترونيك وكارل ستورز تتعاونان لتطوير حلول جراحية متكاملة للأنف والأذن والحنجرة",
+      "title_en": "Medtronic and Karl Storz Collaborate on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-24",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "بحسب موقع ماس ديفايس، تتعاون شركتا ميدترونيك وكارل ستورز في مجال الحلول الجراحية المتكاملة لعلاج أمراض الأنف والأذن والحنجرة. ولا يوضح العنوان المنتجات أو التقنيات التي سيشملها التعاون، أو موعد توفرها، أو شروطه التجارية. ولا يتضمن الخبر المتاح معلومات عن قرار تنظيمي أو استحواذ أو نتائج سريرية.",
+      "summary_en": "Medtronic and Karl Storz are collaborating on integrated surgical solutions for ear, nose, and throat care, according to MassDevice. The headline does not specify which products or technologies will be included, when they will be available, or the commercial terms of the collaboration. No regulatory decision, acquisition, or clinical outcome is reported in the provided item.",
+      "practice_change_ar": "قد تتاح لجراحي الأنف والأذن والحنجرة مستقبلاً أدوات جراحية أكثر تكاملاً، لكن الإعلان وحده لا يثبت حدوث تغيير فوري في سير العمل السريري أو اختيار المعدات.",
+      "practice_change_en": "ENT surgeons may eventually have access to more integrated surgical tools, but the announcement alone does not establish any immediate change to clinical workflows or equipment choices.",
+      "future_impact_ar": "ستحدد التفاصيل اللاحقة عن المنتجات وتوفرها والأدلة السريرية ما إذا كانت هذه الشراكة ستُحدث تغييراً ملموساً في الممارسة الجراحية للأنف والأذن والحنجرة.",
+      "future_impact_en": "Further details on the products, availability, and evidence will determine whether this partnership meaningfully changes ENT surgical practice.",
+      "why_important_ar": "قد يؤثر التعاون في طريقة دمج التقنيات الجراحية واستخدامها في مجال الأنف والأذن والحنجرة، لكن لا يمكن تقييم قيمته السريرية من دون تفاصيل عن المنتجات والنتائج.",
+      "why_important_en": "The collaboration could affect how surgical technologies are combined and used in ENT settings, although its clinical value cannot be assessed without product and outcome details.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "تعاون صناعي قد يهم اختيار التقنيات مستقبلاً، لكن لا تتوفر تفاصيل عن المنتجات أو أثرها السريري.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أعلنت ميدترونيك وكارل ستورز تعاونهما على حلول جراحية متكاملة في مجال الأنف والأذن والحنجرة، وفقاً لما أورده موقع ماس ديفايس. وقد يثير هذا التعاون اهتمام الجراحين لأنه قد يؤدي إلى دمج أدوات وتقنيات جراحية ضمن حلول أكثر ترابطاً. لكن المعلومات الواردة في الخبر المتاح لا تحدد المنتجات المشمولة، ولا موعد طرحها، ولا شروط التعاون. كما لا توجد تفاصيل عن دراسات سريرية أو نتائج تثبت أثراً على سلامة المرضى أو كفاءة الإجراءات. لذلك، لا يشير الإعلان وحده إلى ضرورة تغيير المعدات أو الممارسات الحالية. سيكون من المهم متابعة الإعلانات اللاحقة لمعرفة طبيعة الحلول، وتوفرها، وما إذا كانت ستُدعَم بأدلة سريرية وتقدم فائدة عملية في غرف العمليات.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026112402",
+      "title_ar": "شركات رائدة في طب الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية",
+      "title_en": "Leading ENT Companies Driving Medical Technology Innovation",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-24",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت SNS Insider عرضًا عامًا عن شركات تسهم في تطوير التكنولوجيا الطبية لرعاية الأنف والأذن والحنجرة. ولا يحدد الخبر المتاح شركات بعينها أو منتجات أو صفقات أو قرارات تنظيمية أو نتائج سريرية. لذلك لا يقدم تفاصيل مؤكدة عن عملية استحواذ أو دعوى قضائية أو تحرك في الأسهم أو إجراء من إدارة الغذاء والدواء الأمريكية. ويلزم الاطلاع على التقرير الكامل لتقييم التطورات الخاصة بكل شركة.",
+      "summary_en": "SNS Insider published an overview of companies involved in advancing medical technology for ear, nose, and throat care. The provided news item does not identify specific companies, products, transactions, regulatory decisions, or clinical results. It therefore offers no verifiable details about a particular acquisition, lawsuit, stock move, or FDA action. Further information from the full report would be needed to assess individual developments.",
+      "practice_change_ar": "لا يورد الخبر منتجًا محددًا أو دليلًا سريريًا يستدعي تغيير الممارسة الحالية في طب الأنف والأذن والحنجرة.",
+      "practice_change_en": "The item reports no specific product or clinical evidence that would warrant a change in current ENT practice.",
+      "future_impact_ar": "قد يسهم الابتكار المستمر في القطاع في تشكيل أدوات ورعاية الأنف والأذن والحنجرة مستقبلًا، لكن هذا الخبر لا يتضمن تفاصيل كافية لتحديد التغييرات المحتملة.",
+      "future_impact_en": "Ongoing industry innovation may shape future ENT tools and care, but this item does not provide enough detail to identify likely changes.",
+      "why_important_ar": "في غياب تقنيات محددة أو نتائج سريرية، تظل أهمية التقرير المباشرة لرعاية المرضى أو قرارات الممارسة محدودة.",
+      "why_important_en": "Without named technologies or clinical findings, the report has limited immediate relevance to patient care or practice decisions.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "أهمية منخفضة للممارسين؛ فالخبر عام ولا يورد تطورات أو بيانات سريرية محددة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "يتناول تقرير منشور من SNS Insider شركات تعمل على دفع الابتكار في التكنولوجيا الطبية بمجال الأنف والأذن والحنجرة. لكن الخبر المتاح لا يذكر أسماء الشركات أو التقنيات، ولا يحدد صفقات استحواذ أو قرارات تنظيمية أو نتائج تجارب سريرية. لذلك لا يمكن استخلاص أثر مباشر على اختيار الأجهزة أو أساليب العلاج في العيادة، كما لا توجد معلومات كافية لتقييم فرص تجارية محددة. بالنسبة إلى أطباء الأنف والأذن والحنجرة، تبقى أهمية الخبر محدودة إلى أن تتوفر تفاصيل موثقة عن المنتجات، أو الموافقات التنظيمية، أو الأدلة السريرية. وينبغي التعامل معه بوصفه إشارة عامة إلى نشاط الابتكار في القطاع، لا إعلانًا عن تغيير وشيك في الممارسة.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026112403",
+      "title_ar": "ميدترونيك تحصل على علامة CE لمنصة Stealth AXiS الروبوتية لجراحة الأنف والأذن والحنجرة",
+      "title_en": "Medtronic Earns CE Mark for Stealth AXiS Robotic Platform in ENT Surgery",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-24",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "حصلت شركة ميدترونيك على علامة CE لمنصة Stealth AXiS الروبوتية لاستخدامها في جراحة الأنف والأذن والحنجرة، وفقاً لموقع MassDevice. وتتيح العلامة تسويق المنصة في الأسواق الأوروبية المعنية بموجب الإطار التنظيمي ذي الصلة. ولا يوضح التقرير الإجراءات التخصصية التي تشملها المنصة، أو موعد توفرها تجارياً، أو حصولها على ترخيص في مناطق أخرى. ويتعلق الإعلان بالموافقة التنظيمية، وليس بأدلة على نتائج سريرية مقارنة.",
+      "summary_en": "Medtronic has received a CE mark for its Stealth AXiS robotic platform for use in ENT surgery, according to MassDevice. The mark permits the platform to be marketed in applicable European markets under the relevant regulatory framework. The report does not specify which ENT procedures are covered, when the system will be commercially available, or whether it has received authorization in other regions. The announcement concerns regulatory clearance, not evidence of comparative clinical outcomes.",
+      "practice_change_ar": "قد يرغب جرّاحو الأنف والأذن والحنجرة في أوروبا في تقييم المنصة عند توفرها، مع انتظار تفاصيل بشأن الإجراءات المستهدفة ومتطلبات التدريب والأداء السريري.",
+      "practice_change_en": "ENT surgeons in Europe may wish to assess the platform as it becomes available, while awaiting details on its intended procedures, training requirements, and clinical performance.",
+      "future_impact_ar": "قد يزيد الإعلان المنافسة واعتماد المنصات الروبوتية في التخصص، فيما سيتحدد انتشارها السريري بالأدلة الخاصة بكل إجراء والتكلفة واندماجها في سير العمل.",
+      "future_impact_en": "The announcement may increase competition and adoption of robotic platforms in ENT, with clinical uptake shaped by procedure-specific evidence, cost, and workflow integration.",
+      "why_important_ar": "تمثل علامة CE محطة تنظيمية قد توسّع إتاحة التقنية الروبوتية في تخصص الأنف والأذن والحنجرة، لكن قيمتها العملية ستعتمد على توفرها والأدلة السريرية الداعمة.",
+      "why_important_en": "The CE mark is a regulatory milestone that could expand access to robotic technology in ENT, but its practical value will depend on availability and supporting clinical evidence.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "خبر تنظيمي مهم لمتابعة تطور الروبوتات في التخصص، لكن تفاصيل الاستخدام والأثر السريري غير متاحة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أعلنت ميدترونيك حصول منصة Stealth AXiS الروبوتية على علامة CE لاستخدامها في جراحة الأنف والأذن والحنجرة. وتُعد هذه خطوة تنظيمية تتيح تسويق المنصة في الأسواق الأوروبية المعنية، لكنها لا تعني بحد ذاتها إثبات تفوقها السريري على التقنيات أو الأساليب المتاحة حالياً.\n\nلم يتضمن الخبر تفاصيل عن الإجراءات التي ستُستخدم فيها المنصة، أو موعد بدء توفرها، أو متطلبات تدريب الفرق الجراحية. كما لم يذكر ما إذا كانت قد حصلت على موافقات تنظيمية في أسواق أخرى. لذلك، تهم هذه الخطوة الجرّاحين الأوروبيين بوصفها احتمالاً جديداً لتوسيع الخيارات الروبوتية، لا كتغيير فوري في الممارسة.\n\nسيعتمد أثر المنصة على الأدلة الخاصة بنتائج المرضى وسلامة الاستخدام، إضافة إلى التكلفة وسهولة دمجها في سير العمل. ومن المهم متابعة ما ستكشفه الشركة لاحقاً عن الاستخدامات المعتمدة والبيانات السريرية والتوفر التجاري.",
+      "mcq": []
+    }
+  ]
+}
