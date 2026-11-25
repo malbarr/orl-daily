@@ -1,0 +1,981 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T12:37:00Z",
+  "articles": [
+    {
+      "pmid": "43070688",
+      "title_ar": "Surgical Anatomy of the Paralacerum Region and Its Relevance for Endoscopic Endonasal Skull Base Surgery.",
+      "title_en": "Surgical Anatomy of the Paralacerum Region and Its Relevance for Endoscopic Endonasal Skull Base Surgery.",
+      "journal": "Operative neurosurgery (Hagerstown, Md.)",
+      "pub_date": "2026-Nov-23",
+      "doi": "10.1227/ons.0000000000002226",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43070688/",
+      "pdf_url": null,
+      "study_design": "Anatomic morphometric study: dry skulls (80 sides), dissections (20 sides), and CT scans (40 sides)",
+      "summary_ar": "بحثت هذه الدراسة تشريح paralacerum region باستخدام dry skulls وanatomic dissections وhigh-resolution CT scans. تشمل المعالم التشريحية lingual process وvidian nerve (VN) وpetrosphenoidal fissure وmandibular strut وforamen ovale وmandibular nerve وpetrous carotid segment. وُجد lingual process في 76% من الحالات، وكان غائبًا في 5% وموجودًا على هيئة ossified ring في 19%. يشير petrosphenoidal triangle، المحصور بين petrosphenoidal fissure وVN، نحو الجانب الوحشي من lacerum internal carotid artery (ICA)، ويقترحه الباحثون كمعلم لتوجيه الوصول الآمن. بلغ متوسط زاوية قمة المثلث 88° ± 2°، ومتوسط عرض mandibular strut مقدار 6 ± 1 mm. يقع petrous ICA في العمق باتجاه posterolateral وبميل caudal طفيف، ما يستدعي الحذر أثناء الجراحة endoscopic endonasal.",
+      "summary_en": "This anatomic study examined the paralacerum region using dry skulls, dissections, and high-resolution CT scans.\nStructures described include the lingual process, vidian nerve (VN), petrosphenoidal fissure, mandibular strut, foramen ovale, mandibular nerve, and petrous carotid segment.\nThe lingual process was present in 76% of cases, absent in 5%, and present as an ossified ring in 19%.\nThe petrosphenoidal triangle, bounded by the petrosphenoidal fissure and VN, points toward the lateral aspect of the lacerum internal carotid artery (ICA).\nIts mean apex angle was 88° ± 2°, and the mandibular strut measured 6 ± 1 mm in mean width.\nThe petrous ICA lies deep to the region, running posterolaterally and slightly caudally, and must be protected during endoscopic endonasal access.",
+      "practice_change_ar": "لا تغيّر النتائج الممارسة فورًا، لكنها تدعم استخدام petrosphenoidal triangle كمعلم تشريحي لتوجيه الوصول إلى paralacerum region مع الانتباه إلى مسار petrous ICA.",
+      "practice_change_en": "The findings do not immediately change practice, but support using the petrosphenoidal triangle as an anatomic guide to the paralacerum region while protecting the petrous ICA.",
+      "future_impact_ar": "قد تساعد هذه المعالم في تحسين التخطيط والتدريب والتحقق السريري من سلامة الوصول endoscopic endonasal إلى paralacerum region.",
+      "future_impact_en": "These landmarks may improve planning and training and warrant clinical validation to support safer endoscopic endonasal access to the paralacerum region.",
+      "why_important_ar": "توضح الدراسة معلمًا تشريحيًا عمليًا وعلاقات ICA المهمة في منطقة عميقة عالية الخطورة.",
+      "why_important_en": "The study describes a practical anatomic landmark and critical ICA relationships in a deep, high-risk surgical region.",
+      "vs_previous_ar": "تضيف الدراسة وصفًا تشريحيًا ومورفومتريًا محددًا لـ paralacerum region إلى المعرفة السابقة عن معالم foramen lacerum، دون تقديم دليل سريري مقارن.",
+      "vs_previous_en": "The study adds focused anatomic and morphometric detail for the paralacerum region to prior work on foramen lacerum landmarks, but provides no comparative clinical evidence.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة تشريحية متعددة الوسائل وليست دراسة نتائج سريرية؛ تقدم معرفة مفيدة ومعلمًا جراحيًا محتملًا، لكن لا تثبت تحسن السلامة أو النتائج لدى المرضى.",
+      "stars_reason_en": "This is a multimodal anatomic study rather than a clinical outcomes study; it offers useful knowledge and a potential surgical landmark but does not demonstrate improved patient safety or outcomes.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسبة للنقاش لدى فرق skull base لأنها تربط معلمًا تشريحيًا قابلًا للتطبيق بمسار ICA، مع ضرورة تمييز الدليل التشريحي عن الدليل السريري.",
+      "jc_reason_en": "Suitable for skull base teams to discuss because it links a potentially applicable anatomic landmark to the ICA course, while highlighting the distinction between anatomic and clinical evidence.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم تقييم سريري يحدد ما إذا كان استخدام petrosphenoidal triangle يقلل إصابة ICA أو يحسن نتائج الوصول الجراحي.",
+      "research_gap_en": "Clinical studies are needed to determine whether using the petrosphenoidal triangle reduces ICA injury or improves surgical access outcomes.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نتناول اليوم دراسة تشريحية عن paralacerum region وأهميتها في endoscopic endonasal skull base surgery. استخدم الباحثون dry skulls على 80 جانبًا، وanatomic dissections على 20 جانبًا، وhigh-resolution CT scans على 40 جانبًا. لذلك فهي دراسة تشريحية ومورفومترية، وليست تجربة سريرية تقيس نتائج المرضى.\n\nوصفت الدراسة عدة تراكيب مهمة، منها lingual process وvidian nerve، أو VN، وpetrosphenoidal fissure وmandibular strut وforamen ovale وmandibular nerve، إضافة إلى petrous carotid segment. كان lingual process موجودًا في 76% من الحالات، وغائبًا في 5%، وموجودًا على هيئة ossified ring في 19%، ما يبرز وجود اختلاف تشريحي بين الأفراد.\n\nأبرز نتيجة عملية هي وصف petrosphenoidal triangle، الذي تحده petrosphenoidal fissure من الأسفل وVN من الأعلى. يتجه رأس هذا المثلث نحو الجانب الوحشي من lacerum ICA، ويقترحه المؤلفون كمعلم لتوجيه الوصول إلى paralacerum region. بلغ متوسط زاوية رأسه 88 درجة مع تباين درجتين، وكان متوسط عرض mandibular strut ستة مليمترات مع تباين مليمتر واحد.\n\nلكن المعلم لا يلغي مخاطر المنطقة. يقع petrous ICA عميقًا، ويمتد باتجاه posterolateral وبميل caudal طفيف؛ لذا يجب الحفاظ على الانتباه لمساره أثناء التشريح. أهمية الدراسة أنها تقدم خريطة تشريحية قابلة للاستخدام في التخطيط والتدريب، لا أنها تثبت أن هذه الطريقة تقلل الإصابات أو تحسن النتائج.\n\nالخلاصة السريرية: يستحق petrosphenoidal triangle أن يكون ضمن المعالم التي يتعرف إليها جراحو skull base، مع اعتبار النتائج معرفة مفيدة لا تغييرًا مثبتًا للممارسة. وتبقى الفجوة البحثية اختبار هذا المعلم سريريًا وقياس أثره على سلامة ICA ونتائج الجراحة.",
+      "audio_script_en": "Today we are reviewing an anatomic study of the paralacerum region and its relevance to endoscopic endonasal skull base surgery. The investigators used 80 sides of dry skulls, 20 sides of anatomic dissections, and 40 sides assessed with high-resolution CT. This is a morphometric and anatomic study, not a clinical trial measuring patient outcomes.\n\nThe region includes the lingual process, vidian nerve, or VN, petrosphenoidal fissure, mandibular strut, foramen ovale, mandibular nerve, and petrous carotid segment. The lingual process was present in 76% of cases, absent in 5%, and present as an ossified ring in 19%, illustrating relevant anatomic variation.\n\nThe principal proposed surgical landmark is the petrosphenoidal triangle, bounded by the petrosphenoidal fissure inferiorly and the VN superiorly. Its apex points toward the lateral aspect of the lacerum ICA, and the authors suggest it can guide access to the paralacerum region. The mean apex angle was 88 degrees, with a 2-degree variation, and the mean mandibular strut width was 6 millimeters, with a 1-millimeter variation.\n\nThe landmark does not remove the risk in this area. The petrous ICA lies deep and runs posterolaterally with a slight caudal course, so careful identification and protection remain essential. The study’s value is its practical anatomic map for surgical planning and education; it does not show that using the landmark reduces injury or improves outcomes.\n\nThe clinical takeaway is that skull base surgeons should know the petrosphenoidal triangle as a potentially useful guide, while treating the evidence as informative rather than practice-changing. The key research gap is clinical validation, including whether the landmark improves ICA safety and surgical outcomes.",
+      "mcq": [
+        {
+          "q_ar": "ما المعلم الذي تقترحه الدراسة لتوجيه الوصول إلى paralacerum region؟",
+          "q_en": "Which landmark does the study propose to guide access to the paralacerum region?",
+          "options_ar": [
+            "أ) mandibular strut",
+            "ب) petrosphenoidal triangle",
+            "ج) foramen ovale",
+            "د) lingual process"
+          ],
+          "options_en": [
+            "A) The mandibular strut",
+            "B) The petrosphenoidal triangle",
+            "C) The foramen ovale",
+            "D) The lingual process"
+          ],
+          "answer": 1,
+          "explanation_ar": "يقترح الباحثون petrosphenoidal triangle كمعلم يتجه نحو الجانب الوحشي من lacerum ICA.",
+          "explanation_en": "The authors propose the petrosphenoidal triangle, which points toward the lateral aspect of the lacerum ICA."
+        },
+        {
+          "q_ar": "ما التراكيب التي تحدد petrosphenoidal triangle وفقًا للدراسة؟",
+          "q_en": "Which structures define the petrosphenoidal triangle in this study?",
+          "options_ar": [
+            "أ) petrosphenoidal fissure وVN",
+            "ب) mandibular strut وforamen ovale",
+            "ج) lingual process وmandibular nerve",
+            "د) paraclival ICA وpetrous ICA"
+          ],
+          "options_en": [
+            "A) The petrosphenoidal fissure and VN",
+            "B) The mandibular strut and foramen ovale",
+            "C) The lingual process and mandibular nerve",
+            "D) The paraclival ICA and petrous ICA"
+          ],
+          "answer": 0,
+          "explanation_ar": "يحد petrosphenoidal fissure المثلث من الأسفل، ويحده VN من الأعلى.",
+          "explanation_en": "The petrosphenoidal fissure forms the inferior boundary, and the VN forms the superior boundary."
+        },
+        {
+          "q_ar": "ما أهم بنية وعائية يجب حمايتها في عمق paralacerum region؟",
+          "q_en": "Which major vessel must be protected deep in the paralacerum region?",
+          "options_ar": [
+            "أ) facial artery",
+            "ب) ophthalmic artery",
+            "ج) petrous ICA",
+            "د) external carotid artery"
+          ],
+          "options_en": [
+            "A) The facial artery",
+            "B) The ophthalmic artery",
+            "C) The petrous ICA",
+            "D) The external carotid artery"
+          ],
+          "answer": 2,
+          "explanation_ar": "تقع petrous ICA في عمق المنطقة وتمتد باتجاه posterolateral وبميل caudal طفيف.",
+          "explanation_en": "The petrous ICA lies deep in the region and runs posterolaterally with a slight caudal course."
+        }
+      ]
+    },
+    {
+      "pmid": "43072744",
+      "title_ar": "The Future of AI-Based Outcomes Tracking in Facial Plastic and Reconstructive Surgery.",
+      "title_en": "The Future of AI-Based Outcomes Tracking in Facial Plastic and Reconstructive Surgery.",
+      "journal": "Facial plastic surgery : FPS",
+      "pub_date": "2026-Nov-23",
+      "doi": "10.1055/a-3009-9215",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43072744/",
+      "pdf_url": null,
+      "study_design": "Narrative review",
+      "summary_ar": "تستعرض هذه narrative review تطور تقييم outcomes في facial plastic surgery من الفحص الذاتي وقياسات الوجه اليدوية إلى 2D و3D imaging واستخدام machine learning وcomputer vision. تستطيع هذه التقنيات قياس facial morphology وasymmetry وperceived age والحركة الديناميكية بدقة تقنية متزايدة. لكن عدداً قليلاً من الدراسات قارن هذه القياسات مباشرةً مع validated patient-reported outcome measures (PROMs). وتُظهر الأدلة في facial rejuvenation وrhinoplasty وblepharoplasty وfacial paralysis ارتباطات متفاوتة بين المقاييس الرقمية والنتائج التي يبلغ عنها المرضى. لا تكفي الدقة التقنية وحدها لإثبات أن التغير المقاس مهم سريرياً أو يعكس تجربة المريض. توصي المراجعة بدراسات طولية تقارن التغيرات لدى المريض نفسه مع PROMs مناسبة، وتحدد thresholds للتغير ذي الأهمية السريرية قبل الاستخدام الروتيني.",
+      "summary_en": "This narrative review traces facial plastic surgery outcomes assessment from subjective inspection and manual anthropometry to 2D and 3D imaging, machine learning, and computer vision. These methods can quantify facial morphology, asymmetry, perceived age, and dynamic movement with increasing technical accuracy. However, few studies directly compare these measurements with validated patient-reported outcome measures (PROMs). Evidence across facial rejuvenation, rhinoplasty, blepharoplasty, and facial paralysis shows variable associations between digital metrics and patient-reported outcomes. Technical accuracy alone does not establish that a measured change is clinically meaningful or reflects the patient’s experience. The authors recommend longitudinal, within-patient comparisons with relevant PROMs and establishing thresholds for clinically meaningful change before routine adoption.",
+      "practice_change_ar": "لا تغيّر هذه المراجعة الممارسة الحالية؛ فلا ينبغي اعتماد مقاييس AI بديلاً عن التقييم السريري وPROMs قبل التحقق من صلاحيتها.",
+      "practice_change_en": "This review does not change current practice; AI metrics should not replace clinical assessment and PROMs before their validity is established.",
+      "future_impact_ar": "قد تتيح الدراسات الطولية التي تربط مقاييس computer vision بـPROMs تتبعاً أدق وأكثر فائدة سريرياً لنتائج facial plastic surgery.",
+      "future_impact_en": "Longitudinal studies linking computer vision metrics with PROMs may enable more accurate and clinically meaningful tracking of facial plastic surgery outcomes.",
+      "why_important_ar": "توضح المقالة أن قياس التغير في مظهر الوجه لا يثبت وحده تحسن النتيجة كما يختبرها المريض.",
+      "why_important_en": "The article highlights that measuring facial change alone does not establish improvement in outcomes as experienced by patients.",
+      "vs_previous_ar": "تجمع المراجعة التقنيات الرقمية الناشئة مع مسألة ارتباطها بـPROMs، وتبرز أن هذا الارتباط ما زال محدوداً ومتفاوتاً.",
+      "vs_previous_en": "The review considers emerging digital methods alongside their relationship to PROMs, emphasizing that this association remains limited and variable.",
+      "stars": 3,
+      "stars_reason_ar": "مراجعة سردية ذات صلة سريرية تقدم معرفة مفيدة عن AI في تتبع outcomes، لكن محدودية التحقق من ارتباط المقاييس بـPROMs وعدم وجود دليل يغيّر الممارسة يجعلان التقييم متوسطاً.",
+      "stars_reason_en": "This clinically relevant narrative review offers useful information about AI-based outcome tracking, but limited validation against PROMs and no evidence supporting a practice change warrant a moderate score.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسبة للنقاش حول الفرق بين الدقة التقنية وصلاحية outcome، وكيفية دمج PROMs في تقييم أدوات AI قبل اعتمادها سريرياً.",
+      "jc_reason_en": "Suitable for discussion of the distinction between technical accuracy and outcome validity, and how PROMs should be incorporated before clinical adoption of AI tools.",
+      "watch": true,
+      "watch_detail_ar": "تابع تطور machine learning وcomputer vision لتحليل صور الوجه والحركة، مع التركيز على الدراسات التي تتحقق من ارتباط النتائج بـPROMs.",
+      "watch_detail_en": "Track machine learning and computer vision for facial image and movement analysis, especially studies validating their results against PROMs.",
+      "watch_type": "technology",
+      "research_gap_ar": "هناك حاجة إلى دراسات طولية تقارن التغيرات الفردية في مقاييس AI مع PROMs validated وتحدد thresholds للتغير ذي الأهمية السريرية.",
+      "research_gap_en": "Longitudinal studies should compare within-patient changes in AI metrics with validated PROMs and define thresholds for clinically meaningful change.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "تتناول هذه المراجعة مستقبل استخدام الذكاء الاصطناعي في تتبع outcomes بعد facial plastic and reconstructive surgery. تاريخياً، اعتمد تقييم النتائج على الفحص الذاتي وقياسات الوجه اليدوية، ثم تطور إلى 2D و3D imaging، وبعدها إلى automated landmark detection وmachine learning وcomputer vision.\n\nيمكن للتقنيات الحالية قياس facial morphology وasymmetry وperceived age والحركة الديناميكية بدقة تقنية متزايدة. لكن السؤال الأهم ليس فقط: هل تستطيع الخوارزمية قياس التغير؟ بل: هل يرتبط هذا التغير بما يراه المريض أو يشعر به؟ هنا تكمن الفجوة الأساسية، إذ إن عدداً قليلاً من الدراسات قارن المقاييس الرقمية مباشرةً مع validated patient-reported outcome measures، أو PROMs.\n\nتشير الأدلة في facial rejuvenation وrhinoplasty وblepharoplasty وfacial paralysis إلى ارتباطات متفاوتة بين المقاييس والنتائج التي يبلغ عنها المرضى. لذلك، لا تكفي الدقة التقنية وحدها لتأكيد الفائدة السريرية، ولا تدعم المراجعة استبدال التقييم السريري أو PROMs بأدوات AI في الوقت الحالي.\n\nأهمية المقالة أنها تضع معياراً واضحاً للتحقق قبل الاستخدام الروتيني: إجراء دراسات طولية تقيس التغيرات لدى المريض نفسه، وتقارنها بـPROMs مناسبة، وتحدد thresholds للتغير ذي الأهمية السريرية. بالنسبة إلى أطباء facial plastics، الرسالة الحالية هي أن هذه التقنيات واعدة وتستحق المتابعة، لكنها لم تثبت بعد أنها تقيس ما يهم المرضى بصورة موثوقة. يُنصح بمناقشة المقالة في journal club لأنها تبرز الفرق بين دقة القياس وصلاحية outcome، وتحدد أسئلة بحثية عملية للمرحلة القادمة.",
+      "audio_script_en": "This narrative review examines the future of AI-based outcomes tracking after facial plastic and reconstructive surgery. Outcomes assessment has evolved from subjective inspection and manual facial measurements to 2D and 3D imaging, automated landmark detection, machine learning, and computer vision.\n\nCurrent methods can quantify facial morphology, asymmetry, perceived age, and dynamic movement with increasing technical accuracy. But the key question is not simply whether an algorithm can measure change. It is whether that change corresponds to what patients see, experience, and value. The review identifies a major gap: few studies have directly compared digital metrics with validated patient-reported outcome measures, or PROMs.\n\nEvidence from facial rejuvenation, rhinoplasty, blepharoplasty, and facial paralysis shows variable associations between measured changes and patient-reported outcomes. Technical accuracy by itself does not establish clinical value. Accordingly, this review does not support replacing clinical assessment or PROMs with AI tools in current practice.\n\nThe article’s practical contribution is to set out what validation should look like before routine adoption: longitudinal studies tracking change within individual patients, comparison with relevant PROMs, and establishment of thresholds for clinically meaningful change. For facial plastic surgeons, the takeaway is that these technologies are promising and worth watching, but they have not yet demonstrated reliable measurement of outcomes that matter to patients. This is a useful journal club article because it distinguishes measurement precision from outcome validity and identifies concrete priorities for future research.",
+      "mcq": [
+        {
+          "q_ar": "ما الفجوة البحثية الأساسية التي تحددها المراجعة؟",
+          "q_en": "What is the main research gap identified by the review?",
+          "options_ar": [
+            "أ) نقص أدوات التصوير ثلاثي الأبعاد",
+            "ب) قلة الدراسات التي تقارن مقاييس AI بـPROMs validated",
+            "ج) عدم قدرة computer vision على تحديد معالم الوجه",
+            "د) غياب استخدام التصوير في facial plastic surgery"
+          ],
+          "options_en": [
+            "A) A lack of three-dimensional imaging tools",
+            "B) Few studies comparing AI metrics with validated PROMs",
+            "C) The inability of computer vision to identify facial landmarks",
+            "D) The absence of imaging in facial plastic surgery"
+          ],
+          "answer": 1,
+          "explanation_ar": "تذكر المراجعة أن دراسات قليلة قارنت مباشرةً المقاييس الناتجة عن machine learning وcomputer vision مع validated PROMs.",
+          "explanation_en": "The review notes that few studies have directly compared machine learning and computer vision metrics with validated PROMs."
+        },
+        {
+          "q_ar": "ما الاستنتاج العملي الأنسب بشأن استخدام مقاييس AI حالياً؟",
+          "q_en": "What is the most appropriate conclusion about using AI metrics today?",
+          "options_ar": [
+            "أ) اعتمادها بديلاً عن PROMs",
+            "ب) استخدامها وحدها لاتخاذ قرارات العلاج",
+            "ج) عدم اعتمادها روتينياً قبل التحقق من ارتباطها بـPROMs",
+            "د) إيقاف استخدام التصوير في تقييم النتائج"
+          ],
+          "options_en": [
+            "A) Adopt them as replacements for PROMs",
+            "B) Use them alone to make treatment decisions",
+            "C) Do not adopt them routinely before validating their relationship with PROMs",
+            "D) Stop using imaging for outcome assessment"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدقة التقنية واعدة، لكن التحقق من ارتباط القياسات بالنتائج التي يبلغ عنها المرضى غير كافٍ للاستخدام الروتيني.",
+          "explanation_en": "Technical accuracy is promising, but evidence linking measurements to patient-reported outcomes is insufficient for routine use."
+        },
+        {
+          "q_ar": "ما التصميم الذي توصي به المراجعة لتطوير الأدلة؟",
+          "q_en": "What study approach does the review recommend to strengthen the evidence?",
+          "options_ar": [
+            "أ) دراسات طولية تقارن التغير لدى المريض نفسه مع PROMs",
+            "ب) دراسات مختبرية من دون متابعة المرضى",
+            "ج) الاعتماد على صور ما بعد الجراحة فقط",
+            "د) دراسات تقيس الدقة التقنية من دون outcomes سريرية"
+          ],
+          "options_en": [
+            "A) Longitudinal studies comparing within-patient change with PROMs",
+            "B) Laboratory studies without patient follow-up",
+            "C) Using postoperative images alone",
+            "D) Studies of technical accuracy without clinical outcomes"
+          ],
+          "answer": 0,
+          "explanation_ar": "توصي المراجعة بمتابعة طولية تقارن التغيرات الفردية مع PROMs وتحدد thresholds للأهمية السريرية.",
+          "explanation_en": "The review recommends longitudinal follow-up comparing individual changes with PROMs and defining thresholds for clinical meaningfulness."
+        }
+      ]
+    },
+    {
+      "pmid": "43070905",
+      "title_ar": "Predictors of outcomes of endoscopic sinus surgery for CRSwNP: a systematic review of the literature.",
+      "title_en": "Predictors of outcomes of endoscopic sinus surgery for CRSwNP: a systematic review of the literature.",
+      "journal": "Rhinology",
+      "pub_date": "2026-Nov-23",
+      "doi": "10.4193/Rhin25.510",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43070905/",
+      "pdf_url": "https://www.rhinologyjournal.com/download.php?id=3646",
+      "study_design": "Systematic review of 152 studies",
+      "summary_ar": "تبحث هذه systematic review في العوامل قبل وأثناء وبعد الجراحة التي قد تتنبأ بنتائج ضعيفة بعد endoscopic sinus surgery لدى مرضى CRSwNP. شملت المراجعة 152 دراسة، لكنها لم تقدم نموذجاً تنبؤياً موحداً يمكن تطبيقه سريرياً. ارتبطت النتائج الأسوأ بوجود asthma أو NSAID-exacerbated respiratory disease، وبعمليات سابقة، ولا سيما تكرارها أو إصابة frontal sinus. كما شملت عوامل الخطر شدة الأعراض ومدتها قبل الجراحة، وارتفاع Lund-Mackay score، وارتفاع tissue eosinophil counts. وظهرت أدلة إضافية، وإن كانت أقل قوة، لعوامل مثل allergy، وبعض العوامل الجراحية، وعدم استخدام corticosteroids بعد الجراحة، وارتفاع Lund-Kennedy endoscopic score، وosteitis، وinterleukin-5. تساعد هذه النتائج على تحديد المرضى الذين قد يحتاجون إلى توقعات ومتابعة وعلاج أكثر تخصيصاً، لكنها لا تثبت أن تعديل أي عامل بعينه سيحسن النتيجة.",
+      "summary_en": "This systematic review assessed pre-, peri-, and postoperative factors associated with poor outcomes after endoscopic sinus surgery for CRSwNP.\nIt included 152 studies but found no universally accepted prediction model for clinical use.\nStrongly associated factors included asthma, NSAID-exacerbated respiratory disease, prior surgery, symptom severity and duration, high Lund-Mackay score, and high tissue eosinophil counts.\nAdditional evidence implicated allergy, surgical factors, lack of postoperative corticosteroid use, high Lund-Kennedy endoscopic score, osteitis, and interleukin-5.\nThe findings can help clinicians recognize patients who may need individualized counseling and follow-up.\nThey do not establish that changing any single predictor will improve surgical outcomes.",
+      "practice_change_ar": "لا تغيّر المراجعة الإجراء الجراحي بحد ذاته، لكنها تدعم تقييم عوامل الخطر هذه ومناقشة احتمال استمرار المرض والحاجة إلى متابعة وعلاج مخصصين قبل الجراحة.",
+      "practice_change_en": "The review does not change the surgical procedure itself, but supports assessing these risk factors and discussing persistent disease and individualized follow-up and treatment before surgery.",
+      "future_impact_ar": "قد تساعد هذه العوامل في تطوير نموذج تنبؤي مُتحقق منه يوجه اختيار المرضى وخطط المتابعة بعد ESS.",
+      "future_impact_en": "These factors may inform development of a validated prediction model to guide patient counseling and follow-up after ESS.",
+      "why_important_ar": "تجمع المقالة أدلة واسعة حول عوامل مرتبطة بنتائج ESS غير المواتية في مرضى CRSwNP، وهي فئة تتفاوت فيها شدة المرض واحتمالات النكس.",
+      "why_important_en": "The review consolidates evidence on factors associated with unfavorable ESS outcomes in CRSwNP, a condition with variable severity and risk of recurrence.",
+      "vs_previous_ar": "بدلاً من تقديم عامل خطر منفرد أو قاعدة جديدة، تلخص المراجعة عوامل متعددة سبق الإبلاغ عنها وتوضح عدم وجود نموذج تنبؤي مقبول على نطاق واسع.",
+      "vs_previous_en": "Rather than proposing a single new risk factor or rule, the review synthesizes previously reported predictors and highlights the lack of a widely accepted prediction model.",
+      "stars": 4,
+      "stars_reason_ar": "هذه systematic review واسعة شملت 152 دراسة وتقدم خلاصة مفيدة سريرياً لعوامل الخطر، لكن غياب نموذج مُتحقق منه وعدم إثبات أن تغيير العوامل يحسن النتائج يحدان من تأثيرها على الممارسة.",
+      "stars_reason_en": "This broad systematic review of 152 studies provides clinically useful risk-factor synthesis, but the absence of a validated model and lack of evidence that modifying predictors improves outcomes limit its practice impact.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسبة لمناقشة منهجية تجميع عوامل الإنذار، ومدى صلاحيتها لتوجيه المشورة والمتابعة، وما يلزم قبل اعتماد نموذج تنبؤي سريري.",
+      "jc_reason_en": "Suitable for discussion of how prognostic factors were synthesized, their value for counseling and follow-up, and what is needed before adopting a clinical prediction model.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى دراسات مستقبلية موحدة تتحقق من نموذج متعدد العوامل وتختبر ما إذا كان توجيه الرعاية بناءً عليه يحسن نتائج المرضى.",
+      "research_gap_en": "Prospective standardized studies are needed to validate a multivariable prediction model and test whether model-guided care improves patient outcomes.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم systematic review بعنوان «Predictors of outcomes of endoscopic sinus surgery for CRSwNP». تركز المقالة على سؤال سريري مهم: ما العوامل المرتبطة بنتائج أقل نجاحاً بعد ESS لدى مرضى CRSwNP؟\n\nجمعت المراجعة 152 دراسة، ونظرت في عوامل قبل الجراحة وأثناءها وبعدها. من أبرز عوامل الخطر asthma وNSAID-exacerbated respiratory disease، وإجراء عمليات سابقة، خصوصاً مع تكرر الجراحة أو إصابة frontal sinus. كذلك ارتبطت شدة الأعراض وطول مدتها قبل العملية، وارتفاع Lund-Mackay score، وارتفاع tissue eosinophil counts بنتائج أسوأ.\n\nوتذكر المراجعة عوامل أخرى تدعمها أدلة أقل، منها allergy وبعض العوامل المرتبطة بالجراحة، وعدم استخدام corticosteroids بعد العملية، وارتفاع Lund-Kennedy endoscopic score، وosteitis، وinterleukin-5. هذه النتائج تساعد الجراح على تحديد المرضى الذين قد يحتاجون إلى مشورة أكثر دقة بشأن استمرار الأعراض أو عودة المرض، وإلى متابعة وخطة علاج مخصصتين.\n\nلكن ينبغي عدم تفسير الارتباط على أنه إثبات للسببية؛ فالمراجعة لا تثبت أن تعديل عامل خطر بعينه سيحسن النتيجة الجراحية. كما لا تقدم نموذجاً تنبؤياً موحداً ومقبولاً للتطبيق، لذلك لا تفرض تغييراً فورياً في التقنية الجراحية أو اختيار المرضى. القيمة العملية حالياً هي تنظيم تقييم المخاطر وتحسين الحوار مع المريض، مع الاستمرار في الحكم السريري.\n\nتستحق المقالة النقاش في journal club بسبب اتساع الأدلة المجمعة والفجوة بين معرفة عوامل الخطر وامتلاك أداة تنبؤ موثقة. والخطوة البحثية التالية هي دراسات مستقبلية تتحقق من نموذج متعدد العوامل، ثم تختبر ما إذا كان استخدامه لتوجيه المتابعة والعلاج يحسن نتائج المرضى.",
+      "audio_script_en": "Today we review “Predictors of outcomes of endoscopic sinus surgery for CRSwNP,” a systematic review addressing a practical question: which factors are associated with poorer outcomes after ESS?\n\nThe review included 152 studies and considered preoperative, perioperative, and postoperative factors. Prominent predictors included asthma and NSAID-exacerbated respiratory disease, previous surgery—particularly repeated procedures or frontal sinus involvement—greater preoperative symptom severity and duration, a high Lund-Mackay score, and high tissue eosinophil counts.\n\nThe authors also found some evidence for allergy, surgical factors, lack of postoperative corticosteroid use, a high Lund-Kennedy endoscopic score, osteitis, and interleukin-5. In practice, these findings can help clinicians identify patients who may benefit from more individualized counseling about persistent or recurrent disease and from tailored follow-up and treatment.\n\nImportant limitations remain. Associations do not prove causation, and the review does not show that modifying any one risk factor will improve surgical outcomes. It also does not provide a universally accepted, validated prediction model. Therefore, this is useful risk-awareness evidence, not a reason to change the surgical technique or patient selection rules today.\n\nThe review is valuable for journal club because it brings together a large body of prognostic literature while exposing the gap between recognizing risk factors and applying a reliable clinical tool. Future prospective studies should validate a multivariable model and test whether model-guided counseling, follow-up, or treatment actually improves patient outcomes.",
+      "mcq": [
+        {
+          "q_ar": "أي عامل من العوامل التالية ارتبط بنتائج أسوأ بعد ESS في هذه المراجعة؟",
+          "q_en": "Which factor was associated with poorer outcomes after ESS in this review?",
+          "options_ar": [
+            "أ) انخفاض Lund-Mackay score",
+            "ب) ارتفاع tissue eosinophil counts",
+            "ج) غياب الأعراض قبل الجراحة",
+            "د) عدم وجود عمليات سابقة"
+          ],
+          "options_en": [
+            "A) Low Lund-Mackay score",
+            "B) High tissue eosinophil counts",
+            "C) Absence of preoperative symptoms",
+            "D) No prior surgeries"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان ارتفاع tissue eosinophil counts من العوامل المرتبطة بنتائج أقل مواتاة بعد ESS.",
+          "explanation_en": "High tissue eosinophil counts were among the factors associated with poorer outcomes after ESS."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأهم بشأن نموذج التنبؤ السريري بنتائج ESS؟",
+          "q_en": "What is the key conclusion regarding a clinical prediction model for ESS outcomes?",
+          "options_ar": [
+            "أ) يوجد نموذج موحد مقبول للاستخدام العام",
+            "ب) لا يوجد نموذج مقبول عالمياً يمكن تطبيقه سريرياً",
+            "ج) يمكن استخدام interleukin-5 وحده لتحديد النتيجة",
+            "د) لا ترتبط أي عوامل سريرية بالنتائج"
+          ],
+          "options_en": [
+            "A) A universally accepted model is ready for general use",
+            "B) No universally accepted model is available for clinical application",
+            "C) Interleukin-5 alone determines the outcome",
+            "D) No clinical factors are associated with outcomes"
+          ],
+          "answer": 1,
+          "explanation_ar": "ذكرت المراجعة عوامل متعددة، لكنها لم تجد نموذجاً تنبؤياً مقبولاً على نطاق واسع للتطبيق السريري.",
+          "explanation_en": "The review identified multiple predictors but found no widely accepted model for clinical use."
+        },
+        {
+          "q_ar": "ما الاستخدام العملي الأنسب لنتائج هذه المراجعة حالياً؟",
+          "q_en": "What is the most appropriate current clinical use of this review?",
+          "options_ar": [
+            "أ) استبدال ESS بالعلاج الدوائي لدى جميع المرضى",
+            "ب) استخدام عوامل الخطر لتحسين المشورة وتخصيص المتابعة",
+            "ج) استبعاد كل مريض لديه asthma من الجراحة",
+            "د) اعتبار عوامل الارتباط دليلاً على السببية"
+          ],
+          "options_en": [
+            "A) Replace ESS with medical therapy for all patients",
+            "B) Use risk factors to inform counseling and individualize follow-up",
+            "C) Exclude every patient with asthma from surgery",
+            "D) Treat associations as proof of causation"
+          ],
+          "answer": 1,
+          "explanation_ar": "تدعم النتائج التعرف على المرضى الأكثر عرضة للنتائج الضعيفة ومناقشة التوقعات وتخصيص المتابعة، لكنها لا تثبت السببية أو تفرض استبعاد فئات من الجراحة.",
+          "explanation_en": "The findings support identifying higher-risk patients, counseling them, and tailoring follow-up; they do not establish causality or mandate excluding patient groups from surgery."
+        }
+      ]
+    },
+    {
+      "pmid": "43073653",
+      "title_ar": "Hand-on-the-Wall Technique for Frontal Sinus Dissection During FESS.",
+      "title_en": "Hand-on-the-Wall Technique for Frontal Sinus Dissection During FESS.",
+      "journal": "The Laryngoscope",
+      "pub_date": "2026-Nov-23",
+      "doi": "10.1002/lary.71061",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43073653/",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lary.71061",
+      "study_design": "Technical description; sample size and comparative outcomes not reported",
+      "summary_ar": "يصف المقال تقنية hand-on-the-wall لتوجيه dissection داخل frontal sinus أثناء FESS. بعد كشف agger nasi cell، يتبع الجرّاح contour الخاص بـ frontal process of the maxilla وfrontal beak باتجاه frontal sinus. توفر هذه المعالم التشريحية مرجعًا ثابتًا للتوجيه أثناء العملية. وتُقدَّم التقنية على أنها مكملة لمفهوم building-block، وليست بديلًا عنه. لا يذكر الملخص بيانات عن عدد المرضى أو نتائج سريرية أو مقارنة مع تقنيات أخرى.",
+      "summary_en": "This article describes the hand-on-the-wall technique for orientation during frontal sinus dissection in FESS. After exposing the agger nasi cell, the surgeon follows the contour of the frontal process of the maxilla and frontal beak into the frontal sinus. These anatomical landmarks provide a consistent intraoperative reference. The technique is presented as complementary to the building-block concept, rather than as a replacement. The abstract provides no patient numbers, clinical outcomes, or comparison with other techniques.",
+      "practice_change_ar": "لا تكفي المعلومات المتاحة لتغيير الممارسة اليوم، لكن يمكن للجرّاحين أخذ هذه المعالم التشريحية في الاعتبار أثناء dissection.",
+      "practice_change_en": "The available information is insufficient to change practice today, though surgeons may consider these anatomical landmarks during dissection.",
+      "future_impact_ar": "قد تساعد دراسات مقارنة مستقبلية في تحديد ما إذا كانت التقنية تحسن التوجيه أو النتائج أو السلامة أثناء FESS.",
+      "future_impact_en": "Future comparative studies could determine whether the technique improves orientation, outcomes, or safety during FESS.",
+      "why_important_ar": "تطرح المقالة مرجعًا تشريحيًا عمليًا للمساعدة على التوجيه في منطقة frontal sinus المعقدة أثناء FESS.",
+      "why_important_en": "The article offers a practical anatomical reference to support orientation in the complex frontal sinus region during FESS.",
+      "vs_previous_ar": "على خلاف الاعتماد على مفهوم building-block وحده، تضيف التقنية اتباع contour الخاص بـ frontal process of the maxilla وfrontal beak بعد كشف agger nasi cell.",
+      "vs_previous_en": "Rather than relying on the building-block concept alone, the technique adds tracking the frontal process of the maxilla and frontal beak contour after agger nasi cell exposure.",
+      "stars": 3,
+      "stars_reason_ar": "هذا وصف لتقنية جراحية دون بيانات مرضى أو نتائج مقارنة؛ تمنحها مكانة The Laryngoscope وجِدّة الفكرة قيمة تعليمية، لكن الأدلة غير كافية لإثبات أثرها السريري.",
+      "stars_reason_en": "This is a surgical technique description without patient data or comparative outcomes; the standing of The Laryngoscope and the novel concept give it educational value, but evidence is insufficient to establish clinical benefit.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This is suitable for a rhinology discussion of anatomical landmarks and orientation during frontal sinus dissection, while distinguishing a technique description from evidence of efficacy.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات سريرية مقارنة تقيس دقة التوجيه والنتائج والمضاعفات عند استخدام التقنية مقابل الأساليب المعتادة.",
+      "research_gap_en": "Comparative clinical studies are needed to measure orientation accuracy, outcomes, and complications with this technique versus usual approaches.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نراجع اليوم مقالًا في The Laryngoscope بعنوان Hand-on-the-Wall Technique for Frontal Sinus Dissection During FESS. يصف المقال تقنية للتوجيه أثناء dissection في frontal sinus. بعد كشف agger nasi cell، يتبع الجرّاح contour الخاص بـ frontal process of the maxilla وfrontal beak باتجاه frontal sinus. الفكرة هي استخدام هذه المعالم كمرجع تشريحي ثابت أثناء العملية، على نحو يكمل مفهوم building-block.\n\nمن المهم توضيح طبيعة الدليل: الملخص يصف التقنية، لكنه لا يورد عدد المرضى، أو نتائج سريرية، أو مقارنة مع أساليب أخرى. لذلك لا يمكن استنتاج أن التقنية تحسن السلامة أو النتائج، ولا تكفي المعلومات لتغيير الممارسة اليوم. مع ذلك، قد تكون فكرة مفيدة للتوجيه التشريحي في منطقة معقدة، وتستحق النقاش في journal club ضمن rhinology.\n\nالتقييم ثلاث نجوم وثقة متوسطة: جِدّة الفكرة ومكانة المجلة تدعمان قيمتها التعليمية، لكن غياب البيانات المقارنة يحد من قوة الاستنتاج. الفجوة البحثية الأساسية هي إجراء دراسات تقيس دقة التوجيه والنتائج والمضاعفات مقارنة بالأساليب المعتادة. الخلاصة: هذا وصف عملي لمعالم تشريحية قد تساعد الجرّاح، وليس دليلًا على تفوق التقنية.",
+      "audio_script_en": "Today we review a technique article in The Laryngoscope titled Hand-on-the-Wall Technique for Frontal Sinus Dissection During FESS. It describes an approach to orientation during frontal sinus dissection. After exposing the agger nasi cell, the surgeon follows the contour of the frontal process of the maxilla and frontal beak into the frontal sinus. The authors present these landmarks as a consistent anatomical reference that complements the building-block concept.\n\nThe evidence type matters: the abstract describes the technique but reports no patient numbers, clinical outcomes, or comparison with other approaches. We therefore cannot conclude that it improves safety or outcomes, and the available information is not enough to change practice today. Nevertheless, the anatomical orientation concept may be useful to rhinologists and is suitable for journal club discussion.\n\nThe article receives three stars with moderate confidence. Its novel practical concept and the journal’s standing support educational value, while the absence of comparative data limits the strength of the conclusions. The key research gap is whether the technique improves orientation accuracy, outcomes, or complication rates compared with usual approaches. In short, this is a potentially helpful anatomical guide, not evidence that the technique is superior.",
+      "mcq": [
+        {
+          "q_ar": "ما المرجع التشريحي الذي تتبعه تقنية hand-on-the-wall بعد كشف agger nasi cell؟",
+          "q_en": "Which anatomical contour does the hand-on-the-wall technique follow after exposure of the agger nasi cell?",
+          "options_ar": [
+            "أ) contour الخاص بـ frontal process of the maxilla وfrontal beak",
+            "ب) lamina papyracea وethmoid roof",
+            "ج) inferior turbinate وnasal septum",
+            "د) sphenoid rostrum وclivus"
+          ],
+          "options_en": [
+            "A) The contour of the frontal process of the maxilla and frontal beak",
+            "B) The lamina papyracea and ethmoid roof",
+            "C) The inferior turbinate and nasal septum",
+            "D) The sphenoid rostrum and clivus"
+          ],
+          "answer": 0,
+          "explanation_ar": "تتبع التقنية contour الخاص بـ frontal process of the maxilla وfrontal beak باتجاه frontal sinus.",
+          "explanation_en": "The technique follows the frontal process of the maxilla and frontal beak contour into the frontal sinus."
+        },
+        {
+          "q_ar": "ما علاقة التقنية بمفهوم building-block؟",
+          "q_en": "How does the technique relate to the building-block concept?",
+          "options_ar": [
+            "أ) تستبدله بالكامل",
+            "ب) تكمله بمرجع تشريحي ثابت للتوجيه",
+            "ج) تُستخدم فقط بعد فشل building-block",
+            "د) لا ترتبط به"
+          ],
+          "options_en": [
+            "A) It replaces it entirely",
+            "B) It complements it with a consistent anatomical reference",
+            "C) It is used only after the building-block approach fails",
+            "D) It is unrelated to it"
+          ],
+          "answer": 1,
+          "explanation_ar": "يذكر الملخص أن التقنية تكمل building-block concept بتوفير مرجع تشريحي ثابت.",
+          "explanation_en": "The abstract states that the technique complements the building-block concept by providing a consistent anatomical reference."
+        },
+        {
+          "q_ar": "ما القيد الأبرز في المعلومات المقدمة عن التقنية؟",
+          "q_en": "What is the main limitation of the information provided about the technique?",
+          "options_ar": [
+            "أ) لا تتناول جراحة الجيوب الأنفية",
+            "ب) لا تذكر عدد المرضى أو النتائج أو مقارنة سريرية",
+            "ج) تقتصر على دراسة حيوانية",
+            "د) تقيّم دواءً بدلًا من تقنية جراحية"
+          ],
+          "options_en": [
+            "A) It does not address sinus surgery",
+            "B) It reports no patient numbers, outcomes, or clinical comparison",
+            "C) It is limited to an animal study",
+            "D) It evaluates a drug rather than a surgical technique"
+          ],
+          "answer": 1,
+          "explanation_ar": "الملخص يصف التقنية ومعالمها، لكنه لا يقدم بيانات مرضى أو نتائج أو مقارنة تسمح بتقييم فعاليتها.",
+          "explanation_en": "The abstract describes the technique and landmarks but provides no patient data, outcomes, or comparison to assess efficacy."
+        }
+      ]
+    },
+    {
+      "pmid": "43071801",
+      "title_ar": "Not just another Layer - Surgical applications of pericranium flaps in neurosurgery: a systematic review of the literature.",
+      "title_en": "Not just another Layer - Surgical applications of pericranium flaps in neurosurgery: a systematic review of the literature.",
+      "journal": "British journal of neurosurgery",
+      "pub_date": "2026-Nov-23",
+      "doi": "10.1080/02688697.2026.2766934",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43071801/",
+      "pdf_url": null,
+      "study_design": "Systematic review of 46 studies (800 patients); no meta-analysis",
+      "summary_ar": "راجعت هذه systematic review استخدام pericranium في تطبيقات جراحية متعددة تشمل reconstruction في cranial وskull-base وorbital sites، وdural repair، وتغطية الأجهزة، وindirect revascularisation. شملت المراجعة 46 دراسة و800 مريض، بينها RCT واحدة، و28 دراسة observational، و17 case reports. شملت الاستخدامات non-expansile dural repair في 365 مريضاً وexpansion duraplasty في 152 مريضاً. كانت المضاعفات المبلغ عنها، ومنها cerebrospinal fluid leaks وinfections، منخفضة عموماً، لكن تقييمها لم يكن متسقاً. أظهرت ثماني دراسات مقارنة عدم وجود نتائج سلامة أسوأ مع pericranium، إلا أن خطر التحيز كان moderate إلى critical، خصوصاً بسبب عدم التوزيع العشوائي. تعذر إجراء meta-analysis بسبب heterogeneity، لذلك لا تثبت النتائج سلامة أو durability أو نتائج طويلة الأمد بصورة حاسمة.",
+      "summary_en": "This systematic review assessed pericranium use across cranial, skull-base, orbital, and other neurosurgical applications. It included 46 studies and 800 patients: one RCT, 28 observational studies, and 17 case reports. Applications included non-expansile dural repair, expansion duraplasty, reconstruction, device coverage, and indirect revascularisation. Reported complications, including cerebrospinal fluid leaks and infections, were generally infrequent, although assessment was inconsistent. Eight comparative studies found no worse safety outcomes with pericranium, but had moderate-to-critical risk of bias, often due to non-random allocation. Heterogeneity prevented meta-analysis, and the evidence does not establish definitive safety, durability, or long-term outcomes.",
+      "practice_change_ar": "لا تدعم النتائج تغيير الممارسة حالياً، لكنها تشير إلى أن pericranium خيار ترميمي ممكن عند اختيار flap مناسب للحالة.",
+      "practice_change_en": "The findings do not support changing practice today, but suggest pericranium is a feasible reconstructive option when an appropriate flap is needed.",
+      "future_impact_ar": "قد تساعد دراسات prospective comparative ذات متابعة طويلة على تحديد الاستخدامات التي تحقق فيها pericranium أفضل توازن بين السلامة والمتانة.",
+      "future_impact_en": "Prospective comparative studies with long-term follow-up may identify which applications offer the best balance of safety and durability with pericranium.",
+      "why_important_ar": "تلخص المقالة نطاقاً واسعاً من استخدامات pericranium وتوضح أن النتائج المطمئنة المتاحة ما زالت محدودة بتحيز الدراسات وعدم اتساق التقييم.",
+      "why_important_en": "The article summarizes a broad range of pericranium applications while showing that reassuring outcomes remain limited by bias and inconsistent assessment.",
+      "vs_previous_ar": "على خلاف المعرفة المستندة إلى تقارير منفردة، تجمع هذه المراجعة تطبيقات متعددة، لكنها لا تضيف تقديراً تجميعياً بسبب heterogeneity.",
+      "vs_previous_en": "Unlike knowledge based on individual reports, this review brings together multiple applications, but cannot provide a pooled estimate because of heterogeneity.",
+      "stars": 3,
+      "stars_reason_ar": "هذه systematic review ذات تصميم قوي مبدئياً وتشمل 800 مريض، لكن غياب meta-analysis وتفاوت الدراسات وخطر التحيز moderate إلى critical يحد من قوة الاستنتاجات؛ لذا فهي مفيدة للمعرفة ولا تغيّر الممارسة.",
+      "stars_reason_en": "This systematic review has a strong design base and includes 800 patients, but the lack of meta-analysis, study heterogeneity, and moderate-to-critical risk of bias limit its conclusions; it is useful knowledge rather than practice-changing evidence.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The review is suitable for discussion of pericranium selection in reconstruction and the limitations of drawing conclusions from non-randomized surgical evidence.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى دراسات prospective comparative موحدة لتعريف indications وقياس leaks وinfections وdurability والنتائج طويلة الأمد.",
+      "research_gap_en": "Standardized prospective comparative studies are needed to define indications and measure leaks, infections, durability, and long-term outcomes.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نستعرض اليوم systematic review بعنوان «Not just another Layer»، حول الاستخدامات الجراحية لـ pericranium في neurosurgery، وهي ذات صلة أيضاً بفرق skull-base التي تتعامل مع reconstruction. جمعت المراجعة 46 دراسة شملت 800 مريضاً، منها RCT واحدة و28 دراسة observational و17 case reports. تضمنت التطبيقات cranial وskull-base وorbital reconstruction، وnon-expansile dural repair، وexpansion duraplasty، وتغطية الأجهزة، إضافة إلى استخدامات أخرى مثل indirect revascularisation.\n\nأفادت الدراسات عموماً بمعدلات منخفضة للمضاعفات، ومنها cerebrospinal fluid leaks وinfections. كما لم تجد ثماني دراسات مقارنة نتائج سلامة أسوأ مع pericranium، وكانت بعض النتائج العددية لصالحه. لكن ينبغي تفسير ذلك بحذر: فالدراسات متفاوتة، وتقييم المضاعفات غير متسق، وخطر التحيز تراوح بين moderate وcritical، ويرتبط غالباً بعدم التوزيع العشوائي. لهذا السبب لم يكن إجراء meta-analysis ممكناً، ولا تثبت النتائج بصورة حاسمة السلامة أو durability أو النتائج طويلة الأمد.\n\nما الذي يعنيه ذلك للممارسة؟ لا يوجد ما يبرر تغيير الممارسة اليوم أو اعتبار pericranium أفضل من البدائل. لكنه يبدو خياراً تقنياً ممكناً في مجموعة متنوعة من تطبيقات الترميم، مع ضرورة مراعاة الحالة والبدائل المتاحة. أهمية المقالة أنها تجمع الاستخدامات المتفرقة وتوضح في الوقت نفسه حدود الأدلة. والخطوة البحثية التالية هي دراسات prospective comparative موحدة، مع تعريف واضح للـ indications ومتابعة طويلة الأمد وقياس متسق للتسرب والعدوى والمتانة. لذلك تُصنف هذه المراجعة على أنها مفيدة للمعرفة ومناسبة للنقاش في journal club، لكنها لا تغيّر الممارسة حالياً.",
+      "audio_script_en": "Today we review “Not just another Layer,” a systematic review of pericranium use in neurosurgery, with potential relevance to skull-base teams involved in reconstruction. The authors included 46 studies and 800 patients: one RCT, 28 observational studies, and 17 case reports. Applications ranged from cranial, skull-base, and orbital reconstruction to non-expansile dural repair, expansion duraplasty, device coverage, and indirect revascularisation.\n\nReported complications were generally infrequent, including cerebrospinal fluid leaks and infections. Eight comparative studies found no worse safety outcomes with pericranium; some reported numerically fewer leaks or infections. These findings need cautious interpretation. The studies were heterogeneous, complications were assessed inconsistently, and risk of bias ranged from moderate to critical, commonly because treatment was not randomly allocated. Heterogeneity also prevented a meta-analysis. As a result, this review cannot establish definitive safety, durability, or long-term outcomes.\n\nFor clinical practice, the review does not justify changing current management or claiming that pericranium is superior to alternatives. It does support considering it as a technically feasible option across selected reconstructive applications. The article matters because it brings a scattered literature together while making the evidence limitations explicit. Future prospective comparative studies should standardize indications, complication reporting, and long-term follow-up, including assessment of leaks, infections, and durability. Overall, this is useful knowledge for clinicians and a worthwhile journal-club discussion, but it is not practice-changing evidence.",
+      "mcq": [
+        {
+          "q_ar": "كم دراسة وكم مريضاً شملت systematic review؟",
+          "q_en": "How many studies and patients were included in the systematic review?",
+          "options_ar": [
+            "أ) 12 دراسة و365 مريضاً",
+            "ب) 46 دراسة و800 مريض",
+            "ج) 28 دراسة و152 مريضاً",
+            "د) 17 دراسة و51 مريضاً"
+          ],
+          "options_en": [
+            "A) 12 studies and 365 patients",
+            "B) 46 studies and 800 patients",
+            "C) 28 studies and 152 patients",
+            "D) 17 studies and 51 patients"
+          ],
+          "answer": 1,
+          "explanation_ar": "شملت المراجعة 46 دراسة بإجمالي 800 مريض.",
+          "explanation_en": "The review included 46 studies with a total of 800 patients."
+        },
+        {
+          "q_ar": "ما السبب الرئيس لعدم إجراء meta-analysis؟",
+          "q_en": "What was the main reason a meta-analysis was not performed?",
+          "options_ar": [
+            "أ) عدم وجود نتائج سريرية",
+            "ب) اقتصار الدراسات على case reports",
+            "ج) وجود heterogeneity بين الدراسات",
+            "د) عدم الإبلاغ عن أي مضاعفات"
+          ],
+          "options_en": [
+            "A) No clinical outcomes were reported",
+            "B) All studies were case reports",
+            "C) Heterogeneity across studies",
+            "D) No complications were reported"
+          ],
+          "answer": 2,
+          "explanation_ar": "ذكر الباحثون أن heterogeneity منعت إجراء meta-analysis.",
+          "explanation_en": "The authors stated that heterogeneity precluded a meta-analysis."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن تطبيق النتائج سريرياً؟",
+          "q_en": "Which conclusion about clinical application is most appropriate?",
+          "options_ar": [
+            "أ) ثبت أن pericranium متفوق على جميع البدائل",
+            "ب) يجب استخدام pericranium في كل dural repair",
+            "ج) لا تُظهر النتائج أي إمكانية تقنية للاستخدام",
+            "د) يبدو pericranium ممكناً تقنياً، لكن الأدلة لا تثبت السلامة أو المتانة بصورة حاسمة"
+          ],
+          "options_en": [
+            "A) Pericranium has been proven superior to all alternatives",
+            "B) Pericranium should be used for every dural repair",
+            "C) The findings show no technical feasibility",
+            "D) Pericranium appears technically feasible, but the evidence does not definitively establish safety or durability"
+          ],
+          "answer": 3,
+          "explanation_ar": "الخلاصة هي feasibility محتملة مع محدودية الأدلة بسبب التحيز وعدم اتساق التقييم وقصر أو نقص متابعة النتائج طويلة الأمد.",
+          "explanation_en": "The review suggests feasibility, while bias, inconsistent assessment, and limited long-term evidence prevent definitive conclusions."
+        }
+      ]
+    },
+    {
+      "pmid": "43078468",
+      "title_ar": "Augmented and Virtual Reality in Facial Plastic and Reconstructive Surgery: A Narrative Review.",
+      "title_en": "Augmented and Virtual Reality in Facial Plastic and Reconstructive Surgery: A Narrative Review.",
+      "journal": "Facial plastic surgery : FPS",
+      "pub_date": "2026-Nov-24",
+      "doi": "10.1055/a-2998-9360",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43078468/",
+      "pdf_url": null,
+      "study_design": "Narrative review",
+      "summary_ar": "تراجع هذه المقالة تطور واستخدامات extended reality (XR)، بما يشمل augmented reality (AR) وvirtual reality (VR)، في facial plastic and reconstructive surgery (FPRS). تعرض AR معلومات رقمية فوق مجال رؤية الجراح، وقد تطورت من دراسات الجدوى إلى منصات متعددة المراكز بدقة تسجيل أقل من 2 mm. أما VR فتضع المستخدم بالكامل ضمن بيئة مولّدة بالحاسوب. تشمل التطبيقات الموصوفة craniomaxillofacial trauma وcraniofacial reconstruction وfree flap harvest وrhinoplasty، مع رسوخ أكبر للاستخدام في تشريح العظام الصلب مقارنة بتطبيقات الأنسجة الرخوة. لا تزال البيانات المقارنة التي توجه اختيار المرضى محدودة، كما تشكل صعوبات تسجيل الأنسجة الرخوة والتكلفة عوائق مهمة. تدعو المقالة إلى تقارير موحدة للنتائج ودراسات مقارنة متعددة المراكز قبل التبني واسع النطاق، وتشير إلى دمج AR مع artificial intelligence بوصفه اتجاهاً ناشئاً.",
+      "summary_en": "This narrative review describes the evolution and current use of extended reality (XR), including augmented reality (AR) and virtual reality (VR), in facial plastic and reconstructive surgery (FPRS). AR overlays digital information on the surgeon’s view and has advanced from feasibility studies to multicenter navigation platforms with registration accuracy under 2 mm. VR immerses the user in a computer-generated environment. Reported applications include craniomaxillofacial trauma, craniofacial reconstruction, free flap harvest, and rhinoplasty, with more established use in rigid bony anatomy than in soft tissue. Comparative evidence to guide patient selection remains limited, and soft-tissue registration challenges and cost are important barriers. The review calls for standardized outcome reporting and multicenter comparative studies before widespread adoption, while noting emerging integration of AR with artificial intelligence.",
+      "practice_change_ar": "لا تدعم الأدلة الحالية تغيير الممارسة الروتينية، لكن يمكن اعتبار AR أداة مساعدة في الحالات المختارة التي تتطلب navigation للعظام أو reconstruction.",
+      "practice_change_en": "Current evidence does not support changing routine practice, although AR may be considered as an adjunct in selected cases requiring bony navigation or reconstruction.",
+      "future_impact_ar": "قد يحسن دمج AR مع artificial intelligence وmarkerless registration التخطيط والتنقل الجراحي، إذا أثبتت الدراسات المقارنة جدواه وسلامته.",
+      "future_impact_en": "Integration of AR with artificial intelligence and markerless registration may improve surgical planning and navigation if comparative studies establish its benefit and safety.",
+      "why_important_ar": "تلخص المقالة فرص XR وتحدياتها في FPRS، وتوضح أين يبدو استخدامها أكثر نضجاً وما يلزم لإثبات فائدتها السريرية.",
+      "why_important_en": "The review summarizes the opportunities and limitations of XR in FPRS, identifies its more mature applications, and outlines what is needed to establish clinical benefit.",
+      "vs_previous_ar": "على خلاف المعرفة السابقة التي ركزت على جدوى التقنية، تصف المقالة انتقال AR إلى منصات متعددة المراكز وتبرز استمرار نقص الأدلة المقارنة.",
+      "vs_previous_en": "Unlike earlier feasibility-focused knowledge, this review describes AR’s progression to multicenter platforms while emphasizing the continued lack of comparative evidence.",
+      "stars": 3,
+      "stars_reason_ar": "مراجعة سردية ذات صلة سريرية وتعرض تقنية ناشئة، لكنها لا تقدم بيانات أولية أو أدلة مقارنة كافية لتغيير الممارسة؛ لذا تستحق تقييماً متوسطاً.",
+      "stars_reason_en": "This clinically relevant narrative review covers an emerging technology but provides no primary data or sufficient comparative evidence to change practice, warranting a moderate score.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This is a useful journal club topic for discussing the role of XR in FPRS, the limitations of current evidence, and requirements for adoption.",
+      "watch": true,
+      "watch_detail_ar": "تابع تطور AR وVR، بما يشمل منصات navigation متعددة المراكز ودمج AR مع artificial intelligence، لاحتمال تحسين التخطيط والتنقل الجراحي.",
+      "watch_detail_en": "Track AR and VR developments, including multicenter navigation platforms and AR integration with artificial intelligence, for their potential to improve surgical planning and navigation.",
+      "watch_type": "technology",
+      "research_gap_ar": "يلزم إجراء دراسات مقارنة متعددة المراكز ذات مقاييس نتائج موحدة لتقييم الفائدة السريرية والتكلفة ودقة التسجيل، خصوصاً في الأنسجة الرخوة.",
+      "research_gap_en": "Multicenter comparative studies with standardized outcome measures are needed to assess clinical benefit, cost, and registration accuracy, particularly in soft tissue.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "تتناول هذه المراجعة السردية استخدام extended reality، أو XR، في facial plastic and reconstructive surgery. وتشمل التقنية augmented reality، أو AR، التي تضيف معلومات رقمية إلى مجال رؤية الجراح، وvirtual reality، أو VR، التي تضع المستخدم في بيئة افتراضية كاملة. تذكر المقالة أن AR تطورت من دراسات الجدوى إلى منصات navigation متعددة المراكز بدقة تسجيل تقل عن 2 mm.\n\nتشمل التطبيقات التي استعرضها المؤلفون craniomaxillofacial trauma وcraniofacial reconstruction وfree flap harvest وrhinoplasty. ويبدو أن الاستخدام أكثر نضجاً عند التعامل مع تشريح عظمي صلب؛ أما تطبيقات الأنسجة الرخوة فما زالت في مرحلة مبكرة، بسبب صعوبات التسجيل والمحاذاة. كما أن التكلفة ونقص البيانات المقارنة يحدان من اختيار المرضى ومن التبني الواسع.\n\nلا تقدم المراجعة دليلاً يبرر تغيير الممارسة الروتينية اليوم، لذا فالثقة متوسطة: التقنية واعدة ومفيدة للمعرفة، لكنها لم تثبت بعد تفوقاً سريرياً عاماً. عملياً، يمكن النظر إلى AR كأداة مساعدة في حالات مختارة تتطلب navigation للعظام أو reconstruction، مع ضرورة مراعاة الموارد والخبرة المتاحة.\n\nالرسالة البحثية الأساسية هي الحاجة إلى دراسات مقارنة متعددة المراكز ومقاييس نتائج موحدة، تشمل الفائدة السريرية والتكلفة ودقة التسجيل، خصوصاً في الأنسجة الرخوة. ومن الاتجاهات التي تستحق المتابعة دمج AR مع artificial intelligence وmarkerless registration لتحسين التخطيط والتنقل الجراحي. هذه المراجعة مهمة لأنها تميز بين التطبيقات الأكثر رسوخاً والوعود التي ما زالت بحاجة إلى إثبات.",
+      "audio_script_en": "This narrative review examines extended reality, or XR, in facial plastic and reconstructive surgery. XR includes augmented reality, or AR, which adds digital information to the surgeon’s view, and virtual reality, or VR, which immerses the user in a computer-generated environment. The authors describe AR’s progression from feasibility studies to multicenter navigation platforms with registration accuracy under 2 millimeters.\n\nThe reviewed applications include craniomaxillofacial trauma, craniofacial reconstruction, free flap harvest, and rhinoplasty. Use appears most established for rigid bony anatomy. Soft-tissue applications remain at an earlier stage, in part because registration and alignment are difficult. Cost and limited comparative evidence also constrain patient selection and broader adoption.\n\nThe review does not provide evidence to justify a change in routine practice today, so confidence is moderate: XR is worth knowing about, but broad clinical superiority has not been established. In practice, AR may be considered an adjunct in selected cases requiring bony navigation or reconstruction, depending on available resources and expertise.\n\nThe key research need is multicenter comparative work with standardized outcomes, assessing clinical benefit, cost, and registration accuracy, particularly for soft tissue. Emerging areas to track include integration of AR with artificial intelligence and markerless registration, which may improve planning and surgical navigation. The review matters because it distinguishes more established applications from promising uses that still require evidence.",
+      "mcq": [
+        {
+          "q_ar": "أي نوع من التشريح لديه الاستخدام الأكثر رسوخاً لتقنيات AR/VR وفقاً للمراجعة؟",
+          "q_en": "For which type of anatomy is XR use most established according to the review?",
+          "options_ar": [
+            "أ) الأنسجة الرخوة",
+            "ب) التشريح العظمي الصلب",
+            "ج) الأذن الداخلية",
+            "د) الحبال الصوتية"
+          ],
+          "options_en": [
+            "A) Soft tissue",
+            "B) Rigid bony anatomy",
+            "C) The inner ear",
+            "D) The vocal folds"
+          ],
+          "answer": 1,
+          "explanation_ar": "تشير المراجعة إلى أن استخدام XR أكثر رسوخاً في التشريح العظمي الصلب، بينما لا تزال تطبيقات الأنسجة الرخوة في مراحل مبكرة.",
+          "explanation_en": "The review states that XR use is more established in rigid bony anatomy, while soft-tissue applications remain earlier in development."
+        },
+        {
+          "q_ar": "ما أحد العوائق الأساسية أمام التبني الواسع لـ AR/VR في FPRS؟",
+          "q_en": "What is one major barrier to widespread AR/VR adoption in FPRS?",
+          "options_ar": [
+            "أ) غياب أي تطبيقات جراحية",
+            "ب) صعوبة تسجيل الأنسجة الرخوة ونقص البيانات المقارنة",
+            "ج) عدم إمكانية استخدامها في التشريح العظمي",
+            "د) ثبوت عدم دقتها في جميع الحالات"
+          ],
+          "options_en": [
+            "A) No surgical applications exist",
+            "B) Soft-tissue registration challenges and limited comparative data",
+            "C) It cannot be used for bony anatomy",
+            "D) It has been proven inaccurate in every case"
+          ],
+          "answer": 1,
+          "explanation_ar": "تحدد المراجعة صعوبات تسجيل الأنسجة الرخوة ونقص البيانات المقارنة والتكلفة بوصفها عوائق رئيسية.",
+          "explanation_en": "The review identifies soft-tissue registration challenges, limited comparative evidence, and cost as key barriers."
+        },
+        {
+          "q_ar": "ما نوع الدراسات التي توصي بها المقالة قبل التبني واسع النطاق؟",
+          "q_en": "What studies does the review recommend before widespread adoption?",
+          "options_ar": [
+            "أ) تقارير حالات منفردة فقط",
+            "ب) دراسات مقارنة متعددة المراكز مع تقارير نتائج موحدة",
+            "ج) دراسات حيوانية دون تقييم سريري",
+            "د) استطلاعات رأي غير منظمة فقط"
+          ],
+          "options_en": [
+            "A) Single case reports only",
+            "B) Multicenter comparative studies with standardized outcome reporting",
+            "C) Animal studies without clinical evaluation",
+            "D) Unstructured opinion surveys only"
+          ],
+          "answer": 1,
+          "explanation_ar": "تدعو المقالة إلى دراسات مقارنة متعددة المراكز ومقاييس نتائج موحدة لتحديد الفائدة السريرية قبل التوسع في الاستخدام.",
+          "explanation_en": "The review calls for multicenter comparative studies and standardized outcomes to establish clinical benefit before broader use."
+        }
+      ]
+    },
+    {
+      "pmid": "43071833",
+      "title_ar": "Intraoperative Mapping of the Zygomaticofacial Nerve: Implications for Safe Dissection in Endoscopic Facelift Surgery.",
+      "title_en": "Intraoperative Mapping of the Zygomaticofacial Nerve: Implications for Safe Dissection in Endoscopic Facelift Surgery.",
+      "journal": "Aesthetic surgery journal",
+      "pub_date": "2026-Nov-23",
+      "doi": "10.1093/asj/sjag264",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43071833/",
+      "pdf_url": null,
+      "study_design": "Prospective anatomical study, n=158 patients",
+      "summary_ar": "قيّمت هذه الدراسة prospective تشريحية تفرعات ومسار zygomaticofacial nerve (ZFN) لدى 158 مريضًا خضعوا إلى endoscopic facelift surgery. حُددت zygomaticofacial foramen (ZFF) والفروع الخارجة منها على الجانبين باستخدام 30° endoscope، وقِيست المسافات إلى inferior orbital rim وzygomatic arch. وُجد فرع واحد لدى 82% من الجوانب اليمنى و87% من الجوانب اليسرى، بينما كانت double foramina أقل شيوعًا وكانت triple foramina نادرة. سُجل غياب nerve في 4% من الجانبين، وكان متوسط عدد الفروع أعلى قليلًا في اليمين مقارنة باليسار (p=0.019). أظهرت قياسات المسافة تماثلًا بين الجانبين، بمتوسط يقارب 5.5 mm إلى inferior orbital rim و10 mm إلى zygomatic arch. توفر النتائج قياسات داخل العملية من living tissue، لكنها لا تثبت أن استخدام هذه القيم يقلل complications أو يغير النتائج الجراحية.",
+      "summary_en": "This prospective anatomical study assessed zygomaticofacial nerve (ZFN) branching and location in 158 patients undergoing endoscopic facelift surgery. The zygomaticofacial foramen (ZFF) and exiting branches were examined bilaterally with 30° endoscopic magnification, and distances to the inferior orbital rim and zygomatic arch were measured. A single branch was found on 82% of right and 87% of left sides; double foramina were less common and triple foramina were rare. The nerve was absent in 4% of sides, and mean nerve count was slightly higher on the right (p=0.019). Measurements were bilaterally similar, averaging about 5.5 mm to the inferior orbital rim and 10 mm to the zygomatic arch. These intraoperative living-tissue measurements may aid anatomical orientation, but the study did not test whether using them reduces complications or improves surgical outcomes.",
+      "practice_change_ar": "لا تستدعي النتائج تغيير الممارسة اليوم، لكنها تقدم معالم تشريحية مفيدة لتوجيه dissection الحذر قرب ZFN أثناء endoscopic facelift surgery.",
+      "practice_change_en": "The findings do not warrant a practice change today, but provide useful anatomical landmarks for careful dissection near the ZFN during endoscopic facelift surgery.",
+      "future_impact_ar": "قد تساعد دراسات لاحقة تربط هذه القياسات بمعدلات nerve injury في تحديد ما إذا كان intraoperative mapping يحسن السلامة الجراحية.",
+      "future_impact_en": "Further studies linking these measurements to nerve injury rates could determine whether intraoperative mapping improves surgical safety.",
+      "why_important_ar": "تضيف الدراسة قياسات ZFN مأخوذة أثناء الجراحة من living tissue بدل الاعتماد الكامل على cadaveric anatomy.",
+      "why_important_en": "The study adds intraoperative living-tissue measurements of the ZFN rather than relying exclusively on cadaveric anatomy.",
+      "vs_previous_ar": "على خلاف الأدلة السابقة المستمدة أساسًا من cadaveric studies، تقدم هذه الدراسة وصفًا وقياسات مباشرة باستخدام endoscopic visualization أثناء الجراحة.",
+      "vs_previous_en": "Unlike prior evidence derived mainly from cadaveric studies, this work reports direct descriptions and measurements using intraoperative endoscopic visualization.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة prospective تشريحية جيدة الحجم (158 مريضًا) تقدم قياسات مفيدة في living tissue، لكن أثرها على outcomes أو تغيير الممارسة غير مثبت؛ لذلك تستحق 3/5.",
+      "stars_reason_en": "This reasonably sized prospective anatomical study (158 patients) provides useful living-tissue measurements, but its effect on outcomes or practice is unproven; therefore, 3/5 stars.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Worth discussing the generalizability of the measurements across surgeons and patients, and whether these landmarks actually predict fewer nerve injuries.",
+      "watch": true,
+      "watch_detail_ar": "تستحق متابعة استخدام endoscopic visualization لرسم خرائط ZFN داخل العملية، مع الحاجة إلى بيانات تربط التقنية بالنتائج السريرية.",
+      "watch_detail_en": "Track the use of endoscopic visualization for intraoperative ZFN mapping, while noting that clinical outcome data are still needed.",
+      "watch_type": "technology",
+      "research_gap_ar": "ينبغي أن تقيس الدراسات المستقبلية ما إذا كان تطبيق هذه المعالم يقلل ZFN injury أو يحسن النتائج مقارنة بالتشريح المعتاد.",
+      "research_gap_en": "Future studies should determine whether applying these landmarks reduces ZFN injury or improves outcomes compared with standard dissection.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نستعرض اليوم دراسة عن رسم خريطة zygomaticofacial nerve، أو ZFN، أثناء endoscopic facelift surgery، وما قد تعنيه هذه المعلومات للتشريح الآمن في منطقة zygomatic. أُجريت الدراسة prospectively على 158 مريضًا، وفحص الباحثون zygomaticofacial foramen والفروع الخارجة منها على الجانبين باستخدام 30-degree endoscopic magnification. كما قاسوا المسافة من ZFF إلى inferior orbital rim وإلى zygomatic arch.\n\nكان الفرع الواحد هو النمط الأكثر شيوعًا: ظهر في 82% من الجوانب اليمنى و87% من الجوانب اليسرى. سُجلت double foramina في 13% من اليمين و8% من اليسار، أما triple foramina فكانت نادرة. وكان nerve غائبًا في 4% من الجانبين. زاد متوسط عدد الفروع قليلًا في الجانب الأيمن مقارنة بالجانب الأيسر، وكان الفرق ذا دلالة إحصائية، مع p-value يساوي 0.019. في المقابل، كانت القياسات بين الجانبين متقاربة؛ إذ بلغ متوسط المسافة إلى inferior orbital rim نحو 5.5 mm، وإلى zygomatic arch نحو 10 mm.\n\nتكمن أهمية الدراسة في أنها تقدم قياسات مأخوذة أثناء الجراحة من living tissue، فتضيف منظورًا مباشرًا إلى المعلومات المستندة أساسًا إلى cadaveric studies. وقد تساعد هذه المعالم الجراح على تحديد موضع ZFN والتعامل بحذر مع dissection في zygomatic region. لكن الدراسة تشريحية، ولم تختبر ما إذا كان استخدام هذه القياسات يقلل nerve injury أو يحسن النتائج. لذلك لا تدعم تغيير الممارسة اليوم، والثقة في أثرها السريري متوسطة؛ فهي مفيدة للمعرفة والتخطيط التشريحي، وليست دليلًا على تحسن outcomes.\n\nلـ journal club، من المفيد مناقشة مدى قابلية تعميم القياسات، ودرجة اعتمادها على خبرة الجراح أو ظروف القياس، وما إذا كان يمكن ربطها بمعدلات complications في دراسة مقارنة مستقبلية. الخلاصة: تقدم الدراسة مرجعًا تشريحيًا عمليًا، لكن إثبات أثره على السلامة الجراحية يحتاج إلى بيانات نتائج سريرية.",
+      "audio_script_en": "Today we review a study mapping the zygomaticofacial nerve, or ZFN, during endoscopic facelift surgery and consider how the findings might inform safe dissection in the zygomatic region. This prospective anatomical study included 158 patients. The investigators examined the zygomaticofacial foramen and its exiting branches on both sides using 30-degree endoscopic magnification. They also measured the distance from the foramen to the inferior orbital rim and the zygomatic arch.\n\nA single branch was the most common pattern, seen in 82% of right sides and 87% of left sides. Double foramina occurred in 13% of right sides and 8% of left sides, while triple foramina were rare. The nerve was absent in 4% of sides. Mean branch count was slightly higher on the right than on the left, a statistically significant difference with a p-value of 0.019. By contrast, the measurements were similar on both sides: the mean distance to the inferior orbital rim was about 5.5 millimeters, and the distance to the zygomatic arch was about 10 millimeters.\n\nThe study’s main contribution is that it provides measurements made during surgery in living tissue, adding a direct perspective to evidence derived largely from cadaveric studies. These landmarks may help surgeons identify the ZFN and guide careful dissection in the zygomatic region. However, the study was anatomical and did not test whether using the measurements reduces nerve injury or improves outcomes. It therefore does not justify a practice change today. Confidence in clinical impact is moderate: this is useful anatomical knowledge, not evidence of improved outcomes.\n\nFor journal club, consider how generalizable the measurements are, whether they depend on surgeon experience or measurement conditions, and how a future comparative study could link them to complication rates. The bottom line is that this work offers a practical anatomical reference, while its effect on surgical safety remains to be demonstrated with clinical outcome data.",
+      "mcq": [
+        {
+          "q_ar": "ما التصميم الأساسي لهذه الدراسة؟",
+          "q_en": "What was the primary design of this study?",
+          "options_ar": [
+            "أ) RCT",
+            "ب) Prospective anatomical study",
+            "ج) Meta-analysis",
+            "د) Retrospective case report"
+          ],
+          "options_en": [
+            "A) RCT",
+            "B) Prospective anatomical study",
+            "C) Meta-analysis",
+            "D) Retrospective case report"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت الدراسة prospective anatomical study شملت 158 مريضًا خضعوا إلى endoscopic facelift surgery.",
+          "explanation_en": "The study was a prospective anatomical study of 158 patients undergoing endoscopic facelift surgery."
+        },
+        {
+          "q_ar": "ما متوسط المسافة التي قِيست بين ZFF وinferior orbital rim؟",
+          "q_en": "What was the mean measured distance from the ZFF to the inferior orbital rim?",
+          "options_ar": [
+            "أ) نحو 2 mm",
+            "ب) نحو 5.5 mm",
+            "ج) نحو 10 mm",
+            "د) نحو 20 mm"
+          ],
+          "options_en": [
+            "A) About 2 mm",
+            "B) About 5.5 mm",
+            "C) About 10 mm",
+            "D) About 20 mm"
+          ],
+          "answer": 1,
+          "explanation_ar": "بلغ متوسط المسافة من ZFF إلى inferior orbital rim نحو 5.5 mm؛ أما المسافة إلى zygomatic arch فبلغت نحو 10 mm.",
+          "explanation_en": "The mean distance from the ZFF to the inferior orbital rim was about 5.5 mm; the distance to the zygomatic arch was about 10 mm."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن الأثر السريري لهذه النتائج؟",
+          "q_en": "What is the most appropriate conclusion about the clinical impact of these findings?",
+          "options_ar": [
+            "أ) تثبت أن استخدام القياسات يمنع ZFN injury",
+            "ب) تفرض تغييرًا فوريًا في أسلوب الجراحة",
+            "ج) تقدم معالم تشريحية مفيدة، لكن أثرها على outcomes لم يُختبر",
+            "د) تُظهر أن ZFN موجود دائمًا بفرع واحد"
+          ],
+          "options_en": [
+            "A) They prove that using the measurements prevents ZFN injury",
+            "B) They require an immediate change in surgical technique",
+            "C) They provide useful anatomical landmarks, but their effect on outcomes was not tested",
+            "D) They show that the ZFN is always present as a single branch"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة قدمت قياسات تشريحية أثناء العملية، لكنها لم تقارن nerve injury أو outcomes بين أساليب dissection.",
+          "explanation_en": "The study provided intraoperative anatomical measurements but did not compare nerve injury or outcomes between dissection approaches."
+        }
+      ]
+    },
+    {
+      "pmid": "43078696",
+      "title_ar": "Functional and esthetic results in total or subtotal nasal amputation: A systematic PRISMA review.",
+      "title_en": "Functional and esthetic results in total or subtotal nasal amputation: A systematic PRISMA review.",
+      "journal": "European annals of otorhinolaryngology, head and neck diseases",
+      "pub_date": "2026-Nov-24",
+      "doi": "10.1016/j.anorl.2026.11.001",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43078696/",
+      "pdf_url": null,
+      "study_design": "Systematic review of 8 retrospective studies (179 patients)",
+      "summary_ar": "هدفت هذه systematic review إلى مقارنة النتائج الوظيفية والجمالية بعد reconstruction أو rehabilitation باستخدام prosthesis لدى مرضى total أو subtotal nasal amputation. شمل البحث 8 retrospective studies بإجمالي 179 مريضًا، مع تقييم الجودة باستخدام Joanna Briggs Institute tools. كانت النتائج الجمالية مرضية ومتقاربة، بوسيط 8/10 مع prostheses و7.66/10 مع reconstruction. حقق كلا الخيارين نتائج وظيفية، لكن reconstruction ارتبط باستمرار بـ mucosal dryness وضعف nasal airflow. وشملت المخاطر implant loss بنسبة 7.14% مع prostheses ومضاعفات مهمة مع free flaps. يحد من الاستنتاجات عدم وجود دراسات مقارنة مباشرة والتغاير المنهجي بين الدراسات.",
+      "summary_en": "This systematic review compared functional and esthetic outcomes after reconstruction or prosthetic rehabilitation for total or subtotal nasal amputation.\nEight retrospective studies comprising 179 patients were included and assessed using Joanna Briggs Institute tools.\nEsthetic outcomes were generally satisfactory and similar, with median scores of 8/10 for prostheses and 7.66/10 for reconstruction.\nBoth approaches provided functional benefit, although reconstruction was consistently associated with mucosal dryness and impaired nasal airflow.\nProstheses carried a reported implant loss risk of 7.14%, while free flaps had significant complications.\nHeterogeneity and the absence of direct comparative studies prevent identifying a preferred approach.",
+      "practice_change_ar": "لا تدعم النتائج تغيير الممارسة الحالية أو تفضيل prosthesis على reconstruction، لذا ينبغي تفصيل القرار وفق تفضيلات المريض وخبرته والموارد المتاحة.",
+      "practice_change_en": "The findings do not support changing current practice or preferring prostheses over reconstruction; decisions should remain individualized according to patient preferences, clinical expertise, and available resources.",
+      "future_impact_ar": "قد تتيح prospective comparative studies مع أدوات تقييم موحدة تحديد الفئات الأنسب لكل خيار وتحسين counseling للمرضى.",
+      "future_impact_en": "Prospective comparative studies using standardized assessment tools may identify which patients are best suited to each option and improve counseling.",
+      "why_important_ar": "تلخص هذه المراجعة نتائج خيارات علاجية معقدة، وتوضح أن النتائج الجمالية متقاربة مع اختلاف أنماط المضاعفات الوظيفية والتقنية.",
+      "why_important_en": "This review summarizes outcomes for a complex reconstructive decision and highlights comparable esthetic results alongside differing functional and treatment-related risks.",
+      "vs_previous_ar": "بدلًا من ترسيخ خيار علاجي مفضل، تجمع المراجعة الأدلة المتاحة وتؤكد أن البيانات الحالية لا تحسم المفاضلة بين reconstruction وprosthesis.",
+      "vs_previous_en": "Rather than establishing a preferred treatment, the review consolidates available evidence and confirms that current data do not resolve the choice between reconstruction and prostheses.",
+      "stars": 3,
+      "stars_reason_ar": "تستند المراجعة المنهجية إلى 8 دراسات retrospective فقط، وتقدم مقارنة مفيدة للنتائج والمضاعفات، لكن غياب الدراسات المقارنة المباشرة والتغاير المنهجي يحدان من قوة الاستنتاجات وتأثيرها على الممارسة.",
+      "stars_reason_en": "This systematic review synthesizes eight retrospective studies and offers useful outcome and complication comparisons, but the lack of direct comparative studies and methodological heterogeneity limit the strength and practice impact of its conclusions.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits journal club discussion because it addresses an important reconstructive decision and illustrates how limited evidence and heterogeneity constrain treatment conclusions.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى prospective comparative studies تستخدم مقاييس موحدة للوظيفة والمظهر والمضاعفات لمقارنة prosthetic rehabilitation مع surgical reconstruction.",
+      "research_gap_en": "Prospective comparative studies using standardized measures of function, appearance, and complications are needed to compare prosthetic rehabilitation with surgical reconstruction.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نتناول اليوم مراجعة منهجية وفق PRISMA حول النتائج الوظيفية والجمالية بعد total أو subtotal nasal amputation. شملت المراجعة ثماني دراسات retrospective بإجمالي 179 مريضًا، ولذلك فهي تلخص خبرة سريرية متاحة لكنها لا تقدم دليلًا مقارنًا قويًا. قيّم الباحثون الدراسات باستخدام Joanna Briggs Institute tools.\n\nمن الناحية الجمالية، كانت النتائج مرضية ومتقاربة بين الخيارين: بلغ وسيط التقييم 8 من 10 مع prostheses، و7.66 من 10 مع reconstruction. وظيفيًا، أفاد كلا النهجين المرضى، لكن reconstruction ارتبط بصورة متكررة بـ mucosal dryness وضعف nasal airflow. أما prostheses فارتبطت بخطر implant loss بلغ 7.14%، في حين سُجلت مضاعفات مهمة مع free flaps.\n\nالرسالة السريرية الأساسية هي أن هذه النتائج لا تثبت تفوق خيار على الآخر، ولا تبرر تغيير الممارسة اليوم. ينبغي أن يظل القرار فرديًا، مع مراعاة تفضيلات المريض، والخبرة الجراحية، والموارد المتاحة، ومناقشة أنماط المخاطر المتوقعة لكل خيار.\n\nتستحق الورقة النقاش في journal club لأنها تبرز فجوة مهمة: معظم الأدلة retrospective، والدراسات غير متجانسة، ولا توجد مقارنات مباشرة كافية. لذلك فإن الثقة في الاستنتاجات متوسطة، والمراجعة مفيدة للمعرفة وتقديم المشورة لكنها ليست practice-changing. الخطوة البحثية التالية هي إجراء prospective comparative studies تستخدم مقاييس موحدة للوظيفة والمظهر والمضاعفات، حتى يمكن تقديم توصيات أكثر استنادًا إلى evidence.",
+      "audio_script_en": "Today’s review examines functional and esthetic outcomes after total or subtotal nasal amputation. Using PRISMA methods, the authors identified eight retrospective studies with a total of 179 patients. The included studies were assessed with Joanna Briggs Institute tools, but the evidence base remains limited by its retrospective nature and the lack of direct comparisons.\n\nEsthetic results were generally satisfactory and similar between approaches. The reported median score was 8 out of 10 for prostheses and 7.66 out of 10 for reconstruction. Both approaches provided functional benefit. However, reconstruction was consistently associated with mucosal dryness and impaired nasal airflow. Prosthetic rehabilitation carried a reported implant loss risk of 7.14%, while free flaps were associated with significant complications.\n\nFor clinicians, the key point is that this review does not establish a superior strategy and does not support a practice change today. Treatment should be individualized, taking into account patient preferences, available expertise and resources, and the different risks of prosthetic rehabilitation and surgical reconstruction.\n\nThis is a useful journal club article because it makes the evidence gap clear: studies are heterogeneous, retrospective, and rarely directly comparative. The findings are worth knowing, but confidence is limited and the review is not practice-changing. Future prospective comparative studies should use standardized measures of function, appearance, and complications. Such research could help identify which patients are most likely to benefit from each option and support more evidence-based recommendations.",
+      "mcq": [
+        {
+          "q_ar": "كم عدد الدراسات والمرضى الذين شملتهم المراجعة؟",
+          "q_en": "How many studies and patients were included in the review?",
+          "options_ar": [
+            "أ) 8 دراسات و179 مريضًا",
+            "ب) 10 دراسات و2100 مريض",
+            "ج) 7 دراسات و76 مريضًا",
+            "د) 25 دراسة و456 مريضًا"
+          ],
+          "options_en": [
+            "A) 8 studies and 179 patients",
+            "B) 10 studies and 2,100 patients",
+            "C) 7 studies and 76 patients",
+            "D) 25 studies and 456 patients"
+          ],
+          "answer": 0,
+          "explanation_ar": "ضمت المراجعة النهائية 8 retrospective studies بإجمالي 179 مريضًا.",
+          "explanation_en": "The final review included eight retrospective studies comprising 179 patients."
+        },
+        {
+          "q_ar": "ما النتيجة الوظيفية التي ارتبطت باستمرار بـ reconstruction؟",
+          "q_en": "Which functional finding was consistently associated with reconstruction?",
+          "options_ar": [
+            "أ) تحسن nasal airflow دون مضاعفات",
+            "ب) mucosal dryness وضعف nasal airflow",
+            "ج) implant loss بنسبة 7.14%",
+            "د) عدم وجود أي فائدة وظيفية"
+          ],
+          "options_en": [
+            "A) Improved nasal airflow without complications",
+            "B) Mucosal dryness and impaired nasal airflow",
+            "C) Implant loss of 7.14%",
+            "D) No functional benefit"
+          ],
+          "answer": 1,
+          "explanation_ar": "أفادت المراجعة بأن reconstruction ارتبط باستمرار بـ mucosal dryness وضعف nasal airflow.",
+          "explanation_en": "The review found that reconstruction was consistently associated with mucosal dryness and impaired nasal airflow."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن اختيار العلاج؟",
+          "q_en": "What is the most appropriate conclusion about treatment choice?",
+          "options_ar": [
+            "أ) يجب تفضيل prostheses لجميع المرضى",
+            "ب) يجب تفضيل free flaps لجميع المرضى",
+            "ج) لا تحدد الأدلة خيارًا مفضلًا، ويجب تفصيل القرار حسب المريض",
+            "د) لا توجد فائدة وظيفية لأي من الخيارين"
+          ],
+          "options_en": [
+            "A) Prostheses should be preferred for all patients",
+            "B) Free flaps should be preferred for all patients",
+            "C) Evidence does not identify a preferred option; decisions should be individualized",
+            "D) Neither option provides functional benefit"
+          ],
+          "answer": 2,
+          "explanation_ar": "حد غياب الدراسات المقارنة المباشرة والتغاير المنهجي من تحديد استراتيجية مفضلة، لذا يعتمد القرار على تفضيلات المريض والخبرة والموارد.",
+          "explanation_en": "The lack of direct comparative studies and methodological heterogeneity prevented identification of a preferred strategy, so decisions should reflect patient preferences, expertise, and resources."
+        }
+      ]
+    },
+    {
+      "pmid": "43075938",
+      "title_ar": "Cellular composition and morphology of the human nasal epithelium in the superior turbinate.",
+      "title_en": "Cellular composition and morphology of the human nasal epithelium in the superior turbinate.",
+      "journal": "Anatomical record (Hoboken, N.J. : 2007)",
+      "pub_date": "2026-Nov-24",
+      "doi": "10.1002/ar.70404",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43075938/",
+      "pdf_url": "https://doi.org/10.1002/ar.70404",
+      "study_design": "Descriptive human cadaveric anatomical study, n=13",
+      "summary_ar": "درست هذه الدراسة morphology وcellular composition للـ human nasal epithelium باستخدام en bloc specimens كبيرة من 13 human cadavers. شملت العينات مناطق من الجانبين cranial وfacial للـ olfactory system، ما أتاح تقييم الاستمرارية من olfactory epithelium (OE) عبر transitional epithelium (TE) إلى respiratory epithelium (RE). استخدم الباحثون histochemical stains وimmunohistochemistry بعلامات تستهدف cilia وsustentacular cells وbasal cells وolfactory neurons وخلايا أخرى. كما طوروا image-analysis pipeline لتحديد epithelial subtypes وقياس epithelial thickness. أظهرت النتائج اختلافات واضحة في cellular composition والتنظيم البنيوي بين OE وTE وRE، مع تفاوت في OE thickness مقارنة بـ RE. وتوضح الدراسة أن epithelial transitions أكثر تعقيدًا مما قد تكشفه biopsies صغيرة، لكنها لا تختبر تدخلًا سريريًا أو نتائج علاجية.",
+      "summary_en": "This descriptive study characterized the morphology and cellular composition of human nasal epithelium using large en bloc specimens from 13 embalmed cadavers. The specimens included cranial and facial aspects of the olfactory system, enabling assessment of continuity from olfactory epithelium (OE) through transitional epithelium (TE) to respiratory epithelium (RE). Histochemical stains and chromogenic and fluorescent immunohistochemistry targeted cilia, sustentacular cells, basal cells, olfactory neurons, and other cell types. A custom image-analysis pipeline was used to delineate epithelial subtypes and quantify epithelial thickness. The authors found distinct cellular compositions and structural organization across OE, TE, and RE, with variable OE thickness relative to RE. The work highlights transitions that may be missed in small biopsies, but it does not evaluate clinical interventions or patient outcomes.",
+      "practice_change_ar": "لا تغيّر هذه الدراسة الممارسة السريرية اليوم، لكنها توفر مرجعًا تشريحيًا يساعد على تفسير عينات nasal mucosa وأبحاث olfactory dysfunction.",
+      "practice_change_en": "This study does not change clinical practice today, but it provides an anatomical reference that may help interpret nasal mucosa specimens and olfactory dysfunction research.",
+      "future_impact_ar": "قد يدعم هذا المرجع دراسات مستقبلية تربط تغيرات OE وTE وRE بـ aging وdisease وolfactory dysfunction.",
+      "future_impact_en": "This reference may support future studies linking changes in OE, TE, and RE to aging, disease, and olfactory dysfunction.",
+      "why_important_ar": "تكمن أهمية العمل في تقديم توصيف متكامل للـ human nasal epithelium عبر مناطق واسعة بدل الاعتماد على biopsies صغيرة.",
+      "why_important_en": "The work is important because it provides an integrated characterization of human nasal epithelium across broad anatomical regions rather than relying on small biopsies.",
+      "vs_previous_ar": "على خلاف المعرفة المستمدة غالبًا من rodent studies أو عينات بشرية محدودة، تفحص هذه الدراسة انتقالات epithelial عبر عينات بشرية en bloc كبيرة.",
+      "vs_previous_en": "Unlike knowledge based largely on rodent studies or limited human biopsies, this study examines epithelial transitions across large en bloc human specimens.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة تشريحية وصفية على 13 human cadavers تقدم مرجعًا جديدًا ومفيدًا، لكن طبيعتها غير السريرية وعدم قياسها نتائج المرضى يحدان من أثرها المباشر على الممارسة.",
+      "stars_reason_en": "This descriptive anatomical study of 13 human cadavers provides a useful new reference, but its nonclinical design and lack of patient outcomes limit its direct impact on practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it uses extensive human specimens to compare epithelial subtypes across the olfactory system and highlights the limitations of small biopsies.",
+      "watch": true,
+      "watch_detail_ar": "يجدر متابعة image-analysis pipeline المخصص لأنه قد يحسن توصيف وقياس epithelial subtypes في الدراسات التشريحية المستقبلية.",
+      "watch_detail_en": "The custom image-analysis pipeline is worth tracking because it may improve characterization and measurement of epithelial subtypes in future anatomical studies.",
+      "watch_type": "technology",
+      "research_gap_ar": "يلزم التحقق من مدى انطباق هذه النتائج على living patients، وربط الأنماط التشريحية والخلويّة بالوظيفة الشمية وبالتغيرات المرتبطة بالعمر والمرض.",
+      "research_gap_en": "The findings need validation in living patients, with anatomical and cellular patterns linked to olfactory function and age- or disease-related changes.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نراجع اليوم دراسة بعنوان “Cellular composition and morphology of the human nasal epithelium in the superior turbinate”، وهي دراسة تشريحية وصفية تركز على human nasal epithelium والـ olfactory system.\n\nدرس الباحثون عينات en bloc كبيرة، يزيد حجمها على سبعة سنتيمترات مكعبة، من 13 embalmed human cadavers. وتميزت العينات بأنها شملت جوانب cranial وfacial، ما أتاح تقييم امتداد epithelium من olfactory epithelium، أو OE، إلى transitional epithelium، أو TE، ثم respiratory epithelium، أو RE. استخدم الفريق histochemical stains وchromogenic وfluorescent immunohistochemistry مع markers لخلايا وبنى متعددة، منها cilia وsustentacular cells وbasal cells وolfactory neurons. كما طوروا image-analysis pipeline لتحديد الأنواع الظهارية وقياس thickness.\n\nأظهرت النتائج أن OE وTE وRE تختلف في cellular composition والتنظيم البنيوي، وأن OE thickness متغيرة مقارنة بـ RE. كما أبرزت الدراسة أن الانتقال بين هذه المناطق معقد، وقد لا يظهر بوضوح في biopsies صغيرة. وهذه هي الإضافة الأساسية مقارنة بالمعرفة التي اعتمدت كثيرًا على rodent studies أو عينات بشرية محدودة.\n\nمن الناحية السريرية، لا تقدم الدراسة تغييرًا مباشرًا في التشخيص أو العلاج؛ فهي لا تختبر تدخلًا ولا تقيس نتائج المرضى. لذلك نضعها في فئة المعرفة المفيدة، لا الممارسة التي تغير القرار اليوم. قوتها أنها تقدم مرجعًا تشريحيًا بشريًا متكاملًا، فيما تحدها طبيعتها الوصفية، واستخدام cadavers، وعدم وجود ربط مباشر بالوظيفة الشمية أو disease.\n\nتستحق الدراسة النقاش في journal club بسبب حجم العينات التشريحية واتساعها، وبسبب image-analysis pipeline الذي قد يفيد الأبحاث المقبلة. والخطوة التالية هي التحقق من هذه الأنماط في living patients وربطها بـ olfactory function وبـ aging والمرض. الخلاصة: هذا العمل يؤسس مرجعًا مهمًا لفهم بنية nasal epithelium، لكنه لا يغير الممارسة السريرية الحالية.",
+      "audio_script_en": "Today we review “Cellular composition and morphology of the human nasal epithelium in the superior turbinate,” a descriptive anatomical study of the human nasal epithelium and olfactory system.\n\nThe investigators examined large en bloc specimens, greater than seven cubic centimeters, from 13 embalmed human cadavers. The specimens included cranial and facial aspects, allowing the team to assess the epithelial continuum from olfactory epithelium, or OE, through transitional epithelium, or TE, to respiratory epithelium, or RE. They used histochemical stains and chromogenic and fluorescent immunohistochemistry with markers for multiple structures and cell types, including cilia, sustentacular cells, basal cells, and olfactory neurons. They also developed a custom image-analysis pipeline to delineate epithelial subtypes and measure epithelial thickness.\n\nThe findings show distinct cellular compositions and structural organization across OE, TE, and RE, as well as variable OE thickness compared with RE. The transitions between these regions are complex and may not be adequately represented by small biopsies. This is the study’s main contribution relative to prior understanding, which has been shaped substantially by rodent studies and limited human samples.\n\nClinically, the work does not change diagnosis or treatment today: it tests no intervention and reports no patient outcomes. We therefore consider it useful anatomical knowledge rather than practice-changing evidence. Its strength is an integrated human reference across a broad anatomical extent; its limitations include the descriptive cadaveric design and the absence of direct links to olfactory function or disease.\n\nThe article merits journal-club discussion because of its extensive human specimens and its custom image-analysis pipeline, which may be useful in future anatomical research. Next steps include validating these patterns in living patients and relating them to olfactory function, aging, and disease. In short, the study establishes a valuable foundation for understanding nasal epithelial structure, but it does not alter current clinical practice.",
+      "mcq": [
+        {
+          "q_ar": "ما الأجزاء الظهارية التي قيّمتها الدراسة على امتداد human nasal epithelium؟",
+          "q_en": "Which epithelial regions did the study assess across the human nasal epithelium?",
+          "options_ar": [
+            "أ) OE وTE وRE",
+            "ب) فقط OE وRE",
+            "ج) فقط TE وRE",
+            "د) فقط RE"
+          ],
+          "options_en": [
+            "A) OE, TE, and RE",
+            "B) OE and RE only",
+            "C) TE and RE only",
+            "D) RE only"
+          ],
+          "answer": 0,
+          "explanation_ar": "قيّمت الدراسة الاستمرارية من olfactory epithelium (OE) عبر transitional epithelium (TE) إلى respiratory epithelium (RE).",
+          "explanation_en": "The study assessed continuity from olfactory epithelium (OE) through transitional epithelium (TE) to respiratory epithelium (RE)."
+        },
+        {
+          "q_ar": "ما المنهج الذي استخدمه الباحثون لقياس epithelial thickness وتحديد epithelial subtypes؟",
+          "q_en": "What approach did the investigators use to measure epithelial thickness and delineate epithelial subtypes?",
+          "options_ar": [
+            "أ) استبيانات سريرية فقط",
+            "ب) custom image-analysis pipeline",
+            "ج) قياس spirometry",
+            "د) متابعة نتائج surgery"
+          ],
+          "options_en": [
+            "A) Clinical questionnaires only",
+            "B) A custom image-analysis pipeline",
+            "C) Spirometry measurements",
+            "D) Follow-up of surgical outcomes"
+          ],
+          "answer": 1,
+          "explanation_ar": "طور الباحثون image-analysis pipeline مخصصًا لتحليل الصور وتحديد epithelial subtypes وقياس thickness.",
+          "explanation_en": "The investigators developed a custom image-analysis pipeline to delineate epithelial subtypes and quantify thickness."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن أثر الدراسة على الممارسة السريرية الحالية؟",
+          "q_en": "Which conclusion best describes the study’s impact on current clinical practice?",
+          "options_ar": [
+            "أ) تفرض تغييرًا فوريًا في العلاج",
+            "ب) تثبت فعالية دواء جديد",
+            "ج) تقدم مرجعًا تشريحيًا دون تغيير مباشر للممارسة",
+            "د) توصي بإجراء surgery محدد"
+          ],
+          "options_en": [
+            "A) It mandates an immediate treatment change",
+            "B) It establishes the efficacy of a new drug",
+            "C) It provides an anatomical reference without directly changing practice",
+            "D) It recommends a specific surgery"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة وصفية وتشريحية، ولا تختبر علاجًا أو تقيس نتائج مرضى؛ لذا تضيف معرفة أساسية دون تغيير مباشر للممارسة.",
+          "explanation_en": "The study is descriptive and anatomical; it tests no treatment and measures no patient outcomes, so it adds foundational knowledge without directly changing practice."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026112501",
+      "title_ar": "ميدترونيك وكارل شتورز تتعاونان لتطوير حلول جراحية متكاملة للأنف والأذن والحنجرة",
+      "title_en": "Medtronic and Karl Storz Collaborate on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-25",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "تتعاون شركتا ميدترونيك وكارل شتورز لتقديم حلول جراحية متكاملة في مجال الأنف والأذن والحنجرة، وفقاً لموقع ماس ديفايس. ولا يحدد عنوان الخبر المنتجات أو التقنيات التي سيجري دمجها، كما لا يقدم تفاصيل عن التوافر أو الشروط التجارية أو موعد الإطلاق. ولا يتناول الخبر استحواذاً أو قراراً تنظيمياً أو نتائج سريرية.",
+      "summary_en": "Medtronic and Karl Storz are collaborating on integrated surgical solutions for ear, nose, and throat care, according to MassDevice. The report’s headline does not specify which products or technologies will be combined, nor does it provide details on availability, commercial terms, or a launch timeline. No acquisition, regulatory decision, or clinical outcome is reported.",
+      "practice_change_ar": "ينبغي لجراحي الأنف والأذن والحنجرة انتظار تفاصيل المنتجات قبل تحديد ما إذا كان التعاون سيغيّر تجهيزاتهم الجراحية أو سير العمل.",
+      "practice_change_en": "ENT surgeons should await product-specific details before drawing conclusions about whether the collaboration will change their surgical setup or workflow.",
+      "future_impact_ar": "إذا أسفر التعاون عن منتجات متوافقة فيما بينها، فقد يوسّع الخيارات المتاحة لغرف عمليات الأنف والأذن والحنجرة، وذلك رهن بتفاصيل القدرات والتحقق والتوافر.",
+      "future_impact_en": "If the collaboration produces interoperable products, it could broaden options for ENT operating rooms, pending details on capabilities, validation, and availability.",
+      "why_important_ar": "قد تؤثر الحلول المتكاملة في طريقة تنسيق التقنيات الجراحية، لكن الخبر لا يقدم حتى الآن دليلاً على فوائد سريرية أو تحسّن في سير العمل.",
+      "why_important_en": "Integrated solutions could affect how surgical technologies are coordinated, but the report provides no evidence yet of clinical or workflow benefits.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "تعاون تجاري قد يهم تجهيزات غرف العمليات، لكن الخبر لا يذكر منتجات محددة أو أثراً سريرياً مباشراً.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "في خبر يهم قطاع جراحة الأنف والأذن والحنجرة، أعلنت ميدترونيك وكارل شتورز عن تعاون لتطوير حلول جراحية متكاملة. لكن المعلومات المتاحة في الخبر محدودة: فلا توضح ما المنتجات أو التقنيات التي سيشملها التعاون، ولا تحدد موعداً لطرحها أو شروطاً تجارية. كذلك، لا توجد في الخبر بيانات عن نتائج سريرية أو تحسن في كفاءة سير العمل. بالنسبة للجراحين، فهذا الإعلان يستحق المتابعة، لكنه لا يبرر حالياً تغيير التجهيزات أو الممارسات الجراحية. وسيعتمد أي أثر عملي على تفاصيل المنتجات، ومدى توافقها مع الأنظمة الموجودة، وتوافرها، وما إذا كانت ستثبت فائدة حقيقية في الممارسة. الخلاصة: تعاون محتمل الأهمية في مجال الأجهزة الجراحية، لكن لا تزال هناك حاجة إلى معلومات أكثر لتقييم أثره على غرف العمليات والمرضى.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026112502",
+      "title_ar": "الشركات الرائدة في مجال الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية",
+      "title_en": "Leading ENT Companies Driving Medical Technology Innovation",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-25",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت SNS Insider استعراضًا يسلط الضوء على شركات تعمل على الابتكار في تقنيات طب الأنف والأذن والحنجرة. ولا يتضمن الخبر المقدم سوى العنوان، من دون ذكر الشركات أو المنتجات أو التقنيات التي يناقشها. كما لا يورد أي استحواذ أو دعوى قضائية أو تحرك في الأسهم أو قرار تنظيمي محدد. ويلزم الاطلاع على تفاصيل إضافية لتقييم أي تطور بعينه.",
+      "summary_en": "SNS Insider published an overview highlighting companies involved in innovation in ear, nose, and throat (ENT) medical technology. The supplied news item provides only the headline and does not name the companies, products, or technologies discussed. It also reports no specific acquisition, lawsuit, stock move, or regulatory decision. Further details would be needed to assess any particular development.",
+      "practice_change_ar": "لا يشير الخبر إلى تغيير فوري في الممارسة السريرية، إذ لا يحدد تقنية أو تطورًا سريريًا بعينه.",
+      "practice_change_en": "No immediate change to clinical practice is indicated because the item does not identify a specific technology or clinical development.",
+      "future_impact_ar": "قد يفضي هذا التوجه العام إلى طرح أدوات جديدة لطب الأنف والأذن والحنجرة، لكن لا يمكن تقييم الشركات أو التداعيات المحتملة من المعلومات المتاحة.",
+      "future_impact_en": "The broader trend may bring new ENT tools to market, but the companies and potential implications cannot be assessed from the information provided.",
+      "why_important_ar": "قد يؤثر الابتكار في تقنيات الأنف والأذن والحنجرة مستقبلًا في التشخيص والعلاج، لكن العنوان وحده لا يقدم دليلًا على أثر سريري محدد.",
+      "why_important_en": "ENT technology innovation may affect future diagnosis and treatment, but this headline alone offers no evidence of a specific clinical impact.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "الأهمية المباشرة محدودة لأن الخبر لا يقدم تفاصيل عن شركة أو تقنية أو قرار محدد.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "إليكم موجزًا عن خبر في قطاع الأنف والأذن والحنجرة. نشرت SNS Insider عنوانًا يسلط الضوء على شركات تقود الابتكار في التكنولوجيا الطبية لهذا التخصص. لكن المعلومات المتاحة لا تتجاوز العنوان؛ فلا تذكر أسماء الشركات، ولا توضح التقنيات أو المنتجات المقصودة. كذلك لا تشير إلى صفقة استحواذ، أو دعوى قضائية، أو تحرك في الأسهم، أو قرار من إدارة الغذاء والدواء الأمريكية. لذلك لا يمكن استخلاص أثر مباشر على الممارسة السريرية أو تقييم أهمية ابتكار محدد. قد تكون التطورات التقنية في هذا المجال مهمة مستقبلًا للتشخيص والعلاج، لكن الحكم على فائدتها يتطلب تفاصيل عن الأدوات والأدلة السريرية والجهات المطورة. سنحتاج إلى الاطلاع على التقرير الكامل لمعرفة ما الذي يميّز هذه الشركات وما إذا كانت هناك مستجدات ذات صلة بالأطباء.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026112503",
+      "title_ar": "ميدترونيك تحصل على علامة CE لمنصة Stealth AXiS الروبوتية لجراحة الأنف والأذن والحنجرة",
+      "title_en": "Medtronic Earns CE Mark for Stealth AXiS Robot Platform in ENT Surgery",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-25",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "حصلت شركة ميدترونيك على علامة CE لمنصة Stealth AXiS الروبوتية المخصصة للاستخدام في جراحة الأنف والأذن والحنجرة، وفقًا لموقع MassDevice. وتتيح العلامة تسويق المنصة للاستخدامات المعتمدة في الأسواق الأوروبية المعنية. ولم يحدد الإعلان الإجراءات المشمولة بالموافقة أو موعد الإطلاق أو النتائج السريرية. ولا تعني علامة CE وحدها حصول المنصة على ترخيص في الولايات المتحدة.",
+      "summary_en": "Medtronic has received a CE mark for its Stealth AXiS robot platform for use in ENT surgery, according to MassDevice. The mark permits the platform to be marketed for its authorized use in applicable European markets. The announcement does not specify the approved procedures, launch timing, or clinical outcomes. The CE mark alone does not indicate authorization in the United States.",
+      "practice_change_ar": "قد تتاح لجراحي الأنف والأذن والحنجرة في الأسواق الأوروبية المعنية منصة روبوتية إضافية، لكن ينبغي التحقق من الاستطبابات المعتمدة وتوافرها قبل التفكير في استخدامها.",
+      "practice_change_en": "ENT surgeons in eligible European markets may have access to another robotic platform, but they should confirm its approved indications and availability before considering adoption.",
+      "future_impact_ar": "سيساعد انتشار المنصة والنتائج المعلنة عنها في تحديد ما إذا كانت ستشكل إضافة مهمة إلى الممارسة الجراحية في تخصص الأنف والأذن والحنجرة.",
+      "future_impact_en": "The platform’s uptake and reported outcomes will help determine whether it becomes a meaningful addition to ENT surgical practice.",
+      "why_important_ar": "تمثل علامة CE محطة تنظيمية قد توسع الوصول إلى التقنية الروبوتية في تخصص الأنف والأذن والحنجرة، لكن قيمتها السريرية ستعتمد على الأدلة الخاصة بالإجراءات وآليات تطبيقها.",
+      "why_important_en": "The CE mark is a regulatory milestone that could broaden access to robotic technology in ENT, although its clinical value will depend on procedure-specific evidence and implementation.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 3,
+      "stars_reason_ar": "خبر تنظيمي مهم قد يوسع الخيارات التقنية في أوروبا، لكن أثره العملي يعتمد على الاستطبابات والتوافر والأدلة السريرية.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "في خبر يهم جراحي الأنف والأذن والحنجرة، أعلنت ميدترونيك حصول منصة Stealth AXiS الروبوتية على علامة CE للاستخدام في جراحة التخصص. وتُعد هذه العلامة محطة تنظيمية تتيح تسويق الجهاز للاستخدامات المعتمدة في الأسواق الأوروبية المعنية. لكن الإعلان المتاح لا يوضح الإجراءات المحددة التي تشملها الموافقة، ولا موعد بدء التوافر، ولا يقدم بيانات عن النتائج السريرية. كذلك، فإن علامة CE لا تعني تلقائيًا حصول الجهاز على ترخيص في الولايات المتحدة. بالنسبة إلى الجراحين، قد تضيف المنصة خيارًا تقنيًا جديدًا، لكن قرار تبنيها يتطلب معرفة الاستطبابات المعتمدة، والتدريب المطلوب، ومدى توافرها، ومقارنتها بالخيارات الحالية. وستكون الأدلة السريرية والنتائج العملية عاملين أساسيين في تحديد ما إذا كانت المنصة ستُحدث فرقًا ملموسًا في رعاية المرضى.",
+      "mcq": []
+    }
+  ]
+}
