@@ -30,6 +30,17 @@
                  border:1px solid rgba(255,255,255,.2); }
   .subscribe a.primary { background:var(--gold); color:#2b2200; border-color:transparent; }
 
+  .drive { flex-direction:column; align-items:center; gap:9px;
+           margin:0 0 24px; }
+  #playall { width:100%; max-width:340px; padding:17px 20px;
+             border:none; border-radius:16px; cursor:pointer;
+             font-family:inherit; font-size:17px; font-weight:800;
+             color:#2b2200; background:linear-gradient(135deg,#E0BF62,#C9A84C);
+             box-shadow:0 6px 20px rgba(201,168,76,.28); }
+  #playall:active { transform:scale(.985); }
+  .drive-hint { font-size:12px; line-height:1.6; opacity:.6;
+                text-align:center; max-width:360px; }
+
   .ep { background:rgba(255,255,255,.07); border:1px solid rgba(255,255,255,.14);
         border-radius:18px; padding:20px; margin-bottom:15px; }
   .ep-head { display:flex; align-items:baseline; justify-content:space-between;
@@ -74,6 +85,12 @@
     <a href="../">Read Bar Daily</a>
   </div>
 
+  <div id="drive" class="drive" style="display:none">
+    <button id="playall" onclick="playAll()">▶︎ Play all</button>
+    <div class="drive-hint">Plays every episode back to back — lock-screen and
+      steering-wheel controls work while you drive.</div>
+  </div>
+
   <div id="list"><div class="empty">Loading episodes…</div></div>
 
   <div class="note">
@@ -86,6 +103,75 @@
 </div>
 
 <script>
+/* ── Driving mode ──────────────────────────────────────────────────────────
+   Three things make a web player usable in a car:
+     1. MediaSession  -> title/artwork and play-pause-skip on the lock screen,
+                         the steering-wheel buttons and the CarPlay/Android Auto
+                         dashboard.
+     2. Continuous play -> when one episode ends the next one starts, so the
+                           driver never has to touch the phone.
+     3. One big Play-all button -> a single target instead of per-episode taps.
+   None of this needs an app; it is the standard browser media API.          */
+let EPS = [];
+let cur = -1;
+
+function audios(){ return [...document.querySelectorAll('audio')]; }
+
+function describe(i){
+  const e = EPS[i]; if (!e) return;
+  if (!('mediaSession' in navigator)) return;
+  navigator.mediaSession.metadata = new MediaMetadata({
+    title: 'Bar Daily — ' + e.date,
+    artist: 'ENT morning bulletin',
+    album: 'Bar Daily',
+    artwork: [
+      { src: new URL('cover-1500.png', location.href).href, sizes: '1500x1500', type: 'image/png' }
+    ]
+  });
+  navigator.mediaSession.setActionHandler('play',  () => play(i));
+  navigator.mediaSession.setActionHandler('pause', () => audios()[i]?.pause());
+  navigator.mediaSession.setActionHandler('nexttrack',     () => play(i + 1));
+  navigator.mediaSession.setActionHandler('previoustrack', () => play(i - 1));
+  navigator.mediaSession.setActionHandler('seekforward',  () => skip(i,  30));
+  navigator.mediaSession.setActionHandler('seekbackward', () => skip(i, -15));
+}
+
+function skip(i, by){
+  const a = audios()[i]; if (!a) return;
+  a.currentTime = Math.max(0, Math.min(a.duration || 0, a.currentTime + by));
+}
+
+function play(i){
+  if (i < 0 || i >= EPS.length) return;
+  const list = audios();
+  list.forEach((a, n) => { if (n !== i) { a.pause(); } });
+  cur = i;
+  describe(i);
+  list[i].play().catch(() => {});
+  document.getElementById('playall').textContent = '⏸ Pause';
+}
+
+function playAll(){
+  const list = audios();
+  if (cur >= 0 && list[cur] && !list[cur].paused) {
+    list[cur].pause();
+    document.getElementById('playall').textContent = '▶︎ Play all';
+  } else {
+    play(cur >= 0 ? cur : 0);
+  }
+}
+
+function wireAudio(){
+  audios().forEach((a, i) => {
+    a.addEventListener('play',  () => { cur = i; describe(i);
+      document.getElementById('playall').textContent = '⏸ Pause'; });
+    a.addEventListener('pause', () => {
+      if (cur === i) document.getElementById('playall').textContent = '▶︎ Play all'; });
+    // continuous play: roll straight into the next (older) episode
+    a.addEventListener('ended', () => { if (i + 1 < audios().length) play(i + 1); });
+  });
+}
+
 function copyFeed(e){
   e.preventDefault();
   const url = new URL('feed.xml', location.href).href;
@@ -100,6 +186,8 @@ fetch('episodes.json?v=' + Date.now())
   .then(r => r.ok ? r.json() : Promise.reject(r.status))
   .then(eps => {
     if (!eps.length) throw 'empty';
+    EPS = eps;
+    document.getElementById('drive').style.display = 'flex';
     document.getElementById('list').innerHTML = eps.map(e => `
       <div class="ep">
         <div class="ep-head">
@@ -122,6 +210,7 @@ fetch('episodes.json?v=' + Date.now())
             </div>`).join('')}
         </div>
       </div>`).join('');
+    wireAudio();
   })
   .catch(() => {
     document.getElementById('list').innerHTML =

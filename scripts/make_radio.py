@@ -259,10 +259,11 @@ def write_feed(episodes):
     <guid isPermaLink="false">bar-daily-%s</guid>
     <enclosure url="%s/radio/%s" length="%d" type="audio/mpeg"/>
     <itunes:duration>%d</itunes:duration>
+    <itunes:image href="%s/radio/cover-1500.png"/>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>""" % (esc(TITLE), e["date"], notes, format_datetime(when), e["date"],
-                SITE, esc(e["file"]), e["bytes"], e["seconds"]))
+                SITE, esc(e["file"]), e["bytes"], e["seconds"], SITE))
 
     feed = """<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
@@ -280,7 +281,7 @@ def write_feed(episodes):
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Science"><itunes:category text="Medicine"/></itunes:category>
   <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
-  <itunes:image href="%s/icon-512.png"/>
+  <itunes:image href="%s/radio/cover-1500.png"/>
   <itunes:owner><itunes:name>%s</itunes:name></itunes:owner>
 %s
 </channel>

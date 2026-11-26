@@ -14,7 +14,7 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Science"><itunes:category text="Medicine"/></itunes:category>
   <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
-  <itunes:image href="https://malbarr.github.io/orl-daily/icon-512.png"/>
+  <itunes:image href="https://malbarr.github.io/orl-daily/radio/cover-1500.png"/>
   <itunes:owner><itunes:name>Dr. Mohammad Al-Bar</itunes:name></itunes:owner>
   <item>
     <title>Bar Daily — 2026-11-26</title>
@@ -23,6 +23,7 @@
     <guid isPermaLink="false">bar-daily-2026-11-26</guid>
     <enclosure url="https://malbarr.github.io/orl-daily/radio/bar-daily-2026-11-26-en.mp3" length="2656556" type="audio/mpeg"/>
     <itunes:duration>221</itunes:duration>
+    <itunes:image href="https://malbarr.github.io/orl-daily/radio/cover-1500.png"/>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -33,6 +34,7 @@
     <guid isPermaLink="false">bar-daily-2026-11-24</guid>
     <enclosure url="https://malbarr.github.io/orl-daily/radio/bar-daily-2026-11-24-en.mp3" length="2533292" type="audio/mpeg"/>
     <itunes:duration>211</itunes:duration>
+    <itunes:image href="https://malbarr.github.io/orl-daily/radio/cover-1500.png"/>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
