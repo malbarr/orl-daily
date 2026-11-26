@@ -1208,3 +1208,15 @@ audio {
     -webkit-print-color-adjust: exact;
   }
 }
+
+
+/* ── Bar Daily audio bulletin link (header) ──────────────────────────────── */
+.radio-link {
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 7px 13px; border-radius: 999px;
+  font-size: 13px; font-weight: 700; text-decoration: none;
+  color: #fff; background: linear-gradient(135deg, #C9A84C, #a8862f);
+  border: none; white-space: nowrap;
+}
+.radio-link:hover { filter: brightness(1.08); }
+@media (max-width: 520px) { .radio-link span { display: none; } }

@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bar Daily — ENT Morning Bulletin</title>
+<meta name="description" content="A short daily audio bulletin on new otolaryngology literature: the three highest-rated papers of the day and whether they change practice.">
+<link rel="alternate" type="application/rss+xml" title="Bar Daily podcast" href="feed.xml">
+<link rel="icon" href="../icon-192.png">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+  :root { --gold:#C9A84C; --teal:#0D7377; --ink:#0b1a20; }
+  * { box-sizing:border-box; margin:0; padding:0; -webkit-tap-highlight-color:transparent; }
+  body { font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+         background:linear-gradient(175deg,#0b1a20,#14303a 48%,#0d5457);
+         background-attachment:fixed; color:#fff; min-height:100vh;
+         padding:26px 16px 60px; }
+  .wrap { max-width:620px; margin:0 auto; }
+
+  .brand { text-align:center; margin-bottom:22px; }
+  .logo { font-size:52px; line-height:1; }
+  h1 { font-size:28px; font-weight:800; margin-top:8px; letter-spacing:-.4px; }
+  .sub { font-size:14px; opacity:.72; margin-top:7px; line-height:1.55; }
+
+  .subscribe { display:flex; gap:9px; justify-content:center;
+               flex-wrap:wrap; margin:18px 0 26px; }
+  .subscribe a { font-size:12.5px; font-weight:700; text-decoration:none;
+                 padding:9px 15px; border-radius:999px; color:#fff;
+                 background:rgba(255,255,255,.1);
+                 border:1px solid rgba(255,255,255,.2); }
+  .subscribe a.primary { background:var(--gold); color:#2b2200; border-color:transparent; }
+
+  .ep { background:rgba(255,255,255,.07); border:1px solid rgba(255,255,255,.14);
+        border-radius:18px; padding:20px; margin-bottom:15px; }
+  .ep-head { display:flex; align-items:baseline; justify-content:space-between;
+             gap:10px; flex-wrap:wrap; }
+  .ep-date { font-size:19px; font-weight:800; }
+  .ep-len { font-size:12.5px; opacity:.62; }
+  audio { width:100%; margin-top:14px; }
+  .papers { margin-top:15px; display:flex; flex-direction:column; gap:12px; }
+  .paper { font-size:14px; line-height:1.6; }
+  .ptop { display:flex; align-items:center; gap:8px; flex-wrap:wrap;
+          margin-bottom:3px; }
+  .stars { color:var(--gold); font-weight:800; letter-spacing:1.5px; font-size:13px; }
+  .tag { font-size:10px; font-weight:800; letter-spacing:.09em;
+         text-transform:uppercase; opacity:.62; }
+  .jc { font-size:10px; font-weight:800; letter-spacing:.06em;
+        text-transform:uppercase; color:#8FE3B0; }
+  .low { font-size:10px; font-weight:800; letter-spacing:.06em;
+         text-transform:uppercase; color:#FF9D9D; }
+  .paper a { color:#fff; text-decoration:none; border-bottom:1px solid rgba(255,255,255,.25); }
+  .jr { font-size:12px; opacity:.55; margin-top:3px; }
+
+  .empty { text-align:center; padding:44px 20px; opacity:.6; font-size:14px; }
+  .note { font-size:12.5px; line-height:1.9; opacity:.6; margin-top:26px;
+          text-align:center; border-top:1px solid rgba(255,255,255,.12);
+          padding-top:18px; }
+  a.lnk { color:var(--gold); }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="brand">
+    <div class="logo">🎙️</div>
+    <h1>Bar Daily</h1>
+    <div class="sub">The morning audio bulletin from the daily ENT literature<br>
+      Three papers. What they found. Whether they change practice.</div>
+  </div>
+
+  <div class="subscribe">
+    <a class="primary" href="feed.xml">RSS feed</a>
+    <a href="https://podcasts.apple.com/podcast/id?mt=2" onclick="return copyFeed(event)">Apple Podcasts</a>
+    <a href="../">Read Bar Daily</a>
+  </div>
+
+  <div id="list"><div class="empty">Loading episodes…</div></div>
+
+  <div class="note">
+    Episodes are <b>generated automatically</b> with synthetic voices from the
+    <a class="lnk" href="../">Bar Daily</a> literature review.
+    They are not medical advice and not a personal opinion.<br>
+    An initiative by Dr. Mohammad Al-Bar
+  </div>
+
+</div>
+
+<script>
+function copyFeed(e){
+  e.preventDefault();
+  const url = new URL('feed.xml', location.href).href;
+  navigator.clipboard?.writeText(url);
+  alert('Feed URL copied:\n' + url + '\n\nIn Apple Podcasts: Library → Add a Show by URL, then paste.');
+  return false;
+}
+const esc = s => String(s==null?'':s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const mmss = s => Math.floor(s/60) + ' min ' + String(s%60).padStart(2,'0') + ' s';
+
+fetch('episodes.json?v=' + Date.now())
+  .then(r => r.ok ? r.json() : Promise.reject(r.status))
+  .then(eps => {
+    if (!eps.length) throw 'empty';
+    document.getElementById('list').innerHTML = eps.map(e => `
+      <div class="ep">
+        <div class="ep-head">
+          <div class="ep-date">${esc(e.date)}</div>
+          <div class="ep-len">${mmss(e.seconds)} · ${(e.bytes/1048576).toFixed(1)} MB</div>
+        </div>
+        <audio controls preload="none" src="${esc(e.file)}"></audio>
+        <div class="papers">
+          ${(e.papers||[]).map(p => `
+            <div class="paper">
+              <div class="ptop">
+                <span class="stars">${'★'.repeat(p.stars)}</span>
+                <span class="tag">${esc(p.subspecialty)}</span>
+                ${p.journal_club ? '<span class="jc">journal club</span>' : ''}
+                ${p.confidence === '\u{1F534}' ? '<span class="low">low confidence</span>' : ''}
+              </div>
+              ${p.url ? `<a href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.title)}</a>`
+                      : esc(p.title)}
+              ${p.journal ? `<div class="jr">${esc(p.journal)}</div>` : ''}
+            </div>`).join('')}
+        </div>
+      </div>`).join('');
+  })
+  .catch(() => {
+    document.getElementById('list').innerHTML =
+      '<div class="empty">No episodes yet. The first one appears after tomorrow\'s update.</div>';
+  });
+</script>
+</body>
+</html>

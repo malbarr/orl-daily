@@ -1,0 +1,78 @@
+[
+ {
+  "date": "2026-11-26",
+  "file": "bar-daily-2026-11-26-en.mp3",
+  "bytes": 2656556,
+  "seconds": 221,
+  "papers": [
+   {
+    "pmid": "43094070",
+    "title": "Dose-Response of Steroid-Eluting Sinus Implants in CRS: A Systematic Review and Meta-Analysis",
+    "stars": 4,
+    "subspecialty": "Rhinology",
+    "journal": "The Laryngoscope",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43094070/",
+    "journal_club": true,
+    "confidence": "🟡"
+   },
+   {
+    "pmid": "43086155",
+    "title": "Optimal Sampling and Noise Mitigation for Vocal Fold Kinematics in High-Speed Videoendoscopy",
+    "stars": 3,
+    "subspecialty": "Laryngology",
+    "journal": "Journal of voice : official journal of the Voice Foundation",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43086155/",
+    "journal_club": true,
+    "confidence": "🟡"
+   },
+   {
+    "pmid": "43078468",
+    "title": "Augmented and Virtual Reality in Facial Plastic and Reconstructive Surgery: A Narrative Review",
+    "stars": 3,
+    "subspecialty": "Facial plastics",
+    "journal": "Facial plastic surgery : FPS",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43078468/",
+    "journal_club": true,
+    "confidence": "🟡"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-24",
+  "file": "bar-daily-2026-11-24-en.mp3",
+  "bytes": 2533292,
+  "seconds": 211,
+  "papers": [
+   {
+    "pmid": "43070905",
+    "title": "Predictors of outcomes of endoscopic sinus surgery for CRSwNP: a systematic review of the literature",
+    "stars": 4,
+    "subspecialty": "Rhinology",
+    "journal": "Rhinology",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43070905/",
+    "journal_club": true,
+    "confidence": "🟡"
+   },
+   {
+    "pmid": "43069965",
+    "title": "Office-Based Laser Therapy of Vocal Fold Cysts: A Systematic Review and Meta-Analysis",
+    "stars": 3,
+    "subspecialty": "Laryngology",
+    "journal": "Laryngoscope investigative otolaryngology",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43069965/",
+    "journal_club": true,
+    "confidence": "🔴"
+   },
+   {
+    "pmid": "43070688",
+    "title": "Surgical Anatomy of the Paralacerum Region and Its Relevance for Endoscopic Endonasal Skull Base Surgery",
+    "stars": 3,
+    "subspecialty": "Skull base",
+    "journal": "Operative neurosurgery (Hagerstown, Md.)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43070688/",
+    "journal_club": true,
+    "confidence": "🟡"
+   }
+  ]
+ }
+]

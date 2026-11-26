@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Bar Daily</title>
+  <link>https://malbarr.github.io/orl-daily/radio</link>
+  <atom:link href="https://malbarr.github.io/orl-daily/radio/feed.xml" rel="self" type="application/rss+xml"/>
+  <language>en-us</language>
+  <description>A short daily bulletin on new otolaryngology literature: the three highest-rated papers of the day, what they found, and whether they change practice. Episodes are generated automatically with synthetic voices from the Bar Daily literature review. Not medical advice.</description>
+  <itunes:author>Dr. Mohammad Al-Bar</itunes:author>
+  <itunes:summary>A short daily bulletin on new otolaryngology literature: the three highest-rated papers of the day, what they found, and whether they change practice. Episodes are generated automatically with synthetic voices from the Bar Daily literature review. Not medical advice.</itunes:summary>
+  <itunes:subtitle>The morning audio bulletin from the daily ENT literature</itunes:subtitle>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:category text="Science"><itunes:category text="Medicine"/></itunes:category>
+  <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
+  <itunes:image href="https://malbarr.github.io/orl-daily/icon-512.png"/>
+  <itunes:owner><itunes:name>Dr. Mohammad Al-Bar</itunes:name></itunes:owner>
+  <item>
+    <title>Bar Daily — 2026-11-26</title>
+    <description><![CDATA[<p>The three highest-rated ENT papers of 2026-11-26.</p><ul><li>&#9733;&#9733;&#9733;&#9733; Rhinology — Dose-Response of Steroid-Eluting Sinus Implants in CRS: A Systematic Review and Meta-Analysis</li><li>&#9733;&#9733;&#9733; Laryngology — Optimal Sampling and Noise Mitigation for Vocal Fold Kinematics in High-Speed Videoendoscopy</li><li>&#9733;&#9733;&#9733; Facial plastics — Augmented and Virtual Reality in Facial Plastic and Reconstructive Surgery: A Narrative Review</li></ul><p>Generated automatically with synthetic voices from the <a href="https://malbarr.github.io/orl-daily">Bar Daily</a> literature review. Not medical advice.</p>]]></description>
+    <pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+    <guid isPermaLink="false">bar-daily-2026-11-26</guid>
+    <enclosure url="https://malbarr.github.io/orl-daily/radio/bar-daily-2026-11-26-en.mp3" length="2656556" type="audio/mpeg"/>
+    <itunes:duration>221</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Bar Daily — 2026-11-24</title>
+    <description><![CDATA[<p>The three highest-rated ENT papers of 2026-11-24.</p><ul><li>&#9733;&#9733;&#9733;&#9733; Rhinology — Predictors of outcomes of endoscopic sinus surgery for CRSwNP: a systematic review of the literature</li><li>&#9733;&#9733;&#9733; Laryngology — Office-Based Laser Therapy of Vocal Fold Cysts: A Systematic Review and Meta-Analysis</li><li>&#9733;&#9733;&#9733; Skull base — Surgical Anatomy of the Paralacerum Region and Its Relevance for Endoscopic Endonasal Skull Base Surgery</li></ul><p>Generated automatically with synthetic voices from the <a href="https://malbarr.github.io/orl-daily">Bar Daily</a> literature review. Not medical advice.</p>]]></description>
+    <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
+    <guid isPermaLink="false">bar-daily-2026-11-24</guid>
+    <enclosure url="https://malbarr.github.io/orl-daily/radio/bar-daily-2026-11-24-en.mp3" length="2533292" type="audio/mpeg"/>
+    <itunes:duration>211</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
