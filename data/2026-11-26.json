@@ -1,0 +1,981 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T12:17:00Z",
+  "articles": [
+    {
+      "pmid": "43086155",
+      "title_ar": "Optimal Sampling and Noise Mitigation for Vocal Fold Kinematics in High-Speed Videoendoscopy.",
+      "title_en": "Optimal Sampling and Noise Mitigation for Vocal Fold Kinematics in High-Speed Videoendoscopy.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Nov-25",
+      "doi": "10.1016/j.jvoice.2026.10.076",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43086155/",
+      "pdf_url": "https://arxiv.org/pdf/2610.40697",
+      "study_design": "Comparative signal-processing study using human recordings (interpolation N=55; noise-reduction reference N=12)",
+      "summary_ar": "بحثت الدراسة كيف تؤثر معدلات التصوير والدقة المكانية في قياس vocal fold kinematics باستخدام High-Speed Videoendoscopy، مع مقارنة displacement waveforms بـ glottal area waveform. استخدم الباحثون تسجيلات عند 4000 fps من 55 حالة لتقييم interpolation، وتسجيلات مرجعية عند 16000 fps من 12 حالة لتقييم تقليل الضوضاء. حقق sinc interpolation خطأً وسيطًا أقل من spline، وكان 85% من التسجيلات ضمن خطأ أقل من 0.5 pixels مقابل 45% مع spline. تفوق Kalman-Sinc على FFT-Sinc في 75% من مقارنات المقياس ومعدل الإطارات. أوصى الباحثون باستخدام Kalman-Sinc عند 8000 fps لقياس relative velocity وspeed quotient، بينما أمكن قياس peak lateral displacement عند 2000 fps واحتاج open quotient إلى معالجة محدودة عند 4000 fps. شددت الدراسة على ضرورة الإبلاغ عن pixel excursion إلى جانب القياسات الحركية لتفسير موثوقيتها.",
+      "summary_en": "This study examined how frame rate and spatial resolution affect vocal fold kinematic measurements from High-Speed Videoendoscopy.\nIt compared displacement waveforms with the commonly reported glottal area waveform and evaluated interpolation and denoising methods.\nSinc interpolation had a lower median error than spline interpolation; 85% versus 45% of recordings had errors below 0.5 pixels.\nKalman-Sinc outperformed FFT-Sinc in 75% of feature-by-frame-rate comparisons.\nThe authors recommend Kalman-Sinc at 8000 fps for relative velocity and speed quotient, while peak lateral displacement may be measured at 2000 fps.\nThey advise reporting pixel excursion to contextualize the reliability of kinematic measurements.",
+      "practice_change_ar": "عند تحليل vocal fold kinematics، يُستحسن استخدام Kalman-Sinc عند 8000 fps لقياس relative velocity وspeed quotient، والإبلاغ عن pixel excursion.",
+      "practice_change_en": "For vocal fold kinematic analysis, consider Kalman-Sinc at 8000 fps for relative velocity and speed quotient, and report pixel excursion.",
+      "future_impact_ar": "قد تساعد هذه النتائج على توحيد بروتوكولات High-Speed Videoendoscopy وتحسين قابلية مقارنة القياسات بين الدراسات.",
+      "future_impact_en": "These findings may help standardize High-Speed Videoendoscopy protocols and improve comparability of measurements across studies.",
+      "why_important_ar": "توضح الدراسة أن أخطاء sampling المكاني والزمني قد تغير تقديرات الحركة، وتقدم إرشادات عملية للحد منها.",
+      "why_important_en": "The study shows that spatial and temporal sampling errors can distort kinematic estimates and provides practical ways to reduce them.",
+      "vs_previous_ar": "على خلاف الاعتماد الشائع على glottal area waveform، تقيّم الدراسة displacement waveforms مباشرةً وتحدد متطلبات frame rate وطرق المعالجة بحسب المقياس.",
+      "vs_previous_en": "Unlike the common reliance on the glottal area waveform, this study evaluates displacement waveforms directly and specifies frame-rate and processing recommendations by measure.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة مقارنة لمعالجة إشارات مستمدة من تسجيلات بشرية وليست تجربة سريرية؛ تقدم إضافة منهجية مفيدة لطب laryngology، لكنها لا تثبت تغييرًا مباشرًا في التدبير السريري.",
+      "stars_reason_en": "This comparative signal-processing study uses human recordings rather than a clinical trial; it offers useful methodological guidance for laryngology but does not establish a direct change in clinical management.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق المناقشة لأنها تقارن طرق denoising وinterpolation وتربط متطلبات frame rate بدقة قياسات vocal fold kinematics.",
+      "jc_reason_en": "It merits discussion because it compares denoising and interpolation methods and links frame-rate requirements to the accuracy of vocal fold kinematic measurements.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا Kalman-Sinc preprocessing بوصفه نهجًا تقنيًا واعدًا لتحسين قياسات High-Speed Videoendoscopy، مع الحاجة إلى تحقق مستقل.",
+      "watch_detail_en": "Track Kalman-Sinc preprocessing as a promising technology for improving High-Speed Videoendoscopy measurements, pending independent validation.",
+      "watch_type": "technology",
+      "research_gap_ar": "يلزم التحقق من هذه التوصيات في تسجيلات ومراكز وأجهزة متعددة، وربط تحسن القياسات بنتائج سريرية ذات أهمية.",
+      "research_gap_en": "The recommendations require validation across recordings, centers, and devices, and the measurement improvements should be linked to clinically meaningful outcomes.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة عن تحسين قياس vocal fold kinematics باستخدام High-Speed Videoendoscopy. السؤال الأساسي هو: كيف نختار frame rate ونقلل أخطاء القياس الناتجة عن sampling المكاني والزمني؟ يوضح الباحثون أن glottal area waveform، رغم شيوعها، تجمع بين حركة الطيات الجانبية والانفتاح الطولي، ولذلك لا تتيح تقدير velocity وacceleration وleft-right asymmetry مباشرةً. أما displacement waveforms فتحافظ على هذه المعلومات، لكنها أكثر تأثرًا بـ spatial quantization وأخطاء أخذ العينات.\n\nاختبرت الدراسة interpolation باستخدام تسجيلات 4000 fps من 55 حالة، وقارنت طرق تقليل الضوضاء باستخدام مجموعة مرجعية عند 16000 fps من 12 حالة. كان أداء sinc interpolation أفضل من spline: بلغ median mean absolute error نحو 0.29 pixels مقابل 0.52، وكانت 85% من التسجيلات دون 0.5 pixels مع sinc، مقارنةً بـ45% مع spline. كذلك تفوق Kalman-Sinc على FFT-Sinc في 75% من مقارنات المقياس ومعدل الإطارات.\n\nالتوصيات العملية هي استخدام Kalman-Sinc عند 8000 fps لقياس relative velocity وspeed quotient. يمكن قياس peak lateral displacement عند 2000 fps، بينما يحتاج open quotient إلى معالجة محدودة عند 4000 fps في الدقة المكانية المعتادة، أي 9 إلى 14 pixels من أقصى excursion. والأهم أن يُذكر pixel excursion مع القياسات لتوضيح مدى موثوقيتها.\n\nهذه دراسة منهجية مفيدة لممارسي laryngology والباحثين، لكنها لا تقدم دليلًا على تحسن نتائج المرضى ولا تستدعي تغييرًا علاجيًا مباشرًا. تستحق المناقشة لأنها تقترح معالجة قابلة للتطبيق، لكن ينبغي التحقق منها عبر أجهزة ومراكز مختلفة، وربط دقة القياس بقيمتها السريرية.",
+      "audio_script_en": "Today’s article examines how to improve vocal fold kinematic measurements using High-Speed Videoendoscopy. Its central question is how frame rate and noise processing affect measurement accuracy. The authors note that the commonly reported glottal area waveform combines lateral fold excursion with longitudinal glottal opening, so it cannot directly provide velocity, acceleration, or left-right asymmetry. Displacement waveforms preserve these features, but are more vulnerable to spatial quantization and temporal sampling errors.\n\nFor interpolation, the investigators used 4000 fps recordings from 55 cases. For noise-reduction evaluation, they used 16000 fps recordings from 12 cases as a reference. Sinc interpolation performed better than spline: median mean absolute error was 0.29 pixels versus 0.52, and 85% versus 45% of recordings had errors below 0.5 pixels. Kalman-Sinc also outperformed FFT-Sinc in 75% of feature-by-frame-rate comparisons.\n\nThe authors recommend Kalman-Sinc at 8000 fps for relative velocity and speed quotient. Peak lateral displacement may be measured at 2000 fps, while open quotient requires only minimal processing at 4000 fps for typical spatial resolution of 9 to 14 pixels of maximum excursion. They also recommend reporting pixel excursion alongside kinematic measures so readers can judge reliability.\n\nThis is useful methodological work for laryngologists and researchers, but it does not demonstrate improved patient outcomes or require an immediate change in treatment. It is worth discussing because it offers practical preprocessing recommendations. Independent validation across devices and centers, and evidence linking more accurate measurements to clinically meaningful outcomes, are still needed.",
+      "mcq": [
+        {
+          "q_ar": "أي طريقة interpolation حققت خطأً وسيطًا أقل في الدراسة؟",
+          "q_en": "Which interpolation method had the lower median error in the study?",
+          "options_ar": [
+            "أ) spline interpolation",
+            "ب) sinc interpolation",
+            "ج) FFT denoising دون interpolation",
+            "د) لم تُقارن طرق interpolation"
+          ],
+          "options_en": [
+            "A) Spline interpolation",
+            "B) Sinc interpolation",
+            "C) FFT denoising without interpolation",
+            "D) No interpolation methods were compared"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان median mean absolute error مع sinc نحو 0.29 pixels مقابل 0.52 مع spline.",
+          "explanation_en": "Median mean absolute error was about 0.29 pixels with sinc versus 0.52 with spline."
+        },
+        {
+          "q_ar": "ما التوصية الواردة لقياس relative velocity وspeed quotient؟",
+          "q_en": "What did the authors recommend for measuring relative velocity and speed quotient?",
+          "options_ar": [
+            "أ) spline عند 2000 fps",
+            "ب) FFT-Sinc عند 4000 fps",
+            "ج) Kalman-Sinc عند 8000 fps",
+            "د) glottal area waveform عند 16000 fps فقط"
+          ],
+          "options_en": [
+            "A) Spline at 2000 fps",
+            "B) FFT-Sinc at 4000 fps",
+            "C) Kalman-Sinc at 8000 fps",
+            "D) Glottal area waveform at 16000 fps only"
+          ],
+          "answer": 2,
+          "explanation_ar": "أوصى الباحثون بـ Kalman-Sinc عند 8000 fps لهذه القياسات الحركية.",
+          "explanation_en": "The authors recommended Kalman-Sinc at 8000 fps for these kinematic measures."
+        },
+        {
+          "q_ar": "لماذا يُنصح بالإبلاغ عن pixel excursion مع القياسات؟",
+          "q_en": "Why is reporting pixel excursion alongside measurements recommended?",
+          "options_ar": [
+            "أ) لتحديد مدة الفحص",
+            "ب) لوضع القياسات في سياق الدقة المكانية وموثوقيتها",
+            "ج) لاستبدال قياس open quotient",
+            "د) لتجنب استخدام frame rate"
+          ],
+          "options_en": [
+            "A) To determine examination duration",
+            "B) To contextualize spatial resolution and measurement reliability",
+            "C) To replace open quotient measurement",
+            "D) To avoid using a frame rate"
+          ],
+          "answer": 1,
+          "explanation_ar": "يساعد pixel excursion على تفسير أثر الدقة المكانية في موثوقية القياسات الحركية.",
+          "explanation_en": "Pixel excursion helps readers interpret how spatial resolution affects the reliability of kinematic measurements."
+        }
+      ]
+    },
+    {
+      "pmid": "43078468",
+      "title_ar": "Augmented and Virtual Reality in Facial Plastic and Reconstructive Surgery: A Narrative Review.",
+      "title_en": "Augmented and Virtual Reality in Facial Plastic and Reconstructive Surgery: A Narrative Review.",
+      "journal": "Facial plastic surgery : FPS",
+      "pub_date": "2026-Nov-24",
+      "doi": "10.1055/a-2998-9360",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43078468/",
+      "pdf_url": null,
+      "study_design": "Narrative review",
+      "summary_ar": "تستعرض هذه المقالة تطور واستخدامات extended reality (XR)، بما يشمل augmented reality (AR) وvirtual reality (VR)، في facial plastic and reconstructive surgery (FPRS). تعرض AR معلومات رقمية متراكبة على مجال رؤية الجراح، وقد تطورت من دراسات الجدوى إلى منصات متعددة المراكز بدقة تسجيل أقل من 2 mm. أما VR فتُدخل المستخدم بالكامل في بيئة مولّدة بالحاسوب. تشمل التطبيقات الموصوفة craniomaxillofacial trauma، وcraniofacial reconstruction، وfree flap harvest، وrhinoplasty، مع رسوخ أكبر في توجيه الجراحة ضمن anatomy العظمية الصلبة. لا تزال تطبيقات soft tissue أقل تطورًا، كما أن الأدلة المقارنة التي تساعد على اختيار المرضى محدودة. تشمل العوائق تحديات تسجيل soft tissue والتكلفة، بينما يجري استكشاف دمج AR مع artificial intelligence وmarkerless registration. تدعو المراجعة إلى توحيد قياس النتائج وإجراء دراسات مقارنة متعددة المراكز قبل التوسع في الاستخدام.",
+      "summary_en": "This narrative review describes the evolution and applications of extended reality (XR), including augmented reality (AR) and virtual reality (VR), in facial plastic and reconstructive surgery (FPRS).\nAR overlays digital information on the surgeon’s view and has progressed from feasibility studies to multicenter navigation platforms reporting sub-2-mm registration accuracy.\nVR immerses users in a computer-generated environment.\nReported applications include craniomaxillofacial trauma, craniofacial reconstruction, free flap harvest, and rhinoplasty, with the strongest experience in rigid bony anatomy.\nSoft-tissue applications are less developed, and comparative evidence to guide patient selection remains limited.\nChallenges include soft-tissue registration and cost; emerging work explores artificial intelligence integration and markerless registration.\nThe authors call for standardized outcomes and multicenter comparative studies before wider adoption.",
+      "practice_change_ar": "لا تدعم المراجعة تغييرًا روتينيًا للممارسة اليوم، لكنها تشير إلى إمكان استخدام AR كأداة مساعدة في الملاحة ضمن الجراحات ذات anatomy العظمية.",
+      "practice_change_en": "The review does not support routine practice changes today, but identifies AR as a potential adjunct for navigation in procedures involving bony anatomy.",
+      "future_impact_ar": "قد يؤدي دمج AR مع artificial intelligence وتحسين تسجيل soft tissue إلى توسيع الاستخدامات، إذا أثبتت الدراسات المقارنة الفائدة السريرية.",
+      "future_impact_en": "Integration of AR with artificial intelligence and improved soft-tissue registration may broaden its applications if comparative studies demonstrate clinical benefit.",
+      "why_important_ar": "تلخص المقالة تقنيات ناشئة ذات تطبيقات محتملة في FPRS وتوضح حدود الأدلة الحالية والعوائق أمام اعتمادها.",
+      "why_important_en": "The article summarizes emerging technologies with potential FPRS applications and clarifies current evidence limitations and adoption barriers.",
+      "vs_previous_ar": "على خلاف الدراسات المنفردة التي تقيّم تطبيقًا محددًا، تجمع هذه المراجعة الاستخدامات الحالية وتبرز الفجوات المشتركة في الأدلة.",
+      "vs_previous_en": "Unlike individual studies evaluating a specific application, this review brings together current uses and highlights shared evidence gaps.",
+      "stars": 3,
+      "stars_reason_ar": "مراجعة سردية وليست دراسة مقارنة أو تجربة سريرية؛ تقدم معرفة مفيدة عن AR وVR في FPRS، لكن محدودية البيانات المقارنة وعدم ثبوت تغيير الممارسة يبرران تقييمًا متوسطًا.",
+      "stars_reason_en": "This is a narrative review rather than a comparative or clinical trial; it offers useful information on AR and VR in FPRS, but limited comparative data and no demonstrated practice change warrant a moderate rating.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "موضوع مناسب للنقاش حول مدى جاهزية AR وVR للاستخدام السريري، وكيفية تقييم دقتهما وفائدتهما مقارنة بالممارسة المعتادة.",
+      "jc_reason_en": "This article is suitable for discussion of AR and VR readiness for clinical use and how their accuracy and value should be assessed against usual practice.",
+      "watch": true,
+      "watch_detail_ar": "تابع منصات AR للملاحة الجراحية ودمجها مع artificial intelligence وmarkerless registration، إذ قد تحسن التخطيط والتنفيذ في FPRS.",
+      "watch_detail_en": "Track AR surgical navigation platforms and their integration with artificial intelligence and markerless registration, which may improve FPRS planning and execution.",
+      "watch_type": "technology",
+      "research_gap_ar": "هناك حاجة إلى دراسات مقارنة متعددة المراكز بنتائج موحدة لتحديد الفائدة السريرية والتكلفة والمرضى الأنسب، خصوصًا في تطبيقات soft tissue.",
+      "research_gap_en": "Multicenter comparative studies with standardized outcomes are needed to establish clinical benefit, cost, and appropriate patient selection, especially for soft-tissue applications.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "تتناول هذه المراجعة السردية دور extended reality، أو XR، في facial plastic and reconstructive surgery. وتشمل XR تقنيتي augmented reality، أو AR، وvirtual reality، أو VR. في AR، تظهر المعلومات الرقمية فوق مجال رؤية الجراح، وقد انتقلت التقنية من دراسات الجدوى إلى منصات ملاحة متعددة المراكز أبلغت عن دقة تسجيل أقل من 2 mm. أما VR، فتُدخل المستخدم في بيئة رقمية كاملة.\n\nتشمل التطبيقات التي تستعرضها المقالة جراحة craniomaxillofacial trauma وcraniofacial reconstruction وfree flap harvest وrhinoplasty. يبدو الاستخدام أكثر رسوخًا في الحالات التي تتضمن anatomy عظمية صلبة، بينما لا تزال تطبيقات soft tissue في مراحل أبكر. لذلك لا تقدم المراجعة أساسًا كافيًا لاختيار المرضى على نحو روتيني، ولا تثبت أن هذه التقنيات تحسن النتائج مقارنة بالممارسة المعتادة.\n\nمن أبرز العوائق محدودية البيانات المقارنة، وصعوبة تسجيل soft tissue، والتكلفة. كما تشير المقالة إلى تطورات مستقبلية تشمل دمج AR مع artificial intelligence واستخدام markerless registration. الخلاصة العملية أن هذه التقنيات واعدة، خصوصًا في الملاحة ضمن anatomy العظمية، لكنها لا تبرر تغييرًا روتينيًا للممارسة اليوم. وتوصي المراجعة بتوحيد قياس النتائج وإجراء دراسات مقارنة متعددة المراكز قبل التوسع في اعتمادها. تستحق التقنيات المتطورة المتابعة، ويُعد هذا الموضوع مناسبًا للنقاش السريري حول الدقة والفائدة والتكلفة.",
+      "audio_script_en": "This narrative review examines extended reality, or XR, in facial plastic and reconstructive surgery. XR includes augmented reality, or AR, and virtual reality, or VR. AR overlays digital information on the surgeon’s view and has advanced from feasibility studies to multicenter navigation platforms reporting registration accuracy below 2 millimeters. VR, by contrast, immerses the user in a fully computer-generated environment.\n\nThe applications discussed include craniomaxillofacial trauma, craniofacial reconstruction, free flap harvest, and rhinoplasty. Experience is most established when procedures involve rigid bony anatomy. Soft-tissue applications are earlier in development, and the available evidence does not yet provide a strong basis for routine patient selection or prove better outcomes than usual practice.\n\nKey barriers include limited comparative data, challenges with soft-tissue registration, and cost. Future work includes combining AR with artificial intelligence and developing markerless registration. The clinical takeaway is that XR is promising, particularly for navigation involving bony anatomy, but this review does not justify routine practice change today. Standardized outcome reporting and multicenter comparative studies are needed before wider adoption. The technology is worth tracking, and the article provides a useful basis for discussion of accuracy, clinical value, and cost.",
+      "mcq": [
+        {
+          "q_ar": "ما التطبيق الذي يبدو الأكثر رسوخًا لـ AR في FPRS وفقًا للمراجعة؟",
+          "q_en": "Which AR application appears most established in FPRS according to the review?",
+          "options_ar": [
+            "أ) تسجيل soft tissue في جميع عمليات rhinoplasty",
+            "ب) الملاحة ضمن anatomy العظمية الصلبة",
+            "ج) استبدال التخطيط قبل الجراحة بالكامل",
+            "د) علاج جميع حالات facial trauma دون تصوير"
+          ],
+          "options_en": [
+            "A) Soft-tissue registration in all rhinoplasty procedures",
+            "B) Navigation involving rigid bony anatomy",
+            "C) Replacing all preoperative planning",
+            "D) Treating all facial trauma without imaging"
+          ],
+          "answer": 1,
+          "explanation_ar": "تذكر المراجعة أن الاستخدام أكثر رسوخًا في توجيه الجراحة ضمن anatomy العظمية الصلبة، بينما لا تزال تطبيقات soft tissue أقل تطورًا.",
+          "explanation_en": "The review reports that use is most established for navigation in rigid bony anatomy, while soft-tissue applications remain less developed."
+        },
+        {
+          "q_ar": "ما أحد القيود الرئيسية على اعتماد AR وVR على نطاق واسع؟",
+          "q_en": "What is a major barrier to wider adoption of AR and VR?",
+          "options_ar": [
+            "أ) عدم وجود أي تطبيقات في FPRS",
+            "ب) محدودية البيانات المقارنة وتحديات تسجيل soft tissue والتكلفة",
+            "ج) ثبوت زيادة المضاعفات في جميع الإجراءات",
+            "د) عدم إمكانية استخدامها في التخطيط"
+          ],
+          "options_en": [
+            "A) No applications in FPRS",
+            "B) Limited comparative data, soft-tissue registration challenges, and cost",
+            "C) Proven increase in complications across all procedures",
+            "D) Inability to use them for planning"
+          ],
+          "answer": 1,
+          "explanation_ar": "تحدد المقالة محدودية البيانات المقارنة، وصعوبة تسجيل soft tissue، والتكلفة بوصفها عوائق رئيسية.",
+          "explanation_en": "The review identifies limited comparative evidence, soft-tissue registration challenges, and cost as key barriers."
+        },
+        {
+          "q_ar": "ما نوع الدراسات التي تدعو المراجعة إلى إجرائها قبل التوسع في اعتماد هذه التقنيات؟",
+          "q_en": "What studies does the review recommend before broader adoption?",
+          "options_ar": [
+            "أ) دراسات مقارنة متعددة المراكز بنتائج موحدة",
+            "ب) تقارير حالات منفردة فقط",
+            "ج) دراسات حيوانية دون تقييم سريري",
+            "د) دراسات جدوى دون مقاييس نتائج"
+          ],
+          "options_en": [
+            "A) Multicenter comparative studies with standardized outcomes",
+            "B) Case reports only",
+            "C) Animal studies without clinical evaluation",
+            "D) Feasibility studies without outcome measures"
+          ],
+          "answer": 0,
+          "explanation_ar": "توصي المراجعة بتوحيد الإبلاغ عن النتائج وإجراء دراسات مقارنة متعددة المراكز لتحديد الفائدة السريرية.",
+          "explanation_en": "The review calls for standardized outcome reporting and multicenter comparative studies to establish clinical benefit."
+        }
+      ]
+    },
+    {
+      "pmid": "43085749",
+      "title_ar": "Photographic Documentation Standards for Facial Plastic Surgery: An International Modified Delphi Consensus.",
+      "title_en": "Photographic Documentation Standards for Facial Plastic Surgery: An International Modified Delphi Consensus.",
+      "journal": "Facial plastic surgery : FPS",
+      "pub_date": "2026-Nov-25",
+      "doi": "10.1055/a-3013-0540",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43085749/",
+      "pdf_url": null,
+      "study_design": "Modified Delphi expert consensus; 16 facial plastic surgeons invited and 6 completed Round 4",
+      "summary_ar": "تناولت الدراسة غياب معيار موحد للتصوير قبل الجراحة وبعدها في facial plastic and reconstructive surgery. شارك 16 facial plastic surgeons في modified Delphi study من أربع جولات، مع تقييم البيانات على مقياس Likert من خمس نقاط وتقديم ملاحظات مجمعة بين الجولات. تطلب تعريف consensus median ≥4 أو ≤2 مع IQR ≤1، بينما تطلبت ratification في الجولة الرابعة قبول 70% على الأقل. من أصل 225 statement، صودق على 126، ورُفضت 15، ولم تنتقل 84 إلى التصويت. بلغ median rating للبيانات المصادق عليها 5.0، وبلغ median ratification vote نسبة 100%. يشمل المعيار المقترح الخصائص العامة للصور وثماني فئات إجرائية، ويهدف إلى إدراجه ضمن تعليمات النشر في المجلات.",
+      "summary_en": "This study addresses the lack of a consistent standard for preoperative and postoperative photography in facial plastic and reconstructive surgery.\nSixteen facial plastic surgeons participated in a four-round modified Delphi study, with Likert-scale ratings and aggregate feedback between rounds.\nConsensus required a median rating of at least 4 or at most 2, with an IQR of 1 or less; Round 4 ratification required at least 70% acceptance.\nOf 225 statements rated, 126 were ratified, 15 failed ratification, and 84 did not advance to the vote.\nRatified statements had a median rating of 5.0 and a median ratification vote of 100%.\nThe proposed standard covers general image features and eight procedure categories, and is intended for adoption in journal author instructions.",
+      "practice_change_ar": "يمكن للجراحين والمجلات اعتماد هذا المعيار لتحسين اتساق صور النتائج المنشورة، لكنه لا يفرض تغييرًا علاجيًا فوريًا.",
+      "practice_change_en": "Surgeons and journals can adopt this standard to improve consistency in published outcome photographs, although it does not mandate an immediate treatment change.",
+      "future_impact_ar": "قد يؤدي اعتماد المعيار على نطاق واسع إلى تحسين قابلية مقارنة نتائج facial plastic surgery ودعم تقييمها مستقبلًا.",
+      "future_impact_en": "Widespread adoption could improve the comparability of facial plastic surgery outcomes and support their future evaluation.",
+      "why_important_ar": "توثيق الصور عنصر أساسي في عرض نتائج facial plastic surgery، وكانت متطلبات النشر السابقة غير كافية لتوحيد الممارسة.",
+      "why_important_en": "Photographic documentation is central to reporting facial plastic surgery outcomes, while prior publication requirements had not achieved standardization.",
+      "vs_previous_ar": "على خلاف المتطلبات السابقة التي تناولت عناصر منفردة مثل الإضاءة والوضعية، يقترح هذا العمل معيارًا توافقيًا أوسع يشمل خصائص الصور وفئات إجرائية متعددة.",
+      "vs_previous_en": "Unlike prior requirements addressing individual elements such as lighting and positioning, this work proposes a broader consensus standard covering image features and multiple procedure categories.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة modified Delphi توافقية وليست دراسة نتائج سريرية؛ تقدم معيارًا عمليًا مفيدًا لتوحيد التوثيق، لكن اكتمال الجولة الرابعة من قبل 6 مشاركين فقط وعدم قياس أثر التطبيق يحدان من قوة الدليل والتأثير الفوري.",
+      "stars_reason_en": "This is a modified Delphi consensus study rather than a clinical outcomes study. It offers a useful practical standard for documentation, but only 6 participants completed Round 4 and implementation effects were not evaluated, limiting the evidence and immediate impact.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Useful for discussing how expert consensus can be translated into implementable standards and whether the final round adequately represents the invited experts.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم تقييم اعتماد المعيار في المجلات والممارسة، وقياس أثره على جودة الصور وقابلية مقارنة النتائج، مع توضيح أسباب انخفاض المشاركة في الجولة الرابعة.",
+      "research_gap_en": "Future work should assess uptake in journals and clinical practice, measure effects on image quality and outcome comparability, and clarify the low participation in Round 4.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نستعرض اليوم دراسة بعنوان “Photographic Documentation Standards for Facial Plastic Surgery: An International Modified Delphi Consensus”، المنشورة في مجلة Facial Plastic Surgery. تتناول الدراسة مشكلة عملية في facial plastic and reconstructive surgery: صور ما قبل الجراحة وما بعدها مهمة لعرض النتائج، لكن متطلبات المجلات السابقة لم تنتج معيارًا موحدًا على مستوى التخصص.\n\nاستخدم الباحثون modified Delphi study من أربع جولات. دُعي 21 facial plastic surgeons، ووافق 16 على المشاركة. في الجولات الثلاث الأولى قيّم المشاركون statement على مقياس Likert من خمس نقاط، وتلقوا ملاحظات مجمعة بين الجولات. عُرّف consensus بوسيط لا يقل عن 4 للموافقة أو لا يزيد عن 2 للاعتراض، مع IQR لا يتجاوز 1. أما الجولة الرابعة فكانت للتصديق، واشترطت قبول 70% على الأقل. مع ذلك، أكمل ستة مشاركين فقط الجولة الرابعة.\n\nمن أصل 225 statement، صودق على 126، ورُفضت 15، ولم تنتقل 84 إلى التصويت. كان median rating للبيانات المصادق عليها 5.0، وبلغ median ratification vote نسبة 100%. يغطي المعيار خصائص عامة للصور وثماني فئات إجرائية، ويقترح إدراجه ضمن تعليمات المؤلفين في المجلات.\n\nالأهمية السريرية هنا تنظيمية وتوثيقية، لا تتعلق بتغيير عملية جراحية أو علاج اليوم. يمكن للجراحين والمجلات استخدام المعيار لتحسين اتساق التصوير المنشور، وقد يجعل مقارنة النتائج بين الدراسات والمراكز أسهل. لذلك فالتقييم متوسط، والثقة صفراء: هذا توافق خبراء مفيد، لكنه ليس دليلًا على تحسن النتائج السريرية، كما أن انخفاض المشاركة في الجولة الأخيرة يحد من قوة التصديق.\n\nتختلف هذه المبادرة عن المتطلبات السابقة التي تناولت معدات التصوير أو الإضاءة أو الوضعية بصورة منفردة، إذ تقدم معيارًا أوسع مصاغًا بالتوافق. ومن الأسئلة البحثية المهمة مستقبلًا: هل ستعتمده المجلات والممارسات؟ وهل سيحسن فعلًا جودة الصور وقابلية مقارنة النتائج؟ كما ينبغي توضيح أثر اقتصار الجولة النهائية على ستة مشاركين. هذه الورقة مناسبة لنادي المجلات لمناقشة منهجية Delphi وقابلية تطبيق المعيار.",
+      "audio_script_en": "Today we review “Photographic Documentation Standards for Facial Plastic Surgery: An International Modified Delphi Consensus,” published in Facial Plastic Surgery. The study addresses a practical problem in facial plastic and reconstructive surgery: before-and-after photographs are important for reporting outcomes, but previous journal requirements had not produced a specialty-wide standard.\n\nThe investigators used a four-round modified Delphi study. Twenty-one facial plastic surgeons were invited and 16 agreed to participate. In the first three rounds, panelists rated statements on a five-point Likert scale and received aggregate feedback between rounds. Consensus was defined as a median rating of at least 4 for agreement or at most 2 for disagreement, with an IQR no greater than 1. Round 4 was a ratification vote requiring at least 70% acceptance. However, only six participants completed that final round.\n\nOf 225 statements, 126 were ratified, 15 failed ratification, and 84 did not advance to the vote. Ratified statements had a median rating of 5.0 and a median ratification vote of 100%. The proposed standard covers general image features and eight procedure categories, and is intended for inclusion in journal author instructions.\n\nThe clinical importance is primarily organizational and documentation-focused; it does not change an operation or treatment today. Surgeons and journals can use the standard to improve consistency in published photography, potentially making outcomes easier to compare across studies and centers. The article merits a moderate rating and yellow confidence: it provides useful expert consensus, but does not demonstrate improved clinical outcomes, and low participation in the final round limits the strength of ratification.\n\nCompared with earlier requirements that addressed photography equipment, lighting, or positioning separately, this proposal offers a broader consensus-based standard. Important next questions are whether journals and practices will adopt it, whether adoption improves image quality and comparability, and why participation fell to six panelists in the final round. This is a useful journal club article for discussing Delphi methodology and the real-world implementation of consensus standards.",
+      "mcq": [
+        {
+          "q_ar": "ما المنهجية المستخدمة لتطوير معيار التصوير؟",
+          "q_en": "What method was used to develop the photography standard?",
+          "options_ar": [
+            "أ) RCT متعدد المراكز",
+            "ب) modified Delphi study من أربع جولات",
+            "ج) مراجعة منهجية وmeta-analysis",
+            "د) دراسة cohort مستقبلية"
+          ],
+          "options_en": [
+            "A) A multicenter RCT",
+            "B) A four-round modified Delphi study",
+            "C) A systematic review and meta-analysis",
+            "D) A prospective cohort study"
+          ],
+          "answer": 1,
+          "explanation_ar": "استخدمت الدراسة modified Delphi study بأربع جولات لتقييم statement ثم التصديق عليها.",
+          "explanation_en": "The study used a four-round modified Delphi process to rate and then ratify statements."
+        },
+        {
+          "q_ar": "كم statement صودق عليها من أصل 225؟",
+          "q_en": "How many of the 225 statements were ratified?",
+          "options_ar": [
+            "أ) 84",
+            "ب) 100",
+            "ج) 126",
+            "د) 210"
+          ],
+          "options_en": [
+            "A) 84",
+            "B) 100",
+            "C) 126",
+            "D) 210"
+          ],
+          "answer": 2,
+          "explanation_ar": "صودق على 126 statement، بينما رُفضت 15 ولم تنتقل 84 إلى التصويت.",
+          "explanation_en": "A total of 126 statements were ratified; 15 failed ratification and 84 did not advance to the vote."
+        },
+        {
+          "q_ar": "ما أحد القيود المهمة في تفسير نتائج التصديق النهائي؟",
+          "q_en": "What is an important limitation when interpreting the final ratification?",
+          "options_ar": [
+            "أ) عدم وجود أي معايير إحصائية محددة",
+            "ب) إكمال ستة مشاركين فقط الجولة الرابعة",
+            "ج) اقتصار الدراسة على صور حيوانية",
+            "د) عدم مشاركة جراحي facial plastic surgery"
+          ],
+          "options_en": [
+            "A) No statistical criteria were specified",
+            "B) Only six participants completed Round 4",
+            "C) The study used only animal photographs",
+            "D) No facial plastic surgeons participated"
+          ],
+          "answer": 1,
+          "explanation_ar": "رغم مشاركة 16 panelists في الدراسة، أكمل ستة فقط الجولة الرابعة الخاصة بالتصديق.",
+          "explanation_en": "Although 16 panelists participated in the study, only six completed the ratification round."
+        }
+      ]
+    },
+    {
+      "pmid": "43084524",
+      "title_ar": "Chemosensory and somatosensory profiles in craniofacial pain: A comparison of chronic rhinosinusitis and migraine.",
+      "title_en": "Chemosensory and somatosensory profiles in craniofacial pain: A comparison of chronic rhinosinusitis and migraine.",
+      "journal": "Chemical senses",
+      "pub_date": "2026-Nov-25",
+      "doi": "10.1093/chemse/bjag035",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43084524/",
+      "pdf_url": null,
+      "study_design": "Cross-sectional comparative study n=68",
+      "summary_ar": "قارنت هذه الدراسة بين 30 مشاركًا لديهم migraine، و18 لديهم chronic rhinosinusitis (CRS)، و20 مشاركًا أصحاء، لتقييم chemosensory function وsomatosensory function. شملت الاختبارات Sniffin' Sticks، وintranasal trigeminal function، وquantitative sensory testing، إضافة إلى استبيانات allodynia والصحة النفسية. أظهرت مجموعة CRS درجات أقل في Sniffin' Sticks وانخفاضًا في trigeminal lateralization لدى المشاركات الإناث مقارنةً بمجموعتي migraine والأصحاء. في المقابل، حافظ المشاركون المصابون بـ migraine على chemosensory perception، لكنهم أظهروا electrical detection thresholds أقل في المواقع trigeminal وextra-trigeminal ودرجات allodynia أعلى. فُسرت نتائج CRS على أنها تتوافق مع تأثير يغلب عليه peripheral inflammation، بينما تتوافق نتائج migraine مع central sensitization. الدراسة مقارنة ذات عينة محدودة، لذا تدعم التمييز بين الأنماط الحسية لكنها لا تثبت آليات المرض ولا تغيّر التدبير السريري الحالي.",
+      "summary_en": "This study compared chemosensory and somatosensory profiles in 30 participants with migraine, 18 with chronic rhinosinusitis (CRS), and 20 healthy controls. Assessments included Sniffin' Sticks, intranasal trigeminal function, quantitative sensory testing, and questionnaires on allodynia and mental health. The CRS group had lower Sniffin' Sticks scores and, among female participants, lower trigeminal lateralization scores than the migraine and healthy groups. Migraine participants had preserved chemosensory perception but lower electrical detection thresholds at trigeminal and extra-trigeminal sites, as well as higher allodynia scores. The authors interpret the CRS pattern as consistent with predominantly peripheral effects and the migraine pattern as consistent with central sensitization. The modest sample and comparative design limit causal conclusions, and the findings do not establish a change in current clinical management.",
+      "practice_change_ar": "لا تغيّر هذه النتائج التدبير السريري اليوم، لكنها تدعم تقييم احتمال migraine عند وجود ألم وجهي مع وظيفة شمية محفوظة وفرط حساسية.",
+      "practice_change_en": "These findings do not change clinical management today, but support considering migraine when facial pain occurs with preserved olfaction and sensory hypersensitivity.",
+      "future_impact_ar": "قد تساعد دراسات أكبر ومتوازنة حسب العمر والجنس في التحقق مما إذا كانت أنماط الحس هذه تفيد في التفريق بين CRS وmigraine.",
+      "future_impact_en": "Larger studies balanced for age and sex could determine whether these sensory patterns help distinguish CRS from migraine.",
+      "why_important_ar": "توضح الدراسة أن ألم الوجه المرتبط بـ CRS وmigraine قد يصاحبه نمطان مختلفان من chemosensory وsomatosensory function.",
+      "why_important_en": "The study highlights that facial pain associated with CRS and migraine may involve distinct chemosensory and somatosensory profiles.",
+      "vs_previous_ar": "تضيف الدراسة مقارنة مباشرة بين CRS وmigraine باستخدام اختبارات chemosensory وquantitative sensory testing، بدل الاكتفاء بوصف ألم الوجه كعرض مشترك.",
+      "vs_previous_en": "The study adds a direct comparison of CRS and migraine using chemosensory assessments and quantitative sensory testing, rather than treating facial pain as a shared symptom alone.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة مقارنة رصدية صغيرة نسبيًا (n=68) تقدم معرفة مفيدة عن اختلاف الأنماط الحسية، لكن مجلة Chemical Senses ليست ضمن المجلات المحددة للأفضلية ولا تغيّر النتائج الممارسة الحالية.",
+      "stars_reason_en": "This modest comparative observational study (n=68) provides useful information about differing sensory profiles, but Chemical Senses is not among the listed priority journals and the findings do not change current practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it directly compares sensory profiles in CRS and migraine, while raising useful questions about sample size and mechanistic interpretation.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات أكبر ومضبوطة بحسب العمر والجنس، مع تقييم طولي، لتحديد مدى ثبات هذه الأنماط وقيمتها التشخيصية.",
+      "research_gap_en": "Larger longitudinal studies balanced for age and sex are needed to establish the stability and diagnostic value of these profiles.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم دراسة بعنوان «Chemosensory and somatosensory profiles in craniofacial pain: A comparison of chronic rhinosinusitis and migraine»، المنشورة في Chemical Senses. قارنت الدراسة 30 مشاركًا لديهم migraine، و18 لديهم chronic rhinosinusitis، أو CRS، و20 مشاركًا أصحاء. كان الهدف معرفة ما إذا كان هذان السببان لألم الوجه يرتبطان ببصمات حسية مختلفة.\n\nاستخدم الباحثون اختبارات الشم Sniffin' Sticks، وتقييم intranasal trigeminal function، إلى جانب quantitative sensory testing للعتبات الكهربائية والميكانيكية وعتبات الألم. كما جمعوا معلومات عن allodynia والصحة النفسية، وقارنوا المجموعات مع ضبط إحصائي للعمر والجنس.\n\nكانت الصورة في CRS مرتبطة بانخفاض chemosensory function: فقد سجل المشاركون درجات أقل في Sniffin' Sticks، كما ظهرت درجات أقل في trigeminal lateralization لدى المشاركات الإناث. أما مجموعة migraine فحافظت على chemosensory perception، لكنها أظهرت electrical detection thresholds أقل في المواقع trigeminal وextra-trigeminal، مع درجات allodynia أعلى من مجموعتي CRS والأصحاء.\n\nيقترح المؤلفون أن انخفاض الشم في CRS يتوافق مع تأثير يغلب عليه peripheral inflammation، بينما يتوافق الحفاظ على الشم مع فرط الحساسية في migraine مع central sensitization. لكن هذه تفسيرات متوافقة مع النتائج وليست إثباتًا مباشرًا لآليات المرض.\n\nسريريًا، لا تقدم الدراسة أساسًا لتغيير التدبير اليوم. لكنها تذكّر أطباء الأنف والأذن والحنجرة بأن ألم الوجه لا يعني بالضرورة أن مصدره الجيوب، وأن النمط الحسي قد يساعد على توجيه التفكير نحو migraine أو CRS. قوة الدليل محدودة نسبيًا لأن الدراسة شملت 68 مشاركًا فقط، كما أن نتيجة trigeminal lateralization اختلفت بحسب الجنس. لذلك تظل النتائج جديرة بالاهتمام والنقاش، لا للاعتماد عليها منفردة في التشخيص.\n\nالخلاصة: تعرض الدراسة مقارنة مفيدة بين أنماط حسية مختلفة في CRS وmigraine، لكنها تحتاج إلى دراسات أكبر ومتوازنة بحسب العمر والجنس، ويفضل أن تكون طولية، لمعرفة ما إذا كانت هذه القياسات ستساعد مستقبلًا في التفريق التشخيصي.",
+      "audio_script_en": "Today we review “Chemosensory and somatosensory profiles in craniofacial pain: A comparison of chronic rhinosinusitis and migraine,” published in Chemical Senses. The study compared 30 participants with migraine, 18 with chronic rhinosinusitis, or CRS, and 20 healthy controls. Its aim was to determine whether these two causes of facial pain are associated with distinct sensory profiles.\n\nAssessments included Sniffin' Sticks olfactory testing, intranasal trigeminal function, and quantitative sensory testing of electrical and mechanical detection and pain thresholds. The researchers also collected questionnaire data on allodynia and mental health. Group comparisons adjusted for age and sex.\n\nThe CRS group showed reduced chemosensory function, with lower Sniffin' Sticks scores. Female participants with CRS also had lower trigeminal lateralization scores. In contrast, the migraine group had preserved chemosensory perception, but lower electrical detection thresholds at trigeminal and extra-trigeminal sites, along with higher allodynia scores than the CRS and healthy groups.\n\nThe authors interpret the olfactory reduction in CRS as consistent with predominantly peripheral inflammation. The combination of preserved chemosensory function and generalized hypersensitivity in migraine is consistent with central sensitization. These interpretations fit the observed patterns, but the study does not directly establish the underlying mechanisms.\n\nFor clinical practice, this paper does not justify a change in management today. It does, however, remind ENT clinicians that facial pain should not automatically be attributed to the sinuses, and that the sensory profile may help frame consideration of migraine versus CRS. The evidence is limited by the relatively small sample of 68 participants and by a sex-specific finding for trigeminal lateralization. These measurements should not be used alone to diagnose either condition.\n\nIn summary, the study offers a useful comparison of sensory profiles in CRS and migraine and is appropriate for journal club discussion. Larger studies balanced for age and sex, preferably with longitudinal follow-up, are needed to establish whether these measures can meaningfully improve diagnostic discrimination.",
+      "mcq": [
+        {
+          "q_ar": "ما النمط الحسي الأبرز لدى مجموعة CRS في هذه الدراسة؟",
+          "q_en": "Which sensory pattern was most characteristic of the CRS group?",
+          "options_ar": [
+            "أ) انخفاض chemosensory function، بما في ذلك درجات Sniffin' Sticks",
+            "ب) ارتفاع electrical detection thresholds مع allodynia أشد",
+            "ج) فقدان chemosensory perception مع زيادة trigeminal lateralization",
+            "د) عدم وجود اختلاف في أي اختبار حسي"
+          ],
+          "options_en": [
+            "A) Reduced chemosensory function, including lower Sniffin' Sticks scores",
+            "B) Higher electrical detection thresholds with more severe allodynia",
+            "C) Loss of chemosensory perception with increased trigeminal lateralization",
+            "D) No differences on any sensory assessment"
+          ],
+          "answer": 0,
+          "explanation_ar": "ارتبطت CRS بدرجات أقل في Sniffin' Sticks، وبدرجات أقل في trigeminal lateralization لدى المشاركات الإناث.",
+          "explanation_en": "CRS was associated with lower Sniffin' Sticks scores and, among female participants, lower trigeminal lateralization scores."
+        },
+        {
+          "q_ar": "أي نتيجة ميّزت مجموعة migraine مقارنةً بمجموعتي CRS والأصحاء؟",
+          "q_en": "Which finding distinguished the migraine group from the CRS and healthy groups?",
+          "options_ar": [
+            "أ) انخفاض درجات Sniffin' Sticks مع انخفاض allodynia",
+            "ب) chemosensory perception محفوظة مع electrical detection thresholds أقل وallodynia أعلى",
+            "ج) ارتفاع trigeminal lateralization لدى جميع المشاركين",
+            "د) انخفاض intranasal trigeminal function دون فرط حساسية"
+          ],
+          "options_en": [
+            "A) Lower Sniffin' Sticks scores with less allodynia",
+            "B) Preserved chemosensory perception with lower electrical detection thresholds and higher allodynia",
+            "C) Increased trigeminal lateralization in all participants",
+            "D) Reduced intranasal trigeminal function without hypersensitivity"
+          ],
+          "answer": 1,
+          "explanation_ar": "حافظت مجموعة migraine على chemosensory perception، مع عتبات كشف كهربائية أقل ودرجات allodynia أعلى.",
+          "explanation_en": "The migraine group had preserved chemosensory perception, lower electrical detection thresholds, and higher allodynia scores."
+        },
+        {
+          "q_ar": "ما التفسير الأنسب لنتائج الدراسة من ناحية آليات المرض؟",
+          "q_en": "Which interpretation of the findings regarding disease mechanisms is most appropriate?",
+          "options_ar": [
+            "أ) تثبت الدراسة أن CRS يسبب central sensitization لدى جميع المرضى",
+            "ب) تثبت الدراسة أن migraine ناتج عن peripheral inflammation",
+            "ج) تتوافق أنماط النتائج مع peripheral inflammation في CRS وcentral sensitization في migraine، دون إثباتهما مباشرة",
+            "د) تثبت الدراسة أن اختبارات الحس تشخّص الحالتين بدقة"
+          ],
+          "options_en": [
+            "A) The study proves that CRS causes central sensitization in all patients",
+            "B) The study proves that migraine is caused by peripheral inflammation",
+            "C) The patterns are consistent with peripheral inflammation in CRS and central sensitization in migraine, without directly proving either mechanism",
+            "D) The study proves that sensory tests accurately diagnose both conditions"
+          ],
+          "answer": 2,
+          "explanation_ar": "تدعم النتائج التوافق مع هذين التفسيرين، لكن التصميم المقارن والعينة المحدودة لا يثبتان آليات المرض أو القيمة التشخيصية.",
+          "explanation_en": "The findings are consistent with these interpretations, but the comparative design and modest sample do not prove mechanisms or diagnostic utility."
+        }
+      ]
+    },
+    {
+      "pmid": "43086156",
+      "title_ar": "Multiparametric Acoustic Indices and the Pediatric Voice Handicap Index in Children with Vocal Fold Nodules: Diagnostic Performance and Associations.",
+      "title_en": "Multiparametric Acoustic Indices and the Pediatric Voice Handicap Index in Children with Vocal Fold Nodules: Diagnostic Performance and Associations.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Nov-25",
+      "doi": "10.1016/j.jvoice.2026.10.068",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43086156/",
+      "pdf_url": null,
+      "study_design": "Cross-sectional diagnostic-performance study, n=67",
+      "summary_ar": "قارنت الدراسة 32 طفلًا normophonic مع 35 طفلًا لديهم vocal fold nodules، بعد تقييم الحنجرة باستخدام videolaryngostroboscopy. قِيست AVQI وABI وARI من تسجيلات صوتية معيارية، كما جرى تقييم Physical وFunctional وEmotional subscales وtotal score في pVHI. كانت acoustic indices الثلاثة ودرجات pVHI أعلى بشكل ملحوظ لدى الأطفال المصابين. حقق AVQI وABI قيمة AUC بلغت 1.00، بينما بلغت AUC لـ ARI مقدار 0.847؛ وكانت Physical subscale وtotal pVHI الأعلى تمييزًا، بقيمتي AUC قدرهما 0.982 و0.981. ارتبط AVQI بقوة مع ABI، وكانت ارتباطات AVQI وABI بدرجات pVHI عمومًا أعلى من ارتباطات ARI. تدعم النتائج فائدة هذه القياسات في هذه العينة، لكن غياب validation رسمي لـ ABI وARI لدى الأطفال أو البالغين الناطقين بالتركية يجعل تفسيرها استكشافيًا.",
+      "summary_en": "This study compared 32 normophonic children with 35 children who had vocal fold nodules, confirmed by videolaryngostroboscopy. AVQI, ABI, and ARI were derived from standardized voice recordings, and the Physical, Functional, and Emotional subscales and total score of the pVHI were assessed. All three acoustic indices and all pVHI scores were significantly higher in children with nodules. AVQI and ABI each had an AUC of 1.00, while ARI had an AUC of 0.847; the pVHI Physical subscale and total score also discriminated well, with AUCs of 0.982 and 0.981. AVQI and ABI were strongly correlated, and their associations with pVHI scores were generally stronger than those of ARI. The findings are promising within this sample, but ABI and ARI results remain exploratory because these indices have not been formally validated in Turkish-speaking pediatric or adult populations.",
+      "practice_change_ar": "لا تغيّر النتائج الممارسة حاليًا، لكنها تشير إلى إمكانية استخدام AVQI وABI وpVHI كأدوات مساعدة إلى جانب التقييم السريري لدى الأطفال المشتبه بإصابتهم بـ vocal fold nodules.",
+      "practice_change_en": "These findings do not change practice today, but suggest that AVQI, ABI, and pVHI may support clinical assessment of children suspected of having vocal fold nodules.",
+      "future_impact_ar": "قد يؤدي validation مستقبلًا لـ ABI وARI ودراسة أدائهما في مجموعات لغوية وأعمار مختلفة إلى تحسين التقييم الموضوعي لصوت الأطفال.",
+      "future_impact_en": "Future validation of ABI and ARI across languages and age groups may improve objective assessment of children's voices.",
+      "why_important_ar": "توضح الدراسة أن القياسات الصوتية وpVHI قد تميّز الأطفال المصابين بـ vocal fold nodules عن الأطفال normophonic، مع أداء مرتفع لبعض المؤشرات في هذه العينة.",
+      "why_important_en": "The study shows that acoustic measures and pVHI can distinguish children with vocal fold nodules from normophonic children, with high apparent performance for some measures in this sample.",
+      "vs_previous_ar": "تضيف الدراسة مقارنة مباشرة بين AVQI وABI وARI وpVHI لدى الأطفال، مع التنبيه إلى أن ABI وARI لم يخضعا لـ formal validation في هذه الفئة اللغوية.",
+      "vs_previous_en": "The study directly compares AVQI, ABI, ARI, and pVHI in children while highlighting the lack of formal validation of ABI and ARI in this language population.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة مقطعية للأداء التشخيصي شملت 67 طفلًا، وأظهرت نتائج مفيدة لكن غير كافية لتغيير الممارسة؛ كما أن غياب validation لبعض المؤشرات يحد من قوة الاستنتاجات.",
+      "stars_reason_en": "This cross-sectional diagnostic-performance study included 67 children and provides useful findings, but not enough to change practice; lack of validation for some indices limits the conclusions.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "The striking AUC values, including 1.00 for AVQI and ABI, merit discussion alongside the sample size and need for external validation before clinical adoption.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات أكبر ومتعددة المراكز للتحقق من ABI وARI لدى الأطفال الناطقين بالتركية، وتقييم الأداء في لغات وسياقات سريرية أخرى.",
+      "research_gap_en": "Larger multicenter studies should validate ABI and ARI in Turkish-speaking children and assess performance across other languages and clinical settings.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم دراسة عن التقييم الموضوعي لصوت الأطفال المصابين بـ vocal fold nodules. شملت الدراسة 67 طفلًا: 32 طفلًا normophonic و35 طفلًا لديهم nodules أكدها videolaryngostroboscopy. أُجريت تسجيلات الصوت في ظروف معيارية، ثم حُسبت AVQI وABI وARI، كما قيّم الباحثون أثر المشكلة على الحياة اليومية باستخدام pVHI، بما في ذلك Physical وFunctional وEmotional subscales والدرجة الكلية.\n\nكانت المؤشرات الصوتية الثلاثة ودرجات pVHI أعلى لدى الأطفال المصابين مقارنة بالمجموعة normophonic. حقق AVQI وABI قيمة AUC قدرها 1.00 في هذه العينة، بينما كان أداء ARI أقل، بقيمة AUC تبلغ 0.847. كما أظهرت Physical subscale والدرجة الكلية لـ pVHI قدرة تمييز مرتفعة، مع AUC قدرها 0.982 و0.981. وكان الارتباط بين AVQI وABI قويًا، كما ارتبطا بدرجات pVHI عمومًا أكثر من ارتباط ARI بها.\n\nالنتائج مشجعة، لكنها لا تثبت أن هذه المؤشرات تصلح وحدها للتشخيص أو يمكن تعميمها على جميع الأطفال. الدراسة محدودة بحجم العينة، كما أن ABI وARI لم يخضعا لـ formal validation لدى الأطفال أو البالغين الناطقين بالتركية؛ لذلك ينبغي التعامل مع نتائجهما بوصفها استكشافية. لا تفرض الدراسة تغييرًا فوريًا في الممارسة، لكنها تدعم النظر في acoustic indices وpVHI كأدوات مساعدة إلى جانب التقييم السريري. وتتمثل الخطوة البحثية التالية في دراسات أكبر ومتعددة المراكز، مع validation لغوي وعُمري وتقييم خارجي للأداء التشخيصي.",
+      "audio_script_en": "Today we review a study of objective voice assessment in children with vocal fold nodules. It included 67 children: 32 normophonic children and 35 children with nodules confirmed by videolaryngostroboscopy. Voice recordings were collected under standardized conditions. The investigators calculated AVQI, ABI, and ARI, and assessed the impact of voice problems using the pVHI Physical, Functional, and Emotional subscales and total score.\n\nAll three acoustic indices and all pVHI scores were higher in the children with nodules. AVQI and ABI each achieved an AUC of 1.00 in this sample, while ARI had a lower AUC of 0.847. The pVHI Physical subscale and total score also showed strong discrimination, with AUCs of 0.982 and 0.981. AVQI and ABI were strongly correlated, and their associations with pVHI scores were generally stronger than those of ARI.\n\nThese results are promising, but they do not establish that the indices should be used alone for diagnosis or that their performance will generalize to all children. The sample was modest, and ABI and ARI have not been formally validated in Turkish-speaking pediatric or adult populations, so findings for these measures should be considered exploratory. The study does not justify an immediate change in practice, but supports considering acoustic indices and pVHI as adjuncts to clinical assessment. Next steps include larger multicenter studies, validation across languages and age groups, and external assessment of diagnostic performance.",
+      "mcq": [
+        {
+          "q_ar": "كم عدد الأطفال المشاركين في الدراسة؟",
+          "q_en": "How many children were included in the study?",
+          "options_ar": [
+            "أ) 32",
+            "ب) 35",
+            "ج) 67",
+            "د) 100"
+          ],
+          "options_en": [
+            "A) 32",
+            "B) 35",
+            "C) 67",
+            "D) 100"
+          ],
+          "answer": 2,
+          "explanation_ar": "شملت الدراسة 67 طفلًا: 32 طفلًا normophonic و35 طفلًا لديهم vocal fold nodules.",
+          "explanation_en": "The study included 67 children: 32 normophonic children and 35 with vocal fold nodules."
+        },
+        {
+          "q_ar": "ما قيمة AUC التي حققها كل من AVQI وABI في هذه العينة؟",
+          "q_en": "What AUC did both AVQI and ABI achieve in this sample?",
+          "options_ar": [
+            "أ) 0.552",
+            "ب) 0.847",
+            "ج) 0.981",
+            "د) 1.00"
+          ],
+          "options_en": [
+            "A) 0.552",
+            "B) 0.847",
+            "C) 0.981",
+            "D) 1.00"
+          ],
+          "answer": 3,
+          "explanation_ar": "بلغت AUC لكل من AVQI وABI مقدار 1.00، مع ضرورة تفسير ذلك ضمن حدود العينة والتحقق الخارجي.",
+          "explanation_en": "Both AVQI and ABI had an AUC of 1.00, which should be interpreted in light of the sample and need for external validation."
+        },
+        {
+          "q_ar": "لماذا ينبغي تفسير نتائج ABI وARI بحذر؟",
+          "q_en": "Why should findings for ABI and ARI be interpreted cautiously?",
+          "options_ar": [
+            "أ) لم تُجرَ تسجيلات صوتية",
+            "ب) لم يخضعا لـ formal validation لدى الناطقين بالتركية",
+            "ج) لم تُقيّم حالة الحنجرة",
+            "د) لم تُستخدم درجات pVHI"
+          ],
+          "options_en": [
+            "A) No voice recordings were obtained",
+            "B) They have not been formally validated in Turkish-speaking populations",
+            "C) Laryngeal status was not assessed",
+            "D) pVHI scores were not collected"
+          ],
+          "answer": 1,
+          "explanation_ar": "ذكر الباحثون أن ABI وARI يفتقران إلى formal validation لدى الأطفال أو البالغين الناطقين بالتركية، لذا تُعد النتائج استكشافية.",
+          "explanation_en": "The authors noted that ABI and ARI lack formal validation in Turkish-speaking pediatric or adult populations, making these findings exploratory."
+        }
+      ]
+    },
+    {
+      "pmid": "43085747",
+      "title_ar": "Artificial Intelligence across the Perioperative Continuum in Facial Plastic and Microvascular Surgery: A State-of-the-Art Narrative Review.",
+      "title_en": "Artificial Intelligence across the Perioperative Continuum in Facial Plastic and Microvascular Surgery: A State-of-the-Art Narrative Review.",
+      "journal": "Facial plastic surgery : FPS",
+      "pub_date": "2026-Nov-25",
+      "doi": "10.1055/a-3009-2757",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43085747/",
+      "pdf_url": null,
+      "study_design": "State-of-the-art narrative review; 66 studies included",
+      "summary_ar": "راجعت هذه الدراسة استخدامات artificial intelligence عبر مراحل الرعاية perioperative في facial plastic surgery وmicrovascular head and neck surgery. شمل البحث قواعد PubMed (MEDLINE) وScopus وWeb of Science حتى 10 أغسطس 2026، وأُدرجت 66 دراسة من أصل 1,249. تناولت 50% من الدراسات تطبيقات preoperative، مثل surgical planning وimage segmentation وrisk stratification. وركزت 45% على تطبيقات postoperative، ومنها free flap monitoring وتقييم النتائج، بينما تناولت 6% تطبيقات intraoperative. كانت deep learning وconvolutional neural networks أكثر الأساليب شيوعًا، لكن الدراسات ذات التقييم prospective كانت قليلة. تشير المراجعة إلى نمو الاستخدامات، مع بقاء clinical validation محدودًا، ولا سيما في التطبيقات intraoperative.",
+      "summary_en": "This narrative review examines artificial intelligence applications across perioperative care in facial plastic and microvascular surgery. The authors searched PubMed (MEDLINE), Scopus, and Web of Science through August 10, 2026, and included 66 of 1,249 identified articles. Preoperative applications made up 50% of studies, commonly addressing surgical planning, image segmentation, and risk stratification. Postoperative applications accounted for 45%, including free flap monitoring and outcome assessment, while intraoperative applications represented 6%. Deep learning and convolutional neural networks were the most frequently used approaches. Despite rapid growth in research, prospective evaluation and clinical validation remain limited, especially for intraoperative applications.",
+      "practice_change_ar": "لا تغيّر هذه المراجعة الممارسة اليوم؛ إذ لا تزال أدلة clinical validation وprospective evaluation غير كافية لاعتماد AI بصورة روتينية.",
+      "practice_change_en": "This review does not change practice today because clinical validation and prospective evaluation remain insufficient to support routine AI adoption.",
+      "future_impact_ar": "قد تدعم الدراسات prospective التي تختبر AI في بيئات سريرية حقيقية دمجًا آمنًا لأدوات التخطيط ومراقبة free flap في المستقبل.",
+      "future_impact_en": "Prospective studies testing AI in real clinical settings may enable safe future integration of planning and free flap monitoring tools.",
+      "why_important_ar": "تلخص المقالة اتساع تطبيقات AI في facial reconstruction وتوضح الفجوة بين نمو التقنية والتحقق السريري.",
+      "why_important_en": "The review summarizes expanding AI applications in facial reconstruction and highlights the gap between technological growth and clinical validation.",
+      "vs_previous_ar": "على خلاف الأدبيات التي تتناول تطبيقًا منفردًا، تجمع هذه المراجعة استخدامات AI عبر المراحل perioperative مع إبراز محدودية الأدلة prospective.",
+      "vs_previous_en": "Unlike literature focused on a single application, this review spans perioperative AI uses and emphasizes the scarcity of prospective evidence.",
+      "stars": 3,
+      "stars_reason_ar": "مراجعة سردية لـ66 دراسة تقدم خريطة مفيدة للتطبيقات، لكن محدودية prospective evaluation وعدم إثبات أثر سريري يحدان من قوة الدليل وتأثيره على الممارسة.",
+      "stars_reason_en": "This narrative review of 66 studies provides a useful map of applications, but limited prospective evaluation and unproven clinical impact constrain its evidence strength and practice implications.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "AI is a rapidly evolving topic relevant to facial and free flap surgery, and the review supports discussion of clinical validation and safe adoption.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا أدوات AI الخاصة بـsurgical planning وimage segmentation وfree flap monitoring، مع انتظار نتائج prospective validation قبل اعتمادها سريريًا.",
+      "watch_detail_en": "Track AI tools for surgical planning, image segmentation, and free flap monitoring, while awaiting prospective validation before clinical adoption.",
+      "watch_type": "technology",
+      "research_gap_ar": "هناك حاجة إلى دراسات prospective متعددة المراكز تقيس الدقة والأثر السريري والسلامة لأدوات AI، خصوصًا في intraoperative use وfree flap monitoring.",
+      "research_gap_en": "Prospective multicenter studies are needed to assess the accuracy, clinical impact, and safety of AI tools, particularly for intraoperative use and free flap monitoring.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "تتناول هذه المراجعة السردية استخدام artificial intelligence عبر مراحل الرعاية perioperative في facial plastic surgery وmicrovascular head and neck surgery، مع اهتمام خاص بإعادة البناء وfree flap. بحث المؤلفون في PubMed (MEDLINE) وScopus وWeb of Science حتى 10 أغسطس 2026. من بين 1,249 مقالة جرى تحديدها، استوفت 66 دراسة معايير الإدراج.\n\nتركز نصف الدراسات تقريبًا على تطبيقات preoperative، وتشمل surgical planning وimage segmentation وrisk stratification. أما تطبيقات postoperative فشكّلت 45%، ومن أمثلتها free flap monitoring وتقييم النتائج. لم تتجاوز تطبيقات intraoperative نسبة 6%. وكانت deep learning وconvolutional neural networks أكثر الأساليب شيوعًا.\n\nالرسالة الأهم هي أن استخدام AI يتوسع، لكن clinical validation وprospective evaluation لا يواكبان هذا النمو، خصوصًا في التطبيقات intraoperative. لذلك لا تقدم المراجعة أساسًا كافيًا لتغيير الممارسة أو اعتماد هذه الأدوات روتينيًا اليوم. مستوى الثقة متوسط: المقالة مفيدة لفهم المجال، لكنها مراجعة سردية ولا تثبت أن AI يحسن النتائج السريرية.\n\nتصلح هذه المقالة للنقاش في journal club لأنها تضع التطبيقات الحالية والفجوات البحثية في سياق واحد. وينبغي متابعة أدوات surgical planning وimage segmentation وfree flap monitoring، مع التمييز بين الأداء التقني والفائدة المثبتة للمريض. الأولوية البحثية هي إجراء دراسات prospective متعددة المراكز تقيس الدقة والسلامة والأثر على القرارات والنتائج، وبالأخص في الاستخدام intraoperative. مستقبل دمج AI في facial reconstruction يعتمد على هذا النوع من التحقق السريري.",
+      "audio_script_en": "This state-of-the-art narrative review examines artificial intelligence across perioperative care in facial plastic and microvascular head and neck surgery, with particular attention to reconstruction and free flaps. The authors searched PubMed (MEDLINE), Scopus, and Web of Science through August 10, 2026. Of 1,249 identified articles, 66 met the inclusion criteria.\n\nAbout half of the included studies focused on preoperative applications, including surgical planning, image segmentation, and risk stratification. Postoperative applications accounted for 45%, with examples such as free flap monitoring and outcome assessment. Intraoperative applications represented only 6%. Deep learning and convolutional neural networks were the most commonly used methods.\n\nThe central finding is that AI use is expanding, but clinical validation and prospective evaluation are not keeping pace, particularly for intraoperative applications. The review therefore does not provide enough evidence to change practice or support routine adoption today. Confidence is moderate: the article is useful for understanding the field, but as a narrative review it does not establish that AI improves clinical outcomes.\n\nThis is a worthwhile journal club article because it brings current applications and research gaps together. Clinicians should track tools for surgical planning, image segmentation, and free flap monitoring while distinguishing technical performance from demonstrated patient benefit. The research priority is prospective multicenter evaluation of accuracy, safety, and effects on decisions and outcomes, especially for intraoperative use. The future integration of AI in facial reconstruction will depend on that clinical validation.",
+      "mcq": [
+        {
+          "q_ar": "ما النسبة التقريبية للدراسات التي تناولت تطبيقات preoperative؟",
+          "q_en": "Approximately what proportion of studies addressed preoperative applications?",
+          "options_ar": [
+            "أ) 6%",
+            "ب) 45%",
+            "ج) 50%",
+            "د) 95%"
+          ],
+          "options_en": [
+            "A) 6%",
+            "B) 45%",
+            "C) 50%",
+            "D) 95%"
+          ],
+          "answer": 2,
+          "explanation_ar": "شكّلت تطبيقات preoperative، مثل surgical planning وimage segmentation، 50% من الدراسات.",
+          "explanation_en": "Preoperative applications, including surgical planning and image segmentation, accounted for 50% of the studies."
+        },
+        {
+          "q_ar": "ما أبرز قيد على أدلة AI التي حددتها المراجعة؟",
+          "q_en": "What key limitation of the AI evidence did the review identify?",
+          "options_ar": [
+            "أ) غياب كامل للدراسات postoperative",
+            "ب) قلة prospective evaluation وclinical validation",
+            "ج) اقتصار الأدلة على pediatric patients",
+            "د) عدم استخدام deep learning"
+          ],
+          "options_en": [
+            "A) Complete absence of postoperative studies",
+            "B) Limited prospective evaluation and clinical validation",
+            "C) Evidence restricted to pediatric patients",
+            "D) No use of deep learning"
+          ],
+          "answer": 1,
+          "explanation_ar": "ذكرت المراجعة أن prospective evaluation وclinical validation محدودان، وخصوصًا للتطبيقات intraoperative.",
+          "explanation_en": "The review found limited prospective evaluation and clinical validation, particularly for intraoperative applications."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن إدخال AI إلى الممارسة السريرية حاليًا؟",
+          "q_en": "What is the most appropriate conclusion about adopting AI in clinical practice today?",
+          "options_ar": [
+            "أ) ينبغي اعتماد جميع الأدوات روتينيًا",
+            "ب) الأدلة تثبت تحسن النتائج لكل المرضى",
+            "ج) لا تدعم الأدلة الحالية اعتمادًا روتينيًا واسعًا",
+            "د) لا توجد تطبيقات في free flap monitoring"
+          ],
+          "options_en": [
+            "A) All tools should be adopted routinely",
+            "B) Evidence proves improved outcomes for all patients",
+            "C) Current evidence does not support broad routine adoption",
+            "D) There are no applications in free flap monitoring"
+          ],
+          "answer": 2,
+          "explanation_ar": "تؤكد المراجعة نمو التطبيقات، لكنها تشير إلى أن التحقق السريري والدراسات prospective غير كافيين للاعتماد الروتيني.",
+          "explanation_en": "The review describes expanding applications but finds clinical validation and prospective studies insufficient for routine adoption."
+        }
+      ]
+    },
+    {
+      "pmid": "43085748",
+      "title_ar": "From Surface to Framework: Feasibility of Paired Three-Dimensional Nasal Morphometry in Open Rhinoplasty.",
+      "title_en": "From Surface to Framework: Feasibility of Paired Three-Dimensional Nasal Morphometry in Open Rhinoplasty.",
+      "journal": "Facial plastic surgery : FPS",
+      "pub_date": "2026-Nov-25",
+      "doi": "10.1055/a-3012-8897",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43085748/",
+      "pdf_url": null,
+      "study_design": "Prospective cohort n=19",
+      "summary_ar": "هدفت هذه prospective cohort إلى اختبار إمكانية استخدام smartphone photogrammetry لإنشاء point clouds ثلاثية الأبعاد للسطح الخارجي للأنف ولـ cartilaginous framework لدى مرضى يخضعون لـ open rhinoplasty. شملت الدراسة 19 مريضًا بمتوسط عمر 38.84 سنة، واستخدم الباحثون تطبيق Polycam لإنشاء renderings وبيانات قابلة للتحليل. اختُبر XGBoost model للتنبؤ بـ cephalic orientation of LLC. بلغ model accuracy مقدار 0.895 (95% CI, 0.669–0.987)، وبلغ ROC AUC مقدار 0.911 (95% CI, 0.744–1.000). تدعم النتائج feasibility جمع سجلات خارجية وداخلية مترابطة، لكنها proof-of-concept بعينة صغيرة ولا تثبت دقة التنبؤ أو فائدته السريرية على نطاق أوسع. لا تغيّر الدراسة التخطيط الجراحي أو الممارسة الحالية، لكنها تطرح أساسًا لتقييم موضوعي وقرارات مستقبلية مخصصة للمريض.",
+      "summary_en": "This prospective cohort evaluated whether smartphone photogrammetry could create paired 3D point clouds of external nasal anatomy and the underlying cartilaginous framework in open rhinoplasty patients.\nNineteen patients were enrolled, and the Polycam application was used to generate 3D renderings and analyzable point clouds.\nAn XGBoost model was used as a proof-of-concept to predict cephalic orientation of the LLC.\nThe model achieved an accuracy of 0.895 (95% CI, 0.669–0.987) and an ROC AUC of 0.911 (95% CI, 0.744–1.000).\nThese findings suggest that linked external and framework records are feasible, but the small cohort does not establish generalizable predictive performance or clinical utility.\nThe approach is not ready to guide operative decisions, but may support more objective assessment and future patient-specific planning tools.",
+      "practice_change_ar": "لا تغيّر هذه النتائج الممارسة اليوم؛ لا ينبغي استخدام هذا النموذج لتوجيه القرارات الجراحية قبل التحقق منه على عينات أكبر ومستقلة.",
+      "practice_change_en": "These findings do not change practice today; the model should not guide surgical decisions before validation in larger, independent cohorts.",
+      "future_impact_ar": "قد تتيح paired 3D records تطوير أدوات أكثر موضوعية لتخطيط open rhinoplasty وتقييم النتائج ودعم القرار المخصص للمريض.",
+      "future_impact_en": "Paired 3D records may enable more objective open rhinoplasty planning, outcome assessment, and patient-specific decision-support tools.",
+      "why_important_ar": "توضح الدراسة مسارًا عمليًا لربط nasal surface morphology بالـ cartilaginous framework وتحويل الملاحظات الجراحية العابرة إلى بيانات قابلة للتحليل.",
+      "why_important_en": "The study demonstrates a feasible way to link nasal surface morphology with the cartilaginous framework and convert transient operative observations into analyzable data.",
+      "vs_previous_ar": "على خلاف التقييم المعتاد الذي يعتمد على الفحص والخبرة الجراحية، تستكشف الدراسة paired 3D imaging وmachine learning لربط المظهر الخارجي بالبنية الغضروفية.",
+      "vs_previous_en": "Unlike conventional assessment relying on examination and surgical judgment, this study explores paired 3D imaging and machine learning to link external appearance with cartilaginous anatomy.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة prospective cohort صغيرة (n=19) تقدم تقنية مبتكرة ونتائج feasibility مشجعة، لكن حداثة التطبيق السريري غير مثبتة، كما أن المجلة ليست ضمن قائمة المجلات الأعلى تصنيفًا المحددة.",
+      "stars_reason_en": "This small prospective cohort (n=19) presents an innovative technology and encouraging feasibility results, but clinical utility is unproven and the journal is not among the specified top-tier titles.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This is worth discussing because it combines smartphone photogrammetry and machine learning in facial plastics, while raising important questions about sample size and external validation of the reported performance.",
+      "watch": true,
+      "watch_detail_ar": "ينبغي متابعة smartphone photogrammetry و3D point-cloud analysis مع machine learning، إذ قد تتيح توثيقًا موضوعيًا وتخطيطًا مخصصًا في rhinoplasty بعد التحقق السريري.",
+      "watch_detail_en": "Track smartphone photogrammetry and 3D point-cloud analysis with machine learning, which may enable objective documentation and personalized rhinoplasty planning if clinically validated.",
+      "watch_type": "technology",
+      "research_gap_ar": "يلزم التحقق من دقة النموذج وقابليته للتعميم على cohort أكبر ومتعدد المراكز، مع اختبار ما إذا كانت predictions تحسن التخطيط الجراحي أو النتائج التي تهم المرضى.",
+      "research_gap_en": "The model needs validation in larger, multicenter cohorts, with studies testing whether its predictions improve surgical planning or patient-relevant outcomes.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "تتناول هذه الدراسة المنشورة في Facial Plastic Surgery إمكانية ربط شكل الأنف الخارجي بالبنية الغضروفية الموجودة تحته باستخدام سجلات ثلاثية الأبعاد وmachine learning. تكمن المشكلة السريرية في أن تقييم osseocartilaginous framework صعب قبل الجراحة، وأن بعض الملاحظات المهمة أثناء العملية تكون عابرة ولا تتحول عادة إلى بيانات منظمة.\n\nصُممت الدراسة كـ prospective cohort، وشملت 19 مريضًا خضعوا لـ open rhinoplasty. استخدم الباحثون smartphone photogrammetry عبر تطبيق Polycam لإنشاء 3D renderings ثم point clouds للسطح الخارجي وللبنية الغضروفية. بعد ذلك اختبروا XGBoost model لتحديد cephalic orientation of LLC. أظهر النموذج accuracy قدرها 0.895، مع 95% CI من 0.669 إلى 0.987، وROC AUC قدرها 0.911، مع 95% CI من 0.744 إلى 1.000.\n\nالرسالة الأساسية هي feasibility، وليس إثبات أن هذه التقنية تتنبأ بدقة قابلة للتعميم أو تحسن نتائج الجراحة. حجم العينة صغير، كما أن فواصل الثقة واسعة، ولا يقدم الملخص دليلًا على تحقق خارجي مستقل أو أثر مباشر على قرارات الجراحين. لذلك لا ينبغي تغيير الممارسة اليوم أو الاعتماد على النموذج في اختيار التقنية الجراحية.\n\nمع ذلك، تستحق الدراسة اهتمام journal club لأنها تجمع smartphone photogrammetry و3D point-cloud analysis وmachine learning في مجال facial plastics. إذا أُكدت النتائج في cohorts أكبر ومتعددة المراكز، فقد تساعد paired 3D records على توثيق التشريح بصورة أكثر موضوعية، وتحسين تقييم النتائج والتخطيط المخصص للمريض. الأولوية البحثية هي التحقق الخارجي، وتقييم قابلية تكرار القياسات، ثم اختبار أثرها على التخطيط والنتائج التي تهم المرضى. الخلاصة: تقنية واعدة للمراقبة والبحث، لكنها ما زالت proof-of-concept وليست أداة سريرية جاهزة.",
+      "audio_script_en": "This study in Facial Plastic Surgery asks whether the external appearance of the nose can be linked to the underlying cartilaginous framework using paired three-dimensional records and machine learning. The clinical challenge is that assessment of the osseocartilaginous framework can be difficult before surgery, while useful intraoperative observations may be transient and are not always captured as structured data.\n\nThe authors conducted a prospective cohort study of 19 patients undergoing open rhinoplasty. They used smartphone photogrammetry with the Polycam application to create 3D renderings and point clouds of both external nasal anatomy and the underlying framework. An XGBoost model was then tested as a proof-of-concept for identifying cephalic orientation of the LLC. Reported accuracy was 0.895, with a 95% CI of 0.669 to 0.987; ROC AUC was 0.911, with a 95% CI of 0.744 to 1.000.\n\nThe main finding is feasibility, not proof that the approach predicts anatomy reliably across patients or improves surgical outcomes. The cohort is small, the confidence intervals are broad, and the abstract does not report independent external validation or a measurable effect on surgeon decision-making. The results therefore do not justify changing practice or using the model to select an operative technique today.\n\nThe article is nevertheless worthwhile for journal club because it brings together smartphone photogrammetry, 3D point-cloud analysis, and machine learning in facial plastics. If confirmed in larger, multicenter cohorts, paired 3D records could support more objective documentation, outcome assessment, and patient-specific planning. Key next steps are external validation, assessment of measurement reproducibility, and studies of whether the information changes planning or improves patient-relevant outcomes. In short, this is a promising research infrastructure and technology to watch, but it remains a proof-of-concept rather than a clinical decision tool.",
+      "mcq": [
+        {
+          "q_ar": "ما التصميم وحجم العينة في هذه الدراسة؟",
+          "q_en": "What were the study design and sample size?",
+          "options_ar": [
+            "أ) RCT شملت 120 مريضًا",
+            "ب) Prospective cohort شملت 19 مريضًا",
+            "ج) Retrospective series شملت 200 مريض",
+            "د) Case report لمريض واحد"
+          ],
+          "options_en": [
+            "A) An RCT with 120 patients",
+            "B) A prospective cohort with 19 patients",
+            "C) A retrospective series with 200 patients",
+            "D) A case report of one patient"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت الدراسة prospective cohort، وضمت 19 مريضًا خضعوا لـ open rhinoplasty.",
+          "explanation_en": "The study was a prospective cohort of 19 patients undergoing open rhinoplasty."
+        },
+        {
+          "q_ar": "ما المخرج التشريحي الذي حاول XGBoost model تحديده؟",
+          "q_en": "Which anatomical feature did the XGBoost model attempt to identify?",
+          "options_ar": [
+            "أ) Cephalic orientation of LLC",
+            "ب) حجم nasal airway",
+            "ج) سماكة septal mucosa",
+            "د) موضع frontal sinus"
+          ],
+          "options_en": [
+            "A) Cephalic orientation of the LLC",
+            "B) Nasal airway volume",
+            "C) Septal mucosal thickness",
+            "D) Frontal sinus position"
+          ],
+          "answer": 0,
+          "explanation_ar": "استُخدم النموذج، كـ proof-of-concept، لتحديد cephalic orientation of LLC.",
+          "explanation_en": "As a proof-of-concept, the model was used to determine cephalic orientation of the LLC."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن تطبيق النتائج في الممارسة الحالية؟",
+          "q_en": "What is the most appropriate conclusion about applying these findings in current practice?",
+          "options_ar": [
+            "أ) يجب أن يحل النموذج محل تقييم الجراح قبل الجراحة",
+            "ب) تثبت الدراسة تحسن نتائج open rhinoplasty",
+            "ج) النتائج تدعم feasibility لكنها لا تبرر تغيير الممارسة دون تحقق إضافي",
+            "د) لا صلة للدراسة بتخطيط rhinoplasty"
+          ],
+          "options_en": [
+            "A) The model should replace preoperative surgeon assessment",
+            "B) The study proves improved open rhinoplasty outcomes",
+            "C) The findings support feasibility but do not justify practice change without further validation",
+            "D) The study is unrelated to rhinoplasty planning"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة proof-of-concept صغيرة؛ لذا تحتاج النتائج إلى تحقق أوسع قبل استخدامها لتوجيه القرارات السريرية.",
+          "explanation_en": "This is a small proof-of-concept study; broader validation is needed before using the findings to guide clinical decisions."
+        }
+      ]
+    },
+    {
+      "pmid": "43078696",
+      "title_ar": "Functional and esthetic results in total or subtotal nasal amputation: A systematic PRISMA review.",
+      "title_en": "Functional and esthetic results in total or subtotal nasal amputation: A systematic PRISMA review.",
+      "journal": "European annals of otorhinolaryngology, head and neck diseases",
+      "pub_date": "2026-Nov-24",
+      "doi": "10.1016/j.anorl.2026.11.001",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43078696/",
+      "pdf_url": null,
+      "study_design": "Systematic review of 8 retrospective studies (n=179)",
+      "summary_ar": "راجعت هذه الدراسة systematic review نتائج reconstruction الجراحي وrehabilitation بواسطة prosthesis بعد total أو subtotal nasal amputation، وفق PRISMA. شملت المراجعة 8 retrospective studies تضم 179 مريضًا. كانت النتائج esthetic مرضية ومتقاربة، مع median score قدره 8/10 للـprostheses و7.66/10 للـreconstruction. حقق كلا الخيارين نتائج وظيفية، لكن reconstruction ارتبط باستمرار بـmucosal dryness وضعف nasal airflow. وشملت مخاطر prostheses فقدان implant بنسبة 7.14%، بينما سُجلت complications مهمة مع free flaps. تعذر تحديد خيار أفضل بسبب heterogeneity وغياب الدراسات المقارنة المباشرة.",
+      "summary_en": "This PRISMA systematic review evaluated surgical reconstruction and prosthetic rehabilitation after total or subtotal nasal amputation. Eight retrospective studies involving 179 patients were included. Esthetic outcomes were generally satisfactory and similar, with median scores of 8/10 for prostheses and 7.66/10 for reconstruction. Both approaches provided functional benefit, although reconstruction consistently involved mucosal dryness and impaired nasal airflow. Prostheses carried a 7.14% risk of implant loss, while free flaps were associated with significant complications. Heterogeneity and the lack of direct comparative studies prevent identifying a preferred approach.",
+      "practice_change_ar": "لا تدعم النتائج تغيير الممارسة الحالية، ويظل الاختيار بين reconstruction وprosthesis فرديًا وفق تفضيلات المريض والموارد والخبرة السريرية.",
+      "practice_change_en": "The findings do not support changing current practice; choosing reconstruction or a prosthesis remains individualized according to patient preference, resources, and clinical expertise.",
+      "future_impact_ar": "قد تساعد prospective comparative studies بأدوات تقييم موحدة على تحديد المرضى الأنسب لكل خيار.",
+      "future_impact_en": "Prospective comparative studies using standardized outcome measures may clarify which patients are best suited to each option.",
+      "why_important_ar": "تلخص المقالة نتائج وظيفية وجمالية ومخاطر خيارين ترميميين مهمين في حالة نادرة ومعقدة.",
+      "why_important_en": "The review summarizes functional and esthetic outcomes and risks of two important reconstructive options for a rare, complex condition.",
+      "vs_previous_ar": "بدلًا من ترجيح تقنية واحدة، تجمع هذه المراجعة الأدلة المتاحة وتوضح أن المقارنات المباشرة غير كافية.",
+      "vs_previous_en": "Rather than favoring one technique, this review synthesizes available evidence and highlights the lack of adequate direct comparisons.",
+      "stars": 3,
+      "stars_reason_ar": "تستند المراجعة المنهجية إلى 8 دراسات retrospective و179 مريضًا، لكنها لا تقدم دليلًا مقارنًا قويًا أو توصية تغير الممارسة؛ لذا فهي مفيدة سريريًا مع محدودية الثقة.",
+      "stars_reason_en": "This systematic review includes 8 retrospective studies and 179 patients, but offers no strong comparative evidence or practice-changing recommendation; it is clinically useful but limited in certainty.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "This is suitable for journal club because it addresses the clinical choice between reconstruction and prostheses while highlighting evidence gaps and option-specific risks.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى prospective comparative studies تستخدم مقاييس موحدة للوظيفة والمظهر وجودة الحياة والمضاعفات.",
+      "research_gap_en": "Prospective comparative studies with standardized measures of function, appearance, quality of life, and complications are needed.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "تتناول هذه المراجعة المنهجية PRISMA تحديًا ترميميًا مهمًا في facial_plastics: كيفية استعادة الأنف بعد total أو subtotal nasal amputation. قارنت الدراسات المتاحة بين reconstruction باستخدام local أو free flaps، وبين rehabilitation بواسطة prosthesis.\n\nبعد البحث في PubMed وEMBASE، أُدرجت ثماني دراسات retrospective شملت 179 مريضًا. كانت النتائج الجمالية مرضية ومتقاربة عمومًا؛ إذ بلغ median score نحو 8 من 10 للـprostheses و7.66 من 10 للـreconstruction. وقدمت الطريقتان فائدة وظيفية، لكن reconstruction ارتبط بصورة متكررة بـmucosal dryness وضعف nasal airflow. أما prostheses فارتبطت بخطر implant loss بلغ 7.14%، في حين سُجلت complications مهمة مع free flaps.\n\nلا ينبغي تفسير هذه الأرقام على أنها إثبات لتفوق أحد الخيارين. فالدراسات متباينة، ولم تتوفر مقارنات مباشرة قوية، كما أن جميع الدراسات المشمولة كانت retrospective. لذلك لا تقدم المراجعة سببًا لتغيير الممارسة الحالية. يظل القرار فرديًا، ويراعي أهداف المريض وتفضيلاته، وحالته السريرية، والموارد المتاحة، وخبرة الفريق.\n\nأهمية المقالة أنها تجمع النتائج الوظيفية والجمالية والمخاطر في هذا المجال النادر، وتوضح بجلاء مواضع عدم اليقين. لكنها لا تحسم أي المرضى يستفيدون أكثر من reconstruction أو prosthesis. الخطوة البحثية التالية هي إجراء prospective comparative studies بأدوات موحدة تقيس المظهر والتنفس وجودة الحياة والمضاعفات. الخلاصة العملية: كلا النهجين خيار معقول، لكن اختيار الأنسب يتطلب قرارًا مشتركًا مع المريض، ولا توجد حاليًا أدلة كافية لفرض استراتيجية واحدة.",
+      "audio_script_en": "This PRISMA systematic review addresses a major facial plastics challenge: restoring the nose after total or subtotal nasal amputation. It examines two broad approaches: surgical reconstruction using local or free flaps, and rehabilitation with a prosthesis.\n\nFollowing searches of PubMed and EMBASE, the authors included eight retrospective studies comprising 179 patients. Esthetic outcomes were generally satisfactory and similar, with median scores of about 8 out of 10 for prostheses and 7.66 out of 10 for reconstruction. Both approaches offered functional benefit. However, reconstruction was consistently associated with mucosal dryness and impaired nasal airflow. Prostheses carried a 7.14% risk of implant loss, while free flaps were associated with significant complications.\n\nThese figures should not be interpreted as proof that either approach is superior. The included studies were heterogeneous, there were no robust direct comparisons, and all the evidence came from retrospective studies. Consequently, the review does not justify changing current practice. Treatment remains individualized, taking into account the patient’s goals and preferences, clinical circumstances, available resources, and the team’s expertise.\n\nThe article is useful because it brings together esthetic and functional outcomes and complications in a rare, complex clinical situation. Its main message, however, is uncertainty: it cannot establish which patients benefit most from reconstruction versus prosthetic rehabilitation. Future prospective comparative studies should use standardized measures of appearance, breathing, quality of life, and complications. The practical takeaway is that both approaches can be reasonable, but selection should be shared with the patient; current evidence does not support a single preferred strategy.",
+      "mcq": [
+        {
+          "q_ar": "كم عدد الدراسات والمرضى الذين شملتهم المراجعة؟",
+          "q_en": "How many studies and patients were included in the review?",
+          "options_ar": [
+            "أ) 8 دراسات و179 مريضًا",
+            "ب) 10 دراسات و210 مرضى",
+            "ج) 7 دراسات و76 مريضًا",
+            "د) 12 دراسة و456 مريضًا"
+          ],
+          "options_en": [
+            "A) 8 studies and 179 patients",
+            "B) 10 studies and 210 patients",
+            "C) 7 studies and 76 patients",
+            "D) 12 studies and 456 patients"
+          ],
+          "answer": 0,
+          "explanation_ar": "أُدرجت 8 retrospective studies تضم 179 مريضًا.",
+          "explanation_en": "The review included 8 retrospective studies involving 179 patients."
+        },
+        {
+          "q_ar": "ما النتيجة الجمالية التي أوردتها المراجعة؟",
+          "q_en": "What esthetic outcome did the review report?",
+          "options_ar": [
+            "أ) تفوقت prostheses بوضوح على reconstruction",
+            "ب) تفوقت reconstruction بوضوح على prostheses",
+            "ج) كانت النتائج مرضية ومتقاربة بين النهجين",
+            "د) لم تحقق أي من الطريقتين نتائج مرضية"
+          ],
+          "options_en": [
+            "A) Prostheses clearly outperformed reconstruction",
+            "B) Reconstruction clearly outperformed prostheses",
+            "C) Outcomes were satisfactory and similar between approaches",
+            "D) Neither approach achieved satisfactory outcomes"
+          ],
+          "answer": 2,
+          "explanation_ar": "كانت النتائج الجمالية متقاربة، مع median score قدره 8/10 للـprostheses و7.66/10 للـreconstruction.",
+          "explanation_en": "Esthetic outcomes were similar, with median scores of 8/10 for prostheses and 7.66/10 for reconstruction."
+        },
+        {
+          "q_ar": "ما الاستنتاج العملي الأهم للمراجعة؟",
+          "q_en": "What is the review’s main practical conclusion?",
+          "options_ar": [
+            "أ) يجب تفضيل reconstruction في جميع الحالات",
+            "ب) يجب تفضيل prosthesis في جميع الحالات",
+            "ج) لا تكفي الأدلة لتحديد نهج مفضل، والقرار فردي",
+            "د) كلا النهجين غير فعال وظيفيًا"
+          ],
+          "options_en": [
+            "A) Reconstruction should be preferred in every case",
+            "B) Prostheses should be preferred in every case",
+            "C) Evidence is insufficient to identify a preferred approach; decisions should be individualized",
+            "D) Neither approach is functionally effective"
+          ],
+          "answer": 2,
+          "explanation_ar": "حدّت heterogeneity وغياب الدراسات المقارنة المباشرة من إمكانية ترجيح خيار، لذا يعتمد القرار على عوامل المريض والموارد والخبرة.",
+          "explanation_en": "Heterogeneity and the lack of direct comparative studies prevent favoring one approach, so decisions depend on patient factors, resources, and expertise."
+        }
+      ]
+    },
+    {
+      "pmid": "43094070",
+      "title_ar": "Dose-Response of Steroid-Eluting Sinus Implants in CRS: A Systematic Review and Meta-Analysis.",
+      "title_en": "Dose-Response of Steroid-Eluting Sinus Implants in CRS: A Systematic Review and Meta-Analysis.",
+      "journal": "The Laryngoscope",
+      "pub_date": "2026-Nov-25",
+      "doi": "10.1002/lary.71064",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43094070/",
+      "pdf_url": null,
+      "study_design": "Systematic review and meta-analysis of RCTs and prospective comparative studies",
+      "summary_ar": "قيّمت هذه systematic review وmeta-analysis فعالية steroid-eluting sinus implants عبر جرعات وسياقات علاجية مختلفة لدى مرضى CRS. في الدراسات بعد الجراحة، ارتبطت implants بجرعات 370–652 μg بانخفاض التدخلات اللاحقة مقارنة بالعلاج الضابط، مع overall OR قدره 0.31 وI² قدره 5%. كان تقدير OR هو 0.37 لجرعة 370 μg و0.26 لجرعة 652 μg، لكن الفرق بين الجرعتين لم يكن ذا دلالة إحصائية (p-value=0.28). في العيادة، أظهر dose-ranging RCT أن جرعة 7500 μg حققت استجابة SNOT-22 MCID أكثر من جرعة 2500 μg، مع وجود dose-dependent trend. كما خفّضت الجرعات الأعلى الحاجة إلى rescue medical therapy مقارنة بـplacebo. تشير النتائج إلى فائدة implants، لكنها لا تثبت أن زيادة الجرعة وحدها تفسر الفروق؛ إذ يؤثر implantation context وتباين endpoints وتصميم الدراسات في النتائج.",
+      "summary_en": "This systematic review and meta-analysis assessed steroid-eluting sinus implants across corticosteroid doses and treatment contexts in CRS. In postoperative studies, implants containing 370–652 μg were associated with fewer subsequent interventions than control treatment (overall OR 0.31; I²=5%). The OR was 0.37 for 370 μg and 0.26 for 652 μg, but the between-dose difference was not statistically significant (p=0.28). In the office-based setting, a dose-ranging RCT found more SNOT-22 MCID responders with 7500 μg than with 2500 μg, with a significant dose-dependent trend. Higher doses also reduced rescue medical therapy compared with placebo. The findings support clinical benefit but indicate that dose alone does not explain outcomes; implantation context, endpoints, and study design also matter.",
+      "practice_change_ar": "لا تبرر النتائج تغيير الجرعة أو اختيار implant اعتمادًا على dose وحده، لذا ينبغي أن يستمر الاختيار وفق السياق السريري والدليل الخاص بكل جهاز.",
+      "practice_change_en": "These findings do not justify changing implant dose or selection based on dose alone; continue to choose according to clinical context and device-specific evidence.",
+      "future_impact_ar": "قد تساعد هذه النتائج في تصميم دراسات مستقبلية تقارن الجرعات ضمن implantation contexts وendpoints موحدة.",
+      "future_impact_en": "These findings may inform future studies that compare doses using standardized implantation contexts and endpoints.",
+      "why_important_ar": "توضح المقالة أن فائدة steroid-eluting sinus implants تختلف باختلاف الجرعة والسياق، وتحد من الاستنتاج المبسط بأن الجرعة الأعلى أفضل دائمًا.",
+      "why_important_en": "The article shows that the benefit of steroid-eluting sinus implants varies with dose and context, cautioning against assuming that a higher dose is always better.",
+      "vs_previous_ar": "بدل جمع نتائج implants المختلفة في تقدير واحد، تميز هذه الدراسة بين الاستخدام بعد الجراحة والاستخدام في العيادة وتقيّم الجرعة ضمن هذا السياق.",
+      "vs_previous_en": "Rather than treating different implants as interchangeable, this review separates postoperative from office-based use and considers dose within each context.",
+      "stars": 4,
+      "stars_reason_ar": "هذه systematic review وmeta-analysis للدراسات السريرية، منشورة في The Laryngoscope؛ وتقدم تحليلًا مفيدًا بحسب الجرعة والسياق، لكن عدم وجود فرق دال بين الجرعات بعد الجراحة وعدم تجانس أدلة العيادة يحدان من أثرها على الممارسة.",
+      "stars_reason_en": "This clinical systematic review and meta-analysis is published in The Laryngoscope and offers useful dose- and context-based analysis, but the nonsignificant postoperative dose difference and heterogeneity in office-based evidence limit its immediate practice impact.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق المناقشة لأنها تقارن نتائج الجرعات ضمن سياقات implantation مختلفة، وتبرز حدود الاستدلال من مقارنات غير مباشرة ومتباينة.",
+      "jc_reason_en": "It merits discussion because it compares dose effects across implantation settings and highlights the limits of inference from heterogeneous evidence.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا تطور steroid-eluting sinus implants ونتائج dose-ranging، إذ قد تؤثر الأدلة المستقبلية في اختيار الجهاز والجرعة.",
+      "watch_detail_en": "Track steroid-eluting sinus implants and dose-ranging evidence, as future data may inform device and dose selection.",
+      "watch_type": "device",
+      "research_gap_ar": "هناك حاجة إلى RCTs مباشرة تقارن الجرعات في سياقات موحدة، مع endpoints سريرية متسقة ومتابعة طويلة الأمد.",
+      "research_gap_en": "Direct RCTs comparing doses in standardized settings, using consistent clinical endpoints and longer follow-up, are needed.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم systematic review وmeta-analysis عن dose-response لدى steroid-eluting sinus implants في CRS، منشورة في The Laryngoscope. ضمت المراجعة RCTs ودراسات مقارنة مستقبلية، واستخدمت تحليلًا كميًا للزرعات بعد الجراحة بجرعات mometasone furoate بين 370 و652 μg، بينما لخّصت الأدلة الخاصة بالزرعات الأعلى جرعة والمستخدمة في العيادة نوعيًا بسبب اختلاف setting وendpoints وتصميم الدراسات.\n\nبعد الجراحة، انخفضت معدلات التدخلات اللاحقة مع implants مقارنة بالعلاج الضابط، وكان overall OR يساوي 0.31، مع I² منخفض قدره 5%. بلغ OR نحو 0.37 لجرعة 370 μg و0.26 لجرعة 652 μg. لكن المقارنة بين الجرعتين لم تكن ذات دلالة إحصائية، إذ كان p-value يساوي 0.28؛ لذلك لا يمكن اعتبار هذا الفرق دليلًا على تفوق مؤكد للجرعة الأعلى.\n\nأما في الاستخدام داخل العيادة، فأظهر dose-ranging RCT أن جرعة 7500 μg حققت معدلات أعلى من استجابة SNOT-22 MCID مقارنة بجرعة 2500 μg، مع dose-dependent trend دال إحصائيًا. كما انخفضت الحاجة إلى rescue medical therapy مقارنة بـplacebo. ومع ذلك، تختلف هذه الأدلة عن سياق ما بعد الجراحة، فلا ينبغي دمج النتائج أو تفسيرها على أنها علاقة موحدة بين الجرعة والفائدة.\n\nالخلاصة السريرية أن steroid-eluting sinus implants تحسن بعض نتائج CRS، لكن dose وحده لا يتنبأ بالاستجابة. تؤثر implantation context واختلاف الأجهزة والنتائج المقاسة في الأثر. لا تستدعي هذه المراجعة تغييرًا فوريًا في اختيار الجرعة، لكنها مفيدة عند مناقشة الخيارات مع المرضى وتقييم الأدلة الخاصة بكل implant. وتحتاج الممارسة إلى RCTs مباشرة، بسياقات وendpoints موحدة، ومتابعة أطول لتحديد الجرعة المثلى.",
+      "audio_script_en": "Today we are reviewing a systematic review and meta-analysis of dose response in steroid-eluting sinus implants for CRS, published in The Laryngoscope. The review included RCTs and prospective comparative studies. It pooled postoperative implants containing 370 to 652 micrograms of mometasone furoate, while higher-dose office-based implants were synthesized qualitatively because their settings, endpoints, and study designs differed.\n\nIn the postoperative setting, implants reduced subsequent intervention rates compared with control treatment. The overall odds ratio was 0.31, with low heterogeneity, I-squared of 5%. The odds ratio was 0.37 for 370 micrograms and 0.26 for 652 micrograms. However, the between-dose comparison was not statistically significant, with a p-value of 0.28. So, the numerical difference does not establish that the higher postoperative dose is superior.\n\nFor office-based treatment, a dose-ranging RCT reported more SNOT-22 minimal clinically important difference responders with 7500 micrograms than with 2500 micrograms, with a significant dose-dependent trend. The higher-dose treatment also reduced rescue medical therapy compared with placebo. These results come from a different clinical context and should not be combined with postoperative findings as if they represented one uniform dose-response relationship.\n\nThe practical takeaway is that steroid-eluting sinus implants improve some CRS outcomes, but dose alone does not predict clinical benefit. Implantation context, device differences, and outcome measures matter. This review does not mandate an immediate change in dose selection, but it is useful when discussing treatment options and reviewing device-specific evidence. Direct RCTs with standardized settings and endpoints, as well as longer follow-up, are needed to identify optimal dosing.",
+      "mcq": [
+        {
+          "q_ar": "ما النتيجة المجمعة للزرعات بعد الجراحة مقارنة بالعلاج الضابط فيما يخص التدخلات اللاحقة؟",
+          "q_en": "What was the pooled postoperative effect of implants versus control on subsequent interventions?",
+          "options_ar": [
+            "أ) زيادة التدخلات اللاحقة (OR 1.31)",
+            "ب) انخفاض التدخلات اللاحقة (OR 0.31)",
+            "ج) عدم وجود أي أثر (OR 1.00)",
+            "د) انخفاض التدخلات اللاحقة فقط مع جرعة 370 μg"
+          ],
+          "options_en": [
+            "A) Increased subsequent interventions (OR 1.31)",
+            "B) Reduced subsequent interventions (OR 0.31)",
+            "C) No effect (OR 1.00)",
+            "D) Reduced interventions only with the 370 μg dose"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان overall OR للتدخلات اللاحقة 0.31، ما يشير إلى انخفاضها مع implants مقارنة بالعلاج الضابط.",
+          "explanation_en": "The overall odds ratio for subsequent interventions was 0.31, indicating fewer interventions with implants than with control treatment."
+        },
+        {
+          "q_ar": "هل كان الفرق بين جرعتي 370 و652 μg في التحليل بعد الجراحة ذا دلالة إحصائية؟",
+          "q_en": "Was the postoperative difference between the 370 and 652 μg doses statistically significant?",
+          "options_ar": [
+            "أ) نعم، p-value=0.01",
+            "ب) نعم، p-value=0.047",
+            "ج) لا، p-value=0.28",
+            "د) لا، لأن I² كان 100%"
+          ],
+          "options_en": [
+            "A) Yes, p=0.01",
+            "B) Yes, p=0.047",
+            "C) No, p=0.28",
+            "D) No, because I² was 100%"
+          ],
+          "answer": 2,
+          "explanation_ar": "لم يكن الفرق بين الجرعتين دالًا إحصائيًا؛ كان p-value للمقارنة بين الجرعتين 0.28.",
+          "explanation_en": "The between-dose difference was not statistically significant; the comparison p-value was 0.28."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن علاقة dose بالفائدة السريرية؟",
+          "q_en": "What is the most appropriate conclusion about dose and clinical benefit?",
+          "options_ar": [
+            "أ) الجرعة وحدها تحدد النتيجة في جميع السياقات",
+            "ب) الجرعات الأعلى أفضل دائمًا بعد الجراحة وفي العيادة",
+            "ج) لا فائدة سريرية لأي implant",
+            "د) تعتمد الفائدة المرصودة على dose وimplantation context، ولا يتنبأ dose وحده بالنتيجة"
+          ],
+          "options_en": [
+            "A) Dose alone determines outcomes in every setting",
+            "B) Higher doses are always better postoperatively and in the office",
+            "C) Implants provide no clinical benefit",
+            "D) Observed benefit depends on dose and implantation context; dose alone does not predict outcome"
+          ],
+          "answer": 3,
+          "explanation_ar": "خلصت المراجعة إلى أن النتائج تتأثر بالجرعة والسياق العلاجي، وأن dose وحده لا يفسر الفائدة بالكامل.",
+          "explanation_en": "The review concluded that outcomes vary with dose and treatment context, and that dose alone does not fully explain benefit."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026112601",
+      "title_ar": "ميدترونيك وكارل ستورز تتعاونان لتطوير حلول جراحية متكاملة للأنف والأذن والحنجرة",
+      "title_en": "Medtronic and KARL STORZ Collaborate on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-26",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أعلنت شركتا ميدترونيك وكارل ستورز عن تعاون يركز على حلول جراحية متكاملة لتخصص الأنف والأذن والحنجرة. ويشير الإعلان إلى سعي الشركتين إلى الجمع بين منتجاتهما، لكن التقرير المتاح لا يحدد المنتجات أو التفاصيل التقنية أو موعد الإطلاق أو الشروط التجارية. ولم يُعلن عن استحواذ أو قرار تنظيمي أو نتائج سريرية.",
+      "summary_en": "Medtronic and KARL STORZ announced a collaboration focused on integrated surgical solutions for ear, nose, and throat care. The announcement signals an effort to bring the companies’ offerings together, but the available report does not specify the products, technical details, launch timing, or commercial terms. No acquisition, regulatory decision, or clinical outcome was reported.",
+      "practice_change_ar": "لا يُتوقع أن يغيّر التعاون الممارسة السريرية فورًا؛ إذ ستعتمد قيمته العملية على التقنيات المحددة ومدى توافرها.",
+      "practice_change_en": "ENT surgeons should not expect an immediate change in practice; the collaboration’s practical value will depend on the specific technologies and their availability.",
+      "future_impact_ar": "قد يشير هذا التعاون إلى مزيد من التكامل بين منصات أجهزة الأنف والأذن والحنجرة وتقنيات التصوير، لكن أثره السريري والتجاري لا يزال غير واضح.",
+      "future_impact_en": "The partnership may signal further integration among ENT device and visualization platforms, though its clinical and commercial impact remains unclear.",
+      "why_important_ar": "إذا قدمت الشركتان حلولًا متوافقة، فقد تؤثر مسارات العمل المتكاملة في اختيار المعدات وكفاءة غرف العمليات لإجراءات الأنف والأذن والحنجرة.",
+      "why_important_en": "If the companies deliver interoperable solutions, integrated workflows could affect equipment selection and operating-room efficiency in ENT procedures.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "تعاون تجاري قد يهم الأطباء عند اختيار الأجهزة، لكن تفاصيل المنتجات والأثر السريري لم تُعلن.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "في خبر يهم قطاع أجهزة الأنف والأذن والحنجرة، أعلنت شركتا ميدترونيك وكارل ستورز عن تعاون لتطوير حلول جراحية متكاملة. قد يتيح هذا التعاون الجمع بين عروض الشركتين ضمن مسارات عمل أكثر تكاملًا في غرفة العمليات. لكن الخبر المتاح لا يوضح ماهية المنتجات أو التقنيات المشمولة، ولا يحدد موعد طرحها أو شروط التعاون التجارية. كما لا يتضمن الإعلان نتائج سريرية أو تغييرًا تنظيميًا، لذلك لا توجد حتى الآن معلومات تدعم تغيير الممارسة اليومية. بالنسبة إلى الجرّاحين، تكمن أهمية الخبر في احتمال أن يؤثر أي تكامل مستقبلي في اختيار المعدات أو كفاءة سير العمل. وسيكون من المهم متابعة التفاصيل المتعلقة بالتوافق بين الأنظمة، والتوافر، والتكلفة، وأي بيانات سريرية تُنشر لاحقًا. في الوقت الحالي، يُعد هذا تطورًا تجاريًا يستحق المتابعة، لا تغييرًا فوريًا في الرعاية.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026112602",
+      "title_ar": "شركات رائدة في طب الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية",
+      "title_en": "Leading ENT Companies Driving Medical Technology Innovation",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-26",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "نشرت SNS Insider مقالاً يسلط الضوء على شركات تسهم في الابتكار في التكنولوجيا الطبية بقطاع الأنف والأذن والحنجرة. ولا يحدد الخبر المتاح شركات بعينها أو منتجات أو صفقات أو قرارات تنظيمية أو نتائج سريرية. لذلك لا يتضمن تطوراً تجارياً أو سريرياً محدداً يمكن تقييمه.",
+      "summary_en": "SNS Insider published an article highlighting companies involved in medical technology innovation in the ENT sector. The supplied news item does not identify specific companies, products, transactions, regulatory decisions, or clinical findings. It therefore provides no concrete business or clinical development to assess.",
+      "practice_change_ar": "لا توجد إشارة إلى تغيير فوري في الممارسة السريرية، إذ لا يذكر الخبر تقنية محددة أو أدلة داعمة.",
+      "practice_change_en": "No immediate change to clinical practice is indicated because the item provides no specific technology or evidence.",
+      "future_impact_ar": "يلزم توفر معلومات إضافية عن التقنيات المحددة وحالتها التنظيمية ونتائجها السريرية لتحديد ما إذا كانت هذه التطورات ستؤثر في رعاية مرضى الأنف والأذن والحنجرة.",
+      "future_impact_en": "Further reporting on named technologies, regulatory status, and clinical outcomes would be needed to determine whether these developments may affect ENT care.",
+      "why_important_ar": "يشير العنوان إلى استمرار تطوير التكنولوجيا في مجال الأنف والأذن والحنجرة، لكن المعلومات المتاحة محدودة للغاية ولا تثبت أثراً سريرياً.",
+      "why_important_en": "The headline points to ongoing technology development in ENT, but the available information is too limited to establish a clinical impact.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "الأهمية محدودة لعدم ذكر تطور محدد أو بيانات سريرية أو تجارية قابلة للتقييم.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "يتناول عنوان منشور لدى SNS Insider شركات تقود الابتكار في التكنولوجيا الطبية بمجال الأنف والأذن والحنجرة. لكن الخبر المتاح لا يحدد أسماء الشركات أو التقنيات، ولا يورد تفاصيل عن منتجات جديدة أو استحواذات أو قرارات من إدارة الغذاء والدواء أو نتائج دراسات سريرية. لذلك لا يمكن استنتاج أثر مباشر على اختيار الأجهزة أو أساليب العلاج أو الممارسة اليومية للجراحين. قد يكون تطور التكنولوجيا مهماً للقطاع على المدى الطويل، لكن تقييم أهميته يتطلب معلومات محددة عن التقنية، واعتمادها التنظيمي، وفعاليتها وسلامتها لدى المرضى. في الوقت الحالي، لا يقدم هذا الخبر ما يستدعي تغييراً في الممارسة أو متابعة سريرية خاصة.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026112603",
+      "title_ar": "ميدترونيك تحصل على علامة المطابقة الأوروبية CE لمنصة Stealth AXiS الروبوتية لجراحة الأنف والأذن والحنجرة",
+      "title_en": "Medtronic Earns CE Mark for Stealth AXiS Robotic Platform in ENT Surgery",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-26",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "حصلت ميدترونيك على علامة المطابقة الأوروبية CE لمنصتها الروبوتية Stealth AXiS لاستخدامها في جراحة الأنف والأذن والحنجرة، وفقًا لموقع MassDevice. وتشير العلامة إلى استيفاء المنصة المتطلبات الأوروبية ذات الصلة لدخول السوق ضمن الاستخدام المقصود. ولم يحدد الإعلان الإجراءات أو الأسواق التي سيشملها الطرح الأولي. ويُعد ذلك إنجازًا تنظيميًا أوروبيًا، وليس إعلانًا عن موافقة إدارة الغذاء والدواء الأمريكية.",
+      "summary_en": "Medtronic has received a CE mark for its Stealth AXiS robotic platform for use in ENT surgery, according to MassDevice. The mark indicates that the platform has met applicable European Union requirements for market access in its intended use. The announcement does not specify which procedures or markets will be included in the initial rollout. It is a European regulatory milestone, not an FDA clearance announcement.",
+      "practice_change_ar": "قد تتيح علامة CE للجراحين في أوروبا إمكانية الوصول إلى المنصة، لكن أهميتها العملية ستعتمد على توفرها والإجراءات المعتمدة ومدى تبنيها محليًا.",
+      "practice_change_en": "The CE mark may expand European surgeons’ access to the platform, but its practical relevance will depend on availability, indicated procedures, and local adoption.",
+      "future_impact_ar": "قد يدعم هذا الإنجاز انتشار التقنية الروبوتية في تخصص الأنف والأذن والحنجرة إذا أثبتت الخبرة السريرية والتوفر والأدلة وجود قيمة ملموسة.",
+      "future_impact_en": "The milestone could support broader adoption of robotic technology in ENT if clinical experience, availability, and evidence demonstrate meaningful value.",
+      "why_important_ar": "قد توفر المنصات الروبوتية خيارات إضافية للإجراءات المدعومة بالتقنيات في تخصص الأنف والأذن والحنجرة، لكن الإعلان وحده لا يثبت تحقيق فوائد سريرية أو تحسن النتائج.",
+      "why_important_en": "Robotic platforms could add options for technology-assisted ENT procedures, although the announcement alone does not establish clinical benefits or improved outcomes.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 3,
+      "stars_reason_ar": "خبر تنظيمي مهم قد يوسع خيارات الجراحة الروبوتية في أوروبا، لكن تفاصيل الاستخدام والأثر السريري لم تُذكر.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "أعلنت ميدترونيك حصول منصة Stealth AXiS الروبوتية على علامة المطابقة الأوروبية CE لاستخدامها في جراحة الأنف والأذن والحنجرة. تمثل هذه العلامة خطوة تنظيمية تتيح تسويق المنصة في أوروبا ضمن الاستخدامات المعتمدة، لكنها لا تعني موافقة أمريكية من إدارة الغذاء والدواء. ولم يوضح الإعلان حتى الآن الإجراءات التي ستتوفر لها المنصة أو موعد بدء استخدامها على نطاق واسع. بالنسبة إلى جراحي الأنف والأذن والحنجرة، قد تفتح هذه الخطوة المجال أمام خيار تقني إضافي، لكن أثره العملي سيتوقف على التوفر المحلي، والتدريب، والتكلفة، وما ستظهره الخبرة السريرية من نتائج. لذلك، يُنظر إلى الخبر على أنه تطور مهم في سوق التقنيات الجراحية، مع الحاجة إلى معلومات إضافية لتقييم فائدته للمرضى والممارسة اليومية.",
+      "mcq": []
+    }
+  ]
+}
