@@ -1,0 +1,1471 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T12:07:09Z",
+  "articles": [
+    {
+      "pmid": "43100218",
+      "title_ar": "Kinetic oscillation stimulation by the Chordate System S101 in the treatment of non-allergic rhinitis (KOSNAR): a randomised controlled trial.",
+      "title_en": "Kinetic oscillation stimulation by the Chordate System S101 in the treatment of non-allergic rhinitis (KOSNAR): a randomised controlled trial.",
+      "journal": "The Journal of laryngology and otology",
+      "pub_date": "2026-Nov-27",
+      "doi": "10.1017/S0022215126106161",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43100218/",
+      "pdf_url": null,
+      "study_design": "Multicentre double-blind sham-controlled RCT; 224 patients analysed",
+      "summary_ar": "قيّمت هذه الدراسة متعددة المراكز، وهي double-blind sham-controlled RCT، ما إذا كان kinetic oscillation stimulation باستخدام Chordate System S101 أفضل من sham treatment لدى مرضى non-allergic rhinitis. جرى تحليل 224 مريضًا، وشارك كل مريض في مناسبتين للعلاج، وكان المخرج الأساسي تحسن nasal congestion score بعد ثلاثة أشهر. لم تختلف response rates إحصائيًا بين مجموعتي العلاج وsham، وكانت النسب 40% و46% على التوالي (p-value=0.30). تحسنت المجموعتان في total nasal symptom score وnasal congestion score وnasal obstruction and septoplasty effectiveness score، دون فروق مهمة بينهما. لم يتحسن peak nasal inspiratory flow في مجموعة العلاج. تخلص الدراسة إلى أن kinetic oscillation stimulation لم يتفوق على sham، ولا تدعم النتائج استخدامه لعلاج non-allergic rhinitis.",
+      "summary_en": "This multicentre, double-blind sham-controlled RCT evaluated kinetic oscillation stimulation with the Chordate System S101 for non-allergic rhinitis. A total of 224 patients were analysed, with treatment or sham delivered on two occasions; the primary outcome was nasal congestion score improvement at three months. Response rates were 40% with treatment and 46% with sham, with no significant difference (p=0.30). Both groups improved in total nasal symptom score, nasal congestion score, and nasal obstruction and septoplasty effectiveness score, but there were no significant between-group differences. Peak nasal inspiratory flow did not improve in the active-treatment group. The trial found no superiority over sham and does not support this intervention for non-allergic rhinitis.",
+      "practice_change_ar": "لا ينبغي اعتماد kinetic oscillation stimulation روتينيًا لعلاج non-allergic rhinitis بناءً على هذه النتائج.",
+      "practice_change_en": "Kinetic oscillation stimulation should not be adopted routinely for non-allergic rhinitis based on these results.",
+      "future_impact_ar": "قد تساعد الدراسات المستقبلية في تحديد ما إذا كانت هناك مجموعة فرعية تستفيد أو ما إذا كان sham response يفسر التحسن الملحوظ في المجموعتين.",
+      "future_impact_en": "Future studies may determine whether a patient subgroup benefits or whether the sham response explains the improvement observed in both groups.",
+      "why_important_ar": "تقدم الدراسة RCT تأكيديًا مضبوطًا يختبر جهازًا علاجيًا، وتجد عدم وجود فائدة إضافية على sham.",
+      "why_important_en": "This confirmatory controlled RCT tests a device-based treatment and finds no added benefit over sham.",
+      "vs_previous_ar": "على خلاف التوقع بأن kinetic oscillation stimulation قد يحسن أعراض non-allergic rhinitis، لم تجد هذه التجربة تفوقًا على sham treatment.",
+      "vs_previous_en": "Contrary to the expectation that kinetic oscillation stimulation may improve non-allergic rhinitis symptoms, this trial found no superiority over sham treatment.",
+      "stars": 3,
+      "stars_reason_ar": "تجربة RCT متعددة المراكز توفر دليلًا جيدًا على عدم تفوق الجهاز على sham، لكن المجلة ليست ضمن قائمة المجلات ذات الأولوية المحددة، والنتيجة لا تقدم علاجًا جديدًا فعالًا؛ لذلك التقييم متوسط.",
+      "stars_reason_en": "This multicentre RCT provides useful evidence that the device is not superior to sham, but the journal is not among the specified priority journals and the findings do not establish a new effective treatment; therefore, the rating is moderate.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق الدراسة النقاش في journal club لأنها تجربة sham-controlled كبيرة نسبيًا بنتيجة سلبية، مع تحسن واضح في كلا الذراعين واحتمال وجود أثر sham مهم.",
+      "jc_reason_en": "This is suitable for journal club because it is a relatively large sham-controlled trial with a negative result, improvement in both arms, and a potentially important sham response.",
+      "watch": true,
+      "watch_detail_ar": "يستحق Chordate System S101 المتابعة بوصفه جهازًا يستخدم kinetic oscillation stimulation، رغم أن هذه التجربة لم تثبت فائدة تتجاوز sham.",
+      "watch_detail_en": "The Chordate System S101 is worth tracking as a device using kinetic oscillation stimulation, although this trial did not demonstrate benefit beyond sham.",
+      "watch_type": "device",
+      "research_gap_ar": "تحتاج الأبحاث إلى توضيح سبب التحسن في ذراعي العلاج وsham، والتحقق مما إذا كانت خصائص معينة للمرضى تتنبأ باستجابة حقيقية للجهاز.",
+      "research_gap_en": "Further research should clarify the improvement in both the active and sham arms and assess whether specific patient characteristics predict a genuine response to the device.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم دراسة KOSNAR، وهي تجربة سريرية عشوائية متعددة المراكز اختبرت جهاز Chordate System S101 لعلاج non-allergic rhinitis. الفكرة العلاجية هي استخدام kinetic oscillation stimulation داخل الأنف، وقارنت الدراسة هذا التدخل بـ sham treatment مع تعمية مزدوجة. جرى تجنيد 279 مريضًا، لكن التحليل النهائي شمل 224 مريضًا، بواقع 112 في كل مجموعة. تلقى المرضى العلاج في مناسبتين، وكان المخرج الأساسي هو تحسن nasal congestion score بعد ثلاثة أشهر.\n\nالنتيجة الأساسية لم تُظهر تفوق الجهاز: بلغت response rates نحو 40% مع العلاج و46% مع sham، ولم يكن الفرق ذا دلالة إحصائية، إذ كان p-value يساوي 0.30. كذلك تحسنت المجموعتان في total nasal symptom score وnasal congestion score وnasal obstruction and septoplasty effectiveness score، لكن لم تظهر فروق مهمة بينهما. كما لم يتحسن peak nasal inspiratory flow في مجموعة العلاج. وبناءً على ذلك، خلص الباحثون إلى أن kinetic oscillation stimulation لا يتفوق على sham، وأن النتائج لا تدعم استخدامه لعلاج non-allergic rhinitis.\n\nما أهمية هذه الدراسة؟ إنها تجربة تأكيدية مضبوطة تختبر جهازًا علاجيًا، وتوفر دليلًا سريريًا عمليًا ضد افتراض وجود فائدة إضافية. التحسن في مجموعة sham يذكّرنا بأهمية sham control عند تقييم الأجهزة والإجراءات، إذ قد يظهر تحسن الأعراض دون أثر نوعي للتدخل. عمليًا، لا تبرر هذه النتائج اعتماد الجهاز بشكل روتيني لهذا الاستطباب. ومع ذلك، من المفيد متابعة التقنية، لأن أبحاثًا مستقبلية قد تدرس مجموعات فرعية أو تفسر أسباب التحسن في كلا الذراعين. تصلح الدراسة للنقاش في journal club بسبب تصميمها، ونتيجتها السلبية، وأهمية اختيار المخرج السريري وتفسير أثر sham.",
+      "audio_script_en": "Today we review the KOSNAR trial, a multicentre randomised study of the Chordate System S101 for non-allergic rhinitis. The device delivers kinetic oscillation stimulation intranasally, and the trial compared it with sham treatment under double blinding. Although 279 patients were recruited, 224 were included in the analysis, with 112 patients in each group. Treatment was delivered on two occasions, and the primary outcome was improvement in nasal congestion score at three months.\n\nThe key finding was that the device did not outperform sham. Response rates were 40 percent with active treatment and 46 percent with sham, with no statistically significant difference; the p-value was 0.30. Both groups also improved in total nasal symptom score, nasal congestion score, and nasal obstruction and septoplasty effectiveness score, but there were no significant between-group differences. Peak nasal inspiratory flow did not improve in the active-treatment group. The authors therefore concluded that kinetic oscillation stimulation was not superior to sham and that the findings do not support its use for non-allergic rhinitis.\n\nWhy does this matter? This confirmatory controlled trial provides clinically useful evidence about a device-based intervention and challenges the assumption that it offers a specific benefit. Improvement in the sham group highlights why sham controls are valuable when evaluating devices and procedures: symptoms may improve without a treatment-specific effect. For current practice, these results do not justify routine use of the device for this indication. The technology remains worth tracking, but future research would need to explain the improvement in both groups and determine whether any patient subgroup has a genuine response. This is a good journal-club paper because of its rigorous design, negative result, and relevance to interpreting sham effects and patient-reported outcomes.",
+      "mcq": [
+        {
+          "q_ar": "ما المخرج الأساسي في تجربة KOSNAR؟",
+          "q_en": "What was the primary outcome in the KOSNAR trial?",
+          "options_ar": [
+            "أ) تحسن nasal congestion score بعد ثلاثة أشهر",
+            "ب) تغير peak nasal inspiratory flow بعد أسبوع",
+            "ج) انخفاض عدد زيارات الطوارئ",
+            "د) تحسن EQ-5D-5L بعد عام"
+          ],
+          "options_en": [
+            "A) Improvement in nasal congestion score at three months",
+            "B) Change in peak nasal inspiratory flow at one week",
+            "C) Reduction in emergency visits",
+            "D) Improvement in EQ-5D-5L at one year"
+          ],
+          "answer": 0,
+          "explanation_ar": "كان المخرج الأساسي هو تحسن nasal congestion score بعد ثلاثة أشهر.",
+          "explanation_en": "The primary outcome was improvement in nasal congestion score at three months."
+        },
+        {
+          "q_ar": "ما النتيجة الرئيسية عند مقارنة kinetic oscillation stimulation بـ sham؟",
+          "q_en": "What was the main result when kinetic oscillation stimulation was compared with sham?",
+          "options_ar": [
+            "أ) تفوق العلاج بوضوح على sham",
+            "ب) عدم وجود فرق مهم في response rates",
+            "ج) تحسن peak nasal inspiratory flow في مجموعة العلاج فقط",
+            "د) تدهور الأعراض في مجموعة sham"
+          ],
+          "options_en": [
+            "A) Active treatment clearly outperformed sham",
+            "B) There was no significant difference in response rates",
+            "C) Peak nasal inspiratory flow improved only in the active-treatment group",
+            "D) Symptoms worsened in the sham group"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت response rates 40% مع العلاج و46% مع sham، دون فرق ذي دلالة إحصائية (p-value=0.30).",
+          "explanation_en": "Response rates were 40% with active treatment and 46% with sham, with no statistically significant difference (p=0.30)."
+        },
+        {
+          "q_ar": "ما الاستنتاج العملي الأنسب من هذه الدراسة؟",
+          "q_en": "What is the most appropriate practical conclusion from this trial?",
+          "options_ar": [
+            "أ) اعتماد الجهاز روتينيًا لكل مرضى non-allergic rhinitis",
+            "ب) استبدال جميع العلاجات الحالية بالجهاز",
+            "ج) عدم دعم استخدام الجهاز روتينيًا لغياب التفوق على sham",
+            "د) استخدام الجهاز فقط لتحسين peak nasal inspiratory flow"
+          ],
+          "options_en": [
+            "A) Routinely use the device for all patients with non-allergic rhinitis",
+            "B) Replace all current treatments with the device",
+            "C) Do not support routine use because it was not superior to sham",
+            "D) Use the device only to improve peak nasal inspiratory flow"
+          ],
+          "answer": 2,
+          "explanation_ar": "لم تثبت التجربة فائدة إضافية للجهاز على sham، ولذلك لا تدعم استخدامه الروتيني لهذا الاستطباب.",
+          "explanation_en": "The trial did not demonstrate added benefit over sham and therefore does not support routine use for this indication."
+        }
+      ]
+    },
+    {
+      "pmid": "43085749",
+      "title_ar": "Photographic Documentation Standards for Facial Plastic Surgery: An International Modified Delphi Consensus.",
+      "title_en": "Photographic Documentation Standards for Facial Plastic Surgery: An International Modified Delphi Consensus.",
+      "journal": "Facial plastic surgery : FPS",
+      "pub_date": "2026-Nov-25",
+      "doi": "10.1055/a-3013-0540",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43085749/",
+      "pdf_url": null,
+      "study_design": "International modified Delphi expert consensus; 16 panelists, 4 rounds",
+      "summary_ar": "تناولت الدراسة غياب معيار موحد لتوثيق الصور قبل وبعد الإجراءات في facial plastic and reconstructive surgery، رغم أهمية هذه الصور في تقييم النتائج المنشورة. شارك 16 facial plastic surgeons في modified Delphi study من أربع جولات، شملت تقييم statements على مقياس Likert من خمس نقاط مع تقديم feedback مجمّع بين الجولات. عُرّف consensus بوسيط rating لا يقل عن 4 أو لا يزيد عن 2، مع IQR لا يتجاوز 1، بينما تطلبت ratification في الجولة الرابعة قبول 70% على الأقل. من أصل 225 statement، جرى ratification لـ126، وفشل 15 في ratification، ولم تصل 84 إلى التصويت النهائي. بلغ وسيط rating للـstatements المعتمدة 5.0، وبلغ وسيط ratification vote نسبة 100%، لكن ستة مشاركين فقط أكملوا الجولة الرابعة. أنتجت اللجنة معياراً يغطي خصائص الصور العامة وثماني فئات من الإجراءات، مع اقتراح إدراجه في تعليمات المؤلفين بالمجلات.",
+      "summary_en": "This study addresses the lack of a uniform standard for before-and-after photography in facial plastic and reconstructive surgery. Sixteen facial plastic surgeons participated in a four-round modified Delphi study, rating statements on a five-point Likert scale with aggregate feedback between rounds. Consensus required a median rating of at least 4 or at most 2 and an IQR of 1 or less; final ratification required at least 70% acceptance. Of 225 statements, 126 were ratified, 15 failed ratification, and 84 did not reach the vote. Ratified statements had a median rating of 5.0 and a median ratification vote of 100%, although only six panelists completed Round 4. The resulting standard covers general image features and eight procedure categories and is intended for inclusion in journal author instructions.",
+      "practice_change_ar": "يمكن للممارسين والمجلات استخدام المعيار المقترح لتحسين اتساق توثيق الصور، لكنه لا يفرض تغييراً علاجياً فورياً.",
+      "practice_change_en": "Clinicians and journals can use the proposed standard to improve consistency in photographic documentation, but it does not mandate an immediate treatment change.",
+      "future_impact_ar": "قد يؤدي اعتماد المعيار في تعليمات المجلات إلى تحسين قابلية مقارنة النتائج المنشورة في facial plastic surgery.",
+      "future_impact_en": "Adoption in journal author instructions could improve the comparability of published outcomes in facial plastic surgery.",
+      "why_important_ar": "توثيق الصور قبل وبعد الإجراءات عنصر أساسي في الإبلاغ عن النتائج، لكن متطلباته كانت متفاوتة بين المجلات.",
+      "why_important_en": "Before-and-after photography is central to outcome reporting, yet requirements have varied across journals.",
+      "vs_previous_ar": "على خلاف المتطلبات السابقة المتفرقة المتعلقة بالمعدات والإضاءة والوضعية، يقدم هذا العمل معياراً توافقياً موحداً يشمل خصائص الصور وفئات الإجراءات.",
+      "vs_previous_en": "Unlike prior fragmented requirements for equipment, lighting, and positioning, this work proposes a unified consensus standard covering image features and procedure categories.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة توافق خبراء بطريقة modified Delphi تقدم معياراً مفيداً لتوحيد التوثيق، لكنها لا تختبر نتائج سريرية، كما أن ستة مشاركين فقط أكملوا جولة ratification؛ لذلك تستحق 3/5.",
+      "stars_reason_en": "This modified Delphi expert consensus offers a useful documentation standard but does not test clinical outcomes, and only six panelists completed the ratification round; therefore, it merits 3/5.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it proposes a practical standard for publication and documentation, while its limited participation in ratification raises questions about the strength of consensus.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم تقييم ما إذا كان تطبيق المعيار يحسن جودة الصور وقابلية مقارنة النتائج، مع تكرار ratification بمشاركة أوسع.",
+      "research_gap_en": "Further work should assess whether implementation improves image quality and outcome comparability, and repeat ratification with broader participation.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نستعرض اليوم دراسة بعنوان Photographic Documentation Standards for Facial Plastic Surgery: An International Modified Delphi Consensus. تتناول الدراسة مشكلة عملية في facial plastic and reconstructive surgery: صور قبل وبعد الإجراءات عنصر مهم في عرض النتائج، لكن لم يكن هناك معيار موحد ومعتمد على نطاق التخصص، وكانت متطلبات المجلات السابقة متفاوتة في ما يتعلق بالمعدات والإضاءة والوضعية ونسب إعادة الإنتاج.\n\nاستخدم الباحثون modified Delphi study من أربع جولات. دُعي 21 facial plastic surgeons، ووافق 16 على المشاركة. في الجولات الثلاث الأولى قيّم المشاركون statements بمقياس Likert من خمس نقاط، وتلقوا feedback مجمعاً بين الجولات. عُرّف consensus بوسيط rating يبلغ 4 أو أكثر للاتفاق، أو 2 أو أقل للاختلاف، مع IQR لا يتجاوز 1. أما الجولة الرابعة فكانت للتصديق، واشترطت قبول 70% على الأقل.\n\nمن 225 statement، صودق على 126، وفشل 15 في التصديق، ولم تصل 84 إلى التصويت. كان وسيط rating للعبارات المعتمدة 5.0، ووسيط التصويت على ratification بلغ 100%. لكن هناك قيداً مهماً: ستة مشاركين فقط أكملوا الجولة الرابعة، ما يحد من الاطمئنان إلى مدى تمثيل التصويت النهائي للمجموعة كاملة.\n\nالنتيجة معيار مقترح يغطي خصائص عامة للصور وثماني فئات من الإجراءات، بهدف إدراجه في تعليمات المؤلفين بالمجلات. هذه ليست دراسة تقيس تحسناً في النتائج السريرية، ولا تفرض تغييراً فورياً في العلاج؛ لكنها تقدم أداة عملية للممارسين والمحررين كي تصبح الصور المنشورة أكثر اتساقاً وقابلية للمقارنة. تستحق الدراسة 3 من 5، مع confidence متوسطة، لأنها تقدم توافقاً مفيداً لكن الدليل قائم على آراء الخبراء. الخطوة التالية هي اختبار تطبيق المعيار على جودة الصور وقابلية مقارنة النتائج، مع إشراك مجموعة أوسع في ratification.",
+      "audio_script_en": "Today we review “Photographic Documentation Standards for Facial Plastic Surgery: An International Modified Delphi Consensus.” The study addresses a practical problem in facial plastic and reconstructive surgery: before-and-after photographs are central to reporting outcomes, but there has been no enforced, specialty-wide standard. Previous journal requirements varied across equipment, lighting, positioning, and reproduction ratios.\n\nThe investigators used a four-round modified Delphi process. Of 21 invited facial plastic surgeons, 16 agreed to participate. In the first three rounds, panelists rated statements on a five-point Likert scale and received aggregate feedback between rounds. Consensus was defined as a median rating of at least 4 for agreement or no more than 2 for disagreement, with an IQR of 1 or less. Round 4 was a ratification vote, requiring at least 70% acceptance.\n\nOf 225 statements, 126 were ratified, 15 failed ratification, and 84 did not reach the vote. Ratified statements had a median rating of 5.0, and the median ratification vote was 100%. An important limitation is that only six panelists completed Round 4, which makes the representativeness of the final vote less certain.\n\nThe result is a proposed standard covering general image features and eight procedure categories, intended for adoption in journal author instructions. This study does not measure clinical outcomes or require an immediate treatment change. Instead, it offers a practical framework for clinicians and editors to make published photographs more consistent and outcomes easier to compare. We rate it 3 out of 5, with moderate confidence: the consensus is useful, but the evidence is expert opinion, with limited participation in final ratification. Future work should test whether adopting the standard improves image quality and comparability, and should seek broader participation in ratification.",
+      "mcq": [
+        {
+          "q_ar": "ما المنهج الذي استخدمته الدراسة للوصول إلى معيار التصوير؟",
+          "q_en": "What method did the study use to develop the photography standard?",
+          "options_ar": [
+            "أ) RCT متعدد المراكز",
+            "ب) modified Delphi study من أربع جولات",
+            "ج) Retrospective cohort study",
+            "د) Systematic review"
+          ],
+          "options_en": [
+            "A) A multicenter RCT",
+            "B) A four-round modified Delphi study",
+            "C) A retrospective cohort study",
+            "D) A systematic review"
+          ],
+          "answer": 1,
+          "explanation_ar": "استخدمت الدراسة modified Delphi study بأربع جولات شملت تقييم statements ثم تصويت ratification.",
+          "explanation_en": "The study used a four-round modified Delphi process with statement ratings followed by a ratification vote."
+        },
+        {
+          "q_ar": "كم statement جرى ratification لها؟",
+          "q_en": "How many statements were ratified?",
+          "options_ar": [
+            "أ) 84",
+            "ب) 15",
+            "ج) 126",
+            "د) 225"
+          ],
+          "options_en": [
+            "A) 84",
+            "B) 15",
+            "C) 126",
+            "D) 225"
+          ],
+          "answer": 2,
+          "explanation_ar": "من أصل 225 statement، جرى ratification لـ126؛ وفشل 15 ولم تصل 84 إلى التصويت.",
+          "explanation_en": "Of 225 statements, 126 were ratified; 15 failed ratification and 84 did not reach the vote."
+        },
+        {
+          "q_ar": "ما القيد الأبرز في تفسير نتيجة ratification؟",
+          "q_en": "What is the key limitation when interpreting the ratification result?",
+          "options_ar": [
+            "أ) لم تُستخدم طريقة consensus",
+            "ب) شارك ستة panelists فقط في الجولة الرابعة",
+            "ج) لم تُقيّم أي صور",
+            "د) لم تشمل الدراسة facial plastic surgeons"
+          ],
+          "options_en": [
+            "A) No consensus method was used",
+            "B) Only six panelists completed Round 4",
+            "C) No photographs were evaluated",
+            "D) The study did not include facial plastic surgeons"
+          ],
+          "answer": 1,
+          "explanation_ar": "رغم مشاركة 16 panelists في الدراسة، أكمل ستة فقط الجولة الرابعة، ما قد يحد من تمثيل التصويت النهائي.",
+          "explanation_en": "Although 16 panelists participated in the study, only six completed Round 4, potentially limiting the representativeness of the final vote."
+        }
+      ]
+    },
+    {
+      "pmid": "43084524",
+      "title_ar": "Chemosensory and somatosensory profiles in craniofacial pain: A comparison of chronic rhinosinusitis and migraine.",
+      "title_en": "Chemosensory and somatosensory profiles in craniofacial pain: A comparison of chronic rhinosinusitis and migraine.",
+      "journal": "Chemical senses",
+      "pub_date": "2026-Nov-25",
+      "doi": "10.1093/chemse/bjag035",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43084524/",
+      "pdf_url": null,
+      "study_design": "Comparative cross-sectional study n=68",
+      "summary_ar": "قارنت هذه الدراسة sensory profiles لدى 30 مشاركًا لديهم migraine، و18 لديهم chronic rhinosinusitis (CRS)، و20 مشاركًا أصحاء. شملت التقييمات olfactory function وintranasal trigeminal function، إلى جانب quantitative sensory testing وقياس allodynia والصحة النفسية. ارتبط CRS بانخفاض Sniffin' Sticks scores وانخفاض trigeminal lateralization scores لدى المشاركات مقارنةً بالمجموعات الأخرى. في المقابل، أظهر المشاركون المصابون بـ migraine chemosensory function محفوظة، مع انخفاض electrical detection thresholds في مواقع trigeminal وextra-trigeminal وارتفاع allodynia scores. تتوافق هذه الأنماط مع احتمال predominance لآلية peripheral inflammation في CRS وcentral sensitization في migraine، لكنها لا تثبت السببية. حجم العينة محدود، ويشير الباحثون إلى ضرورة تكرار النتائج في cohorts أكبر وأكثر توازنًا بحسب العمر والجنس.",
+      "summary_en": "This comparative study included 30 participants with migraine, 18 with chronic rhinosinusitis (CRS), and 20 healthy controls.\nAssessments covered olfactory and intranasal trigeminal function, quantitative sensory testing, allodynia, and mental health.\nCRS was associated with lower Sniffin' Sticks scores and, among female participants, lower trigeminal lateralization scores.\nMigraine participants had preserved chemosensory function but lower electrical detection thresholds at trigeminal and extra-trigeminal sites and higher allodynia scores.\nThe contrasting profiles are consistent with peripheral inflammation in CRS and central sensitization in migraine, but do not establish causality.\nLarger cohorts balanced for age and sex are needed to confirm these findings.",
+      "practice_change_ar": "لا تغيّر النتائج الممارسة السريرية اليوم، لكنها تدعم عدم افتراض أن ألم الوجه المنسوب إلى CRS وmigraine يعكسان النمط الحسي نفسه.",
+      "practice_change_en": "These findings do not change clinical practice today, but support avoiding the assumption that facial pain attributed to CRS and migraine reflects the same sensory profile.",
+      "future_impact_ar": "قد تساعد cohorts أكبر في تحديد ما إذا كانت sensory testing تميّز بصورة موثوقة بين مساهمة CRS ومساهمة migraine في ألم الوجه.",
+      "future_impact_en": "Larger cohorts may clarify whether sensory testing can reliably distinguish CRS-related from migraine-related contributions to facial pain.",
+      "why_important_ar": "توضح الدراسة اختلافًا محتملًا بين chemosensory loss في CRS وgeneralized hypersensitivity في migraine لدى مرضى ألم الوجه.",
+      "why_important_en": "The study highlights a potential contrast between chemosensory loss in CRS and generalized hypersensitivity in migraine among patients with craniofacial pain.",
+      "vs_previous_ar": "بدلًا من التعامل مع أعراض الأنف وألم الوجه كنمط حسي موحّد، تقارن الدراسة مباشرةً sensory profiles في CRS وmigraine.",
+      "vs_previous_en": "Rather than treating nasal symptoms and facial pain as a single sensory pattern, this study directly compares sensory profiles in CRS and migraine.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة مقارنة مقطعية صغيرة أضافت معرفة مفيدة عن اختلاف sensory profiles، لكن نتائجها لا تثبت السببية ولا تغيّر التدبير السريري حاليًا.",
+      "stars_reason_en": "This small comparative cross-sectional study adds useful knowledge about differing sensory profiles, but does not establish causality or currently change clinical management.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it directly compares sensory profiles in two common conditions with potentially overlapping symptoms, while raising questions about sample size and causal interpretation.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى cohorts أكبر ومتوازنة بحسب العمر والجنس، مع تقييم prospectively لتحديد قدرة sensory testing على التمييز بين CRS وmigraine ومتابعة التغيرات بمرور الوقت.",
+      "research_gap_en": "Larger age- and sex-balanced cohorts with prospective assessment are needed to test whether sensory testing distinguishes CRS from migraine and tracks changes over time.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم دراسة تقارن الأنماط الحسية في chronic rhinosinusitis، أو CRS، وmigraine، وهما حالتان قد تتداخل أعراضهما عند المرضى الذين يعانون ألم الوجه. شملت الدراسة 68 مشاركًا: 30 لديهم migraine، و18 لديهم CRS، و20 مشاركًا أصحاء.\n\nقيّم الباحثون olfactory function وintranasal trigeminal function، وأجروا quantitative sensory testing لعتبات الإحساس والألم في مواقع مختلفة. كما استخدموا استبيانات لقياس allodynia والصحة النفسية، وأجروا مقارنات مع ضبط إحصائي للعمر والجنس.\n\nكانت السمة الأبرز في مجموعة CRS هي انخفاض chemosensory function، بما في ذلك انخفاض Sniffin' Sticks scores. كما ظهرت لدى المشاركات المصابات بـ CRS درجات أقل في trigeminal lateralization مقارنةً بمجموعات المقارنة. أما مجموعة migraine فحافظت على chemosensory perception، لكنها أظهرت electrical detection thresholds أقل في مواقع trigeminal وخارجها، إضافة إلى allodynia أعلى.\n\nيفسر الباحثون هذا الاختلاف على أنه متوافق مع predominance لآلية peripheral inflammation في CRS، مقابل central sensitization في migraine. لكن هذه دراسة مقارنة وليست تجربة تثبت آليات المرض أو السببية، لذلك ينبغي التعامل مع هذا التفسير بحذر. كذلك فإن حجم العينة محدود، وتحتاج النتائج إلى تأكيد في مجموعات أكبر وأكثر توازنًا بحسب العمر والجنس.\n\nما الذي يعنيه ذلك للممارسة؟ لا تقدم الدراسة اختبارًا جاهزًا أو تغييرًا مباشرًا في العلاج، لكنها تذكّرنا بأن ألم الوجه المصاحب لأعراض الأنف لا يعني بالضرورة وجود النمط الحسي نفسه في كل مريض. قد يكون التفريق بين CRS وmigraine مهمًا عند تقييم الأعراض المتداخلة، لكن هذه النتائج وحدها لا تكفي لتغيير التشخيص أو التدبير.\n\nتستحق الدراسة النقاش لأنها تقارن الحالتين مباشرةً وتطرح سؤالًا قابلًا للبحث: هل يمكن لـ sensory testing أن يساعد مستقبلًا في التمييز بين مساهمة CRS ومساهمة migraine؟ الخطوة التالية هي إجراء دراسات prospectively أكبر، مع متابعة المشاركين وتقييم مدى ارتباط النتائج بالأعراض والاستجابة للعلاج.",
+      "audio_script_en": "Today we review a study comparing sensory profiles in chronic rhinosinusitis, or CRS, and migraine—conditions whose symptoms can overlap in people with facial pain. The study included 68 participants: 30 with migraine, 18 with CRS, and 20 healthy controls.\n\nThe researchers assessed olfactory and intranasal trigeminal function, performed quantitative sensory testing of sensory and pain thresholds at several sites, and used questionnaires to measure allodynia and mental health. Group comparisons statistically accounted for age and sex.\n\nThe main finding in the CRS group was reduced chemosensory function, including lower Sniffin' Sticks scores. Female participants with CRS also had lower trigeminal lateralization scores than comparison groups. In contrast, the migraine group had preserved chemosensory perception, but lower electrical detection thresholds at trigeminal and extra-trigeminal sites, as well as higher allodynia scores.\n\nThe authors interpret this contrast as consistent with a predominantly peripheral inflammatory process in CRS and central sensitization in migraine. However, this was a comparative study, not an experiment that establishes mechanisms or causality, so that interpretation should be treated cautiously. The sample was also small, and the findings need confirmation in larger cohorts with better age and sex balance.\n\nWhat does this mean for practice? The study does not offer a ready-to-use test or a direct change in treatment. It does, however, remind clinicians that facial pain accompanied by nasal symptoms may not reflect the same sensory pattern in every patient. Distinguishing CRS from migraine may be relevant when symptoms overlap, but these findings alone are not sufficient to change diagnosis or management.\n\nThis paper is worth discussing because it directly compares the two conditions and raises a testable question: could sensory testing eventually help distinguish CRS-related from migraine-related contributions to symptoms? Next steps include larger prospective studies, follow-up over time, and assessment of whether sensory profiles relate to symptoms or treatment response.",
+      "mcq": [
+        {
+          "q_ar": "ما النمط الحسي الأبرز الذي ارتبط بـ CRS في هذه الدراسة؟",
+          "q_en": "Which sensory pattern was most associated with CRS in this study?",
+          "options_ar": [
+            "أ) انخفاض chemosensory function",
+            "ب) ارتفاع allodynia مع chemosensory function محفوظة",
+            "ج) ارتفاع Sniffin' Sticks scores",
+            "د) غياب أي اختلاف حسي عن المشاركين الأصحاء"
+          ],
+          "options_en": [
+            "A) Reduced chemosensory function",
+            "B) Higher allodynia with preserved chemosensory function",
+            "C) Higher Sniffin' Sticks scores",
+            "D) No sensory differences from healthy participants"
+          ],
+          "answer": 0,
+          "explanation_ar": "ارتبط CRS بانخفاض Sniffin' Sticks scores، ما يشير إلى انخفاض chemosensory function.",
+          "explanation_en": "CRS was associated with lower Sniffin' Sticks scores, indicating reduced chemosensory function."
+        },
+        {
+          "q_ar": "أي نتيجة ميزت مجموعة migraine مقارنةً بمجموعتي CRS والأصحاء؟",
+          "q_en": "Which finding distinguished the migraine group from the CRS and healthy groups?",
+          "options_ar": [
+            "أ) انخفاض olfactory function",
+            "ب) chemosensory function محفوظة مع hypersensitivity وallodynia أعلى",
+            "ج) انخفاض trigeminal lateralization لدى جميع المشاركين",
+            "د) انخفاض allodynia scores"
+          ],
+          "options_en": [
+            "A) Reduced olfactory function",
+            "B) Preserved chemosensory function with hypersensitivity and higher allodynia",
+            "C) Reduced trigeminal lateralization in all participants",
+            "D) Lower allodynia scores"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهرت مجموعة migraine chemosensory function محفوظة، وelectrical detection thresholds أقل، وallodynia scores أعلى.",
+          "explanation_en": "The migraine group had preserved chemosensory function, lower electrical detection thresholds, and higher allodynia scores."
+        },
+        {
+          "q_ar": "ما القيد الأساسي الذي ينبغي أخذه في الاعتبار عند تفسير النتائج؟",
+          "q_en": "What is a key limitation to consider when interpreting the findings?",
+          "options_ar": [
+            "أ) الدراسة شملت حيوانات فقط",
+            "ب) لم تتضمن الدراسة أي مجموعة مقارنة",
+            "ج) حجم العينة محدود ولا تثبت الدراسة السببية",
+            "د) اقتصرت الدراسة على تقييم olfactory function"
+          ],
+          "options_en": [
+            "A) The study included only animals",
+            "B) The study had no comparison groups",
+            "C) The sample was limited and the study does not establish causality",
+            "D) The study assessed olfactory function only"
+          ],
+          "answer": 2,
+          "explanation_ar": "كانت العينة 68 مشاركًا، والتصميم المقارن لا يثبت السببية؛ لذا يلزم تأكيد النتائج في cohorts أكبر.",
+          "explanation_en": "The sample included 68 participants, and the comparative design cannot establish causality; larger cohorts are needed to confirm the findings."
+        }
+      ]
+    },
+    {
+      "pmid": "43097159",
+      "title_ar": "Surgical anatomy of the hypoglossal canal - systematic review with meta-analysis.",
+      "title_en": "Surgical anatomy of the hypoglossal canal - systematic review with meta-analysis.",
+      "journal": "Surgical and radiologic anatomy : SRA",
+      "pub_date": "2026-Nov-26",
+      "doi": "10.1007/s00276-026-04079-3",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43097159/",
+      "pdf_url": null,
+      "study_design": "Systematic review and meta-analysis of 33 studies (10,132 skulls)",
+      "summary_ar": "شملت هذه systematic review مع meta-analysis عدد 33 دراسة و10,132 skulls لتقييم prevalence وmorphometry وsurgical landmarks الخاصة بـ hypoglossal canal (HC). بلغ pooled prevalence للـ typical non-septated HC نحو 60.39%، بينما شملت variations septations غير كاملة بنسبة 18.85% وكاملة بنسبة 17.74%. أظهرت cadaveric studies prevalence أعلى للـ complete septation من imaging studies، بنسبة 35.39% مقابل 9.03% (p-value=0.0070). بلغ متوسط المسافة بين HC وهوامش occipital condyle نحو 10.0–10.8 mm، ولم تظهر فروق مهمة بحسب sex أو laterality. كانت heterogeneity كبيرة مع احتمال وجود publication bias، كما قد لا تكشف standard preoperative CT جميع septations. تشير النتائج إلى أهمية الانتباه للاختلافات التشريحية أثناء التخطيط لـ condylar drilling، لكنها لا تثبت أن تغيير الممارسة الجراحية يحسن النتائج.",
+      "summary_en": "This systematic review and meta-analysis included 33 studies and 10,132 skulls to assess hypoglossal canal (HC) prevalence, morphometry, and surgical landmarks.\nThe pooled prevalence of a typical, non-septated HC was 60.39%; incomplete and complete septations occurred in 18.85% and 17.74%, respectively.\nCadaveric studies reported more complete septations than imaging studies (35.39% vs 9.03%; p=0.0070).\nThe mean distance between the HC and the margins of the occipital condyle was approximately 10.0–10.8 mm, with no significant differences by sex or side.\nSubstantial heterogeneity and possible publication bias limit confidence in the pooled estimates.\nThe findings support careful anatomical assessment before condylar drilling, while suggesting standard preoperative CT may miss some septations.",
+      "practice_change_ar": "لا تفرض النتائج تغييرًا فوريًا للممارسة، لكنها تدعم مراجعة موضع hypoglossal canal بعناية في التصوير قبل condylar drilling وعدم افتراض غياب septations.",
+      "practice_change_en": "The findings do not mandate an immediate practice change, but support careful review of the hypoglossal canal on preoperative imaging and caution against assuming septations are absent before condylar drilling.",
+      "future_impact_ar": "قد تساعد دراسات imaging موحدة ومقارنة مباشرة مع التشريح cadaveric على تحديد مدى قدرة CT على كشف septations وتحسين التخطيط الجراحي.",
+      "future_impact_en": "Standardized imaging studies directly compared with cadaveric anatomy may clarify CT detection of septations and improve surgical planning.",
+      "why_important_ar": "قد يؤدي عدم إدراك variations في hypoglossal canal إلى تعريض CN XII أو البنى الوريدية للإصابة أثناء skull-base surgery.",
+      "why_important_en": "Unrecognized hypoglossal canal variations may put CN XII or venous structures at risk during skull-base surgery.",
+      "vs_previous_ar": "تجمع هذه الدراسة تقديرات prevalence وmorphometry من دراسات متعددة، وتبرز فجوة ملحوظة بين كشف septations في cadaveric studies وimaging studies.",
+      "vs_previous_en": "This review pools prevalence and morphometric estimates across studies and highlights a marked difference in septation detection between cadaveric and imaging studies.",
+      "stars": 3,
+      "stars_reason_ar": "هذه systematic review وmeta-analysis كبيرة ذات صلة مباشرة بـ skull-base surgery، لكنها تعاني heterogeneity وpotential publication bias، كما أن فائدتها سريرية تشريحية ولا تثبت تغييرًا في النتائج أو الممارسة؛ لذا تستحق 3/5.",
+      "stars_reason_en": "This large systematic review and meta-analysis is directly relevant to skull-base surgery, but heterogeneity and potential publication bias limit certainty. It provides useful anatomical information without demonstrating improved outcomes or a practice-changing intervention, supporting 3/5 stars.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for journal club because of the large difference between cadaveric and imaging estimates and the resulting questions about heterogeneity and the reliability of preoperative imaging.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى دراسات مقارنة مستقبلية تستخدم بروتوكولات CT موحدة وتتحقق من كشف septations مقابل التشريح المباشر.",
+      "research_gap_en": "Prospective studies using standardized CT protocols and validating septation detection against direct anatomical findings are needed.",
+      "subspecialty": "skull_base",
+      "audio_script_ar": "نراجع اليوم دراسة بعنوان Surgical anatomy of the hypoglossal canal، وهي systematic review مع meta-analysis شملت 33 دراسة و10,132 skulls. تركز الدراسة على hypoglossal canal، أو HC، وهو ممر مهم لـ CN XII وبنى وريدية، وقد تؤثر اختلافاته التشريحية في عمليات skull-base مثل transcondylar وfar-lateral approaches.\n\nكانت النتيجة الأساسية أن نحو 60.39% فقط من الحالات لديها HC نموذجي غير مقسّم. أما septations غير الكاملة فبلغت 18.85%، والكاملة 17.74%، ما يعني أن الاختلافات ليست نادرة. ومن النتائج اللافتة أن cadaveric studies سجلت complete septation بنسبة 35.39%، مقارنة بـ 9.03% في imaging studies، مع p-value يساوي 0.0070. يثير ذلك احتمال أن standard preoperative CT لا يكشف جميع التقسيمات العظمية أو قد لا يلتقطها بالقدر نفسه الذي يظهر في الفحص التشريحي.\n\nقدرت الدراسة المسافة المتوسطة بين HC وهوامش occipital condyle بنحو 10.0 إلى 10.8 mm. ولم تجد فروقًا مهمة بحسب sex أو laterality. قد تكون هذه المسافة مرجعًا تشريحيًا مفيدًا عند التخطيط، لكنها ليست قاعدة آمنة موحدة لكل مريض، ولا ينبغي أن تحل محل مراجعة الصور والتقييم الفردي.\n\nمن نقاط القوة حجم العينة وتجميع الأدلة، لكن يجب تفسير النتائج بحذر بسبب substantial heterogeneity واحتمال publication bias. كما أن اختلاف prevalence بين أنواع الدراسات قد يعكس اختلاف طرق القياس أو الكشف، وليس بالضرورة اختلافًا تشريحيًا حقيقيًا فقط. لا تقيس الدراسة معدلات إصابة CN XII أو تثبت أن تعديل الخطة الجراحية بناءً على النتائج يحسن outcomes.\n\nالخلاصة العملية: هذه معلومات مفيدة لجراحي skull-base، لكنها لا تفرض تغييرًا فوريًا للممارسة. عند التخطيط لـ condylar drilling، راجع موضع HC بعناية ولا تفترض غياب septations لمجرد عدم ظهورها بوضوح على CT. وتحتاج المرحلة التالية إلى دراسات imaging موحدة، مع مقارنة مباشرة بالتشريح cadaveric، لتحديد مدى حساسية التصوير وما إذا كانت هذه المعرفة تقلل المضاعفات.",
+      "audio_script_en": "Today we are reviewing “Surgical anatomy of the hypoglossal canal,” a systematic review and meta-analysis of 33 studies involving 10,132 skulls. The hypoglossal canal, or HC, carries CN XII and venous structures. Its anatomy matters during skull-base procedures, including transcondylar and far-lateral approaches.\n\nThe pooled estimate found a typical, non-septated HC in 60.39% of cases. Incomplete septations occurred in 18.85%, and complete septations in 17.74%. In other words, variations were common rather than exceptional. A notable result was the difference between study types: complete septation was reported in 35.39% of cadaveric studies, compared with 9.03% of imaging studies, with a p-value of 0.0070. This raises concern that standard preoperative CT may not identify every bony partition, although differences in methods may also contribute.\n\nThe reported mean distance between the HC and the margins of the occipital condyle was approximately 10.0 to 10.8 millimeters. There were no significant differences by sex or side. This distance may serve as a practical anatomical reference, but it should not be treated as a universal safety boundary or a substitute for reviewing each patient’s imaging.\n\nThe review’s strengths include its large pooled sample and broad anatomical assessment. However, the results require caution because heterogeneity was substantial and an asymmetry test suggested possible publication bias. The gap between cadaveric and imaging estimates could reflect detection limitations, differences in measurement, or variation in the included studies. Importantly, the review does not report whether these findings reduce CN XII injuries or improve surgical outcomes.\n\nFor practice, this is useful anatomical knowledge, but it does not justify an immediate change in surgical technique. Before condylar drilling, surgeons should carefully assess the HC and avoid assuming that septations are absent simply because they are not apparent on routine CT. Further studies using standardized imaging and direct anatomical validation are needed to establish detection accuracy and determine whether this knowledge changes complication rates.",
+      "mcq": [
+        {
+          "q_ar": "ما pooled prevalence للـ typical non-septated hypoglossal canal في هذه الدراسة؟",
+          "q_en": "What was the pooled prevalence of a typical, non-septated hypoglossal canal?",
+          "options_ar": [
+            "أ) 18.85%",
+            "ب) 35.39%",
+            "ج) 60.39%",
+            "د) 73.34%"
+          ],
+          "options_en": [
+            "A) 18.85%",
+            "B) 35.39%",
+            "C) 60.39%",
+            "D) 73.34%"
+          ],
+          "answer": 2,
+          "explanation_ar": "قدرت الدراسة pooled prevalence للـ typical non-septated HC بنحو 60.39%.",
+          "explanation_en": "The review estimated the pooled prevalence of a typical, non-septated HC at 60.39%."
+        },
+        {
+          "q_ar": "كيف اختلفت prevalence للـ complete septation بين cadaveric وimaging studies؟",
+          "q_en": "How did complete septation prevalence differ between cadaveric and imaging studies?",
+          "options_ar": [
+            "أ) 9.03% في cadaveric و35.39% في imaging",
+            "ب) 35.39% في cadaveric و9.03% في imaging",
+            "ج) كانت 17.74% في كلا النوعين",
+            "د) لم تُسجل complete septations في imaging studies"
+          ],
+          "options_en": [
+            "A) 9.03% in cadaveric studies and 35.39% in imaging studies",
+            "B) 35.39% in cadaveric studies and 9.03% in imaging studies",
+            "C) 17.74% in both study types",
+            "D) No complete septations were reported in imaging studies"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت prevalence للـ complete septation أعلى في cadaveric studies: 35.39% مقابل 9.03% في imaging studies.",
+          "explanation_en": "Complete septation prevalence was higher in cadaveric studies: 35.39% compared with 9.03% in imaging studies."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن استخدام المسافة إلى occipital condyle؟",
+          "q_en": "What is the most appropriate interpretation of the distance to the occipital condyle?",
+          "options_ar": [
+            "أ) تمثل حدًا آمنًا موحدًا يغني عن مراجعة imaging",
+            "ب) لا توجد علاقة تشريحية ذات صلة بالـ HC",
+            "ج) قد تكون مرجعًا تشريحيًا عمليًا، لكنها لا تغني عن التقييم الفردي",
+            "د) تثبت أن CT يكشف جميع septations"
+          ],
+          "options_en": [
+            "A) It is a universal safety boundary that removes the need to review imaging",
+            "B) There is no relevant anatomical relationship to the HC",
+            "C) It may be a practical anatomical reference but does not replace individual assessment",
+            "D) It proves that CT detects all septations"
+          ],
+          "answer": 2,
+          "explanation_ar": "المسافة المتوسطة المقدرة نحو 10.0–10.8 mm، ويمكن استخدامها كمرجع، لكن ينبغي تفسيرها ضمن anatomy والتصوير الخاص بكل مريض.",
+          "explanation_en": "The estimated mean distance was about 10.0–10.8 mm and may be a reference, but it must be interpreted alongside each patient’s anatomy and imaging."
+        }
+      ]
+    },
+    {
+      "pmid": "43099826",
+      "title_ar": "Multiple Revision Surgery and Postoperative Recurrence in Chronic Rhinosinusitis With Nasal Polyps.",
+      "title_en": "Multiple Revision Surgery and Postoperative Recurrence in Chronic Rhinosinusitis With Nasal Polyps.",
+      "journal": "The Laryngoscope",
+      "pub_date": "2026-Nov-26",
+      "doi": "10.1002/lary.71087",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43099826/",
+      "pdf_url": null,
+      "study_design": "Retrospective cohort n=571",
+      "summary_ar": "قيّمت هذه الدراسة retrospective العلاقة بين تاريخ revision surgery وخطر recurrence بعد endoscopic sinus surgery لدى 571 مريضًا مصابًا بـ chronic rhinosinusitis with nasal polyps (CRSwNP)، مع متابعة لمدة 24 شهرًا. قُسّم المرضى إلى مجموعات primary surgery وsingle revision وmultiple revision. كان معدل recurrence أعلى لدى المرضى ذوي تاريخ multiple revisions مقارنةً بمن خضعوا إلى primary surgery. ارتبط recurrence أيضًا بالعمر الأكبر وارتفاع body mass index ووجود allergic rhinitis أو asthma أو smoking history. في multivariable Cox regression، ارتبطت multiple revision surgery بصورة مستقلة بزيادة خطر recurrence (HR=1.926، p=0.003)، بينما لم يظهر ارتباط مستقل لـ single revision. وأظهر Kaplan-Meier انخفاضًا مستمرًا في recurrence-free survival لدى مجموعة multiple revision خلال المتابعة. تشير النتائج إلى أن هؤلاء المرضى قد يحتاجون إلى postoperative management مخصص، لكن الدراسة لا تثبت أن تكرار الجراحة بحد ذاته يسبب recurrence.",
+      "summary_en": "This retrospective cohort evaluated whether revision history was associated with postoperative recurrence among 571 patients with CRSwNP followed for 24 months after endoscopic sinus surgery. Patients were categorized as having primary surgery, a single revision, or multiple revisions. Recurrence was more frequent in patients with multiple prior revisions than in those undergoing primary surgery. Older age, higher body mass index, allergic rhinitis, asthma, and smoking history were also more common among patients with recurrence. In multivariable Cox regression, multiple revision surgery was independently associated with recurrence (HR=1.926, p=0.003), whereas a single revision was not. Kaplan-Meier analysis showed lower recurrence-free survival over follow-up in the multiple-revision group. These findings identify a higher-risk group but do not establish that prior surgery itself causes recurrence.",
+      "practice_change_ar": "يمكن استخدام تاريخ multiple revisions لتحديد مرضى CRSwNP الذين قد يستفيدون من متابعة postoperative أكثر تخصيصًا، لكن النتائج وحدها لا تبرر تغيير الخطة العلاجية.",
+      "practice_change_en": "A history of multiple revisions can help identify patients with CRSwNP who may need more individualized postoperative follow-up, but these findings alone do not justify changing treatment.",
+      "future_impact_ar": "قد تدعم النتائج تطوير نماذج لتقدير خطر recurrence ودراسات مستقبلية تختبر استراتيجيات متابعة وعلاج مخصصة لهذه الفئة.",
+      "future_impact_en": "The findings may inform recurrence-risk models and future studies testing tailored follow-up and treatment strategies for this group.",
+      "why_important_ar": "توضح الدراسة أن المرضى الذين خضعوا إلى multiple revisions يشكلون فئة مرتبطة بخطر recurrence أعلى رغم ضبط عوامل متعددة.",
+      "why_important_en": "The study identifies patients with multiple prior revisions as a group associated with higher recurrence risk even after adjustment for several factors.",
+      "vs_previous_ar": "تضيف الدراسة ارتباطًا مستقلًا بين multiple revisions وrecurrence، وتفرّق هذا الارتباط عن single revision، لكنها لا تثبت علاقة سببية.",
+      "vs_previous_en": "The study adds an adjusted association between multiple revisions and recurrence, distinguishing it from a single revision, but does not establish causality.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة retrospective cohort كبيرة (n=571) منشورة في The Laryngoscope، ما يدعم فائدتها السريرية؛ لكن التصميم الرصدي وعدم إثبات السببية يجعلانها دليلًا داعمًا لا ممارسةً مغيرة.",
+      "stars_reason_en": "This large retrospective cohort (n=571) in The Laryngoscope provides clinically useful evidence, but its observational design and inability to establish causality make it informative rather than practice-changing.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for discussion of confounding by disease severity and whether prior operation count is a marker of more severe CRSwNP or an independent recurrence risk factor.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "يلزم إجراء دراسات prospective متعددة المراكز لتحديد عوامل الخطر المتبقية واختبار ما إذا كانت postoperative strategies المخصصة تقلل recurrence لدى مرضى multiple revisions.",
+      "research_gap_en": "Prospective multicenter studies are needed to identify residual risk factors and test whether tailored postoperative strategies reduce recurrence in patients with multiple revisions.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم دراسة من The Laryngoscope تبحث في العلاقة بين عدد عمليات revision السابقة واحتمال recurrence بعد endoscopic sinus surgery لدى مرضى chronic rhinosinusitis with nasal polyps، أو CRSwNP. الدراسة retrospective وشملت 571 مريضًا أكملوا متابعة مدتها 24 شهرًا. صُنّف المرضى إلى primary surgery، وsingle revision، وmultiple revision.\n\nكانت النتيجة الأساسية أن المرضى ذوي تاريخ multiple revisions عانوا recurrence أكثر من مجموعة primary surgery. كما كان المرضى الذين حدث لديهم recurrence أكبر سنًا، وذوي body mass index أعلى، وأكثر احتمالًا لوجود allergic rhinitis أو asthma أو smoking history. في multivariable Cox regression، بقيت multiple revision مرتبطة بزيادة خطر recurrence، مع hazard ratio بلغ 1.926 وp-value يساوي 0.003. أما single revision فلم يظهر ارتباط مستقل. كذلك أظهر Kaplan-Meier انخفاضًا في recurrence-free survival لدى مجموعة multiple revision خلال المتابعة.\n\nما أهمية ذلك سريريًا؟ يمكن أن يساعد تاريخ multiple revisions على التعرف إلى مجموعة عالية الخطورة تستحق postoperative follow-up أكثر تخصيصًا، بدل التعامل مع جميع المرضى بالطريقة نفسها. لكن الدراسة لا تثبت أن العمليات السابقة تسبب recurrence؛ فقد يكون تكرار الجراحة علامة على مرض أشد أو عوامل أخرى غير مقاسة. لذلك لا تدعم النتائج وحدها تغييرًا علاجيًا فوريًا أو تكرار الجراحة، بل تدعم تقدير الخطورة والنقاش الفردي حول المتابعة.\n\nتُعد هذه دراسة كبيرة ومفيدة للنقاش في journal club، خصوصًا حول confounding by disease severity وحدود التحليل retrospective. والخطوة التالية هي دراسات prospective متعددة المراكز لاختبار ما إذا كانت خطط المتابعة والعلاج المخصصة تقلل recurrence في هذه الفئة. الخلاصة: multiple revision history إشارة مهمة إلى ارتفاع خطر recurrence، لكنها ليست دليلًا على السببية ولا وصفة علاجية بحد ذاتها.",
+      "audio_script_en": "Today we review a study in The Laryngoscope examining whether the number of prior revision operations is associated with recurrence after endoscopic sinus surgery in patients with chronic rhinosinusitis with nasal polyps, or CRSwNP. This retrospective cohort included 571 patients who completed 24 months of follow-up. Patients were grouped as having primary surgery, a single revision, or multiple revisions.\n\nThe main finding was that recurrence was more frequent among patients with multiple prior revisions than among those undergoing primary surgery. Patients with recurrence were also older, had a higher body mass index, and more often had allergic rhinitis, asthma, or a smoking history. In multivariable Cox regression, multiple revision surgery remained associated with recurrence, with a hazard ratio of 1.926 and a p-value of 0.003. A single revision was not independently associated. Kaplan-Meier analysis also showed lower recurrence-free survival in the multiple-revision group during follow-up.\n\nWhy does this matter clinically? A history of multiple revisions may help clinicians recognize a higher-risk group that could benefit from more individualized postoperative follow-up. However, the study does not show that prior operations cause recurrence. Multiple operations may instead be a marker of more severe disease or of other unmeasured factors. The findings therefore do not, by themselves, mandate an immediate change in treatment or support repeated surgery; they support risk assessment and individualized discussion of follow-up.\n\nThis is a large, clinically relevant study and a useful journal-club topic, particularly for discussing confounding by disease severity and the limitations of retrospective analysis. Prospective multicenter research should test whether tailored follow-up and treatment strategies actually reduce recurrence in this group. The takeaway is that multiple revision history is an important marker of higher recurrence risk, but it is not proof of causation or a treatment prescription.",
+      "mcq": [
+        {
+          "q_ar": "ما حجم مجموعة المرضى التي شملتها الدراسة؟",
+          "q_en": "How many patients were included in the study?",
+          "options_ar": [
+            "أ) 48",
+            "ب) 105",
+            "ج) 418",
+            "د) 571"
+          ],
+          "options_en": [
+            "A) 48",
+            "B) 105",
+            "C) 418",
+            "D) 571"
+          ],
+          "answer": 3,
+          "explanation_ar": "شملت الدراسة 571 مريضًا أكملوا 24 شهرًا من المتابعة.",
+          "explanation_en": "The study included 571 patients who completed 24 months of follow-up."
+        },
+        {
+          "q_ar": "أي مجموعة أظهرت ارتباطًا مستقلًا بزيادة postoperative recurrence في multivariable Cox regression؟",
+          "q_en": "Which group was independently associated with increased postoperative recurrence in multivariable Cox regression?",
+          "options_ar": [
+            "أ) primary surgery",
+            "ب) single revision",
+            "ج) multiple revision",
+            "د) لم ترتبط أي مجموعة بالـ recurrence"
+          ],
+          "options_en": [
+            "A) Primary surgery",
+            "B) Single revision",
+            "C) Multiple revision",
+            "D) No group was associated with recurrence"
+          ],
+          "answer": 2,
+          "explanation_ar": "ارتبطت multiple revision بصورة مستقلة بزيادة recurrence (HR=1.926، p=0.003)، بينما لم يظهر ذلك مع single revision.",
+          "explanation_en": "Multiple revision was independently associated with increased recurrence (HR=1.926, p=0.003), whereas single revision was not."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأكثر ملاءمة عند تطبيق نتائج الدراسة سريريًا؟",
+          "q_en": "What is the most appropriate clinical interpretation of the findings?",
+          "options_ar": [
+            "أ) العمليات السابقة ثبت أنها تسبب recurrence",
+            "ب) multiple revision history قد تحدد فئة أعلى خطورة، لكن الدراسة لا تثبت السببية",
+            "ج) single revision ترفع خطر recurrence بصورة مستقلة",
+            "د) ينبغي إجراء revision surgery لكل مريض لديه recurrence"
+          ],
+          "options_en": [
+            "A) Prior operations have been proven to cause recurrence",
+            "B) Multiple revision history may identify a higher-risk group, but the study does not prove causality",
+            "C) A single revision independently increases recurrence risk",
+            "D) Revision surgery should be performed for every patient with recurrence"
+          ],
+          "answer": 1,
+          "explanation_ar": "التصميم retrospective يبيّن ارتباطًا ولا يثبت أن العمليات السابقة هي سبب recurrence؛ وقد تعكس multiple revisions شدة المرض أو عوامل أخرى.",
+          "explanation_en": "The retrospective design shows an association, not proof that prior operations cause recurrence; multiple revisions may reflect disease severity or other factors."
+        }
+      ]
+    },
+    {
+      "pmid": "43096056",
+      "title_ar": "Exploring Patient-Reported Experiences of Empty Nose Syndrome: A Thematic Analysis of Online Forum Posts.",
+      "title_en": "Exploring Patient-Reported Experiences of Empty Nose Syndrome: A Thematic Analysis of Online Forum Posts.",
+      "journal": "The Annals of otology, rhinology, and laryngology",
+      "pub_date": "2026-Nov-26",
+      "doi": "10.1177/00034894261511063",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43096056/",
+      "pdf_url": null,
+      "study_design": "Thematic analysis of 364 Reddit posts",
+      "summary_ar": "حللت الدراسة 364 منشورًا من منتدى r/Emptynosesyndrome نُشرت بين 1 يناير 2024 و1 يناير 2025 لاستكشاف تجارب الأشخاص الذين يكتبون عن Empty Nose Syndrome (ENS). صُنفت المنشورات باستخدام قاموس كلمات محدد مسبقًا مع مراجعة يدوية لعينة، كما صنف مراجعان نبرة كل منشور إلى إيجابية أو محايدة أو سلبية. كان الندم على الجراحة الموضوع الأكثر شيوعًا، وظهر في 160 منشورًا (44%)، وكثيرًا ما ارتبط بالشعور بأن مخاطر ENS لم تُشرح قبل الجراحة. تضمن 101 منشور (28%) إشارات إلى ضيق نفسي مثل anxiety أو depression أو suicidality، بينما وصف 18 منشورًا (5%) medical dismissal وذكر 19 منشورًا (5%) استخدام alcohol أو drugs للتكيف. بلغ اتفاق المراجعين κ = 0.82، لكن طبيعة بيانات Reddit لا تثبت انتشار هذه التجارب بين جميع المرضى أو العلاقة السببية بالجراحة. تشير النتائج إلى أهمية التواصل الواضح حول المخاطر والاستماع إلى مخاوف المرضى، لكنها لا تقدم دليلًا على تدخل علاجي محدد.",
+      "summary_en": "This study analyzed 364 posts from the r/Emptynosesyndrome subreddit published between January 1, 2024, and January 1, 2025. Posts were coded using a predefined keyword dictionary with manual verification of a subset, and two reviewers classified their tone. Surgical regret was the most frequent theme, appearing in 160 posts (44%); many writers felt ENS risk had not been disclosed before surgery. Emotional distress, including references to anxiety, depression, or suicidality, appeared in 101 posts (28%). Medical dismissal was described in 18 posts (5%), and 19 posts (5%) mentioned alcohol or drug use as coping strategies. Reviewer agreement was high (κ = 0.82), but online forum posts cannot establish population prevalence or causation. The findings highlight communication and support needs without evaluating a specific clinical intervention.",
+      "practice_change_ar": "لا تبرر هذه الدراسة تغييرًا علاجيًا محددًا، لكنها تدعم مناقشة مخاطر ENS بوضوح قبل جراحات الأنف والاستماع بجدية إلى الأعراض والضيق النفسي.",
+      "practice_change_en": "This study does not justify a specific treatment change, but supports clear discussion of ENS risk before nasal surgery and taking symptoms and psychological distress seriously.",
+      "future_impact_ar": "قد تساعد هذه النتائج في تطوير أبحاث مستقبلية عن جودة التثقيف قبل الجراحة ومسارات الدعم والتقييم النفسي لمرضى ENS.",
+      "future_impact_en": "These findings may inform future research on the quality of preoperative counseling and support and psychological assessment pathways for people with ENS.",
+      "why_important_ar": "تسلط الدراسة الضوء على مخاوف المرضى وتجاربهم مع الندم والضيق والشعور بعدم التصديق، وهي جوانب قد لا تظهر في التقييمات السريرية المعتادة.",
+      "why_important_en": "The study highlights patient concerns about regret, distress, and feeling dismissed—experiences that may be missed in routine clinical assessments.",
+      "vs_previous_ar": "بدلًا من تقييم علاج أو نتائج جراحية، تقدم الدراسة تحليلًا وصفيًا جديدًا لروايات ENS المنشورة في منتدى إلكتروني، ولا تثبت أن هذه الموضوعات تمثل جميع المرضى.",
+      "vs_previous_en": "Rather than evaluating treatment or surgical outcomes, this study offers a new descriptive analysis of ENS narratives in an online forum, without establishing that these themes represent all patients.",
+      "stars": 3,
+      "stars_reason_ar": "تحليل موضوعي وصفي لـ364 منشورًا، وهو مفيد لفهم تجارب المرضى لكنه يعتمد على عينة منتقاة ذاتيًا من Reddit ولا يغير التدبير السريري مباشرة؛ لذا يستحق 3 نجوم.",
+      "stars_reason_en": "This descriptive thematic analysis of 364 posts offers useful insight into patient experiences, but relies on a self-selected Reddit sample and does not directly change clinical management; therefore, 3 stars.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for journal club because it presents a novel analysis of ENS narratives and allows discussion of Reddit sampling bias and keyword-based coding limitations.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تحتاج الأبحاث المستقبلية إلى دراسات متعددة المراكز تستخدم عينات سريرية ممثلة وأدوات معتمدة لقياس الأعراض والضيق النفسي وتجارب الإفصاح عن المخاطر قبل الجراحة.",
+      "research_gap_en": "Future research should use representative, multicenter clinical samples and validated measures of symptoms, psychological distress, and preoperative risk disclosure experiences.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "تتناول هذه الدراسة تجارب الأشخاص الذين يكتبون عن Empty Nose Syndrome، أو ENS، في منتدى Reddit. حلل الباحثون 364 منشورًا نُشرت خلال عام 2024، وصنفوا محتواها ضمن موضوعات محددة، منها وصف الأعراض، والضيق النفسي، والشعور بعدم التصديق من مقدمي الرعاية، والندم على الجراحة، واستراتيجيات التكيف. كما صنف مراجعان نبرة المنشورات، وبلغ اتفاقهما مستوى مرتفعًا، مع Cohen’s kappa بقيمة 0.82.\n\nكان الندم على الجراحة الموضوع الأشيع، وظهر في 44% من المنشورات. أشار كثير من الكتّاب إلى شعورهم بأن مخاطر ENS لم تُناقش معهم قبل الجراحة. وظهر الضيق النفسي، بما في ذلك anxiety وdepression أو الإشارة إلى suicidality، في 28% من المنشورات. كما وصفت نسبة صغيرة تجارب medical dismissal أو استخدام alcohol أو drugs للتكيف.\n\nما الذي تعنيه النتائج للممارسة؟ لا تختبر الدراسة علاجًا أو استراتيجية استشارية، ولذلك لا تغير التدبير السريري مباشرة. لكنها تذكر اختصاصيي الأنف والأذن والحنجرة بأهمية شرح المخاطر المحتملة بوضوح قبل جراحات الأنف، والاستماع إلى المرضى الذين يصفون إحساسًا متناقضًا بالانسداد أو مشكلات في الإحساس بتدفق الهواء، والانتباه إلى الضيق النفسي عند الحاجة.\n\nمن المهم تفسير الأرقام بحذر: المنشورات مأخوذة من منتدى إلكتروني، ومَن يختار الكتابة فيه قد يختلف عن مجموع المرضى. لذلك لا تمثل نسب الموضوعات انتشارها بين جميع المصابين بـENS، ولا تثبت أن الجراحة سببت كل تجربة مذكورة. كما أن الترميز بالكلمات ومراجعة عينة فقط قد لا يلتقطان السياق الكامل لكل منشور.\n\nتكمن قيمة الدراسة في تقديم منظور يركز على صوت المرضى، وليس في إثبات علاج جديد. وهي تصلح لنقاش نادي المجلة حول حدود بيانات التواصل الاجتماعي وكيفية تحسين التواصل والدعم. والخطوة البحثية التالية هي دراسات سريرية أكثر تمثيلًا تستخدم مقاييس معتمدة للأعراض والضيق النفسي، وتقيّم جودة الإفصاح عن المخاطر قبل الجراحة.",
+      "audio_script_en": "This study explores experiences shared by people posting about Empty Nose Syndrome, or ENS, on Reddit. The authors analyzed 364 posts from the r/Emptynosesyndrome subreddit published during 2024. They coded posts for themes including symptom descriptions, emotional distress, perceived medical dismissal, surgical regret, and coping strategies. Two reviewers also classified the tone of each post, with high agreement: Cohen’s kappa was 0.82.\n\nSurgical regret was the most common theme, appearing in 44% of posts. Many writers expressed frustration that ENS risk had not been discussed before surgery. Emotional distress—including references to anxiety, depression, or suicidality—appeared in 28% of posts. Smaller proportions described medical dismissal or alcohol and drug use as coping strategies.\n\nWhat does this mean for clinical practice? The study did not test a treatment or counseling intervention, so it does not establish a new management approach. However, it reinforces the value of clear preoperative discussion of potential risks, careful listening to patients reporting paradoxical obstruction or altered airflow sensation, and attention to psychological distress when appropriate.\n\nThe findings need cautious interpretation. Reddit users are a self-selected group, so the reported proportions do not represent the prevalence of these experiences among all people with ENS. The analysis also cannot establish that surgery caused every experience described. Keyword-based coding, even with manual review of a subset, may miss context or themes not captured by the predefined categories.\n\nThe contribution is a patient-centered perspective, not evidence for a new treatment. The article is useful for journal club discussion, especially around social-media sampling and the interpretation of online narratives. Future studies should recruit more representative clinical samples, use validated measures of symptoms and distress, and assess the quality of preoperative risk communication.",
+      "mcq": [
+        {
+          "q_ar": "ما الموضوع الأكثر شيوعًا في منشورات Reddit التي حللتها الدراسة؟",
+          "q_en": "What was the most frequent theme in the Reddit posts analyzed?",
+          "options_ar": [
+            "أ) استراتيجيات التكيف",
+            "ب) الندم على الجراحة",
+            "ج) الشعور بعدم التصديق الطبي",
+            "د) استخدام alcohol أو drugs"
+          ],
+          "options_en": [
+            "A) Coping strategies",
+            "B) Surgical regret",
+            "C) Perceived medical dismissal",
+            "D) Alcohol or drug use"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان الندم على الجراحة الموضوع الأكثر شيوعًا، وظهر في 160 منشورًا، أي 44% من العينة.",
+          "explanation_en": "Surgical regret was the most frequent theme, appearing in 160 posts, or 44% of the sample."
+        },
+        {
+          "q_ar": "ما القيد الأهم عند تفسير نسب الموضوعات في هذه الدراسة؟",
+          "q_en": "What is the main limitation when interpreting the proportions of themes in this study?",
+          "options_ar": [
+            "أ) اقتصرت الدراسة على بيانات حيوانية",
+            "ب) لم تتضمن المنشورات أي نتائج",
+            "ج) عينة Reddit ذاتية الاختيار ولا تمثل بالضرورة جميع مرضى ENS",
+            "د) لم يصنف أي مراجع نبرة المنشورات"
+          ],
+          "options_en": [
+            "A) The study was limited to animal data",
+            "B) The posts contained no results",
+            "C) The self-selected Reddit sample may not represent all people with ENS",
+            "D) No reviewers classified post tone"
+          ],
+          "answer": 2,
+          "explanation_ar": "قد تختلف خصائص من ينشرون في Reddit عن جميع المصابين بـENS، لذلك لا يمكن اعتبار نسب الموضوعات تقديرات لانتشارها في مجتمع المرضى.",
+          "explanation_en": "People who post on Reddit may differ from all people with ENS, so theme proportions cannot be treated as prevalence estimates for the patient population."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن أثر الدراسة على الممارسة السريرية؟",
+          "q_en": "Which conclusion best describes the study's implications for clinical practice?",
+          "options_ar": [
+            "أ) تثبت فاعلية علاج جديد لـENS",
+            "ب) تفرض تغييرًا فوريًا في التقنية الجراحية",
+            "ج) تدعم التواصل الواضح حول المخاطر والاستماع إلى مخاوف المرضى، دون إثبات تدخل علاجي محدد",
+            "د) تثبت أن كل جراحة أنفية تسبب ENS"
+          ],
+          "options_en": [
+            "A) It proves the effectiveness of a new ENS treatment",
+            "B) It mandates an immediate change in surgical technique",
+            "C) It supports clear risk communication and listening to patient concerns, without proving a specific intervention",
+            "D) It proves that all nasal surgery causes ENS"
+          ],
+          "answer": 2,
+          "explanation_ar": "الدراسة وصفية وتعتمد على منشورات إلكترونية؛ لذا تدعم الانتباه للتواصل وتجارب المرضى، لكنها لا تختبر علاجًا أو تثبت علاقة سببية.",
+          "explanation_en": "This descriptive study of online posts supports attention to communication and patient experiences, but it tests no treatment and establishes no causal relationship."
+        }
+      ]
+    },
+    {
+      "pmid": "43098838",
+      "title_ar": "Intrinsic Susceptibility of the Left vs Right Recurrent Laryngeal Nerve to Non-Iatrogenic Paralysis: A Systematic Review.",
+      "title_en": "Intrinsic Susceptibility of the Left vs Right Recurrent Laryngeal Nerve to Non-Iatrogenic Paralysis: A Systematic Review.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "pub_date": "2026-Nov-26",
+      "doi": "10.1016/j.jvoice.2026.10.058",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43098838/",
+      "pdf_url": "https://doi.org/10.1016/j.jvoice.2026.10.058",
+      "study_design": "Systematic review of 23 studies; 840 patients",
+      "summary_ar": "بحثت هذه systematic review ما إذا كان شيوع non-iatrogenic unilateral vocal fold paralysis في الجانب الأيسر يمكن أن يرتبط باختلافات عصبية عضلية داخلية، وليس فقط بطول ومسار left recurrent laryngeal nerve. شملت المراجعة 23 دراسة و840 مريضًا، مع تحليل حالات idiopathic paralysis وحالات paralysis بعد intubation قصير لإجراءات خارج الرأس والرقبة والصدر. كان 69.3% من حالات idiopathic paralysis ضمن الدراسات ذات الاستقصاء الكافي في الجانب الأيسر، مقارنةً بـ67.7% في الدراسات ذات الاستقصاء غير الكافي. وفي مجموعة postintubation، كانت 67.9% من الحالات في الجانب الأيسر. تشير النتائج إلى استمرار predominance للجانب الأيسر حتى في مجموعات لا تفسرها بوضوح إصابة مرضية أو جراحية محددة، لكنها لا تثبت وجود آلية عصبية عضلية داخلية. لذلك لا تغيّر النتائج التدبير السريري الحالي، وتدعم إجراء أبحاث إضافية لتحديد أسباب هذا الاختلاف وإمكاناته العلاجية.",
+      "summary_en": "This systematic review examined whether the greater frequency of left-sided non-iatrogenic unilateral vocal fold paralysis may reflect intrinsic neuromuscular differences, rather than being explained solely by the left recurrent laryngeal nerve’s longer course. It included 23 studies and 840 patients with idiopathic paralysis or paralysis after short-term intubation for procedures outside the head, neck, and thorax. In idiopathic cases from studies with an adequate workup, 69.3% were left-sided; in studies with an inadequate workup, 67.7% were left-sided. In the postintubation group, 67.9% of cases were left-sided. These findings show a consistent left-sided predominance in the selected groups but do not establish an intrinsic neuromuscular mechanism. The results do not change current clinical management and support further research into the causes and possible therapeutic implications of this asymmetry.",
+      "practice_change_ar": "لا تغيّر هذه النتائج التقييم أو التدبير الحالي لـ unilateral vocal fold paralysis، لكنها تؤكد أهمية عدم افتراض أن كل حالة idiopathic ذات سبب عصبي عضلي داخلي مثبت.",
+      "practice_change_en": "These findings do not change current evaluation or management of unilateral vocal fold paralysis, but reinforce that an intrinsic neuromuscular cause should not be assumed in every idiopathic case.",
+      "future_impact_ar": "قد تساعد الأبحاث التي تحدد الاختلافات العصبية العضلية بين الجانبين على تفسير تفاوت الإصابة وتوجيه خيارات علاجية مستقبلية.",
+      "future_impact_en": "Research identifying neuromuscular differences between sides may explain the disparity in paralysis and inform future treatment options.",
+      "why_important_ar": "تُظهر المراجعة أن predominance للجانب الأيسر موجود حتى في مجموعات لا يُعرف فيها سبب جراحي أو مرضي محدد.",
+      "why_important_en": "The review shows that left-sided predominance persists in groups without a clearly identified surgical or disease-related cause.",
+      "vs_previous_ar": "تتجاوز التفسيرات التشريحية التقليدية المرتبطة بطول ومسار left recurrent laryngeal nerve، وتطرح احتمال مساهمة عوامل عصبية عضلية داخلية دون إثباتها.",
+      "vs_previous_en": "Beyond traditional anatomical explanations involving the length and course of the left recurrent laryngeal nerve, the review raises—but does not prove—a possible intrinsic neuromuscular contribution.",
+      "stars": 3,
+      "stars_reason_ar": "هذه systematic review ذات تصميم قوي نسبيًا وتجمع 23 دراسة، لكن النتائج وصفية ولا تثبت آلية سببية أو تغيّر الممارسة؛ لذا تستحق 3 من 5 نجوم.",
+      "stars_reason_en": "This systematic review has a relatively strong design and synthesizes 23 studies, but its descriptive findings establish neither causation nor a practice change; therefore, it merits 3 out of 5 stars.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for discussing how to distinguish anatomical factors from neuromuscular hypotheses and how variation in workup quality for cases labeled idiopathic affects interpretation.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "تلزم دراسات مستقبلية ذات استقصاء موحد ومقارنة مباشرة بين الجانبين لتحديد ما إذا كانت هناك اختلافات عصبية عضلية داخلية تفسر predominance للجانب الأيسر.",
+      "research_gap_en": "Future studies with standardized diagnostic workups and direct side-to-side comparisons are needed to determine whether intrinsic neuromuscular differences explain the left-sided predominance.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "نستعرض اليوم systematic review بعنوان «Intrinsic Susceptibility of the Left vs Right Recurrent Laryngeal Nerve to Non-Iatrogenic Paralysis». السؤال هو: هل يفسر طول ومسار left recurrent laryngeal nerve وحدهما شيوع unilateral vocal fold paralysis في الجانب الأيسر، أم قد تسهم أيضًا اختلافات عصبية عضلية داخلية؟\n\nجمعت المراجعة 23 دراسة شملت 840 مريضًا، وركزت على حالتين: idiopathic paralysis، وحالات paralysis بعد intubation قصير لإجراءات خارج الرأس والرقبة والصدر. واستُبعدت الحالات المرتبطة بمرض محدد أو جراحة معروفة. كما فصل الباحثون الدراسات التي قدمت استقصاءً كافيًا لدعم وصف الحالة بأنها idiopathic عن الدراسات ذات الاستقصاء غير الكافي.\n\nفي مجموعة idiopathic ذات الاستقصاء الكافي، كان 69.3% من الحالات في الجانب الأيسر. وفي الدراسات ذات الاستقصاء غير الكافي، بلغت النسبة 67.7%. أما مجموعة postintubation، فكانت 67.9% من الحالات يسارية. إذن، يظهر تفاوت متقارب بين المجموعات، مع غلبة الجانب الأيسر.\n\nما الذي تعنيه هذه النتائج؟ إنها تجعل احتمال وجود عوامل إضافية، ومنها اختلافات عصبية عضلية داخلية، جديرًا بالدراسة. لكنها لا تثبت أن هذه العوامل هي سبب paralysis؛ فالمراجعة اعتمدت على دراسات متعددة، ولا يقدم الملخص دليلًا على مقارنة مباشرة للآليات أو على استبعاد كل العوامل المربكة. كما أن تصنيف الحالات idiopathic يتأثر بمدى اكتمال الاستقصاء.\n\nمن ناحية الممارسة، لا توجد توصية بتغيير التقييم أو العلاج الحالي لـ unilateral vocal fold paralysis استنادًا إلى هذه النتائج وحدها. ينبغي مواصلة التقييم السريري المعتاد وعدم اعتبار الفرضية العصبية العضلية تفسيرًا مؤكدًا لكل حالة idiopathic. أهمية المقال أنه يجمع الأدلة على استمرار left-sided predominance خارج المجموعات ذات السبب الجراحي أو المرضي الواضح، ويحدد سؤالًا بحثيًا قابلًا للاختبار. الخطوة التالية هي دراسات ذات workup موحد ومقارنة مباشرة بين الجانبين لتحديد ما إذا كانت هناك اختلافات عصبية عضلية تفسر هذا النمط، وما إذا كان لذلك أثر علاجي مستقبلًا. الخلاصة: معرفة مفيدة لأطباء laryngology، لكنها لا تغيّر الممارسة اليوم.",
+      "audio_script_en": "Today’s review is titled “Intrinsic Susceptibility of the Left vs Right Recurrent Laryngeal Nerve to Non-Iatrogenic Paralysis.” It asks whether the longer course of the left recurrent laryngeal nerve fully explains why unilateral vocal fold paralysis occurs more often on the left, or whether intrinsic neuromuscular differences could also contribute.\n\nThe authors included 23 studies with 840 patients. They focused on idiopathic paralysis and paralysis following short-term intubation for procedures outside the head, neck, and thorax, excluding cases attributed to identifiable disease or surgery. The idiopathic studies were further divided according to whether the diagnostic workup was adequate to support an idiopathic classification.\n\nAmong idiopathic cases in studies with an adequate workup, 69.3% were left-sided. In studies with an inadequate workup, 67.7% were left-sided. In the postintubation group, 67.9% were left-sided. The proportions are similar across these groups and show a consistent left-sided predominance.\n\nThe findings make an intrinsic neuromuscular contribution a reasonable hypothesis for future investigation, but they do not establish that such a mechanism causes paralysis. The review synthesizes studies rather than directly testing the proposed mechanism, and the confidence in an idiopathic classification depends partly on how thoroughly patients were evaluated. Other sources of bias or confounding may also influence the observed proportions.\n\nFor clinical practice, these results do not justify changing the routine evaluation or management of unilateral vocal fold paralysis. Clinicians should continue the usual workup and should not treat an intrinsic neuromuscular explanation as proven in an individual idiopathic case. The value of this review is that it documents persistent left-sided predominance even in groups without an identified surgical or disease-related cause, and it sharpens a question for future research. Studies using standardized diagnostic workups and direct comparisons between sides are needed to determine whether intrinsic neuromuscular differences exist and whether they could eventually inform treatment. In short, this is useful laryngology evidence to know, but it does not change practice today.",
+      "mcq": [
+        {
+          "q_ar": "ما نسبة الحالات اليسارية في مجموعة postintubation؟",
+          "q_en": "What proportion of cases in the postintubation group were left-sided?",
+          "options_ar": [
+            "أ) 59.3%",
+            "ب) 67.9%",
+            "ج) 69.3%",
+            "د) 77.6%"
+          ],
+          "options_en": [
+            "A) 59.3%",
+            "B) 67.9%",
+            "C) 69.3%",
+            "D) 77.6%"
+          ],
+          "answer": 1,
+          "explanation_ar": "كانت 67.9% من حالات paralysis بعد intubation في الجانب الأيسر.",
+          "explanation_en": "A total of 67.9% of paralysis cases after intubation were left-sided."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأنسب بشأن احتمال وجود عوامل عصبية عضلية داخلية؟",
+          "q_en": "What is the most appropriate conclusion regarding a possible intrinsic neuromuscular contribution?",
+          "options_ar": [
+            "أ) أثبتت المراجعة أن الاختلافات الداخلية تسبب paralysis الأيسر.",
+            "ب) تنفي النتائج أي دور للاختلافات العصبية العضلية.",
+            "ج) تدعم النتائج دراسة الفرضية، لكنها لا تثبت السببية.",
+            "د) تثبت النتائج أن intubation هو السبب الوحيد."
+          ],
+          "options_en": [
+            "A) The review proved that intrinsic differences cause left-sided paralysis.",
+            "B) The findings rule out any role for neuromuscular differences.",
+            "C) The findings support investigating the hypothesis but do not prove causation.",
+            "D) The findings prove that intubation is the sole cause."
+          ],
+          "answer": 2,
+          "explanation_ar": "النسب تدعم استمرار دراسة الفرضية، لكن البيانات الوصفية لا تثبت وجود آلية سببية.",
+          "explanation_en": "The proportions support further study of the hypothesis, but descriptive data do not establish a causal mechanism."
+        },
+        {
+          "q_ar": "ما الأثر الحالي لهذه المراجعة على الممارسة السريرية؟",
+          "q_en": "What is the current clinical practice impact of this review?",
+          "options_ar": [
+            "أ) تغيير العلاج القياسي لكل حالات unilateral vocal fold paralysis.",
+            "ب) إلغاء الحاجة إلى استقصاء الحالات idiopathic.",
+            "ج) عدم تغيير التدبير الحالي، مع دعم إجراء أبحاث إضافية.",
+            "د) اعتماد علاج جديد للجانب الأيسر."
+          ],
+          "options_en": [
+            "A) Change standard treatment for all cases of unilateral vocal fold paralysis.",
+            "B) Eliminate the need to investigate idiopathic cases.",
+            "C) Maintain current management while supporting further research.",
+            "D) Adopt a new treatment for left-sided cases."
+          ],
+          "answer": 2,
+          "explanation_ar": "لا تقدم النتائج أساسًا لتغيير التقييم أو العلاج الحالي، لكنها تحدد حاجة إلى أبحاث آلية مستقبلية.",
+          "explanation_en": "The findings do not provide a basis for changing current evaluation or treatment, but identify a need for future mechanistic research."
+        }
+      ]
+    },
+    {
+      "pmid": "43100225",
+      "title_ar": "Correlations of objective and subjective outcomes following functional nasal surgery: a systematic review and practical guide to clinical implementation.",
+      "title_en": "Correlations of objective and subjective outcomes following functional nasal surgery: a systematic review and practical guide to clinical implementation.",
+      "journal": "The Journal of laryngology and otology",
+      "pub_date": "2026-Nov-27",
+      "doi": "10.1017/S0022215126106586",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43100225/",
+      "pdf_url": null,
+      "study_design": "Systematic review of 58 studies",
+      "summary_ar": "راجعت هذه systematic review عدد 58 دراسة قيّمت التغيرات في patient-reported outcome measures والقياسات الموضوعية لتدفق الهواء بعد functional nasal surgery. بعد septoplasty، ارتبط peak nasal inspiratory flow بتحسن Nasal Obstruction Symptom Evaluation score (r = -0.73, p = 0.020) وvisual analogue scale (r = -0.76, p = 0.023). كما ارتبطت rhinomanometry بـNasal Obstruction Symptom Evaluation score في المتابعة قصيرة الأمد بعد septoplasty، وبـvisual analogue scale لدى مرضى turbinate في المتابعة متوسطة الأمد. ارتبطت acoustic rhinometry بـvisual analogue scale بعد septoplasty وبعد turbinate reduction، مع اختلاف قوة الارتباط بين الدراسات. يوصي المؤلفون باستخدام peak nasal inspiratory flow بعد septoplasty، والاستفادة من acoustic rhinometry بعد septoplasty وturbinate reduction، واستخدام rhinomanometry لتقييم المقاومة أحادية الجانب. وتُعد Nasal Obstruction Symptom Evaluation الأداة المفضلة لقياس الأعراض المبلغ عنها من المرضى.",
+      "summary_en": "This systematic review included 58 studies examining objective airflow measures and patient-reported outcomes after functional nasal surgery.\nAfter septoplasty, peak nasal inspiratory flow correlated with Nasal Obstruction Symptom Evaluation scores (r = -0.73) and visual analogue scale scores (r = -0.76).\nRhinomanometry showed correlations with Nasal Obstruction Symptom Evaluation scores at short-term follow-up after septoplasty and with visual analogue scale scores in turbinate patients at medium-term follow-up.\nAcoustic rhinometry correlated with visual analogue scale scores after septoplasty and turbinate reduction, with variable correlation strength.\nThe authors recommend peak nasal inspiratory flow after septoplasty and acoustic rhinometry after septoplasty or turbinate reduction.\nRhinomanometry can inform unilateral resistance assessment, while Nasal Obstruction Symptom Evaluation is the preferred patient-reported measure.",
+      "practice_change_ar": "بعد septoplasty، أضف peak nasal inspiratory flow إلى Nasal Obstruction Symptom Evaluation لتقييم الاستجابة، واستخدم acoustic rhinometry أو rhinomanometry بحسب الإجراء والسؤال السريري.",
+      "practice_change_en": "After septoplasty, consider pairing peak nasal inspiratory flow with the Nasal Obstruction Symptom Evaluation, and select acoustic rhinometry or rhinomanometry according to the procedure and clinical question.",
+      "future_impact_ar": "قد تساعد دراسات مستقبلية موحّدة في تحديد توقيت القياس والعتبات التي تربط التحسن الموضوعي بتحسن الأعراض بعد كل إجراء.",
+      "future_impact_en": "Future standardized studies may define optimal measurement timing and thresholds linking objective improvement to symptom benefit for each procedure.",
+      "why_important_ar": "توضح المراجعة أن قياس تدفق الهواء الموضوعي قد يكمّل تقارير المرضى ويساعد على تقييم نتائج functional nasal surgery بصورة أكثر شمولاً.",
+      "why_important_en": "The review shows how objective airflow measurements can complement patient reports and provide a more complete assessment of functional nasal surgery outcomes.",
+      "vs_previous_ar": "بدلاً من الاعتماد على patient-reported outcome measures وحدها، تجمع هذه المراجعة الأدلة لتوجيه اختيار القياسات الموضوعية بحسب الإجراء والنتيجة المقاسة.",
+      "vs_previous_en": "Rather than relying on patient-reported outcomes alone, this review synthesizes evidence to guide selection of objective measures by procedure and outcome.",
+      "stars": 4,
+      "stars_reason_ar": "مراجعة منهجية واسعة شملت 58 دراسة وتقدم توصيات عملية مفيدة، لكن تفاوت الدراسات والارتباطات لا يثبتان أن القياسات الموضوعية تحسن القرارات أو النتائج السريرية.",
+      "stars_reason_en": "This broad systematic review of 58 studies offers useful practical recommendations, but study heterogeneity and correlations alone do not establish that objective testing improves clinical decisions or outcomes.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "مناسبة لنقاش journal club لأنها تقارن أدوات قياس شائعة وتطرح توصيات عملية، مع مجال لمناقشة تفاوت الدراسات وحدود الاستدلال من الارتباط.",
+      "jc_reason_en": "Suitable for journal club because it compares commonly used outcome measures and offers practical recommendations, while prompting discussion of heterogeneity and the limits of correlation-based evidence.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى دراسات مستقبلية موحّدة تقيس التغيرات الموضوعية والأعراض في أوقات متابعة محددة، وتختبر ما إذا كان الجمع بينهما يحسن اختيار المرضى أو النتائج.",
+      "research_gap_en": "Standardized prospective studies should measure objective and subjective changes at defined follow-up intervals and test whether combining them improves patient selection or outcomes.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم مراجعة منهجية تبحث العلاقة بين قياسات تدفق الهواء الموضوعية وأعراض المرضى بعد functional nasal surgery. شملت المراجعة 58 دراسة، وركزت على أدوات مثل peak nasal inspiratory flow وrhinomanometry وacoustic rhinometry، إلى جانب patient-reported outcome measures.\n\nأبرز النتائج كانت بعد septoplasty: ارتبط peak nasal inspiratory flow بدرجة Nasal Obstruction Symptom Evaluation وبـvisual analogue scale، مع معاملات ارتباط بلغت سالب 0.73 وسالب 0.76 على التوالي. وظهرت ارتباطات أخرى بحسب نوع الإجراء ومدة المتابعة. فقد ارتبطت rhinomanometry بدرجة Nasal Obstruction Symptom Evaluation في المتابعة قصيرة الأمد بعد septoplasty، كما ارتبطت بـvisual analogue scale لدى مرضى turbinate في المتابعة متوسطة الأمد. أما acoustic rhinometry فارتبطت بـvisual analogue scale بعد septoplasty وturbinate reduction، لكن قوة الارتباط تفاوتت.\n\nالتوصية العملية للمؤلفين هي استخدام peak nasal inspiratory flow بعد septoplasty، والنظر في acoustic rhinometry بعد septoplasty أو turbinate reduction. ويمكن أن تساعد rhinomanometry في تقييم المقاومة أحادية الجانب. أما Nasal Obstruction Symptom Evaluation فيوصى بها كأداة patient-reported outcome مفضلة.\n\nهذه مراجعة منهجية واسعة ومفيدة سريرياً، لكنها لا تثبت أن إضافة القياسات الموضوعية تحسن النتائج أو تغيّر القرارات العلاجية؛ فالارتباط لا يعني بالضرورة أن القياسين متكافئان، كما أن الدراسات متفاوتة. لذلك فالثقة متوسطة، والتطبيق العملي الأنسب هو اعتبار القياسات الموضوعية مكمّلة لتقييم الأعراض، لا بديلاً عنه.\n\nتحتاج المرحلة المقبلة إلى دراسات مستقبلية موحّدة تحدد توقيت القياس والعتبات المهمة سريرياً، وتختبر ما إذا كان الجمع بين القياس الموضوعي وتقرير المريض يحسن اختيار المرضى أو متابعة نتائج الجراحة.",
+      "audio_script_en": "Today’s review examines whether objective airflow measurements track with patients’ reported symptoms after functional nasal surgery. The systematic review included 58 studies and assessed measures such as peak nasal inspiratory flow, rhinomanometry, and acoustic rhinometry alongside patient-reported outcome measures.\n\nThe clearest reported findings followed septoplasty: peak nasal inspiratory flow correlated with Nasal Obstruction Symptom Evaluation scores and visual analogue scale scores, with correlation coefficients of -0.73 and -0.76, respectively. Other relationships varied by procedure and follow-up interval. Rhinomanometry correlated with Nasal Obstruction Symptom Evaluation scores at short-term follow-up after septoplasty, and with visual analogue scale scores in turbinate patients at medium-term follow-up. Acoustic rhinometry also correlated with visual analogue scale scores after septoplasty and turbinate reduction, although the strength of association varied.\n\nThe authors recommend peak nasal inspiratory flow after septoplasty and suggest acoustic rhinometry after septoplasty or turbinate reduction. Rhinomanometry may help assess unilateral resistance. Nasal Obstruction Symptom Evaluation is identified as the preferred patient-reported measure.\n\nThis is a useful, broad systematic review, but it does not show that adding objective measurements improves outcomes or changes clinical decisions. Correlation does not make the measures interchangeable, and the included studies varied. Confidence is therefore moderate: objective measures can complement symptom assessment, but should not replace it.\n\nThe next step is standardized prospective research to establish clinically meaningful thresholds and appropriate measurement timing, and to determine whether combining objective tests with patient reports improves patient selection or postoperative follow-up.",
+      "mcq": [
+        {
+          "q_ar": "ما القياس الموضوعي الذي توصي به المراجعة بعد septoplasty؟",
+          "q_en": "Which objective measure does the review recommend after septoplasty?",
+          "options_ar": [
+            "أ) Peak nasal inspiratory flow",
+            "ب) Acoustic rhinometry فقط",
+            "ج) Rhinomanometry فقط",
+            "د) CT للجيوب الأنفية"
+          ],
+          "options_en": [
+            "A) Peak nasal inspiratory flow",
+            "B) Acoustic rhinometry only",
+            "C) Rhinomanometry only",
+            "D) Sinus CT"
+          ],
+          "answer": 0,
+          "explanation_ar": "توصي المراجعة بـpeak nasal inspiratory flow بعد septoplasty، مع إمكان استخدام أدوات أخرى بحسب الإجراء والسؤال السريري.",
+          "explanation_en": "The review recommends peak nasal inspiratory flow after septoplasty, with other measures selected according to the procedure and clinical question."
+        },
+        {
+          "q_ar": "ما patient-reported outcome measure المفضل وفق خلاصة المراجعة؟",
+          "q_en": "Which patient-reported outcome measure is preferred according to the review?",
+          "options_ar": [
+            "أ) Visual analogue scale",
+            "ب) Nasal Obstruction Symptom Evaluation",
+            "ج) Rhinomanometry",
+            "د) Acoustic rhinometry"
+          ],
+          "options_en": [
+            "A) Visual analogue scale",
+            "B) Nasal Obstruction Symptom Evaluation",
+            "C) Rhinomanometry",
+            "D) Acoustic rhinometry"
+          ],
+          "answer": 1,
+          "explanation_ar": "تذكر الخلاصة أن Nasal Obstruction Symptom Evaluation هي أداة patient-reported outcome المفضلة.",
+          "explanation_en": "The conclusion identifies Nasal Obstruction Symptom Evaluation as the preferred patient-reported outcome measure."
+        },
+        {
+          "q_ar": "ما القيد الرئيسي عند تفسير نتائج هذه المراجعة سريرياً؟",
+          "q_en": "What is the main limitation when interpreting this review’s findings clinically?",
+          "options_ar": [
+            "أ) لم تشمل أي دراسات بعد الجراحة",
+            "ب) الارتباطات والتفاوت بين الدراسات لا يثبتان أن القياسات تحسن النتائج أو القرارات",
+            "ج) اقتصرت على دراسات حيوانية",
+            "د) لم تتناول أي أدوات موضوعية"
+          ],
+          "options_en": [
+            "A) It included no postoperative studies",
+            "B) Correlations and study heterogeneity do not prove that measurements improve outcomes or decisions",
+            "C) It was limited to animal studies",
+            "D) It did not address objective measures"
+          ],
+          "answer": 1,
+          "explanation_ar": "المراجعة تلخص علاقات ارتباطية بين القياسات، لكنها لا تثبت فائدة سببية لاستخدامها في اتخاذ القرار أو تحسين النتائج، كما أن الدراسات متفاوتة.",
+          "explanation_en": "The review summarizes correlations but does not establish that using these measures causally improves decisions or outcomes; the studies were also heterogeneous."
+        }
+      ]
+    },
+    {
+      "pmid": "43094070",
+      "title_ar": "Dose-Response of Steroid-Eluting Sinus Implants in CRS: A Systematic Review and Meta-Analysis.",
+      "title_en": "Dose-Response of Steroid-Eluting Sinus Implants in CRS: A Systematic Review and Meta-Analysis.",
+      "journal": "The Laryngoscope",
+      "pub_date": "2026-Nov-25",
+      "doi": "10.1002/lary.71064",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43094070/",
+      "pdf_url": null,
+      "study_design": "Systematic review and meta-analysis of RCTs and prospective comparative studies",
+      "summary_ar": "قيّمت هذه systematic review وmeta-analysis فعالية bioabsorbable steroid-eluting sinus implants عبر جرعات وسياقات زرع مختلفة لدى مرضى CRS. في الدراسات postoperative، ارتبطت implants بجرعات 370–652 μg mometasone furoate بانخفاض intervention rates مقارنةً بالعلاج الضابط، مع overall OR قدره 0.31 (95% CI, 0.23–0.42) وI² قدره 5%. كانت تقديرات OR هي 0.37 لجرعة 370 μg و0.26 لجرعة 652 μg، لكن الفرق بين الجرعتين لم يكن statistically significant (p=0.28). وفي office-based setting، أظهر RCT للجرعات أن جرعة 7500 μg حققت SNOT-22 minimal clinically important difference responder rates أعلى من 2500 μg (p=0.009)، مع dose-dependent trend (p for trend=0.004). كما انخفض استخدام rescue medical therapy مقارنةً بـplacebo في هذه الدراسة (p=0.047). تشير النتائج إلى فائدة implants، لكن الجرعة وحدها لا تفسر الاستجابة؛ إذ يعتمد الأثر كذلك على implantation context وتصميم الدراسات.",
+      "summary_en": "This systematic review and meta-analysis assessed bioabsorbable steroid-eluting sinus implants across corticosteroid doses and implantation settings in CRS. In the postoperative setting, implants containing 370–652 μg mometasone furoate reduced postoperative intervention rates versus control (overall OR 0.31; 95% CI, 0.23–0.42; I²=5%). The estimated ORs were 0.37 for 370 μg and 0.26 for 652 μg, but the between-dose difference was not statistically significant (p=0.28). In an office-based dose-ranging RCT, the 7500 μg group had higher SNOT-22 minimal clinically important difference responder rates than the 2500 μg group (p=0.009), with a significant dose trend (p for trend=0.004). Rescue medical therapy was also reduced versus placebo (p=0.047). Overall, implants appear beneficial, but clinical effects depend on both dose and implantation context, and nominal dose alone does not predict benefit.",
+      "practice_change_ar": "لا تبرر النتائج تغيير الممارسة الحالية أو اختيار جرعة أعلى تلقائيًا؛ ويمكن اعتبار steroid-eluting implants خيارًا لتقليل التدخلات postoperative وفق السياق السريري.",
+      "practice_change_en": "These findings do not justify an immediate practice change or automatic selection of a higher dose; steroid-eluting implants may be considered to reduce postoperative interventions in an appropriate clinical context.",
+      "future_impact_ar": "قد تساعد دراسات head-to-head موحدة في تحديد الجرعة والسياق الأمثلين لاستخدام implants لدى مرضى CRS.",
+      "future_impact_en": "Standardized head-to-head studies may clarify the optimal implant dose and clinical setting for patients with CRS.",
+      "why_important_ar": "تجمع الدراسة نتائج عن جرعات وسياقات مختلفة، وتوضح أن فائدة implant لا يمكن استنتاجها من الجرعة الاسمية وحدها.",
+      "why_important_en": "The review synthesizes evidence across doses and settings and shows that nominal dose alone cannot predict implant benefit.",
+      "vs_previous_ar": "تضيف الدراسة مقارنة dose- and context-based إلى الأدلة السابقة، مع عدم إثبات فرق statistically significant بين جرعتي 370 و652 μg في postoperative setting.",
+      "vs_previous_en": "This review adds a dose- and context-based synthesis, while finding no statistically significant difference between 370 and 652 μg implants in the postoperative setting.",
+      "stars": 4,
+      "stars_reason_ar": "هذه systematic review وmeta-analysis في The Laryngoscope، ما يمنحها أساسًا قويًا، وتقدم تحليلًا مفيدًا للجرعة والسياق؛ لكن اختلاف الدراسات وعدم إثبات فرق بين الجرعات postoperative يحدان من تغيير الممارسة.",
+      "stars_reason_en": "This systematic review and meta-analysis in The Laryngoscope has a strong design and provides useful dose- and context-based evidence; however, study heterogeneity and the absence of a significant postoperative dose difference limit practice change.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": true,
+      "jc_reason_ar": "تستحق المناقشة لمقارنتها آثار implants في postoperative وoffice-based settings، ولتقييم مدى صلاحية الاستنتاجات المتعلقة بالجرعة رغم اختلاف الدراسات.",
+      "jc_reason_en": "It merits discussion because it contrasts postoperative and office-based implant outcomes and raises questions about dose conclusions across heterogeneous studies.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا bioabsorbable steroid-eluting sinus implants، إذ تشير النتائج إلى إمكانية خفض التدخلات postoperative وإلى فائدة محتملة للجرعات الأعلى في office-based treatment.",
+      "watch_detail_en": "Track bioabsorbable steroid-eluting sinus implants because the findings suggest fewer postoperative interventions and a possible dose-related benefit in office-based treatment.",
+      "watch_type": "device",
+      "research_gap_ar": "يلزم إجراء دراسات head-to-head أكبر وموحدة تقارن الجرعات ضمن implantation settings متطابقة وتقيس نتائج سريرية موحدة.",
+      "research_gap_en": "Larger, standardized head-to-head studies are needed to compare doses within matched implantation settings using consistent clinical outcomes.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نناقش اليوم systematic review وmeta-analysis في The Laryngoscope حول dose-response لـbioabsorbable steroid-eluting sinus implants لدى مرضى CRS. السؤال الأساسي هو: هل تؤدي جرعة corticosteroid الأعلى دائمًا إلى فائدة سريرية أكبر، وهل تختلف النتائج بحسب مكان وطريقة الزرع؟\n\nفي postoperative setting، جُمعت نتائج implants التي تحتوي على 370 إلى 652 μg من mometasone furoate. بالمقارنة مع العلاج الضابط، انخفضت postoperative intervention rates، مع overall odds ratio قدره 0.31 وconfidence interval من 0.23 إلى 0.42. كان التباين بين الدراسات منخفضًا، إذ بلغ I-squared خمسة بالمئة. وعند تقسيم النتائج بحسب الجرعة، بلغ OR مقدار 0.37 لجرعة 370 μg و0.26 لجرعة 652 μg. لكن المقارنة بين الجرعتين لم تكن statistically significant، مع p-value تساوي 0.28؛ لذلك لا تثبت هذه البيانات تفوق الجرعة الأعلى في هذا السياق.\n\nأما في office-based setting، فقد أظهر dose-ranging RCT أن جرعة 7500 μg حققت SNOT-22 minimal clinically important difference responder rates أعلى من جرعة 2500 μg، مع p-value تساوي 0.009، كما ظهر dose-dependent trend. وانخفض استخدام rescue medical therapy مقارنةً بـplacebo أيضًا. لكن هذه النتائج لا ينبغي دمجها مباشرةً مع نتائج postoperative، لأن setting والجرعات والنهايات السريرية وتصميم الدراسات مختلفة.\n\nالخلاصة العملية أن steroid-eluting implants تبدو مفيدة، خصوصًا في خفض الحاجة إلى تدخلات بعد الجراحة، لكن لا يوجد أساس هنا لتغيير الممارسة أو اختيار أعلى جرعة تلقائيًا. يعتمد التأثير على الجرعة والسياق معًا. لهذا نقيّم المقال بأربع نجوم وثقة متوسطة: تصميمه قوي ونتائجه ذات صلة، لكنه لا يحسم الجرعة المثلى ولا يثبت فرقًا بين الجرعتين postoperative. من المهم أن تركز الدراسات المستقبلية على مقارنات مباشرة، ضمن سياقات متطابقة وبمقاييس سريرية موحدة. يستحق المقال المناقشة في journal club، كما يستحق الجهاز المتابعة مع تراكم أدلة إضافية.",
+      "audio_script_en": "Today we review a systematic review and meta-analysis in The Laryngoscope examining the dose response of bioabsorbable steroid-eluting sinus implants for CRS. The key questions are whether higher corticosteroid doses consistently produce greater clinical benefit, and whether outcomes differ by implantation setting.\n\nFor the postoperative setting, the review pooled implants containing 370 to 652 μg of mometasone furoate. Compared with control treatment, these implants reduced postoperative intervention rates, with an overall odds ratio of 0.31 and a 95% confidence interval of 0.23 to 0.42. Statistical heterogeneity was low, with I-squared of 5%. Subgroup estimates were an OR of 0.37 for 370 μg and 0.26 for 652 μg. However, the difference between doses was not statistically significant, with a p-value of 0.28. These data therefore do not establish that the higher dose is superior in the postoperative setting.\n\nIn the office-based setting, a dose-ranging RCT found higher SNOT-22 minimal clinically important difference responder rates with 7500 μg than with 2500 μg. The result was statistically significant, and a dose-dependent trend was reported. Rescue medical therapy was also reduced compared with placebo. These findings should not be directly combined with the postoperative results because the implantation settings, dose ranges, endpoints, and study designs differ.\n\nThe practical takeaway is that steroid-eluting implants appear beneficial, particularly for reducing postoperative interventions, but this review does not support automatically choosing the highest dose or changing practice today. Clinical effect appears to depend on both dose and context. We assign four stars and medium confidence: the review has a strong design and useful clinical findings, but it does not identify an optimal dose and does not demonstrate a significant difference between postoperative dose groups. Future research should use direct, standardized dose comparisons in matched settings with consistent clinical outcomes. This paper is suitable for journal club, and the device is worth tracking as further evidence accumulates.",
+      "mcq": [
+        {
+          "q_ar": "ما النتيجة الإجمالية للـpostoperative steroid-eluting implants مقارنةً بالعلاج الضابط؟",
+          "q_en": "What was the overall result for postoperative steroid-eluting implants versus control?",
+          "options_ar": [
+            "أ) زيادة postoperative intervention rates",
+            "ب) انخفاض postoperative intervention rates، مع OR قدره 0.31",
+            "ج) عدم وجود أي فرق",
+            "د) انخفاض SNOT-22 فقط دون قياس التدخلات"
+          ],
+          "options_en": [
+            "A) Increased postoperative intervention rates",
+            "B) Reduced postoperative intervention rates, with an OR of 0.31",
+            "C) No difference",
+            "D) Reduced SNOT-22 only, with no intervention outcomes assessed"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهر التحليل انخفاض postoperative intervention rates مقارنةً بالعلاج الضابط، وكان overall OR هو 0.31.",
+          "explanation_en": "The pooled analysis found fewer postoperative interventions versus control, with an overall OR of 0.31."
+        },
+        {
+          "q_ar": "هل كان الفرق بين جرعتي 370 و652 μg statistically significant في postoperative setting؟",
+          "q_en": "Was the difference between 370 and 652 μg statistically significant in the postoperative setting?",
+          "options_ar": [
+            "أ) نعم، لصالح 370 μg",
+            "ب) نعم، لصالح 652 μg",
+            "ج) لا، وكان p=0.28",
+            "د) لا يمكن حسابه لعدم وجود تقديرات للجرعات"
+          ],
+          "options_en": [
+            "A) Yes, favoring 370 μg",
+            "B) Yes, favoring 652 μg",
+            "C) No; p=0.28",
+            "D) It could not be calculated because dose estimates were unavailable"
+          ],
+          "answer": 2,
+          "explanation_ar": "كانت تقديرات الجرعتين مختلفة عدديًا، لكن المقارنة بينهما لم تكن statistically significant (p=0.28).",
+          "explanation_en": "The dose estimates differed numerically, but the between-dose comparison was not statistically significant (p=0.28)."
+        },
+        {
+          "q_ar": "ما الاستنتاج الأكثر ملاءمة بشأن اختيار جرعة implant؟",
+          "q_en": "What is the most appropriate conclusion regarding implant dose selection?",
+          "options_ar": [
+            "أ) الجرعة الاسمية وحدها تتنبأ بالفائدة في جميع settings",
+            "ب) يجب دائمًا اختيار أعلى جرعة",
+            "ج) الجرعة وسياق الزرع كلاهما مهمان، ولا تثبت النتائج قاعدة لاختيار أعلى جرعة",
+            "د) لا تقدم implants أي فائدة سريرية"
+          ],
+          "options_en": [
+            "A) Nominal dose alone predicts benefit in every setting",
+            "B) The highest dose should always be selected",
+            "C) Both dose and implantation context matter; the findings do not establish a rule to choose the highest dose",
+            "D) Implants provide no clinical benefit"
+          ],
+          "answer": 2,
+          "explanation_ar": "خلصت الدراسة إلى أن الفائدة تختلف بحسب الجرعة والسياق، وأن الجرعة الاسمية وحدها لا تتنبأ بالكامل بالنتيجة.",
+          "explanation_en": "The review concluded that benefit varies with dose and setting, and nominal dose alone does not fully predict outcomes."
+        }
+      ]
+    },
+    {
+      "pmid": "43095770",
+      "title_ar": "Do septal, conchal and costal cartilage grafts differ in functional, aesthetic and complication outcomes after septorhinoplasty? A systematic review.",
+      "title_en": "Do septal, conchal and costal cartilage grafts differ in functional, aesthetic and complication outcomes after septorhinoplasty? A systematic review.",
+      "journal": "The Journal of laryngology and otology",
+      "pub_date": "2026-Nov-26",
+      "doi": "10.1017/S0022215126106100",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43095770/",
+      "pdf_url": null,
+      "study_design": "Systematic review of 13 comparative studies (n=3609)",
+      "summary_ar": "قارنت هذه systematic review نتائج septal وconchal وcostal cartilage grafts لدى البالغين الذين خضعوا لـseptorhinoplasty، وشملت 13 دراسة و3609 مشاركين. أظهرت costal cartilage ثباتاً بنيوياً أفضل وامتصاصاً أقل على المدى الطويل مقارنةً بـconchal cartilage، مع زيادة في donor-site morbidity. كانت نتائج ثبات tip والرضا الجمالي في المدى المتوسط متقاربة بين conchal وseptal grafts. لم تُظهر autologous وirradiated homologous costal cartilage اختلافات مهمة في الوظيفة أو المضاعفات، لكن الامتصاص كان أكثر شيوعاً مع homologous grafts. ارتبطت conchal extension grafts بتحسن وظيفي وجمالي ملحوظ. يوصي الاستنتاج بتخصيص اختيار graft بحسب حجم إعادة البناء، مع تفضيل septal cartilage عندما تكون كميته كافية. تظل الدراسات المقارنة الموحدة محدودة، لذا لا تثبت النتائج تفوقاً شاملاً لنوع واحد في جميع الحالات.",
+      "summary_en": "This systematic review compared septal, conchal, and costal cartilage grafts in adults undergoing septorhinoplasty, including 13 studies and 3,609 participants. Costal cartilage provided greater structural stability and less long-term resorption than conchal cartilage, but was associated with greater donor-site morbidity. Conchal and septal grafts had comparable mid-term tip stability and aesthetic outcomes. Autologous and irradiated homologous costal cartilage showed no significant differences in functional or complication outcomes, although resorption was more frequent with homologous grafts. Conchal extension grafts were associated with functional and cosmetic improvements. The authors recommend individualizing graft choice and using septal cartilage first when sufficient. The limited availability of standardized comparative studies means no single graft can be considered universally superior.",
+      "practice_change_ar": "لا يفرض هذا الاستعراض تغييراً فورياً للممارسة، لكنه يدعم اختيار costal cartilage لإعادة البناء الكبيرة، وconchal cartilage للتصحيح الأقل طلباً، وseptal cartilage عند كفاية المخزون.",
+      "practice_change_en": "This review does not mandate an immediate practice change, but supports choosing costal cartilage for major reconstruction, conchal cartilage for lower-demand correction, and septal cartilage when adequate.",
+      "future_impact_ar": "قد تساعد دراسات مقارنة مستقبلية موحدة في تحديد الفروق طويلة الأمد بين graft sources وتحسين اختيار graft بحسب احتياجات المريض.",
+      "future_impact_en": "Standardized comparative studies may clarify long-term differences between graft sources and improve patient-specific graft selection.",
+      "why_important_ar": "تجمع المقالة الأدلة المقارنة المتاحة حول الموازنة بين الثبات والامتصاص والنتائج الجمالية ومراضة موضع أخذ graft في septorhinoplasty.",
+      "why_important_en": "The review synthesizes comparative evidence on the trade-offs between stability, resorption, aesthetic outcomes, and donor-site morbidity in septorhinoplasty.",
+      "vs_previous_ar": "بدلاً من تفضيل graft source واحد بصورة عامة، يبرز الاستعراض اختلاف المفاضلات بحسب الحاجة إلى الدعم البنيوي وكمية cartilage المتاحة.",
+      "vs_previous_en": "Rather than favoring one graft source universally, the review emphasizes trade-offs according to structural needs and available cartilage.",
+      "stars": 3,
+      "stars_reason_ar": "هذه systematic review تضم 13 دراسة و3609 مشاركين، ما يمنحها أساساً تصميمياً قوياً، لكنها اعتمدت سرداً للنتائج مع قلة الدراسات المقارنة الموحدة؛ لذا تقدم معرفة مفيدة دون تغيير الممارسة الحالية.",
+      "stars_reason_en": "This systematic review includes 13 studies and 3,609 participants, providing a strong design foundation, but its narrative synthesis and scarcity of standardized comparisons limit certainty; it adds useful knowledge without changing current practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for discussion because it compares commonly used graft options, highlights the clinical trade-off between structural stability and donor-site morbidity, and identifies the limitations of standardized comparative evidence.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى دراسات مستقبلية مقارنة ذات نتائج موحدة ومتابعة طويلة الأمد تقيس الوظيفة والرضا الجمالي والامتصاص ومضاعفات موضع أخذ graft.",
+      "research_gap_en": "Future comparative studies should use standardized outcomes and long-term follow-up to assess function, aesthetic satisfaction, resorption, and donor-site complications.",
+      "subspecialty": "facial_plastics",
+      "audio_script_ar": "نستعرض اليوم systematic review تبحث في سؤال عملي في septorhinoplasty: هل تختلف نتائج septal وconchal وcostal cartilage grafts؟ شملت المراجعة 13 دراسة مقارنة، بإجمالي 3609 مشاركين بالغين، وجُمعت النتائج بطريقة سردية.\n\nأبرز النتائج أن costal cartilage قدمت ثباتاً بنيوياً أفضل وامتصاصاً أقل على المدى الطويل مقارنةً بـconchal cartilage. لكن هذه الميزة جاءت مع donor-site morbidity أعلى، ولذلك لا تعني أن costal cartilage هي الخيار الأفضل لكل مريض. في المقابل، كانت نتائج ثبات tip والنتائج الجمالية متقاربة في المدى المتوسط بين conchal وseptal grafts. كما ارتبط استخدام conchal extension grafts بتحسن وظيفي وجمالي.\n\nعند مقارنة autologous costal cartilage مع irradiated homologous costal cartilage، لم تُسجل فروق مهمة في الوظيفة أو المضاعفات، إلا أن الامتصاص كان أكثر شيوعاً مع homologous grafts. الخلاصة العملية هي تخصيص الاختيار: costal cartilage عند الحاجة إلى إعادة بناء كبيرة ودعم قوي، وconchal cartilage للتصحيحات الأقل طلباً عندما تكون قلة مراضة موضع أخذ graft مهمة، وseptal cartilage كخيار أول عندما تكون الكمية المتاحة كافية.\n\nقوة المقالة أنها تجمع أدلة سريرية واسعة نسبياً وتوضح المفاضلات بين الخيارات. لكن النتائج لا تبرر تغييراً شاملاً في الممارسة؛ فالدراسات المقارنة الموحدة قليلة، والتوليف كان سردياً. لذلك فالثقة متوسطة، والمقالة مفيدة للنقاش السريري، لا لإعلان تفوق مطلق لنوع واحد. الحاجة البحثية الأساسية هي دراسات مستقبلية ذات مقاييس موحدة ومتابعة طويلة الأمد تشمل الوظيفة والرضا الجمالي والامتصاص ومضاعفات موضع أخذ graft.",
+      "audio_script_en": "Today’s review addresses a practical question in septorhinoplasty: do septal, conchal, and costal cartilage grafts produce different outcomes? This systematic review included 13 comparative studies and 3,609 adult patients. The findings were synthesized narratively.\n\nThe clearest reported advantage was for costal cartilage, which provided greater structural stability and less long-term resorption than conchal cartilage. That advantage came with greater donor-site morbidity, so it does not make costal cartilage the best choice for every patient. Conchal and septal grafts had comparable mid-term tip stability and aesthetic outcomes. Conchal extension grafts were also associated with functional and cosmetic improvements.\n\nFor autologous versus irradiated homologous costal cartilage, the review found no significant differences in functional outcomes or complications, although resorption was more frequent with homologous grafts. The practical message is to individualize graft selection: consider costal cartilage for major reconstruction, conchal cartilage for lower-demand correction where minimizing donor morbidity matters, and septal cartilage as a first-line option when enough is available.\n\nThe review is useful because it brings together a substantial body of clinical evidence and makes the trade-offs between graft sources explicit. However, it does not establish a universally superior graft or demand an immediate change in practice. The evidence is limited by the scarcity of standardized comparative studies and by narrative rather than quantitative synthesis. Confidence is therefore moderate: this is valuable information for clinical decision-making and journal-club discussion, but not definitive proof. Future studies should use consistent outcome measures and longer follow-up to compare function, aesthetic satisfaction, resorption, and donor-site complications.",
+      "mcq": [
+        {
+          "q_ar": "ما أبرز ميزة أبلغت عنها المراجعة لـcostal cartilage مقارنةً بـconchal cartilage؟",
+          "q_en": "What was the principal reported advantage of costal cartilage over conchal cartilage?",
+          "options_ar": [
+            "أ) مراضة أقل في موضع أخذ graft",
+            "ب) ثبات بنيوي أفضل وامتصاص طويل الأمد أقل",
+            "ج) نتائج جمالية أفضل في جميع الحالات",
+            "د) عدم حدوث مضاعفات"
+          ],
+          "options_en": [
+            "A) Lower donor-site morbidity",
+            "B) Greater structural stability and less long-term resorption",
+            "C) Better aesthetic outcomes in every case",
+            "D) No complications"
+          ],
+          "answer": 1,
+          "explanation_ar": "أفادت المراجعة بأن costal cartilage حققت ثباتاً بنيوياً أفضل وامتصاصاً أقل على المدى الطويل، لكنها ارتبطت بمراضة أعلى في موضع أخذ graft.",
+          "explanation_en": "The review reported greater structural stability and less long-term resorption with costal cartilage, alongside greater donor-site morbidity."
+        },
+        {
+          "q_ar": "ما الاختلاف الذي لوحظ بين autologous وirradiated homologous costal cartilage؟",
+          "q_en": "What difference was observed between autologous and irradiated homologous costal cartilage?",
+          "options_ar": [
+            "أ) كانت الوظيفة أسوأ دائماً مع autologous cartilage",
+            "ب) زادت المضاعفات مع irradiated homologous cartilage بشكل مؤكد",
+            "ج) لم تظهر فروق مهمة في الوظيفة أو المضاعفات، لكن الامتصاص كان أكثر شيوعاً مع homologous grafts",
+            "د) كان الثبات أقل مع autologous cartilage في جميع الدراسات"
+          ],
+          "options_en": [
+            "A) Function was always worse with autologous cartilage",
+            "B) Complications were definitively higher with irradiated homologous cartilage",
+            "C) No significant functional or complication differences were found, but resorption was more frequent with homologous grafts",
+            "D) Stability was lower with autologous cartilage in every study"
+          ],
+          "answer": 2,
+          "explanation_ar": "لم تجد المراجعة اختلافات مهمة في النتائج الوظيفية أو المضاعفات بين النوعين، لكن الامتصاص كان أكثر شيوعاً مع irradiated homologous grafts.",
+          "explanation_en": "The review found no significant functional or complication differences, while resorption was more frequent with irradiated homologous grafts."
+        },
+        {
+          "q_ar": "ما الخلاصة العملية الأساسية للمراجعة بشأن اختيار graft؟",
+          "q_en": "What is the review’s main practical conclusion about graft selection?",
+          "options_ar": [
+            "أ) استخدام costal cartilage في كل حالات septorhinoplasty",
+            "ب) تجنب septal cartilage بسبب ضعف نتائجها",
+            "ج) تخصيص الاختيار بحسب احتياجات إعادة البناء وكمية cartilage المتاحة",
+            "د) تفضيل conchal cartilage دائماً بسبب غياب المضاعفات"
+          ],
+          "options_en": [
+            "A) Use costal cartilage in every septorhinoplasty case",
+            "B) Avoid septal cartilage because of poor outcomes",
+            "C) Individualize selection according to reconstructive needs and available cartilage",
+            "D) Always favor conchal cartilage because it has no complications"
+          ],
+          "answer": 2,
+          "explanation_ar": "توصي المراجعة باختيار graft وفق متطلبات إعادة البناء: costal cartilage للحالات الكبيرة، وconchal للتصحيح الأقل طلباً، وseptal عند كفاية الكمية.",
+          "explanation_en": "The review recommends matching the graft to reconstructive demands: costal cartilage for major reconstruction, conchal for lower-demand correction, and septal cartilage when sufficient."
+        }
+      ]
+    },
+    {
+      "pmid": "43098804",
+      "title_ar": "Efficacy and safety of turbinate volume reduction surgeries in patients with chronic rhinitis: A systematic review and meta-analysis.",
+      "title_en": "Efficacy and safety of turbinate volume reduction surgeries in patients with chronic rhinitis: A systematic review and meta-analysis.",
+      "journal": "European annals of otorhinolaryngology, head and neck diseases",
+      "pub_date": "2026-Nov-26",
+      "doi": "10.1016/j.anorl.2026.10.004",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43098804/",
+      "pdf_url": null,
+      "study_design": "Systematic review and meta-analysis of 49 studies, 8133 participants",
+      "summary_ar": "قيّمت هذه systematic review وmeta-analysis نتائج وسلامة ستة أنواع من turbinate volume reduction surgery لدى مرضى chronic rhinitis، اعتمادًا على 49 دراسة شملت 8133 مشاركًا. تحسنت أعراض nasal discharge وnasal obstruction وsneezing بعد معظم الإجراءات، واستمر التحسن حتى 12 شهرًا. ازدادت mean cross-sectional area بعد جميع التقنيات، لكن التحسن في nasal cavity volume لم يكن ذا دلالة إحصائية مع LATR أو RFVTR. ارتبط LATR وحده بإطالة mucociliary transit time بدرجة ذات دلالة إحصائية. سُجلت معدلات مرتفعة من nasal dryness وmucosal injury وbleeding بعد PIT، بينما ارتبط LATR بزيادة crust formation. تشير النتائج إلى فعالية عامة مع اختلافات مهمة في الفوائد والمضاعفات، ما يدعم اختيار التقنية وفق احتياجات المريض مع مراعاة محدودية المقارنة المباشرة بين الدراسات.",
+      "summary_en": "This systematic review and meta-analysis assessed the efficacy and safety of six turbinate volume reduction procedures for chronic rhinitis. It included 49 studies and 8,133 participants. Most techniques improved nasal discharge, obstruction, and sneezing, with benefits reported for up to 12 months. Mean cross-sectional area increased significantly across all evaluated procedures, although nasal cavity volume gains were not statistically significant for LATR or RFVTR. LATR alone was associated with a significant prolongation of mucociliary transit time. PIT had relatively high rates of nasal dryness, mucosal injury, and bleeding, while crust formation was common with LATR. Overall, the findings support procedure selection tailored to patient needs and technique-specific risks.",
+      "practice_change_ar": "لا تفرض النتائج تغييرًا فوريًا في الممارسة، لكنها تدعم اختيار turbinate reduction technique بشكل فردي مع الانتباه إلى مضاعفات PIT وLATR.",
+      "practice_change_en": "The findings do not mandate an immediate practice change, but support individualized turbinate reduction technique selection with attention to the complications associated with PIT and LATR.",
+      "future_impact_ar": "قد تساعد دراسات مقارنة مباشرة ذات متابعة طويلة الأمد على تحديد التقنية الأنسب لكل نمط من أعراض chronic rhinitis.",
+      "future_impact_en": "Direct comparative studies with longer follow-up may clarify which technique best suits different chronic rhinitis symptom profiles.",
+      "why_important_ar": "تلخص الدراسة الفوائد العرضية والتغيرات التشريحية ومخاطر المضاعفات عبر مجموعة واسعة من turbinate reduction procedures.",
+      "why_important_en": "The review summarizes symptom benefits, anatomical outcomes, and complication profiles across a broad range of turbinate reduction procedures.",
+      "vs_previous_ar": "بدل تقييم تقنية واحدة، تجمع الدراسة نتائج ست تقنيات وتبرز اختلافات في التحسن الحجمي وmucociliary transit time والمضاعفات.",
+      "vs_previous_en": "Rather than evaluating a single procedure, this review synthesizes six techniques and highlights differences in volumetric outcomes, mucociliary transit time, and complications.",
+      "stars": 3,
+      "stars_reason_ar": "هذه systematic review وmeta-analysis كبيرة وذات صلة مباشرة بـrhinology، لكنها لا تثبت تفوق تقنية بعينها ولا تقدم دليلًا واضحًا يغير الممارسة؛ لذلك تمثل معرفة مفيدة مع حاجة إلى مقارنات أقوى.",
+      "stars_reason_en": "This large, clinically relevant systematic review and meta-analysis provides useful rhinology evidence, but does not establish a superior technique or clearly change practice; stronger comparative studies are needed.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it compares six commonly used procedures and highlights how differing outcomes and complication profiles may inform operative selection.",
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_detail_en": null,
+      "watch_type": null,
+      "research_gap_ar": "هناك حاجة إلى تجارب مقارنة مباشرة تستخدم مقاييس موحدة للأعراض والوظيفة الأنفية والمضاعفات مع متابعة طويلة الأمد.",
+      "research_gap_en": "Direct comparative trials using standardized symptom, nasal function, and complication measures with long-term follow-up are needed.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نستعرض اليوم systematic review وmeta-analysis حول فعالية وسلامة جراحات تقليل حجم turbinate لدى مرضى chronic rhinitis. جمعت الدراسة 49 دراسة شملت 8133 مشاركًا، وقيّمت ست تقنيات: PIT وSMR وSMDT وLATR وMAT وRFVTR.\n\nأظهرت النتائج أن معظم الإجراءات حسّنت nasal discharge وnasal obstruction وsneezing، مع استمرار التحسن المبلغ عنه حتى 12 شهرًا. كما تحسنت mean cross-sectional area بعد جميع التقنيات. لكن التحسن في nasal cavity volume لم يصل إلى دلالة إحصائية في مجموعتي LATR وRFVTR. وبرزت ملاحظة وظيفية مهمة: كان LATR الإجراء الوحيد المرتبط بإطالة mucociliary transit time ذات دلالة إحصائية.\n\nأما من ناحية السلامة، فارتبط PIT بمعدلات مرتفعة من nasal dryness وmucosal injury وbleeding، بينما كان crust formation ملحوظًا مع LATR. لذلك لا تقدم الدراسة إجراءً واحدًا باعتباره الأفضل لجميع المرضى؛ بل تشير إلى ضرورة موازنة الأعراض والأهداف التشريحية ومخاطر المضاعفات عند اختيار التقنية.\n\nسريريًا، لا تدعو النتائج إلى تغيير فوري في الممارسة، لكنها توفر ملخصًا مفيدًا للمناقشة مع المرضى واختيار الإجراء على أساس فردي. ينبغي تفسير المقارنات بحذر، لأن الملخص لا يوضح تفاصيل التجانس بين الدراسات أو قوة المقارنات المباشرة. كذلك لا تثبت النتائج تفوق تقنية بعينها.\n\nالخلاصة: turbinoplasty فعّال عمومًا لتحسين أعراض chronic rhinitis، لكن النتائج والمخاطر تختلف حسب التقنية. ستكون الخطوة البحثية التالية دراسات مقارنة مباشرة تستخدم مقاييس موحدة وتتابع المرضى لفترة أطول لتحديد أفضل إجراء لكل نمط سريري.",
+      "audio_script_en": "Today we review a systematic review and meta-analysis of turbinate volume reduction surgery for chronic rhinitis. The authors included 49 studies with 8,133 participants and assessed six procedures: PIT, SMR, SMDT, LATR, MAT, and RFVTR.\n\nMost techniques improved nasal discharge, nasal obstruction, and sneezing, with benefits reported for up to 12 months. Mean cross-sectional area increased significantly with every evaluated procedure. However, nasal cavity volume improvement was not statistically significant for LATR or RFVTR. One functional finding deserves particular attention: LATR was the only modality associated with a significant prolongation of mucociliary transit time.\n\nComplication profiles also differed. PIT was associated with relatively high rates of nasal dryness, mucosal injury, and bleeding, whereas crust formation was frequent with LATR. The results therefore do not identify one universally best procedure. Instead, they support weighing each patient’s symptoms and treatment goals against the expected benefits and technique-specific risks.\n\nFor practice, this study does not require an immediate change in surgical management, but it provides useful evidence for individualized counseling and procedure selection. The findings should be interpreted cautiously: the abstract does not provide details on between-study heterogeneity or the strength of direct comparisons, and the results do not establish that one technique is superior overall.\n\nThe take-home message is that turbinate reduction is generally effective for chronic rhinitis, but outcomes and complications vary by technique. Future direct comparative studies with standardized measures and longer follow-up are needed to determine which procedure best fits each clinical presentation.",
+      "mcq": [
+        {
+          "q_ar": "كم عدد الدراسات والمشاركين في هذه systematic review وmeta-analysis؟",
+          "q_en": "How many studies and participants were included in this systematic review and meta-analysis?",
+          "options_ar": [
+            "أ) 49 دراسة و8133 مشاركًا",
+            "ب) 6 دراسات و813 مشاركًا",
+            "ج) 83 دراسة و1949 مشاركًا",
+            "د) 12 دراسة و6000 مشارك"
+          ],
+          "options_en": [
+            "A) 49 studies and 8,133 participants",
+            "B) 6 studies and 813 participants",
+            "C) 83 studies and 1,949 participants",
+            "D) 12 studies and 6,000 participants"
+          ],
+          "answer": 0,
+          "explanation_ar": "شملت المراجعة 49 دراسة بإجمالي 8133 مشاركًا.",
+          "explanation_en": "The review included 49 studies with a total of 8,133 participants."
+        },
+        {
+          "q_ar": "أي تقنية ارتبطت وحدها بإطالة mucociliary transit time ذات دلالة إحصائية؟",
+          "q_en": "Which technique alone was associated with a statistically significant prolongation of mucociliary transit time?",
+          "options_ar": [
+            "أ) PIT",
+            "ب) SMR",
+            "ج) LATR",
+            "د) RFVTR"
+          ],
+          "options_en": [
+            "A) PIT",
+            "B) SMR",
+            "C) LATR",
+            "D) RFVTR"
+          ],
+          "answer": 2,
+          "explanation_ar": "كان LATR الإجراء الوحيد المرتبط بإطالة mucociliary transit time ذات دلالة إحصائية.",
+          "explanation_en": "LATR was the only procedure associated with a statistically significant prolongation of mucociliary transit time."
+        },
+        {
+          "q_ar": "ما المضاعفات التي ارتبطت بمعدلات مرتفعة بعد PIT؟",
+          "q_en": "Which complications were reported at high rates after PIT?",
+          "options_ar": [
+            "أ) crust formation فقط",
+            "ب) nasal dryness وmucosal injury وbleeding",
+            "ج) إطالة mucociliary transit time فقط",
+            "د) عدم تحسن mean cross-sectional area"
+          ],
+          "options_en": [
+            "A) Crust formation only",
+            "B) Nasal dryness, mucosal injury, and bleeding",
+            "C) Prolonged mucociliary transit time only",
+            "D) No improvement in mean cross-sectional area"
+          ],
+          "answer": 1,
+          "explanation_ar": "أظهر PIT معدلات مرتفعة من nasal dryness وmucosal injury وbleeding؛ أما crust formation فارتبطت بمعدل مرتفع مع LATR.",
+          "explanation_en": "PIT had high rates of nasal dryness, mucosal injury, and bleeding; high crust formation was associated with LATR."
+        }
+      ]
+    },
+    {
+      "pmid": "43100145",
+      "title_ar": "Real-World Sinonasal Outcomes of Mepolizumab in Eosinophilic Granulomatosis With Polyangiitis.",
+      "title_en": "Real-World Sinonasal Outcomes of Mepolizumab in Eosinophilic Granulomatosis With Polyangiitis.",
+      "journal": "The Laryngoscope",
+      "pub_date": "2026-Nov-27",
+      "doi": "10.1002/lary.71073",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43100145/",
+      "pdf_url": null,
+      "study_design": "Retrospective single-center cohort n=21",
+      "summary_ar": "قيّمت هذه الدراسة بأثر رجعي فعالية mepolizumab بجرعة 300 mg كل 4 أسابيع لدى 21 بالغًا لديهم EGPA وCRSwNP، مع متابعة لمدة 12 شهرًا. انخفض blood eosinophil count من 940 إلى 60 cells/μL، وتحسنت درجات SNOT-22 من 55 إلى 21.5 وNPS من 5 إلى 2. ارتفعت نتيجة SSIT-16 من 6 إلى 11، وأصبح 42.9% من المرضى normosmic، بينما انخفضت نسبة anosmia من 76.2% إلى 38.1%. حقق 76.2% من المرضى تحسنًا بلغ MCID في SNOT-22، ووصل 85.7% إلى good symptom control. انخفض استخدام OCS من 80.9% إلى 28.6%، وتراجعت الجرعة الوسيطة من 5 mg إلى صفر. ارتبطت ANCA positivity وكثرة جراحات sinus السابقة باستجابة sinonasal أضعف، لكن التصميم الصغير والأحادي المركز يحدان من قوة الاستنتاجات.",
+      "summary_en": "This retrospective single-center study assessed mepolizumab 300 mg every four weeks in 21 adults with EGPA-associated CRSwNP over 12 months. Blood eosinophil count fell from 940 to 60 cells/μL, while SNOT-22 improved from 55 to 21.5 and NPS from 5 to 2. SSIT-16 increased from 6 to 11; 42.9% became normosmic, and anosmia decreased from 76.2% to 38.1%. A total of 76.2% achieved the SNOT-22 MCID and 85.7% reached good symptom control. OCS use declined from 80.9% to 28.6%, with median dose falling from 5 mg to zero. ANCA positivity and more previous sinus surgeries were associated with poorer sinonasal response, although the small, single-center design limits certainty.",
+      "practice_change_ar": "تدعم النتائج النظر في mepolizumab لتحسين sinonasal disease وتقليل OCS لدى مرضى EGPA مع CRSwNP، لكنها لا تكفي وحدها لتغيير الممارسة أو تحديد الاستجابة المتوقعة.",
+      "practice_change_en": "These findings support considering mepolizumab for sinonasal disease and OCS reduction in EGPA with CRSwNP, but are not sufficient on their own to change practice or reliably predict response.",
+      "future_impact_ar": "قد تساعد دراسات متعددة المراكز وأكبر حجمًا على تحديد المرضى الأكثر استفادة من mepolizumab، خصوصًا بحسب ANCA status وتاريخ جراحات sinus.",
+      "future_impact_en": "Larger multicenter studies may clarify who benefits most from mepolizumab, particularly according to ANCA status and prior sinus surgery history.",
+      "why_important_ar": "تقدم الدراسة بيانات real-world عن تحسن الأعراض والـpolyp burden والشم وتقليل OCS لدى مجموعة EGPA يصعب دراستها في تجارب كبيرة.",
+      "why_important_en": "The study provides real-world evidence of improved symptoms, polyp burden, smell, and reduced OCS use in an EGPA population that is difficult to study in large trials.",
+      "vs_previous_ar": "تضيف هذه الدراسة نتائج sinonasal مفصلة من real-world cohort إلى الأدلة المعروفة عن mepolizumab في EGPA، لكنها لا تقارن العلاج مباشرةً ببدائل أخرى.",
+      "vs_previous_en": "This study adds detailed sinonasal outcomes from a real-world EGPA cohort to existing evidence on mepolizumab, but does not directly compare it with alternatives.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة cohort استعادية صغيرة n=21 في The Laryngoscope، مع نتائج سريرية مشجعة واهتمام علاجي جديد نسبيًا، لكن غياب مجموعة ضابطة والتصميم أحادي المركز يجعلانها دليلًا مفيدًا لا ممارسةً مغيرة.",
+      "stars_reason_en": "A small retrospective cohort (n=21) in The Laryngoscope reports encouraging clinical outcomes and a relevant therapeutic application, but the single-center design and lack of a control group make this useful evidence rather than practice-changing evidence.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "Suitable for journal club discussion of an IL-5-targeted biologic's sinonasal effects and OCS reduction in EGPA, including study limitations and potential response predictors.",
+      "watch": true,
+      "watch_detail_ar": "تابعوا mepolizumab كـbiologic لعلاج EGPA-associated CRSwNP، مع الحاجة إلى تأكيد الفعالية وتحديد الاستجابة في دراسات أكبر.",
+      "watch_detail_en": "Track mepolizumab as a biologic option for EGPA-associated CRSwNP, while awaiting larger studies to confirm effectiveness and define response.",
+      "watch_type": "drug",
+      "research_gap_ar": "تحتاج الأدلة إلى دراسة prospective متعددة المراكز مع مجموعة مقارنة وقياسات متابعة أطول لتأكيد الفعالية وتقييم أثر ANCA status وجراحات sinus السابقة.",
+      "research_gap_en": "Prospective multicenter studies with a comparator and longer follow-up are needed to confirm effectiveness and assess the influence of ANCA status and prior sinus surgery.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نتناول اليوم دراسة عن mepolizumab ونتائج sinonasal لدى مرضى EGPA المصابين أيضًا بـCRSwNP. الدراسة retrospective ومن مركز واحد، وشملت 21 بالغًا تلقوا mepolizumab بجرعة 300 mg كل أربعة أسابيع لمدة لا تقل عن 12 شهرًا. تلقى جميع المرضى mometasone داخل الأنف، وكان استخدام OCS والعلاج immunosuppressive مسموحًا.\n\nبعد 12 شهرًا، انخفض blood eosinophil count بوضوح، من 940 إلى 60 cells/μL. تحسنت جودة الحياة المقاسة بـSNOT-22 من 55 إلى 21.5، وانخفضت درجة NPS من 5 إلى 2. كما تحسنت وظيفة الشم؛ ارتفعت نتيجة SSIT-16 من 6 إلى 11، وأصبح 42.9% من المرضى normosmic. كذلك انخفضت نسبة anosmia من 76.2% إلى 38.1%. حقق أكثر من ثلاثة أرباع المشاركين MCID في SNOT-22، ووصل 85.7% إلى good symptom control.\n\nمن النتائج المهمة أيضًا تراجع استخدام OCS، من 80.9% عند البداية إلى 28.6% بعد عام، وانخفضت الجرعة الوسيطة من 5 mg إلى صفر. وارتبطت ANCA positivity وعدد أكبر من جراحات sinus السابقة باستجابة sinonasal أضعف.\n\nما الذي تعنيه هذه النتائج للممارسة؟ إنها تدعم النظر في mepolizumab لدى مرضى EGPA مع CRSwNP، خصوصًا عندما يكون تقليل OCS وتحسين أعراض الأنف والشم من الأهداف العلاجية. لكنها لا تثبت تفوقه على علاجات أخرى، ولا تبرر تغييرًا عامًا في الممارسة؛ فالدراسة صغيرة، retrospective، ومن مركز واحد، ومن دون مجموعة مقارنة. لذلك فالثقة متوسطة، والنتيجة worth knowing وليست practice-changing.\n\nوتتمثل الفجوة البحثية في الحاجة إلى دراسات prospective متعددة المراكز، مع مجموعات مقارنة ومتابعة أطول، لتأكيد النتائج والتحقق من دور ANCA status وجراحات sinus السابقة في التنبؤ بالاستجابة. ويستحق mepolizumab المتابعة كـbiologic لعلاج هذا النمط من CRSwNP المرتبط بـEGPA.",
+      "audio_script_en": "Today’s article examines mepolizumab and sinonasal outcomes in patients with EGPA and CRSwNP. This was a retrospective, single-center study of 21 adults treated with mepolizumab 300 mg every four weeks for at least 12 months. All patients used intranasal mometasone, and concomitant OCS or immunosuppressive therapy was allowed.\n\nAt 12 months, blood eosinophil count decreased substantially, from 940 to 60 cells/μL. Sinonasal quality of life improved, with SNOT-22 falling from 55 to 21.5, and endoscopic polyp burden improved, with NPS decreasing from 5 to 2. Olfactory function also improved: SSIT-16 increased from 6 to 11, and 42.9% of patients became normosmic. The proportion with anosmia fell from 76.2% to 38.1%. More than three quarters achieved the SNOT-22 MCID, and 85.7% reached good symptom control.\n\nOCS use also declined, from 80.9% at baseline to 28.6% at one year; median dose decreased from 5 mg to zero. ANCA positivity and a greater number of previous sinus surgeries were associated with a poorer sinonasal response.\n\nWhat does this mean for practice? The findings support considering mepolizumab for patients with EGPA-associated CRSwNP, particularly when reducing OCS and improving sinonasal symptoms and smell are treatment goals. However, the study does not establish superiority over other therapies or justify a broad practice change. It is small, retrospective, single-center, and has no comparator. Confidence is therefore moderate: this is worth knowing, but not practice-changing evidence.\n\nThe key research gap is the need for prospective multicenter studies with comparator groups and longer follow-up to confirm the findings and test whether ANCA status and prior sinus surgery predict response. Mepolizumab is a biologic worth tracking for this EGPA-associated CRSwNP population.",
+      "mcq": [
+        {
+          "q_ar": "ما تصميم الدراسة وعدد المشاركين؟",
+          "q_en": "What was the study design and sample size?",
+          "options_ar": [
+            "أ) RCT شملت 120 مريضًا",
+            "ب) cohort prospective شملت 45 مريضًا",
+            "ج) cohort استعادية من مركز واحد شملت 21 مريضًا",
+            "د) systematic review شملت 12 دراسة"
+          ],
+          "options_en": [
+            "A) An RCT with 120 patients",
+            "B) A prospective cohort with 45 patients",
+            "C) A single-center retrospective cohort with 21 patients",
+            "D) A systematic review of 12 studies"
+          ],
+          "answer": 2,
+          "explanation_ar": "شملت الدراسة 21 بالغًا في cohort استعادية من مركز واحد.",
+          "explanation_en": "The study included 21 adults in a single-center retrospective cohort."
+        },
+        {
+          "q_ar": "ما التغير الذي طرأ على استخدام OCS بعد 12 شهرًا؟",
+          "q_en": "How did OCS use change after 12 months?",
+          "options_ar": [
+            "أ) ارتفع من 28.6% إلى 80.9%",
+            "ب) انخفض من 80.9% إلى 28.6%",
+            "ج) بقي ثابتًا عند 80.9%",
+            "د) انخفض من 100% إلى 80.9%"
+          ],
+          "options_en": [
+            "A) It increased from 28.6% to 80.9%",
+            "B) It decreased from 80.9% to 28.6%",
+            "C) It remained unchanged at 80.9%",
+            "D) It decreased from 100% to 80.9%"
+          ],
+          "answer": 1,
+          "explanation_ar": "تراجعت نسبة استخدام OCS من 80.9% عند البداية إلى 28.6% بعد 12 شهرًا.",
+          "explanation_en": "The proportion using OCS fell from 80.9% at baseline to 28.6% after 12 months."
+        },
+        {
+          "q_ar": "أي عاملين ارتبطا باستجابة sinonasal أضعف؟",
+          "q_en": "Which two factors were associated with a poorer sinonasal response?",
+          "options_ar": [
+            "أ) انخفاض blood eosinophil count وارتفاع SSIT-16",
+            "ب) ANCA positivity وعدد أكبر من جراحات sinus السابقة",
+            "ج) استخدام mometasone وبلوغ normosmia",
+            "د) تحسن SNOT-22 وانخفاض NPS"
+          ],
+          "options_en": [
+            "A) Lower blood eosinophil count and higher SSIT-16",
+            "B) ANCA positivity and more previous sinus surgeries",
+            "C) Mometasone use and achieving normosmia",
+            "D) Improved SNOT-22 and reduced NPS"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتبطت ANCA positivity وكثرة جراحات sinus السابقة باستجابة sinonasal أضعف.",
+          "explanation_en": "ANCA positivity and a greater number of previous sinus surgeries were associated with poorer sinonasal response."
+        }
+      ]
+    },
+    {
+      "pmid": "43098174",
+      "title_ar": "Topical Tranexamic Acid Versus Nasal Packing for Acute Epistaxis Control and Rebleeding Prevention: A Systematic Review and Network Meta-Analysis.",
+      "title_en": "Topical Tranexamic Acid Versus Nasal Packing for Acute Epistaxis Control and Rebleeding Prevention: A Systematic Review and Network Meta-Analysis.",
+      "journal": "Journal of investigative surgery : the official journal of the Academy of Surgical Research",
+      "pub_date": "2026-Dec",
+      "doi": "10.1080/08941939.2026.2765622",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43098174/",
+      "pdf_url": "https://doi.org/10.1080/08941939.2026.2765622",
+      "study_design": "Systematic review and network meta-analysis of 14 RCTs (n=2,166)",
+      "summary_ar": "قارنت هذه systematic review وnetwork meta-analysis بين سبع استراتيجيات لعلاج acute anterior epistaxis لدى البالغين، اعتمادًا على 14 RCT شملت 2,166 مشاركًا. لم يُظهر أي علاج تحسنًا مؤكدًا في إيقاف النزف خلال 30 دقيقة، رغم أن high-dose topical TXA حقق أعلى ترتيب تقديريًا، مع OR 3.08 و95% confidence interval من 0.77 إلى 12.32. ارتبط كل من high-dose وstandard-dose topical TXA بانخفاض rebleeding خلال 1-3 أيام مقارنةً بـplacebo. في المقابل، ارتبط ANP مع vasoconstrictor بزيادة rebleeding خلال 4-7 أيام، لكن هذه النتيجة تحتاج إلى تأكيد. كانت certainty للأدلة منخفضة إلى منخفضة جدًا، كما أن ترتيب high-dose TXA يستند إلى trial واحد فقط. تشير النتائج إلى أن topical TXA قد يكون خيارًا غير باضعًا معقولًا، لكنها لا تثبت تفوقه في السيطرة الفورية على النزف.",
+      "summary_en": "This systematic review and network meta-analysis compared seven treatments for acute anterior epistaxis in adults, including topical TXA and different nasal packing strategies. It included 14 RCTs with 2,166 participants. No treatment clearly improved bleeding cessation within 30 minutes, although high-dose topical TXA ranked highest (OR 3.08, 95% CI 0.77-12.32). Both high-dose and standard-dose topical TXA were associated with less rebleeding at 1-3 days. ANP with a vasoconstrictor was associated with more rebleeding at 4-7 days, a signal that requires confirmation. Certainty was low to very low, and the high-dose TXA ranking relied on one trial. Topical TXA may be a reasonable noninvasive option, but its immediate bleeding-control benefit remains uncertain.",
+      "practice_change_ar": "يمكن اعتبار topical TXA خيارًا غير باضعًا لبعض حالات acute anterior epistaxis، لكن الأدلة الحالية لا تبرر استبدال nasal packing بصورة روتينية.",
+      "practice_change_en": "Topical TXA may be considered a noninvasive option for some cases of acute anterior epistaxis, but current evidence does not justify routinely replacing nasal packing.",
+      "future_impact_ar": "قد تؤدي RCT أكبر تقارن جرعات topical TXA مباشرةً مع nasal packing إلى توضيح فعاليته ومخاطر rebleeding.",
+      "future_impact_en": "Larger RCTs directly comparing topical TXA doses with nasal packing may clarify its effectiveness and rebleeding risks.",
+      "why_important_ar": "تجمع هذه الدراسة الأدلة المقارنة على خيارات شائعة لعلاج epistaxis وتبرز احتمال خفض topical TXA لـearly rebleeding.",
+      "why_important_en": "This study synthesizes comparative evidence on common epistaxis treatments and highlights the potential for topical TXA to reduce early rebleeding.",
+      "vs_previous_ar": "بخلاف المقارنات الثنائية السابقة، تقارن هذه network meta-analysis سبع استراتيجيات، لكنها لا تقدم دليلًا عالي اليقين يغيّر الممارسة الحالية.",
+      "vs_previous_en": "Unlike prior pairwise comparisons, this network meta-analysis evaluates seven strategies, but it does not provide high-certainty evidence that changes current practice.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة systematic review وnetwork meta-analysis قوية التصميم، لكن تصنيف المجلة غير معروف، واليقين منخفض إلى منخفض جدًا؛ لذلك تقدم معرفة مفيدة دون تغيير الممارسة.",
+      "stars_reason_en": "This is a strong-design systematic review and network meta-analysis, but the journal tier is unclear and certainty is low to very low; it offers useful knowledge without changing practice.",
+      "confidence": "🔴",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it compares multiple epistaxis treatments and presents differing rebleeding signals alongside important limitations in evidence certainty.",
+      "watch": true,
+      "watch_detail_ar": "يستحق topical TXA المتابعة كدواء موضعي محتمل لعلاج epistaxis، مع ضرورة انتظار تجارب أكبر لتحديد الجرعة والفعالية.",
+      "watch_detail_en": "Topical TXA is worth tracking as a potential topical treatment for epistaxis, pending larger trials to establish dose and effectiveness.",
+      "watch_type": "drug",
+      "research_gap_ar": "هناك حاجة إلى RCT متعددة المراكز تقارن جرعات topical TXA مباشرةً مع nasal packing وتقيس إيقاف النزف وrebleeding والآثار الجانبية.",
+      "research_gap_en": "Multicenter RCTs should directly compare topical TXA doses with nasal packing and assess bleeding cessation, rebleeding, and adverse effects.",
+      "subspecialty": "rhinology",
+      "audio_script_ar": "نراجع اليوم دراسة بعنوان Topical Tranexamic Acid Versus Nasal Packing for Acute Epistaxis Control and Rebleeding Prevention. وهي systematic review وnetwork meta-analysis قارنت سبع استراتيجيات لعلاج acute anterior epistaxis لدى البالغين. شملت الدراسة 14 RCT بإجمالي 2,166 مشاركًا، وقارنت placebo وstandard-dose وhigh-dose topical TXA، إلى جانب topical vasoconstrictor وأنواع مختلفة من anterior nasal packing.\n\nكانت النتيجة الأساسية هي إيقاف النزف خلال 30 دقيقة. لم يثبت تفوق أي علاج على placebo في هذه النتيجة. ومع ذلك، جاء high-dose topical TXA في المرتبة الأعلى تقديريًا، مع OR 3.08 و95% confidence interval من 0.77 إلى 12.32؛ وهذا المجال الواسع يشمل عدم وجود تأثير، كما أن هذا الترتيب اعتمد على trial واحد فقط.\n\nبالنسبة إلى rebleeding خلال 1-3 أيام، ارتبط high-dose TXA بانخفاض الاحتمال، مع OR 0.16، وارتبط standard-dose بانخفاضه أيضًا، مع OR 0.30. أما خلال 4-7 أيام، فظهر ارتباط بين ANP مع vasoconstrictor وارتفاع rebleeding، مع OR 4.63. ينبغي التعامل بحذر مع هذه الإشارة إلى أن تؤكدها دراسات إضافية.\n\nالأهمية السريرية هي أن topical TXA قد يكون خيارًا غير باضعًا معقولًا، خصوصًا عندما نرغب في تجنب إزعاج nasal packing. لكن الدراسة لا تثبت أنه يوقف النزف بصورة أفضل خلال أول 30 دقيقة، ولا تكفي لتغيير الممارسة الروتينية. كانت certainty للأدلة منخفضة إلى منخفضة جدًا، لذا مستوى الثقة في الاستنتاجات منخفض.\n\nتستحق الدراسة النقاش في journal club لأنها تجمع مقارنات متعددة وتُظهر الفجوات في الأدلة، لا لأنها تقدم إجابة نهائية. الخطوة التالية هي إجراء RCT أكبر ومباشر يقارن جرعات topical TXA مع nasal packing، ويقيس إيقاف النزف وrebleeding والآثار الجانبية. الخلاصة: يمكن النظر في topical TXA كخيار، لكن ينبغي تفسير النتائج بحذر ومواصلة استخدام الحكم السريري.",
+      "audio_script_en": "Today we are reviewing “Topical Tranexamic Acid Versus Nasal Packing for Acute Epistaxis Control and Rebleeding Prevention.” This systematic review and network meta-analysis compared seven strategies for acute anterior epistaxis in adults. It included 14 RCTs with 2,166 participants and assessed placebo, standard-dose and high-dose topical TXA, topical vasoconstrictor, and several anterior nasal packing approaches.\n\nThe primary outcome was bleeding cessation within 30 minutes. No treatment showed a clear improvement over placebo for this outcome. High-dose topical TXA ranked highest, with an OR of 3.08 and a 95% confidence interval of 0.77 to 12.32. That interval includes no effect, and the high-dose ranking was based on a single trial, so it should not be interpreted as proof of superiority.\n\nFor rebleeding at 1 to 3 days, both high-dose TXA and standard-dose TXA were associated with lower odds: OR 0.16 and 0.30, respectively. At 4 to 7 days, ANP with a vasoconstrictor was associated with increased rebleeding, with an OR of 4.63. This signal needs confirmation before it informs routine treatment decisions.\n\nClinically, topical TXA may be a reasonable noninvasive option, particularly when avoiding the discomfort of nasal packing is desirable. However, the analysis does not establish better immediate bleeding control, and the findings are not strong enough to support routinely replacing nasal packing. Certainty was low to very low, so confidence in the estimates is limited.\n\nThis paper is useful for journal club because it brings several treatment comparisons together and identifies meaningful evidence gaps, rather than providing a definitive practice-changing answer. Larger direct RCTs should compare TXA doses with nasal packing and measure bleeding cessation, rebleeding, and adverse effects. The takeaway is that topical TXA is worth considering in selected cases, but its benefits and optimal dose remain uncertain, and clinical judgment is still essential.",
+      "mcq": [
+        {
+          "q_ar": "ما النتيجة الأساسية التي قيّمتها هذه network meta-analysis؟",
+          "q_en": "What was the primary outcome in this network meta-analysis?",
+          "options_ar": [
+            "أ) إيقاف النزف خلال 30 دقيقة",
+            "ب) rebleeding بعد 30 يومًا",
+            "ج) الحاجة إلى surgery خلال سنة",
+            "د) تحسن جودة الحياة بعد 6 أشهر"
+          ],
+          "options_en": [
+            "A) Bleeding cessation within 30 minutes",
+            "B) Rebleeding after 30 days",
+            "C) Need for surgery within one year",
+            "D) Quality-of-life improvement at six months"
+          ],
+          "answer": 0,
+          "explanation_ar": "كانت النتيجة الأساسية هي إيقاف النزف خلال 30 دقيقة؛ ولم يُظهر أي علاج تحسنًا مؤكدًا فيها.",
+          "explanation_en": "The primary outcome was bleeding cessation within 30 minutes; no treatment showed a clear improvement in this outcome."
+        },
+        {
+          "q_ar": "ما العلاج الذي ارتبط بانخفاض rebleeding خلال 1-3 أيام؟",
+          "q_en": "Which treatments were associated with less rebleeding at 1-3 days?",
+          "options_ar": [
+            "أ) ANP مع vasoconstrictor فقط",
+            "ب) high-dose وstandard-dose topical TXA",
+            "ج) placebo وtopical vasoconstrictor",
+            "د) ANP دون vasoconstrictor فقط"
+          ],
+          "options_en": [
+            "A) ANP with a vasoconstrictor only",
+            "B) High-dose and standard-dose topical TXA",
+            "C) Placebo and topical vasoconstrictor",
+            "D) ANP without a vasoconstrictor only"
+          ],
+          "answer": 1,
+          "explanation_ar": "ارتبط كل من high-dose وstandard-dose topical TXA بانخفاض rebleeding خلال 1-3 أيام مقارنةً بـplacebo.",
+          "explanation_en": "Both high-dose and standard-dose topical TXA were associated with less rebleeding at 1-3 days compared with placebo."
+        },
+        {
+          "q_ar": "لماذا ينبغي تفسير ترتيب high-dose topical TXA بحذر؟",
+          "q_en": "Why should the ranking of high-dose topical TXA be interpreted cautiously?",
+          "options_ar": [
+            "أ) لأنه لم يُدرس لدى بالغين",
+            "ب) لأنه اعتمد على trial واحد فقط، وكانت certainty منخفضة",
+            "ج) لأنه أدى إلى زيادة مؤكدة في الوفيات",
+            "د) لأنه لم يُقارن بأي علاج آخر"
+          ],
+          "options_en": [
+            "A) It was not studied in adults",
+            "B) It relied on only one trial, and certainty was low",
+            "C) It caused a confirmed increase in mortality",
+            "D) It was not compared with any other treatment"
+          ],
+          "answer": 1,
+          "explanation_ar": "استند ترتيب high-dose topical TXA إلى trial واحد، وكانت certainty العامة منخفضة إلى منخفضة جدًا.",
+          "explanation_en": "The high-dose topical TXA ranking relied on one trial, and overall certainty was low to very low."
+        }
+      ]
+    },
+    {
+      "pmid": "43097400",
+      "title_ar": "Clinical Plausibility and Pretraining Utility of Virtual Narrow-Band Imaging for Laryngeal Lesion Classification: Multicenter Model Development and Validation Study.",
+      "title_en": "Clinical Plausibility and Pretraining Utility of Virtual Narrow-Band Imaging for Laryngeal Lesion Classification: Multicenter Model Development and Validation Study.",
+      "journal": "JMIR medical informatics",
+      "pub_date": "2026-Nov-26",
+      "doi": "10.2196/109811",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43097400/",
+      "pdf_url": "https://doi.org/10.2196/109811",
+      "study_design": "Multicenter model development and external and prospective validation study",
+      "summary_ar": "قيّمت هذه الدراسة متعددة المراكز ما إذا كان استخدام صور virtual narrow-band imaging (Vir-NBI) المولدة من white-light imaging (WLI) لتحضير نموذج ResNet-50 يحسن تصنيف آفات الحنجرة باستخدام real-NBI. شملت مجموعة التطوير 1245 مريضًا، مع تحقق خارجي في مجموعتين تضمان 311 مريضًا. لم يتفوق Vir-NBI على WLI في image-level AUC الخارجي، وكانت فروق أداء التعلم مع أعداد صغيرة من real-NBI لصالح WLI. كما أظهر تحليل color-matched augmentation تفوقًا لـ WLI، بينما أشارت تحليلات test modality إلى أن أداء النموذج يعتمد على توافق صور الاختبار مع مجال التدريب. في prospective validation لدى 138 مريضًا، كان patient-level AUC متقاربًا، لكن WLI كشف نسبة أعلى من high-risk patients. قيّم الأطباء plausibility صور Vir-NBI بدرجة 4 إلى 5 في 86.9% من التقييمات، لكن الدراسة لم تثبت فائدة سريرية إضافية لهذا النهج.",
+      "summary_en": "This multicenter study tested whether ResNet-50 pretraining on virtual narrow-band imaging (Vir-NBI) generated from white-light imaging (WLI) improves classification using real NBI. The development cohort included 1,245 patients, with external validation in two cohorts totaling 311 patients. Vir-NBI did not outperform WLI on external image-level AUC, and learning-curve results with small real-NBI training sets favored WLI. Color-matched augmentation also favored WLI, while test-modality analyses suggested that performance depends partly on compatibility between training and test image domains. In prospective validation of 138 patients, patient-level AUCs were similar, but WLI identified more high-risk patients. Clinicians rated 86.9% of Vir-NBI image assessments as plausibility scores of 4 to 5, yet the study did not demonstrate incremental clinical benefit.",
+      "practice_change_ar": "لا تبرر النتائج اعتماد Vir-NBI بدلًا من WLI لتحضير نماذج تصنيف آفات الحنجرة أو تغيير التقييم السريري الحالي.",
+      "practice_change_en": "These results do not support replacing WLI with Vir-NBI for model pretraining or changing current clinical assessment.",
+      "future_impact_ar": "ينبغي أن تختبر الدراسات اللاحقة طرقًا تحافظ على خصائص الصور وتتحقق من الفائدة باستخدام مجموعات أكبر من real-NBI ونتائج سريرية.",
+      "future_impact_en": "Future studies should test image-generation approaches that preserve relevant features and evaluate clinical benefit using larger real-NBI datasets.",
+      "why_important_ar": "توضح الدراسة أن الصور الافتراضية المقنعة بصريًا لا تضمن تحسن أداء النموذج، وقد يقل اكتشاف الحالات عالية الخطورة مقارنةً بـ WLI.",
+      "why_important_en": "The study shows that visually plausible synthetic images do not guarantee better model performance and may identify fewer high-risk cases than WLI.",
+      "vs_previous_ar": "بدل افتراض أن تحويل WLI إلى Vir-NBI يعوض ندرة بيانات real-NBI، تقارن هذه الدراسة مباشرةً فائدته الإضافية مع التدريب على WLI الأصلي وتجد عدم وجود تفوق.",
+      "vs_previous_en": "Rather than assuming that translating WLI into Vir-NBI can compensate for scarce real-NBI data, this study directly compares it with original WLI pretraining and finds no advantage.",
+      "stars": 3,
+      "stars_reason_ar": "دراسة تطوير نموذج متعددة المراكز مع تحقق خارجي ومستقبلي، وتتناول سؤالًا جديدًا ذا صلة بـ laryngology؛ لكنها لا تثبت فائدة سريرية إضافية ولا تغيّر الممارسة الحالية.",
+      "stars_reason_en": "This is a multicenter model-development study with external and prospective validation and a novel laryngology question, but it shows no incremental clinical benefit and does not change practice.",
+      "confidence": "🟡",
+      "reject": false,
+      "reject_reason": null,
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "jc_reason_en": "It merits discussion because it directly tests the utility of synthetic images in machine learning and highlights image-domain effects and potential differences in high-risk case detection.",
+      "watch": true,
+      "watch_detail_ar": "راقب تطور تقنيات virtual NBI وAI لتصنيف آفات الحنجرة، مع ضرورة التحقق من أدائها على real-NBI وقياس أثرها السريري قبل اعتمادها.",
+      "watch_detail_en": "Track virtual NBI and AI tools for laryngeal lesion classification, while requiring validation on real NBI and evidence of clinical benefit before adoption.",
+      "watch_type": "technology",
+      "research_gap_ar": "يلزم تقييم نماذج Vir-NBI وWLI على مجموعات أكبر ومتنوعة من real-NBI مع قياس أثرها على قرارات التشخيص والنتائج السريرية.",
+      "research_gap_en": "Larger and more diverse real-NBI datasets are needed to compare Vir-NBI and WLI models and assess effects on diagnostic decisions and clinical outcomes.",
+      "subspecialty": "laryngology",
+      "audio_script_ar": "مرحبًا بكم في ORL Daily. تتناول هذه الدراسة ما إذا كان تحويل صور white-light imaging، أو WLI، إلى صور افتراضية تشبه narrow-band imaging، أو Vir-NBI، يساعد نماذج الذكاء الاصطناعي على تصنيف آفات الحنجرة عندما تكون بيانات real-NBI محدودة.\n\nطوّر الباحثون نموذج ResNet-50 باستخدام بيانات من 1245 مريضًا، ثم اختبروه خارجيًا لدى 311 مريضًا من مركزين، وأجروا أيضًا prospective validation لدى 138 مريضًا. كانت النتيجة الأساسية واضحة: لم يظهر Vir-NBI تفوقًا على WLI في image-level AUC الخارجي؛ بلغ الأداء 0.787 لـ Vir-NBI و0.806 لـ WLI، وكان الفرق غير دال إحصائيًا. وعند استخدام عدد صغير، مثل 10 مرضى لديهم real-NBI، كان patient-level AUC أقل مع Vir-NBI، كما فضلت منحنيات التعلم الخارجية WLI عمومًا.\n\nدعمت نتائج color-matched augmentation هذا الاتجاه، إذ كان أداء WLI أعلى من Vir-NBI. وأشارت تحليلات modality إلى أن أداء النموذج يتأثر بمدى توافق صور الاختبار مع نوع الصور التي تدرب عليها. في التحقق المستقبلي، كان patient-level AUC متقاربًا بين الطريقتين، لكن WLI كشف 60 من أصل 66 مريضًا عالي الخطورة، مقابل 54 مع Vir-NBI. أما تقييم الأطباء، فوجد أن معظم صور Vir-NBI بدت معقولة بصريًا؛ لكن plausibility لا تعني بالضرورة تحسين التشخيص أو النتائج.\n\nالخلاصة السريرية: لا تدعم هذه النتائج استبدال WLI بـ Vir-NBI في تدريب نماذج real-NBI أو تغيير الممارسة الحالية. أهمية الدراسة أنها تختبر فائدة إضافية مزعومة لتقنية توليد الصور، وتبين أن الصور الاصطناعية المقنعة قد لا تحسن الأداء، وربما تقلل اكتشاف بعض الحالات عالية الخطورة. ينبغي متابعة هذا المجال، لكن يلزم تحقق أكبر على real-NBI وقياس أثر النماذج على قرارات الأطباء والنتائج السريرية قبل اعتمادها.",
+      "audio_script_en": "Welcome to ORL Daily. This study asks whether translating white-light imaging, or WLI, into virtual narrow-band imaging, or Vir-NBI, can help artificial intelligence classify laryngeal lesions when pathology-labeled real-NBI data are scarce.\n\nThe investigators developed ResNet-50 models using data from 1,245 patients, then performed external validation in 311 patients from two centers and prospective validation in another 138 patients. The main finding was that Vir-NBI did not outperform WLI on external image-level AUC: the values were 0.787 for Vir-NBI and 0.806 for WLI, a nonsignificant difference. With a small real-NBI training set—for example, 10 labeled patients—patient-level AUC was lower after Vir-NBI pretraining, and external learning curves generally favored WLI.\n\nColor-matched augmentation supported the same direction, with higher performance for WLI than Vir-NBI. Modality analyses also suggested that model performance depends partly on whether test images match the image domain used for training. In prospective validation, patient-level AUCs were similar, but WLI identified 60 of 66 high-risk patients, compared with 54 using Vir-NBI. Clinicians considered most Vir-NBI images visually plausible, but visual plausibility does not establish improved diagnostic accuracy or clinical outcomes.\n\nThe clinical takeaway is that these results do not support replacing WLI with Vir-NBI for pretraining or changing current practice. The study is useful because it directly tests the claimed added value of synthetic-image generation and shows that convincing-looking images may not improve performance and could miss some high-risk cases. This technology remains worth tracking, but larger real-NBI validation and studies measuring effects on clinician decisions and patient outcomes are needed before adoption.",
+      "mcq": [
+        {
+          "q_ar": "ما النتيجة الأساسية للمقارنة الخارجية بين pretraining باستخدام Vir-NBI وWLI؟",
+          "q_en": "What was the main result of the external comparison between Vir-NBI and WLI pretraining?",
+          "options_ar": [
+            "أ) تفوق Vir-NBI بوضوح على WLI",
+            "ب) لم يثبت تفوق Vir-NBI على WLI",
+            "ج) تعذر حساب AUC لكلا النموذجين",
+            "د) كان الأداء متطابقًا تمامًا في جميع التحليلات"
+          ],
+          "options_en": [
+            "A) Vir-NBI clearly outperformed WLI",
+            "B) Vir-NBI did not demonstrate superiority over WLI",
+            "C) AUC could not be calculated for either model",
+            "D) Performance was identical in every analysis"
+          ],
+          "answer": 1,
+          "explanation_ar": "كان image-level AUC الخارجي 0.787 مع Vir-NBI و0.806 مع WLI، ولم يثبت التحليل تفوق Vir-NBI.",
+          "explanation_en": "External image-level AUC was 0.787 with Vir-NBI and 0.806 with WLI, providing no evidence that Vir-NBI was superior."
+        },
+        {
+          "q_ar": "ماذا أظهرت prospective validation بشأن اكتشاف high-risk patients؟",
+          "q_en": "What did prospective validation show about identifying high-risk patients?",
+          "options_ar": [
+            "أ) كشف Vir-NBI عددًا أكبر من WLI",
+            "ب) لم يكشف أي منهما حالات عالية الخطورة",
+            "ج) كشف WLI عددًا أكبر من Vir-NBI",
+            "د) كانت الحساسية 100% في كلا النموذجين"
+          ],
+          "options_en": [
+            "A) Vir-NBI identified more patients than WLI",
+            "B) Neither model identified any high-risk cases",
+            "C) WLI identified more patients than Vir-NBI",
+            "D) Sensitivity was 100% for both models"
+          ],
+          "answer": 2,
+          "explanation_ar": "حدد WLI عدد 60 من أصل 66 high-risk patients، مقابل 54 من أصل 66 مع Vir-NBI.",
+          "explanation_en": "WLI identified 60 of 66 high-risk patients, compared with 54 of 66 using Vir-NBI."
+        },
+        {
+          "q_ar": "ما الاستنتاج العملي الأنسب من هذه الدراسة؟",
+          "q_en": "What is the most appropriate practical conclusion from this study?",
+          "options_ar": [
+            "أ) اعتماد Vir-NBI بدل WLI فورًا",
+            "ب) إيقاف استخدام real-NBI في التقييم",
+            "ج) لا توجد حاليًا أدلة كافية لتفضيل Vir-NBI على WLI",
+            "د) استخدام Vir-NBI يغني عن التحقق الخارجي"
+          ],
+          "options_en": [
+            "A) Immediately adopt Vir-NBI instead of WLI",
+            "B) Stop using real NBI in assessment",
+            "C) There is currently insufficient evidence to prefer Vir-NBI over WLI",
+            "D) Vir-NBI removes the need for external validation"
+          ],
+          "answer": 2,
+          "explanation_ar": "لم تُظهر الدراسة فائدة إضافية لـ Vir-NBI، ولذلك لا تبرر تغيير الممارسة أو استبدال WLI.",
+          "explanation_en": "The study found no incremental benefit from Vir-NBI and therefore does not justify changing practice or replacing WLI."
+        }
+      ]
+    },
+    {
+      "pmid": "BIZ2026112701",
+      "title_ar": "ميدترونيك وكارل شتورز تتعاونان لتطوير حلول جراحية متكاملة في الأنف والأذن والحنجرة",
+      "title_en": "Medtronic and KARL STORZ Collaborate on Integrated ENT Surgical Solutions",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-27",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "أعلنت شركتا ميدترونيك وكارل شتورز عن تعاون يركز على حلول جراحية متكاملة في مجال الأنف والأذن والحنجرة، وفقًا لموقع ماس ديفايس. ولا يوضح العنوان المنتجات أو التقنيات التي ستُدمج، كما لا يقدم تفاصيل عن موعد الإتاحة أو الأسعار أو توقيت الإطلاق. ويشير الإعلان إلى شراكة بين شركتين راسختين في مجال الأجهزة الطبية، لكن يلزم توفر معلومات إضافية لتقييم نطاقها وانعكاساتها السريرية.",
+      "summary_en": "Medtronic and KARL STORZ have announced a collaboration focused on integrated surgical solutions for ear, nose and throat care, according to MassDevice. The headline does not specify which products or technologies will be combined, or provide details on availability, pricing or launch timing. The announcement signals a partnership between two established medical-device companies, but further information is needed to assess its scope and clinical implications.",
+      "practice_change_ar": "في الوقت الراهن، ينبغي لجراحي الأنف والأذن والحنجرة اعتبار هذا الإعلان شراكة تجارية لا تغييرًا في الممارسة السريرية، إلى حين توضيح الحلول وتوافرها.",
+      "practice_change_en": "For now, ENT surgeons should regard this as a corporate partnership announcement rather than a change to current clinical practice, pending details about the solutions and their availability.",
+      "future_impact_ar": "قد تشير الشراكة إلى توجه نحو أنظمة أكثر تكاملًا لغرف عمليات الأنف والأذن والحنجرة، لكن أهميتها العملية ستعتمد على المنتجات والأدلة وتفاصيل التطبيق التي ستُعلن لاحقًا.",
+      "future_impact_en": "The partnership may point toward more integrated ENT operating-room systems, with its practical significance depending on the products, evidence and implementation details disclosed later.",
+      "why_important_ar": "إذا أفضى التعاون إلى أدوات متوافقة ومتكاملة، فقد يؤثر في سير العمل الجراحي، لكن المعلومات المتاحة لا تثبت أي فوائد أو نتائج سريرية.",
+      "why_important_en": "If the collaboration produces compatible, integrated tools, it could affect surgical workflows, but no clinical benefits or outcomes are established by the information provided.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 2,
+      "stars_reason_ar": "خبر تجاري قد يهم اتجاهات تجهيزات غرف العمليات، لكن تفاصيل المنتجات والأثر السريري غير متاحة.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "إليكم موجزًا من أخبار قطاع الأنف والأذن والحنجرة. أعلنت ميدترونيك وكارل شتورز عن تعاون لتطوير حلول جراحية متكاملة في هذا التخصص، بحسب موقع ماس ديفايس. لكن الإعلان المتاح لا يحدد الأجهزة أو التقنيات التي ستشملها الشراكة، ولا يوضح موعد طرحها أو تكلفتها. لذلك لا يمكن في الوقت الحالي استنتاج أثر مباشر على اختيار الأدوات أو نتائج المرضى. بالنسبة للجراحين، يبقى الخبر إشارة إلى تعاون تجاري محتمل في مجال تجهيزات الجراحة، وليس تغييرًا في الممارسة اليومية. وستتضح أهميته عند نشر تفاصيل المنتجات، ومدى توافقها مع الأنظمة المستخدمة، وأي بيانات تثبت فائدتها السريرية. سنترقب المعلومات الإضافية لتقييم ما إذا كانت هذه الشراكة ستؤدي إلى تغييرات ملموسة في سير العمل داخل غرف العمليات.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026112702",
+      "title_ar": "شركات رائدة في طب الأنف والأذن والحنجرة تقود الابتكار في التكنولوجيا الطبية",
+      "title_en": "Leading ENT Companies Driving Medical Technology Innovation",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-27",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "يُعرض الخبر بوصفه نظرة عامة على الشركات التي تقود الابتكار في التكنولوجيا الطبية لطب الأنف والأذن والحنجرة. ولا يذكر الوصف المتاح شركات محددة أو منتجات أو صفقات أو قرارات تنظيمية أو نتائج سريرية. كما لا يتضمن معلومات عن استحواذ أو دعوى قضائية أو تحرك في أسعار الأسهم أو قرار من إدارة الغذاء والدواء الأمريكية. ويلزم الاطلاع على تفاصيل إضافية لتقييم الشركات أو التقنيات المقصودة.",
+      "summary_en": "The item is presented as an overview of companies driving innovation in ENT medical technology. The supplied description does not identify specific companies, products, transactions, regulatory decisions, or clinical findings. No acquisition, lawsuit, stock move, or FDA decision is reported in the available information. Further details would be needed to assess the companies or technologies discussed.",
+      "practice_change_ar": "لا تتضمن المعلومات المتاحة تقنية محددة أو أدلة سريرية تستدعي تغييراً في الممارسة اليومية لاختصاصيي الأنف والأذن والحنجرة.",
+      "practice_change_en": "The available information does not describe a specific technology or clinical evidence that would warrant a change in ENT practice.",
+      "future_impact_ar": "ينبغي لفرق الأنف والأذن والحنجرة متابعة تقارير لاحقة تحدد الشركات والتقنيات وتقيّم وضعها التنظيمي وقيمتها السريرية.",
+      "future_impact_en": "ENT teams should look for follow-up reporting that names the companies and technologies and evaluates their regulatory status and clinical value.",
+      "why_important_ar": "قد يؤثر الاتجاه الأوسع نحو الابتكار في التكنولوجيا الطبية على أدوات طب الأنف والأذن والحنجرة مستقبلاً، لكن الخبر لا يقدم تفاصيل سريرية قابلة للتطبيق.",
+      "why_important_en": "The broader trend of medical technology innovation may affect future ENT tools, but this item provides no actionable clinical details.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 1,
+      "stars_reason_ar": "الأهمية محدودة لأن الوصف لا يحدد شركات أو تقنيات أو نتائج سريرية قابلة للتقييم.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "يتناول هذا العنوان شركات رائدة يُقال إنها تقود الابتكار في التكنولوجيا الطبية بمجال الأنف والأذن والحنجرة. لكن المعلومات المتاحة لا تسمي هذه الشركات، ولا تحدد منتجات أو تقنيات بعينها، كما لا تعرض نتائج سريرية أو قرارات تنظيمية. لذلك لا يمكن استنتاج أن الخبر يشير إلى جهاز جديد أو تغيير في الممارسة، ولا توجد تفاصيل عن استحواذ أو دعوى قضائية أو تحرك في الأسهم. بالنسبة إلى أطباء الأنف والأذن والحنجرة، تظل القيمة العملية غير واضحة إلى أن تتوفر معلومات أكثر تحديداً عن التقنيات المطروحة وأدلتها السريرية ووضعها التنظيمي. يُنصح بمتابعة تغطية لاحقة تتضمن أسماء الشركات وتفاصيل الابتكارات وتقييم أثرها على رعاية المرضى.",
+      "mcq": []
+    },
+    {
+      "pmid": "BIZ2026112703",
+      "title_ar": "ميدترونيك تحصل على علامة CE لمنصة Stealth AXiS الروبوتية لجراحة الأنف والأذن والحنجرة",
+      "title_en": "Medtronic Earns CE Mark for Stealth AXiS Robot Platform in ENT Surgery",
+      "journal": "ENT Industry News",
+      "pub_date": "2026-11-27",
+      "doi": "",
+      "pubmed_url": "",
+      "pdf_url": null,
+      "summary_ar": "حصلت ميدترونيك على علامة CE لمنصة Stealth AXiS الروبوتية المخصصة للاستخدام في جراحة الأنف والأذن والحنجرة، وفقًا لموقع MassDevice. وتتيح العلامة للشركة تسويق المنصة في المنطقة الاقتصادية الأوروبية، مع الالتزام بالمتطلبات المعمول بها. ويمثل الإعلان محطة تنظيمية، ولا تتضمن المعلومات المتاحة تفاصيل عن النتائج السريرية أو موعد الإطلاق أو خطط التبني.",
+      "summary_en": "Medtronic has received a CE mark for its Stealth AXiS robot platform for use in ENT surgery, according to MassDevice. The mark enables the company to market the platform in the European Economic Area, subject to applicable requirements. The announcement concerns a regulatory milestone; the available information does not specify details such as clinical outcomes, launch timing, or adoption plans.",
+      "practice_change_ar": "قد تتيح علامة CE للجرّاحين الأوروبيين في الأنف والأذن والحنجرة الوصول إلى المنصة مستقبلًا، لكنها لا تعني بحد ذاتها توافرها فورًا أو حدوث تغيير في الممارسة السريرية.",
+      "practice_change_en": "The CE mark may eventually give European ENT surgeons access to the platform, but it does not by itself establish immediate availability or a change in clinical practice.",
+      "future_impact_ar": "تشمل المؤشرات المقبلة التي تستحق المتابعة بدء التوافر التجاري والخبرة السريرية وما إذا كانت المنصة ستثبت فوائد تبرر اعتمادها في إجراءات الأنف والأذن والحنجرة.",
+      "future_impact_en": "The next indicators to watch are commercial availability, clinical experience, and whether the platform demonstrates benefits that justify adoption in ENT procedures.",
+      "why_important_ar": "توسّع هذه الخطوة التنظيمية إمكانية إتاحة التقنية الروبوتية في مجال الأنف والأذن والحنجرة، فيما ستعتمد قيمتها العملية على الأدلة وإمكانية الوصول إليها ودمجها في سير العمل الجراحي.",
+      "why_important_en": "The regulatory milestone expands the potential availability of robotic technology in ENT, while its practical value will depend on evidence, access, and integration into surgical workflows.",
+      "vs_previous_ar": "",
+      "vs_previous_en": "",
+      "stars": 3,
+      "stars_reason_ar": "خطوة تنظيمية مهمة تفتح الباب أمام إتاحة المنصة في أوروبا، لكن أثرها السريري والتجاري لم يتضح بعد.",
+      "journal_club": false,
+      "jc_reason_ar": null,
+      "watch": false,
+      "watch_detail_ar": null,
+      "watch_type": null,
+      "research_gap_ar": null,
+      "subspecialty": "business",
+      "audio_script_ar": "في خبر يهم جراحي الأنف والأذن والحنجرة، حصلت ميدترونيك على علامة CE لمنصة Stealth AXiS الروبوتية المخصصة لجراحة هذا التخصص. تتيح هذه العلامة للشركة تسويق المنصة في المنطقة الاقتصادية الأوروبية وفق المتطلبات التنظيمية المعمول بها. لكن الحصول على العلامة لا يعني وحده أن النظام أصبح متاحًا فورًا في المستشفيات، ولا يثبت بحد ذاته تحسن النتائج الجراحية. ولم تتضمن المعلومات المنشورة تفاصيل عن موعد الإطلاق أو النتائج السريرية أو خطط التبني. بالنسبة إلى الجرّاحين، تمثل الخطوة توسعًا محتملًا في خيارات التقنية الروبوتية، بينما ستعتمد أهميتها العملية على سهولة الوصول والتكلفة والتدريب، إضافة إلى الأدلة التي تبين فائدتها ضمن سير العمل الجراحي. ومن المؤشرات التي يجدر متابعتها بدء التوافر التجاري والخبرة السريرية المبكرة.",
+      "mcq": []
+    }
+  ]
+}
